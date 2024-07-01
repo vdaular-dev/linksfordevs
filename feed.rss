@@ -7,320 +7,214 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
-      <title>Code Galaxies Visualization</title>
-      <link>https://anvaka.github.io/pm/</link>
-      <description>Code galaxies visualization allows you to explore huge graphs of software package managers (npm, go, ruby gems, composer, etc.)</description>
-      <author> (Andrei Kashcha)</author>
-      <guid>https://anvaka.github.io/pm/</guid>
-      <pubDate>Fri, 28 Jun 2024 11:00:58 GMT</pubDate>
+      <title>Open Source &amp;#39;Eclipse Theia IDE&amp;#39; Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine</title>
+      <link>https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx</link>
+      <description>Some seven years in the making, the Eclipse Foundation&amp;#39;s Theia IDE project is now generally available, emerging from beta to challenge Microsoft&amp;#39;s similar Visual Studio Code editor, with which it shares much tech.</description>
+      <author> (By David Ramel06/27/2024)</author>
+      <guid>https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>Tentative Roadmap for Wolverine 3.0</title>
-      <link>https://jeremydmiller.com/2024/06/26/tentative-roadmap-for-wolverine-3-0/</link>
-      <description>By the way, JasperFx Software offers support contracts or tailored consulting engagements to help your shop maximize your success with Wolverine. It’s an unfortunate fact of long running soft…</description>
-      <author> (jeremydmiller)</author>
-      <guid>https://jeremydmiller.com/2024/06/26/tentative-roadmap-for-wolverine-3-0/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:08 GMT</pubDate>
+      <title>Saving Data Historically with Temporal Tables: Part 1: Queries - Simple Talk</title>
+      <link>https://www.red-gate.com/simple-talk/databases/postgresql/saving-data-historically-with-temporal-tables-part-1-queries/</link>
+      <description>In this article we discuss how to store data temporally in PostgreSQL. Temporal database store data in a way that allows you to see not only what the</description>
+      <author> (Boris Novikov)</author>
+      <guid>https://www.red-gate.com/simple-talk/databases/postgresql/saving-data-historically-with-temporal-tables-part-1-queries/</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>Dev Proxy v0.19 with simulating LLM APIs and new Azure API Center integrations - Microsoft 365 Developer Blog</title>
-      <link>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-19-with-simulating-llm-apis-and-new-azure-api-center-integrations/</link>
-      <description>We&amp;#39;re excited to share the launch of Dev Proxy v0.19 to help you to build robust apps connected to APIs.</description>
-      <author> (Waldek Mastykarz)</author>
-      <guid>https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-19-with-simulating-llm-apis-and-new-azure-api-center-integrations/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:07 GMT</pubDate>
+      <title>Code in the cloud: Explore tools, training, and resources</title>
+      <link>https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-in-the-cloud-explore-tools-training-and-resources/ba-p/4178905</link>
+      <description>Harness the power of the cloud in your development workflow. Explore the latest tools, training, and resources and discover how the cloud can make you a more..</description>
+      <author> (https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/2015652)</author>
+      <guid>https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-in-the-cloud-explore-tools-training-and-resources/ba-p/4178905</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>Open challenges for AI engineering</title>
-      <link>https://simonwillison.net/2024/Jun/27/ai-worlds-fair/</link>
-      <description>I gave the opening keynote at the AI Engineer World’s Fair yesterday. I was a late addition to the schedule: OpenAI pulled out of their slot at the last minute, …</description>
-      <author> ()</author>
-      <guid>https://simonwillison.net/2024/Jun/27/ai-worlds-fair/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 things we learned from sponsoring a sampling of our open source dependencies&amp;#160; - Microsoft Open Source Blog</title>
-      <link>https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/</link>
-      <description>Microsoft is experimenting with and investing in sustainability of the open source ecosystem sponsorships. Learn more.</description>
-      <author> (Emma Irwin, Justin Gosses)</author>
-      <guid>https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Refactoring a .NET MAUI app to a Declarative UI using C# Markup</title>
-      <link>https://appmilla.com/latest/refactoring_a_functional_and_reactive_dotnet_maui_app_to_a_declarative_ui_using_csharp_markup/</link>
-      <description>Read the latest blog post on Appmilla.com</description>
-      <author> ()</author>
-      <guid>https://appmilla.com/latest/refactoring_a_functional_and_reactive_dotnet_maui_app_to_a_declarative_ui_using_csharp_markup/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Final Windows Handle Leak Guide</title>
-      <link>https://aloiskraus.wordpress.com/2024/06/24/the-final-windows-handle-leak-guide/</link>
-      <description>One of the harder lesson during development is how to deal with leaks. Most of the time you are leaking memory but sometimes also OS resources like Handles. These are more difficult to detect becau…</description>
-      <author> ()</author>
-      <guid>https://aloiskraus.wordpress.com/2024/06/24/the-final-windows-handle-leak-guide/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blazor Basics: Styling Blazor Components with CSS</title>
-      <link>https://www.telerik.com/blogs/blazor-basics-styling-blazor-components-css</link>
-      <description>Learn how CSS support in Blazor works and how CSS isolation solves one of the most frequent web development problems.</description>
-      <author> ()</author>
-      <guid>https://www.telerik.com/blogs/blazor-basics-styling-blazor-components-css</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is .NET Aspire NuGet for Cloud Service Dependencies?</title>
-      <link>https://haacked.com/archive/2024/06/27/dotnet-aspire/</link>
-      <description>.NET Aspire has similar goals to NuGet in that it aims to streamline the number of steps it takes to incorporate a cloud service into a project. But Aspire has goals that are more far-reaching than NuGet.</description>
-      <author> (Phil Haack)</author>
-      <guid>https://haacked.com/archive/2024/06/27/dotnet-aspire/</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure Static Web Apps–SWA CLI behind the scenes</title>
-      <link>https://bartwullems.blogspot.com/2024/06/azure-static-web-appsswa-cli-behind.html</link>
-      <description>As a follow-up on the presentation I did at CloudBrew  about Azure Static Web Apps I want to write a series of blog posts.      Part I - Usi...</description>
+      <title>Publish a console app as a single executable</title>
+      <link>https://bartwullems.blogspot.com/2024/06/publish-console-app-as-single-executable.html</link>
+      <description>I created a small console application that automatically adds the application pool users on your local IIS server to the correct groups on t...</description>
       <author> (Share)</author>
-      <guid>https://bartwullems.blogspot.com/2024/06/azure-static-web-appsswa-cli-behind.html</guid>
-      <pubDate>Fri, 28 Jun 2024 06:01:05 GMT</pubDate>
+      <guid>https://bartwullems.blogspot.com/2024/06/publish-console-app-as-single-executable.html</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>Valve.Computer</title>
-      <link>https://www.valve.computer/</link>
-      <description>Valve.Computer</description>
+      <title>RavenDB News: June, 2024</title>
+      <link>https://ayende.com/blog/201250-A/ravendb-news-june-2024?Key=86f9cdba-4fff-4cad-913d-6831eb507a4d</link>
+      <description>We recently published an article on Getting started with GraphQL and RavenDB, it will walk you through setting up Hot Chocolate&amp;amp;nbsp;to create a RavenDB-base...</description>
       <author> ()</author>
-      <guid>https://www.valve.computer/</guid>
-      <pubDate>Fri, 28 Jun 2024 03:00:58 GMT</pubDate>
+      <guid>https://ayende.com/blog/201250-A/ravendb-news-june-2024?Key=86f9cdba-4fff-4cad-913d-6831eb507a4d</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>55 Questions I Ask Before I Buy a Business</title>
-      <link>https://bernhard.hauser.io/55-questions-i-ask-before-i-buy-a-business/</link>
-      <description>When evaluating a new acquisition opportunity at Waterglass, I follow a simple process: asking lots of questions.
+      <title>Release v2.16.41 &amp;#183; WinMerge/winmerge</title>
+      <link>https://github.com/WinMerge/winmerge/releases/tag/v2.16.41</link>
+      <description>WinMerge 2.16.41 Beta Release Notes
 
+About This Release
+What Is New in 2.16.41 beta?
+Known issues
 
-First, when I check out a listing like the one in the video below, I try to ask myself high-level questions about the business, such as...
-
-
- * What is the opportunity with this business?</description>
+June 2024
+About This Release
+This is a WinMerge beta release which is meant for preview the curren...</description>
       <author> ()</author>
-      <guid>https://bernhard.hauser.io/55-questions-i-ask-before-i-buy-a-business/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:26 GMT</pubDate>
+      <guid>https://github.com/WinMerge/winmerge/releases/tag/v2.16.41</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>Deconference</title>
-      <link>https://dmz.rs/deconference</link>
-      <description>Deconference is the inaugural conference organized by Decentrala, a Belgrade hackerspace. It serves as a platform for individuals to present and discuss ideas related to decentralization in all its forms.</description>
+      <title>Is Your ASP.NET Core Application Running In A Container?</title>
+      <link>https://adamstorr.co.uk/blog/is-your-aspnet-core-application-running-in-a-container/</link>
+      <description>Ever needed to know at runtime if your application is running in a container? It’s super simple to check!</description>
       <author> ()</author>
-      <guid>https://dmz.rs/deconference</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:26 GMT</pubDate>
+      <guid>https://adamstorr.co.uk/blog/is-your-aspnet-core-application-running-in-a-container/</guid>
+      <pubDate>Mon, 01 Jul 2024 06:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>Using PHP Attributes to Create and Use a Custom Validator in Symfony</title>
-      <link>https://chrisshennan.com/blog/using-php-attributes-to-create-and-use-a-custom-validator-in-symfony</link>
-      <description>Using PHP attributes to define custom validators in Symfony can enhance code readability and leverage modern PHP features.</description>
+      <title>We Created A Fake Delivery Company</title>
+      <link>https://blog.kashevko.com/we-created-a-fake-delivery-company-3/</link>
+      <description>/imagine one day randomly finding yourself in a foreign country thousands of kilometres away from home. Your own country is suddenly at war, and all you have is a backpack hanging off your back.
+That’s a weird situation to be in. But you have to figure something out.
+So starting a fake delivery company sounds like the most reasonable solution.</description>
       <author> ()</author>
-      <guid>https://chrisshennan.com/blog/using-php-attributes-to-create-and-use-a-custom-validator-in-symfony</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:25 GMT</pubDate>
+      <guid>https://blog.kashevko.com/we-created-a-fake-delivery-company-3/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>Getting Boxes Done, the Code</title>
-      <link>https://howardism.org/Technical/Emacs/getting-more-boxes-done.html</link>
-      <description>Benjamin Franklin once wrote,</description>
+      <title>How I scraped 6 years of Reddit posts in JSON</title>
+      <link>https://afficone.com/blog/how-i-scraped-6-years-of-reddit-posts/</link>
+      <description>Have you ever wondered how many startups actually fail? People love to…</description>
+      <author> (Kristiyan Dimitrov)</author>
+      <guid>https://afficone.com/blog/how-i-scraped-6-years-of-reddit-posts/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Franklin Pezzuti Dyer</title>
+      <link>https://franklin.dyer.me/post/228</link>
+      <description>Suppose you are tasked with designing a data structure consisting of values that can be compared with one another, and that this data structure must support two operations: insertion and lookup. At any moment, you may either be given a value and asked to insert it into your structure, or given a value and asked to say whether it is already present in your structure. The &amp;quot;computational complexity&amp;quot; of these two operations will be evaluated purely in terms of how many comparison operations they carry out on the provided data, so you don&amp;#39;t need to worry about memory complexity, time complexity, or anything like that. Think of this problem as being analogous to a balance puzzle.</description>
       <author> ()</author>
-      <guid>https://howardism.org/Technical/Emacs/getting-more-boxes-done.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:25 GMT</pubDate>
+      <guid>https://franklin.dyer.me/post/228</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
     </item>
     <item>
-      <title>Always Scrutinize Legacy KPIs and Processes</title>
-      <link>https://anamaps.com/blog/update-legacy-kpis-and-processes</link>
-      <description>Legacy KPIs and processes can seem benign enough by only reducing efficiency by 2% but enough of them can compound together to create huge inefficiency.</description>
-      <author> (Alex Schlee)</author>
-      <guid>https://anamaps.com/blog/update-legacy-kpis-and-processes</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:24 GMT</pubDate>
+      <title>Automating my gate door</title>
+      <link>https://arslan.io/2024/06/30/automating-my-gate-door-with-zigbee-relay/</link>
+      <description>How to automate a gate door without remote capabilities using a smart relay and integrate it into HomeKit via Home Assistant.</description>
+      <author> (Fatih Arslan)</author>
+      <guid>https://arslan.io/2024/06/30/automating-my-gate-door-with-zigbee-relay/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
     </item>
     <item>
-      <title>20 Years of Gmail | tbolt</title>
-      <link>https://tbolt.space/2024/6/25/20-years-of-gmail</link>
-      <description>This is tbolt&amp;#39;s weblog about ui design, computer programming, and other topics</description>
+      <title>Chaos Engineering in Frontend Development: A Comprehensive Guide to Enhancing Application Resilience</title>
+      <link>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</link>
+      <description>In the dynamic world of web development, ensuring the resilience and reliability of frontend applications has become increasingly critical. As user expectations soar and application complexity grows, developers must adopt robust strategies to maintain high-quality, fault-tolerant systems. Enter Chaos Engineering – a discipline traditionally associated with backend systems and infrastructure, now making significant inroads into frontend development.
+This comprehensive guide explores how applying Chaos Engineering principles to frontend applications can dramatically enhance their resilience, improve user experience, and help teams build more robust web applications.</description>
+      <author> (Omid Farhang)</author>
+      <guid>https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git: please stop squash merging!</title>
+      <link>https://lucasoshiro.github.io/posts-en/2024-04-08-please_dont_squash/</link>
+      <description>At least not before reading this!</description>
+      <author> (Lucas Seiki Oshiro)</author>
+      <guid>https://lucasoshiro.github.io/posts-en/2024-04-08-please_dont_squash/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Convolutions, Fast Fourier Transform and Polynomials</title>
+      <link>https://www.alvarorevuelta.com/posts/fft-polynomials</link>
+      <description>Engineer</description>
+      <author> (/about/)</author>
+      <guid>https://www.alvarorevuelta.com/posts/fft-polynomials</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feeding the Baby</title>
+      <link>https://allenpike.com/2024/feeding-the-baby-2</link>
+      <description>On accidentally becoming a CEO.</description>
       <author> ()</author>
-      <guid>https://tbolt.space/2024/6/25/20-years-of-gmail</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:24 GMT</pubDate>
+      <guid>https://allenpike.com/2024/feeding-the-baby-2</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
     </item>
     <item>
-      <title>Revisiting Test Sizes</title>
-      <link>https://matttproud.com/blog/posts/revisiting-test-sizes.html</link>
-      <description>Conventionally software engineers have reasoned with how expensive a test is by classifying how it exercises the system under test (SUT): unit, integration, or functional. Each successive one being more — for some definition of —&amp;#160;“expensive” than the previous.
-This works fine as an approximation, but it starts to break down as nuances of what the test is doing and how are put into view:
-there are unit tests that are slow there are functional tests that are fast Internally Google has had a concept of test sizes (expanded definition) since as far back as I can remember.</description>
+      <title>The End of OpenDNS in France: A Comprehensive Overview</title>
+      <link>https://anass.ch/posts/opendns_unavailable/</link>
+      <description>Understanding the Legal and Technical Implications.</description>
+      <author> (Anass)</author>
+      <guid>https://anass.ch/posts/opendns_unavailable/</guid>
+      <pubDate>Mon, 01 Jul 2024 00:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>POSIX 2024 Changes</title>
+      <link>https://sortix.org/blog/posix-2024/</link>
+      <description>POSIX.1-2024 has just been released with a lot of exciting and interesting
+improvements and removals compared to POSIX-1.2008. The html version of the
+standard has not been uploaded yet as of this writing. The official list of new
+functions in the standard itself is very incomplete, so I combed through the
+CHANGE HISTORY sections in the official pdf, and I present you with the most
+accurate list of the changes so far.</description>
       <author> ()</author>
-      <guid>https://matttproud.com/blog/posts/revisiting-test-sizes.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:24 GMT</pubDate>
+      <guid>https://sortix.org/blog/posix-2024/</guid>
+      <pubDate>Sun, 30 Jun 2024 22:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>Rabbit hole full of hardcoded credentials by Mārtiņš Irbe</title>
-      <link>https://martins.irbe.dev/2024/rabbit-hole-full-of-hardcoded-credentials</link>
-      <description>An in-depth look at Rabbit Inc.&amp;#39;s data breach, revealing critical security flaws, including hardcoded credentials. This article explores the implications of ...</description>
+      <title>GitHub - poundifdef/SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency.</title>
+      <link>https://github.com/poundifdef/SmoothMQ</link>
+      <description>A drop-in replacement for SQS designed for great developer experience and efficiency.  - GitHub - poundifdef/SmoothMQ: A drop-in replacement for SQS designed for great developer experience and effi...</description>
+      <author> (poundifdef)</author>
+      <guid>https://github.com/poundifdef/SmoothMQ</guid>
+      <pubDate>Sun, 30 Jun 2024 21:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - goldmansachs/gs-quant: Python toolkit for quantitative finance</title>
+      <link>https://github.com/goldmansachs/gs-quant</link>
+      <description>Python toolkit for quantitative finance. Contribute to goldmansachs/gs-quant development by creating an account on GitHub.</description>
+      <author> (goldmansachs)</author>
+      <guid>https://github.com/goldmansachs/gs-quant</guid>
+      <pubDate>Sun, 30 Jun 2024 15:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do a firmware update for your AirPods – now – Jonas’ Blog</title>
+      <link>https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/</link>
+      <description>tldr: There’s a security vulnerability (CVE-2024-27867) in the firmware of Apple AirPods. Anyone who knows the Bluetooth MAC address (which is somewhat public) can connect to your AirPods and listen to the microphone or play music. Even while the AirPods are connected to your phone (although music would stop playing in case somebody turns on the microphone).</description>
       <author> ()</author>
-      <guid>https://martins.irbe.dev/2024/rabbit-hole-full-of-hardcoded-credentials</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:24 GMT</pubDate>
+      <guid>https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/</guid>
+      <pubDate>Sun, 30 Jun 2024 13:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>Half-Life and it&amp;#39;s failed OS 9 port</title>
-      <link>https://blog.greggant.com/posts/2024/06/24/half-life-for-the-mac-canceled-and-revived.html</link>
-      <description>This is the story of real reason Half-Life almost didn&amp;#39;t come to the Mac, and how you can play it today</description>
-      <author> (http://blog.greggant.com/about/)</author>
-      <guid>https://blog.greggant.com/posts/2024/06/24/half-life-for-the-mac-canceled-and-revived.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>A primer on GFP and esmGFP</title>
-      <link>https://www.abhishaike.com/p/a-primer-on-gfp-and-esmgfp</link>
-      <description>2.6k words, 12 minutes reading time</description>
-      <author> (Abhishaike Mahajan)</author>
-      <guid>https://www.abhishaike.com/p/a-primer-on-gfp-and-esmgfp</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digital meets Physical: Risograph Printing with WebGL | Codrops</title>
-      <link>https://tympanus.net/codrops/2024/06/27/digital-meets-physical-risograph-printing-with-webgl/</link>
-      <description>Learn how to create a custom tool for printing Riso posters using Three.js.</description>
-      <author> (By 
-								                        Maximilian Berndt)</author>
-      <guid>https://tympanus.net/codrops/2024/06/27/digital-meets-physical-risograph-printing-with-webgl/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keep a Safe Following Distance</title>
-      <link>https://two-wrongs.com/keep-a-safe-following-distance.html</link>
-      <description>Here’s a public service announcement to keep you safe on the road during the
-highest flow rate months of summer.</description>
-      <author> (kqr)</author>
-      <guid>https://two-wrongs.com/keep-a-safe-following-distance.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every Trick in the Book</title>
-      <link>https://gebir.ge/blog/every-trick-in-the-book/</link>
-      <description>“Reading brings us unknown friends.&amp;quot;</description>
-      <author> (Frederic Linn)</author>
-      <guid>https://gebir.ge/blog/every-trick-in-the-book/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making the world my single point of failure with PostgreSQL</title>
-      <link>https://www.gabrielebartolini.it/articles/2024/06/making-the-world-my-single-point-of-failure-with-postgresql/</link>
-      <description>The upcoming CloudNativePG 1.24 introduces a game-changing feature: the ability
-to declaratively manage PostgreSQL cluster switchover across cloud regions or
-different Kubernetes clusters. This advancement enables the seamless demotion
-of a primary cluster and the promotion of a replica cluster in another region
-without the need to re-clone the former primary. This innovation significantly
-revolutionises database management practices, enhancing efficiency and
-reliability in multi-region and multi-cluster environments.
-CloudNativePG, traditionally confined to single Kubernetes clusters, is now
-expanded its functionality to support distributed PostgreSQL topologies across
-multiple regions. This enhancement leverages declarative configurations to
-manage coordinated promotions, ensuring a single primary instance at any time.
-Based on PostgreSQL’s primary/standby architecture, this setup is designed to
-maintain operational continuity and cater to various deployment scenarios,
-including hybrid and multi-cloud environments. The new capabilities
-significantly improve high availability and disaster recovery by mitigating the
-risks associated with single points of failure in PostgreSQL deployments within
-Kubernetes.</description>
-      <author> (Gabriele Bartolini)</author>
-      <guid>https://www.gabrielebartolini.it/articles/2024/06/making-the-world-my-single-point-of-failure-with-postgresql/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Servers don&amp;#39;t like it hot &amp;#128293; - Leahs Gedanken</title>
-      <link>https://leah.is/notes/hot-servers-are-not-good/</link>
+      <title>FUTO Keyboard</title>
+      <link>https://keyboard.futo.org/</link>
       <description></description>
       <author> ()</author>
-      <guid>https://leah.is/notes/hot-servers-are-not-good/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:21 GMT</pubDate>
+      <guid>https://keyboard.futo.org/</guid>
+      <pubDate>Sun, 30 Jun 2024 13:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>Rounding percentages - tavianator.com</title>
-      <link>https://tavianator.com/2024/percent.html</link>
-      <description>2024-06-21
- Tavian Barnes</description>
+      <title>Unleashing the Power of Copilot: Enhancing Visual Studio with New Slash Commands</title>
+      <link>https://dotnettips.wordpress.com/2024/06/30/unleashing-the-power-of-copilot-enhancing-visual-studio-with-new-slash-commands/</link>
+      <description>In 2024 at Microsoft Build, new Copilot features were introduced in Visual Studio, including helpful slash commands for tasks like adding comments, explaining code, proposing fixes, generating code…</description>
+      <author> (Published by dotNetDave)</author>
+      <guid>https://dotnettips.wordpress.com/2024/06/30/unleashing-the-power-of-copilot-enhancing-visual-studio-with-new-slash-commands/</guid>
+      <pubDate>Sun, 30 Jun 2024 10:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - docmost/docmost: Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions.</title>
+      <link>https://github.com/docmost/docmost</link>
+      <description>Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions. - docmost/docmost</description>
+      <author> (docmost)</author>
+      <guid>https://github.com/docmost/docmost</guid>
+      <pubDate>Sun, 30 Jun 2024 09:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside a 1 dollar radar motion sensor</title>
+      <link>https://10maurycy10.github.io/projects/motion_sensor_hacking/</link>
+      <description>Jun 28, 2024
+(Electronics)
+(Wireless communication and power)</description>
       <author> ()</author>
-      <guid>https://tavianator.com/2024/percent.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Industrial macros</title>
-      <link>https://blog.sbensu.com/posts/industrial-macros/</link>
-      <description>Most industry codebases use macros, aka code-generation to solve practical problems like talking to the database.</description>
-      <author> ()</author>
-      <guid>https://blog.sbensu.com/posts/industrial-macros/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skip and Kotlin Multiplatform</title>
-      <link>https://skip.tools/blog/skip-and-kotlin-multiplatform/</link>
-      <description>Skip is a Swift to Kotlin transpiler</description>
-      <author> (The Skip Team)</author>
-      <guid>https://skip.tools/blog/skip-and-kotlin-multiplatform/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>#9 - Am I overengineering my code?</title>
-      <link>https://seaotter.games/blog/am-i-overengineering-my-code</link>
-      <description>Recently, I thought about implementing a little tool class into my project&amp;#39;s code. A few hours, it struck me that this tool would most likely not be as useful as expected and might be somewhat of an overengineering. Here&amp;#39;s my reflexion on overengineering.</description>
-      <author> ()</author>
-      <guid>https://seaotter.games/blog/am-i-overengineering-my-code</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Enabling NVMe Support on Supermicro C7Z97-MF Motherboard</title>
-      <link>https://blog.jarmosz.uk/posts/nvme-support-on-supermicro-c7z97-mf/</link>
-      <description>I recently hit a bit of a roadblock. My Supermicro C7Z97-MF motherboard has been a reliable part of my setup for years, but I wanted to upgrade to an NVMe drive for faster storage. The catch? My motherboard doesn’t support NVMe out of the box. Instead of forking out for a new motherboard, I decided to try updating the BIOS to add NVMe support. Here’s my journey on how I got it done.</description>
-      <author> ()</author>
-      <guid>https://blog.jarmosz.uk/posts/nvme-support-on-supermicro-c7z97-mf/</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Ditched Django for NextJS</title>
-      <link>https://www.billprin.com/articles/why-i-ditched-django-for-nextjs</link>
-      <description>Why I made the switch away from Python frameworks like Django and Flask to NextJS</description>
-      <author> ()</author>
-      <guid>https://www.billprin.com/articles/why-i-ditched-django-for-nextjs</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>My .gitconfig file dissected | Kiran Rao</title>
-      <link>https://kiranrao.ca/2024/06/21/git-config.html</link>
-      <description>This is my .gitconfig1. Many are like it, but this one is mine.            This is not actually my .gitignore. It’s pretty close. I’ve rearranged and om...</description>
-      <author> (Kiran Rao)</author>
-      <guid>https://kiranrao.ca/2024/06/21/git-config.html</guid>
-      <pubDate>Fri, 28 Jun 2024 00:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Larry Finger made Linux wireless work and brought others along to learn</title>
-      <link>https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</link>
-      <description>Remembering Finger, 84, who learned as he went and left his mark on many.</description>
-      <author> (Kevin Purdy
-    -    6/24/2024, 12:21 PM)</author>
-      <guid>https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</guid>
-      <pubDate>Thu, 27 Jun 2024 22:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Google Sheets ported its calculation worker from JavaScript to WasmGC &amp;#160;|&amp;#160; web.dev</title>
-      <link>https://web.dev/case-studies/google-sheets-wasmgc</link>
-      <description>Calculations in Google Sheets were initially done on the server, then on the client in JavaScript, and now on the client in WebAssembly Garbage Collection. This case study explains how and why.</description>
-      <author> (Michael Thomas)</author>
-      <guid>https://web.dev/case-studies/google-sheets-wasmgc</guid>
-      <pubDate>Thu, 27 Jun 2024 18:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing a remove_all_pointers type trait, part 1 - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20240627-00/?p=109940</link>
-      <description>Delaying the expansion to avoid infinite recursion.</description>
-      <author> (Raymond Chen)</author>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20240627-00/?p=109940</guid>
-      <pubDate>Thu, 27 Jun 2024 15:01:04 GMT</pubDate>
+      <guid>https://10maurycy10.github.io/projects/motion_sensor_hacking/</guid>
+      <pubDate>Sun, 30 Jun 2024 09:00:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

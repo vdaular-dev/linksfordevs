@@ -1,290 +1,194 @@
 [
   {
-    "Title": "Code Galaxies Visualization",
-    "Url": "https://anvaka.github.io/pm/",
-    "Timestamp": "2024-06-28T11:00:58",
-    "Domain": "anvaka.github.io",
-    "Description": "Code galaxies visualization allows you to explore huge graphs of software package managers (npm, go, ruby gems, composer, etc.)",
-    "Confidence": 0.9815382
+    "Title": "Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx",
+    "Timestamp": "2024-07-01T06:01:11",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Some seven years in the making, the Eclipse Foundation's Theia IDE project is now generally available, emerging from beta to challenge Microsoft's similar Visual Studio Code editor, with which it shares much tech.",
+    "Confidence": 0.9572515
   },
   {
-    "Title": "Tentative Roadmap for Wolverine 3.0",
-    "Url": "https://jeremydmiller.com/2024/06/26/tentative-roadmap-for-wolverine-3-0/",
-    "Timestamp": "2024-06-28T06:01:08",
-    "Domain": "jeremydmiller.com",
-    "Description": "By the way, JasperFx Software offers support contracts or tailored consulting engagements to help your shop maximize your success with Wolverine. It’s an unfortunate fact of long running soft…",
-    "Confidence": 0.989822
+    "Title": "Saving Data Historically with Temporal Tables: Part 1: Queries - Simple Talk",
+    "Url": "https://www.red-gate.com/simple-talk/databases/postgresql/saving-data-historically-with-temporal-tables-part-1-queries/",
+    "Timestamp": "2024-07-01T06:01:09",
+    "Domain": "www.red-gate.com",
+    "Description": "In this article we discuss how to store data temporally in PostgreSQL. Temporal database store data in a way that allows you to see not only what the",
+    "Confidence": 0.97943515
   },
   {
-    "Title": "Dev Proxy v0.19 with simulating LLM APIs and new Azure API Center integrations - Microsoft 365 Developer Blog",
-    "Url": "https://devblogs.microsoft.com/microsoft365dev/dev-proxy-v0-19-with-simulating-llm-apis-and-new-azure-api-center-integrations/",
-    "Timestamp": "2024-06-28T06:01:07",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "We're excited to share the launch of Dev Proxy v0.19 to help you to build robust apps connected to APIs.",
-    "Confidence": 0.9991448
+    "Title": "Code in the cloud: Explore tools, training, and resources",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/code-in-the-cloud-explore-tools-training-and-resources/ba-p/4178905",
+    "Timestamp": "2024-07-01T06:01:08",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Harness the power of the cloud in your development workflow. Explore the latest tools, training, and resources and discover how the cloud can make you a more..",
+    "Confidence": 0.999267
   },
   {
-    "Title": "Open challenges for AI engineering",
-    "Url": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
-    "Timestamp": "2024-06-28T06:01:06",
-    "Domain": "simonwillison.net",
-    "Description": "I gave the opening keynote at the AI Engineer World’s Fair yesterday. I was a late addition to the schedule: OpenAI pulled out of their slot at the last minute, …",
-    "Confidence": 0.9899173
-  },
-  {
-    "Title": "5 things we learned from sponsoring a sampling of our open source dependencies  - Microsoft Open Source Blog",
-    "Url": "https://opensource.microsoft.com/blog/2024/06/27/5-things-we-learned-from-sponsoring-a-sampling-of-our-open-source-dependencies/",
-    "Timestamp": "2024-06-28T06:01:06",
-    "Domain": "opensource.microsoft.com",
-    "Description": "Microsoft is experimenting with and investing in sustainability of the open source ecosystem sponsorships. Learn more.",
-    "Confidence": 0.9273823
-  },
-  {
-    "Title": "Refactoring a .NET MAUI app to a Declarative UI using C# Markup",
-    "Url": "https://appmilla.com/latest/refactoring_a_functional_and_reactive_dotnet_maui_app_to_a_declarative_ui_using_csharp_markup/",
-    "Timestamp": "2024-06-28T06:01:06",
-    "Domain": "appmilla.com",
-    "Description": "Read the latest blog post on Appmilla.com",
-    "Confidence": 0.9967756
-  },
-  {
-    "Title": "The Final Windows Handle Leak Guide",
-    "Url": "https://aloiskraus.wordpress.com/2024/06/24/the-final-windows-handle-leak-guide/",
-    "Timestamp": "2024-06-28T06:01:05",
-    "Domain": "aloiskraus.wordpress.com",
-    "Description": "One of the harder lesson during development is how to deal with leaks. Most of the time you are leaking memory but sometimes also OS resources like Handles. These are more difficult to detect becau…",
-    "Confidence": 0.9985577
-  },
-  {
-    "Title": "Blazor Basics: Styling Blazor Components with CSS",
-    "Url": "https://www.telerik.com/blogs/blazor-basics-styling-blazor-components-css",
-    "Timestamp": "2024-06-28T06:01:05",
-    "Domain": "www.telerik.com",
-    "Description": "Learn how CSS support in Blazor works and how CSS isolation solves one of the most frequent web development problems.",
-    "Confidence": 0.99561965
-  },
-  {
-    "Title": "Is .NET Aspire NuGet for Cloud Service Dependencies?",
-    "Url": "https://haacked.com/archive/2024/06/27/dotnet-aspire/",
-    "Timestamp": "2024-06-28T06:01:05",
-    "Domain": "haacked.com",
-    "Description": ".NET Aspire has similar goals to NuGet in that it aims to streamline the number of steps it takes to incorporate a cloud service into a project. But Aspire has goals that are more far-reaching than NuGet.",
-    "Confidence": 0.9979291
-  },
-  {
-    "Title": "Azure Static Web Apps–SWA CLI behind the scenes",
-    "Url": "https://bartwullems.blogspot.com/2024/06/azure-static-web-appsswa-cli-behind.html",
-    "Timestamp": "2024-06-28T06:01:05",
+    "Title": "Publish a console app as a single executable",
+    "Url": "https://bartwullems.blogspot.com/2024/06/publish-console-app-as-single-executable.html",
+    "Timestamp": "2024-07-01T06:01:08",
     "Domain": "bartwullems.blogspot.com",
-    "Description": "As a follow-up on the presentation I did at CloudBrew  about Azure Static Web Apps I want to write a series of blog posts.      Part I - Usi...",
-    "Confidence": 0.99791247
+    "Description": "I created a small console application that automatically adds the application pool users on your local IIS server to the correct groups on t...",
+    "Confidence": 0.9982325
   },
   {
-    "Title": "Valve.Computer",
-    "Url": "https://www.valve.computer/",
-    "Timestamp": "2024-06-28T03:00:58",
-    "Domain": "www.valve.computer",
-    "Description": "Valve.Computer",
-    "Confidence": 0.895733
+    "Title": "RavenDB News: June, 2024",
+    "Url": "https://ayende.com/blog/201250-A/ravendb-news-june-2024?Key=86f9cdba-4fff-4cad-913d-6831eb507a4d",
+    "Timestamp": "2024-07-01T06:01:08",
+    "Domain": "ayende.com",
+    "Description": "We recently published an article on Getting started with GraphQL and RavenDB, it will walk you through setting up Hot Chocolate&nbsp;to create a RavenDB-base...",
+    "Confidence": 0.9954735
   },
   {
-    "Title": "55 Questions I Ask Before I Buy a Business",
-    "Url": "https://bernhard.hauser.io/55-questions-i-ask-before-i-buy-a-business/",
-    "Timestamp": "2024-06-28T00:01:26",
-    "Domain": "bernhard.hauser.io",
-    "Description": "When evaluating a new acquisition opportunity at Waterglass, I follow a simple process: asking lots of questions.\n\n\nFirst, when I check out a listing like the one in the video below, I try to ask myself high-level questions about the business, such as...\n\n\n * What is the opportunity with this business?",
-    "Confidence": 0.97900987
+    "Title": "Release v2.16.41 · WinMerge/winmerge",
+    "Url": "https://github.com/WinMerge/winmerge/releases/tag/v2.16.41",
+    "Timestamp": "2024-07-01T06:01:07",
+    "Domain": "github.com",
+    "Description": "WinMerge 2.16.41 Beta Release Notes\n\nAbout This Release\nWhat Is New in 2.16.41 beta?\nKnown issues\n\nJune 2024\nAbout This Release\nThis is a WinMerge beta release which is meant for preview the curren...",
+    "Confidence": 0.9801368
   },
   {
-    "Title": "Deconference",
-    "Url": "https://dmz.rs/deconference",
-    "Timestamp": "2024-06-28T00:01:26",
-    "Domain": "dmz.rs",
-    "Description": "Deconference is the inaugural conference organized by Decentrala, a Belgrade hackerspace. It serves as a platform for individuals to present and discuss ideas related to decentralization in all its forms.",
-    "Confidence": 0.8944404
+    "Title": "Is Your ASP.NET Core Application Running In A Container?",
+    "Url": "https://adamstorr.co.uk/blog/is-your-aspnet-core-application-running-in-a-container/",
+    "Timestamp": "2024-07-01T06:01:07",
+    "Domain": "adamstorr.co.uk",
+    "Description": "Ever needed to know at runtime if your application is running in a container? It’s super simple to check!",
+    "Confidence": 0.9941541
   },
   {
-    "Title": "Using PHP Attributes to Create and Use a Custom Validator in Symfony",
-    "Url": "https://chrisshennan.com/blog/using-php-attributes-to-create-and-use-a-custom-validator-in-symfony",
-    "Timestamp": "2024-06-28T00:01:25",
-    "Domain": "chrisshennan.com",
-    "Description": "Using PHP attributes to define custom validators in Symfony can enhance code readability and leverage modern PHP features.",
-    "Confidence": 0.9983708
+    "Title": "We Created A Fake Delivery Company",
+    "Url": "https://blog.kashevko.com/we-created-a-fake-delivery-company-3/",
+    "Timestamp": "2024-07-01T00:01:09",
+    "Domain": "blog.kashevko.com",
+    "Description": "/imagine one day randomly finding yourself in a foreign country thousands of kilometres away from home. Your own country is suddenly at war, and all you have is a backpack hanging off your back.\nThat’s a weird situation to be in. But you have to figure something out.\nSo starting a fake delivery company sounds like the most reasonable solution.",
+    "Confidence": 0.803009
   },
   {
-    "Title": "Getting Boxes Done, the Code",
-    "Url": "https://howardism.org/Technical/Emacs/getting-more-boxes-done.html",
-    "Timestamp": "2024-06-28T00:01:25",
-    "Domain": "howardism.org",
-    "Description": "Benjamin Franklin once wrote,",
-    "Confidence": 0.9916471
+    "Title": "How I scraped 6 years of Reddit posts in JSON",
+    "Url": "https://afficone.com/blog/how-i-scraped-6-years-of-reddit-posts/",
+    "Timestamp": "2024-07-01T00:01:06",
+    "Domain": "afficone.com",
+    "Description": "Have you ever wondered how many startups actually fail? People love to…",
+    "Confidence": 0.9437553
   },
   {
-    "Title": "Always Scrutinize Legacy KPIs and Processes",
-    "Url": "https://anamaps.com/blog/update-legacy-kpis-and-processes",
-    "Timestamp": "2024-06-28T00:01:24",
-    "Domain": "anamaps.com",
-    "Description": "Legacy KPIs and processes can seem benign enough by only reducing efficiency by 2% but enough of them can compound together to create huge inefficiency.",
-    "Confidence": 0.9769888
+    "Title": "Franklin Pezzuti Dyer",
+    "Url": "https://franklin.dyer.me/post/228",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "franklin.dyer.me",
+    "Description": "Suppose you are tasked with designing a data structure consisting of values that can be compared with one another, and that this data structure must support two operations: insertion and lookup. At any moment, you may either be given a value and asked to insert it into your structure, or given a value and asked to say whether it is already present in your structure. The \"computational complexity\" of these two operations will be evaluated purely in terms of how many comparison operations they carry out on the provided data, so you don't need to worry about memory complexity, time complexity, or anything like that. Think of this problem as being analogous to a balance puzzle.",
+    "Confidence": 0.9644572
   },
   {
-    "Title": "20 Years of Gmail | tbolt",
-    "Url": "https://tbolt.space/2024/6/25/20-years-of-gmail",
-    "Timestamp": "2024-06-28T00:01:24",
-    "Domain": "tbolt.space",
-    "Description": "This is tbolt's weblog about ui design, computer programming, and other topics",
-    "Confidence": 0.8958127
+    "Title": "Automating my gate door",
+    "Url": "https://arslan.io/2024/06/30/automating-my-gate-door-with-zigbee-relay/",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "arslan.io",
+    "Description": "How to automate a gate door without remote capabilities using a smart relay and integrate it into HomeKit via Home Assistant.",
+    "Confidence": 0.9918145
   },
   {
-    "Title": "Revisiting Test Sizes",
-    "Url": "https://matttproud.com/blog/posts/revisiting-test-sizes.html",
-    "Timestamp": "2024-06-28T00:01:24",
-    "Domain": "matttproud.com",
-    "Description": "Conventionally software engineers have reasoned with how expensive a test is by classifying how it exercises the system under test (SUT): unit, integration, or functional. Each successive one being more — for some definition of — “expensive” than the previous.\nThis works fine as an approximation, but it starts to break down as nuances of what the test is doing and how are put into view:\nthere are unit tests that are slow there are functional tests that are fast Internally Google has had a concept of test sizes (expanded definition) since as far back as I can remember.",
-    "Confidence": 0.9968605
+    "Title": "Chaos Engineering in Frontend Development: A Comprehensive Guide to Enhancing Application Resilience",
+    "Url": "https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "omid.dev",
+    "Description": "In the dynamic world of web development, ensuring the resilience and reliability of frontend applications has become increasingly critical. As user expectations soar and application complexity grows, developers must adopt robust strategies to maintain high-quality, fault-tolerant systems. Enter Chaos Engineering – a discipline traditionally associated with backend systems and infrastructure, now making significant inroads into frontend development.\nThis comprehensive guide explores how applying Chaos Engineering principles to frontend applications can dramatically enhance their resilience, improve user experience, and help teams build more robust web applications.",
+    "Confidence": 0.9965048
   },
   {
-    "Title": "Rabbit hole full of hardcoded credentials by Mārtiņš Irbe",
-    "Url": "https://martins.irbe.dev/2024/rabbit-hole-full-of-hardcoded-credentials",
-    "Timestamp": "2024-06-28T00:01:24",
-    "Domain": "martins.irbe.dev",
-    "Description": "An in-depth look at Rabbit Inc.'s data breach, revealing critical security flaws, including hardcoded credentials. This article explores the implications of ...",
-    "Confidence": 0.9897253
+    "Title": "Git: please stop squash merging!",
+    "Url": "https://lucasoshiro.github.io/posts-en/2024-04-08-please_dont_squash/",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "lucasoshiro.github.io",
+    "Description": "At least not before reading this!",
+    "Confidence": 0.9940175
   },
   {
-    "Title": "Half-Life and it's failed OS 9 port",
-    "Url": "https://blog.greggant.com/posts/2024/06/24/half-life-for-the-mac-canceled-and-revived.html",
-    "Timestamp": "2024-06-28T00:01:23",
-    "Domain": "blog.greggant.com",
-    "Description": "This is the story of real reason Half-Life almost didn't come to the Mac, and how you can play it today",
-    "Confidence": 0.89333093
+    "Title": "Convolutions, Fast Fourier Transform and Polynomials",
+    "Url": "https://www.alvarorevuelta.com/posts/fft-polynomials",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "www.alvarorevuelta.com",
+    "Description": "Engineer",
+    "Confidence": 0.9948876
   },
   {
-    "Title": "A primer on GFP and esmGFP",
-    "Url": "https://www.abhishaike.com/p/a-primer-on-gfp-and-esmgfp",
-    "Timestamp": "2024-06-28T00:01:22",
-    "Domain": "www.abhishaike.com",
-    "Description": "2.6k words, 12 minutes reading time",
-    "Confidence": 0.9727536
+    "Title": "Feeding the Baby",
+    "Url": "https://allenpike.com/2024/feeding-the-baby-2",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "allenpike.com",
+    "Description": "On accidentally becoming a CEO.",
+    "Confidence": 0.8958075
   },
   {
-    "Title": "Digital meets Physical: Risograph Printing with WebGL | Codrops",
-    "Url": "https://tympanus.net/codrops/2024/06/27/digital-meets-physical-risograph-printing-with-webgl/",
-    "Timestamp": "2024-06-28T00:01:22",
-    "Domain": "tympanus.net",
-    "Description": "Learn how to create a custom tool for printing Riso posters using Three.js.",
-    "Confidence": 0.99811345
+    "Title": "The End of OpenDNS in France: A Comprehensive Overview",
+    "Url": "https://anass.ch/posts/opendns_unavailable/",
+    "Timestamp": "2024-07-01T00:01:05",
+    "Domain": "anass.ch",
+    "Description": "Understanding the Legal and Technical Implications.",
+    "Confidence": 0.86507475
   },
   {
-    "Title": "Keep a Safe Following Distance",
-    "Url": "https://two-wrongs.com/keep-a-safe-following-distance.html",
-    "Timestamp": "2024-06-28T00:01:22",
-    "Domain": "two-wrongs.com",
-    "Description": "Here’s a public service announcement to keep you safe on the road during the\nhighest flow rate months of summer.",
-    "Confidence": 0.8563955
+    "Title": "POSIX 2024 Changes",
+    "Url": "https://sortix.org/blog/posix-2024/",
+    "Timestamp": "2024-06-30T22:01:06",
+    "Domain": "sortix.org",
+    "Description": "POSIX.1-2024 has just been released with a lot of exciting and interesting\nimprovements and removals compared to POSIX-1.2008. The html version of the\nstandard has not been uploaded yet as of this writing. The official list of new\nfunctions in the standard itself is very incomplete, so I combed through the\nCHANGE HISTORY sections in the official pdf, and I present you with the most\naccurate list of the changes so far.",
+    "Confidence": 0.993737
   },
   {
-    "Title": "Every Trick in the Book",
-    "Url": "https://gebir.ge/blog/every-trick-in-the-book/",
-    "Timestamp": "2024-06-28T00:01:21",
-    "Domain": "gebir.ge",
-    "Description": "“Reading brings us unknown friends.\"",
-    "Confidence": 0.9955493
+    "Title": "GitHub - poundifdef/SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency.",
+    "Url": "https://github.com/poundifdef/SmoothMQ",
+    "Timestamp": "2024-06-30T21:01:04",
+    "Domain": "github.com",
+    "Description": "A drop-in replacement for SQS designed for great developer experience and efficiency.  - GitHub - poundifdef/SmoothMQ: A drop-in replacement for SQS designed for great developer experience and effi...",
+    "Confidence": 0.9757983
   },
   {
-    "Title": "Making the world my single point of failure with PostgreSQL",
-    "Url": "https://www.gabrielebartolini.it/articles/2024/06/making-the-world-my-single-point-of-failure-with-postgresql/",
-    "Timestamp": "2024-06-28T00:01:21",
-    "Domain": "www.gabrielebartolini.it",
-    "Description": "The upcoming CloudNativePG 1.24 introduces a game-changing feature: the ability\nto declaratively manage PostgreSQL cluster switchover across cloud regions or\ndifferent Kubernetes clusters. This advancement enables the seamless demotion\nof a primary cluster and the promotion of a replica cluster in another region\nwithout the need to re-clone the former primary. This innovation significantly\nrevolutionises database management practices, enhancing efficiency and\nreliability in multi-region and multi-cluster environments.\nCloudNativePG, traditionally confined to single Kubernetes clusters, is now\nexpanded its functionality to support distributed PostgreSQL topologies across\nmultiple regions. This enhancement leverages declarative configurations to\nmanage coordinated promotions, ensuring a single primary instance at any time.\nBased on PostgreSQL’s primary/standby architecture, this setup is designed to\nmaintain operational continuity and cater to various deployment scenarios,\nincluding hybrid and multi-cloud environments. The new capabilities\nsignificantly improve high availability and disaster recovery by mitigating the\nrisks associated with single points of failure in PostgreSQL deployments within\nKubernetes.",
-    "Confidence": 0.9873838
+    "Title": "GitHub - goldmansachs/gs-quant: Python toolkit for quantitative finance",
+    "Url": "https://github.com/goldmansachs/gs-quant",
+    "Timestamp": "2024-06-30T15:01:07",
+    "Domain": "github.com",
+    "Description": "Python toolkit for quantitative finance. Contribute to goldmansachs/gs-quant development by creating an account on GitHub.",
+    "Confidence": 0.95547736
   },
   {
-    "Title": "Servers don't like it hot 🔥 - Leahs Gedanken",
-    "Url": "https://leah.is/notes/hot-servers-are-not-good/",
-    "Timestamp": "2024-06-28T00:01:21",
-    "Domain": "leah.is",
+    "Title": "Do a firmware update for your AirPods – now – Jonas’ Blog",
+    "Url": "https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/",
+    "Timestamp": "2024-06-30T13:01:01",
+    "Domain": "blogs.gnome.org",
+    "Description": "tldr: There’s a security vulnerability (CVE-2024-27867) in the firmware of Apple AirPods. Anyone who knows the Bluetooth MAC address (which is somewhat public) can connect to your AirPods and listen to the microphone or play music. Even while the AirPods are connected to your phone (although music would stop playing in case somebody turns on the microphone).",
+    "Confidence": 0.98464364
+  },
+  {
+    "Title": "FUTO Keyboard",
+    "Url": "https://keyboard.futo.org/",
+    "Timestamp": "2024-06-30T13:01:01",
+    "Domain": "keyboard.futo.org",
     "Description": "",
-    "Confidence": 0.9123597
+    "Confidence": 0.9469696
   },
   {
-    "Title": "Rounding percentages - tavianator.com",
-    "Url": "https://tavianator.com/2024/percent.html",
-    "Timestamp": "2024-06-28T00:01:21",
-    "Domain": "tavianator.com",
-    "Description": "2024-06-21\n Tavian Barnes",
-    "Confidence": 0.9925927
+    "Title": "Unleashing the Power of Copilot: Enhancing Visual Studio with New Slash Commands",
+    "Url": "https://dotnettips.wordpress.com/2024/06/30/unleashing-the-power-of-copilot-enhancing-visual-studio-with-new-slash-commands/",
+    "Timestamp": "2024-06-30T10:00:58",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "In 2024 at Microsoft Build, new Copilot features were introduced in Visual Studio, including helpful slash commands for tasks like adding comments, explaining code, proposing fixes, generating code…",
+    "Confidence": 0.9739045
   },
   {
-    "Title": "Industrial macros",
-    "Url": "https://blog.sbensu.com/posts/industrial-macros/",
-    "Timestamp": "2024-06-28T00:01:21",
-    "Domain": "blog.sbensu.com",
-    "Description": "Most industry codebases use macros, aka code-generation to solve practical problems like talking to the database.",
-    "Confidence": 0.9984982
+    "Title": "GitHub - docmost/docmost: Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions.",
+    "Url": "https://github.com/docmost/docmost",
+    "Timestamp": "2024-06-30T09:00:59",
+    "Domain": "github.com",
+    "Description": "Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions. - docmost/docmost",
+    "Confidence": 0.9754739
   },
   {
-    "Title": "Skip and Kotlin Multiplatform",
-    "Url": "https://skip.tools/blog/skip-and-kotlin-multiplatform/",
-    "Timestamp": "2024-06-28T00:01:20",
-    "Domain": "skip.tools",
-    "Description": "Skip is a Swift to Kotlin transpiler",
-    "Confidence": 0.9987432
-  },
-  {
-    "Title": "#9 - Am I overengineering my code?",
-    "Url": "https://seaotter.games/blog/am-i-overengineering-my-code",
-    "Timestamp": "2024-06-28T00:01:20",
-    "Domain": "seaotter.games",
-    "Description": "Recently, I thought about implementing a little tool class into my project's code. A few hours, it struck me that this tool would most likely not be as useful as expected and might be somewhat of an overengineering. Here's my reflexion on overengineering.",
-    "Confidence": 0.99809736
-  },
-  {
-    "Title": "Enabling NVMe Support on Supermicro C7Z97-MF Motherboard",
-    "Url": "https://blog.jarmosz.uk/posts/nvme-support-on-supermicro-c7z97-mf/",
-    "Timestamp": "2024-06-28T00:01:20",
-    "Domain": "blog.jarmosz.uk",
-    "Description": "I recently hit a bit of a roadblock. My Supermicro C7Z97-MF motherboard has been a reliable part of my setup for years, but I wanted to upgrade to an NVMe drive for faster storage. The catch? My motherboard doesn’t support NVMe out of the box. Instead of forking out for a new motherboard, I decided to try updating the BIOS to add NVMe support. Here’s my journey on how I got it done.",
-    "Confidence": 0.99220896
-  },
-  {
-    "Title": "Why I Ditched Django for NextJS",
-    "Url": "https://www.billprin.com/articles/why-i-ditched-django-for-nextjs",
-    "Timestamp": "2024-06-28T00:01:20",
-    "Domain": "www.billprin.com",
-    "Description": "Why I made the switch away from Python frameworks like Django and Flask to NextJS",
-    "Confidence": 0.9896946
-  },
-  {
-    "Title": "My .gitconfig file dissected | Kiran Rao",
-    "Url": "https://kiranrao.ca/2024/06/21/git-config.html",
-    "Timestamp": "2024-06-28T00:01:20",
-    "Domain": "kiranrao.ca",
-    "Description": "This is my .gitconfig1. Many are like it, but this one is mine.            This is not actually my .gitignore. It’s pretty close. I’ve rearranged and om...",
-    "Confidence": 0.9981987
-  },
-  {
-    "Title": "Larry Finger made Linux wireless work and brought others along to learn",
-    "Url": "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/",
-    "Timestamp": "2024-06-27T22:01:19",
-    "Domain": "arstechnica.com",
-    "Description": "Remembering Finger, 84, who learned as he went and left his mark on many.",
-    "Confidence": 0.7395607
-  },
-  {
-    "Title": "Why Google Sheets ported its calculation worker from JavaScript to WasmGC  |  web.dev",
-    "Url": "https://web.dev/case-studies/google-sheets-wasmgc",
-    "Timestamp": "2024-06-27T18:01:03",
-    "Domain": "web.dev",
-    "Description": "Calculations in Google Sheets were initially done on the server, then on the client in JavaScript, and now on the client in WebAssembly Garbage Collection. This case study explains how and why.",
-    "Confidence": 0.97483003
-  },
-  {
-    "Title": "Writing a remove_all_pointers type trait, part 1 - The Old New Thing",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20240627-00/?p=109940",
-    "Timestamp": "2024-06-27T15:01:04",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "Delaying the expansion to avoid infinite recursion.",
-    "Confidence": 0.9889576
+    "Title": "Inside a 1 dollar radar motion sensor",
+    "Url": "https://10maurycy10.github.io/projects/motion_sensor_hacking/",
+    "Timestamp": "2024-06-30T09:00:58",
+    "Domain": "10maurycy10.github.io",
+    "Description": "Jun 28, 2024\n(Electronics)\n(Wireless communication and power)",
+    "Confidence": 0.7128569
   }
 ]
