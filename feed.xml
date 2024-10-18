@@ -7,143 +7,275 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
-      <title>Perspectives on Floating Point</title>
-      <link>https://www.eigentales.com/Floating-Point/</link>
-      <description>An illuminating perspective on floating point numbers that I haven&amp;#39;t seen emphasized before.</description>
-      <author> (EigenTales)</author>
-      <guid>https://www.eigentales.com/Floating-Point/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Joy of Astro</title>
-      <link>https://darko.io/posts/the-joy-of-astro</link>
-      <description>Told from the perspective of a person building demo integrations for SuperTokens - and how it&amp;#39;s an absolute joy to create with. </description>
-      <author> (Darko Bozhinovski)</author>
-      <guid>https://darko.io/posts/the-joy-of-astro</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Memory for Nothing: Why Vec&amp;lt;usize&amp;gt; is (probably) a bad idea</title>
-      <link>https://pwy.io/posts/memory-for-nothing/</link>
-      <description>Every now and then one has to index something - and what&amp;#39;s better than a good old &amp;lt;code&amp;gt;Vec&amp;lt;usize&amp;gt;&amp;lt;/code&amp;gt;?</description>
-      <author> ()</author>
-      <guid>https://pwy.io/posts/memory-for-nothing/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to listen like Momo</title>
-      <link>https://www.marcnitzsche.de/how-to-listen-like-momo/</link>
-      <description>The one quality that makes you a good listener</description>
-      <author> (Marc Nitzsche)</author>
-      <guid>https://www.marcnitzsche.de/how-to-listen-like-momo/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech Story: From Tinkering to Code</title>
-      <link>https://blogs.msurya.in/tech-story</link>
-      <description>A personal journey through programming and beyond.</description>
-      <author> (https://hashnode.com/@suryamadhavan)</author>
-      <guid>https://blogs.msurya.in/tech-story</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Cloud Mafia: Pay Up, or Lose Your Homepage</title>
-      <link>https://hajo.me/blog/2024/10/15/the-cloud-mafia-pay-up-or-lose-your-homepage/</link>
-      <description>I recently helped a client
-to transition the hosting of their homepage
-to a cloud hosting provider.
-My client had received the sales pitch,
-were …</description>
-      <author> (Hajo Nils Krabbenh&amp;#246;ft)</author>
-      <guid>https://hajo.me/blog/2024/10/15/the-cloud-mafia-pay-up-or-lose-your-homepage/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>EQL - EVM Query Language</title>
-      <link>https://www.eql.sh/blog/how-is-it-different-from-dune</link>
-      <description>EQL is a language that allows you to query the Ethereum Virtual Machine (EVM) using a SQL-like syntax. It is designed to be the simplest way to ask blockchain questions and get answers.</description>
-      <author> (Ian K. Guimaraes)</author>
-      <guid>https://www.eql.sh/blog/how-is-it-different-from-dune</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The day I became a millionaire</title>
-      <link>https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/</link>
-      <description>I grew up lower-middle class on the outskirts of Copenhagen. Anywhere outside of Scandinavia, the socioeconomic label would probably have been ‘poor’, but Danish safety nets and support systems did…</description>
-      <author> ()</author>
-      <guid>https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trust takes time</title>
-      <link>https://ruben.verborgh.org/blog/2024/10/15/trust-takes-time/</link>
-      <description>Today’s websites and apps are built to compensate for an absence of trust, rather than to support its growth. Customers and companies both understand that human handshakes no longer scale in the digital age, and surrender to their replacement by a tap of the finger on a button labeled I accept. While every handshake comes with an expectation of honesty, this button never did: we know we are lying the moment we touch it, as does the author of the legalese no one expects anyone to read. Navigating a trustless world is a heavy price to pay for the boundless freedoms of the World Wide Web—except it doesn’t have to be like this. Although trust remains an inherently human relationship, machines can help us build and evolve our relationships by handling the fiddly bits on our behalf. This liberates people to refocus on gaining mutual value from our relationships, without the huge burden of their setup and maintenance. Everything starts with the realization that data technology is fundamentally trust technology, and thus a transversal layer within any ecosystem rather than just the icing on the cake.</description>
-      <author> (Ruben Verborgh)</author>
-      <guid>https://ruben.verborgh.org/blog/2024/10/15/trust-takes-time/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Generating images from css-doodle code</title>
-      <link>https://yuanchuan.dev/generating-images-from-css-doodle-code</link>
-      <description>For the past week, I&amp;#39;ve been working on a command-line tool
-    to generate images from css-doodle source code.
-    If you&amp;#39;re familiar with command lines, try installing it with npm:
-  
+      <title>MassTransit v8.3.0 - RabbitMQ ReplyTo Support</title>
+      <link>https://youtube.com/watch?v=ygsxV-aVRms</link>
+      <description>With MassTransit v8.3.0, it is now possible to configure the ReplyTo endpoint using RabbitMQ.
 
-npm i -g @css-doodle/cli</description>
-      <author> (yuanchuan)</author>
-      <guid>https://yuanchuan.dev/generating-images-from-css-doodle-code</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
+RabbitMQ provides a default ReplyTo address for every broker connection that can be used to send messages directly to the connection without the need to create a temporary queue. Using the new request client, the bus endpoint is no longer used/needed and MassTransit will send responses using the connection&amp;#39;s ReplyTo address.
+
+MassTransit 
+Documentation: https://masstransit.io/
+Discord: https://discord.gg/rNpQgYn
+
+Connect on Twitter (X):
+https://twitter.com/phatboyg</description>
+      <author> (Chris Patterson)</author>
+      <guid>https://youtube.com/watch?v=ygsxV-aVRms</guid>
+      <pubDate>Fri, 18 Oct 2024 08:01:25 GMT</pubDate>
     </item>
     <item>
-      <title>Ricky Mondello &amp;#187; Consider Slowing Down When Switching Password Managers</title>
-      <link>https://rmondello.com/2024/09/19/consider-slowing-down-when-switching-password-managers/</link>
-      <description>Important Note: Although I work at Apple and am deeply involved in the creation of its new Passwords app, in this post I am speaking only for myself and not for Apple. There is no “news” in this post, or any kind of “inside scoop”. My intention is to help the kind of person who would read a blog post about password managers think about and manage their credential data better.</description>
+      <title>New in NotebookLM: Customizing your Audio Overviews and introducing NotebookLM Business</title>
+      <link>https://blog.google/technology/ai/notebooklm-update-october-2024/</link>
+      <description>NotebookLM is piloting a way for teams to collaborate, and introducing a new way to customize Audio Overviews.</description>
+      <author> (J
+
+
+  Jason Spielman
+  
+    
+      Senior Interaction Designer)</author>
+      <guid>https://blog.google/technology/ai/notebooklm-update-october-2024/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:01:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yes, Go Does Have Exceptions</title>
+      <link>https://kristoff.it/blog/go-exceptions/</link>
+      <description>Loris Cro&amp;#39;s Blog</description>
+      <author> (October 17, 2024
+    •
+    3
+    min read • by
+    Loris Cro)</author>
+      <guid>https://kristoff.it/blog/go-exceptions/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hate The Process • Ninjas and Robots</title>
+      <link>https://ninjasandrobots.com/hate-the-process</link>
+      <description>The journey is the reward. You’ve heard it a million times. Learn to love the process, not the results, and you’ll never worry again. You’ll be successful every day. Grow taller. Lose 10 pounds. I get it. Focus on the process, which you can... | Ninjas and Robots | Makes stuff.  Previous: Founder of writing software Draft, CEO of Highrise. Also founder of two YC companies. Engineer for President Obama’s re-election campaign. </description>
       <author> ()</author>
-      <guid>https://rmondello.com/2024/09/19/consider-slowing-down-when-switching-password-managers/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
+      <guid>https://ninjasandrobots.com/hate-the-process</guid>
+      <pubDate>Thu, 17 Oct 2024 23:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>The CAP Theorem Explained: Balancing the Big Three in Distributed Databases</title>
-      <link>https://amarpandey.me/blog/the-cap-theorem-explained-balancing-the-big-three-in-distributed-databases/</link>
-      <description>An introduction to the CAP theorem, explaining the trade-offs between consistency, availability, and partition tolerance in distributed systems.</description>
+      <title>Evaluation Quirks, Metric Pitfalls and Some Recommendations</title>
+      <link>https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html</link>
+      <description>Evaluation Quirks, Metric Pitfalls and Some Recommendations</description>
       <author> ()</author>
-      <guid>https://amarpandey.me/blog/the-cap-theorem-explained-balancing-the-big-three-in-distributed-databases/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
+      <guid>https://www.juriopitz.com/2024/10/17/evaluation-pitfalls-metric-overview-tips.html</guid>
+      <pubDate>Thu, 17 Oct 2024 23:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tobiko - dbt: Incremental but Incomplete</title>
-      <link>https://tobikodata.com/dbt-incremental-but-incomplete.html</link>
-      <description>Earlier this month, dbtTM launched microbatch incremental models in version 1.9, a highly requested feature since the experimental insert_by_period was introduced back in 2018. While it&amp;#39;s certainly a step in the right direction, it has been a long time coming.</description>
+      <title>What self-hosting teaches</title>
+      <link>https://garrido.io/posts/2024/10/17/what-self-hosting-teaches/</link>
+      <description>We’re well into times in which it’s clear why you’d care to own your data and host the software that you depend on. Enshittification and surveillance capitalism are not heterodox concepts, so I won’t make that the point of this post.</description>
+      <author> (Gabriel Garrido)</author>
+      <guid>https://garrido.io/posts/2024/10/17/what-self-hosting-teaches/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>setBigTimeout</title>
+      <link>https://evanhahn.com/set-big-timeout/</link>
+      <description>setTimeout breaks after 25 days. setBigTimeout doesn&amp;#39;t.</description>
+      <author> (setBigTimeout)</author>
+      <guid>https://evanhahn.com/set-big-timeout/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ballistic Moments of Weightlessness</title>
+      <link>https://aethermug.com/posts/ballistic-moments-of-weightlessness</link>
+      <description>On purpose and its temporary suspension</description>
+      <author> (Marco Giancotti)</author>
+      <guid>https://aethermug.com/posts/ballistic-moments-of-weightlessness</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why conventional wisdom on health care is wrong (a primer)</title>
+      <link>https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/</link>
+      <description>Rich countries consume much higher quantities via higher intensity/tech.  It&amp;#39;s NOT high and rising: wages, profits, administration, encounters, etc.  Income well explains American behavior here too.</description>
       <author> ()</author>
-      <guid>https://tobikodata.com/dbt-incremental-but-incomplete.html</guid>
-      <pubDate>Tue, 15 Oct 2024 23:01:54 GMT</pubDate>
+      <guid>https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:58 GMT</pubDate>
     </item>
     <item>
-      <title>The C23 edition of Modern C</title>
-      <link>https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/</link>
-      <description>The C23 edition of Modern C is now available for free download from This new edition has been the occasion to overhaul the presentation in many places, but its main purpose is the update to the new…</description>
+      <title>What Do You Visualize While Programming? - Dillon Shook</title>
+      <link>https://dillonshook.com/what-do-you-visualize-while-programming/</link>
+      <description>Thinking about thinking when coding, and the differences in what we see in our minds eye</description>
+      <author> (Dillon Shook)</author>
+      <guid>https://dillonshook.com/what-do-you-visualize-while-programming/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Filling the data gap in micro-mobility routing and navigation</title>
+      <link>https://www.smolways.com/post/where-the-digital-sidewalk-ends</link>
+      <description>Sidewalks and bike lanes may be deficient or lacking, but the biggest problem is that they are unmapped. </description>
+      <author> (Huston Bokinsky)</author>
+      <guid>https://www.smolways.com/post/where-the-digital-sidewalk-ends</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Stopped Teaching My Kids How To Code - And Why You Should, Too!</title>
+      <link>https://www.thdpth.com/p/why-i-stopped-teaching-my-kids-how</link>
+      <description>Why the future will be a future of energy wars, why software engineering as a discipline will disappear (and why the common wisdom is wrong)</description>
+      <author> (Sven Balnojan PhD)</author>
+      <guid>https://www.thdpth.com/p/why-i-stopped-teaching-my-kids-how</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js nope - Remix and Astro.js yes!</title>
+      <link>https://taner-dev.com/articles/nextjs-nope</link>
+      <description>Why I wouldn&amp;#39;t use Next.js for serious projects anymore and what Remix and Astro.js do better.</description>
       <author> ()</author>
-      <guid>https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:01:40 GMT</pubDate>
+      <guid>https://taner-dev.com/articles/nextjs-nope</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>sqlite3 WebAssembly &amp;amp; JavaScript Documentation Index</title>
-      <link>https://sqlite.org/wasm/doc/trunk/index.md</link>
-      <description>This site is home to the documentation for the SQLite project&amp;#39;s
-WebAssembly- and JavaScript-related APIs, which enable the use of
-sqlite3 in modern WASM-capable browsers. These components
-were initially released for public beta with version 3.40 and will
-tentatively be made API-stable with the 3.41 release, pending
-community feedback.</description>
+      <title>Cognitive load is what matters</title>
+      <link>https://minds.md/zakirullin/cognitive</link>
+      <description>There are so many buzzwords and best practices out there, but let&amp;#39;s focus on something more fundamental. What matters is the amount of confusion developers feel when going through the code.</description>
       <author> ()</author>
-      <guid>https://sqlite.org/wasm/doc/trunk/index.md</guid>
-      <pubDate>Tue, 15 Oct 2024 22:01:40 GMT</pubDate>
+      <guid>https://minds.md/zakirullin/cognitive</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>NEW Windows 24H2: New Features!</title>
-      <link>https://youtube.com/watch?v=v7nprsWLq0A</link>
-      <description>Dave reviews the newest features in Windows 24H2.   For my book on the autism spectrum, check out: https://amzn.to/3zBinWM
+      <title>The expectation creates the result</title>
+      <link>https://nathanpeck.com/the-expectation-creates-the-result/</link>
+      <description>Recently, I’ve been thinking a lot about artificial intelligence, the nature of human consciousness, and the challenging problem of alignment, both for artificial and human intelligences.</description>
+      <author> ()</author>
+      <guid>https://nathanpeck.com/the-expectation-creates-the-result/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Welcome to Crokinole, the greatest game you’ve never heard of.</title>
+      <link>https://pudding.cool/2024/10/crokinole/</link>
+      <description>This isn’t just a flicking game, but a century-old test of skill and strategy.</description>
+      <author> (The Pudding)</author>
+      <guid>https://pudding.cool/2024/10/crokinole/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unlocking the Power of JSON Patch | Zuplo Blog</title>
+      <link>https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch</link>
+      <description>JSON Patch is a simple, efficient, and standardized way to apply partial updates to JSON documents, especially over HTTP</description>
+      <author> (Adrian Machado)</author>
+      <guid>https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maelstrom Software</title>
+      <link>https://maelstrom-software.com/blog/why-maelstrom/</link>
+      <description>2024-10-16</description>
+      <author> ()</author>
+      <guid>https://maelstrom-software.com/blog/why-maelstrom/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>leontrolski - adding Python syntax</title>
+      <link>https://leontrolski.github.io/grammar.html</link>
+      <description>2024-10-17</description>
+      <author> ()</author>
+      <guid>https://leontrolski.github.io/grammar.html</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>God Mode</title>
+      <link>https://sahillavingia.com/god</link>
+      <description>A term for a cheat code in video games that makes a player invincible, and how it applies to startup founders.</description>
+      <author> ()</author>
+      <guid>https://sahillavingia.com/god</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evaluating stock option offers</title>
+      <link>https://venki.dev/notes/evaluating-stock-options</link>
+      <description>Ben Kuhn has a great post about evaluating startup stock option offers. Here’s Ben’s list of questions you should ask.</description>
+      <author> ()</author>
+      <guid>https://venki.dev/notes/evaluating-stock-options</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>From software to reality? – Daniel Lemire&amp;#39;s blog</title>
+      <link>https://lemire.me/blog/2024/10/09/from-software-to-reality/</link>
+      <description>Both the Physics and Chemistry Nobel prizes were awarded to computer scientists in 2024. Computer scientists are emerging as leading figures in the natural sciences. In turn, these sciences are increasingly dominated by theorists and modelers.</description>
+      <author> (Published by)</author>
+      <guid>https://lemire.me/blog/2024/10/09/from-software-to-reality/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>My solar-powered and self-hosted website</title>
+      <link>https://dri.es/my-solar-powered-and-self-hosted-website</link>
+      <description>How I built a solar-powered, self-hosted website with a Raspberry Pi to explore sustainable, local-first web hosting.</description>
+      <author> (Dries Buytaert)</author>
+      <guid>https://dri.es/my-solar-powered-and-self-hosted-website</guid>
+      <pubDate>Thu, 17 Oct 2024 23:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Middleware and Filters in ASP.NET Core</title>
+      <link>https://towardsdev.com/middleware-and-filters-in-asp-net-core-16455a84ff2f?source=rss-c77187421577------2</link>
+      <description>A Comprehensive Guide to Middleware and Filters in ASP.NET Core: With Real-World Examples</description>
+      <author> (https://malshikay.medium.com)</author>
+      <guid>https://towardsdev.com/middleware-and-filters-in-asp-net-core-16455a84ff2f?source=rss-c77187421577------2</guid>
+      <pubDate>Thu, 17 Oct 2024 20:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The virtual keyboard API</title>
+      <link>https://ishadeed.com/article/virtual-keyboard-api/</link>
+      <description>A deep-dive into the virtual keyboard API.</description>
+      <author> (Ahmad Shadeed)</author>
+      <guid>https://ishadeed.com/article/virtual-keyboard-api/</guid>
+      <pubDate>Thu, 17 Oct 2024 18:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minimal API Route Groups Made Easy</title>
+      <link>https://youtube.com/watch?v=A9BAt3Zax-Y</link>
+      <description>Understanding .NET Minimal API Route Groups. 
+#dotnet #programming #programmingtips</description>
+      <author> (Codewrinkles)</author>
+      <guid>https://youtube.com/watch?v=A9BAt3Zax-Y</guid>
+      <pubDate>Thu, 17 Oct 2024 17:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making a Vegetable Competition for my Farming Game</title>
+      <link>https://youtube.com/watch?v=OH8ghi2bwwY</link>
+      <description>Devlog video about &amp;quot;Homegrown&amp;quot;, a casual farming game I&amp;#39;m creating using my own engine.
+
+Support the channel on Patreon and get access to the game &amp;amp; code for Homegrown, the city-builder, and Equilinox:
+https://www.patreon.com/thinmatrix
+
+Play my previous game &amp;quot;Equilinox&amp;quot;:
+https://store.steampowered.com/app/853550/Equilinox/
+
+You can follow the progress of the game on my social media:
+Twitter: https://twitter.com/ThinMatrix
+Instagram: https://www.instagram.com/thinmatrix/
+Facebook: https://www.facebook.com/thinmatrix
+Trello: https://trello.com/b/W3zkIJTM/farm
+
+Email: thinmatrix@gmail.com
+
+Background music by Jamal Green:
+https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt?si=Z-xfUXEXQCuGdGRy7qf9Ug&amp;amp;dl_branch=1
+
+Ben Eater&amp;#39;s 8-bit computer series:
+https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU
+
+Equipment (Amazon Affiliate Links):
+Camera: https://amzn.to/491ayFZ
+Desk Microphone: https://amzn.to/48Hs5mP
+Camera Mic: https://amzn.to/48ZcRcE
+Mouse: https://amzn.to/3Sn0v8J
+
+#devlog #Homegrown</description>
+      <author> (ThinMatrix)</author>
+      <guid>https://youtube.com/watch?v=OH8ghi2bwwY</guid>
+      <pubDate>Thu, 17 Oct 2024 15:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Stuxnet Cyberweapon Explained by a Retired Windows Engineer</title>
+      <link>https://youtube.com/watch?v=EOPLN-MVKY4</link>
+      <description>Dive into the incredible story of Stuxnet, the world&amp;#39;s first cyberweapon, and its complex attack on Iran&amp;#39;s nuclear facilities. From its discovery by a small Belarusian security firm to its use of multiple zero-day vulnerabilities and legitimate digital certificates, Stuxnet was a masterpiece of malware engineering. We’ll explore how it used USB drives and autorun functionality ( a component I was once responsible for) to cross air gaps and manipulate Siemens PLCs controlling uranium enrichment centrifuges. Join me as we break down Stuxnet&amp;#39;s design, its devastating payload, and the global response that followed.
+
+If you&amp;#39;re into tech history, retro computing, or just curious about how cyberwarfare can impact the real world, be sure to subscribe and hit the notification bell! And if you have an interest in autism-related topics, don’t forget to check out my book on Amazon—link in the description. https://amzn.to/3zBinWM
 
 Dave&amp;#39;s Attic - Friday 4PM Podcast - https://www.youtube.com/@UCtb6a_CnmGbSns9G8W2Ny0w 
 
@@ -151,256 +283,52 @@ Follow me for updates!
 Twitter:   @davepl1968 davepl1968
 Facebook: fb.com/davepl</description>
       <author> (Dave&amp;#39;s Garage)</author>
-      <guid>https://youtube.com/watch?v=v7nprsWLq0A</guid>
-      <pubDate>Tue, 15 Oct 2024 22:01:36 GMT</pubDate>
+      <guid>https://youtube.com/watch?v=EOPLN-MVKY4</guid>
+      <pubDate>Thu, 17 Oct 2024 15:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>Coffee and Open Source Conversation - Jamie Taylor</title>
-      <link>https://youtube.com/watch?v=9BIi1QtnVy0</link>
-      <description>Jamie is a software developer with 14 years&amp;#39; experience, a Microsoft MVP, &amp;quot;Most Visionary Software Development &amp;amp; Consultancy Managing Director&amp;quot; awardee for 2023, and a skilled podcaster with 5 years in engaging content creation.  
- 
-With a versatile tech toolkit, Jamie crafts tailored solutions, while his MVP status showcases his community commitment. His visionary leadership drives excellence, and his podcasting journey reflects his prowess in relatable communication. An inspiring multi-faceted professional, Jamie embodies dedication, innovation, and impactful change.
-
-You can follow Jamie on Social Media
-https://twitter.com/podcasterJay
-https://hachyderm.io/@gaprogman
-https://github.com/GaProgMan
-
-Also, be sure to check out The Modern .NET Show
-https://dotnetcore.show/
-
-PLEASE SUBSCRIBE TO THE PODCAST
-
-- Spotify: http://isaacl.dev/podcast-spotify
-- Apple Podcasts: http://isaacl.dev/podcast-apple
-- Google Podcasts: http://isaacl.dev/podcast-google
-- RSS: http://isaacl.dev/podcast-rss
-
-You can check out more episodes of Coffee and Open Source on https://www.coffeeandopensource.com
-
-Coffee and Open Source is hosted by Isaac Levin (https://twitter.com/isaacrlevin)</description>
-      <author> (Isaac Levin)</author>
-      <guid>https://youtube.com/watch?v=9BIi1QtnVy0</guid>
-      <pubDate>Tue, 15 Oct 2024 21:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Sneak Peek at CSnakes: Embed Python code in .NET Apps</title>
-      <link>https://youtube.com/watch?v=U4-95gMT_UA</link>
-      <description>James is joined by Anthony from the Python Cloud Advocacy team at Microsoft to talk about his latest experiment to help .NET developers leverage Python code and libraries in their apps!
-
-Chapters:
-00:00:00 Introduction
-00:06:34 Integration of Python and C# into .NET Projects
-00:12:20 Integration of Tensor Span in Python and .NET
-00:16:53 Demonstration and Discussion on Python Integration in .NET
-00:23:13 Functionality of SKLearn and .NET API in Python
-00:29:56 Integration of Postgres and Python in .NET Aspire
-00:35:38 Database Integration and Tracing in Python Applications
-00:40:58 Python Log Analysis and API Trace in Development
-
-Resources:
-CSnakes project: https://tonybaloney.github.io/CSnakes/
-Register for .NET Conf: https://dotnetconf.net
-
-Connect with .NET: 
-Blog:  https://aka.ms/dotnet/blog
-Twitter: https://aka.ms/dotnet/twitter
-TikTok:  https://aka.ms/dotnet/tiktok
-Mastodon:  https://aka.ms/dotnet/mastodon
-LinkedIn:  https://aka.ms/dotnet/linkedin
-Facebook:  https://aka.ms/dotnet/facebook
-Docs: https://learn.microsoft.com/dotnet
-Forums: https://aka.ms/dotnet/forums
-&amp;#128587;‍♀️Q&amp;amp;A: https://aka.ms/dotnet-qa
-&amp;#128104;‍&amp;#127891;Microsoft Learn: https://aka.ms/learndotnet
-
-#dotnet</description>
-      <author> (dotnet)</author>
-      <guid>https://youtube.com/watch?v=U4-95gMT_UA</guid>
-      <pubDate>Tue, 15 Oct 2024 18:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>What&amp;#39;s new in System.Text.Json in .NET 9 - .NET Blog</title>
-      <link>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/</link>
-      <description>An overview of all new .NET 9 features in System.Text.Json for developers.</description>
-      <author> (Eirik Tsarpalis)</author>
-      <guid>https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/</guid>
-      <pubDate>Tue, 15 Oct 2024 17:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deal With It GIF emoji generator</title>
-      <link>https://emoji.build/deal-with-it-generator/</link>
-      <description>Deal With It</description>
-      <author> ()</author>
-      <guid>https://emoji.build/deal-with-it-generator/</guid>
-      <pubDate>Tue, 15 Oct 2024 17:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>C# and Linux - Building a better Wordpress</title>
-      <link>https://youtube.com/watch?v=IOYqWemaiyk</link>
+      <title>C# and Linux - Building a better Wordpress - Episode 2</title>
+      <link>https://youtube.com/watch?v=ImUQBcbuqCk</link>
       <description>Powered by Restream https://restream.io
 
 Fritz is talking through and starting a new CMS project that anyone can contribute to!
 
 It&amp;#39;s time for the annual Ubuntober celebration!  C#, Blazor, and Ubuntu Linux development all month</description>
       <author> (Fritz&amp;#39;s Tech Tips and Chatter)</author>
-      <guid>https://youtube.com/watch?v=IOYqWemaiyk</guid>
-      <pubDate>Tue, 15 Oct 2024 15:01:44 GMT</pubDate>
+      <guid>https://youtube.com/watch?v=ImUQBcbuqCk</guid>
+      <pubDate>Thu, 17 Oct 2024 15:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>Web Browser Engineering</title>
-      <link>https://browser.engineering/index.html</link>
-      <description>Web browsers are ubiquitous, but how do they work? This book
-explains, building a basic but complete web browser, from networking to
-JavaScript, in a couple thousand lines of Python.</description>
-      <author> (Pavel Panchekha &amp;amp; Chris Harrelson)</author>
-      <guid>https://browser.engineering/index.html</guid>
-      <pubDate>Tue, 15 Oct 2024 14:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Natural Path to Domain-Driven Design (evolve your code)</title>
-      <link>https://youtube.com/watch?v=knjrierBovY</link>
-      <description>Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ
-Want to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt
-Join a community of 1000+ .NET developers: https://www.patreon.com/milanjovanovic
-
-Learn how to naturally evolve your codebase from a basic transaction script to a robust Domain-Driven Design implementation. This step-by-step guide demonstrates practical refactoring techniques, helping you improve code quality, maintainability, and alignment with business logic. Perfect for developers looking to level up their architecture skills without starting from scratch.
-
-Refactoring From an Anemic Domain Model To a Rich Domain Model
-https://www.milanjovanovic.tech/blog/refactoring-from-an-anemic-domain-model-to-a-rich-domain-model
-
-How To Use Domain Events To Build Loosely Coupled Systems
-https://www.milanjovanovic.tech/blog/how-to-use-domain-events-to-build-loosely-coupled-systems
-
-From Transaction Scripts to Domain Models: A Refactoring Journey
-https://www.milanjovanovic.tech/blog/from-transaction-scripts-to-domain-models-a-refactoring-journey
-
-Check out my courses:
-https://www.milanjovanovic.tech/courses
-
-Read my Blog here:
-https://www.milanjovanovic.tech/blog
-
-Join my weekly .NET newsletter:
-https://www.milanjovanovic.tech
-
-Chapters
-0:00 Reviewing the code
-3:21 Exploring the Meeting entity
-5:14 Aggregate root: Invariants
-10:42 Performance improvements
-13:20 Encapsulating nested entities - #1
-19:07 Encapsulating nested entities  - #2
-23:45 Business rules and encapsulation</description>
-      <author> (Milan Jovanović)</author>
-      <guid>https://youtube.com/watch?v=knjrierBovY</guid>
-      <pubDate>Tue, 15 Oct 2024 13:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zyphra</title>
-      <link>https://www.zyphra.com/post/zamba2-7b</link>
-      <description></description>
+      <title>Using Cloudflare on your website could be blocking RSS users</title>
+      <link>https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users</link>
+      <description>Cloudflare&amp;#39;s security features could be blocking RSS feed users from accessing your website</description>
       <author> ()</author>
-      <guid>https://www.zyphra.com/post/zamba2-7b</guid>
-      <pubDate>Tue, 15 Oct 2024 12:01:42 GMT</pubDate>
+      <guid>https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users</guid>
+      <pubDate>Thu, 17 Oct 2024 14:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>Swagger is Gone in .NET 9! Replace It With This.</title>
-      <link>https://youtube.com/watch?v=8yI4gD1HruY</link>
-      <description>Check out my courses: https://dometrain.com
-Subscribe to my weekly newsletter: https://nickchapsas.com
-
-Become a Patreon and get special perks: https://www.patreon.com/nickchapsas
-
-Hello, everybody. I&amp;#39;m Nick, and in this video I will talk about the removal of Swagger in .NET 9 and I&amp;#39;ll show you how you can deal with it in your codebase.
-
-Workshops: https://bit.ly/nickworkshops
-
-Don&amp;#39;t forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-Keep coding merch: https://keepcoding.shop
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <guid>https://youtube.com/watch?v=8yI4gD1HruY</guid>
-      <pubDate>Tue, 15 Oct 2024 12:01:36 GMT</pubDate>
+      <title>Escaping the Chrome Sandbox Through DevTools</title>
+      <link>https://ading.dev/blog/posts/chrome_sandbox_escape.html</link>
+      <description>This blog post details how I found CVE-2024-6778 and CVE-2024-5836, which are vulnerabilities within the Chromium web browser which allowed for a sandbox escape from a browser extension.</description>
+      <author> ()</author>
+      <guid>https://ading.dev/blog/posts/chrome_sandbox_escape.html</guid>
+      <pubDate>Thu, 17 Oct 2024 14:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>Up is Down, and Down is Up [Work Ethic]</title>
-      <link>https://youtube.com/watch?v=r8ZZlnvNvBY</link>
-      <description>This final video belongs to the Work Ethic category, in which I&amp;#39;ve shared my thoughts on how you can best approach your professional life.
-And with that...this channel&amp;#39;s planned content is now complete!
-I hope you&amp;#39;ll join me in the near future for the special finale episode. Thank you all so much for watching!</description>
-      <author> (Masahiro Sakurai on Creating Games)</author>
-      <guid>https://youtube.com/watch?v=r8ZZlnvNvBY</guid>
-      <pubDate>Tue, 15 Oct 2024 12:01:36 GMT</pubDate>
+      <title>ASP.NET Core SignalR New Features — Summary</title>
+      <link>https://medium.com/abp-community/asp-net-core-signalr-new-features-summary-79a4d697bcf9</link>
+      <description>In this article, I’ll highlight the latest&amp;#160;.NET 9 SignalR updates for ASP.NET Core 9.0.</description>
+      <author> (https://medium.com/@alperonline)</author>
+      <guid>https://medium.com/abp-community/asp-net-core-signalr-new-features-summary-79a4d697bcf9</guid>
+      <pubDate>Thu, 17 Oct 2024 13:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>Asynchronous Messaging Made Easy</title>
-      <link>https://youtube.com/watch?v=qliRzRcJ-8k</link>
-      <description>Asynchronous messaging is a concept that you here a lot about especially when it comes to event driven architecture. And every time it seems to be something very complicated. But is it? I can explain it in less than 2 minutes!
-#softwarearchitecture #softwaredesign #programming</description>
-      <author> (Codewrinkles)</author>
-      <guid>https://youtube.com/watch?v=qliRzRcJ-8k</guid>
-      <pubDate>Tue, 15 Oct 2024 11:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supercharging .NET Collections with Span and MemoryExtensions</title>
-      <link>https://dotnettips.wordpress.com/2024/10/15/supercharging-net-collections-with-span-and-memoryextensions/</link>
-      <description>This article discusses optimizing code efficiency in .NET using Span and MemoryExtensions for collection operations. It highlights significant performance improvements in common tasks such as findi…</description>
-      <author> (Published by dotNetDave)</author>
-      <guid>https://dotnettips.wordpress.com/2024/10/15/supercharging-net-collections-with-span-and-memoryextensions/</guid>
-      <pubDate>Tue, 15 Oct 2024 10:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Ace Developer Job Interviews: 8 Tips</title>
-      <link>https://youtube.com/watch?v=EJK7UjXF7tc</link>
-      <description>Ace your software developer job interview with these 8 behavioural tips! 
-&amp;#128140; Get Free developer insights like this in your mailbox: https://guiferreira.me/newsletter
-
-⏲️ CHAPTERS
-00:00 Intro
-01:18 Tip 1
-01:57 Tip 2
-02:28 Tip 3
-04:38 Tip 4
-06:25 Tip 5
-07:54 Tip 6
-10:39 Tip 7
-11:52 Tip 8
-14:15 Bonus Tip
-
-#softwareengineer #programming</description>
-      <author> (Gui Ferreira)</author>
-      <guid>https://youtube.com/watch?v=EJK7UjXF7tc</guid>
-      <pubDate>Tue, 15 Oct 2024 10:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure Functions Dependency Injection</title>
-      <link>https://youtube.com/watch?v=EmrqkQLZmsY</link>
-      <description>Here&amp;#39;s how to use dependency injection in Azure Functions!</description>
-      <author> (Codewrinkles)</author>
-      <guid>https://youtube.com/watch?v=EmrqkQLZmsY</guid>
-      <pubDate>Tue, 15 Oct 2024 08:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serverless Gameshow: Pointless</title>
-      <link>https://youtube.com/watch?v=GFTWeOWtxoY</link>
-      <description>The Serverless Gameshow is back with a British twist! It may sound irrelevant, but it’s anything but-- it’s Pointless! 
-
-Sam Lock hosts this unique Serverless quiz show as contestants try to score as few points as possible by coming up with answers no one else can think of. 
-
-On this episode Ryan Cormack, James Eastham, Tobias Schmidt, and Jimmy compete to be crowned the Prince of Pointless, and for a $50 donation to their charity of choice. 
-
-Play along at home and don’t forget to stay hydrated. Pip pip!</description>
-      <author> (James Eastham)</author>
-      <guid>https://youtube.com/watch?v=GFTWeOWtxoY</guid>
-      <pubDate>Tue, 15 Oct 2024 01:01:35 GMT</pubDate>
+      <title>How we Outsmarted CSGO Cheaters with IdentityLogger</title>
+      <link>https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/</link>
+      <description>Learn how IdentityLogger used fingerprinting to combat ban evasion, protecting our CSGO community from relentless cheaters.</description>
+      <author> ()</author>
+      <guid>https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/</guid>
+      <pubDate>Thu, 17 Oct 2024 11:01:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
