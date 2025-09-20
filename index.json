@@ -198,13 +198,5 @@
     "Domain": "thore.io",
     "Description": "This post is an introduction into Arm Memory Tagging Extensions (MTE), a hardware-based defense against memory safety vulnerabilities. Arm MTE is available in Google Pixel 8 devices (released 2023) and in iPhone 17 devices (released 2025).\nThe focus of this post is on explaining the high-level ideas, why MTE is important, and how developers can enable MTE in their Android and iOS apps.\nBackground: memory allocations Programs store data in memory either on the stack or on the heap. Generally, the stack is used for data that is small and whose size is known when the program is compiled. The heap is used for larger data and for data whose size is only known when the program executes (for example, any data that the user inputs).",
     "Confidence": 0.9986651
-  },
-  {
-    "Title": "These Ant Queens Seem to Defy Biology: They Lay Eggs That Hatch Into Another Species",
-    "Url": "https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/",
-    "Timestamp": "2025-09-19T22:02:08",
-    "Domain": "www.smithsonianmag.com",
-    "Description": "Iberian harvester ant queens produce offspring of their own species and of the builder harvester ant, seemingly by cloning males",
-    "Confidence": 0.81365645
   }
 ]
