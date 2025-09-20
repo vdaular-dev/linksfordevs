@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>[PATCH RFC 0/3] Introduce Rust and announce that it will become mandatorty</title>
+      <link>https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/</link>
+      <description />
+      <category>rust</category>
+      <category>git</category>
+      <category>wiki</category>
+      <guid>https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/</guid>
+      <pubDate>Sat, 20 Sep 2025 20:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tempest AI Training - Frenetic!</title>
+      <link>https://youtube.com/watch?v=OCNvj4__vVw</link>
+      <description>A sample of Dave's Garage Tempest AI running on a 7995WX Threadripper with Dual RTX6000 Ada cards</description>
+      <author> (Dave's Garage)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=OCNvj4__vVw</guid>
+      <pubDate>Sat, 20 Sep 2025 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Vibe Coding Is Creating Braindead Coders</title>
       <link>https://nmn.gl/blog/vibe-coding-gambling</link>
       <description>Confession: I’ve been using Claude Code to write all my code for me. And I think it’s making me worse at the thing I’ve loved doing for twelve years. I can clearly see how AI coding is rewiring our brains – it makes developers crave instant gratification instead of deep understanding, and reduces us to gamblers who pull levers for the next hit of working code. If this is happening to me, someone who learned to code in the pre-AI era, what’s it doing to junior developers who’ve never known anything else?</description>
