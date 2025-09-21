@@ -7,6 +7,161 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Running a RAG powered language model on Android using MediaPipe</title>
+      <link>https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/</link>
+      <description>A couple of months ago I gave a talk about running on device SLMs in apps. It was well recieved and refreshing to be able to give a talk where mobile apps can gain an advantage from the rise in language model usage.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blockchain in Zig - PART 1</title>
+      <link>https://blog.mariodev.xyz/blockchaininzig/</link>
+      <description>Building a blockchain in Zig</description>
+      <category>ai</category>
+      <guid>https://blog.mariodev.xyz/blockchaininzig/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Mars manifest: which laws get a seat on the rocket?</title>
+      <link>https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/</link>
+      <description>A thought experiment: if Mars gets only 150 tons of civilization, which laws, systems, and rules make the cut?</description>
+      <category>git</category>
+      <category>math</category>
+      <guid>https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code should be clean because business isn't</title>
+      <link>https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/</link>
+      <description>I am an ardent capitalist.
+I am also an ardent Unix philosopher.
+I have long percieved there to be some interesting tensions between
+these two wolves inside me.
+The Unix philosopher in me wants my code to
+be as simple and flexible as possible, and - not always, but often -
+to minimize the number of lines of code I need to sling to solve a
+given problem.1 The capitalist in me wants to cover as many edge
+cases as possible, make every transition as smooth as possible, and
+apply as much napalm to the fire of user acquisition and douse its twin
+flame user churn in liquid death of another kind. What to do?</description>
+      <category>sql</category>
+      <category>azure</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>When Scrolling Becomes the Default</title>
+      <link>https://wns.bearblog.dev/when-scrolling-becomes-the-default/</link>
+      <description>I woke up today at 1pm after a long night of sleep (thank god it's the weekend), and before I knew it, it was 5pm. That's a large chunk of my day gone by, an...</description>
+      <category>youtube</category>
+      <guid>https://wns.bearblog.dev/when-scrolling-becomes-the-default/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Filter the tools from MCP servers</title>
+      <link>http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html</link>
+      <description>   What I like about MCP servers: they give me lots of great tools that can make my agents more powerful, with very little work on my side. ...</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>git</category>
+      <guid>http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Does a PostgreSQL UPDATE Query Increase Table Size?</title>
+      <link>https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/</link>
+      <description>The statement is ultimately false, but a single update query will cause the table's size to increase. This occurs due to PostgreSQL's storage model and its use of MVCC (Multi-Version Concurrency Control). To fully explain this, we must first understand these two concepts.
+
+
+PostgreSQL's storage model
+
+
+
+
+PostgreSQL stores all database</description>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kafka to HelixDB | langchain-beam</title>
+      <link>https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/</link>
+      <description>The Kafka to helixdb Pipeline is a pre-built Apache Beam streaming pipeline that lets you consume real-time text data from Kafka topics, generate embeddings using OpenAI models, and store the vectors into HelixDB node for similarity search and retrieval. The pipeline automatically handles windowing, embedding generation, and upserts to HelixDb's endpoint.</description>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>amazon</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trying Jujutsu VCS - mkaz.blog</title>
+      <link>https://mkaz.blog/code/jujutsu-vcs/</link>
+      <description>Marcus Kazmierczak's blog about code, data visualization, and life</description>
+      <category>git</category>
+      <guid>https://mkaz.blog/code/jujutsu-vcs/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs</title>
+      <link>https://eugeneyan.com/writing/semantic-ids/</link>
+      <description>An LLM that can converse in English &amp; item IDs, and make recommendations w/o retrieval or tools.</description>
+      <author> (https://eugeneyan.com/about/)</author>
+      <category>amazon</category>
+      <category>gaming</category>
+      <category>azure</category>
+      <category>cloud</category>
+      <guid>https://eugeneyan.com/writing/semantic-ids/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Exit to Restart</title>
+      <link>https://blog.kalo.me/p/from-exit-to-restart</link>
+      <description>A Framework for Navigating Post-Exit Uncertainty</description>
+      <category>2ndbrain</category>
+      <category>health</category>
+      <category>marketing</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://blog.kalo.me/p/from-exit-to-restart</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Trouble with Wilderness; or, Getting Back to the Wrong Nature</title>
+      <link>https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html</link>
+      <description>The influential essay that prompted a lively public conversation about the meaning of wilderness in American culture.</description>
+      <guid>https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>MagSafe Ice Packs</title>
+      <link>https://justin.searls.co/shots/2025-09-20-13h42m01s/</link>
+      <description>So here's a neat way to magically cut in half the time it takes to transfer to your new iPhone.
+Back in 2019, I realized iPhone restores run much faster when…</description>
+      <author> (https://justin.searls.co/about)</author>
+      <category>health</category>
+      <category>apple</category>
+      <guid>https://justin.searls.co/shots/2025-09-20-13h42m01s/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Journey to Stop Using My Phone</title>
+      <link>https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/</link>
+      <description>At some point this past summer, I decided I needed to find ways to stop myself from using my phone. Not completely, of course. Smartphones…</description>
+      <category>audio</category>
+      <category>health</category>
+      <guid>https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/</guid>
+      <pubDate>Sun, 21 Sep 2025 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Seattle Ultrasonics</title>
       <link>https://seattleultrasonics.com/</link>
       <description>Discover Seattle Ultrasonics, a startup founded by culinary technologist Scott Heimendinger. We're on a mission to make happy home cooks, and we're starting by building a better knife.</description>
@@ -177,19 +332,6 @@ Sep 2025</description>
       <category>git</category>
       <guid>https://obsidian.md/blog/less-is-safer/</guid>
       <pubDate>Sat, 20 Sep 2025 07:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dev Culture Is Dying The Curious Developer Is Gone</title>
-      <link>https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/</link>
-      <description>From tinkerers to metric seekers: How the shift in developer culture is impacting innovation and creativity.</description>
-      <author> (Dayvi Schuster)</author>
-      <category>nodejs</category>
-      <category>audio</category>
-      <category>containers</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/</guid>
-      <pubDate>Sat, 20 Sep 2025 00:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

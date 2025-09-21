@@ -1,0 +1,100 @@
+[
+  {
+    "Title": "Running a RAG powered language model on Android using MediaPipe",
+    "Url": "https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/",
+    "Timestamp": "2025-09-21T00:03:01",
+    "Domain": "darrylbayliss.net",
+    "Description": "A couple of months ago I gave a talk about running on device SLMs in apps. It was well recieved and refreshing to be able to give a talk where mobile apps can gain an advantage from the rise in language model usage."
+  },
+  {
+    "Title": "Blockchain in Zig - PART 1",
+    "Url": "https://blog.mariodev.xyz/blockchaininzig/",
+    "Timestamp": "2025-09-21T00:02:57",
+    "Domain": "blog.mariodev.xyz",
+    "Description": "Building a blockchain in Zig"
+  },
+  {
+    "Title": "The Mars manifest: which laws get a seat on the rocket?",
+    "Url": "https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/",
+    "Timestamp": "2025-09-21T00:02:53",
+    "Domain": "st.im",
+    "Description": "A thought experiment: if Mars gets only 150 tons of civilization, which laws, systems, and rules make the cut?"
+  },
+  {
+    "Title": "Code should be clean because business isn't",
+    "Url": "https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/",
+    "Timestamp": "2025-09-21T00:02:50",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "I am an ardent capitalist.\nI am also an ardent Unix philosopher.\nI have long percieved there to be some interesting tensions between\nthese two wolves inside me.\nThe Unix philosopher in me wants my code to\nbe as simple and flexible as possible, and - not always, but often -\nto minimize the number of lines of code I need to sling to solve a\ngiven problem.1 The capitalist in me wants to cover as many edge\ncases as possible, make every transition as smooth as possible, and\napply as much napalm to the fire of user acquisition and douse its twin\nflame user churn in liquid death of another kind. What to do?"
+  },
+  {
+    "Title": "When Scrolling Becomes the Default",
+    "Url": "https://wns.bearblog.dev/when-scrolling-becomes-the-default/",
+    "Timestamp": "2025-09-21T00:02:46",
+    "Domain": "wns.bearblog.dev",
+    "Description": "I woke up today at 1pm after a long night of sleep (thank god it's the weekend), and before I knew it, it was 5pm. That's a large chunk of my day gone by, an..."
+  },
+  {
+    "Title": "Filter the tools from MCP servers",
+    "Url": "http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html",
+    "Timestamp": "2025-09-21T00:02:43",
+    "Domain": "blog.pamelafox.org",
+    "Description": "   What I like about MCP servers: they give me lots of great tools that can make my agents more powerful, with very little work on my side. ..."
+  },
+  {
+    "Title": "Why Does a PostgreSQL UPDATE Query Increase Table Size?",
+    "Url": "https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/",
+    "Timestamp": "2025-09-21T00:02:39",
+    "Domain": "happy-bardeen-m0xy9ga77q.liara.run",
+    "Description": "The statement is ultimately false, but a single update query will cause the table's size to increase. This occurs due to PostgreSQL's storage model and its use of MVCC (Multi-Version Concurrency Control). To fully explain this, we must first understand these two concepts.\n\n\nPostgreSQL's storage model\n\n\n\n\nPostgreSQL stores all database"
+  },
+  {
+    "Title": "Kafka to HelixDB | langchain-beam",
+    "Url": "https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/",
+    "Timestamp": "2025-09-21T00:02:32",
+    "Domain": "ganeshsivakumar.github.io",
+    "Description": "The Kafka to helixdb Pipeline is a pre-built Apache Beam streaming pipeline that lets you consume real-time text data from Kafka topics, generate embeddings using OpenAI models, and store the vectors into HelixDB node for similarity search and retrieval. The pipeline automatically handles windowing, embedding generation, and upserts to HelixDb's endpoint."
+  },
+  {
+    "Title": "Trying Jujutsu VCS - mkaz.blog",
+    "Url": "https://mkaz.blog/code/jujutsu-vcs/",
+    "Timestamp": "2025-09-21T00:02:28",
+    "Domain": "mkaz.blog",
+    "Description": "Marcus Kazmierczak's blog about code, data visualization, and life"
+  },
+  {
+    "Title": "How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs",
+    "Url": "https://eugeneyan.com/writing/semantic-ids/",
+    "Timestamp": "2025-09-21T00:02:24",
+    "Domain": "eugeneyan.com",
+    "Description": "An LLM that can converse in English & item IDs, and make recommendations w/o retrieval or tools."
+  },
+  {
+    "Title": "From Exit to Restart",
+    "Url": "https://blog.kalo.me/p/from-exit-to-restart",
+    "Timestamp": "2025-09-21T00:02:20",
+    "Domain": "blog.kalo.me",
+    "Description": "A Framework for Navigating Post-Exit Uncertainty"
+  },
+  {
+    "Title": "The Trouble with Wilderness; or, Getting Back to the Wrong Nature",
+    "Url": "https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html",
+    "Timestamp": "2025-09-21T00:02:15",
+    "Domain": "www.williamcronon.net",
+    "Description": "The influential essay that prompted a lively public conversation about the meaning of wilderness in American culture."
+  },
+  {
+    "Title": "MagSafe Ice Packs",
+    "Url": "https://justin.searls.co/shots/2025-09-20-13h42m01s/",
+    "Timestamp": "2025-09-21T00:02:12",
+    "Domain": "justin.searls.co",
+    "Description": "So here's a neat way to magically cut in half the time it takes to transfer to your new iPhone.\nBack in 2019, I realized iPhone restores run much faster when…"
+  },
+  {
+    "Title": "My Journey to Stop Using My Phone",
+    "Url": "https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/",
+    "Timestamp": "2025-09-21T00:02:08",
+    "Domain": "plbrault.com",
+    "Description": "At some point this past summer, I decided I needed to find ways to stop myself from using my phone. Not completely, of course. Smartphones…"
+  }
+]
