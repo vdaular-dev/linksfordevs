@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Random Mutation Hill Climbing (RMHC)</title>
+      <link>https://www.4rknova.com//blog/2025/09/20/rmhc</link>
+      <description>An exploration of how we approximate an image using an evolutionary strategy. One candidate, one mutation, accept if better. We climb the fitness landscape in real time with frame-budgeted renderin...</description>
+      <category>health</category>
+      <category>math</category>
+      <guid>https://www.4rknova.com//blog/2025/09/20/rmhc</guid>
+      <pubDate>Sun, 21 Sep 2025 03:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Running a RAG powered language model on Android using MediaPipe</title>
       <link>https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/</link>
       <description>A couple of months ago I gave a talk about running on device SLMs in apps. It was well recieved and refreshing to be able to give a talk where mobile apps can gain an advantage from the rise in language model usage.</description>

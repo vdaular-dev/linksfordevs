@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Random Mutation Hill Climbing (RMHC)",
+    "Url": "https://www.4rknova.com//blog/2025/09/20/rmhc",
+    "Timestamp": "2025-09-21T03:02:08",
+    "Domain": "www.4rknova.com",
+    "Description": "An exploration of how we approximate an image using an evolutionary strategy. One candidate, one mutation, accept if better. We climb the fitness landscape in real time with frame-budgeted renderin..."
+  },
+  {
     "Title": "Running a RAG powered language model on Android using MediaPipe",
     "Url": "https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/",
     "Timestamp": "2025-09-21T00:03:01",
