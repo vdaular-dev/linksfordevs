@@ -190,13 +190,5 @@
     "Domain": "www.4rknova.com",
     "Description": "A practical guide to triple buffering, how it improves smoothness and throughput over double buffering, when to use it, and how to wire it up in modern APIs.",
     "Confidence": 0.99420345
-  },
-  {
-    "Title": "Less is safer: how Obsidian reduces the risk of supply chain attacks",
-    "Url": "https://obsidian.md/blog/less-is-safer/",
-    "Timestamp": "2025-09-20T07:01:58",
-    "Domain": "obsidian.md",
-    "Description": "Supply chain attacks are malicious updates that sneak into open source code used by many apps. Here’s how we design Obsidian to ensure that the app is a secure and private environment for your thoughts.",
-    "Confidence": 0.97614044
   }
 ]
