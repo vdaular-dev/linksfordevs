@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Piercing</title>
+      <link>https://xkcd.com/3145/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3145/</guid>
+      <pubDate>Mon, 22 Sep 2025 21:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ray marching a blob in 3D</title>
+      <link>https://www.4rknova.com//blog/2025/09/21/blob-3d</link>
+      <description>A deep dive into rendering animated metaballs (aka blobs) with ray marching, PBR shading, shadows, and CPU driven simulation in WebGL and Three.js.</description>
+      <category>math</category>
+      <guid>https://www.4rknova.com//blog/2025/09/21/blob-3d</guid>
+      <pubDate>Mon, 22 Sep 2025 21:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cap'n Web: A new RPC system for browsers and web servers</title>
+      <link>https://blog.cloudflare.com/capnweb-javascript-rpc-library/</link>
+      <description>Cap'n Web is a new open source, JavaScript-native RPC protocol for use in browsers and web servers. It provides the expressive power of Cap'n Proto, but with no schemas and no boilerplate.
+</description>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <guid>https://blog.cloudflare.com/capnweb-javascript-rpc-library/</guid>
+      <pubDate>Mon, 22 Sep 2025 21:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems</title>
       <link>https://openai.com/index/openai-nvidia-systems-partnership/</link>
       <description>OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.</description>
@@ -311,13 +338,6 @@ I started this project by writing a small utility to decrypt the PVK key, as it 
       <category>hardware</category>
       <guid>https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/</guid>
       <pubDate>Sun, 21 Sep 2025 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to stop functional programming</title>
-      <link>https://brianmckenna.org/blog/howtostopfp</link>
-      <description>The following has never happened to me but I often hear stories.</description>
-      <guid>https://brianmckenna.org/blog/howtostopfp</guid>
-      <pubDate>Sun, 21 Sep 2025 21:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
