@@ -230,13 +230,5 @@
     "Domain": "mattboisvert.net",
     "Description": "Having spent some time across quite distinct infrastructure codebases and developer environments, from isolated,\n            simple platforms to large monolithic behemoths, I have seen a common pattern to solving new infrastructure problems. First, an engineer performs effective discovery\n            to decide if someone else has solved the same problem that you are facing. Next, if the organization\n            requires a domain-specific solution, they create an MVP that demonstrates the merits of the new system.",
     "Confidence": 0.98888856
-  },
-  {
-    "Title": "GitHub - rxi/sj.h: A tiny little JSON parsing library",
-    "Url": "https://github.com/rxi/sj.h",
-    "Timestamp": "2025-09-21T23:02:00",
-    "Domain": "github.com",
-    "Description": "A tiny little JSON parsing library. Contribute to rxi/sj.h development by creating an account on GitHub.",
-    "Confidence": 0.99381655
   }
 ]
