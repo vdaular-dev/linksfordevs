@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Microsoft Just Fixed the LTS/STS Problem of .NET",
+    "Url": "https://youtube.com/watch?v=3i6YASbyuHw",
+    "Timestamp": "2025-09-22T11:02:01",
+    "Domain": "youtube.com",
+    "Description": "Get 20% off everything on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=BTS2025\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nHello, everybody. I'm Nick, and in this video, we will talk about the recent LTS and STS change that Microsoft introduced for .NET. The lifecycle support is a common issue that .NET developers raise, mainly around how short it is, but there was another issue that you might not know about.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "curl disclosed on HackerOne: Stack Buffer Overflow in cURL Cookie...",
+    "Url": "https://hackerone.com/reports/3340109",
+    "Timestamp": "2025-09-22T11:02:00",
+    "Domain": "hackerone.com",
+    "Description": "## Summary\nI discovered a critical stack-based buffer overflow vulnerability in cURL's cookie parsing mechanism that can lead to remote code execution. The vulnerability occurs when processing maliciously crafted HTTP cookies, affecting all applications that use libcurl for HTTP requests.\n\n## Description\nDuring security research on cURL's cookie handling implementation, I identified a stack..."
+  },
+  {
     "Title": "DXGI debugging: Microsoft put me on a list",
     "Url": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
     "Timestamp": "2025-09-22T08:02:09",
