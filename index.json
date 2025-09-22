@@ -1,5 +1,109 @@
 [
   {
+    "Title": "What happens when coding agents stop feeling like dialup?",
+    "Url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+    "Timestamp": "2025-09-22T00:02:57",
+    "Domain": "martinalderson.com",
+    "Description": "From magical to frustrating in months. Why AI coding agents feel like dial-up internet and what ultra-fast inference could unlock for developer productivity.",
+    "Confidence": 0.95053047
+  },
+  {
+    "Title": "Ankit Sultana",
+    "Url": "https://ankitsultana.com/2025/09/12/questdb-braindump.html",
+    "Timestamp": "2025-09-22T00:02:54",
+    "Domain": "ankitsultana.com",
+    "Description": "My Personal Website. This is essentially a fork of one of my other Jekyll Resume Templates called Researcher: http://github.com/ankitsultana/researcher",
+    "Confidence": 0.9782161
+  },
+  {
+    "Title": "Building Search for this Site",
+    "Url": "https://alexleighton.com/posts/2025-08-09-building-search-for-this-site.html",
+    "Timestamp": "2025-09-22T00:02:50",
+    "Domain": "alexleighton.com",
+    "Description": "Search on a static site.",
+    "Confidence": 0.99850607
+  },
+  {
+    "Title": "Informing Engineering Decisions with Bite-Size Data",
+    "Url": "https://joeldare.com/informing-engineering-decisions-with-bite-size-data",
+    "Timestamp": "2025-09-22T00:02:46",
+    "Domain": "joeldare.com",
+    "Description": "Home - About",
+    "Confidence": 0.9924866
+  },
+  {
+    "Title": "Bringing Metal to a crypto backdoor fight! Exploiting the GPU and the 90s crypto wars to crack the APT Down code signing keys",
+    "Url": "https://reverse.put.as/2025/08/24/rc4bruteforce/",
+    "Timestamp": "2025-09-22T00:02:43",
+    "Domain": "reverse.put.as",
+    "Description": "The APT Down leak contained four code signing certificates and the passphrase only for the most recent one. Since the passphrase was found on the usual rockyou.txt wordlist, I was curious to see if the remaining three could be cracked using the same wordlist.\nI started this project by writing a small utility to decrypt the PVK key, as it could be easily tested with the known passphrase. The code appeared correct, but it wasn’t working.",
+    "Confidence": 0.9859649
+  },
+  {
+    "Title": "Everything Looks Good Enough (Or “The Limits of Fidelity”)",
+    "Url": "https://antrikshy.com/film/everything-looks-good-enough",
+    "Timestamp": "2025-09-22T00:02:38",
+    "Domain": "antrikshy.com",
+    "Description": "Film is beautiful, games are realistic. Everything looks good enough. We’re finally here. Let’s focus on other things.",
+    "Confidence": 0.9706175
+  },
+  {
+    "Title": "Science of the Gaps | Luke Smith",
+    "Url": "https://lukesmith.xyz/articles/science-of-the-gaps/",
+    "Timestamp": "2025-09-22T00:02:34",
+    "Domain": "lukesmith.xyz",
+    "Description": "Science is truly amazing, especially when we imagine most of it...",
+    "Confidence": 0.87155145
+  },
+  {
+    "Title": "How a String Library Beat OpenCV at Image Processing by 4x",
+    "Url": "https://ashvardanian.com/posts/image-processing-with-strings/",
+    "Timestamp": "2025-09-22T00:02:25",
+    "Domain": "ashvardanian.com",
+    "Description": "To my great surprise, one of the biggest current users of my StringZilla library in the Python ecosystem is one of the world’s most widely used Image Augmentation libraries - Albumentations with over 100 million downloads on PyPI, growing by 5 million every month. Last year, Albumentations swapped parts of OpenCV - the world’s most widely used image processing library with 32 million monthly downloads in Python - for my strings library 🤯",
+    "Confidence": 0.99723685
+  },
+  {
+    "Title": "How I Use LLMs to Write the Majority of My Code",
+    "Url": "https://boredhacking.com/coding-with-llms/",
+    "Timestamp": "2025-09-22T00:02:22",
+    "Domain": "boredhacking.com",
+    "Description": "As a staff engineer at an early-stage startup, I rely on LLM-powered coding assistants like Cursor, Claude, and ChatGPT to move faster while writing less code by hand. This post shares practical workflows, prompting strategies, and principles for using AI tools effectively in real-world software engineering.",
+    "Confidence": 0.9926315
+  },
+  {
+    "Title": "Three Years and 100 Commits Later: A Reflection",
+    "Url": "https://priyavr.at/blog/100-commits/",
+    "Timestamp": "2025-09-22T00:02:18",
+    "Domain": "priyavr.at",
+    "Description": "A reflection on the three-year journey of a website and a call to reclaim the web.",
+    "Confidence": 0.8525017
+  },
+  {
+    "Title": "Writing my own communications library - a worklog of creating Penny part 1",
+    "Url": "https://szymonozog.github.io/posts/2025-09-21-Penny-worklog-1.html",
+    "Timestamp": "2025-09-22T00:02:14",
+    "Domain": "szymonozog.github.io",
+    "Description": "Blogpost",
+    "Confidence": 0.99771726
+  },
+  {
+    "Title": "Linkgraphs are fun • AndreGarzia.com",
+    "Url": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+    "Timestamp": "2025-09-22T00:02:10",
+    "Domain": "andregarzia.com",
+    "Description": "AndreGarzia.com website",
+    "Confidence": 0.9889835
+  },
+  {
+    "Title": "Taxonomize Your Infrastructure - Blog",
+    "Url": "https://mattboisvert.net/blog/taxonomize-your-infrastructure",
+    "Timestamp": "2025-09-22T00:02:04",
+    "Domain": "mattboisvert.net",
+    "Description": "Having spent some time across quite distinct infrastructure codebases and developer environments, from isolated,\n            simple platforms to large monolithic behemoths, I have seen a common pattern to solving new infrastructure problems. First, an engineer performs effective discovery\n            to decide if someone else has solved the same problem that you are facing. Next, if the organization\n            requires a domain-specific solution, they create an MVP that demonstrates the merits of the new system.",
+    "Confidence": 0.98888856
+  },
+  {
     "Title": "GitHub - rxi/sj.h: A tiny little JSON parsing library",
     "Url": "https://github.com/rxi/sj.h",
     "Timestamp": "2025-09-21T23:02:00",
@@ -102,117 +206,5 @@
     "Domain": "www.4rknova.com",
     "Description": "An exploration of how we approximate an image using an evolutionary strategy. One candidate, one mutation, accept if better. We climb the fitness landscape in real time with frame-budgeted renderin...",
     "Confidence": 0.96534246
-  },
-  {
-    "Title": "Running a RAG powered language model on Android using MediaPipe",
-    "Url": "https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/",
-    "Timestamp": "2025-09-21T00:03:01",
-    "Domain": "darrylbayliss.net",
-    "Description": "A couple of months ago I gave a talk about running on device SLMs in apps. It was well recieved and refreshing to be able to give a talk where mobile apps can gain an advantage from the rise in language model usage.",
-    "Confidence": 0.9965438
-  },
-  {
-    "Title": "Blockchain in Zig - PART 1",
-    "Url": "https://blog.mariodev.xyz/blockchaininzig/",
-    "Timestamp": "2025-09-21T00:02:57",
-    "Domain": "blog.mariodev.xyz",
-    "Description": "Building a blockchain in Zig",
-    "Confidence": 0.99607265
-  },
-  {
-    "Title": "The Mars manifest: which laws get a seat on the rocket?",
-    "Url": "https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/",
-    "Timestamp": "2025-09-21T00:02:53",
-    "Domain": "st.im",
-    "Description": "A thought experiment: if Mars gets only 150 tons of civilization, which laws, systems, and rules make the cut?",
-    "Confidence": 0.80095845
-  },
-  {
-    "Title": "Code should be clean because business isn't",
-    "Url": "https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/",
-    "Timestamp": "2025-09-21T00:02:50",
-    "Domain": "til.andrew-quinn.me",
-    "Description": "I am an ardent capitalist.\nI am also an ardent Unix philosopher.\nI have long percieved there to be some interesting tensions between\nthese two wolves inside me.\nThe Unix philosopher in me wants my code to\nbe as simple and flexible as possible, and - not always, but often -\nto minimize the number of lines of code I need to sling to solve a\ngiven problem.1 The capitalist in me wants to cover as many edge\ncases as possible, make every transition as smooth as possible, and\napply as much napalm to the fire of user acquisition and douse its twin\nflame user churn in liquid death of another kind. What to do?",
-    "Confidence": 0.959809
-  },
-  {
-    "Title": "When Scrolling Becomes the Default",
-    "Url": "https://wns.bearblog.dev/when-scrolling-becomes-the-default/",
-    "Timestamp": "2025-09-21T00:02:46",
-    "Domain": "wns.bearblog.dev",
-    "Description": "I woke up today at 1pm after a long night of sleep (thank god it's the weekend), and before I knew it, it was 5pm. That's a large chunk of my day gone by, an...",
-    "Confidence": 0.79931736
-  },
-  {
-    "Title": "Filter the tools from MCP servers",
-    "Url": "http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html",
-    "Timestamp": "2025-09-21T00:02:43",
-    "Domain": "blog.pamelafox.org",
-    "Description": "   What I like about MCP servers: they give me lots of great tools that can make my agents more powerful, with very little work on my side. ...",
-    "Confidence": 0.99830043
-  },
-  {
-    "Title": "Why Does a PostgreSQL UPDATE Query Increase Table Size?",
-    "Url": "https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/",
-    "Timestamp": "2025-09-21T00:02:39",
-    "Domain": "happy-bardeen-m0xy9ga77q.liara.run",
-    "Description": "The statement is ultimately false, but a single update query will cause the table's size to increase. This occurs due to PostgreSQL's storage model and its use of MVCC (Multi-Version Concurrency Control). To fully explain this, we must first understand these two concepts.\n\n\nPostgreSQL's storage model\n\n\n\n\nPostgreSQL stores all database",
-    "Confidence": 0.98809063
-  },
-  {
-    "Title": "Kafka to HelixDB | langchain-beam",
-    "Url": "https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/",
-    "Timestamp": "2025-09-21T00:02:32",
-    "Domain": "ganeshsivakumar.github.io",
-    "Description": "The Kafka to helixdb Pipeline is a pre-built Apache Beam streaming pipeline that lets you consume real-time text data from Kafka topics, generate embeddings using OpenAI models, and store the vectors into HelixDB node for similarity search and retrieval. The pipeline automatically handles windowing, embedding generation, and upserts to HelixDb's endpoint.",
-    "Confidence": 0.998736
-  },
-  {
-    "Title": "Trying Jujutsu VCS - mkaz.blog",
-    "Url": "https://mkaz.blog/code/jujutsu-vcs/",
-    "Timestamp": "2025-09-21T00:02:28",
-    "Domain": "mkaz.blog",
-    "Description": "Marcus Kazmierczak's blog about code, data visualization, and life",
-    "Confidence": 0.9891275
-  },
-  {
-    "Title": "How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs",
-    "Url": "https://eugeneyan.com/writing/semantic-ids/",
-    "Timestamp": "2025-09-21T00:02:24",
-    "Domain": "eugeneyan.com",
-    "Description": "An LLM that can converse in English & item IDs, and make recommendations w/o retrieval or tools.",
-    "Confidence": 0.9765019
-  },
-  {
-    "Title": "From Exit to Restart",
-    "Url": "https://blog.kalo.me/p/from-exit-to-restart",
-    "Timestamp": "2025-09-21T00:02:20",
-    "Domain": "blog.kalo.me",
-    "Description": "A Framework for Navigating Post-Exit Uncertainty",
-    "Confidence": 0.9629705
-  },
-  {
-    "Title": "The Trouble with Wilderness; or, Getting Back to the Wrong Nature",
-    "Url": "https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html",
-    "Timestamp": "2025-09-21T00:02:15",
-    "Domain": "www.williamcronon.net",
-    "Description": "The influential essay that prompted a lively public conversation about the meaning of wilderness in American culture.",
-    "Confidence": 0.7492148
-  },
-  {
-    "Title": "MagSafe Ice Packs",
-    "Url": "https://justin.searls.co/shots/2025-09-20-13h42m01s/",
-    "Timestamp": "2025-09-21T00:02:12",
-    "Domain": "justin.searls.co",
-    "Description": "So here's a neat way to magically cut in half the time it takes to transfer to your new iPhone.\nBack in 2019, I realized iPhone restores run much faster when…",
-    "Confidence": 0.84126765
-  },
-  {
-    "Title": "My Journey to Stop Using My Phone",
-    "Url": "https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/",
-    "Timestamp": "2025-09-21T00:02:08",
-    "Domain": "plbrault.com",
-    "Description": "At some point this past summer, I decided I needed to find ways to stop myself from using my phone. Not completely, of course. Smartphones…",
-    "Confidence": 0.9676287
   }
 ]

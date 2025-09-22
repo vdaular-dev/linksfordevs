@@ -7,6 +7,139 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What happens when coding agents stop feeling like dialup?</title>
+      <link>https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/</link>
+      <description>From magical to frustrating in months. Why AI coding agents feel like dial-up internet and what ultra-fast inference could unlock for developer productivity.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <guid>https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ankit Sultana</title>
+      <link>https://ankitsultana.com/2025/09/12/questdb-braindump.html</link>
+      <description>My Personal Website. This is essentially a fork of one of my other Jekyll Resume Templates called Researcher: http://github.com/ankitsultana/researcher</description>
+      <category>rust</category>
+      <category>2ndbrain</category>
+      <category>sql</category>
+      <category>compilers</category>
+      <category>wiki</category>
+      <guid>https://ankitsultana.com/2025/09/12/questdb-braindump.html</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Search for this Site</title>
+      <link>https://alexleighton.com/posts/2025-08-09-building-search-for-this-site.html</link>
+      <description>Search on a static site.</description>
+      <author> (Alex Leighton)</author>
+      <category>javascript</category>
+      <category>compilers</category>
+      <category>html</category>
+      <guid>https://alexleighton.com/posts/2025-08-09-building-search-for-this-site.html</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Informing Engineering Decisions with Bite-Size Data</title>
+      <link>https://joeldare.com/informing-engineering-decisions-with-bite-size-data</link>
+      <description>Home - About</description>
+      <category>css</category>
+      <category>html</category>
+      <guid>https://joeldare.com/informing-engineering-decisions-with-bite-size-data</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bringing Metal to a crypto backdoor fight! Exploiting the GPU and the 90s crypto wars to crack the APT Down code signing keys</title>
+      <link>https://reverse.put.as/2025/08/24/rc4bruteforce/</link>
+      <description>The APT Down leak contained four code signing certificates and the passphrase only for the most recent one. Since the passphrase was found on the usual rockyou.txt wordlist, I was curious to see if the remaining three could be cracked using the same wordlist.
+I started this project by writing a small utility to decrypt the PVK key, as it could be easily tested with the known passphrase. The code appeared correct, but it wasn’t working.</description>
+      <category>encryption</category>
+      <category>cryptography</category>
+      <category>2ndbrain</category>
+      <category>apple</category>
+      <category>hardware</category>
+      <guid>https://reverse.put.as/2025/08/24/rc4bruteforce/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything Looks Good Enough (Or “The Limits of Fidelity”)</title>
+      <link>https://antrikshy.com/film/everything-looks-good-enough</link>
+      <description>Film is beautiful, games are realistic. Everything looks good enough. We’re finally here. Let’s focus on other things.</description>
+      <category>visualstudio</category>
+      <category>gaming</category>
+      <category>hardware</category>
+      <category>ai</category>
+      <guid>https://antrikshy.com/film/everything-looks-good-enough</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Science of the Gaps | Luke Smith</title>
+      <link>https://lukesmith.xyz/articles/science-of-the-gaps/</link>
+      <description>Science is truly amazing, especially when we imagine most of it...</description>
+      <category>rust</category>
+      <guid>https://lukesmith.xyz/articles/science-of-the-gaps/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a String Library Beat OpenCV at Image Processing by 4x</title>
+      <link>https://ashvardanian.com/posts/image-processing-with-strings/</link>
+      <description>To my great surprise, one of the biggest current users of my StringZilla library in the Python ecosystem is one of the world’s most widely used Image Augmentation libraries - Albumentations with over 100 million downloads on PyPI, growing by 5 million every month. Last year, Albumentations swapped parts of OpenCV - the world’s most widely used image processing library with 32 million monthly downloads in Python - for my strings library 🤯</description>
+      <category>python</category>
+      <category>hardware</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <guid>https://ashvardanian.com/posts/image-processing-with-strings/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Use LLMs to Write the Majority of My Code</title>
+      <link>https://boredhacking.com/coding-with-llms/</link>
+      <description>As a staff engineer at an early-stage startup, I rely on LLM-powered coding assistants like Cursor, Claude, and ChatGPT to move faster while writing less code by hand. This post shares practical workflows, prompting strategies, and principles for using AI tools effectively in real-world software engineering.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>css</category>
+      <guid>https://boredhacking.com/coding-with-llms/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Years and 100 Commits Later: A Reflection</title>
+      <link>https://priyavr.at/blog/100-commits/</link>
+      <description>A reflection on the three-year journey of a website and a call to reclaim the web.</description>
+      <guid>https://priyavr.at/blog/100-commits/</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing my own communications library - a worklog of creating Penny part 1</title>
+      <link>https://szymonozog.github.io/posts/2025-09-21-Penny-worklog-1.html</link>
+      <description>Blogpost</description>
+      <category>nodejs</category>
+      <guid>https://szymonozog.github.io/posts/2025-09-21-Penny-worklog-1.html</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linkgraphs are fun • AndreGarzia.com</title>
+      <link>https://andregarzia.com/2025/09/linkgraphs-are-fun.html</link>
+      <description>AndreGarzia.com website</description>
+      <category>javascript</category>
+      <category>html</category>
+      <guid>https://andregarzia.com/2025/09/linkgraphs-are-fun.html</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Taxonomize Your Infrastructure - Blog</title>
+      <link>https://mattboisvert.net/blog/taxonomize-your-infrastructure</link>
+      <description>Having spent some time across quite distinct infrastructure codebases and developer environments, from isolated,
+            simple platforms to large monolithic behemoths, I have seen a common pattern to solving new infrastructure problems. First, an engineer performs effective discovery
+            to decide if someone else has solved the same problem that you are facing. Next, if the organization
+            requires a domain-specific solution, they create an MVP that demonstrates the merits of the new system.</description>
+      <category>devops</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>hardware</category>
+      <category>ai</category>
+      <guid>https://mattboisvert.net/blog/taxonomize-your-infrastructure</guid>
+      <pubDate>Mon, 22 Sep 2025 00:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - rxi/sj.h: A tiny little JSON parsing library</title>
       <link>https://github.com/rxi/sj.h</link>
       <description>A tiny little JSON parsing library. Contribute to rxi/sj.h development by creating an account on GitHub.</description>
@@ -119,161 +252,6 @@
       <category>math</category>
       <guid>https://www.4rknova.com//blog/2025/09/20/rmhc</guid>
       <pubDate>Sun, 21 Sep 2025 03:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running a RAG powered language model on Android using MediaPipe</title>
-      <link>https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/</link>
-      <description>A couple of months ago I gave a talk about running on device SLMs in apps. It was well recieved and refreshing to be able to give a talk where mobile apps can gain an advantage from the rise in language model usage.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://darrylbayliss.net/running-a-rag-powered-language-model-on-android-using-mediapipe/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blockchain in Zig - PART 1</title>
-      <link>https://blog.mariodev.xyz/blockchaininzig/</link>
-      <description>Building a blockchain in Zig</description>
-      <category>ai</category>
-      <guid>https://blog.mariodev.xyz/blockchaininzig/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Mars manifest: which laws get a seat on the rocket?</title>
-      <link>https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/</link>
-      <description>A thought experiment: if Mars gets only 150 tons of civilization, which laws, systems, and rules make the cut?</description>
-      <category>git</category>
-      <category>math</category>
-      <guid>https://st.im/posts/the-mars-manifest-which-laws-get-a-seat-on-the-rocket/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code should be clean because business isn't</title>
-      <link>https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/</link>
-      <description>I am an ardent capitalist.
-I am also an ardent Unix philosopher.
-I have long percieved there to be some interesting tensions between
-these two wolves inside me.
-The Unix philosopher in me wants my code to
-be as simple and flexible as possible, and - not always, but often -
-to minimize the number of lines of code I need to sling to solve a
-given problem.1 The capitalist in me wants to cover as many edge
-cases as possible, make every transition as smooth as possible, and
-apply as much napalm to the fire of user acquisition and douse its twin
-flame user churn in liquid death of another kind. What to do?</description>
-      <category>sql</category>
-      <category>azure</category>
-      <category>cloud</category>
-      <category>python</category>
-      <category>gaming</category>
-      <guid>https://til.andrew-quinn.me/posts/code-should-be-clean-because-business-isn-t/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>When Scrolling Becomes the Default</title>
-      <link>https://wns.bearblog.dev/when-scrolling-becomes-the-default/</link>
-      <description>I woke up today at 1pm after a long night of sleep (thank god it's the weekend), and before I knew it, it was 5pm. That's a large chunk of my day gone by, an...</description>
-      <category>youtube</category>
-      <guid>https://wns.bearblog.dev/when-scrolling-becomes-the-default/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Filter the tools from MCP servers</title>
-      <link>http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html</link>
-      <description>   What I like about MCP servers: they give me lots of great tools that can make my agents more powerful, with very little work on my side. ...</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>git</category>
-      <guid>http://blog.pamelafox.org/2025/09/filter-tools-from-mcp-servers.html</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Does a PostgreSQL UPDATE Query Increase Table Size?</title>
-      <link>https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/</link>
-      <description>The statement is ultimately false, but a single update query will cause the table's size to increase. This occurs due to PostgreSQL's storage model and its use of MVCC (Multi-Version Concurrency Control). To fully explain this, we must first understand these two concepts.
-
-
-PostgreSQL's storage model
-
-
-
-
-PostgreSQL stores all database</description>
-      <category>sql</category>
-      <category>git</category>
-      <guid>https://happy-bardeen-m0xy9ga77q.liara.run/why-does-a-postgresql-update-query-increase-table-size/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kafka to HelixDB | langchain-beam</title>
-      <link>https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/</link>
-      <description>The Kafka to helixdb Pipeline is a pre-built Apache Beam streaming pipeline that lets you consume real-time text data from Kafka topics, generate embeddings using OpenAI models, and store the vectors into HelixDB node for similarity search and retrieval. The pipeline automatically handles windowing, embedding generation, and upserts to HelixDb's endpoint.</description>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>amazon</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://ganeshsivakumar.github.io/langchain-beam/docs/templates/kafka-to-helixdb/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trying Jujutsu VCS - mkaz.blog</title>
-      <link>https://mkaz.blog/code/jujutsu-vcs/</link>
-      <description>Marcus Kazmierczak's blog about code, data visualization, and life</description>
-      <category>git</category>
-      <guid>https://mkaz.blog/code/jujutsu-vcs/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs</title>
-      <link>https://eugeneyan.com/writing/semantic-ids/</link>
-      <description>An LLM that can converse in English &amp; item IDs, and make recommendations w/o retrieval or tools.</description>
-      <author> (https://eugeneyan.com/about/)</author>
-      <category>amazon</category>
-      <category>gaming</category>
-      <category>azure</category>
-      <category>cloud</category>
-      <guid>https://eugeneyan.com/writing/semantic-ids/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Exit to Restart</title>
-      <link>https://blog.kalo.me/p/from-exit-to-restart</link>
-      <description>A Framework for Navigating Post-Exit Uncertainty</description>
-      <category>2ndbrain</category>
-      <category>health</category>
-      <category>marketing</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://blog.kalo.me/p/from-exit-to-restart</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Trouble with Wilderness; or, Getting Back to the Wrong Nature</title>
-      <link>https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html</link>
-      <description>The influential essay that prompted a lively public conversation about the meaning of wilderness in American culture.</description>
-      <guid>https://www.williamcronon.net/writing/Trouble_with_Wilderness_Main.html</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>MagSafe Ice Packs</title>
-      <link>https://justin.searls.co/shots/2025-09-20-13h42m01s/</link>
-      <description>So here's a neat way to magically cut in half the time it takes to transfer to your new iPhone.
-Back in 2019, I realized iPhone restores run much faster when…</description>
-      <author> (https://justin.searls.co/about)</author>
-      <category>health</category>
-      <category>apple</category>
-      <guid>https://justin.searls.co/shots/2025-09-20-13h42m01s/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Journey to Stop Using My Phone</title>
-      <link>https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/</link>
-      <description>At some point this past summer, I decided I needed to find ways to stop myself from using my phone. Not completely, of course. Smartphones…</description>
-      <category>audio</category>
-      <category>health</category>
-      <guid>https://plbrault.com/blog-posts/my-journey-to-stop-using-my-phone/</guid>
-      <pubDate>Sun, 21 Sep 2025 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

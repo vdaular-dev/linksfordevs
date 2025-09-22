@@ -1,0 +1,93 @@
+[
+  {
+    "Title": "What happens when coding agents stop feeling like dialup?",
+    "Url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
+    "Timestamp": "2025-09-22T00:02:57",
+    "Domain": "martinalderson.com",
+    "Description": "From magical to frustrating in months. Why AI coding agents feel like dial-up internet and what ultra-fast inference could unlock for developer productivity."
+  },
+  {
+    "Title": "Ankit Sultana",
+    "Url": "https://ankitsultana.com/2025/09/12/questdb-braindump.html",
+    "Timestamp": "2025-09-22T00:02:54",
+    "Domain": "ankitsultana.com",
+    "Description": "My Personal Website. This is essentially a fork of one of my other Jekyll Resume Templates called Researcher: http://github.com/ankitsultana/researcher"
+  },
+  {
+    "Title": "Building Search for this Site",
+    "Url": "https://alexleighton.com/posts/2025-08-09-building-search-for-this-site.html",
+    "Timestamp": "2025-09-22T00:02:50",
+    "Domain": "alexleighton.com",
+    "Description": "Search on a static site."
+  },
+  {
+    "Title": "Informing Engineering Decisions with Bite-Size Data",
+    "Url": "https://joeldare.com/informing-engineering-decisions-with-bite-size-data",
+    "Timestamp": "2025-09-22T00:02:46",
+    "Domain": "joeldare.com",
+    "Description": "Home - About"
+  },
+  {
+    "Title": "Bringing Metal to a crypto backdoor fight! Exploiting the GPU and the 90s crypto wars to crack the APT Down code signing keys",
+    "Url": "https://reverse.put.as/2025/08/24/rc4bruteforce/",
+    "Timestamp": "2025-09-22T00:02:43",
+    "Domain": "reverse.put.as",
+    "Description": "The APT Down leak contained four code signing certificates and the passphrase only for the most recent one. Since the passphrase was found on the usual rockyou.txt wordlist, I was curious to see if the remaining three could be cracked using the same wordlist.\nI started this project by writing a small utility to decrypt the PVK key, as it could be easily tested with the known passphrase. The code appeared correct, but it wasn’t working."
+  },
+  {
+    "Title": "Everything Looks Good Enough (Or “The Limits of Fidelity”)",
+    "Url": "https://antrikshy.com/film/everything-looks-good-enough",
+    "Timestamp": "2025-09-22T00:02:38",
+    "Domain": "antrikshy.com",
+    "Description": "Film is beautiful, games are realistic. Everything looks good enough. We’re finally here. Let’s focus on other things."
+  },
+  {
+    "Title": "Science of the Gaps | Luke Smith",
+    "Url": "https://lukesmith.xyz/articles/science-of-the-gaps/",
+    "Timestamp": "2025-09-22T00:02:34",
+    "Domain": "lukesmith.xyz",
+    "Description": "Science is truly amazing, especially when we imagine most of it..."
+  },
+  {
+    "Title": "How a String Library Beat OpenCV at Image Processing by 4x",
+    "Url": "https://ashvardanian.com/posts/image-processing-with-strings/",
+    "Timestamp": "2025-09-22T00:02:25",
+    "Domain": "ashvardanian.com",
+    "Description": "To my great surprise, one of the biggest current users of my StringZilla library in the Python ecosystem is one of the world’s most widely used Image Augmentation libraries - Albumentations with over 100 million downloads on PyPI, growing by 5 million every month. Last year, Albumentations swapped parts of OpenCV - the world’s most widely used image processing library with 32 million monthly downloads in Python - for my strings library 🤯"
+  },
+  {
+    "Title": "How I Use LLMs to Write the Majority of My Code",
+    "Url": "https://boredhacking.com/coding-with-llms/",
+    "Timestamp": "2025-09-22T00:02:22",
+    "Domain": "boredhacking.com",
+    "Description": "As a staff engineer at an early-stage startup, I rely on LLM-powered coding assistants like Cursor, Claude, and ChatGPT to move faster while writing less code by hand. This post shares practical workflows, prompting strategies, and principles for using AI tools effectively in real-world software engineering."
+  },
+  {
+    "Title": "Three Years and 100 Commits Later: A Reflection",
+    "Url": "https://priyavr.at/blog/100-commits/",
+    "Timestamp": "2025-09-22T00:02:18",
+    "Domain": "priyavr.at",
+    "Description": "A reflection on the three-year journey of a website and a call to reclaim the web."
+  },
+  {
+    "Title": "Writing my own communications library - a worklog of creating Penny part 1",
+    "Url": "https://szymonozog.github.io/posts/2025-09-21-Penny-worklog-1.html",
+    "Timestamp": "2025-09-22T00:02:14",
+    "Domain": "szymonozog.github.io",
+    "Description": "Blogpost"
+  },
+  {
+    "Title": "Linkgraphs are fun • AndreGarzia.com",
+    "Url": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
+    "Timestamp": "2025-09-22T00:02:10",
+    "Domain": "andregarzia.com",
+    "Description": "AndreGarzia.com website"
+  },
+  {
+    "Title": "Taxonomize Your Infrastructure - Blog",
+    "Url": "https://mattboisvert.net/blog/taxonomize-your-infrastructure",
+    "Timestamp": "2025-09-22T00:02:04",
+    "Domain": "mattboisvert.net",
+    "Description": "Having spent some time across quite distinct infrastructure codebases and developer environments, from isolated,\n            simple platforms to large monolithic behemoths, I have seen a common pattern to solving new infrastructure problems. First, an engineer performs effective discovery\n            to decide if someone else has solved the same problem that you are facing. Next, if the organization\n            requires a domain-specific solution, they create an MVP that demonstrates the merits of the new system."
+  }
+]
