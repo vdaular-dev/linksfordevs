@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems</title>
+      <link>https://openai.com/index/openai-nvidia-systems-partnership/</link>
+      <description>OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.</description>
+      <category>ai</category>
+      <category>hardware</category>
+      <guid>https://openai.com/index/openai-nvidia-systems-partnership/</guid>
+      <pubDate>Mon, 22 Sep 2025 19:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Locking in CockroachDB, Part 1 - Locking Rows and Tables with SELECT FOR UPDATE | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-1-locking-rows-and-tables-with-select-for-update/</link>
       <description>With CockroachDB, you can lock rows or whole tables using SELECT FOR UPDATE. This post explains how it works, and how to avoid locking too much data.</description>
