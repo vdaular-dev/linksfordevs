@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Home | Vulkan | Cross platform 3D Graphics",
+    "Url": "https://www.vulkan.org/",
+    "Timestamp": "2025-09-22T22:02:09",
+    "Domain": "www.vulkan.org",
+    "Description": "Vulkan is a next generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in PCs, consoles, mobile phones and embedded platforms.",
+    "Confidence": 0.9892644
+  },
+  {
     "Title": "Piercing",
     "Url": "https://xkcd.com/3145/",
     "Timestamp": "2025-09-22T21:02:15",
@@ -230,37 +238,5 @@
     "Domain": "github.com",
     "Description": "A tiny little JSON parsing library. Contribute to rxi/sj.h development by creating an account on GitHub.",
     "Confidence": 0.99381655
-  },
-  {
-    "Title": "Procedural Island Generation (VI)",
-    "Url": "https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html",
-    "Timestamp": "2025-09-21T22:02:32",
-    "Domain": "brashandplucky.com",
-    "Description": "Wrapping CartoKit with the baked terrain output, the egui viewer, and the GLB/image export helpers.",
-    "Confidence": 0.9731234
-  },
-  {
-    "Title": "Parsing Crusader Kings III data files to generate mods",
-    "Url": "https://wheybags.com/blog/ck3mods.html",
-    "Timestamp": "2025-09-21T22:02:28",
-    "Domain": "wheybags.com",
-    "Description": "- 21st September 2025",
-    "Confidence": 0.99152905
-  },
-  {
-    "Title": "LaLiga’s Anti-Piracy Crackdown Triggers Widespread Internet Disruptions Across Spain",
-    "Url": "https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions",
-    "Timestamp": "2025-09-21T22:02:14",
-    "Domain": "reclaimthenet.org",
-    "Description": "Entire neighborhoods of the internet are going dark just so LaLiga can keep pirated streams off your screen.",
-    "Confidence": 0.64524096
-  },
-  {
-    "Title": "The performance impact of vertex shader exports",
-    "Url": "https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/",
-    "Timestamp": "2025-09-21T22:02:10",
-    "Domain": "interplayoflight.wordpress.com",
-    "Description": "Following up on the previous post on GPU utilization and performance, and to provide a practical example, I expanded a bit on a topic discussed in brief: vertex shader exports and their impact on p…",
-    "Confidence": 0.9923348
   }
 ]

@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Home | Vulkan | Cross platform 3D Graphics</title>
+      <link>https://www.vulkan.org/</link>
+      <description>Vulkan is a next generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in PCs, consoles, mobile phones and embedded platforms.</description>
+      <author> (Vulkan)</author>
+      <category>hardware</category>
+      <category>gaming</category>
+      <guid>https://www.vulkan.org/</guid>
+      <pubDate>Mon, 22 Sep 2025 22:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Piercing</title>
       <link>https://xkcd.com/3145/</link>
       <description></description>
@@ -298,46 +308,6 @@ I started this project by writing a small utility to decrypt the PVK key, as it 
       <category>javascript</category>
       <guid>https://github.com/rxi/sj.h</guid>
       <pubDate>Sun, 21 Sep 2025 23:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Procedural Island Generation (VI)</title>
-      <link>https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html</link>
-      <description>Wrapping CartoKit with the baked terrain output, the egui viewer, and the GLB/image export helpers.</description>
-      <category>gaming</category>
-      <guid>https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html</guid>
-      <pubDate>Sun, 21 Sep 2025 22:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parsing Crusader Kings III data files to generate mods</title>
-      <link>https://wheybags.com/blog/ck3mods.html</link>
-      <description>- 21st September 2025</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>html</category>
-      <guid>https://wheybags.com/blog/ck3mods.html</guid>
-      <pubDate>Sun, 21 Sep 2025 22:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>LaLiga’s Anti-Piracy Crackdown Triggers Widespread Internet Disruptions Across Spain</title>
-      <link>https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions</link>
-      <description>Entire neighborhoods of the internet are going dark just so LaLiga can keep pirated streams off your screen.</description>
-      <category>gaming</category>
-      <category>amazon</category>
-      <guid>https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions</guid>
-      <pubDate>Sun, 21 Sep 2025 22:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>The performance impact of vertex shader exports</title>
-      <link>https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/</link>
-      <description>Following up on the previous post on GPU utilization and performance, and to provide a practical example, I expanded a bit on a topic discussed in brief: vertex shader exports and their impact on p…</description>
-      <category>gaming</category>
-      <category>conference</category>
-      <category>compilers</category>
-      <category>hardware</category>
-      <guid>https://interplayoflight.wordpress.com/2025/09/21/the-performance-impact-of-vertex-shader-exports/</guid>
-      <pubDate>Sun, 21 Sep 2025 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
