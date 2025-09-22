@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Triple Buffering in Rendering APIs</title>
+      <link>https://www.4rknova.com/blog/2025/09/12/triple-buffering</link>
+      <description>A practical guide to triple buffering, how it improves smoothness and throughput over double buffering, when to use it, and how to wire it up in modern APIs.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>hardware</category>
+      <guid>https://www.4rknova.com/blog/2025/09/12/triple-buffering</guid>
+      <pubDate>Mon, 22 Sep 2025 16:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>vk_lod_clusters/docs/blas_sharing.md at main · nvpro-samples/vk_lod_clusters</title>
+      <link>https://github.com/nvpro-samples/vk_lod_clusters/blob/main/docs/blas_sharing.md</link>
+      <description>Sample for cluster-based continuous level of detail rasterization or ray tracing - nvpro-samples/vk_lod_clusters</description>
+      <guid>https://github.com/nvpro-samples/vk_lod_clusters/blob/main/docs/blas_sharing.md</guid>
+      <pubDate>Mon, 22 Sep 2025 16:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Realtime Raytracing in Bevy 0.17 (Solari)</title>
+      <link>https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/</link>
+      <description>Bevy, Rust, Graphics, etc</description>
+      <category>cloud</category>
+      <category>hardware</category>
+      <category>gaming</category>
+      <guid>https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/</guid>
+      <pubDate>Mon, 22 Sep 2025 16:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Tell the EU: Don’t Break Encryption with Chat Control</title>
       <link>https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/</link>
       <description>The EU’s Chat Control law would scan private messages and weaken encryption. Sign Mozilla Foundation’s petition to defend privacy and protect our digital future.</description>

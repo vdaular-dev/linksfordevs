@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Triple Buffering in Rendering APIs",
+    "Url": "https://www.4rknova.com/blog/2025/09/12/triple-buffering",
+    "Timestamp": "2025-09-22T16:02:17",
+    "Domain": "www.4rknova.com",
+    "Description": "A practical guide to triple buffering, how it improves smoothness and throughput over double buffering, when to use it, and how to wire it up in modern APIs.",
+    "Confidence": 0.99420345
+  },
+  {
+    "Title": "vk_lod_clusters/docs/blas_sharing.md at main · nvpro-samples/vk_lod_clusters",
+    "Url": "https://github.com/nvpro-samples/vk_lod_clusters/blob/main/docs/blas_sharing.md",
+    "Timestamp": "2025-09-22T16:02:14",
+    "Domain": "github.com",
+    "Description": "Sample for cluster-based continuous level of detail rasterization or ray tracing - nvpro-samples/vk_lod_clusters",
+    "Confidence": 0.9782657
+  },
+  {
+    "Title": "Realtime Raytracing in Bevy 0.17 (Solari)",
+    "Url": "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/",
+    "Timestamp": "2025-09-22T16:02:08",
+    "Domain": "jms55.github.io",
+    "Description": "Bevy, Rust, Graphics, etc",
+    "Confidence": 0.98927164
+  },
+  {
     "Title": "Tell the EU: Don’t Break Encryption with Chat Control",
     "Url": "https://www.mozillafoundation.org/en/campaigns/tell-the-eu-dont-break-encryption-with-chat-control/",
     "Timestamp": "2025-09-22T14:02:04",
