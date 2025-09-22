@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Locking in CockroachDB, Part 1 - Locking Rows and Tables with SELECT FOR UPDATE | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-1-locking-rows-and-tables-with-select-for-update/</link>
+      <description>With CockroachDB, you can lock rows or whole tables using SELECT FOR UPDATE. This post explains how it works, and how to avoid locking too much data.</description>
+      <category>sql</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-1-locking-rows-and-tables-with-select-for-update/</guid>
+      <pubDate>Mon, 22 Sep 2025 17:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supporting the future of the open web: Cloudflare is sponsoring Ladybird and Omarchy </title>
+      <link>https://blog.cloudflare.com/supporting-the-future-of-the-open-web/</link>
+      <description>We're excited to announce our support of two independent, open source projects: Ladybird, an ambitious project to build a completely independent browser from the ground up, and Omarchy, an opinionated Arch Linux setup for developers. </description>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://blog.cloudflare.com/supporting-the-future-of-the-open-web/</guid>
+      <pubDate>Mon, 22 Sep 2025 17:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Triple Buffering in Rendering APIs</title>
       <link>https://www.4rknova.com/blog/2025/09/12/triple-buffering</link>
       <description>A practical guide to triple buffering, how it improves smoothness and throughput over double buffering, when to use it, and how to wire it up in modern APIs.</description>
@@ -297,21 +317,6 @@ I started this project by writing a small utility to decrypt the PVK key, as it 
       <category>ai</category>
       <guid>https://elma.dev/notes/ai-makes-seniors-stronger/</guid>
       <pubDate>Sun, 21 Sep 2025 18:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple’s Thinnest iPhone Still Stands Up to Repairs</title>
-      <link>https://www.ifixit.com/News/113171/iphone-air-teardown</link>
-      <description>To be honest, we were holding our breath for the iPhone Air. Thinner usually means flimsier, harder to fix, and more glued&amp;#x2d;down parts. But the iPhone Air proves otherwise. Apple has somehow built its&amp;#8230;</description>
-      <guid>https://www.ifixit.com/News/113171/iphone-air-teardown</guid>
-      <pubDate>Sun, 21 Sep 2025 17:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing SGS-1</title>
-      <link>https://www.spectrallabs.ai/research/SGS-1</link>
-      <description>Spectral Labs releases SGS-1: the first generative model for structured CAD.</description>
-      <category>ai</category>
-      <guid>https://www.spectrallabs.ai/research/SGS-1</guid>
-      <pubDate>Sun, 21 Sep 2025 17:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

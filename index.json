@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Locking in CockroachDB, Part 1 - Locking Rows and Tables with SELECT FOR UPDATE | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-1-locking-rows-and-tables-with-select-for-update/",
+    "Timestamp": "2025-09-22T17:02:11",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "With CockroachDB, you can lock rows or whole tables using SELECT FOR UPDATE. This post explains how it works, and how to avoid locking too much data.",
+    "Confidence": 0.98296875
+  },
+  {
+    "Title": "Supporting the future of the open web: Cloudflare is sponsoring Ladybird and Omarchy ",
+    "Url": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
+    "Timestamp": "2025-09-22T17:02:07",
+    "Domain": "blog.cloudflare.com",
+    "Description": "We're excited to announce our support of two independent, open source projects: Ladybird, an ambitious project to build a completely independent browser from the ground up, and Omarchy, an opinionated Arch Linux setup for developers. ",
+    "Confidence": 0.99167037
+  },
+  {
     "Title": "Triple Buffering in Rendering APIs",
     "Url": "https://www.4rknova.com/blog/2025/09/12/triple-buffering",
     "Timestamp": "2025-09-22T16:02:17",
@@ -230,21 +246,5 @@
     "Domain": "elma.dev",
     "Description": "AI was supposed to empower junior developers. In reality, it has become a tool that makes seniors more valuable while exposing the gaps in software culture.",
     "Confidence": 0.9639725
-  },
-  {
-    "Title": "Apple’s Thinnest iPhone Still Stands Up to Repairs",
-    "Url": "https://www.ifixit.com/News/113171/iphone-air-teardown",
-    "Timestamp": "2025-09-21T17:02:18",
-    "Domain": "www.ifixit.com",
-    "Description": "To be honest, we were holding our breath for the iPhone Air. Thinner usually means flimsier, harder to fix, and more glued&#x2d;down parts. But the iPhone Air proves otherwise. Apple has somehow built its&#8230;",
-    "Confidence": 0.97859365
-  },
-  {
-    "Title": "Introducing SGS-1",
-    "Url": "https://www.spectrallabs.ai/research/SGS-1",
-    "Timestamp": "2025-09-21T17:02:13",
-    "Domain": "www.spectrallabs.ai",
-    "Description": "Spectral Labs releases SGS-1: the first generative model for structured CAD.",
-    "Confidence": 0.9701562
   }
 ]
