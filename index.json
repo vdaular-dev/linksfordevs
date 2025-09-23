@@ -1,5 +1,205 @@
 [
   {
+    "Title": "Block Your Exits",
+    "Url": "https://prickly.oxhe.art/avoidance/",
+    "Timestamp": "2025-09-23T00:03:53",
+    "Domain": "prickly.oxhe.art",
+    "Description": "Refuse escapes that hollow out attention — social, snacks, binge-watching, frantic productivity. Block your exits to interrupt avoidance, strengthen self-trust, sharpen focus, and recover creativity.",
+    "Confidence": 0.94313896
+  },
+  {
+    "Title": "Getting Caught on the Inside",
+    "Url": "https://fredbenenson.com/blog/2025/09/22/getting-caught-on-the-inside/",
+    "Timestamp": "2025-09-23T00:03:50",
+    "Domain": "fredbenenson.com",
+    "Description": "When you’re surfing and get caught in the whitewater after a big wave, the feeling can be terrifying – you’re “caught on the inside.” I love this phrase because it conveys a feeling all humans…",
+    "Confidence": 0.90224206
+  },
+  {
+    "Title": "How I Vibe Coding? (Sept 2025 Edition)",
+    "Url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
+    "Timestamp": "2025-09-23T00:03:45",
+    "Domain": "xuanwo.io",
+    "Description": "Achieving Data Freedom Through Open Source and Rust",
+    "Confidence": 0.9789623
+  },
+  {
+    "Title": "GitHub - QwenLM/Qwen3-Omni: Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
+    "Url": "https://github.com/QwenLM/Qwen3-Omni",
+    "Timestamp": "2025-09-23T00:03:40",
+    "Domain": "github.com",
+    "Description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time. ...",
+    "Confidence": 0.99516577
+  },
+  {
+    "Title": "John Kristoff - Journeys in Hosting 1/x",
+    "Url": "https://dataplane.org/jtk/blog/2025/09/hosting-stories-1/",
+    "Timestamp": "2025-09-23T00:03:36",
+    "Domain": "dataplane.org",
+    "Description": "In what I hope will be the debut of many in a series to come, I want to\nshare my experience and musings as a frequent traveler in the world of\nhosting providers.  Sometimes it will be just curious anomalies, of\nlittle interest to but a few.  But perhaps some tales told here will\nultimately prove valuable to others looking for insight even if to\nobscure scenarios.  Maybe especially to obscure scenarios.",
+    "Confidence": 0.991755
+  },
+  {
+    "Title": "So You Want to Be an Academic? What I Wish I Knew Early in Graduate School",
+    "Url": "https://anandbhattad.github.io/blogs/jr_grads.html",
+    "Timestamp": "2025-09-23T00:03:32",
+    "Domain": "anandbhattad.github.io",
+    "Description": "Blog for junior PhD students on work, visibility, community, and sanity—long before the faculty job market is on the horizon.",
+    "Confidence": 0.97788614
+  },
+  {
+    "Title": "The common sense unit of work",
+    "Url": "https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/",
+    "Timestamp": "2025-09-23T00:03:29",
+    "Domain": "blog.nilenso.com",
+    "Description": "Srihari Srirama...",
+    "Confidence": 0.96562254
+  },
+  {
+    "Title": "Anti-*: The Things We Do But Not All The Way",
+    "Url": "https://blog.jim-nielsen.com/2025/my-antis/",
+    "Timestamp": "2025-09-23T00:03:23",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web.",
+    "Confidence": 0.8822709
+  },
+  {
+    "Title": "Qbix Streams as a Graph Database - Qbix Platform / Streams plugin - Qbix Community",
+    "Url": "https://community.qbix.com/t/qbix-streams-as-a-graph-database/769",
+    "Timestamp": "2025-09-23T00:03:18",
+    "Domain": "community.qbix.com",
+    "Description": "Qbix Streams: A Searchable, Distributed Graph Database Hiding in Plain Sight When most people think of graph databases, they imagine Neo4j with its Cypher queries, or Firebase/Firestore for document search. These tools give you nodes, edges, and the ability to traverse relationships.  But what if you could get all of that — plus history, access control, federation, and SQL-speed search — without leaving the comfort of relational databases?  That’s exactly what the Qbix Streams architecture prov...",
+    "Confidence": 0.9894389
+  },
+  {
+    "Title": "Demystifying Agentic Memory",
+    "Url": "https://alexspyropoulos.com/posts/demystifying-agentic-memory/",
+    "Timestamp": "2025-09-23T00:03:13",
+    "Domain": "alexspyropoulos.com",
+    "Description": "An in-depth guide to building production-grade agentic memory for LLMs, covering architecture, real-time pipelines, and optimization strategies.",
+    "Confidence": 0.9728163
+  },
+  {
+    "Title": "Libghostty Is Coming",
+    "Url": "https://mitchellh.com/writing/libghostty-is-coming",
+    "Timestamp": "2025-09-23T00:03:10",
+    "Domain": "mitchellh.com",
+    "Description": "Over two years ago, in one of my first public talks about Ghostty,\nI shared my vision for libghostty: an embeddable library for any application\nto embed their own fully functional, modern, and fast terminal emulator.\nLibghostty is finally starting to take shape, and I'm excited to share\nmore details about my plans for it.",
+    "Confidence": 0.9955368
+  },
+  {
+    "Title": "Frontend complexity and the HTML renaissance",
+    "Url": "https://olliewilliams.xyz/blog/html-renaissance/",
+    "Timestamp": "2025-09-23T00:03:06",
+    "Domain": "olliewilliams.xyz",
+    "Description": "Why I'm rooting for HTML.",
+    "Confidence": 0.98608184
+  },
+  {
+    "Title": "My computer science RELEARNING progress logs",
+    "Url": "https://rbcrossley.github.io/post/monthwise-self-study-computer-science-progress-logs/",
+    "Timestamp": "2025-09-23T00:03:03",
+    "Domain": "rbcrossley.github.io",
+    "Description": "This entails my monthwise report of studying computer science subjects",
+    "Confidence": 0.983044
+  },
+  {
+    "Title": "The hidden trade-offs of fine-grained progressive rollouts",
+    "Url": "https://surfingcomplexity.blog/2025/09/13/the-hidden-trade-offs-of-fine-grained-progressive-rollouts/",
+    "Timestamp": "2025-09-23T00:02:59",
+    "Domain": "surfingcomplexity.blog",
+    "Description": "A progressive rollout refers to the act of rolling out some new functionality gradually rather than all at once. This means that, when you initially deploy it, the change only impacts a fraction of…",
+    "Confidence": 0.97853506
+  },
+  {
+    "Title": "To the Best Talent in the World: an Invitation",
+    "Url": "https://aloe.inc/blog/the-best-talent-in-the-world",
+    "Timestamp": "2025-09-23T00:02:56",
+    "Domain": "aloe.inc",
+    "Description": "Come join a state-of-the-art team tackling the most important problems in AI – in a society that actually wants you to be here.",
+    "Confidence": 0.54937226
+  },
+  {
+    "Title": "Tool Calls Are Expensive And Finite",
+    "Url": "https://www.reillywood.com/blog/tool-calls-are-expensive-and-finite/",
+    "Timestamp": "2025-09-23T00:02:53",
+    "Domain": "www.reillywood.com",
+    "Description": "Design your agents accordingly",
+    "Confidence": 0.99189264
+  },
+  {
+    "Title": "Rolling my Own Analytics",
+    "Url": "https://carlkolon.com/2025/09/21/rolling-own-analytics/",
+    "Timestamp": "2025-09-23T00:02:49",
+    "Domain": "carlkolon.com",
+    "Description": "Writing my own alternative to Google Analytics for my websites",
+    "Confidence": 0.99740416
+  },
+  {
+    "Title": "Cloudflare proposes the Spotify model for the web • Cory Dransfeldt",
+    "Url": "https://www.coryd.dev/posts/2025/cloudflare-proposes-the-spotify-model-for-the-web",
+    "Timestamp": "2025-09-23T00:02:45",
+    "Domain": "www.coryd.dev",
+    "Description": "[Cloudflare posted a 2025 founder's letter](https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/) and I haven't seen much discussion of it. But, when you read through it, what they discuss and propose is deeply troubling for the web as have and currently know it.",
+    "Confidence": 0.9560621
+  },
+  {
+    "Title": "My Plea to NBC",
+    "Url": "https://www.jackcmac.com/p/my-plea-to-nbc",
+    "Timestamp": "2025-09-23T00:02:42",
+    "Domain": "www.jackcmac.com",
+    "Description": "Let Us Make Edits",
+    "Confidence": 0.7931631
+  },
+  {
+    "Title": "I Want a Cross-Platform Tiling Window Manager",
+    "Url": "https://lgug2z.com/articles/i-want-a-cross-platform-tiling-window-manager/",
+    "Timestamp": "2025-09-23T00:02:37",
+    "Domain": "lgug2z.com",
+    "Description": "One of the great things about building your own tools is that you get to have your desired workflow and user experience with very few compromises.\nI built Notado because I wanted an archiving and highlighting workflow which treated online comments as first class citizens.\nI built Kullish because I wanted to be able to quickly aggregate comments about links from a variety of different online communities.\nI built komorebi because I wanted a tiling window manager for Windows.\n",
+    "Confidence": 0.98752695
+  },
+  {
+    "Title": "Exited Mac Development",
+    "Url": "https://ds9soft.com/blog/2025/09/exited-mac-development/",
+    "Timestamp": "2025-09-23T00:02:34",
+    "Domain": "ds9soft.com",
+    "Description": "I’m out # A few months ago I stopped selling my Mac applications (PopDo and FreelanceStation). I have more than enough reasons to not waste my time on continued support for them, which I’m going to discuss below.\nLost my love for Mac software development # Many years have passed since I entered the Mac development market. I loved how Mac applications felt, and I still do to a certain point, even though I admired large complex applications, such as 3D multi-platform software, audio tools, digital painting or even engineering software.",
+    "Confidence": 0.9939842
+  },
+  {
+    "Title": "How Much Does Freedom Cost?",
+    "Url": "https://dbushell.com/2025/09/22/cost-of-freedom/",
+    "Timestamp": "2025-09-23T00:02:30",
+    "Domain": "dbushell.com",
+    "Description": "The one where I inspect the source",
+    "Confidence": 0.86158067
+  },
+  {
+    "Title": "Have my $5 (Claude built) Kana app.",
+    "Url": "https://blog.timprepscius.com/Have_my_five_dollar_kana_app_for_free.html",
+    "Timestamp": "2025-09-23T00:02:27",
+    "Domain": "blog.timprepscius.com",
+    "Description": "I think I just experienced a little bit of the future.",
+    "Confidence": 0.9752829
+  },
+  {
+    "Title": "Following processes won't make you a robot",
+    "Url": "https://frederickvanbrabant.com/blog/2025-09-19-following-processes-wont-make-you-a-robot/",
+    "Timestamp": "2025-09-23T00:02:23",
+    "Domain": "frederickvanbrabant.com",
+    "Description": "Think of an SOP as a cooking recipe, albeit rather a Kenji López-Alt recipe then a grocery store meal box one. It's an extensive overview of what we want to achieve, how we do it (step by step), what is involved (connections and roles) ,and what the end result should look like. Ideally there is also documentation and change logs, but those are a bit more rare.",
+    "Confidence": 0.98396313
+  },
+  {
+    "Title": "Things To Remember When Screen Printing That Are Relevant For More Things Than Screen Printing",
+    "Url": "https://www.jackcmac.com/p/things-to-remember-when-screenprinting",
+    "Timestamp": "2025-09-23T00:02:20",
+    "Domain": "www.jackcmac.com",
+    "Description": "Just Do It",
+    "Confidence": 0.94126976
+  },
+  {
     "Title": "Home | Vulkan | Cross platform 3D Graphics",
     "Url": "https://www.vulkan.org/",
     "Timestamp": "2025-09-22T22:02:09",
@@ -126,109 +326,5 @@
     "Domain": "anniemueller.com",
     "Description": "“Hello! I am a developer. Here is my relevant experience: I code in Hoobijag and sometimes jabbernocks and of course ABCDE++++ (but never ABCDE+/^+ are you kidding? ha!)&nbsp; and I like working with Shoobababoo and occasionally kleptomitrons. I’ve gotten to work for Company1 doing Shoobaboo-ing code things and that’s what led me to the Snarfus. So, let’s dive in!&nbsp;",
     "Confidence": 0.9860444
-  },
-  {
-    "Title": "What happens when coding agents stop feeling like dialup?",
-    "Url": "https://martinalderson.com/posts/what-happens-when-coding-agents-stop-feeling-like-dialup/",
-    "Timestamp": "2025-09-22T00:02:57",
-    "Domain": "martinalderson.com",
-    "Description": "From magical to frustrating in months. Why AI coding agents feel like dial-up internet and what ultra-fast inference could unlock for developer productivity.",
-    "Confidence": 0.95053047
-  },
-  {
-    "Title": "Ankit Sultana",
-    "Url": "https://ankitsultana.com/2025/09/12/questdb-braindump.html",
-    "Timestamp": "2025-09-22T00:02:54",
-    "Domain": "ankitsultana.com",
-    "Description": "My Personal Website. This is essentially a fork of one of my other Jekyll Resume Templates called Researcher: http://github.com/ankitsultana/researcher",
-    "Confidence": 0.9782161
-  },
-  {
-    "Title": "Building Search for this Site",
-    "Url": "https://alexleighton.com/posts/2025-08-09-building-search-for-this-site.html",
-    "Timestamp": "2025-09-22T00:02:50",
-    "Domain": "alexleighton.com",
-    "Description": "Search on a static site.",
-    "Confidence": 0.99850607
-  },
-  {
-    "Title": "Informing Engineering Decisions with Bite-Size Data",
-    "Url": "https://joeldare.com/informing-engineering-decisions-with-bite-size-data",
-    "Timestamp": "2025-09-22T00:02:46",
-    "Domain": "joeldare.com",
-    "Description": "Home - About",
-    "Confidence": 0.9924866
-  },
-  {
-    "Title": "Bringing Metal to a crypto backdoor fight! Exploiting the GPU and the 90s crypto wars to crack the APT Down code signing keys",
-    "Url": "https://reverse.put.as/2025/08/24/rc4bruteforce/",
-    "Timestamp": "2025-09-22T00:02:43",
-    "Domain": "reverse.put.as",
-    "Description": "The APT Down leak contained four code signing certificates and the passphrase only for the most recent one. Since the passphrase was found on the usual rockyou.txt wordlist, I was curious to see if the remaining three could be cracked using the same wordlist.\nI started this project by writing a small utility to decrypt the PVK key, as it could be easily tested with the known passphrase. The code appeared correct, but it wasn’t working.",
-    "Confidence": 0.9859649
-  },
-  {
-    "Title": "Everything Looks Good Enough (Or “The Limits of Fidelity”)",
-    "Url": "https://antrikshy.com/film/everything-looks-good-enough",
-    "Timestamp": "2025-09-22T00:02:38",
-    "Domain": "antrikshy.com",
-    "Description": "Film is beautiful, games are realistic. Everything looks good enough. We’re finally here. Let’s focus on other things.",
-    "Confidence": 0.9706175
-  },
-  {
-    "Title": "Science of the Gaps | Luke Smith",
-    "Url": "https://lukesmith.xyz/articles/science-of-the-gaps/",
-    "Timestamp": "2025-09-22T00:02:34",
-    "Domain": "lukesmith.xyz",
-    "Description": "Science is truly amazing, especially when we imagine most of it...",
-    "Confidence": 0.87155145
-  },
-  {
-    "Title": "How a String Library Beat OpenCV at Image Processing by 4x",
-    "Url": "https://ashvardanian.com/posts/image-processing-with-strings/",
-    "Timestamp": "2025-09-22T00:02:25",
-    "Domain": "ashvardanian.com",
-    "Description": "To my great surprise, one of the biggest current users of my StringZilla library in the Python ecosystem is one of the world’s most widely used Image Augmentation libraries - Albumentations with over 100 million downloads on PyPI, growing by 5 million every month. Last year, Albumentations swapped parts of OpenCV - the world’s most widely used image processing library with 32 million monthly downloads in Python - for my strings library 🤯",
-    "Confidence": 0.99723685
-  },
-  {
-    "Title": "How I Use LLMs to Write the Majority of My Code",
-    "Url": "https://boredhacking.com/coding-with-llms/",
-    "Timestamp": "2025-09-22T00:02:22",
-    "Domain": "boredhacking.com",
-    "Description": "As a staff engineer at an early-stage startup, I rely on LLM-powered coding assistants like Cursor, Claude, and ChatGPT to move faster while writing less code by hand. This post shares practical workflows, prompting strategies, and principles for using AI tools effectively in real-world software engineering.",
-    "Confidence": 0.9926315
-  },
-  {
-    "Title": "Three Years and 100 Commits Later: A Reflection",
-    "Url": "https://priyavr.at/blog/100-commits/",
-    "Timestamp": "2025-09-22T00:02:18",
-    "Domain": "priyavr.at",
-    "Description": "A reflection on the three-year journey of a website and a call to reclaim the web.",
-    "Confidence": 0.8525017
-  },
-  {
-    "Title": "Writing my own communications library - a worklog of creating Penny part 1",
-    "Url": "https://szymonozog.github.io/posts/2025-09-21-Penny-worklog-1.html",
-    "Timestamp": "2025-09-22T00:02:14",
-    "Domain": "szymonozog.github.io",
-    "Description": "Blogpost",
-    "Confidence": 0.99771726
-  },
-  {
-    "Title": "Linkgraphs are fun • AndreGarzia.com",
-    "Url": "https://andregarzia.com/2025/09/linkgraphs-are-fun.html",
-    "Timestamp": "2025-09-22T00:02:10",
-    "Domain": "andregarzia.com",
-    "Description": "AndreGarzia.com website",
-    "Confidence": 0.9889835
-  },
-  {
-    "Title": "Taxonomize Your Infrastructure - Blog",
-    "Url": "https://mattboisvert.net/blog/taxonomize-your-infrastructure",
-    "Timestamp": "2025-09-22T00:02:04",
-    "Domain": "mattboisvert.net",
-    "Description": "Having spent some time across quite distinct infrastructure codebases and developer environments, from isolated,\n            simple platforms to large monolithic behemoths, I have seen a common pattern to solving new infrastructure problems. First, an engineer performs effective discovery\n            to decide if someone else has solved the same problem that you are facing. Next, if the organization\n            requires a domain-specific solution, they create an MVP that demonstrates the merits of the new system.",
-    "Confidence": 0.98888856
   }
 ]
