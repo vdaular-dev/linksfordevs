@@ -1,5 +1,13 @@
 [
   {
+    "Title": "delete-from-users-where-location-iran.md",
+    "Url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
+    "Timestamp": "2025-09-23T08:01:55",
+    "Domain": "gist.github.com",
+    "Description": "GitHub Gist: instantly share code, notes, and snippets.",
+    "Confidence": 0.7063715
+  },
+  {
     "Title": "Dear GitHub: no YAML anchors, please",
     "Url": "https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors",
     "Timestamp": "2025-09-23T02:02:03",
@@ -326,21 +334,5 @@
     "Domain": "hackerone.com",
     "Description": "## Summary\nI discovered a critical stack-based buffer overflow vulnerability in cURL's cookie parsing mechanism that can lead to remote code execution. The vulnerability occurs when processing maliciously crafted HTTP cookies, affecting all applications that use libcurl for HTTP requests.\n\n## Description\nDuring security research on cURL's cookie handling implementation, I identified a stack...",
     "Confidence": 0.9904743
-  },
-  {
-    "Title": "DXGI debugging: Microsoft put me on a list",
-    "Url": "https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/",
-    "Timestamp": "2025-09-22T08:02:09",
-    "Domain": "slugcat.systems",
-    "Description": "Why does Space Station 14 crash with ANGLE on ARM64? 6 hours later…",
-    "Confidence": 0.9926264
-  },
-  {
-    "Title": "How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner - annie's blog",
-    "Url": "https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner",
-    "Timestamp": "2025-09-22T08:02:04",
-    "Domain": "anniemueller.com",
-    "Description": "“Hello! I am a developer. Here is my relevant experience: I code in Hoobijag and sometimes jabbernocks and of course ABCDE++++ (but never ABCDE+/^+ are you kidding? ha!)&nbsp; and I like working with Shoobababoo and occasionally kleptomitrons. I’ve gotten to work for Company1 doing Shoobaboo-ing code things and that’s what led me to the Snarfus. So, let’s dive in!&nbsp;",
-    "Confidence": 0.9860444
   }
 ]
