@@ -1,5 +1,13 @@
 [
   {
+    "Title": "CARU Recommends MrBeast and Feastables Improve Advertising and Privacy Practices",
+    "Url": "https://bbbprograms.org/media/newsroom/decisions/mrbeast-feastables",
+    "Timestamp": "2025-09-23T16:02:20",
+    "Domain": "bbbprograms.org",
+    "Description": "The Children’s Advertising Review Unit (CARU) recommended MrBeast update advertising and data collection practices. ",
+    "Confidence": 0.6769554
+  },
+  {
     "Title": "delete-from-users-where-location-iran.md",
     "Url": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
     "Timestamp": "2025-09-23T08:01:55",
@@ -278,29 +286,5 @@
     "Domain": "blog.cloudflare.com",
     "Description": "We're excited to announce our support of two independent, open source projects: Ladybird, an ambitious project to build a completely independent browser from the ground up, and Omarchy, an opinionated Arch Linux setup for developers. ",
     "Confidence": 0.99167037
-  },
-  {
-    "Title": "Triple Buffering in Rendering APIs",
-    "Url": "https://www.4rknova.com/blog/2025/09/12/triple-buffering",
-    "Timestamp": "2025-09-22T16:02:17",
-    "Domain": "www.4rknova.com",
-    "Description": "A practical guide to triple buffering, how it improves smoothness and throughput over double buffering, when to use it, and how to wire it up in modern APIs.",
-    "Confidence": 0.99420345
-  },
-  {
-    "Title": "vk_lod_clusters/docs/blas_sharing.md at main · nvpro-samples/vk_lod_clusters",
-    "Url": "https://github.com/nvpro-samples/vk_lod_clusters/blob/main/docs/blas_sharing.md",
-    "Timestamp": "2025-09-22T16:02:14",
-    "Domain": "github.com",
-    "Description": "Sample for cluster-based continuous level of detail rasterization or ray tracing - nvpro-samples/vk_lod_clusters",
-    "Confidence": 0.9782657
-  },
-  {
-    "Title": "Realtime Raytracing in Bevy 0.17 (Solari)",
-    "Url": "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/",
-    "Timestamp": "2025-09-22T16:02:08",
-    "Domain": "jms55.github.io",
-    "Description": "Bevy, Rust, Graphics, etc",
-    "Confidence": 0.98927164
   }
 ]
