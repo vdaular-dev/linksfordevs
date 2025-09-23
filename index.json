@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Find My Parking Cops",
+    "Url": "https://walzr.com/sf-parking/",
+    "Timestamp": "2025-09-23T21:02:14",
+    "Domain": "walzr.com",
+    "Description": "Map of San Francisco parking cops and their recent tickets",
+    "Confidence": 0.6592273
+  },
+  {
     "Title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
     "Url": "https://joel.drapper.me/p/rubygems-takeover/",
     "Timestamp": "2025-09-23T20:02:28",
@@ -270,29 +278,5 @@
     "Domain": "www.vulkan.org",
     "Description": "Vulkan is a next generation graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in PCs, consoles, mobile phones and embedded platforms.",
     "Confidence": 0.9892644
-  },
-  {
-    "Title": "Piercing",
-    "Url": "https://xkcd.com/3145/",
-    "Timestamp": "2025-09-22T21:02:15",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Ray marching a blob in 3D",
-    "Url": "https://www.4rknova.com//blog/2025/09/21/blob-3d",
-    "Timestamp": "2025-09-22T21:02:12",
-    "Domain": "www.4rknova.com",
-    "Description": "A deep dive into rendering animated metaballs (aka blobs) with ray marching, PBR shading, shadows, and CPU driven simulation in WebGL and Three.js.",
-    "Confidence": 0.9955002
-  },
-  {
-    "Title": "Cap'n Web: A new RPC system for browsers and web servers",
-    "Url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
-    "Timestamp": "2025-09-22T21:02:07",
-    "Domain": "blog.cloudflare.com",
-    "Description": "Cap'n Web is a new open source, JavaScript-native RPC protocol for use in browsers and web servers. It provides the expressive power of Cap'n Proto, but with no schemas and no boilerplate.\n",
-    "Confidence": 0.9942251
   }
 ]

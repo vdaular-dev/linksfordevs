@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Find My Parking Cops</title>
+      <link>https://walzr.com/sf-parking/</link>
+      <description>Map of San Francisco parking cops and their recent tickets</description>
+      <guid>https://walzr.com/sf-parking/</guid>
+      <pubDate>Tue, 23 Sep 2025 21:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover</title>
       <link>https://joel.drapper.me/p/rubygems-takeover/</link>
       <description>Ruby Central recently took over a collection of open source projects from their maintainers without their consent.</description>
@@ -419,33 +426,6 @@ Lost my love for Mac software development # Many years have passed since I enter
       <category>gaming</category>
       <guid>https://www.vulkan.org/</guid>
       <pubDate>Mon, 22 Sep 2025 22:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Piercing</title>
-      <link>https://xkcd.com/3145/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3145/</guid>
-      <pubDate>Mon, 22 Sep 2025 21:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ray marching a blob in 3D</title>
-      <link>https://www.4rknova.com//blog/2025/09/21/blob-3d</link>
-      <description>A deep dive into rendering animated metaballs (aka blobs) with ray marching, PBR shading, shadows, and CPU driven simulation in WebGL and Three.js.</description>
-      <category>math</category>
-      <guid>https://www.4rknova.com//blog/2025/09/21/blob-3d</guid>
-      <pubDate>Mon, 22 Sep 2025 21:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cap'n Web: A new RPC system for browsers and web servers</title>
-      <link>https://blog.cloudflare.com/capnweb-javascript-rpc-library/</link>
-      <description>Cap'n Web is a new open source, JavaScript-native RPC protocol for use in browsers and web servers. It provides the expressive power of Cap'n Proto, but with no schemas and no boilerplate.
-</description>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://blog.cloudflare.com/capnweb-javascript-rpc-library/</guid>
-      <pubDate>Mon, 22 Sep 2025 21:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
