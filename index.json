@@ -270,21 +270,5 @@
     "Domain": "openai.com",
     "Description": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
     "Confidence": 0.65298826
-  },
-  {
-    "Title": "Locking in CockroachDB, Part 1 - Locking Rows and Tables with SELECT FOR UPDATE | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-1-locking-rows-and-tables-with-select-for-update/",
-    "Timestamp": "2025-09-22T17:02:11",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "With CockroachDB, you can lock rows or whole tables using SELECT FOR UPDATE. This post explains how it works, and how to avoid locking too much data.",
-    "Confidence": 0.98296875
-  },
-  {
-    "Title": "Supporting the future of the open web: Cloudflare is sponsoring Ladybird and Omarchy ",
-    "Url": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
-    "Timestamp": "2025-09-22T17:02:07",
-    "Domain": "blog.cloudflare.com",
-    "Description": "We're excited to announce our support of two independent, open source projects: Ladybird, an ambitious project to build a completely independent browser from the ground up, and Omarchy, an opinionated Arch Linux setup for developers. ",
-    "Confidence": 0.99167037
   }
 ]
