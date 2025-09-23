@@ -7,6 +7,195 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Ther</title>
+      <link>https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface</link>
+      <description>In which I pried open the glass LCD lens at the front of my Nest 2nd Gen thermostat and found the LCD display module, packaged with a flexible ribbon cable and a round pixel array, and took a months-long journey of reverse engineering, detective work, and problem-solving that taught me more about display interfaces tha</description>
+      <category>hardware</category>
+      <category>git</category>
+      <guid>https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quick Note on macOS: Still Limited in 2025 – Hookmark</title>
+      <link>https://hookproductivity.com/blog/2025/09/quick-note-on-macos-still-limited-in-2025/</link>
+      <description>When I exchanged emails with Steve Jobs in 2010, I sent him the white paper he requested, recommending—among other things—that Apple introduce system-wide linking in what was then OS X (now macOS). Years later, Apple rolled out Quick Note, a feature introduced with macOS Monterey (version 12) in 202</description>
+      <category>2ndbrain</category>
+      <category>apple</category>
+      <category>audio</category>
+      <category>marketing</category>
+      <category>git</category>
+      <guid>https://hookproductivity.com/blog/2025/09/quick-note-on-macos-still-limited-in-2025/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Complete Guide to Dev Containers in Ruby on Rails - RorVsWild</title>
+      <link>https://www.rorvswild.com/blog/2025/dev-containers-rails</link>
+      <description>From basic setup to advanced MCP integration: using Dev Containers for portable development environments that eliminate "works on my machine" problems.</description>
+      <category>ruby</category>
+      <category>vscode</category>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <guid>https://www.rorvswild.com/blog/2025/dev-containers-rails</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Products People Actually Want | Anton Sten – UX Lead &amp; Product Designer</title>
+      <link>https://www.antonsten.com/books/products-people-actually-want/</link>
+      <description>A Designer's Guide to Building Better. We're drowning in products nobody wants, built by people who never asked if they should.</description>
+      <category>audio</category>
+      <category>health</category>
+      <guid>https://www.antonsten.com/books/products-people-actually-want/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elpe. Yaks big. Razors bigger</title>
+      <link>https://pijul.org/posts/2025-06-08-elpe/</link>
+      <description>An easy to use, distributed and fast version control system.</description>
+      <category>linux</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>hardware</category>
+      <guid>https://pijul.org/posts/2025-06-08-elpe/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Funding</title>
+      <link>https://kobalicek.com/funding.html</link>
+      <description>Petr Kobalicek's personal site</description>
+      <category>rust</category>
+      <category>compilers</category>
+      <category>html</category>
+      <guid>https://kobalicek.com/funding.html</guid>
+      <pubDate>Tue, 23 Sep 2025 23:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I QA iOS Apps · Sam Henri Gold</title>
+      <link>https://samhenri.gold/blog/20250923-qa-ios-apps/</link>
+      <description>Sam Henri Gold is a product design engineer building playful, useful software.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://samhenri.gold/blog/20250923-qa-ios-apps/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby on Rails Conferences Are Discriminatory, Unintelligent, and Hateful of Ruby in 2025</title>
+      <link>https://andymaleh.blogspot.com/2025/09/ruby-on-rails-conferences-are.html</link>
+      <description>code master oop ruby jruby java jee jse desktop web gui glimmer swt libui tk gtk rails</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <guid>https://andymaleh.blogspot.com/2025/09/ruby-on-rails-conferences-are.html</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Art of Letting Go: Why Your Platform Needs Less Control Than You Think</title>
+      <link>https://www.davidpoll.com/2025/09/art-of-letting-go/</link>
+      <description>The Art of Letting Go: Why Your Platform Needs Less Control Than You ThinkAfter nearly two decades building developer platforms, I’ve learned that the moment you truly succeed is when developers fi...</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.davidpoll.com/2025/09/art-of-letting-go/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>100,000,000 CROWPOWER and no horses on the moon</title>
+      <link>https://taylor.town/crowpower</link>
+      <description>Humans have no damn clue how to measure intelligence.</description>
+      <author> (Taylor Troesh)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>rust</category>
+      <guid>https://taylor.town/crowpower</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Computing Math and Beauty</title>
+      <link>https://blog.yellowflash.in/posts/2025-09-23-singularity-claude-conversation.html</link>
+      <description>23 Sep 2025</description>
+      <category>ai</category>
+      <guid>https://blog.yellowflash.in/posts/2025-09-23-singularity-claude-conversation.html</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'm Netlify-Free! - Dmitry Kudryavtsev</title>
+      <link>https://yieldcode.blog/post/i-am-netlify-free/</link>
+      <description>My journey from Netlify to self hosting on a VPS</description>
+      <author> (Dmitry Kudryavtsev)</author>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>hardware</category>
+      <category>html</category>
+      <guid>https://yieldcode.blog/post/i-am-netlify-free/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>The One-Person, Billion-Dollar Power Development Company</title>
+      <link>https://www.jamesmcwalter.com/post/the-one-person-billion-dollar-power-development-company</link>
+      <description> “A flywheel of compounding infrastructure buildout to run these increasingly powerful AI systems… data centers that can build other data centers.” Sam Altman in Gentle SingularityIt’s 2030. You open your laptop and check on your power company. You see that your Land Management Agent has approved five Letters of Intent (LOIs) that the Siting Agent drafted overnight. You watch in real time as two interconnection filings are submitted, with high-fidelity design attachments, by the Power Agent. The</description>
+      <author> (james_mcwalter)</author>
+      <category>ai</category>
+      <category>hardware</category>
+      <category>math</category>
+      <guid>https://www.jamesmcwalter.com/post/the-one-person-billion-dollar-power-development-company</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wild Performance Tricks | David Lattimore</title>
+      <link>https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html</link>
+      <description>David Lattimore - 2025-09-02</description>
+      <category>rust</category>
+      <category>compilers</category>
+      <guid>https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Domino Effect of Industrial Growth</title>
+      <link>https://estimateproperty.blogspot.com/2025/09/the-domino-effect-of-industrial-growth.html</link>
+      <description>Your guide to buying, selling, and investing in real estate. Tips, trends, and insights into the property market.</description>
+      <category>amazon</category>
+      <guid>https://estimateproperty.blogspot.com/2025/09/the-domino-effect-of-industrial-growth.html</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't purchase your iPhone with AppleCare+</title>
+      <link>https://ssg.dev/dont-purchase-your-iphone-with-applecare/</link>
+      <description>My adventures dealing with purchasing AppleCare+ along with the iPhone.</description>
+      <category>apple</category>
+      <guid>https://ssg.dev/dont-purchase-your-iphone-with-applecare/</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>ella - mentally crippled girlie &lt;3</title>
+      <link>https://ella.ad/projects/another-one</link>
+      <description>i'm ella, a girlie who's mentally crippled and i'm a huge computer science nerd</description>
+      <category>gaming</category>
+      <guid>https://ella.ad/projects/another-one</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coding in Practice - Zed Blog</title>
+      <link>https://zed.dev/blog/vibe-coding-in-practice</link>
+      <description>From the Zed Blog: Manuel Odendahl demonstrates 'vibe coding' - using AI models in parallel without scrutinizing output code.</description>
+      <author> (Franciska Dethlefsen)</author>
+      <category>ai</category>
+      <category>sql</category>
+      <category>youtube</category>
+      <guid>https://zed.dev/blog/vibe-coding-in-practice</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Animated Sign-In Dialog</title>
+      <link>https://jakub.kr/components/sign-in-dialog</link>
+      <description>An animated sign in dialog built on top of the Radix dialog primitive.</description>
+      <category>css</category>
+      <category>compilers</category>
+      <guid>https://jakub.kr/components/sign-in-dialog</guid>
+      <pubDate>Tue, 23 Sep 2025 23:03:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Find My Parking Cops</title>
       <link>https://walzr.com/sf-parking/</link>
       <description>Map of San Francisco parking cops and their recent tickets</description>
