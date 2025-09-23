@@ -413,40 +413,5 @@ Lost my love for Mac software development # Many years have passed since I enter
       <guid>https://blog.geofabrik.de/index.php/2025/09/10/download-responsibly/</guid>
       <pubDate>Mon, 22 Sep 2025 14:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Microsoft Just Fixed the LTS/STS Problem of .NET</title>
-      <link>https://youtube.com/watch?v=3i6YASbyuHw</link>
-      <description>Get 20% off everything on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=BTS2025
-Subscribe to my weekly newsletter: https://nickchapsas.com
-
-Hello, everybody. I'm Nick, and in this video, we will talk about the recent LTS and STS change that Microsoft introduced for .NET. The lifecycle support is a common issue that .NET developers raise, mainly around how short it is, but there was another issue that you might not know about.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=3i6YASbyuHw</guid>
-      <pubDate>Mon, 22 Sep 2025 11:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>curl disclosed on HackerOne: Stack Buffer Overflow in cURL Cookie...</title>
-      <link>https://hackerone.com/reports/3340109</link>
-      <description>## Summary
-I discovered a critical stack-based buffer overflow vulnerability in cURL's cookie parsing mechanism that can lead to remote code execution. The vulnerability occurs when processing maliciously crafted HTTP cookies, affecting all applications that use libcurl for HTTP requests.
-
-## Description
-During security research on cURL's cookie handling implementation, I identified a stack...</description>
-      <category>python</category>
-      <category>apple</category>
-      <guid>https://hackerone.com/reports/3340109</guid>
-      <pubDate>Mon, 22 Sep 2025 11:02:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>
