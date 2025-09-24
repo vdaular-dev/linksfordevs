@@ -262,29 +262,5 @@
     "Domain": "joel.drapper.me",
     "Description": "Ruby Central recently took over a collection of open source projects from their maintainers without their consent.",
     "Confidence": 0.90489835
-  },
-  {
-    "Title": "Physically Based Rendering In OpenGL Using GLTF2",
-    "Url": "https://youtube.com/watch?v=IjwL_pTAxWw",
-    "Timestamp": "2025-09-23T18:02:30",
-    "Domain": "youtube.com",
-    "Description": "In this video we learn how to modernize our OpenGL rendering pipeline using a physically based rendering technique based on the GLTF2 format.\n\n🔥For more information:\n🔹Load models using Assimp: https://youtu.be/sP_kiODC25Q\n🔹Paper by Carmelo J. Fdez-Aguera: https://www.jcgt.org/published/0008/01/03/paper.pdf\n🔹Article by Bruno Opsenica: https://bruop.github.io/ibl/\n🔹Vulkan 3D Graphics Rendering Cookbook 2nd ed (affiliate link): https://amzn.to/3T7rK6V\n\n🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).\n\n📚 Timecodes 📚\n0:00 Intro and background\n0:44 GLTF2\n2:04 Metallic Roughness workflow\n3:06 Assimp support for PBR\n3:59 More textures\n5:58 Vertex Shader\n6:14 Fragment Shader\n6:56 High level view\n8:05 Prep some stuff\n10:41 Schlick approximation\n11:33 Precomputed BRDF table\n13:57 Specular color\n17:20 Diffuse color\n18:07 Irradiance map\n21:31 Single directional light\n24:58 Outro\n\nPlease visit https://ogldev.org to see more of my tutorials on modern OpenGL.\n\n🔥Link to source: \nhttps://github.com/emeiri/ogldev.git\nIf you want to get the same version of the code that was used in the video checkout the tag 'TUT_64_PBR_GLTF2'\n\nFeel free to comment below.\n\n🔗Contacts:\n🔹Email: ogldev1@gmail.com\n🔹Instagram: @ogldev1\n🔹Github: https://github.com/emeiri/ogldev.git\n🔹TikTok - https://www.tiktok.com/@ogldev\n🔹Twitter: @ogldev\n🔹Discord: https://discord.gg/CZdVwZgTYk\n🔹One time donations (Paypal): https://ogldev.org/donate.html\n🔹Patreon: https://www.patreon.com/ogldev\n\n🙏Credits:\n🔹Music by Karl Casey @ White Bat Audio\n🔹OpenGL® is a registered trademark of Silicon Graphics International Corp. and is used under license by the Khronos Group\n🔹GLTF is a trademark of the Khronos Group\n🔹\"A Multiple-Scaterring Microfacet Model for Real-Time Image-Based lighting\" by Carmelo J. Fdez-Aguera: https://www.jcgt.org/published/0008/01/03/paper.pdf\n🔹\"Image Based Lighting with Multiple Scattering\" by Bruno opstica: https://bruop.github.io/ibl/\n🔹Video by Olena and Adis Resic from https://Pixabay.com\n\nEnjoy,\n\nEtay Meiri\n\n#OpenGL",
-    "Confidence": 0.9943149
-  },
-  {
-    "Title": "Bezier Curve as Easing Function",
-    "Url": "https://asawicki.info/articles/Bezier_Curve_as_Easing_Function.htm",
-    "Timestamp": "2025-09-23T18:02:29",
-    "Domain": "asawicki.info",
-    "Description": "Bezier Curve as Easing Function",
-    "Confidence": 0.98935384
-  },
-  {
-    "Title": "Gamebooks and graph theory",
-    "Url": "https://notes.atomutek.org/gamebooks-and-graph-theory.html",
-    "Timestamp": "2025-09-23T18:02:24",
-    "Domain": "notes.atomutek.org",
-    "Description": "A game book is, contrary to the usual books, a book you don't read pages sequentially. These books are read interactively. You are offered a choice after a paragraph: go to the right turn to section 7, go to the left turn to 138. That's it. Depending on the series …",
-    "Confidence": 0.9848373
   }
 ]
