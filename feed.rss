@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why I Keep Business Logic Out of SQL</title>
+      <link>https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql</link>
+      <description>Should I default to pushing logic into the database—using views, procedures, functions—or should I default to keeping logic inside the application code (including SQL statements)?</description>
+      <category>sql</category>
+      <category>typescript</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql</guid>
+      <pubDate>Wed, 24 Sep 2025 01:01:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Ther</title>
       <link>https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface</link>
       <description>In which I pried open the glass LCD lens at the front of my Nest 2nd Gen thermostat and found the LCD display module, packaged with a flexible ribbon cable and a round pixel array, and took a months-long journey of reverse engineering, detective work, and problem-solving that taught me more about display interfaces tha</description>
@@ -340,14 +351,6 @@ Etay Meiri
       <category>git</category>
       <guid>https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors</guid>
       <pubDate>Tue, 23 Sep 2025 02:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>PlanetScale for Postgres is now GA — PlanetScale</title>
-      <link>https://planetscale.com/blog/planetscale-for-postgres-is-generally-available</link>
-      <description>PlanetScale for Postgres is now generally available.</description>
-      <category>sql</category>
-      <guid>https://planetscale.com/blog/planetscale-for-postgres-is-generally-available</guid>
-      <pubDate>Tue, 23 Sep 2025 01:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

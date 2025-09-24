@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "Title": "Why I Keep Business Logic Out of SQL",
+    "Url": "https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql",
+    "Timestamp": "2025-09-24T01:01:32",
+    "Domain": "ewaldbenes.com",
+    "Description": "Should I default to pushing logic into the database—using views, procedures, functions—or should I default to keeping logic inside the application code (including SQL statements)?"
+  }
+]
