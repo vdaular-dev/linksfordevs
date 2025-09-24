@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Support - Larian Studios | Steam Deck - Native Version</title>
+      <link>https://larian.com/support/faqs/steam-deck-native-version_121</link>
+      <description>&amp;nbsp;
+
+Upon release of Hotfix #34 on your Steam Deck, your device will install the Native version.
+
+If you are unsure whether the build has been installed correctly, you can do the following:
+
+
+	Go to the game&amp;rsquo;s Steam page. Click on the Set...</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://larian.com/support/faqs/steam-deck-native-version_121</guid>
+      <pubDate>Wed, 24 Sep 2025 06:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Why I Keep Business Logic Out of SQL</title>
       <link>https://ewaldbenes.com/en/blog/why-i-keep-business-logic-out-of-sql</link>
       <description>Should I default to pushing logic into the database—using views, procedures, functions—or should I default to keeping logic inside the application code (including SQL statements)?</description>
