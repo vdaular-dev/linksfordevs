@@ -7,6 +7,48 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Locking in CockroachDB, Part 2 - Finding Locked Rows | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-2-finding-locked-rows/</link>
+      <description>CockroachDB has an internal table that shows all locked rows. With a simple query, you can find out a lot about what is locked, and maybe the cause.</description>
+      <guid>https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-2-finding-locked-rows/</guid>
+      <pubDate>Wed, 24 Sep 2025 21:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fantastic Four</title>
+      <link>https://xkcd.com/3146/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3146/</guid>
+      <pubDate>Wed, 24 Sep 2025 21:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>I stand by what I said...mostly!</title>
+      <link>https://youtube.com/watch?v=G7PWm_I4NPA</link>
+      <description>My response to a response.
+
+Response tweet with awesome video - https://x.com/bookercodes/status/1970506121757761690
+
+Mastra AI - https://mastra.ai/
+
+**Newsletter**
+Newsletter 🗞 - https://www.jamesqquick.com/newsletter
+
+**DISCORD**
+Join the Learn Build Teach Discord Server 💬 - https://discord.gg/vM2bagU
+
+Follow me on Twitter 🐦 - https://www.twitter.com/jamesqquick
+Check out the Podcast - https://compressed.fm/
+Courses - https://jamesqquick.com/courses
+
+**QUESTIONS ABOUT MY SETUP**
+Check out my Uses page for my VS Code setup, what recording equipment I use, etc.  https://www.jamesqquick.com/uses</description>
+      <author> (James Q Quick)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=G7PWm_I4NPA</guid>
+      <pubDate>Wed, 24 Sep 2025 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Terence Tao (@tao@mathstodon.xyz)</title>
       <link>https://mathstodon.xyz/@tao/115259943398316677</link>
       <description>Some loosely organized thoughts on the current Zeitgeist.  They were inspired by the response to my recent meta-project mentioned in my previous post https://mathstodon.xyz/@tao/115254145226514817, where within 24 hours I became aware of a large number of ongoing small-scale collaborative math projects with their own modest but active community (now listed at https://mathoverflow.net/questions/500720/list-of-crowdsourced-math-projects-actively-seeking-participants ); but they are from the perspective of a human rather than a mathematician.
@@ -338,13 +380,6 @@ If you are unsure whether the build has been installed correctly, you can do the
       <category>compilers</category>
       <guid>https://jakub.kr/components/sign-in-dialog</guid>
       <pubDate>Tue, 23 Sep 2025 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Find My Parking Cops</title>
-      <link>https://walzr.com/sf-parking/</link>
-      <description>Map of San Francisco parking cops and their recent tickets</description>
-      <guid>https://walzr.com/sf-parking/</guid>
-      <pubDate>Tue, 23 Sep 2025 21:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
