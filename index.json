@@ -1,5 +1,125 @@
 [
   {
+    "Title": "Tuning AIO in PostgreSQL 18",
+    "Url": "https://vondra.me/posts/tuning-aio-in-postgresql-18/",
+    "Timestamp": "2025-09-24T23:03:23",
+    "Domain": "vondra.me",
+    "Description": "One of the significant improvements in PG18 is AIO. What are some basic tuning recommendations?",
+    "Confidence": 0.99481535
+  },
+  {
+    "Title": "When Responsibility and Power Collide: Lessons from the RubyGems Crisis",
+    "Url": "https://mensfeld.pl/2025/09/ruby-central-rubygems-takeover-analysis/",
+    "Timestamp": "2025-09-24T23:03:20",
+    "Domain": "mensfeld.pl",
+    "Description": "As a RubyGems security contributor, I watched Ruby Central's takeover unfold. My take on why necessary changes became a crisis of trust and governance.",
+    "Confidence": 0.9550488
+  },
+  {
+    "Title": "The virtue of building from source",
+    "Url": "https://jakobsachs.blog/buildfromsource.html",
+    "Timestamp": "2025-09-24T23:03:14",
+    "Domain": "jakobsachs.blog",
+    "Description": "Building from source is both a joy, sometimes necessary, and also a great pain.",
+    "Confidence": 0.87275887
+  },
+  {
+    "Title": "Blog - Divested Computing",
+    "Url": "https://divested.dev/pages/blog#2025-09-24-geigers?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-09-24T23:03:09",
+    "Domain": "divested.dev",
+    "Description": "Occasional updates about Divested projects and other fun from Tavi.Sundry updates are now on the Roll page.The text on this page is licensed CC BY-SA 4.0 unless stated otherwise.",
+    "Confidence": 0.98310024
+  },
+  {
+    "Title": "My Favorite Technology",
+    "Url": "https://andys.blog/language/",
+    "Timestamp": "2025-09-24T23:03:06",
+    "Domain": "andys.blog",
+    "Description": "Language.\n\nIt's what took us from ape to apex. More than fire or the wheel.\n\nIn the beginning was the word. Agriculture and the internet bow to language.\n\nIt precedes and undergirds all of our many revolutions: French, Communist, Haitian, Industrial—language doesn't care.\n\nNature cannot keep up with the",
+    "Confidence": 0.7602653
+  },
+  {
+    "Title": "The self-trivialisation of software development",
+    "Url": "https://stefvanwijchen.com/the-self-trivialisation-of-software-development/",
+    "Timestamp": "2025-09-24T23:03:03",
+    "Domain": "stefvanwijchen.com",
+    "Description": "How software keeps making itself simpler: from libraries and open source to no‑code and AI. What self‑trivialisation means for developers’ skills, roles, and future.",
+    "Confidence": 0.991367
+  },
+  {
+    "Title": "VassiLife",
+    "Url": "https://vassi.life/projects/diffinetune",
+    "Timestamp": "2025-09-24T23:03:00",
+    "Domain": "vassi.life",
+    "Description": "In this small project, the goal is to learn a bit the world of finetuning/creating LoRA's with diffusion models. Indeed, I did a bit of pre-training, both for LLMs and diffusion models, but I have not experimented much with finetuning yet. The idea for this project is then to fine-tune a diffusion model to include my face in the generated images. Then, I can generate a bunch in different wacky situations/styles, and randomize then in the first page of the website, including the caption used to generate it. Of course, by now models are so big and smart that finetuning to do this is quite overkill: I could simply provide my picture to chatGPT, and ask it to incorporate it in some images, and it would probably work better. Still, its a good learning opportunity, which is as usual the main goal of my projects.",
+    "Confidence": 0.983877
+  },
+  {
+    "Title": "Why do wind turbines have three blades?",
+    "Url": "https://thekidshouldseethis.com/post/why-do-wind-turbines-have-three-blades",
+    "Timestamp": "2025-09-24T23:02:56",
+    "Domain": "thekidshouldseethis.com",
+    "Description": "What makes three the perfect blade count for wind turbines? Why not two for simplicity, or five to catch more wind? The answer connects physics,",
+    "Confidence": 0.9440364
+  },
+  {
+    "Title": "Using a fault tolerant trie for address matching",
+    "Url": "https://www.robinlinacre.com/fault_tolerant_trie/",
+    "Timestamp": "2025-09-24T23:02:52",
+    "Domain": "www.robinlinacre.com",
+    "Description": "An interactive explanation of how a fault tolerant trie can be used for address matching",
+    "Confidence": 0.9663141
+  },
+  {
+    "Title": "The Tiny JSON Parser That Fixes Your CSP Headaches",
+    "Url": "https://robinvdvleuten.nl/post/tiny-json-parser-that-fixes-your-csp-headaches/",
+    "Timestamp": "2025-09-24T23:02:48",
+    "Domain": "robinvdvleuten.nl",
+    "Description": "Learn how to pass server data to React without CSP violations using json-from-script - a tiny library that leverages safe JSON script tags instead of risky inline JavaScript.",
+    "Confidence": 0.9985075
+  },
+  {
+    "Title": "Erlang Ecosystem Foundation - Supporting the BEAM community",
+    "Url": "https://erlef.org/blog/security/beam-worm",
+    "Timestamp": "2025-09-24T23:02:45",
+    "Domain": "erlef.org",
+    "Description": "September 19, 2025 by Jonatan Männchen",
+    "Confidence": 0.9086463
+  },
+  {
+    "Title": "How many valid JSON strings are there?",
+    "Url": "https://qntm.org/jsoncount",
+    "Timestamp": "2025-09-24T23:02:41",
+    "Domain": "qntm.org",
+    "Description": "A valid JSON string is a string conforming to the simple grammar described at json.org.\n\nIn this scenario a string is a finite sequence of Unicode characters. Unicode provides us with an alphabet of some 1,114,112 possible characters, which we number in hexadecimal from 0x0000 ...",
+    "Confidence": 0.9914318
+  },
+  {
+    "Title": "Wild Linker Update - 0.6.0",
+    "Url": "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html",
+    "Timestamp": "2025-09-24T23:02:36",
+    "Domain": "davidlattimore.github.io",
+    "Description": "David Lattimore - 2025-09-23",
+    "Confidence": 0.991015
+  },
+  {
+    "Title": "Noteflakes - My Thoughts on Euruko",
+    "Url": "https://noteflakes.com/articles/2025-09-23-euruko",
+    "Timestamp": "2025-09-24T23:02:33",
+    "Domain": "noteflakes.com",
+    "Description": "I’ve just got back home from Euruko last night. The conference ended on Friday,\nbut I decided to stay two more nights in Portugal and visit Porto. In between\nwalking all over the city, eating great food and enjoying the dancing and music\nmaking in the street, I’ve also had time to think about all the wonderful people\nI met at the conference (and even some I’ve met and talked to by chance on the\nstreets of Viana do Castelo and Porto), and the incredible experiences I’ve had\nat Euruko.",
+    "Confidence": 0.9545608
+  },
+  {
+    "Title": "😾 30 Years Defending Linux — Until I Called It Quits",
+    "Url": "https://ludditus.com/2025/09/21/too-much-is-too-much-and-i-cant-stand-this-shit-anymore/",
+    "Timestamp": "2025-09-24T23:02:29",
+    "Domain": "ludditus.com",
+    "Description": "Yeah, I know, the title seems written by a chatbot. Rest assured, the content is not. As announced almost four weeks ago, it's time for me to bid Linux farewell on my laptops, but on all present and future computers for sure. Should I need it, there's WSL under Windows, which is much leaner than...",
+    "Confidence": 0.99168557
+  },
+  {
     "Title": "Locking in CockroachDB, Part 2 - Finding Locked Rows | no dogma blog",
     "Url": "https://nodogmablog.bryanhogan.net/2025/09/locking-in-cockroachdb-part-2-finding-locked-rows/",
     "Timestamp": "2025-09-24T21:02:13",
@@ -142,141 +262,5 @@
     "Domain": "hookproductivity.com",
     "Description": "When I exchanged emails with Steve Jobs in 2010, I sent him the white paper he requested, recommending—among other things—that Apple introduce system-wide linking in what was then OS X (now macOS). Years later, Apple rolled out Quick Note, a feature introduced with macOS Monterey (version 12) in 202",
     "Confidence": 0.99731773
-  },
-  {
-    "Title": "The Complete Guide to Dev Containers in Ruby on Rails - RorVsWild",
-    "Url": "https://www.rorvswild.com/blog/2025/dev-containers-rails",
-    "Timestamp": "2025-09-23T23:04:13",
-    "Domain": "www.rorvswild.com",
-    "Description": "From basic setup to advanced MCP integration: using Dev Containers for portable development environments that eliminate \"works on my machine\" problems.",
-    "Confidence": 0.9982654
-  },
-  {
-    "Title": "Products People Actually Want | Anton Sten – UX Lead & Product Designer",
-    "Url": "https://www.antonsten.com/books/products-people-actually-want/",
-    "Timestamp": "2025-09-23T23:04:07",
-    "Domain": "www.antonsten.com",
-    "Description": "A Designer's Guide to Building Better. We're drowning in products nobody wants, built by people who never asked if they should.",
-    "Confidence": 0.8462266
-  },
-  {
-    "Title": "Elpe. Yaks big. Razors bigger",
-    "Url": "https://pijul.org/posts/2025-06-08-elpe/",
-    "Timestamp": "2025-09-23T23:04:04",
-    "Domain": "pijul.org",
-    "Description": "An easy to use, distributed and fast version control system.",
-    "Confidence": 0.99723506
-  },
-  {
-    "Title": "Funding",
-    "Url": "https://kobalicek.com/funding.html",
-    "Timestamp": "2025-09-23T23:04:01",
-    "Domain": "kobalicek.com",
-    "Description": "Petr Kobalicek's personal site",
-    "Confidence": 0.99022543
-  },
-  {
-    "Title": "How I QA iOS Apps · Sam Henri Gold",
-    "Url": "https://samhenri.gold/blog/20250923-qa-ios-apps/",
-    "Timestamp": "2025-09-23T23:03:56",
-    "Domain": "samhenri.gold",
-    "Description": "Sam Henri Gold is a product design engineer building playful, useful software.",
-    "Confidence": 0.9840502
-  },
-  {
-    "Title": "Ruby on Rails Conferences Are Discriminatory, Unintelligent, and Hateful of Ruby in 2025",
-    "Url": "https://andymaleh.blogspot.com/2025/09/ruby-on-rails-conferences-are.html",
-    "Timestamp": "2025-09-23T23:03:53",
-    "Domain": "andymaleh.blogspot.com",
-    "Description": "code master oop ruby jruby java jee jse desktop web gui glimmer swt libui tk gtk rails",
-    "Confidence": 0.95181733
-  },
-  {
-    "Title": "The Art of Letting Go: Why Your Platform Needs Less Control Than You Think",
-    "Url": "https://www.davidpoll.com/2025/09/art-of-letting-go/",
-    "Timestamp": "2025-09-23T23:03:49",
-    "Domain": "www.davidpoll.com",
-    "Description": "The Art of Letting Go: Why Your Platform Needs Less Control Than You ThinkAfter nearly two decades building developer platforms, I’ve learned that the moment you truly succeed is when developers fi...",
-    "Confidence": 0.97705907
-  },
-  {
-    "Title": "100,000,000 CROWPOWER and no horses on the moon",
-    "Url": "https://taylor.town/crowpower",
-    "Timestamp": "2025-09-23T23:03:46",
-    "Domain": "taylor.town",
-    "Description": "Humans have no damn clue how to measure intelligence.",
-    "Confidence": 0.9826324
-  },
-  {
-    "Title": "Computing Math and Beauty",
-    "Url": "https://blog.yellowflash.in/posts/2025-09-23-singularity-claude-conversation.html",
-    "Timestamp": "2025-09-23T23:03:43",
-    "Domain": "blog.yellowflash.in",
-    "Description": "23 Sep 2025",
-    "Confidence": 0.98426193
-  },
-  {
-    "Title": "I'm Netlify-Free! - Dmitry Kudryavtsev",
-    "Url": "https://yieldcode.blog/post/i-am-netlify-free/",
-    "Timestamp": "2025-09-23T23:03:36",
-    "Domain": "yieldcode.blog",
-    "Description": "My journey from Netlify to self hosting on a VPS",
-    "Confidence": 0.99587786
-  },
-  {
-    "Title": "The One-Person, Billion-Dollar Power Development Company",
-    "Url": "https://www.jamesmcwalter.com/post/the-one-person-billion-dollar-power-development-company",
-    "Timestamp": "2025-09-23T23:03:31",
-    "Domain": "www.jamesmcwalter.com",
-    "Description": " “A flywheel of compounding infrastructure buildout to run these increasingly powerful AI systems… data centers that can build other data centers.” Sam Altman in Gentle SingularityIt’s 2030. You open your laptop and check on your power company. You see that your Land Management Agent has approved five Letters of Intent (LOIs) that the Siting Agent drafted overnight. You watch in real time as two interconnection filings are submitted, with high-fidelity design attachments, by the Power Agent. The",
-    "Confidence": 0.95579195
-  },
-  {
-    "Title": "Wild Performance Tricks | David Lattimore",
-    "Url": "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html",
-    "Timestamp": "2025-09-23T23:03:27",
-    "Domain": "davidlattimore.github.io",
-    "Description": "David Lattimore - 2025-09-02",
-    "Confidence": 0.9908411
-  },
-  {
-    "Title": "The Domino Effect of Industrial Growth",
-    "Url": "https://estimateproperty.blogspot.com/2025/09/the-domino-effect-of-industrial-growth.html",
-    "Timestamp": "2025-09-23T23:03:24",
-    "Domain": "estimateproperty.blogspot.com",
-    "Description": "Your guide to buying, selling, and investing in real estate. Tips, trends, and insights into the property market.",
-    "Confidence": 0.93788755
-  },
-  {
-    "Title": "Don't purchase your iPhone with AppleCare+",
-    "Url": "https://ssg.dev/dont-purchase-your-iphone-with-applecare/",
-    "Timestamp": "2025-09-23T23:03:20",
-    "Domain": "ssg.dev",
-    "Description": "My adventures dealing with purchasing AppleCare+ along with the iPhone.",
-    "Confidence": 0.9071466
-  },
-  {
-    "Title": "ella - mentally crippled girlie <3",
-    "Url": "https://ella.ad/projects/another-one",
-    "Timestamp": "2025-09-23T23:03:14",
-    "Domain": "ella.ad",
-    "Description": "i'm ella, a girlie who's mentally crippled and i'm a huge computer science nerd",
-    "Confidence": 0.975954
-  },
-  {
-    "Title": "Vibe Coding in Practice - Zed Blog",
-    "Url": "https://zed.dev/blog/vibe-coding-in-practice",
-    "Timestamp": "2025-09-23T23:03:10",
-    "Domain": "zed.dev",
-    "Description": "From the Zed Blog: Manuel Odendahl demonstrates 'vibe coding' - using AI models in parallel without scrutinizing output code.",
-    "Confidence": 0.8991891
-  },
-  {
-    "Title": "Animated Sign-In Dialog",
-    "Url": "https://jakub.kr/components/sign-in-dialog",
-    "Timestamp": "2025-09-23T23:03:06",
-    "Domain": "jakub.kr",
-    "Description": "An animated sign in dialog built on top of the Radix dialog primitive.",
-    "Confidence": 0.9977477
   }
 ]
