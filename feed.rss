@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Biggest .NET Feature Was Just Cancelled</title>
+      <link>https://youtube.com/watch?v=c8Q1qA1kyO0</link>
+      <description>Get 20% off everything on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=BTS2025
+Subscribe to my weekly newsletter: https://nickchapsas.com
+
+Hello, everybody. I'm Nick, and in this video, we will talk about the cancellation of the Eventing Framework feature, a feature that I was hoping would be released in .NET 10, but might never come now.
+
+Check out my workshops: https://dometrain.com/workshops/
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#csharp #dotnet</description>
+      <author> (Nick Chapsas)</author>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=c8Q1qA1kyO0</guid>
+      <pubDate>Thu, 25 Sep 2025 12:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ceiling division and mip map sizes</title>
       <link>https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/</link>
       <description>Integer division is commonly (though not always) defined to be truncating in programming languages, meaning the quotient a / b, when a is not an integer multiple of a, rounds towards 0. In this pos…</description>
