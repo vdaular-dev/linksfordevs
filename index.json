@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Ceiling division and mip map sizes",
+    "Url": "https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/",
+    "Timestamp": "2025-09-25T11:02:00",
+    "Domain": "fgiesen.wordpress.com",
+    "Description": "Integer division is commonly (though not always) defined to be truncating in programming languages, meaning the quotient a / b, when a is not an integer multiple of a, rounds towards 0. In this pos…",
+    "Confidence": 0.9954448
+  },
+  {
     "Title": "Helium Browser",
     "Url": "https://helium.computer/",
     "Timestamp": "2025-09-25T06:01:57",
@@ -230,13 +238,5 @@
     "Domain": "cybersect.substack.com",
     "Description": "It's just normal crime",
     "Confidence": 0.71127665
-  },
-  {
-    "Title": "Procedural Generation with Wave Function Collapse",
-    "Url": "https://vectrx.substack.com/p/the-definitive-guide-to-procedural",
-    "Timestamp": "2025-09-24T11:01:56",
-    "Domain": "vectrx.substack.com",
-    "Description": "An In-Depth Explanation in C++, From First Principles to Practical Implementation",
-    "Confidence": 0.9983578
   }
 ]
