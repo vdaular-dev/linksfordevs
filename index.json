@@ -1,5 +1,29 @@
 [
   {
+    "Title": "ChatControl wants to scan all your private messages",
+    "Url": "https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/",
+    "Timestamp": "2025-09-25T18:02:19",
+    "Domain": "metalhearf.fr",
+    "Description": "The EU is pushing legislation that would scan all our private messages, even in encrypted apps.",
+    "Confidence": 0.96732557
+  },
+  {
+    "Title": "Announcing Cloudflare Email Service’s private beta",
+    "Url": "https://blog.cloudflare.com/email-service/",
+    "Timestamp": "2025-09-25T18:02:16",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Today, we’re launching Cloudflare Email Service. Send and receive email directly from your Workers with native bindings—no API keys needed. We're unifying email sending and routing into a single service built for developers. Sign up for the private beta.",
+    "Confidence": 0.99541116
+  },
+  {
+    "Title": "PostgreSQL 18 Released!",
+    "Url": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+    "Timestamp": "2025-09-25T18:02:12",
+    "Domain": "www.postgresql.org",
+    "Description": "The [PostgreSQL Global Development Group](https://www.postgresql.org) today announced the release of [PostgreSQL 18](https://www.postgresql.org/docs/18/release-18.html), the latest version of the world's most advanced …",
+    "Confidence": 0.9692233
+  },
+  {
     "Title": "Bundler belongs to the Ruby community",
     "Url": "https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/",
     "Timestamp": "2025-09-25T16:02:06",
