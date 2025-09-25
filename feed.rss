@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Helium Browser</title>
+      <link>https://helium.computer/</link>
+      <description>The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. Fully open source.</description>
+      <category>marketing</category>
+      <category>ai</category>
+      <guid>https://helium.computer/</guid>
+      <pubDate>Thu, 25 Sep 2025 06:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Python on the Edge: Fast, sandboxed, and powered by WebAssembly · Blog · Wasmer</title>
       <link>https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly</link>
       <description>With AI workloads on the rise, the demand for Python support on WebAssembly on the Edge has grown rapidly.
@@ -373,22 +382,6 @@ GBA audio has a reputation for being very low-quality, one that I personally thi
       <category>javascript</category>
       <guid>https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list</guid>
       <pubDate>Wed, 24 Sep 2025 07:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Support - Larian Studios | Steam Deck - Native Version</title>
-      <link>https://larian.com/support/faqs/steam-deck-native-version_121</link>
-      <description>&amp;nbsp;
-
-Upon release of Hotfix #34 on your Steam Deck, your device will install the Native version.
-
-If you are unsure whether the build has been installed correctly, you can do the following:
-
-
-	Go to the game&amp;rsquo;s Steam page. Click on the Set...</description>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://larian.com/support/faqs/steam-deck-native-version_121</guid>
-      <pubDate>Wed, 24 Sep 2025 06:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>

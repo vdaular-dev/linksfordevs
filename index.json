@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Helium Browser",
+    "Url": "https://helium.computer/",
+    "Timestamp": "2025-09-25T06:01:57",
+    "Domain": "helium.computer",
+    "Description": "The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. Fully open source.",
+    "Confidence": 0.99433845
+  },
+  {
     "Title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly · Blog · Wasmer",
     "Url": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
     "Timestamp": "2025-09-25T05:02:18",
@@ -270,13 +278,5 @@
     "Domain": "qwen.ai",
     "Description": "Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
     "Confidence": 0.98341805
-  },
-  {
-    "Title": "Support - Larian Studios | Steam Deck - Native Version",
-    "Url": "https://larian.com/support/faqs/steam-deck-native-version_121",
-    "Timestamp": "2025-09-24T06:02:04",
-    "Domain": "larian.com",
-    "Description": "&nbsp;\n\nUpon release of Hotfix #34 on your Steam Deck, your device will install the Native version.\n\nIf you are unsure whether the build has been installed correctly, you can do the following:\n\n\n\tGo to the game&rsquo;s Steam page. Click on the Set...",
-    "Confidence": 0.9881121
   }
 ]
