@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Python on the Edge: Fast, sandboxed, and powered by WebAssembly · Blog · Wasmer</title>
+      <link>https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly</link>
+      <description>With AI workloads on the rise, the demand for Python support on WebAssembly on the Edge has grown rapidly.
+
+However, bringing Python to WebAssembly is...</description>
+      <category>webasm</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly</guid>
+      <pubDate>Thu, 25 Sep 2025 05:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redis is fast - I'll cache in Postgres</title>
+      <link>https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/</link>
+      <description>There are books &amp; many articles online, like this one arguing for using Postgres for everything. I thought I’d take a look at one use case - using Postgres instead of Redis for caching. I work with APIs quite a bit, so I’d build a super simple HTTP server that responds with data from that cache. I’d start from Redis as this is something I frequently encounter at work, switch it out to Postgres using unlogged tables and see if there’s a difference.</description>
+      <category>nodejs</category>
+      <category>hardware</category>
+      <category>sql</category>
+      <guid>https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/</guid>
+      <pubDate>Thu, 25 Sep 2025 05:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Flight Simulator 2024 Soars Onto PlayStation 5 - Microsoft Flight Simulator</title>
       <link>https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/</link>
       <description>Experience an unprecedented level of aviation realism and authenticity starting December 8th.</description>
