@@ -246,21 +246,5 @@
     "Domain": "ewaldbenes.com",
     "Description": "Should I default to pushing logic into the database—using views, procedures, functions—or should I default to keeping logic inside the application code (including SQL statements)?",
     "Confidence": 0.9889563
-  },
-  {
-    "Title": "Reverse-Engineering the LCD Display Interface of the Nest 2nd Gen Ther",
-    "Url": "https://sett.homes/blogs/updates/the-lcd-display-reverse-engineering-the-display-interface",
-    "Timestamp": "2025-09-23T23:04:24",
-    "Domain": "sett.homes",
-    "Description": "In which I pried open the glass LCD lens at the front of my Nest 2nd Gen thermostat and found the LCD display module, packaged with a flexible ribbon cable and a round pixel array, and took a months-long journey of reverse engineering, detective work, and problem-solving that taught me more about display interfaces tha",
-    "Confidence": 0.9597329
-  },
-  {
-    "Title": "Quick Note on macOS: Still Limited in 2025 – Hookmark",
-    "Url": "https://hookproductivity.com/blog/2025/09/quick-note-on-macos-still-limited-in-2025/",
-    "Timestamp": "2025-09-23T23:04:20",
-    "Domain": "hookproductivity.com",
-    "Description": "When I exchanged emails with Steve Jobs in 2010, I sent him the white paper he requested, recommending—among other things—that Apple introduce system-wide linking in what was then OS X (now macOS). Years later, Apple rolled out Quick Note, a feature introduced with macOS Monterey (version 12) in 202",
-    "Confidence": 0.99731773
   }
 ]
