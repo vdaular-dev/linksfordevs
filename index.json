@@ -1,5 +1,141 @@
 [
   {
+    "Title": "How Amgen Lost The PCSK9 Patent War",
+    "Url": "https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war",
+    "Timestamp": "2025-09-26T00:03:13",
+    "Domain": "www.alexkesin.com",
+    "Description": "In 2014, Amgen sued Sanofi and Regeneron to claim ownership of an entire class of cholesterol drugs. Nine years later, the Supreme Court ruled against them - but they won where it mattered most.",
+    "Confidence": 0.7669839
+  },
+  {
+    "Title": "Documentation after LLMs: What Stays, What Goes",
+    "Url": "https://shimi.io/articles/documentation-after-llms-what-stays-what-goes",
+    "Timestamp": "2025-09-26T00:03:09",
+    "Domain": "shimi.io",
+    "Description": "Personal site for articles and product experiments by Shimi Razilov.",
+    "Confidence": 0.98944694
+  },
+  {
+    "Title": "Presentations are products: a Next.js approach to slide decks",
+    "Url": "https://burnedchris.com/blog/presentations-are-products",
+    "Timestamp": "2025-09-26T00:03:05",
+    "Domain": "burnedchris.com",
+    "Description": "I built our presentation system as a fully featured Next.js site, not a slide deck. At first it was for our own investor pitch, but it quickly became clear this approach works anywhere a company needs to tell its story: pitch decks, sales decks, product demos, internal talks.",
+    "Confidence": 0.9885015
+  },
+  {
+    "Title": "That is not a Linux distro. It is a config.",
+    "Url": "https://treejadey.com/post/distro-yapping",
+    "Timestamp": "2025-09-26T00:03:02",
+    "Domain": "treejadey.com",
+    "Description": "We need more labels, people.",
+    "Confidence": 0.98458743
+  },
+  {
+    "Title": "Nested string interpolation in Groovy - Tom's thoughts",
+    "Url": "https://www.tomisawesome.com/thoughts/2025/09/25/nested-string-interpolation-in-groovy/",
+    "Timestamp": "2025-09-26T00:02:58",
+    "Domain": "www.tomisawesome.com",
+    "Description": "So we're going to go down a little rabbit hole regarding groovy string interpolation which I found odd enough to want to write up. First, some basics. Groovy uses string interpolation syntax similar to bash, which looks like this: String foo = 'I am a fancy string' println(\"My string: ${foo}\") Pretty straightforward, with a few",
+    "Confidence": 0.9975126
+  },
+  {
+    "Title": "Jordan Mechner - Latest News",
+    "Url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-09-26T00:02:52",
+    "Domain": "www.jordanmechner.com",
+    "Description": "Blog posts and articles by author and game developer Jordan Mechner",
+    "Confidence": 0.87494326
+  },
+  {
+    "Title": "Notes on RL Environments",
+    "Url": "https://ankitmaloo.com/rl-env/",
+    "Timestamp": "2025-09-26T00:02:45",
+    "Domain": "ankitmaloo.com",
+    "Description": "AI trends move fast. Writing about them makes sense if it’s your job. I’m picking this up because it’s escalated recently, and some discussion seems needed. This is me trying to make sense of an RL environment (and this understanding may evolve).",
+    "Confidence": 0.97929066
+  },
+  {
+    "Title": "My Homelab Setup",
+    "Url": "https://dexteroot.net/posts/2025/07/my-homelab-setup/",
+    "Timestamp": "2025-09-26T00:02:42",
+    "Domain": "dexteroot.net",
+    "Description": "Intro I always wanted to have a homelab, where I can host applications and tinker with things. That dream has slowly materialized over the years, and I would like to showcase it here.\nSo currently, all my applications run on my Arch Linux machines. I am using Arch Linux mainly because I have spent considerable amount of time customising it. I learned Linux with Arch, and gained knowledge of systemd, the Linux filesystem, and manual package management via pacman. And as it has worked well for me all this time, I believe, “If it ain’t broke, don’t fix it”",
+    "Confidence": 0.99624497
+  },
+  {
+    "Title": "Cornell: Stealing a door",
+    "Url": "https://rishigurjar.com/blog/cornell-stealing-a-door",
+    "Timestamp": "2025-09-26T00:02:39",
+    "Domain": "rishigurjar.com",
+    "Description": "Simon and I are sitting down. Some Angry O's I brought home earlier give me a good look and we crack some open. *Green Apple* has never tasted better. At that e",
+    "Confidence": 0.7281157
+  },
+  {
+    "Title": "Parallel Apply of Large Transactions",
+    "Url": "http://amitkapila16.blogspot.com/2025/09/parallel-apply-of-large-transactions.html",
+    "Timestamp": "2025-09-26T00:02:36",
+    "Domain": "amitkapila16.blogspot.com",
+    "Description": "Logical replication in PostgreSQL has steadily evolved since its introduction in version 10. In a previous blog post , I discussed how Postg...",
+    "Confidence": 0.99366677
+  },
+  {
+    "Title": "Some notes on probability judgement – Notes from a data witch",
+    "Url": "https://blog.djnavarro.net/posts/2025-09-21_probability-judgement/",
+    "Timestamp": "2025-09-26T00:02:31",
+    "Domain": "blog.djnavarro.net",
+    "Description": "For the love of fuck, literally nobody thinks that 20% of the population is transgender. Please stop sharing that ridiculous YouGov statistic",
+    "Confidence": 0.98838586
+  },
+  {
+    "Title": "Semantics Follows Frequency: Language in the Spectral Domain",
+    "Url": "https://daedeluskite.com/2025/09/25/semantics-follows-frequency-language-in-the-spectral-domain/",
+    "Timestamp": "2025-09-26T00:02:28",
+    "Domain": "daedeluskite.com",
+    "Description": "When people speak about language, they often imagine that meaning sits inside words like a substance carried in a vessel. If only we could replace “false” words with “true” ones, communication woul…",
+    "Confidence": 0.8740498
+  },
+  {
+    "Title": "The Invisible Number That Multiplies (or Divides) Your Social Interactions",
+    "Url": "https://roberdam.com/en/littlenumber.html",
+    "Timestamp": "2025-09-26T00:02:25",
+    "Domain": "roberdam.com",
+    "Description": "What would you think if I told you that you have an invisible little number floating above your head that boosts or hurts the way you interact with others? TL;DR: If you want to maximize the positive impact of your interactions with others, focus first on improving your invisible multiplying",
+    "Confidence": 0.98696345
+  },
+  {
+    "Title": "Thinking is Doing",
+    "Url": "https://takezo.bearblog.dev/thinking-is-doing/",
+    "Timestamp": "2025-09-26T00:02:21",
+    "Domain": "takezo.bearblog.dev",
+    "Description": "A few days ago I had all intent to add the combat system to my platform fighter game, but somehow, despite the effort, ended the workday with nothing to show...",
+    "Confidence": 0.7862521
+  },
+  {
+    "Title": "The Box Model: A Framework for Role Clarity",
+    "Url": "https://www.joshbeckman.org/blog/practicing/the-box-model-a-framework-for-role-clarity",
+    "Timestamp": "2025-09-26T00:02:18",
+    "Domain": "www.joshbeckman.org",
+    "Description": "I spent months as a Senior Staff Engineer before realizing nobody had clear and consistent expectations of what I should be doing. In leadership roles, everything becomes less defined. You’re responsible for shaping your own position and how you...",
+    "Confidence": 0.9541834
+  },
+  {
+    "Title": "The Rise of the Operator -",
+    "Url": "https://markmaunder.com/2025/the-rise-of-the-operator/",
+    "Timestamp": "2025-09-26T00:02:14",
+    "Domain": "markmaunder.com",
+    "Description": "The AI war between Anthropic and OpenAI have produced Codex via Claude Code, which is a coding tool so spectacular, that it is allowing teams, including ours, to increase ambition so far beyond what was previously possible that it is rapidly transforming the software industry beyond recognition. This change and empowerment is forcing us to […]",
+    "Confidence": 0.99222815
+  },
+  {
+    "Title": "Why The Double Dabble Algorithm Works",
+    "Url": "https://yons.ch/posts/why-the-double-dabble-algorithm-works/",
+    "Timestamp": "2025-09-26T00:02:10",
+    "Domain": "yons.ch",
+    "Description": "When learning to program, students are often asked to implement a function that converts an integer to a string. Usually, what they come up with (and what they are expected to come up with) is to iteratively use division by 10 to get the digits of the number one by one. While this certainly works, division is considered an expensive operation, and so constrained systems (and perhaps standard implementations as well) use an algorithm called “Double Dabble” to get the decimal representation of a number.",
+    "Confidence": 0.9962556
+  },
+  {
     "Title": "New Hardware!  NVidia Thor, Mini PCs, 5K2K Monitors, Keyboards and More!",
     "Url": "https://youtube.com/watch?v=nmvMJkORO2U",
     "Timestamp": "2025-09-25T22:02:10",

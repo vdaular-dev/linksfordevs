@@ -7,6 +7,161 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Amgen Lost The PCSK9 Patent War</title>
+      <link>https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war</link>
+      <description>In 2014, Amgen sued Sanofi and Regeneron to claim ownership of an entire class of cholesterol drugs. Nine years later, the Supreme Court ruled against them - but they won where it mattered most.</description>
+      <category>math</category>
+      <guid>https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war</guid>
+      <pubDate>Fri, 26 Sep 2025 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Documentation after LLMs: What Stays, What Goes</title>
+      <link>https://shimi.io/articles/documentation-after-llms-what-stays-what-goes</link>
+      <description>Personal site for articles and product experiments by Shimi Razilov.</description>
+      <category>ai</category>
+      <guid>https://shimi.io/articles/documentation-after-llms-what-stays-what-goes</guid>
+      <pubDate>Fri, 26 Sep 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Presentations are products: a Next.js approach to slide decks</title>
+      <link>https://burnedchris.com/blog/presentations-are-products</link>
+      <description>I built our presentation system as a fully featured Next.js site, not a slide deck. At first it was for our own investor pitch, but it quickly became clear this approach works anywhere a company needs to tell its story: pitch decks, sales decks, product demos, internal talks.</description>
+      <category>marketing</category>
+      <category>javascript</category>
+      <category>css</category>
+      <guid>https://burnedchris.com/blog/presentations-are-products</guid>
+      <pubDate>Fri, 26 Sep 2025 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>That is not a Linux distro. It is a config.</title>
+      <link>https://treejadey.com/post/distro-yapping</link>
+      <description>We need more labels, people.</description>
+      <category>linux</category>
+      <guid>https://treejadey.com/post/distro-yapping</guid>
+      <pubDate>Fri, 26 Sep 2025 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nested string interpolation in Groovy - Tom's thoughts</title>
+      <link>https://www.tomisawesome.com/thoughts/2025/09/25/nested-string-interpolation-in-groovy/</link>
+      <description>So we're going to go down a little rabbit hole regarding groovy string interpolation which I found odd enough to want to write up. First, some basics. Groovy uses string interpolation syntax similar to bash, which looks like this: String foo = 'I am a fancy string' println("My string: ${foo}") Pretty straightforward, with a few</description>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://www.tomisawesome.com/thoughts/2025/09/25/nested-string-interpolation-in-groovy/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jordan Mechner - Latest News</title>
+      <link>https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince?utm_source=hnblogs.substack.com</link>
+      <description>Blog posts and articles by author and game developer Jordan Mechner</description>
+      <category>apple</category>
+      <category>marketing</category>
+      <category>gaming</category>
+      <category>audio</category>
+      <category>conference</category>
+      <guid>https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notes on RL Environments</title>
+      <link>https://ankitmaloo.com/rl-env/</link>
+      <description>AI trends move fast. Writing about them makes sense if it’s your job. I’m picking this up because it’s escalated recently, and some discussion seems needed. This is me trying to make sense of an RL environment (and this understanding may evolve).</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>amazon</category>
+      <category>ai</category>
+      <category>marketing</category>
+      <guid>https://ankitmaloo.com/rl-env/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Homelab Setup</title>
+      <link>https://dexteroot.net/posts/2025/07/my-homelab-setup/</link>
+      <description>Intro I always wanted to have a homelab, where I can host applications and tinker with things. That dream has slowly materialized over the years, and I would like to showcase it here.
+So currently, all my applications run on my Arch Linux machines. I am using Arch Linux mainly because I have spent considerable amount of time customising it. I learned Linux with Arch, and gained knowledge of systemd, the Linux filesystem, and manual package management via pacman. And as it has worked well for me all this time, I believe, “If it ain’t broke, don’t fix it”</description>
+      <category>cloud</category>
+      <category>dns</category>
+      <category>linux</category>
+      <category>containers</category>
+      <category>amazon</category>
+      <guid>https://dexteroot.net/posts/2025/07/my-homelab-setup/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cornell: Stealing a door</title>
+      <link>https://rishigurjar.com/blog/cornell-stealing-a-door</link>
+      <description>Simon and I are sitting down. Some Angry O's I brought home earlier give me a good look and we crack some open. *Green Apple* has never tasted better. At that e</description>
+      <author> (Rishi Gurjar)</author>
+      <guid>https://rishigurjar.com/blog/cornell-stealing-a-door</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parallel Apply of Large Transactions</title>
+      <link>http://amitkapila16.blogspot.com/2025/09/parallel-apply-of-large-transactions.html</link>
+      <description>Logical replication in PostgreSQL has steadily evolved since its introduction in version 10. In a previous blog post , I discussed how Postg...</description>
+      <category>sql</category>
+      <category>git</category>
+      <category>html</category>
+      <guid>http://amitkapila16.blogspot.com/2025/09/parallel-apply-of-large-transactions.html</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Some notes on probability judgement – Notes from a data witch</title>
+      <link>https://blog.djnavarro.net/posts/2025-09-21_probability-judgement/</link>
+      <description>For the love of fuck, literally nobody thinks that 20% of the population is transgender. Please stop sharing that ridiculous YouGov statistic</description>
+      <guid>https://blog.djnavarro.net/posts/2025-09-21_probability-judgement/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semantics Follows Frequency: Language in the Spectral Domain</title>
+      <link>https://daedeluskite.com/2025/09/25/semantics-follows-frequency-language-in-the-spectral-domain/</link>
+      <description>When people speak about language, they often imagine that meaning sits inside words like a substance carried in a vessel. If only we could replace “false” words with “true” ones, communication woul…</description>
+      <guid>https://daedeluskite.com/2025/09/25/semantics-follows-frequency-language-in-the-spectral-domain/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Invisible Number That Multiplies (or Divides) Your Social Interactions</title>
+      <link>https://roberdam.com/en/littlenumber.html</link>
+      <description>What would you think if I told you that you have an invisible little number floating above your head that boosts or hurts the way you interact with others? TL;DR: If you want to maximize the positive impact of your interactions with others, focus first on improving your invisible multiplying</description>
+      <author> (https://www.facebook.com/roberdam)</author>
+      <category>2ndbrain</category>
+      <category>html</category>
+      <guid>https://roberdam.com/en/littlenumber.html</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thinking is Doing</title>
+      <link>https://takezo.bearblog.dev/thinking-is-doing/</link>
+      <description>A few days ago I had all intent to add the combat system to my platform fighter game, but somehow, despite the effort, ended the workday with nothing to show...</description>
+      <category>gaming</category>
+      <guid>https://takezo.bearblog.dev/thinking-is-doing/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Box Model: A Framework for Role Clarity</title>
+      <link>https://www.joshbeckman.org/blog/practicing/the-box-model-a-framework-for-role-clarity</link>
+      <description>I spent months as a Senior Staff Engineer before realizing nobody had clear and consistent expectations of what I should be doing. In leadership roles, everything becomes less defined. You’re responsible for shaping your own position and how you...</description>
+      <author> (https://www.joshbeckman.org/about/)</author>
+      <category>rust</category>
+      <guid>https://www.joshbeckman.org/blog/practicing/the-box-model-a-framework-for-role-clarity</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rise of the Operator -</title>
+      <link>https://markmaunder.com/2025/the-rise-of-the-operator/</link>
+      <description>The AI war between Anthropic and OpenAI have produced Codex via Claude Code, which is a coding tool so spectacular, that it is allowing teams, including ours, to increase ambition so far beyond what was previously possible that it is rapidly transforming the software industry beyond recognition. This change and empowerment is forcing us to […]</description>
+      <category>ai</category>
+      <guid>https://markmaunder.com/2025/the-rise-of-the-operator/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why The Double Dabble Algorithm Works</title>
+      <link>https://yons.ch/posts/why-the-double-dabble-algorithm-works/</link>
+      <description>When learning to program, students are often asked to implement a function that converts an integer to a string. Usually, what they come up with (and what they are expected to come up with) is to iteratively use division by 10 to get the digits of the number one by one. While this certainly works, division is considered an expensive operation, and so constrained systems (and perhaps standard implementations as well) use an algorithm called “Double Dabble” to get the decimal representation of a number.</description>
+      <category>math</category>
+      <guid>https://yons.ch/posts/why-the-double-dabble-algorithm-works/</guid>
+      <pubDate>Fri, 26 Sep 2025 00:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>New Hardware!  NVidia Thor, Mini PCs, 5K2K Monitors, Keyboards and More!</title>
       <link>https://youtube.com/watch?v=nmvMJkORO2U</link>
       <description>Join Dave in his shop for an epic hardware show-and-tell! We dive into the GEEKOM A9 Max AI mini PC with desktop-class power, a budget 40-inch 5K2K ultrawide that rivals Dell, magnetic Hall-effect keyboards that redefine typing, and NVIDIA’s Thor module crushing un-robotic tasks. No sponsors, just real gear, real tests, and honest takes.
