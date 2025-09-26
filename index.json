@@ -214,21 +214,5 @@
     "Domain": "helium.computer",
     "Description": "The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. Fully open source.",
     "Confidence": 0.99433845
-  },
-  {
-    "Title": "Python on the Edge: Fast, sandboxed, and powered by WebAssembly · Blog · Wasmer",
-    "Url": "https://wasmer.io/posts/python-on-the-edge-powered-by-webassembly",
-    "Timestamp": "2025-09-25T05:02:18",
-    "Domain": "wasmer.io",
-    "Description": "With AI workloads on the rise, the demand for Python support on WebAssembly on the Edge has grown rapidly.\r\n\r\nHowever, bringing Python to WebAssembly is...",
-    "Confidence": 0.9980659
-  },
-  {
-    "Title": "Redis is fast - I'll cache in Postgres",
-    "Url": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
-    "Timestamp": "2025-09-25T05:02:12",
-    "Domain": "dizzy.zone",
-    "Description": "There are books & many articles online, like this one arguing for using Postgres for everything. I thought I’d take a look at one use case - using Postgres instead of Redis for caching. I work with APIs quite a bit, so I’d build a super simple HTTP server that responds with data from that cache. I’d start from Redis as this is something I frequently encounter at work, switch it out to Postgres using unlogged tables and see if there’s a difference.",
-    "Confidence": 0.9958568
   }
 ]
