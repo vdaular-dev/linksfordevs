@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Web search · Ollama Blog</title>
+      <link>https://ollama.com/blog/web-search</link>
+      <description>A new web search API is now available in Ollama. Ollama provides a generous free tier of web searches for individuals to use, and higher rate limits are available via Ollama’s cloud.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://ollama.com/blog/web-search</guid>
+      <pubDate>Fri, 26 Sep 2025 08:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenGL Visualization with LWJGL</title>
       <link>https://www.wedesoft.de/graphics/2025/09/24/lwjgl-nasa-moon/</link>
       <description>OpenGL Visualization with LWJGL</description>
