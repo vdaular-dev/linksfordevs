@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Translating a Fortran F-16 Simulator to Unity3D – VAZGRIZ",
+    "Url": "https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/",
+    "Timestamp": "2025-09-26T15:02:17",
+    "Domain": "vazgriz.com",
+    "Description": "I recently purchased the textbook “Aircraft Control and Simulation” by Brian L. Stevens, Frank L. Lewis, and Eric N. Johnson1. This book covers the control and simulation of aircraft. It’s really dense and frankly hard to understand. As far as aerodynamics texts go, it’s pretty typical.",
+    "Confidence": 0.998027
+  },
+  {
+    "Title": "Jordan Mechner - Latest News",
+    "Url": "https://www.jordanmechner.com/en/latest-news/#a-platform-jumping-prince",
+    "Timestamp": "2025-09-26T15:02:11",
+    "Domain": "www.jordanmechner.com",
+    "Description": "Blog posts and articles by author and game developer Jordan Mechner",
+    "Confidence": 0.87494326
+  },
+  {
+    "Title": "Pop!_OS 24.04 LTS Beta Download",
+    "Url": "https://system76.com/pop/pop-beta/",
+    "Timestamp": "2025-09-26T15:02:05",
+    "Domain": "system76.com",
+    "Description": "Pop!_OS 24.04 LTS with the new COSMIC DE, developed by System76, is coming with many new features to explore and discover. Test out the beta as we fine-tune for release.",
+    "Confidence": 0.99735606
+  },
+  {
     "Title": "Evanston orders Flock to remove reinstalled cameras - Evanston RoundTable",
     "Url": "https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/",
     "Timestamp": "2025-09-26T14:02:04",
@@ -214,13 +238,5 @@
     "Domain": "andre.arko.net",
     "Description": "I’ve spent 15 years of my life working on Bundler. When I introduce myself, people say “oh, the Bundler guy?”, and I am forced to agree.\nI didn’t come up with the original idea for Bundler (that was Yehuda). I also didn’t work on the first six months worth of prototypes. That was all Carl and Yehuda together, back when “Carlhuda” was a super-prolific author of Ruby libraries, including most of the work to modularize Rails for version 3.",
     "Confidence": 0.9476834
-  },
-  {
-    "Title": "Knotty",
-    "Url": "https://t0mpr1c3.github.io/knotty/index.html",
-    "Timestamp": "2025-09-25T15:02:04",
-    "Domain": "t0mpr1c3.github.io",
-    "Description": "8.11",
-    "Confidence": 0.9865543
   }
 ]
