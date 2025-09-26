@@ -222,13 +222,5 @@
     "Domain": "youtube.com",
     "Description": "Get 20% off everything on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=BTS2025\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nHello, everybody. I'm Nick, and in this video, we will talk about the cancellation of the Eventing Framework feature, a feature that I was hoping would be released in .NET 10, but might never come now.\n\nCheck out my workshops: https://dometrain.com/workshops/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
     "Confidence": 0.96972805
-  },
-  {
-    "Title": "Ceiling division and mip map sizes",
-    "Url": "https://fgiesen.wordpress.com/2025/09/25/ceiling-division-and-mip-map-sizes/",
-    "Timestamp": "2025-09-25T11:02:00",
-    "Domain": "fgiesen.wordpress.com",
-    "Description": "Integer division is commonly (though not always) defined to be truncating in programming languages, meaning the quotient a / b, when a is not an integer multiple of a, rounds towards 0. In this pos…",
-    "Confidence": 0.9954448
   }
 ]
