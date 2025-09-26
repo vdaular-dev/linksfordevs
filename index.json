@@ -230,29 +230,5 @@
     "Domain": "dizzy.zone",
     "Description": "There are books & many articles online, like this one arguing for using Postgres for everything. I thought I’d take a look at one use case - using Postgres instead of Redis for caching. I work with APIs quite a bit, so I’d build a super simple HTTP server that responds with data from that cache. I’d start from Redis as this is something I frequently encounter at work, switch it out to Postgres using unlogged tables and see if there’s a difference.",
     "Confidence": 0.9958568
-  },
-  {
-    "Title": "Microsoft Flight Simulator 2024 Soars Onto PlayStation 5 - Microsoft Flight Simulator",
-    "Url": "https://www.flightsimulator.com/microsoft-flight-simulator-2024-soars-onto-playstation-5/",
-    "Timestamp": "2025-09-25T01:02:07",
-    "Domain": "www.flightsimulator.com",
-    "Description": "Experience an unprecedented level of aviation realism and authenticity starting December 8th.",
-    "Confidence": 0.8312022
-  },
-  {
-    "Title": "Product Hunt is Dead — Sedimental",
-    "Url": "https://sedimental.org/product_hunt_is_dead.html",
-    "Timestamp": "2025-09-25T01:02:03",
-    "Domain": "sedimental.org",
-    "Description": "Thoughts on FOSS and fintech, layered by Mahmoud Hashemi",
-    "Confidence": 0.8697271
-  },
-  {
-    "Title": "Everything that's wrong with Google Search in one image",
-    "Url": "https://bitbytebit.substack.com/p/everything-thats-wrong-with-google",
-    "Timestamp": "2025-09-25T01:02:00",
-    "Domain": "bitbytebit.substack.com",
-    "Description": "Make Search Great Again (or just kill it)",
-    "Confidence": 0.9744693
   }
 ]
