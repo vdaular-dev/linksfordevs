@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>There is no reachable chess position with more than 218 moves.</title>
+      <link>https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs</link>
+      <description>Stop searching, we had it right for 60 years.</description>
+      <category>cloud</category>
+      <category>math</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <guid>https://lichess.org/@/Tobs40/blog/there-is-no-reachable-chess-position-with-more-than-218-moves/a5xdxeqs</guid>
+      <pubDate>Fri, 26 Sep 2025 16:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Translating a Fortran F-16 Simulator to Unity3D – VAZGRIZ</title>
       <link>https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/</link>
       <description>I recently purchased the textbook “Aircraft Control and Simulation” by Brian L. Stevens, Frank L. Lewis, and Eric N. Johnson1. This book covers the control and simulation of aircraft. It’s really dense and frankly hard to understand. As far as aerodynamics texts go, it’s pretty typical.</description>
@@ -296,17 +307,6 @@ NVIDIA Thor: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/j
       <category>hardware</category>
       <guid>https://www.postgresql.org/about/news/postgresql-18-released-3142/</guid>
       <pubDate>Thu, 25 Sep 2025 18:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bundler belongs to the Ruby community</title>
-      <link>https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/</link>
-      <description>I’ve spent 15 years of my life working on Bundler. When I introduce myself, people say “oh, the Bundler guy?”, and I am forced to agree.
-I didn’t come up with the original idea for Bundler (that was Yehuda). I also didn’t work on the first six months worth of prototypes. That was all Carl and Yehuda together, back when “Carlhuda” was a super-prolific author of Ruby libraries, including most of the work to modularize Rails for version 3.</description>
-      <category>ruby</category>
-      <category>git</category>
-      <category>cloud</category>
-      <guid>https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/</guid>
-      <pubDate>Thu, 25 Sep 2025 16:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
