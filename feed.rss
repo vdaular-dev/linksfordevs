@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fast UDP I/O for Firefox in Rust</title>
+      <link>https://max-inden.de/post/fast-udp-io-in-firefox/</link>
+      <description>Motivation
+Around 20% of Firefox’s HTTP traffic today uses HTTP/3, which runs over QUIC, which in turn runs over UDP.
+This translates to substantial UDP I/O activity.
+Firefox uses NSPR for most of its network I/O.
+When it comes to UDP I/O, NSPR only offers a limited set of dated APIs, most relevant here PR_SendTo and PR_RecvFrom, wrappers around POSIX’s sendto and recvfrom.
+The N in NSPR stands for Netscape, giving you a hint of its age.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <category>cryptography</category>
+      <guid>https://max-inden.de/post/fast-udp-io-in-firefox/</guid>
+      <pubDate>Fri, 26 Sep 2025 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Hiking</title>
       <link>https://xkcd.com/3147/</link>
       <description></description>
