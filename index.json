@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Taming your shell for LLMs",
+    "Url": "https://ricardoanderegg.com/posts/control-shell-permissions-llm-codex/",
+    "Timestamp": "2025-09-27T02:02:01",
+    "Domain": "ricardoanderegg.com",
+    "Description": "I recently got frustrated with Codex’s command permissions. They don’t let you configure which commands should always be allowed or denied. There’s an issue about it, but it’s …",
+    "Confidence": 0.9987503
+  },
+  {
     "Title": "Parquet with GEOMETRY type is not GeoParquet",
     "Url": "https://rednegra.net/blog/20250925-parquet-with-geometry-type-is-not-geoparquet/",
     "Timestamp": "2025-09-27T01:03:05",

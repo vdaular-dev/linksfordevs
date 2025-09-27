@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Taming your shell for LLMs</title>
+      <link>https://ricardoanderegg.com/posts/control-shell-permissions-llm-codex/</link>
+      <description>I recently got frustrated with Codex’s command permissions. They don’t let you configure which commands should always be allowed or denied. There’s an issue about it, but it’s …</description>
+      <category>python</category>
+      <guid>https://ricardoanderegg.com/posts/control-shell-permissions-llm-codex/</guid>
+      <pubDate>Sat, 27 Sep 2025 02:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Parquet with GEOMETRY type is not GeoParquet</title>
       <link>https://rednegra.net/blog/20250925-parquet-with-geometry-type-is-not-geoparquet/</link>
       <description>Parquet is a column-oriented storage file format I love to use in web apps, because I can access large datasets from a remote location without loading the entire file into memory. Several JavaScript libraries allow reading remote Parquet files: DuckDB-WASM, Parquet WASM or hyparquet which I regularly contribute to.</description>
