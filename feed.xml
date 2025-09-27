@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>PostgreSQL Performance Comparison</title>
+      <link>https://pgbench.github.io/mix/</link>
+      <description>PostgreSQL Version Comparison Raw Data PostgreSQL Version Transactions Latency (ms) TPS PG12 178430 5.379 2973.119642 PG13 149433 6.423 2489.901484 PG14 174704 5.494 2911.603621 PG15 147527 6.506 2458.638847 PG16 178045 5.390 2967.223055 PG17 167942 5.715 2798.938636 PG18 183431 5.232 3057.004702 </description>
+      <category>sql</category>
+      <guid>https://pgbench.github.io/mix/</guid>
+      <pubDate>Sat, 27 Sep 2025 22:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Moondream 3 Preview: Frontier-level reasoning at a blazing speed</title>
       <link>https://moondream.ai/blog/moondream-3-preview</link>
       <description>Think deeper, detect smarter, run just as fast.</description>
