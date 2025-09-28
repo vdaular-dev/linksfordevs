@@ -167,13 +167,5 @@ Over the past three years, services powered by large-language models have been r
       <guid>https://lwn.net/Articles/1037577/</guid>
       <pubDate>Sat, 27 Sep 2025 12:02:01 GMT</pubDate>
     </item>
-    <item>
-      <title>Taming your shell for LLMs</title>
-      <link>https://ricardoanderegg.com/posts/control-shell-permissions-llm-codex/</link>
-      <description>I recently got frustrated with Codex’s command permissions. They don’t let you configure which commands should always be allowed or denied. There’s an issue about it, but it’s …</description>
-      <category>python</category>
-      <guid>https://ricardoanderegg.com/posts/control-shell-permissions-llm-codex/</guid>
-      <pubDate>Sat, 27 Sep 2025 02:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
