@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>When I say "alphabetical order", I mean "alphabetical order"</title>
+      <link>https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/</link>
+      <description>Last month I have been on a multi-day hike with my dad. Each of us took
+many pictures, and when we came back we put them all in a shared folder.
+We both have Android phones, and the naming scheme used for our pictures
+was the same: IMG_YYYYMMDD_HHmmss followed maybe by some other numbers
+and then a .jpg. Here YYYY stands for the year, MM for month and
+so on, so that sorting the pictures in alphabetical order is the same as
+sorting them by date.</description>
+      <category>2ndbrain</category>
+      <category>linux</category>
+      <guid>https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/</guid>
+      <pubDate>Sun, 28 Sep 2025 22:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>GameDev Torch</title>
       <link>https://gamedevtorch.com/</link>
       <description>Curated gamedev search engine</description>
@@ -205,14 +220,6 @@ Over the past three years, services powered by large-language models have been r
       <category>azure</category>
       <guid>https://xn--gckvb8fzb.com/thoughts-on-cloudflare/</guid>
       <pubDate>Sun, 28 Sep 2025 00:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL Performance Comparison</title>
-      <link>https://pgbench.github.io/mix/</link>
-      <description>PostgreSQL Version Comparison Raw Data PostgreSQL Version Transactions Latency (ms) TPS PG12 178430 5.379 2973.119642 PG13 149433 6.423 2489.901484 PG14 174704 5.494 2911.603621 PG15 147527 6.506 2458.638847 PG16 178045 5.390 2967.223055 PG17 167942 5.715 2798.938636 PG18 183431 5.232 3057.004702 </description>
-      <category>sql</category>
-      <guid>https://pgbench.github.io/mix/</guid>
-      <pubDate>Sat, 27 Sep 2025 22:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
