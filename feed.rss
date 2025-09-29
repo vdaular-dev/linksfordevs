@@ -7,6 +7,127 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>2025-09-26 — Why I Choose Email Over Messaging</title>
+      <link>https://www.spinellis.gr/blog/20250926/?hn=</link>
+      <description>My colleagues and friends know that I prefer to communicate
+with them via email rather than chat messaging.
+There are many benefits in such a choice.
+You may want to consider them and adopt the same stance.</description>
+      <category>hardware</category>
+      <category>ai</category>
+      <guid>https://www.spinellis.gr/blog/20250926/?hn=</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Day the House Lost: Exploiting a Race Condition to Print Infinite Money (Rainbet)</title>
+      <link>https://blog.z.org/the-day-the-house-lost/</link>
+      <description>They say the house never loses, which, according to my recent trip to Vegas, seemed true. Security watches closely, slots are programmed to be addictive yet unfair. The whole place is designed to make a profit, and it does. That’s the house, but what if the house is online? That definitely changes things. The frontend interacts with the backend, and we may not be able to access the backend, but we can still tinker with what we can access. We can inspect the often obfuscated JavaScript and watch the HTTP requests being sent out. Those requests are what we leverage today to exploit the house and, yes, make money out of thin air.</description>
+      <category>cryptography</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://blog.z.org/the-day-the-house-lost/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>HOW I ACCIDENTALLY CREATED THE FASTEST CSV PARSER EVER MADE</title>
+      <link>https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made</link>
+      <description>home  blogs  about</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>hardware</category>
+      <guid>https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrating yoginth.com: Waku → Next.js → Phoenix - Yoginth</title>
+      <link>https://yoginth.com/writings/phoenix-migration</link>
+      <description>A quick, honest write‑up about moving my site from Waku to Next.js and finally to Phoenix/Elixir.</description>
+      <category>javascript</category>
+      <category>html</category>
+      <guid>https://yoginth.com/writings/phoenix-migration</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expanding My Vocabulary to a Million Words</title>
+      <link>https://ryan.freumh.org/anki-wiktionary-english-dictionary.html</link>
+      <description>Published 16 Jul. 2025.</description>
+      <category>audio</category>
+      <category>html</category>
+      <guid>https://ryan.freumh.org/anki-wiktionary-english-dictionary.html</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>How To Set $2,455 on Fire</title>
+      <link>https://busd.steviep.xyz/howto</link>
+      <description>Everything you ever wanted to know about burning money, including: legality, tax implications, filming logistics, tokenomics, and prior art</description>
+      <category>cryptography</category>
+      <guid>https://busd.steviep.xyz/howto</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I make CI/CD (much) faster and cheaper</title>
+      <link>https://martinalderson.com/posts/how-i-make-cicd-much-faster-and-cheaper/</link>
+      <description>Why GitHub Actions runners are slow and how bare metal servers can make your CI/CD 2-10x faster while costing 10x less</description>
+      <author> (Martin Alderson)</author>
+      <category>hardware</category>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://martinalderson.com/posts/how-i-make-cicd-much-faster-and-cheaper/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Serving Markdown Based on Accept Headers and User Agent Detection</title>
+      <link>https://benword.com/serving-markdown-based-on-accept-headers-and-user-agent-detection</link>
+      <description>Learn how to serve Markdown content based on Accept headers and user agent detection to reduce token usage and improve efficiency.</description>
+      <category>nodejs</category>
+      <category>html</category>
+      <guid>https://benword.com/serving-markdown-based-on-accept-headers-and-user-agent-detection</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Assume that “How is Claude doing this session?” is a privacy loophole – Key Discussions</title>
+      <link>https://keydiscussions.com/2025/09/28/how-is-claude-doing-this-session-and-the-feedback-privacy-loophole/</link>
+      <description>I am a power user of AI models, who pays a premium for plans claiming to better-respect the privacy of users. (Btw, I am not a lawyer.)</description>
+      <category>ai</category>
+      <guid>https://keydiscussions.com/2025/09/28/how-is-claude-doing-this-session-and-the-feedback-privacy-loophole/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Time to separate the art from the artist</title>
+      <link>https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/</link>
+      <description>A lot of the people whose work I adore and admire are terrible and weird human beings. That’s where it’s tricky to separate the art from the artist and consider if and how you want to support it. This gets even trickier when you find out more about the person, they get caught doing horrible things or their fame gets to their head and they start promoting a terrible opinion about something just because they can.</description>
+      <category>audio</category>
+      <category>python</category>
+      <guid>https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Priorities</title>
+      <link>https://archaeologist.dev/artifacts/priorities</link>
+      <description>Story time. I used to live in a rented townhouse across the street from a
+mansion. One night, its inhabitants hosted a flamboyant outdoor pool party /
+rave with many guests, a professional DJ, and no regard for how their actions
+might be impacting others. In the wee hours of the morning, our walls and
+floors were still reverberating from the music, loud screams were heard, and
+guests were seen climbing onto the roof of a car.</description>
+      <category>audio</category>
+      <category>health</category>
+      <guid>https://archaeologist.dev/artifacts/priorities</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>&lt;span class="dquo"&gt;“&lt;/span&gt;Every Hard Drive I’ve Owned Has Been Larger Than All My Previous Ones Combined”</title>
+      <link>https://blog.nawaz.org/posts/2025/Sep/every-hard-drive-ive-owned-has-been-larger-than-all-my-previous-ones-combined/</link>
+      <description>Back in 2004, I saw this Slashdot
+comment:</description>
+      <guid>https://blog.nawaz.org/posts/2025/Sep/every-hard-drive-ive-owned-has-been-larger-than-all-my-previous-ones-combined/</guid>
+      <pubDate>Mon, 29 Sep 2025 00:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>TASVideos</title>
       <link>https://tasvideos.org/</link>
       <description>Tool-assisted game movies - When human skills are just not enough</description>
@@ -93,140 +214,6 @@ driemeie@usp.br</description>
       <category>hardware</category>
       <guid>https://arxiv.org/html/2509.07025v1</guid>
       <pubDate>Sun, 28 Sep 2025 06:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>You may really be an imposter</title>
-      <link>https://michelenasti.com/imposter/</link>
-      <description>How many times, during school, my teachers said to my parents: "he's gifted, but he doesn't commit".
-</description>
-      <guid>https://michelenasti.com/imposter/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Influences a Buyer’s Decision the Most?</title>
-      <link>https://estimateproperty.blogspot.com/2025/09/what-influences-buyers-decision-most.html</link>
-      <description>Factors that influence a buyer’s decision include location, property features, price, emotional connection, and current market trends in real estate</description>
-      <category>html</category>
-      <guid>https://estimateproperty.blogspot.com/2025/09/what-influences-buyers-decision-most.html</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>On the Importance of Fundamentals</title>
-      <link>https://hallnotes.xyz/notes/importance-of-fundamentals/</link>
-      <description>Is emphasizing fundamentals a better career strategy?</description>
-      <author> (Hall)</author>
-      <category>containers</category>
-      <category>python</category>
-      <guid>https://hallnotes.xyz/notes/importance-of-fundamentals/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Five Favorite Inventions</title>
-      <link>https://www.bramadams.dev/my-five-favorite-inventions/</link>
-      <description>A highly subjective list of inventions borne of a fever dream from a nap in the middle of the day.</description>
-      <guid>https://www.bramadams.dev/my-five-favorite-inventions/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>TurboJSON : JSON basics.</title>
-      <link>https://raphaelouthier.github.io/prj/jsn/jsn_0_intro/</link>
-      <description>Bases on JSON and how to parse it semi-efficiently.</description>
-      <category>javascript</category>
-      <category>python</category>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>2ndbrain</category>
-      <guid>https://raphaelouthier.github.io/prj/jsn/jsn_0_intro/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every Fear is Just Perceived Lack of Control</title>
-      <link>https://shubhamjain.co/2025/09/27/every-fear-is-just-perceived-lack-of-control/</link>
-      <description>
-Wingsuit BASE jumping is one of the most dangerous sports in the world. Studies indicate that it has a fatality rate of nearly 1 in 500 jumps. This means that every active participant faces alarmingly high odds of meeting with a fatal accident.
-
-I always wondered why did these jumpers took such enormous risks for tiny amount of thrill? Couldn't they see statistics? To me, the answer was obvious: they were adrenaline junkies. Addicted to the sport just like an addict is to his drug. For them, nothing could replace the rush of skirting the edge of death.
-
-However, reading [Flow by Mihaly Csikszentmihalyi](https://www.amazon.in/FLOW-Mihaly-Csikszentmihalyi/dp/0061339202), I came to another conclusion. In the section called *Paradox of Control,* he explains. 
-
-&gt; It is usual to explain the motivation of those who enjoy dangerous activities as some sort of pathological need: they are trying to exorcise a deep-seated fear, they are compensating, they are compulsively reenacting an Oedipal fixation, they are “sensation seekers.” While such motives may be occasionally involved, what is most striking, when one actually speaks to specialists in risk, is how their enjoyment derives not from the danger itself, but from their ability to minimize it. So rather than a pathological thrill that comes from courting disaster, the positive emotion they enjoy is the perfectly healthy feeling of being able to control potentially dangerous forces.
-&gt; 
-&gt; So yes, thrill-seeking may be part of their motivation. But that explanation alone is too simplistic. BASE jumpers often believe they are in control, and that they are better at it than everyone else. It’s not that they don’t feel fear, but rather that they see their abilities as equal to the dangerous forces they’re confronting.
-
-Alex Honnold, the renowned rock climber best known for free solo-ing El Capitan, touched on something similar. 
-
-&gt; I differentiate between risk and consequence. Sure, falling from this building is a high consequence, but, for me, it’s low risk. 
-
-So, yes, Alex realizes the stakes are high (death), yet believes his control is so complete that falling would be practically impossible.
-
-## Fear is Perceived Inablity to Control
-
-Fear is obviously a useful mechanism that keeps us safe from genuine dangers. But fear is also a limiting force, stopping us from doing things we might enjoy when the actual threat is minimal.
-
-Most of us assume that our fears are deep part of our personality. The endless catalog of phobias doesn’t help: acrophobia, arachnophobia, aquaphobia. By giving every fear a clinical name, we make it seem like it is hardwired and immutable.
-
-I believe most fears don’t come from the danger itself, but from our perceived inability to control a situation. 
-
-We fear water because we imagine ourselves drowning. We fail to see that once swimming skills are embedded in muscle memory, drowning becomes almost impossible (at least, in normal conditions).
-
-We fear heights because we can’t control the intrusive thought of falling even when we are super-safe.
-
-For the longest time, I was dead-scared driving because I was sure I would run into an accident. I had a deep-seated fear of (Indian) traffic. I couldn't see that once I learn driving and practice enough, I can  drive on auto-pilot basis just as million others do on daily basis. 
-
-I did exactly that. Over a period of time, the fear dissipated, replaced by a trust in the ability to control any situation even in chaotic driving conditions of India. 
-
----
-
-From this perspective, even BASE jumping starts to make a strange kind of sense. It’s not as if someone wakes up one morning, straps on a wingsuit, and leaps off a cliff. They likely progressed through various stages, grew more and more skilled, and then started the penultimate sport of BASE jumping. They understand the risks, but they also think they have the skills to minimize it.
-
-Of course, it's not for everybody. And no matter how confident the Wingsuit flyers are, it's undeniable that not everything will be under their control. But what's interesting to me is how humans can learn to minimize fear even in the riskiest of situations. 
-
----
-
-Over the years, I’ve come to see fear not as an ingrained trait, but as a shifting relationship with control. Fear is there because we perceive ourselves to be powerless in certain situations. No surprise how quickly fear dissipates once we acquire enough skills to understand and control the situation. 
-
-Most of our fears require only a tiny amount of skills, or tweaking our thought process, before we realize how misplaced they were.
-</description>
-      <guid>https://shubhamjain.co/2025/09/27/every-fear-is-just-perceived-lack-of-control/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Made a Better Dynamic Array than stb_ds.h</title>
-      <link>https://lazarusoverlook.com/posts/vector-c-library/</link>
-      <description>vector.h is a production-ready, macro-based C library that generates type-safe dynamic arrays for any data type, offering compile-time type checking, fast iteration, and robust memory management with zero dependencies. Unlike alternatives like stb_ds.h, it provides enhanced type safety, optimized performance, and superior debugging experience while maintaining C89 compatibility across all major compilers and architectures.</description>
-      <guid>https://lazarusoverlook.com/posts/vector-c-library/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signifier flotation devices</title>
-      <link>https://davidyat.es/2025/09/27/signifier-flotation-devices/</link>
-      <description>
-  #
-  I
-
-Over the past three years, services powered by large-language models have been rapidly adopted by consumers and businesses alike. Hope in the tech’s potential has made the graphics card company Nvidia a trillion-dollar stock. The technology is truly exciting and ground-breaking, with immense potential, but also deeply weird. We’ve never had to deal with anything quite like this before.</description>
-      <category>ai</category>
-      <category>audio</category>
-      <category>marketing</category>
-      <guid>https://davidyat.es/2025/09/27/signifier-flotation-devices/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pretend The Internet Isn't Infinite</title>
-      <link>https://blog.shahzeb.co/p/pretend-the-internet-isnt-infinite</link>
-      <description>Be more present in the moment and less present on your phone.</description>
-      <category>youtube</category>
-      <guid>https://blog.shahzeb.co/p/pretend-the-internet-isnt-infinite</guid>
-      <pubDate>Sun, 28 Sep 2025 00:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on Cloudflare</title>
-      <link>https://xn--gckvb8fzb.com/thoughts-on-cloudflare/</link>
-      <description>Thoughts on its role and impact on the web’s landscape.</description>
-      <category>cloud</category>
-      <category>azure</category>
-      <guid>https://xn--gckvb8fzb.com/thoughts-on-cloudflare/</guid>
-      <pubDate>Sun, 28 Sep 2025 00:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
