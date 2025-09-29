@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Code golfing a tiny demo using maths and a pinch of insanity</title>
+      <link>https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html</link>
+      <description>A few weeks ago, I made a tiny demo that fits into 464 characters:</description>
+      <category>math</category>
+      <guid>https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html</guid>
+      <pubDate>Mon, 29 Sep 2025 20:03:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Claude Sonnet 4.5</title>
       <link>https://www.anthropic.com/news/claude-sonnet-4-5</link>
       <description>Claude Sonnet 4.5 is the best coding model in the world, strongest model for building complex agents, and best model at using computers. </description>
@@ -239,14 +247,6 @@ sorting them by date.</description>
       <category>linux</category>
       <guid>https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/</guid>
       <pubDate>Sun, 28 Sep 2025 22:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>GameDev Torch</title>
-      <link>https://gamedevtorch.com/</link>
-      <description>Curated gamedev search engine</description>
-      <category>gaming</category>
-      <guid>https://gamedevtorch.com/</guid>
-      <pubDate>Sun, 28 Sep 2025 20:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

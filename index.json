@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Code golfing a tiny demo using maths and a pinch of insanity",
+    "Url": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
+    "Timestamp": "2025-09-29T20:03:41",
+    "Domain": "blog.pkh.me",
+    "Description": "A few weeks ago, I made a tiny demo that fits into 464 characters:",
+    "Confidence": 0.99712414
+  },
+  {
     "Title": "Introducing Claude Sonnet 4.5",
     "Url": "https://www.anthropic.com/news/claude-sonnet-4-5",
     "Timestamp": "2025-09-29T18:02:13",
@@ -190,13 +198,5 @@
     "Domain": "sebastiano.tronto.net",
     "Description": "Last month I have been on a multi-day hike with my dad. Each of us took\nmany pictures, and when we came back we put them all in a shared folder.\nWe both have Android phones, and the naming scheme used for our pictures\nwas the same: IMG_YYYYMMDD_HHmmss followed maybe by some other numbers\nand then a .jpg. Here YYYY stands for the year, MM for month and\nso on, so that sorting the pictures in alphabetical order is the same as\nsorting them by date.",
     "Confidence": 0.97761697
-  },
-  {
-    "Title": "GameDev Torch",
-    "Url": "https://gamedevtorch.com/",
-    "Timestamp": "2025-09-28T20:02:01",
-    "Domain": "gamedevtorch.com",
-    "Description": "Curated gamedev search engine",
-    "Confidence": 0.9932329
   }
 ]
