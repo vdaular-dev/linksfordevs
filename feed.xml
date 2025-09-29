@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Dockerfile for a .NET 9 Web API Application | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/09/dockerfile-for-a-net-9-web-api-application/</link>
+      <description>I love using Docker to try out databases, caches, messaging systems, etc, usually accessing them from applications running on my host computer. Sometimes I want to run a .NET application in Docker, but I always have to root around for the Dockerfile!</description>
+      <category>containers</category>
+      <category>vscode</category>
+      <category>nuget</category>
+      <category>visualstudio</category>
+      <category>dotnet</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/09/dockerfile-for-a-net-9-web-api-application/</guid>
+      <pubDate>Mon, 29 Sep 2025 21:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>@anthropic-ai/claude-code</title>
+      <link>https://www.npmjs.com/package/@anthropic-ai/claude-code</link>
+      <description>Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.. Latest version: 2.0.0, last published: 5 hours ago. Start using @anthropic-ai/claude-code in your project by running `npm i @anthropic-ai/claude-code`. There are 157 other projects in the npm registry using @anthropic-ai/claude-code.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.npmjs.com/package/@anthropic-ai/claude-code</guid>
+      <pubDate>Mon, 29 Sep 2025 21:01:52 GMT</pubDate>
+    </item>
+    <item>
       <title>Code golfing a tiny demo using maths and a pinch of insanity</title>
       <link>https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html</link>
       <description>A few weeks ago, I made a tiny demo that fits into 464 characters:</description>
