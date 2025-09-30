@@ -7,6 +7,240 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Excel as a frontend - AlexandreHTRB blog</title>
+      <link>https://alexandrehtrb.github.io/posts/2025/09/excel-as-a-frontend/</link>
+      <description>Exploring the idea of using Microsoft Excel and the frontend of a system.</description>
+      <category>sql</category>
+      <guid>https://alexandrehtrb.github.io/posts/2025/09/excel-as-a-frontend/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>90%</title>
+      <link>https://lucumr.pocoo.org/2025/9/29/90-percent/</link>
+      <description>AI is writing 90% of the code I was in charge of</description>
+      <author> (Armin Ronacher)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>python</category>
+      <guid>https://lucumr.pocoo.org/2025/9/29/90-percent/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Simple Habit That Saves My Evenings | alikhil | software engineering, kubernetes &amp; self-hosting</title>
+      <link>https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/</link>
+      <description>As a software engineer, I often work on big tasks that require hours of continuous and focused work. However, we have plenty of meetings, colleagues asking us something in Slack, and lunch breaks. Add a colleague who comes to you and calls you for a cup of coffee if you work from the office.
+And usually, we don’t really have such a luxury as hours of uninterrupted time.
+Nevertheless, sometimes we catch the flow of productive and focused work at the end of the workday. Imagine you come up with an elegant solution to a problem you’ve been tackling all day, or maybe even the whole past week. You can’t wait to implement and test your solution. And of course, you are so driven by your idea that you decide to continue working despite your working day being over. “20 minutes more and I will finish it,” you think. Obviously, this is not the case; some edge cases and new issues will inevitably arise. You come to your senses only 2–3 hours later—tired, hungry, demotivated, and still struggling with your problem. You just wasted your evening, with nothing to show for it. Worse, you overworked and didn’t recover that night. Thus, you were already exhausted when you started working.</description>
+      <category>containers</category>
+      <guid>https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>
+		In the economy of user effort, be a bargain, not a scam • Lea Verou</title>
+      <link>https://lea.verou.me/blog/2025/user-effort/</link>
+      <description>Treat user effort as a currency. To create a product users love, design the tradeoff curve of use case complexity to user effort with the same care you design your pricing scheme.</description>
+      <author> (Lea Verou)</author>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://lea.verou.me/blog/2025/user-effort/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shipping Calendearing</title>
+      <link>https://zachholman.com/posts/calendearing</link>
+      <description>Written pieces, talks, and other bits by Zach Holman.</description>
+      <category>cryptography</category>
+      <category>ai</category>
+      <guid>https://zachholman.com/posts/calendearing</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Block All 26 Million Of Your Curl Requests</title>
+      <link>https://foxmoss.com/blog/packet-filtering/</link>
+      <description>A journey in packet filtering</description>
+      <category>linux</category>
+      <category>hardware</category>
+      <guid>https://foxmoss.com/blog/packet-filtering/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'll quit my job and buy a farm - Alin Panaitiu</title>
+      <link>https://notes.alinpanaitiu.com/I%27ll-quit-my-job-and-buy-a-farm</link>
+      <description>You've heard the words in that title before. You've probably said them yourself, when your day to day job became so absurd that you couldn’t even tell what it is that you do there. Details shift; maybe you wanted to open a bar and talk to people face to face, hear their problems and make them feel listened. Or maybe you wanted to build a house with your bare hands or build furniture out of logs or become a blacksmith, pick up an old craft... ...</description>
+      <category>encryption</category>
+      <category>marketing</category>
+      <guid>https://notes.alinpanaitiu.com/I%27ll-quit-my-job-and-buy-a-farm</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apply the Trie: Word Search — Monday Morning Haskell</title>
+      <link>https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search</link>
+      <description>Today will be a nice culmination of some of the work we’ve been doing with data structures and algorithms. In the past few weeks we’ve covered graph algorithms, particularly Depth First Search. And last week, we implemented the Trie data structure from scratch. Today we’ll solve a “Hard” problem (according to LeetCode) that pulls these pieces together!</description>
+      <category>rust</category>
+      <guid>https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bytecron Labs - Tech, Code &amp; Innovation</title>
+      <link>https://bytecron.me/post/i-tried-htmx</link>
+      <description>Bytecron Labs is your go-to publication for thoughtful tech posts, coding tutorials, developer tools, and more.</description>
+      <category>css</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>html</category>
+      <category>javascript</category>
+      <guid>https://bytecron.me/post/i-tried-htmx</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons Learned from Vibe-Coding a Configuration Parser</title>
+      <link>https://deanebarker.net/tech/blog/vibe-lessons/</link>
+      <description>A description of how I vibe-coded something important and got fantastic results.</description>
+      <category>2ndbrain</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>visualstudio</category>
+      <guid>https://deanebarker.net/tech/blog/vibe-lessons/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stefan Abi-Karam</title>
+      <link>https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/</link>
+      <description>Personal webiste for Stefan Abi-Karam.</description>
+      <category>vscode</category>
+      <category>python</category>
+      <category>hardware</category>
+      <category>compilers</category>
+      <guid>https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mike Kohn!</title>
+      <link>https://www.mikekohn.net/micro/ip_over_lasers.php</link>
+      <description>Mike Kohn's music, software, and electronics projects.</description>
+      <category>hardware</category>
+      <category>linux</category>
+      <category>youtube</category>
+      <guid>https://www.mikekohn.net/micro/ip_over_lasers.php</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Low Code vs. High Code</title>
+      <link>https://rochan.bearblog.dev/low-code-vs-high-code/</link>
+      <description>It's extremely annoying to ever use a low code platform. 
+
+I've never found any joy in it and it's always just trying to learn the ropes to do something yo...</description>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>youtube</category>
+      <guid>https://rochan.bearblog.dev/low-code-vs-high-code/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abandon all keyboards</title>
+      <link>https://robinrendle.com/notes/abandon-all-keyboards/</link>
+      <description>And bleurgh to all things.</description>
+      <category>gaming</category>
+      <guid>https://robinrendle.com/notes/abandon-all-keyboards/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getting The Best Bang For Your Buck For Your Blogging Infra | Bozhidar Hristov</title>
+      <link>https://bozhidar.me/blog/bang-for-buck-blog-infra/</link>
+      <description>How I've set up multiple services for my blog, for a fraction of the cost</description>
+      <category>marketing</category>
+      <category>containers</category>
+      <category>dns</category>
+      <guid>https://bozhidar.me/blog/bang-for-buck-blog-infra/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Barefoot Engineer | Nemanja Milicevic</title>
+      <link>https://nemanjamilicevic.com/posts/barefoot-engineer/</link>
+      <description>A personal blog about technology, leadership, growth, and lessons from ambitious projects</description>
+      <category>ai</category>
+      <guid>https://nemanjamilicevic.com/posts/barefoot-engineer/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Consistent hashing - Eli Bendersky's website</title>
+      <link>https://eli.thegreenplace.net/2025/consistent-hashing/</link>
+      <description>This post is an introduction to consistent hashing,
+an algorithm for designing a hash table such that only a small portion of
+keys has to be recomputed when the table's size changes.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>amazon</category>
+      <guid>https://eli.thegreenplace.net/2025/consistent-hashing/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>When ETL Turns into a Land Grab - Tower</title>
+      <link>https://tower.dev/blog/when-etl-turns-into-a-land-grab</link>
+      <description>Hassle-free Platform for Data Scientists and Engineers, offering open data storage and compute for Pythonic Pipelines, Apps, and AI inference.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>marketing</category>
+      <guid>https://tower.dev/blog/when-etl-turns-into-a-land-grab</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>cleaning house in nx monorepo, how i removed 120 unused deps safely</title>
+      <link>https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely</link>
+      <description>Real cleanup in a big Nx monorepo. I used Knip to flag unused deps, verified removals, handled false positives, and shaved about a minute off yarn install with lower CVE risk.</description>
+      <category>css</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ansible meets UV – Camilo MATAJIRA</title>
+      <link>https://camilo.matajira.com/?p=591</link>
+      <description>Ansible is still the most powerful Configuration Management tool in 2025. It’s used mainly to configure and manage bare-metal servers and virtual machines.But can also be used to for network automation, cloud resource provisioning, CICD pipelines, etc.</description>
+      <category>sql</category>
+      <category>containers</category>
+      <category>python</category>
+      <guid>https://camilo.matajira.com/?p=591</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I found my grail keyboard.</title>
+      <link>https://sunny.gg/post/2025-09-23-kenesis-mwave/</link>
+      <description>I recently bought a Kenesis mWave keyboard and it might be my favorite keyboard yet.</description>
+      <category>linux</category>
+      <guid>https://sunny.gg/post/2025-09-23-kenesis-mwave/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding, not slop, is what’s interesting about LLMs - blakewatson.com</title>
+      <link>https://blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/</link>
+      <description>LLMs don't actually understand us. But, maybe a facsimile of understanding is good enough to make computers easier for everyone.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Throwing darts in latent space</title>
+      <link>https://guille.site/posts/latent-space-darts/</link>
+      <description>Posted 2025-09-29</description>
+      <guid>https://guille.site/posts/latent-space-darts/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>We'll Never Have Flying Cars – Mert Bulan</title>
+      <link>https://mertbulan.com/2025/09/29/well-never-have-flying-cars/</link>
+      <description>A look at why flying cars are unlikely to become a reality.</description>
+      <guid>https://mertbulan.com/2025/09/29/well-never-have-flying-cars/</guid>
+      <pubDate>Tue, 30 Sep 2025 00:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Dockerfile for a .NET 9 Web API Application | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2025/09/dockerfile-for-a-net-9-web-api-application/</link>
       <description>I love using Docker to try out databases, caches, messaging systems, etc, usually accessing them from applications running on my host computer. Sometimes I want to run a .NET application in Docker, but I always have to root around for the Dockerfile!</description>
@@ -126,127 +360,6 @@
       <description>Play the classic snake game on the browser URL.</description>
       <guid>https://demian.ferrei.ro/snake/</guid>
       <pubDate>Mon, 29 Sep 2025 01:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025-09-26 — Why I Choose Email Over Messaging</title>
-      <link>https://www.spinellis.gr/blog/20250926/?hn=</link>
-      <description>My colleagues and friends know that I prefer to communicate
-with them via email rather than chat messaging.
-There are many benefits in such a choice.
-You may want to consider them and adopt the same stance.</description>
-      <category>hardware</category>
-      <category>ai</category>
-      <guid>https://www.spinellis.gr/blog/20250926/?hn=</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Day the House Lost: Exploiting a Race Condition to Print Infinite Money (Rainbet)</title>
-      <link>https://blog.z.org/the-day-the-house-lost/</link>
-      <description>They say the house never loses, which, according to my recent trip to Vegas, seemed true. Security watches closely, slots are programmed to be addictive yet unfair. The whole place is designed to make a profit, and it does. That’s the house, but what if the house is online? That definitely changes things. The frontend interacts with the backend, and we may not be able to access the backend, but we can still tinker with what we can access. We can inspect the often obfuscated JavaScript and watch the HTTP requests being sent out. Those requests are what we leverage today to exploit the house and, yes, make money out of thin air.</description>
-      <category>cryptography</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://blog.z.org/the-day-the-house-lost/</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>HOW I ACCIDENTALLY CREATED THE FASTEST CSV PARSER EVER MADE</title>
-      <link>https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made</link>
-      <description>home  blogs  about</description>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>hardware</category>
-      <guid>https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrating yoginth.com: Waku → Next.js → Phoenix - Yoginth</title>
-      <link>https://yoginth.com/writings/phoenix-migration</link>
-      <description>A quick, honest write‑up about moving my site from Waku to Next.js and finally to Phoenix/Elixir.</description>
-      <category>javascript</category>
-      <category>html</category>
-      <guid>https://yoginth.com/writings/phoenix-migration</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Expanding My Vocabulary to a Million Words</title>
-      <link>https://ryan.freumh.org/anki-wiktionary-english-dictionary.html</link>
-      <description>Published 16 Jul. 2025.</description>
-      <category>audio</category>
-      <category>html</category>
-      <guid>https://ryan.freumh.org/anki-wiktionary-english-dictionary.html</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>How To Set $2,455 on Fire</title>
-      <link>https://busd.steviep.xyz/howto</link>
-      <description>Everything you ever wanted to know about burning money, including: legality, tax implications, filming logistics, tokenomics, and prior art</description>
-      <category>cryptography</category>
-      <guid>https://busd.steviep.xyz/howto</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I make CI/CD (much) faster and cheaper</title>
-      <link>https://martinalderson.com/posts/how-i-make-cicd-much-faster-and-cheaper/</link>
-      <description>Why GitHub Actions runners are slow and how bare metal servers can make your CI/CD 2-10x faster while costing 10x less</description>
-      <author> (Martin Alderson)</author>
-      <category>hardware</category>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://martinalderson.com/posts/how-i-make-cicd-much-faster-and-cheaper/</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serving Markdown Based on Accept Headers and User Agent Detection</title>
-      <link>https://benword.com/serving-markdown-based-on-accept-headers-and-user-agent-detection</link>
-      <description>Learn how to serve Markdown content based on Accept headers and user agent detection to reduce token usage and improve efficiency.</description>
-      <category>nodejs</category>
-      <category>html</category>
-      <guid>https://benword.com/serving-markdown-based-on-accept-headers-and-user-agent-detection</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assume that “How is Claude doing this session?” is a privacy loophole – Key Discussions</title>
-      <link>https://keydiscussions.com/2025/09/28/how-is-claude-doing-this-session-and-the-feedback-privacy-loophole/</link>
-      <description>I am a power user of AI models, who pays a premium for plans claiming to better-respect the privacy of users. (Btw, I am not a lawyer.)</description>
-      <category>ai</category>
-      <guid>https://keydiscussions.com/2025/09/28/how-is-claude-doing-this-session-and-the-feedback-privacy-loophole/</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Time to separate the art from the artist</title>
-      <link>https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/</link>
-      <description>A lot of the people whose work I adore and admire are terrible and weird human beings. That’s where it’s tricky to separate the art from the artist and consider if and how you want to support it. This gets even trickier when you find out more about the person, they get caught doing horrible things or their fame gets to their head and they start promoting a terrible opinion about something just because they can.</description>
-      <category>audio</category>
-      <category>python</category>
-      <guid>https://christianheilmann.com/2025/09/28/time-to-separate-the-art-from-the-artist/</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Priorities</title>
-      <link>https://archaeologist.dev/artifacts/priorities</link>
-      <description>Story time. I used to live in a rented townhouse across the street from a
-mansion. One night, its inhabitants hosted a flamboyant outdoor pool party /
-rave with many guests, a professional DJ, and no regard for how their actions
-might be impacting others. In the wee hours of the morning, our walls and
-floors were still reverberating from the music, loud screams were heard, and
-guests were seen climbing onto the roof of a car.</description>
-      <category>audio</category>
-      <category>health</category>
-      <guid>https://archaeologist.dev/artifacts/priorities</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>&lt;span class="dquo"&gt;“&lt;/span&gt;Every Hard Drive I’ve Owned Has Been Larger Than All My Previous Ones Combined”</title>
-      <link>https://blog.nawaz.org/posts/2025/Sep/every-hard-drive-ive-owned-has-been-larger-than-all-my-previous-ones-combined/</link>
-      <description>Back in 2004, I saw this Slashdot
-comment:</description>
-      <guid>https://blog.nawaz.org/posts/2025/Sep/every-hard-drive-ive-owned-has-been-larger-than-all-my-previous-ones-combined/</guid>
-      <pubDate>Mon, 29 Sep 2025 00:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
