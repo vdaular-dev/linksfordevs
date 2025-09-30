@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Billions of triangles in minutes",
+    "Url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+    "Timestamp": "2025-09-30T19:02:03",
+    "Domain": "zeux.io",
+    "Description": "Early this year, NVIDIA released their new raytracing technology, RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed as a ~100 GB Unreal Engine scene - that can only be opened in a special branch of Unreal Engine, NvRTX. The demo showcased the application of new driver-exposed raytracing features, specifically clustered raytracing, in combination with Nanite clustered LOD pipeline - allowing to stream and display a very highly detailed scene with full raytracing without using the Nanite proxy meshes that Unreal Engine currently generates for raytracing.\n\nAs this was too Unreal Engine specific for me, I couldn’t really experiment much with this - but then, in early September, NVIDIA released an update to their vk_lod_clusters open-source sample, that - among other things - featured Zorah scene as a glTF file. Naturally, this piqued my curiosity - and led me to spend a fair amount of time to improve support for hierarchical clustered LOD in meshoptimizer.\n\n"
+  },
+  {
     "Title": "Introducing Kagi News | Kagi Blog",
     "Url": "https://blog.kagi.com/kagi-news",
     "Timestamp": "2025-09-30T17:02:02",
