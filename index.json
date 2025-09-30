@@ -270,29 +270,5 @@
     "Domain": "mertbulan.com",
     "Description": "A look at why flying cars are unlikely to become a reality.",
     "Confidence": 0.9046322
-  },
-  {
-    "Title": "Dockerfile for a .NET 9 Web API Application | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/09/dockerfile-for-a-net-9-web-api-application/",
-    "Timestamp": "2025-09-29T21:01:56",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "I love using Docker to try out databases, caches, messaging systems, etc, usually accessing them from applications running on my host computer. Sometimes I want to run a .NET application in Docker, but I always have to root around for the Dockerfile!",
-    "Confidence": 0.99780804
-  },
-  {
-    "Title": "@anthropic-ai/claude-code",
-    "Url": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
-    "Timestamp": "2025-09-29T21:01:52",
-    "Domain": "www.npmjs.com",
-    "Description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.. Latest version: 2.0.0, last published: 5 hours ago. Start using @anthropic-ai/claude-code in your project by running `npm i @anthropic-ai/claude-code`. There are 157 other projects in the npm registry using @anthropic-ai/claude-code.",
-    "Confidence": 0.99772465
-  },
-  {
-    "Title": "Code golfing a tiny demo using maths and a pinch of insanity",
-    "Url": "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html",
-    "Timestamp": "2025-09-29T20:03:41",
-    "Domain": "blog.pkh.me",
-    "Description": "A few weeks ago, I made a tiny demo that fits into 464 characters:",
-    "Confidence": 0.99712414
   }
 ]
