@@ -7,6 +7,39 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Hidden Artist Deciding Which Indie Games Blow Up</title>
+      <link>https://youtube.com/watch?v=KjF4Nu0TbcU</link>
+      <description>Execute Steam Demo: https://store.steampowered.com/app/3829620/Execute/
+
+An interview with the Steam cover artist helping indie devs blow up!
+
+Patreon:
+https://www.patreon.com/u3443171
+
+art by: Giovanni Fim
+
+https://www.artstation.com/ggtfim/albums/60967
+
+———————
+Link to Grid Tweaker: (my other game)
+https://store.steampowered.com/app/2686260/Grid_Tweaker/
+
+LINK TO DISCORD: 
+https://discord.gg/fWXnwyNpeT
+
+gaming podcast:
+https://game-boys-advanced.zencast.website/
+
+spotify(MY MUSIC):
+https://open.spotify.com/artist/134lbAEDjF0rR7Q5OJKq1l?si=P6nzba-lQWqVVXfMFxCQCQ</description>
+      <author> (Payne Robinson)</author>
+      <category>audio</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=KjF4Nu0TbcU</guid>
+      <pubDate>Tue, 30 Sep 2025 20:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Billions of triangles in minutes</title>
       <link>https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/</link>
       <description>Early this year, NVIDIA released their new raytracing technology, RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed as a ~100 GB Unreal Engine scene - that can only be opened in a special branch of Unreal Engine, NvRTX. The demo showcased the application of new driver-exposed raytracing features, specifically clustered raytracing, in combination with Nanite clustered LOD pipeline - allowing to stream and display a very highly detailed scene with full raytracing without using the Nanite proxy meshes that Unreal Engine currently generates for raytracing.
@@ -340,14 +373,6 @@ keys has to be recomputed when the table's size changes.</description>
       <category>git</category>
       <guid>https://www.npmjs.com/package/@anthropic-ai/claude-code</guid>
       <pubDate>Mon, 29 Sep 2025 21:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code golfing a tiny demo using maths and a pinch of insanity</title>
-      <link>https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html</link>
-      <description>A few weeks ago, I made a tiny demo that fits into 464 characters:</description>
-      <category>math</category>
-      <guid>https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html</guid>
-      <pubDate>Mon, 29 Sep 2025 20:03:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
