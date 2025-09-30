@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Notes on Unreal Engine 5, Nanite</title>
+      <link>https://www.4rknova.com//blog/2021/06/09/unreal-5-nanite</link>
+      <description>Nanite in UE5 is a virtualized geometry system that renders only visible detail, enabling film-quality assets with millions of polygons and minimal performance cost. It replaces normal maps, suppor...</description>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <category>hardware</category>
+      <guid>https://www.4rknova.com//blog/2021/06/09/unreal-5-nanite</guid>
+      <pubDate>Tue, 30 Sep 2025 11:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Improved Map Generation | Civilization VII</title>
       <link>https://civilization.2k.com/civ-vii/from-the-devs/map-generation/</link>
       <description>Get developer insight into the new types of maps built into Update 1.2.5.</description>
@@ -333,18 +343,6 @@ keys has to be recomputed when the table's size changes.</description>
       <category>gaming</category>
       <guid>https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/</guid>
       <pubDate>Mon, 29 Sep 2025 15:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avalanche Studios NYC Retrospective – An Ambitious Company Ruined by Bad Development Practices</title>
-      <link>https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/</link>
-      <description>I’ve wanted to write about this since the studio closed a year ago. Now that Contraband is also canceled I think it’s time, especially since Contraband was one of the big reasons why I …</description>
-      <category>gaming</category>
-      <category>visualstudio</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://probablydance.com/2025/09/28/avalanche-studios-nyc-retrospective-an-ambitious-company-ruined-by-bad-development-practices/</guid>
-      <pubDate>Mon, 29 Sep 2025 11:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

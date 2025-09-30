@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Notes on Unreal Engine 5, Nanite",
+    "Url": "https://www.4rknova.com//blog/2021/06/09/unreal-5-nanite",
+    "Timestamp": "2025-09-30T11:01:57",
+    "Domain": "www.4rknova.com",
+    "Description": "Nanite in UE5 is a virtualized geometry system that renders only visible detail, enabling film-quality assets with millions of polygons and minimal performance cost. It replaces normal maps, suppor..."
+  },
+  {
     "Title": "Improved Map Generation | Civilization VII",
     "Url": "https://civilization.2k.com/civ-vii/from-the-devs/map-generation/",
     "Timestamp": "2025-09-30T08:02:05",
