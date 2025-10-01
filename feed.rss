@@ -7,6 +7,197 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>npx pub-recs dalevross</title>
+      <link>https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html</link>
+      <description>An npm package to show off recommendations.</description>
+      <category>html</category>
+      <guid>https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html</guid>
+      <pubDate>Wed, 01 Oct 2025 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Software Faster with LLMs: Part 1 - The Pain Points</title>
+      <link>https://blog.laurentcharignon.com/post/2025-09-30-llm-workflow-part1-pain-points/</link>
+      <description>Note: This article series was written by me, with LLMs helping to refine the style and structure.
+Working with 10 parallel LLM coding sessions exposes problems that don’t appear at smaller scale. Managing multiple conversations, maintaining context across sessions, and ensuring quality all require different approaches than single-session work.
+This series documents those problems and the solutions that emerged. The tools shown use Claude Code and Emacs, but the patterns apply broadly to any LLM workflow.</description>
+      <category>encryption</category>
+      <guid>https://blog.laurentcharignon.com/post/2025-09-30-llm-workflow-part1-pain-points/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Majority Of Your Users</title>
+      <link>https://jacobtomlinson.dev/posts/2025/the-majority-of-your-users/</link>
+      <description>The majority of your users don’t read your changelog.
+The majority of your users only upgrade to new versions when forced to.</description>
+      <category>devops</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://jacobtomlinson.dev/posts/2025/the-majority-of-your-users/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom LNAddress with Self-Hosted AlbyHub</title>
+      <link>https://emre.xyz/posts/custom-lnaddress/</link>
+      <description>My adventure to have custom LNAddres</description>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://emre.xyz/posts/custom-lnaddress/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ivan Codes &amp; Takes Photos</title>
+      <link>https://www.ivan.codes/thoughts/teaching-the-wrong-vocabulary-to-new-builders</link>
+      <description>Personal website and photoblog of Ivan</description>
+      <category>marketing</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.ivan.codes/thoughts/teaching-the-wrong-vocabulary-to-new-builders</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Kind of Programming is Natural Language Programming?</title>
+      <link>https://dsyme.net/2025/09/02/what-kind-of-programming-is-natural-language-programming/</link>
+      <description>In previous posts I’ve written about Dijkstra’s Ghost and Ephemeral Editable Specifications (aka Extract, Edit, Apply), touching on the topics of Natural Language Programming and the ro…</description>
+      <category>ai</category>
+      <guid>https://dsyme.net/2025/09/02/what-kind-of-programming-is-natural-language-programming/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>An Agent is Nothing Without its Tools</title>
+      <link>https://www.rkayg.com/blog/agents-and-tools</link>
+      <description>my personal site</description>
+      <guid>https://www.rkayg.com/blog/agents-and-tools</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>A B+Tree Node Underflows: Merge or Borrow?</title>
+      <link>https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/</link>
+      <description>On database building blocks.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <guid>https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remarks on SFrame</title>
+      <link>https://maskray.me/blog/2025-09-28-remarks-on-sframe</link>
+      <description>The .sframe format is a lightweight alternative to .eh_frame and .eh_frame_hdr designed for efficient stack unwinding. By trading some functionality and flexibility for compactness, SFrame achieves si</description>
+      <author> (MaskRay)</author>
+      <category>git</category>
+      <category>linux</category>
+      <category>compilers</category>
+      <guid>https://maskray.me/blog/2025-09-28-remarks-on-sframe</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>CTFs as a Rosetta Stone</title>
+      <link>https://bhmt.dev/blog/ctf/</link>
+      <description>Hey, you. Do you like video games?</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>containers</category>
+      <category>css</category>
+      <category>sql</category>
+      <guid>https://bhmt.dev/blog/ctf/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby Central’s “security measures” leave front door wide open</title>
+      <link>https://joel.drapper.me/p/ruby-central-security-measures/</link>
+      <description>Despite locking maintainers out of </description>
+      <category>ruby</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://joel.drapper.me/p/ruby-central-security-measures/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Splitting Rodecaster Pro WAV files</title>
+      <link>https://jethro.site/splitting-rodecaster-pro-wav-files</link>
+      <description>Use this Shortcut to auto-split your Rodecaster Pro WAV files into one WAV file for the guest and host.I record a lot of podcasts. Sometimes, I get to do the...</description>
+      <author> (https://jethro.site/)</author>
+      <guid>https://jethro.site/splitting-rodecaster-pro-wav-files</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Lose Forever and Still Win: Laughing at the Gods, One Boulder at a Time</title>
+      <link>https://ishanmarikar.com/blog/how-to-lose-forever/</link>
+      <description>Camus said we must imagine Sisyphus happy. Maybe the secret isn't in conquering the mountain but in laughing as the rock tumbles back down. A meditation on absurdity, rebellion, and the art of pushing anyway.</description>
+      <guid>https://ishanmarikar.com/blog/how-to-lose-forever/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cognitive Capital: Assets That Think</title>
+      <link>https://rashidazarang.com/c/capital-that-thinks</link>
+      <description>← Go back</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://rashidazarang.com/c/capital-that-thinks</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Addressing Editor Content</title>
+      <link>https://marijnhaverbeke.nl/blog/addressing-editor-content.html</link>
+      <description>Every text editor system, whether it works with plain or rich text,
+needs some way to refer to specific positions in the document. The
+very first reason one runs into this, when implementing such a system,
+is for representing the cursor and selection. But in a mature editor,
+you'll be doing a lot more things that refer to document
+positions—representing changes, displaying user interface elements in
+the text, or tracking metadata about a piece of content.</description>
+      <guid>https://marijnhaverbeke.nl/blog/addressing-editor-content.html</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Network Effect of Intelligence</title>
+      <link>https://rashidazarang.com/c/the-network-effect-of-intelligence</link>
+      <description>← Go back</description>
+      <category>health</category>
+      <category>ai</category>
+      <guid>https://rashidazarang.com/c/the-network-effect-of-intelligence</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Photo Map Tile Pareto Front - lnar/dev</title>
+      <link>https://lnar.dev/blog/photo-tile-pareto/</link>
+      <description>Exploring the balance between image quality and performance in photo map tiles.</description>
+      <guid>https://lnar.dev/blog/photo-tile-pareto/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>My first complete game</title>
+      <link>https://laladrik.xyz/blog/myFirstCompleteGame/</link>
+      <description>Emscripten supports SDL3 and its extensions out of the box.  However, I preferred to compile from the sources in order to have exactly the same version of SDL3 as I used for other targets.  Compiling SDL3 with its dependencies required some configuration of their CMake scripts.  Emscripten gives the tool emcmake which allows a CMake project to be configured for Emscripten without the necessity to change the required options.  The command to configure SDL3 is the same except it starts from emcmake:</description>
+      <category>webasm</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>audio</category>
+      <category>html</category>
+      <guid>https://laladrik.xyz/blog/myFirstCompleteGame/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diff Algorithms - flo.znkr.io</title>
+      <link>https://flo.znkr.io/diff/</link>
+      <description>How I overcame copying and modifying my own diff library from project to project by 
+          diving too deep into diff algorithms and coming out at the other end with new diff 
+          library in my hand.</description>
+      <guid>https://flo.znkr.io/diff/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction to Terraform Actions | DanielMSchmidt.de</title>
+      <link>https://danielmschmidt.de/posts/2025-09-26-terraform-actions-introduction/</link>
+      <description>Actions is a new language feature of Terraform that allows you to express non-CRUD operations in your configuration. Think of it as first-class support for workarounds where you had to use a local-exec provisioner or a pseudo data source before.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://danielmschmidt.de/posts/2025-09-26-terraform-actions-introduction/</guid>
+      <pubDate>Wed, 01 Oct 2025 00:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Inflammation now predicts heart disease more strongly than cholesterol</title>
       <link>https://www.empirical.health/blog/inflammation-and-heart-health/</link>
       <description>The American College of Cardiology now recommends everybody measure their hs-CRP.</description>
@@ -125,240 +316,6 @@ As this was too Unreal Engine specific for me, I couldn’t really experiment mu
       <category>javascript</category>
       <guid>https://xkcd.com/3148/</guid>
       <pubDate>Tue, 30 Sep 2025 03:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Excel as a frontend - AlexandreHTRB blog</title>
-      <link>https://alexandrehtrb.github.io/posts/2025/09/excel-as-a-frontend/</link>
-      <description>Exploring the idea of using Microsoft Excel and the frontend of a system.</description>
-      <category>sql</category>
-      <guid>https://alexandrehtrb.github.io/posts/2025/09/excel-as-a-frontend/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>90%</title>
-      <link>https://lucumr.pocoo.org/2025/9/29/90-percent/</link>
-      <description>AI is writing 90% of the code I was in charge of</description>
-      <author> (Armin Ronacher)</author>
-      <category>sql</category>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>cloud</category>
-      <category>python</category>
-      <guid>https://lucumr.pocoo.org/2025/9/29/90-percent/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Simple Habit That Saves My Evenings | alikhil | software engineering, kubernetes &amp; self-hosting</title>
-      <link>https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/</link>
-      <description>As a software engineer, I often work on big tasks that require hours of continuous and focused work. However, we have plenty of meetings, colleagues asking us something in Slack, and lunch breaks. Add a colleague who comes to you and calls you for a cup of coffee if you work from the office.
-And usually, we don’t really have such a luxury as hours of uninterrupted time.
-Nevertheless, sometimes we catch the flow of productive and focused work at the end of the workday. Imagine you come up with an elegant solution to a problem you’ve been tackling all day, or maybe even the whole past week. You can’t wait to implement and test your solution. And of course, you are so driven by your idea that you decide to continue working despite your working day being over. “20 minutes more and I will finish it,” you think. Obviously, this is not the case; some edge cases and new issues will inevitably arise. You come to your senses only 2–3 hours later—tired, hungry, demotivated, and still struggling with your problem. You just wasted your evening, with nothing to show for it. Worse, you overworked and didn’t recover that night. Thus, you were already exhausted when you started working.</description>
-      <category>containers</category>
-      <guid>https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-		In the economy of user effort, be a bargain, not a scam • Lea Verou</title>
-      <link>https://lea.verou.me/blog/2025/user-effort/</link>
-      <description>Treat user effort as a currency. To create a product users love, design the tradeoff curve of use case complexity to user effort with the same care you design your pricing scheme.</description>
-      <author> (Lea Verou)</author>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://lea.verou.me/blog/2025/user-effort/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shipping Calendearing</title>
-      <link>https://zachholman.com/posts/calendearing</link>
-      <description>Written pieces, talks, and other bits by Zach Holman.</description>
-      <category>cryptography</category>
-      <category>ai</category>
-      <guid>https://zachholman.com/posts/calendearing</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Block All 26 Million Of Your Curl Requests</title>
-      <link>https://foxmoss.com/blog/packet-filtering/</link>
-      <description>A journey in packet filtering</description>
-      <category>linux</category>
-      <category>hardware</category>
-      <guid>https://foxmoss.com/blog/packet-filtering/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>I'll quit my job and buy a farm - Alin Panaitiu</title>
-      <link>https://notes.alinpanaitiu.com/I%27ll-quit-my-job-and-buy-a-farm</link>
-      <description>You've heard the words in that title before. You've probably said them yourself, when your day to day job became so absurd that you couldn’t even tell what it is that you do there. Details shift; maybe you wanted to open a bar and talk to people face to face, hear their problems and make them feel listened. Or maybe you wanted to build a house with your bare hands or build furniture out of logs or become a blacksmith, pick up an old craft... ...</description>
-      <category>encryption</category>
-      <category>marketing</category>
-      <guid>https://notes.alinpanaitiu.com/I%27ll-quit-my-job-and-buy-a-farm</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apply the Trie: Word Search — Monday Morning Haskell</title>
-      <link>https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search</link>
-      <description>Today will be a nice culmination of some of the work we’ve been doing with data structures and algorithms. In the past few weeks we’ve covered graph algorithms, particularly Depth First Search. And last week, we implemented the Trie data structure from scratch. Today we’ll solve a “Hard” problem (according to LeetCode) that pulls these pieces together!</description>
-      <category>rust</category>
-      <guid>https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bytecron Labs - Tech, Code &amp; Innovation</title>
-      <link>https://bytecron.me/post/i-tried-htmx</link>
-      <description>Bytecron Labs is your go-to publication for thoughtful tech posts, coding tutorials, developer tools, and more.</description>
-      <category>css</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>html</category>
-      <category>javascript</category>
-      <guid>https://bytecron.me/post/i-tried-htmx</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lessons Learned from Vibe-Coding a Configuration Parser</title>
-      <link>https://deanebarker.net/tech/blog/vibe-lessons/</link>
-      <description>A description of how I vibe-coded something important and got fantastic results.</description>
-      <category>2ndbrain</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>visualstudio</category>
-      <guid>https://deanebarker.net/tech/blog/vibe-lessons/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stefan Abi-Karam</title>
-      <link>https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/</link>
-      <description>Personal webiste for Stefan Abi-Karam.</description>
-      <category>vscode</category>
-      <category>python</category>
-      <category>hardware</category>
-      <category>compilers</category>
-      <guid>https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mike Kohn!</title>
-      <link>https://www.mikekohn.net/micro/ip_over_lasers.php</link>
-      <description>Mike Kohn's music, software, and electronics projects.</description>
-      <category>hardware</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://www.mikekohn.net/micro/ip_over_lasers.php</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Low Code vs. High Code</title>
-      <link>https://rochan.bearblog.dev/low-code-vs-high-code/</link>
-      <description>It's extremely annoying to ever use a low code platform. 
-
-I've never found any joy in it and it's always just trying to learn the ropes to do something yo...</description>
-      <category>vscode</category>
-      <category>javascript</category>
-      <category>youtube</category>
-      <guid>https://rochan.bearblog.dev/low-code-vs-high-code/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abandon all keyboards</title>
-      <link>https://robinrendle.com/notes/abandon-all-keyboards/</link>
-      <description>And bleurgh to all things.</description>
-      <category>gaming</category>
-      <guid>https://robinrendle.com/notes/abandon-all-keyboards/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Getting The Best Bang For Your Buck For Your Blogging Infra | Bozhidar Hristov</title>
-      <link>https://bozhidar.me/blog/bang-for-buck-blog-infra/</link>
-      <description>How I've set up multiple services for my blog, for a fraction of the cost</description>
-      <category>marketing</category>
-      <category>containers</category>
-      <category>dns</category>
-      <guid>https://bozhidar.me/blog/bang-for-buck-blog-infra/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Barefoot Engineer | Nemanja Milicevic</title>
-      <link>https://nemanjamilicevic.com/posts/barefoot-engineer/</link>
-      <description>A personal blog about technology, leadership, growth, and lessons from ambitious projects</description>
-      <category>ai</category>
-      <guid>https://nemanjamilicevic.com/posts/barefoot-engineer/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Consistent hashing - Eli Bendersky's website</title>
-      <link>https://eli.thegreenplace.net/2025/consistent-hashing/</link>
-      <description>This post is an introduction to consistent hashing,
-an algorithm for designing a hash table such that only a small portion of
-keys has to be recomputed when the table's size changes.</description>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>amazon</category>
-      <guid>https://eli.thegreenplace.net/2025/consistent-hashing/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>When ETL Turns into a Land Grab - Tower</title>
-      <link>https://tower.dev/blog/when-etl-turns-into-a-land-grab</link>
-      <description>Hassle-free Platform for Data Scientists and Engineers, offering open data storage and compute for Pythonic Pipelines, Apps, and AI inference.</description>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>python</category>
-      <category>marketing</category>
-      <guid>https://tower.dev/blog/when-etl-turns-into-a-land-grab</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>cleaning house in nx monorepo, how i removed 120 unused deps safely</title>
-      <link>https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely</link>
-      <description>Real cleanup in a big Nx monorepo. I used Knip to flag unused deps, verified removals, handled false positives, and shaved about a minute off yarn install with lower CVE risk.</description>
-      <category>css</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ansible meets UV – Camilo MATAJIRA</title>
-      <link>https://camilo.matajira.com/?p=591</link>
-      <description>Ansible is still the most powerful Configuration Management tool in 2025. It’s used mainly to configure and manage bare-metal servers and virtual machines.But can also be used to for network automation, cloud resource provisioning, CICD pipelines, etc.</description>
-      <category>sql</category>
-      <category>containers</category>
-      <category>python</category>
-      <guid>https://camilo.matajira.com/?p=591</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>I found my grail keyboard.</title>
-      <link>https://sunny.gg/post/2025-09-23-kenesis-mwave/</link>
-      <description>I recently bought a Kenesis mWave keyboard and it might be my favorite keyboard yet.</description>
-      <category>linux</category>
-      <guid>https://sunny.gg/post/2025-09-23-kenesis-mwave/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understanding, not slop, is what’s interesting about LLMs - blakewatson.com</title>
-      <link>https://blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/</link>
-      <description>LLMs don't actually understand us. But, maybe a facsimile of understanding is good enough to make computers easier for everyone.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <category>gaming</category>
-      <guid>https://blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Throwing darts in latent space</title>
-      <link>https://guille.site/posts/latent-space-darts/</link>
-      <description>Posted 2025-09-29</description>
-      <guid>https://guille.site/posts/latent-space-darts/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>We'll Never Have Flying Cars – Mert Bulan</title>
-      <link>https://mertbulan.com/2025/09/29/well-never-have-flying-cars/</link>
-      <description>A look at why flying cars are unlikely to become a reality.</description>
-      <guid>https://mertbulan.com/2025/09/29/well-never-have-flying-cars/</guid>
-      <pubDate>Tue, 30 Sep 2025 00:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

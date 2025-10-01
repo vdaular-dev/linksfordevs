@@ -1,5 +1,165 @@
 [
   {
+    "Title": "npx pub-recs dalevross",
+    "Url": "https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html",
+    "Timestamp": "2025-10-01T00:03:13",
+    "Domain": "dalevross.rosssquared.org",
+    "Description": "An npm package to show off recommendations.",
+    "Confidence": 0.88358843
+  },
+  {
+    "Title": "Building Software Faster with LLMs: Part 1 - The Pain Points",
+    "Url": "https://blog.laurentcharignon.com/post/2025-09-30-llm-workflow-part1-pain-points/",
+    "Timestamp": "2025-10-01T00:03:09",
+    "Domain": "blog.laurentcharignon.com",
+    "Description": "Note: This article series was written by me, with LLMs helping to refine the style and structure.\nWorking with 10 parallel LLM coding sessions exposes problems that don’t appear at smaller scale. Managing multiple conversations, maintaining context across sessions, and ensuring quality all require different approaches than single-session work.\nThis series documents those problems and the solutions that emerged. The tools shown use Claude Code and Emacs, but the patterns apply broadly to any LLM workflow.",
+    "Confidence": 0.98984313
+  },
+  {
+    "Title": "The Majority Of Your Users",
+    "Url": "https://jacobtomlinson.dev/posts/2025/the-majority-of-your-users/",
+    "Timestamp": "2025-10-01T00:03:06",
+    "Domain": "jacobtomlinson.dev",
+    "Description": "The majority of your users don’t read your changelog.\nThe majority of your users only upgrade to new versions when forced to.",
+    "Confidence": 0.9939477
+  },
+  {
+    "Title": "Custom LNAddress with Self-Hosted AlbyHub",
+    "Url": "https://emre.xyz/posts/custom-lnaddress/",
+    "Timestamp": "2025-10-01T00:03:02",
+    "Domain": "emre.xyz",
+    "Description": "My adventure to have custom LNAddres",
+    "Confidence": 0.98917085
+  },
+  {
+    "Title": "Ivan Codes & Takes Photos",
+    "Url": "https://www.ivan.codes/thoughts/teaching-the-wrong-vocabulary-to-new-builders",
+    "Timestamp": "2025-10-01T00:02:59",
+    "Domain": "www.ivan.codes",
+    "Description": "Personal website and photoblog of Ivan",
+    "Confidence": 0.98611134
+  },
+  {
+    "Title": "What Kind of Programming is Natural Language Programming?",
+    "Url": "https://dsyme.net/2025/09/02/what-kind-of-programming-is-natural-language-programming/",
+    "Timestamp": "2025-10-01T00:02:56",
+    "Domain": "dsyme.net",
+    "Description": "In previous posts I’ve written about Dijkstra’s Ghost and Ephemeral Editable Specifications (aka Extract, Edit, Apply), touching on the topics of Natural Language Programming and the ro…",
+    "Confidence": 0.98736244
+  },
+  {
+    "Title": "An Agent is Nothing Without its Tools",
+    "Url": "https://www.rkayg.com/blog/agents-and-tools",
+    "Timestamp": "2025-10-01T00:02:52",
+    "Domain": "www.rkayg.com",
+    "Description": "my personal site",
+    "Confidence": 0.9965577
+  },
+  {
+    "Title": "A B+Tree Node Underflows: Merge or Borrow?",
+    "Url": "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/",
+    "Timestamp": "2025-10-01T00:02:47",
+    "Domain": "jacobsherin.com",
+    "Description": "On database building blocks.",
+    "Confidence": 0.984481
+  },
+  {
+    "Title": "Remarks on SFrame",
+    "Url": "https://maskray.me/blog/2025-09-28-remarks-on-sframe",
+    "Timestamp": "2025-10-01T00:02:44",
+    "Domain": "maskray.me",
+    "Description": "The .sframe format is a lightweight alternative to .eh_frame and .eh_frame_hdr designed for efficient stack unwinding. By trading some functionality and flexibility for compactness, SFrame achieves si",
+    "Confidence": 0.9940981
+  },
+  {
+    "Title": "CTFs as a Rosetta Stone",
+    "Url": "https://bhmt.dev/blog/ctf/",
+    "Timestamp": "2025-10-01T00:02:40",
+    "Domain": "bhmt.dev",
+    "Description": "Hey, you. Do you like video games?",
+    "Confidence": 0.9952802
+  },
+  {
+    "Title": "Ruby Central’s “security measures” leave front door wide open",
+    "Url": "https://joel.drapper.me/p/ruby-central-security-measures/",
+    "Timestamp": "2025-10-01T00:02:37",
+    "Domain": "joel.drapper.me",
+    "Description": "Despite locking maintainers out of ",
+    "Confidence": 0.94678324
+  },
+  {
+    "Title": "Splitting Rodecaster Pro WAV files",
+    "Url": "https://jethro.site/splitting-rodecaster-pro-wav-files",
+    "Timestamp": "2025-10-01T00:02:34",
+    "Domain": "jethro.site",
+    "Description": "Use this Shortcut to auto-split your Rodecaster Pro WAV files into one WAV file for the guest and host.I record a lot of podcasts. Sometimes, I get to do the...",
+    "Confidence": 0.9935034
+  },
+  {
+    "Title": "How to Lose Forever and Still Win: Laughing at the Gods, One Boulder at a Time",
+    "Url": "https://ishanmarikar.com/blog/how-to-lose-forever/",
+    "Timestamp": "2025-10-01T00:02:31",
+    "Domain": "ishanmarikar.com",
+    "Description": "Camus said we must imagine Sisyphus happy. Maybe the secret isn't in conquering the mountain but in laughing as the rock tumbles back down. A meditation on absurdity, rebellion, and the art of pushing anyway.",
+    "Confidence": 0.8832312
+  },
+  {
+    "Title": "Cognitive Capital: Assets That Think",
+    "Url": "https://rashidazarang.com/c/capital-that-thinks",
+    "Timestamp": "2025-10-01T00:02:27",
+    "Domain": "rashidazarang.com",
+    "Description": "← Go back",
+    "Confidence": 0.961854
+  },
+  {
+    "Title": "Addressing Editor Content",
+    "Url": "https://marijnhaverbeke.nl/blog/addressing-editor-content.html",
+    "Timestamp": "2025-10-01T00:02:24",
+    "Domain": "marijnhaverbeke.nl",
+    "Description": "Every text editor system, whether it works with plain or rich text,\nneeds some way to refer to specific positions in the document. The\nvery first reason one runs into this, when implementing such a system,\nis for representing the cursor and selection. But in a mature editor,\nyou'll be doing a lot more things that refer to document\npositions—representing changes, displaying user interface elements in\nthe text, or tracking metadata about a piece of content.",
+    "Confidence": 0.9584935
+  },
+  {
+    "Title": "The Network Effect of Intelligence",
+    "Url": "https://rashidazarang.com/c/the-network-effect-of-intelligence",
+    "Timestamp": "2025-10-01T00:02:20",
+    "Domain": "rashidazarang.com",
+    "Description": "← Go back",
+    "Confidence": 0.99511296
+  },
+  {
+    "Title": "The Photo Map Tile Pareto Front - lnar/dev",
+    "Url": "https://lnar.dev/blog/photo-tile-pareto/",
+    "Timestamp": "2025-10-01T00:02:16",
+    "Domain": "lnar.dev",
+    "Description": "Exploring the balance between image quality and performance in photo map tiles.",
+    "Confidence": 0.9949482
+  },
+  {
+    "Title": "My first complete game",
+    "Url": "https://laladrik.xyz/blog/myFirstCompleteGame/",
+    "Timestamp": "2025-10-01T00:02:12",
+    "Domain": "laladrik.xyz",
+    "Description": "Emscripten supports SDL3 and its extensions out of the box.  However, I preferred to compile from the sources in order to have exactly the same version of SDL3 as I used for other targets.  Compiling SDL3 with its dependencies required some configuration of their CMake scripts.  Emscripten gives the tool emcmake which allows a CMake project to be configured for Emscripten without the necessity to change the required options.  The command to configure SDL3 is the same except it starts from emcmake:",
+    "Confidence": 0.99248844
+  },
+  {
+    "Title": "Diff Algorithms - flo.znkr.io",
+    "Url": "https://flo.znkr.io/diff/",
+    "Timestamp": "2025-10-01T00:02:06",
+    "Domain": "flo.znkr.io",
+    "Description": "How I overcame copying and modifying my own diff library from project to project by \n          diving too deep into diff algorithms and coming out at the other end with new diff \n          library in my hand.",
+    "Confidence": 0.9971926
+  },
+  {
+    "Title": "Introduction to Terraform Actions | DanielMSchmidt.de",
+    "Url": "https://danielmschmidt.de/posts/2025-09-26-terraform-actions-introduction/",
+    "Timestamp": "2025-10-01T00:02:03",
+    "Domain": "danielmschmidt.de",
+    "Description": "Actions is a new language feature of Terraform that allows you to express non-CRUD operations in your configuration. Think of it as first-class support for workarounds where you had to use a local-exec provisioner or a pseudo data source before.",
+    "Confidence": 0.99856687
+  },
+  {
     "Title": "Inflammation now predicts heart disease more strongly than cholesterol",
     "Url": "https://www.empirical.health/blog/inflammation-and-heart-health/",
     "Timestamp": "2025-09-30T23:01:53",
@@ -86,197 +246,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Excel as a frontend - AlexandreHTRB blog",
-    "Url": "https://alexandrehtrb.github.io/posts/2025/09/excel-as-a-frontend/",
-    "Timestamp": "2025-09-30T00:03:50",
-    "Domain": "alexandrehtrb.github.io",
-    "Description": "Exploring the idea of using Microsoft Excel and the frontend of a system.",
-    "Confidence": 0.9906553
-  },
-  {
-    "Title": "90%",
-    "Url": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
-    "Timestamp": "2025-09-30T00:03:47",
-    "Domain": "lucumr.pocoo.org",
-    "Description": "AI is writing 90% of the code I was in charge of",
-    "Confidence": 0.99535614
-  },
-  {
-    "Title": "The Simple Habit That Saves My Evenings | alikhil | software engineering, kubernetes & self-hosting",
-    "Url": "https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/",
-    "Timestamp": "2025-09-30T00:03:44",
-    "Domain": "alikhil.dev",
-    "Description": "As a software engineer, I often work on big tasks that require hours of continuous and focused work. However, we have plenty of meetings, colleagues asking us something in Slack, and lunch breaks. Add a colleague who comes to you and calls you for a cup of coffee if you work from the office.\nAnd usually, we don’t really have such a luxury as hours of uninterrupted time.\nNevertheless, sometimes we catch the flow of productive and focused work at the end of the workday. Imagine you come up with an elegant solution to a problem you’ve been tackling all day, or maybe even the whole past week. You can’t wait to implement and test your solution. And of course, you are so driven by your idea that you decide to continue working despite your working day being over. “20 minutes more and I will finish it,” you think. Obviously, this is not the case; some edge cases and new issues will inevitably arise. You come to your senses only 2–3 hours later—tired, hungry, demotivated, and still struggling with your problem. You just wasted your evening, with nothing to show for it. Worse, you overworked and didn’t recover that night. Thus, you were already exhausted when you started working.",
-    "Confidence": 0.9551278
-  },
-  {
-    "Title": "\n\t\tIn the economy of user effort, be a bargain, not a scam • Lea Verou",
-    "Url": "https://lea.verou.me/blog/2025/user-effort/",
-    "Timestamp": "2025-09-30T00:03:41",
-    "Domain": "lea.verou.me",
-    "Description": "Treat user effort as a currency. To create a product users love, design the tradeoff curve of use case complexity to user effort with the same care you design your pricing scheme.",
-    "Confidence": 0.9879048
-  },
-  {
-    "Title": "Shipping Calendearing",
-    "Url": "https://zachholman.com/posts/calendearing",
-    "Timestamp": "2025-09-30T00:03:37",
-    "Domain": "zachholman.com",
-    "Description": "Written pieces, talks, and other bits by Zach Holman.",
-    "Confidence": 0.975848
-  },
-  {
-    "Title": "How I Block All 26 Million Of Your Curl Requests",
-    "Url": "https://foxmoss.com/blog/packet-filtering/",
-    "Timestamp": "2025-09-30T00:03:33",
-    "Domain": "foxmoss.com",
-    "Description": "A journey in packet filtering",
-    "Confidence": 0.996831
-  },
-  {
-    "Title": "I'll quit my job and buy a farm - Alin Panaitiu",
-    "Url": "https://notes.alinpanaitiu.com/I%27ll-quit-my-job-and-buy-a-farm",
-    "Timestamp": "2025-09-30T00:03:30",
-    "Domain": "notes.alinpanaitiu.com",
-    "Description": "You've heard the words in that title before. You've probably said them yourself, when your day to day job became so absurd that you couldn’t even tell what it is that you do there. Details shift; maybe you wanted to open a bar and talk to people face to face, hear their problems and make them feel listened. Or maybe you wanted to build a house with your bare hands or build furniture out of logs or become a blacksmith, pick up an old craft... ...",
-    "Confidence": 0.905423
-  },
-  {
-    "Title": "Apply the Trie: Word Search — Monday Morning Haskell",
-    "Url": "https://mmhaskell.com/blog/2025/9/29/apply-the-trie-word-search",
-    "Timestamp": "2025-09-30T00:03:26",
-    "Domain": "mmhaskell.com",
-    "Description": "Today will be a nice culmination of some of the work we’ve been doing with data structures and algorithms. In the past few weeks we’ve covered graph algorithms, particularly Depth First Search. And last week, we implemented the Trie data structure from scratch. Today we’ll solve a “Hard” problem (according to LeetCode) that pulls these pieces together!",
-    "Confidence": 0.99915314
-  },
-  {
-    "Title": "Bytecron Labs - Tech, Code & Innovation",
-    "Url": "https://bytecron.me/post/i-tried-htmx",
-    "Timestamp": "2025-09-30T00:03:22",
-    "Domain": "bytecron.me",
-    "Description": "Bytecron Labs is your go-to publication for thoughtful tech posts, coding tutorials, developer tools, and more.",
-    "Confidence": 0.96489125
-  },
-  {
-    "Title": "Lessons Learned from Vibe-Coding a Configuration Parser",
-    "Url": "https://deanebarker.net/tech/blog/vibe-lessons/",
-    "Timestamp": "2025-09-30T00:03:17",
-    "Domain": "deanebarker.net",
-    "Description": "A description of how I vibe-coded something important and got fantastic results.",
-    "Confidence": 0.97884965
-  },
-  {
-    "Title": "Stefan Abi-Karam",
-    "Url": "https://stefanabikaram.com/writing/vitis-hls-debug-pretty-print/",
-    "Timestamp": "2025-09-30T00:03:14",
-    "Domain": "stefanabikaram.com",
-    "Description": "Personal webiste for Stefan Abi-Karam.",
-    "Confidence": 0.99810773
-  },
-  {
-    "Title": "Mike Kohn!",
-    "Url": "https://www.mikekohn.net/micro/ip_over_lasers.php",
-    "Timestamp": "2025-09-30T00:03:11",
-    "Domain": "www.mikekohn.net",
-    "Description": "Mike Kohn's music, software, and electronics projects.",
-    "Confidence": 0.99433887
-  },
-  {
-    "Title": "Low Code vs. High Code",
-    "Url": "https://rochan.bearblog.dev/low-code-vs-high-code/",
-    "Timestamp": "2025-09-30T00:03:07",
-    "Domain": "rochan.bearblog.dev",
-    "Description": "It's extremely annoying to ever use a low code platform. \n\nI've never found any joy in it and it's always just trying to learn the ropes to do something yo...",
-    "Confidence": 0.9974613
-  },
-  {
-    "Title": "Abandon all keyboards",
-    "Url": "https://robinrendle.com/notes/abandon-all-keyboards/",
-    "Timestamp": "2025-09-30T00:03:03",
-    "Domain": "robinrendle.com",
-    "Description": "And bleurgh to all things.",
-    "Confidence": 0.9809611
-  },
-  {
-    "Title": "Getting The Best Bang For Your Buck For Your Blogging Infra | Bozhidar Hristov",
-    "Url": "https://bozhidar.me/blog/bang-for-buck-blog-infra/",
-    "Timestamp": "2025-09-30T00:03:00",
-    "Domain": "bozhidar.me",
-    "Description": "How I've set up multiple services for my blog, for a fraction of the cost",
-    "Confidence": 0.9863154
-  },
-  {
-    "Title": "The Barefoot Engineer | Nemanja Milicevic",
-    "Url": "https://nemanjamilicevic.com/posts/barefoot-engineer/",
-    "Timestamp": "2025-09-30T00:02:57",
-    "Domain": "nemanjamilicevic.com",
-    "Description": "A personal blog about technology, leadership, growth, and lessons from ambitious projects",
-    "Confidence": 0.98342335
-  },
-  {
-    "Title": "Consistent hashing - Eli Bendersky's website",
-    "Url": "https://eli.thegreenplace.net/2025/consistent-hashing/",
-    "Timestamp": "2025-09-30T00:02:54",
-    "Domain": "eli.thegreenplace.net",
-    "Description": "This post is an introduction to consistent hashing,\nan algorithm for designing a hash table such that only a small portion of\nkeys has to be recomputed when the table's size changes.",
-    "Confidence": 0.99405986
-  },
-  {
-    "Title": "When ETL Turns into a Land Grab - Tower",
-    "Url": "https://tower.dev/blog/when-etl-turns-into-a-land-grab",
-    "Timestamp": "2025-09-30T00:02:44",
-    "Domain": "tower.dev",
-    "Description": "Hassle-free Platform for Data Scientists and Engineers, offering open data storage and compute for Pythonic Pipelines, Apps, and AI inference.",
-    "Confidence": 0.9485825
-  },
-  {
-    "Title": "cleaning house in nx monorepo, how i removed 120 unused deps safely",
-    "Url": "https://johnjames.blog/posts/cleaning-house-in-nx-monorepo-how-i-removed-120-unused-deps-safely",
-    "Timestamp": "2025-09-30T00:02:34",
-    "Domain": "johnjames.blog",
-    "Description": "Real cleanup in a big Nx monorepo. I used Knip to flag unused deps, verified removals, handled false positives, and shaved about a minute off yarn install with lower CVE risk.",
-    "Confidence": 0.96404266
-  },
-  {
-    "Title": "Ansible meets UV – Camilo MATAJIRA",
-    "Url": "https://camilo.matajira.com/?p=591",
-    "Timestamp": "2025-09-30T00:02:30",
-    "Domain": "camilo.matajira.com",
-    "Description": "Ansible is still the most powerful Configuration Management tool in 2025. It’s used mainly to configure and manage bare-metal servers and virtual machines.But can also be used to for network automation, cloud resource provisioning, CICD pipelines, etc.",
-    "Confidence": 0.99904644
-  },
-  {
-    "Title": "I found my grail keyboard.",
-    "Url": "https://sunny.gg/post/2025-09-23-kenesis-mwave/",
-    "Timestamp": "2025-09-30T00:02:25",
-    "Domain": "sunny.gg",
-    "Description": "I recently bought a Kenesis mWave keyboard and it might be my favorite keyboard yet.",
-    "Confidence": 0.82175636
-  },
-  {
-    "Title": "Understanding, not slop, is what’s interesting about LLMs - blakewatson.com",
-    "Url": "https://blakewatson.com/journal/understanding-not-slop-is-whats-interesting-about-llms/",
-    "Timestamp": "2025-09-30T00:02:22",
-    "Domain": "blakewatson.com",
-    "Description": "LLMs don't actually understand us. But, maybe a facsimile of understanding is good enough to make computers easier for everyone.",
-    "Confidence": 0.99313456
-  },
-  {
-    "Title": "Throwing darts in latent space",
-    "Url": "https://guille.site/posts/latent-space-darts/",
-    "Timestamp": "2025-09-30T00:02:18",
-    "Domain": "guille.site",
-    "Description": "Posted 2025-09-29",
-    "Confidence": 0.98804086
-  },
-  {
-    "Title": "We'll Never Have Flying Cars – Mert Bulan",
-    "Url": "https://mertbulan.com/2025/09/29/well-never-have-flying-cars/",
-    "Timestamp": "2025-09-30T00:02:15",
-    "Domain": "mertbulan.com",
-    "Description": "A look at why flying cars are unlikely to become a reality.",
-    "Confidence": 0.9046322
   }
 ]
