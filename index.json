@@ -214,13 +214,5 @@
     "Domain": "danielmschmidt.de",
     "Description": "Actions is a new language feature of Terraform that allows you to express non-CRUD operations in your configuration. Think of it as first-class support for workarounds where you had to use a local-exec provisioner or a pseudo data source before.",
     "Confidence": 0.99856687
-  },
-  {
-    "Title": "Inflammation now predicts heart disease more strongly than cholesterol",
-    "Url": "https://www.empirical.health/blog/inflammation-and-heart-health/",
-    "Timestamp": "2025-09-30T23:01:53",
-    "Domain": "www.empirical.health",
-    "Description": "The American College of Cardiology now recommends everybody measure their hs-CRP.",
-    "Confidence": 0.962658
   }
 ]
