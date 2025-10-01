@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Autism Simulator - Workplace Experience Simulation",
+    "Url": "https://autism-simulator.vercel.app/",
+    "Timestamp": "2025-10-01T19:01:59",
+    "Domain": "autism-simulator.vercel.app",
+    "Description": "Experience the workplace through the lens of a high-masking autistic professional. An educational simulation exploring sensory overload, social navigation, and burnout in corporate environments.",
+    "Confidence": 0.930938
+  },
+  {
     "Title": "GitHub - google/cdc-file-transfer: Tools for synching and streaming files from Windows to Linux",
     "Url": "https://github.com/google/cdc-file-transfer",
     "Timestamp": "2025-10-01T12:02:01",
@@ -214,13 +222,5 @@
     "Domain": "youtube.com",
     "Description": "Execute Steam Demo: https://store.steampowered.com/app/3829620/Execute/\n\nAn interview with the Steam cover artist helping indie devs blow up!\n\nPatreon:\nhttps://www.patreon.com/u3443171\n\nart by: Giovanni Fim\n\nhttps://www.artstation.com/ggtfim/albums/60967\n\n———————\nLink to Grid Tweaker: (my other game)\nhttps://store.steampowered.com/app/2686260/Grid_Tweaker/\n\nLINK TO DISCORD: \nhttps://discord.gg/fWXnwyNpeT\n\ngaming podcast:\nhttps://game-boys-advanced.zencast.website/\n\nspotify(MY MUSIC):\nhttps://open.spotify.com/artist/134lbAEDjF0rR7Q5OJKq1l?si=P6nzba-lQWqVVXfMFxCQCQ",
     "Confidence": 0.9913637
-  },
-  {
-    "Title": "Billions of triangles in minutes",
-    "Url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-    "Timestamp": "2025-09-30T19:02:03",
-    "Domain": "zeux.io",
-    "Description": "Early this year, NVIDIA released their new raytracing technology, RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed as a ~100 GB Unreal Engine scene - that can only be opened in a special branch of Unreal Engine, NvRTX. The demo showcased the application of new driver-exposed raytracing features, specifically clustered raytracing, in combination with Nanite clustered LOD pipeline - allowing to stream and display a very highly detailed scene with full raytracing without using the Nanite proxy meshes that Unreal Engine currently generates for raytracing.\n\nAs this was too Unreal Engine specific for me, I couldn’t really experiment much with this - but then, in early September, NVIDIA released an update to their vk_lod_clusters open-source sample, that - among other things - featured Zorah scene as a glTF file. Naturally, this piqued my curiosity - and led me to spend a fair amount of time to improve support for hierarchical clustered LOD in meshoptimizer.\n\n",
-    "Confidence": 0.9840153
   }
 ]

@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Autism Simulator - Workplace Experience Simulation</title>
+      <link>https://autism-simulator.vercel.app/</link>
+      <description>Experience the workplace through the lens of a high-masking autistic professional. An educational simulation exploring sensory overload, social navigation, and burnout in corporate environments.</description>
+      <author> (Dr. Josh C. Simmons)</author>
+      <category>gaming</category>
+      <guid>https://autism-simulator.vercel.app/</guid>
+      <pubDate>Wed, 01 Oct 2025 19:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - google/cdc-file-transfer: Tools for synching and streaming files from Windows to Linux</title>
       <link>https://github.com/google/cdc-file-transfer</link>
       <description>Tools for synching and streaming files from Windows to Linux - google/cdc-file-transfer</description>
@@ -316,20 +325,6 @@ https://open.spotify.com/artist/134lbAEDjF0rR7Q5OJKq1l?si=P6nzba-lQWqVVXfMFxCQCQ
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=KjF4Nu0TbcU</guid>
       <pubDate>Tue, 30 Sep 2025 20:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Billions of triangles in minutes</title>
-      <link>https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/</link>
-      <description>Early this year, NVIDIA released their new raytracing technology, RTX Mega Geometry, alongside an impressive Zorah demo. This demo was distributed as a ~100 GB Unreal Engine scene - that can only be opened in a special branch of Unreal Engine, NvRTX. The demo showcased the application of new driver-exposed raytracing features, specifically clustered raytracing, in combination with Nanite clustered LOD pipeline - allowing to stream and display a very highly detailed scene with full raytracing without using the Nanite proxy meshes that Unreal Engine currently generates for raytracing.
-
-As this was too Unreal Engine specific for me, I couldn’t really experiment much with this - but then, in early September, NVIDIA released an update to their vk_lod_clusters open-source sample, that - among other things - featured Zorah scene as a glTF file. Naturally, this piqued my curiosity - and led me to spend a fair amount of time to improve support for hierarchical clustered LOD in meshoptimizer.
-
-</description>
-      <category>gaming</category>
-      <category>cloud</category>
-      <category>linux</category>
-      <guid>https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/</guid>
-      <pubDate>Tue, 30 Sep 2025 19:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
