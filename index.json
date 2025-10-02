@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Locking in CockroachDB, Part 3 - Killing Sessions and Transactions | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/",
+    "Timestamp": "2025-10-02T04:02:09",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "If you have a transaction locking rows in CockroachDB, you can kill the session holding the transaction to release the locks. This post shows how.",
+    "Confidence": 0.9661821
+  },
+  {
     "Title": "Nintendo Player – A Not-For-Profit Classic Gaming Fansite",
     "Url": "https://www.nintendoplayer.com/interview/zeldas-adventure-jason-bakutis/",
     "Timestamp": "2025-10-02T03:02:01",

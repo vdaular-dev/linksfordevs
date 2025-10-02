@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Locking in CockroachDB, Part 3 - Killing Sessions and Transactions | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/</link>
+      <description>If you have a transaction locking rows in CockroachDB, you can kill the session holding the transaction to release the locks. This post shows how.</description>
+      <category>sql</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/</guid>
+      <pubDate>Thu, 02 Oct 2025 04:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Nintendo Player – A Not-For-Profit Classic Gaming Fansite</title>
       <link>https://www.nintendoplayer.com/interview/zeldas-adventure-jason-bakutis/</link>
       <description></description>
