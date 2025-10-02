@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How AMD Stole Intel’s Future: The Untold x86-64 Story",
+    "Url": "https://youtube.com/watch?v=WyX8TO3awfw",
+    "Timestamp": "2025-10-02T15:01:33",
+    "Domain": "youtube.com",
+    "Description": "Dave explains X64 and how AMD was able to beat Intel at its own game with its own instruction set!  AMD didn’t beat Intel by breaking x86—they won by perfecting it. This episode tells the inside story of how Itanium’s compiler-driven dream stumbled, and how AMD’s x86-64 quietly fixed the pain points that strangled 32-bit—more registers, RIP-relative code, a sane calling convention, NX/DEP, and fast SYSCALLs—while keeping 32-bit apps running through WOW64. We follow the Windows NT port as it shifts from theory to throughput, why K8’s integrated memory controller and HyperTransport mattered, and how Intel ultimately adopted the very ISA AMD created. Along the way we unpack what developers had to change (and what they didn’t), why many apps got faster even without giant pointers, and how security and driver quality leveled up in the transition.",
+    "Confidence": 0.9579077
+  },
+  {
     "Title": "v2.0.0 - Stable Release of Immich · immich-app/immich · Discussion #22546",
     "Url": "https://github.com/immich-app/immich/discussions/22546",
     "Timestamp": "2025-10-02T13:01:59",

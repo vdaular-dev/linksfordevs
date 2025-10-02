@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How AMD Stole Intel’s Future: The Untold x86-64 Story</title>
+      <link>https://youtube.com/watch?v=WyX8TO3awfw</link>
+      <description>Dave explains X64 and how AMD was able to beat Intel at its own game with its own instruction set!  AMD didn’t beat Intel by breaking x86—they won by perfecting it. This episode tells the inside story of how Itanium’s compiler-driven dream stumbled, and how AMD’s x86-64 quietly fixed the pain points that strangled 32-bit—more registers, RIP-relative code, a sane calling convention, NX/DEP, and fast SYSCALLs—while keeping 32-bit apps running through WOW64. We follow the Windows NT port as it shifts from theory to throughput, why K8’s integrated memory controller and HyperTransport mattered, and how Intel ultimately adopted the very ISA AMD created. Along the way we unpack what developers had to change (and what they didn’t), why many apps got faster even without giant pointers, and how security and driver quality leveled up in the transition.</description>
+      <author> (Dave's Garage)</author>
+      <category>compilers</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=WyX8TO3awfw</guid>
+      <pubDate>Thu, 02 Oct 2025 15:01:33 GMT</pubDate>
+    </item>
+    <item>
       <title>v2.0.0 - Stable Release of Immich · immich-app/immich · Discussion #22546</title>
       <link>https://github.com/immich-app/immich/discussions/22546</link>
       <description>v2.0.0 - Stable Release of Immich Watch the video Welcome Hello everyone, After: ~1,337 days, 271 releases, 78,000 stars on GitHub, 1,558 contributors, 31,500 members on Discord, 36,000 members on ...</description>
