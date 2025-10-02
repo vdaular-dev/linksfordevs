@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Companies Should Stop Obsessing Over AI Tools And Do This Instead</title>
+      <link>https://newsletter.eng-leadership.com/p/companies-should-stop-obsessing-over</link>
+      <description>Good culture is by far a better productivity hack than a shiny new AI tool!</description>
+      <category>ai</category>
+      <category>audio</category>
+      <guid>https://newsletter.eng-leadership.com/p/companies-should-stop-obsessing-over</guid>
+      <pubDate>Thu, 02 Oct 2025 10:01:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Locking in CockroachDB, Part 3 - Killing Sessions and Transactions | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/</link>
       <description>If you have a transaction locking rows in CockroachDB, you can kill the session holding the transaction to release the locks. This post shows how.</description>
