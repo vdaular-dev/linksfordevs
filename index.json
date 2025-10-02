@@ -214,21 +214,5 @@
     "Domain": "github.com",
     "Description": "Tools for synching and streaming files from Windows to Linux - google/cdc-file-transfer",
     "Confidence": 0.99651676
-  },
-  {
-    "Title": "Mapgen4 renderer",
-    "Url": "https://www.redblobgames.com/blog/2025-09-29-mapgen4-renderer/",
-    "Timestamp": "2025-10-01T11:01:59",
-    "Domain": "www.redblobgames.com",
-    "Description": "It’s been a while since I’ve worked on mapgen4 features. In 2018 I declared it finished[1]. I then put it away and worked on other projects. Over the years I have updated the code (es6 modules, typescript, pointer events, boundary points, pnpm) without adding any features. I had been leaving all feature updates for a future map generator.",
-    "Confidence": 0.9556839
-  },
-  {
-    "Title": "You Can Now Make PS2 Games in JavaScript",
-    "Url": "https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript",
-    "Timestamp": "2025-10-01T11:01:55",
-    "Domain": "jslegenddev.substack.com",
-    "Description": "I recently discovered that you could make PS2 games in JavaScript.",
-    "Confidence": 0.99703836
   }
 ]
