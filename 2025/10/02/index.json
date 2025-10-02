@@ -1,5 +1,19 @@
 [
   {
+    "Title": "DOS GAME CLUB Podcast",
+    "Url": "https://www.dosgameclub.com/",
+    "Timestamp": "2025-10-02T19:02:05",
+    "Domain": "www.dosgameclub.com",
+    "Description": "Monthly online discussion and roundtable podcast featuring one DOS game per episode."
+  },
+  {
+    "Title": "daniel:// stenberg:// (@bagder@mastodon.social)",
+    "Url": "https://mastodon.social/@bagder/115241241075258997",
+    "Timestamp": "2025-10-02T19:01:59",
+    "Domain": "mastodon.social",
+    "Description": "Joshua Rogers sent us a *massive* list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.\n\nI have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.\n\nCredited \"Reported in Joshua's sarif data\" if you want to look for yourself"
+  },
+  {
     "Title": "How AMD Stole Intel’s Future: The Untold x86-64 Story",
     "Url": "https://youtube.com/watch?v=WyX8TO3awfw",
     "Timestamp": "2025-10-02T15:01:33",

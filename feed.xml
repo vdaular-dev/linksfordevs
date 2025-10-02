@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DOS GAME CLUB Podcast</title>
+      <link>https://www.dosgameclub.com/</link>
+      <description>Monthly online discussion and roundtable podcast featuring one DOS game per episode.</description>
+      <category>audio</category>
+      <category>gaming</category>
+      <category>hardware</category>
+      <guid>https://www.dosgameclub.com/</guid>
+      <pubDate>Thu, 02 Oct 2025 19:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>daniel:// stenberg:// (@bagder@mastodon.social)</title>
+      <link>https://mastodon.social/@bagder/115241241075258997</link>
+      <description>Joshua Rogers sent us a *massive* list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.
+
+I have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.
+
+Credited "Reported in Joshua's sarif data" if you want to look for yourself</description>
+      <guid>https://mastodon.social/@bagder/115241241075258997</guid>
+      <pubDate>Thu, 02 Oct 2025 19:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>How AMD Stole Intel’s Future: The Untold x86-64 Story</title>
       <link>https://youtube.com/watch?v=WyX8TO3awfw</link>
       <description>Dave explains X64 and how AMD was able to beat Intel at its own game with its own instruction set!  AMD didn’t beat Intel by breaking x86—they won by perfecting it. This episode tells the inside story of how Itanium’s compiler-driven dream stumbled, and how AMD’s x86-64 quietly fixed the pain points that strangled 32-bit—more registers, RIP-relative code, a sane calling convention, NX/DEP, and fast SYSCALLs—while keeping 32-bit apps running through WOW64. We follow the Windows NT port as it shifts from theory to throughput, why K8’s integrated memory controller and HyperTransport mattered, and how Intel ultimately adopted the very ISA AMD created. Along the way we unpack what developers had to change (and what they didn’t), why many apps got faster even without giant pointers, and how security and driver quality leveled up in the transition.</description>
@@ -287,15 +308,6 @@ through our short introductory course on "Surreptitious Surveillance".</descript
       <category>gaming</category>
       <guid>https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/</guid>
       <pubDate>Wed, 01 Oct 2025 21:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autism Simulator - Workplace Experience Simulation</title>
-      <link>https://autism-simulator.vercel.app/</link>
-      <description>Experience the workplace through the lens of a high-masking autistic professional. An educational simulation exploring sensory overload, social navigation, and burnout in corporate environments.</description>
-      <author> (Dr. Josh C. Simmons)</author>
-      <category>gaming</category>
-      <guid>https://autism-simulator.vercel.app/</guid>
-      <pubDate>Wed, 01 Oct 2025 19:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
