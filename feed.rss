@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nintendo Player – A Not-For-Profit Classic Gaming Fansite</title>
+      <link>https://www.nintendoplayer.com/interview/zeldas-adventure-jason-bakutis/</link>
+      <description></description>
+      <category>2ndbrain</category>
+      <category>gaming</category>
+      <category>hardware</category>
+      <guid>https://www.nintendoplayer.com/interview/zeldas-adventure-jason-bakutis/</guid>
+      <pubDate>Thu, 02 Oct 2025 03:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mapgen4 river shader</title>
+      <link>https://www.redblobgames.com/blog/2025-09-30-mapgen4-river-shader/</link>
+      <description>Back in 2018 I had the idea to prerender short segments of river bends and confluences into a texture, and then use that texture to draw the rivers to the screen. I was trying to have draw exactly one triangle per Delaunay triangle, so that I could generate the geometry ahead of time and only change the texture coordinates. I planned to implement this[1] as a 2D table:</description>
+      <guid>https://www.redblobgames.com/blog/2025-09-30-mapgen4-river-shader/</guid>
+      <pubDate>Thu, 02 Oct 2025 03:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Bevy 0.17</title>
       <link>https://bevy.org/news/bevy-0-17/</link>
       <description>Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!</description>

@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Nintendo Player – A Not-For-Profit Classic Gaming Fansite",
+    "Url": "https://www.nintendoplayer.com/interview/zeldas-adventure-jason-bakutis/",
+    "Timestamp": "2025-10-02T03:02:01",
+    "Domain": "www.nintendoplayer.com",
+    "Description": ""
+  },
+  {
+    "Title": "Mapgen4 river shader",
+    "Url": "https://www.redblobgames.com/blog/2025-09-30-mapgen4-river-shader/",
+    "Timestamp": "2025-10-02T03:01:56",
+    "Domain": "www.redblobgames.com",
+    "Description": "Back in 2018 I had the idea to prerender short segments of river bends and confluences into a texture, and then use that texture to draw the rivers to the screen. I was trying to have draw exactly one triangle per Delaunay triangle, so that I could generate the geometry ahead of time and only change the texture coordinates. I planned to implement this[1] as a 2D table:"
+  },
+  {
     "Title": "Bevy 0.17",
     "Url": "https://bevy.org/news/bevy-0-17/",
     "Timestamp": "2025-10-02T02:01:57",
