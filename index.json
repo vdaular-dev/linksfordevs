@@ -1,5 +1,149 @@
 [
   {
+    "Title": "LLMs Are the Ultimate Demoware",
+    "Url": "https://blog.charliemeyer.co/llms-are-the-ultimate-demoware/",
+    "Timestamp": "2025-10-02T00:03:16",
+    "Domain": "blog.charliemeyer.co",
+    "Description": "\n\n\n\n“Software” is a program that runs on your computer that allows you to accomplish a task. Software is “good” if it frequently allows you to accomplish sa...",
+    "Confidence": 0.95774394
+  },
+  {
+    "Title": "Michael Tsai - Blog - Electron Apps Causing System-Wide Lag on Tahoe",
+    "Url": "https://mjtsai.com/blog/2025/09/30/electron-apps-causing-system-wide-lag-on-tahoe/",
+    "Timestamp": "2025-10-02T00:03:13",
+    "Domain": "mjtsai.com",
+    "Description": "ToxicLand (via Hacker News):",
+    "Confidence": 0.9888136
+  },
+  {
+    "Title": "Claude Code is Having Its Cursor Moment",
+    "Url": "https://www.vincentschmalbach.com/claude-code-is-having-its-cursor-moment/",
+    "Timestamp": "2025-10-02T00:03:09",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "Remember a few months ago when Cursor launched their $200/month plan? They marketed it as essentially unlimited usage with \"20x more than Pro.\" Users burned through their limits in hours…",
+    "Confidence": 0.9263385
+  },
+  {
+    "Title": "No Figma, I won’t fit in your little box",
+    "Url": "https://blog.nordcraft.com/no-figma-i-wont-fit-in-your-little-box",
+    "Timestamp": "2025-10-02T00:03:04",
+    "Domain": "blog.nordcraft.com",
+    "Description": "Designers and developers are divided by tools that speak different languages. It creates friction, hand-offs, and limits creativity. It is time we change that.",
+    "Confidence": 0.98077875
+  },
+  {
+    "Title": "The Developer Who Sat in a Sales Call",
+    "Url": "https://ag404labs.com/p/the-developer-who-sat-in-a-sales",
+    "Timestamp": "2025-10-02T00:02:59",
+    "Domain": "ag404labs.com",
+    "Description": "A high-impact exercise in accepting things as they are",
+    "Confidence": 0.9883344
+  },
+  {
+    "Title": "Against the Tech Inevitability",
+    "Url": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
+    "Timestamp": "2025-10-02T00:02:55",
+    "Domain": "deviantabstraction.com",
+    "Description": "My dear startup founder friend,\n\n\n\nYou told me that everything is “hyper-determined,” that “life is a big game because of that.” You’re not alone in t",
+    "Confidence": 0.93123865
+  },
+  {
+    "Title": "Notion is awesome — until you want more",
+    "Url": "https://davia.ai/blog/beyond-notion",
+    "Timestamp": "2025-10-02T00:02:51",
+    "Domain": "davia.ai",
+    "Description": "Why Notion's block model breaks down when you want interactivity, and why AI-first workspaces like Davia offer a more coherent alternative.",
+    "Confidence": 0.99209285
+  },
+  {
+    "Title": "The Shape of a Turing Machine",
+    "Url": "https://nickdrozd.github.io/2025/09/30/shape-of-a-turing-machine.html",
+    "Timestamp": "2025-10-02T00:02:48",
+    "Domain": "nickdrozd.github.io",
+    "Description": "Recently I found an interesting Turing machine program. When started on a blank tape, it runs for more than 101565 steps before halting. Here it is1:",
+    "Confidence": 0.97597605
+  },
+  {
+    "Title": "Why Next.js Falls Short on Software Engineering",
+    "Url": "https://blog.webf.zone/why-next-js-falls-short-on-software-engineering-d3575614bd08",
+    "Timestamp": "2025-10-02T00:02:44",
+    "Domain": "blog.webf.zone",
+    "Description": "An architect’s view of Next.js from a software engineering perspective, sharing real-world examples where its abstractions break down.",
+    "Confidence": 0.99784625
+  },
+  {
+    "Title": "Lottery economics -Louis-André Labadie",
+    "Url": "https://louis-andre.net/journal/lottery-economics",
+    "Timestamp": "2025-10-02T00:02:37",
+    "Domain": "louis-andre.net",
+    "Description": "Where I live, the national loto company, Loto-Québec, regularly run campaigns reminding players to sign their tickets or scratch cards when they play. Ostensibly, this protects the winner – in some minimal way – but the back of every ticket is also a contract with Loto Québec. That contract states that, essentially, a winner is not entitled to receive their prize unless they allow Loto Québec to run news and ads featuring them.",
+    "Confidence": 0.7717172
+  },
+  {
+    "Title": "The RAG Obituary: Killed by Agents, Buried by Context Windows",
+    "Url": "https://www.nicolasbustamante.com/p/the-rag-obituary-killed-by-agents",
+    "Timestamp": "2025-10-02T00:02:34",
+    "Domain": "www.nicolasbustamante.com",
+    "Description": "Why Retrieval-Augmented Generation Won’t Survive the Context Revolution and the End of Chunking, Embeddings, and Rerankers as We Know Them.",
+    "Confidence": 0.950603
+  },
+  {
+    "Title": "Leveling Up My Homelab",
+    "Url": "https://cweagans.net/2025/09/leveling-up-my-homelab/",
+    "Timestamp": "2025-10-02T00:02:29",
+    "Domain": "cweagans.net",
+    "Description": "How I rebuilt my homelab into a reliable, Kubernetes-powered system for real workloads, automation, and growth—starting from a simple rack and NAS.",
+    "Confidence": 0.99661463
+  },
+  {
+    "Title": "What is Optionality?",
+    "Url": "https://taylorpearson.me/optionality/",
+    "Timestamp": "2025-10-02T00:02:26",
+    "Domain": "taylorpearson.me",
+    "Description": "Once we accept that freedom and wealth are psychological states, the question then becomes: what induces the feeling of freedom and wealth?",
+    "Confidence": 0.9501426
+  },
+  {
+    "Title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
+    "Url": "https://pmbanugo.me/blog/nodejs-1brc",
+    "Timestamp": "2025-10-02T00:02:22",
+    "Domain": "pmbanugo.me",
+    "Description": "Learn how to optimize Node.js for processing large files: 14GB of data processed 78% faster using buffer streaming, byte-level parsing, and hash-based lookups. Complete guide with benchmarks, profiling insights, and code examples for handling 1 billion rows efficiently.",
+    "Confidence": 0.99552053
+  },
+  {
+    "Title": "Pre-record your demos",
+    "Url": "https://www.steveharrison.dev/pre-record-your-demos/",
+    "Timestamp": "2025-10-02T00:02:18",
+    "Domain": "www.steveharrison.dev",
+    "Description": "Meta was in the news recently for two failed live demos:\n\nMark Zuckerberg's Meta AI glasses demo failed in EPIC fashion today 🤣pic.twitter.com/O0UFeoCar7\n\n— Chief Nerd (@TheChiefNerd) September 18, 2025\n\n\nMeta AI's live demo failed for the entire minute 😢 pic.twitter.com/du4roaW0ER\n\n— near (@nearcyan) September 18, 2025",
+    "Confidence": 0.87475985
+  },
+  {
+    "Title": "Development gets better with Age",
+    "Url": "https://www.allthingsdistributed.com/2025/10/better-with-age.html",
+    "Timestamp": "2025-10-02T00:02:14",
+    "Domain": "www.allthingsdistributed.com",
+    "Description": "He has heard the whispers, “he is getting older, who will replace him?” People asking him with a straight face, “when will you retire?” After close to 25 years at Amazon, where each year has been different and amazing, He feels as young as the day he decided to leave academia and join Amazon.\nThe thing about getting older as a developer, is that you have seen a lot and encountered many of the problems younger developers are facing (even if they look a little different on first glance). If you’ve been around the block as many times as some of us have, you’ll have earned battle scars along the way. There are days in war rooms you will never forget. You have experimented a lot, and you have failed more times than you care to remember. You have half-a-head full of what is practical and works. And a quarter of that space has been trained to look for red flags, scanning for things that you know will go wrong.",
+    "Confidence": 0.9491641
+  },
+  {
+    "Title": "Make it so: GenAI, OpenAPI and ZAP",
+    "Url": "https://beny23.github.io/posts/make_it_so_genai_and_zap/",
+    "Timestamp": "2025-10-02T00:02:11",
+    "Domain": "beny23.github.io",
+    "Description": "Have you ever wondered how hard it is to make an AI talk to an API? Wouldn’t it be great if I could talk to a machine like Captain Picard does to his computer?\n“Tea. Earl Grey. Hot!” would have to sent to the replicator subsystem with the correct instructions. But how would that actually work? I suppose, the Starship Enterprise-D made its first appearance on the airwaves in 1987. So at the time I guess we could expect a replicator to be programmed in C.",
+    "Confidence": 0.9985951
+  },
+  {
+    "Title": "cr.yp.to: 2025.09.30: Surreptitious surveillance",
+    "Url": "https://blog.cr.yp.to/20250930-stealth.html",
+    "Timestamp": "2025-10-02T00:02:07",
+    "Domain": "blog.cr.yp.to",
+    "Description": "It's a pleasure to meet you, sir!\nI'm happy to serve as your guide\nthrough our short introductory course on \"Surreptitious Surveillance\".",
+    "Confidence": 0.7766738
+  },
+  {
     "Title": "Stop Avoiding Politics",
     "Url": "https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/",
     "Timestamp": "2025-10-01T21:01:54",
@@ -54,165 +198,5 @@
     "Domain": "www.wheresyoured.at",
     "Description": "Soundtrack: Queens of the Stone Age - First It Giveth\n\nBefore we go any further: This is, for the third time this year, the longest newsletter I've ever written, weighing in somewhere around 18,500 words. I've written it specifically to be read at your leisure — dip in and out",
     "Confidence": 0.9153751
-  },
-  {
-    "Title": "npx pub-recs dalevross",
-    "Url": "https://dalevross.rosssquared.org/blog/npx/2025/09/30/npx-pub-recs.html",
-    "Timestamp": "2025-10-01T00:03:13",
-    "Domain": "dalevross.rosssquared.org",
-    "Description": "An npm package to show off recommendations.",
-    "Confidence": 0.88358843
-  },
-  {
-    "Title": "Building Software Faster with LLMs: Part 1 - The Pain Points",
-    "Url": "https://blog.laurentcharignon.com/post/2025-09-30-llm-workflow-part1-pain-points/",
-    "Timestamp": "2025-10-01T00:03:09",
-    "Domain": "blog.laurentcharignon.com",
-    "Description": "Note: This article series was written by me, with LLMs helping to refine the style and structure.\nWorking with 10 parallel LLM coding sessions exposes problems that don’t appear at smaller scale. Managing multiple conversations, maintaining context across sessions, and ensuring quality all require different approaches than single-session work.\nThis series documents those problems and the solutions that emerged. The tools shown use Claude Code and Emacs, but the patterns apply broadly to any LLM workflow.",
-    "Confidence": 0.98984313
-  },
-  {
-    "Title": "The Majority Of Your Users",
-    "Url": "https://jacobtomlinson.dev/posts/2025/the-majority-of-your-users/",
-    "Timestamp": "2025-10-01T00:03:06",
-    "Domain": "jacobtomlinson.dev",
-    "Description": "The majority of your users don’t read your changelog.\nThe majority of your users only upgrade to new versions when forced to.",
-    "Confidence": 0.9939477
-  },
-  {
-    "Title": "Custom LNAddress with Self-Hosted AlbyHub",
-    "Url": "https://emre.xyz/posts/custom-lnaddress/",
-    "Timestamp": "2025-10-01T00:03:02",
-    "Domain": "emre.xyz",
-    "Description": "My adventure to have custom LNAddres",
-    "Confidence": 0.98917085
-  },
-  {
-    "Title": "Ivan Codes & Takes Photos",
-    "Url": "https://www.ivan.codes/thoughts/teaching-the-wrong-vocabulary-to-new-builders",
-    "Timestamp": "2025-10-01T00:02:59",
-    "Domain": "www.ivan.codes",
-    "Description": "Personal website and photoblog of Ivan",
-    "Confidence": 0.98611134
-  },
-  {
-    "Title": "What Kind of Programming is Natural Language Programming?",
-    "Url": "https://dsyme.net/2025/09/02/what-kind-of-programming-is-natural-language-programming/",
-    "Timestamp": "2025-10-01T00:02:56",
-    "Domain": "dsyme.net",
-    "Description": "In previous posts I’ve written about Dijkstra’s Ghost and Ephemeral Editable Specifications (aka Extract, Edit, Apply), touching on the topics of Natural Language Programming and the ro…",
-    "Confidence": 0.98736244
-  },
-  {
-    "Title": "An Agent is Nothing Without its Tools",
-    "Url": "https://www.rkayg.com/blog/agents-and-tools",
-    "Timestamp": "2025-10-01T00:02:52",
-    "Domain": "www.rkayg.com",
-    "Description": "my personal site",
-    "Confidence": 0.9965577
-  },
-  {
-    "Title": "A B+Tree Node Underflows: Merge or Borrow?",
-    "Url": "https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge/",
-    "Timestamp": "2025-10-01T00:02:47",
-    "Domain": "jacobsherin.com",
-    "Description": "On database building blocks.",
-    "Confidence": 0.984481
-  },
-  {
-    "Title": "Remarks on SFrame",
-    "Url": "https://maskray.me/blog/2025-09-28-remarks-on-sframe",
-    "Timestamp": "2025-10-01T00:02:44",
-    "Domain": "maskray.me",
-    "Description": "The .sframe format is a lightweight alternative to .eh_frame and .eh_frame_hdr designed for efficient stack unwinding. By trading some functionality and flexibility for compactness, SFrame achieves si",
-    "Confidence": 0.9940981
-  },
-  {
-    "Title": "CTFs as a Rosetta Stone",
-    "Url": "https://bhmt.dev/blog/ctf/",
-    "Timestamp": "2025-10-01T00:02:40",
-    "Domain": "bhmt.dev",
-    "Description": "Hey, you. Do you like video games?",
-    "Confidence": 0.9952802
-  },
-  {
-    "Title": "Ruby Central’s “security measures” leave front door wide open",
-    "Url": "https://joel.drapper.me/p/ruby-central-security-measures/",
-    "Timestamp": "2025-10-01T00:02:37",
-    "Domain": "joel.drapper.me",
-    "Description": "Despite locking maintainers out of ",
-    "Confidence": 0.94678324
-  },
-  {
-    "Title": "Splitting Rodecaster Pro WAV files",
-    "Url": "https://jethro.site/splitting-rodecaster-pro-wav-files",
-    "Timestamp": "2025-10-01T00:02:34",
-    "Domain": "jethro.site",
-    "Description": "Use this Shortcut to auto-split your Rodecaster Pro WAV files into one WAV file for the guest and host.I record a lot of podcasts. Sometimes, I get to do the...",
-    "Confidence": 0.9935034
-  },
-  {
-    "Title": "How to Lose Forever and Still Win: Laughing at the Gods, One Boulder at a Time",
-    "Url": "https://ishanmarikar.com/blog/how-to-lose-forever/",
-    "Timestamp": "2025-10-01T00:02:31",
-    "Domain": "ishanmarikar.com",
-    "Description": "Camus said we must imagine Sisyphus happy. Maybe the secret isn't in conquering the mountain but in laughing as the rock tumbles back down. A meditation on absurdity, rebellion, and the art of pushing anyway.",
-    "Confidence": 0.8832312
-  },
-  {
-    "Title": "Cognitive Capital: Assets That Think",
-    "Url": "https://rashidazarang.com/c/capital-that-thinks",
-    "Timestamp": "2025-10-01T00:02:27",
-    "Domain": "rashidazarang.com",
-    "Description": "← Go back",
-    "Confidence": 0.961854
-  },
-  {
-    "Title": "Addressing Editor Content",
-    "Url": "https://marijnhaverbeke.nl/blog/addressing-editor-content.html",
-    "Timestamp": "2025-10-01T00:02:24",
-    "Domain": "marijnhaverbeke.nl",
-    "Description": "Every text editor system, whether it works with plain or rich text,\nneeds some way to refer to specific positions in the document. The\nvery first reason one runs into this, when implementing such a system,\nis for representing the cursor and selection. But in a mature editor,\nyou'll be doing a lot more things that refer to document\npositions—representing changes, displaying user interface elements in\nthe text, or tracking metadata about a piece of content.",
-    "Confidence": 0.9584935
-  },
-  {
-    "Title": "The Network Effect of Intelligence",
-    "Url": "https://rashidazarang.com/c/the-network-effect-of-intelligence",
-    "Timestamp": "2025-10-01T00:02:20",
-    "Domain": "rashidazarang.com",
-    "Description": "← Go back",
-    "Confidence": 0.99511296
-  },
-  {
-    "Title": "The Photo Map Tile Pareto Front - lnar/dev",
-    "Url": "https://lnar.dev/blog/photo-tile-pareto/",
-    "Timestamp": "2025-10-01T00:02:16",
-    "Domain": "lnar.dev",
-    "Description": "Exploring the balance between image quality and performance in photo map tiles.",
-    "Confidence": 0.9949482
-  },
-  {
-    "Title": "My first complete game",
-    "Url": "https://laladrik.xyz/blog/myFirstCompleteGame/",
-    "Timestamp": "2025-10-01T00:02:12",
-    "Domain": "laladrik.xyz",
-    "Description": "Emscripten supports SDL3 and its extensions out of the box.  However, I preferred to compile from the sources in order to have exactly the same version of SDL3 as I used for other targets.  Compiling SDL3 with its dependencies required some configuration of their CMake scripts.  Emscripten gives the tool emcmake which allows a CMake project to be configured for Emscripten without the necessity to change the required options.  The command to configure SDL3 is the same except it starts from emcmake:",
-    "Confidence": 0.99248844
-  },
-  {
-    "Title": "Diff Algorithms - flo.znkr.io",
-    "Url": "https://flo.znkr.io/diff/",
-    "Timestamp": "2025-10-01T00:02:06",
-    "Domain": "flo.znkr.io",
-    "Description": "How I overcame copying and modifying my own diff library from project to project by \n          diving too deep into diff algorithms and coming out at the other end with new diff \n          library in my hand.",
-    "Confidence": 0.9971926
-  },
-  {
-    "Title": "Introduction to Terraform Actions | DanielMSchmidt.de",
-    "Url": "https://danielmschmidt.de/posts/2025-09-26-terraform-actions-introduction/",
-    "Timestamp": "2025-10-01T00:02:03",
-    "Domain": "danielmschmidt.de",
-    "Description": "Actions is a new language feature of Terraform that allows you to express non-CRUD operations in your configuration. Think of it as first-class support for workarounds where you had to use a local-exec provisioner or a pseudo data source before.",
-    "Confidence": 0.99856687
   }
 ]
