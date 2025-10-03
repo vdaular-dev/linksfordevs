@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenAI’s H1 2025: $4.3b in income, $13.5b in loss",
+    "Url": "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025",
+    "Timestamp": "2025-10-03T01:02:00",
+    "Domain": "www.techinasia.com",
+    "Description": "Research and development expenses were its largest cost, totaling US$6.7 billion in the first half.",
+    "Confidence": 0.618978
+  },
+  {
     "Title": "Just write to f*cking write | Ryan Glover",
     "Url": "https://ryanglover.net/blog/just-write-to-f-cking-write",
     "Timestamp": "2025-10-02T22:03:09",
@@ -222,85 +230,5 @@
     "Domain": "bevy.org",
     "Description": "Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!",
     "Confidence": 0.99163705
-  },
-  {
-    "Title": "Measure Twice, Cut Once",
-    "Url": "https://xkcd.com/3149/",
-    "Timestamp": "2025-10-02T01:01:56",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "LLMs Are the Ultimate Demoware",
-    "Url": "https://blog.charliemeyer.co/llms-are-the-ultimate-demoware/",
-    "Timestamp": "2025-10-02T00:03:16",
-    "Domain": "blog.charliemeyer.co",
-    "Description": "\n\n\n\n“Software” is a program that runs on your computer that allows you to accomplish a task. Software is “good” if it frequently allows you to accomplish sa...",
-    "Confidence": 0.95774394
-  },
-  {
-    "Title": "Michael Tsai - Blog - Electron Apps Causing System-Wide Lag on Tahoe",
-    "Url": "https://mjtsai.com/blog/2025/09/30/electron-apps-causing-system-wide-lag-on-tahoe/",
-    "Timestamp": "2025-10-02T00:03:13",
-    "Domain": "mjtsai.com",
-    "Description": "ToxicLand (via Hacker News):",
-    "Confidence": 0.9888136
-  },
-  {
-    "Title": "Claude Code is Having Its Cursor Moment",
-    "Url": "https://www.vincentschmalbach.com/claude-code-is-having-its-cursor-moment/",
-    "Timestamp": "2025-10-02T00:03:09",
-    "Domain": "www.vincentschmalbach.com",
-    "Description": "Remember a few months ago when Cursor launched their $200/month plan? They marketed it as essentially unlimited usage with \"20x more than Pro.\" Users burned through their limits in hours…",
-    "Confidence": 0.9263385
-  },
-  {
-    "Title": "No Figma, I won’t fit in your little box",
-    "Url": "https://blog.nordcraft.com/no-figma-i-wont-fit-in-your-little-box",
-    "Timestamp": "2025-10-02T00:03:04",
-    "Domain": "blog.nordcraft.com",
-    "Description": "Designers and developers are divided by tools that speak different languages. It creates friction, hand-offs, and limits creativity. It is time we change that.",
-    "Confidence": 0.98077875
-  },
-  {
-    "Title": "The Developer Who Sat in a Sales Call",
-    "Url": "https://ag404labs.com/p/the-developer-who-sat-in-a-sales",
-    "Timestamp": "2025-10-02T00:02:59",
-    "Domain": "ag404labs.com",
-    "Description": "A high-impact exercise in accepting things as they are",
-    "Confidence": 0.9883344
-  },
-  {
-    "Title": "Against the Tech Inevitability",
-    "Url": "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/",
-    "Timestamp": "2025-10-02T00:02:55",
-    "Domain": "deviantabstraction.com",
-    "Description": "My dear startup founder friend,\n\n\n\nYou told me that everything is “hyper-determined,” that “life is a big game because of that.” You’re not alone in t",
-    "Confidence": 0.93123865
-  },
-  {
-    "Title": "Notion is awesome — until you want more",
-    "Url": "https://davia.ai/blog/beyond-notion",
-    "Timestamp": "2025-10-02T00:02:51",
-    "Domain": "davia.ai",
-    "Description": "Why Notion's block model breaks down when you want interactivity, and why AI-first workspaces like Davia offer a more coherent alternative.",
-    "Confidence": 0.99209285
-  },
-  {
-    "Title": "The Shape of a Turing Machine",
-    "Url": "https://nickdrozd.github.io/2025/09/30/shape-of-a-turing-machine.html",
-    "Timestamp": "2025-10-02T00:02:48",
-    "Domain": "nickdrozd.github.io",
-    "Description": "Recently I found an interesting Turing machine program. When started on a blank tape, it runs for more than 101565 steps before halting. Here it is1:",
-    "Confidence": 0.97597605
-  },
-  {
-    "Title": "Why Next.js Falls Short on Software Engineering",
-    "Url": "https://blog.webf.zone/why-next-js-falls-short-on-software-engineering-d3575614bd08",
-    "Timestamp": "2025-10-02T00:02:44",
-    "Domain": "blog.webf.zone",
-    "Description": "An architect’s view of Next.js from a software engineering perspective, sharing real-world examples where its abstractions break down.",
-    "Confidence": 0.99784625
   }
 ]
