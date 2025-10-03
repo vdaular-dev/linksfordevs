@@ -222,13 +222,5 @@
     "Domain": "www.redblobgames.com",
     "Description": "Back in 2018 I had the idea to prerender short segments of river bends and confluences into a texture, and then use that texture to draw the rivers to the screen. I was trying to have draw exactly one triangle per Delaunay triangle, so that I could generate the geometry ahead of time and only change the texture coordinates. I planned to implement this[1] as a 2D table:",
     "Confidence": 0.8809592
-  },
-  {
-    "Title": "Bevy 0.17",
-    "Url": "https://bevy.org/news/bevy-0-17/",
-    "Timestamp": "2025-10-02T02:01:57",
-    "Domain": "bevy.org",
-    "Description": "Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!",
-    "Confidence": 0.99163705
   }
 ]
