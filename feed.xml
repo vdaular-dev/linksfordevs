@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tags | Accessible Games Initiative</title>
+      <link>https://accessiblegames.com/accessibility-tags/</link>
+      <description>The Accessible Games Initiative is an Entertainment Software Association (ESA) project. The idea for the Accessible Games Initiative was first developed by Electronic Arts, Google, Microsoft, Nintendo…</description>
+      <category>gaming</category>
+      <guid>https://accessiblegames.com/accessibility-tags/</guid>
+      <pubDate>Fri, 03 Oct 2025 04:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI’s H1 2025: $4.3b in income, $13.5b in loss</title>
       <link>https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025</link>
       <description>Research and development expenses were its largest cost, totaling US$6.7 billion in the first half.</description>
@@ -238,14 +246,6 @@ Credited "Reported in Joshua's sarif data" if you want to look for yourself</des
       <category>audio</category>
       <guid>https://newsletter.eng-leadership.com/p/companies-should-stop-obsessing-over</guid>
       <pubDate>Thu, 02 Oct 2025 10:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Locking in CockroachDB, Part 3 - Killing Sessions and Transactions | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/</link>
-      <description>If you have a transaction locking rows in CockroachDB, you can kill the session holding the transaction to release the locks. This post shows how.</description>
-      <category>sql</category>
-      <guid>https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/</guid>
-      <pubDate>Thu, 02 Oct 2025 04:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

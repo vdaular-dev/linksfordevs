@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Tags | Accessible Games Initiative",
+    "Url": "https://accessiblegames.com/accessibility-tags/",
+    "Timestamp": "2025-10-03T04:02:19",
+    "Domain": "accessiblegames.com",
+    "Description": "The Accessible Games Initiative is an Entertainment Software Association (ESA) project. The idea for the Accessible Games Initiative was first developed by Electronic Arts, Google, Microsoft, Nintendo…",
+    "Confidence": 0.8643486
+  },
+  {
     "Title": "OpenAI’s H1 2025: $4.3b in income, $13.5b in loss",
     "Url": "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025",
     "Timestamp": "2025-10-03T01:02:00",
@@ -198,13 +206,5 @@
     "Domain": "newsletter.eng-leadership.com",
     "Description": "Good culture is by far a better productivity hack than a shiny new AI tool!",
     "Confidence": 0.98067653
-  },
-  {
-    "Title": "Locking in CockroachDB, Part 3 - Killing Sessions and Transactions | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/10/locking-in-cockroachdb-part-3-killing-sessions-and-transactions/",
-    "Timestamp": "2025-10-02T04:02:09",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "If you have a transaction locking rows in CockroachDB, you can kill the session holding the transaction to release the locks. This post shows how.",
-    "Confidence": 0.9661821
   }
 ]
