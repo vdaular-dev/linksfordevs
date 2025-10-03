@@ -258,26 +258,5 @@ And lots of things take cURL as example configuration (like Shopify Flow!), so i
       <guid>https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times</guid>
       <pubDate>Thu, 02 Oct 2025 20:01:55 GMT</pubDate>
     </item>
-    <item>
-      <title>DOS GAME CLUB Podcast</title>
-      <link>https://www.dosgameclub.com/</link>
-      <description>Monthly online discussion and roundtable podcast featuring one DOS game per episode.</description>
-      <category>audio</category>
-      <category>gaming</category>
-      <category>hardware</category>
-      <guid>https://www.dosgameclub.com/</guid>
-      <pubDate>Thu, 02 Oct 2025 19:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>daniel:// stenberg:// (@bagder@mastodon.social)</title>
-      <link>https://mastodon.social/@bagder/115241241075258997</link>
-      <description>Joshua Rogers sent us a *massive* list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.
-
-I have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.
-
-Credited "Reported in Joshua's sarif data" if you want to look for yourself</description>
-      <guid>https://mastodon.social/@bagder/115241241075258997</guid>
-      <pubDate>Thu, 02 Oct 2025 19:01:59 GMT</pubDate>
-    </item>
   </channel>
 </rss>
