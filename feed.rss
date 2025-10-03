@@ -238,25 +238,5 @@ And lots of things take cURL as example configuration (like Shopify Flow!), so i
       <guid>https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference</guid>
       <pubDate>Thu, 02 Oct 2025 22:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>Signal Protocol and Post-Quantum Ratchets</title>
-      <link>https://signal.org/blog/spqr/</link>
-      <description>We are excited to announce a significant advancement in the security of the Signal Protocol: the introduction of the Sparse Post Quantum Ratchet (SPQR). This new ratchet enhances the Signal Protocol’s resilience against future quantum computing threats while maintaining our existing security guar...</description>
-      <category>encryption</category>
-      <category>rust</category>
-      <category>cryptography</category>
-      <guid>https://signal.org/blog/spqr/</guid>
-      <pubDate>Thu, 02 Oct 2025 20:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distracting software engineers is way more harmful than most managers think - Weave - X-ray vision for engineering teams</title>
-      <link>https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times</link>
-      <description> Weave combines LLMs and domain-specific machine learning to understand engineering work. 
-
-</description>
-      <category>ai</category>
-      <guid>https://workweave.dev/blog/distracting-software-engineers-is-more-harmful-than-managers-think-even-in-the-ai-times</guid>
-      <pubDate>Thu, 02 Oct 2025 20:01:55 GMT</pubDate>
-    </item>
   </channel>
 </rss>
