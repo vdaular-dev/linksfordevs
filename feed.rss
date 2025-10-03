@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The architecture behind 99.9999% uptime in erlang</title>
+      <link>https://volodymyrpotiichuk.com/blog/articles/the-architecture-behind-99%25-uptime</link>
+      <description>Have you ever wondered how to build the most stable application in the world? What characteristics does such an application have, and what architecture styles make it possible?</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://volodymyrpotiichuk.com/blog/articles/the-architecture-behind-99%25-uptime</guid>
+      <pubDate>Fri, 03 Oct 2025 11:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Blender 4.5 brings big changes</title>
       <link>https://lwn.net/Articles/1036262/</link>
       <description>Blender 4.5 LTS was released on July 15, 2025, and will be supported through 2027. This is the  [...]</description>
