@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ping</title>
+      <link>https://xkcd.com/3150/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3150/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - YaLTeR/niri: A scrollable-tiling Wayland compositor.</title>
+      <link>https://github.com/YaLTeR/niri</link>
+      <description>A scrollable-tiling Wayland compositor. Contribute to YaLTeR/niri development by creating an account on GitHub.</description>
+      <category>rust</category>
+      <category>youtube</category>
+      <guid>https://github.com/YaLTeR/niri</guid>
+      <pubDate>Fri, 03 Oct 2025 17:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>In Praise of RSS and Controlled Feeds of Information</title>
+      <link>https://blog.burkert.me/posts/in_praise_of_syndication/</link>
+      <description>The way we consume content on the internet is increasingly driven by walled-garden platforms and black-box feed algorithms. This shift is making our media diets miserable. Ironically, a solution to the problem predates algorithmic feeds, social media and other forms of informational junk food. It is called RSS (Really Simple Syndication) and it is beautiful.
+What the hell is RSS? RSS is just a format that defines how websites can publish updates (articles, posts, episodes, and so on) in a standard feed that you can subscribe to using an RSS reader (or aggregator). Don’t worry if this sounds extremely uninteresting to you; there aren’t many people that get excited about format specifications; the beauty of RSS is in its simplicity. Any content management system or blog platform supports RSS out of the box, and often enables it by default. As a result, a large portion of the content on the internet is available to you in feeds that you can tap into. But this time, you’re in full control of what you’re receiving, and the feeds are purely reverse chronological bliss. Coincidentally, you might already be using RSS without even knowing, because the whole podcasting world runs on RSS.</description>
+      <category>audio</category>
+      <guid>https://blog.burkert.me/posts/in_praise_of_syndication/</guid>
+      <pubDate>Fri, 03 Oct 2025 17:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>[Gluon][Tutorial] Persistent attention by Mogball · Pull Request #7298 · triton-lang/triton</title>
       <link>https://github.com/triton-lang/triton/pull/7298</link>
       <description>Rewrite the attention kernel to be persistent. This gives better performance at low-contexts. However, fp16 at large context has suffered a bit due to a ptxas instruction scheduling issue in the so...</description>
