@@ -1,5 +1,19 @@
 [
   {
+    "Title": "[Gluon][Tutorial] Persistent attention by Mogball · Pull Request #7298 · triton-lang/triton",
+    "Url": "https://github.com/triton-lang/triton/pull/7298",
+    "Timestamp": "2025-10-03T15:02:12",
+    "Domain": "github.com",
+    "Description": "Rewrite the attention kernel to be persistent. This gives better performance at low-contexts. However, fp16 at large context has suffered a bit due to a ptxas instruction scheduling issue in the so..."
+  },
+  {
+    "Title": "I spent the day trying to teach seniors how to use an iPhone and it was a nightmare.",
+    "Url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
+    "Timestamp": "2025-10-03T15:02:06",
+    "Domain": "forums.macrumors.com",
+    "Description": "Honestly, I think Apple really needs to simplify the iPhone for the elderly. I know there are accessibility modes, but you don’t want to have to go through all that and spend hours trying to customize the phone. Also, the whole phone setup process needs to be delayed; having to go through it for..."
+  },
+  {
     "Title": "The architecture behind 99.9999% uptime in erlang",
     "Url": "https://volodymyrpotiichuk.com/blog/articles/the-architecture-behind-99%25-uptime",
     "Timestamp": "2025-10-03T11:01:55",

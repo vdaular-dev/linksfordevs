@@ -1,5 +1,21 @@
 [
   {
+    "Title": "[Gluon][Tutorial] Persistent attention by Mogball · Pull Request #7298 · triton-lang/triton",
+    "Url": "https://github.com/triton-lang/triton/pull/7298",
+    "Timestamp": "2025-10-03T15:02:12",
+    "Domain": "github.com",
+    "Description": "Rewrite the attention kernel to be persistent. This gives better performance at low-contexts. However, fp16 at large context has suffered a bit due to a ptxas instruction scheduling issue in the so...",
+    "Confidence": 0.90507865
+  },
+  {
+    "Title": "I spent the day trying to teach seniors how to use an iPhone and it was a nightmare.",
+    "Url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
+    "Timestamp": "2025-10-03T15:02:06",
+    "Domain": "forums.macrumors.com",
+    "Description": "Honestly, I think Apple really needs to simplify the iPhone for the elderly. I know there are accessibility modes, but you don’t want to have to go through all that and spend hours trying to customize the phone. Also, the whole phone setup process needs to be delayed; having to go through it for...",
+    "Confidence": 0.9471292
+  },
+  {
     "Title": "The architecture behind 99.9999% uptime in erlang",
     "Url": "https://volodymyrpotiichuk.com/blog/articles/the-architecture-behind-99%25-uptime",
     "Timestamp": "2025-10-03T11:01:55",
@@ -198,13 +214,5 @@
     "Domain": "mastodon.social",
     "Description": "Joshua Rogers sent us a *massive* list of potential issues in #curl that he found using his set of AI assisted tools. Code analyzer style nits all over. Mostly smaller bugs, but still bugs and there could be one or two actual security flaws in there. Actually truly awesome findings.\n\nI have already landed 22(!) bugfixes thanks to this, and I have over twice that amount of issues left to go through. Wade through perhaps.\n\nCredited \"Reported in Joshua's sarif data\" if you want to look for yourself",
     "Confidence": 0.8503832
-  },
-  {
-    "Title": "How AMD Stole Intel’s Future: The Untold x86-64 Story",
-    "Url": "https://youtube.com/watch?v=WyX8TO3awfw",
-    "Timestamp": "2025-10-02T15:01:33",
-    "Domain": "youtube.com",
-    "Description": "Dave explains X64 and how AMD was able to beat Intel at its own game with its own instruction set!  AMD didn’t beat Intel by breaking x86—they won by perfecting it. This episode tells the inside story of how Itanium’s compiler-driven dream stumbled, and how AMD’s x86-64 quietly fixed the pain points that strangled 32-bit—more registers, RIP-relative code, a sane calling convention, NX/DEP, and fast SYSCALLs—while keeping 32-bit apps running through WOW64. We follow the Windows NT port as it shifts from theory to throughput, why K8’s integrated memory controller and HyperTransport mattered, and how Intel ultimately adopted the very ISA AMD created. Along the way we unpack what developers had to change (and what they didn’t), why many apps got faster even without giant pointers, and how security and driver quality leveled up in the transition.",
-    "Confidence": 0.9579077
   }
 ]
