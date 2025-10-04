@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Title": "PEP 810 – Explicit lazy imports | peps.python.org",
+    "Url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+    "Timestamp": "2025-10-04T01:02:40",
+    "Domain": "pep-previews--4622.org.readthedocs.build",
+    "Description": "This PEP introduces syntax for lazy imports as an explicit language feature:"
+  },
+  {
+    "Title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
+    "Url": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
+    "Timestamp": "2025-10-04T01:02:36",
+    "Domain": "flatt.tech",
+    "Description": "Introduction Hello, I’m RyotaK (@ryotkak ), a security engineer at GMO Flatt Security Inc.\nIn May 2025, I participated in the Meta Bug Bounty Researcher Conference 2025. During this event, I discovered a vulnerability (CVE-2025-59489) in the Unity Runtime that affects games and applications built on Unity 2017.1 and later.\nIn this article, I will explain the technical aspects of this vulnerability and its impact.\nThis vulnerability was disclosed to Unity following responsible disclosure practices.\nUnity has since released patches for Unity 2019.1 and later, as well as a Unity Binary Patch tool to address the issue, and I strongly encourage developers to download the updated versions of Unity, recompile affected games or applications, and republish as soon as possible."
+  }
+]

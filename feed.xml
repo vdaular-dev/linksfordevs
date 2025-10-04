@@ -7,6 +7,31 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>PEP 810 – Explicit lazy imports | peps.python.org</title>
+      <link>https://pep-previews--4622.org.readthedocs.build/pep-0810/</link>
+      <description>This PEP introduces syntax for lazy imports as an explicit language feature:</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://pep-previews--4622.org.readthedocs.build/pep-0810/</guid>
+      <pubDate>Sat, 04 Oct 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-59489: Arbitrary Code Execution in Unity Runtime</title>
+      <link>https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/</link>
+      <description>Introduction Hello, I’m RyotaK (@ryotkak ), a security engineer at GMO Flatt Security Inc.
+In May 2025, I participated in the Meta Bug Bounty Researcher Conference 2025. During this event, I discovered a vulnerability (CVE-2025-59489) in the Unity Runtime that affects games and applications built on Unity 2017.1 and later.
+In this article, I will explain the technical aspects of this vulnerability and its impact.
+This vulnerability was disclosed to Unity following responsible disclosure practices.
+Unity has since released patches for Unity 2019.1 and later, as well as a Unity Binary Patch tool to address the issue, and I strongly encourage developers to download the updated versions of Unity, recompile affected games or applications, and republish as soon as possible.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/</guid>
+      <pubDate>Sat, 04 Oct 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
       <title>NOW is personalized software a thing?</title>
       <link>https://mattsayar.com/now-is-personalized-software-a-thing/</link>
       <description>Not that long ago, I tried to use Claude to customize Publii, the app I use to make this website. It didn't do so well. Literally the next day, Anthropic announced the Claude 4 family, and now Claude Sonnet 4.5 is out. Anthropic's unbiased opinion…</description>
@@ -239,14 +264,6 @@ What the hell is RSS? RSS is just a format that defines how websites can publish
       <category>gaming</category>
       <guid>https://accessiblegames.com/accessibility-tags/</guid>
       <pubDate>Fri, 03 Oct 2025 04:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI’s H1 2025: $4.3b in income, $13.5b in loss</title>
-      <link>https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025</link>
-      <description>Research and development expenses were its largest cost, totaling US$6.7 billion in the first half.</description>
-      <category>ai</category>
-      <guid>https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025</guid>
-      <pubDate>Fri, 03 Oct 2025 01:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

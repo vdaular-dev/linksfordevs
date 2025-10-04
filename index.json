@@ -1,5 +1,21 @@
 [
   {
+    "Title": "PEP 810 – Explicit lazy imports | peps.python.org",
+    "Url": "https://pep-previews--4622.org.readthedocs.build/pep-0810/",
+    "Timestamp": "2025-10-04T01:02:40",
+    "Domain": "pep-previews--4622.org.readthedocs.build",
+    "Description": "This PEP introduces syntax for lazy imports as an explicit language feature:",
+    "Confidence": 0.9962496
+  },
+  {
+    "Title": "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
+    "Url": "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/",
+    "Timestamp": "2025-10-04T01:02:36",
+    "Domain": "flatt.tech",
+    "Description": "Introduction Hello, I’m RyotaK (@ryotkak ), a security engineer at GMO Flatt Security Inc.\nIn May 2025, I participated in the Meta Bug Bounty Researcher Conference 2025. During this event, I discovered a vulnerability (CVE-2025-59489) in the Unity Runtime that affects games and applications built on Unity 2017.1 and later.\nIn this article, I will explain the technical aspects of this vulnerability and its impact.\nThis vulnerability was disclosed to Unity following responsible disclosure practices.\nUnity has since released patches for Unity 2019.1 and later, as well as a Unity Binary Patch tool to address the issue, and I strongly encourage developers to download the updated versions of Unity, recompile affected games or applications, and republish as soon as possible.",
+    "Confidence": 0.9857481
+  },
+  {
     "Title": "NOW is personalized software a thing?",
     "Url": "https://mattsayar.com/now-is-personalized-software-a-thing/",
     "Timestamp": "2025-10-03T23:02:56",
@@ -198,13 +214,5 @@
     "Domain": "accessiblegames.com",
     "Description": "The Accessible Games Initiative is an Entertainment Software Association (ESA) project. The idea for the Accessible Games Initiative was first developed by Electronic Arts, Google, Microsoft, Nintendo…",
     "Confidence": 0.8643486
-  },
-  {
-    "Title": "OpenAI’s H1 2025: $4.3b in income, $13.5b in loss",
-    "Url": "https://www.techinasia.com/news/openais-revenue-rises-16-to-4-3b-in-h1-2025",
-    "Timestamp": "2025-10-03T01:02:00",
-    "Domain": "www.techinasia.com",
-    "Description": "Research and development expenses were its largest cost, totaling US$6.7 billion in the first half.",
-    "Confidence": 0.618978
   }
 ]
