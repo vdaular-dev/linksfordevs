@@ -190,21 +190,5 @@
     "Domain": "blog.burkert.me",
     "Description": "The way we consume content on the internet is increasingly driven by walled-garden platforms and black-box feed algorithms. This shift is making our media diets miserable. Ironically, a solution to the problem predates algorithmic feeds, social media and other forms of informational junk food. It is called RSS (Really Simple Syndication) and it is beautiful.\nWhat the hell is RSS? RSS is just a format that defines how websites can publish updates (articles, posts, episodes, and so on) in a standard feed that you can subscribe to using an RSS reader (or aggregator). Don’t worry if this sounds extremely uninteresting to you; there aren’t many people that get excited about format specifications; the beauty of RSS is in its simplicity. Any content management system or blog platform supports RSS out of the box, and often enables it by default. As a result, a large portion of the content on the internet is available to you in feeds that you can tap into. But this time, you’re in full control of what you’re receiving, and the feeds are purely reverse chronological bliss. Coincidentally, you might already be using RSS without even knowing, because the whole podcasting world runs on RSS.",
     "Confidence": 0.972466
-  },
-  {
-    "Title": "[Gluon][Tutorial] Persistent attention by Mogball · Pull Request #7298 · triton-lang/triton",
-    "Url": "https://github.com/triton-lang/triton/pull/7298",
-    "Timestamp": "2025-10-03T15:02:12",
-    "Domain": "github.com",
-    "Description": "Rewrite the attention kernel to be persistent. This gives better performance at low-contexts. However, fp16 at large context has suffered a bit due to a ptxas instruction scheduling issue in the so...",
-    "Confidence": 0.90507865
-  },
-  {
-    "Title": "I spent the day trying to teach seniors how to use an iPhone and it was a nightmare.",
-    "Url": "https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/",
-    "Timestamp": "2025-10-03T15:02:06",
-    "Domain": "forums.macrumors.com",
-    "Description": "Honestly, I think Apple really needs to simplify the iPhone for the elderly. I know there are accessibility modes, but you don’t want to have to go through all that and spend hours trying to customize the phone. Also, the whole phone setup process needs to be delayed; having to go through it for...",
-    "Confidence": 0.9471292
   }
 ]

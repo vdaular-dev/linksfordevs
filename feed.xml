@@ -239,19 +239,5 @@ What the hell is RSS? RSS is just a format that defines how websites can publish
       <guid>https://blog.burkert.me/posts/in_praise_of_syndication/</guid>
       <pubDate>Fri, 03 Oct 2025 17:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>[Gluon][Tutorial] Persistent attention by Mogball · Pull Request #7298 · triton-lang/triton</title>
-      <link>https://github.com/triton-lang/triton/pull/7298</link>
-      <description>Rewrite the attention kernel to be persistent. This gives better performance at low-contexts. However, fp16 at large context has suffered a bit due to a ptxas instruction scheduling issue in the so...</description>
-      <guid>https://github.com/triton-lang/triton/pull/7298</guid>
-      <pubDate>Fri, 03 Oct 2025 15:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>I spent the day trying to teach seniors how to use an iPhone and it was a nightmare.</title>
-      <link>https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/</link>
-      <description>Honestly, I think Apple really needs to simplify the iPhone for the elderly. I know there are accessibility modes, but you don’t want to have to go through all that and spend hours trying to customize the phone. Also, the whole phone setup process needs to be delayed; having to go through it for...</description>
-      <guid>https://forums.macrumors.com/threads/i-spent-the-day-trying-to-teach-seniors-how-to-use-an-iphone-and-it-was-a-nightmare.2468117/</guid>
-      <pubDate>Fri, 03 Oct 2025 15:02:06 GMT</pubDate>
-    </item>
   </channel>
 </rss>
