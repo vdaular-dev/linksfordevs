@@ -1,5 +1,109 @@
 [
   {
+    "Title": "Don't Parse, Call",
+    "Url": "https://timkellogg.me/blog/2025/10/03/functions",
+    "Timestamp": "2025-10-04T22:02:52",
+    "Domain": "timkellogg.me",
+    "Description": "Instead of writing crap tons of parsing code for LLMs you can just use functions. It's easy.\n",
+    "Confidence": 0.9926025
+  },
+  {
+    "Title": "one day at a time",
+    "Url": "https://firstlight.bearblog.dev/one-day-at-a-time/",
+    "Timestamp": "2025-10-04T22:02:45",
+    "Domain": "firstlight.bearblog.dev",
+    "Description": "\"one day at a time\" has been a very powerful tool for me.\n\nmost nights, we go to bed carrying the regrets of the day. most mornings, we wake up already bur...",
+    "Confidence": 0.85866183
+  },
+  {
+    "Title": "Delusions of a Protocol",
+    "Url": "https://azhdarchid.com/delusions-of-a-protocol/",
+    "Timestamp": "2025-10-04T22:02:42",
+    "Domain": "azhdarchid.com",
+    "Description": "On vaporware as an ideological product.",
+    "Confidence": 0.9703232
+  },
+  {
+    "Title": "Why Data is the New Gold",
+    "Url": "https://estimateproperty.blogspot.com/2025/10/why-data-is-new-gold.html",
+    "Timestamp": "2025-10-04T22:02:38",
+    "Domain": "estimateproperty.blogspot.com",
+    "Description": "$CRIPT the hidden property of code and why data has become the new gold driving power markets and value in the digital age.",
+    "Confidence": 0.6758019
+  },
+  {
+    "Title": "Supaplex – first time I cheated in a computer game",
+    "Url": "https://drorspei.com/2025/10/04/supaplex-first-time-i-cheated-in-a-computer-game/",
+    "Timestamp": "2025-10-04T22:02:34",
+    "Domain": "drorspei.com",
+    "Description": "Supaplex. It was somewhere in the mid 90’s, maybe around 1995. My friend Yuval had the game on his 286, running Windows 3.11. I don’t remember how exactly we got to it, but at some poin…",
+    "Confidence": 0.7797772
+  },
+  {
+    "Title": "How fast can you taste code?",
+    "Url": "https://dayson.io/posts/taste-code/",
+    "Timestamp": "2025-10-04T22:02:30",
+    "Domain": "dayson.io",
+    "Description": "How fast can you taste code?.",
+    "Confidence": 0.9075929
+  },
+  {
+    "Title": "Fun With HyperLogLog and SIMD",
+    "Url": "https://vaktibabat.github.io/posts/hyperloglog/",
+    "Timestamp": "2025-10-04T22:02:26",
+    "Domain": "vaktibabat.github.io",
+    "Description": "Introduction Perhaps the most fundamental property of a set is its cardinality - the number of distinct elements. Computing this measure for an arbitrary list of items seems awfully simple: you read each item (not much wiggle room there), keep track of every distinct item you’ve seen, and at the end return the number of distinct items. You can even use something like a hash table to make lookups of items you’ve already seen faster. Problem solved!",
+    "Confidence": 0.99309945
+  },
+  {
+    "Title": "vercel vs cloudflare: two philosophies of building for developers",
+    "Url": "https://www.bharath.sh/writing/vercel-vs-cloudflare",
+    "Timestamp": "2025-10-04T22:02:22",
+    "Domain": "www.bharath.sh",
+    "Description": "Neutral observations on the Vercel vs Cloudflare race to win the edge and developer mindshare",
+    "Confidence": 0.932019
+  },
+  {
+    "Title": "Shake Up Your Boundaries",
+    "Url": "https://aethermug.com/posts/shake-up-your-boundaries",
+    "Timestamp": "2025-10-04T22:02:19",
+    "Domain": "aethermug.com",
+    "Description": "Six assorted examples",
+    "Confidence": 0.95714766
+  },
+  {
+    "Title": "Why the Hell Does Android Even Exist Anymore? — fireborn",
+    "Url": "https://fireborn.mataroa.blog/blog/why-the-hell-does-android-even-exist-anymore/",
+    "Timestamp": "2025-10-04T22:02:15",
+    "Domain": "fireborn.mataroa.blog",
+    "Description": "Google has finally crossed the line. Starting in 2026, sideloading on a certified Android phone will no longer mean freedom — it will mean paperwork. If a developer doesn’t submit their government ID, register their package names and signing keys, and agree to Google’s new “verification,” then their app simply will not install.",
+    "Confidence": 0.9817945
+  },
+  {
+    "Title": "How Claude Web is Broken",
+    "Url": "https://bramcohen.com/p/how-claude-web-is-broken",
+    "Timestamp": "2025-10-04T22:02:11",
+    "Domain": "bramcohen.com",
+    "Description": "Anthropic please fix this. It's easy.",
+    "Confidence": 0.99075776
+  },
+  {
+    "Title": "It's not a hack to satisfy known requirements",
+    "Url": "https://charemza.name/blog/posts/agile/over-engineering/not-a-hack-to-meet-requirements/",
+    "Timestamp": "2025-10-04T22:02:07",
+    "Domain": "charemza.name",
+    "Description": "And you should even take pride in doing less",
+    "Confidence": 0.9871588
+  },
+  {
+    "Title": "Tidy text: Sloppy notes that auto-correct",
+    "Url": "https://blog.florianschulz.info/2025/10/tidy-text/",
+    "Timestamp": "2025-10-04T22:02:03",
+    "Domain": "blog.florianschulz.info",
+    "Description": "Design Engineer",
+    "Confidence": 0.99497473
+  },
+  {
     "Title": "AspiriFridays - Excalidraw",
     "Url": "https://youtu.be/rrurHUfzyTY",
     "Timestamp": "2025-10-04T20:01:51",
