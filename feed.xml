@@ -190,30 +190,5 @@ Submit a show idea: https://aka.ms/aspirifridays-submission
       <guid>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</guid>
       <pubDate>Sat, 04 Oct 2025 04:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>PEP 810 – Explicit lazy imports | peps.python.org</title>
-      <link>https://pep-previews--4622.org.readthedocs.build/pep-0810/</link>
-      <description>This PEP introduces syntax for lazy imports as an explicit language feature:</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://pep-previews--4622.org.readthedocs.build/pep-0810/</guid>
-      <pubDate>Sat, 04 Oct 2025 01:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-59489: Arbitrary Code Execution in Unity Runtime</title>
-      <link>https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/</link>
-      <description>Introduction Hello, I’m RyotaK (@ryotkak ), a security engineer at GMO Flatt Security Inc.
-In May 2025, I participated in the Meta Bug Bounty Researcher Conference 2025. During this event, I discovered a vulnerability (CVE-2025-59489) in the Unity Runtime that affects games and applications built on Unity 2017.1 and later.
-In this article, I will explain the technical aspects of this vulnerability and its impact.
-This vulnerability was disclosed to Unity following responsible disclosure practices.
-Unity has since released patches for Unity 2019.1 and later, as well as a Unity Binary Patch tool to address the issue, and I strongly encourage developers to download the updated versions of Unity, recompile affected games or applications, and republish as soon as possible.</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/</guid>
-      <pubDate>Sat, 04 Oct 2025 01:02:36 GMT</pubDate>
-    </item>
   </channel>
 </rss>
