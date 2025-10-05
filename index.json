@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How I influence tech company politics as a staff software engineer",
+    "Url": "https://www.seangoedecke.com/how-to-influence-politics/",
+    "Timestamp": "2025-10-05T00:01:51",
+    "Domain": "www.seangoedecke.com",
+    "Description": "--",
+    "Confidence": 0.9753289
+  },
+  {
     "Title": "Don't Parse, Call",
     "Url": "https://timkellogg.me/blog/2025/10/03/functions",
     "Timestamp": "2025-10-04T22:02:52",
@@ -142,53 +150,5 @@
     "Domain": "flatt.tech",
     "Description": "Introduction Hello, I’m RyotaK (@ryotkak ), a security engineer at GMO Flatt Security Inc.\nIn May 2025, I participated in the Meta Bug Bounty Researcher Conference 2025. During this event, I discovered a vulnerability (CVE-2025-59489) in the Unity Runtime that affects games and applications built on Unity 2017.1 and later.\nIn this article, I will explain the technical aspects of this vulnerability and its impact.\nThis vulnerability was disclosed to Unity following responsible disclosure practices.\nUnity has since released patches for Unity 2019.1 and later, as well as a Unity Binary Patch tool to address the issue, and I strongly encourage developers to download the updated versions of Unity, recompile affected games or applications, and republish as soon as possible.",
     "Confidence": 0.9857481
-  },
-  {
-    "Title": "NOW is personalized software a thing?",
-    "Url": "https://mattsayar.com/now-is-personalized-software-a-thing/",
-    "Timestamp": "2025-10-03T23:02:56",
-    "Domain": "mattsayar.com",
-    "Description": "Not that long ago, I tried to use Claude to customize Publii, the app I use to make this website. It didn't do so well. Literally the next day, Anthropic announced the Claude 4 family, and now Claude Sonnet 4.5 is out. Anthropic's unbiased opinion…",
-    "Confidence": 0.9665603
-  },
-  {
-    "Title": "Obsidian vault setup tour",
-    "Url": "https://bryanhogan.com/blog/obsidian-vault",
-    "Timestamp": "2025-10-03T23:02:53",
-    "Domain": "bryanhogan.com",
-    "Description": "How my Obsidian vault works after, a practical setup. Including bottom-up Zettelkasten notes, plugins, Bases and my general rules.",
-    "Confidence": 0.9855769
-  },
-  {
-    "Title": "A Very Early History of Algebraic Data Types",
-    "Url": "https://www.hillelwayne.com/post/algdt-history/",
-    "Timestamp": "2025-10-03T23:02:50",
-    "Domain": "www.hillelwayne.com",
-    "Description": "Been quiet around here! I’ve been putting almost all of my writing time into Logic for Programmers and my whole brain is book-shaped. Trust me, you do not want to read my 2000-word rant on Sphinx post-build LaTeX customization. But I spent the past week in a historical rabbit hole and had to share what I found.\nIt started with Algebraic [Data] Types are not Scary, Actually. The post covers AlgDTs1 in more detail, but a quick overview is:",
-    "Confidence": 0.98528165
-  },
-  {
-    "Title": "How I Organize the Papers I Read",
-    "Url": "https://lambdaland.org/posts/2025-10-03_reading_papers/",
-    "Timestamp": "2025-10-03T23:02:46",
-    "Domain": "lambdaland.org",
-    "Description": "I got asked how I manage papers, notes, and citations for doing research. I started writing out a very long Slack message, but it quickly passed the threshold where I ought to just turn it into a blog post.\nThe short of it: I’m an incorrigible Emacs user, so I do a lot through my editor of choice on my laptop. That said, Zotero is a fabulous piece of technology, and I rely on it heavily to get my work done.",
-    "Confidence": 0.99534327
-  },
-  {
-    "Title": "Protecting your (my) passport from liquid damage",
-    "Url": "https://blog.jgc.org/2025/10/protecting-your-my-passport-from-liquid.html",
-    "Timestamp": "2025-10-03T23:02:43",
-    "Domain": "blog.jgc.org",
-    "Description": "After an unfortunate incident involving my passport and some alcohol-based hand gel in my bag, I decided I needed some sort of waterproof pa...",
-    "Confidence": 0.82555836
-  },
-  {
-    "Title": "Talent is Alignment",
-    "Url": "https://xlii.space/thoughts/talent-is-alignment/",
-    "Timestamp": "2025-10-03T23:02:39",
-    "Domain": "xlii.space",
-    "Description": "Przemysław Alexander Kamiński · Raideur des doigts\nSeptember 20th, 2025 marks exactly one year since I bought Roland’s\nFPX-30, 88-keys full sized digital piano. Being in my 4th decade of\nlife I never taught myself any instrument, even though I own and dabble with many.\nIn fact, while I’m unable to remember sounds or hear them in my head,\nit seems I have a rather good understanding what “sounds nice” that\nallows me to ad-hoc compose music.",
-    "Confidence": 0.9762527
   }
 ]
