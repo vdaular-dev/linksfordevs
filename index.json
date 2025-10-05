@@ -134,13 +134,5 @@
     "Domain": "youtu.be",
     "Description": "Maddy, Fowler, and Damian are back to picking random apps off the internet, and today they're going to see if they can add Aspire to a tool they use all the time -  Excalidraw! https://github.com/excalidraw/excalidraw\n\nSource from today's episode: https://github.com/maddymontaquila/excalidraw-aspire\nJoin the Discord: aka.ms/aspire-discord\nPlay along with Bingo: aspireify.live\nSubmit a show idea: https://aka.ms/aspirifridays-submission\n\n3:00 Previously on...\n4:26 Housekeeping + Overview of Excalidraw\n19:40 The Aspirification begins\n26:30 The Aspirification... is complete?!?!?!?\n33:35 The Vite Sidequest\n52:15 Containerized dev\n1:28:15 DEVTUNNELS!!!\n2:10:52 Maddy... leaves?\n2:25:28 Pine comes to help\n2:51:45 A bad decision is made (deployment)\n2:55:10 Safia joins to also help, Damian speaks to Copilot\n3:41:29 Midpoint recap, Maddy returns\n4:33:30 Safia was right - deployment attempt 2\n5:11:03 Moment of truth... the 403s begin\n5:21:05 Phone a friend for ACA troubleshooting\n6:25:00 THE CULPRIT OF OUR ISSUES HAS BEEN DISCOVERED\n6:41:36 IT WORKS!!!\n6:57:08 BUT WAIT, there's more...\n7:15:06 File-based apps and MAX_PATH issue\n7:31:44 Recap + final deployment\n7:33:25 THE FINAL TEST!!!",
     "Confidence": 0.8957296
-  },
-  {
-    "Title": "Zig Builds Are Getting Faster",
-    "Url": "https://mitchellh.com/writing/zig-builds-getting-faster",
-    "Timestamp": "2025-10-04T09:01:56",
-    "Domain": "mitchellh.com",
-    "Description": "Andrew Kelley famously (or infamously, depending on your views) said\n\"the compiler is too damn slow, that's why we have bugs.\"1",
-    "Confidence": 0.9919745
   }
 ]
