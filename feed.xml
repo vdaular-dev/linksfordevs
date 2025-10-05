@@ -7,6 +7,141 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Managers Have Been Vibe Coding All Along</title>
+      <link>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</link>
+      <description>Vibe coding happens when experience turns into instinct, the art of sensing system failures before the logs ever show them. Managers have been doing it!</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <guid>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Packing The World For Longest Lines Of Sight</title>
+      <link>https://tombh.co.uk/packing-world-lines-of-sight</link>
+      <description>05 October 2025</description>
+      <category>gaming</category>
+      <guid>https://tombh.co.uk/packing-world-lines-of-sight</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Thing or Two About RSA</title>
+      <link>https://nflatrea.bearblog.dev/a-thing-or-two-about-rsa/</link>
+      <description>RSA (Rivest-Shamir-Adleman) is the first and still one of the most
+common asymmetric encryption scheme. While being used almost
+everywhere by almost everyo...</description>
+      <category>cryptography</category>
+      <category>encryption</category>
+      <guid>https://nflatrea.bearblog.dev/a-thing-or-two-about-rsa/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Finally Got Firebase to Verify My Squarespace Domain</title>
+      <link>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</link>
+      <description>Squarespace loves to help by appending your domain twice, and Firebase hates that. Here's how I finally got my email domain verified after 48 hours of head-scratching.</description>
+      <author> (Lokman Efe)</author>
+      <category>dns</category>
+      <guid>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>What GPT-oss Leaks About OpenAI's Training Data</title>
+      <link>https://fi-le.net/oss/</link>
+      <description>fi-le.net, the Fiefdom of Files</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://fi-le.net/oss/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Train an LLM to do proofs: Beyond Verifiable Rewards</title>
+      <link>https://tobysimonds.com/research/2025/09/29/Proofs.html</link>
+      <description>Code: https://github.com/Tufalabs/LLMProofs</description>
+      <category>ai</category>
+      <category>regex</category>
+      <category>math</category>
+      <guid>https://tobysimonds.com/research/2025/09/29/Proofs.html</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exit the Feed: The Best Coders Should Walk Away</title>
+      <link>https://abner.page/post/exit-the-feed/</link>
+      <description>And why for-profit social media is collapsing at last.</description>
+      <guid>https://abner.page/post/exit-the-feed/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hacking Claude Code for Fun and Profit — Sibylline Software</title>
+      <link>https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/</link>
+      <description>Proxy Claude Code through Bifrost to route traffic anywhere while capturing OpenTelemetry traces you can explore in Grafana, Tempo, and ClickHouse.</description>
+      <category>containers</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>health</category>
+      <category>git</category>
+      <guid>https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>My DjangoCon US 2025</title>
+      <link>https://www.paulox.net/2025/10/05/my-djangocon-us-2025/</link>
+      <description>A summary of my experience at DjangoCon US 2025 told through the posts I published on Mastodon during the conference.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.paulox.net/2025/10/05/my-djangocon-us-2025/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Provoking through prototypes</title>
+      <link>https://grillopress.github.io/2025/10/04/provoking-through-prototypes.html</link>
+      <description></description>
+      <category>git</category>
+      <category>ai</category>
+      <category>html</category>
+      <guid>https://grillopress.github.io/2025/10/04/provoking-through-prototypes.html</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Language Agnostic Programming: Why you may still need code</title>
+      <link>https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/</link>
+      <description>Throughout my career, I have had the pleasure (and sometimes the pain) of working with various programming languages and paradigms. And recently, like everyone else, I have been leveraging large language models (LLMs), and user interfaces for them like GitHub Copilot, Cursor, Claude Code, …, for increasing my output. Yet, I get skeptical when I read claims like “English will be the only programming language you’ll ever need”. What this really means, especially the “ever” part, is: if AI can translate our English descriptions into working code, do we still need programming languages at all?</description>
+      <author> (Joaquim Rocha)</author>
+      <category>rust</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Educators Should Think like Hackers</title>
+      <link>https://kelvinpaschal.com/blog/educators-hackers/</link>
+      <description>Both the Black and White Hat Hackers share the mindset of adaptability, understanding systems, identifying vulnerabilities, and creating countermeasures. In the world of security, if a method is revealed to be vulnerable, there’s usually a rally for better and more secure methods.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://kelvinpaschal.com/blog/educators-hackers/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Magic Disappears | Sameer Bajaj</title>
+      <link>https://sameerbajaj.com/magicdisappears/</link>
+      <description>Why Xerox, once a titan of innovation, lost its way and what we can learn from it.</description>
+      <category>audio</category>
+      <category>marketing</category>
+      <category>gaming</category>
+      <guid>https://sameerbajaj.com/magicdisappears/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of a Modern Finetuning API — Benjamin Anderson</title>
+      <link>https://benanderson.work/blog/anatomy-of-finetuning-api/</link>
+      <description>Tinker, Tailor, Soldier... why?</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>hardware</category>
+      <guid>https://benanderson.work/blog/anatomy-of-finetuning-api/</guid>
+      <pubDate>Sun, 05 Oct 2025 23:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Personal data storage is an idea whose time has come</title>
       <link>https://blog.muni.town/personal-data-storage-idea/</link>
       <description>Data Ownership as a conversation changes when data resides primarily with people-governed institutions rather than corporations.</description>
