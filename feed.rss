@@ -7,6 +7,198 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Geometry of Motion</title>
+      <link>https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html</link>
+      <description>A geometric lens on simulation: cotangent bundles, Hamiltonian flows, and how geodesics, magnetism, and relativity emerge in one coherent framework.</description>
+      <category>encryption</category>
+      <guid>https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stress-Testing 100+ Bluetooth Beacons (so the Team Can Sleep Well at Night)</title>
+      <link>https://dunkels.com/adam/stress-testing-next-generation-beacons/</link>
+      <description>How do we make sure our system works with hundreds of devices in the same room? We test it with hundreds of devices in the same room.</description>
+      <category>hardware</category>
+      <category>apple</category>
+      <guid>https://dunkels.com/adam/stress-testing-next-generation-beacons/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Macbooks don't scratch</title>
+      <link>https://www.humdaan.com/thought-stream/10-05-25</link>
+      <description>summary</description>
+      <category>apple</category>
+      <guid>https://www.humdaan.com/thought-stream/10-05-25</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Autopoietic Networks (a few more examples)</title>
+      <link>https://gbragafibra.github.io/2025/05/27/autopoietic_nets2.html</link>
+      <description>This is a type of cellular automaton which was initially designed to simulate autopoiesis.</description>
+      <category>html</category>
+      <guid>https://gbragafibra.github.io/2025/05/27/autopoietic_nets2.html</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Only Design Mobile Apps for One Type of Client Now › DNSK BLOG</title>
+      <link>https://dnsk.work/blog/why-i-only-design-mobile-apps-for-one-type-of-client-now/</link>
+      <description>Getting picky about mobile UI UX design services after learning the hard way — the red flags that predict disasters and what mobile work is actually worth doing</description>
+      <category>marketing</category>
+      <guid>https://dnsk.work/blog/why-i-only-design-mobile-apps-for-one-type-of-client-now/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Translating Cython to Mojo, a first attempt – fnands</title>
+      <link>https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</link>
+      <description>I kick the tires on Mojo’s new Python interop by translating some of scikit-learn’s Cython into Mojo</description>
+      <category>python</category>
+      <category>rust</category>
+      <category>compilers</category>
+      <guid>https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>My First Contribution to Linux</title>
+      <link>https://vkoskiv.com/first-linux-patch/</link>
+      <description>I upstreamed my first kernel patch, and it was easier than I thought it would be.</description>
+      <category>git</category>
+      <category>linux</category>
+      <category>hardware</category>
+      <guid>https://vkoskiv.com/first-linux-patch/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dark Engagement: Why Everyone Reads, Nobody Claps, and the Machines Remember Everything</title>
+      <link>https://zakelfassi.com/dark-engagement-open-web-network-collapse</link>
+      <description>People screenshot my posts instead of liking them. They reference ideas weeks later that never got a single public comment. This personal observation opens into something bigger: how engagement retreats into darkness while machines feast on the open web.</description>
+      <author> (Zak El Fassi)</author>
+      <category>ai</category>
+      <category>marketing</category>
+      <guid>https://zakelfassi.com/dark-engagement-open-web-network-collapse</guid>
+      <pubDate>Mon, 06 Oct 2025 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Achieving period-correct graphics in personal computer emulators — Part 1: The Amiga</title>
+      <link>https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/</link>
+      <description>Personal blog of John Novak</description>
+      <category>audio</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinionated Products – Designing with Belief</title>
+      <link>https://www.usamaasfar.com/2025/10/opinionated-products-designing-with.html</link>
+      <description>“An opinionated product is a product designed with a specific viewpoint or philosophy in mind, often reflecting the preferences and values o...</description>
+      <category>ai</category>
+      <category>html</category>
+      <guid>https://www.usamaasfar.com/2025/10/opinionated-products-designing-with.html</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django: one ORM to rule all databases 💍</title>
+      <link>https://www.paulox.net/2025/10/06/django-orm-comparison/</link>
+      <description>Comparing the Django ORM support across official database backends, so you don’t have to learn it the hard way.</description>
+      <category>ruby</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://www.paulox.net/2025/10/06/django-orm-comparison/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ryan Bigg - Hanami for Rails Developers: Part 1: Models</title>
+      <link>https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models</link>
+      <description>Hanami for Rails Developers: Part 1: Models</description>
+      <category>ruby</category>
+      <category>sql</category>
+      <guid>https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automating and Managing Dnsmasq</title>
+      <link>https://migus.org/adam/auto-dnsmasq/</link>
+      <description>When I started my network and systems administration career in the late 90s,
+I used static IP addresses far more than I ever configured or used DHCP relays or servers.
+Remote recursive DNS, i.e., “DNS resolvers,” were common, but so were servers that did their own lookups.</description>
+      <category>dns</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://migus.org/adam/auto-dnsmasq/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Mortality</title>
+      <link>https://alexrichey.com/articles/2025-08-10-on-mortality.html</link>
+      <description>What are the consequences of my belief that biological death is final?</description>
+      <guid>https://alexrichey.com/articles/2025-08-10-on-mortality.html</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solution designs should only be a few pages</title>
+      <link>https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/</link>
+      <description>We get blamed for delivering these massive solution design documents that take weeks to produce, eat into the time for development and in the end result into an encyclopedia that nobody reads.And in all honesty, I agree.</description>
+      <category>conference</category>
+      <guid>https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Primary keys using UUID v7 are (potentially) an HR violation</title>
+      <link>https://mikenotthepope.com/primary-keys-using-uuid-v7-are-potentially-an-hr-violation/</link>
+      <description>I'm building an applicant tracking system where I use UUID v7 for primary keys on the users table. Then I discovered an unintended consequence: UUID v7 embeds a timestamp, which creates a privacy leak. If a user's account was created in 2025 with an ID of 0199b901-fb2b-7745-9e62-019fe1c0ddca, anyone can extract that timestamp and infer a minimum age for the user. The older the account, the older we know the applicant must be, enabling unintentional age discrimination through what should be an opaque identifier.</description>
+      <category>cryptography</category>
+      <category>marketing</category>
+      <category>sql</category>
+      <guid>https://mikenotthepope.com/primary-keys-using-uuid-v7-are-potentially-an-hr-violation/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Eat</title>
+      <link>https://taylor.town/how-i-eat</link>
+      <description>I'm no dietitian, but I've been eating for quite a while.</description>
+      <author> (Taylor Troesh)</author>
+      <category>health</category>
+      <guid>https://taylor.town/how-i-eat</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside Claude Code's Web Tools: WebFetch vs WebSearch</title>
+      <link>https://mikhail.io/2025/10/claude-code-web-tools/</link>
+      <description>How Claude Code uses web tools under the hood: schemas, prompts, execution, and design trade-offs</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>html</category>
+      <category>azure</category>
+      <guid>https://mikhail.io/2025/10/claude-code-web-tools/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is Odin Just a More Boring C?</title>
+      <link>https://dayvster.com/blog/is-odin-just-a-more-boring-c/</link>
+      <description>Exploring Odin Through a Tiny Key-Value Store with Pub/Sub</description>
+      <author> (Dayvi Schuster)</author>
+      <category>gaming</category>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://dayvster.com/blog/is-odin-just-a-more-boring-c/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Being Blocked From Contributing to lodash</title>
+      <link>https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</link>
+      <description>My Github account was blocked from contributing security improvements to the  project. This was my first open source work in a while, and unfortunately, it a...</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>wiki</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/</guid>
+      <pubDate>Mon, 06 Oct 2025 23:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Monorepo Tasks · jdx/mise · Discussion #6564</title>
       <link>https://github.com/jdx/mise/discussions/6564</link>
       <description>We're excited to announce Monorepo Tasks, a powerful new feature that brings first-class monorepo support to mise tasks! 🚀 What is it? Monorepo Tasks allows you to manage tasks across multiple proj...</description>
@@ -170,141 +362,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>git</category>
       <guid>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
       <pubDate>Mon, 06 Oct 2025 00:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Managers Have Been Vibe Coding All Along</title>
-      <link>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</link>
-      <description>Vibe coding happens when experience turns into instinct, the art of sensing system failures before the logs ever show them. Managers have been doing it!</description>
-      <author> (https://www.facebook.com/yusufaytas)</author>
-      <guid>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Packing The World For Longest Lines Of Sight</title>
-      <link>https://tombh.co.uk/packing-world-lines-of-sight</link>
-      <description>05 October 2025</description>
-      <category>gaming</category>
-      <guid>https://tombh.co.uk/packing-world-lines-of-sight</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Thing or Two About RSA</title>
-      <link>https://nflatrea.bearblog.dev/a-thing-or-two-about-rsa/</link>
-      <description>RSA (Rivest-Shamir-Adleman) is the first and still one of the most
-common asymmetric encryption scheme. While being used almost
-everywhere by almost everyo...</description>
-      <category>cryptography</category>
-      <category>encryption</category>
-      <guid>https://nflatrea.bearblog.dev/a-thing-or-two-about-rsa/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Finally Got Firebase to Verify My Squarespace Domain</title>
-      <link>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</link>
-      <description>Squarespace loves to help by appending your domain twice, and Firebase hates that. Here's how I finally got my email domain verified after 48 hours of head-scratching.</description>
-      <author> (Lokman Efe)</author>
-      <category>dns</category>
-      <guid>https://www.lokmanefe.com/writings/firebase-squarespace-custom-domain</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>What GPT-oss Leaks About OpenAI's Training Data</title>
-      <link>https://fi-le.net/oss/</link>
-      <description>fi-le.net, the Fiefdom of Files</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://fi-le.net/oss/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Train an LLM to do proofs: Beyond Verifiable Rewards</title>
-      <link>https://tobysimonds.com/research/2025/09/29/Proofs.html</link>
-      <description>Code: https://github.com/Tufalabs/LLMProofs</description>
-      <category>ai</category>
-      <category>regex</category>
-      <category>math</category>
-      <guid>https://tobysimonds.com/research/2025/09/29/Proofs.html</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exit the Feed: The Best Coders Should Walk Away</title>
-      <link>https://abner.page/post/exit-the-feed/</link>
-      <description>And why for-profit social media is collapsing at last.</description>
-      <guid>https://abner.page/post/exit-the-feed/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacking Claude Code for Fun and Profit — Sibylline Software</title>
-      <link>https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/</link>
-      <description>Proxy Claude Code through Bifrost to route traffic anywhere while capturing OpenTelemetry traces you can explore in Grafana, Tempo, and ClickHouse.</description>
-      <category>containers</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>health</category>
-      <category>git</category>
-      <guid>https://sibylline.dev/articles/2025-10-04-hacking-claude-code-for-fun-and-profit/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>My DjangoCon US 2025</title>
-      <link>https://www.paulox.net/2025/10/05/my-djangocon-us-2025/</link>
-      <description>A summary of my experience at DjangoCon US 2025 told through the posts I published on Mastodon during the conference.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.paulox.net/2025/10/05/my-djangocon-us-2025/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Provoking through prototypes</title>
-      <link>https://grillopress.github.io/2025/10/04/provoking-through-prototypes.html</link>
-      <description></description>
-      <category>git</category>
-      <category>ai</category>
-      <category>html</category>
-      <guid>https://grillopress.github.io/2025/10/04/provoking-through-prototypes.html</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Language Agnostic Programming: Why you may still need code</title>
-      <link>https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/</link>
-      <description>Throughout my career, I have had the pleasure (and sometimes the pain) of working with various programming languages and paradigms. And recently, like everyone else, I have been leveraging large language models (LLMs), and user interfaces for them like GitHub Copilot, Cursor, Claude Code, …, for increasing my output. Yet, I get skeptical when I read claims like “English will be the only programming language you’ll ever need”. What this really means, especially the “ever” part, is: if AI can translate our English descriptions into working code, do we still need programming languages at all?</description>
-      <author> (Joaquim Rocha)</author>
-      <category>rust</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://joaquimrocha.com/2025/08/31/language-agnostic-programming-why-you-may-still-need-code/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Educators Should Think like Hackers</title>
-      <link>https://kelvinpaschal.com/blog/educators-hackers/</link>
-      <description>Both the Black and White Hat Hackers share the mindset of adaptability, understanding systems, identifying vulnerabilities, and creating countermeasures. In the world of security, if a method is revealed to be vulnerable, there’s usually a rally for better and more secure methods.</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://kelvinpaschal.com/blog/educators-hackers/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Magic Disappears | Sameer Bajaj</title>
-      <link>https://sameerbajaj.com/magicdisappears/</link>
-      <description>Why Xerox, once a titan of innovation, lost its way and what we can learn from it.</description>
-      <category>audio</category>
-      <category>marketing</category>
-      <category>gaming</category>
-      <guid>https://sameerbajaj.com/magicdisappears/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anatomy of a Modern Finetuning API — Benjamin Anderson</title>
-      <link>https://benanderson.work/blog/anatomy-of-finetuning-api/</link>
-      <description>Tinker, Tailor, Soldier... why?</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>hardware</category>
-      <guid>https://benanderson.work/blog/anatomy-of-finetuning-api/</guid>
-      <pubDate>Sun, 05 Oct 2025 23:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
