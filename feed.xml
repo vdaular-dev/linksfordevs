@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>blog</title>
+      <link>https://ut21.github.io/blog/triton.html</link>
+      <description>As is true for everything, a lot of things need to happen for anything to happen, and so it’s true for this blogpost as well. Out of all of these everything that needed to happen, 3 are these:</description>
+      <category>python</category>
+      <category>math</category>
+      <guid>https://ut21.github.io/blog/triton.html</guid>
+      <pubDate>Mon, 06 Oct 2025 21:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Irradiance Encoding, Spherical Harmonics</title>
       <link>https://www.4rknova.com//blog/2020/03/03/spherical-harmonics</link>
       <description>Spherical Harmonics are a type of Spherical Radial Basis Function that can be used to encode signals defined on a sphere in a compact way. This makes them an excellent fit for encoding a variety of...</description>
