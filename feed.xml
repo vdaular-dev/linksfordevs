@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why do LLMs freak out over the seahorse emoji?</title>
+      <link>https://vgel.me/posts/seahorse/</link>
+      <description>Investigating the seahorse emoji doom loop using logitlens.</description>
+      <category>ai</category>
+      <guid>https://vgel.me/posts/seahorse/</guid>
+      <pubDate>Mon, 06 Oct 2025 08:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Demonization of DeepSeek</title>
+      <link>https://erichartford.com/the-demonization-of-deepseek</link>
+      <description>How NIST Turned Open Science into a Security Scare</description>
+      <author> (https://hashnode.com/@ehartford)</author>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://erichartford.com/the-demonization-of-deepseek</guid>
+      <pubDate>Mon, 06 Oct 2025 08:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Retiring test-ipv6.com</title>
       <link>https://retire.test-ipv6.com/</link>
       <description>Language 🌐:</description>
@@ -186,17 +205,6 @@ everywhere by almost everyo...</description>
       <category>compilers</category>
       <guid>https://bytesizedbets.com/p/era-of-ai-slop-cleanup-has-begun</guid>
       <pubDate>Sun, 05 Oct 2025 16:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - DebarghaG/proofofthought: "Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" published Sys2Reasoning Workshop NeurIPS 2024</title>
-      <link>https://github.com/DebarghaG/proofofthought</link>
-      <description>"Proof of thought: Neurosymbolic program synthesis allows robust and interpretable reasoning" published Sys2Reasoning Workshop NeurIPS 2024 - DebarghaG/proofofthought</description>
-      <category>javascript</category>
-      <category>python</category>
-      <category>azure</category>
-      <category>cloud</category>
-      <guid>https://github.com/DebarghaG/proofofthought</guid>
-      <pubDate>Sun, 05 Oct 2025 08:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
