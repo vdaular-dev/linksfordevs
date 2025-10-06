@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sutra | Portfolio</title>
+      <link>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</link>
+      <description>A portfolio website for Bhargav. Software developer based in Berlin,Germany.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>devops</category>
+      <category>git</category>
+      <guid>https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide</guid>
+      <pubDate>Mon, 06 Oct 2025 00:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Managers Have Been Vibe Coding All Along</title>
       <link>https://yusufaytas.com/managers-have-been-vibe-coding-all-along/</link>
       <description>Vibe coding happens when experience turns into instinct, the art of sensing system failures before the logs ever show them. Managers have been doing it!</description>
@@ -186,16 +198,6 @@ everywhere by almost everyo...</description>
       <category>ai</category>
       <guid>https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users</guid>
       <pubDate>Sun, 05 Oct 2025 02:01:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I influence tech company politics as a staff software engineer</title>
-      <link>https://www.seangoedecke.com/how-to-influence-politics/</link>
-      <description>--</description>
-      <category>gaming</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/how-to-influence-politics/</guid>
-      <pubDate>Sun, 05 Oct 2025 00:01:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
