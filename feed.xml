@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Blazor Code Behind | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/</link>
+      <description>I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI.</description>
+      <category>razor</category>
+      <category>blazor</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/</guid>
+      <pubDate>Mon, 06 Oct 2025 15:02:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Structured Procrastination</title>
       <link>https://structuredprocrastination.com/</link>
       <description></description>

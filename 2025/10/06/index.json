@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Blazor Code Behind | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/",
+    "Timestamp": "2025-10-06T15:02:37",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI."
+  },
+  {
     "Title": "Structured Procrastination",
     "Url": "https://structuredprocrastination.com/",
     "Timestamp": "2025-10-06T13:02:00",
