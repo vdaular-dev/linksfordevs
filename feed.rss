@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>gem.coop</title>
+      <link>https://gem.coop/</link>
+      <description>We’re excited to introduce gem.coop – a new server for gems in the Ruby ecosystem.</description>
+      <category>ruby</category>
+      <guid>https://gem.coop/</guid>
+      <pubDate>Mon, 06 Oct 2025 17:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Blazor Code Behind | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/</link>
       <description>I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI.</description>
@@ -238,14 +246,6 @@ everywhere by almost everyo...</description>
       <category>hardware</category>
       <guid>https://benanderson.work/blog/anatomy-of-finetuning-api/</guid>
       <pubDate>Sun, 05 Oct 2025 23:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Personal data storage is an idea whose time has come</title>
-      <link>https://blog.muni.town/personal-data-storage-idea/</link>
-      <description>Data Ownership as a conversation changes when data resides primarily with people-governed institutions rather than corporations.</description>
-      <category>health</category>
-      <guid>https://blog.muni.town/personal-data-storage-idea/</guid>
-      <pubDate>Sun, 05 Oct 2025 17:01:49 GMT</pubDate>
     </item>
   </channel>
 </rss>

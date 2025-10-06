@@ -1,5 +1,13 @@
 [
   {
+    "Title": "gem.coop",
+    "Url": "https://gem.coop/",
+    "Timestamp": "2025-10-06T17:01:58",
+    "Domain": "gem.coop",
+    "Description": "We’re excited to introduce gem.coop – a new server for gems in the Ruby ecosystem.",
+    "Confidence": 0.96165013
+  },
+  {
     "Title": "Blazor Code Behind | no dogma blog",
     "Url": "https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/",
     "Timestamp": "2025-10-06T15:02:37",
@@ -182,13 +190,5 @@
     "Domain": "benanderson.work",
     "Description": "Tinker, Tailor, Soldier... why?",
     "Confidence": 0.9837999
-  },
-  {
-    "Title": "Personal data storage is an idea whose time has come",
-    "Url": "https://blog.muni.town/personal-data-storage-idea/",
-    "Timestamp": "2025-10-05T17:01:49",
-    "Domain": "blog.muni.town",
-    "Description": "Data Ownership as a conversation changes when data resides primarily with people-governed institutions rather than corporations.",
-    "Confidence": 0.9647089
   }
 ]
