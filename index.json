@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Qualcomm to Acquire Arduino—Accelerating Developers’ Access to its Leading Edge Computing and AI",
+    "Url": "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i",
+    "Timestamp": "2025-10-07T15:02:20",
+    "Domain": "www.qualcomm.com",
+    "Description": "In addition to maintaining compatibility with the Arduino IDE and iconic UNO ecosystem, UNO Q is the first Arduino board to work with Arduino App Lab, a new, integrated development environment built to unify the Arduino development journey across Real-time OS, Linux, Python and AI flows to make development faster and easier. App Lab offers developers an open-source platform which is designed to rapidly ideate, prototype and scale AI-powered solutions to production. Seamless integration of App Lab with the Edge Impulse platform also helps streamline and accelerate the process of building, fine-tuning, and optimizing AI models using real-world data for a wide range of capabilities such as object/human detection, anomaly detection, image classification, ambient sound recognition, and keyword spotting.",
+    "Confidence": 0.79218817
+  },
+  {
     "Title": "NASA",
     "Url": "https://www.nasa.gov/",
     "Timestamp": "2025-10-07T11:01:54",
@@ -286,13 +294,5 @@
     "Domain": "gem.coop",
     "Description": "We’re excited to introduce gem.coop – a new server for gems in the Ruby ecosystem.",
     "Confidence": 0.96165013
-  },
-  {
-    "Title": "Blazor Code Behind | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/",
-    "Timestamp": "2025-10-06T15:02:37",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI.",
-    "Confidence": 0.99698585
   }
 ]

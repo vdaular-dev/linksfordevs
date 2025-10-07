@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Qualcomm to Acquire Arduino—Accelerating Developers’ Access to its Leading Edge Computing and AI</title>
+      <link>https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i</link>
+      <description>In addition to maintaining compatibility with the Arduino IDE and iconic UNO ecosystem, UNO Q is the first Arduino board to work with Arduino App Lab, a new, integrated development environment built to unify the Arduino development journey across Real-time OS, Linux, Python and AI flows to make development faster and easier. App Lab offers developers an open-source platform which is designed to rapidly ideate, prototype and scale AI-powered solutions to production. Seamless integration of App Lab with the Edge Impulse platform also helps streamline and accelerate the process of building, fine-tuning, and optimizing AI models using real-world data for a wide range of capabilities such as object/human detection, anomaly detection, image classification, ambient sound recognition, and keyword spotting.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i</guid>
+      <pubDate>Tue, 07 Oct 2025 15:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>NASA</title>
       <link>https://www.nasa.gov/</link>
       <description>NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.</description>
@@ -335,15 +345,6 @@ Remote recursive DNS, i.e., “DNS resolvers,” were common, but so were server
       <category>ruby</category>
       <guid>https://gem.coop/</guid>
       <pubDate>Mon, 06 Oct 2025 17:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blazor Code Behind | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/</link>
-      <description>I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI.</description>
-      <category>razor</category>
-      <category>blazor</category>
-      <guid>https://nodogmablog.bryanhogan.net/2025/10/blazor-code-behind/</guid>
-      <pubDate>Mon, 06 Oct 2025 15:02:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
