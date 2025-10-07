@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Banana Curving Machine</title>
+      <link>https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong</link>
+      <description>What is a Banana Curving Machine? Well it's a fantastic apparatus that does what it says. Curves Bananas.</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>ruby</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong</guid>
+      <pubDate>Tue, 07 Oct 2025 20:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>No account? No Windows 11 for you, says Microsoft</title>
       <link>https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/</link>
       <description>: Workaround sent to the big OOBE in the sky with latest Insider builds</description>
@@ -315,27 +327,6 @@ Remote recursive DNS, i.e., “DNS resolvers,” were common, but so were server
       <category>math</category>
       <guid>https://ut21.github.io/blog/triton.html</guid>
       <pubDate>Mon, 06 Oct 2025 21:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Irradiance Encoding, Spherical Harmonics</title>
-      <link>https://www.4rknova.com//blog/2020/03/03/spherical-harmonics</link>
-      <description>Spherical Harmonics are a type of Spherical Radial Basis Function that can be used to encode signals defined on a sphere in a compact way. This makes them an excellent fit for encoding a variety of...</description>
-      <guid>https://www.4rknova.com//blog/2020/03/03/spherical-harmonics</guid>
-      <pubDate>Mon, 06 Oct 2025 20:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Write It Down</title>
-      <link>https://write-it-down.com/</link>
-      <description>Why writing things down works + practical tips and answers.</description>
-      <guid>https://write-it-down.com/</guid>
-      <pubDate>Mon, 06 Oct 2025 20:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Classic Demo Effects, Twister</title>
-      <link>https://www.4rknova.com//blog/2020/04/21/twister-effect</link>
-      <description>The classic demoscene effect explained and implemented in GLSL</description>
-      <guid>https://www.4rknova.com//blog/2020/04/21/twister-effect</guid>
-      <pubDate>Mon, 06 Oct 2025 20:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

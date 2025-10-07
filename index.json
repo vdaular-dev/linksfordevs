@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Banana Curving Machine",
+    "Url": "https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong",
+    "Timestamp": "2025-10-07T20:02:13",
+    "Domain": "www.bananacurvingmachine.com",
+    "Description": "What is a Banana Curving Machine? Well it's a fantastic apparatus that does what it says. Curves Bananas.",
+    "Confidence": 0.99450916
+  },
+  {
     "Title": "No account? No Windows 11 for you, says Microsoft",
     "Url": "https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/",
     "Timestamp": "2025-10-07T19:02:24",
@@ -262,29 +270,5 @@
     "Domain": "ut21.github.io",
     "Description": "As is true for everything, a lot of things need to happen for anything to happen, and so it’s true for this blogpost as well. Out of all of these everything that needed to happen, 3 are these:",
     "Confidence": 0.9951583
-  },
-  {
-    "Title": "Irradiance Encoding, Spherical Harmonics",
-    "Url": "https://www.4rknova.com//blog/2020/03/03/spherical-harmonics",
-    "Timestamp": "2025-10-06T20:02:07",
-    "Domain": "www.4rknova.com",
-    "Description": "Spherical Harmonics are a type of Spherical Radial Basis Function that can be used to encode signals defined on a sphere in a compact way. This makes them an excellent fit for encoding a variety of...",
-    "Confidence": 0.99389625
-  },
-  {
-    "Title": "Write It Down",
-    "Url": "https://write-it-down.com/",
-    "Timestamp": "2025-10-06T20:02:03",
-    "Domain": "write-it-down.com",
-    "Description": "Why writing things down works + practical tips and answers.",
-    "Confidence": 0.93944263
-  },
-  {
-    "Title": "Classic Demo Effects, Twister",
-    "Url": "https://www.4rknova.com//blog/2020/04/21/twister-effect",
-    "Timestamp": "2025-10-06T20:01:57",
-    "Domain": "www.4rknova.com",
-    "Description": "The classic demoscene effect explained and implemented in GLSL",
-    "Confidence": 0.9937965
   }
 ]
