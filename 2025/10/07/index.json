@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Ocean Rendering, Part 1 - Simulation · Robert Ryan",
+    "Url": "https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html",
+    "Timestamp": "2025-10-07T08:02:02",
+    "Domain": "rtryan98.github.io",
+    "Description": "In this post I will go through the theory and mathematics of implementing an ocean simulation for real-time rendering using oceanographic spectra and the Fast Fourier Transform."
+  },
+  {
+    "Title": "A case for learning GPU programming with a compute-first mindset – Maister's Graphics Adventures",
+    "Url": "https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/",
+    "Timestamp": "2025-10-07T08:01:58",
+    "Domain": "themaister.net",
+    "Description": "Beginners coming into our little corner of the programming world have it rough. Normal CPU-centric programming tends to start out with a “Hello World” sample, which can be completed in mere minutes. It takes far longer to simply download the toolchains and set them up. If you’re on a developer friendly OS, this can be completed in seconds as well."
+  },
+  {
+    "Title": "GPU Instanced Grass Breakdown",
+    "Url": "https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/",
+    "Timestamp": "2025-10-07T08:01:52",
+    "Domain": "www.cyanilux.com",
+    "Description": "A post showing how Shader Graph can be used with DrawMeshInstancedProcedural / RenderMeshPrimitives and DrawMeshInstancedIndirect / RenderMeshIndirect to draw grass using GPU Instancing."
+  },
+  {
     "Title": "The Cascade",
     "Url": "https://thecascade.dev/article/least-amount-of-css/",
     "Timestamp": "2025-10-07T07:01:59",
