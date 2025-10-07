@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Time travelling with IKEA catalogues 1951-2021 - IKEA Museum",
+    "Url": "https://ikeamuseum.com/en/explore/ikea-catalogue/",
+    "Timestamp": "2025-10-07T23:02:18",
+    "Domain": "ikeamuseum.com",
+    "Description": "Browse IKEA catalogues through the ages, reflecting different eras and lifestyles - a goldmine for the nostalgic, design enthusiasts and history buffs.",
+    "Confidence": 0.9138842
+  },
+  {
+    "Title": "Introducing the Gemini 2.5 Computer Use model",
+    "Url": "https://blog.google/technology/google-deepmind/gemini-computer-use-model/",
+    "Timestamp": "2025-10-07T23:02:11",
+    "Domain": "blog.google",
+    "Description": "Today we are releasing the Gemini 2.5 Computer Use model via the API, which outperforms leading alternatives at browser and mobile tasks.",
+    "Confidence": 0.9865331
+  },
+  {
     "Title": "How To Figure Out What You're Not Good At",
     "Url": "https://blog.martin-haehnel.de/2025/10/07/how-to-figure-out-what-you-re-not-good-at/",
     "Timestamp": "2025-10-07T22:03:14",
@@ -262,125 +278,5 @@
     "Domain": "dnsk.work",
     "Description": "Getting picky about mobile UI UX design services after learning the hard way — the red flags that predict disasters and what mobile work is actually worth doing",
     "Confidence": 0.9839264
-  },
-  {
-    "Title": "Translating Cython to Mojo, a first attempt – fnands",
-    "Url": "https://fnands.com/blog/2025/sklearn-mojo-dbscan-inner/",
-    "Timestamp": "2025-10-06T23:03:11",
-    "Domain": "fnands.com",
-    "Description": "I kick the tires on Mojo’s new Python interop by translating some of scikit-learn’s Cython into Mojo",
-    "Confidence": 0.96814317
-  },
-  {
-    "Title": "My First Contribution to Linux",
-    "Url": "https://vkoskiv.com/first-linux-patch/",
-    "Timestamp": "2025-10-06T23:03:07",
-    "Domain": "vkoskiv.com",
-    "Description": "I upstreamed my first kernel patch, and it was easier than I thought it would be.",
-    "Confidence": 0.99129903
-  },
-  {
-    "Title": "Dark Engagement: Why Everyone Reads, Nobody Claps, and the Machines Remember Everything",
-    "Url": "https://zakelfassi.com/dark-engagement-open-web-network-collapse",
-    "Timestamp": "2025-10-06T23:03:01",
-    "Domain": "zakelfassi.com",
-    "Description": "People screenshot my posts instead of liking them. They reference ideas weeks later that never got a single public comment. This personal observation opens into something bigger: how engagement retreats into darkness while machines feast on the open web.",
-    "Confidence": 0.92851275
-  },
-  {
-    "Title": "Achieving period-correct graphics in personal computer emulators — Part 1: The Amiga",
-    "Url": "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/",
-    "Timestamp": "2025-10-06T23:02:57",
-    "Domain": "blog.johnnovak.net",
-    "Description": "Personal blog of John Novak",
-    "Confidence": 0.9787294
-  },
-  {
-    "Title": "Opinionated Products – Designing with Belief",
-    "Url": "https://www.usamaasfar.com/2025/10/opinionated-products-designing-with.html",
-    "Timestamp": "2025-10-06T23:02:53",
-    "Domain": "www.usamaasfar.com",
-    "Description": "“An opinionated product is a product designed with a specific viewpoint or philosophy in mind, often reflecting the preferences and values o...",
-    "Confidence": 0.9730106
-  },
-  {
-    "Title": "Django: one ORM to rule all databases 💍",
-    "Url": "https://www.paulox.net/2025/10/06/django-orm-comparison/",
-    "Timestamp": "2025-10-06T23:02:50",
-    "Domain": "www.paulox.net",
-    "Description": "Comparing the Django ORM support across official database backends, so you don’t have to learn it the hard way.",
-    "Confidence": 0.9939601
-  },
-  {
-    "Title": "Ryan Bigg - Hanami for Rails Developers: Part 1: Models",
-    "Url": "https://ryanbigg.com/2025/10/hanami-for-rails-developers-1-models",
-    "Timestamp": "2025-10-06T23:02:45",
-    "Domain": "ryanbigg.com",
-    "Description": "Hanami for Rails Developers: Part 1: Models",
-    "Confidence": 0.9962836
-  },
-  {
-    "Title": "Automating and Managing Dnsmasq",
-    "Url": "https://migus.org/adam/auto-dnsmasq/",
-    "Timestamp": "2025-10-06T23:02:42",
-    "Domain": "migus.org",
-    "Description": "When I started my network and systems administration career in the late 90s,\nI used static IP addresses far more than I ever configured or used DHCP relays or servers.\nRemote recursive DNS, i.e., “DNS resolvers,” were common, but so were servers that did their own lookups.",
-    "Confidence": 0.9978739
-  },
-  {
-    "Title": "On Mortality",
-    "Url": "https://alexrichey.com/articles/2025-08-10-on-mortality.html",
-    "Timestamp": "2025-10-06T23:02:38",
-    "Domain": "alexrichey.com",
-    "Description": "What are the consequences of my belief that biological death is final?",
-    "Confidence": 0.8886332
-  },
-  {
-    "Title": "Solution designs should only be a few pages",
-    "Url": "https://frederickvanbrabant.com/blog/2025-10-03-solution-designs-should-only-be-a-few-pages/",
-    "Timestamp": "2025-10-06T23:02:35",
-    "Domain": "frederickvanbrabant.com",
-    "Description": "We get blamed for delivering these massive solution design documents that take weeks to produce, eat into the time for development and in the end result into an encyclopedia that nobody reads.And in all honesty, I agree.",
-    "Confidence": 0.99787
-  },
-  {
-    "Title": "Primary keys using UUID v7 are (potentially) an HR violation",
-    "Url": "https://mikenotthepope.com/primary-keys-using-uuid-v7-are-potentially-an-hr-violation/",
-    "Timestamp": "2025-10-06T23:02:32",
-    "Domain": "mikenotthepope.com",
-    "Description": "I'm building an applicant tracking system where I use UUID v7 for primary keys on the users table. Then I discovered an unintended consequence: UUID v7 embeds a timestamp, which creates a privacy leak. If a user's account was created in 2025 with an ID of 0199b901-fb2b-7745-9e62-019fe1c0ddca, anyone can extract that timestamp and infer a minimum age for the user. The older the account, the older we know the applicant must be, enabling unintentional age discrimination through what should be an opaque identifier.",
-    "Confidence": 0.987525
-  },
-  {
-    "Title": "How I Eat",
-    "Url": "https://taylor.town/how-i-eat",
-    "Timestamp": "2025-10-06T23:02:29",
-    "Domain": "taylor.town",
-    "Description": "I'm no dietitian, but I've been eating for quite a while.",
-    "Confidence": 0.58962923
-  },
-  {
-    "Title": "Inside Claude Code's Web Tools: WebFetch vs WebSearch",
-    "Url": "https://mikhail.io/2025/10/claude-code-web-tools/",
-    "Timestamp": "2025-10-06T23:02:25",
-    "Domain": "mikhail.io",
-    "Description": "How Claude Code uses web tools under the hood: schemas, prompts, execution, and design trade-offs",
-    "Confidence": 0.99362224
-  },
-  {
-    "Title": "Is Odin Just a More Boring C?",
-    "Url": "https://dayvster.com/blog/is-odin-just-a-more-boring-c/",
-    "Timestamp": "2025-10-06T23:02:21",
-    "Domain": "dayvster.com",
-    "Description": "Exploring Odin Through a Tiny Key-Value Store with Pub/Sub",
-    "Confidence": 0.9928071
-  },
-  {
-    "Title": "On Being Blocked From Contributing to lodash",
-    "Url": "https://c.ruatta.com/on-being-blocked-from-contributing-to-lodash/",
-    "Timestamp": "2025-10-06T23:02:17",
-    "Domain": "c.ruatta.com",
-    "Description": "My Github account was blocked from contributing security improvements to the  project. This was my first open source work in a while, and unfortunately, it a...",
-    "Confidence": 0.9492232
   }
 ]
