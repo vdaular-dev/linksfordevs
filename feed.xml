@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>NASA</title>
+      <link>https://www.nasa.gov/</link>
+      <description>NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space exploration, scientific discovery and aeronautics research.</description>
+      <guid>https://www.nasa.gov/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Ocean Rendering, Part 1 - Simulation · Robert Ryan</title>
       <link>https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html</link>
       <description>In this post I will go through the theory and mathematics of implementing an ocean simulation for real-time rendering using oceanographic spectra and the Fast Fourier Transform.</description>
@@ -370,15 +377,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=lmhFfOM4LXw</guid>
       <pubDate>Mon, 06 Oct 2025 12:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Germany outfitted half a million balconies with solar panels</title>
-      <link>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</link>
-      <description>Meet balkonkraftwerk, the simple technology putting solar power in the hands of renters and nudging Germany toward its clean energy goals.</description>
-      <category>hardware</category>
-      <category>gaming</category>
-      <guid>https://grist.org/buildings/how-germany-outfitted-half-a-million-balconies-with-solar-panels/</guid>
-      <pubDate>Mon, 06 Oct 2025 11:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
