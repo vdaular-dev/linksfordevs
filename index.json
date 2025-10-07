@@ -294,13 +294,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "I've never been a fan of mixing UI markup and code in the same file. Recently, while using Blazor, my code was getting a bit too complex to include in the .razor file. It took me longer than expected to separate it into a code behind. Here is what you need to do to separate the code behind from the UI.",
     "Confidence": 0.99698585
-  },
-  {
-    "Title": "Structured Procrastination",
-    "Url": "https://structuredprocrastination.com/",
-    "Timestamp": "2025-10-06T13:02:00",
-    "Domain": "structuredprocrastination.com",
-    "Description": "",
-    "Confidence": 0.93927205
   }
 ]
