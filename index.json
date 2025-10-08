@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Irradiance Encoding, Ambient Cube",
+    "Url": "https://www.4rknova.com//blog/2020/01/29/ambient-cubes",
+    "Timestamp": "2025-10-08T16:02:17",
+    "Domain": "www.4rknova.com",
+    "Description": "In Half-Life 2, a directional ambient term is precomputed across the environments and stored in the ambient cube lighting encoding. This post goes over the theory behind the ambient cubes technique...",
+    "Confidence": 0.922949
+  },
+  {
     "Title": "Banning controversy reveals Bluesky’s federation isn’t there yet",
     "Url": "https://plus.flux.community/p/banning-controversy-reveals-blueskys",
     "Timestamp": "2025-10-08T13:02:06",
@@ -174,13 +182,5 @@
     "Domain": "www.theregister.com",
     "Description": ": Workaround sent to the big OOBE in the sky with latest Insider builds",
     "Confidence": 0.8614815
-  },
-  {
-    "Title": "Nobel Prize in Physics 2025",
-    "Url": "https://www.nobelprize.org/prizes/physics/2025/popular-information/",
-    "Timestamp": "2025-10-07T16:01:55",
-    "Domain": "www.nobelprize.org",
-    "Description": "The Nobel Prize in Physics 2025 was awarded jointly to John Clarke, Michel H. Devoret and John M. Martinis \"for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit\"",
-    "Confidence": 0.94558257
   }
 ]
