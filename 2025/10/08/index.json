@@ -1,5 +1,103 @@
 [
   {
+    "Title": "How we test a web framework | Wasp",
+    "Url": "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework",
+    "Timestamp": "2025-10-08T23:03:19",
+    "Domain": "wasp.sh",
+    "Description": "A sneak peek into how we test our compiler-driven full-stack web framework at Wasp."
+  },
+  {
+    "Title": "Mr.Popov :: Elixir LiveView Single Binary",
+    "Url": "https://mrpopov.com/posts/elixir-liveview-single-binary/",
+    "Timestamp": "2025-10-08T23:03:15",
+    "Domain": "mrpopov.com",
+    "Description": "We had two repos of Elixir, seventy-five LiveView components, five sheets of high-powered Phoenix channels, a saltshaker half-full of SQLite databases, and a whole multicolored collection of Burrito deployables, Tauri binaries, WebView wrappers, hot-reloaders&hellip; Also, a quart of WebSockets, a quart of GenServers, a case of Ecto queries, a pint of raw BEAM bytecode, and two dozen supervisors.\nThe only thing that really worried me was the WebView. There is nothing in the world more helpless and irresponsible and depraved than a developer in the depths of a cross-platform binge, and I knew we&rsquo;d get into that rotten stuff pretty soon."
+  },
+  {
+    "Title": "SAT problems are kind of cool!",
+    "Url": "https://blog.karanjanthe.me/posts/Boolean-satisfiability-problem/",
+    "Timestamp": "2025-10-08T23:03:11",
+    "Domain": "blog.karanjanthe.me",
+    "Description": "While working on fastbrew, I went into the rabbit hole of SAT, short for Boolean satisfiability. It is quite interesting. For my application..."
+  },
+  {
+    "Title": "Why Feeds Fun normalizes tags — and how",
+    "Url": "https://blog.feeds.fun/en/posts/why-feeds-fun-normalizes-tags-and-how",
+    "Timestamp": "2025-10-08T23:03:08",
+    "Domain": "blog.feeds.fun",
+    "Description": "How Feeds Fun normalizes tags and why it is important."
+  },
+  {
+    "Title": "When the tech bros come for me",
+    "Url": "https://gerrymcgovern.com/when-the-tech-bros-come-for-me/",
+    "Timestamp": "2025-10-08T23:03:02",
+    "Domain": "gerrymcgovern.com",
+    "Description": "First, the tech bros came for the warehouse workers, and I said nothing. Paying them terrible wages, working them to the bone, tracking their every second, injuring them at record levels, all in the pursuit of customer obsession and profit."
+  },
+  {
+    "Title": "Reflections on Big Tech",
+    "Url": "https://micro.mu/blog/2025/10/07/reflection-on-big-tech.html",
+    "Timestamp": "2025-10-08T23:02:57",
+    "Domain": "micro.mu",
+    "Description": "TL;DR: Big Tech isn’t inherently evil, but we’ve ceded too much control. It’s time to take it back."
+  },
+  {
+    "Title": "The Underestimated",
+    "Url": "https://aishwaryagoel.com/the-underestimated/",
+    "Timestamp": "2025-10-08T23:02:54",
+    "Domain": "aishwaryagoel.com",
+    "Description": "Why being underestimated becomes a superpower. How invisibility teaches you to build in spaces"
+  },
+  {
+    "Title": "I Know What You Did Last Summer (with val town)",
+    "Url": "https://www.raymondcamden.com/2025/10/08/i-know-what-you-did-last-summer-with-val-town",
+    "Timestamp": "2025-10-08T23:02:50",
+    "Domain": "www.raymondcamden.com",
+    "Description": "An update to my horror themed web app"
+  },
+  {
+    "Title": "SLASH BLOG",
+    "Url": "https://amandapeyton.com/blog/2025/10/just-pool/",
+    "Timestamp": "2025-10-08T23:02:46",
+    "Domain": "amandapeyton.com",
+    "Description": "In the life of a startup, you have complete control over two moments: when you start and when you give up. Those might be the only two."
+  },
+  {
+    "Title": "Never Ever Use Content Addressable Storage",
+    "Url": "https://frederic.vanderessen.com/posts/never-use-cas/",
+    "Timestamp": "2025-10-08T23:02:42",
+    "Domain": "frederic.vanderessen.com",
+    "Description": "Unless you really know what you are doing"
+  },
+  {
+    "Title": "The Programmer Identity Crisis ❈ Simon Højberg ❈ Principal Frontend Engineer",
+    "Url": "https://hojberg.xyz/the-programmer-identity-crisis/",
+    "Timestamp": "2025-10-08T23:02:34",
+    "Domain": "hojberg.xyz",
+    "Description": "On AI, Creativity, and Craft"
+  },
+  {
+    "Title": "Using GraphViz for CLAUDE.md",
+    "Url": "https://blog.fsck.com/2025/09/29/using-graphviz-for-claudemd/",
+    "Timestamp": "2025-10-08T23:02:30",
+    "Domain": "blog.fsck.com",
+    "Description": "I used to write more"
+  },
+  {
+    "Title": "Inside a 16.67 Millisecond Frame - Kool Codez",
+    "Url": "https://koolcodez.com/blog/inside-the-frame/",
+    "Timestamp": "2025-10-08T23:02:27",
+    "Domain": "koolcodez.com",
+    "Description": "Understand how rendering works through a practical example."
+  },
+  {
+    "Title": "What if we expanded our current school system further?",
+    "Url": "https://joelx.com/school-choice-expanded/",
+    "Timestamp": "2025-10-08T23:02:23",
+    "Domain": "joelx.com",
+    "Description": "For those who oppose school choice: why not take it a step further? Why not force every kid graduating from high school who wants to go to college to only attend their nearest public university? Kids should not have any choice in the matter right? Don't we need to preserve public school funding and bureaucrats"
+  },
+  {
     "Title": "How we found a bug in Go's arm64 compiler",
     "Url": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
     "Timestamp": "2025-10-08T19:01:52",
