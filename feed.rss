@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How we found a bug in Go's arm64 compiler</title>
+      <link>https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/</link>
+      <description>84 million requests a second means even rare bugs appear often. We'll reveal how we discovered a race condition in the Go arm64 compiler and got it fixed.</description>
+      <category>go</category>
+      <category>compilers</category>
+      <category>linux</category>
+      <guid>https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/</guid>
+      <pubDate>Wed, 08 Oct 2025 19:01:52 GMT</pubDate>
+    </item>
+    <item>
       <title>The Email They Shouldn't Have Read</title>
       <link>https://it-notes.dragas.net/2025/10/08/the-email-they-shouldnt-have-read/</link>
       <description>A real-world horror story about contracts, control, and the dark side of managed open source.</description>
@@ -237,15 +247,6 @@ It all started innocently enough. I had recently bought an iLife A11 smart vacuu
       <category>javascript</category>
       <guid>https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong</guid>
       <pubDate>Tue, 07 Oct 2025 20:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>No account? No Windows 11 for you, says Microsoft</title>
-      <link>https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/</link>
-      <description>: Workaround sent to the big OOBE in the sky with latest Insider builds</description>
-      <category>hardware</category>
-      <category>gaming</category>
-      <guid>https://www.theregister.com/2025/10/07/windows_11_local_account_loophole/</guid>
-      <pubDate>Tue, 07 Oct 2025 19:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
