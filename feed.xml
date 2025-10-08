@@ -217,35 +217,5 @@ It all started innocently enough. I had recently bought an iLife A11 smart vacuu
       <guid>https://www.nasa.gov/</guid>
       <pubDate>Tue, 07 Oct 2025 11:01:54 GMT</pubDate>
     </item>
-    <item>
-      <title>Ocean Rendering, Part 1 - Simulation · Robert Ryan</title>
-      <link>https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html</link>
-      <description>In this post I will go through the theory and mathematics of implementing an ocean simulation for real-time rendering using oceanographic spectra and the Fast Fourier Transform.</description>
-      <category>2ndbrain</category>
-      <category>angular</category>
-      <category>math</category>
-      <guid>https://rtryan98.github.io/2025/10/04/ocean-rendering-part-1.html</guid>
-      <pubDate>Tue, 07 Oct 2025 08:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>A case for learning GPU programming with a compute-first mindset – Maister's Graphics Adventures</title>
-      <link>https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/</link>
-      <description>Beginners coming into our little corner of the programming world have it rough. Normal CPU-centric programming tends to start out with a “Hello World” sample, which can be completed in mere minutes. It takes far longer to simply download the toolchains and set them up. If you’re on a developer friendly OS, this can be completed in seconds as well.</description>
-      <category>compilers</category>
-      <category>math</category>
-      <category>git</category>
-      <guid>https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/</guid>
-      <pubDate>Tue, 07 Oct 2025 08:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPU Instanced Grass Breakdown</title>
-      <link>https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/</link>
-      <description>A post showing how Shader Graph can be used with DrawMeshInstancedProcedural / RenderMeshPrimitives and DrawMeshInstancedIndirect / RenderMeshIndirect to draw grass using GPU Instancing.</description>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <category>git</category>
-      <guid>https://www.cyanilux.com/tutorials/gpu-instanced-grass-breakdown/</guid>
-      <pubDate>Tue, 07 Oct 2025 08:01:52 GMT</pubDate>
-    </item>
   </channel>
 </rss>
