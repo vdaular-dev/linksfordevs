@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>nullpt.rs • Hacking GTA V RP Servers Using Web Exploitation Techniques</title>
+      <link>https://nullpt.rs/hacking-gta-servers-using-web-exploitation</link>
+      <description>FiveM provides a powerful framework to create game experiences not otherwise possible in Grand Theft Auto. However, this power can be abused by attackers through the use of XSS in vulnerable NUI resources.</description>
+      <category>2ndbrain</category>
+      <category>audio</category>
+      <category>css</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://nullpt.rs/hacking-gta-servers-using-web-exploitation</guid>
+      <pubDate>Wed, 08 Oct 2025 17:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>After 2 decades of tinkering, MAME finally cracks the Hyper Neo Geo 64</title>
+      <link>https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/</link>
+      <description>How MAME devs finally got sound working for the 3D arcade system. Plus: PC Engine LaserActive support gets fast-tracked.</description>
+      <category>2ndbrain</category>
+      <category>audio</category>
+      <category>gaming</category>
+      <category>hardware</category>
+      <category>razor</category>
+      <guid>https://www.readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/</guid>
+      <pubDate>Wed, 08 Oct 2025 17:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Irradiance Encoding, Ambient Cube</title>
       <link>https://www.4rknova.com//blog/2020/01/29/ambient-cubes</link>
       <description>In Half-Life 2, a directional ambient term is precomputed across the environments and stored in the ambient cube lighting encoding. This post goes over the theory behind the ambient cubes technique...</description>
