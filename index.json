@@ -190,13 +190,5 @@
     "Domain": "www.readonlymemo.com",
     "Description": "How MAME devs finally got sound working for the 3D arcade system. Plus: PC Engine LaserActive support gets fast-tracked.",
     "Confidence": 0.85827225
-  },
-  {
-    "Title": "Irradiance Encoding, Ambient Cube",
-    "Url": "https://www.4rknova.com//blog/2020/01/29/ambient-cubes",
-    "Timestamp": "2025-10-08T16:02:17",
-    "Domain": "www.4rknova.com",
-    "Description": "In Half-Life 2, a directional ambient term is precomputed across the environments and stored in the ambient cube lighting encoding. This post goes over the theory behind the ambient cubes technique...",
-    "Confidence": 0.922949
   }
 ]
