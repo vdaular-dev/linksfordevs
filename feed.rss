@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why Self-host?</title>
+      <link>https://romanzipp.com/blog/why-a-homelab-why-self-host</link>
+      <description>Let me make the argument why you should start self-hosting more of your personal services.</description>
+      <author> (Roman Zipp)</author>
+      <category>health</category>
+      <category>containers</category>
+      <category>apple</category>
+      <category>dns</category>
+      <category>python</category>
+      <guid>https://romanzipp.com/blog/why-a-homelab-why-self-host</guid>
+      <pubDate>Thu, 09 Oct 2025 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>A small number of samples can poison LLMs of any size</title>
       <link>https://www.anthropic.com/research/small-samples-poison</link>
       <description>Anthropic research on data-poisoning attacks in large language models</description>
