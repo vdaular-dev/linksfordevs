@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Day 1 ‚ The Problem",
+    "Url": "https://supremefounder.com/day-1-the-problem.html",
+    "Timestamp": "2025-10-10T23:03:18",
+    "Domain": "supremefounder.com",
+    "Description": "Day 1 ‚ The Problem - Supreme Founder"
+  },
+  {
+    "Title": "LLMs Are Transpilers | alloc.dev",
+    "Url": "https://alloc.dev/2025/10/10/llms_are_transpilers",
+    "Timestamp": "2025-10-10T23:03:12",
+    "Domain": "alloc.dev",
+    "Description": "Using LLMs in programming"
+  },
+  {
+    "Title": "Wtf is the Synergic Mode? • Malcolm Ocean",
+    "Url": "https://malcolmocean.com/2025/10/wtf-is-the-synergic-mode/",
+    "Timestamp": "2025-10-10T23:03:09",
+    "Domain": "malcolmocean.com",
+    "Description": "[Written August 2022. Published now because editing is hard and sometimes calling it how you see it is too scary to share with everybody at first.] Framing on this write-up: “guys I’m really confused, this weird thing keeps happening and it seems really good so I try to make it happen more but like WHAT …"
+  },
+  {
+    "Title": "Neural Networks: Simpler Than You Think | Hamza's Blog",
+    "Url": "https://www.hamza.se/blog/neural-networks",
+    "Timestamp": "2025-10-10T23:03:05",
+    "Domain": "www.hamza.se",
+    "Description": "A walkthrough of implementing a neural network from scratch in Python, exploring what makes these seemingly complex systems actually quite straightforward."
+  },
+  {
+    "Title": "Rejecting an xAI Interview",
+    "Url": "https://andys.blog/xai/",
+    "Timestamp": "2025-10-10T23:03:02",
+    "Domain": "andys.blog",
+    "Description": "As you may have noticed, like everyone else in SF, I've been pondering AI. There will probably be at least 10 more years of world-changing developments ahead of us. Like with the internet, things may take decades to unfold. It's still early days.\n\nthe internet reduced the cost of information"
+  },
+  {
+    "Title": "Why Did I Write a Novel about IT and Software Engineering? - Surviving Software",
+    "Url": "https://richardwbown.com/why-did-i-write-a-novel-about-it-and-software-engineering/",
+    "Timestamp": "2025-10-10T23:02:58",
+    "Domain": "richardwbown.com",
+    "Description": "Acknowledging the influences that led me to write \"Human Software\" and the professional journey that has got me to this point."
+  },
+  {
+    "Title": "OpenAI's inflated valuation, as I understand it",
+    "Url": "https://taloranderson.com/blog/ai-valuation",
+    "Timestamp": "2025-10-10T23:02:55",
+    "Domain": "taloranderson.com",
+    "Description": "Blog post: OpenAI's inflated valuation, as I understand it"
+  },
+  {
+    "Title": "Implementing ZADD If Key Exists",
+    "Url": "https://rozumem.xyz/posts/7",
+    "Timestamp": "2025-10-10T23:02:51",
+    "Domain": "rozumem.xyz",
+    "Description": "I recently had to make some performance optimizations. These are my favorite kind of coding task as they usually require some sort of creativity and tradeoff. This time around I also learned more about Redis and practiced using AI to generate code."
+  },
+  {
+    "Title": "How I watch YouTube videos on my phone without getting distracted",
+    "Url": "https://maxwrenna.com/how-i-watch-youtube-videos-on-my-phone-without-getting-distracted/",
+    "Timestamp": "2025-10-10T23:02:47",
+    "Domain": "maxwrenna.com",
+    "Description": "Adding friction, retaining an outlet"
+  },
+  {
+    "Title": "Why Your Company Needs a Chief Failure Officer",
+    "Url": "https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/",
+    "Timestamp": "2025-10-10T23:02:44",
+    "Domain": "brianchristner.io",
+    "Description": "Build a culture of innovation by embracing fast, frequent failure. Discover why every company should have a Chief Fail Officer to drive learning and growth."
+  },
+  {
+    "Title": "(re)Introducing the Pebble Appstore",
+    "Url": "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/",
+    "Timestamp": "2025-10-10T23:02:40",
+    "Domain": "ericmigi.com",
+    "Description": "(re)Introducing the Pebble Appstore"
+  },
+  {
+    "Title": "Rescue me always",
+    "Url": "https://hritik.sh/posts/rescue-me/",
+    "Timestamp": "2025-10-10T23:02:36",
+    "Domain": "hritik.sh",
+    "Description": "My latest arch update broke system boot and plugging in a pen drive is too much work, so I installed grml on my local hard disk partition. Post also explores how live boot works."
+  },
+  {
+    "Title": "Accidentally Made a Zig dotenv Parser",
+    "Url": "https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/",
+    "Timestamp": "2025-10-10T23:02:33",
+    "Domain": "dayvster.com",
+    "Description": "How I ended up creating a dotenv parser while working on a CLI argument parser"
+  },
+  {
+    "Title": "The relentless rule of my fitness tracker",
+    "Url": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
+    "Timestamp": "2025-10-10T23:02:29",
+    "Domain": "timharford.com",
+    "Description": "At a time when we’re all blaming digital devices for ruining our attention spans, our children’s mental health and even the future of democracy itself, let’s give credit where it’s due: my cheap fi…"
+  },
+  {
+    "Title": "The Get Your Shit Together Day",
+    "Url": "https://frantic.im/get-your-shit-together-day/",
+    "Timestamp": "2025-10-10T23:02:24",
+    "Domain": "frantic.im",
+    "Description": "Everyone needs a Get Your Shit Together day every once in a while..."
+  },
+  {
+    "Title": "When Will Quantum Computing Work?",
+    "Url": "https://tommccarthy.net/when-quantum.html",
+    "Timestamp": "2025-10-10T23:02:13",
+    "Domain": "tommccarthy.net",
+    "Description": "Quantum computers will create good businesses beyond 2030, maybe 2040, but not before then. Many R&D breakthroughs are required to build useful machines."
+  },
+  {
     "Title": "Hot Water Balloon",
     "Url": "https://xkcd.com/3153/",
     "Timestamp": "2025-10-10T21:02:04",
