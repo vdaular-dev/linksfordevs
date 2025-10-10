@@ -206,21 +206,5 @@
     "Domain": "romanzipp.com",
     "Description": "Let me make the argument why you should start self-hosting more of your personal services.",
     "Confidence": 0.9716106
-  },
-  {
-    "Title": "A small number of samples can poison LLMs of any size",
-    "Url": "https://www.anthropic.com/research/small-samples-poison",
-    "Timestamp": "2025-10-09T19:02:05",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic research on data-poisoning attacks in large language models",
-    "Confidence": 0.94894737
-  },
-  {
-    "Title": "GitHub Will Prioritize Migrating to Azure Over Feature Development",
-    "Url": "https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/",
-    "Timestamp": "2025-10-09T19:02:00",
-    "Domain": "thenewstack.io",
-    "Description": "GitHub is working on migrating all of its infrastructure to Azure, even though this means it'll have to delay some feature development.",
-    "Confidence": 0.931198
   }
 ]
