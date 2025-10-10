@@ -7,6 +7,181 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MCP Servers vs Extensions in Gemini CLI: When to Use What</title>
+      <link>https://harishgarg.com/mcp-servers-vs-extensions-in-gemini-cli-when-to-use-what</link>
+      <description>Learn when to use MCP servers or extensions in Gemini CLI for personal configurations versus team workflows</description>
+      <author> (https://hashnode.com/@harishgarg)</author>
+      <category>cloud</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://harishgarg.com/mcp-servers-vs-extensions-in-gemini-cli-when-to-use-what</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to avoid npm link issues</title>
+      <link>https://www.steveharrison.dev/how-to-avoid-npm-link-issues/</link>
+      <description>When using component libraries, you'll often need to use npm link in order to test changes to the component library in an app that uses the component library locally.
+
+Let's say you're working on a dashboard in a company-portal project and you're using a Button component from your company's component</description>
+      <category>nodejs</category>
+      <category>visualstudio</category>
+      <category>javascript</category>
+      <category>css</category>
+      <guid>https://www.steveharrison.dev/how-to-avoid-npm-link-issues/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beyond the Plateau: The Real Existential Crisis Is a Slowdown, Not a Takeoff</title>
+      <link>http://www.jasonwillems.com/ai/2025/10/09/The-Plateau/</link>
+      <description>For most of history, humanity’s greatest accomplishment has been its ability to out-accelerate its own existential problems.</description>
+      <category>health</category>
+      <category>ai</category>
+      <guid>http://www.jasonwillems.com/ai/2025/10/09/The-Plateau/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The lost art of semaphores</title>
+      <link>https://aivarsk.com/2025/10/09/the-lost-art-of-semaphores/</link>
+      <description>I am a huge fan of System V Inter Process Communication primitives. There is some rawness and UNIX spirit to them. There is a newer and kinda “improved” version of those primitives named POSIX IPC. While there are a few things in POSIX IPC that can’t be done with System V IPC, most of the time it’s the other way around. Primarily due to the rawness of System V IPC. Let’s check the POSIX semaphores:</description>
+      <category>python</category>
+      <guid>https://aivarsk.com/2025/10/09/the-lost-art-of-semaphores/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>jimmyff | Keeping my Nix inputs fresh</title>
+      <link>https://www.jimmyff.co.uk/blog/keeping-my-nix-inputs-fresh/</link>
+      <description>Fun loving creative (he/him) 🏳️‍🌈</description>
+      <category>ai</category>
+      <guid>https://www.jimmyff.co.uk/blog/keeping-my-nix-inputs-fresh/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Friend is Giving Me a Kidney</title>
+      <link>https://nathandyer.me/2025/03/13/micah.html</link>
+      <description>A fresh start for me thanks to a generous friend</description>
+      <category>html</category>
+      <guid>https://nathandyer.me/2025/03/13/micah.html</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ship Broken Things</title>
+      <link>https://matmul.net/$/ship-broken.html</link>
+      <description>Ship Broken Things
+Published on 06.10.2025</description>
+      <category>html</category>
+      <guid>https://matmul.net/$/ship-broken.html</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Your Simple Password Is a Mathematical Catastrophe - Tawanda Munongo</title>
+      <link>https://tawandamunongo.dev/posts/2025/10/passwords-information-theory</link>
+      <description>From ancient Caesar ciphers to quantum-resistant cryptography, the journey of secret-keeping reveals not just the evolution of our technology, but the deepening of our understanding of information, computation, and trust itself.</description>
+      <category>cryptography</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <guid>https://tawandamunongo.dev/posts/2025/10/passwords-information-theory</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT pretends to run code</title>
+      <link>https://eriklonnroth.com/chatgpt-pretends/</link>
+      <description>ChatGPT recently pretended to run Python code</description>
+      <category>python</category>
+      <category>math</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://eriklonnroth.com/chatgpt-pretends/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>LINQ and Learning To Be Declarative</title>
+      <link>https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative</link>
+      <description>If you’re familiar with functional programming concepts, you may enjoy the idea of declarative programming using LINQ or Language Integrated Query. Querying data is a common solution to a lot of problems in business, but within itself we get a lot of different issues. What’s the best way to query data? SQL is by far the weapon of choice for most developers. It’s simple to pickup and is performant as long as your DBA has some sense of professionalism.</description>
+      <category>linq</category>
+      <category>wiki</category>
+      <category>sql</category>
+      <category>dotnet</category>
+      <category>python</category>
+      <guid>https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Claude Code Setup | Justin D Fuller</title>
+      <link>https://www.justindfuller.com/programming/my-claude-code-setup</link>
+      <description>My Claude Code Setup | Justin D Fuller</description>
+      <category>git</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://www.justindfuller.com/programming/my-claude-code-setup</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESP32 and Termux</title>
+      <link>https://blog.gavide.dev/blog/esp32-and-termux</link>
+      <description>Documenting my journey in trying to use my ESP32 on my phone through Termux</description>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://blog.gavide.dev/blog/esp32-and-termux</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding OpenAI's new Apps announcement</title>
+      <link>https://adamjuras.com/posts/should-i-build-chatgpt-apps</link>
+      <description>Why ChatGPT Apps are not what you think they are</description>
+      <category>marketing</category>
+      <category>audio</category>
+      <category>amazon</category>
+      <guid>https://adamjuras.com/posts/should-i-build-chatgpt-apps</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compound: Everything Does</title>
+      <link>https://www.ssp.sh/brain/compounding/</link>
+      <description>Compounding is something so substantial. You can do it with notes ([[Compounding Note-Taking]]), money, and in life ([[Principles]]). It is slow, but it’s the right way to grow.</description>
+      <category>2ndbrain</category>
+      <category>marketing</category>
+      <guid>https://www.ssp.sh/brain/compounding/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I switched from HTMX to Datastar</title>
+      <link>https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/</link>
+      <description></description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>html</category>
+      <category>css</category>
+      <guid>https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Nix Will Win (and What's Stopping It): A 3-Year Production Story</title>
+      <link>https://ryanrasti.com/blog/why-nix-will-win/</link>
+      <description>Nix is poised to win the future of cloud infrastructure, but critical obstacles remain. A 3-year production story on the promise, the pain, and the concrete path forward for Nix.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>sql</category>
+      <category>linux</category>
+      <guid>https://ryanrasti.com/blog/why-nix-will-win/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interval Calculator</title>
+      <link>https://victorpoughon.github.io/interval-calculator/</link>
+      <description>This is a calculator that works over unions of
+          intervals rather than just real numbers. It is an
+          implementation of Interval
+          Union Arithmetic.</description>
+      <category>regex</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://victorpoughon.github.io/interval-calculator/</guid>
+      <pubDate>Fri, 10 Oct 2025 00:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Why Self-host?</title>
       <link>https://romanzipp.com/blog/why-a-homelab-why-self-host</link>
       <description>Let me make the argument why you should start self-hosting more of your personal services.</description>
@@ -91,14 +266,6 @@
       <category>javascript</category>
       <guid>https://xkcd.com/3152/</guid>
       <pubDate>Thu, 09 Oct 2025 01:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>How American Tech Cartels Use Apps to Break the Law</title>
-      <link>https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/</link>
-      <description>The death of competition spells doom for regulation. Competition is an essential component of effective regulation, for two reasons: First, competition keeps the companies within a sector from all …</description>
-      <category>cloud</category>
-      <guid>https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/</guid>
-      <pubDate>Thu, 09 Oct 2025 00:01:50 GMT</pubDate>
     </item>
   </channel>
 </rss>

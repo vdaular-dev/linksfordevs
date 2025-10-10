@@ -1,5 +1,141 @@
 [
   {
+    "Title": "MCP Servers vs Extensions in Gemini CLI: When to Use What",
+    "Url": "https://harishgarg.com/mcp-servers-vs-extensions-in-gemini-cli-when-to-use-what",
+    "Timestamp": "2025-10-10T00:03:30",
+    "Domain": "harishgarg.com",
+    "Description": "Learn when to use MCP servers or extensions in Gemini CLI for personal configurations versus team workflows",
+    "Confidence": 0.99733466
+  },
+  {
+    "Title": "How to avoid npm link issues",
+    "Url": "https://www.steveharrison.dev/how-to-avoid-npm-link-issues/",
+    "Timestamp": "2025-10-10T00:03:26",
+    "Domain": "www.steveharrison.dev",
+    "Description": "When using component libraries, you'll often need to use npm link in order to test changes to the component library in an app that uses the component library locally.\n\nLet's say you're working on a dashboard in a company-portal project and you're using a Button component from your company's component",
+    "Confidence": 0.98436457
+  },
+  {
+    "Title": "Beyond the Plateau: The Real Existential Crisis Is a Slowdown, Not a Takeoff",
+    "Url": "http://www.jasonwillems.com/ai/2025/10/09/The-Plateau/",
+    "Timestamp": "2025-10-10T00:03:22",
+    "Domain": "www.jasonwillems.com",
+    "Description": "For most of history, humanity’s greatest accomplishment has been its ability to out-accelerate its own existential problems.",
+    "Confidence": 0.96896636
+  },
+  {
+    "Title": "The lost art of semaphores",
+    "Url": "https://aivarsk.com/2025/10/09/the-lost-art-of-semaphores/",
+    "Timestamp": "2025-10-10T00:03:19",
+    "Domain": "aivarsk.com",
+    "Description": "I am a huge fan of System V Inter Process Communication primitives. There is some rawness and UNIX spirit to them. There is a newer and kinda “improved” version of those primitives named POSIX IPC. While there are a few things in POSIX IPC that can’t be done with System V IPC, most of the time it’s the other way around. Primarily due to the rawness of System V IPC. Let’s check the POSIX semaphores:",
+    "Confidence": 0.98254704
+  },
+  {
+    "Title": "jimmyff | Keeping my Nix inputs fresh",
+    "Url": "https://www.jimmyff.co.uk/blog/keeping-my-nix-inputs-fresh/",
+    "Timestamp": "2025-10-10T00:03:16",
+    "Domain": "www.jimmyff.co.uk",
+    "Description": "Fun loving creative (he/him) 🏳️‍🌈",
+    "Confidence": 0.9810717
+  },
+  {
+    "Title": "My Friend is Giving Me a Kidney",
+    "Url": "https://nathandyer.me/2025/03/13/micah.html",
+    "Timestamp": "2025-10-10T00:03:13",
+    "Domain": "nathandyer.me",
+    "Description": "A fresh start for me thanks to a generous friend",
+    "Confidence": 0.9085034
+  },
+  {
+    "Title": "Ship Broken Things",
+    "Url": "https://matmul.net/$/ship-broken.html",
+    "Timestamp": "2025-10-10T00:03:09",
+    "Domain": "matmul.net",
+    "Description": "Ship Broken Things\nPublished on 06.10.2025",
+    "Confidence": 0.9891995
+  },
+  {
+    "Title": "Why Your Simple Password Is a Mathematical Catastrophe - Tawanda Munongo",
+    "Url": "https://tawandamunongo.dev/posts/2025/10/passwords-information-theory",
+    "Timestamp": "2025-10-10T00:03:06",
+    "Domain": "tawandamunongo.dev",
+    "Description": "From ancient Caesar ciphers to quantum-resistant cryptography, the journey of secret-keeping reveals not just the evolution of our technology, but the deepening of our understanding of information, computation, and trust itself.",
+    "Confidence": 0.9950188
+  },
+  {
+    "Title": "ChatGPT pretends to run code",
+    "Url": "https://eriklonnroth.com/chatgpt-pretends/",
+    "Timestamp": "2025-10-10T00:03:01",
+    "Domain": "eriklonnroth.com",
+    "Description": "ChatGPT recently pretended to run Python code",
+    "Confidence": 0.8676248
+  },
+  {
+    "Title": "LINQ and Learning To Be Declarative",
+    "Url": "https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative",
+    "Timestamp": "2025-10-10T00:02:57",
+    "Domain": "www.nickstambaugh.dev",
+    "Description": "If you’re familiar with functional programming concepts, you may enjoy the idea of declarative programming using LINQ or Language Integrated Query. Querying data is a common solution to a lot of problems in business, but within itself we get a lot of different issues. What’s the best way to query data? SQL is by far the weapon of choice for most developers. It’s simple to pickup and is performant as long as your DBA has some sense of professionalism.",
+    "Confidence": 0.99934256
+  },
+  {
+    "Title": "My Claude Code Setup | Justin D Fuller",
+    "Url": "https://www.justindfuller.com/programming/my-claude-code-setup",
+    "Timestamp": "2025-10-10T00:02:54",
+    "Domain": "www.justindfuller.com",
+    "Description": "My Claude Code Setup | Justin D Fuller",
+    "Confidence": 0.99863416
+  },
+  {
+    "Title": "ESP32 and Termux",
+    "Url": "https://blog.gavide.dev/blog/esp32-and-termux",
+    "Timestamp": "2025-10-10T00:02:49",
+    "Domain": "blog.gavide.dev",
+    "Description": "Documenting my journey in trying to use my ESP32 on my phone through Termux",
+    "Confidence": 0.9973879
+  },
+  {
+    "Title": "Understanding OpenAI's new Apps announcement",
+    "Url": "https://adamjuras.com/posts/should-i-build-chatgpt-apps",
+    "Timestamp": "2025-10-10T00:02:46",
+    "Domain": "adamjuras.com",
+    "Description": "Why ChatGPT Apps are not what you think they are",
+    "Confidence": 0.9809223
+  },
+  {
+    "Title": "Compound: Everything Does",
+    "Url": "https://www.ssp.sh/brain/compounding/",
+    "Timestamp": "2025-10-10T00:02:40",
+    "Domain": "www.ssp.sh",
+    "Description": "Compounding is something so substantial. You can do it with notes ([[Compounding Note-Taking]]), money, and in life ([[Principles]]). It is slow, but it’s the right way to grow.",
+    "Confidence": 0.96064234
+  },
+  {
+    "Title": "Why I switched from HTMX to Datastar",
+    "Url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
+    "Timestamp": "2025-10-10T00:02:34",
+    "Domain": "everydaysuperpowers.dev",
+    "Description": "",
+    "Confidence": 0.97493523
+  },
+  {
+    "Title": "Why Nix Will Win (and What's Stopping It): A 3-Year Production Story",
+    "Url": "https://ryanrasti.com/blog/why-nix-will-win/",
+    "Timestamp": "2025-10-10T00:02:30",
+    "Domain": "ryanrasti.com",
+    "Description": "Nix is poised to win the future of cloud infrastructure, but critical obstacles remain. A 3-year production story on the promise, the pain, and the concrete path forward for Nix.",
+    "Confidence": 0.99457777
+  },
+  {
+    "Title": "Interval Calculator",
+    "Url": "https://victorpoughon.github.io/interval-calculator/",
+    "Timestamp": "2025-10-10T00:02:26",
+    "Domain": "victorpoughon.github.io",
+    "Description": "This is a calculator that works over unions of\n          intervals rather than just real numbers. It is an\n          implementation of Interval\n          Union Arithmetic.",
+    "Confidence": 0.98471135
+  },
+  {
     "Title": "Why Self-host?",
     "Url": "https://romanzipp.com/blog/why-a-homelab-why-self-host",
     "Timestamp": "2025-10-09T20:02:06",
@@ -70,85 +206,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "How American Tech Cartels Use Apps to Break the Law",
-    "Url": "https://lithub.com/how-american-tech-cartels-use-apps-to-break-the-law/",
-    "Timestamp": "2025-10-09T00:01:50",
-    "Domain": "lithub.com",
-    "Description": "The death of competition spells doom for regulation. Competition is an essential component of effective regulation, for two reasons: First, competition keeps the companies within a sector from all …",
-    "Confidence": 0.8742834
-  },
-  {
-    "Title": "How we test a web framework | Wasp",
-    "Url": "https://wasp.sh/blog/2025/10/07/how-we-test-a-web-framework",
-    "Timestamp": "2025-10-08T23:03:19",
-    "Domain": "wasp.sh",
-    "Description": "A sneak peek into how we test our compiler-driven full-stack web framework at Wasp.",
-    "Confidence": 0.9960324
-  },
-  {
-    "Title": "Mr.Popov :: Elixir LiveView Single Binary",
-    "Url": "https://mrpopov.com/posts/elixir-liveview-single-binary/",
-    "Timestamp": "2025-10-08T23:03:15",
-    "Domain": "mrpopov.com",
-    "Description": "We had two repos of Elixir, seventy-five LiveView components, five sheets of high-powered Phoenix channels, a saltshaker half-full of SQLite databases, and a whole multicolored collection of Burrito deployables, Tauri binaries, WebView wrappers, hot-reloaders&hellip; Also, a quart of WebSockets, a quart of GenServers, a case of Ecto queries, a pint of raw BEAM bytecode, and two dozen supervisors.\nThe only thing that really worried me was the WebView. There is nothing in the world more helpless and irresponsible and depraved than a developer in the depths of a cross-platform binge, and I knew we&rsquo;d get into that rotten stuff pretty soon.",
-    "Confidence": 0.9996629
-  },
-  {
-    "Title": "SAT problems are kind of cool!",
-    "Url": "https://blog.karanjanthe.me/posts/Boolean-satisfiability-problem/",
-    "Timestamp": "2025-10-08T23:03:11",
-    "Domain": "blog.karanjanthe.me",
-    "Description": "While working on fastbrew, I went into the rabbit hole of SAT, short for Boolean satisfiability. It is quite interesting. For my application...",
-    "Confidence": 0.98626274
-  },
-  {
-    "Title": "Why Feeds Fun normalizes tags — and how",
-    "Url": "https://blog.feeds.fun/en/posts/why-feeds-fun-normalizes-tags-and-how",
-    "Timestamp": "2025-10-08T23:03:08",
-    "Domain": "blog.feeds.fun",
-    "Description": "How Feeds Fun normalizes tags and why it is important.",
-    "Confidence": 0.9869636
-  },
-  {
-    "Title": "When the tech bros come for me",
-    "Url": "https://gerrymcgovern.com/when-the-tech-bros-come-for-me/",
-    "Timestamp": "2025-10-08T23:03:02",
-    "Domain": "gerrymcgovern.com",
-    "Description": "First, the tech bros came for the warehouse workers, and I said nothing. Paying them terrible wages, working them to the bone, tracking their every second, injuring them at record levels, all in the pursuit of customer obsession and profit.",
-    "Confidence": 0.68211526
-  },
-  {
-    "Title": "Reflections on Big Tech",
-    "Url": "https://micro.mu/blog/2025/10/07/reflection-on-big-tech.html",
-    "Timestamp": "2025-10-08T23:02:57",
-    "Domain": "micro.mu",
-    "Description": "TL;DR: Big Tech isn’t inherently evil, but we’ve ceded too much control. It’s time to take it back.",
-    "Confidence": 0.98066425
-  },
-  {
-    "Title": "The Underestimated",
-    "Url": "https://aishwaryagoel.com/the-underestimated/",
-    "Timestamp": "2025-10-08T23:02:54",
-    "Domain": "aishwaryagoel.com",
-    "Description": "Why being underestimated becomes a superpower. How invisibility teaches you to build in spaces",
-    "Confidence": 0.8635979
-  },
-  {
-    "Title": "I Know What You Did Last Summer (with val town)",
-    "Url": "https://www.raymondcamden.com/2025/10/08/i-know-what-you-did-last-summer-with-val-town",
-    "Timestamp": "2025-10-08T23:02:50",
-    "Domain": "www.raymondcamden.com",
-    "Description": "An update to my horror themed web app",
-    "Confidence": 0.96609676
-  },
-  {
-    "Title": "SLASH BLOG",
-    "Url": "https://amandapeyton.com/blog/2025/10/just-pool/",
-    "Timestamp": "2025-10-08T23:02:46",
-    "Domain": "amandapeyton.com",
-    "Description": "In the life of a startup, you have complete control over two moments: when you start and when you give up. Those might be the only two.",
-    "Confidence": 0.9820868
   }
 ]
