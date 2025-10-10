@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Nobel Peace Prize 2025",
+    "Url": "https://www.nobelprize.org/prizes/peace/2025/summary/",
+    "Timestamp": "2025-10-10T12:02:03",
+    "Domain": "www.nobelprize.org",
+    "Description": "The Nobel Peace Prize 2025 was awarded to Maria Corina Machado \"for her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy\""
+  },
+  {
+    "Title": "Cubemaps // Vulkan For Beginners #25",
+    "Url": "https://youtube.com/watch?v=L1BcCKvG7nc",
+    "Timestamp": "2025-10-10T12:01:59",
+    "Domain": "youtube.com",
+    "Description": "In this video we learn how to implement Cubemapping in Vulkan. This can be used to render a skybox around the viewer.\n\n🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).\n\n📚 Timecodes 📚\n0:00 Intro\n0:36 The Skybox class\n3:04 Initialize the Skybox\n5:53 Creating the texture\n9:40 Shader handles and pipeline\n11:44 Populating the descriptor sets\n13:14 Command buffer recording\n14:00 Uniform buffer update\n14:18 Vertex shader\n15:16 Fragment shader\n15:45 App integration\n16:47 Outro\n\nMake sure to watch all the previous tutorials in the \"Vulkan For Beginners\" playlist at https://www.youtube.com/playlist?list=PLA0dXqQjCx0RntJy1pqje9uHRF1Z5vZgA\n\nPlease visit https://ogldev.org to see more of my tutorials on modern OpenGL.\n\n🔥Link to source: \nhttps://github.com/emeiri/ogldev/tree/master/Vulkan/Tutorial25\nIf you want to get the same version of the code that was used in the video checkout the tag 'VULKAN_25'\n\n🔥Vulkan specification: \nhttps://vulkan.lunarg.com/doc/view/1.3.204.1/windows/1.3-extensions/vkspec.html\n\nFeel free to comment below.\n\n🔗Contacts:\n🔹Email: ogldev1@gmail.com\n🔹Instagram: @ogldev1\n🔹Github: https://github.com/emeiri/ogldev.git\n🔹TikTok - https://www.tiktok.com/@ogldev\n🔹Twitter: @ogldev\n🔹Discord: https://discord.gg/CZdVwZgTYk\n🔹One time donations (Paypal): https://ogldev.org/donate.html\n🔹Patreon: https://www.patreon.com/ogldev\n\n🙏Credits:\n🔹Music I Use: https://www.bensound.com/free-music-for-videos\n      License code: H6PSNAHABCXMJCDE\n      Artist: : Benjamin Lazzarus\n\nEnjoy,\n\nEtay Meiri\n\n#vulkan"
+  },
+  {
     "Title": "Python 3.14 Is Here. How Fast Is It?",
     "Url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
     "Timestamp": "2025-10-10T09:02:00",

@@ -7,6 +7,75 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nobel Peace Prize 2025</title>
+      <link>https://www.nobelprize.org/prizes/peace/2025/summary/</link>
+      <description>The Nobel Peace Prize 2025 was awarded to Maria Corina Machado "for her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy"</description>
+      <guid>https://www.nobelprize.org/prizes/peace/2025/summary/</guid>
+      <pubDate>Fri, 10 Oct 2025 12:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cubemaps // Vulkan For Beginners #25</title>
+      <link>https://youtube.com/watch?v=L1BcCKvG7nc</link>
+      <description>In this video we learn how to implement Cubemapping in Vulkan. This can be used to render a skybox around the viewer.
+
+🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).
+
+📚 Timecodes 📚
+0:00 Intro
+0:36 The Skybox class
+3:04 Initialize the Skybox
+5:53 Creating the texture
+9:40 Shader handles and pipeline
+11:44 Populating the descriptor sets
+13:14 Command buffer recording
+14:00 Uniform buffer update
+14:18 Vertex shader
+15:16 Fragment shader
+15:45 App integration
+16:47 Outro
+
+Make sure to watch all the previous tutorials in the "Vulkan For Beginners" playlist at https://www.youtube.com/playlist?list=PLA0dXqQjCx0RntJy1pqje9uHRF1Z5vZgA
+
+Please visit https://ogldev.org to see more of my tutorials on modern OpenGL.
+
+🔥Link to source: 
+https://github.com/emeiri/ogldev/tree/master/Vulkan/Tutorial25
+If you want to get the same version of the code that was used in the video checkout the tag 'VULKAN_25'
+
+🔥Vulkan specification: 
+https://vulkan.lunarg.com/doc/view/1.3.204.1/windows/1.3-extensions/vkspec.html
+
+Feel free to comment below.
+
+🔗Contacts:
+🔹Email: ogldev1@gmail.com
+🔹Instagram: @ogldev1
+🔹Github: https://github.com/emeiri/ogldev.git
+🔹TikTok - https://www.tiktok.com/@ogldev
+🔹Twitter: @ogldev
+🔹Discord: https://discord.gg/CZdVwZgTYk
+🔹One time donations (Paypal): https://ogldev.org/donate.html
+🔹Patreon: https://www.patreon.com/ogldev
+
+🙏Credits:
+🔹Music I Use: https://www.bensound.com/free-music-for-videos
+      License code: H6PSNAHABCXMJCDE
+      Artist: : Benjamin Lazzarus
+
+Enjoy,
+
+Etay Meiri
+
+#vulkan</description>
+      <author> (OGLDEV)</author>
+      <category>audio</category>
+      <category>git</category>
+      <category>html</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=L1BcCKvG7nc</guid>
+      <pubDate>Fri, 10 Oct 2025 12:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Python 3.14 Is Here. How Fast Is It?</title>
       <link>https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it</link>
       <description>In November of 2024 I wrote a blog post titled "Is Python Really That Slow?", in which I tested several versions of Python and noted the steady progress the language has been making in terms of…</description>
