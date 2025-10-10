@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Igalia, Servo, and the Sovereign Tech Fund | Igalia",
+    "Url": "https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html",
+    "Timestamp": "2025-10-10T18:02:14",
+    "Domain": "www.igalia.com",
+    "Description": "Igalia is an open source consultancy specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solutions for companies across the globe. Our work and contributions are present in many projects such as GStreamer, Mesa 3D, WebKit, Chromium, etc.",
+    "Confidence": 0.9832784
+  },
+  {
     "Title": "DDN: Discrete Distribution Networks",
     "Url": "https://discrete-distribution-networks.github.io/",
     "Timestamp": "2025-10-10T16:02:08",
@@ -214,13 +222,5 @@
     "Domain": "thenewstack.io",
     "Description": "GitHub is working on migrating all of its infrastructure to Azure, even though this means it'll have to delay some feature development.",
     "Confidence": 0.931198
-  },
-  {
-    "Title": "The Great Software Quality Collapse: How We Normalized Catastrophe",
-    "Url": "https://techtrenches.substack.com/p/the-great-software-quality-collapse",
-    "Timestamp": "2025-10-09T18:01:58",
-    "Domain": "techtrenches.substack.com",
-    "Description": "The Apple Calculator leaked 32GB of RAM.",
-    "Confidence": 0.97957325
   }
 ]
