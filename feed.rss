@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Python 3.14 Is Here. How Fast Is It?</title>
+      <link>https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it</link>
+      <description>In November of 2024 I wrote a blog post titled "Is Python Really That Slow?", in which I tested several versions of Python and noted the steady progress the language has been making in terms of…</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>apple</category>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it</guid>
+      <pubDate>Fri, 10 Oct 2025 09:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Coding Sucks</title>
       <link>https://youtube.com/watch?v=0ZUkQF6boNg</link>
       <description>AI coding tools suck and are not at all what was promised. I'm done.
@@ -306,14 +318,6 @@ Published on 06.10.2025</description>
       <category>javascript</category>
       <guid>https://www.4rknova.com//blog/2019/08/08/generative-art</guid>
       <pubDate>Thu, 09 Oct 2025 13:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kurt Got Got</title>
-      <link>https://fly.io/blog/kurt-got-got/</link>
-      <description>The night we spent without control of our Twitter account.</description>
-      <category>cryptography</category>
-      <guid>https://fly.io/blog/kurt-got-got/</guid>
-      <pubDate>Thu, 09 Oct 2025 09:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

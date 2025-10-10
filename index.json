@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Python 3.14 Is Here. How Fast Is It?",
+    "Url": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+    "Timestamp": "2025-10-10T09:02:00",
+    "Domain": "blog.miguelgrinberg.com",
+    "Description": "In November of 2024 I wrote a blog post titled \"Is Python Really That Slow?\", in which I tested several versions of Python and noted the steady progress the language has been making in terms of…",
+    "Confidence": 0.98166376
+  },
+  {
     "Title": "AI Coding Sucks",
     "Url": "https://youtube.com/watch?v=0ZUkQF6boNg",
     "Timestamp": "2025-10-10T08:01:55",
@@ -198,13 +206,5 @@
     "Domain": "www.4rknova.com",
     "Description": "Generative art is an algorithmic approach to creating unique and dynamic works of art. As technology progresses, it continues to evolve, allowing artists to explore new forms and patterns beyond tr...",
     "Confidence": 0.9968221
-  },
-  {
-    "Title": "Kurt Got Got",
-    "Url": "https://fly.io/blog/kurt-got-got/",
-    "Timestamp": "2025-10-09T09:02:00",
-    "Domain": "fly.io",
-    "Description": "The night we spent without control of our Twitter account.",
-    "Confidence": 0.96768284
   }
 ]
