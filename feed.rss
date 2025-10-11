@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Update on my Case Against Microsoft</title>
+      <link>https://www.trevornestor.com/post/update-on-my-case-against-microsoft</link>
+      <description>In previous blog posts I described a recent state investigation (from the state of Washington, though the representative told me that it would be forwarded to the proper federal channels as well) I triggered into Microsoft (yes, not just a complaint - an intake for the actual investigation) for wrongful terminations, ADA noncompliance, and whistleblower retaliation, and while I received overwhelmingly positive reception on both Reddit and LinkedIn for the story, racking up hundreds of thousands </description>
+      <author> (Trevor Alexander Nestor)</author>
+      <category>ai</category>
+      <category>audio</category>
+      <category>cryptography</category>
+      <guid>https://www.trevornestor.com/post/update-on-my-case-against-microsoft</guid>
+      <pubDate>Sat, 11 Oct 2025 04:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>I'm in Vibe Code Hell</title>
       <link>https://blog.boot.dev/education/vibe-code-hell/</link>
       <description>When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:</description>
@@ -350,16 +361,6 @@ Brought to you by Sentry.io
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=0ZUkQF6boNg</guid>
       <pubDate>Fri, 10 Oct 2025 08:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rubygems.org AWS Root Access Event – September 2025</title>
-      <link>https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/</link>
-      <description>As part of standard incident-response practice, Ruby Central is publishing the following  post-incident review to the public. This document summarizes the September 2025 AWS root-access event, what occurred, what we verified, and the actions we’ve taken to strengthen our security processes.</description>
-      <category>ruby</category>
-      <category>cloud</category>
-      <category>amazon</category>
-      <guid>https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/</guid>
-      <pubDate>Fri, 10 Oct 2025 04:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
