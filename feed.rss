@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>introducing tangled</title>
+      <link>https://blog.tangled.org/intro</link>
+      <description>a git collaboration platform, built on atproto</description>
+      <category>git</category>
+      <guid>https://blog.tangled.org/intro</guid>
+      <pubDate>Sat, 11 Oct 2025 16:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>HTML’s Best Kept Secret: The output Tag</title>
       <link>https://denodell.com/blog/html-best-kept-secret-output-tag</link>
       <description>Make your dynamic content accessible by default with the HTML tag that time forgot.</description>
@@ -249,15 +257,6 @@ the internet reduced the cost of information</description>
       <category>html</category>
       <guid>https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html</guid>
       <pubDate>Fri, 10 Oct 2025 18:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>DDN: Discrete Distribution Networks</title>
-      <link>https://discrete-distribution-networks.github.io/</link>
-      <description>Novel Generative Model with Simple Principles and Unique Properties</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://discrete-distribution-networks.github.io/</guid>
-      <pubDate>Fri, 10 Oct 2025 16:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

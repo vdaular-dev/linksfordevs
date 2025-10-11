@@ -1,5 +1,13 @@
 [
   {
+    "Title": "introducing tangled",
+    "Url": "https://blog.tangled.org/intro",
+    "Timestamp": "2025-10-11T16:01:56",
+    "Domain": "blog.tangled.org",
+    "Description": "a git collaboration platform, built on atproto",
+    "Confidence": 0.9919318
+  },
+  {
     "Title": "HTML’s Best Kept Secret: The output Tag",
     "Url": "https://denodell.com/blog/html-best-kept-secret-output-tag",
     "Timestamp": "2025-10-11T13:02:01",
@@ -198,13 +206,5 @@
     "Domain": "www.igalia.com",
     "Description": "Igalia is an open source consultancy specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solutions for companies across the globe. Our work and contributions are present in many projects such as GStreamer, Mesa 3D, WebKit, Chromium, etc.",
     "Confidence": 0.9832784
-  },
-  {
-    "Title": "DDN: Discrete Distribution Networks",
-    "Url": "https://discrete-distribution-networks.github.io/",
-    "Timestamp": "2025-10-10T16:02:08",
-    "Domain": "discrete-distribution-networks.github.io",
-    "Description": "Novel Generative Model with Simple Principles and Unique Properties",
-    "Confidence": 0.9866614
   }
 ]
