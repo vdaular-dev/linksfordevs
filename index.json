@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Notes on switching to Helix from vim",
+    "Url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
+    "Timestamp": "2025-10-11T00:02:09",
+    "Domain": "jvns.ca",
+    "Description": "Notes on switching to Helix from vim",
+    "Confidence": 0.9726364
+  },
+  {
+    "Title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
+    "Url": "https://www.nngroup.com/articles/liquid-glass/",
+    "Timestamp": "2025-10-11T00:02:05",
+    "Domain": "www.nngroup.com",
+    "Description": "iOS 26’s visual language obscures content instead of letting it take the spotlight. New (but not always better) design patterns replace established conventions.",
+    "Confidence": 0.94138753
+  },
+  {
     "Title": "Day 1 ‚ The Problem",
     "Url": "https://supremefounder.com/day-1-the-problem.html",
     "Timestamp": "2025-10-10T23:03:18",
@@ -262,77 +278,5 @@
     "Domain": "tawandamunongo.dev",
     "Description": "From ancient Caesar ciphers to quantum-resistant cryptography, the journey of secret-keeping reveals not just the evolution of our technology, but the deepening of our understanding of information, computation, and trust itself.",
     "Confidence": 0.9950188
-  },
-  {
-    "Title": "ChatGPT pretends to run code",
-    "Url": "https://eriklonnroth.com/chatgpt-pretends/",
-    "Timestamp": "2025-10-10T00:03:01",
-    "Domain": "eriklonnroth.com",
-    "Description": "ChatGPT recently pretended to run Python code",
-    "Confidence": 0.8676248
-  },
-  {
-    "Title": "LINQ and Learning To Be Declarative",
-    "Url": "https://www.nickstambaugh.dev/posts/LINQ-and-being-declarative",
-    "Timestamp": "2025-10-10T00:02:57",
-    "Domain": "www.nickstambaugh.dev",
-    "Description": "If you’re familiar with functional programming concepts, you may enjoy the idea of declarative programming using LINQ or Language Integrated Query. Querying data is a common solution to a lot of problems in business, but within itself we get a lot of different issues. What’s the best way to query data? SQL is by far the weapon of choice for most developers. It’s simple to pickup and is performant as long as your DBA has some sense of professionalism.",
-    "Confidence": 0.99934256
-  },
-  {
-    "Title": "My Claude Code Setup | Justin D Fuller",
-    "Url": "https://www.justindfuller.com/programming/my-claude-code-setup",
-    "Timestamp": "2025-10-10T00:02:54",
-    "Domain": "www.justindfuller.com",
-    "Description": "My Claude Code Setup | Justin D Fuller",
-    "Confidence": 0.99863416
-  },
-  {
-    "Title": "ESP32 and Termux",
-    "Url": "https://blog.gavide.dev/blog/esp32-and-termux",
-    "Timestamp": "2025-10-10T00:02:49",
-    "Domain": "blog.gavide.dev",
-    "Description": "Documenting my journey in trying to use my ESP32 on my phone through Termux",
-    "Confidence": 0.9973879
-  },
-  {
-    "Title": "Understanding OpenAI's new Apps announcement",
-    "Url": "https://adamjuras.com/posts/should-i-build-chatgpt-apps",
-    "Timestamp": "2025-10-10T00:02:46",
-    "Domain": "adamjuras.com",
-    "Description": "Why ChatGPT Apps are not what you think they are",
-    "Confidence": 0.9809223
-  },
-  {
-    "Title": "Compound: Everything Does",
-    "Url": "https://www.ssp.sh/brain/compounding/",
-    "Timestamp": "2025-10-10T00:02:40",
-    "Domain": "www.ssp.sh",
-    "Description": "Compounding is something so substantial. You can do it with notes ([[Compounding Note-Taking]]), money, and in life ([[Principles]]). It is slow, but it’s the right way to grow.",
-    "Confidence": 0.96064234
-  },
-  {
-    "Title": "Why I switched from HTMX to Datastar",
-    "Url": "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/",
-    "Timestamp": "2025-10-10T00:02:34",
-    "Domain": "everydaysuperpowers.dev",
-    "Description": "",
-    "Confidence": 0.97493523
-  },
-  {
-    "Title": "Why Nix Will Win (and What's Stopping It): A 3-Year Production Story",
-    "Url": "https://ryanrasti.com/blog/why-nix-will-win/",
-    "Timestamp": "2025-10-10T00:02:30",
-    "Domain": "ryanrasti.com",
-    "Description": "Nix is poised to win the future of cloud infrastructure, but critical obstacles remain. A 3-year production story on the promise, the pain, and the concrete path forward for Nix.",
-    "Confidence": 0.99457777
-  },
-  {
-    "Title": "Interval Calculator",
-    "Url": "https://victorpoughon.github.io/interval-calculator/",
-    "Timestamp": "2025-10-10T00:02:26",
-    "Domain": "victorpoughon.github.io",
-    "Description": "This is a calculator that works over unions of\n          intervals rather than just real numbers. It is an\n          implementation of Interval\n          Union Arithmetic.",
-    "Confidence": 0.98471135
   }
 ]
