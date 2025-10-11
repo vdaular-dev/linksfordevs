@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Microsoft's OneDrive Begins Testing Face-Recognizing AI for Photos (for Some Preview Users) - Slashdot",
+    "Url": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
+    "Timestamp": "2025-10-11T23:02:01",
+    "Domain": "hardware.slashdot.org",
+    "Description": "I uploaded a photo on my phone to Microsoft's \"OneDrive\" file-hosting app &mdash; and there was a surprise waiting under Privacy and Permissions.  \"OneDrive uses AI to recognize faces in your photos...\" \nAnd...  \n\"You can only turn off this setting 3 times a year.\" \n\n \n\nIf I moved the slidebar for t...",
+    "Confidence": 0.6814261
+  },
+  {
     "Title": "AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025 - VideoCardz.com",
     "Url": "https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025",
     "Timestamp": "2025-10-11T22:02:16",
@@ -118,101 +126,5 @@
     "Domain": "www.hamza.se",
     "Description": "A walkthrough of implementing a neural network from scratch in Python, exploring what makes these seemingly complex systems actually quite straightforward.",
     "Confidence": 0.9949973
-  },
-  {
-    "Title": "Rejecting an xAI Interview",
-    "Url": "https://andys.blog/xai/",
-    "Timestamp": "2025-10-10T23:03:02",
-    "Domain": "andys.blog",
-    "Description": "As you may have noticed, like everyone else in SF, I've been pondering AI. There will probably be at least 10 more years of world-changing developments ahead of us. Like with the internet, things may take decades to unfold. It's still early days.\n\nthe internet reduced the cost of information",
-    "Confidence": 0.88472646
-  },
-  {
-    "Title": "Why Did I Write a Novel about IT and Software Engineering? - Surviving Software",
-    "Url": "https://richardwbown.com/why-did-i-write-a-novel-about-it-and-software-engineering/",
-    "Timestamp": "2025-10-10T23:02:58",
-    "Domain": "richardwbown.com",
-    "Description": "Acknowledging the influences that led me to write \"Human Software\" and the professional journey that has got me to this point.",
-    "Confidence": 0.965446
-  },
-  {
-    "Title": "OpenAI's inflated valuation, as I understand it",
-    "Url": "https://taloranderson.com/blog/ai-valuation",
-    "Timestamp": "2025-10-10T23:02:55",
-    "Domain": "taloranderson.com",
-    "Description": "Blog post: OpenAI's inflated valuation, as I understand it",
-    "Confidence": 0.9884189
-  },
-  {
-    "Title": "Implementing ZADD If Key Exists",
-    "Url": "https://rozumem.xyz/posts/7",
-    "Timestamp": "2025-10-10T23:02:51",
-    "Domain": "rozumem.xyz",
-    "Description": "I recently had to make some performance optimizations. These are my favorite kind of coding task as they usually require some sort of creativity and tradeoff. This time around I also learned more about Redis and practiced using AI to generate code.",
-    "Confidence": 0.98379135
-  },
-  {
-    "Title": "How I watch YouTube videos on my phone without getting distracted",
-    "Url": "https://maxwrenna.com/how-i-watch-youtube-videos-on-my-phone-without-getting-distracted/",
-    "Timestamp": "2025-10-10T23:02:47",
-    "Domain": "maxwrenna.com",
-    "Description": "Adding friction, retaining an outlet",
-    "Confidence": 0.85379505
-  },
-  {
-    "Title": "Why Your Company Needs a Chief Failure Officer",
-    "Url": "https://brianchristner.io/why-your-company-needs-a-chief-failure-officer/",
-    "Timestamp": "2025-10-10T23:02:44",
-    "Domain": "brianchristner.io",
-    "Description": "Build a culture of innovation by embracing fast, frequent failure. Discover why every company should have a Chief Fail Officer to drive learning and growth.",
-    "Confidence": 0.96233153
-  },
-  {
-    "Title": "(re)Introducing the Pebble Appstore",
-    "Url": "https://ericmigi.com/blog/re-introducing-the-pebble-appstore/",
-    "Timestamp": "2025-10-10T23:02:40",
-    "Domain": "ericmigi.com",
-    "Description": "(re)Introducing the Pebble Appstore",
-    "Confidence": 0.97805
-  },
-  {
-    "Title": "Rescue me always",
-    "Url": "https://hritik.sh/posts/rescue-me/",
-    "Timestamp": "2025-10-10T23:02:36",
-    "Domain": "hritik.sh",
-    "Description": "My latest arch update broke system boot and plugging in a pen drive is too much work, so I installed grml on my local hard disk partition. Post also explores how live boot works.",
-    "Confidence": 0.9959015
-  },
-  {
-    "Title": "Accidentally Made a Zig dotenv Parser",
-    "Url": "https://dayvster.com/blog/accidentally-made-a-zig-dotenv-parser/",
-    "Timestamp": "2025-10-10T23:02:33",
-    "Domain": "dayvster.com",
-    "Description": "How I ended up creating a dotenv parser while working on a CLI argument parser",
-    "Confidence": 0.9905339
-  },
-  {
-    "Title": "The relentless rule of my fitness tracker",
-    "Url": "https://timharford.com/2025/10/the-relentless-rule-of-my-fitness-tracker/",
-    "Timestamp": "2025-10-10T23:02:29",
-    "Domain": "timharford.com",
-    "Description": "At a time when we’re all blaming digital devices for ruining our attention spans, our children’s mental health and even the future of democracy itself, let’s give credit where it’s due: my cheap fi…",
-    "Confidence": 0.50866514
-  },
-  {
-    "Title": "The Get Your Shit Together Day",
-    "Url": "https://frantic.im/get-your-shit-together-day/",
-    "Timestamp": "2025-10-10T23:02:24",
-    "Domain": "frantic.im",
-    "Description": "Everyone needs a Get Your Shit Together day every once in a while...",
-    "Confidence": 0.89019907
-  },
-  {
-    "Title": "When Will Quantum Computing Work?",
-    "Url": "https://tommccarthy.net/when-quantum.html",
-    "Timestamp": "2025-10-10T23:02:13",
-    "Domain": "tommccarthy.net",
-    "Description": "Quantum computers will create good businesses beyond 2030, maybe 2040, but not before then. Many R&D breakthroughs are required to build useful machines.",
-    "Confidence": 0.97711873
   }
 ]
