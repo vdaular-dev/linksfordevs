@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>HTML’s Best Kept Secret: The output Tag</title>
+      <link>https://denodell.com/blog/html-best-kept-secret-output-tag</link>
+      <description>Make your dynamic content accessible by default with the HTML tag that time forgot.</description>
+      <author> (Den Odell)</author>
+      <category>html</category>
+      <category>javascript</category>
+      <guid>https://denodell.com/blog/html-best-kept-secret-output-tag</guid>
+      <pubDate>Sat, 11 Oct 2025 13:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Code comments should apply to the state of the system at the point the comment "executes" - The Old New Thing</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655</link>
       <description>Putting them in the flow.</description>
