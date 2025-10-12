@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Firefox is the best mobile browser</title>
+      <link>https://kelvinjps.com/blog/firefox-best-mobile-browser/</link>
+      <description>Firefox is an open source, private browser, one of the few mainstream browsers that supports extensions on mobile (Android) as powerful as the desktop ones (A lot of extensions have been ported), with seamless sync and a customizable homepage.</description>
+      <category>amazon</category>
+      <category>audio</category>
+      <category>ai</category>
+      <guid>https://kelvinjps.com/blog/firefox-best-mobile-browser/</guid>
+      <pubDate>Sun, 12 Oct 2025 06:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Bun v1.3 is here</title>
       <link>https://youtube.com/watch?v=tk7qTNW5g0c</link>
       <description>Bun v1.3 adds builtin Redis &amp; MySQL clients, Node.js compatibility improvements and an incredibly fast frontend dev server. Learn more at https://bun.com/1.3</description>
@@ -202,24 +212,6 @@ If I moved the slidebar for t...</description>
       <category>javascript</category>
       <guid>https://denodell.com/blog/html-best-kept-secret-output-tag</guid>
       <pubDate>Sat, 11 Oct 2025 13:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code comments should apply to the state of the system at the point the comment "executes" - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655</link>
-      <description>Putting them in the flow.</description>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655</guid>
-      <pubDate>Sat, 11 Oct 2025 06:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Album Cards: Rebuilding the Joy of Music Discovery for My 10-Year-Old</title>
-      <link>https://fulghum.io/album-cards</link>
-      <description>What's the modern equivalent of flipping through CDs? Physical album cards with NFC tags that bring back the tactile joy of music discovery.</description>
-      <author> (Jordan Fulghum)</author>
-      <category>audio</category>
-      <category>ai</category>
-      <category>amazon</category>
-      <guid>https://fulghum.io/album-cards</guid>
-      <pubDate>Sat, 11 Oct 2025 06:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
