@@ -1,5 +1,109 @@
 [
   {
+    "Title": "Fabian Lindfors",
+    "Url": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
+    "Timestamp": "2025-10-12T00:03:11",
+    "Domain": "fabianlindfors.se",
+    "Description": "MSc Computer science student\n",
+    "Confidence": 0.9766944
+  },
+  {
+    "Title": "Superpowers: How I'm using coding agents in October 2025",
+    "Url": "https://blog.fsck.com/2025/10/09/superpowers/",
+    "Timestamp": "2025-10-12T00:03:08",
+    "Domain": "blog.fsck.com",
+    "Description": "I used to write more",
+    "Confidence": 0.99147856
+  },
+  {
+    "Title": "Blog Post",
+    "Url": "https://amelieheinrich.com/post.html?id=rhi",
+    "Timestamp": "2025-10-12T00:03:04",
+    "Domain": "amelieheinrich.com",
+    "Description": "As games become more and more complex and the unified graphics API problem remains unsolved, one of the main problematics when making games and engines is how you handle multi-platform graphics API code. Over the years, we have seen a few APIs enter the scene trying to rule them all, but it seems like in the year 2025, this problem is still present.\nBefore we had the modern graphics APIs of today, we had OpenGL - a unified API, a global state, it worked everywhere and was very easy to use. However, as the years passed, and as the hardware evolved, more graphics APIs came into play. We had Direct3D, whose 11th iteration is still popular to this day in some engines, and almost 10 years ago, the arrival of Vulkan, D3D12 and Metal. Slowly but surely, OpenGL also started to fade away in the professional game engine space as it had too much driver overhead and was messier to use than newer APIs, that also exposed more features (raytracing especially).",
+    "Confidence": 0.9971879
+  },
+  {
+    "Title": "The story of X-Copy on the Amiga - Spillhistorie.no",
+    "Url": "https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/",
+    "Timestamp": "2025-10-12T00:02:58",
+    "Domain": "spillhistorie.no",
+    "Description": "The most popular Amiga program ever? We had a chat with Christian Bartsch who worked at X-Copy publisher Cachet.",
+    "Confidence": 0.8785306
+  },
+  {
+    "Title": "Cinestar",
+    "Url": "https://ikouchiha47.github.io/2025/10/02/media-search.html",
+    "Timestamp": "2025-10-12T00:02:51",
+    "Domain": "ikouchiha47.github.io",
+    "Description": "Index images, videos. Search in natural lanuage, for images and relevant segments in videos",
+    "Confidence": 0.99063075
+  },
+  {
+    "Title": "Software Architecture Horror Story",
+    "Url": "https://blog.mihaisafta.com/posts/architecture-horror-story-1/",
+    "Timestamp": "2025-10-12T00:02:48",
+    "Domain": "blog.mihaisafta.com",
+    "Description": "This is a tale of software architecture decision-making in large companies.\nThe setup As part of my job as a software architect, I had to design a solution which involved the integration between 2 systems: let’s call them A and B. They were part of a new instant payment processing flow that was beeing developed. System B had a legacy integration mechanism that was no longer supported at the architectural level.",
+    "Confidence": 0.9754873
+  },
+  {
+    "Title": "The wild vibe | jarv.org",
+    "Url": "https://jarv.org/posts/wild-vibe/",
+    "Timestamp": "2025-10-12T00:02:44",
+    "Domain": "jarv.org",
+    "Description": "It’s wild that these days you can vibe code an entire app in the same time it would previously take to contribute a single feature. Take the RSS reader I use regularly, Newsboat. It always had a few stability issues and was only about 80% there as far as the features I wanted in a terminal-based reader. There were other alternatives that came along, but nothing matched what I was used to layout-wise.",
+    "Confidence": 0.96785766
+  },
+  {
+    "Title": "Strategic Pagination Patterns for .NET APIs - Roxeem",
+    "Url": "https://roxeem.com/2025/10/11/strategic-pagination-patterns-for-net-apis/",
+    "Timestamp": "2025-10-12T00:02:40",
+    "Domain": "roxeem.com",
+    "Description": "Master offset, cursor, keyset, paged, time-based, and hybrid pagination patterns in .NET APIs to balance performance, consistency, and client experience.",
+    "Confidence": 0.9984127
+  },
+  {
+    "Title": "Should the Sett Thermostat switch to an e-ink screen?",
+    "Url": "https://sett.homes/blogs/updates/should-the-sett-thermostat-switch-to-an-e-ink-screen",
+    "Timestamp": "2025-10-12T00:02:37",
+    "Domain": "sett.homes",
+    "Description": "A reader asked whether the Sett thermostat could switch to an e‑ink display. This post collects the display options and considers how e-ink compares to the existing color TFT LCD.We'll look at the e-ink modules I evaluated, including considerations of e‑ink modules that could physically fit the enclosure, and how the s",
+    "Confidence": 0.96884537
+  },
+  {
+    "Title": "No, Sysco Is Not “Ruining Restaurants”",
+    "Url": "https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/",
+    "Timestamp": "2025-10-12T00:02:33",
+    "Domain": "liamrosen.com",
+    "Description": "There’s a meme going around that Sysco is “ruining restaurants”, and it’s spreading fast, probably because it feeds way too easily into recurring consumer fears concerning food quality, corporations, and homogenization. The problem is that the meme, like most punchy viral outrage, collapses under basic scrutiny. While there has been some underground Sysco-critical buzz for […]",
+    "Confidence": 0.66169477
+  },
+  {
+    "Title": "Alarms are evil",
+    "Url": "https://ente.io/blog/alarms/",
+    "Timestamp": "2025-10-12T00:02:26",
+    "Domain": "ente.io",
+    "Description": "Alarms were only meant to be used as backup",
+    "Confidence": 0.87670857
+  },
+  {
+    "Title": "So what now?",
+    "Url": "https://micro.mu/blog/2025/10/11/so-what-now.html",
+    "Timestamp": "2025-10-12T00:02:22",
+    "Domain": "micro.mu",
+    "Description": "Previously I wrote about Big Tech and how they’ve turned us all into addicts. So how do you detox as a tech addict?",
+    "Confidence": 0.9737958
+  },
+  {
+    "Title": "The Data Center Bubble | Aaron Brethorst",
+    "Url": "https://www.brethorsting.com/blog/2025/10/the-data-center-bubble/",
+    "Timestamp": "2025-10-12T00:02:19",
+    "Domain": "www.brethorsting.com",
+    "Description": "Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.",
+    "Confidence": 0.8586723
+  },
+  {
     "Title": "Microsoft's OneDrive Begins Testing Face-Recognizing AI for Photos (for Some Preview Users) - Slashdot",
     "Url": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
     "Timestamp": "2025-10-11T23:02:01",
@@ -78,53 +182,5 @@
     "Domain": "blog.boot.dev",
     "Description": "When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:",
     "Confidence": 0.9333022
-  },
-  {
-    "Title": "Notes on switching to Helix from vim",
-    "Url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
-    "Timestamp": "2025-10-11T00:02:09",
-    "Domain": "jvns.ca",
-    "Description": "Notes on switching to Helix from vim",
-    "Confidence": 0.9726364
-  },
-  {
-    "Title": "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
-    "Url": "https://www.nngroup.com/articles/liquid-glass/",
-    "Timestamp": "2025-10-11T00:02:05",
-    "Domain": "www.nngroup.com",
-    "Description": "iOS 26’s visual language obscures content instead of letting it take the spotlight. New (but not always better) design patterns replace established conventions.",
-    "Confidence": 0.94138753
-  },
-  {
-    "Title": "Day 1 ‚ The Problem",
-    "Url": "https://supremefounder.com/day-1-the-problem.html",
-    "Timestamp": "2025-10-10T23:03:18",
-    "Domain": "supremefounder.com",
-    "Description": "Day 1 ‚ The Problem - Supreme Founder",
-    "Confidence": 0.8648002
-  },
-  {
-    "Title": "LLMs Are Transpilers | alloc.dev",
-    "Url": "https://alloc.dev/2025/10/10/llms_are_transpilers",
-    "Timestamp": "2025-10-10T23:03:12",
-    "Domain": "alloc.dev",
-    "Description": "Using LLMs in programming",
-    "Confidence": 0.9892248
-  },
-  {
-    "Title": "Wtf is the Synergic Mode? • Malcolm Ocean",
-    "Url": "https://malcolmocean.com/2025/10/wtf-is-the-synergic-mode/",
-    "Timestamp": "2025-10-10T23:03:09",
-    "Domain": "malcolmocean.com",
-    "Description": "[Written August 2022. Published now because editing is hard and sometimes calling it how you see it is too scary to share with everybody at first.] Framing on this write-up: “guys I’m really confused, this weird thing keeps happening and it seems really good so I try to make it happen more but like WHAT …",
-    "Confidence": 0.94380856
-  },
-  {
-    "Title": "Neural Networks: Simpler Than You Think | Hamza's Blog",
-    "Url": "https://www.hamza.se/blog/neural-networks",
-    "Timestamp": "2025-10-10T23:03:05",
-    "Domain": "www.hamza.se",
-    "Description": "A walkthrough of implementing a neural network from scratch in Python, exploring what makes these seemingly complex systems actually quite straightforward.",
-    "Confidence": 0.9949973
   }
 ]

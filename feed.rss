@@ -7,6 +7,128 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fabian Lindfors</title>
+      <link>https://fabianlindfors.se/blog/nextjs-vibe-engineering/</link>
+      <description>MSc Computer science student
+</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://fabianlindfors.se/blog/nextjs-vibe-engineering/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Superpowers: How I'm using coding agents in October 2025</title>
+      <link>https://blog.fsck.com/2025/10/09/superpowers/</link>
+      <description>I used to write more</description>
+      <category>git</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <guid>https://blog.fsck.com/2025/10/09/superpowers/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blog Post</title>
+      <link>https://amelieheinrich.com/post.html?id=rhi</link>
+      <description>As games become more and more complex and the unified graphics API problem remains unsolved, one of the main problematics when making games and engines is how you handle multi-platform graphics API code. Over the years, we have seen a few APIs enter the scene trying to rule them all, but it seems like in the year 2025, this problem is still present.
+Before we had the modern graphics APIs of today, we had OpenGL - a unified API, a global state, it worked everywhere and was very easy to use. However, as the years passed, and as the hardware evolved, more graphics APIs came into play. We had Direct3D, whose 11th iteration is still popular to this day in some engines, and almost 10 years ago, the arrival of Vulkan, D3D12 and Metal. Slowly but surely, OpenGL also started to fade away in the professional game engine space as it had too much driver overhead and was messier to use than newer APIs, that also exposed more features (raytracing especially).</description>
+      <category>cloud</category>
+      <category>hardware</category>
+      <category>compilers</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://amelieheinrich.com/post.html?id=rhi</guid>
+      <pubDate>Sun, 12 Oct 2025 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The story of X-Copy on the Amiga - Spillhistorie.no</title>
+      <link>https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/</link>
+      <description>The most popular Amiga program ever? We had a chat with Christian Bartsch who worked at X-Copy publisher Cachet.</description>
+      <category>gaming</category>
+      <category>hardware</category>
+      <guid>https://spillhistorie.no/2025/10/10/the-story-of-x-copy-on-the-amiga/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cinestar</title>
+      <link>https://ikouchiha47.github.io/2025/10/02/media-search.html</link>
+      <description>Index images, videos. Search in natural lanuage, for images and relevant segments in videos</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>audio</category>
+      <guid>https://ikouchiha47.github.io/2025/10/02/media-search.html</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Architecture Horror Story</title>
+      <link>https://blog.mihaisafta.com/posts/architecture-horror-story-1/</link>
+      <description>This is a tale of software architecture decision-making in large companies.
+The setup As part of my job as a software architect, I had to design a solution which involved the integration between 2 systems: let’s call them A and B. They were part of a new instant payment processing flow that was beeing developed. System B had a legacy integration mechanism that was no longer supported at the architectural level.</description>
+      <category>javascript</category>
+      <guid>https://blog.mihaisafta.com/posts/architecture-horror-story-1/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The wild vibe | jarv.org</title>
+      <link>https://jarv.org/posts/wild-vibe/</link>
+      <description>It’s wild that these days you can vibe code an entire app in the same time it would previously take to contribute a single feature. Take the RSS reader I use regularly, Newsboat. It always had a few stability issues and was only about 80% there as far as the features I wanted in a terminal-based reader. There were other alternatives that came along, but nothing matched what I was used to layout-wise.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://jarv.org/posts/wild-vibe/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strategic Pagination Patterns for .NET APIs - Roxeem</title>
+      <link>https://roxeem.com/2025/10/11/strategic-pagination-patterns-for-net-apis/</link>
+      <description>Master offset, cursor, keyset, paged, time-based, and hybrid pagination patterns in .NET APIs to balance performance, consistency, and client experience.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>math</category>
+      <guid>https://roxeem.com/2025/10/11/strategic-pagination-patterns-for-net-apis/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should the Sett Thermostat switch to an e-ink screen?</title>
+      <link>https://sett.homes/blogs/updates/should-the-sett-thermostat-switch-to-an-e-ink-screen</link>
+      <description>A reader asked whether the Sett thermostat could switch to an e‑ink display. This post collects the display options and considers how e-ink compares to the existing color TFT LCD.We'll look at the e-ink modules I evaluated, including considerations of e‑ink modules that could physically fit the enclosure, and how the s</description>
+      <category>gaming</category>
+      <guid>https://sett.homes/blogs/updates/should-the-sett-thermostat-switch-to-an-e-ink-screen</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>No, Sysco Is Not “Ruining Restaurants”</title>
+      <link>https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/</link>
+      <description>There’s a meme going around that Sysco is “ruining restaurants”, and it’s spreading fast, probably because it feeds way too easily into recurring consumer fears concerning food quality, corporations, and homogenization. The problem is that the meme, like most punchy viral outrage, collapses under basic scrutiny. While there has been some underground Sysco-critical buzz for […]</description>
+      <guid>https://liamrosen.com/2025/10/10/no-sysco-is-not-ruining-restaurants/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alarms are evil</title>
+      <link>https://ente.io/blog/alarms/</link>
+      <description>Alarms were only meant to be used as backup</description>
+      <guid>https://ente.io/blog/alarms/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>So what now?</title>
+      <link>https://micro.mu/blog/2025/10/11/so-what-now.html</link>
+      <description>Previously I wrote about Big Tech and how they’ve turned us all into addicts. So how do you detox as a tech addict?</description>
+      <category>gaming</category>
+      <guid>https://micro.mu/blog/2025/10/11/so-what-now.html</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Data Center Bubble | Aaron Brethorst</title>
+      <link>https://www.brethorsting.com/blog/2025/10/the-data-center-bubble/</link>
+      <description>Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.</description>
+      <category>ai</category>
+      <category>hardware</category>
+      <guid>https://www.brethorsting.com/blog/2025/10/the-data-center-bubble/</guid>
+      <pubDate>Sun, 12 Oct 2025 00:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft's OneDrive Begins Testing Face-Recognizing AI for Photos (for Some Preview Users) - Slashdot</title>
       <link>https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users</link>
       <description>I uploaded a photo on my phone to Microsoft's "OneDrive" file-hosting app &amp;mdash; and there was a surprise waiting under Privacy and Permissions.  "OneDrive uses AI to recognize faces in your photos..." 
@@ -109,25 +231,6 @@ If I moved the slidebar for t...</description>
       <category>marketing</category>
       <guid>https://blog.boot.dev/education/vibe-code-hell/</guid>
       <pubDate>Sat, 11 Oct 2025 02:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notes on switching to Helix from vim</title>
-      <link>https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/</link>
-      <description>Notes on switching to Helix from vim</description>
-      <category>regex</category>
-      <category>python</category>
-      <guid>https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/</guid>
-      <pubDate>Sat, 11 Oct 2025 00:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liquid Glass Is Cracked, and Usability Suffers in iOS 26</title>
-      <link>https://www.nngroup.com/articles/liquid-glass/</link>
-      <description>iOS 26’s visual language obscures content instead of letting it take the spotlight. New (but not always better) design patterns replace established conventions.</description>
-      <category>apple</category>
-      <category>audio</category>
-      <category>health</category>
-      <guid>https://www.nngroup.com/articles/liquid-glass/</guid>
-      <pubDate>Sat, 11 Oct 2025 00:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
