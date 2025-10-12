@@ -7,6 +7,63 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Coding Adventure: Simulating Smoke</title>
+      <link>https://youtube.com/watch?v=Q78wvrQ9xsU</link>
+      <description>My attempt at coding a grid-based fluid simulation to try and achieve some smoky effects!
+
+Support my work (and get early access to new videos and source code) on Patreon or Nebula
+* Patreon: https://www.patreon.com/SebastianLague
+* Nebula: https://go.nebula.tv/sebastianlague
+
+Source Code:
+Currently in early access (see links above), but will be available to everyone on 11 November.
+
+Check out my other fluid simulation videos:
+https://youtube.com/playlist?list=PLFt_AvWsXl0dJrPelwdVSMVC_MDTYPJWn&amp;si=Z5cOCDSI1aS4fe_C
+
+Credits:
+Fluid notes: https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf
+Music: https://raw.githubusercontent.com/SebLague/Misc-Project-Info/refs/heads/main/Coding-Adventures/Smoke
+
+Chapters
+00:00 Intro
+00:50 Navier-Stokes Equations
+02:00 Divergence
+05:09 Solving for Pressure
+08:26 Gauss-Seidel Iteration
+10:36 Solid Cells
+12:26 Velocity Interpolation
+15:15 Advection (with derivatives)
+18:37 Semi-Lagrangian Advection
+22:12 Testing
+23:43 Successive Over-Relaxation
+25:16 Visualizing Speed
+26:32 Smoke Map
+28:14 Parallel Pressure Solving
+31:13 Vortex Shedding
+35:48 A Few Little Experiments
+37:55 Temperature
+39:17 Final Smoke Experiments
+40:38 Outro</description>
+      <author> (Sebastian Lague)</author>
+      <category>audio</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=Q78wvrQ9xsU</guid>
+      <pubDate>Sun, 12 Oct 2025 23:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - chili-chips-ba/wireguard-fpga: Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!</title>
+      <link>https://github.com/chili-chips-ba/wireguard-fpga</link>
+      <description>Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our d...</description>
+      <category>encryption</category>
+      <category>hardware</category>
+      <category>apple</category>
+      <category>nodejs</category>
+      <category>cryptography</category>
+      <guid>https://github.com/chili-chips-ba/wireguard-fpga</guid>
+      <pubDate>Sun, 12 Oct 2025 23:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Pureooze - Memory Bank: Labels In HTML</title>
       <link>https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/</link>
       <description>What is the right way to label something in HTML?
@@ -336,21 +393,6 @@ The setup As part of my job as a software architect, I had to design a solution 
       <category>hardware</category>
       <guid>https://www.brethorsting.com/blog/2025/10/the-data-center-bubble/</guid>
       <pubDate>Sun, 12 Oct 2025 00:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's OneDrive Begins Testing Face-Recognizing AI for Photos (for Some Preview Users) - Slashdot</title>
-      <link>https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users</link>
-      <description>I uploaded a photo on my phone to Microsoft's "OneDrive" file-hosting app &amp;mdash; and there was a surprise waiting under Privacy and Permissions.  "OneDrive uses AI to recognize faces in your photos..." 
-And...  
-"You can only turn off this setting 3 times a year." 
-
- 
-
-If I moved the slidebar for t...</description>
-      <category>ai</category>
-      <category>hardware</category>
-      <guid>https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users</guid>
-      <pubDate>Sat, 11 Oct 2025 23:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

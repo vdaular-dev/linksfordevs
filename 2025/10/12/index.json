@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Coding Adventure: Simulating Smoke",
+    "Url": "https://youtube.com/watch?v=Q78wvrQ9xsU",
+    "Timestamp": "2025-10-12T23:02:06",
+    "Domain": "youtube.com",
+    "Description": "My attempt at coding a grid-based fluid simulation to try and achieve some smoky effects!\n\nSupport my work (and get early access to new videos and source code) on Patreon or Nebula\n* Patreon: https://www.patreon.com/SebastianLague\n* Nebula: https://go.nebula.tv/sebastianlague\n\nSource Code:\nCurrently in early access (see links above), but will be available to everyone on 11 November.\n\nCheck out my other fluid simulation videos:\nhttps://youtube.com/playlist?list=PLFt_AvWsXl0dJrPelwdVSMVC_MDTYPJWn&si=Z5cOCDSI1aS4fe_C\n\nCredits:\nFluid notes: https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf\nMusic: https://raw.githubusercontent.com/SebLague/Misc-Project-Info/refs/heads/main/Coding-Adventures/Smoke\n\nChapters\n00:00 Intro\n00:50 Navier-Stokes Equations\n02:00 Divergence\n05:09 Solving for Pressure\n08:26 Gauss-Seidel Iteration\n10:36 Solid Cells\n12:26 Velocity Interpolation\n15:15 Advection (with derivatives)\n18:37 Semi-Lagrangian Advection\n22:12 Testing\n23:43 Successive Over-Relaxation\n25:16 Visualizing Speed\n26:32 Smoke Map\n28:14 Parallel Pressure Solving\n31:13 Vortex Shedding\n35:48 A Few Little Experiments\n37:55 Temperature\n39:17 Final Smoke Experiments\n40:38 Outro"
+  },
+  {
+    "Title": "GitHub - chili-chips-ba/wireguard-fpga: Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
+    "Url": "https://github.com/chili-chips-ba/wireguard-fpga",
+    "Timestamp": "2025-10-12T23:02:04",
+    "Domain": "github.com",
+    "Description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our d..."
+  },
+  {
     "Title": "Pureooze - Memory Bank: Labels In HTML",
     "Url": "https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/",
     "Timestamp": "2025-10-12T22:02:54",
