@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Bun v1.3 is here",
+    "Url": "https://youtube.com/watch?v=tk7qTNW5g0c",
+    "Timestamp": "2025-10-12T02:01:58",
+    "Domain": "youtube.com",
+    "Description": "Bun v1.3 adds builtin Redis & MySQL clients, Node.js compatibility improvements and an incredibly fast frontend dev server. Learn more at https://bun.com/1.3",
+    "Confidence": 0.9968308
+  },
+  {
     "Title": "Fabian Lindfors",
     "Url": "https://fabianlindfors.se/blog/nextjs-vibe-engineering/",
     "Timestamp": "2025-10-12T00:03:11",
@@ -174,13 +182,5 @@
     "Domain": "www.trevornestor.com",
     "Description": "In previous blog posts I described a recent state investigation (from the state of Washington, though the representative told me that it would be forwarded to the proper federal channels as well) I triggered into Microsoft (yes, not just a complaint - an intake for the actual investigation) for wrongful terminations, ADA noncompliance, and whistleblower retaliation, and while I received overwhelmingly positive reception on both Reddit and LinkedIn for the story, racking up hundreds of thousands ",
     "Confidence": 0.81999266
-  },
-  {
-    "Title": "I'm in Vibe Code Hell",
-    "Url": "https://blog.boot.dev/education/vibe-code-hell/",
-    "Timestamp": "2025-10-11T02:02:01",
-    "Domain": "blog.boot.dev",
-    "Description": "When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:",
-    "Confidence": 0.9333022
   }
 ]

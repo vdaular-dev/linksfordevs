@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bun v1.3 is here</title>
+      <link>https://youtube.com/watch?v=tk7qTNW5g0c</link>
+      <description>Bun v1.3 adds builtin Redis &amp; MySQL clients, Node.js compatibility improvements and an incredibly fast frontend dev server. Learn more at https://bun.com/1.3</description>
+      <author> (Bun)</author>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=tk7qTNW5g0c</guid>
+      <pubDate>Sun, 12 Oct 2025 02:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Fabian Lindfors</title>
       <link>https://fabianlindfors.se/blog/nextjs-vibe-engineering/</link>
       <description>MSc Computer science student
@@ -219,18 +231,6 @@ If I moved the slidebar for t...</description>
       <category>cryptography</category>
       <guid>https://www.trevornestor.com/post/update-on-my-case-against-microsoft</guid>
       <pubDate>Sat, 11 Oct 2025 04:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>I'm in Vibe Code Hell</title>
-      <link>https://blog.boot.dev/education/vibe-code-hell/</link>
-      <description>When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>gaming</category>
-      <category>youtube</category>
-      <category>marketing</category>
-      <guid>https://blog.boot.dev/education/vibe-code-hell/</guid>
-      <pubDate>Sat, 11 Oct 2025 02:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
