@@ -7,6 +7,121 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pureooze - Memory Bank: Labels In HTML</title>
+      <link>https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/</link>
+      <description>What is the right way to label something in HTML?
+
+This came up in something I was working on recently.  I always forget the best practices for labeling so I wanted to write this blog post to help me remember... and as a quick reference when I inevitably forget 😉.</description>
+      <category>html</category>
+      <guid>https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solving the wrong problem</title>
+      <link>https://www.ufried.com/blog/ai_assisted_coding/</link>
+      <description>The nagging feeling that something does not fit</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://www.ufried.com/blog/ai_assisted_coding/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Makes a Good Tool for Claude Code</title>
+      <link>https://lalitm.com/writing-tools-for-claude-code/</link>
+      <description>I’ve been using Claude Code extensively for personal projects, and similar AI coding tools at work. Recently I came across this excellent blog post that resonated with a lot of my experience.
+One part stuck with me though: Noah emphasizes that tools fail with LLMs when they’re “overly complex,” with the Unix philosophy being particularly well-suited for tool calling. But then I thought about git.
+Git breaks the Unix philosophy completely. It’s sprawling, stateful, and complex. And yet Claude Code handles it effortlessly. It composes commands that, even after 10+ years of daily git usage, I wouldn’t think to use. It handles rebasing, cherry-picking, complex resets—stuff that trips up experienced developers regularly.</description>
+      <category>git</category>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>compilers</category>
+      <category>containers</category>
+      <guid>https://lalitm.com/writing-tools-for-claude-code/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>so you want to be faster than an interpreter on modern CPUs… – Pinaraf's website</title>
+      <link>https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/</link>
+      <description>Hi</description>
+      <category>sql</category>
+      <category>compilers</category>
+      <guid>https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Django On The Med 2025 🏖️</title>
+      <link>https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/</link>
+      <description>A summary of my experience at Django On The Med 2025 told through the posts I published on Mastodon during the conference.</description>
+      <category>python</category>
+      <guid>https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Earning the Right to Be Illegible</title>
+      <link>https://www.joshbeckman.org/blog/practicing/earning-the-right-to-be-illegible</link>
+      <description>Seeing like a software company is the best writing about large-company software engineering I’ve read in quite a while.1
+
+In it, Goedecke maps the concepts of Seeing Like A State into a corporate atmosphere:
+
+
+  
+    Modern organizations exert c...</description>
+      <author> (https://www.joshbeckman.org/about/)</author>
+      <guid>https://www.joshbeckman.org/blog/practicing/earning-the-right-to-be-illegible</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Era of minimal writing</title>
+      <link>https://tchristos.com/posts/the-era-of-minimal-writing/</link>
+      <description>Write the core. Let AI handle the rest.</description>
+      <category>ai</category>
+      <guid>https://tchristos.com/posts/the-era-of-minimal-writing/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systems As Mirrors</title>
+      <link>https://iamstelios.com/blog/systems-as-mirrors/</link>
+      <description>Conway’s Law tells us systems reflect their makers. But what if they reveal more than structure — what if they surface what we didn’t define?</description>
+      <guid>https://iamstelios.com/blog/systems-as-mirrors/</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>just fucking use datastar</title>
+      <link>https://blog.legires.fr/2025/10/11/just_fucking_use_datastar.html</link>
+      <description>the plan was simple: use datastar build anything you fucking want</description>
+      <category>svelte</category>
+      <category>cloud</category>
+      <category>2ndbrain</category>
+      <category>angular</category>
+      <category>typescript</category>
+      <guid>https://blog.legires.fr/2025/10/11/just_fucking_use_datastar.html</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run your code anywhere</title>
+      <link>https://blog.anirudha.dev/wasmrun-os</link>
+      <description>The story of wasmrun OS Mode</description>
+      <author> (https://hashnode.com/@anirudha)</author>
+      <category>nodejs</category>
+      <category>webasm</category>
+      <category>containers</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://blog.anirudha.dev/wasmrun-os</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samuele Amato | The Future of Authenticity</title>
+      <link>https://samueleamato.xyz/2025/07/30/the-future-of-authenticity</link>
+      <description>A few days ago, I had been listening to a lofi playlist, one of those endless background mixes people use to study. In a few minutes, something felt off. Briefly, the track lost its point, the rhythm and the melody wandered in a way that felt forced, as though it was trying to follow a pattern but couldn’t commit to one.</description>
+      <category>audio</category>
+      <category>ai</category>
+      <guid>https://samueleamato.xyz/2025/07/30/the-future-of-authenticity</guid>
+      <pubDate>Sun, 12 Oct 2025 22:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Full Screen Pass Without Explicit Geometry</title>
       <link>https://www.4rknova.com//blog/2019/03/21/full-screen-pass-without-explicit-geometry</link>
       <description>A brief explanation on how to render a full screen pass efficiently in OpenGL and DirectX</description>
@@ -236,16 +351,6 @@ If I moved the slidebar for t...</description>
       <category>hardware</category>
       <guid>https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users</guid>
       <pubDate>Sat, 11 Oct 2025 23:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV2 video codec delivers 30% lower bitrate than AV1, final spec due in late 2025 - VideoCardz.com</title>
-      <link>https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025</link>
-      <description>Royalty-free AV2 video codec with 30% bitrate savings  We return to the AV2 news, the next open video codec from the Alliance for Open Media, which is nearing completion after five years of development. The specification is expected by the end of 2025, with all core tools finalized and high-level syntax work in progress. In […]</description>
-      <category>ai</category>
-      <category>math</category>
-      <category>hardware</category>
-      <guid>https://videocardz.com/newz/av2-video-codec-delivers-30-lower-bitrate-than-av1-final-spec-due-in-late-2025</guid>
-      <pubDate>Sat, 11 Oct 2025 22:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>

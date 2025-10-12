@@ -1,5 +1,82 @@
 [
   {
+    "Title": "Pureooze - Memory Bank: Labels In HTML",
+    "Url": "https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/",
+    "Timestamp": "2025-10-12T22:02:54",
+    "Domain": "pureooze.com",
+    "Description": "What is the right way to label something in HTML?\n\nThis came up in something I was working on recently.  I always forget the best practices for labeling so I wanted to write this blog post to help me remember... and as a quick reference when I inevitably forget 😉."
+  },
+  {
+    "Title": "Solving the wrong problem",
+    "Url": "https://www.ufried.com/blog/ai_assisted_coding/",
+    "Timestamp": "2025-10-12T22:02:50",
+    "Domain": "www.ufried.com",
+    "Description": "The nagging feeling that something does not fit"
+  },
+  {
+    "Title": "What Makes a Good Tool for Claude Code",
+    "Url": "https://lalitm.com/writing-tools-for-claude-code/",
+    "Timestamp": "2025-10-12T22:02:46",
+    "Domain": "lalitm.com",
+    "Description": "I’ve been using Claude Code extensively for personal projects, and similar AI coding tools at work. Recently I came across this excellent blog post that resonated with a lot of my experience.\nOne part stuck with me though: Noah emphasizes that tools fail with LLMs when they’re “overly complex,” with the Unix philosophy being particularly well-suited for tool calling. But then I thought about git.\nGit breaks the Unix philosophy completely. It’s sprawling, stateful, and complex. And yet Claude Code handles it effortlessly. It composes commands that, even after 10+ years of daily git usage, I wouldn’t think to use. It handles rebasing, cherry-picking, complex resets—stuff that trips up experienced developers regularly."
+  },
+  {
+    "Title": "so you want to be faster than an interpreter on modern CPUs… – Pinaraf's website",
+    "Url": "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/",
+    "Timestamp": "2025-10-12T22:02:43",
+    "Domain": "www.pinaraf.info",
+    "Description": "Hi"
+  },
+  {
+    "Title": "My Django On The Med 2025 🏖️",
+    "Url": "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/",
+    "Timestamp": "2025-10-12T22:02:37",
+    "Domain": "www.paulox.net",
+    "Description": "A summary of my experience at Django On The Med 2025 told through the posts I published on Mastodon during the conference."
+  },
+  {
+    "Title": "Earning the Right to Be Illegible",
+    "Url": "https://www.joshbeckman.org/blog/practicing/earning-the-right-to-be-illegible",
+    "Timestamp": "2025-10-12T22:02:32",
+    "Domain": "www.joshbeckman.org",
+    "Description": "Seeing like a software company is the best writing about large-company software engineering I’ve read in quite a while.1\n\nIn it, Goedecke maps the concepts of Seeing Like A State into a corporate atmosphere:\n\n\n  \n    Modern organizations exert c..."
+  },
+  {
+    "Title": "Era of minimal writing",
+    "Url": "https://tchristos.com/posts/the-era-of-minimal-writing/",
+    "Timestamp": "2025-10-12T22:02:29",
+    "Domain": "tchristos.com",
+    "Description": "Write the core. Let AI handle the rest."
+  },
+  {
+    "Title": "Systems As Mirrors",
+    "Url": "https://iamstelios.com/blog/systems-as-mirrors/",
+    "Timestamp": "2025-10-12T22:02:25",
+    "Domain": "iamstelios.com",
+    "Description": "Conway’s Law tells us systems reflect their makers. But what if they reveal more than structure — what if they surface what we didn’t define?"
+  },
+  {
+    "Title": "just fucking use datastar",
+    "Url": "https://blog.legires.fr/2025/10/11/just_fucking_use_datastar.html",
+    "Timestamp": "2025-10-12T22:02:20",
+    "Domain": "blog.legires.fr",
+    "Description": "the plan was simple: use datastar build anything you fucking want"
+  },
+  {
+    "Title": "Run your code anywhere",
+    "Url": "https://blog.anirudha.dev/wasmrun-os",
+    "Timestamp": "2025-10-12T22:02:16",
+    "Domain": "blog.anirudha.dev",
+    "Description": "The story of wasmrun OS Mode"
+  },
+  {
+    "Title": "Samuele Amato | The Future of Authenticity",
+    "Url": "https://samueleamato.xyz/2025/07/30/the-future-of-authenticity",
+    "Timestamp": "2025-10-12T22:02:12",
+    "Domain": "samueleamato.xyz",
+    "Description": "A few days ago, I had been listening to a lofi playlist, one of those endless background mixes people use to study. In a few minutes, something felt off. Briefly, the track lost its point, the rhythm and the melody wandered in a way that felt forced, as though it was trying to follow a pattern but couldn’t commit to one."
+  },
+  {
     "Title": "Full Screen Pass Without Explicit Geometry",
     "Url": "https://www.4rknova.com//blog/2019/03/21/full-screen-pass-without-explicit-geometry",
     "Timestamp": "2025-10-12T21:02:13",
