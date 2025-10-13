@@ -7,6 +7,35 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Steve Blank No Science, No Startups: The Innovation Engine We’re Switching Off</title>
+      <link>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</link>
+      <description>Tons of words have been written about the Trump Administrations war on Science in Universities. But few people have asked what, exactly, is science? How does it work? Who are the scientists? What d…</description>
+      <category>cloud</category>
+      <category>math</category>
+      <category>health</category>
+      <category>ai</category>
+      <guid>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</guid>
+      <pubDate>Mon, 13 Oct 2025 22:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why the Best Engineering Teams Don’t Play the Blame Game</title>
+      <link>https://thehustlingengineer.substack.com/p/how-to-build-a-blameless-culture?r=yznlc&amp;triedRedirect=true</link>
+      <description>I once deleted a production-like staging database in my very first job</description>
+      <category>gaming</category>
+      <category>sql</category>
+      <guid>https://thehustlingengineer.substack.com/p/how-to-build-a-blameless-culture?r=yznlc&amp;triedRedirect=true</guid>
+      <pubDate>Mon, 13 Oct 2025 22:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Field Guide to TSL and WebGPU - The Blog of Maxime Heckel</title>
+      <link>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</link>
+      <description>A comprehensive guide to building 3D web experiences with TSL and WebGPU, covering shader development, compute shader applications, and practical examples for particle systems and post-processing effects.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</guid>
+      <pubDate>Mon, 13 Oct 2025 22:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Android’s sideloading limits are its most anti-consumer move yet</title>
       <link>https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/</link>
       <description>Is Google's push for verified developers really about safety?</description>
@@ -179,121 +208,6 @@ Chapters
       <category>cryptography</category>
       <guid>https://github.com/chili-chips-ba/wireguard-fpga</guid>
       <pubDate>Sun, 12 Oct 2025 23:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pureooze - Memory Bank: Labels In HTML</title>
-      <link>https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/</link>
-      <description>What is the right way to label something in HTML?
-
-This came up in something I was working on recently.  I always forget the best practices for labeling so I wanted to write this blog post to help me remember... and as a quick reference when I inevitably forget 😉.</description>
-      <category>html</category>
-      <guid>https://pureooze.com/blog/posts/2025-10-07-memory-bank-labels-in-html/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solving the wrong problem</title>
-      <link>https://www.ufried.com/blog/ai_assisted_coding/</link>
-      <description>The nagging feeling that something does not fit</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>python</category>
-      <category>gaming</category>
-      <guid>https://www.ufried.com/blog/ai_assisted_coding/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Makes a Good Tool for Claude Code</title>
-      <link>https://lalitm.com/writing-tools-for-claude-code/</link>
-      <description>I’ve been using Claude Code extensively for personal projects, and similar AI coding tools at work. Recently I came across this excellent blog post that resonated with a lot of my experience.
-One part stuck with me though: Noah emphasizes that tools fail with LLMs when they’re “overly complex,” with the Unix philosophy being particularly well-suited for tool calling. But then I thought about git.
-Git breaks the Unix philosophy completely. It’s sprawling, stateful, and complex. And yet Claude Code handles it effortlessly. It composes commands that, even after 10+ years of daily git usage, I wouldn’t think to use. It handles rebasing, cherry-picking, complex resets—stuff that trips up experienced developers regularly.</description>
-      <category>git</category>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>compilers</category>
-      <category>containers</category>
-      <guid>https://lalitm.com/writing-tools-for-claude-code/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>so you want to be faster than an interpreter on modern CPUs… – Pinaraf's website</title>
-      <link>https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/</link>
-      <description>Hi</description>
-      <category>sql</category>
-      <category>compilers</category>
-      <guid>https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Django On The Med 2025 🏖️</title>
-      <link>https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/</link>
-      <description>A summary of my experience at Django On The Med 2025 told through the posts I published on Mastodon during the conference.</description>
-      <category>python</category>
-      <guid>https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Earning the Right to Be Illegible</title>
-      <link>https://www.joshbeckman.org/blog/practicing/earning-the-right-to-be-illegible</link>
-      <description>Seeing like a software company is the best writing about large-company software engineering I’ve read in quite a while.1
-
-In it, Goedecke maps the concepts of Seeing Like A State into a corporate atmosphere:
-
-
-  
-    Modern organizations exert c...</description>
-      <author> (https://www.joshbeckman.org/about/)</author>
-      <guid>https://www.joshbeckman.org/blog/practicing/earning-the-right-to-be-illegible</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Era of minimal writing</title>
-      <link>https://tchristos.com/posts/the-era-of-minimal-writing/</link>
-      <description>Write the core. Let AI handle the rest.</description>
-      <category>ai</category>
-      <guid>https://tchristos.com/posts/the-era-of-minimal-writing/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Systems As Mirrors</title>
-      <link>https://iamstelios.com/blog/systems-as-mirrors/</link>
-      <description>Conway’s Law tells us systems reflect their makers. But what if they reveal more than structure — what if they surface what we didn’t define?</description>
-      <guid>https://iamstelios.com/blog/systems-as-mirrors/</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>just fucking use datastar</title>
-      <link>https://blog.legires.fr/2025/10/11/just_fucking_use_datastar.html</link>
-      <description>the plan was simple: use datastar build anything you fucking want</description>
-      <category>svelte</category>
-      <category>cloud</category>
-      <category>2ndbrain</category>
-      <category>angular</category>
-      <category>typescript</category>
-      <guid>https://blog.legires.fr/2025/10/11/just_fucking_use_datastar.html</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Run your code anywhere</title>
-      <link>https://blog.anirudha.dev/wasmrun-os</link>
-      <description>The story of wasmrun OS Mode</description>
-      <author> (https://hashnode.com/@anirudha)</author>
-      <category>nodejs</category>
-      <category>webasm</category>
-      <category>containers</category>
-      <category>python</category>
-      <category>rust</category>
-      <guid>https://blog.anirudha.dev/wasmrun-os</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samuele Amato | The Future of Authenticity</title>
-      <link>https://samueleamato.xyz/2025/07/30/the-future-of-authenticity</link>
-      <description>A few days ago, I had been listening to a lofi playlist, one of those endless background mixes people use to study. In a few minutes, something felt off. Briefly, the track lost its point, the rhythm and the melody wandered in a way that felt forced, as though it was trying to follow a pattern but couldn’t commit to one.</description>
-      <category>audio</category>
-      <category>ai</category>
-      <guid>https://samueleamato.xyz/2025/07/30/the-future-of-authenticity</guid>
-      <pubDate>Sun, 12 Oct 2025 22:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
