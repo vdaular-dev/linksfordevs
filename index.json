@@ -1,5 +1,141 @@
 [
   {
+    "Title": "2025-09-26 — Why I Choose Email Over Messaging",
+    "Url": "https://www.spinellis.gr/blog/20250926/",
+    "Timestamp": "2025-10-13T23:03:45",
+    "Domain": "www.spinellis.gr",
+    "Description": "My colleagues and friends know that I prefer to communicate\nwith them via email rather than chat messaging.\nThere are many benefits in such a choice.\nYou may want to consider them and adopt the same stance.",
+    "Confidence": 0.98829186
+  },
+  {
+    "Title": "[OGT] Do blind people understand vision?",
+    "Url": "https://buttondown.com/mco/archive/ogt-do-blind-people-understand-vision/",
+    "Timestamp": "2025-10-13T23:03:37",
+    "Domain": "buttondown.com",
+    "Description": "Have you ever imagined what it might be like to be blind? I don’t mean to lose your sight, but rather to never have had it in the first place. I’d argue that...",
+    "Confidence": 0.5445642
+  },
+  {
+    "Title": "If It Hurts, Do It More Often",
+    "Url": "https://markoanastasov.com/signals/if-it-hurts-do-it-more-often/",
+    "Timestamp": "2025-10-13T23:03:32",
+    "Domain": "markoanastasov.com",
+    "Description": "When something hurts, lean into it. The discomfort is the teacher that forces you to adapt until it disappears.",
+    "Confidence": 0.9459378
+  },
+  {
+    "Title": "LLMs are getting better at character-level text manipulation",
+    "Url": "https://blog.burkert.me/posts/llm_evolution_character_manipulation/",
+    "Timestamp": "2025-10-13T23:03:29",
+    "Domain": "blog.burkert.me",
+    "Description": "Recently, I have been testing how well the newest generations of large language models (such as GPT-5 or Claude 4.5) handle natural language, specifically counting characters, manipulating characters in a sentences, or solving encoding and ciphers. Surprisingly, the newest models were able to solve these kinds of tasks, unlike previous generations of LLMs.\nCharacter manipulation LLMs handle individual characters poorly. This is due to all text being encoded as tokens via the LLM tokenizer and its vocabulary. Individual tokens typically represent clusters of characters, sometimes even full words (especially in English and other common languages in the training dataset). This makes any considerations on a more granular level than tokens fairly difficult, although LLMs have been capable of certain simple tasks (such as spelling out individual characters in a word) for a while.",
+    "Confidence": 0.9798296
+  },
+  {
+    "Title": "Shut The Fuck Up",
+    "Url": "https://romanzipp.com/blog/shut-the-fuck-up",
+    "Timestamp": "2025-10-13T23:03:23",
+    "Domain": "romanzipp.com",
+    "Description": "Everything is getting more annoying by the hour",
+    "Confidence": 0.8559394
+  },
+  {
+    "Title": "Trying Out the Ptyxis Terminal Emulator",
+    "Url": "https://leo3418.github.io/2025/08/14/trying-ptyxis.html",
+    "Timestamp": "2025-10-13T23:03:19",
+    "Domain": "leo3418.github.io",
+    "Description": "In my years of using GNOME, I have been using GNOME Terminal, and it has served me well. There has been a newer GNOME Console; while it has a few nice new features, it lacks a small feature that GNOME Terminal has and I depend on, so I have stayed with GNOME Terminal. Now, a third terminal emulator option for GNOME, Ptyxis (TIK-sis), has appeared. I tried it out recently and quickly found myself liking it, though my declaration that it would be a good-enough replacement of GNOME Terminal for myself came only after I spent a few days tinkering with it. …",
+    "Confidence": 0.99392956
+  },
+  {
+    "Title": "Using UUIDs in prompts is bad",
+    "Url": "https://boundaryml.com/blog/uuid-swap",
+    "Timestamp": "2025-10-13T23:03:15",
+    "Domain": "boundaryml.com",
+    "Description": "Guidance on dealing with entity IDs in LLM functions",
+    "Confidence": 0.9963017
+  },
+  {
+    "Title": "Thoughts on Remix 3",
+    "Url": "https://frantic.im/remix-3/",
+    "Timestamp": "2025-10-13T23:03:12",
+    "Domain": "frantic.im",
+    "Description": "The pendulum is about to swing the other direction",
+    "Confidence": 0.9941624
+  },
+  {
+    "Title": "The Eames Lounge Chair was always expensive",
+    "Url": "https://www.echevarria.io/blog/eames-lounge-chair-price-history/index.html",
+    "Timestamp": "2025-10-13T23:03:09",
+    "Domain": "www.echevarria.io",
+    "Description": "The Eames Lounge Chair was always expensive",
+    "Confidence": 0.79633766
+  },
+  {
+    "Title": "Is this the longest time anyone's taken to update an app?",
+    "Url": "https://lab174.com/blog/20251013-the-longest-amount-of-time-between-updates/",
+    "Timestamp": "2025-10-13T23:03:05",
+    "Domain": "lab174.com",
+    "Description": "Simple Morse Tool finally gets a refresh. Is this the longest time anyone has taken to update an iOS app?",
+    "Confidence": 0.9686583
+  },
+  {
+    "Title": "The Peach meme: On CRTs, pixels and signal quality (again)",
+    "Url": "https://www.datagubbe.se/crt2/",
+    "Timestamp": "2025-10-13T23:03:01",
+    "Domain": "www.datagubbe.se",
+    "Description": "Autumn 2025",
+    "Confidence": 0.96346074
+  },
+  {
+    "Title": "RAG vs Memory: Addressing Token Crisis in Agentic Tasks",
+    "Url": "https://agamjn.com/technical/2025/10/11/token-crisis-in-agentic-tasks.html",
+    "Timestamp": "2025-10-13T23:02:56",
+    "Domain": "agamjn.com",
+    "Description": "Context windows grew 20x. Token consumption grew faster. Here’s why RAG alone isn’t enough and what memory-based approaches offer.",
+    "Confidence": 0.9902991
+  },
+  {
+    "Title": "There is a dearth of automatic infinite scroll mice",
+    "Url": "https://code.mendhak.com/automatic-infinite-scroll-mode-mouse/",
+    "Timestamp": "2025-10-13T23:02:51",
+    "Domain": "code.mendhak.com",
+    "Description": "There are only two viable optiosn for automatic infinite scroll mouse",
+    "Confidence": 0.945346
+  },
+  {
+    "Title": "Oracle AI World - Day 1 - Monday",
+    "Url": "https://basementprogrammer.com/oracle-ai-world-day-1-monday",
+    "Timestamp": "2025-10-13T23:02:48",
+    "Domain": "basementprogrammer.com",
+    "Description": "8:30am\nIt’s another conference in Vegas, this time Oracle AI World 2025.\nAi World is being held in the Venetian Conference Center. Monday is a pre-day. There are several day-long sessions available to attend, covering a variety of topics.\n\nOKE Deploy...",
+    "Confidence": 0.8938144
+  },
+  {
+    "Title": "LLMs for Nominative Determinism",
+    "Url": "https://yuri.is/p/llms-for-nominative-determinism/",
+    "Timestamp": "2025-10-13T23:02:44",
+    "Domain": "yuri.is",
+    "Description": "Yuri Vishnevsky's website.",
+    "Confidence": 0.7458724
+  },
+  {
+    "Title": "People Are People, or Why I Don't Want to Be a Landlord",
+    "Url": "https://oddevan.com/2025/10/13/people-are-people-or-why.html",
+    "Timestamp": "2025-10-13T23:02:40",
+    "Domain": "oddevan.com",
+    "Description": "There’s a dustup going on over at Bluesky over moderation decisions. I won’t go into details because—for the purposes of this blog post—I’m less focused on why the dustup is happening and more that it is happening. It’s happening at Bluesky, it happens on Mastodon, it happened on Tumblr, and it will keep happening in the future despite all the best intentions.\nAnd I need to stop fooling myself that I want any part of it.",
+    "Confidence": 0.9743961
+  },
+  {
+    "Title": "Multi-Head Latent Attention (MLA)",
+    "Url": "https://sebastianraschka.com/llms-from-scratch/ch04/05_mla/",
+    "Timestamp": "2025-10-13T23:02:36",
+    "Domain": "sebastianraschka.com",
+    "Description": "I'm an LLM Research Engineer with over a decade of experience in artificial intelligence. My work bridges academia and industry, with roles including senior ...",
+    "Confidence": 0.9932379
+  },
+  {
     "Title": "Steve Blank No Science, No Startups: The Innovation Engine We’re Switching Off",
     "Url": "https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/",
     "Timestamp": "2025-10-13T22:02:25",
@@ -94,21 +230,5 @@
     "Domain": "dorotac.eu",
     "Description": "This is a translated version of a talk I gave at P.I.W.O in June, with cleanups and adjustments for the blog form.",
     "Confidence": 0.99172527
-  },
-  {
-    "Title": "Coding Adventure: Simulating Smoke",
-    "Url": "https://youtube.com/watch?v=Q78wvrQ9xsU",
-    "Timestamp": "2025-10-12T23:02:06",
-    "Domain": "youtube.com",
-    "Description": "My attempt at coding a grid-based fluid simulation to try and achieve some smoky effects!\n\nSupport my work (and get early access to new videos and source code) on Patreon or Nebula\n* Patreon: https://www.patreon.com/SebastianLague\n* Nebula: https://go.nebula.tv/sebastianlague\n\nSource Code:\nCurrently in early access (see links above), but will be available to everyone on 11 November.\n\nCheck out my other fluid simulation videos:\nhttps://youtube.com/playlist?list=PLFt_AvWsXl0dJrPelwdVSMVC_MDTYPJWn&si=Z5cOCDSI1aS4fe_C\n\nCredits:\nFluid notes: https://www.cs.ubc.ca/~rbridson/fluidsimulation/fluids_notes.pdf\nMusic: https://raw.githubusercontent.com/SebLague/Misc-Project-Info/refs/heads/main/Coding-Adventures/Smoke\n\nChapters\n00:00 Intro\n00:50 Navier-Stokes Equations\n02:00 Divergence\n05:09 Solving for Pressure\n08:26 Gauss-Seidel Iteration\n10:36 Solid Cells\n12:26 Velocity Interpolation\n15:15 Advection (with derivatives)\n18:37 Semi-Lagrangian Advection\n22:12 Testing\n23:43 Successive Over-Relaxation\n25:16 Visualizing Speed\n26:32 Smoke Map\n28:14 Parallel Pressure Solving\n31:13 Vortex Shedding\n35:48 A Few Little Experiments\n37:55 Temperature\n39:17 Final Smoke Experiments\n40:38 Outro",
-    "Confidence": 0.99342126
-  },
-  {
-    "Title": "GitHub - chili-chips-ba/wireguard-fpga: Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
-    "Url": "https://github.com/chili-chips-ba/wireguard-fpga",
-    "Timestamp": "2025-10-12T23:02:04",
-    "Domain": "github.com",
-    "Description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our d...",
-    "Confidence": 0.9958995
   }
 ]
