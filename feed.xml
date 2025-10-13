@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Free Software hasn't won</title>
+      <link>https://dorotac.eu/posts/fosswon/</link>
+      <description>This is a translated version of a talk I gave at P.I.W.O in June, with cleanups and adjustments for the blog form.</description>
+      <category>linux</category>
+      <category>git</category>
+      <category>hardware</category>
+      <category>gaming</category>
+      <category>ruby</category>
+      <guid>https://dorotac.eu/posts/fosswon/</guid>
+      <pubDate>Mon, 13 Oct 2025 10:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Coding Adventure: Simulating Smoke</title>
       <link>https://youtube.com/watch?v=Q78wvrQ9xsU</link>
       <description>My attempt at coding a grid-based fluid simulation to try and achieve some smoky effects!
