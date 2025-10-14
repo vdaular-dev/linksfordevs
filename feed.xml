@@ -13,7 +13,7 @@
 If you need to parametrize your application at runtime by passing a few ad-hoc variables (without special files or a custom solution involving IPC or networking), you’re doomed to a pretty awkward, outdated interface:</description>
       <category>python</category>
       <category>linux</category>
-      <category>hardware</category>
+      <category>ai</category>
       <guid>https://allvpv.org/haotic-journey-through-envvars/</guid>
       <pubDate>Tue, 14 Oct 2025 06:02:12 GMT</pubDate>
     </item>
@@ -55,7 +55,6 @@ Email: mopix@nara.gov</description>
 with them via email rather than chat messaging.
 There are many benefits in such a choice.
 You may want to consider them and adopt the same stance.</description>
-      <category>hardware</category>
       <category>ai</category>
       <guid>https://www.spinellis.gr/blog/20250926/</guid>
       <pubDate>Mon, 13 Oct 2025 23:03:45 GMT</pubDate>
@@ -108,6 +107,7 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <link>https://boundaryml.com/blog/uuid-swap</link>
       <description>Guidance on dealing with entity IDs in LLM functions</description>
       <author> (Greg Hale)</author>
+      <category>ai</category>
       <category>python</category>
       <guid>https://boundaryml.com/blog/uuid-swap</guid>
       <pubDate>Mon, 13 Oct 2025 23:03:15 GMT</pubDate>
@@ -119,8 +119,8 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <category>nodejs</category>
       <category>typescript</category>
       <category>javascript</category>
-      <category>svelte</category>
-      <category>marketing</category>
+      <category>cloud</category>
+      <category>vscode</category>
       <guid>https://frantic.im/remix-3/</guid>
       <pubDate>Mon, 13 Oct 2025 23:03:12 GMT</pubDate>
     </item>
@@ -128,7 +128,7 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <title>The Eames Lounge Chair was always expensive</title>
       <link>https://www.echevarria.io/blog/eames-lounge-chair-price-history/index.html</link>
       <description>The Eames Lounge Chair was always expensive</description>
-      <category>html</category>
+      <category>web</category>
       <guid>https://www.echevarria.io/blog/eames-lounge-chair-price-history/index.html</guid>
       <pubDate>Mon, 13 Oct 2025 23:03:09 GMT</pubDate>
     </item>
@@ -145,8 +145,8 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <link>https://www.datagubbe.se/crt2/</link>
       <description>Autumn 2025</description>
       <category>gaming</category>
-      <category>hardware</category>
       <category>rust</category>
+      <category>apple</category>
       <guid>https://www.datagubbe.se/crt2/</guid>
       <pubDate>Mon, 13 Oct 2025 23:03:01 GMT</pubDate>
     </item>
@@ -155,6 +155,7 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <link>https://agamjn.com/technical/2025/10/11/token-crisis-in-agentic-tasks.html</link>
       <description>Context windows grew 20x. Token consumption grew faster. Here’s why RAG alone isn’t enough and what memory-based approaches offer.</description>
       <category>ai</category>
+      <category>vscode</category>
       <guid>https://agamjn.com/technical/2025/10/11/token-crisis-in-agentic-tasks.html</guid>
       <pubDate>Mon, 13 Oct 2025 23:02:56 GMT</pubDate>
     </item>
@@ -163,7 +164,6 @@ Character manipulation LLMs handle individual characters poorly. This is due to 
       <link>https://code.mendhak.com/automatic-infinite-scroll-mode-mouse/</link>
       <description>There are only two viable optiosn for automatic infinite scroll mouse</description>
       <category>gaming</category>
-      <category>health</category>
       <category>ai</category>
       <category>linux</category>
       <category>youtube</category>
@@ -181,7 +181,6 @@ OKE Deploy...</description>
       <author> (https://hashnode.com/@BasementProgrammer)</author>
       <category>cloud</category>
       <category>ai</category>
-      <category>azure</category>
       <category>sql</category>
       <guid>https://basementprogrammer.com/oracle-ai-world-day-1-monday</guid>
       <pubDate>Mon, 13 Oct 2025 23:02:48 GMT</pubDate>
@@ -199,7 +198,7 @@ OKE Deploy...</description>
       <link>https://oddevan.com/2025/10/13/people-are-people-or-why.html</link>
       <description>There’s a dustup going on over at Bluesky over moderation decisions. I won’t go into details because—for the purposes of this blog post—I’m less focused on why the dustup is happening and more that it is happening. It’s happening at Bluesky, it happens on Mastodon, it happened on Tumblr, and it will keep happening in the future despite all the best intentions.
 And I need to stop fooling myself that I want any part of it.</description>
-      <category>html</category>
+      <category>web</category>
       <guid>https://oddevan.com/2025/10/13/people-are-people-or-why.html</guid>
       <pubDate>Mon, 13 Oct 2025 23:02:40 GMT</pubDate>
     </item>
@@ -209,8 +208,8 @@ And I need to stop fooling myself that I want any part of it.</description>
       <description>I'm an LLM Research Engineer with over a decade of experience in artificial intelligence. My work bridges academia and industry, with roles including senior ...</description>
       <category>ai</category>
       <category>python</category>
+      <category>vscode</category>
       <category>containers</category>
-      <category>math</category>
       <guid>https://sebastianraschka.com/llms-from-scratch/ch04/05_mla/</guid>
       <pubDate>Mon, 13 Oct 2025 23:02:36 GMT</pubDate>
     </item>
@@ -219,8 +218,6 @@ And I need to stop fooling myself that I want any part of it.</description>
       <link>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</link>
       <description>Tons of words have been written about the Trump Administrations war on Science in Universities. But few people have asked what, exactly, is science? How does it work? Who are the scientists? What d…</description>
       <category>cloud</category>
-      <category>math</category>
-      <category>health</category>
       <category>ai</category>
       <guid>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</guid>
       <pubDate>Mon, 13 Oct 2025 22:02:25 GMT</pubDate>
@@ -239,7 +236,9 @@ And I need to stop fooling myself that I want any part of it.</description>
       <link>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</link>
       <description>A comprehensive guide to building 3D web experiences with TSL and WebGPU, covering shader development, compute shader applications, and practical examples for particle systems and post-processing effects.</description>
       <category>nodejs</category>
+      <category>ai</category>
       <category>javascript</category>
+      <category>gaming</category>
       <guid>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</guid>
       <pubDate>Mon, 13 Oct 2025 22:02:17 GMT</pubDate>
     </item>
@@ -248,6 +247,7 @@ And I need to stop fooling myself that I want any part of it.</description>
       <link>https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/</link>
       <description>Is Google's push for verified developers really about safety?</description>
       <author> (Afam Onyimadu)</author>
+      <category>android</category>
       <category>youtube</category>
       <category>linux</category>
       <guid>https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/</guid>
@@ -258,7 +258,6 @@ And I need to stop fooling myself that I want any part of it.</description>
       <link>https://sqliteonline.com/</link>
       <description>SQL OnLine - SQLite, MariaDB / MySQL, PostgreSQL, MS SQL Server. AI error helper, User-friendly interface for Data Science. No registration for start, No DownLoad, No Install. | sql compiler, federated queries, BI Analytics</description>
       <category>sql</category>
-      <category>compilers</category>
       <category>ai</category>
       <guid>https://sqliteonline.com/</guid>
       <pubDate>Mon, 13 Oct 2025 20:02:09 GMT</pubDate>
@@ -268,7 +267,7 @@ And I need to stop fooling myself that I want any part of it.</description>
       <link>https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html</link>
       <description>Project documentation: pdfly.readthedocs.io pdfly is the youngest project of the py-pdf organization. It has been created by Martin Thoma in 2022. It's simply a CLI tool to manipulate PDF files, written in Python and based on the fpdf2 &amp; pypdf libraries. I'm a maintainer of the project 🙂 What can …</description>
       <category>python</category>
-      <category>html</category>
+      <category>web</category>
       <guid>https://chezsoi.org/lucas/blog/spotlight-on-pdfly.html</guid>
       <pubDate>Mon, 13 Oct 2025 19:02:28 GMT</pubDate>
     </item>
@@ -279,7 +278,7 @@ And I need to stop fooling myself that I want any part of it.</description>
       <category>ai</category>
       <category>nodejs</category>
       <category>python</category>
-      <category>html</category>
+      <category>web</category>
       <guid>https://github.com/karpathy/nanochat</guid>
       <pubDate>Mon, 13 Oct 2025 19:02:23 GMT</pubDate>
     </item>
