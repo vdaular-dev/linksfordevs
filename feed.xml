@@ -7,6 +7,157 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Currency control - Praful Mathur</title>
+      <link>https://www.praf.me/currency-control</link>
+      <description>I’ve recently been doing a bunch of research into international payments, stablecoins, and the role of the US dollar in the world today. What surprised me when reading the online discourse (the comments section) was how often people seemed to be talking past each other about technologies and systems, mainly because they had a different answer to the question: how much should the government control currency[1]?</description>
+      <guid>https://www.praf.me/currency-control</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Dynamic Typing Is For</title>
+      <link>https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/</link>
+      <description>How dynamic typing makes DSL-driven development easy, and what can be done to bring static typing up to par.</description>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>web</category>
+      <category>python</category>
+      <guid>https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reducing Screen time by 86% | </title>
+      <link>https://blog.mattbearman.com/reducing-screen-time/</link>
+      <description>Ramblings about anything that interests me - mainly Music, Cars and Programming.</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://blog.mattbearman.com/reducing-screen-time/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Analyzing the domains (and sites) of an authoritarian regime • Cory Dransfeldt</title>
+      <link>https://www.coryd.dev/posts/2025/analyzing-the-domains-and-sites-of-an-authoritarian-regime</link>
+      <description>If you've ever wondered what domains the US federal government has registered, there's a rather exhaustive list over in the [dotgov-data](https://github.com/cisagov/dotgov-data) repository on GitHub, which is maintained by [CISA](https://www.cisa.gov). [You can see the raw CSV here](https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv). They don't include the registration date, but you can derive that from public WHOIS records or by examining the repository's git histor</description>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://www.coryd.dev/posts/2025/analyzing-the-domains-and-sites-of-an-authoritarian-regime</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>War on Slop</title>
+      <link>https://www.jasonthorsness.com/32</link>
+      <description>War on Slop</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.jasonthorsness.com/32</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I create presentations in HTML
+</title>
+      <link>https://hartenfeller.dev/blog/presentations-in-html</link>
+      <description>Since a year, I don't use PowerPoint anymore. I instead enjoy using HTML and CSS to create my slides with reveal.js.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://hartenfeller.dev/blog/presentations-in-html</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Competency porn</title>
+      <link>https://blog.engora.com/2025/10/competency-porn.html</link>
+      <description>What is comtency porn?</description>
+      <category>web</category>
+      <guid>https://blog.engora.com/2025/10/competency-porn.html</guid>
+      <pubDate>Tue, 14 Oct 2025 22:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Import AI 431: Technological Optimism and Appropriate Fear</title>
+      <link>https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/</link>
+      <description>Welcome to Import AI, a newsletter about AI research. Import AI runs on lattes, ramen, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import A-IdeaAn occa…</description>
+      <category>ai</category>
+      <guid>https://jack-clark.net/2025/10/13/import-ai-431-technological-optimism-and-appropriate-fear/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Imagined Unrealities</title>
+      <link>https://zuhayeer.com/writing/imagined-unrealities.html</link>
+      <description>things I write sometimes</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://zuhayeer.com/writing/imagined-unrealities.html</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>I trained a ChatGPT clone for £75</title>
+      <link>https://samdobson.uk/posts/training-a-chatgpt-clone-for-cheap/</link>
+      <description>I just watched a machine learn to speak. Over the course of 4 hours, for £75 ($100), I trained my own conversational AI from scratch. Not by using an API or fine-tuning someone else’s model - I mean actually training a language model, watching it go from random noise to something that can hold a conversation.
+It’s a strange experience. You’re essentially watching intelligence emerge from mathematics.
+The setup I used nanochat as my foundation - Andrej Karpathy’s “minimal, hackable” implementation of the full LLM training pipeline. The beauty of nanochat is that it’s simple enough to understand but complete enough to actually work. No mysterious or bloated frameworks - just the core process laid bare.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://samdobson.uk/posts/training-a-chatgpt-clone-for-cheap/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>choosing friction</title>
+      <link>https://phirephoenix.com/blog/2025-10-11/friction</link>
+      <description>In 2018, legal scholar Tim Wu wrote in the New York Times that: Today’s cult of convenience fails to acknowledge that difficulty is a constitutive feature of human experience. Convenience is all destination and no journey. This piece well predates the current AI boom, but “all destination and no journey” is a pretty good explanation for why using AI to create art is mainly compelling to people who think about creativity in terms of producing content and generating intellectual property. They just want the thing they can market and sell for money or clout; they don’t care how they got there. I know you’re sick of talking about AI. I am too. This is only a little bit about AI, I promise. Like all my writing about technology, it’s mostly about people.</description>
+      <category>ai</category>
+      <guid>https://phirephoenix.com/blog/2025-10-11/friction</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can We Outsource Imagination?</title>
+      <link>https://justinpaulson.com/articles/can-we-outsource-imagination</link>
+      <description>AI-generated Everything I got my Sora 2 invite last week, and I was excited to see how it worked. If you are not aware, Sora 2 is OpenAI's new video generati...</description>
+      <author> (Justin Paulson)</author>
+      <category>ai</category>
+      <guid>https://justinpaulson.com/articles/can-we-outsource-imagination</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>go: An opinionated bookmark aggregator</title>
+      <link>https://marending.dev/notes/go-rest-quest/</link>
+      <description>08 Jun 2025</description>
+      <category>javascript</category>
+      <guid>https://marending.dev/notes/go-rest-quest/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django forever</title>
+      <link>https://jmduke.com/posts/post/django/</link>
+      <description>Tomorrow, I am taking a very early morning flight to Chicago to attend DjangoCon US. Buttondown is sponsoring, less as an exercise in lead generation and more as an act of circuitous open source sponsorship, and perhaps "sponsorship" is not quite the right word compared to gratuity in the most literal sense. I have been writing Django for fourteen years now: I started during 1.3, a hinterlands time that I remember mostly in two respects:</description>
+      <category>python</category>
+      <guid>https://jmduke.com/posts/post/django/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's not just about the em-dashes, it's about ✨substance✨ - Ritza Articles</title>
+      <link>https://ritza.co/articles/gareth/its-not-just-about-the-em-dashes-its-about-substance/</link>
+      <description>None</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://ritza.co/articles/gareth/its-not-just-about-the-em-dashes-its-about-substance/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rounding up</title>
+      <link>https://joshs.bearblog.dev/rounding-up/</link>
+      <description>I’ve noticed that people almost always round up. Maybe you’ve seen it too.
+
+The almost-candidate becomes close enough. The design is fine if you don’t look...</description>
+      <guid>https://joshs.bearblog.dev/rounding-up/</guid>
+      <pubDate>Tue, 14 Oct 2025 22:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Classic Demo Effects, Fire</title>
       <link>https://www.4rknova.com//blog/2019/03/17/fire-effect</link>
       <description>The classic demoscene effect explained and implemented in GLSL</description>
@@ -238,35 +389,6 @@ And I need to stop fooling myself that I want any part of it.</description>
       <category>containers</category>
       <guid>https://sebastianraschka.com/llms-from-scratch/ch04/05_mla/</guid>
       <pubDate>Mon, 13 Oct 2025 23:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Blank No Science, No Startups: The Innovation Engine We’re Switching Off</title>
-      <link>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</link>
-      <description>Tons of words have been written about the Trump Administrations war on Science in Universities. But few people have asked what, exactly, is science? How does it work? Who are the scientists? What d…</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://steveblank.com/2025/10/13/no-science-no-startups-the-unseen-engine-were-switching-off/</guid>
-      <pubDate>Mon, 13 Oct 2025 22:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the Best Engineering Teams Don’t Play the Blame Game</title>
-      <link>https://thehustlingengineer.substack.com/p/how-to-build-a-blameless-culture?r=yznlc&amp;triedRedirect=true</link>
-      <description>I once deleted a production-like staging database in my very first job</description>
-      <category>gaming</category>
-      <category>sql</category>
-      <guid>https://thehustlingengineer.substack.com/p/how-to-build-a-blameless-culture?r=yznlc&amp;triedRedirect=true</guid>
-      <pubDate>Mon, 13 Oct 2025 22:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Field Guide to TSL and WebGPU - The Blog of Maxime Heckel</title>
-      <link>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</link>
-      <description>A comprehensive guide to building 3D web experiences with TSL and WebGPU, covering shader development, compute shader applications, and practical examples for particle systems and post-processing effects.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <guid>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</guid>
-      <pubDate>Mon, 13 Oct 2025 22:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
