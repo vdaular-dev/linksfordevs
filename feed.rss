@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Environment variables are a legacy mess: Let's dive deep into them</title>
+      <link>https://allvpv.org/haotic-journey-through-envvars/</link>
+      <description>Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.
+If you need to parametrize your application at runtime by passing a few ad-hoc variables (without special files or a custom solution involving IPC or networking), you’re doomed to a pretty awkward, outdated interface:</description>
+      <category>python</category>
+      <category>linux</category>
+      <category>hardware</category>
+      <guid>https://allvpv.org/haotic-journey-through-envvars/</guid>
+      <pubDate>Tue, 14 Oct 2025 06:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Don't Be a Sucker</title>
       <link>https://youtube.com/watch?v=vGAqYNFQdZ4</link>
       <description>National Archives Identifier: 24376

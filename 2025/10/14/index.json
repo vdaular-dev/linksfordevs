@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Environment variables are a legacy mess: Let's dive deep into them",
+    "Url": "https://allvpv.org/haotic-journey-through-envvars/",
+    "Timestamp": "2025-10-14T06:02:12",
+    "Domain": "allvpv.org",
+    "Description": "Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.\nIf you need to parametrize your application at runtime by passing a few ad-hoc variables (without special files or a custom solution involving IPC or networking), you’re doomed to a pretty awkward, outdated interface:"
+  },
+  {
     "Title": "Don't Be a Sucker",
     "Url": "https://youtube.com/watch?v=vGAqYNFQdZ4",
     "Timestamp": "2025-10-14T01:02:17",
