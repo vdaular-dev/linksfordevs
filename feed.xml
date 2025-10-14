@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Does the news reflect what we die from?</title>
+      <link>https://ourworldindata.org/does-the-news-reflect-what-we-die-from</link>
+      <description>What do Americans die from, and what do the New York Times, Washington Post, and Fox News report on?</description>
+      <guid>https://ourworldindata.org/does-the-news-reflect-what-we-die-from</guid>
+      <pubDate>Tue, 14 Oct 2025 23:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Currency control - Praful Mathur</title>
       <link>https://www.praf.me/currency-control</link>
       <description>I’ve recently been doing a bunch of research into international payments, stablecoins, and the role of the US dollar in the world today. What surprised me when reading the online discourse (the comments section) was how often people seemed to be talking past each other about technologies and systems, mainly because they had a different answer to the question: how much should the government control currency[1]?</description>
@@ -225,170 +232,6 @@ Email: mopix@nara.gov</description>
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=vGAqYNFQdZ4</guid>
       <pubDate>Tue, 14 Oct 2025 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025-09-26 — Why I Choose Email Over Messaging</title>
-      <link>https://www.spinellis.gr/blog/20250926/</link>
-      <description>My colleagues and friends know that I prefer to communicate
-with them via email rather than chat messaging.
-There are many benefits in such a choice.
-You may want to consider them and adopt the same stance.</description>
-      <category>ai</category>
-      <guid>https://www.spinellis.gr/blog/20250926/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[OGT] Do blind people understand vision?</title>
-      <link>https://buttondown.com/mco/archive/ogt-do-blind-people-understand-vision/</link>
-      <description>Have you ever imagined what it might be like to be blind? I don’t mean to lose your sight, but rather to never have had it in the first place. I’d argue that...</description>
-      <category>youtube</category>
-      <guid>https://buttondown.com/mco/archive/ogt-do-blind-people-understand-vision/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>If It Hurts, Do It More Often</title>
-      <link>https://markoanastasov.com/signals/if-it-hurts-do-it-more-often/</link>
-      <description>When something hurts, lean into it. The discomfort is the teacher that forces you to adapt until it disappears.</description>
-      <category>ai</category>
-      <guid>https://markoanastasov.com/signals/if-it-hurts-do-it-more-often/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs are getting better at character-level text manipulation</title>
-      <link>https://blog.burkert.me/posts/llm_evolution_character_manipulation/</link>
-      <description>Recently, I have been testing how well the newest generations of large language models (such as GPT-5 or Claude 4.5) handle natural language, specifically counting characters, manipulating characters in a sentences, or solving encoding and ciphers. Surprisingly, the newest models were able to solve these kinds of tasks, unlike previous generations of LLMs.
-Character manipulation LLMs handle individual characters poorly. This is due to all text being encoded as tokens via the LLM tokenizer and its vocabulary. Individual tokens typically represent clusters of characters, sometimes even full words (especially in English and other common languages in the training dataset). This makes any considerations on a more granular level than tokens fairly difficult, although LLMs have been capable of certain simple tasks (such as spelling out individual characters in a word) for a while.</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>python</category>
-      <guid>https://blog.burkert.me/posts/llm_evolution_character_manipulation/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shut The Fuck Up</title>
-      <link>https://romanzipp.com/blog/shut-the-fuck-up</link>
-      <description>Everything is getting more annoying by the hour</description>
-      <author> (Roman Zipp)</author>
-      <category>youtube</category>
-      <guid>https://romanzipp.com/blog/shut-the-fuck-up</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trying Out the Ptyxis Terminal Emulator</title>
-      <link>https://leo3418.github.io/2025/08/14/trying-ptyxis.html</link>
-      <description>In my years of using GNOME, I have been using GNOME Terminal, and it has served me well. There has been a newer GNOME Console; while it has a few nice new features, it lacks a small feature that GNOME Terminal has and I depend on, so I have stayed with GNOME Terminal. Now, a third terminal emulator option for GNOME, Ptyxis (TIK-sis), has appeared. I tried it out recently and quickly found myself liking it, though my declaration that it would be a good-enough replacement of GNOME Terminal for myself came only after I spent a few days tinkering with it. …</description>
-      <guid>https://leo3418.github.io/2025/08/14/trying-ptyxis.html</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using UUIDs in prompts is bad</title>
-      <link>https://boundaryml.com/blog/uuid-swap</link>
-      <description>Guidance on dealing with entity IDs in LLM functions</description>
-      <author> (Greg Hale)</author>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://boundaryml.com/blog/uuid-swap</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on Remix 3</title>
-      <link>https://frantic.im/remix-3/</link>
-      <description>The pendulum is about to swing the other direction</description>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>cloud</category>
-      <category>vscode</category>
-      <guid>https://frantic.im/remix-3/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Eames Lounge Chair was always expensive</title>
-      <link>https://www.echevarria.io/blog/eames-lounge-chair-price-history/index.html</link>
-      <description>The Eames Lounge Chair was always expensive</description>
-      <category>web</category>
-      <guid>https://www.echevarria.io/blog/eames-lounge-chair-price-history/index.html</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is this the longest time anyone's taken to update an app?</title>
-      <link>https://lab174.com/blog/20251013-the-longest-amount-of-time-between-updates/</link>
-      <description>Simple Morse Tool finally gets a refresh. Is this the longest time anyone has taken to update an iOS app?</description>
-      <category>apple</category>
-      <guid>https://lab174.com/blog/20251013-the-longest-amount-of-time-between-updates/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Peach meme: On CRTs, pixels and signal quality (again)</title>
-      <link>https://www.datagubbe.se/crt2/</link>
-      <description>Autumn 2025</description>
-      <category>gaming</category>
-      <category>rust</category>
-      <category>apple</category>
-      <guid>https://www.datagubbe.se/crt2/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAG vs Memory: Addressing Token Crisis in Agentic Tasks</title>
-      <link>https://agamjn.com/technical/2025/10/11/token-crisis-in-agentic-tasks.html</link>
-      <description>Context windows grew 20x. Token consumption grew faster. Here’s why RAG alone isn’t enough and what memory-based approaches offer.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://agamjn.com/technical/2025/10/11/token-crisis-in-agentic-tasks.html</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>There is a dearth of automatic infinite scroll mice</title>
-      <link>https://code.mendhak.com/automatic-infinite-scroll-mode-mouse/</link>
-      <description>There are only two viable optiosn for automatic infinite scroll mouse</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://code.mendhak.com/automatic-infinite-scroll-mode-mouse/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle AI World - Day 1 - Monday</title>
-      <link>https://basementprogrammer.com/oracle-ai-world-day-1-monday</link>
-      <description>8:30am
-It’s another conference in Vegas, this time Oracle AI World 2025.
-Ai World is being held in the Venetian Conference Center. Monday is a pre-day. There are several day-long sessions available to attend, covering a variety of topics.
-
-OKE Deploy...</description>
-      <author> (https://hashnode.com/@BasementProgrammer)</author>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://basementprogrammer.com/oracle-ai-world-day-1-monday</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs for Nominative Determinism</title>
-      <link>https://yuri.is/p/llms-for-nominative-determinism/</link>
-      <description>Yuri Vishnevsky's website.</description>
-      <guid>https://yuri.is/p/llms-for-nominative-determinism/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>People Are People, or Why I Don't Want to Be a Landlord</title>
-      <link>https://oddevan.com/2025/10/13/people-are-people-or-why.html</link>
-      <description>There’s a dustup going on over at Bluesky over moderation decisions. I won’t go into details because—for the purposes of this blog post—I’m less focused on why the dustup is happening and more that it is happening. It’s happening at Bluesky, it happens on Mastodon, it happened on Tumblr, and it will keep happening in the future despite all the best intentions.
-And I need to stop fooling myself that I want any part of it.</description>
-      <category>web</category>
-      <guid>https://oddevan.com/2025/10/13/people-are-people-or-why.html</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Multi-Head Latent Attention (MLA)</title>
-      <link>https://sebastianraschka.com/llms-from-scratch/ch04/05_mla/</link>
-      <description>I'm an LLM Research Engineer with over a decade of experience in artificial intelligence. My work bridges academia and industry, with roles including senior ...</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>vscode</category>
-      <category>containers</category>
-      <guid>https://sebastianraschka.com/llms-from-scratch/ch04/05_mla/</guid>
-      <pubDate>Mon, 13 Oct 2025 23:02:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
