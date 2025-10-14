@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Classic Demo Effects, Fire</title>
+      <link>https://www.4rknova.com//blog/2019/03/17/fire-effect</link>
+      <description>The classic demoscene effect explained and implemented in GLSL</description>
+      <category>gaming</category>
+      <guid>https://www.4rknova.com//blog/2019/03/17/fire-effect</guid>
+      <pubDate>Tue, 14 Oct 2025 20:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digital Society | Posts | Migrating to Hetzner</title>
+      <link>https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/</link>
+      <description>We saved 76% on our cloud bills while tripling our capacity by migrating to Hetzner from AWS and DigitalOcean. Digital Society is a not-for-profit cooperative helping you get your projects off the ground and realise the value of your data.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>linux</category>
+      <guid>https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/</guid>
+      <pubDate>Tue, 14 Oct 2025 20:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Better sRGB to greyscale conversion</title>
+      <link>https://30fps.net/pages/better-srgb-to-greyscale/</link>
+      <description>A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:</description>
+      <guid>https://30fps.net/pages/better-srgb-to-greyscale/</guid>
+      <pubDate>Tue, 14 Oct 2025 20:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Environment variables are a legacy mess: Let's dive deep into them</title>
       <link>https://allvpv.org/haotic-journey-through-envvars/</link>
       <description>Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.
@@ -240,26 +267,6 @@ And I need to stop fooling myself that I want any part of it.</description>
       <category>gaming</category>
       <guid>https://blog.maximeheckel.com/posts/field-guide-to-tsl-and-webgpu/</guid>
       <pubDate>Mon, 13 Oct 2025 22:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android’s sideloading limits are its most anti-consumer move yet</title>
-      <link>https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/</link>
-      <description>Is Google's push for verified developers really about safety?</description>
-      <author> (Afam Onyimadu)</author>
-      <category>android</category>
-      <category>youtube</category>
-      <category>linux</category>
-      <guid>https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/</guid>
-      <pubDate>Mon, 13 Oct 2025 20:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL Online AiDE - Next gen SQL Editor | SQL Compiler</title>
-      <link>https://sqliteonline.com/</link>
-      <description>SQL OnLine - SQLite, MariaDB / MySQL, PostgreSQL, MS SQL Server. AI error helper, User-friendly interface for Data Science. No registration for start, No DownLoad, No Install. | sql compiler, federated queries, BI Analytics</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://sqliteonline.com/</guid>
-      <pubDate>Mon, 13 Oct 2025 20:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

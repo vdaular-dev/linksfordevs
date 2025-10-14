@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Classic Demo Effects, Fire",
+    "Url": "https://www.4rknova.com//blog/2019/03/17/fire-effect",
+    "Timestamp": "2025-10-14T20:02:20",
+    "Domain": "www.4rknova.com",
+    "Description": "The classic demoscene effect explained and implemented in GLSL"
+  },
+  {
+    "Title": "Digital Society | Posts | Migrating to Hetzner",
+    "Url": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
+    "Timestamp": "2025-10-14T20:02:16",
+    "Domain": "digitalsociety.coop",
+    "Description": "We saved 76% on our cloud bills while tripling our capacity by migrating to Hetzner from AWS and DigitalOcean. Digital Society is a not-for-profit cooperative helping you get your projects off the ground and realise the value of your data."
+  },
+  {
+    "Title": "Better sRGB to greyscale conversion",
+    "Url": "https://30fps.net/pages/better-srgb-to-greyscale/",
+    "Timestamp": "2025-10-14T20:02:11",
+    "Domain": "30fps.net",
+    "Description": "A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:"
+  },
+  {
     "Title": "Environment variables are a legacy mess: Let's dive deep into them",
     "Url": "https://allvpv.org/haotic-journey-through-envvars/",
     "Timestamp": "2025-10-14T06:02:12",
