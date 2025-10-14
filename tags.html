@@ -386,40 +386,7 @@ All tags    </title>
                 type: 'line',
                 data: {
                     labels: keys,
-                    datasets: [
-                        {
-                            tension: 0,
-                            borderWidth: 2,
-                            label: "Page views",
-                            borderCapStyle: "butt",
-                            borderJoinStyle: "miter",
-                            data: values,
-                            borderColor: "#96b2b3",
-                            fill: true,
-                            backgroundColor: "rgba(191, 237, 245, 0.25)",
-                            trendlineLinear: {
-                                style: "#96b2b3",
-                                lineStyle: "solid",
-                                width: 2
-                            }
-                        },
-                        {
-                            tension: 0,
-                            borderWidth: 2,
-                            label: "Unique visitors",
-                            borderCapStyle: "butt",
-                            borderJoinStyle: "miter",
-                            data: unique,
-                            borderColor: "#0a0",
-                            fill: true,
-                            backgroundColor: "rgba(0, 128, 0, 0.25)",
-                            trendlineLinear: {
-                                style: "#0a0",
-                                lineStyle: "solid",
-                                width: 2
-                            }
-                        }
-                    ]
+                    datasets: values
                 },
                 options: {
                     elements: {
