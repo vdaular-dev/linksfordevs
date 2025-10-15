@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GrapheneOS is finally ready to break free from Pixels, and it may never look back</title>
+      <link>https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/</link>
+      <description>The makers of GrapheneOS have confirmed they are partnering with a major Android OEM to bring the OS to Snapdragon-powered flagships.</description>
+      <category>android</category>
+      <guid>https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/</guid>
+      <pubDate>Wed, 15 Oct 2025 06:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Why your boss isn't worried about AI</title>
       <link>https://boydkane.com/essays/boss</link>
       <description>...</description>
@@ -214,17 +222,6 @@ The almost-candidate becomes close enough. The design is fine if you don’t loo
       <description>A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:</description>
       <guid>https://30fps.net/pages/better-srgb-to-greyscale/</guid>
       <pubDate>Tue, 14 Oct 2025 20:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Environment variables are a legacy mess: Let's dive deep into them</title>
-      <link>https://allvpv.org/haotic-journey-through-envvars/</link>
-      <description>Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.
-If you need to parametrize your application at runtime by passing a few ad-hoc variables (without special files or a custom solution involving IPC or networking), you’re doomed to a pretty awkward, outdated interface:</description>
-      <category>python</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://allvpv.org/haotic-journey-through-envvars/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

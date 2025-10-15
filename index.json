@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GrapheneOS is finally ready to break free from Pixels, and it may never look back",
+    "Url": "https://www.androidauthority.com/graphene-os-major-android-oem-partnership-3606853/",
+    "Timestamp": "2025-10-15T06:01:59",
+    "Domain": "www.androidauthority.com",
+    "Description": "The makers of GrapheneOS have confirmed they are partnering with a major Android OEM to bring the OS to Snapdragon-powered flagships.",
+    "Confidence": 0.65579784
+  },
+  {
     "Title": "Why your boss isn't worried about AI",
     "Url": "https://boydkane.com/essays/boss",
     "Timestamp": "2025-10-15T04:02:08",
@@ -174,13 +182,5 @@
     "Domain": "30fps.net",
     "Description": "A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:",
     "Confidence": 0.99060124
-  },
-  {
-    "Title": "Environment variables are a legacy mess: Let's dive deep into them",
-    "Url": "https://allvpv.org/haotic-journey-through-envvars/",
-    "Timestamp": "2025-10-14T06:02:12",
-    "Domain": "allvpv.org",
-    "Description": "Programming languages have rapidly evolved in recent years. But in software development, the new often meets the old, and the scaffolding that OS gives for running new processes hasn’t changed much since Unix.\nIf you need to parametrize your application at runtime by passing a few ad-hoc variables (without special files or a custom solution involving IPC or networking), you’re doomed to a pretty awkward, outdated interface:",
-    "Confidence": 0.99380434
   }
 ]
