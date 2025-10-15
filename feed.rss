@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Wasted Wind</title>
+      <link>https://wastedwind.energy/</link>
+      <description>Britain wastes millions a day switching off wind turbines. See how much has been wasted today, and in 2025.</description>
+      <guid>https://wastedwind.energy/</guid>
+      <pubDate>Wed, 15 Oct 2025 14:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Unpacking Cloudflare Workers CPU Performance Benchmarks</title>
       <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
       <description>Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations. These improvements have made Cloudflare Workers faster for all customers.
