@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+    "Url": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
+    "Timestamp": "2025-10-15T12:01:59",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations. These improvements have made Cloudflare Workers faster for all customers.\n",
+    "Confidence": 0.977803
+  },
+  {
+    "Title": "Why Is SQLite Coded In C",
+    "Url": "https://www.sqlite.org/whyc.html",
+    "Timestamp": "2025-10-15T12:01:55",
+    "Domain": "www.sqlite.org",
+    "Description": "Why Is SQLite Coded In C",
+    "Confidence": 0.996262
+  },
+  {
     "Title": "CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code",
     "Url": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
     "Timestamp": "2025-10-15T11:01:54",

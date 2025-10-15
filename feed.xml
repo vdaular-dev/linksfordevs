@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Unpacking Cloudflare Workers CPU Performance Benchmarks</title>
+      <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
+      <description>Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations. These improvements have made Cloudflare Workers faster for all customers.
+</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</guid>
+      <pubDate>Wed, 15 Oct 2025 12:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Is SQLite Coded In C</title>
+      <link>https://www.sqlite.org/whyc.html</link>
+      <description>Why Is SQLite Coded In C</description>
+      <category>sql</category>
+      <category>rust</category>
+      <category>android</category>
+      <category>apple</category>
+      <guid>https://www.sqlite.org/whyc.html</guid>
+      <pubDate>Wed, 15 Oct 2025 12:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code</title>
       <link>https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code</link>
       <description>Get details on our discovery of a critical vulnerability in GitHub Copilot Chat.</description>
