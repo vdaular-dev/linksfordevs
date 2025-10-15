@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Introducing Claude Haiku 4.5",
+    "Url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "Timestamp": "2025-10-15T20:01:59",
+    "Domain": "www.anthropic.com",
+    "Description": "Claude Haiku 4.5, our latest small model, is available today to all users.",
+    "Confidence": 0.9920659
+  },
+  {
     "Title": "Owlcat Games - We create cRPGs",
     "Url": "https://owlcat.games/learning",
     "Timestamp": "2025-10-15T18:02:13",
@@ -262,29 +270,5 @@
     "Domain": "joshs.bearblog.dev",
     "Description": "I’ve noticed that people almost always round up. Maybe you’ve seen it too.\n\nThe almost-candidate becomes close enough. The design is fine if you don’t look...",
     "Confidence": 0.99334925
-  },
-  {
-    "Title": "Classic Demo Effects, Fire",
-    "Url": "https://www.4rknova.com//blog/2019/03/17/fire-effect",
-    "Timestamp": "2025-10-14T20:02:20",
-    "Domain": "www.4rknova.com",
-    "Description": "The classic demoscene effect explained and implemented in GLSL",
-    "Confidence": 0.9943149
-  },
-  {
-    "Title": "Digital Society | Posts | Migrating to Hetzner",
-    "Url": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
-    "Timestamp": "2025-10-14T20:02:16",
-    "Domain": "digitalsociety.coop",
-    "Description": "We saved 76% on our cloud bills while tripling our capacity by migrating to Hetzner from AWS and DigitalOcean. Digital Society is a not-for-profit cooperative helping you get your projects off the ground and realise the value of your data.",
-    "Confidence": 0.96536916
-  },
-  {
-    "Title": "Better sRGB to greyscale conversion",
-    "Url": "https://30fps.net/pages/better-srgb-to-greyscale/",
-    "Timestamp": "2025-10-14T20:02:11",
-    "Domain": "30fps.net",
-    "Description": "A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:",
-    "Confidence": 0.99060124
   }
 ]

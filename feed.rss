@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude Haiku 4.5</title>
+      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
+      <description>Claude Haiku 4.5, our latest small model, is available today to all users.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.anthropic.com/news/claude-haiku-4-5</guid>
+      <pubDate>Wed, 15 Oct 2025 20:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Owlcat Games - We create cRPGs</title>
       <link>https://owlcat.games/learning</link>
       <description>We create cRPGs</description>
@@ -326,33 +335,6 @@ The setup I used nanochat as my foundation - Andrej Karpathy’s “minimal, hac
 The almost-candidate becomes close enough. The design is fine if you don’t look...</description>
       <guid>https://joshs.bearblog.dev/rounding-up/</guid>
       <pubDate>Tue, 14 Oct 2025 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Classic Demo Effects, Fire</title>
-      <link>https://www.4rknova.com//blog/2019/03/17/fire-effect</link>
-      <description>The classic demoscene effect explained and implemented in GLSL</description>
-      <category>gaming</category>
-      <guid>https://www.4rknova.com//blog/2019/03/17/fire-effect</guid>
-      <pubDate>Tue, 14 Oct 2025 20:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digital Society | Posts | Migrating to Hetzner</title>
-      <link>https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/</link>
-      <description>We saved 76% on our cloud bills while tripling our capacity by migrating to Hetzner from AWS and DigitalOcean. Digital Society is a not-for-profit cooperative helping you get your projects off the ground and realise the value of your data.</description>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>rust</category>
-      <category>containers</category>
-      <category>linux</category>
-      <guid>https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/</guid>
-      <pubDate>Tue, 14 Oct 2025 20:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Better sRGB to greyscale conversion</title>
-      <link>https://30fps.net/pages/better-srgb-to-greyscale/</link>
-      <description>A common approach to convert a gamma-corrected sRGB color (R′,G′,B′)(R', G', B') to greyscale is to take a weighted sum of its components:</description>
-      <guid>https://30fps.net/pages/better-srgb-to-greyscale/</guid>
-      <pubDate>Tue, 14 Oct 2025 20:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
