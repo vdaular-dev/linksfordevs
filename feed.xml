@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Skills: Customize AI for your workflows</title>
+      <link>https://www.anthropic.com/news/skills</link>
+      <description>Build custom Skills to teach Claude specialized tasks. Create once, use everywhere—from spreadsheets to coding. Available across Claude.ai, API, and Code.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/skills</guid>
+      <pubDate>Thu, 16 Oct 2025 20:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why we're leaving serverless | Unkey</title>
+      <link>https://www.unkey.com/blog/serverless-exit</link>
+      <description>Every millisecond matters when you're in the critical path of API authentication. After two years of fighting serverless limitations, we rebuilt our entire API stack and slashed the end-to-end latency.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://www.unkey.com/blog/serverless-exit</guid>
+      <pubDate>Thu, 16 Oct 2025 20:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>New Alpha Release: Tor Browser 15.0a4 | Tor Project</title>
       <link>https://blog.torproject.org/new-alpha-release-tor-browser-150a4/</link>
       <description>Tor Browser 15.0a4 is now available from the Tor Browser download page and also from our distribution directory.</description>
@@ -322,15 +342,6 @@ An aggregate history of my Anthropic accoun...</description>
       <category>ai</category>
       <guid>https://www.apple.com/macbook-pro/</guid>
       <pubDate>Wed, 15 Oct 2025 21:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing Claude Haiku 4.5</title>
-      <link>https://www.anthropic.com/news/claude-haiku-4-5</link>
-      <description>Claude Haiku 4.5, our latest small model, is available today to all users.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.anthropic.com/news/claude-haiku-4-5</guid>
-      <pubDate>Wed, 15 Oct 2025 20:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

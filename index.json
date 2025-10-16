@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Claude Skills: Customize AI for your workflows",
+    "Url": "https://www.anthropic.com/news/skills",
+    "Timestamp": "2025-10-16T20:02:04",
+    "Domain": "www.anthropic.com",
+    "Description": "Build custom Skills to teach Claude specialized tasks. Create once, use everywhere—from spreadsheets to coding. Available across Claude.ai, API, and Code.",
+    "Confidence": 0.9980102
+  },
+  {
+    "Title": "Why we're leaving serverless | Unkey",
+    "Url": "https://www.unkey.com/blog/serverless-exit",
+    "Timestamp": "2025-10-16T20:01:56",
+    "Domain": "www.unkey.com",
+    "Description": "Every millisecond matters when you're in the critical path of API authentication. After two years of fighting serverless limitations, we rebuilt our entire API stack and slashed the end-to-end latency.",
+    "Confidence": 0.9940095
+  },
+  {
     "Title": "New Alpha Release: Tor Browser 15.0a4 | Tor Project",
     "Url": "https://blog.torproject.org/new-alpha-release-tor-browser-150a4/",
     "Timestamp": "2025-10-16T19:02:05",
@@ -230,13 +246,5 @@
     "Domain": "www.apple.com",
     "Description": "MacBook Pro laptop with M5, M4 Pro, and M4 Max chips. Built for AI and Apple Intelligence. Up to 24 hours of battery life. Liquid Retina XDR display.",
     "Confidence": 0.93339366
-  },
-  {
-    "Title": "Introducing Claude Haiku 4.5",
-    "Url": "https://www.anthropic.com/news/claude-haiku-4-5",
-    "Timestamp": "2025-10-15T20:01:59",
-    "Domain": "www.anthropic.com",
-    "Description": "Claude Haiku 4.5, our latest small model, is available today to all users.",
-    "Confidence": 0.9920659
   }
 ]
