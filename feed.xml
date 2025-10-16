@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How I Bypassed Amazon's Kindle Web DRM Because Their App Sucked</title>
+      <link>https://blog.pixelmelt.dev/kindle-web-drm/</link>
+      <description>As it turns out they don't actually want you to do this (and have some interesting ways to stop you)</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>android</category>
+      <category>python</category>
+      <guid>https://blog.pixelmelt.dev/kindle-web-drm/</guid>
+      <pubDate>Thu, 16 Oct 2025 23:01:52 GMT</pubDate>
+    </item>
+    <item>
       <title>Distributed Ray-Tracing</title>
       <link>https://www.4rknova.com//blog/2019/02/24/distributed-raytracing</link>
       <description>An overview of how distributed ray-tracing enhances realism by addressing the limits of traditional ray-tracing, using Monte Carlo sampling to simulate effects like soft shadows, gloss, depth of fi...</description>
