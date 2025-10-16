@@ -7,6 +7,144 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Please Stop Splitting Things - Alek's Blog</title>
+      <link>https://blog.kirilov.dev/2025/09/26/please-stop-splitting-things/</link>
+      <description>As engineers, we learn from the very beginning that bundling too many things together is bad. Be it writing a huge
+function or a class file, having thousands
+of lines.
+The same holds true for non-technical aspects such as project documentation, project tickets, etc.</description>
+      <category>git</category>
+      <category>conference</category>
+      <category>vscode</category>
+      <guid>https://blog.kirilov.dev/2025/09/26/please-stop-splitting-things/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automating HTB with LLM-driven n8n Agent — Technical Writeup | luciuswayne.com</title>
+      <link>https://luciuswayne.com/blog/automating-hack-the-box-with-llm-n8n-agent/</link>
+      <description>Learn how an LLM-powered n8n workflow automated end-to-end exploitation of Hack The Box's Editor machine, from reconnaissance to flag extraction, and discover the pitfalls and safety considerations of automated red team operations.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>sql</category>
+      <guid>https://luciuswayne.com/blog/automating-hack-the-box-with-llm-n8n-agent/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>How banks create money (with your money)</title>
+      <link>https://mikenotthepope.com/how-banks-create-money-with-your-money/</link>
+      <description>Let's say NewBank just opened its first branch. They start off with $0 in customer deposits. You walk into the bank with a big sack of cash with $100K in it and the bank manager says, "Hey, it looks like we have our first customer!"</description>
+      <guid>https://mikenotthepope.com/how-banks-create-money-with-your-money/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Dreamseeker’s Vision of Tomorrow - Dhole Moments</title>
+      <link>https://soatok.blog/2025/10/15/the-dreamseekers-vision-of-tomorrow/</link>
+      <description>Since I have your attention for the moment, I’d like you to ask yourself a question: What is it that drives you in life? Do you yearn for the feeling of safety? By seeking power, status, weal…</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://soatok.blog/2025/10/15/the-dreamseekers-vision-of-tomorrow/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Learned to Spot Inflated Bids (and What You Can Do Too)</title>
+      <link>https://spicermatthews.com/blog/how-i-learned-to-spot-inflated-bids-and-what-you-can-do-too/</link>
+      <description>After two decades as a hobbyist builder, I've learned to spot when contractors are pricing the job—or pricing the lifestyle. Here's how to protect your budget and get fair quotes.</description>
+      <category>youtube</category>
+      <guid>https://spicermatthews.com/blog/how-i-learned-to-spot-inflated-bids-and-what-you-can-do-too/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>I hate acrobat</title>
+      <link>https://www.vincentuden.xyz/blog/pdf-reader</link>
+      <description>Astro description</description>
+      <category>linux</category>
+      <guid>https://www.vincentuden.xyz/blog/pdf-reader</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep Work (Sometimes) Pays Off – Asad Memon</title>
+      <link>https://asadmemon.com/blog/deep/</link>
+      <description>Asad Memon's homepage.</description>
+      <category>gaming</category>
+      <guid>https://asadmemon.com/blog/deep/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>    
+                        Homogeneous by Design – Jon C. Phillips
+            </title>
+      <link>https://joncphillips.com/homogeneous-by-design/</link>
+      <description>    
+                                        We have unlimited design possibilities, infinite color palettes, and AI that can create anything. So why does every website look exactly the same? Wel…
+            </description>
+      <author> (https://joncphillips.com/)</author>
+      <category>web</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>gaming</category>
+      <guid>https://joncphillips.com/homogeneous-by-design/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Empty Intervals are Valid Intervals</title>
+      <link>https://nigeltao.github.io/blog/2025/empty-intervals.html</link>
+      <description>Summary: whenever a programmer works with intervals (whether pixel intervals
+for graphics, time intervals for logs or databases, salary intervals for
+payroll applications, etc), they should keep in mind these three rules:</description>
+      <guid>https://nigeltao.github.io/blog/2025/empty-intervals.html</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>ClaunkedIn</title>
+      <link>https://www.paritybits.me/claunkedin/</link>
+      <description>I've engaged in more software planning and development discourse with Claude models than any individual human.
+
+An aggregate history of my Anthropic accoun...</description>
+      <category>ai</category>
+      <guid>https://www.paritybits.me/claunkedin/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dinosaurs Eat Everybody :: Just Use a Laptop</title>
+      <link>https://dinosaurseateverybody.com/blog/just-use-a-laptop</link>
+      <description>My most millennial trait is that big purchases must happen in a big laptop screen.</description>
+      <category>apple</category>
+      <guid>https://dinosaurseateverybody.com/blog/just-use-a-laptop</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Hack is Not Enough / GioCities</title>
+      <link>https://blog.giovanh.com/blog/2025/10/14/a-hack-is-not-enough/</link>
+      <description>Twisted Sister's "there ain't no way we'll lose it" political theory has not held up</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://blog.giovanh.com/blog/2025/10/14/a-hack-is-not-enough/</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I still use Perl in 2025</title>
+      <link>https://rawley.xyz/posts/perl-in-2025.html</link>
+      <description>October 15th, 2025</description>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://rawley.xyz/posts/perl-in-2025.html</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inverse Collatz's Tape</title>
+      <link>https://gbragafibra.github.io/2025/10/15/collatz_ant10.html</link>
+      <description>Consider an empty tape with all unmarked cells, such that the reading head (standing initially in the middle of the tape) applies the collatz function to a starting n:</description>
+      <category>web</category>
+      <guid>https://gbragafibra.github.io/2025/10/15/collatz_ant10.html</guid>
+      <pubDate>Thu, 16 Oct 2025 00:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Physics Paths</title>
       <link>https://xkcd.com/3155/</link>
       <description></description>
