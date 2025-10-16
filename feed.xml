@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Half-Space Test</title>
+      <link>https://www.4rknova.com//blog/2019/03/09/half-space-test</link>
+      <description>An explanation of the math behind half-space testing</description>
+      <guid>https://www.4rknova.com//blog/2019/03/09/half-space-test</guid>
+      <pubDate>Thu, 16 Oct 2025 13:18:37 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - IRS-Public/fact-graph: Fact Graph</title>
       <link>https://github.com/IRS-Public/fact-graph</link>
       <description>Fact Graph . Contribute to IRS-Public/fact-graph development by creating an account on GitHub.</description>
@@ -310,39 +317,6 @@ Every cloud provider has a means of training a commitment for spend with lower c
       <description>Britain wastes millions a day switching off wind turbines. See how much has been wasted today, and in 2025.</description>
       <guid>https://wastedwind.energy/</guid>
       <pubDate>Wed, 15 Oct 2025 14:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unpacking Cloudflare Workers CPU Performance Benchmarks</title>
-      <link>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</link>
-      <description>Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations. These improvements have made Cloudflare Workers faster for all customers.
-</description>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <guid>https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/</guid>
-      <pubDate>Wed, 15 Oct 2025 12:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Is SQLite Coded In C</title>
-      <link>https://www.sqlite.org/whyc.html</link>
-      <description>Why Is SQLite Coded In C</description>
-      <category>sql</category>
-      <category>rust</category>
-      <category>android</category>
-      <category>apple</category>
-      <guid>https://www.sqlite.org/whyc.html</guid>
-      <pubDate>Wed, 15 Oct 2025 12:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code</title>
-      <link>https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code</link>
-      <description>Get details on our discovery of a critical vulnerability in GitHub Copilot Chat.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code</guid>
-      <pubDate>Wed, 15 Oct 2025 11:01:54 GMT</pubDate>
     </item>
   </channel>
 </rss>

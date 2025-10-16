@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Half-Space Test",
+    "Url": "https://www.4rknova.com//blog/2019/03/09/half-space-test",
+    "Timestamp": "2025-10-16T13:18:37",
+    "Domain": "www.4rknova.com",
+    "Description": "An explanation of the math behind half-space testing",
+    "Confidence": 0.8949836
+  },
+  {
     "Title": "GitHub - IRS-Public/fact-graph: Fact Graph",
     "Url": "https://github.com/IRS-Public/fact-graph",
     "Timestamp": "2025-10-16T07:02:08",
@@ -246,29 +254,5 @@
     "Domain": "wastedwind.energy",
     "Description": "Britain wastes millions a day switching off wind turbines. See how much has been wasted today, and in 2025.",
     "Confidence": 0.6893848
-  },
-  {
-    "Title": "Unpacking Cloudflare Workers CPU Performance Benchmarks",
-    "Url": "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/",
-    "Timestamp": "2025-10-15T12:01:59",
-    "Domain": "blog.cloudflare.com",
-    "Description": "Cloudflare investigated CPU performance benchmark results for Workers, uncovering and fixing issues in infrastructure, V8 garbage collection, and OpenNext optimizations. These improvements have made Cloudflare Workers faster for all customers.\n",
-    "Confidence": 0.977803
-  },
-  {
-    "Title": "Why Is SQLite Coded In C",
-    "Url": "https://www.sqlite.org/whyc.html",
-    "Timestamp": "2025-10-15T12:01:55",
-    "Domain": "www.sqlite.org",
-    "Description": "Why Is SQLite Coded In C",
-    "Confidence": 0.996262
-  },
-  {
-    "Title": "CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code",
-    "Url": "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code",
-    "Timestamp": "2025-10-15T11:01:54",
-    "Domain": "www.legitsecurity.com",
-    "Description": "Get details on our discovery of a critical vulnerability in GitHub Copilot Chat.",
-    "Confidence": 0.98653066
   }
 ]
