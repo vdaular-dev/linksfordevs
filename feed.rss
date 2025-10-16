@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Using CockroachDB in Secure Mode Locally | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/10/using-cockroachdb-in-secure-mode-locally/</link>
+      <description>It's not immediately obvious how to use CockroachDB in secure mode locally. In this post, I walk through the process of creating and using the necessary certificates.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/10/using-cockroachdb-in-secure-mode-locally/</guid>
+      <pubDate>Thu, 16 Oct 2025 02:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Dungeon Master, the Premier Atari ST Game</title>
       <link>https://www.goto10retro.com/p/dungeon-master-the-premier-atari</link>
       <description>By 1986, the Atari ST was flying high, leading to the amazing Dungeon Master game being released in 1987.</description>
