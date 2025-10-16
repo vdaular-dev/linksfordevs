@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Why Most Apps Should Start as Monoliths – Randy Shoup Explains",
+    "Url": "https://youtu.be/fy3jQNB0wlY",
+    "Timestamp": "2025-10-16T18:01:16",
+    "Domain": "youtu.be",
+    "Description": "#SoftwareArchitecture #RandyShoup #MonolithVsMicroservices\n#Microservices #SoftwareEngineering #TechLeadership\n#SystemDesign #StartupTech #DevTalks\n\nBoost your coding skills by joining Scrimba: https://scrimba.com?via=DevToolsMadeSimple\n\nhttps://youtu.be/MjPoob7CYnY?si=aW0akyEUvzHhVRda\n\nIn this clip, Randy Shoup—former engineering leader at Google, eBay, and Stitch Fix—breaks down why most software projects should start as monoliths. He explains the common misconceptions around microservices, and the point at which splitting your system actually makes architectural sense.\n\nAvoid premature complexity. Learn when scaling demands justify microservices—and when they don’t.",
+    "Confidence": 0.9904059
+  },
+  {
     "Title": "Implementing Beekeeping in my Farming Game!",
     "Url": "https://youtube.com/watch?v=_oZzIscVyDc",
     "Timestamp": "2025-10-16T16:02:06",
@@ -222,29 +230,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Claude Haiku 4.5, our latest small model, is available today to all users.",
     "Confidence": 0.9920659
-  },
-  {
-    "Title": "Owlcat Games - We create cRPGs",
-    "Url": "https://owlcat.games/learning",
-    "Timestamp": "2025-10-15T18:02:13",
-    "Domain": "owlcat.games",
-    "Description": "We create cRPGs",
-    "Confidence": 0.9056282
-  },
-  {
-    "Title": "How I Almost Got Hacked By A 'Job Interview'",
-    "Url": "https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview",
-    "Timestamp": "2025-10-15T18:02:07",
-    "Domain": "blog.daviddodda.com",
-    "Description": "I was 30 seconds away from running malware, Here's how a sophisticated scam operation almost got me, and why every developer needs to read this.",
-    "Confidence": 0.99124414
-  },
-  {
-    "Title": "How 73% of Your E-commerce Visitors Could Be Fake",
-    "Url": "https://joindatacops.com/resources/how-73-of-your-e-commerce-visitors-could-be-fake",
-    "Timestamp": "2025-10-15T18:02:03",
-    "Domain": "joindatacops.com",
-    "Description": "A conversion rate of less than 0.1%. That was the moment I realized something was fundamentally broken with the way we measure success on the internet.",
-    "Confidence": 0.82436514
   }
 ]
