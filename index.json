@@ -326,13 +326,5 @@
     "Domain": "zed.dev",
     "Description": "From the Zed Blog: Zed for Windows is finally here. Download it today.",
     "Confidence": 0.98771226
-  },
-  {
-    "Title": "Using CockroachDB in Secure Mode Locally | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/10/using-cockroachdb-in-secure-mode-locally/",
-    "Timestamp": "2025-10-16T02:02:12",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "It's not immediately obvious how to use CockroachDB in secure mode locally. In this post, I walk through the process of creating and using the necessary certificates.",
-    "Confidence": 0.9913701
   }
 ]
