@@ -1,5 +1,21 @@
 [
   {
+    "Title": "50 Cent Adjusted for Inflation",
+    "Url": "https://50centadjustedforinflation.com/",
+    "Timestamp": "2025-10-17T19:02:12",
+    "Domain": "50centadjustedforinflation.com",
+    "Description": "109 Cent",
+    "Confidence": 0.87491167
+  },
+  {
+    "Title": "You did no fact checking, and I must scream",
+    "Url": "https://shkspr.mobi/blog/2025/10/i-have-no-facts-and-i-must-scream/",
+    "Timestamp": "2025-10-17T19:02:09",
+    "Domain": "shkspr.mobi",
+    "Description": "I'm neither a journalist nor a professional fact checker but, the thing is, it's has never been easier to check basic facts. Yeah, sure, there's a world of misinformation out there, but it doesn't take much effort to determine if something is likely to be true.  There are brilliant tools like reverse Image Search which give you a good indicator of when an image first appeared on the web, and…",
+    "Confidence": 0.8793869
+  },
+  {
     "Title": "Planetary Rings",
     "Url": "https://xkcd.com/3156/",
     "Timestamp": "2025-10-17T16:02:05",
@@ -262,13 +278,5 @@
     "Domain": "www.unkey.com",
     "Description": "Every millisecond matters when you're in the critical path of API authentication. After two years of fighting serverless limitations, we rebuilt our entire API stack and slashed the end-to-end latency.",
     "Confidence": 0.9940095
-  },
-  {
-    "Title": "New Alpha Release: Tor Browser 15.0a4 | Tor Project",
-    "Url": "https://blog.torproject.org/new-alpha-release-tor-browser-150a4/",
-    "Timestamp": "2025-10-16T19:02:05",
-    "Domain": "blog.torproject.org",
-    "Description": "Tor Browser 15.0a4 is now available from the Tor Browser download page and also from our distribution directory.",
-    "Confidence": 0.97843707
   }
 ]
