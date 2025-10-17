@@ -7,6 +7,238 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>k8s-1m Overview</title>
+      <link>https://bchess.github.io/k8s-1m/</link>
+      <description>Early on in this project, I asked ChatGPT “I want to scale Kubernetes to 1 million nodes. What types of problems would I need to overcome?”</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>cloud</category>
+      <guid>https://bchess.github.io/k8s-1m/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Most of What We Call Progress</title>
+      <link>https://yusufaytas.com/most-of-what-we-call-progress/</link>
+      <description>What years of software development reveal about progress, process, and people, reflections on why good judgment outlasts tools, and simplicity always wins.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <category>sql</category>
+      <guid>https://yusufaytas.com/most-of-what-we-call-progress/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chief Bookmark Officer</title>
+      <link>https://www.nklswbr.com/blog/chief-bookmark-officer</link>
+      <description>OCT 1, 2025</description>
+      <guid>https://www.nklswbr.com/blog/chief-bookmark-officer</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini 3.0 Spotted in the Wild Through A/B Testing</title>
+      <link>https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/</link>
+      <description>Testing Google's highly anticipated Gemini 3.0 through AI Studio's A/B feature using SVG generation as a quality proxy</description>
+      <category>ai</category>
+      <guid>https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devlog ⚡ Zig Programming Language</title>
+      <link>https://ziglang.org/devlog/2025/#2025-10-15?utm_source=hnblogs.substack.com</link>
+      <description>This page contains a curated list of recent changes to main branch Zig.</description>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://ziglang.org/devlog/2025/#2025-10-15?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Convex – How I built a real-time application under 4 hours</title>
+      <link>https://www.arvindparekh.tech/writing/understanding-convex</link>
+      <description>Understanding Convex – The Backend Platform that keeps your app in sync</description>
+      <category>typescript</category>
+      <category>sql</category>
+      <guid>https://www.arvindparekh.tech/writing/understanding-convex</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>279: Confidence as the progressive overload of risk</title>
+      <link>https://www.jasonshen.com/279/</link>
+      <description>Treating confidence like a weight training program</description>
+      <category>gaming</category>
+      <guid>https://www.jasonshen.com/279/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Gradients</title>
+      <link>https://jakub.kr/work/gradients</link>
+      <description>A deep dive into how gradients work, how color models affect them and why some gradients look better than others.</description>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://jakub.kr/work/gradients</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Storing TOTP in Password Managers — Vishnu's Pages</title>
+      <link>https://iamvishnu.com/posts/totp-inside-password-manager</link>
+      <description>My argument is that storing TOTP in password managers undermines the very essence of two-factor authentication (2FA), and is still '1FA' in disguise.</description>
+      <guid>https://iamvishnu.com/posts/totp-inside-password-manager</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>LD_PRELOAD, The Invisible Key Theft</title>
+      <link>https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/</link>
+      <description>How LD_PRELOAD can be used to steal keys without you knowing...</description>
+      <category>linux</category>
+      <guid>https://bomfather.dev/blog/ld-preload-the-invisible-key-theft/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>How 2XKO Handles Online Play</title>
+      <link>https://2xko.riotgames.com/en-us/news/dev/how-2xko-handles-online-play/</link>
+      <description>Here’s all the tech we’re using to make online play just as fair, fast, and fun as offline.</description>
+      <category>gaming</category>
+      <category>conference</category>
+      <guid>https://2xko.riotgames.com/en-us/news/dev/how-2xko-handles-online-play/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Re(blog, tweet, toot, skoot, skeеt, post)</title>
+      <link>https://sethmlarson.dev/reblog-tweet-toot-skoot-skeet</link>
+      <description>Have you noticed the similar terms used for sharing
+someone else's content with attribution from your own account?
+Reblogging was the original term for “blogging” another user's content, first deve...</description>
+      <guid>https://sethmlarson.dev/reblog-tweet-toot-skoot-skeet</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating Catchy Cover Letters</title>
+      <link>https://keenwrite.com/blog/2025/10/15/creating-catchy-cover-letters/</link>
+      <description>Creating catchy cover letters</description>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://keenwrite.com/blog/2025/10/15/creating-catchy-cover-letters/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your startup has to be a surveillance state to automate jobs</title>
+      <link>https://manidoraisamy.com/startup-ai-surveillance.html</link>
+      <description>AI can't automate jobs without context. Big companies struggle with historic data, startups struggle with real-time changes. The solution? Solo founders who eliminate coordination overhead—or surveillance states that record everything.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://manidoraisamy.com/startup-ai-surveillance.html</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Craft and Industry</title>
+      <link>https://takezo.bearblog.dev/craft-and-industry/</link>
+      <description>Can you make something for mass consumption that retains its soul?
+
+A homemade burger and a McDonalds Big Mac. Shoestring cult classic vs the next Marvel m...</description>
+      <category>apple</category>
+      <guid>https://takezo.bearblog.dev/craft-and-industry/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Technology is my leverage, not design • Ole Herland</title>
+      <link>https://herland.me/blog/technology-is-my-leverage-not-design/</link>
+      <description>I'm an overthinker by default, and I always get stuck on the design part of building products.</description>
+      <guid>https://herland.me/blog/technology-is-my-leverage-not-design/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Slack I Loved Is Slipping Away</title>
+      <link>https://sjg.io/writing/the-slack-i-loved-is-slipping-away/</link>
+      <description>Salesforce's grip on Slack is reshaping it from a neutral collaboration layer into a gated CRM surface, squeezing communities and third-party builders.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://sjg.io/writing/the-slack-i-loved-is-slipping-away/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are we Trek yet?</title>
+      <link>https://nicolaiarocci.com/are-we-trek-yet/</link>
+      <description> This guide is intended to be a comprehensive look at the tech that Star Trek suggested to drive humanity forward ad astra per aspera. The emphasis is on innovations that don’t violate physics according to present consensus understanding. Go ahead and explore boldly.
+Are We Trek Yet? – A guide for how close we are to Star Trek technology is a funny, revealing, and well-executed idea. It is somewhat comforting that at the time of this writing, eight of all the Star Trek technologies are readily available, and thirty-one are in progress. It only tracks Star Trek technology, though.</description>
+      <guid>https://nicolaiarocci.com/are-we-trek-yet/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>When Bots Pump Your OTPs (SMS Pumping)</title>
+      <link>https://gsociety.fr/when-bots-pump-your-otps-sms-pumping/</link>
+      <description>A few years ago, I spent several months chasing a weird kind…</description>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://gsociety.fr/when-bots-pump-your-otps-sms-pumping/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opinion piece: On Zig (and the design choices within)</title>
+      <link>https://blueberrywren.dev/blog/on-zig/</link>
+      <description>2025-10-14</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://blueberrywren.dev/blog/on-zig/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I switched from ruby to elixir and to learn it better - built a product</title>
+      <link>https://alexsinelnikov.blog/how-i-switched-from-ruby-to-elixir-and-to-learn-it-better-built-a-product</link>
+      <description>How I transitioned from Ruby to Elixir by building a product, exploring Elixir/Phoenix features, and overcoming deployment challenges</description>
+      <author> (https://hashnode.com/@avdept)</author>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://alexsinelnikov.blog/how-i-switched-from-ruby-to-elixir-and-to-learn-it-better-built-a-product</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sanitized SQL</title>
+      <link>https://ardentperf.com/2025/10/15/sanitized-sql/</link>
+      <description>A couple times within the past month, I’ve had people send me a message asking if I have any suggestions about where to learn postgres. I like to share the collection of links that I’ve…</description>
+      <category>sql</category>
+      <guid>https://ardentperf.com/2025/10/15/sanitized-sql/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learning how to work in a group</title>
+      <link>https://amirghofran.com/blog/groupwork/</link>
+      <description>Yousef Amirghofran personal website</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://amirghofran.com/blog/groupwork/</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep Agents</title>
+      <link>https://nlp.elvissaravia.com/p/deep-agents</link>
+      <description>On the future of AI Agents.</description>
+      <category>ai</category>
+      <guid>https://nlp.elvissaravia.com/p/deep-agents</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>autumn (@froggi.es)</title>
+      <link>https://bsky.app/profile/froggi.es/post/3m36txfxcb427</link>
+      <description>After about 3 days of work, I got DLSS to work on NVK (the open source NVIDIA driver in Mesa)! 🎉
+
+DLSS is essentially just some launched Cuda kernels, so it was just a matter of implementing the VK_NVX_binary_import and VK_NVX_image_view_handle extensions.
+
+1/5
+
+(Control, 960x540 -&gt; 1920x1080)</description>
+      <guid>https://bsky.app/profile/froggi.es/post/3m36txfxcb427</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I’m not a fan of zero-copy Apache Kafka-Apache Iceberg — Jack Vanlightly</title>
+      <link>https://jack-vanlightly.com/blog/2025/10/15/why-im-not-a-fan-of-zero-copy-apache-kafka-apache-iceberg</link>
+      <description>Over the past few months, I’ve seen a growing number of posts on social media promoting the idea of a “zero-copy” integration between Apache Kafka and Apache Iceberg. The idea is that Kafka topics could live directly as Iceberg tables. On the surface it sounds efficient: one copy of the data, unifie</description>
+      <category>gaming</category>
+      <guid>https://jack-vanlightly.com/blog/2025/10/15/why-im-not-a-fan-of-zero-copy-apache-kafka-apache-iceberg</guid>
+      <pubDate>Fri, 17 Oct 2025 00:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>How I Bypassed Amazon's Kindle Web DRM Because Their App Sucked</title>
       <link>https://blog.pixelmelt.dev/kindle-web-drm/</link>
       <description>As it turns out they don't actually want you to do this (and have some interesting ways to stop you)</description>
@@ -204,144 +436,6 @@ This was caused by slightly inaccurate timing.</description>
       <category>linux</category>
       <guid>https://www.goto10retro.com/p/dungeon-master-the-premier-atari</guid>
       <pubDate>Thu, 16 Oct 2025 01:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Please Stop Splitting Things - Alek's Blog</title>
-      <link>https://blog.kirilov.dev/2025/09/26/please-stop-splitting-things/</link>
-      <description>As engineers, we learn from the very beginning that bundling too many things together is bad. Be it writing a huge
-function or a class file, having thousands
-of lines.
-The same holds true for non-technical aspects such as project documentation, project tickets, etc.</description>
-      <category>git</category>
-      <category>conference</category>
-      <category>vscode</category>
-      <guid>https://blog.kirilov.dev/2025/09/26/please-stop-splitting-things/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automating HTB with LLM-driven n8n Agent — Technical Writeup | luciuswayne.com</title>
-      <link>https://luciuswayne.com/blog/automating-hack-the-box-with-llm-n8n-agent/</link>
-      <description>Learn how an LLM-powered n8n workflow automated end-to-end exploitation of Hack The Box's Editor machine, from reconnaissance to flag extraction, and discover the pitfalls and safety considerations of automated red team operations.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>linux</category>
-      <category>sql</category>
-      <guid>https://luciuswayne.com/blog/automating-hack-the-box-with-llm-n8n-agent/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>How banks create money (with your money)</title>
-      <link>https://mikenotthepope.com/how-banks-create-money-with-your-money/</link>
-      <description>Let's say NewBank just opened its first branch. They start off with $0 in customer deposits. You walk into the bank with a big sack of cash with $100K in it and the bank manager says, "Hey, it looks like we have our first customer!"</description>
-      <guid>https://mikenotthepope.com/how-banks-create-money-with-your-money/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Dreamseeker’s Vision of Tomorrow - Dhole Moments</title>
-      <link>https://soatok.blog/2025/10/15/the-dreamseekers-vision-of-tomorrow/</link>
-      <description>Since I have your attention for the moment, I’d like you to ask yourself a question: What is it that drives you in life? Do you yearn for the feeling of safety? By seeking power, status, weal…</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://soatok.blog/2025/10/15/the-dreamseekers-vision-of-tomorrow/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Learned to Spot Inflated Bids (and What You Can Do Too)</title>
-      <link>https://spicermatthews.com/blog/how-i-learned-to-spot-inflated-bids-and-what-you-can-do-too/</link>
-      <description>After two decades as a hobbyist builder, I've learned to spot when contractors are pricing the job—or pricing the lifestyle. Here's how to protect your budget and get fair quotes.</description>
-      <category>youtube</category>
-      <guid>https://spicermatthews.com/blog/how-i-learned-to-spot-inflated-bids-and-what-you-can-do-too/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>I hate acrobat</title>
-      <link>https://www.vincentuden.xyz/blog/pdf-reader</link>
-      <description>Astro description</description>
-      <category>linux</category>
-      <guid>https://www.vincentuden.xyz/blog/pdf-reader</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deep Work (Sometimes) Pays Off – Asad Memon</title>
-      <link>https://asadmemon.com/blog/deep/</link>
-      <description>Asad Memon's homepage.</description>
-      <category>gaming</category>
-      <guid>https://asadmemon.com/blog/deep/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>    
-                        Homogeneous by Design – Jon C. Phillips
-            </title>
-      <link>https://joncphillips.com/homogeneous-by-design/</link>
-      <description>    
-                                        We have unlimited design possibilities, infinite color palettes, and AI that can create anything. So why does every website look exactly the same? Wel…
-            </description>
-      <author> (https://joncphillips.com/)</author>
-      <category>web</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>gaming</category>
-      <guid>https://joncphillips.com/homogeneous-by-design/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Empty Intervals are Valid Intervals</title>
-      <link>https://nigeltao.github.io/blog/2025/empty-intervals.html</link>
-      <description>Summary: whenever a programmer works with intervals (whether pixel intervals
-for graphics, time intervals for logs or databases, salary intervals for
-payroll applications, etc), they should keep in mind these three rules:</description>
-      <guid>https://nigeltao.github.io/blog/2025/empty-intervals.html</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClaunkedIn</title>
-      <link>https://www.paritybits.me/claunkedin/</link>
-      <description>I've engaged in more software planning and development discourse with Claude models than any individual human.
-
-An aggregate history of my Anthropic accoun...</description>
-      <category>ai</category>
-      <guid>https://www.paritybits.me/claunkedin/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dinosaurs Eat Everybody :: Just Use a Laptop</title>
-      <link>https://dinosaurseateverybody.com/blog/just-use-a-laptop</link>
-      <description>My most millennial trait is that big purchases must happen in a big laptop screen.</description>
-      <category>apple</category>
-      <guid>https://dinosaurseateverybody.com/blog/just-use-a-laptop</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Hack is Not Enough / GioCities</title>
-      <link>https://blog.giovanh.com/blog/2025/10/14/a-hack-is-not-enough/</link>
-      <description>Twisted Sister's "there ain't no way we'll lose it" political theory has not held up</description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://blog.giovanh.com/blog/2025/10/14/a-hack-is-not-enough/</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I still use Perl in 2025</title>
-      <link>https://rawley.xyz/posts/perl-in-2025.html</link>
-      <description>October 15th, 2025</description>
-      <category>python</category>
-      <category>web</category>
-      <guid>https://rawley.xyz/posts/perl-in-2025.html</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inverse Collatz's Tape</title>
-      <link>https://gbragafibra.github.io/2025/10/15/collatz_ant10.html</link>
-      <description>Consider an empty tape with all unmarked cells, such that the reading head (standing initially in the middle of the tape) applies the collatz function to a starting n:</description>
-      <category>web</category>
-      <guid>https://gbragafibra.github.io/2025/10/15/collatz_ant10.html</guid>
-      <pubDate>Thu, 16 Oct 2025 00:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
