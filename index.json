@@ -278,29 +278,5 @@
     "Domain": "vectrx.substack.com",
     "Description": "An In-Depth Explanation in C++, From First Principles to Practical Implementation",
     "Confidence": 0.9983562
-  },
-  {
-    "Title": "Emulator Bugs: Metal Max 2 Kai",
-    "Url": "https://jsgroth.dev/blog/posts/emulator-bugs-metal-max-2-kai/",
-    "Timestamp": "2025-10-16T14:02:13",
-    "Domain": "jsgroth.dev",
-    "Description": "This is a post on a bug that broke Metal Max 2 Kai for the Game Boy Advance, a port of the Super Famicom game Metal Max 2.\nThe text box is definitely not supposed to do that!\nThis was caused by slightly inaccurate timing.",
-    "Confidence": 0.9828061
-  },
-  {
-    "Title": "Mapgen4’s use of WebGL2",
-    "Url": "https://www.redblobgames.com/blog/2025-10-13-mapgen4-webgl2/",
-    "Timestamp": "2025-10-16T14:02:09",
-    "Domain": "www.redblobgames.com",
-    "Description": "I try to avoid big software rewrites. But sometimes the rewrites are just an excuse to re-familiarize myself with the code. I rationalized rewriting Mapgen4’s renderer by saying I wanted to use WebGL2. And I did use WebGL2, but the improvements turned out to be minor:",
-    "Confidence": 0.9927014
-  },
-  {
-    "Title": "Half-Space Test",
-    "Url": "https://www.4rknova.com//blog/2019/03/09/half-space-test",
-    "Timestamp": "2025-10-16T13:18:37",
-    "Domain": "www.4rknova.com",
-    "Description": "An explanation of the math behind half-space testing",
-    "Confidence": 0.8949836
   }
 ]

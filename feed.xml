@@ -361,31 +361,5 @@ Camera Mic: https://amzn.to/48ZcRcE
       <guid>https://vectrx.substack.com/p/wave-function-collapse</guid>
       <pubDate>Thu, 16 Oct 2025 15:02:20 GMT</pubDate>
     </item>
-    <item>
-      <title>Emulator Bugs: Metal Max 2 Kai</title>
-      <link>https://jsgroth.dev/blog/posts/emulator-bugs-metal-max-2-kai/</link>
-      <description>This is a post on a bug that broke Metal Max 2 Kai for the Game Boy Advance, a port of the Super Famicom game Metal Max 2.
-The text box is definitely not supposed to do that!
-This was caused by slightly inaccurate timing.</description>
-      <category>gaming</category>
-      <guid>https://jsgroth.dev/blog/posts/emulator-bugs-metal-max-2-kai/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mapgen4’s use of WebGL2</title>
-      <link>https://www.redblobgames.com/blog/2025-10-13-mapgen4-webgl2/</link>
-      <description>I try to avoid big software rewrites. But sometimes the rewrites are just an excuse to re-familiarize myself with the code. I rationalized rewriting Mapgen4’s renderer by saying I wanted to use WebGL2. And I did use WebGL2, but the improvements turned out to be minor:</description>
-      <category>vscode</category>
-      <category>android</category>
-      <guid>https://www.redblobgames.com/blog/2025-10-13-mapgen4-webgl2/</guid>
-      <pubDate>Thu, 16 Oct 2025 14:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Half-Space Test</title>
-      <link>https://www.4rknova.com//blog/2019/03/09/half-space-test</link>
-      <description>An explanation of the math behind half-space testing</description>
-      <guid>https://www.4rknova.com//blog/2019/03/09/half-space-test</guid>
-      <pubDate>Thu, 16 Oct 2025 13:18:37 GMT</pubDate>
-    </item>
   </channel>
 </rss>
