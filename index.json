@@ -262,13 +262,5 @@
     "Domain": "jack-vanlightly.com",
     "Description": "Over the past few months, I’ve seen a growing number of posts on social media promoting the idea of a “zero-copy” integration between Apache Kafka and Apache Iceberg. The idea is that Kafka topics could live directly as Iceberg tables. On the surface it sounds efficient: one copy of the data, unifie",
     "Confidence": 0.9855204
-  },
-  {
-    "Title": "How I Bypassed Amazon's Kindle Web DRM Because Their App Sucked",
-    "Url": "https://blog.pixelmelt.dev/kindle-web-drm/",
-    "Timestamp": "2025-10-16T23:01:52",
-    "Domain": "blog.pixelmelt.dev",
-    "Description": "As it turns out they don't actually want you to do this (and have some interesting ways to stop you)",
-    "Confidence": 0.95567214
   }
 ]
