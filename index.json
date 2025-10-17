@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+    "Url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+    "Timestamp": "2025-10-17T22:02:01",
+    "Domain": "simonwillison.net",
+    "Description": "Anthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models: Claude can now use Skills to improve how it performs specific tasks. Skills …",
+    "Confidence": 0.98634607
+  },
+  {
     "Title": "Andrej Karpathy — AGI is still a decade away",
     "Url": "https://www.dwarkesh.com/p/andrej-karpathy",
     "Timestamp": "2025-10-17T20:02:06",
@@ -262,13 +270,5 @@
     "Domain": "blog.pixelmelt.dev",
     "Description": "As it turns out they don't actually want you to do this (and have some interesting ways to stop you)",
     "Confidence": 0.95567214
-  },
-  {
-    "Title": "Distributed Ray-Tracing",
-    "Url": "https://www.4rknova.com//blog/2019/02/24/distributed-raytracing",
-    "Timestamp": "2025-10-16T22:01:57",
-    "Domain": "www.4rknova.com",
-    "Description": "An overview of how distributed ray-tracing enhances realism by addressing the limits of traditional ray-tracing, using Monte Carlo sampling to simulate effects like soft shadows, gloss, depth of fi...",
-    "Confidence": 0.992424
   }
 ]

@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Skills are awesome, maybe a bigger deal than MCP</title>
+      <link>https://simonwillison.net/2025/Oct/16/claude-skills/</link>
+      <description>Anthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models: Claude can now use Skills to improve how it performs specific tasks. Skills …</description>
+      <category>python</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://simonwillison.net/2025/Oct/16/claude-skills/</guid>
+      <pubDate>Fri, 17 Oct 2025 22:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Andrej Karpathy — AGI is still a decade away</title>
       <link>https://www.dwarkesh.com/p/andrej-karpathy</link>
       <description>"The problems are tractable, but they're still difficult”</description>
@@ -305,13 +316,6 @@ DLSS is essentially just some launched Cuda kernels, so it was just a matter of 
       <category>python</category>
       <guid>https://blog.pixelmelt.dev/kindle-web-drm/</guid>
       <pubDate>Thu, 16 Oct 2025 23:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed Ray-Tracing</title>
-      <link>https://www.4rknova.com//blog/2019/02/24/distributed-raytracing</link>
-      <description>An overview of how distributed ray-tracing enhances realism by addressing the limits of traditional ray-tracing, using Monte Carlo sampling to simulate effects like soft shadows, gloss, depth of fi...</description>
-      <guid>https://www.4rknova.com//blog/2019/02/24/distributed-raytracing</guid>
-      <pubDate>Thu, 16 Oct 2025 22:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
