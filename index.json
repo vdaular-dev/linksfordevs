@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Andrej Karpathy — AGI is still a decade away",
+    "Url": "https://www.dwarkesh.com/p/andrej-karpathy",
+    "Timestamp": "2025-10-17T20:02:06",
+    "Domain": "www.dwarkesh.com",
+    "Description": "\"The problems are tractable, but they're still difficult”",
+    "Confidence": 0.99280083
+  },
+  {
     "Title": "50 Cent Adjusted for Inflation",
     "Url": "https://50centadjustedforinflation.com/",
     "Timestamp": "2025-10-17T19:02:12",
@@ -262,21 +270,5 @@
     "Domain": "www.4rknova.com",
     "Description": "An overview of how distributed ray-tracing enhances realism by addressing the limits of traditional ray-tracing, using Monte Carlo sampling to simulate effects like soft shadows, gloss, depth of fi...",
     "Confidence": 0.992424
-  },
-  {
-    "Title": "Claude Skills: Customize AI for your workflows",
-    "Url": "https://www.anthropic.com/news/skills",
-    "Timestamp": "2025-10-16T20:02:04",
-    "Domain": "www.anthropic.com",
-    "Description": "Build custom Skills to teach Claude specialized tasks. Create once, use everywhere—from spreadsheets to coding. Available across Claude.ai, API, and Code.",
-    "Confidence": 0.9980102
-  },
-  {
-    "Title": "Why we're leaving serverless | Unkey",
-    "Url": "https://www.unkey.com/blog/serverless-exit",
-    "Timestamp": "2025-10-16T20:01:56",
-    "Domain": "www.unkey.com",
-    "Description": "Every millisecond matters when you're in the critical path of API authentication. After two years of fighting serverless limitations, we rebuilt our entire API stack and slashed the end-to-end latency.",
-    "Confidence": 0.9940095
   }
 ]

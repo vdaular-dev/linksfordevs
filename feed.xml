@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Andrej Karpathy — AGI is still a decade away</title>
+      <link>https://www.dwarkesh.com/p/andrej-karpathy</link>
+      <description>"The problems are tractable, but they're still difficult”</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.dwarkesh.com/p/andrej-karpathy</guid>
+      <pubDate>Fri, 17 Oct 2025 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>50 Cent Adjusted for Inflation</title>
       <link>https://50centadjustedforinflation.com/</link>
       <description>109 Cent</description>
@@ -303,26 +312,6 @@ DLSS is essentially just some launched Cuda kernels, so it was just a matter of 
       <description>An overview of how distributed ray-tracing enhances realism by addressing the limits of traditional ray-tracing, using Monte Carlo sampling to simulate effects like soft shadows, gloss, depth of fi...</description>
       <guid>https://www.4rknova.com//blog/2019/02/24/distributed-raytracing</guid>
       <pubDate>Thu, 16 Oct 2025 22:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Skills: Customize AI for your workflows</title>
-      <link>https://www.anthropic.com/news/skills</link>
-      <description>Build custom Skills to teach Claude specialized tasks. Create once, use everywhere—from spreadsheets to coding. Available across Claude.ai, API, and Code.</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/skills</guid>
-      <pubDate>Thu, 16 Oct 2025 20:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why we're leaving serverless | Unkey</title>
-      <link>https://www.unkey.com/blog/serverless-exit</link>
-      <description>Every millisecond matters when you're in the critical path of API authentication. After two years of fighting serverless limitations, we rebuilt our entire API stack and slashed the end-to-end latency.</description>
-      <category>cloud</category>
-      <category>git</category>
-      <category>containers</category>
-      <category>javascript</category>
-      <guid>https://www.unkey.com/blog/serverless-exit</guid>
-      <pubDate>Thu, 16 Oct 2025 20:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
