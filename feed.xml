@@ -7,6 +7,146 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Saving $4000+/month with self-hosted runners — featherless software design</title>
+      <link>https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/</link>
+      <description>Published: Oct 17, 2025</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Confident Loving and Kind</title>
+      <link>https://cauldron.life/blog/confident-loving-kind/</link>
+      <description>There are days in our life which we look back at - often. They hold a special place in our psyche because they make us what we have aspired to be. It’s a day which is complete in itself. It doesn’t need the past or the future. This is a distilled version of one such day in my life. How raw can I be? We will have to see but it will be one I will look back at often.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://cauldron.life/blog/confident-loving-kind/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Ofcom Files</title>
+      <link>https://prestonbyrne.com/2025/10/16/the-ofcom-files/</link>
+      <description>Below is relevant enforcement correspondence sent by the UK Office of Communications, known by the Orwellian portmanteau “Ofcom,” to my client, 4chan, in relation to its Online Safety A…</description>
+      <guid>https://prestonbyrne.com/2025/10/16/the-ofcom-files/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The bottleneck cascade</title>
+      <link>https://www.davidlpeterson.com/the-bottleneck-cascade/</link>
+      <description>In April 2024, Mark Zuckerberg told Dwarkesh Patel that Meta’s biggest constraint in developing AI wasn’t GPUs. It was power. Even with unlimited capital, the lead time on new energy generation was years.
+
+Tyler Cowen made a similar point. When asked why the AI-takeoff may be slower than</description>
+      <category>ai</category>
+      <guid>https://www.davidlpeterson.com/the-bottleneck-cascade/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents 2.0: From Shallow Loops to Deep Agents</title>
+      <link>https://www.philschmid.de/agents-2.0-deep-agents</link>
+      <description>An overview of the architectural shift from Shallow Agents (Agent 1.0) to Deep Agents (Agent 2.0) and how to build complex AI agents that can handle multi-step tasks over extended periods.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.philschmid.de/agents-2.0-deep-agents</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lukas Werner - Why Software Quality Disappeared: Culture</title>
+      <link>https://lukaswerner.com/post/2025-10-14@swe-qc-culture</link>
+      <description>In response to The Great Software Quality Collapse: How We Normalized Catastrophe:</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://lukaswerner.com/post/2025-10-14@swe-qc-culture</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>My perfect Music app doesn’t exist - Hicks.design</title>
+      <link>https://hicks.design/journal/my-perfect-music-app-doesnt-exist</link>
+      <description>A long dive into the features that make my ideal music app, and why nothing currently fulfils the brief.</description>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://hicks.design/journal/my-perfect-music-app-doesnt-exist</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Reinstated My Guestbook After 20 Years!</title>
+      <link>https://susam.net/reinstated-guestbook.html</link>
+      <description>By Susam Pal on 03 Oct 2025</description>
+      <category>aspnet</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://susam.net/reinstated-guestbook.html</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Skills is context management for code execution</title>
+      <link>https://www.noahlebovic.com/claude-skills-is-context-management-for-code-execution/</link>
+      <description>Claude Skills was released earlier today by Anthropic. It’s effectively an extension of the Code Execution server-side tool paired with context on how Claude should operate on files in a container. The quirk is that Skills have three progressive layers of context exposure:
+
+ 1. Metadata, which is added to</description>
+      <category>ai</category>
+      <guid>https://www.noahlebovic.com/claude-skills-is-context-management-for-code-execution/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to build an agent</title>
+      <link>https://samdobson.uk/posts/how-to-build-an-agent/</link>
+      <description>Building a fully functioning coding agent is not nearly as hard as you might think.
+When you watch an agent autonomously editing files, running commands, recovering from errors, and adapting its strategy on the fly, it feels like magic. Like there must be some secret sauce you’re missing.
+But there isn’t. The core of an agent is surprisingly simple: an LLM, a loop, and enough context. Everything else is just good engineering.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>python</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://samdobson.uk/posts/how-to-build-an-agent/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Penrose II</title>
+      <link>https://fanyangxyz.github.io/penrose-ii/</link>
+      <description>machine learning and generative art</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://fanyangxyz.github.io/penrose-ii/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automated Email Spam Detection Using N8N</title>
+      <link>https://prakhargurunani.com/blog/detecting-spam-emails-using-n8n/</link>
+      <description></description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://prakhargurunani.com/blog/detecting-spam-emails-using-n8n/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>High-precision date/time in C</title>
+      <link>https://antonz.org/vaqt/</link>
+      <description>Unix time, calendar time, time comparison, arithmetic, rounding, and marshaling.</description>
+      <guid>https://antonz.org/vaqt/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The lonely bot</title>
+      <link>https://nry.me/posts/2025-07-11/missed-connections-markov-chain/</link>
+      <description>Missed connections and Markov chains</description>
+      <category>sql</category>
+      <guid>https://nry.me/posts/2025-07-11/missed-connections-markov-chain/</guid>
+      <pubDate>Sat, 18 Oct 2025 01:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meeting Or Deleting Constraints</title>
+      <link>https://www.jasonthorsness.com/33</link>
+      <description>Meeting Or Deleting Constraints</description>
+      <category>sql</category>
+      <guid>https://www.jasonthorsness.com/33</guid>
+      <pubDate>Sat, 18 Oct 2025 01:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Intercellular communication in the brain through a dendritic nanotubular network</title>
       <link>https://www.science.org/doi/10.1126/science.adr7403</link>
       <description>Intercellular nanotubular networks mediate material exchange, but their existence in neurons remains to be explored in detail. We identified long, thin dendritic filopodia forming direct dendrite–dendrite nanotubes (DNTs) in mammalian cortex. Super-...</description>

@@ -1,5 +1,110 @@
 [
   {
+    "Title": "Saving $4000+/month with self-hosted runners — featherless software design",
+    "Url": "https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/",
+    "Timestamp": "2025-10-18T01:02:51",
+    "Domain": "jeffverkoeyen.com",
+    "Description": "Published: Oct 17, 2025"
+  },
+  {
+    "Title": "Confident Loving and Kind",
+    "Url": "https://cauldron.life/blog/confident-loving-kind/",
+    "Timestamp": "2025-10-18T01:02:48",
+    "Domain": "cauldron.life",
+    "Description": "There are days in our life which we look back at - often. They hold a special place in our psyche because they make us what we have aspired to be. It’s a day which is complete in itself. It doesn’t need the past or the future. This is a distilled version of one such day in my life. How raw can I be? We will have to see but it will be one I will look back at often."
+  },
+  {
+    "Title": "The Ofcom Files",
+    "Url": "https://prestonbyrne.com/2025/10/16/the-ofcom-files/",
+    "Timestamp": "2025-10-18T01:02:45",
+    "Domain": "prestonbyrne.com",
+    "Description": "Below is relevant enforcement correspondence sent by the UK Office of Communications, known by the Orwellian portmanteau “Ofcom,” to my client, 4chan, in relation to its Online Safety A…"
+  },
+  {
+    "Title": "The bottleneck cascade",
+    "Url": "https://www.davidlpeterson.com/the-bottleneck-cascade/",
+    "Timestamp": "2025-10-18T01:02:41",
+    "Domain": "www.davidlpeterson.com",
+    "Description": "In April 2024, Mark Zuckerberg told Dwarkesh Patel that Meta’s biggest constraint in developing AI wasn’t GPUs. It was power. Even with unlimited capital, the lead time on new energy generation was years.\n\nTyler Cowen made a similar point. When asked why the AI-takeoff may be slower than"
+  },
+  {
+    "Title": "Agents 2.0: From Shallow Loops to Deep Agents",
+    "Url": "https://www.philschmid.de/agents-2.0-deep-agents",
+    "Timestamp": "2025-10-18T01:02:37",
+    "Domain": "www.philschmid.de",
+    "Description": "An overview of the architectural shift from Shallow Agents (Agent 1.0) to Deep Agents (Agent 2.0) and how to build complex AI agents that can handle multi-step tasks over extended periods."
+  },
+  {
+    "Title": "Lukas Werner - Why Software Quality Disappeared: Culture",
+    "Url": "https://lukaswerner.com/post/2025-10-14@swe-qc-culture",
+    "Timestamp": "2025-10-18T01:02:34",
+    "Domain": "lukaswerner.com",
+    "Description": "In response to The Great Software Quality Collapse: How We Normalized Catastrophe:"
+  },
+  {
+    "Title": "My perfect Music app doesn’t exist - Hicks.design",
+    "Url": "https://hicks.design/journal/my-perfect-music-app-doesnt-exist",
+    "Timestamp": "2025-10-18T01:02:30",
+    "Domain": "hicks.design",
+    "Description": "A long dive into the features that make my ideal music app, and why nothing currently fulfils the brief."
+  },
+  {
+    "Title": "I Reinstated My Guestbook After 20 Years!",
+    "Url": "https://susam.net/reinstated-guestbook.html",
+    "Timestamp": "2025-10-18T01:02:24",
+    "Domain": "susam.net",
+    "Description": "By Susam Pal on 03 Oct 2025"
+  },
+  {
+    "Title": "Claude Skills is context management for code execution",
+    "Url": "https://www.noahlebovic.com/claude-skills-is-context-management-for-code-execution/",
+    "Timestamp": "2025-10-18T01:02:20",
+    "Domain": "www.noahlebovic.com",
+    "Description": "Claude Skills was released earlier today by Anthropic. It’s effectively an extension of the Code Execution server-side tool paired with context on how Claude should operate on files in a container. The quirk is that Skills have three progressive layers of context exposure:\n\n 1. Metadata, which is added to"
+  },
+  {
+    "Title": "How to build an agent",
+    "Url": "https://samdobson.uk/posts/how-to-build-an-agent/",
+    "Timestamp": "2025-10-18T01:02:16",
+    "Domain": "samdobson.uk",
+    "Description": "Building a fully functioning coding agent is not nearly as hard as you might think.\nWhen you watch an agent autonomously editing files, running commands, recovering from errors, and adapting its strategy on the fly, it feels like magic. Like there must be some secret sauce you’re missing.\nBut there isn’t. The core of an agent is surprisingly simple: an LLM, a loop, and enough context. Everything else is just good engineering."
+  },
+  {
+    "Title": "Penrose II",
+    "Url": "https://fanyangxyz.github.io/penrose-ii/",
+    "Timestamp": "2025-10-18T01:02:12",
+    "Domain": "fanyangxyz.github.io",
+    "Description": "machine learning and generative art"
+  },
+  {
+    "Title": "Automated Email Spam Detection Using N8N",
+    "Url": "https://prakhargurunani.com/blog/detecting-spam-emails-using-n8n/",
+    "Timestamp": "2025-10-18T01:02:09",
+    "Domain": "prakhargurunani.com",
+    "Description": ""
+  },
+  {
+    "Title": "High-precision date/time in C",
+    "Url": "https://antonz.org/vaqt/",
+    "Timestamp": "2025-10-18T01:02:05",
+    "Domain": "antonz.org",
+    "Description": "Unix time, calendar time, time comparison, arithmetic, rounding, and marshaling."
+  },
+  {
+    "Title": "The lonely bot",
+    "Url": "https://nry.me/posts/2025-07-11/missed-connections-markov-chain/",
+    "Timestamp": "2025-10-18T01:02:02",
+    "Domain": "nry.me",
+    "Description": "Missed connections and Markov chains"
+  },
+  {
+    "Title": "Meeting Or Deleting Constraints",
+    "Url": "https://www.jasonthorsness.com/33",
+    "Timestamp": "2025-10-18T01:01:58",
+    "Domain": "www.jasonthorsness.com",
+    "Description": "Meeting Or Deleting Constraints"
+  },
+  {
     "Title": "Intercellular communication in the brain through a dendritic nanotubular network",
     "Url": "https://www.science.org/doi/10.1126/science.adr7403",
     "Timestamp": "2025-10-18T00:01:53",
