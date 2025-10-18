@@ -1,5 +1,13 @@
 [
   {
+    "Title": "./watch",
+    "Url": "https://dotslashwatch.com/",
+    "Timestamp": "2025-10-18T20:01:56",
+    "Domain": "dotslashwatch.com",
+    "Description": "Many quartz watches do their best to hide away any electronic components from view.  The design concept for this watch was to embrace those digital components instead, taking inspiration from command-line interfaces and computer hardware.",
+    "Confidence": 0.9213224
+  },
+  {
     "Title": "The pivot - Charlie's Diary",
     "Url": "https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html",
     "Timestamp": "2025-10-18T06:02:03",
@@ -142,13 +150,5 @@
     "Domain": "simonwillison.net",
     "Description": "Anthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models: Claude can now use Skills to improve how it performs specific tasks. Skills …",
     "Confidence": 0.98634607
-  },
-  {
-    "Title": "Andrej Karpathy — AGI is still a decade away",
-    "Url": "https://www.dwarkesh.com/p/andrej-karpathy",
-    "Timestamp": "2025-10-17T20:02:06",
-    "Domain": "www.dwarkesh.com",
-    "Description": "\"The problems are tractable, but they're still difficult”",
-    "Confidence": 0.99280083
   }
 ]

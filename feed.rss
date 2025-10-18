@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>./watch</title>
+      <link>https://dotslashwatch.com/</link>
+      <description>Many quartz watches do their best to hide away any electronic components from view.  The design concept for this watch was to embrace those digital components instead, taking inspiration from command-line interfaces and computer hardware.</description>
+      <guid>https://dotslashwatch.com/</guid>
+      <pubDate>Sat, 18 Oct 2025 20:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>The pivot - Charlie's Diary</title>
       <link>https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html</link>
       <description>It's pretty clear now that a lot of the unrest we're seeing—and the insecurity-induced radicalization—is due to an unprecedented civilizational energy transition that looks to be more or less irreversible at this point.</description>
@@ -171,15 +178,6 @@ But there isn’t. The core of an agent is surprisingly simple: an LLM, a loop, 
       <category>ai</category>
       <guid>https://simonwillison.net/2025/Oct/16/claude-skills/</guid>
       <pubDate>Fri, 17 Oct 2025 22:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Andrej Karpathy — AGI is still a decade away</title>
-      <link>https://www.dwarkesh.com/p/andrej-karpathy</link>
-      <description>"The problems are tractable, but they're still difficult”</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://www.dwarkesh.com/p/andrej-karpathy</guid>
-      <pubDate>Fri, 17 Oct 2025 20:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
