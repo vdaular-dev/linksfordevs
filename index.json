@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
+    "Url": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
+    "Timestamp": "2025-10-18T22:01:56",
+    "Domain": "blog.pkh.me",
+    "Description": "Bézier curves are a core building block of text and 2D shapes rendering.\nThere are several approaches to rendering them, but one especially challenging\nproblem, both mathematically and technically, is computing the distance to\na Bézier curve. For quadratic curves (one control point), this is fairly\naccessible, but for cubic (two control points) we're going to see why it is\nso hard.",
+    "Confidence": 0.99317527
+  },
+  {
     "Title": "Release 15.0.0 · BurntSushi/ripgrep",
     "Url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
     "Timestamp": "2025-10-18T21:02:01",
@@ -150,13 +158,5 @@
     "Domain": "www.science.org",
     "Description": "Intercellular nanotubular networks mediate material exchange, but their existence in neurons remains to be explored in detail. We identified long, thin dendritic filopodia forming direct dendrite–dendrite nanotubes (DNTs) in mammalian cortex. Super-...",
     "Confidence": 0.9795129
-  },
-  {
-    "Title": "Claude Skills are awesome, maybe a bigger deal than MCP",
-    "Url": "https://simonwillison.net/2025/Oct/16/claude-skills/",
-    "Timestamp": "2025-10-17T22:02:01",
-    "Domain": "simonwillison.net",
-    "Description": "Anthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models: Claude can now use Skills to improve how it performs specific tasks. Skills …",
-    "Confidence": 0.98634607
   }
 ]

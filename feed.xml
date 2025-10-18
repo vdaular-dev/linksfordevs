@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fast calculation of the distance to cubic Bezier curves on the GPU</title>
+      <link>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</link>
+      <description>Bézier curves are a core building block of text and 2D shapes rendering.
+There are several approaches to rendering them, but one especially challenging
+problem, both mathematically and technically, is computing the distance to
+a Bézier curve. For quadratic curves (one control point), this is fairly
+accessible, but for cubic (two control points) we're going to see why it is
+so hard.</description>
+      <category>git</category>
+      <guid>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</guid>
+      <pubDate>Sat, 18 Oct 2025 22:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Release 15.0.0 · BurntSushi/ripgrep</title>
       <link>https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0</link>
       <description>Sponsorship is appreciated!
@@ -180,17 +193,6 @@ But there isn’t. The core of an agent is surprisingly simple: an LLM, a loop, 
       <category>ai</category>
       <guid>https://www.science.org/doi/10.1126/science.adr7403</guid>
       <pubDate>Sat, 18 Oct 2025 00:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Skills are awesome, maybe a bigger deal than MCP</title>
-      <link>https://simonwillison.net/2025/Oct/16/claude-skills/</link>
-      <description>Anthropic this morning introduced Claude Skills, a new pattern for making new abilities available to their models: Claude can now use Skills to improve how it performs specific tasks. Skills …</description>
-      <category>python</category>
-      <category>sql</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://simonwillison.net/2025/Oct/16/claude-skills/</guid>
-      <pubDate>Fri, 17 Oct 2025 22:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
