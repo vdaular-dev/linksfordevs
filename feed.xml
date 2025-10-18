@@ -7,6 +7,103 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Treat your morning ritual like an opening chess move - Herbert Lui</title>
+      <link>https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/</link>
+      <description>Life throws curveballs at you. A problem might come up in the evening that needs to wait until the next morning. An evening of sleep might be interrupted, or you might wake up earlier than you’d expected and not be able to fall asleep. Perhaps you want to get some fresh air in the morning. […]</description>
+      <guid>https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>A non-technical CFO is shipping better code than the agencies he hired</title>
+      <link>https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/</link>
+      <description>A non-technical CFO built a production operations dashboard with Claude Code that had failed with low-code tools and agencies. This shift in who can build software is going to change everything.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yohei Yamasaki (yayoi)</title>
+      <link>https://yayo1.com/en/blog/tiny-truetype-renderer/</link>
+      <description>I am a software engineer and a computer science student based in Germany with a keen interest in the intersection of web technology and 2D graphics.</description>
+      <category>git</category>
+      <guid>https://yayo1.com/en/blog/tiny-truetype-renderer/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>My most popular application</title>
+      <link>https://blog.6nok.org/my-most-popular-application/</link>
+      <description>A post about the tracker app I built for my girlfriend</description>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://blog.6nok.org/my-most-popular-application/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Cost of URL Design</title>
+      <link>https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html</link>
+      <description>URL design impacts application architecture, performance, and costs. Case study: how flat URLs caused 2x backend load and how we optimized it.</description>
+      <author> (Ahmad Elalfy)</author>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>On dealing with GPT results, or, Pots, Kettles And Hallucinations</title>
+      <link>https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/</link>
+      <description>.org-center { margin-left: auto; margin-right: auto; text-align: center; } Hallucinations in GPTs can lead to the dissemination of false information, creating harmful outcomes in applications of critical decision making or leading to mistrust in AI. In a viral instance, The New York Times published an article about a lawyer who used ChatGPT to produce case citations without realizing they were fictional, or hallucinated. This incident highlights the danger of hallucinations in LLM-based queries; often the hallucinations are subtle and go easily unnoticed.</description>
+      <category>ai</category>
+      <guid>https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Engineers Can Learn from Sales</title>
+      <link>https://togetherlondon.com/insights/what-engineers-can-learn-from-sales</link>
+      <description>If you can’t sell your ideas, they won’t get adopted.</description>
+      <guid>https://togetherlondon.com/insights/what-engineers-can-learn-from-sales</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polars vs Pandas – Quantile Method</title>
+      <link>https://wedgworth.dev/polars-vs-pandas-quantile-method/</link>
+      <description>You can save some memory by moving to Polars from Pandas but watch out for a subtle difference in the quantile's different default interpolation methods.</description>
+      <category>python</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://wedgworth.dev/polars-vs-pandas-quantile-method/</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Optimizing Text Offset Calculations</title>
+      <link>https://beeb.li/blog/optimizing-text-offset-calculation</link>
+      <description>A tale of optimization for an algorithm that turns byte offsets into line and column numbers, and UTF-16 offsets. The final implementation leverages SIMD and fixes several inefficiencies in the original solution.
+</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>rust</category>
+      <guid>https://beeb.li/blog/optimizing-text-offset-calculation</guid>
+      <pubDate>Sat, 18 Oct 2025 23:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot Inline Suggestions Are Like TikTok</title>
+      <link>https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html</link>
+      <description>I’ve spent the last few months using GitHub Copilot without inline suggestions.
+Since the feature came out, I’ve been uneasy about it.
+It feels to me like the TikTok vs. YouTube debate: do I want to choose the content I consume or let an algorithm feed me what it thinks I want?</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html</guid>
+      <pubDate>Sat, 18 Oct 2025 23:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Fast calculation of the distance to cubic Bezier curves on the GPU</title>
       <link>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</link>
       <description>Bézier curves are a core building block of text and 2D shapes rendering.
