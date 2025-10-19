@@ -1,5 +1,145 @@
 [
   {
+    "Title": "Content creator",
+    "Url": "https://fgiesen.wordpress.com/2025/07/06/content-creator/",
+    "Timestamp": "2025-10-19T23:03:27",
+    "Domain": "fgiesen.wordpress.com",
+    "Description": "Nobody should voluntarily call themselves that. “Content” is the language of people on the distribution side of things. If you look at something like a 19th century newspaper it’s…"
+  },
+  {
+    "Title": "Tracking Down a Regression in Mesa 3D",
+    "Url": "https://vkoskiv.com/mesa-regression/",
+    "Timestamp": "2025-10-19T23:03:24",
+    "Domain": "vkoskiv.com",
+    "Description": "I find and report a regression in Mesa, the main 3D graphics library on Linux, and show off some really cool tools I used in the process."
+  },
+  {
+    "Title": "Sound Removals",
+    "Url": "https://blog.jak-linux.org/2025/10/18/sound-removals/",
+    "Timestamp": "2025-10-19T23:03:18",
+    "Domain": "blog.jak-linux.org",
+    "Description": "Problem statement Currently if you have an automatically installed package A (= 1) where\nA (= 1) Depends B (= 1) A (= 2) Depends B (= 2) and you upgrade B from 1 to 2; then you can:\nRemove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by Recommends (say X Rec Y, Y Depends A), the solver sometimes preferred removing A (and anything depending on it until it got)."
+  },
+  {
+    "Title": "Scheme Reports at Fifty: Where do we go from here?",
+    "Url": "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html",
+    "Timestamp": "2025-10-19T23:03:14",
+    "Domain": "crumbles.blog",
+    "Description": ""
+  },
+  {
+    "Title": "Creating an IGCSE Pseudocode Interpreter (part 2)",
+    "Url": "https://ezntek.com/posts/creating-an-igcse-pseudocode-interpreter-pt-2-20250913t1349/",
+    "Timestamp": "2025-10-19T23:03:11",
+    "Domain": "ezntek.com",
+    "Description": "I'm done. Almost a year later!"
+  },
+  {
+    "Title": "Gemini and I Wrote a Book: Introduction to Computational Linguistics",
+    "Url": "https://dubovik.eu/blog/computational-linguistics",
+    "Timestamp": "2025-10-19T23:03:04",
+    "Domain": "dubovik.eu",
+    "Description": "Oct. 18, 2025"
+  },
+  {
+    "Title": "Installing Proxmox on Hetzner with ZFS full-disk encryption and remote unlocking | Louis' thoughts",
+    "Url": "https://blog.louis-vallat.dev/proxmox-with-zfs-full-disk-encryption-and-remote-unlocking-on-hetzner/",
+    "Timestamp": "2025-10-19T23:02:59",
+    "Domain": "blog.louis-vallat.dev",
+    "Description": "How to install Proxmox Virtual Envrionment on ZFS with full-disk encryption and remote unlocking on a Hetzner dedicated server."
+  },
+  {
+    "Title": "I found the missing 6GB on my Mac (APFS, recovery partitions, and GB vs GiB)",
+    "Url": "https://mikenotthepope.com/i-found-the-missing-6gb-on-my-mac-apfs-recovery-partitions-and-gb-vs-gib/",
+    "Timestamp": "2025-10-19T23:02:53",
+    "Domain": "mikenotthepope.com",
+    "Description": "I asked Claude: \"How do I check free disk space on my Mac?\""
+  },
+  {
+    "Title": "Orderly API Evolution: How to Break APIs Without Breaking Trust",
+    "Url": "https://www.davidpoll.com/2025/10/orderly-api-evolution/",
+    "Timestamp": "2025-10-19T23:02:50",
+    "Domain": "www.davidpoll.com",
+    "Description": "I spent my baby bonding leave this summer with my newest kid — which was the point. But between feedings and naps, I also found myself trying to deeply understand coding agents and the new develope..."
+  },
+  {
+    "Title": "James Shore: The Accountability Problem",
+    "Url": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
+    "Timestamp": "2025-10-19T23:02:46",
+    "Domain": "www.jamesshore.com",
+    "Description": "This is a transcript of my keynote presentation at the Agile Cambridge conference in England on October 2nd, 2025. The topic was “The Accountability Problem.” How do we define software department accountability so our business partners don’t do it for us?"
+  },
+  {
+    "Title": "Start by Not Being a Terrible Software Engineer",
+    "Url": "https://caponte.io/2025/10/19/Start-By-Not-Being-Terrible/",
+    "Timestamp": "2025-10-19T23:02:42",
+    "Domain": "caponte.io",
+    "Description": "Aiming to be a 10x developer by chasing every new tool and content is a recipe for burnout. A more effective strategy is inversion, focus not on being excellent, but on systematically avoiding common failures. For an engineer, this means prioritizing the elimination of bad habits that create poor code."
+  },
+  {
+    "Title": "Result isomorphism",
+    "Url": "https://blog.ploeh.dk/2025/10/15/result-isomorphism/",
+    "Timestamp": "2025-10-19T23:02:39",
+    "Domain": "blog.ploeh.dk",
+    "Description": "Result types are roughly equivalent to exceptions."
+  },
+  {
+    "Title": "How I made my own web server in Gleam",
+    "Url": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
+    "Timestamp": "2025-10-19T23:02:35",
+    "Domain": "wskiy.de",
+    "Description": "This is my first article ever. I’m not really fluent in English, and I sometimes have issues expressing my thoughts clearly, so I apologize if this article feels messy. Also keep in mind that my posts won’t be AI slop. I will use AI as little as possible because I want to write down my own thoughts, the way I see them, without relying on models trained on other people's work."
+  },
+  {
+    "Title": "It's not done if...",
+    "Url": "https://charemza.name/blog/posts/software/communication/not-done-if-there-are-more-steps-to-take/",
+    "Timestamp": "2025-10-19T23:02:31",
+    "Domain": "charemza.name",
+    "Description": "Don't fool yourself and others: it's not done until it's done!"
+  },
+  {
+    "Title": "Criticizing Immigration Laws is Not Racist",
+    "Url": "https://www.maximepeabody.com/blog/immigration-in-canada",
+    "Timestamp": "2025-10-19T23:02:28",
+    "Domain": "www.maximepeabody.com",
+    "Description": "On the topic of immigration in Canada, free speech, the rise of populism."
+  },
+  {
+    "Title": "Make macOS Faster",
+    "Url": "https://dhariri.com/2025/fast-macos.html",
+    "Timestamp": "2025-10-19T23:02:23",
+    "Domain": "dhariri.com",
+    "Description": "How I made macOS feel as fast and productive as Linux without leaving the walled garden."
+  },
+  {
+    "Title": "I invited strangers to message me through a receipt printer",
+    "Url": "https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/",
+    "Timestamp": "2025-10-19T23:02:20",
+    "Domain": "aschmelyun.com",
+    "Description": "Not only did I give internet strangers unrestricted access to send me completely anonymous physical messages, but I also self-hosted the entire site on a Raspberry Pi"
+  },
+  {
+    "Title": "Google File System (GFS) paper notes",
+    "Url": "https://www.ppppp.dev/google-file-system-gfs-paper-notes-continue/",
+    "Timestamp": "2025-10-19T23:02:15",
+    "Domain": "www.ppppp.dev",
+    "Description": "Simplified GFS: Google File System Explained for Beginners (Architecture, Chunks, Master, and Fault Tolerance)"
+  },
+  {
+    "Title": "Some Thoughts on War and Peace",
+    "Url": "https://thoughts.wyounas.com/p/some-thoughts-on-war-and-peace",
+    "Timestamp": "2025-10-19T23:02:12",
+    "Domain": "thoughts.wyounas.com",
+    "Description": "A child standing on the shore of the Mediterranean and a child standing on the shore of the Pacific should share the same bright hope for their future and for the future of mankind."
+  },
+  {
+    "Title": "Running DuckDB at 10 TB scale",
+    "Url": "https://datamonkeysite.com/2025/10/19/running-duckdb-at-10-tb-scale/",
+    "Timestamp": "2025-10-19T23:02:08",
+    "Domain": "datamonkeysite.com",
+    "Description": "This started as just a fun experiment. I was curious to see what happens when you push DuckDB really hard — like, absurdly hard. So I went straight for the biggest Python single-node compute we hav…"
+  },
+  {
     "Title": "Andrej's advice for success",
     "Url": "https://cs.stanford.edu/people/karpathy/advice.html",
     "Timestamp": "2025-10-19T21:01:57",

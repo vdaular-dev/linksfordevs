@@ -7,6 +7,187 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Content creator</title>
+      <link>https://fgiesen.wordpress.com/2025/07/06/content-creator/</link>
+      <description>Nobody should voluntarily call themselves that. “Content” is the language of people on the distribution side of things. If you look at something like a 19th century newspaper it’s…</description>
+      <guid>https://fgiesen.wordpress.com/2025/07/06/content-creator/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tracking Down a Regression in Mesa 3D</title>
+      <link>https://vkoskiv.com/mesa-regression/</link>
+      <description>I find and report a regression in Mesa, the main 3D graphics library on Linux, and show off some really cool tools I used in the process.</description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://vkoskiv.com/mesa-regression/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sound Removals</title>
+      <link>https://blog.jak-linux.org/2025/10/18/sound-removals/</link>
+      <description>Problem statement Currently if you have an automatically installed package A (= 1) where
+A (= 1) Depends B (= 1) A (= 2) Depends B (= 2) and you upgrade B from 1 to 2; then you can:
+Remove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by Recommends (say X Rec Y, Y Depends A), the solver sometimes preferred removing A (and anything depending on it until it got).</description>
+      <category>linux</category>
+      <guid>https://blog.jak-linux.org/2025/10/18/sound-removals/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scheme Reports at Fifty: Where do we go from here?</title>
+      <link>https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html</link>
+      <description></description>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating an IGCSE Pseudocode Interpreter (part 2)</title>
+      <link>https://ezntek.com/posts/creating-an-igcse-pseudocode-interpreter-pt-2-20250913t1349/</link>
+      <description>I'm done. Almost a year later!</description>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://ezntek.com/posts/creating-an-igcse-pseudocode-interpreter-pt-2-20250913t1349/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemini and I Wrote a Book: Introduction to Computational Linguistics</title>
+      <link>https://dubovik.eu/blog/computational-linguistics</link>
+      <description>Oct. 18, 2025</description>
+      <category>python</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://dubovik.eu/blog/computational-linguistics</guid>
+      <pubDate>Sun, 19 Oct 2025 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Installing Proxmox on Hetzner with ZFS full-disk encryption and remote unlocking | Louis' thoughts</title>
+      <link>https://blog.louis-vallat.dev/proxmox-with-zfs-full-disk-encryption-and-remote-unlocking-on-hetzner/</link>
+      <description>How to install Proxmox Virtual Envrionment on ZFS with full-disk encryption and remote unlocking on a Hetzner dedicated server.</description>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://blog.louis-vallat.dev/proxmox-with-zfs-full-disk-encryption-and-remote-unlocking-on-hetzner/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>I found the missing 6GB on my Mac (APFS, recovery partitions, and GB vs GiB)</title>
+      <link>https://mikenotthepope.com/i-found-the-missing-6gb-on-my-mac-apfs-recovery-partitions-and-gb-vs-gib/</link>
+      <description>I asked Claude: "How do I check free disk space on my Mac?"</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>python</category>
+      <guid>https://mikenotthepope.com/i-found-the-missing-6gb-on-my-mac-apfs-recovery-partitions-and-gb-vs-gib/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orderly API Evolution: How to Break APIs Without Breaking Trust</title>
+      <link>https://www.davidpoll.com/2025/10/orderly-api-evolution/</link>
+      <description>I spent my baby bonding leave this summer with my newest kid — which was the point. But between feedings and naps, I also found myself trying to deeply understand coding agents and the new develope...</description>
+      <category>ai</category>
+      <guid>https://www.davidpoll.com/2025/10/orderly-api-evolution/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Shore: The Accountability Problem</title>
+      <link>https://www.jamesshore.com/v2/blog/2025/the-accountability-problem</link>
+      <description>This is a transcript of my keynote presentation at the Agile Cambridge conference in England on October 2nd, 2025. The topic was “The Accountability Problem.” How do we define software department accountability so our business partners don’t do it for us?</description>
+      <category>ai</category>
+      <guid>https://www.jamesshore.com/v2/blog/2025/the-accountability-problem</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Start by Not Being a Terrible Software Engineer</title>
+      <link>https://caponte.io/2025/10/19/Start-By-Not-Being-Terrible/</link>
+      <description>Aiming to be a 10x developer by chasing every new tool and content is a recipe for burnout. A more effective strategy is inversion, focus not on being excellent, but on systematically avoiding common failures. For an engineer, this means prioritizing the elimination of bad habits that create poor code.</description>
+      <category>ai</category>
+      <guid>https://caponte.io/2025/10/19/Start-By-Not-Being-Terrible/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Result isomorphism</title>
+      <link>https://blog.ploeh.dk/2025/10/15/result-isomorphism/</link>
+      <description>Result types are roughly equivalent to exceptions.</description>
+      <category>python</category>
+      <guid>https://blog.ploeh.dk/2025/10/15/result-isomorphism/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I made my own web server in Gleam</title>
+      <link>https://wskiy.de/blog/making_my_own_web_server_in_gleam</link>
+      <description>This is my first article ever. I’m not really fluent in English, and I sometimes have issues expressing my thoughts clearly, so I apologize if this article feels messy. Also keep in mind that my posts won’t be AI slop. I will use AI as little as possible because I want to write down my own thoughts, the way I see them, without relying on models trained on other people's work.</description>
+      <category>typescript</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://wskiy.de/blog/making_my_own_web_server_in_gleam</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's not done if...</title>
+      <link>https://charemza.name/blog/posts/software/communication/not-done-if-there-are-more-steps-to-take/</link>
+      <description>Don't fool yourself and others: it's not done until it's done!</description>
+      <guid>https://charemza.name/blog/posts/software/communication/not-done-if-there-are-more-steps-to-take/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Criticizing Immigration Laws is Not Racist</title>
+      <link>https://www.maximepeabody.com/blog/immigration-in-canada</link>
+      <description>On the topic of immigration in Canada, free speech, the rise of populism.</description>
+      <guid>https://www.maximepeabody.com/blog/immigration-in-canada</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Make macOS Faster</title>
+      <link>https://dhariri.com/2025/fast-macos.html</link>
+      <description>How I made macOS feel as fast and productive as Linux without leaving the walled garden.</description>
+      <author> (David Hariri)</author>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://dhariri.com/2025/fast-macos.html</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>I invited strangers to message me through a receipt printer</title>
+      <link>https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/</link>
+      <description>Not only did I give internet strangers unrestricted access to send me completely anonymous physical messages, but I also self-hosted the entire site on a Raspberry Pi</description>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>youtube</category>
+      <guid>https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google File System (GFS) paper notes</title>
+      <link>https://www.ppppp.dev/google-file-system-gfs-paper-notes-continue/</link>
+      <description>Simplified GFS: Google File System Explained for Beginners (Architecture, Chunks, Master, and Fault Tolerance)</description>
+      <category>ai</category>
+      <guid>https://www.ppppp.dev/google-file-system-gfs-paper-notes-continue/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Some Thoughts on War and Peace</title>
+      <link>https://thoughts.wyounas.com/p/some-thoughts-on-war-and-peace</link>
+      <description>A child standing on the shore of the Mediterranean and a child standing on the shore of the Pacific should share the same bright hope for their future and for the future of mankind.</description>
+      <category>ai</category>
+      <guid>https://thoughts.wyounas.com/p/some-thoughts-on-war-and-peace</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running DuckDB at 10 TB scale</title>
+      <link>https://datamonkeysite.com/2025/10/19/running-duckdb-at-10-tb-scale/</link>
+      <description>This started as just a fun experiment. I was curious to see what happens when you push DuckDB really hard — like, absurdly hard. So I went straight for the biggest Python single-node compute we hav…</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>python</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://datamonkeysite.com/2025/10/19/running-duckdb-at-10-tb-scale/</guid>
+      <pubDate>Sun, 19 Oct 2025 23:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Andrej's advice for success</title>
       <link>https://cs.stanford.edu/people/karpathy/advice.html</link>
       <description>a guide by Andrej Karpathy</description>
@@ -53,103 +234,6 @@
       <category>encryption</category>
       <guid>https://www.filfre.net/2025/10/a-looking-glass-half-empty-part-2-a-series-of-unfortunate-events/</guid>
       <pubDate>Sun, 19 Oct 2025 00:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Treat your morning ritual like an opening chess move - Herbert Lui</title>
-      <link>https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/</link>
-      <description>Life throws curveballs at you. A problem might come up in the evening that needs to wait until the next morning. An evening of sleep might be interrupted, or you might wake up earlier than you’d expected and not be able to fall asleep. Perhaps you want to get some fresh air in the morning. […]</description>
-      <guid>https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>A non-technical CFO is shipping better code than the agencies he hired</title>
-      <link>https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/</link>
-      <description>A non-technical CFO built a production operations dashboard with Claude Code that had failed with low-code tools and agencies. This shift in who can build software is going to change everything.</description>
-      <author> (Martin Alderson)</author>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yohei Yamasaki (yayoi)</title>
-      <link>https://yayo1.com/en/blog/tiny-truetype-renderer/</link>
-      <description>I am a software engineer and a computer science student based in Germany with a keen interest in the intersection of web technology and 2D graphics.</description>
-      <category>git</category>
-      <guid>https://yayo1.com/en/blog/tiny-truetype-renderer/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>My most popular application</title>
-      <link>https://blog.6nok.org/my-most-popular-application/</link>
-      <description>A post about the tracker app I built for my girlfriend</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://blog.6nok.org/my-most-popular-application/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Cost of URL Design</title>
-      <link>https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html</link>
-      <description>URL design impacts application architecture, performance, and costs. Case study: how flat URLs caused 2x backend load and how we optimized it.</description>
-      <author> (Ahmad Elalfy)</author>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>On dealing with GPT results, or, Pots, Kettles And Hallucinations</title>
-      <link>https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/</link>
-      <description>.org-center { margin-left: auto; margin-right: auto; text-align: center; } Hallucinations in GPTs can lead to the dissemination of false information, creating harmful outcomes in applications of critical decision making or leading to mistrust in AI. In a viral instance, The New York Times published an article about a lawyer who used ChatGPT to produce case citations without realizing they were fictional, or hallucinated. This incident highlights the danger of hallucinations in LLM-based queries; often the hallucinations are subtle and go easily unnoticed.</description>
-      <category>ai</category>
-      <guid>https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Engineers Can Learn from Sales</title>
-      <link>https://togetherlondon.com/insights/what-engineers-can-learn-from-sales</link>
-      <description>If you can’t sell your ideas, they won’t get adopted.</description>
-      <guid>https://togetherlondon.com/insights/what-engineers-can-learn-from-sales</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polars vs Pandas – Quantile Method</title>
-      <link>https://wedgworth.dev/polars-vs-pandas-quantile-method/</link>
-      <description>You can save some memory by moving to Polars from Pandas but watch out for a subtle difference in the quantile's different default interpolation methods.</description>
-      <category>python</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <guid>https://wedgworth.dev/polars-vs-pandas-quantile-method/</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optimizing Text Offset Calculations</title>
-      <link>https://beeb.li/blog/optimizing-text-offset-calculation</link>
-      <description>A tale of optimization for an algorithm that turns byte offsets into line and column numbers, and UTF-16 offsets. The final implementation leverages SIMD and fixes several inefficiencies in the original solution.
-</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>rust</category>
-      <guid>https://beeb.li/blog/optimizing-text-offset-calculation</guid>
-      <pubDate>Sat, 18 Oct 2025 23:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot Inline Suggestions Are Like TikTok</title>
-      <link>https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html</link>
-      <description>I’ve spent the last few months using GitHub Copilot without inline suggestions.
-Since the feature came out, I’ve been uneasy about it.
-It feels to me like the TikTok vs. YouTube debate: do I want to choose the content I consume or let an algorithm feed me what it thinks I want?</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html</guid>
-      <pubDate>Sat, 18 Oct 2025 23:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

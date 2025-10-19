@@ -1,5 +1,165 @@
 [
   {
+    "Title": "Content creator",
+    "Url": "https://fgiesen.wordpress.com/2025/07/06/content-creator/",
+    "Timestamp": "2025-10-19T23:03:27",
+    "Domain": "fgiesen.wordpress.com",
+    "Description": "Nobody should voluntarily call themselves that. “Content” is the language of people on the distribution side of things. If you look at something like a 19th century newspaper it’s…",
+    "Confidence": 0.8414725
+  },
+  {
+    "Title": "Tracking Down a Regression in Mesa 3D",
+    "Url": "https://vkoskiv.com/mesa-regression/",
+    "Timestamp": "2025-10-19T23:03:24",
+    "Domain": "vkoskiv.com",
+    "Description": "I find and report a regression in Mesa, the main 3D graphics library on Linux, and show off some really cool tools I used in the process.",
+    "Confidence": 0.9897765
+  },
+  {
+    "Title": "Sound Removals",
+    "Url": "https://blog.jak-linux.org/2025/10/18/sound-removals/",
+    "Timestamp": "2025-10-19T23:03:18",
+    "Domain": "blog.jak-linux.org",
+    "Description": "Problem statement Currently if you have an automatically installed package A (= 1) where\nA (= 1) Depends B (= 1) A (= 2) Depends B (= 2) and you upgrade B from 1 to 2; then you can:\nRemove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by Recommends (say X Rec Y, Y Depends A), the solver sometimes preferred removing A (and anything depending on it until it got).",
+    "Confidence": 0.99326575
+  },
+  {
+    "Title": "Scheme Reports at Fifty: Where do we go from here?",
+    "Url": "https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html",
+    "Timestamp": "2025-10-19T23:03:14",
+    "Domain": "crumbles.blog",
+    "Description": "",
+    "Confidence": 0.98403615
+  },
+  {
+    "Title": "Creating an IGCSE Pseudocode Interpreter (part 2)",
+    "Url": "https://ezntek.com/posts/creating-an-igcse-pseudocode-interpreter-pt-2-20250913t1349/",
+    "Timestamp": "2025-10-19T23:03:11",
+    "Domain": "ezntek.com",
+    "Description": "I'm done. Almost a year later!",
+    "Confidence": 0.99588907
+  },
+  {
+    "Title": "Gemini and I Wrote a Book: Introduction to Computational Linguistics",
+    "Url": "https://dubovik.eu/blog/computational-linguistics",
+    "Timestamp": "2025-10-19T23:03:04",
+    "Domain": "dubovik.eu",
+    "Description": "Oct. 18, 2025",
+    "Confidence": 0.97398585
+  },
+  {
+    "Title": "Installing Proxmox on Hetzner with ZFS full-disk encryption and remote unlocking | Louis' thoughts",
+    "Url": "https://blog.louis-vallat.dev/proxmox-with-zfs-full-disk-encryption-and-remote-unlocking-on-hetzner/",
+    "Timestamp": "2025-10-19T23:02:59",
+    "Domain": "blog.louis-vallat.dev",
+    "Description": "How to install Proxmox Virtual Envrionment on ZFS with full-disk encryption and remote unlocking on a Hetzner dedicated server.",
+    "Confidence": 0.99560946
+  },
+  {
+    "Title": "I found the missing 6GB on my Mac (APFS, recovery partitions, and GB vs GiB)",
+    "Url": "https://mikenotthepope.com/i-found-the-missing-6gb-on-my-mac-apfs-recovery-partitions-and-gb-vs-gib/",
+    "Timestamp": "2025-10-19T23:02:53",
+    "Domain": "mikenotthepope.com",
+    "Description": "I asked Claude: \"How do I check free disk space on my Mac?\"",
+    "Confidence": 0.9937426
+  },
+  {
+    "Title": "Orderly API Evolution: How to Break APIs Without Breaking Trust",
+    "Url": "https://www.davidpoll.com/2025/10/orderly-api-evolution/",
+    "Timestamp": "2025-10-19T23:02:50",
+    "Domain": "www.davidpoll.com",
+    "Description": "I spent my baby bonding leave this summer with my newest kid — which was the point. But between feedings and naps, I also found myself trying to deeply understand coding agents and the new develope...",
+    "Confidence": 0.9878496
+  },
+  {
+    "Title": "James Shore: The Accountability Problem",
+    "Url": "https://www.jamesshore.com/v2/blog/2025/the-accountability-problem",
+    "Timestamp": "2025-10-19T23:02:46",
+    "Domain": "www.jamesshore.com",
+    "Description": "This is a transcript of my keynote presentation at the Agile Cambridge conference in England on October 2nd, 2025. The topic was “The Accountability Problem.” How do we define software department accountability so our business partners don’t do it for us?",
+    "Confidence": 0.98346
+  },
+  {
+    "Title": "Start by Not Being a Terrible Software Engineer",
+    "Url": "https://caponte.io/2025/10/19/Start-By-Not-Being-Terrible/",
+    "Timestamp": "2025-10-19T23:02:42",
+    "Domain": "caponte.io",
+    "Description": "Aiming to be a 10x developer by chasing every new tool and content is a recipe for burnout. A more effective strategy is inversion, focus not on being excellent, but on systematically avoiding common failures. For an engineer, this means prioritizing the elimination of bad habits that create poor code.",
+    "Confidence": 0.99365103
+  },
+  {
+    "Title": "Result isomorphism",
+    "Url": "https://blog.ploeh.dk/2025/10/15/result-isomorphism/",
+    "Timestamp": "2025-10-19T23:02:39",
+    "Domain": "blog.ploeh.dk",
+    "Description": "Result types are roughly equivalent to exceptions.",
+    "Confidence": 0.99117905
+  },
+  {
+    "Title": "How I made my own web server in Gleam",
+    "Url": "https://wskiy.de/blog/making_my_own_web_server_in_gleam",
+    "Timestamp": "2025-10-19T23:02:35",
+    "Domain": "wskiy.de",
+    "Description": "This is my first article ever. I’m not really fluent in English, and I sometimes have issues expressing my thoughts clearly, so I apologize if this article feels messy. Also keep in mind that my posts won’t be AI slop. I will use AI as little as possible because I want to write down my own thoughts, the way I see them, without relying on models trained on other people's work.",
+    "Confidence": 0.99477756
+  },
+  {
+    "Title": "It's not done if...",
+    "Url": "https://charemza.name/blog/posts/software/communication/not-done-if-there-are-more-steps-to-take/",
+    "Timestamp": "2025-10-19T23:02:31",
+    "Domain": "charemza.name",
+    "Description": "Don't fool yourself and others: it's not done until it's done!",
+    "Confidence": 0.9906387
+  },
+  {
+    "Title": "Criticizing Immigration Laws is Not Racist",
+    "Url": "https://www.maximepeabody.com/blog/immigration-in-canada",
+    "Timestamp": "2025-10-19T23:02:28",
+    "Domain": "www.maximepeabody.com",
+    "Description": "On the topic of immigration in Canada, free speech, the rise of populism.",
+    "Confidence": 0.67253995
+  },
+  {
+    "Title": "Make macOS Faster",
+    "Url": "https://dhariri.com/2025/fast-macos.html",
+    "Timestamp": "2025-10-19T23:02:23",
+    "Domain": "dhariri.com",
+    "Description": "How I made macOS feel as fast and productive as Linux without leaving the walled garden.",
+    "Confidence": 0.9847186
+  },
+  {
+    "Title": "I invited strangers to message me through a receipt printer",
+    "Url": "https://aschmelyun.com/blog/i-invited-strangers-to-message-me-through-a-receipt-printer/",
+    "Timestamp": "2025-10-19T23:02:20",
+    "Domain": "aschmelyun.com",
+    "Description": "Not only did I give internet strangers unrestricted access to send me completely anonymous physical messages, but I also self-hosted the entire site on a Raspberry Pi",
+    "Confidence": 0.9794623
+  },
+  {
+    "Title": "Google File System (GFS) paper notes",
+    "Url": "https://www.ppppp.dev/google-file-system-gfs-paper-notes-continue/",
+    "Timestamp": "2025-10-19T23:02:15",
+    "Domain": "www.ppppp.dev",
+    "Description": "Simplified GFS: Google File System Explained for Beginners (Architecture, Chunks, Master, and Fault Tolerance)",
+    "Confidence": 0.98351586
+  },
+  {
+    "Title": "Some Thoughts on War and Peace",
+    "Url": "https://thoughts.wyounas.com/p/some-thoughts-on-war-and-peace",
+    "Timestamp": "2025-10-19T23:02:12",
+    "Domain": "thoughts.wyounas.com",
+    "Description": "A child standing on the shore of the Mediterranean and a child standing on the shore of the Pacific should share the same bright hope for their future and for the future of mankind.",
+    "Confidence": 0.5598907
+  },
+  {
+    "Title": "Running DuckDB at 10 TB scale",
+    "Url": "https://datamonkeysite.com/2025/10/19/running-duckdb-at-10-tb-scale/",
+    "Timestamp": "2025-10-19T23:02:08",
+    "Domain": "datamonkeysite.com",
+    "Description": "This started as just a fun experiment. I was curious to see what happens when you push DuckDB really hard — like, absurdly hard. So I went straight for the biggest Python single-node compute we hav…",
+    "Confidence": 0.94070315
+  },
+  {
     "Title": "Andrej's advice for success",
     "Url": "https://cs.stanford.edu/people/karpathy/advice.html",
     "Timestamp": "2025-10-19T21:01:57",
@@ -46,85 +206,5 @@
     "Domain": "www.filfre.net",
     "Description": "Coming out of 1998, the folks at Looking Glass Studios believed they had pretty good reason to feel optimistic about their future. With Thief, they had delivered not just their first profitable original game since 1995’s Flight Unlimited but their biggest single commercial success ever. They had no fewer than four more games slated for release within the next fifteen months, a positively blistering pace for them. Yes, all of said games were sequels and iterations on existing brands, but that was just the nature of the industry by now, wasn’t it? As long-running franchises like Ultima had first begun to demonstrate fifteen years ago, there was no reason you couldn’t continue to innovate under a well-known and -loved banner headline. Looking Glass closed their Austin office that had done so much to pay the bills in the past by taking on porting contracts. In the wake of Thief, they felt ready to concentrate entirely on their own games.",
     "Confidence": 0.812873
-  },
-  {
-    "Title": "Treat your morning ritual like an opening chess move - Herbert Lui",
-    "Url": "https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/",
-    "Timestamp": "2025-10-18T23:02:31",
-    "Domain": "herbertlui.net",
-    "Description": "Life throws curveballs at you. A problem might come up in the evening that needs to wait until the next morning. An evening of sleep might be interrupted, or you might wake up earlier than you’d expected and not be able to fall asleep. Perhaps you want to get some fresh air in the morning. […]",
-    "Confidence": 0.94821197
-  },
-  {
-    "Title": "A non-technical CFO is shipping better code than the agencies he hired",
-    "Url": "https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/",
-    "Timestamp": "2025-10-18T23:02:27",
-    "Domain": "martinalderson.com",
-    "Description": "A non-technical CFO built a production operations dashboard with Claude Code that had failed with low-code tools and agencies. This shift in who can build software is going to change everything.",
-    "Confidence": 0.98983854
-  },
-  {
-    "Title": "Yohei Yamasaki (yayoi)",
-    "Url": "https://yayo1.com/en/blog/tiny-truetype-renderer/",
-    "Timestamp": "2025-10-18T23:02:24",
-    "Domain": "yayo1.com",
-    "Description": "I am a software engineer and a computer science student based in Germany with a keen interest in the intersection of web technology and 2D graphics.",
-    "Confidence": 0.99173576
-  },
-  {
-    "Title": "My most popular application",
-    "Url": "https://blog.6nok.org/my-most-popular-application/",
-    "Timestamp": "2025-10-18T23:02:20",
-    "Domain": "blog.6nok.org",
-    "Description": "A post about the tracker app I built for my girlfriend",
-    "Confidence": 0.97730005
-  },
-  {
-    "Title": "The Hidden Cost of URL Design",
-    "Url": "https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html",
-    "Timestamp": "2025-10-18T23:02:17",
-    "Domain": "alfy.blog",
-    "Description": "URL design impacts application architecture, performance, and costs. Case study: how flat URLs caused 2x backend load and how we optimized it.",
-    "Confidence": 0.9935164
-  },
-  {
-    "Title": "On dealing with GPT results, or, Pots, Kettles And Hallucinations",
-    "Url": "https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/",
-    "Timestamp": "2025-10-18T23:02:12",
-    "Domain": "ebellani.github.io",
-    "Description": ".org-center { margin-left: auto; margin-right: auto; text-align: center; } Hallucinations in GPTs can lead to the dissemination of false information, creating harmful outcomes in applications of critical decision making or leading to mistrust in AI. In a viral instance, The New York Times published an article about a lawyer who used ChatGPT to produce case citations without realizing they were fictional, or hallucinated. This incident highlights the danger of hallucinations in LLM-based queries; often the hallucinations are subtle and go easily unnoticed.",
-    "Confidence": 0.7912775
-  },
-  {
-    "Title": "What Engineers Can Learn from Sales",
-    "Url": "https://togetherlondon.com/insights/what-engineers-can-learn-from-sales",
-    "Timestamp": "2025-10-18T23:02:09",
-    "Domain": "togetherlondon.com",
-    "Description": "If you can’t sell your ideas, they won’t get adopted.",
-    "Confidence": 0.9785829
-  },
-  {
-    "Title": "Polars vs Pandas – Quantile Method",
-    "Url": "https://wedgworth.dev/polars-vs-pandas-quantile-method/",
-    "Timestamp": "2025-10-18T23:02:06",
-    "Domain": "wedgworth.dev",
-    "Description": "You can save some memory by moving to Polars from Pandas but watch out for a subtle difference in the quantile's different default interpolation methods.",
-    "Confidence": 0.93285835
-  },
-  {
-    "Title": "Optimizing Text Offset Calculations",
-    "Url": "https://beeb.li/blog/optimizing-text-offset-calculation",
-    "Timestamp": "2025-10-18T23:02:02",
-    "Domain": "beeb.li",
-    "Description": "A tale of optimization for an algorithm that turns byte offsets into line and column numbers, and UTF-16 offsets. The final implementation leverages SIMD and fixes several inefficiencies in the original solution.\n",
-    "Confidence": 0.9936492
-  },
-  {
-    "Title": "Copilot Inline Suggestions Are Like TikTok",
-    "Url": "https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html",
-    "Timestamp": "2025-10-18T23:01:58",
-    "Domain": "remy.duthu.org",
-    "Description": "I’ve spent the last few months using GitHub Copilot without inline suggestions.\nSince the feature came out, I’ve been uneasy about it.\nIt feels to me like the TikTok vs. YouTube debate: do I want to choose the content I consume or let an algorithm feed me what it thinks I want?",
-    "Confidence": 0.99056315
   }
 ]
