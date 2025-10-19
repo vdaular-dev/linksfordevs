@@ -126,13 +126,5 @@
     "Domain": "remy.duthu.org",
     "Description": "I’ve spent the last few months using GitHub Copilot without inline suggestions.\nSince the feature came out, I’ve been uneasy about it.\nIt feels to me like the TikTok vs. YouTube debate: do I want to choose the content I consume or let an algorithm feed me what it thinks I want?",
     "Confidence": 0.99056315
-  },
-  {
-    "Title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
-    "Url": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
-    "Timestamp": "2025-10-18T22:01:56",
-    "Domain": "blog.pkh.me",
-    "Description": "Bézier curves are a core building block of text and 2D shapes rendering.\nThere are several approaches to rendering them, but one especially challenging\nproblem, both mathematically and technically, is computing the distance to\na Bézier curve. For quadratic curves (one control point), this is fairly\naccessible, but for cubic (two control points) we're going to see why it is\nso hard.",
-    "Confidence": 0.99317527
   }
 ]

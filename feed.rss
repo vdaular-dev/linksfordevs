@@ -151,18 +151,5 @@ It feels to me like the TikTok vs. YouTube debate: do I want to choose the conte
       <guid>https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html</guid>
       <pubDate>Sat, 18 Oct 2025 23:01:58 GMT</pubDate>
     </item>
-    <item>
-      <title>Fast calculation of the distance to cubic Bezier curves on the GPU</title>
-      <link>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</link>
-      <description>Bézier curves are a core building block of text and 2D shapes rendering.
-There are several approaches to rendering them, but one especially challenging
-problem, both mathematically and technically, is computing the distance to
-a Bézier curve. For quadratic curves (one control point), this is fairly
-accessible, but for cubic (two control points) we're going to see why it is
-so hard.</description>
-      <category>git</category>
-      <guid>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</guid>
-      <pubDate>Sat, 18 Oct 2025 22:01:56 GMT</pubDate>
-    </item>
   </channel>
 </rss>
