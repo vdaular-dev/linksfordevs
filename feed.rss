@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Andrej's advice for success</title>
+      <link>https://cs.stanford.edu/people/karpathy/advice.html</link>
+      <description>a guide by Andrej Karpathy</description>
+      <guid>https://cs.stanford.edu/people/karpathy/advice.html</guid>
+      <pubDate>Sun, 19 Oct 2025 21:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Leading OpenAI researcher announced a GPT-5 math breakthrough that never happened</title>
       <link>https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/</link>
       <description>OpenAI researchers recently claimed a major math breakthrough on X, but quickly walked it back after criticism from the community, including Deepmind CEO Demis Hassabis, who called out the sloppy communication.</description>
@@ -156,19 +163,6 @@ so hard.</description>
       <category>git</category>
       <guid>https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html</guid>
       <pubDate>Sat, 18 Oct 2025 22:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Release 15.0.0 · BurntSushi/ripgrep</title>
-      <link>https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0</link>
-      <description>Sponsorship is appreciated!
-ripgrep 15 is a new major version release of ripgrep that mostly has bug fixes,
-some minor performance improvements and minor new features.
-
-In case you haven't heard of...</description>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0</guid>
-      <pubDate>Sat, 18 Oct 2025 21:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

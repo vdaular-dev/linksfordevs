@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Andrej's advice for success",
+    "Url": "https://cs.stanford.edu/people/karpathy/advice.html",
+    "Timestamp": "2025-10-19T21:01:57",
+    "Domain": "cs.stanford.edu",
+    "Description": "a guide by Andrej Karpathy",
+    "Confidence": 0.99202937
+  },
+  {
     "Title": "Leading OpenAI researcher announced a GPT-5 math breakthrough that never happened",
     "Url": "https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/",
     "Timestamp": "2025-10-19T17:02:07",
@@ -126,13 +134,5 @@
     "Domain": "blog.pkh.me",
     "Description": "Bézier curves are a core building block of text and 2D shapes rendering.\nThere are several approaches to rendering them, but one especially challenging\nproblem, both mathematically and technically, is computing the distance to\na Bézier curve. For quadratic curves (one control point), this is fairly\naccessible, but for cubic (two control points) we're going to see why it is\nso hard.",
     "Confidence": 0.99317527
-  },
-  {
-    "Title": "Release 15.0.0 · BurntSushi/ripgrep",
-    "Url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
-    "Timestamp": "2025-10-18T21:02:01",
-    "Domain": "github.com",
-    "Description": "Sponsorship is appreciated!\nripgrep 15 is a new major version release of ripgrep that mostly has bug fixes,\nsome minor performance improvements and minor new features.\n\nIn case you haven't heard of...",
-    "Confidence": 0.9866591
   }
 ]
