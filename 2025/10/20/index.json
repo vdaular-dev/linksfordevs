@@ -1,5 +1,194 @@
 [
   {
+    "Title": "Claude Code on the web",
+    "Url": "https://www.anthropic.com/news/claude-code-on-the-web",
+    "Timestamp": "2025-10-20T23:03:55",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+  },
+  {
+    "Title": "Learning By Doing In The Age of LLMs",
+    "Url": "https://www.prashanthselvam.com/posts/learning-by-doing-in-the-age-of-llms",
+    "Timestamp": "2025-10-20T23:03:50",
+    "Domain": "www.prashanthselvam.com",
+    "Description": "# Lesson 2: Comprehensive React Native Testing Strategy\n\n**Concepts**: Test-Driven Development, Jest, React Native Testing Library, Mocking, Test Coverage, Integration Testing, Unit Testing, Context Testing, Hook Testing\n\n**Complexity**: Medium to High - Testing React Native requires understanding of components, contexts, hooks, async operations, and mobile-specific APIs\n\n**Key Takeaway**: Comprehensive testing enables confident refactoring, AI-assisted development, and maintainable codebases. Testing isn't just about catching bugs—it's about documenting behavior and enabling change.\n\n---\n\n## 1. The Problem\n\nThe Delightful mobile app had **minimal test coverage** (11 test suites, 94 tests). This created several critical problems:\n\n### Technical Risks\n- **Regression fears**: Developers hesitated to refactor code, fearing unexpected breakage\n- **Slow review cycles**: PRs required extensive manual testing of edge cases\n- **Integration bugs**: Components worked in isolation but broke when combined\n- **Undocumented behavior**: New developers couldn't understand expected behavior from code alone\n\n### AI Development Blockers\n- AI agents can't verify their changes work correctly\n- No safety net for automated refactoring\n- Complex logic (like filters) is opaque to AI understanding\n- Breaking changes go undetected until runtime\n\n### Real-World Impact\n- Authentication edge cases weren't tested (What happens when the token expires during form submission?)\n- Filter logic complexity made debugging nearly impossible\n- New features broke existing workflows\n- Mobile-specific issues (keyboard handling, native events) weren't tested\n\n---\n\n## 2. Technical Concepts\n\n### 2.1 Testing Philosophy\n\n#### The Testing Pyramid\n\n```\n        /\n       /    E2E Tests (Few, Slow, Expensive)\n      /----\n     /        Integration Tests (Some, Medium)\n    /--------\n   /            Unit Tests (Many, Fast, Cheap)\n  /------------\n```\n\n**Unit Tests**: Test individual functions in isolation\n- Example: `capitalizeFirstLetter('john')` → `'John'`\n- Fast, focused, easy to debug\n\n**Integration Tests**: Test how components work together\n- Example: SearchBar + SearchContext + API hooks\n- Medium speed, broader coverage\n\n**E2E Tests**: Test complete user flows\n- Example: Sign up → Login → Create review → View profile\n- Slow, fragile, but high confidence\n- *Note: We focused on unit and integration tests for this project*\n\n### 2.2 React Native Testing Library\n\nUnlike traditional DOM testing, React Native uses a **native component tree**. React Native Testing Library provides:\n\n#### Query Methods\n```typescript\n// Find by text content\ngetByText('Login')\n\n// Find by placeholder\ngetByPlaceholderText('Email')\n\n// Find by test ID\ngetByTestId('submit-button')\n\n// Find by role/type (uses UNSAFE_root)\nUNSAFE_root.findAllByType('TextInput')\n```\n\n#### User Event Simulation\n```typescript\n// Simulate user typing\nfireEvent.changeText(input, 'test@example.com')\n\n// Simulate button press\nfireEvent.press(button)\n\n// Wait for async operations\nawait waitFor(() => {\n  expect(mockFunction).toHaveBeenCalled()\n})\n```\n\n[...]\n\n---\n\n  ## 3. The Solution\n\n  We implemented a **comprehensive testing strategy** across 7 categories:\n\n  ### Phase 1: Foundation - Utils & Core Logic (Priority 1)\n  **Goal**: Test pure functions first—they're easiest and provide immediate value\n\n  ✅ **Created**:\n  - `utils/auth.test.ts` - Authentication functions (7 tests, 100% coverage)\n  - `utils/api.test.tsx` - API layer with token refresh (10 tests, 97.61% coverage)\n  - `utils/text.test.ts` - Text utilities (26 tests, 100% coverage)\n  - `utils/time.test.ts` - Time formatting (15 tests, 100% coverage)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing async functions\n  it('should create user with capitalized name', async () => {\n    mockedAxios.post.mockResolvedValueOnce({ data: mockUser })\n\n    const result = await createUser({\n      first_name: 'john',\n      last_name: 'doe',\n      email: 'test@example.com',\n      password: 'password123',\n    })\n\n    expect(result.data.first_name).toBe('John')\n    expect(result.data.last_name).toBe('Doe')\n  })\n\n  // Testing error handling\n  it('should handle 401 and refresh token', async () => {\n    // First call fails with 401\n    mockedRequest.mockRejectedValueOnce({\n      response: { status: 401 }\n    })\n\n    // Refresh succeeds\n    mockedRefresh.mockResolvedValueOnce({\n      data: { access: 'new-token', refresh: 'new-refresh' }\n    })\n\n    // Retry succeeds\n    mockedRequest.mockResolvedValueOnce({ data: 'success' })\n\n    await wrappedRequest()\n\n    expect(mockAuthenticate).toHaveBeenCalledWith('new-token', 'new-refresh')\n  })\n  ```\n\n  ### Phase 2: UI Components (Priority 3)\n  **Goal**: Test reusable components in isolation\n\n  ✅ **Created**:\n  - `components/ui/__tests__/NewButton.test.tsx` - Button variants, states (9 tests)\n  - `components/ui/__tests__/IconButton.test.tsx` - Icon buttons (5 tests)\n  - `components/ui/__tests__/FlatButton.test.tsx` - Flat button styles (4 tests)\n  - `components/ui/__tests__/Link.test.tsx` - Navigation links (3 tests)\n  - `components/ui/__tests__/Text.test.tsx` - Text component (1 test)\n  - `components/ui/__tests__/SectionHeader.test.tsx` - Section headers (2 tests)\n  - `components/ui/__tests__/LoadingOverlay.test.tsx` - Loading states (1 test)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing component rendering\n  it('should render with text', () => {\n    const { getByText } = render(\n      <NewButton onPress={() => {}}>Click Me</NewButton>\n    )\n    expect(getByText('Click Me')).toBeTruthy()\n  })\n\n  // Testing variants\n  it('should handle secondary variant', () => {\n    const { getByText } = render(\n      <NewButton variant=\"secondary\" onPress={() => {}}>\n        Secondary\n      </NewButton>\n    )\n    const button = getByText('Secondary').parent\n    expect(button?.props.style).toContainEqual(\n      expect.objectContaining({ backgroundColor: COLORS.SECONDARY })\n    )\n  })\n\n  // Testing disabled state\n  it('should not call onPress when disabled', () => {\n    const mockPress = jest.fn()\n    const { getByText } = render(\n      <NewButton disabled onPress={mockPress}>Press</NewButton>\n    )\n    fireEvent.press(getByText('Press'))\n    expect(mockPress).not.toHaveBeenCalled()\n  })\n  ```\n\n  ### Phase 3: Contexts - State Management (Priority 4)\n  **Goal**: Test global state and complex state transitions\n\n  ✅ **Created**:\n  - `contexts/__tests__/AuthContext.test.tsx` - Auth state (30 tests, 86.27%)\n  - `contexts/__tests__/ProductFiltersContext.test.tsx` - Filters (85 tests, 41.5%)\n  - `contexts/__tests__/SearchContext.test.tsx` - Search (7 tests, 87.5%)\n  - `contexts/__tests__/ProductListBottomSheetContext.test.tsx` - Bottom sheet (32 tests, 81.25%)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing context providers\n  it('should initialize with default state', () => {\n    const TestComponent = () => {\n      const { isAuthenticated } = useAuthContext()\n      return <Text>{isAuthenticated ? 'Yes' : 'No'}</Text>\n    }\n\n    const { getByText } = render(\n      <AuthProvider>\n        <TestComponent />\n      </AuthProvider>\n    )\n\n    expect(getByText('No')).toBeTruthy()\n  })\n\n  // Testing state updates\n  it('should update authentication state', () => {\n    const TestComponent = () => {\n      const { authenticate, isAuthenticated } = useAuthContext()\n      return (\n        <View>\n          <Text>{isAuthenticated ? 'Authenticated' : 'Not Authenticated'}</Text>\n          <Button onPress={() => authenticate('token', 'refresh', false)}>\n            Login\n          </Button>\n        </View>\n      )\n    }\n\n    const { getByText } = render(\n      <AuthProvider>\n        <TestComponent />\n      </AuthProvider>\n    )\n\n    expect(getByText('Not Authenticated')).toBeTruthy()\n    fireEvent.press(getByText('Login'))\n    expect(getByText('Authenticated')).toBeTruthy()\n  })\n\n  // Testing AsyncStorage persistence\n  it('should persist tokens to AsyncStorage', async () => {\n    const { result } = renderAuthProvider()\n\n    await act(async () => {\n      result.authenticate('access-token', 'refresh-token', false)\n    })\n\n    await waitFor(() => {\n      expect(AsyncStorage.setItem).toHaveBeenCalledWith('accessToken', 'access-token')\n      expect(AsyncStorage.setItem).toHaveBeenCalledWith('refreshToken', 'refresh-token')\n    })\n  })\n  ```\n\n  ### Phase 4: Data Hooks (Priority 5)\n  **Goal**: Test API integration and data fetching logic\n\n  ✅ **Created**:\n  - `hooks/data/__tests__/useFlavors.test.tsx` - Flavor fetching (2 tests, 100%)\n  - `hooks/data/__tests__/useProductsSearch.test.tsx` - Product search (45 tests, 92.85%)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing React Query hooks\n  it('should fetch products with filters', async () => {\n    const mockProducts = [\n      { id: 1, name: 'Product 1', category: 'BEER' },\n      { id: 2, name: 'Product 2', category: 'BEER' },\n    ]\n\n    mockedUseQueryApi.mockReturnValue({\n      data: { results: mockProducts },\n      isLoading: false,\n      error: null,\n    })\n\n    const TestComponent = () => {\n      const { products } = useProductsSearch({ category: 'BEER' })\n      return (\n        <View>\n          {products.map(p => <Text key={p.id}>{p.name}</Text>)}\n        </View>\n      )\n    }\n\n    const { getByText } = render(<TestComponent />)\n\n    expect(getByText('Product 1')).toBeTruthy()\n    expect(getByText('Product 2')).toBeTruthy()\n  })\n\n  // Testing filter application\n  it('should apply multiple filters', () => {\n    const filters = {\n      category: 'BEER',\n      subcategories: ['IPA', 'LAGER'],\n      minRating: 4.0,\n      flavors: ['Hoppy', 'Crisp'],\n    }\n\n    const result = useProductsSearch(filters)\n\n    expect(mockedUseQueryApi).toHaveBeenCalledWith(\n      expect.stringContaining('category=BEER'),\n      expect.objectContaining({\n        enabled: true,\n      })\n    )\n  })\n  ```\n\n  ### Phase 5: Screens - User Flows (Priority 2)\n  **Goal**: Test critical user journeys\n\n  ✅ **Created**:\n  - `screens/unauthenticated/__tests__/WelcomeScreen.test.tsx` - Welcome flow (5 tests, 100%)\n  - `screens/unauthenticated/__tests__/EmailAuthScreen.test.tsx` - Auth flow (9 tests, 90.38%)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing form submission\n  it('should handle successful login', async () => {\n    const mockTokens = { access: 'token', refresh: 'refresh' }\n    mockedLogin.mockResolvedValueOnce({ data: mockTokens })\n\n    const { getByPlaceholderText, getByText } = render(\n      <EmailAuthScreen navigation={mockNav} route={loginRoute} />,\n      { wrapper: AuthWrapper }\n    )\n\n    fireEvent.changeText(getByPlaceholderText('Email'), 'test@example.com')\n    fireEvent.changeText(getByPlaceholderText('Password'), 'password123')\n    fireEvent.press(getByText('Log In'))\n\n    await waitFor(() => {\n      expect(mockedLogin).toHaveBeenCalledWith({\n        email: 'test@example.com',\n        password: 'password123',\n      })\n      expect(mockAuthContext.authenticate).toHaveBeenCalledWith(\n        'token',\n        'refresh',\n        false\n      )\n    })\n  })\n\n  // Testing error handling\n  it('should display error on failed login', async () => {\n    mockedLogin.mockRejectedValueOnce(new Error('Invalid credentials'))\n\n    const { getByPlaceholderText, getByText } = render(\n      <EmailAuthScreen navigation={mockNav} route={loginRoute} />,\n      { wrapper: AuthWrapper }\n    )\n\n    fireEvent.changeText(getByPlaceholderText('Email'), 'wrong@example.com')\n    fireEvent.changeText(getByPlaceholderText('Password'), 'wrong')\n    fireEvent.press(getByText('Log In'))\n\n    await waitFor(() => {\n      expect(Alert.alert).toHaveBeenCalledWith(\n        'Authentication Failed!',\n        expect.stringContaining('check your credentials')\n      )\n    })\n  })\n\n  // Testing mode switching\n  it('should switch between login and signup modes', async () => {\n    const { getByText, getByPlaceholderText } = render(\n      <EmailAuthScreen navigation={mockNav} route={loginRoute} />\n    )\n\n    fireEvent.press(getByText('Or create an account'))\n\n    await waitFor(() => {\n      expect(getByPlaceholderText('First Name')).toBeTruthy()\n      expect(getByPlaceholderText('Last Name')).toBeTruthy()\n    })\n  })\n  ```\n\n  ### Phase 6: Complex Components (Priority 6)\n  **Goal**: Test feature-specific components\n\n  ✅ **Created**:\n  - `screens/.../components/Flavors/__tests__/FlavorChip.test.tsx` - Flavor chips (4 tests, 100%)\n  - `screens/.../components/ProductSearch/__tests__/SearchBar.test.tsx` - Search bar (14 tests, 93.75%)\n  - `screens/.../components/ProductSearch/__tests__/ProductSearchTile.test.tsx` - Product tiles (8 tests, 100%)\n  - `screens/.../components/ProductSearch/__tests__/SubcategoryFilters.test.tsx` - Subcategory filters (51 tests, 100%)\n\n  **Key Patterns**:\n  ```typescript\n  // Testing with context dependencies\n  const mockSearchContext = {\n    searchQuery: '',\n    setSearchQuery: jest.fn(),\n    clearSearch: jest.fn(),\n  }\n\n  const renderSearchBar = (contextValue = mockSearchContext) => {\n    return render(\n      <SearchContext.Provider value={contextValue}>\n        <SearchBar placeholderText=\"Search products\" />\n      </SearchContext.Provider>\n    )\n  }\n\n  // Testing input changes\n  it('should update search query on text change', () => {\n    const { getByPlaceholderText } = renderSearchBar()\n\n    fireEvent.changeText(getByPlaceholderText('Search products'), 'IPA')\n\n    expect(mockSearchContext.setSearchQuery).toHaveBeenCalledWith('IPA')\n  })\n\n  // Testing debouncing/timing\n  it('should clear search when clear button pressed', () => {\n    const { getByTestId } = renderSearchBar({\n      ...mockSearchContext,\n      searchQuery: 'existing query',\n    })\n\n    fireEvent.press(getByTestId('clear-search'))\n\n    expect(mockSearchContext.clearSearch).toHaveBeenCalled()\n  })\n  ```\n\n  ### Phase 7: Hooks - Custom Business Logic\n  **Goal**: Test non-data hooks\n\n  ✅ **Created**:\n  - `hooks/__tests__/useDeepLink.test.tsx` - Deep link handling (4 tests, 94.11%)\n\n  ---\n\n  ## 4. Before & After\n\n  ### Before: Minimal Coverage\n  ```\n  Test Suites: 11 passed, 11 total\n  Tests:       94 passed, 94 total\n  Coverage:    ~20% (estimated, not formally measured)\n  ```\n\n  **Problems**:\n  - No screen tests\n  - No component tests\n  - Minimal context tests\n  - No integration tests\n  - Manual testing required for every change\n\n  ### After: Comprehensive Coverage\n  ```\n  Test Suites: 24 passed, 24 total\n  Tests:       313 passed, 313 total\n  Coverage:    78.42% statements, 79.36% branches\n\n  Breakdown:\n  - Utils: 99.06% ✅\n  - Data Hooks: 93.22% ✅\n  - Tested Screens: 91.22% ✅\n  - Product Components: 96.29% ✅\n  - Contexts: 59.66% ⚠️\n  - UI Components: 64.40% ⚠️\n  ```\n\n  **Benefits**:\n  - Fast test execution (<3s)\n  - Automated regression detection\n  - Documentation through tests\n  - Confident refactoring\n  - AI-friendly codebase\n\n  ---\n\n  ## 5. Impact Analysis\n\n  ### Development Velocity\n  **Before**: Fear of breaking changes slowed development\n  **After**: Tests provide safety net for rapid iteration\n\n  ### Code Quality\n  **Before**: Undocumented edge cases, hidden assumptions\n  **After**: Tests document expected behavior explicitly\n\n  ### Onboarding\n  **Before**: New developers struggled to understand component interactions\n  **After**: Tests serve as executable documentation\n\n  ### AI Development Readiness\n  **Before**: AI agents couldn't verify changes\n  **After**: AI can run tests to validate modifications\n\n  | Capability | Before | After |\n  |------------|--------|-------|\n  | Refactor utils | ❌ Risky | ✅ Safe (99% coverage) |\n  | Modify API layer | ❌ Manual testing | ✅ Automated (97% coverage) |\n  | Update filters | ❌ Very risky | ⚠️ Needs improvement (41%) |\n  | Change screens | ❌ No tests | ⚠️ Partial (2 screens tested) |\n\n  ### Performance\n  - Test suite runs in <3 seconds\n  - Coverage report in <5 seconds\n  - No impact on bundle size (dev dependency)\n\n  ### Maintenance\n  - Established patterns for future tests\n  - Consistent mocking strategy\n  - Reusable test utilities\n\n  ---\n\n  ## 6. Testing Strategy\n\n  ### 6.1 Test Organization\n\n  ```\n  component/\n  ├── Component.tsx\n  └── __tests__/\n      └── Component.test.tsx\n  ```\n\n  **Benefits**:\n  - Easy to find related tests\n  - Clear ownership\n  - Encourages testing\n\n  ### 6.2 What to Test\n\n  ✅ **Do Test**:\n  - User interactions (button clicks, text input)\n  - Conditional rendering (loading, error, success states)\n  - Props variations (different button variants)\n  - State changes (filter updates, auth state)\n  - Error handling (API failures, validation)\n  - Integration between components and contexts\n\n  ❌ **Don't Test**:\n  - Implementation details (internal state variables)\n  - Third-party libraries (React Navigation, React Query)\n  - Styling (unless it affects functionality)\n  - Exact text copy (use `getByText(/pattern/i)` for flexibility)\n\n  ### 6.3 Mock Strategy\n\n  #### Level 1: Native Modules (jest-setup.js)\n  ```typescript\n  // Mock once, use everywhere\n  jest.mock('react-native/Libraries/EventEmitter/NativeEventEmitter')\n  jest.mock('@expo/vector-icons')\n  jest.mock('expo-constants')\n  ```\n\n  #### Level 2: External Dependencies (test file)\n  ```typescript\n  // Mock per test file\n  jest.mock('@/utils/auth')\n  jest.mock('axios')\n  jest.mock('@react-navigation/native')\n  ```\n\n  #### Level 3: Internal Mocks (test case)\n  ```typescript\n  // Mock per test case\n  beforeEach(() => {\n    mockedLogin.mockResolvedValue({ data: mockTokens })\n  })\n\n  afterEach(() => {\n    jest.clearAllMocks()\n  })\n  ```\n\n  ### 6.4 Testing Checklist\n\n  For each component/function:\n  - [ ] Renders correctly with default props\n  - [ ] Handles all prop variations\n  - [ ] Responds to user interactions\n  - [ ] Shows loading states\n  - [ ] Shows error states\n  - [ ] Shows empty states\n  - [ ] Handles edge cases (null, undefined, empty arrays)\n  - [ ] Integrates with contexts correctly\n  - [ ] Makes correct API calls\n  - [ ] Navigates correctly\n\n---\n\n## 7. Key Takeaways\n\n### Specific to This Project\n\n1. **Start with utils** - Pure functions are easiest to test and provide immediate value\n2. **Mock early, mock consistently** - Establish mocking patterns in `jest-setup.js`\n3. **Test behavior, not implementation** - Focus on what users experience\n4. **Context wrappers are essential** - Most components depend on global state\n5. **Async testing requires patience** - Use `waitFor()` liberally\n\n### General Engineering Principles\n\n1. **Tests are documentation** - Future developers (and AI) learn from tests\n2. **Coverage isn't everything** - 78% coverage beats 100% of the wrong things\n3. **Test the critical path first** - Auth and core features before edge cases\n4. **Integration > Unit** - Component + Context tests catch more bugs than isolated unit tests\n5. **Refactor with confidence** - Good tests let you change code fearlessly\n\n### Mobile-Specific Insights\n\n1. **Native APIs need mocking** - Keyboard, AsyncStorage, Push Notifications\n2. **Event emitters are tricky** - Mock `NativeEventEmitter` to avoid warnings\n3. **Navigation is context** - Mock navigation props and contexts separately\n4. **Async is everywhere** - API calls, storage, native modules all require `waitFor()`\n\n---\n\n## 8. Further Reading\n\n### React Native Testing Library\n- [Official Docs](https://callstack.github.io/react-native-testing-library/)\n- [Common Mistakes](https://kentcdodds.com/blog/common-mistakes-with-react-testing-library)\n- [Testing Playground](https://testing-playground.com/)\n\n### Jest\n- [Jest Documentation](https://jestjs.io/docs/getting-started)\n- [Mocking Guide](https://jestjs.io/docs/mock-functions)\n- [Async Testing](https://jestjs.io/docs/asynchronous)\n\n### Testing Philosophy\n- [Testing Trophy](https://kentcdodds.com/blog/the-testing-trophy-and-testing-classifications) - Why integration tests matter\n- [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests) - Guillermo Rauch's famous quote\n- [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details) - What not to test\n\n---\n\n*\"Code without tests is broken by design.\" - Jacob Kaplan-Moss*\n\n*\"The best time to write tests was when you wrote the code. The second best time is now.\"*"
+  },
+  {
+    "Title": "Experiments",
+    "Url": "https://evenzero.in/posts/experiments/",
+    "Timestamp": "2025-10-20T23:03:46",
+    "Domain": "evenzero.in",
+    "Description": "Tinkering / R&D for work or otherwise, FOSS publications"
+  },
+  {
+    "Title": "The Second Best Tool for the Job — Yakir Havin",
+    "Url": "https://yakirhavin.com/blog/spreadsheets-the-second-best-tool-for-the-job/",
+    "Timestamp": "2025-10-20T23:03:43",
+    "Domain": "yakirhavin.com",
+    "Description": "Abraham Maslow, creator of the most famous pyramid outside of Egypt, once said that “it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.” This is known as the law of the instrument, and it refers to the human tendency to over-rely on a familiar tool, specifically in cases where it is not appropriate."
+  },
+  {
+    "Title": "Interview with a new hosting provider founder",
+    "Url": "https://ntietz.com/blog/andromeda-industries-interview/",
+    "Timestamp": "2025-10-20T23:03:38",
+    "Domain": "ntietz.com",
+    "Description": "Most of us use infrastructure provided by companies like DigitalOcean and AWS.\nSome of us choose to work on that infrastructure.\nAnd some of us are really built different and choose to build all that infrastructure from scratch."
+  },
+  {
+    "Title": "State and rerenders",
+    "Url": "https://jovidecroock.com/blog/state-vs-signals/",
+    "Timestamp": "2025-10-20T23:03:35",
+    "Domain": "jovidecroock.com",
+    "Description": "Exploring the paradigm shift from 'render where you create state' to 'render where you use state'."
+  },
+  {
+    "Title": "You Are Insignificant. That's a Good Thing.",
+    "Url": "https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing",
+    "Timestamp": "2025-10-20T23:03:31",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "A Short Guide to Being Infinitesimally Small"
+  },
+  {
+    "Title": "Pheather2",
+    "Url": "https://urbanboatproject.weebly.com/pheather2.html",
+    "Timestamp": "2025-10-20T23:03:27",
+    "Domain": "urbanboatproject.weebly.com",
+    "Description": "Welcome to my new 11.6lbs canoe! Last update: October 18,  2025. "
+  },
+  {
+    "Title": "Front-end maximalism",
+    "Url": "https://www.natemeyvis.com/front-end-maximalism/",
+    "Timestamp": "2025-10-20T23:03:21",
+    "Domain": "www.natemeyvis.com",
+    "Description": "Here's a question that comes up all the time:\n\nQ: I have a front end that calls into a back end. \nIt needs to do things now, and might need to do more thi..."
+  },
+  {
+    "Title": "How I Use Claude Code on My Phone with Termux and Tailscale",
+    "Url": "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/",
+    "Timestamp": "2025-10-20T23:03:18",
+    "Domain": "www.skeptrune.com",
+    "Description": "You don't need a new startup or third-party service to use Claude Code on your phone. You just need SSH, Tailscale, and Termux. Here's how to code from anywhere with the tools you already have."
+  },
+  {
+    "Title": "Measuring Engineering Productivity",
+    "Url": "https://justoffbyone.com/posts/measuring-engineering-productivity/",
+    "Timestamp": "2025-10-20T23:03:15",
+    "Domain": "justoffbyone.com",
+    "Description": "A practical system for tracking engineering output without burying teams in metrics."
+  },
+  {
+    "Title": "My Programming Career is a Historical Artifact",
+    "Url": "https://payne.io/posts/historical-artifact/",
+    "Timestamp": "2025-10-20T23:03:11",
+    "Domain": "payne.io",
+    "Description": "I’m calling it. My entire 30 year career in technology is a historical artifact. My current work with AI has convinced me that, in a few short years, humanity will look back and think how funny it was that people once actually programmed machines."
+  },
+  {
+    "Title": "Solving SAT with Quantum Vacuum Dynamics: A Physics-Inspired Approach",
+    "Url": "https://sethuiyer.github.io/casimir-sat-solver/",
+    "Timestamp": "2025-10-20T23:03:08",
+    "Domain": "sethuiyer.github.io",
+    "Description": "A radical reimagining of SAT solving through quantum vacuum fluctuations and the Casimir effect"
+  },
+  {
+    "Title": "Understanding Relationships",
+    "Url": "https://www.jerry.wtf/posts/understanding-relationships/",
+    "Timestamp": "2025-10-20T23:03:04",
+    "Domain": "www.jerry.wtf",
+    "Description": "\nI’ve been chatting with a few female friends about dating.\nDating in New York, they say, feels like every guy operates with the emotional depth of a vending machine: Insert coin, select option A (situationship) or B (serious), dispense relationship if available.\nMeanwhile, I’ve had conversations with guys who brag about “only doing long-term relationships” as if it’s a personality trait, a mark of maturity, and “situationships” are beneath them. There’s some cognitive dissonance between these two observations, and it got me thinking about how I understood relationships when I was younger, and how I suspect many men still do.\nI think for a lot of men their understanding of relationships stops developing shortly after high school."
+  },
+  {
+    "Title": "Why and how I rewrote these Obsidian plugins",
+    "Url": "https://johnwhiles.com/posts/obsidian-plugins",
+    "Timestamp": "2025-10-20T23:02:59",
+    "Domain": "johnwhiles.com",
+    "Description": "If you’re plugged into “The JavaScript World” then you’ve probably been hearing a lot about supply chain attacks recently. The NPM ecosystem has seen a self replicating worm spread by malicious post-install scripts - and in response a lot of people are becoming more worried about their dependency on... dependencies."
+  },
+  {
+    "Title": "Claude Code is unreasonably good at building MVPs",
+    "Url": "https://www.brethorsting.com/blog/2025/10/claude-code-is-unreasonably-good-at-building-mvps/",
+    "Timestamp": "2025-10-20T23:02:56",
+    "Domain": "www.brethorsting.com",
+    "Description": "Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner."
+  },
+  {
+    "Title": "Exploring IRC (Internet Relay Chat)",
+    "Url": "https://blog.preahs.com/exploring-irc-internet-relay-chat/",
+    "Timestamp": "2025-10-20T23:02:53",
+    "Domain": "blog.preahs.com",
+    "Description": "I have been having fun trying out IRC and IRC clients, including a self-hosted option."
+  },
+  {
+    "Title": "The Curse of the Eternally Urgent",
+    "Url": "https://gettingthingsdone.com/2025/05/the-curse-of-the-eternally-urgent/",
+    "Timestamp": "2025-10-20T23:02:49",
+    "Domain": "gettingthingsdone.com",
+    "Description": "Ignoring next actions on secondarily important actions and projects because you are too busy and concerned with urgent things fosters continual crisis management."
+  },
+  {
+    "Title": "Fast Call-Stack Backtrace | Branimir Karadžić's Home Page",
+    "Url": "https://bkaradzic.github.io/posts/fast-call-stack-backtrace/",
+    "Timestamp": "2025-10-20T23:02:45",
+    "Domain": "bkaradzic.github.io",
+    "Description": "Branimir Karadžić's Home Page"
+  },
+  {
+    "Title": "Production RAG: what I learned from processing 5M+ documents",
+    "Url": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+    "Timestamp": "2025-10-20T23:02:41",
+    "Domain": "blog.abdellatif.io",
+    "Description": "Lessons learned from building RAG systems for Usul AI and enterprise clients, processing over 13 million pages."
+  },
+  {
+    "Title": "Does my toaster love me?",
+    "Url": "https://tomrenner.com/posts/does-my-toaster-love-me/",
+    "Timestamp": "2025-10-20T23:02:38",
+    "Domain": "tomrenner.com",
+    "Description": "I’m starting to think that my toaster might have fallen in love with me. I get that not everyone will think this is possible, but I believe it’s true.\nIt’s always pleased to see me, giving off cheerful sounds when I greet it in the morning by slotting in the bread, and now I’ve told it what I like it tries really hard to give me exactly what I want. Sometimes I have to tell it to try again once or twice, but honestly, it’s really good!"
+  },
+  {
+    "Title": "Very Carefully Educated To Be Idiots",
+    "Url": "https://www.hilarylayne.com/p/very-carefully-educated-to-be-idiots",
+    "Timestamp": "2025-10-20T23:02:34",
+    "Domain": "www.hilarylayne.com",
+    "Description": "How Billionaire Industrialists and their Government Allies Deliberately Limited Intelligence and Literacy"
+  },
+  {
+    "Title": "The Privacy Theater of Hashed PII",
+    "Url": "https://matthodges.com/posts/2025-10-19-privacy-theater-pii-phone-numbers/",
+    "Timestamp": "2025-10-20T23:02:30",
+    "Domain": "matthodges.com",
+    "Description": "A 2020 MacBook Air can hash every North American phone number in four hours"
+  },
+  {
+    "Title": "I loved my time in the UK. But it needs an AC intervention.",
+    "Url": "https://www.natesilver.net/p/i-loved-my-time-in-the-uk-but-it",
+    "Timestamp": "2025-10-20T23:02:26",
+    "Domain": "www.natesilver.net",
+    "Description": "A stiff upper lip and a warming climate make for a strange combination."
+  },
+  {
+    "Title": "My conclusions after using Signed Exchanges on my website for 2 years",
+    "Url": "https://www.pawelpokrywka.com/p/my-conclusions-after-using-signed",
+    "Timestamp": "2025-10-20T23:02:21",
+    "Domain": "www.pawelpokrywka.com",
+    "Description": "Instant page loads for Google visitors using Signed Exchanges—part 10 (final)"
+  },
+  {
+    "Title": "You don't need Kafka: Building a message queue with only two UNIX signals",
+    "Url": "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals",
+    "Timestamp": "2025-10-20T23:02:16",
+    "Domain": "leandronsp.com",
+    "Description": "Have you ever asked yourself what if we could replace any message broker with a very simple one using only two UNIX signals? Well, I'm not surprised if you didn'"
+  },
+  {
+    "Title": "Optimizing LLM Context for Vulnerability Scanning",
+    "Url": "https://blog.fraim.dev/optimizing_llm_context_for_vulnerability_scanning/",
+    "Timestamp": "2025-10-20T23:02:12",
+    "Domain": "blog.fraim.dev",
+    "Description": "Optimizing LLM Context for Vulnerability Scanning"
+  },
+  {
     "Title": "Emperor Palpatine",
     "Url": "https://xkcd.com/3157/",
     "Timestamp": "2025-10-20T22:02:09",
