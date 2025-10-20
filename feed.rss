@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>BERT is just a Single Text Diffusion Step</title>
+      <link>https://nathan.rs/posts/roberta-diffusion/</link>
+      <description>A while back, Google DeepMind unveiled Gemini Diffusion, an experimental language model that generates text using diffusion. Unlike traditional GPT-style models that generate one word at a time, Gemini Diffusion creates whole blocks of text by refining random noise step-by-step.
+I read the paper Large Language Diffusion Models and was surprised to find that discrete language diffusion is just a generalization of masked language modeling (MLM), something we’ve been doing since 2018. The first thought I had was, “can we finetune a BERT-like model to do text generation?” I decided to try a quick proof of concept out of curiosity.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://nathan.rs/posts/roberta-diffusion/</guid>
+      <pubDate>Mon, 20 Oct 2025 19:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>building a lightweight ImGui profiler in ~500 lines of C++</title>
       <link>https://vittorioromeo.com/index/blog/sfex_profiler.html</link>
       <description>Article/tutorial on http://vittorioromeo.com</description>
