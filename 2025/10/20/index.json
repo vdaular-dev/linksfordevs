@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Entire Linux Network stack diagram",
+    "Url": "https://zenodo.org/records/14179366",
+    "Timestamp": "2025-10-20T09:02:22",
+    "Domain": "zenodo.org",
+    "Description": "Diagram of entire Linux Network Stack, including: Virtualization and Linux containers: Emulation and Paravirtualization. Network sockets. Network stack: Upper layer of Network stack (TCP, UDP). Low layer of Network stack with GRO, RPS, RFS and GSO. Network Scheduler. NetFilter and traffic controll: Bridge and Bond interfaces. Tap interface, ... Device Driver: Queue. NAPI. IRQ handler. Network functions accelerated by NIC: Checksum offload, VLAN, VxLAN, GRE, TSO, LRO, RSS, ... Network card. All (above) sections (layers) include tips for optimizations and/or statistics.   This diagram is part of the book:  Operativni sustavi i računalne mreže - Linux u primjeni https://doi.org/10.5281/zenodo.8119310"
+  },
+  {
+    "Title": "Space Elevator",
+    "Url": "https://neal.fun/space-elevator/",
+    "Timestamp": "2025-10-20T09:02:12",
+    "Domain": "neal.fun",
+    "Description": "Take a trip to space!"
+  },
+  {
+    "Title": "DynamoDB down us-east-1",
+    "Url": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
+    "Timestamp": "2025-10-20T09:02:08",
+    "Domain": "old.reddit.com",
+    "Description": "Well, looks like we have a dumpster fire on DynamoDB in us-east-1 again."
+  },
+  {
     "Title": "Novo Nordisk's Canadian Mistake",
     "Url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
     "Timestamp": "2025-10-20T03:02:08",
