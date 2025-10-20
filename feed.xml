@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>building a lightweight ImGui profiler in ~500 lines of C++</title>
+      <link>https://vittorioromeo.com/index/blog/sfex_profiler.html</link>
+      <description>Article/tutorial on http://vittorioromeo.com</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <guid>https://vittorioromeo.com/index/blog/sfex_profiler.html</guid>
+      <pubDate>Mon, 20 Oct 2025 17:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Lindenmayer Systems</title>
       <link>https://www.4rknova.com//blog/2018/11/14/lindenmayer-systems</link>
       <description>L-Systems are a mathematical framework for modeling organic structures and fractals. They generate complex patterns and are used in graphics, biology, and procedural generation. In this blog post I...</description>
@@ -269,22 +280,6 @@ Remove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by
       <description>a guide by Andrej Karpathy</description>
       <guid>https://cs.stanford.edu/people/karpathy/advice.html</guid>
       <pubDate>Sun, 19 Oct 2025 21:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leading OpenAI researcher announced a GPT-5 math breakthrough that never happened</title>
-      <link>https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/</link>
-      <description>OpenAI researchers recently claimed a major math breakthrough on X, but quickly walked it back after criticism from the community, including Deepmind CEO Demis Hassabis, who called out the sloppy communication.</description>
-      <category>ai</category>
-      <guid>https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/</guid>
-      <pubDate>Sun, 19 Oct 2025 17:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everybody's so Creative!</title>
-      <link>https://daymare.net/blogs/everbody-so-creative/</link>
-      <description>After 4 years with Rust, I love the language – but I’m starting to think the ecosystem has an abstraction addiction. Or: why every Rust crate feels like a research paper on abstraction.</description>
-      <category>rust</category>
-      <guid>https://daymare.net/blogs/everbody-so-creative/</guid>
-      <pubDate>Sun, 19 Oct 2025 17:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "building a lightweight ImGui profiler in ~500 lines of C++",
+    "Url": "https://vittorioromeo.com/index/blog/sfex_profiler.html",
+    "Timestamp": "2025-10-20T17:02:01",
+    "Domain": "vittorioromeo.com",
+    "Description": "Article/tutorial on http://vittorioromeo.com",
+    "Confidence": 0.9996381
+  },
+  {
     "Title": "Lindenmayer Systems",
     "Url": "https://www.4rknova.com//blog/2018/11/14/lindenmayer-systems",
     "Timestamp": "2025-10-20T16:02:06",
@@ -238,21 +246,5 @@
     "Domain": "cs.stanford.edu",
     "Description": "a guide by Andrej Karpathy",
     "Confidence": 0.99202937
-  },
-  {
-    "Title": "Leading OpenAI researcher announced a GPT-5 math breakthrough that never happened",
-    "Url": "https://the-decoder.com/leading-openai-researcher-announced-a-gpt-5-math-breakthrough-that-never-happened/",
-    "Timestamp": "2025-10-19T17:02:07",
-    "Domain": "the-decoder.com",
-    "Description": "OpenAI researchers recently claimed a major math breakthrough on X, but quickly walked it back after criticism from the community, including Deepmind CEO Demis Hassabis, who called out the sloppy communication.",
-    "Confidence": 0.5092734
-  },
-  {
-    "Title": "Everybody's so Creative!",
-    "Url": "https://daymare.net/blogs/everbody-so-creative/",
-    "Timestamp": "2025-10-19T17:02:01",
-    "Domain": "daymare.net",
-    "Description": "After 4 years with Rust, I love the language – but I’m starting to think the ecosystem has an abstraction addiction. Or: why every Rust crate feels like a research paper on abstraction.",
-    "Confidence": 0.97311157
   }
 ]
