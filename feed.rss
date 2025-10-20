@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Grandmaster Daniel Naroditsky Has Passed Away</title>
+      <link>https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/</link>
+      <description>Posted in r/chess by u/Frozeria • 4,448 points and 1,072 comments</description>
+      <category>gaming</category>
+      <guid>https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/</guid>
+      <pubDate>Mon, 20 Oct 2025 21:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>BERT is just a Single Text Diffusion Step</title>
       <link>https://nathan.rs/posts/roberta-diffusion/</link>
       <description>A while back, Google DeepMind unveiled Gemini Diffusion, an experimental language model that generates text using diffusion. Unlike traditional GPT-style models that generate one word at a time, Gemini Diffusion creates whole blocks of text by refining random noise step-by-step.
@@ -283,13 +291,6 @@ Remove A (= 1) Upgrade A to version 2 If A was installed by a chain initiated by
       <category>sql</category>
       <guid>https://datamonkeysite.com/2025/10/19/running-duckdb-at-10-tb-scale/</guid>
       <pubDate>Sun, 19 Oct 2025 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Andrej's advice for success</title>
-      <link>https://cs.stanford.edu/people/karpathy/advice.html</link>
-      <description>a guide by Andrej Karpathy</description>
-      <guid>https://cs.stanford.edu/people/karpathy/advice.html</guid>
-      <pubDate>Sun, 19 Oct 2025 21:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
