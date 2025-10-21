@@ -1,5 +1,13 @@
 [
   {
+    "Title": "ChatGPT Atlas",
+    "Url": "https://chatgpt.com/atlas",
+    "Timestamp": "2025-10-21T19:02:01",
+    "Domain": "chatgpt.com",
+    "Description": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+    "Confidence": 0.9098062
+  },
+  {
     "Title": "Interpolation Methods",
     "Url": "https://www.4rknova.com//blog/2018/11/14/interpolation-methods",
     "Timestamp": "2025-10-21T17:02:11",
@@ -286,13 +294,5 @@
     "Domain": "old.reddit.com",
     "Description": "Posted in r/chess by u/Frozeria • 4,448 points and 1,072 comments",
     "Confidence": 0.85795116
-  },
-  {
-    "Title": "BERT is just a Single Text Diffusion Step",
-    "Url": "https://nathan.rs/posts/roberta-diffusion/",
-    "Timestamp": "2025-10-20T19:02:00",
-    "Domain": "nathan.rs",
-    "Description": "A while back, Google DeepMind unveiled Gemini Diffusion, an experimental language model that generates text using diffusion. Unlike traditional GPT-style models that generate one word at a time, Gemini Diffusion creates whole blocks of text by refining random noise step-by-step.\nI read the paper Large Language Diffusion Models and was surprised to find that discrete language diffusion is just a generalization of masked language modeling (MLM), something we’ve been doing since 2018. The first thought I had was, “can we finetune a BERT-like model to do text generation?” I decided to try a quick proof of concept out of curiosity.",
-    "Confidence": 0.983174
   }
 ]
