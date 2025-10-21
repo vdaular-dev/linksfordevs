@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Postman Status",
+    "Url": "https://status.postman.com/",
+    "Timestamp": "2025-10-21T03:02:07",
+    "Domain": "status.postman.com",
+    "Description": "Welcome to Postman's home for real-time and historical data on system performance.",
+    "Confidence": 0.9615649
+  },
+  {
     "Title": "The Majority AI View - Anil Dash",
     "Url": "https://www.anildash.com/2025/10/17/the-majority-ai-view/",
     "Timestamp": "2025-10-21T01:01:57",
@@ -334,13 +342,5 @@
     "Domain": "old.reddit.com",
     "Description": "Well, looks like we have a dumpster fire on DynamoDB in us-east-1 again.",
     "Confidence": 0.9942741
-  },
-  {
-    "Title": "Novo Nordisk's Canadian Mistake",
-    "Url": "https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake",
-    "Timestamp": "2025-10-20T03:02:08",
-    "Domain": "www.science.org",
-    "Description": "",
-    "Confidence": 0.88009757
   }
 ]
