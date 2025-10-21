@@ -1048,28 +1048,5 @@ I read the paper Large Language Diffusion Models and was surprised to find that 
       <guid>https://github.com/deepseek-ai/DeepSeek-OCR</guid>
       <pubDate>Mon, 20 Oct 2025 10:01:57 GMT</pubDate>
     </item>
-    <item>
-      <title>Entire Linux Network stack diagram</title>
-      <link>https://zenodo.org/records/14179366</link>
-      <description>Diagram of entire Linux Network Stack, including: Virtualization and Linux containers: Emulation and Paravirtualization. Network sockets. Network stack: Upper layer of Network stack (TCP, UDP). Low layer of Network stack with GRO, RPS, RFS and GSO. Network Scheduler. NetFilter and traffic controll: Bridge and Bond interfaces. Tap interface, ... Device Driver: Queue. NAPI. IRQ handler. Network functions accelerated by NIC: Checksum offload, VLAN, VxLAN, GRE, TSO, LRO, RSS, ... Network card. All (above) sections (layers) include tips for optimizations and/or statistics.   This diagram is part of the book:  Operativni sustavi i računalne mreže - Linux u primjeni https://doi.org/10.5281/zenodo.8119310</description>
-      <category>linux</category>
-      <guid>https://zenodo.org/records/14179366</guid>
-      <pubDate>Mon, 20 Oct 2025 09:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Space Elevator</title>
-      <link>https://neal.fun/space-elevator/</link>
-      <description>Take a trip to space!</description>
-      <guid>https://neal.fun/space-elevator/</guid>
-      <pubDate>Mon, 20 Oct 2025 09:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>DynamoDB down us-east-1</title>
-      <link>https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/</link>
-      <description>Well, looks like we have a dumpster fire on DynamoDB in us-east-1 again.</description>
-      <category>cloud</category>
-      <guid>https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/</guid>
-      <pubDate>Mon, 20 Oct 2025 09:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
