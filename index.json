@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Build Your Own Database",
+    "Url": "https://www.nan.fyi/database",
+    "Timestamp": "2025-10-21T21:02:10",
+    "Domain": "www.nan.fyi",
+    "Description": "A step-by-step guide to building a key-value database from scratch.",
+    "Confidence": 0.99072397
+  },
+  {
     "Title": "Neural audio codecs: how to get audio into LLMs",
     "Url": "https://kyutai.org/next/codec-explainer",
     "Timestamp": "2025-10-21T20:02:01",
@@ -294,13 +302,5 @@
     "Domain": "substack.com",
     "Description": "How to manage various instance data requirements inside a GPU-driven renderer with a unified instance representation",
     "Confidence": 0.98187137
-  },
-  {
-    "Title": "Grandmaster Daniel Naroditsky Has Passed Away",
-    "Url": "https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/",
-    "Timestamp": "2025-10-20T21:02:07",
-    "Domain": "old.reddit.com",
-    "Description": "Posted in r/chess by u/Frozeria • 4,448 points and 1,072 comments",
-    "Confidence": 0.85795116
   }
 ]

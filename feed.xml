@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Build Your Own Database</title>
+      <link>https://www.nan.fyi/database</link>
+      <description>A step-by-step guide to building a key-value database from scratch.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://www.nan.fyi/database</guid>
+      <pubDate>Tue, 21 Oct 2025 21:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Neural audio codecs: how to get audio into LLMs</title>
       <link>https://kyutai.org/next/codec-explainer</link>
       <description>Why modeling audio is harder than text, and how to make it feasible with neural audio codecs.</description>
@@ -1017,14 +1026,6 @@ Vulkan-based applications.</description>
       <category>gaming</category>
       <guid>https://substack.com/home/post/p-176170070</guid>
       <pubDate>Mon, 20 Oct 2025 22:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grandmaster Daniel Naroditsky Has Passed Away</title>
-      <link>https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/</link>
-      <description>Posted in r/chess by u/Frozeria • 4,448 points and 1,072 comments</description>
-      <category>gaming</category>
-      <guid>https://old.reddit.com/r/chess/comments/1obnbmu/grandmaster_daniel_naroditsky_has_passed_away/</guid>
-      <pubDate>Mon, 20 Oct 2025 21:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
