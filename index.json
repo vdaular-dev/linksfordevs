@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Interpolation Methods",
+    "Url": "https://www.4rknova.com//blog/2018/11/14/interpolation-methods",
+    "Timestamp": "2025-10-21T17:02:11",
+    "Domain": "www.4rknova.com",
+    "Description": "A collection of useful interpolation methods, theory and implementation",
+    "Confidence": 0.98842096
+  },
+  {
+    "Title": "The Greatness of Text Adventures",
+    "Url": "https://entropicthoughts.com/the-greatness-of-text-adventures",
+    "Timestamp": "2025-10-21T17:02:07",
+    "Domain": "entropicthoughts.com",
+    "Description": "Text adventures are weird. They are so weird I don’t know how to write this\narticle, so prepare to read something even more rambly than usual. Normally,\nwhen this happens, I decide not to publish the article. But",
+    "Confidence": 0.9521229
+  },
+  {
     "Title": "Postman Status",
     "Url": "https://status.postman.com/",
     "Timestamp": "2025-10-21T03:02:07",
@@ -278,13 +294,5 @@
     "Domain": "nathan.rs",
     "Description": "A while back, Google DeepMind unveiled Gemini Diffusion, an experimental language model that generates text using diffusion. Unlike traditional GPT-style models that generate one word at a time, Gemini Diffusion creates whole blocks of text by refining random noise step-by-step.\nI read the paper Large Language Diffusion Models and was surprised to find that discrete language diffusion is just a generalization of masked language modeling (MLM), something we’ve been doing since 2018. The first thought I had was, “can we finetune a BERT-like model to do text generation?” I decided to try a quick proof of concept out of curiosity.",
     "Confidence": 0.983174
-  },
-  {
-    "Title": "building a lightweight ImGui profiler in ~500 lines of C++",
-    "Url": "https://vittorioromeo.com/index/blog/sfex_profiler.html",
-    "Timestamp": "2025-10-20T17:02:01",
-    "Domain": "vittorioromeo.com",
-    "Description": "Article/tutorial on http://vittorioromeo.com",
-    "Confidence": 0.9996381
   }
 ]
