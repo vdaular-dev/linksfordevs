@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Foreign hackers breached a US nuclear weapons plant via SharePoint flaws</title>
+      <link>https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html</link>
+      <description>A foreign actor infiltrated the National Nuclear Security Administration’s Kansas City National Security Campus through vulnerabilities in Microsoft’s SharePoint browser-based app, raising questions about the need to solidify further federal IT/OT security protections.</description>
+      <category>encryption</category>
+      <guid>https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html</guid>
+      <pubDate>Tue, 21 Oct 2025 22:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Build Your Own Database</title>
       <link>https://www.nan.fyi/database</link>
       <description>A step-by-step guide to building a key-value database from scratch.</description>
@@ -984,48 +992,6 @@ It’s always pleased to see me, giving off cheerful sounds when I greet it in t
       <category>git</category>
       <guid>https://blog.fraim.dev/optimizing_llm_context_for_vulnerability_scanning/</guid>
       <pubDate>Mon, 20 Oct 2025 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emperor Palpatine</title>
-      <link>https://xkcd.com/3157/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3157/</guid>
-      <pubDate>Mon, 20 Oct 2025 22:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the Web was Down Today - Explained by a Retired Microsoft Engineer</title>
-      <link>https://youtube.com/watch?v=KFvhpt8FN18</link>
-      <description>Dave explains today's Amazon Web Services outage, what happened, and what the future implications are.</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=KFvhpt8FN18</guid>
-      <pubDate>Mon, 20 Oct 2025 22:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vulkan Documentation :: Vulkan Documentation Project</title>
-      <link>https://docs.vulkan.org/spec/latest/index.html</link>
-      <description>Welcome to the official Documentation site for the cross-platform Vulkan
-graphics and compute API.
-This is your starting point for all things related to
-Vulkan.
-This site gathers together several key Vulkan documents into a convenient
-single site.This allows searching and cross-linking across documents, to
-help navigate quickly to the information you need for developing
-Vulkan-based applications.</description>
-      <category>visualstudio</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://docs.vulkan.org/spec/latest/index.html</guid>
-      <pubDate>Mon, 20 Oct 2025 22:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heterogenous AoS instance encoding for a GPU-driven renderer</title>
-      <link>https://substack.com/home/post/p-176170070</link>
-      <description>How to manage various instance data requirements inside a GPU-driven renderer with a unified instance representation</description>
-      <category>gaming</category>
-      <guid>https://substack.com/home/post/p-176170070</guid>
-      <pubDate>Mon, 20 Oct 2025 22:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

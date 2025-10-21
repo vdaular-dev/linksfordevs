@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Foreign hackers breached a US nuclear weapons plant via SharePoint flaws",
+    "Url": "https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html",
+    "Timestamp": "2025-10-21T22:01:59",
+    "Domain": "www.csoonline.com",
+    "Description": "A foreign actor infiltrated the National Nuclear Security Administration’s Kansas City National Security Campus through vulnerabilities in Microsoft’s SharePoint browser-based app, raising questions about the need to solidify further federal IT/OT security protections.",
+    "Confidence": 0.8267045
+  },
+  {
     "Title": "Build Your Own Database",
     "Url": "https://www.nan.fyi/database",
     "Timestamp": "2025-10-21T21:02:10",
@@ -270,37 +278,5 @@
     "Domain": "blog.fraim.dev",
     "Description": "Optimizing LLM Context for Vulnerability Scanning",
     "Confidence": 0.98272705
-  },
-  {
-    "Title": "Emperor Palpatine",
-    "Url": "https://xkcd.com/3157/",
-    "Timestamp": "2025-10-20T22:02:09",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Why the Web was Down Today - Explained by a Retired Microsoft Engineer",
-    "Url": "https://youtube.com/watch?v=KFvhpt8FN18",
-    "Timestamp": "2025-10-20T22:02:06",
-    "Domain": "youtube.com",
-    "Description": "Dave explains today's Amazon Web Services outage, what happened, and what the future implications are.",
-    "Confidence": 0.955924
-  },
-  {
-    "Title": "Vulkan Documentation :: Vulkan Documentation Project",
-    "Url": "https://docs.vulkan.org/spec/latest/index.html",
-    "Timestamp": "2025-10-20T22:02:05",
-    "Domain": "docs.vulkan.org",
-    "Description": "Welcome to the official Documentation site for the cross-platform Vulkan\ngraphics and compute API.\nThis is your starting point for all things related to\nVulkan.\nThis site gathers together several key Vulkan documents into a convenient\nsingle site.This allows searching and cross-linking across documents, to\nhelp navigate quickly to the information you need for developing\nVulkan-based applications.",
-    "Confidence": 0.9937447
-  },
-  {
-    "Title": "Heterogenous AoS instance encoding for a GPU-driven renderer",
-    "Url": "https://substack.com/home/post/p-176170070",
-    "Timestamp": "2025-10-20T22:02:01",
-    "Domain": "substack.com",
-    "Description": "How to manage various instance data requirements inside a GPU-driven renderer with a unified instance representation",
-    "Confidence": 0.98187137
   }
 ]
