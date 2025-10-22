@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "Title": "Running .NET Applications that Communicate Over a Network Using Docker Compose | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/10/running-net-applications-that-communicate-over-a-network-using-docker-compose/",
+    "Timestamp": "2025-10-22T02:01:57",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "It's fun to run a couple of .NET applications in Docker and have them talk to each other. In this post, I use Docker Compose with a .NET Web API application and a .NET Worker Service application."
+  }
+]
