@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing",
+    "Url": "https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/",
+    "Timestamp": "2025-10-22T20:02:10",
+    "Domain": "blog.google",
+    "Description": "Our latest quantum breakthrough, Quantum Echoes, offers a path toward unprecedented scientific discoveries and analysis.",
+    "Confidence": 0.9472041
+  },
+  {
     "Title": "The Internet's Biggest Annoyance:Why Cookie Laws Should Target Browsers, Not Websites | NEDNEX",
     "Url": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
     "Timestamp": "2025-10-22T15:02:02",
@@ -222,13 +230,5 @@
     "Domain": "www.nan.fyi",
     "Description": "A step-by-step guide to building a key-value database from scratch.",
     "Confidence": 0.99072397
-  },
-  {
-    "Title": "Neural audio codecs: how to get audio into LLMs",
-    "Url": "https://kyutai.org/next/codec-explainer",
-    "Timestamp": "2025-10-21T20:02:01",
-    "Domain": "kyutai.org",
-    "Description": "Why modeling audio is harder than text, and how to make it feasible with neural audio codecs.",
-    "Confidence": 0.9890792
   }
 ]
