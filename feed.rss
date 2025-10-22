@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Scripts I wrote that I use all the time</title>
+      <link>https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/</link>
+      <description>I've written a number of little scripts over the years, many of which I use every day. Here's a little collection.</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>sql</category>
+      <category>ruby</category>
+      <category>python</category>
+      <guid>https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/</guid>
+      <pubDate>Wed, 22 Oct 2025 21:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Our Quantum Echoes algorithm is a big step toward real-world applications for quantum computing</title>
       <link>https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/</link>
       <description>Our latest quantum breakthrough, Quantum Echoes, offers a path toward unprecedented scientific discoveries and analysis.</description>
@@ -255,15 +267,6 @@ But when lost, attempting to force this state on yourself is the worst disservic
       <category>encryption</category>
       <guid>https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html</guid>
       <pubDate>Tue, 21 Oct 2025 22:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build Your Own Database</title>
-      <link>https://www.nan.fyi/database</link>
-      <description>A step-by-step guide to building a key-value database from scratch.</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://www.nan.fyi/database</guid>
-      <pubDate>Tue, 21 Oct 2025 21:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
