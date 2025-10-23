@@ -1,5 +1,13 @@
 [
   {
+    "Title": "What Happened to Apple's Legendary Attention to Detail?",
+    "Url": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
+    "Timestamp": "2025-10-23T21:01:58",
+    "Domain": "blog.johnozbay.com",
+    "Description": "A long rant about Apple's design choices.",
+    "Confidence": 0.91906136
+  },
+  {
     "Title": "Solved By Modern CSS: Section Layout",
     "Url": "https://ishadeed.com/article/modern-css-section-layout/",
     "Timestamp": "2025-10-23T18:02:03",
@@ -222,13 +230,5 @@
     "Domain": "pharzan.com",
     "Description": "Discover why visual testing matters for complex algorithms and geometric code. Learn how visualizing test outputs catches bugs unit tests miss, improves code understanding, and bridges communication gaps with domain experts.",
     "Confidence": 0.9939627
-  },
-  {
-    "Title": "Scripts I wrote that I use all the time",
-    "Url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
-    "Timestamp": "2025-10-22T21:02:09",
-    "Domain": "evanhahn.com",
-    "Description": "I've written a number of little scripts over the years, many of which I use every day. Here's a little collection.",
-    "Confidence": 0.995299
   }
 ]

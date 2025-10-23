@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What Happened to Apple's Legendary Attention to Detail?</title>
+      <link>https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html</link>
+      <description>A long rant about Apple's design choices.</description>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html</guid>
+      <pubDate>Thu, 23 Oct 2025 21:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Solved By Modern CSS: Section Layout</title>
       <link>https://ishadeed.com/article/modern-css-section-layout/</link>
       <description>Building a typical section design with modern CSS.</description>
@@ -261,18 +270,6 @@ I think because of having spent so much time working with stress gauges earlier 
       <category>python</category>
       <guid>https://pharzan.com/posts/visual-testing/</guid>
       <pubDate>Wed, 22 Oct 2025 23:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scripts I wrote that I use all the time</title>
-      <link>https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/</link>
-      <description>I've written a number of little scripts over the years, many of which I use every day. Here's a little collection.</description>
-      <category>gaming</category>
-      <category>linux</category>
-      <category>sql</category>
-      <category>ruby</category>
-      <category>python</category>
-      <guid>https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/</guid>
-      <pubDate>Wed, 22 Oct 2025 21:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
