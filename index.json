@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Shielding Chart",
+    "Url": "https://xkcd.com/3158/",
+    "Timestamp": "2025-10-23T02:01:57",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "My computing prayer",
     "Url": "https://ryansepassi.com/notes/computing-prayer",
     "Timestamp": "2025-10-22T23:03:19",
@@ -182,13 +190,5 @@
     "Domain": "github.com",
     "Description": "Helpful examples, tools, and Markdown guides for Swift and Xcode projects. - Terryc21/XcodeResources",
     "Confidence": 0.99799
-  },
-  {
-    "Title": "Running .NET Applications that Communicate Over a Network Using Docker Compose | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2025/10/running-net-applications-that-communicate-over-a-network-using-docker-compose/",
-    "Timestamp": "2025-10-22T02:01:57",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "It's fun to run a couple of .NET applications in Docker and have them talk to each other. In this post, I use Docker Compose with a .NET Web API application and a .NET Worker Service application.",
-    "Confidence": 0.9985102
   }
 ]

@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Shielding Chart</title>
+      <link>https://xkcd.com/3158/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3158/</guid>
+      <pubDate>Thu, 23 Oct 2025 02:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>My computing prayer</title>
       <link>https://ryansepassi.com/notes/computing-prayer</link>
       <description>October 2025</description>
@@ -215,15 +223,6 @@ I think because of having spent so much time working with stress gauges earlier 
       <category>apple</category>
       <guid>https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md</guid>
       <pubDate>Wed, 22 Oct 2025 06:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running .NET Applications that Communicate Over a Network Using Docker Compose | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2025/10/running-net-applications-that-communicate-over-a-network-using-docker-compose/</link>
-      <description>It's fun to run a couple of .NET applications in Docker and have them talk to each other. In this post, I use Docker Compose with a .NET Web API application and a .NET Worker Service application.</description>
-      <category>containers</category>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2025/10/running-net-applications-that-communicate-over-a-network-using-docker-compose/</guid>
-      <pubDate>Wed, 22 Oct 2025 02:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
