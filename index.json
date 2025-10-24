@@ -294,13 +294,5 @@
     "Domain": "forums.steinberg.net",
     "Description": "VST 3.8 SDK Released  Dear VST Developers,  Steinberg Media Technologies today releases the VST SDK 3.8  Here’s a brief overview of changes:   Version 3.8.0 (2025/10/20)   New licensing model for VST 3:   VST 3 is now open source, released under the MIT license.    Interface changes:   Support for MIDI 2.0: new interfaces IMidiLearn2 and IMidiMapping2. These new interfaces replace the previous interfaces IMidiLearn and IMidiMapping. Add missing ControllerNumbers enum for MIDI 1.0 System messages...",
     "Confidence": 0.99621475
-  },
-  {
-    "Title": "The Body Keeps the Score is Bullshit",
-    "Url": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
-    "Timestamp": "2025-10-23T09:01:56",
-    "Domain": "josepheverettwil.substack.com",
-    "Description": "The popular book from the \"world's most famous living psychiatrist\" is riddled with blatant misrepresentations",
-    "Confidence": 0.8437286
   }
 ]
