@@ -7,6 +7,298 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Month of Running in London</title>
+      <link>https://awaisrauf.com/deepCuriosity//A-Month-of-Running-in-London</link>
+      <description>Allergic to reading?</description>
+      <guid>https://awaisrauf.com/deepCuriosity//A-Month-of-Running-in-London</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Innovation: Building Ecosystems | Hazel Weakly</title>
+      <link>https://hazelweakly.me/blog/scaling-innovation-building-ecosystems/</link>
+      <description>Innovation is a tricky subject. The precise details of how to do it are not well studied, at least not under the name “innovation”. In addition, multiple...</description>
+      <category>encryption</category>
+      <guid>https://hazelweakly.me/blog/scaling-innovation-building-ecosystems/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitmasks, Ruby Threads and Interrupts, oh my!</title>
+      <link>https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html</link>
+      <description>👋🏼 This is part of series on concurrency, parallelism and asynchronous programming in Ruby. It’s a deep dive, so it’s divided into several parts:
+ Your Ruby programs are always multi-threaded: Part 1 Your Ruby programs are always multi-threaded: Part 2 Consistent, request-local state Ruby methods are colorless The Thread API: Concurrent, colorless Ruby Bitmasks, Ruby Threads and Interrupts, oh my! (Concurrent, colorless Ruby) When good threads go bad: Concurrent, colorless Ruby Thread signal handling: Concurrent, colorless Ruby Thread and its MaNy friends: Concurrent, colorless Ruby Fibers: Concurrent, colorless Ruby Processes, Ractors and alternative runtimes: Parallel Ruby Scaling concurrency: Streaming Ruby Abstracted, concurrent Ruby Closing thoughts, kicking the tires and tangents How I dive into CRuby concurrency  You’re reading “Bitmasks, Threads and Interrupts, oh my!</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>encryption</category>
+      <guid>https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Test state, not interactions</title>
+      <link>https://rednafi.com/go/test-state-not-interactions/</link>
+      <description>With the advent of LLMs, the temptation to churn out a flood of unit tests for a false
+veneer of productivity and protection is stronger than ever.
+My colleague Matthias Doepmann recently fired a shot at AI-generated tests that don’t
+validate the behavior of the System Under Test (SUT) but instead create needless ceremony
+around internal implementations. At best, these tests give a shallow illusion of confidence
+in the system’s correctness while breaking at the smallest change. At worst, they remain
+green even when the SUT’s behavior changes.</description>
+      <author> (Redowan Delowar)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://rednafi.com/go/test-state-not-interactions/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>a wholesome plane has hit the second cozy tower / GioCities</title>
+      <link>https://blog.giovanh.com/blog/2025/10/22/a-wholesome-plane-has-hit-the-second-cozy-tower/</link>
+      <description>more like no thoughts to declare</description>
+      <category>gaming</category>
+      <guid>https://blog.giovanh.com/blog/2025/10/22/a-wholesome-plane-has-hit-the-second-cozy-tower/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>I want to see the claw</title>
+      <link>https://newsletter.vickiboykis.com/archive/i-want-to-see-the-claw/</link>
+      <description>I respect quality software and the people who write it. And, I’ve invested years of my life in working on becoming one of these people (even if the journey...</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://newsletter.vickiboykis.com/archive/i-want-to-see-the-claw/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Multi-Site Publishing System with Quartz and Obsidian | Rakshan Shetty</title>
+      <link>https://rakshanshetty.in/blog/quartz-obsidian-multi-site-publishing</link>
+      <description>How I publish multiple websites from a single Obsidian vault using Quartz with tag-based selective publishing. A production case study with git submodules, upstream-safe customization, and automated deployment.</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://rakshanshetty.in/blog/quartz-obsidian-multi-site-publishing</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your self as a future adversary</title>
+      <link>https://blog.erlend.sh/your-self-as-a-future-adversary</link>
+      <description>Today I participated as a speaker in the Company Models for Impact session at Oslo Innovation Week. My time was limited to ~3 minutes, w...</description>
+      <guid>https://blog.erlend.sh/your-self-as-a-future-adversary</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context engineering is sleeping on the humble hyperlink</title>
+      <link>https://mbleigh.dev/posts/context-engineering-with-links/</link>
+      <description>The dream of hypermedia can come to fruition in a world where clients can not only parse, but navigate with intent.</description>
+      <author> (Michael Bleigh)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://mbleigh.dev/posts/context-engineering-with-links/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Ghidra to patch my keyboard's firmware</title>
+      <link>https://packet.delivery/blog/patching-galaxy100-firmware.html</link>
+      <description>The Epomaker Galaxy100 is a very nice, “creamy” sounding keyboard. Unfortunately, in contrast
+                to Keychron’s excellent web-based config UI, it uses the flaky and restricted VIA
+                for configuration. VIA does not let you make some even relatively simple changes to
+                key mappings.</description>
+      <category>javascript</category>
+      <guid>https://packet.delivery/blog/patching-galaxy100-firmware.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>More KMS offloading, with overlay planes</title>
+      <link>https://zamundaaa.github.io/wayland/2025/10/23/more-kms-offloading.html</link>
+      <description>In preparation for, and at the 2025 display next hackfest, I did a bunch of hacking on using more driver features for improved efficiency and performance. Since then, I polished up the results a lot more, held a talk about this at XDC 2025 and most of the improvements are merged and now released with Plasma 6.5. Let’s dive into the details!</description>
+      <category>android</category>
+      <category>youtube</category>
+      <guid>https://zamundaaa.github.io/wayland/2025/10/23/more-kms-offloading.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Empirical Partial Derivatives</title>
+      <link>https://brianschrader.com/archive/empirical-partial-derivatives/</link>
+      <description>Mathematics and Science are inextricably linked. As the renowned twentieth-century physicist Eugene Wigner wrote, mathematics is "unreasonably successful" in the natural sciences. By this he meant that it seems our entire world is seemingly beholden to the workings of mathematical laws.</description>
+      <guid>https://brianschrader.com/archive/empirical-partial-derivatives/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hacktoberfest 2025</title>
+      <link>https://www.nikasakandelidze.ge/posts/hacktoberfest2025</link>
+      <description>Here i'll share some observations, learnings and advices after i've reflected on hacktoberfest 2025's event</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.nikasakandelidze.ge/posts/hacktoberfest2025</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jesse.ID - Blog - Posts - Im Telling Yall Its Adbotage</title>
+      <link>https://jesse.id/blog/posts/im-telling-yall-its-adbotage</link>
+      <description>Professional programmer with creative aspirations. Software engineer, writer, musician, and screen craft enthusiast who loves tinkering with code and making computers do stuff.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://jesse.id/blog/posts/im-telling-yall-its-adbotage</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Honeydiff: Fast, Rich Image Diffing for Modern Visual Testing - Vizzly Blog</title>
+      <link>https://vizzly.dev/blog/honeydiff-fast-image-diffing-foundation/</link>
+      <description>I built Honeydiff, a Rust-powered image diffing engine that processes screenshots in milliseconds and provides rich metrics like spatial clustering, SSIM scoring, and intensity statistics. Here's what makes it special and why visual testing needed a fresh direction.</description>
+      <category>rust</category>
+      <guid>https://vizzly.dev/blog/honeydiff-fast-image-diffing-foundation/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Modest Definition of Human Consciousness - OranLooney.com</title>
+      <link>https://www.oranlooney.com/post/em-dash/</link>
+      <description>I bring you news of the single most important intellectual discovery of our generation: the hard problem of human consciousness has now been solved once and for all.
+For a long time, the ability to select squares containing traffic lights was our best working definition of what it meant to be truly, deeply, authentically human, but this was never quite satisfactory.
+Now, in 2025, research philosophers have expanded that definition to include the crucial missing ingredient: an inability to use an em dash.</description>
+      <category>ai</category>
+      <guid>https://www.oranlooney.com/post/em-dash/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI, ARIA, and SEO: Making the Web Worse</title>
+      <link>https://adrianroselli.com/2025/10/openai-aria-and-seo-making-the-web-worse.html</link>
+      <description>OpenAI has announced it’s launched a new browser, Atlas, with ChatGPT built in. For those familiar with ARIA, OpenAI outlines what to expect (I left the code as I found it, other than removing the target): We’ll continue to make Atlas better, and our roadmap includes multi-profile support, improved developer…</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://adrianroselli.com/2025/10/openai-aria-and-seo-making-the-web-worse.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>This is your sign to give up and just use k3s for smaller projects</title>
+      <link>https://crescentro.se/posts/k3s/</link>
+      <description>Self-managing a single-node Kubernetes deployment with k3s is probably the least painful way of deploying small projects that might not (ever) be profitable.</description>
+      <author> (crescentrose)</author>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <guid>https://crescentro.se/posts/k3s/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collatz Automata</title>
+      <link>https://gbragafibra.github.io/2025/10/23/collatz_automata.html</link>
+      <description>Check the gist with the corresponding script.</description>
+      <category>web</category>
+      <guid>https://gbragafibra.github.io/2025/10/23/collatz_automata.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a (useful) voice assistant I can call from my watch</title>
+      <link>https://blog.jamesolds.me/post/voice-assistant-watch/</link>
+      <description>A voice assistant I can call from my watch that talks to GPT-5 Realtime, Todoist, Gmail, and GitHub. Built in a day.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://blog.jamesolds.me/post/voice-assistant-watch/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Relearning Programming: My Process in the Modern Tech World</title>
+      <link>https://akarshc.com/post/relearning-programming</link>
+      <description>Relearning Programming: My Process in the Modern Tech World</description>
+      <category>rust</category>
+      <category>sql</category>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://akarshc.com/post/relearning-programming</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>the bug that taught me more about PyTorch than years of using it</title>
+      <link>https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/</link>
+      <description>a loss plateau that looked like my mistake turned out to be a PyTorch bug. tracking it down meant peeling back every layer of abstraction, from optimizer internals to GPU kernels.</description>
+      <category>encryption</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI: Less Like the Next Google, More Like the Next WeWork</title>
+      <link>https://horse.energy/HorseEnergy/openai_wework_analysis.html</link>
+      <description>A data-driven analysis of OpenAI's $157B valuation, $8.5B burn rate, governance chaos, and product proliferation - examining whether the company resembles Google's trajectory or WeWork's cautionary tale.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://horse.energy/HorseEnergy/openai_wework_analysis.html</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to think in your target language</title>
+      <link>https://kelvinjps.com/blog/how-to-think-in-your-target-language/</link>
+      <description>Most language learners often wonder how to start thinking in their target language. In this article, I’ll show you a set of strategies that will allow you to start from a basic level to progressively develop your ability to produce thoughts in your target language, therefore develop your writing and speaking abilities.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://kelvinjps.com/blog/how-to-think-in-your-target-language/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exploring Deterministic Agents in AI</title>
+      <link>https://blog.butter.dev/the-messy-world-of-deterministic-agents</link>
+      <description>Explore deterministic approaches in agentic tools, addressing agent randomness and reliability for better trust and efficiency in automation systems</description>
+      <author> (https://hashnode.com/@erikdunteman)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://blog.butter.dev/the-messy-world-of-deterministic-agents</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>I ran Claude Code for a weekend to create a reactive UI library with Effect</title>
+      <link>https://stefvanwijchen.com/claude-code-weekend-effect-ui/</link>
+      <description>How a weekend experiment with Claude Code and my TypeScript vibe coding meta produced a sophisticated reactive UI library that piggybacks on Effect's powerful runtime system.</description>
+      <author> (Stef van Wijchen)</author>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://stefvanwijchen.com/claude-code-weekend-effect-ui/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Am Out Of Data Hell — Ludicity</title>
+      <link>https://ludic.mataroa.blog/blog/i-am-out-of-data-hell/</link>
+      <description>I haven’t written anything in four months. This period of prolonged silence is best explained by the unexpected difficulties of the business that I started in 2024, on the assumption that it must be possible to make an ethical, human-centered business on the basis of how incompetent the general market seemed. In fact, one difficulty in particular has threatened to put an end to my writing in its entirety. This topic is embarrassing and I have no idea how to navigate it, so I’m just going to rip the band-aid off in the hopes of keeping the blog alive. Please brace yourselves, and I hope this doesn’t disappoint you too much.</description>
+      <guid>https://ludic.mataroa.blog/blog/i-am-out-of-data-hell/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dota 2 Hero Similarity Map</title>
+      <link>https://blog.spawek.com/Dota2_hero_similarity_map</link>
+      <description>The map is interactive — you can zoom and pan around.</description>
+      <category>gaming</category>
+      <guid>https://blog.spawek.com/Dota2_hero_similarity_map</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Structured Prompting | Shawn Simister</title>
+      <link>https://narphorium.com/blog/structured-prompting/</link>
+      <description>Organizing Complexity in the Age of Language Models</description>
+      <category>ai</category>
+      <guid>https://narphorium.com/blog/structured-prompting/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unhogging RAM from WSL</title>
+      <link>https://kix.dev/unhogging-ram-from-wsl/</link>
+      <description>I have 64 gigs of RAM. I thought that was plenty, but recently I've noticed  reporting that I was consistently at 90% RAM usage.
+
+
+
+Opening Task Manager ...</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://kix.dev/unhogging-ram-from-wsl/</guid>
+      <pubDate>Fri, 24 Oct 2025 00:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude introduces memory for teams at work</title>
       <link>https://www.anthropic.com/news/memory</link>
       <description>Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered.</description>
