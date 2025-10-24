@@ -359,43 +359,5 @@ Opening Task Manager ...</description>
       <guid>https://steveklabnik.com/writing/i-see-a-future-in-jj/</guid>
       <pubDate>Thu, 23 Oct 2025 05:01:58 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - character-ai/Ovi</title>
-      <link>https://github.com/character-ai/Ovi</link>
-      <description>Contribute to character-ai/Ovi development by creating an account on GitHub.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>python</category>
-      <guid>https://github.com/character-ai/Ovi</guid>
-      <pubDate>Thu, 23 Oct 2025 03:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs</title>
-      <link>https://ian.sh/fia</link>
-      <description>We found vulnerabilities in the FIA's Driver Categorisation platform, allowing us to access PII and password hashes of any racing driver with a categorisation rating.</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://ian.sh/fia</guid>
-      <pubDate>Thu, 23 Oct 2025 03:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google flags Immich sites as dangerous | Immich Blog</title>
-      <link>https://immich.app/blog/google-flags-immich-as-dangerous</link>
-      <description>How Google actively breaks Immich deployments, an open-source Google Photos alternative</description>
-      <category>javascript</category>
-      <guid>https://immich.app/blog/google-flags-immich-as-dangerous</guid>
-      <pubDate>Thu, 23 Oct 2025 03:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>JMAP for Calendars, Contacts and Files now in Stalwart | Stalwart Labs</title>
-      <link>https://stalw.art/blog/jmap-collaboration/</link>
-      <description>After four years of development, we’re thrilled to announce a major milestone in the evolution of Stalwart — the full implementation of JMAP for Calendars, Contacts, Address Books, File Storage, and Sharing. With this release, Stalwart becomes the first JMAP server to fully support the entire family of JMAP collaboration protocols, marking a new era for open, efficient, and elegant groupware.</description>
-      <author> (https://github.com/mdecimus)</author>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://stalw.art/blog/jmap-collaboration/</guid>
-      <pubDate>Thu, 23 Oct 2025 03:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>

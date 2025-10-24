@@ -294,37 +294,5 @@
     "Domain": "steveklabnik.com",
     "Description": "Blog post: I see a future in jj by Steve Klabnik",
     "Confidence": 0.9913209
-  },
-  {
-    "Title": "GitHub - character-ai/Ovi",
-    "Url": "https://github.com/character-ai/Ovi",
-    "Timestamp": "2025-10-23T03:02:22",
-    "Domain": "github.com",
-    "Description": "Contribute to character-ai/Ovi development by creating an account on GitHub.",
-    "Confidence": 0.9920874
-  },
-  {
-    "Title": "Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs",
-    "Url": "https://ian.sh/fia",
-    "Timestamp": "2025-10-23T03:02:16",
-    "Domain": "ian.sh",
-    "Description": "We found vulnerabilities in the FIA's Driver Categorisation platform, allowing us to access PII and password hashes of any racing driver with a categorisation rating.",
-    "Confidence": 0.9499906
-  },
-  {
-    "Title": "Google flags Immich sites as dangerous | Immich Blog",
-    "Url": "https://immich.app/blog/google-flags-immich-as-dangerous",
-    "Timestamp": "2025-10-23T03:02:13",
-    "Domain": "immich.app",
-    "Description": "How Google actively breaks Immich deployments, an open-source Google Photos alternative",
-    "Confidence": 0.93296355
-  },
-  {
-    "Title": "JMAP for Calendars, Contacts and Files now in Stalwart | Stalwart Labs",
-    "Url": "https://stalw.art/blog/jmap-collaboration/",
-    "Timestamp": "2025-10-23T03:02:10",
-    "Domain": "stalw.art",
-    "Description": "After four years of development, we’re thrilled to announce a major milestone in the evolution of Stalwart — the full implementation of JMAP for Calendars, Contacts, Address Books, File Storage, and Sharing. With this release, Stalwart becomes the first JMAP server to fully support the entire family of JMAP collaboration protocols, marking a new era for open, efficient, and elegant groupware.",
-    "Confidence": 0.99161685
   }
 ]
