@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Roc Camera",
+    "Url": "https://roc.camera/",
+    "Timestamp": "2025-10-24T10:01:53",
+    "Domain": "roc.camera",
+    "Description": "Capture verifiably real moments in the age of Generative AI",
+    "Confidence": 0.78298175
+  },
+  {
     "Title": "Date bug affects Ubuntu 25.10 automatic updates",
     "Url": "https://lwn.net/Articles/1043103/",
     "Timestamp": "2025-10-24T07:01:55",
@@ -286,13 +294,5 @@
     "Domain": "joshmoody.org",
     "Description": "Lambda calculus is for wimps. Real programmers use combinatory logic.",
     "Confidence": 0.9661967
-  },
-  {
-    "Title": "VST 3.8.0 SDK Released - Developer / VST 3 SDK - Steinberg Forums",
-    "Url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
-    "Timestamp": "2025-10-23T10:01:56",
-    "Domain": "forums.steinberg.net",
-    "Description": "VST 3.8 SDK Released  Dear VST Developers,  Steinberg Media Technologies today releases the VST SDK 3.8  Here’s a brief overview of changes:   Version 3.8.0 (2025/10/20)   New licensing model for VST 3:   VST 3 is now open source, released under the MIT license.    Interface changes:   Support for MIDI 2.0: new interfaces IMidiLearn2 and IMidiMapping2. These new interfaces replace the previous interfaces IMidiLearn and IMidiMapping. Add missing ControllerNumbers enum for MIDI 1.0 System messages...",
-    "Confidence": 0.99621475
   }
 ]

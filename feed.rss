@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Roc Camera</title>
+      <link>https://roc.camera/</link>
+      <description>Capture verifiably real moments in the age of Generative AI</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://roc.camera/</guid>
+      <pubDate>Fri, 24 Oct 2025 10:01:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Date bug affects Ubuntu 25.10 automatic updates</title>
       <link>https://lwn.net/Articles/1043103/</link>
       <description>The Ubuntu Project has announced that a bug in the Rust-based uutils version of the date comman [...]</description>
@@ -347,16 +356,6 @@ Opening Task Manager ...</description>
       <description>Lambda calculus is for wimps. Real programmers use combinatory logic.</description>
       <guid>https://joshmoody.org/blog/programming-with-less-than-nothing/</guid>
       <pubDate>Thu, 23 Oct 2025 16:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>VST 3.8.0 SDK Released - Developer / VST 3 SDK - Steinberg Forums</title>
-      <link>https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988</link>
-      <description>VST 3.8 SDK Released  Dear VST Developers,  Steinberg Media Technologies today releases the VST SDK 3.8  Here’s a brief overview of changes:   Version 3.8.0 (2025/10/20)   New licensing model for VST 3:   VST 3 is now open source, released under the MIT license.    Interface changes:   Support for MIDI 2.0: new interfaces IMidiLearn2 and IMidiMapping2. These new interfaces replace the previous interfaces IMidiLearn and IMidiMapping. Add missing ControllerNumbers enum for MIDI 1.0 System messages...</description>
-      <category>visualstudio</category>
-      <category>web</category>
-      <category>linux</category>
-      <guid>https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988</guid>
-      <pubDate>Thu, 23 Oct 2025 10:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
