@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Typst: Typst 0.14: Now accessible – Typst Blog</title>
+      <link>https://typst.app/blog/2025/typst-0.14/</link>
+      <description> Typst 0.14 is out now. With accessibility by default, PDFs as images, character-level justification, and more, it has everything you need to move from draft to...</description>
+      <category>web</category>
+      <category>rust</category>
+      <guid>https://typst.app/blog/2025/typst-0.14/</guid>
+      <pubDate>Fri, 24 Oct 2025 16:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Continents</title>
       <link>https://xkcd.com/3159/</link>
       <description></description>
@@ -377,13 +386,6 @@ Opening Task Manager ...</description>
       <category>web</category>
       <guid>https://ishadeed.com/article/modern-css-section-layout/</guid>
       <pubDate>Thu, 23 Oct 2025 18:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Programming With Less Than Nothing</title>
-      <link>https://joshmoody.org/blog/programming-with-less-than-nothing/</link>
-      <description>Lambda calculus is for wimps. Real programmers use combinatory logic.</description>
-      <guid>https://joshmoody.org/blog/programming-with-less-than-nothing/</guid>
-      <pubDate>Thu, 23 Oct 2025 16:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
