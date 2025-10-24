@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Asahi Linux Still Working On Apple M3 Support, m1n1 Bootloader Going Rust</title>
+      <link>https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update</link>
+      <description>The Asahi Linux developers involved with working on Linux support for Apple Silicon M-Series devices have put out a new progress report on their development efforts.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/Asahi-Linux-M3-m1n1-Update</guid>
+      <pubDate>Fri, 24 Oct 2025 23:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Why CIELAB doesn’t improve median cut</title>
       <link>https://30fps.net/pages/median-cut-lab-problem/</link>
       <description>Color quantization is a process that compresses an image into a color table, or a palette, and an index image that references the palette.
