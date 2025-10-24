@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Date bug affects Ubuntu 25.10 automatic updates</title>
+      <link>https://lwn.net/Articles/1043103/</link>
+      <description>The Ubuntu Project has announced that a bug in the Rust-based uutils version of the date comman [...]</description>
+      <category>linux</category>
+      <category>rust</category>
+      <guid>https://lwn.net/Articles/1043103/</guid>
+      <pubDate>Fri, 24 Oct 2025 07:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Why /dev/null Is an ACID Compliant Database</title>
       <link>https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/</link>
       <description>/dev/null is web scale</description>
