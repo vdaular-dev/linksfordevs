@@ -166,13 +166,5 @@
     "Domain": "roc.camera",
     "Description": "Capture verifiably real moments in the age of Generative AI",
     "Confidence": 0.78298175
-  },
-  {
-    "Title": "Date bug affects Ubuntu 25.10 automatic updates",
-    "Url": "https://lwn.net/Articles/1043103/",
-    "Timestamp": "2025-10-24T07:01:55",
-    "Domain": "lwn.net",
-    "Description": "The Ubuntu Project has announced that a bug in the Rust-based uutils version of the date comman [...]",
-    "Confidence": 0.9536377
   }
 ]
