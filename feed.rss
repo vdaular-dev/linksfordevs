@@ -7,6 +7,128 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Future of Lodash</title>
+      <link>https://blog.ulisesgascon.com/the-future-of-lodash</link>
+      <description>Lodash begins a new stage with a more collaborative and sustainable model. This post outlines the plan to simplify its maintenance, strengthen security, and ensure its key role in the JavaScript ecosystem for the coming years.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://blog.ulisesgascon.com/the-future-of-lodash</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ivan Codes &amp; Takes Photos</title>
+      <link>https://www.ivan.codes/thoughts/technical-experts-have-zero-customers</link>
+      <description>Personal website and photoblog of Ivan</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.ivan.codes/thoughts/technical-experts-have-zero-customers</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The best thing I learned this year · hidden.computer</title>
+      <link>https://hidden.computer/blog/the-best-thing-i-learned-this-year.html</link>
+      <description>I am ecstatic. Elated. Over the moon. Positively glowing. I've learned something that
+          makes me happy and turns a previously dreadful task into an absolute joy and a
+          satisfying one at that. I am going to share this joyful knowledge with you. Are you
+          ready to learn about provisioning TLS certificates for internal networks using split
+          horizon DNS, ACME, and Caddy?</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://hidden.computer/blog/the-best-thing-i-learned-this-year.html</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>MLIR Part 8 - GPU Compilation with MLIR - Stephen Diehl</title>
+      <link>https://www.stephendiehl.com/posts/mlir_gpu/</link>
+      <description>Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future</description>
+      <author> (Stephen Diehl)</author>
+      <category>cloud</category>
+      <category>python</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.stephendiehl.com/posts/mlir_gpu/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hide n Seek with processes in Linux</title>
+      <link>https://rtvkiz.vercel.app/posts/lets-hide-process</link>
+      <description>Playing with hooks to hide processes from commands like ps or top</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://rtvkiz.vercel.app/posts/lets-hide-process</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Headlines don't crash economies</title>
+      <link>https://kyefox.com/headlines-dont-crash-economies/</link>
+      <description>Many years ago I asked on one social media site or another what the next big crash would come from after 2008. Subprime auto loans were the top suggestion.
+
+HN Search powered by AlgoliaHacker News Search, millions articles and comments at your fingertips.HN Search
+
+August 2025:
+
+Cars are so</description>
+      <category>ai</category>
+      <guid>https://kyefox.com/headlines-dont-crash-economies/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Keep Winning</title>
+      <link>https://amasad.me/keep-winning</link>
+      <description> I've always been fiercely competitive. I enjoy everything about it—from training to get better, to building and developing teams, to the stress, pressure, and intensity. And while I love winning, the...</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://amasad.me/keep-winning</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Always Be Ranking</title>
+      <link>https://www.jakeworth.com/posts/always-be-ranking/</link>
+      <description>Anytime you’re making a list at work, rank it.</description>
+      <category>sql</category>
+      <guid>https://www.jakeworth.com/posts/always-be-ranking/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>WTF are Agents?</title>
+      <link>https://www.ashpreetbedi.com/articles/wtf-is-an-agent</link>
+      <description>Understanding Agents by mapping out how they work.</description>
+      <category>conference</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://www.ashpreetbedi.com/articles/wtf-is-an-agent</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mathematical properties of the Smith chart</title>
+      <link>https://www.johndcook.com/blog/2025/10/23/smith-chart/</link>
+      <description>Deriving the basic mathematical properties of the Smith chart from electrical engineering</description>
+      <guid>https://www.johndcook.com/blog/2025/10/23/smith-chart/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Linux and Why Now - The Brooks Review</title>
+      <link>https://brooksreview.net/2025/10/why-linux-and-why-now/</link>
+      <description>I submit to you that Linux is now ready for consideration.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://brooksreview.net/2025/10/why-linux-and-why-now/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prices as model weights: learning from dispersed data | Evgeny Ivanov</title>
+      <link>https://e10v.me/prices-as-model-weights/</link>
+      <description>Market design to reduce labor market congestion.</description>
+      <author> (Evgeny Ivanov)</author>
+      <category>ai</category>
+      <guid>https://e10v.me/prices-as-model-weights/</guid>
+      <pubDate>Sat, 25 Oct 2025 01:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Announcing the Swift SDK for Android</title>
       <link>https://www.swift.org/blog/nightly-swift-sdk-for-android/</link>
       <description>Swift has matured significantly over the past decade — extending from cloud services to Windows applications, browser apps, and microcontrollers. Swift powers apps and services of all kinds, and thanks to its great interoperability, you can share code across platforms.
