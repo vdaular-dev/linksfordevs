@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>That Time Ken Thompson Wrote a Backdoor into the C Compiler</title>
+      <link>https://micahkepe.com/blog/thompson-trojan-horse/</link>
+      <description>When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their
+work in UNIX, he was expected like other Turing winners to write a paper that
+would be published in the ACM Computer Journal. What he ended up submitting was
+a paper about "the cutest program [he] ever wrote"-- a sneaky undetectable
+self-reproducing "Trojan horse" backdoor in the C compiler that would allow him
+to log into affected machines as any user.</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://micahkepe.com/blog/thompson-trojan-horse/</guid>
+      <pubDate>Sun, 26 Oct 2025 17:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>The Journey Before main() | Amit's Blog</title>
       <link>https://amit.prasad.me/blog/before-main</link>
       <description>A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole.</description>
@@ -250,16 +264,6 @@ But the core of effective AI interaction isn’t about technical jargon—it’s
       <category>web</category>
       <guid>https://backbonenotbad.hyperclay.com/</guid>
       <pubDate>Sat, 25 Oct 2025 20:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synadia and TigerBeetle Pledge $512K to the Zig Software Foundation</title>
-      <link>https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge</link>
-      <description>Announcing a shared commitment to advancing the future of systems programming and reliable distributed software. Synadia and TigerBeetle have together pledged a combined $512,000 USD to the Zig Software Foundation over the next two years.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge</guid>
-      <pubDate>Sat, 25 Oct 2025 17:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

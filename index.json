@@ -1,5 +1,13 @@
 [
   {
+    "Title": "That Time Ken Thompson Wrote a Backdoor into the C Compiler",
+    "Url": "https://micahkepe.com/blog/thompson-trojan-horse/",
+    "Timestamp": "2025-10-26T17:01:59",
+    "Domain": "micahkepe.com",
+    "Description": "When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their\nwork in UNIX, he was expected like other Turing winners to write a paper that\nwould be published in the ACM Computer Journal. What he ended up submitting was\na paper about \"the cutest program [he] ever wrote\"-- a sneaky undetectable\nself-reproducing \"Trojan horse\" backdoor in the C compiler that would allow him\nto log into affected machines as any user.",
+    "Confidence": 0.9960384
+  },
+  {
     "Title": "The Journey Before main() | Amit's Blog",
     "Url": "https://amit.prasad.me/blog/before-main",
     "Timestamp": "2025-10-26T15:02:11",
@@ -206,13 +214,5 @@
     "Domain": "backbonenotbad.hyperclay.com",
     "Description": "A comparison between a React and Backbone password strength app",
     "Confidence": 0.99288714
-  },
-  {
-    "Title": "Synadia and TigerBeetle Pledge $512K to the Zig Software Foundation",
-    "Url": "https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge",
-    "Timestamp": "2025-10-25T17:01:59",
-    "Domain": "www.synadia.com",
-    "Description": "Announcing a shared commitment to advancing the future of systems programming and reliable distributed software. Synadia and TigerBeetle have together pledged a combined $512,000 USD to the Zig Software Foundation over the next two years.",
-    "Confidence": 0.9715822
   }
 ]
