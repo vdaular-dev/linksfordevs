@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Journey Before main() | Amit's Blog</title>
+      <link>https://amit.prasad.me/blog/before-main</link>
+      <description>A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole.</description>
+      <category>rust</category>
+      <category>python</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <guid>https://amit.prasad.me/blog/before-main</guid>
+      <pubDate>Sun, 26 Oct 2025 15:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>The good advice</title>
       <link>https://libera.chat/news/advised</link>
       <description>First of all, a massive thank you to everyone who donated since our last post. Our income on Liberapay has roughly quadrupled from what it was before the post. We have also had people reach out to us for large one-time monetary and hardware donations. Your support is truly appreciated!</description>

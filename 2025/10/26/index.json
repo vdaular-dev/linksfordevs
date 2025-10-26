@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Journey Before main() | Amit's Blog",
+    "Url": "https://amit.prasad.me/blog/before-main",
+    "Timestamp": "2025-10-26T15:02:11",
+    "Domain": "amit.prasad.me",
+    "Description": "A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole."
+  },
+  {
     "Title": "The good advice",
     "Url": "https://libera.chat/news/advised",
     "Timestamp": "2025-10-26T13:02:05",
