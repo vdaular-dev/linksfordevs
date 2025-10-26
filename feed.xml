@@ -7,6 +7,180 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Linux Boot Process: From Power Button to Kernel</title>
+      <link>https://www.0xkato.xyz/linux-boot/</link>
+      <description>A detailed walkthrough of the Linux boot process from power button to kernel initialization</description>
+      <category>linux</category>
+      <guid>https://www.0xkato.xyz/linux-boot/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>I translated my book for $7 using openai</title>
+      <link>https://andrewpwheeler.com/2025/10/25/i-translated-my-book-for-7-using-openai/</link>
+      <description>The other day an officer from the French Gendarmerie commented that they use my python for crime analysis book. I asked that individual, and he stated they all speak English. But given my book is w…</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://andrewpwheeler.com/2025/10/25/i-translated-my-book-for-7-using-openai/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Last Day of Nest 2nd Gen Support</title>
+      <link>https://sett.homes/blogs/updates/the-last-day-of-nest-2nd-gen-support</link>
+      <description>Sett is officially on the clock to ship - as of today I won't be able to remotely change the thermostat settings at my house because today is the final day that Google will allow users of the 2nd gen Nest thermostat to use the Nest and Google Home apps with their thermostat. In a matter of hours, this expensive early p</description>
+      <guid>https://sett.homes/blogs/updates/the-last-day-of-nest-2nd-gen-support</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'm not a 'Vibe Coder', but when I am, this is my set up (Blog Post)</title>
+      <link>https://www.appsoftware.com/blog/im-not-a-vibe-coder-but-when-i-am-this-is-my-set-up</link>
+      <description>VS Code with Copilot is what I keep coming back to, and it's been improving all the time that I've been using it. Inline code completions is not particularly useful in my opinion (at worst, it's a distraction), but the Agentic AI chat has been very impressive when paired with Anthropic's Claude models.</description>
+      <category>vscode</category>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <guid>https://www.appsoftware.com/blog/im-not-a-vibe-coder-but-when-i-am-this-is-my-set-up</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dumb Cursor is the best Cursor</title>
+      <link>https://kix.dev/dumb-cursor-is-the-best-cursor/</link>
+      <description>Agent mode but without any tools</description>
+      <category>ai</category>
+      <guid>https://kix.dev/dumb-cursor-is-the-best-cursor/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alex's Blog</title>
+      <link>https://blog.alexboden.ca/toronto-bike-share-status/</link>
+      <description>Alex Boden - Computer Science Student at University of Waterloo</description>
+      <category>apple</category>
+      <guid>https://blog.alexboden.ca/toronto-bike-share-status/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haiku 4.5: The Model Nobody Expected to Care About</title>
+      <link>https://barazany.dev/blog/haiku-45-the-model-nobody-expected-to-care-about</link>
+      <description>A small, fast, affordable model that matches Sonnet 4-level capabilities. The gap between what we think we need and what actually gets the job done is closing faster than most people realize.</description>
+      <author> (Jonathan Barazany)</author>
+      <category>ai</category>
+      <guid>https://barazany.dev/blog/haiku-45-the-model-nobody-expected-to-care-about</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor to Codex CLI: Migrating Rules to AGENTS.md</title>
+      <link>https://www.adithyan.io/blog/migrating-cursor-rules-to-agents</link>
+      <description>I migrated from Cursor to Codex CLI and wrote a Python script to bring my custom Cursor Rules with me. This post has the script, how it works, and why it's a critical step.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.adithyan.io/blog/migrating-cursor-rules-to-agents</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Tailscale to Get Around Network Restrictions - jack's blog</title>
+      <link>https://blog.j4ck.xyz/3m3wofcsxf22s?auth_completed=true</link>
+      <description>Setting up a self-hosted VPN that actually works on restrictive networks</description>
+      <category>nodejs</category>
+      <category>apple</category>
+      <guid>https://blog.j4ck.xyz/3m3wofcsxf22s?auth_completed=true</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on the Leica M EV1</title>
+      <link>https://arslan.io/2025/10/25/thoughts-on-the-leica-m-ev1/</link>
+      <description>As a Leica M11 owner with three lenses (21 SEM, 35 LUX, and 50 LUX), here are some of my opinions regarding the newly released Leica M EV1.</description>
+      <category>apple</category>
+      <guid>https://arslan.io/2025/10/25/thoughts-on-the-leica-m-ev1/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>CLAUDE.md to AGENTS.md Migration Guide</title>
+      <link>https://solmaz.io/log/2025/09/08/claude-md-agents-md-migration-guide/</link>
+      <description>This post will age like sour milk, because Anthropic will eventually adopt the company-agnostic AGENTS.md standard.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://solmaz.io/log/2025/09/08/claude-md-agents-md-migration-guide/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing Wednesdays: Tk Ths Job N Shove It</title>
+      <link>https://stevenpressfield.com/2025/10/tk-ths-job-n-shove-it-2/</link>
+      <description>When you and I worked on the assembly line at Ford Motor Company in Dearborn, Michigan, we had to worry about our production quotas, our standards of workmanship, and our supervisor’s evaluation of us. What we didn’t have to worry about was the structure of our day. That structure was defined for us and imposed upon us</description>
+      <guid>https://stevenpressfield.com/2025/10/tk-ths-job-n-shove-it-2/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlphaAgents: Multi-Agent A2A Implementation for Collaborative Financial Analysis</title>
+      <link>https://c-daniele.github.io/en/posts/2025-08-31-alphaagents-a2a/</link>
+      <description>1. Introduction The quantity of frameworks emerging for GenAI application development is incredible and, in my opinion, is becoming excessive. Every time a new framework appears, it seems to do more or less the same things as the previous one. Perhaps some have better modularization capabilities or more robust design against long-term obsolescence, but they all seem pretty much the same to me and, although I enjoy experimenting, the study of new miraculous and promising GenAI frameworks is becoming less and less appealing.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://c-daniele.github.io/en/posts/2025-08-31-alphaagents-a2a/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Essence of Prompt Engineering is the Art of Asking Questions</title>
+      <link>https://ramsayleung.github.io/en/post/2025/the-essence-of-prompt-engineering-is-the-art-of-asking-questions/</link>
+      <description>1 Introduction In today’s AI-driven world, “Prompt Engineer” has become a buzzword.
+AI enthusiasts are eager to share prompts, study token control, and tweak temperature parameters.
+The classic meme from Linux founder Linus Torvalds
+Talk is cheap. Show me the code.
+has evolved into:
+Code is cheap. Show me the prompts.
+Original tweet: https://x.com/tunguz/status/1856045530951917763?lang=en
+But the core of effective AI interaction isn’t about technical jargon—it’s about how to ask questions effectively.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://ramsayleung.github.io/en/post/2025/the-essence-of-prompt-engineering-is-the-art-of-asking-questions/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parsing webpages with a Large Language Model (LLM) revisited – Hans Dembinski’s blog</title>
+      <link>https://hdembinski.github.io/posts/parsing_webpages_with_llm_revisited.html</link>
+      <description></description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://hdembinski.github.io/posts/parsing_webpages_with_llm_revisited.html</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proof of Prompt</title>
+      <link>https://cjauvin.github.io/posts/proof-of-prompt/</link>
+      <description>When I’m doing freelance software development projects and I’m asked how much time things will take, it’s always very hard to answer. It’s a very high dimensional problem, and you have many degrees of freedom: how much should you charge, should you do it per hour or not, if you use AI how should it be factored in the efforts and time you report, what is the separation between the stuff that you charge and the stuff for which you don’t charge, does asking questions to your client to better understand the problem, on Slack in the weekend, count as time or not? Facing these doubts, and if they forgo the route of charging by the hour (which can be logistically quite painful, and can lead to its own kind of bad outcomes) I guess that most people are quite happy to fudge a rough number for a flat rate, do a couple of rounds of negotiation, reach an agreement, and call it a day. They implicitly accept that the outcome of this process can go both ways: either you estimated too low, and this way you will lose something, or the contrary. And you hope that in the grand scheme of things, things should average out in a reasonable way: either your loss, or their loss, who cares in the end? But is is really working this way?</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://cjauvin.github.io/posts/proof-of-prompt/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code Completion With CAPS-LOCK (not Tab!)</title>
+      <link>https://ae1020.github.io/code-completion-with-caps-lock/</link>
+      <description>The overloading of the Tab key to mean “indent” and “complete code” has always been pretty horrible. Now it’s intolerable: suggestions from AI come out of th...</description>
+      <category>vscode</category>
+      <category>linux</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://ae1020.github.io/code-completion-with-caps-lock/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who wants a browser?</title>
+      <link>https://www.chrismdp.com/who-wants-a-browser/</link>
+      <description>I watched the Apple keynote live in 2007 with baited breath, not sure what was coming. I clearly remember Steve Jobs’ crushing disdain for an entire generati...</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.chrismdp.com/who-wants-a-browser/</guid>
+      <pubDate>Sun, 26 Oct 2025 01:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>THE A1200 - FULL-SIZE. FULL KEYBOARD. FULL NOSTALGIA and a GREAT PRICE!</title>
       <link>https://www.indieretronews.com/2025/10/the-a1200-full-size-full-keyboard-full.html?m=1</link>
       <description>THE A1200 - FULL-SIZE. FULL KEYBOARD. FULL NOSTALGIA and a GREAT PRiCE!</description>
@@ -43,128 +217,6 @@
       <category>sql</category>
       <guid>https://www.synadia.com/blog/synadia-tigerbeetle-zig-foundation-pledge</guid>
       <pubDate>Sat, 25 Oct 2025 17:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future of Lodash</title>
-      <link>https://blog.ulisesgascon.com/the-future-of-lodash</link>
-      <description>Lodash begins a new stage with a more collaborative and sustainable model. This post outlines the plan to simplify its maintenance, strengthen security, and ensure its key role in the JavaScript ecosystem for the coming years.</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://blog.ulisesgascon.com/the-future-of-lodash</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ivan Codes &amp; Takes Photos</title>
-      <link>https://www.ivan.codes/thoughts/technical-experts-have-zero-customers</link>
-      <description>Personal website and photoblog of Ivan</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://www.ivan.codes/thoughts/technical-experts-have-zero-customers</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>The best thing I learned this year · hidden.computer</title>
-      <link>https://hidden.computer/blog/the-best-thing-i-learned-this-year.html</link>
-      <description>I am ecstatic. Elated. Over the moon. Positively glowing. I've learned something that
-          makes me happy and turns a previously dreadful task into an absolute joy and a
-          satisfying one at that. I am going to share this joyful knowledge with you. Are you
-          ready to learn about provisioning TLS certificates for internal networks using split
-          horizon DNS, ACME, and Caddy?</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://hidden.computer/blog/the-best-thing-i-learned-this-year.html</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>MLIR Part 8 - GPU Compilation with MLIR - Stephen Diehl</title>
-      <link>https://www.stephendiehl.com/posts/mlir_gpu/</link>
-      <description>Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future</description>
-      <author> (Stephen Diehl)</author>
-      <category>cloud</category>
-      <category>python</category>
-      <category>containers</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.stephendiehl.com/posts/mlir_gpu/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hide n Seek with processes in Linux</title>
-      <link>https://rtvkiz.vercel.app/posts/lets-hide-process</link>
-      <description>Playing with hooks to hide processes from commands like ps or top</description>
-      <category>ai</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://rtvkiz.vercel.app/posts/lets-hide-process</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Headlines don't crash economies</title>
-      <link>https://kyefox.com/headlines-dont-crash-economies/</link>
-      <description>Many years ago I asked on one social media site or another what the next big crash would come from after 2008. Subprime auto loans were the top suggestion.
-
-HN Search powered by AlgoliaHacker News Search, millions articles and comments at your fingertips.HN Search
-
-August 2025:
-
-Cars are so</description>
-      <category>ai</category>
-      <guid>https://kyefox.com/headlines-dont-crash-economies/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Keep Winning</title>
-      <link>https://amasad.me/keep-winning</link>
-      <description> I've always been fiercely competitive. I enjoy everything about it—from training to get better, to building and developing teams, to the stress, pressure, and intensity. And while I love winning, the...</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://amasad.me/keep-winning</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Always Be Ranking</title>
-      <link>https://www.jakeworth.com/posts/always-be-ranking/</link>
-      <description>Anytime you’re making a list at work, rank it.</description>
-      <category>sql</category>
-      <guid>https://www.jakeworth.com/posts/always-be-ranking/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>WTF are Agents?</title>
-      <link>https://www.ashpreetbedi.com/articles/wtf-is-an-agent</link>
-      <description>Understanding Agents by mapping out how they work.</description>
-      <category>conference</category>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://www.ashpreetbedi.com/articles/wtf-is-an-agent</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mathematical properties of the Smith chart</title>
-      <link>https://www.johndcook.com/blog/2025/10/23/smith-chart/</link>
-      <description>Deriving the basic mathematical properties of the Smith chart from electrical engineering</description>
-      <guid>https://www.johndcook.com/blog/2025/10/23/smith-chart/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Linux and Why Now - The Brooks Review</title>
-      <link>https://brooksreview.net/2025/10/why-linux-and-why-now/</link>
-      <description>I submit to you that Linux is now ready for consideration.</description>
-      <category>apple</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://brooksreview.net/2025/10/why-linux-and-why-now/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prices as model weights: learning from dispersed data | Evgeny Ivanov</title>
-      <link>https://e10v.me/prices-as-model-weights/</link>
-      <description>Market design to reduce labor market congestion.</description>
-      <author> (Evgeny Ivanov)</author>
-      <category>ai</category>
-      <guid>https://e10v.me/prices-as-model-weights/</guid>
-      <pubDate>Sat, 25 Oct 2025 01:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
