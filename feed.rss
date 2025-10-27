@@ -235,19 +235,5 @@ would become the phenomenon it is today.</description>
       <guid>https://maurycyz.com/misc/easy_git/</guid>
       <pubDate>Sun, 26 Oct 2025 18:01:59 GMT</pubDate>
     </item>
-    <item>
-      <title>That Time Ken Thompson Wrote a Backdoor into the C Compiler</title>
-      <link>https://micahkepe.com/blog/thompson-trojan-horse/</link>
-      <description>When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their
-work in UNIX, he was expected like other Turing winners to write a paper that
-would be published in the ACM Computer Journal. What he ended up submitting was
-a paper about "the cutest program [he] ever wrote"-- a sneaky undetectable
-self-reproducing "Trojan horse" backdoor in the C compiler that would allow him
-to log into affected machines as any user.</description>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://micahkepe.com/blog/thompson-trojan-horse/</guid>
-      <pubDate>Sun, 26 Oct 2025 17:01:59 GMT</pubDate>
-    </item>
   </channel>
 </rss>

@@ -190,13 +190,5 @@
     "Domain": "maurycyz.com",
     "Description": "If you have a git repository on a server with ssh access, you can just clone it:",
     "Confidence": 0.99742234
-  },
-  {
-    "Title": "That Time Ken Thompson Wrote a Backdoor into the C Compiler",
-    "Url": "https://micahkepe.com/blog/thompson-trojan-horse/",
-    "Timestamp": "2025-10-26T17:01:59",
-    "Domain": "micahkepe.com",
-    "Description": "When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their\nwork in UNIX, he was expected like other Turing winners to write a paper that\nwould be published in the ACM Computer Journal. What he ended up submitting was\na paper about \"the cutest program [he] ever wrote\"-- a sneaky undetectable\nself-reproducing \"Trojan horse\" backdoor in the C compiler that would allow him\nto log into affected machines as any user.",
-    "Confidence": 0.9960384
   }
 ]
