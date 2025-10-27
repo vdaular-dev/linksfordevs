@@ -182,21 +182,5 @@
     "Domain": "amit.prasad.me",
     "Description": "A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole.",
     "Confidence": 0.9965025
-  },
-  {
-    "Title": "The good advice",
-    "Url": "https://libera.chat/news/advised",
-    "Timestamp": "2025-10-26T13:02:05",
-    "Domain": "libera.chat",
-    "Description": "First of all, a massive thank you to everyone who donated since our last post. Our income on Liberapay has roughly quadrupled from what it was before the post. We have also had people reach out to us for large one-time monetary and hardware donations. Your support is truly appreciated!",
-    "Confidence": 0.98057675
-  },
-  {
-    "Title": "GitHub - apple/pico-banana-400k",
-    "Url": "https://github.com/apple/pico-banana-400k",
-    "Timestamp": "2025-10-26T13:02:02",
-    "Domain": "github.com",
-    "Description": "Contribute to apple/pico-banana-400k development by creating an account on GitHub.",
-    "Confidence": 0.9778724
   }
 ]
