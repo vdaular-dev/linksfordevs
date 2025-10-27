@@ -182,13 +182,5 @@
     "Domain": "micahkepe.com",
     "Description": "When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their\nwork in UNIX, he was expected like other Turing winners to write a paper that\nwould be published in the ACM Computer Journal. What he ended up submitting was\na paper about \"the cutest program [he] ever wrote\"-- a sneaky undetectable\nself-reproducing \"Trojan horse\" backdoor in the C compiler that would allow him\nto log into affected machines as any user.",
     "Confidence": 0.9960384
-  },
-  {
-    "Title": "The Journey Before main() | Amit's Blog",
-    "Url": "https://amit.prasad.me/blog/before-main",
-    "Timestamp": "2025-10-26T15:02:11",
-    "Domain": "amit.prasad.me",
-    "Description": "A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole.",
-    "Confidence": 0.9965025
   }
 ]

@@ -228,16 +228,5 @@ to log into affected machines as any user.</description>
       <guid>https://micahkepe.com/blog/thompson-trojan-horse/</guid>
       <pubDate>Sun, 26 Oct 2025 17:01:59 GMT</pubDate>
     </item>
-    <item>
-      <title>The Journey Before main() | Amit's Blog</title>
-      <link>https://amit.prasad.me/blog/before-main</link>
-      <description>A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole.</description>
-      <category>rust</category>
-      <category>python</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <guid>https://amit.prasad.me/blog/before-main</guid>
-      <pubDate>Sun, 26 Oct 2025 15:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
