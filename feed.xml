@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What We Talk About When We Talk About Sideloading | F-Droid - Free and Open Source Android App Repository</title>
+      <link>https://f-droid.org/2025/10/28/sideloading.html</link>
+      <description>We recently published a blog post with our reaction to the new Google Developer Program and how it impacts your freedom to use the devices that you own in th...</description>
+      <category>android</category>
+      <category>apple</category>
+      <guid>https://f-droid.org/2025/10/28/sideloading.html</guid>
+      <pubDate>Tue, 28 Oct 2025 21:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>AI can code, but it can't build software</title>
       <link>https://bytesauna.com/post/coding-vs-software-engineering</link>
       <description>AI can write code, but it can’t build real software. Software engineering remains human work because AI can code, not engineer.</description>
@@ -379,25 +388,6 @@ For the first time shooting as an adult at</description>
       <category>javascript</category>
       <guid>https://xkcd.com/3160/</guid>
       <pubDate>Mon, 27 Oct 2025 22:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude for Excel</title>
-      <link>https://www.claude.com/claude-for-excel</link>
-      <description>Claude understands your entire workbook—from nested formulas to multiple tab dependencies.</description>
-      <category>ai</category>
-      <guid>https://www.claude.com/claude-for-excel</guid>
-      <pubDate>Mon, 27 Oct 2025 21:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>The PSF has withdrawn a $1.5 million proposal to US government grant program</title>
-      <link>https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html</link>
-      <description></description>
-      <category>rust</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html</guid>
-      <pubDate>Mon, 27 Oct 2025 21:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
