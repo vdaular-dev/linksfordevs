@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Introducing Dungeon Loom (Text Adventure/Dungeon Map Editor)",
+    "Url": "https://retrogamecoders.com/dungeon-loom/",
+    "Timestamp": "2025-10-29T21:02:02",
+    "Domain": "retrogamecoders.com",
+    "Description": "I wrote an online text adventure/dungeon map editor.",
+    "Confidence": 0.98795754
+  },
+  {
+    "Title": "Stella, the Atari 2600 Emulator",
+    "Url": "https://www.goto10retro.com/p/stella-the-atari-2600-emulator",
+    "Timestamp": "2025-10-29T21:01:58",
+    "Domain": "www.goto10retro.com",
+    "Description": "STELLAAAAA",
+    "Confidence": 0.9980022
+  },
+  {
     "Title": "uv is the best thing to happen to the Python ecosystem in a decade - Blog - Dr. Emily L. Hunt",
     "Url": "https://emily.space/posts/251023-uv",
     "Timestamp": "2025-10-29T20:02:11",
@@ -238,13 +254,5 @@
     "Domain": "basicappleguy.com",
     "Description": "Testing Apple’s latest noise-cancelling earbuds at 39,000 feet reveals a potential flaw most users won’t notice, until they fly.",
     "Confidence": 0.72488
-  },
-  {
-    "Title": "What We Talk About When We Talk About Sideloading | F-Droid - Free and Open Source Android App Repository",
-    "Url": "https://f-droid.org/2025/10/28/sideloading.html",
-    "Timestamp": "2025-10-28T21:02:02",
-    "Domain": "f-droid.org",
-    "Description": "We recently published a blog post with our reaction to the new Google Developer Program and how it impacts your freedom to use the devices that you own in th...",
-    "Confidence": 0.923192
   }
 ]

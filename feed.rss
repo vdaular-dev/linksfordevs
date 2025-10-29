@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Dungeon Loom (Text Adventure/Dungeon Map Editor)</title>
+      <link>https://retrogamecoders.com/dungeon-loom/</link>
+      <description>I wrote an online text adventure/dungeon map editor.</description>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://retrogamecoders.com/dungeon-loom/</guid>
+      <pubDate>Wed, 29 Oct 2025 21:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stella, the Atari 2600 Emulator</title>
+      <link>https://www.goto10retro.com/p/stella-the-atari-2600-emulator</link>
+      <description>STELLAAAAA</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://www.goto10retro.com/p/stella-the-atari-2600-emulator</guid>
+      <pubDate>Wed, 29 Oct 2025 21:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>uv is the best thing to happen to the Python ecosystem in a decade - Blog - Dr. Emily L. Hunt</title>
       <link>https://emily.space/posts/251023-uv</link>
       <description>Released in 2024, uv is hands-down the best tool for managing Python installations and dependencies. Here's why.</description>
@@ -288,15 +307,6 @@ A solution to a technical problem is, however, not the same as a solution to a u
       <description>Testing Apple’s latest noise-cancelling earbuds at 39,000 feet reveals a potential flaw most users won’t notice, until they fly.</description>
       <guid>https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem</guid>
       <pubDate>Tue, 28 Oct 2025 22:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>What We Talk About When We Talk About Sideloading | F-Droid - Free and Open Source Android App Repository</title>
-      <link>https://f-droid.org/2025/10/28/sideloading.html</link>
-      <description>We recently published a blog post with our reaction to the new Google Developer Program and how it impacts your freedom to use the devices that you own in th...</description>
-      <category>android</category>
-      <category>apple</category>
-      <guid>https://f-droid.org/2025/10/28/sideloading.html</guid>
-      <pubDate>Tue, 28 Oct 2025 21:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
