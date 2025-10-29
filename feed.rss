@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>YouTube is taking down videos on performing nonstandard Windows 11 installs</title>
+      <link>https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/</link>
+      <description>Videos from several creators have been taken down on topics including how to install Windows 11 without logging into a Microsoft account and how...</description>
+      <category>youtube</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/</guid>
+      <pubDate>Wed, 29 Oct 2025 13:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who needs Graphviz when you can build it yourself?</title>
+      <link>https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html</link>
+      <description>Exploring a new layout algorithm for control flow graphs.</description>
+      <category>web</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>encryption</category>
+      <guid>https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html</guid>
+      <pubDate>Wed, 29 Oct 2025 13:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Tips for stroke-surviving software engineers</title>
       <link>https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/</link>
       <description>This is a pretty niche topic; I don't imagine there are many of us out there.</description>
@@ -316,39 +338,6 @@ my music etc: https://linktr.ee/switchangel
       <category>cloud</category>
       <guid>https://openai.com/index/next-chapter-of-microsoft-openai-partnership/</guid>
       <pubDate>Tue, 28 Oct 2025 18:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your data, their rules</title>
-      <link>https://blog.42futures.com/p/your-data-their-rules</link>
-      <description>The growing risks of hosting EU data in the US cloud</description>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>sql</category>
-      <guid>https://blog.42futures.com/p/your-data-their-rules</guid>
-      <pubDate>Tue, 28 Oct 2025 13:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET Libraries Are Beyond Saving</title>
-      <link>https://youtube.com/watch?v=5K1NiGtUrhw</link>
-      <description>Check out my courses on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube
-
-Hello, everybody. I'm Nick, and in this video, I want to talk about the .NET Library ecosystem, focusing on open-source libraries specifically and talking about the different monetisation models that authors choose to adopt, as well as the idea that we can "save" open source projects by forking them.
-
-Check out my workshops: https://dometrain.com/workshops/
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=5K1NiGtUrhw</guid>
-      <pubDate>Tue, 28 Oct 2025 13:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

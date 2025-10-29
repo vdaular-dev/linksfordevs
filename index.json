@@ -1,5 +1,21 @@
 [
   {
+    "Title": "YouTube is taking down videos on performing nonstandard Windows 11 installs",
+    "Url": "https://old.reddit.com/r/DataHoarder/comments/1oiz0v0/youtube_is_taking_down_videos_on_performing/",
+    "Timestamp": "2025-10-29T13:02:10",
+    "Domain": "old.reddit.com",
+    "Description": "Videos from several creators have been taken down on topics including how to install Windows 11 without logging into a Microsoft account and how...",
+    "Confidence": 0.9795239
+  },
+  {
+    "Title": "Who needs Graphviz when you can build it yourself?",
+    "Url": "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html",
+    "Timestamp": "2025-10-29T13:02:04",
+    "Domain": "spidermonkey.dev",
+    "Description": "Exploring a new layout algorithm for control flow graphs.",
+    "Confidence": 0.9949341
+  },
+  {
     "Title": "Tips for stroke-surviving software engineers",
     "Url": "https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/",
     "Timestamp": "2025-10-29T12:02:04",
@@ -270,21 +286,5 @@
     "Domain": "openai.com",
     "Description": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
     "Confidence": 0.923314
-  },
-  {
-    "Title": "Your data, their rules",
-    "Url": "https://blog.42futures.com/p/your-data-their-rules",
-    "Timestamp": "2025-10-28T13:02:05",
-    "Domain": "blog.42futures.com",
-    "Description": "The growing risks of hosting EU data in the US cloud",
-    "Confidence": 0.9599912
-  },
-  {
-    "Title": ".NET Libraries Are Beyond Saving",
-    "Url": "https://youtube.com/watch?v=5K1NiGtUrhw",
-    "Timestamp": "2025-10-28T13:02:00",
-    "Domain": "youtube.com",
-    "Description": "Check out my courses on Dometrain: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube\n\nHello, everybody. I'm Nick, and in this video, I want to talk about the .NET Library ecosystem, focusing on open-source libraries specifically and talking about the different monetisation models that authors choose to adopt, as well as the idea that we can \"save\" open source projects by forking them.\n\nCheck out my workshops: https://dometrain.com/workshops/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
-    "Confidence": 0.99022305
   }
 ]
