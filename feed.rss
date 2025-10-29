@@ -7,6 +7,148 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Illusion of Thinking – JSO</title>
+      <link>https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/</link>
+      <description></description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>I used Machine Learning to Beat the Roblox Interview Game</title>
+      <link>https://adamkulik.com/blog/kaijugo</link>
+      <description>Unlike most other companies, Roblox takes a bit of a different approach when it comes to interviews. Instead of the classic Leetcode coding style assessments, they use problem solving games. One of these games is called Kaiju Cats. It's a game where you control the movement of 3 cats and try to maximize the amount of points they get as they move around the board.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://adamkulik.com/blog/kaijugo</guid>
+      <pubDate>Wed, 29 Oct 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Cage of Casualness</title>
+      <link>https://blog.jakobschwichtenberg.com/p/the-cage-of-casualness</link>
+      <description>I. I still remember how shocked I was when I realized that virtually no one at university was serious about studying physics.</description>
+      <category>ai</category>
+      <guid>https://blog.jakobschwichtenberg.com/p/the-cage-of-casualness</guid>
+      <pubDate>Wed, 29 Oct 2025 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>David Nicholas Williams</title>
+      <link>https://davidnicholaswilliams.com/my-domain-was-poached/</link>
+      <description>I decided I'm going to get back blogging and started by updating my photo. I went to do that and discovered my site down and dead to the world for the first time in over 10 years.</description>
+      <guid>https://davidnicholaswilliams.com/my-domain-was-poached/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>When O3 is 2x slower than O2</title>
+      <link>https://cat-solstice.github.io/test-pqueue/</link>
+      <description>An deep dive into a pathological case.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://cat-solstice.github.io/test-pqueue/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hackable software</title>
+      <link>https://blog.ivnj.org/post/hackable-software</link>
+      <description>The idea of writing programs for hackers</description>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://blog.ivnj.org/post/hackable-software</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>So You Want to Be Promoted, Pt. 1</title>
+      <link>https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-1/</link>
+      <description>My expectation early in my career was that promotions just showed up. You worked hard, and you figured out how to get along with your teammates. Every year or so, my boss would have a one-off conversation with me and alert me that I had a new role along with increased compensation. This hands-off cy</description>
+      <guid>https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-1/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Problem Is Traditional RAG Solving?</title>
+      <link>https://www.gojiberries.io/what-problem-is-traditional-rag-solving/</link>
+      <description>RAG is a solution to a specific technical problem. It helps models trained on broad public text answer questions about specialized domain content without a training loop.
+
+A solution to a technical problem is, however, not the same as a solution to a user problem. To identify cases where traditional</description>
+      <category>ai</category>
+      <guid>https://www.gojiberries.io/what-problem-is-traditional-rag-solving/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Async Django: a solution in search of a problem?</title>
+      <link>https://www.loopwerk.io/articles/2025/async-django-why/</link>
+      <description>While a technical marvel, async Django has been quietly rejected by the community it was built for, with the vast majority of developers sticking to simpler, proven solutions.</description>
+      <category>python</category>
+      <category>typescript</category>
+      <category>sql</category>
+      <guid>https://www.loopwerk.io/articles/2025/async-django-why/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing Kindle PDF Annotator</title>
+      <link>https://marcinmilkowski.pl/2025/10/07/announcing-kindle-pdf-annotator/</link>
+      <description>As an academic, I’ve always had a love-hate relationship with PDFs. On one hand, they’re the standard format for research papers, theses, and dissertations. On the other hand, they&amp;#821…</description>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://marcinmilkowski.pl/2025/10/07/announcing-kindle-pdf-annotator/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reducing binary size of (Rust) programs with debuginfo</title>
+      <link>https://kobzol.github.io/rust/2025/09/22/reducing-binary-size-of-rust-programs-with-debuginfo.html</link>
+      <description>TL;DR: There are some ways how you can reduce the binary size of (Rust) programs that contain debug information.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <guid>https://kobzol.github.io/rust/2025/09/22/reducing-binary-size-of-rust-programs-with-debuginfo.html</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The House that was Perfect in Every Way but One</title>
+      <link>https://moultano.wordpress.com/2025/10/23/the-house-that-was-perfect-in-every-way-but-one/</link>
+      <description>The house has much to recommend it.</description>
+      <guid>https://moultano.wordpress.com/2025/10/23/the-house-that-was-perfect-in-every-way-but-one/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Science and Technology News and Commentary: Aardvark Daily</title>
+      <link>https://www.aardvark.co.nz/daily/2025/1028.shtml</link>
+      <description>Aardvark is New Zealand's leading Internet Industry online news publication, reaching thousands of professionals and enthusiasts every day</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.aardvark.co.nz/daily/2025/1028.shtml</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>idea | Isaac Bowen</title>
+      <link>https://www.isaacbowen.com/2025/10/28/idea</link>
+      <description>an idea is a need</description>
+      <guid>https://www.isaacbowen.com/2025/10/28/idea</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing a shader editor for designers</title>
+      <link>https://vladinator.net/blog/shader-editor-part-1/</link>
+      <description>Composable shader editor for product design using WebGPU. (Shader editor for designers - part 1)</description>
+      <author> (Vlady Veselinov)</author>
+      <category>gaming</category>
+      <category>cloud</category>
+      <category>web</category>
+      <guid>https://vladinator.net/blog/shader-editor-part-1/</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lottery + Leverage: A Simple Formula for Designing Your Own Luck</title>
+      <link>https://jordandipietro.com/p/lottery-leverage-a-simple-formula-for-designing-your-own-luck</link>
+      <description>A personal take on privilege, preparation, and the strange math between luck and leverage</description>
+      <category>gaming</category>
+      <guid>https://jordandipietro.com/p/lottery-leverage-a-simple-formula-for-designing-your-own-luck</guid>
+      <pubDate>Wed, 29 Oct 2025 01:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Samsung makes ads on $3,499 smart fridges official with upcoming software update</title>
       <link>https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/</link>
       <description>Update introduces two ways for the fridges to show ads.</description>
@@ -161,239 +303,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>git</category>
       <guid>https://dramforever.github.io/easyriscv/</guid>
       <pubDate>Tue, 28 Oct 2025 07:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts after learning touch typing | Mikołaj Biernat</title>
-      <link>https://mikolajbiernat.com/blog/thoughts-after-learning-touch-typing</link>
-      <description>How practice makes perfect (if done right).</description>
-      <category>ai</category>
-      <guid>https://mikolajbiernat.com/blog/thoughts-after-learning-touch-typing</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why IP address truncation fails at anonymization</title>
-      <link>https://00f.net/2025/10/27/ip-anonymization/</link>
-      <description>You’ve probably seen it in analytics dashboards, server logs, or privacy documentation: IP addresses with their last octet zeroed out. 192.168.1.42 beco...</description>
-      <author> (Frank Denis (Jedi/Sector One))</author>
-      <category>encryption</category>
-      <category>rust</category>
-      <guid>https://00f.net/2025/10/27/ip-anonymization/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>autistic recursion elasticity hypothesis | Isaac Bowen</title>
-      <link>https://www.isaacbowen.com/2025/10/27/autistic-recursion-elasticity-hypothesis</link>
-      <description>consciousness has a recursion limit for itself</description>
-      <guid>https://www.isaacbowen.com/2025/10/27/autistic-recursion-elasticity-hypothesis</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Only Important Technology Is The Internet</title>
-      <link>https://kevinlu.ai/the-only-important-technology-is-the-internet</link>
-      <description>Although progress in AI is often attributed to landmark papers – such as transformers, RNNs, or diffusion – this ignores the fundamental bottleneck of artifi...</description>
-      <author> (/)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://kevinlu.ai/the-only-important-technology-is-the-internet</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>On having a data object</title>
-      <link>https://www.natemeyvis.com/on-having-a-data-object/</link>
-      <description>Here's a common pattern:
-
-
-
-
-People  this pattern. Everyone likes the (apparent) simplicity of , and many engineers also think that those objects bring abs...</description>
-      <category>conference</category>
-      <category>python</category>
-      <category>sql</category>
-      <guid>https://www.natemeyvis.com/on-having-a-data-object/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>building for the future - icy takes</title>
-      <link>https://icy.leaflet.pub/3m47cll72hs25</link>
-      <description>on tangled's existence and direction</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://icy.leaflet.pub/3m47cll72hs25</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Risk, Effort, Reward System</title>
-      <link>https://blog.woblick.dev/en/2025/risk-effort-reward/</link>
-      <description></description>
-      <guid>https://blog.woblick.dev/en/2025/risk-effort-reward/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let the little guys in: Towards a context sharing runtime for the personalised web | Arjun Khoosal</title>
-      <link>https://arjun.md/little-guys</link>
-      <description>Arjun's website :)</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://arjun.md/little-guys</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notes on where seat-based pricing is going - Arnon Shimoni</title>
-      <link>https://arnon.dk/notes-on-where-seat-based-pricing-is-going/</link>
-      <description>Everyone (mostly me) keeps saying seat pricing is dead, and some people are arguing with me online. I think that’s cool, but it’s because they don’t understand why it’s dying. For twenty years, SaaS revenue scaled with headcount.More humans = more seats.That logic held so long that we stopped questioning it. Then the humans disappeared. […]</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://arnon.dk/notes-on-where-seat-based-pricing-is-going/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why We Need More Programmers, Not Fewer</title>
-      <link>https://juanreyero.com/article/ai/we-need-more-programmers</link>
-      <description>TL/DR The conventional wisdom is that AI will reduce the demand for programmers. I manage engineering teams and program with LLMs every day, and I am seeing something different.
-Programmers who know how to work with LLMs can be 3-10x faster for specific tasks. Given that the size of our work backlog is only limited by our vision and ambition, these super-productive individuals will be more in demand, not less.</description>
-      <category>ai</category>
-      <guid>https://juanreyero.com/article/ai/we-need-more-programmers</guid>
-      <pubDate>Tue, 28 Oct 2025 01:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dependencies, Inputs, Outputs: My Shortcut To Write Tests</title>
-      <link>https://remy.duthu.org/2025/10/27/dependencies-inputs-outputs.html</link>
-      <description>I often struggle with writing unit tests. Sometimes, everything is clear before I even start coding: I can see the structure, and writing tests from the start feels natural. Those are good days.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://remy.duthu.org/2025/10/27/dependencies-inputs-outputs.html</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lessons learned from 2 years of operating a teensy-tiny news archive</title>
-      <link>https://til.andrew-quinn.me/posts/lessons-learned-from-2-years-of-operating-a-tiny-news-archive/</link>
-      <description>I began running
-Andrew’s Selkouutiset Archive
-almost exactly two years ago, with a simple goal:
-Create a straightforward way for Finnish language learners
-to access the simple news broadcast by YYYY-MM-DD.
-It has basically accomplished that goal, with only a few tweaks here
-and there to keep everything running.
-Earlier in the series: Lessons learned from 6 months of operating a teensy-tiny news archive.
-I stand by those points, and have some more to add here at the 24-month
-mark.</description>
-      <category>python</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://til.andrew-quinn.me/posts/lessons-learned-from-2-years-of-operating-a-tiny-news-archive/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>What I want from a National Data Library – Andreas Varotsis</title>
-      <link>https://andreasthinks.me/posts/national-data-library.html</link>
-      <description>I built a tool to fix my local police engagement problem in an hour of café coding. But that was only possible because of a fading public data API from years ago…let’s revive the open data dream with the National Data Library!</description>
-      <category>ai</category>
-      <guid>https://andreasthinks.me/posts/national-data-library.html</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overwhelmed by Gun Violence</title>
-      <link>https://andys.blog/overwhelmed/</link>
-      <description>I remember shooting a .22 rifle as a kid sometime age 10-14, probably at Camp Minikani or Manito-wish. Also once I fired a shotgun at skeet, but I'm pretty sure I missed every clay pigeon...the details are a bit fuzzy.
-
-For the first time shooting as an adult at</description>
-      <guid>https://andys.blog/overwhelmed/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Make Software for Hardware Engineering</title>
-      <link>https://merriman.industries/how-to-make-software-for-hardware-engineering/</link>
-      <description>The singular passion of my career has been increasing the broad competency of engineering hardware-based systems. My degree in mechanical engineering - though seemingly less relevant to my daily activities with each passing year - reveals my hardware-centric worldview. I identify as an engineer with an unerringly fierce pride because</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>vscode</category>
-      <category>typescript</category>
-      <category>cloud</category>
-      <guid>https://merriman.industries/how-to-make-software-for-hardware-engineering/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Experience Using Claude Code with Rolldown</title>
-      <link>https://hyf.me/blog/claude-code-in-rolldown-en</link>
-      <description>Blog post by Yunfei He</description>
-      <author> (Yunfei He)</author>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://hyf.me/blog/claude-code-in-rolldown-en</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Generalized Consensus: Governing Rules | Multigres</title>
-      <link>https://multigres.com/blog/generalized-consensus-part3</link>
-      <description>As we solve the problem of durability, we will realize that there is a simple set of governing rules that we will be applying repetitively. We will develop these as we progress in our design. However, we will share their entirety upfront.</description>
-      <author> (https://github.com/sougou)</author>
-      <category>nodejs</category>
-      <category>sql</category>
-      <guid>https://multigres.com/blog/generalized-consensus-part3</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avoid 2:00 and 3:00 am cron jobs! | End Point Dev</title>
-      <link>https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/</link>
-      <description>A word to the wise: Do not set any cron jobs for 2:00 am or 3:00 am on Sunday morning! Or to be safe, on other mornings besides Sunday as well, since jobs originally set to run on some particular day may eventually be changed to run on another day, or every day.</description>
-      <category>linux</category>
-      <guid>https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Caring So Much About Your People</title>
-      <link>https://avivbenyosef.com/stop-caring-so-much-about-your-people/</link>
-      <description>Yeah, I said it. Stop caring so much about your people. Not stop caring. Stop over-caring. Stop acting like your team’s happiness is the company’s primary KPI. Because it’s not. You’ve been told fo…</description>
-      <guid>https://avivbenyosef.com/stop-caring-so-much-about-your-people/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>live public transport routing</title>
-      <link>https://asherfalcon.com/blog/posts/5</link>
-      <description>We've all used a public transit router to find a quick route from A to B, such as Google Maps or CityMapper, but how do they actually work? In this post I will discuss how I tried to build my own public transport routing system for London that supports buses, tubes and trains.</description>
-      <category>cloud</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>git</category>
-      <category>python</category>
-      <guid>https://asherfalcon.com/blog/posts/5</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ivan Codes &amp; Takes Photos</title>
-      <link>https://www.ivan.codes/thoughts/llms-application-code-vs-terraform</link>
-      <description>Personal website and photoblog of Ivan</description>
-      <category>typescript</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>sql</category>
-      <guid>https://www.ivan.codes/thoughts/llms-application-code-vs-terraform</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>JetKVM - Control any computer remotely</title>
-      <link>https://jetkvm.com/</link>
-      <description>Next-gen open-source KVM over IP with ultra-low latency, free cloud access, and unlimited hackability. Professional remote server management for IT pros and developers.</description>
-      <category>linux</category>
-      <guid>https://jetkvm.com/</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Thank You to YC</title>
-      <link>https://www.enbao.me/posts/yc</link>
-      <description>thoughts on garry tan's talk</description>
-      <guid>https://www.enbao.me/posts/yc</guid>
-      <pubDate>Tue, 28 Oct 2025 01:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

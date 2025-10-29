@@ -1,5 +1,133 @@
 [
   {
+    "Title": "The Illusion of Thinking – JSO",
+    "Url": "https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/",
+    "Timestamp": "2025-10-29T01:03:18",
+    "Domain": "jso.eecs.yorku.ca",
+    "Description": "",
+    "Confidence": 0.97476417
+  },
+  {
+    "Title": "I used Machine Learning to Beat the Roblox Interview Game",
+    "Url": "https://adamkulik.com/blog/kaijugo",
+    "Timestamp": "2025-10-29T01:03:13",
+    "Domain": "adamkulik.com",
+    "Description": "Unlike most other companies, Roblox takes a bit of a different approach when it comes to interviews. Instead of the classic Leetcode coding style assessments, they use problem solving games. One of these games is called Kaiju Cats. It's a game where you control the movement of 3 cats and try to maximize the amount of points they get as they move around the board.",
+    "Confidence": 0.9852037
+  },
+  {
+    "Title": "The Cage of Casualness",
+    "Url": "https://blog.jakobschwichtenberg.com/p/the-cage-of-casualness",
+    "Timestamp": "2025-10-29T01:03:08",
+    "Domain": "blog.jakobschwichtenberg.com",
+    "Description": "I. I still remember how shocked I was when I realized that virtually no one at university was serious about studying physics.",
+    "Confidence": 0.82528067
+  },
+  {
+    "Title": "David Nicholas Williams",
+    "Url": "https://davidnicholaswilliams.com/my-domain-was-poached/",
+    "Timestamp": "2025-10-29T01:03:04",
+    "Domain": "davidnicholaswilliams.com",
+    "Description": "I decided I'm going to get back blogging and started by updating my photo. I went to do that and discovered my site down and dead to the world for the first time in over 10 years.",
+    "Confidence": 0.9290773
+  },
+  {
+    "Title": "When O3 is 2x slower than O2",
+    "Url": "https://cat-solstice.github.io/test-pqueue/",
+    "Timestamp": "2025-10-29T01:03:01",
+    "Domain": "cat-solstice.github.io",
+    "Description": "An deep dive into a pathological case.",
+    "Confidence": 0.9959297
+  },
+  {
+    "Title": "Hackable software",
+    "Url": "https://blog.ivnj.org/post/hackable-software",
+    "Timestamp": "2025-10-29T01:02:57",
+    "Domain": "blog.ivnj.org",
+    "Description": "The idea of writing programs for hackers",
+    "Confidence": 0.99401915
+  },
+  {
+    "Title": "So You Want to Be Promoted, Pt. 1",
+    "Url": "https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-1/",
+    "Timestamp": "2025-10-29T01:02:54",
+    "Domain": "randsinrepose.com",
+    "Description": "My expectation early in my career was that promotions just showed up. You worked hard, and you figured out how to get along with your teammates. Every year or so, my boss would have a one-off conversation with me and alert me that I had a new role along with increased compensation. This hands-off cy",
+    "Confidence": 0.9779978
+  },
+  {
+    "Title": "What Problem Is Traditional RAG Solving?",
+    "Url": "https://www.gojiberries.io/what-problem-is-traditional-rag-solving/",
+    "Timestamp": "2025-10-29T01:02:50",
+    "Domain": "www.gojiberries.io",
+    "Description": "RAG is a solution to a specific technical problem. It helps models trained on broad public text answer questions about specialized domain content without a training loop.\n\nA solution to a technical problem is, however, not the same as a solution to a user problem. To identify cases where traditional",
+    "Confidence": 0.9730583
+  },
+  {
+    "Title": "Async Django: a solution in search of a problem?",
+    "Url": "https://www.loopwerk.io/articles/2025/async-django-why/",
+    "Timestamp": "2025-10-29T01:02:46",
+    "Domain": "www.loopwerk.io",
+    "Description": "While a technical marvel, async Django has been quietly rejected by the community it was built for, with the vast majority of developers sticking to simpler, proven solutions.",
+    "Confidence": 0.9824213
+  },
+  {
+    "Title": "Announcing Kindle PDF Annotator",
+    "Url": "https://marcinmilkowski.pl/2025/10/07/announcing-kindle-pdf-annotator/",
+    "Timestamp": "2025-10-29T01:02:41",
+    "Domain": "marcinmilkowski.pl",
+    "Description": "As an academic, I’ve always had a love-hate relationship with PDFs. On one hand, they’re the standard format for research papers, theses, and dissertations. On the other hand, they&#821…",
+    "Confidence": 0.995442
+  },
+  {
+    "Title": "Reducing binary size of (Rust) programs with debuginfo",
+    "Url": "https://kobzol.github.io/rust/2025/09/22/reducing-binary-size-of-rust-programs-with-debuginfo.html",
+    "Timestamp": "2025-10-29T01:02:33",
+    "Domain": "kobzol.github.io",
+    "Description": "TL;DR: There are some ways how you can reduce the binary size of (Rust) programs that contain debug information.",
+    "Confidence": 0.996682
+  },
+  {
+    "Title": "The House that was Perfect in Every Way but One",
+    "Url": "https://moultano.wordpress.com/2025/10/23/the-house-that-was-perfect-in-every-way-but-one/",
+    "Timestamp": "2025-10-29T01:02:30",
+    "Domain": "moultano.wordpress.com",
+    "Description": "The house has much to recommend it.",
+    "Confidence": 0.7643206
+  },
+  {
+    "Title": "Science and Technology News and Commentary: Aardvark Daily",
+    "Url": "https://www.aardvark.co.nz/daily/2025/1028.shtml",
+    "Timestamp": "2025-10-29T01:02:26",
+    "Domain": "www.aardvark.co.nz",
+    "Description": "Aardvark is New Zealand's leading Internet Industry online news publication, reaching thousands of professionals and enthusiasts every day",
+    "Confidence": 0.8226316
+  },
+  {
+    "Title": "idea | Isaac Bowen",
+    "Url": "https://www.isaacbowen.com/2025/10/28/idea",
+    "Timestamp": "2025-10-29T01:02:22",
+    "Domain": "www.isaacbowen.com",
+    "Description": "an idea is a need",
+    "Confidence": 0.9266771
+  },
+  {
+    "Title": "Writing a shader editor for designers",
+    "Url": "https://vladinator.net/blog/shader-editor-part-1/",
+    "Timestamp": "2025-10-29T01:02:18",
+    "Domain": "vladinator.net",
+    "Description": "Composable shader editor for product design using WebGPU. (Shader editor for designers - part 1)",
+    "Confidence": 0.99920624
+  },
+  {
+    "Title": "Lottery + Leverage: A Simple Formula for Designing Your Own Luck",
+    "Url": "https://jordandipietro.com/p/lottery-leverage-a-simple-formula-for-designing-your-own-luck",
+    "Timestamp": "2025-10-29T01:02:14",
+    "Domain": "jordandipietro.com",
+    "Description": "A personal take on privilege, preparation, and the strange math between luck and leverage",
+    "Confidence": 0.62990266
+  },
+  {
     "Title": "Samsung makes ads on $3,499 smart fridges official with upcoming software update",
     "Url": "https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/",
     "Timestamp": "2025-10-28T23:02:13",
@@ -118,189 +246,5 @@
     "Domain": "dramforever.github.io",
     "Description": "(Last updated: 2025-10-28 06:35)",
     "Confidence": 0.9934549
-  },
-  {
-    "Title": "Thoughts after learning touch typing | Mikołaj Biernat",
-    "Url": "https://mikolajbiernat.com/blog/thoughts-after-learning-touch-typing",
-    "Timestamp": "2025-10-28T01:03:35",
-    "Domain": "mikolajbiernat.com",
-    "Description": "How practice makes perfect (if done right).",
-    "Confidence": 0.9405944
-  },
-  {
-    "Title": "Why IP address truncation fails at anonymization",
-    "Url": "https://00f.net/2025/10/27/ip-anonymization/",
-    "Timestamp": "2025-10-28T01:03:32",
-    "Domain": "00f.net",
-    "Description": "You’ve probably seen it in analytics dashboards, server logs, or privacy documentation: IP addresses with their last octet zeroed out. 192.168.1.42 beco...",
-    "Confidence": 0.9762463
-  },
-  {
-    "Title": "autistic recursion elasticity hypothesis | Isaac Bowen",
-    "Url": "https://www.isaacbowen.com/2025/10/27/autistic-recursion-elasticity-hypothesis",
-    "Timestamp": "2025-10-28T01:03:28",
-    "Domain": "www.isaacbowen.com",
-    "Description": "consciousness has a recursion limit for itself",
-    "Confidence": 0.6639104
-  },
-  {
-    "Title": "The Only Important Technology Is The Internet",
-    "Url": "https://kevinlu.ai/the-only-important-technology-is-the-internet",
-    "Timestamp": "2025-10-28T01:03:23",
-    "Domain": "kevinlu.ai",
-    "Description": "Although progress in AI is often attributed to landmark papers – such as transformers, RNNs, or diffusion – this ignores the fundamental bottleneck of artifi...",
-    "Confidence": 0.9833606
-  },
-  {
-    "Title": "On having a data object",
-    "Url": "https://www.natemeyvis.com/on-having-a-data-object/",
-    "Timestamp": "2025-10-28T01:03:18",
-    "Domain": "www.natemeyvis.com",
-    "Description": "Here's a common pattern:\n\n\n\n\nPeople  this pattern. Everyone likes the (apparent) simplicity of , and many engineers also think that those objects bring abs...",
-    "Confidence": 0.98386544
-  },
-  {
-    "Title": "building for the future - icy takes",
-    "Url": "https://icy.leaflet.pub/3m47cll72hs25",
-    "Timestamp": "2025-10-28T01:03:15",
-    "Domain": "icy.leaflet.pub",
-    "Description": "on tangled's existence and direction",
-    "Confidence": 0.99193114
-  },
-  {
-    "Title": "The Risk, Effort, Reward System",
-    "Url": "https://blog.woblick.dev/en/2025/risk-effort-reward/",
-    "Timestamp": "2025-10-28T01:03:11",
-    "Domain": "blog.woblick.dev",
-    "Description": "",
-    "Confidence": 0.9901854
-  },
-  {
-    "Title": "Let the little guys in: Towards a context sharing runtime for the personalised web | Arjun Khoosal",
-    "Url": "https://arjun.md/little-guys",
-    "Timestamp": "2025-10-28T01:03:08",
-    "Domain": "arjun.md",
-    "Description": "Arjun's website :)",
-    "Confidence": 0.99244505
-  },
-  {
-    "Title": "Notes on where seat-based pricing is going - Arnon Shimoni",
-    "Url": "https://arnon.dk/notes-on-where-seat-based-pricing-is-going/",
-    "Timestamp": "2025-10-28T01:03:04",
-    "Domain": "arnon.dk",
-    "Description": "Everyone (mostly me) keeps saying seat pricing is dead, and some people are arguing with me online. I think that’s cool, but it’s because they don’t understand why it’s dying. For twenty years, SaaS revenue scaled with headcount.More humans = more seats.That logic held so long that we stopped questioning it. Then the humans disappeared. […]",
-    "Confidence": 0.9876703
-  },
-  {
-    "Title": "Why We Need More Programmers, Not Fewer",
-    "Url": "https://juanreyero.com/article/ai/we-need-more-programmers",
-    "Timestamp": "2025-10-28T01:03:01",
-    "Domain": "juanreyero.com",
-    "Description": "TL/DR The conventional wisdom is that AI will reduce the demand for programmers. I manage engineering teams and program with LLMs every day, and I am seeing something different.\nProgrammers who know how to work with LLMs can be 3-10x faster for specific tasks. Given that the size of our work backlog is only limited by our vision and ambition, these super-productive individuals will be more in demand, not less.",
-    "Confidence": 0.9836732
-  },
-  {
-    "Title": "Dependencies, Inputs, Outputs: My Shortcut To Write Tests",
-    "Url": "https://remy.duthu.org/2025/10/27/dependencies-inputs-outputs.html",
-    "Timestamp": "2025-10-28T01:02:57",
-    "Domain": "remy.duthu.org",
-    "Description": "I often struggle with writing unit tests. Sometimes, everything is clear before I even start coding: I can see the structure, and writing tests from the start feels natural. Those are good days.",
-    "Confidence": 0.9968228
-  },
-  {
-    "Title": "Lessons learned from 2 years of operating a teensy-tiny news archive",
-    "Url": "https://til.andrew-quinn.me/posts/lessons-learned-from-2-years-of-operating-a-tiny-news-archive/",
-    "Timestamp": "2025-10-28T01:02:54",
-    "Domain": "til.andrew-quinn.me",
-    "Description": "I began running\nAndrew’s Selkouutiset Archive\nalmost exactly two years ago, with a simple goal:\nCreate a straightforward way for Finnish language learners\nto access the simple news broadcast by YYYY-MM-DD.\nIt has basically accomplished that goal, with only a few tweaks here\nand there to keep everything running.\nEarlier in the series: Lessons learned from 6 months of operating a teensy-tiny news archive.\nI stand by those points, and have some more to add here at the 24-month\nmark.",
-    "Confidence": 0.93449974
-  },
-  {
-    "Title": "What I want from a National Data Library – Andreas Varotsis",
-    "Url": "https://andreasthinks.me/posts/national-data-library.html",
-    "Timestamp": "2025-10-28T01:02:50",
-    "Domain": "andreasthinks.me",
-    "Description": "I built a tool to fix my local police engagement problem in an hour of café coding. But that was only possible because of a fading public data API from years ago…let’s revive the open data dream with the National Data Library!",
-    "Confidence": 0.9634723
-  },
-  {
-    "Title": "Overwhelmed by Gun Violence",
-    "Url": "https://andys.blog/overwhelmed/",
-    "Timestamp": "2025-10-28T01:02:46",
-    "Domain": "andys.blog",
-    "Description": "I remember shooting a .22 rifle as a kid sometime age 10-14, probably at Camp Minikani or Manito-wish. Also once I fired a shotgun at skeet, but I'm pretty sure I missed every clay pigeon...the details are a bit fuzzy.\n\nFor the first time shooting as an adult at",
-    "Confidence": 0.83886987
-  },
-  {
-    "Title": "How to Make Software for Hardware Engineering",
-    "Url": "https://merriman.industries/how-to-make-software-for-hardware-engineering/",
-    "Timestamp": "2025-10-28T01:02:41",
-    "Domain": "merriman.industries",
-    "Description": "The singular passion of my career has been increasing the broad competency of engineering hardware-based systems. My degree in mechanical engineering - though seemingly less relevant to my daily activities with each passing year - reveals my hardware-centric worldview. I identify as an engineer with an unerringly fierce pride because",
-    "Confidence": 0.9567875
-  },
-  {
-    "Title": "My Experience Using Claude Code with Rolldown",
-    "Url": "https://hyf.me/blog/claude-code-in-rolldown-en",
-    "Timestamp": "2025-10-28T01:02:37",
-    "Domain": "hyf.me",
-    "Description": "Blog post by Yunfei He",
-    "Confidence": 0.98934764
-  },
-  {
-    "Title": "Generalized Consensus: Governing Rules | Multigres",
-    "Url": "https://multigres.com/blog/generalized-consensus-part3",
-    "Timestamp": "2025-10-28T01:02:34",
-    "Domain": "multigres.com",
-    "Description": "As we solve the problem of durability, we will realize that there is a simple set of governing rules that we will be applying repetitively. We will develop these as we progress in our design. However, we will share their entirety upfront.",
-    "Confidence": 0.9950322
-  },
-  {
-    "Title": "Avoid 2:00 and 3:00 am cron jobs! | End Point Dev",
-    "Url": "https://www.endpointdev.com/blog/2013/04/avoid-200-and-300-am-cron-jobs/",
-    "Timestamp": "2025-10-28T01:02:30",
-    "Domain": "www.endpointdev.com",
-    "Description": "A word to the wise: Do not set any cron jobs for 2:00 am or 3:00 am on Sunday morning! Or to be safe, on other mornings besides Sunday as well, since jobs originally set to run on some particular day may eventually be changed to run on another day, or every day.",
-    "Confidence": 0.83958536
-  },
-  {
-    "Title": "Stop Caring So Much About Your People",
-    "Url": "https://avivbenyosef.com/stop-caring-so-much-about-your-people/",
-    "Timestamp": "2025-10-28T01:02:27",
-    "Domain": "avivbenyosef.com",
-    "Description": "Yeah, I said it. Stop caring so much about your people. Not stop caring. Stop over-caring. Stop acting like your team’s happiness is the company’s primary KPI. Because it’s not. You’ve been told fo…",
-    "Confidence": 0.9480225
-  },
-  {
-    "Title": "live public transport routing",
-    "Url": "https://asherfalcon.com/blog/posts/5",
-    "Timestamp": "2025-10-28T01:02:23",
-    "Domain": "asherfalcon.com",
-    "Description": "We've all used a public transit router to find a quick route from A to B, such as Google Maps or CityMapper, but how do they actually work? In this post I will discuss how I tried to build my own public transport routing system for London that supports buses, tubes and trains.",
-    "Confidence": 0.96138674
-  },
-  {
-    "Title": "Ivan Codes & Takes Photos",
-    "Url": "https://www.ivan.codes/thoughts/llms-application-code-vs-terraform",
-    "Timestamp": "2025-10-28T01:02:18",
-    "Domain": "www.ivan.codes",
-    "Description": "Personal website and photoblog of Ivan",
-    "Confidence": 0.9984438
-  },
-  {
-    "Title": "JetKVM - Control any computer remotely",
-    "Url": "https://jetkvm.com/",
-    "Timestamp": "2025-10-28T01:02:14",
-    "Domain": "jetkvm.com",
-    "Description": "Next-gen open-source KVM over IP with ultra-low latency, free cloud access, and unlimited hackability. Professional remote server management for IT pros and developers.",
-    "Confidence": 0.9892232
-  },
-  {
-    "Title": "A Thank You to YC",
-    "Url": "https://www.enbao.me/posts/yc",
-    "Timestamp": "2025-10-28T01:02:10",
-    "Domain": "www.enbao.me",
-    "Description": "thoughts on garry tan's talk",
-    "Confidence": 0.7489449
   }
 ]

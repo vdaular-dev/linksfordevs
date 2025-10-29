@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "Title": "The Illusion of Thinking – JSO",
+    "Url": "https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/",
+    "Timestamp": "2025-10-29T01:03:18",
+    "Domain": "jso.eecs.yorku.ca",
+    "Description": ""
+  },
+  {
+    "Title": "I used Machine Learning to Beat the Roblox Interview Game",
+    "Url": "https://adamkulik.com/blog/kaijugo",
+    "Timestamp": "2025-10-29T01:03:13",
+    "Domain": "adamkulik.com",
+    "Description": "Unlike most other companies, Roblox takes a bit of a different approach when it comes to interviews. Instead of the classic Leetcode coding style assessments, they use problem solving games. One of these games is called Kaiju Cats. It's a game where you control the movement of 3 cats and try to maximize the amount of points they get as they move around the board."
+  },
+  {
+    "Title": "The Cage of Casualness",
+    "Url": "https://blog.jakobschwichtenberg.com/p/the-cage-of-casualness",
+    "Timestamp": "2025-10-29T01:03:08",
+    "Domain": "blog.jakobschwichtenberg.com",
+    "Description": "I. I still remember how shocked I was when I realized that virtually no one at university was serious about studying physics."
+  },
+  {
+    "Title": "David Nicholas Williams",
+    "Url": "https://davidnicholaswilliams.com/my-domain-was-poached/",
+    "Timestamp": "2025-10-29T01:03:04",
+    "Domain": "davidnicholaswilliams.com",
+    "Description": "I decided I'm going to get back blogging and started by updating my photo. I went to do that and discovered my site down and dead to the world for the first time in over 10 years."
+  },
+  {
+    "Title": "When O3 is 2x slower than O2",
+    "Url": "https://cat-solstice.github.io/test-pqueue/",
+    "Timestamp": "2025-10-29T01:03:01",
+    "Domain": "cat-solstice.github.io",
+    "Description": "An deep dive into a pathological case."
+  },
+  {
+    "Title": "Hackable software",
+    "Url": "https://blog.ivnj.org/post/hackable-software",
+    "Timestamp": "2025-10-29T01:02:57",
+    "Domain": "blog.ivnj.org",
+    "Description": "The idea of writing programs for hackers"
+  },
+  {
+    "Title": "So You Want to Be Promoted, Pt. 1",
+    "Url": "https://randsinrepose.com/archives/so-you-want-to-be-promoted-pt-1/",
+    "Timestamp": "2025-10-29T01:02:54",
+    "Domain": "randsinrepose.com",
+    "Description": "My expectation early in my career was that promotions just showed up. You worked hard, and you figured out how to get along with your teammates. Every year or so, my boss would have a one-off conversation with me and alert me that I had a new role along with increased compensation. This hands-off cy"
+  },
+  {
+    "Title": "What Problem Is Traditional RAG Solving?",
+    "Url": "https://www.gojiberries.io/what-problem-is-traditional-rag-solving/",
+    "Timestamp": "2025-10-29T01:02:50",
+    "Domain": "www.gojiberries.io",
+    "Description": "RAG is a solution to a specific technical problem. It helps models trained on broad public text answer questions about specialized domain content without a training loop.\n\nA solution to a technical problem is, however, not the same as a solution to a user problem. To identify cases where traditional"
+  },
+  {
+    "Title": "Async Django: a solution in search of a problem?",
+    "Url": "https://www.loopwerk.io/articles/2025/async-django-why/",
+    "Timestamp": "2025-10-29T01:02:46",
+    "Domain": "www.loopwerk.io",
+    "Description": "While a technical marvel, async Django has been quietly rejected by the community it was built for, with the vast majority of developers sticking to simpler, proven solutions."
+  },
+  {
+    "Title": "Announcing Kindle PDF Annotator",
+    "Url": "https://marcinmilkowski.pl/2025/10/07/announcing-kindle-pdf-annotator/",
+    "Timestamp": "2025-10-29T01:02:41",
+    "Domain": "marcinmilkowski.pl",
+    "Description": "As an academic, I’ve always had a love-hate relationship with PDFs. On one hand, they’re the standard format for research papers, theses, and dissertations. On the other hand, they&#821…"
+  },
+  {
+    "Title": "Reducing binary size of (Rust) programs with debuginfo",
+    "Url": "https://kobzol.github.io/rust/2025/09/22/reducing-binary-size-of-rust-programs-with-debuginfo.html",
+    "Timestamp": "2025-10-29T01:02:33",
+    "Domain": "kobzol.github.io",
+    "Description": "TL;DR: There are some ways how you can reduce the binary size of (Rust) programs that contain debug information."
+  },
+  {
+    "Title": "The House that was Perfect in Every Way but One",
+    "Url": "https://moultano.wordpress.com/2025/10/23/the-house-that-was-perfect-in-every-way-but-one/",
+    "Timestamp": "2025-10-29T01:02:30",
+    "Domain": "moultano.wordpress.com",
+    "Description": "The house has much to recommend it."
+  },
+  {
+    "Title": "Science and Technology News and Commentary: Aardvark Daily",
+    "Url": "https://www.aardvark.co.nz/daily/2025/1028.shtml",
+    "Timestamp": "2025-10-29T01:02:26",
+    "Domain": "www.aardvark.co.nz",
+    "Description": "Aardvark is New Zealand's leading Internet Industry online news publication, reaching thousands of professionals and enthusiasts every day"
+  },
+  {
+    "Title": "idea | Isaac Bowen",
+    "Url": "https://www.isaacbowen.com/2025/10/28/idea",
+    "Timestamp": "2025-10-29T01:02:22",
+    "Domain": "www.isaacbowen.com",
+    "Description": "an idea is a need"
+  },
+  {
+    "Title": "Writing a shader editor for designers",
+    "Url": "https://vladinator.net/blog/shader-editor-part-1/",
+    "Timestamp": "2025-10-29T01:02:18",
+    "Domain": "vladinator.net",
+    "Description": "Composable shader editor for product design using WebGPU. (Shader editor for designers - part 1)"
+  },
+  {
+    "Title": "Lottery + Leverage: A Simple Formula for Designing Your Own Luck",
+    "Url": "https://jordandipietro.com/p/lottery-leverage-a-simple-formula-for-designing-your-own-luck",
+    "Timestamp": "2025-10-29T01:02:14",
+    "Domain": "jordandipietro.com",
+    "Description": "A personal take on privilege, preparation, and the strange math between luck and leverage"
+  }
+]
