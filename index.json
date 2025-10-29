@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Airspeed",
+    "Url": "https://xkcd.com/3161/",
+    "Timestamp": "2025-10-29T22:02:03",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Introducing Dungeon Loom (Text Adventure/Dungeon Map Editor)",
     "Url": "https://retrogamecoders.com/dungeon-loom/",
     "Timestamp": "2025-10-29T21:02:02",
@@ -246,13 +254,5 @@
     "Domain": "arstechnica.com",
     "Description": "Update introduces two ways for the fridges to show ads.",
     "Confidence": 0.7475402
-  },
-  {
-    "Title": "The AirPods Pro 3 Flight Problem — Basic Apple Guy",
-    "Url": "https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem",
-    "Timestamp": "2025-10-28T22:01:59",
-    "Domain": "basicappleguy.com",
-    "Description": "Testing Apple’s latest noise-cancelling earbuds at 39,000 feet reveals a potential flaw most users won’t notice, until they fly.",
-    "Confidence": 0.72488
   }
 ]

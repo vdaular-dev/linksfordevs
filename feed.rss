@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Airspeed</title>
+      <link>https://xkcd.com/3161/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3161/</guid>
+      <pubDate>Wed, 29 Oct 2025 22:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Dungeon Loom (Text Adventure/Dungeon Map Editor)</title>
       <link>https://retrogamecoders.com/dungeon-loom/</link>
       <description>I wrote an online text adventure/dungeon map editor.</description>
@@ -300,13 +308,6 @@ A solution to a technical problem is, however, not the same as a solution to a u
       <description>Update introduces two ways for the fridges to show ads.</description>
       <guid>https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/</guid>
       <pubDate>Tue, 28 Oct 2025 23:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>The AirPods Pro 3 Flight Problem — Basic Apple Guy</title>
-      <link>https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem</link>
-      <description>Testing Apple’s latest noise-cancelling earbuds at 39,000 feet reveals a potential flaw most users won’t notice, until they fly.</description>
-      <guid>https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem</guid>
-      <pubDate>Tue, 28 Oct 2025 22:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
