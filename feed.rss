@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tips for stroke-surviving software engineers</title>
+      <link>https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/</link>
+      <description>This is a pretty niche topic; I don't imagine there are many of us out there.</description>
+      <category>ai</category>
+      <guid>https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/</guid>
+      <pubDate>Wed, 29 Oct 2025 12:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>GenAI Image Showdown</title>
       <link>https://genai-showdown.specr.net/image-editing</link>
       <description>A comparison of various SOTA generative image models on specific prompts and challenges with a strong emphasis placed on adherence.</description>
@@ -341,15 +349,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=5K1NiGtUrhw</guid>
       <pubDate>Tue, 28 Oct 2025 13:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI says over a million people talk to ChatGPT about suicide weekly | TechCrunch</title>
-      <link>https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</link>
-      <description>OpenAI released data on just how many of ChatGPT's users are facing mental health challenges, and how it's addressing them.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</guid>
-      <pubDate>Tue, 28 Oct 2025 12:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
