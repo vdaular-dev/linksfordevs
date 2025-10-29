@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Keep Android Open</title>
+      <link>http://keepandroidopen.org/</link>
+      <description>Advocating for Android as a free, open platform for everyone to build apps on.</description>
+      <category>android</category>
+      <category>web</category>
+      <category>linux</category>
+      <guid>http://keepandroidopen.org/</guid>
+      <pubDate>Wed, 29 Oct 2025 07:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Boring Is What We Wanted - 512 Pixels</title>
       <link>https://512pixels.net/2025/10/boring-is-what-we-wanted/</link>
       <description>We are coming up on five years since the first M1 Macs shipped. It was an incredible time to be a Mac user. Those first Apple silicon Macs looked like the Intel machines they replaced, but they were better in every single way. In December 2020, John Gruber wrote: We knew this to be true: […]</description>
@@ -311,15 +321,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>sql</category>
       <guid>https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/</guid>
       <pubDate>Tue, 28 Oct 2025 12:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Easy RISC-V</title>
-      <link>https://dramforever.github.io/easyriscv/</link>
-      <description>(Last updated: 2025-10-28 06:35)</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://dramforever.github.io/easyriscv/</guid>
-      <pubDate>Tue, 28 Oct 2025 07:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
