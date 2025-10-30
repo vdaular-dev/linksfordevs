@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tailscale Peer Relays: High-throughput relays for secure, flexible networks</title>
+      <link>https://tailscale.com/blog/peer-relays-beta</link>
+      <description>Tailscale Peer Relays provide predictable, performative access, entirely within your own tailnet.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <guid>https://tailscale.com/blog/peer-relays-beta</guid>
+      <pubDate>Thu, 30 Oct 2025 03:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Let Us Open URLs in a Specific Browser Profile</title>
       <link>https://kevin.burke.dev/kevin/open-urls-in-specific-browser-profile/</link>
       <description>Most browsers have the ability to launch different browser profiles.
