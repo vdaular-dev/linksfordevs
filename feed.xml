@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Free software scares normal people—Daniel De Laney</title>
+      <link>https://danieldelaney.net/normal/</link>
+      <description>80% of the people only need 20% of the features.</description>
+      <guid>https://danieldelaney.net/normal/</guid>
+      <pubDate>Thu, 30 Oct 2025 20:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Get Affinity | Pro Power with No Strings Attached</title>
       <link>https://www.affinity.studio/get-affinity</link>
       <description>See how Affinity makes professional design accessible to everyone. Fully featured, and creative freedom for all.</description>
@@ -292,18 +299,6 @@ My idea was that competition would motivate students. Kids ...</description>
       <category>linux</category>
       <guid>https://www.goto10retro.com/p/stella-the-atari-2600-emulator</guid>
       <pubDate>Wed, 29 Oct 2025 21:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>uv is the best thing to happen to the Python ecosystem in a decade - Blog - Dr. Emily L. Hunt</title>
-      <link>https://emily.space/posts/251023-uv</link>
-      <description>Released in 2024, uv is hands-down the best tool for managing Python installations and dependencies. Here's why.</description>
-      <category>python</category>
-      <category>rust</category>
-      <category>apple</category>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://emily.space/posts/251023-uv</guid>
-      <pubDate>Wed, 29 Oct 2025 20:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
