@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Dithering - Part 1",
+    "Url": "https://visualrambling.space/dithering-part-1/",
+    "Timestamp": "2025-10-30T05:02:00",
+    "Domain": "visualrambling.space",
+    "Description": "Understanding how dithering works, visually.",
+    "Confidence": 0.5254522
+  },
+  {
     "Title": "Tailscale Peer Relays: High-throughput relays for secure, flexible networks",
     "Url": "https://tailscale.com/blog/peer-relays-beta",
     "Timestamp": "2025-10-30T03:02:11",
@@ -302,13 +310,5 @@
     "Domain": "keepandroidopen.org",
     "Description": "Advocating for Android as a free, open platform for everyone to build apps on.",
     "Confidence": 0.95036983
-  },
-  {
-    "Title": "Boring Is What We Wanted - 512 Pixels",
-    "Url": "https://512pixels.net/2025/10/boring-is-what-we-wanted/",
-    "Timestamp": "2025-10-29T05:01:59",
-    "Domain": "512pixels.net",
-    "Description": "We are coming up on five years since the first M1 Macs shipped. It was an incredible time to be a Mac user. Those first Apple silicon Macs looked like the Intel machines they replaced, but they were better in every single way. In December 2020, John Gruber wrote: We knew this to be true: […]",
-    "Confidence": 0.96590453
   }
 ]
