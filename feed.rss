@@ -7,6 +7,199 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Workflow for Volatile Cloud Resources – Miloš Švaňa</title>
+      <link>https://svana.name/2025/10/managing-gpu-rentals-with-rsync-workflow-for-volatile-cloud-resources/</link>
+      <description></description>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://svana.name/2025/10/managing-gpu-rentals-with-rsync-workflow-for-volatile-cloud-resources/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stitcher.io</title>
+      <link>https://stitcher.io/blog/my-wishlist-for-php-in-2026</link>
+      <description>A blog about modern PHP, the web, and programming in general. Follow my newsletter and YouTube channel as well.</description>
+      <category>rust</category>
+      <guid>https://stitcher.io/blog/my-wishlist-for-php-in-2026</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stopping kill signals against your eBPF programs</title>
+      <link>https://bomfather.dev/blog/stopping-kill-signals-against-your-ebpf-programs/</link>
+      <description>Death has never been fun, let's avoid it (with eBPF)</description>
+      <category>encryption</category>
+      <guid>https://bomfather.dev/blog/stopping-kill-signals-against-your-ebpf-programs/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unsloth your DGX Spark · Roman Bartusiak</title>
+      <link>https://bartusiak.ai/2025/10/28/unsloth-spark.html</link>
+      <description>The NVIDIA DGX Spark is a powerful little devbox for local model development, boasting 128GB of unified memory despite its compact size. To truly unleash its potential with tools like Unsloth, you need to navigate a few key challenges:</description>
+      <category>containers</category>
+      <category>python</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://bartusiak.ai/2025/10/28/unsloth-spark.html</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Silver Tsunami?</title>
+      <link>https://blog.joelonsdale.com/p/a-silver-tsunami</link>
+      <description>Some thoughts on the future of American small business.</description>
+      <category>ai</category>
+      <guid>https://blog.joelonsdale.com/p/a-silver-tsunami</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nix derivation madness</title>
+      <link>https://fzakaria.com/2025/10/29/nix-derivation-madness</link>
+      <description>I’ve written a bit about Nix and I still face moments where foundational aspects of the package system confounds and surprises me.</description>
+      <category>ruby</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://fzakaria.com/2025/10/29/nix-derivation-madness</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Don’t Need Types in Ruby</title>
+      <link>https://zhisme.com/articles/you-dont-need-types-in-ruby/</link>
+      <description>A critical look at the trend of adding types to Ruby — Sorbet, RBS, and others — and why forcing static typing into a dynamic language misses the point.</description>
+      <category>ruby</category>
+      <category>typescript</category>
+      <category>rust</category>
+      <guid>https://zhisme.com/articles/you-dont-need-types-in-ruby/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Irony of the LLM treadmill</title>
+      <link>https://www.jamespeterson.blog/p/the-irony-of-the-llm-treadmill</link>
+      <description>A strange new burden has crept into software teams: the LLM treadmill. Many models retire within months, so developers now continuously migrate features they only just shipped.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.jamespeterson.blog/p/the-irony-of-the-llm-treadmill</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reliable Django Signals</title>
+      <link>https://hakibenita.com/django-reliable-signals</link>
+      <description>Using background tasks to reliability execute signal receivers</description>
+      <category>git</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://hakibenita.com/django-reliable-signals</guid>
+      <pubDate>Fri, 31 Oct 2025 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are Migrations Good for Your Career?</title>
+      <link>https://www.stevenoxley.com/blog/2025/10/29/are-migrations-good-for-your-career/</link>
+      <description>What is the hardest problem in computer science? Phil Karlton famously quipped, “There are only two hard things in Computer Science: cache invalidation and naming things.” Martin Fowler has a number of variations of this quote on his blog. My favorite is, “There’s two hard problems in computer science: we only have one joke and it’s not funny.”</description>
+      <category>containers</category>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>python</category>
+      <guid>https://www.stevenoxley.com/blog/2025/10/29/are-migrations-good-for-your-career/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Well Does RL Scale? — Toby Ord</title>
+      <link>https://www.tobyord.com/writing/how-well-does-rl-scale</link>
+      <description>The current era of improving AI capabilities using Reinforcement Learning (from verifiable rewards) involves two key types of scaling:    Scaling the amount of compute used for RL during training    Scaling the amount of compute used for inference during deployment    We can see (1) as training the </description>
+      <category>ai</category>
+      <guid>https://www.tobyord.com/writing/how-well-does-rl-scale</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The AGI race is an all‑pay auction. That’s why “over‑investment” is rational.</title>
+      <link>https://blog.cal.vin/p/the-agi-race-is-an-allpay-auction</link>
+      <description>This unprecedented race has an AI bubble built in by design</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://blog.cal.vin/p/the-agi-race-is-an-allpay-auction</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abuse of Notation - writings on math, logic, philosophy and art</title>
+      <link>https://abuseofnotation.github.io/boolean-thinking/</link>
+      <description>In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I want to discuss another instance of the same problem, in a simpler and more direct way. You can think of this essay as a prequel to “When Universality Breaks.”</description>
+      <guid>https://abuseofnotation.github.io/boolean-thinking/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing Casual Ediff</title>
+      <link>http://yummymelon.com/devnull/announcing-casual-ediff.html</link>
+      <description>Truth be told, I find default Ediff to be weird and intimidating compared to other tools that do the same thing, which is to find differences between two files. Like other modes, Ediff is...</description>
+      <category>git</category>
+      <category>web</category>
+      <guid>http://yummymelon.com/devnull/announcing-casual-ediff.html</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Curating and filtering RSS feeds</title>
+      <link>https://blog.balthazar-rouberol.com/curating-and-filtering-rss-feeds</link>
+      <description>RSS feeds are one of my favorite features of the Internet of Yore. Simply put, they allow you to subscribe to sites you like, into an aggregator. Instead of visiting all these sites in search for something new, you simply subscribe to these sites in your aggregator, and you'll see new articles come in. In this article, I present feedzgerald, a small CLI tool used to filter online RSS feeds in order to only subscribe to content you're truly interested in.</description>
+      <category>containers</category>
+      <category>youtube</category>
+      <category>gaming</category>
+      <guid>https://blog.balthazar-rouberol.com/curating-and-filtering-rss-feeds</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hardware to Prove Humanity</title>
+      <link>https://juliver.bearblog.dev/hardware-to-prove-humanity/</link>
+      <description>Over the past couple months, I’ve been working on a hardware+ML approach to prove that a human being is physically present at the moment of an online interac...</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://juliver.bearblog.dev/hardware-to-prove-humanity/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>An underqualified reading list about the transformer architecture</title>
+      <link>https://fvictorio.github.io/posts/underqualified-transformer-reading-list/</link>
+      <description>When I see a list of learning resources, I assume that whoever curated it knows much more about the topic than what I’ll learn. So you wouldn’t be blamed for thinking that I have read 100x the amount of things about the transformer architecture than what I’m sharing here. In reality, that multiplier is shamefully close to 1x. Put another way: I have no idea what I’m talking about.</description>
+      <category>ai</category>
+      <guid>https://fvictorio.github.io/posts/underqualified-transformer-reading-list/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Analyzed 1,000 Top Podcasts: Here's How Often They Actually Publish</title>
+      <link>https://www.adithyan.io/blog/top-podcast-cadence</link>
+      <description>Publishing frequency analysis of the top 1,000 podcasts shows nearly 1 in 5 publish daily, while weekly still dominates.</description>
+      <category>gaming</category>
+      <guid>https://www.adithyan.io/blog/top-podcast-cadence</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context engineering | Chris Loy</title>
+      <link>https://chrisloy.dev/post/2025/08/03/context-engineering</link>
+      <description>
+As our use of LLMs has changed from conversational chatbots and into integral decision-making components
+of complex systems, our inference approach must also evolve.</description>
+      <category>ai</category>
+      <guid>https://chrisloy.dev/post/2025/08/03/context-engineering</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mental Health</title>
+      <link>https://kennethreitz.org/mental-health</link>
+      <description>I have been fairly transparent about my mental health struggles over the years. I have been diagnosed with a number of things, primarily Bipolar I and...</description>
+      <category>ai</category>
+      <guid>https://kennethreitz.org/mental-health</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grokipedia: a first look</title>
+      <link>https://larrysanger.org/2025/10/grokipedia-a-first-look/</link>
+      <description>To begin with my credentials for those who arrive here not knowing who I am: I've started, or helped start, five encyclopedias and meta-encyclopedia projects, including Wikipedia.((I founded Nupedia and Wikipedia, advised the design and launch of Encyclopedia of Earth, founded Citizendium, and found</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>ruby</category>
+      <guid>https://larrysanger.org/2025/10/grokipedia-a-first-look/</guid>
+      <pubDate>Fri, 31 Oct 2025 01:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - ventoy/Ventoy: A new bootable USB solution.</title>
       <link>https://github.com/ventoy/Ventoy</link>
       <description>A new bootable USB solution. Contribute to ventoy/Ventoy development by creating an account on GitHub.</description>

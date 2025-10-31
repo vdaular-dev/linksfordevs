@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "Title": "Workflow for Volatile Cloud Resources – Miloš Švaňa",
+    "Url": "https://svana.name/2025/10/managing-gpu-rentals-with-rsync-workflow-for-volatile-cloud-resources/",
+    "Timestamp": "2025-10-31T01:04:02",
+    "Domain": "svana.name",
+    "Description": ""
+  },
+  {
+    "Title": "Stitcher.io",
+    "Url": "https://stitcher.io/blog/my-wishlist-for-php-in-2026",
+    "Timestamp": "2025-10-31T01:03:53",
+    "Domain": "stitcher.io",
+    "Description": "A blog about modern PHP, the web, and programming in general. Follow my newsletter and YouTube channel as well."
+  },
+  {
+    "Title": "Stopping kill signals against your eBPF programs",
+    "Url": "https://bomfather.dev/blog/stopping-kill-signals-against-your-ebpf-programs/",
+    "Timestamp": "2025-10-31T01:03:37",
+    "Domain": "bomfather.dev",
+    "Description": "Death has never been fun, let's avoid it (with eBPF)"
+  },
+  {
+    "Title": "Unsloth your DGX Spark · Roman Bartusiak",
+    "Url": "https://bartusiak.ai/2025/10/28/unsloth-spark.html",
+    "Timestamp": "2025-10-31T01:03:34",
+    "Domain": "bartusiak.ai",
+    "Description": "The NVIDIA DGX Spark is a powerful little devbox for local model development, boasting 128GB of unified memory despite its compact size. To truly unleash its potential with tools like Unsloth, you need to navigate a few key challenges:"
+  },
+  {
+    "Title": "A Silver Tsunami?",
+    "Url": "https://blog.joelonsdale.com/p/a-silver-tsunami",
+    "Timestamp": "2025-10-31T01:03:30",
+    "Domain": "blog.joelonsdale.com",
+    "Description": "Some thoughts on the future of American small business."
+  },
+  {
+    "Title": "Nix derivation madness",
+    "Url": "https://fzakaria.com/2025/10/29/nix-derivation-madness",
+    "Timestamp": "2025-10-31T01:03:26",
+    "Domain": "fzakaria.com",
+    "Description": "I’ve written a bit about Nix and I still face moments where foundational aspects of the package system confounds and surprises me."
+  },
+  {
+    "Title": "You Don’t Need Types in Ruby",
+    "Url": "https://zhisme.com/articles/you-dont-need-types-in-ruby/",
+    "Timestamp": "2025-10-31T01:03:22",
+    "Domain": "zhisme.com",
+    "Description": "A critical look at the trend of adding types to Ruby — Sorbet, RBS, and others — and why forcing static typing into a dynamic language misses the point."
+  },
+  {
+    "Title": "The Irony of the LLM treadmill",
+    "Url": "https://www.jamespeterson.blog/p/the-irony-of-the-llm-treadmill",
+    "Timestamp": "2025-10-31T01:03:05",
+    "Domain": "www.jamespeterson.blog",
+    "Description": "A strange new burden has crept into software teams: the LLM treadmill. Many models retire within months, so developers now continuously migrate features they only just shipped."
+  },
+  {
+    "Title": "Reliable Django Signals",
+    "Url": "https://hakibenita.com/django-reliable-signals",
+    "Timestamp": "2025-10-31T01:03:00",
+    "Domain": "hakibenita.com",
+    "Description": "Using background tasks to reliability execute signal receivers"
+  },
+  {
+    "Title": "Are Migrations Good for Your Career?",
+    "Url": "https://www.stevenoxley.com/blog/2025/10/29/are-migrations-good-for-your-career/",
+    "Timestamp": "2025-10-31T01:02:55",
+    "Domain": "www.stevenoxley.com",
+    "Description": "What is the hardest problem in computer science? Phil Karlton famously quipped, “There are only two hard things in Computer Science: cache invalidation and naming things.” Martin Fowler has a number of variations of this quote on his blog. My favorite is, “There’s two hard problems in computer science: we only have one joke and it’s not funny.”"
+  },
+  {
+    "Title": "How Well Does RL Scale? — Toby Ord",
+    "Url": "https://www.tobyord.com/writing/how-well-does-rl-scale",
+    "Timestamp": "2025-10-31T01:02:51",
+    "Domain": "www.tobyord.com",
+    "Description": "The current era of improving AI capabilities using Reinforcement Learning (from verifiable rewards) involves two key types of scaling:    Scaling the amount of compute used for RL during training    Scaling the amount of compute used for inference during deployment    We can see (1) as training the "
+  },
+  {
+    "Title": "The AGI race is an all‑pay auction. That’s why “over‑investment” is rational.",
+    "Url": "https://blog.cal.vin/p/the-agi-race-is-an-allpay-auction",
+    "Timestamp": "2025-10-31T01:02:47",
+    "Domain": "blog.cal.vin",
+    "Description": "This unprecedented race has an AI bubble built in by design"
+  },
+  {
+    "Title": "Abuse of Notation - writings on math, logic, philosophy and art",
+    "Url": "https://abuseofnotation.github.io/boolean-thinking/",
+    "Timestamp": "2025-10-31T01:02:43",
+    "Domain": "abuseofnotation.github.io",
+    "Description": "In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I want to discuss another instance of the same problem, in a simpler and more direct way. You can think of this essay as a prequel to “When Universality Breaks.”"
+  },
+  {
+    "Title": "Announcing Casual Ediff",
+    "Url": "http://yummymelon.com/devnull/announcing-casual-ediff.html",
+    "Timestamp": "2025-10-31T01:02:39",
+    "Domain": "yummymelon.com",
+    "Description": "Truth be told, I find default Ediff to be weird and intimidating compared to other tools that do the same thing, which is to find differences between two files. Like other modes, Ediff is..."
+  },
+  {
+    "Title": "Curating and filtering RSS feeds",
+    "Url": "https://blog.balthazar-rouberol.com/curating-and-filtering-rss-feeds",
+    "Timestamp": "2025-10-31T01:02:36",
+    "Domain": "blog.balthazar-rouberol.com",
+    "Description": "RSS feeds are one of my favorite features of the Internet of Yore. Simply put, they allow you to subscribe to sites you like, into an aggregator. Instead of visiting all these sites in search for something new, you simply subscribe to these sites in your aggregator, and you'll see new articles come in. In this article, I present feedzgerald, a small CLI tool used to filter online RSS feeds in order to only subscribe to content you're truly interested in."
+  },
+  {
+    "Title": "Hardware to Prove Humanity",
+    "Url": "https://juliver.bearblog.dev/hardware-to-prove-humanity/",
+    "Timestamp": "2025-10-31T01:02:31",
+    "Domain": "juliver.bearblog.dev",
+    "Description": "Over the past couple months, I’ve been working on a hardware+ML approach to prove that a human being is physically present at the moment of an online interac..."
+  },
+  {
+    "Title": "An underqualified reading list about the transformer architecture",
+    "Url": "https://fvictorio.github.io/posts/underqualified-transformer-reading-list/",
+    "Timestamp": "2025-10-31T01:02:27",
+    "Domain": "fvictorio.github.io",
+    "Description": "When I see a list of learning resources, I assume that whoever curated it knows much more about the topic than what I’ll learn. So you wouldn’t be blamed for thinking that I have read 100x the amount of things about the transformer architecture than what I’m sharing here. In reality, that multiplier is shamefully close to 1x. Put another way: I have no idea what I’m talking about."
+  },
+  {
+    "Title": "I Analyzed 1,000 Top Podcasts: Here's How Often They Actually Publish",
+    "Url": "https://www.adithyan.io/blog/top-podcast-cadence",
+    "Timestamp": "2025-10-31T01:02:23",
+    "Domain": "www.adithyan.io",
+    "Description": "Publishing frequency analysis of the top 1,000 podcasts shows nearly 1 in 5 publish daily, while weekly still dominates."
+  },
+  {
+    "Title": "Context engineering | Chris Loy",
+    "Url": "https://chrisloy.dev/post/2025/08/03/context-engineering",
+    "Timestamp": "2025-10-31T01:02:20",
+    "Domain": "chrisloy.dev",
+    "Description": "\nAs our use of LLMs has changed from conversational chatbots and into integral decision-making components\nof complex systems, our inference approach must also evolve."
+  },
+  {
+    "Title": "Mental Health",
+    "Url": "https://kennethreitz.org/mental-health",
+    "Timestamp": "2025-10-31T01:02:16",
+    "Domain": "kennethreitz.org",
+    "Description": "I have been fairly transparent about my mental health struggles over the years. I have been diagnosed with a number of things, primarily Bipolar I and..."
+  },
+  {
+    "Title": "Grokipedia: a first look",
+    "Url": "https://larrysanger.org/2025/10/grokipedia-a-first-look/",
+    "Timestamp": "2025-10-31T01:02:12",
+    "Domain": "larrysanger.org",
+    "Description": "To begin with my credentials for those who arrive here not knowing who I am: I've started, or helped start, five encyclopedias and meta-encyclopedia projects, including Wikipedia.((I founded Nupedia and Wikipedia, advised the design and launch of Encyclopedia of Earth, founded Citizendium, and found"
+  }
+]
