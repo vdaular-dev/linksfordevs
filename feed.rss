@@ -7,6 +7,181 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>First impressions of the Advertising Context Protocol (AdCP) – Notes by Dennis Yurkevich</title>
+      <link>https://dennisy.me/notes/first-impressions-of-adcp</link>
+      <description>A first look at the AdCP protocol and its implications for the industry.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://dennisy.me/notes/first-impressions-of-adcp</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Friendly Attributes Pattern - Bruno Sutic</title>
+      <link>https://brunosutic.com/blog/ruby-friendly-attributes-pattern</link>
+      <description>Friendly Attributes pattern enables writing human-friendly attributes with compact and flexible syntax.</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <guid>https://brunosutic.com/blog/ruby-friendly-attributes-pattern</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Thinking to Knowing: Using Natural Language Confidence From LLM Thought Processes</title>
+      <link>https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/</link>
+      <description>“And this is wisdom and temperance and self-knowledge — for a man to know what he knows, and what he does not know.” - Plato, Charmides
+“To say you know when you know, and to say you do not when you do not — that is knowledge.” - Confucius
+Special thanks to Yash Sharma for a lot of valuable feedback on my idea and evaluation methodology
+Research code: https://github.com/pranavc28/thought-engineering-and-self-awareness
+Claim Thought engineering techniques (overthinking and automated confidence refinement) improve multi-classification performance across all model architectures. The purpose of this blog is to explain these terms, and prove why this is true.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Take-Home Exercises</title>
+      <link>https://justoffbyone.com/posts/take-home-exercises/</link>
+      <description>How to design effective take-home exercises that assess both ability and interest, with practical guidelines on scope, payment, and AI-assisted work</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://justoffbyone.com/posts/take-home-exercises/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Analyzed 1,000 Top Podcasts: Here's How Long Their Episodes Actually Are</title>
+      <link>https://www.adithyan.io/blog/how-long-top-podcasts-run</link>
+      <description>Episode length analysis of the top 1,000 podcasts reveals surprising patterns across different publishing frequencies.</description>
+      <guid>https://www.adithyan.io/blog/how-long-top-podcasts-run</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>A theoretical way to circumvent Android developer verification</title>
+      <link>https://enaix.github.io/2025/10/30/developer-verification.html</link>
+      <description>A private blog</description>
+      <category>android</category>
+      <guid>https://enaix.github.io/2025/10/30/developer-verification.html</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Heart Mountain</title>
+      <link>https://xkcd.com/3162/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3162/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why plain text + SQLite beat every cloud note app for my workflow - Mirat Can Bayrak</title>
+      <link>https://mirat.dev/articles/nine-years-of-kaydet/</link>
+      <description>How I built and evolved Kaydet, a terminal-native personal diary with AI integration, over nine years—from simple Python wrapper to structured metadata and SQLite search.</description>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://mirat.dev/articles/nine-years-of-kaydet/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blogging with Jekyll in 2025</title>
+      <link>https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html</link>
+      <description>Wait wait wait I know it’s not flashy. I decided to start blogging, now… 25 years after everyone else.</description>
+      <category>nodejs</category>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>I’m writing another book!</title>
+      <link>https://ericlippert.com/2025/10/30/im-writing-another-book/</link>
+      <description>Hey everyone, I’ve finally turned this blog into a book! Or, rather, I am deep in the process of turning this blog into a book. Yes, it’s about 20 years, give or take, after I first tho…</description>
+      <guid>https://ericlippert.com/2025/10/30/im-writing-another-book/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rotating Workforce Scheduling in MiniZinc - zayenz.se</title>
+      <link>https://zayenz.se/blog/post/rotating-workforce-scheduling/</link>
+      <description>Personal website with research, publications, and blog</description>
+      <category>conference</category>
+      <guid>https://zayenz.se/blog/post/rotating-workforce-scheduling/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>The S&amp;P 500 Is a Hyperstition</title>
+      <link>https://pilledtexts.com/the-smpt500-is-a-hyperstition/</link>
+      <description>The concept of hyperstition, originating with the Cybernetic Culture Research Unit, posits that fictions and beliefs are not merely predictive of the future, but actively cause it. The CCRU also...</description>
+      <category>ai</category>
+      <guid>https://pilledtexts.com/the-smpt500-is-a-hyperstition/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Evil Plan if I Were Mark Zuckerberg</title>
+      <link>https://newbeelearn.com/blog/marks-evil-plan/</link>
+      <description>leaked secret plan of mark zuckerberg</description>
+      <category>ai</category>
+      <guid>https://newbeelearn.com/blog/marks-evil-plan/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Closure captures</title>
+      <link>https://andwass.github.io/rust/2025/10/23/closure-captures.html</link>
+      <description>There have been some discussions on how to make closure captures more ergonomic. For a background on motivation and a discusson on what I perceive to be the current way forward I recommend reading this blog post.</description>
+      <category>rust</category>
+      <guid>https://andwass.github.io/rust/2025/10/23/closure-captures.html</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>setHTML(), Trusted Types and the Sanitizer API</title>
+      <link>https://olliewilliams.xyz/blog/sanitizer/</link>
+      <description>Avoiding cross-site scripting (XSS) attacks with new web APIs</description>
+      <category>web</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://olliewilliams.xyz/blog/sanitizer/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systems Don't Exist But Definitions Do</title>
+      <link>https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html</link>
+      <description>experiments around clojure</description>
+      <guid>https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Animals could easily be talking to us if we tried</title>
+      <link>https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried</link>
+      <description>Where Evan discusses the simple process to make animals talk</description>
+      <category>ai</category>
+      <guid>https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Infrastructure Stack Is Getting Faster. Terraform Is Not.</title>
+      <link>https://stategraph.dev/blog/terraform-is-not-getting-faster</link>
+      <description>Every part of the stack is accelerating except infrastructure. Terraform has the ecosystem but not the speed. That's fixable.</description>
+      <author> (Josh Pollara)</author>
+      <category>containers</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <guid>https://stategraph.dev/blog/terraform-is-not-getting-faster</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't give Postgres too much memory</title>
+      <link>https://vondra.me/posts/dont-give-postgres-too-much-memory/</link>
+      <description>Can it be harmful to set maintenance_work_mem and work_mem limits very high?</description>
+      <category>cloud</category>
+      <guid>https://vondra.me/posts/dont-give-postgres-too-much-memory/</guid>
+      <pubDate>Sat, 01 Nov 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Cases for Field Sizing</title>
       <link>https://ishadeed.com/article/field-sizing/</link>
       <description>A quick look at field-sizing and where it can be used.</description>
@@ -73,199 +248,6 @@ It’s nothing special nowadays, but at the time, it must have appeared really a
       <description>For years, one of my businesses has been a regular user of Wise (formerly TransferWise). Wise is a financial service that lets you send and receive money across currencies, often at a better rate and lower fee than traditional banks. Sounds great, right?</description>
       <guid>https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/</guid>
       <pubDate>Fri, 31 Oct 2025 07:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Workflow for Volatile Cloud Resources – Miloš Švaňa</title>
-      <link>https://svana.name/2025/10/managing-gpu-rentals-with-rsync-workflow-for-volatile-cloud-resources/</link>
-      <description></description>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://svana.name/2025/10/managing-gpu-rentals-with-rsync-workflow-for-volatile-cloud-resources/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stitcher.io</title>
-      <link>https://stitcher.io/blog/my-wishlist-for-php-in-2026</link>
-      <description>A blog about modern PHP, the web, and programming in general. Follow my newsletter and YouTube channel as well.</description>
-      <category>rust</category>
-      <guid>https://stitcher.io/blog/my-wishlist-for-php-in-2026</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stopping kill signals against your eBPF programs</title>
-      <link>https://bomfather.dev/blog/stopping-kill-signals-against-your-ebpf-programs/</link>
-      <description>Death has never been fun, let's avoid it (with eBPF)</description>
-      <category>encryption</category>
-      <guid>https://bomfather.dev/blog/stopping-kill-signals-against-your-ebpf-programs/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unsloth your DGX Spark · Roman Bartusiak</title>
-      <link>https://bartusiak.ai/2025/10/28/unsloth-spark.html</link>
-      <description>The NVIDIA DGX Spark is a powerful little devbox for local model development, boasting 128GB of unified memory despite its compact size. To truly unleash its potential with tools like Unsloth, you need to navigate a few key challenges:</description>
-      <category>containers</category>
-      <category>python</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://bartusiak.ai/2025/10/28/unsloth-spark.html</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Silver Tsunami?</title>
-      <link>https://blog.joelonsdale.com/p/a-silver-tsunami</link>
-      <description>Some thoughts on the future of American small business.</description>
-      <category>ai</category>
-      <guid>https://blog.joelonsdale.com/p/a-silver-tsunami</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nix derivation madness</title>
-      <link>https://fzakaria.com/2025/10/29/nix-derivation-madness</link>
-      <description>I’ve written a bit about Nix and I still face moments where foundational aspects of the package system confounds and surprises me.</description>
-      <category>ruby</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://fzakaria.com/2025/10/29/nix-derivation-madness</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Don’t Need Types in Ruby</title>
-      <link>https://zhisme.com/articles/you-dont-need-types-in-ruby/</link>
-      <description>A critical look at the trend of adding types to Ruby — Sorbet, RBS, and others — and why forcing static typing into a dynamic language misses the point.</description>
-      <category>ruby</category>
-      <category>typescript</category>
-      <category>rust</category>
-      <guid>https://zhisme.com/articles/you-dont-need-types-in-ruby/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Irony of the LLM treadmill</title>
-      <link>https://www.jamespeterson.blog/p/the-irony-of-the-llm-treadmill</link>
-      <description>A strange new burden has crept into software teams: the LLM treadmill. Many models retire within months, so developers now continuously migrate features they only just shipped.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.jamespeterson.blog/p/the-irony-of-the-llm-treadmill</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reliable Django Signals</title>
-      <link>https://hakibenita.com/django-reliable-signals</link>
-      <description>Using background tasks to reliability execute signal receivers</description>
-      <category>git</category>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://hakibenita.com/django-reliable-signals</guid>
-      <pubDate>Fri, 31 Oct 2025 01:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Migrations Good for Your Career?</title>
-      <link>https://www.stevenoxley.com/blog/2025/10/29/are-migrations-good-for-your-career/</link>
-      <description>What is the hardest problem in computer science? Phil Karlton famously quipped, “There are only two hard things in Computer Science: cache invalidation and naming things.” Martin Fowler has a number of variations of this quote on his blog. My favorite is, “There’s two hard problems in computer science: we only have one joke and it’s not funny.”</description>
-      <category>containers</category>
-      <category>sql</category>
-      <category>cloud</category>
-      <category>python</category>
-      <guid>https://www.stevenoxley.com/blog/2025/10/29/are-migrations-good-for-your-career/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Well Does RL Scale? — Toby Ord</title>
-      <link>https://www.tobyord.com/writing/how-well-does-rl-scale</link>
-      <description>The current era of improving AI capabilities using Reinforcement Learning (from verifiable rewards) involves two key types of scaling:    Scaling the amount of compute used for RL during training    Scaling the amount of compute used for inference during deployment    We can see (1) as training the </description>
-      <category>ai</category>
-      <guid>https://www.tobyord.com/writing/how-well-does-rl-scale</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The AGI race is an all‑pay auction. That’s why “over‑investment” is rational.</title>
-      <link>https://blog.cal.vin/p/the-agi-race-is-an-allpay-auction</link>
-      <description>This unprecedented race has an AI bubble built in by design</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://blog.cal.vin/p/the-agi-race-is-an-allpay-auction</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Abuse of Notation - writings on math, logic, philosophy and art</title>
-      <link>https://abuseofnotation.github.io/boolean-thinking/</link>
-      <description>In my last post about generality, I tried to show how our ambition to discover ideas that are all-encompassing and eternal makes our worldview crumble, leaving us unable to think clearly even about simple issues with obvious solutions. Today, I want to discuss another instance of the same problem, in a simpler and more direct way. You can think of this essay as a prequel to “When Universality Breaks.”</description>
-      <guid>https://abuseofnotation.github.io/boolean-thinking/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Announcing Casual Ediff</title>
-      <link>http://yummymelon.com/devnull/announcing-casual-ediff.html</link>
-      <description>Truth be told, I find default Ediff to be weird and intimidating compared to other tools that do the same thing, which is to find differences between two files. Like other modes, Ediff is...</description>
-      <category>git</category>
-      <category>web</category>
-      <guid>http://yummymelon.com/devnull/announcing-casual-ediff.html</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Curating and filtering RSS feeds</title>
-      <link>https://blog.balthazar-rouberol.com/curating-and-filtering-rss-feeds</link>
-      <description>RSS feeds are one of my favorite features of the Internet of Yore. Simply put, they allow you to subscribe to sites you like, into an aggregator. Instead of visiting all these sites in search for something new, you simply subscribe to these sites in your aggregator, and you'll see new articles come in. In this article, I present feedzgerald, a small CLI tool used to filter online RSS feeds in order to only subscribe to content you're truly interested in.</description>
-      <category>containers</category>
-      <category>youtube</category>
-      <category>gaming</category>
-      <guid>https://blog.balthazar-rouberol.com/curating-and-filtering-rss-feeds</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hardware to Prove Humanity</title>
-      <link>https://juliver.bearblog.dev/hardware-to-prove-humanity/</link>
-      <description>Over the past couple months, I’ve been working on a hardware+ML approach to prove that a human being is physically present at the moment of an online interac...</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://juliver.bearblog.dev/hardware-to-prove-humanity/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>An underqualified reading list about the transformer architecture</title>
-      <link>https://fvictorio.github.io/posts/underqualified-transformer-reading-list/</link>
-      <description>When I see a list of learning resources, I assume that whoever curated it knows much more about the topic than what I’ll learn. So you wouldn’t be blamed for thinking that I have read 100x the amount of things about the transformer architecture than what I’m sharing here. In reality, that multiplier is shamefully close to 1x. Put another way: I have no idea what I’m talking about.</description>
-      <category>ai</category>
-      <guid>https://fvictorio.github.io/posts/underqualified-transformer-reading-list/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Analyzed 1,000 Top Podcasts: Here's How Often They Actually Publish</title>
-      <link>https://www.adithyan.io/blog/top-podcast-cadence</link>
-      <description>Publishing frequency analysis of the top 1,000 podcasts shows nearly 1 in 5 publish daily, while weekly still dominates.</description>
-      <category>gaming</category>
-      <guid>https://www.adithyan.io/blog/top-podcast-cadence</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Context engineering | Chris Loy</title>
-      <link>https://chrisloy.dev/post/2025/08/03/context-engineering</link>
-      <description>
-As our use of LLMs has changed from conversational chatbots and into integral decision-making components
-of complex systems, our inference approach must also evolve.</description>
-      <category>ai</category>
-      <guid>https://chrisloy.dev/post/2025/08/03/context-engineering</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mental Health</title>
-      <link>https://kennethreitz.org/mental-health</link>
-      <description>I have been fairly transparent about my mental health struggles over the years. I have been diagnosed with a number of things, primarily Bipolar I and...</description>
-      <category>ai</category>
-      <guid>https://kennethreitz.org/mental-health</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grokipedia: a first look</title>
-      <link>https://larrysanger.org/2025/10/grokipedia-a-first-look/</link>
-      <description>To begin with my credentials for those who arrive here not knowing who I am: I've started, or helped start, five encyclopedias and meta-encyclopedia projects, including Wikipedia.((I founded Nupedia and Wikipedia, advised the design and launch of Encyclopedia of Earth, founded Citizendium, and found</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>ruby</category>
-      <guid>https://larrysanger.org/2025/10/grokipedia-a-first-look/</guid>
-      <pubDate>Fri, 31 Oct 2025 01:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

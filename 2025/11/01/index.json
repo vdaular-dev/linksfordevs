@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "Title": "First impressions of the Advertising Context Protocol (AdCP) – Notes by Dennis Yurkevich",
+    "Url": "https://dennisy.me/notes/first-impressions-of-adcp",
+    "Timestamp": "2025-11-01T01:03:28",
+    "Domain": "dennisy.me",
+    "Description": "A first look at the AdCP protocol and its implications for the industry."
+  },
+  {
+    "Title": "Friendly Attributes Pattern - Bruno Sutic",
+    "Url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
+    "Timestamp": "2025-11-01T01:03:24",
+    "Domain": "brunosutic.com",
+    "Description": "Friendly Attributes pattern enables writing human-friendly attributes with compact and flexible syntax."
+  },
+  {
+    "Title": "From Thinking to Knowing: Using Natural Language Confidence From LLM Thought Processes",
+    "Url": "https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/",
+    "Timestamp": "2025-11-01T01:03:19",
+    "Domain": "pranavc28.github.io",
+    "Description": "“And this is wisdom and temperance and self-knowledge — for a man to know what he knows, and what he does not know.” - Plato, Charmides\n“To say you know when you know, and to say you do not when you do not — that is knowledge.” - Confucius\nSpecial thanks to Yash Sharma for a lot of valuable feedback on my idea and evaluation methodology\nResearch code: https://github.com/pranavc28/thought-engineering-and-self-awareness\nClaim Thought engineering techniques (overthinking and automated confidence refinement) improve multi-classification performance across all model architectures. The purpose of this blog is to explain these terms, and prove why this is true."
+  },
+  {
+    "Title": "Take-Home Exercises",
+    "Url": "https://justoffbyone.com/posts/take-home-exercises/",
+    "Timestamp": "2025-11-01T01:03:16",
+    "Domain": "justoffbyone.com",
+    "Description": "How to design effective take-home exercises that assess both ability and interest, with practical guidelines on scope, payment, and AI-assisted work"
+  },
+  {
+    "Title": "I Analyzed 1,000 Top Podcasts: Here's How Long Their Episodes Actually Are",
+    "Url": "https://www.adithyan.io/blog/how-long-top-podcasts-run",
+    "Timestamp": "2025-11-01T01:03:12",
+    "Domain": "www.adithyan.io",
+    "Description": "Episode length analysis of the top 1,000 podcasts reveals surprising patterns across different publishing frequencies."
+  },
+  {
+    "Title": "A theoretical way to circumvent Android developer verification",
+    "Url": "https://enaix.github.io/2025/10/30/developer-verification.html",
+    "Timestamp": "2025-11-01T01:03:09",
+    "Domain": "enaix.github.io",
+    "Description": "A private blog"
+  },
+  {
+    "Title": "Heart Mountain",
+    "Url": "https://xkcd.com/3162/",
+    "Timestamp": "2025-11-01T01:03:06",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Why plain text + SQLite beat every cloud note app for my workflow - Mirat Can Bayrak",
+    "Url": "https://mirat.dev/articles/nine-years-of-kaydet/",
+    "Timestamp": "2025-11-01T01:03:03",
+    "Domain": "mirat.dev",
+    "Description": "How I built and evolved Kaydet, a terminal-native personal diary with AI integration, over nine years—from simple Python wrapper to structured metadata and SQLite search."
+  },
+  {
+    "Title": "Blogging with Jekyll in 2025",
+    "Url": "https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html",
+    "Timestamp": "2025-11-01T01:02:59",
+    "Domain": "remy.duthu.org",
+    "Description": "Wait wait wait I know it’s not flashy. I decided to start blogging, now… 25 years after everyone else."
+  },
+  {
+    "Title": "I’m writing another book!",
+    "Url": "https://ericlippert.com/2025/10/30/im-writing-another-book/",
+    "Timestamp": "2025-11-01T01:02:56",
+    "Domain": "ericlippert.com",
+    "Description": "Hey everyone, I’ve finally turned this blog into a book! Or, rather, I am deep in the process of turning this blog into a book. Yes, it’s about 20 years, give or take, after I first tho…"
+  },
+  {
+    "Title": "Rotating Workforce Scheduling in MiniZinc - zayenz.se",
+    "Url": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
+    "Timestamp": "2025-11-01T01:02:52",
+    "Domain": "zayenz.se",
+    "Description": "Personal website with research, publications, and blog"
+  },
+  {
+    "Title": "The S&P 500 Is a Hyperstition",
+    "Url": "https://pilledtexts.com/the-smpt500-is-a-hyperstition/",
+    "Timestamp": "2025-11-01T01:02:48",
+    "Domain": "pilledtexts.com",
+    "Description": "The concept of hyperstition, originating with the Cybernetic Culture Research Unit, posits that fictions and beliefs are not merely predictive of the future, but actively cause it. The CCRU also..."
+  },
+  {
+    "Title": "My Evil Plan if I Were Mark Zuckerberg",
+    "Url": "https://newbeelearn.com/blog/marks-evil-plan/",
+    "Timestamp": "2025-11-01T01:02:44",
+    "Domain": "newbeelearn.com",
+    "Description": "leaked secret plan of mark zuckerberg"
+  },
+  {
+    "Title": "Closure captures",
+    "Url": "https://andwass.github.io/rust/2025/10/23/closure-captures.html",
+    "Timestamp": "2025-11-01T01:02:41",
+    "Domain": "andwass.github.io",
+    "Description": "There have been some discussions on how to make closure captures more ergonomic. For a background on motivation and a discusson on what I perceive to be the current way forward I recommend reading this blog post."
+  },
+  {
+    "Title": "setHTML(), Trusted Types and the Sanitizer API",
+    "Url": "https://olliewilliams.xyz/blog/sanitizer/",
+    "Timestamp": "2025-11-01T01:02:38",
+    "Domain": "olliewilliams.xyz",
+    "Description": "Avoiding cross-site scripting (XSS) attacks with new web APIs"
+  },
+  {
+    "Title": "Systems Don't Exist But Definitions Do",
+    "Url": "https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html",
+    "Timestamp": "2025-11-01T01:02:34",
+    "Domain": "tangrammer.codeberg.page",
+    "Description": "experiments around clojure"
+  },
+  {
+    "Title": "Animals could easily be talking to us if we tried",
+    "Url": "https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried",
+    "Timestamp": "2025-11-01T01:02:30",
+    "Domain": "evanverma.com",
+    "Description": "Where Evan discusses the simple process to make animals talk"
+  },
+  {
+    "Title": "The Infrastructure Stack Is Getting Faster. Terraform Is Not.",
+    "Url": "https://stategraph.dev/blog/terraform-is-not-getting-faster",
+    "Timestamp": "2025-11-01T01:02:27",
+    "Domain": "stategraph.dev",
+    "Description": "Every part of the stack is accelerating except infrastructure. Terraform has the ecosystem but not the speed. That's fixable."
+  },
+  {
+    "Title": "Don't give Postgres too much memory",
+    "Url": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
+    "Timestamp": "2025-11-01T01:02:22",
+    "Domain": "vondra.me",
+    "Description": "Can it be harmful to set maintenance_work_mem and work_mem limits very high?"
+  }
+]
