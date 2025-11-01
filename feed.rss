@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>609 - Futurelock / RFD</title>
+      <link>https://rfd.shared.oxide.computer/rfd/0609</link>
+      <description>This RFD describes futurelock: a type of deadlock where a resource owned by Future A is required for another Future B to proceed, while the Task responsible for both Futures is no longer polling A.  Futurelock is a particularly subtle risk in writing asynchronous Rust.</description>
+      <category>rust</category>
+      <category>vscode</category>
+      <guid>https://rfd.shared.oxide.computer/rfd/0609</guid>
+      <pubDate>Sat, 01 Nov 2025 02:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>First impressions of the Advertising Context Protocol (AdCP) – Notes by Dennis Yurkevich</title>
       <link>https://dennisy.me/notes/first-impressions-of-adcp</link>
       <description>A first look at the AdCP protocol and its implications for the industry.</description>
