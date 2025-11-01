@@ -7,6 +7,47 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Iterative Lightmap Updates for Scene Editing</title>
+      <link>https://momentsingraphics.de/PG2025.html</link>
+      <description>Guowei Lu, Christoph Peters, Petr Kellnhofer, Elmar Eisemann. 
+2025–10 in Pacific Graphics Conference Papers, Posters, and Demos. The Eurographics Association.
+Official version</description>
+      <category>web</category>
+      <guid>https://momentsingraphics.de/PG2025.html</guid>
+      <pubDate>Sat, 01 Nov 2025 22:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drowning in AI Code Review Noise? A Framework to Measure Signal vs. Noise</title>
+      <link>https://jetxu-llm.github.io/posts/low-noise-code-review/</link>
+      <description>Most AI code review tools generate 10-20 comments per PR. The problem? 80% are noise. Here’s a framework for measuring signal-to-noise ratio in code reviews - and why it matters more than you think.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://jetxu-llm.github.io/posts/low-noise-code-review/</guid>
+      <pubDate>Sat, 01 Nov 2025 22:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Retro Pixel Image Editor</title>
+      <link>https://retrogamecoders.com/retro-pixel-image-editor/</link>
+      <description>I made a retro pixel art bitmap image editor that works in your web browser</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>linux</category>
+      <guid>https://retrogamecoders.com/retro-pixel-image-editor/</guid>
+      <pubDate>Sat, 01 Nov 2025 22:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jackknife Transmittance and MIS Weight Estimation</title>
+      <link>https://momentsingraphics.de/SiggraphAsia2025.html</link>
+      <description>Christoph Peters. 
+2025–12 in ACM Transactions on Graphics (Proc. SIGGRAPH Asia) 44, 6.
+Official version</description>
+      <category>web</category>
+      <guid>https://momentsingraphics.de/SiggraphAsia2025.html</guid>
+      <pubDate>Sat, 01 Nov 2025 22:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Hard Rust requirements from May onward</title>
       <link>https://lists.debian.org/debian-devel/2025/10/msg00285.html</link>
       <description>Attachment:
@@ -249,15 +290,6 @@ Claim Thought engineering techniques (overthinking and automated confidence refi
       <category>cloud</category>
       <guid>https://vondra.me/posts/dont-give-postgres-too-much-memory/</guid>
       <pubDate>Sat, 01 Nov 2025 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use Cases for Field Sizing</title>
-      <link>https://ishadeed.com/article/field-sizing/</link>
-      <description>A quick look at field-sizing and where it can be used.</description>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://ishadeed.com/article/field-sizing/</guid>
-      <pubDate>Fri, 31 Oct 2025 22:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
