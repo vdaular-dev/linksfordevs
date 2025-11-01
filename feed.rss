@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hard Rust requirements from May onward</title>
+      <link>https://lists.debian.org/debian-devel/2025/10/msg00285.html</link>
+      <description>Attachment:
+signature.asc
+Description: PGP signature</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://lists.debian.org/debian-devel/2025/10/msg00285.html</guid>
+      <pubDate>Sat, 01 Nov 2025 20:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chat control proposal fails again after massive public opposition</title>
+      <link>https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/</link>
+      <description>The European Union’s controversial Chat Control proposal has been withdrawn once again following intense public pressure. This marks another defeat for legislation that would have mandated scanning of encrypted messages across the EU.</description>
+      <category>encryption</category>
+      <guid>https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/</guid>
+      <pubDate>Sat, 01 Nov 2025 20:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Updated Practice for Review Articles and Position Papers in arXiv CS Category – arXiv blog</title>
       <link>https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/</link>
       <description>arXiv’s computer science (CS) category has updated its moderation practice with respect to review (or survey) articles and position papers. Before being considered for submission to arXiv’s CS category, review articles and position papers must now be accepted at a journal or a conference and complete successful peer review. When submitting review articles or position papers, authors must include documentation of successful peer review to receive full consideration. Review/survey articles or position papers submitted to arXiv without this documentation will be likely to be rejected and not appear on arXiv.
