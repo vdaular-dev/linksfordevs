@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Just use a button</title>
+      <link>https://gomakethings.com/just-use-a-button/</link>
+      <description>One of the weirdest “debates” I seem to perpetually have with framework-enthusiastic developers is whether or not a &lt;div&gt; is “just as good” as a &lt;button&gt;.
+Spoiler: it’s not. Let’s dig in.
+The problem Among the React crowd, and also among people who seem to enjoy HTMX, I see a lot this…
+&lt;div onclick="showSignIn()"&gt; Open Modal &lt;/div&gt;function showSignIn () { // Code to show the sign-in modal. 	// The details of what happens here vary by stack.</description>
+      <category>web</category>
+      <guid>https://gomakethings.com/just-use-a-button/</guid>
+      <pubDate>Sat, 01 Nov 2025 05:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>609 - Futurelock / RFD</title>
       <link>https://rfd.shared.oxide.computer/rfd/0609</link>
       <description>This RFD describes futurelock: a type of deadlock where a resource owned by Future A is required for another Future B to proceed, while the Task responsible for both Futures is no longer polling A.  Futurelock is a particularly subtle risk in writing asynchronous Rust.</description>

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Just use a button",
+    "Url": "https://gomakethings.com/just-use-a-button/",
+    "Timestamp": "2025-11-01T05:01:58",
+    "Domain": "gomakethings.com",
+    "Description": "One of the weirdest “debates” I seem to perpetually have with framework-enthusiastic developers is whether or not a <div> is “just as good” as a <button>.\nSpoiler: it’s not. Let’s dig in.\nThe problem Among the React crowd, and also among people who seem to enjoy HTMX, I see a lot this…\n<div onclick=\"showSignIn()\"> Open Modal </div>function showSignIn () { // Code to show the sign-in modal. \t// The details of what happens here vary by stack."
+  },
+  {
     "Title": "609 - Futurelock / RFD",
     "Url": "https://rfd.shared.oxide.computer/rfd/0609",
     "Timestamp": "2025-11-01T02:02:02",
