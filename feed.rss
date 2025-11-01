@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Strange Attractors | Shashank Tomar</title>
+      <link>https://blog.shashanktomar.com/posts/strange-attractors</link>
+      <description>A visualisation of Strange Attractors using a Threejs particle system. In this post, I will try to explain the basics of dynamical systems, chaos theory, attractors and the butterfly effect.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.shashanktomar.com/posts/strange-attractors</guid>
+      <pubDate>Sat, 01 Nov 2025 06:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Just use a button</title>
       <link>https://gomakethings.com/just-use-a-button/</link>
       <description>One of the weirdest “debates” I seem to perpetually have with framework-enthusiastic developers is whether or not a &lt;div&gt; is “just as good” as a &lt;button&gt;.
