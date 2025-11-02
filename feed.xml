@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Visopsys | Visual Operating System</title>
+      <link>https://visopsys.org/</link>
+      <description>Visopsys is an alternative operating system for PC compatible computers. In development since 1997, this system is small, fast, and open source. It features a simple but functional graphical interface, pre-emptive multitasking, and virtual memory. Though it attempts to be compatible in a number of ways, Visopsys is not a clone of any other operating system. You can demo the distribution from a “live” USB stick, CD/DVD, or floppy disk … (read more).</description>
+      <guid>https://visopsys.org/</guid>
+      <pubDate>Sun, 02 Nov 2025 06:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code Can Debug Low-level Cryptography</title>
       <link>https://words.filippo.io/claude-debugging/</link>
       <description>Surprisingly (to me) Claude Code debugged my new ML-DSA implementation faster than I would have, finding the non-obvious low-level issue that was making Verify fail.</description>
@@ -303,15 +310,6 @@ This change is being implemented due to the unmanageable influx of review articl
       <category>gaming</category>
       <guid>https://www.thebignewsletter.com/p/addiction-markets-abolish-corporate</guid>
       <pubDate>Sat, 01 Nov 2025 09:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strange Attractors | Shashank Tomar</title>
-      <link>https://blog.shashanktomar.com/posts/strange-attractors</link>
-      <description>A visualisation of Strange Attractors using a Threejs particle system. In this post, I will try to explain the basics of dynamical systems, chaos theory, attractors and the butterfly effect.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://blog.shashanktomar.com/posts/strange-attractors</guid>
-      <pubDate>Sat, 01 Nov 2025 06:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

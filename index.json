@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Visopsys | Visual Operating System",
+    "Url": "https://visopsys.org/",
+    "Timestamp": "2025-11-02T06:02:00",
+    "Domain": "visopsys.org",
+    "Description": "Visopsys is an alternative operating system for PC compatible computers. In development since 1997, this system is small, fast, and open source. It features a simple but functional graphical interface, pre-emptive multitasking, and virtual memory. Though it attempts to be compatible in a number of ways, Visopsys is not a clone of any other operating system. You can demo the distribution from a “live” USB stick, CD/DVD, or floppy disk … (read more).",
+    "Confidence": 0.9839647
+  },
+  {
     "Title": "Claude Code Can Debug Low-level Cryptography",
     "Url": "https://words.filippo.io/claude-debugging/",
     "Timestamp": "2025-11-02T05:02:28",
@@ -238,13 +246,5 @@
     "Domain": "www.thebignewsletter.com",
     "Description": "Corporate gambling is economic coercion, a way to shift tax burdens away from the wealthy to the poor. It's been here since the 1970s, and now it's corrupting sports and young men. Abolish it.",
     "Confidence": 0.642839
-  },
-  {
-    "Title": "Strange Attractors | Shashank Tomar",
-    "Url": "https://blog.shashanktomar.com/posts/strange-attractors",
-    "Timestamp": "2025-11-01T06:02:00",
-    "Domain": "blog.shashanktomar.com",
-    "Description": "A visualisation of Strange Attractors using a Threejs particle system. In this post, I will try to explain the basics of dynamical systems, chaos theory, attractors and the butterfly effect.",
-    "Confidence": 0.9868936
   }
 ]
