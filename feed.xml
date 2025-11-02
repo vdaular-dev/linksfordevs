@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your URL Is Your State</title>
+      <link>https://alfy.blog/2025/10/31/your-url-is-your-state.html</link>
+      <description>A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.</description>
+      <author> (Ahmad Elalfy)</author>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>typescript</category>
+      <category>web</category>
+      <guid>https://alfy.blog/2025/10/31/your-url-is-your-state.html</guid>
+      <pubDate>Sun, 02 Nov 2025 20:01:51 GMT</pubDate>
+    </item>
+    <item>
       <title>HyperRogue - About</title>
       <link>https://roguetemple.com/z/hyper/</link>
       <description>puzzle roguelike on a hyperbolic plane</description>
@@ -315,28 +328,6 @@ Official version</description>
       <category>web</category>
       <guid>https://momentsingraphics.de/SiggraphAsia2025.html</guid>
       <pubDate>Sat, 01 Nov 2025 22:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hard Rust requirements from May onward</title>
-      <link>https://lists.debian.org/debian-devel/2025/10/msg00285.html</link>
-      <description>Attachment:
-signature.asc
-Description: PGP signature</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://lists.debian.org/debian-devel/2025/10/msg00285.html</guid>
-      <pubDate>Sat, 01 Nov 2025 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chat control proposal fails again after massive public opposition</title>
-      <link>https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/</link>
-      <description>The European Union’s controversial Chat Control proposal has been withdrawn once again following intense public pressure. This marks another defeat for legislation that would have mandated scanning of encrypted messages across the EU.</description>
-      <category>encryption</category>
-      <guid>https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/</guid>
-      <pubDate>Sat, 01 Nov 2025 20:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
