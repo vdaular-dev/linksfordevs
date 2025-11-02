@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Attacking macOS XPC Helpers: Protocol Reverse Engineering and Interface Analysis",
+    "Url": "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers",
+    "Timestamp": "2025-11-02T01:03:17",
+    "Domain": "tonygo.tech",
+    "Description": "How to attack a macOS XPC Helper using a simple Objective-C script",
+    "Confidence": 0.9985898
+  },
+  {
+    "Title": "Print Sales, Costs, And Profit: 2025",
+    "Url": "https://leejo.github.io/2025/11/01/print_costs/",
+    "Timestamp": "2025-11-02T01:03:13",
+    "Domain": "leejo.github.io",
+    "Description": "Print Sales, Costs, And Profit: 2025",
+    "Confidence": 0.94775593
+  },
+  {
+    "Title": "Computer Says No: Error Reporting for LTL",
+    "Url": "https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html",
+    "Timestamp": "2025-11-02T01:03:10",
+    "Domain": "wickstrom.tech",
+    "Description": "Quickstrom is a property-based\ntesting tool for web applications, using QuickLTL for specifying the\nintended behavior. QuickLTL is a linear temporal logic (LTL) over finite\ntraces, especially suited for testing. As with many other logic systems,\nwhen a formula evaluates to false — like when a counterexample to a\nsafety property is found or a liveness property cannot be shown to hold\n— the computer says no. That is, you get “false” or “test failed”,\nperhaps along with a trace. Understanding complex bugs in stateful\nsystems then comes down to staring at the specification alongside the\ntrace, hoping you can somehow pin down what went wrong. It’s not\ngreat.",
+    "Confidence": 0.9906607
+  },
+  {
+    "Title": "I Used Claude Code to Debug a Nightmare",
+    "Url": "https://blendingbits.io/p/i-used-claude-code-to-debug-a-nightmare",
+    "Timestamp": "2025-11-02T01:03:07",
+    "Domain": "blendingbits.io",
+    "Description": "Here's What I Learned",
+    "Confidence": 0.986843
+  },
+  {
+    "Title": "From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey",
+    "Url": "https://blog.tymscar.com/posts/wifi7speedhunt/",
+    "Timestamp": "2025-11-02T01:03:03",
+    "Domain": "blog.tymscar.com",
+    "Description": "Upgraded to WiFi 7 expecting 1.7 Gbps speeds. Got 400 Mbps instead. Here's what was actually wrong and how I fixed it.",
+    "Confidence": 0.9695518
+  },
+  {
+    "Title": "Dave Potts - Software",
+    "Url": "https://davepotts.software/development/2025/11/01/asking-copilot-to-write-diagnostic-scripts.html",
+    "Timestamp": "2025-11-02T01:02:59",
+    "Domain": "davepotts.software",
+    "Description": "When Copilot gets stuck trying to directly fix a problem, asking it to write a diagnostic script can help get unstuck.",
+    "Confidence": 0.87400794
+  },
+  {
+    "Title": "When Groups Get Stuck on the Wrong Problem – Jeremy R. Winget, PhD",
+    "Url": "https://www.jrwinget.com/blog/2025-10-31_when-groups-get-stuck/",
+    "Timestamp": "2025-11-02T01:02:56",
+    "Domain": "www.jrwinget.com",
+    "Description": "Dissent, sharedness, and the design of collective intelligence",
+    "Confidence": 0.89725477
+  },
+  {
+    "Title": "DDD & the Simplicity Gospel | Olu Atte",
+    "Url": "https://oluatte.com/posts/domain-driven-design-simplicity-gospel/",
+    "Timestamp": "2025-11-02T01:02:51",
+    "Domain": "oluatte.com",
+    "Description": "The false gospel of simplicity. Domain Driven Design (DDD) vs Slop.",
+    "Confidence": 0.9867017
+  },
+  {
+    "Title": "Career Dev Treasures",
+    "Url": "https://roganmurley.com/2025/11/01/career-dev-treasures.html",
+    "Timestamp": "2025-11-02T01:02:47",
+    "Domain": "roganmurley.com",
+    "Description": "A big part of my job is helping other engineers grow their careers. I’ve collected resources that have personally helped me, and helped me help others.",
+    "Confidence": 0.9030261
+  },
+  {
+    "Title": "From Assumptions to Isolation : The BGKW Shift",
+    "Url": "https://jerome-guyot.github.io/blog/2025-18-10-%20From%20Assumptions%20to%20Isolation%20The%20BGKW%20Shift/",
+    "Timestamp": "2025-11-02T01:02:44",
+    "Domain": "jerome-guyot.github.io",
+    "Description": " Imagine a single, all-powerful prover, then split it in two, and forbid them to speak. In that silence, BGKW discovered that separation itself can be a source of security.",
+    "Confidence": 0.9903648
+  },
+  {
+    "Title": "How I Fell in Love with Erlang · Bora Gönül",
+    "Url": "https://boragonul.com/post/falling-in-love-with-erlang",
+    "Timestamp": "2025-11-02T01:02:40",
+    "Domain": "boragonul.com",
+    "Description": "I was eight years old when I first tried to hack the intro screens of Commodore-64 games. I found a BASIC programming book and opened it with all the enthusiasm of a kid who thought he was about to unlock the secrets of the universe. Page after page of mysterious commands, strange symbols, promises of power.",
+    "Confidence": 0.99109066
+  },
+  {
+    "Title": "Text rendering and effects using GPU-computed distances",
+    "Url": "https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html",
+    "Timestamp": "2025-11-02T01:02:36",
+    "Domain": "blog.pkh.me",
+    "Description": "Text rendering is cursed. Anyone who has worked on text will tell you the\nsame; whether it's about layout, bi-directional, shaping, Unicode, or the\nrendering itself, it's never a completely solved problem. In my personal case,\nI've been working on trying to render text in the context of a compositing\nengine for creative content. I needed crazy text effects, and I needed them to\nbe reasonably fast, which implied working with the GPU as much as possible. The\ndistance field was an obvious requirement because it unlocks anti-aliasing and\nthe ability to make many great effects for basically free.",
+    "Confidence": 0.9967438
+  },
+  {
+    "Title": "A software engineer's guide to not getting replaced by AI",
+    "Url": "https://www.augmentedswe.com/p/how-not-to-get-replaced-by-a-gpu",
+    "Timestamp": "2025-11-02T01:02:30",
+    "Domain": "www.augmentedswe.com",
+    "Description": "Survive AI. Don't get replaced by a GPU.",
+    "Confidence": 0.97951925
+  },
+  {
+    "Title": "Parsing: How Ruby Understands Your Code",
+    "Url": "https://patshaughnessy.net/2025/10/27/parsing-how-ruby-understands-your-code",
+    "Timestamp": "2025-11-02T01:02:26",
+    "Domain": "patshaughnessy.net",
+    "Description": "I've started working on a new edition of Ruby Under a\nMicroscope that covers Ruby 3.x. I'm working on this in my spare time, so it\nwill take a while. Leave a comment or drop\nme a line and I'll email you when it's finished.",
+    "Confidence": 0.9938263
+  },
+  {
+    "Title": "On Developers in C-Level Meetings · @radekmie’s take on IT and stuff",
+    "Url": "https://radekmie.dev/blog/on-developers-in-c-level-meetings/",
+    "Timestamp": "2025-11-02T01:02:22",
+    "Domain": "radekmie.dev",
+    "Description": "Budget planning may not seem like a place where your technical skills would be useful, but there’s always something you could help with.",
+    "Confidence": 0.9784833
+  },
+  {
+    "Title": "Avoid UUID Version 4 Primary Keys",
+    "Url": "https://andyatkinson.com/avoid-uuid-version-4-primary-keys",
+    "Timestamp": "2025-11-02T01:02:18",
+    "Domain": "andyatkinson.com",
+    "Description": "Introduction Over the last decade, when working on databases with UUID Version 41 as the primary key data type, these databases have usually have bad performance and excessive IO. https://datatracker.ietf.org/doc/html/rfc4122#section-4.4 ↩",
+    "Confidence": 0.99142325
+  },
+  {
+    "Title": "Humanity is a risky AGI goal",
+    "Url": "https://www.nullsy.com/articles/agi-humanity-risky-goal",
+    "Timestamp": "2025-11-02T01:02:14",
+    "Domain": "www.nullsy.com",
+    "Description": "undefined",
+    "Confidence": 0.76295775
+  },
+  {
     "Title": "DigitalOcean is chasing me for $0.01: What it taught me about automation",
     "Url": "https://linuxblog.io/digitalocean-1-cent-automation/",
     "Timestamp": "2025-11-01T23:02:12",
@@ -94,157 +230,5 @@
     "Domain": "rfd.shared.oxide.computer",
     "Description": "This RFD describes futurelock: a type of deadlock where a resource owned by Future A is required for another Future B to proceed, while the Task responsible for both Futures is no longer polling A.  Futurelock is a particularly subtle risk in writing asynchronous Rust.",
     "Confidence": 0.9967188
-  },
-  {
-    "Title": "First impressions of the Advertising Context Protocol (AdCP) – Notes by Dennis Yurkevich",
-    "Url": "https://dennisy.me/notes/first-impressions-of-adcp",
-    "Timestamp": "2025-11-01T01:03:28",
-    "Domain": "dennisy.me",
-    "Description": "A first look at the AdCP protocol and its implications for the industry.",
-    "Confidence": 0.98445296
-  },
-  {
-    "Title": "Friendly Attributes Pattern - Bruno Sutic",
-    "Url": "https://brunosutic.com/blog/ruby-friendly-attributes-pattern",
-    "Timestamp": "2025-11-01T01:03:24",
-    "Domain": "brunosutic.com",
-    "Description": "Friendly Attributes pattern enables writing human-friendly attributes with compact and flexible syntax.",
-    "Confidence": 0.98208183
-  },
-  {
-    "Title": "From Thinking to Knowing: Using Natural Language Confidence From LLM Thought Processes",
-    "Url": "https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/",
-    "Timestamp": "2025-11-01T01:03:19",
-    "Domain": "pranavc28.github.io",
-    "Description": "“And this is wisdom and temperance and self-knowledge — for a man to know what he knows, and what he does not know.” - Plato, Charmides\n“To say you know when you know, and to say you do not when you do not — that is knowledge.” - Confucius\nSpecial thanks to Yash Sharma for a lot of valuable feedback on my idea and evaluation methodology\nResearch code: https://github.com/pranavc28/thought-engineering-and-self-awareness\nClaim Thought engineering techniques (overthinking and automated confidence refinement) improve multi-classification performance across all model architectures. The purpose of this blog is to explain these terms, and prove why this is true.",
-    "Confidence": 0.99107885
-  },
-  {
-    "Title": "Take-Home Exercises",
-    "Url": "https://justoffbyone.com/posts/take-home-exercises/",
-    "Timestamp": "2025-11-01T01:03:16",
-    "Domain": "justoffbyone.com",
-    "Description": "How to design effective take-home exercises that assess both ability and interest, with practical guidelines on scope, payment, and AI-assisted work",
-    "Confidence": 0.97646546
-  },
-  {
-    "Title": "I Analyzed 1,000 Top Podcasts: Here's How Long Their Episodes Actually Are",
-    "Url": "https://www.adithyan.io/blog/how-long-top-podcasts-run",
-    "Timestamp": "2025-11-01T01:03:12",
-    "Domain": "www.adithyan.io",
-    "Description": "Episode length analysis of the top 1,000 podcasts reveals surprising patterns across different publishing frequencies.",
-    "Confidence": 0.97308874
-  },
-  {
-    "Title": "A theoretical way to circumvent Android developer verification",
-    "Url": "https://enaix.github.io/2025/10/30/developer-verification.html",
-    "Timestamp": "2025-11-01T01:03:09",
-    "Domain": "enaix.github.io",
-    "Description": "A private blog",
-    "Confidence": 0.98995894
-  },
-  {
-    "Title": "Heart Mountain",
-    "Url": "https://xkcd.com/3162/",
-    "Timestamp": "2025-11-01T01:03:06",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Why plain text + SQLite beat every cloud note app for my workflow - Mirat Can Bayrak",
-    "Url": "https://mirat.dev/articles/nine-years-of-kaydet/",
-    "Timestamp": "2025-11-01T01:03:03",
-    "Domain": "mirat.dev",
-    "Description": "How I built and evolved Kaydet, a terminal-native personal diary with AI integration, over nine years—from simple Python wrapper to structured metadata and SQLite search.",
-    "Confidence": 0.98432434
-  },
-  {
-    "Title": "Blogging with Jekyll in 2025",
-    "Url": "https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html",
-    "Timestamp": "2025-11-01T01:02:59",
-    "Domain": "remy.duthu.org",
-    "Description": "Wait wait wait I know it’s not flashy. I decided to start blogging, now… 25 years after everyone else.",
-    "Confidence": 0.9982836
-  },
-  {
-    "Title": "I’m writing another book!",
-    "Url": "https://ericlippert.com/2025/10/30/im-writing-another-book/",
-    "Timestamp": "2025-11-01T01:02:56",
-    "Domain": "ericlippert.com",
-    "Description": "Hey everyone, I’ve finally turned this blog into a book! Or, rather, I am deep in the process of turning this blog into a book. Yes, it’s about 20 years, give or take, after I first tho…",
-    "Confidence": 0.9877547
-  },
-  {
-    "Title": "Rotating Workforce Scheduling in MiniZinc - zayenz.se",
-    "Url": "https://zayenz.se/blog/post/rotating-workforce-scheduling/",
-    "Timestamp": "2025-11-01T01:02:52",
-    "Domain": "zayenz.se",
-    "Description": "Personal website with research, publications, and blog",
-    "Confidence": 0.9794835
-  },
-  {
-    "Title": "The S&P 500 Is a Hyperstition",
-    "Url": "https://pilledtexts.com/the-smpt500-is-a-hyperstition/",
-    "Timestamp": "2025-11-01T01:02:48",
-    "Domain": "pilledtexts.com",
-    "Description": "The concept of hyperstition, originating with the Cybernetic Culture Research Unit, posits that fictions and beliefs are not merely predictive of the future, but actively cause it. The CCRU also...",
-    "Confidence": 0.7899547
-  },
-  {
-    "Title": "My Evil Plan if I Were Mark Zuckerberg",
-    "Url": "https://newbeelearn.com/blog/marks-evil-plan/",
-    "Timestamp": "2025-11-01T01:02:44",
-    "Domain": "newbeelearn.com",
-    "Description": "leaked secret plan of mark zuckerberg",
-    "Confidence": 0.98338944
-  },
-  {
-    "Title": "Closure captures",
-    "Url": "https://andwass.github.io/rust/2025/10/23/closure-captures.html",
-    "Timestamp": "2025-11-01T01:02:41",
-    "Domain": "andwass.github.io",
-    "Description": "There have been some discussions on how to make closure captures more ergonomic. For a background on motivation and a discusson on what I perceive to be the current way forward I recommend reading this blog post.",
-    "Confidence": 0.9903585
-  },
-  {
-    "Title": "setHTML(), Trusted Types and the Sanitizer API",
-    "Url": "https://olliewilliams.xyz/blog/sanitizer/",
-    "Timestamp": "2025-11-01T01:02:38",
-    "Domain": "olliewilliams.xyz",
-    "Description": "Avoiding cross-site scripting (XSS) attacks with new web APIs",
-    "Confidence": 0.98649985
-  },
-  {
-    "Title": "Systems Don't Exist But Definitions Do",
-    "Url": "https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html",
-    "Timestamp": "2025-11-01T01:02:34",
-    "Domain": "tangrammer.codeberg.page",
-    "Description": "experiments around clojure",
-    "Confidence": 0.98152727
-  },
-  {
-    "Title": "Animals could easily be talking to us if we tried",
-    "Url": "https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried",
-    "Timestamp": "2025-11-01T01:02:30",
-    "Domain": "evanverma.com",
-    "Description": "Where Evan discusses the simple process to make animals talk",
-    "Confidence": 0.87666374
-  },
-  {
-    "Title": "The Infrastructure Stack Is Getting Faster. Terraform Is Not.",
-    "Url": "https://stategraph.dev/blog/terraform-is-not-getting-faster",
-    "Timestamp": "2025-11-01T01:02:27",
-    "Domain": "stategraph.dev",
-    "Description": "Every part of the stack is accelerating except infrastructure. Terraform has the ecosystem but not the speed. That's fixable.",
-    "Confidence": 0.9962534
-  },
-  {
-    "Title": "Don't give Postgres too much memory",
-    "Url": "https://vondra.me/posts/dont-give-postgres-too-much-memory/",
-    "Timestamp": "2025-11-01T01:02:22",
-    "Domain": "vondra.me",
-    "Description": "Can it be harmful to set maintenance_work_mem and work_mem limits very high?",
-    "Confidence": 0.9690677
   }
 ]

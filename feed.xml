@@ -7,6 +7,178 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Attacking macOS XPC Helpers: Protocol Reverse Engineering and Interface Analysis</title>
+      <link>https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers</link>
+      <description>How to attack a macOS XPC Helper using a simple Objective-C script</description>
+      <category>ai</category>
+      <guid>https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers</guid>
+      <pubDate>Sun, 02 Nov 2025 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Print Sales, Costs, And Profit: 2025</title>
+      <link>https://leejo.github.io/2025/11/01/print_costs/</link>
+      <description>Print Sales, Costs, And Profit: 2025</description>
+      <category>ai</category>
+      <guid>https://leejo.github.io/2025/11/01/print_costs/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Computer Says No: Error Reporting for LTL</title>
+      <link>https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html</link>
+      <description>Quickstrom is a property-based
+testing tool for web applications, using QuickLTL for specifying the
+intended behavior. QuickLTL is a linear temporal logic (LTL) over finite
+traces, especially suited for testing. As with many other logic systems,
+when a formula evaluates to false — like when a counterexample to a
+safety property is found or a liveness property cannot be shown to hold
+— the computer says no. That is, you get “false” or “test failed”,
+perhaps along with a trace. Understanding complex bugs in stateful
+systems then comes down to staring at the specification alongside the
+trace, hoping you can somehow pin down what went wrong. It’s not
+great.</description>
+      <category>rust</category>
+      <category>web</category>
+      <guid>https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html</guid>
+      <pubDate>Sun, 02 Nov 2025 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Used Claude Code to Debug a Nightmare</title>
+      <link>https://blendingbits.io/p/i-used-claude-code-to-debug-a-nightmare</link>
+      <description>Here's What I Learned</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://blendingbits.io/p/i-used-claude-code-to-debug-a-nightmare</guid>
+      <pubDate>Sun, 02 Nov 2025 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey</title>
+      <link>https://blog.tymscar.com/posts/wifi7speedhunt/</link>
+      <description>Upgraded to WiFi 7 expecting 1.7 Gbps speeds. Got 400 Mbps instead. Here's what was actually wrong and how I fixed it.</description>
+      <category>apple</category>
+      <guid>https://blog.tymscar.com/posts/wifi7speedhunt/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dave Potts - Software</title>
+      <link>https://davepotts.software/development/2025/11/01/asking-copilot-to-write-diagnostic-scripts.html</link>
+      <description>When Copilot gets stuck trying to directly fix a problem, asking it to write a diagnostic script can help get unstuck.</description>
+      <category>web</category>
+      <guid>https://davepotts.software/development/2025/11/01/asking-copilot-to-write-diagnostic-scripts.html</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>When Groups Get Stuck on the Wrong Problem – Jeremy R. Winget, PhD</title>
+      <link>https://www.jrwinget.com/blog/2025-10-31_when-groups-get-stuck/</link>
+      <description>Dissent, sharedness, and the design of collective intelligence</description>
+      <category>ai</category>
+      <guid>https://www.jrwinget.com/blog/2025-10-31_when-groups-get-stuck/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>DDD &amp; the Simplicity Gospel | Olu Atte</title>
+      <link>https://oluatte.com/posts/domain-driven-design-simplicity-gospel/</link>
+      <description>The false gospel of simplicity. Domain Driven Design (DDD) vs Slop.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://oluatte.com/posts/domain-driven-design-simplicity-gospel/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Career Dev Treasures</title>
+      <link>https://roganmurley.com/2025/11/01/career-dev-treasures.html</link>
+      <description>A big part of my job is helping other engineers grow their careers. I’ve collected resources that have personally helped me, and helped me help others.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://roganmurley.com/2025/11/01/career-dev-treasures.html</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Assumptions to Isolation : The BGKW Shift</title>
+      <link>https://jerome-guyot.github.io/blog/2025-18-10-%20From%20Assumptions%20to%20Isolation%20The%20BGKW%20Shift/</link>
+      <description> Imagine a single, all-powerful prover, then split it in two, and forbid them to speak. In that silence, BGKW discovered that separation itself can be a source of security.</description>
+      <category>encryption</category>
+      <guid>https://jerome-guyot.github.io/blog/2025-18-10-%20From%20Assumptions%20to%20Isolation%20The%20BGKW%20Shift/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Fell in Love with Erlang · Bora Gönül</title>
+      <link>https://boragonul.com/post/falling-in-love-with-erlang</link>
+      <description>I was eight years old when I first tried to hack the intro screens of Commodore-64 games. I found a BASIC programming book and opened it with all the enthusiasm of a kid who thought he was about to unlock the secrets of the universe. Page after page of mysterious commands, strange symbols, promises of power.</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://boragonul.com/post/falling-in-love-with-erlang</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Text rendering and effects using GPU-computed distances</title>
+      <link>https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html</link>
+      <description>Text rendering is cursed. Anyone who has worked on text will tell you the
+same; whether it's about layout, bi-directional, shaping, Unicode, or the
+rendering itself, it's never a completely solved problem. In my personal case,
+I've been working on trying to render text in the context of a compositing
+engine for creative content. I needed crazy text effects, and I needed them to
+be reasonably fast, which implied working with the GPU as much as possible. The
+distance field was an obvious requirement because it unlocks anti-aliasing and
+the ability to make many great effects for basically free.</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>A software engineer's guide to not getting replaced by AI</title>
+      <link>https://www.augmentedswe.com/p/how-not-to-get-replaced-by-a-gpu</link>
+      <description>Survive AI. Don't get replaced by a GPU.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://www.augmentedswe.com/p/how-not-to-get-replaced-by-a-gpu</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parsing: How Ruby Understands Your Code</title>
+      <link>https://patshaughnessy.net/2025/10/27/parsing-how-ruby-understands-your-code</link>
+      <description>I've started working on a new edition of Ruby Under a
+Microscope that covers Ruby 3.x. I'm working on this in my spare time, so it
+will take a while. Leave a comment or drop
+me a line and I'll email you when it's finished.</description>
+      <category>ruby</category>
+      <category>nodejs</category>
+      <guid>https://patshaughnessy.net/2025/10/27/parsing-how-ruby-understands-your-code</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Developers in C-Level Meetings · @radekmie’s take on IT and stuff</title>
+      <link>https://radekmie.dev/blog/on-developers-in-c-level-meetings/</link>
+      <description>Budget planning may not seem like a place where your technical skills would be useful, but there’s always something you could help with.</description>
+      <category>ai</category>
+      <guid>https://radekmie.dev/blog/on-developers-in-c-level-meetings/</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avoid UUID Version 4 Primary Keys</title>
+      <link>https://andyatkinson.com/avoid-uuid-version-4-primary-keys</link>
+      <description>Introduction Over the last decade, when working on databases with UUID Version 41 as the primary key data type, these databases have usually have bad performance and excessive IO. https://datatracker.ietf.org/doc/html/rfc4122#section-4.4 ↩</description>
+      <category>sql</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://andyatkinson.com/avoid-uuid-version-4-primary-keys</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Humanity is a risky AGI goal</title>
+      <link>https://www.nullsy.com/articles/agi-humanity-risky-goal</link>
+      <description>undefined</description>
+      <category>youtube</category>
+      <guid>https://www.nullsy.com/articles/agi-humanity-risky-goal</guid>
+      <pubDate>Sun, 02 Nov 2025 01:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>DigitalOcean is chasing me for $0.01: What it taught me about automation</title>
       <link>https://linuxblog.io/digitalocean-1-cent-automation/</link>
       <description>There are three kinds of emails that can ruin a quiet Saturday: a security warning, an outage alert, and, apparently, a repeat reminder that you owe a</description>
@@ -123,181 +295,6 @@ The problem Among the React crowd, and also among people who seem to enjoy HTMX,
       <category>vscode</category>
       <guid>https://rfd.shared.oxide.computer/rfd/0609</guid>
       <pubDate>Sat, 01 Nov 2025 02:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>First impressions of the Advertising Context Protocol (AdCP) – Notes by Dennis Yurkevich</title>
-      <link>https://dennisy.me/notes/first-impressions-of-adcp</link>
-      <description>A first look at the AdCP protocol and its implications for the industry.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://dennisy.me/notes/first-impressions-of-adcp</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Friendly Attributes Pattern - Bruno Sutic</title>
-      <link>https://brunosutic.com/blog/ruby-friendly-attributes-pattern</link>
-      <description>Friendly Attributes pattern enables writing human-friendly attributes with compact and flexible syntax.</description>
-      <category>ruby</category>
-      <category>javascript</category>
-      <guid>https://brunosutic.com/blog/ruby-friendly-attributes-pattern</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Thinking to Knowing: Using Natural Language Confidence From LLM Thought Processes</title>
-      <link>https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/</link>
-      <description>“And this is wisdom and temperance and self-knowledge — for a man to know what he knows, and what he does not know.” - Plato, Charmides
-“To say you know when you know, and to say you do not when you do not — that is knowledge.” - Confucius
-Special thanks to Yash Sharma for a lot of valuable feedback on my idea and evaluation methodology
-Research code: https://github.com/pranavc28/thought-engineering-and-self-awareness
-Claim Thought engineering techniques (overthinking and automated confidence refinement) improve multi-classification performance across all model architectures. The purpose of this blog is to explain these terms, and prove why this is true.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <guid>https://pranavc28.github.io/blog/posts/thought-engineering-self-awareness/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Take-Home Exercises</title>
-      <link>https://justoffbyone.com/posts/take-home-exercises/</link>
-      <description>How to design effective take-home exercises that assess both ability and interest, with practical guidelines on scope, payment, and AI-assisted work</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://justoffbyone.com/posts/take-home-exercises/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Analyzed 1,000 Top Podcasts: Here's How Long Their Episodes Actually Are</title>
-      <link>https://www.adithyan.io/blog/how-long-top-podcasts-run</link>
-      <description>Episode length analysis of the top 1,000 podcasts reveals surprising patterns across different publishing frequencies.</description>
-      <guid>https://www.adithyan.io/blog/how-long-top-podcasts-run</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>A theoretical way to circumvent Android developer verification</title>
-      <link>https://enaix.github.io/2025/10/30/developer-verification.html</link>
-      <description>A private blog</description>
-      <category>android</category>
-      <guid>https://enaix.github.io/2025/10/30/developer-verification.html</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Heart Mountain</title>
-      <link>https://xkcd.com/3162/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3162/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why plain text + SQLite beat every cloud note app for my workflow - Mirat Can Bayrak</title>
-      <link>https://mirat.dev/articles/nine-years-of-kaydet/</link>
-      <description>How I built and evolved Kaydet, a terminal-native personal diary with AI integration, over nine years—from simple Python wrapper to structured metadata and SQLite search.</description>
-      <category>sql</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://mirat.dev/articles/nine-years-of-kaydet/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blogging with Jekyll in 2025</title>
-      <link>https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html</link>
-      <description>Wait wait wait I know it’s not flashy. I decided to start blogging, now… 25 years after everyone else.</description>
-      <category>nodejs</category>
-      <category>ruby</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://remy.duthu.org/2025/10/31/blogging-with-jekyll-in-2025.html</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>I’m writing another book!</title>
-      <link>https://ericlippert.com/2025/10/30/im-writing-another-book/</link>
-      <description>Hey everyone, I’ve finally turned this blog into a book! Or, rather, I am deep in the process of turning this blog into a book. Yes, it’s about 20 years, give or take, after I first tho…</description>
-      <guid>https://ericlippert.com/2025/10/30/im-writing-another-book/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rotating Workforce Scheduling in MiniZinc - zayenz.se</title>
-      <link>https://zayenz.se/blog/post/rotating-workforce-scheduling/</link>
-      <description>Personal website with research, publications, and blog</description>
-      <category>conference</category>
-      <guid>https://zayenz.se/blog/post/rotating-workforce-scheduling/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>The S&amp;P 500 Is a Hyperstition</title>
-      <link>https://pilledtexts.com/the-smpt500-is-a-hyperstition/</link>
-      <description>The concept of hyperstition, originating with the Cybernetic Culture Research Unit, posits that fictions and beliefs are not merely predictive of the future, but actively cause it. The CCRU also...</description>
-      <category>ai</category>
-      <guid>https://pilledtexts.com/the-smpt500-is-a-hyperstition/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Evil Plan if I Were Mark Zuckerberg</title>
-      <link>https://newbeelearn.com/blog/marks-evil-plan/</link>
-      <description>leaked secret plan of mark zuckerberg</description>
-      <category>ai</category>
-      <guid>https://newbeelearn.com/blog/marks-evil-plan/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Closure captures</title>
-      <link>https://andwass.github.io/rust/2025/10/23/closure-captures.html</link>
-      <description>There have been some discussions on how to make closure captures more ergonomic. For a background on motivation and a discusson on what I perceive to be the current way forward I recommend reading this blog post.</description>
-      <category>rust</category>
-      <guid>https://andwass.github.io/rust/2025/10/23/closure-captures.html</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>setHTML(), Trusted Types and the Sanitizer API</title>
-      <link>https://olliewilliams.xyz/blog/sanitizer/</link>
-      <description>Avoiding cross-site scripting (XSS) attacks with new web APIs</description>
-      <category>web</category>
-      <category>git</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <guid>https://olliewilliams.xyz/blog/sanitizer/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Systems Don't Exist But Definitions Do</title>
-      <link>https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html</link>
-      <description>experiments around clojure</description>
-      <guid>https://tangrammer.codeberg.page/on-the-clojure-move/output/posts/systems-dont-exist-but-definitions-do.html</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Animals could easily be talking to us if we tried</title>
-      <link>https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried</link>
-      <description>Where Evan discusses the simple process to make animals talk</description>
-      <category>ai</category>
-      <guid>https://evanverma.com/animals-could-easily-be-talking-to-us-if-we-tried</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Infrastructure Stack Is Getting Faster. Terraform Is Not.</title>
-      <link>https://stategraph.dev/blog/terraform-is-not-getting-faster</link>
-      <description>Every part of the stack is accelerating except infrastructure. Terraform has the ecosystem but not the speed. That's fixable.</description>
-      <author> (Josh Pollara)</author>
-      <category>containers</category>
-      <category>sql</category>
-      <category>encryption</category>
-      <guid>https://stategraph.dev/blog/terraform-is-not-getting-faster</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't give Postgres too much memory</title>
-      <link>https://vondra.me/posts/dont-give-postgres-too-much-memory/</link>
-      <description>Can it be harmful to set maintenance_work_mem and work_mem limits very high?</description>
-      <category>cloud</category>
-      <guid>https://vondra.me/posts/dont-give-postgres-too-much-memory/</guid>
-      <pubDate>Sat, 01 Nov 2025 01:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
