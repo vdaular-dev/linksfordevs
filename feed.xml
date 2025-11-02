@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Code Can Debug Low-level Cryptography</title>
+      <link>https://words.filippo.io/claude-debugging/</link>
+      <description>Surprisingly (to me) Claude Code debugged my new ML-DSA implementation faster than I would have, finding the non-obvious low-level issue that was making Verify fail.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://words.filippo.io/claude-debugging/</guid>
+      <pubDate>Sun, 02 Nov 2025 05:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - samrolken/nokode</title>
       <link>https://github.com/samrolken/nokode</link>
       <description>Contribute to samrolken/nokode development by creating an account on GitHub.</description>
@@ -303,17 +312,6 @@ This change is being implemented due to the unmanageable influx of review articl
       <category>javascript</category>
       <guid>https://blog.shashanktomar.com/posts/strange-attractors</guid>
       <pubDate>Sat, 01 Nov 2025 06:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Just use a button</title>
-      <link>https://gomakethings.com/just-use-a-button/</link>
-      <description>One of the weirdest “debates” I seem to perpetually have with framework-enthusiastic developers is whether or not a &lt;div&gt; is “just as good” as a &lt;button&gt;.
-Spoiler: it’s not. Let’s dig in.
-The problem Among the React crowd, and also among people who seem to enjoy HTMX, I see a lot this…
-&lt;div onclick="showSignIn()"&gt; Open Modal &lt;/div&gt;function showSignIn () { // Code to show the sign-in modal. 	// The details of what happens here vary by stack.</description>
-      <category>web</category>
-      <guid>https://gomakethings.com/just-use-a-button/</guid>
-      <pubDate>Sat, 01 Nov 2025 05:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

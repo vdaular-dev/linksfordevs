@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Claude Code Can Debug Low-level Cryptography",
+    "Url": "https://words.filippo.io/claude-debugging/",
+    "Timestamp": "2025-11-02T05:02:28",
+    "Domain": "words.filippo.io",
+    "Description": "Surprisingly (to me) Claude Code debugged my new ML-DSA implementation faster than I would have, finding the non-obvious low-level issue that was making Verify fail.",
+    "Confidence": 0.9873573
+  },
+  {
     "Title": "GitHub - samrolken/nokode",
     "Url": "https://github.com/samrolken/nokode",
     "Timestamp": "2025-11-02T04:02:00",
@@ -238,13 +246,5 @@
     "Domain": "blog.shashanktomar.com",
     "Description": "A visualisation of Strange Attractors using a Threejs particle system. In this post, I will try to explain the basics of dynamical systems, chaos theory, attractors and the butterfly effect.",
     "Confidence": 0.9868936
-  },
-  {
-    "Title": "Just use a button",
-    "Url": "https://gomakethings.com/just-use-a-button/",
-    "Timestamp": "2025-11-01T05:01:58",
-    "Domain": "gomakethings.com",
-    "Description": "One of the weirdest “debates” I seem to perpetually have with framework-enthusiastic developers is whether or not a <div> is “just as good” as a <button>.\nSpoiler: it’s not. Let’s dig in.\nThe problem Among the React crowd, and also among people who seem to enjoy HTMX, I see a lot this…\n<div onclick=\"showSignIn()\"> Open Modal </div>function showSignIn () { // Code to show the sign-in modal. \t// The details of what happens here vary by stack.",
-    "Confidence": 0.99402624
   }
 ]

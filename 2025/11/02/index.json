@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Claude Code Can Debug Low-level Cryptography",
+    "Url": "https://words.filippo.io/claude-debugging/",
+    "Timestamp": "2025-11-02T05:02:28",
+    "Domain": "words.filippo.io",
+    "Description": "Surprisingly (to me) Claude Code debugged my new ML-DSA implementation faster than I would have, finding the non-obvious low-level issue that was making Verify fail."
+  },
+  {
     "Title": "GitHub - samrolken/nokode",
     "Url": "https://github.com/samrolken/nokode",
     "Timestamp": "2025-11-02T04:02:00",
