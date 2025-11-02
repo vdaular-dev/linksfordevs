@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Notes by djb on using Fil-C (2025)",
+    "Url": "https://cr.yp.to/2025/fil-c.html",
+    "Timestamp": "2025-11-02T21:01:56",
+    "Domain": "cr.yp.to",
+    "Description": "I'm impressed with the level of compatibility\nof the new memory-safe C/C++ compiler\nFil-C\n(filcc, fil++).\nMany libraries and applications that I've tried\nwork under Fil-C without changes, and the exceptions haven't been hard to get working."
+  },
+  {
     "Title": "Your URL Is Your State",
     "Url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
     "Timestamp": "2025-11-02T20:01:51",

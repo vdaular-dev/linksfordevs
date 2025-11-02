@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Notes by djb on using Fil-C (2025)</title>
+      <link>https://cr.yp.to/2025/fil-c.html</link>
+      <description>I'm impressed with the level of compatibility
+of the new memory-safe C/C++ compiler
+Fil-C
+(filcc, fil++).
+Many libraries and applications that I've tried
+work under Fil-C without changes, and the exceptions haven't been hard to get working.</description>
+      <category>git</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://cr.yp.to/2025/fil-c.html</guid>
+      <pubDate>Sun, 02 Nov 2025 21:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Your URL Is Your State</title>
       <link>https://alfy.blog/2025/10/31/your-url-is-your-state.html</link>
       <description>A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.</description>
