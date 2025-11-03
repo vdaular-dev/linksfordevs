@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Castlevania AGA by Dante Retro Dev",
+    "Url": "https://danteretrodev.itch.io/akumajou-dracula-aga",
+    "Timestamp": "2025-11-03T21:01:53",
+    "Domain": "danteretrodev.itch.io",
+    "Description": "Beta version of a Castlevania remake for AGA Amiga computers.",
+    "Confidence": 0.96953547
+  },
+  {
     "Title": "Why Nextcloud feels slow to use",
     "Url": "https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/",
     "Timestamp": "2025-11-03T18:02:01",
@@ -142,13 +150,5 @@
     "Domain": "youtube.com",
     "Description": "Dave installs, configures, and boots a vintage DEC RA82 massive drive in a PDP-11/73 rack system - featuring the full sights and sounds!\n\nLift Cart: https://amzn.to/4oQrwPs\n\nFree Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nCheck out my new merch store at: http://davesgaragemerch.com/\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl",
     "Confidence": 0.96577877
-  },
-  {
-    "Title": "Notes by djb on using Fil-C (2025)",
-    "Url": "https://cr.yp.to/2025/fil-c.html",
-    "Timestamp": "2025-11-02T21:01:56",
-    "Domain": "cr.yp.to",
-    "Description": "I'm impressed with the level of compatibility\nof the new memory-safe C/C++ compiler\nFil-C\n(filcc, fil++).\nMany libraries and applications that I've tried\nwork under Fil-C without changes, and the exceptions haven't been hard to get working.",
-    "Confidence": 0.99410456
   }
 ]

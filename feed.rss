@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Castlevania AGA by Dante Retro Dev</title>
+      <link>https://danteretrodev.itch.io/akumajou-dracula-aga</link>
+      <description>Beta version of a Castlevania remake for AGA Amiga computers.</description>
+      <category>gaming</category>
+      <guid>https://danteretrodev.itch.io/akumajou-dracula-aga</guid>
+      <pubDate>Mon, 03 Nov 2025 21:01:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Why Nextcloud feels slow to use</title>
       <link>https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/</link>
       <description>No amount of tuning the backend service performance helped, and then I learned why. Oh no. Oh no no no no.</description>
@@ -178,23 +186,6 @@ https://www.youtube.com/@davepl</description>
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=kpC_9EmStAE</guid>
       <pubDate>Sun, 02 Nov 2025 22:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notes by djb on using Fil-C (2025)</title>
-      <link>https://cr.yp.to/2025/fil-c.html</link>
-      <description>I'm impressed with the level of compatibility
-of the new memory-safe C/C++ compiler
-Fil-C
-(filcc, fil++).
-Many libraries and applications that I've tried
-work under Fil-C without changes, and the exceptions haven't been hard to get working.</description>
-      <category>git</category>
-      <category>linux</category>
-      <category>rust</category>
-      <category>sql</category>
-      <category>python</category>
-      <guid>https://cr.yp.to/2025/fil-c.html</guid>
-      <pubDate>Sun, 02 Nov 2025 21:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
