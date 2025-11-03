@@ -213,14 +213,5 @@ work under Fil-C without changes, and the exceptions haven't been hard to get wo
       <guid>https://visopsys.org/</guid>
       <pubDate>Sun, 02 Nov 2025 06:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Claude Code Can Debug Low-level Cryptography</title>
-      <link>https://words.filippo.io/claude-debugging/</link>
-      <description>Surprisingly (to me) Claude Code debugged my new ML-DSA implementation faster than I would have, finding the non-obvious low-level issue that was making Verify fail.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://words.filippo.io/claude-debugging/</guid>
-      <pubDate>Sun, 02 Nov 2025 05:02:28 GMT</pubDate>
-    </item>
   </channel>
 </rss>
