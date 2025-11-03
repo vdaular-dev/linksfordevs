@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Is Making It Harder for Junior Developers to Get Hired</title>
+      <link>https://www.finalroundai.com/blog/ai-is-making-it-harder-for-junior-developers-to-get-hired</link>
+      <description>AI isn’t just automating work. It’s changing who gets to work. Junior developers are being left behind as companies cut entry roles and hire only seniors.</description>
+      <category>ai</category>
+      <guid>https://www.finalroundai.com/blog/ai-is-making-it-harder-for-junior-developers-to-get-hired</guid>
+      <pubDate>Mon, 03 Nov 2025 11:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Simple trick to increase coverage: Lying to users about signal strength</title>
       <link>https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/</link>
       <description>Poking around in Android the other day I found this nugget in Carrier Config manager; a flag (KEY_INFLATE_SIGNAL_STRENGTH_BOOL) to always report the signal strength to the user as one bar higher than it really is.</description>
