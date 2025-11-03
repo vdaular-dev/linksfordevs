@@ -158,21 +158,5 @@
     "Domain": "github.com",
     "Description": "Contribute to samrolken/nokode development by creating an account on GitHub.",
     "Confidence": 0.98920083
-  },
-  {
-    "Title": "Ghc now runs in your browser - Show and Tell - Haskell Community",
-    "Url": "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169",
-    "Timestamp": "2025-11-02T02:02:06",
-    "Domain": "discourse.haskell.org",
-    "Description": "ghc itself can now run purely client-side in the browser, here’s a haskell playground demo. terms and conditions apply, and i’ll write up more detailed explanation some time later, but i thought this is a cool thing to show off how far the ghc wasm backend has advanced 🙂",
-    "Confidence": 0.99492174
-  },
-  {
-    "Title": "SQLite concurrency and why you should care about it | Jellyfin",
-    "Url": "https://jellyfin.org/posts/SQLite-locking/",
-    "Timestamp": "2025-11-02T02:02:01",
-    "Domain": "jellyfin.org",
-    "Description": "SQLite is a powerful database engine, but due to its design, it has limitations that should not be overlooked.",
-    "Confidence": 0.97743523
   }
 ]

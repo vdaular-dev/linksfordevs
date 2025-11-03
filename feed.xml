@@ -216,21 +216,5 @@ work under Fil-C without changes, and the exceptions haven't been hard to get wo
       <guid>https://github.com/samrolken/nokode</guid>
       <pubDate>Sun, 02 Nov 2025 04:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Ghc now runs in your browser - Show and Tell - Haskell Community</title>
-      <link>https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169</link>
-      <description>ghc itself can now run purely client-side in the browser, here’s a haskell playground demo. terms and conditions apply, and i’ll write up more detailed explanation some time later, but i thought this is a cool thing to show off how far the ghc wasm backend has advanced 🙂</description>
-      <guid>https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169</guid>
-      <pubDate>Sun, 02 Nov 2025 02:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQLite concurrency and why you should care about it | Jellyfin</title>
-      <link>https://jellyfin.org/posts/SQLite-locking/</link>
-      <description>SQLite is a powerful database engine, but due to its design, it has limitations that should not be overlooked.</description>
-      <author> (https://github.com/JPVenson)</author>
-      <category>sql</category>
-      <guid>https://jellyfin.org/posts/SQLite-locking/</guid>
-      <pubDate>Sun, 02 Nov 2025 02:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
