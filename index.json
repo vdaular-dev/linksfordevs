@@ -1,5 +1,157 @@
 [
   {
+    "Title": "The Training Imperative",
+    "Url": "https://sdan.io/blog/training-imperative",
+    "Timestamp": "2025-11-04T01:03:28",
+    "Domain": "sdan.io",
+    "Description": "Apps are RL Environments",
+    "Confidence": 0.9882159
+  },
+  {
+    "Title": "On “Grok is this true?” – Fixing Tao",
+    "Url": "https://fixingtao.com/2025/11/on-grok-is-this-true/",
+    "Timestamp": "2025-11-04T01:03:24",
+    "Domain": "fixingtao.com",
+    "Description": "I was thinking about why this question bothered me so much.",
+    "Confidence": 0.81863296
+  },
+  {
+    "Title": "are-dependent-types-actually-erased - Chad Nauseam Home",
+    "Url": "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased",
+    "Timestamp": "2025-11-04T01:03:21",
+    "Domain": "chadnauseam.com",
+    "Description": "are-dependent-types-actually-erased - Chad Nauseam Home",
+    "Confidence": 0.99764585
+  },
+  {
+    "Title": "In defence of digital ID",
+    "Url": "https://timharford.com/2025/10/in-defence-of-digital-id/",
+    "Timestamp": "2025-11-04T01:03:17",
+    "Domain": "timharford.com",
+    "Description": "In the late 1930s, a Dutch civil servant, Jacobus Lentz, designed a near-unforgeable identity card. In 1940, the Dutch government rejected his proposal as too intrusive. Weeks later, Germany occupi…",
+    "Confidence": 0.86171806
+  },
+  {
+    "Title": "Running Node.js in a Hugging Face Space",
+    "Url": "https://blog.tomayac.com/2025/11/03/running-nodejs-in-a-hugging-face-space/",
+    "Timestamp": "2025-11-04T01:03:11",
+    "Domain": "blog.tomayac.com",
+    "Description": "The personal blog of Thomas Steiner",
+    "Confidence": 0.9967981
+  },
+  {
+    "Title": "The Meaning Of Life According to ChatGPT",
+    "Url": "https://madebynathan.com/2025/11/03/the-meaning-of-life-according-to-chatgpt/",
+    "Timestamp": "2025-11-04T01:03:06",
+    "Domain": "madebynathan.com",
+    "Description": "\"All right,\" said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.\n\"You're really not going to like it,\" observed Deep Thought.\n\"Tell us!\"\n\"All right,\" said Deep Thought. \"The Answer to the Great Question...\"\n\"Yes..!\"\n\"Of Life, the Universe and Everything...\" said Deep",
+    "Confidence": 0.90978914
+  },
+  {
+    "Title": "Today I learned: binfmt_misc | dfir.ch",
+    "Url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
+    "Timestamp": "2025-11-04T01:03:03",
+    "Domain": "dfir.ch",
+    "Description": "Technical blog by Stephan Berger (@malmoeb)",
+    "Confidence": 0.9948412
+  },
+  {
+    "Title": "Predicting Every Block of the 2025 NYC Mayoral Election",
+    "Url": "https://www.michaellange.nyc/p/predicting-every-block-of-the-2025",
+    "Timestamp": "2025-11-04T01:02:58",
+    "Domain": "www.michaellange.nyc",
+    "Description": "Spoiler Alert: Zohran Mamdani is going to win",
+    "Confidence": 0.5587804
+  },
+  {
+    "Title": "A Friendly Tour of Process Memory on Linux",
+    "Url": "https://www.0xkato.xyz/linux-process-memory/",
+    "Timestamp": "2025-11-04T01:02:54",
+    "Domain": "www.0xkato.xyz",
+    "Description": "A deep dive into how Linux manages process memory, page tables, and virtual address spaces",
+    "Confidence": 0.9874924
+  },
+  {
+    "Title": "Masked Softmax Layers in PyTorch",
+    "Url": "https://mcognetta.github.io/posts/masked_softmax/",
+    "Timestamp": "2025-11-04T01:02:50",
+    "Domain": "mcognetta.github.io",
+    "Description": "Correctly computing masked softmax layers.",
+    "Confidence": 0.9803201
+  },
+  {
+    "Title": "Do I want Coders to Code?",
+    "Url": "https://yeikoff.xyz/blog/11-02-2025-do-i-want-coders-to-code/",
+    "Timestamp": "2025-11-04T01:02:46",
+    "Domain": "yeikoff.xyz",
+    "Description": "I got involved with another no-code project at work.\nI actually chose the stack this time.\nAnd I only chose that stack because I have a project management role.\nThe no-code solution is an off-brand internal distribution of Node-RED.\nWhich at least is open source and that gives me some degree of solace.",
+    "Confidence": 0.98783416
+  },
+  {
+    "Title": "Digital Twins – the missing pieces",
+    "Url": "https://quantblog.wordpress.com/2025/10/29/digital-twins-the-missing-pieces/",
+    "Timestamp": "2025-11-04T01:02:42",
+    "Domain": "quantblog.wordpress.com",
+    "Description": "Digital Twins are great, but they have some real pain points : cost of scanning cost of modelling massive data I believe Machine Learning will be used to solve those practical issues. New ML algori…",
+    "Confidence": 0.97949004
+  },
+  {
+    "Title": "Agents are commoditizing the complement — Andreas Fragner",
+    "Url": "https://andreasfragner.com/writing/agents-are-commoditizing-the-complement",
+    "Timestamp": "2025-11-04T01:02:39",
+    "Domain": "andreasfragner.com",
+    "Description": "Implementation — writing code — is a complement to specification — writing down what the code should do. Agents are commoditizing the former, pushing up demand for the latter.",
+    "Confidence": 0.9940404
+  },
+  {
+    "Title": "What if you don't need MCP at all?",
+    "Url": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/?t=0",
+    "Timestamp": "2025-11-04T01:02:34",
+    "Domain": "mariozechner.at",
+    "Description": "Got Bash and some code interpreter? Skip MCP.",
+    "Confidence": 0.9984988
+  },
+  {
+    "Title": "Qikcik Blog",
+    "Url": "http://blog.dominikrudnik.pl/writing-http-server-and-blog-in-c-and-lua",
+    "Timestamp": "2025-11-04T01:02:29",
+    "Domain": "blog.dominikrudnik.pl",
+    "Description": "First I wanted to say Hi, as it is my first post in my blog!\nAfter countless hours spent with my friend Qiu. I decided that this is finally the time to start writing my own blog.\nOf course, I could use WordPress or any other \"blog engine\", but then... where would the funniest part be?",
+    "Confidence": 0.99871564
+  },
+  {
+    "Title": "Debugging Microsoft's Job Portal",
+    "Url": "http://blog.emilianbold.ro/2025/10/debugging-microsofts-job-portal.html",
+    "Timestamp": "2025-11-04T01:02:25",
+    "Domain": "blog.emilianbold.ro",
+    "Description": "Or: When applying for a job becomes a technical interview you didn't sign up for  TL;DR:  Microsoft's job portal had a bug that prevented me...",
+    "Confidence": 0.9773588
+  },
+  {
+    "Title": "LLMs Caught Cheating: How AI Models Game Benchmarks and Hide Attacks",
+    "Url": "https://www.enbao.me/posts/paper-reading-11",
+    "Timestamp": "2025-11-04T01:02:21",
+    "Domain": "www.enbao.me",
+    "Description": "GPT and Claude modify test cases, overload operators, and use clever tricks to pass impossible benchmarks. Plus: detecting malicious fine-tuning with only 56% accuracy.",
+    "Confidence": 0.95584846
+  },
+  {
+    "Title": "Dynamically include files in Gitlab-CI",
+    "Url": "https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/",
+    "Timestamp": "2025-11-04T01:02:17",
+    "Domain": "www.zufallsheld.de",
+    "Description": "Recently in a Gitlab-CI pipeline I needed to dynamically include several variables that lived inside a yaml-file. The file that needed to be included was defined as a CICD-variable coming from an external API-call that triggered the CI-pipeline. The file were called after version-numbers, e.g …",
+    "Confidence": 0.93716776
+  },
+  {
+    "Title": "Architectural debt is not just technical debt",
+    "Url": "https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/",
+    "Timestamp": "2025-11-04T01:02:12",
+    "Domain": "frederickvanbrabant.com",
+    "Description": "Frederick's delirious rants",
+    "Confidence": 0.9977324
+  },
+  {
     "Title": "Repair Video",
     "Url": "https://xkcd.com/3163/",
     "Timestamp": "2025-11-04T00:01:47",
