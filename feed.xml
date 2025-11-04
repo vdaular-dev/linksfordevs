@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>You can't cURL a Border</title>
+      <link>https://drobinin.com/posts/you-cant-curl-a-border/</link>
+      <description>Country borders don't return JSON, they return judgment. So I built a state machine for travel when governments won't expose your state.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://drobinin.com/posts/you-cant-curl-a-border/</guid>
+      <pubDate>Tue, 04 Nov 2025 13:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Things you can do with diodes</title>
       <link>https://lcamtuf.substack.com/p/things-you-can-do-with-diodes</link>
       <description>Paying homage to the component we usually don't think about.</description>
