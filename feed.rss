@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>&lt;/&gt; htmx ~ The fetch()ening</title>
+      <link>https://htmx.org/essays/the-fetchening/</link>
+      <description>You know, technically, I never said anything about a version *four*</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://htmx.org/essays/the-fetchening/</guid>
+      <pubDate>Tue, 04 Nov 2025 03:01:51 GMT</pubDate>
+    </item>
+    <item>
       <title>The Training Imperative</title>
       <link>https://sdan.io/blog/training-imperative</link>
       <description>Apps are RL Environments</description>
@@ -255,16 +264,6 @@ Of course, I could use WordPress or any other "blog engine", but then... where w
       <category>gaming</category>
       <guid>https://www.atvbt.com/21-facts-about-throwing-good-parties/</guid>
       <pubDate>Mon, 03 Nov 2025 04:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tongyi DeepResearch: A New Era of Open-Source AI Researchers</title>
-      <link>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</link>
-      <description>GITHUB HUGGINGFACE MODELSCOPE SHOWCASE
-From Chatbot to Autonomous Agent We are proud to present Tongyi DeepResearch, the first fully open‑source Web Agent to achieve performance on par with OpenAI’s DeepResearch across a comprehensive suite of benchmarks. Tongyi DeepResearch demonstrates state‑of‑the‑art results, scoring 32.9 on the academic reasoning task Humanity’s Last Exam (HLE), 43.4 on BrowseComp and 46.7 on BrowseComp‑ZH in extremely complex information‑seeking tasks, and achieving a score of 75 on the user‑centric xbench‑DeepSearch benchmark, systematically outperforming all existing proprietary and open‑source Deep Research agents.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</guid>
-      <pubDate>Mon, 03 Nov 2025 03:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
