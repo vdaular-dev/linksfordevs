@@ -222,13 +222,5 @@
     "Domain": "www.finalroundai.com",
     "Description": "AI isn’t just automating work. It’s changing who gets to work. Junior developers are being left behind as companies cut entry roles and hire only seniors.",
     "Confidence": 0.92702806
-  },
-  {
-    "Title": "Simple trick to increase coverage: Lying to users about signal strength",
-    "Url": "https://nickvsnetworking.com/simple-trick-to-increase-coverage-lying-to-users-about-signal-strength/",
-    "Timestamp": "2025-11-03T09:01:52",
-    "Domain": "nickvsnetworking.com",
-    "Description": "Poking around in Android the other day I found this nugget in Carrier Config manager; a flag (KEY_INFLATE_SIGNAL_STRENGTH_BOOL) to always report the signal strength to the user as one bar higher than it really is.",
-    "Confidence": 0.89027405
   }
 ]
