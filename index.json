@@ -1,5 +1,149 @@
 [
   {
+    "Title": "Writing an LLM from scratch, part 27 -- what's left, and what's next?",
+    "Url": "https://www.gilesthomas.com/2025/11/llm-from-scratch-27-whats-left-and-whats-next",
+    "Timestamp": "2025-11-05T01:03:41",
+    "Domain": "www.gilesthomas.com",
+    "Description": "Having finished the main body of 'Build an LLM (from scratch)', it's time to think about what I need to do to treat this project as fully done",
+    "Confidence": 0.9836779
+  },
+  {
+    "Title": "Things I Don't Like in Configuration Languages",
+    "Url": "https://medv.io/blog/things-i-dont-like-in-configuration-languages",
+    "Timestamp": "2025-11-05T01:03:37",
+    "Domain": "medv.io",
+    "Description": "Spoiler: I created my own configuration language maml.dev",
+    "Confidence": 0.9986312
+  },
+  {
+    "Title": "Does momentum exist in prediction markets? A short analysis",
+    "Url": "https://nodumbideas.com/p/does-momentum-exist-in-prediction",
+    "Timestamp": "2025-11-05T01:03:33",
+    "Domain": "nodumbideas.com",
+    "Description": "A change of pace driven by a minor obsession. Back to normal NDI next week.",
+    "Confidence": 0.89254624
+  },
+  {
+    "Title": "Hetzner Servers Benchmarks",
+    "Url": "https://softuts.com/hetzner-servers-benchmarks/",
+    "Timestamp": "2025-11-05T01:03:29",
+    "Domain": "softuts.com",
+    "Description": "* EDITED: 4 November 2025 - Added EX63 benchmarks\n\nI wanted to quickly compare how different Hetzner servers are doing (especially in single-threaded), for CPU-intensive tasks.\n\nI ran sysbench on four different machines:\n\n * Hetzner Cloud CPX21 (AMD EPYC Processor, 3vCPU, 4GB RAM) ~9EUR/mo\n * Hetzner Dedicated EX44 (i5-13500, 64GB RAM) ~40EUR/",
+    "Confidence": 0.9876703
+  },
+  {
+    "Title": "We need to give LLMs human-like vision",
+    "Url": "https://matml.bearblog.dev/we-need-to-give-llms-human-like-vision/",
+    "Timestamp": "2025-11-05T01:03:25",
+    "Domain": "matml.bearblog.dev",
+    "Description": "Most people think that the biggest problem facing LLMs is continuous learning. \n\nThe far bigger problem in my opinion is that LLMs cannot use the most impo...",
+    "Confidence": 0.9797027
+  },
+  {
+    "Title": "Why we don't use an ORM and why you (probably) shouldn't",
+    "Url": "https://diploi.com/blog/why-we-dont-use-an-orm-and-why-you-probably-shouldnt-4cfo",
+    "Timestamp": "2025-11-05T01:03:21",
+    "Domain": "diploi.com",
+    "Description": "Jump to TLDR? &gt;              This post is mainly intended for coders early in their careers, ✨vibe...",
+    "Confidence": 0.88445646
+  },
+  {
+    "Title": "From Stock Markets To Ledgers Series, Part I: Fairness",
+    "Url": "https://news.alvaroduran.com/p/from-stock-markets-to-ledgers-series",
+    "Timestamp": "2025-11-05T01:03:17",
+    "Domain": "news.alvaroduran.com",
+    "Description": "Why fairness, not speed, is the ultimate validation of stock markets",
+    "Confidence": 0.95891154
+  },
+  {
+    "Title": "One codebase to rule them all: why to spend time on monorepo for large digital ecosystems",
+    "Url": "https://dev.family/blog/article/why-to-spend-time-on-monorepo-for-large-digital-ecosystems",
+    "Timestamp": "2025-11-05T01:03:12",
+    "Domain": "dev.family",
+    "Description": "Implementing a monorepo streamlines workflows, reduces errors, and helps decision-makers scale large projects efficiently. Learn practical strategies for managing complex development.",
+    "Confidence": 0.94602334
+  },
+  {
+    "Title": "From web developer to database developer in 10 years",
+    "Url": "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html",
+    "Timestamp": "2025-11-05T01:03:08",
+    "Domain": "notes.eatonphil.com",
+    "Description": "From web developer to database developer in 10 years",
+    "Confidence": 0.9877612
+  },
+  {
+    "Title": "The Evolution from RAG to Agentic RAG to Agent Memory – Leonie Monigatti",
+    "Url": "https://leoniemonigatti.com/blog/from-rag-to-agent-memory.html",
+    "Timestamp": "2025-11-05T01:03:04",
+    "Domain": "leoniemonigatti.com",
+    "Description": "Learn how agent memory evolved from vanilla RAG and agentic RAG. Understand the shift from read-only retrieval to read-write operations with pseudo code examples.",
+    "Confidence": 0.98574245
+  },
+  {
+    "Title": "Coding with agents is really good but I feel so empty",
+    "Url": "https://shub.club/writings/2025/november/ai-agents-are-good-i-m-bored-now/",
+    "Timestamp": "2025-11-05T01:02:58",
+    "Domain": "shub.club",
+    "Description": "Coding agents are great but it sucks in a way",
+    "Confidence": 0.9783315
+  },
+  {
+    "Title": "Coding Agents Are Outliers",
+    "Url": "https://vivekhaldar.com/articles/coding-agents-are-outliers/",
+    "Timestamp": "2025-11-05T01:02:55",
+    "Domain": "vivekhaldar.com",
+    "Description": "If you look at the agent landscape today, one of the most prominent success stories has been software coding agents, particularly the quantum leap since the CLI coding agents came out, starting with Claude Code in early 2025. While people were certainly using LLMs for various coding tasks before these CLI agents, this new form factor offered a compelling set of functionality not available before. They can write complex code, debug tricky issues, refactor entire codebases, and even deploy applications.",
+    "Confidence": 0.99273586
+  },
+  {
+    "Title": "You are doing your team retrospective wrong",
+    "Url": "https://domenicoluciani.com/2025/11/03/you-are-doing-your-team-retrospective-wrong.html",
+    "Timestamp": "2025-11-05T01:02:51",
+    "Domain": "domenicoluciani.com",
+    "Description": "A team retrospective is not just another useless meeting, and if you feel so, it means you are doing it wrong, and this article is for you.",
+    "Confidence": 0.98880047
+  },
+  {
+    "Title": "Disaggregated Inference: 18 Months Later",
+    "Url": "https://hao-ai-lab.github.io/blogs/distserve-retro/",
+    "Timestamp": "2025-11-05T01:02:48",
+    "Domain": "hao-ai-lab.github.io",
+    "Description": "Eighteen months ago, our lab introduced DistServe with a simple bet: split LLM inference into prefill and decode, and scale them independently on separate compute pools. Today, almost every production-grade LLM serving framework – NVIDIA Dynamo, llm-d, SGLang, vLLM, LMCache, MoonCake – runs on disaggregation and demonstrates its power in large-scale, real-world LLM serving workloads, with many more continuing to push its boundaries. Concepts like TTFT (time-to-first-token) and TPOT (time-per-output-token), now standard latency metrics in nearly every serving benchmark, were also popularized through the lens of disaggregation.",
+    "Confidence": 0.9694601
+  },
+  {
+    "Title": "Resurrecting valuable expired domains",
+    "Url": "https://blog.mbrt.dev/posts/domain-resurrect/",
+    "Timestamp": "2025-11-05T01:02:41",
+    "Domain": "blog.mbrt.dev",
+    "Description": "I processed a large fraction of the Internet on a single machine, trying to find some valuable but forgotten domain names to buy (probably 25 years too late). Here’s the story of what I found and how I did it, and not the story of why I decided to try, because I don’t know myself.\nSpoiler alert: If you just want to know whether there is indeed something, and you should scramble to scoop it up to become a domain-flipper billionaire, hold your horses: I believe there isn’t much. The following sections are more focused on the engineering side, so if you only care about the conclusion, skip to Results.",
+    "Confidence": 0.9925259
+  },
+  {
+    "Title": "Implementing Soft Deletion in Prisma with Client Extensions",
+    "Url": "https://matranga.dev/true-soft-deletion-in-prisma-orm/",
+    "Timestamp": "2025-11-05T01:02:37",
+    "Domain": "matranga.dev",
+    "Description": "\n\nThis post, my first, walks through extending the popular TypeScript <abbr title=\"Object–relational mapping\">ORM</abbr> Prisma to enable \"soft deleting\" re...",
+    "Confidence": 0.99910706
+  },
+  {
+    "Title": "My Experience of building bytebeat player in Zig",
+    "Url": "https://blog.karanjanthe.me/posts/zig-beat/",
+    "Timestamp": "2025-11-05T01:02:33",
+    "Domain": "blog.karanjanthe.me",
+    "Description": "I left my job at startup last month to have break and enjoy some time being bored, on the weekend i decided to write a bytebeat player for...",
+    "Confidence": 0.9377759
+  },
+  {
+    "Title": "How Airbus took off - Works in Progress Magazine",
+    "Url": "https://worksinprogress.co/issue/how-airbus-took-off/",
+    "Timestamp": "2025-11-05T01:02:27",
+    "Domain": "worksinprogress.co",
+    "Description": "Airbus is an example of successful industrial policy and the rare European company that is better than its American rival. Could its success be copied elsewhere?",
+    "Confidence": 0.6992256
+  },
+  {
     "Title": "GitHub - Snowflake-Labs/pg_lake: pg_lake: Postgres with Iceberg and data lake access",
     "Url": "https://github.com/Snowflake-Labs/pg_lake",
     "Timestamp": "2025-11-05T00:02:06",
@@ -62,157 +206,5 @@
     "Domain": "htmx.org",
     "Description": "You know, technically, I never said anything about a version *four*",
     "Confidence": 0.9880912
-  },
-  {
-    "Title": "The Training Imperative",
-    "Url": "https://sdan.io/blog/training-imperative",
-    "Timestamp": "2025-11-04T01:03:28",
-    "Domain": "sdan.io",
-    "Description": "Apps are RL Environments",
-    "Confidence": 0.9882159
-  },
-  {
-    "Title": "On “Grok is this true?” – Fixing Tao",
-    "Url": "https://fixingtao.com/2025/11/on-grok-is-this-true/",
-    "Timestamp": "2025-11-04T01:03:24",
-    "Domain": "fixingtao.com",
-    "Description": "I was thinking about why this question bothered me so much.",
-    "Confidence": 0.81863296
-  },
-  {
-    "Title": "are-dependent-types-actually-erased - Chad Nauseam Home",
-    "Url": "https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased",
-    "Timestamp": "2025-11-04T01:03:21",
-    "Domain": "chadnauseam.com",
-    "Description": "are-dependent-types-actually-erased - Chad Nauseam Home",
-    "Confidence": 0.99764585
-  },
-  {
-    "Title": "In defence of digital ID",
-    "Url": "https://timharford.com/2025/10/in-defence-of-digital-id/",
-    "Timestamp": "2025-11-04T01:03:17",
-    "Domain": "timharford.com",
-    "Description": "In the late 1930s, a Dutch civil servant, Jacobus Lentz, designed a near-unforgeable identity card. In 1940, the Dutch government rejected his proposal as too intrusive. Weeks later, Germany occupi…",
-    "Confidence": 0.86171806
-  },
-  {
-    "Title": "Running Node.js in a Hugging Face Space",
-    "Url": "https://blog.tomayac.com/2025/11/03/running-nodejs-in-a-hugging-face-space/",
-    "Timestamp": "2025-11-04T01:03:11",
-    "Domain": "blog.tomayac.com",
-    "Description": "The personal blog of Thomas Steiner",
-    "Confidence": 0.9967981
-  },
-  {
-    "Title": "The Meaning Of Life According to ChatGPT",
-    "Url": "https://madebynathan.com/2025/11/03/the-meaning-of-life-according-to-chatgpt/",
-    "Timestamp": "2025-11-04T01:03:06",
-    "Domain": "madebynathan.com",
-    "Description": "\"All right,\" said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.\n\"You're really not going to like it,\" observed Deep Thought.\n\"Tell us!\"\n\"All right,\" said Deep Thought. \"The Answer to the Great Question...\"\n\"Yes..!\"\n\"Of Life, the Universe and Everything...\" said Deep",
-    "Confidence": 0.90978914
-  },
-  {
-    "Title": "Today I learned: binfmt_misc | dfir.ch",
-    "Url": "https://dfir.ch/posts/today_i_learned_binfmt_misc/",
-    "Timestamp": "2025-11-04T01:03:03",
-    "Domain": "dfir.ch",
-    "Description": "Technical blog by Stephan Berger (@malmoeb)",
-    "Confidence": 0.9948412
-  },
-  {
-    "Title": "Predicting Every Block of the 2025 NYC Mayoral Election",
-    "Url": "https://www.michaellange.nyc/p/predicting-every-block-of-the-2025",
-    "Timestamp": "2025-11-04T01:02:58",
-    "Domain": "www.michaellange.nyc",
-    "Description": "Spoiler Alert: Zohran Mamdani is going to win",
-    "Confidence": 0.5587804
-  },
-  {
-    "Title": "A Friendly Tour of Process Memory on Linux",
-    "Url": "https://www.0xkato.xyz/linux-process-memory/",
-    "Timestamp": "2025-11-04T01:02:54",
-    "Domain": "www.0xkato.xyz",
-    "Description": "A deep dive into how Linux manages process memory, page tables, and virtual address spaces",
-    "Confidence": 0.9874924
-  },
-  {
-    "Title": "Masked Softmax Layers in PyTorch",
-    "Url": "https://mcognetta.github.io/posts/masked_softmax/",
-    "Timestamp": "2025-11-04T01:02:50",
-    "Domain": "mcognetta.github.io",
-    "Description": "Correctly computing masked softmax layers.",
-    "Confidence": 0.9803201
-  },
-  {
-    "Title": "Do I want Coders to Code?",
-    "Url": "https://yeikoff.xyz/blog/11-02-2025-do-i-want-coders-to-code/",
-    "Timestamp": "2025-11-04T01:02:46",
-    "Domain": "yeikoff.xyz",
-    "Description": "I got involved with another no-code project at work.\nI actually chose the stack this time.\nAnd I only chose that stack because I have a project management role.\nThe no-code solution is an off-brand internal distribution of Node-RED.\nWhich at least is open source and that gives me some degree of solace.",
-    "Confidence": 0.98783416
-  },
-  {
-    "Title": "Digital Twins – the missing pieces",
-    "Url": "https://quantblog.wordpress.com/2025/10/29/digital-twins-the-missing-pieces/",
-    "Timestamp": "2025-11-04T01:02:42",
-    "Domain": "quantblog.wordpress.com",
-    "Description": "Digital Twins are great, but they have some real pain points : cost of scanning cost of modelling massive data I believe Machine Learning will be used to solve those practical issues. New ML algori…",
-    "Confidence": 0.97949004
-  },
-  {
-    "Title": "Agents are commoditizing the complement — Andreas Fragner",
-    "Url": "https://andreasfragner.com/writing/agents-are-commoditizing-the-complement",
-    "Timestamp": "2025-11-04T01:02:39",
-    "Domain": "andreasfragner.com",
-    "Description": "Implementation — writing code — is a complement to specification — writing down what the code should do. Agents are commoditizing the former, pushing up demand for the latter.",
-    "Confidence": 0.9940404
-  },
-  {
-    "Title": "What if you don't need MCP at all?",
-    "Url": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/?t=0",
-    "Timestamp": "2025-11-04T01:02:34",
-    "Domain": "mariozechner.at",
-    "Description": "Got Bash and some code interpreter? Skip MCP.",
-    "Confidence": 0.9984988
-  },
-  {
-    "Title": "Qikcik Blog",
-    "Url": "http://blog.dominikrudnik.pl/writing-http-server-and-blog-in-c-and-lua",
-    "Timestamp": "2025-11-04T01:02:29",
-    "Domain": "blog.dominikrudnik.pl",
-    "Description": "First I wanted to say Hi, as it is my first post in my blog!\nAfter countless hours spent with my friend Qiu. I decided that this is finally the time to start writing my own blog.\nOf course, I could use WordPress or any other \"blog engine\", but then... where would the funniest part be?",
-    "Confidence": 0.99871564
-  },
-  {
-    "Title": "Debugging Microsoft's Job Portal",
-    "Url": "http://blog.emilianbold.ro/2025/10/debugging-microsofts-job-portal.html",
-    "Timestamp": "2025-11-04T01:02:25",
-    "Domain": "blog.emilianbold.ro",
-    "Description": "Or: When applying for a job becomes a technical interview you didn't sign up for  TL;DR:  Microsoft's job portal had a bug that prevented me...",
-    "Confidence": 0.9773588
-  },
-  {
-    "Title": "LLMs Caught Cheating: How AI Models Game Benchmarks and Hide Attacks",
-    "Url": "https://www.enbao.me/posts/paper-reading-11",
-    "Timestamp": "2025-11-04T01:02:21",
-    "Domain": "www.enbao.me",
-    "Description": "GPT and Claude modify test cases, overload operators, and use clever tricks to pass impossible benchmarks. Plus: detecting malicious fine-tuning with only 56% accuracy.",
-    "Confidence": 0.95584846
-  },
-  {
-    "Title": "Dynamically include files in Gitlab-CI",
-    "Url": "https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/",
-    "Timestamp": "2025-11-04T01:02:17",
-    "Domain": "www.zufallsheld.de",
-    "Description": "Recently in a Gitlab-CI pipeline I needed to dynamically include several variables that lived inside a yaml-file. The file that needed to be included was defined as a CICD-variable coming from an external API-call that triggered the CI-pipeline. The file were called after version-numbers, e.g …",
-    "Confidence": 0.93716776
-  },
-  {
-    "Title": "Architectural debt is not just technical debt",
-    "Url": "https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/",
-    "Timestamp": "2025-11-04T01:02:12",
-    "Domain": "frederickvanbrabant.com",
-    "Description": "Frederick's delirious rants",
-    "Confidence": 0.9977324
   }
 ]

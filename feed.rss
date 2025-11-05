@@ -7,6 +7,187 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Writing an LLM from scratch, part 27 -- what's left, and what's next?</title>
+      <link>https://www.gilesthomas.com/2025/11/llm-from-scratch-27-whats-left-and-whats-next</link>
+      <description>Having finished the main body of 'Build an LLM (from scratch)', it's time to think about what I need to do to treat this project as fully done</description>
+      <author> (Giles Thomas)</author>
+      <category>ai</category>
+      <guid>https://www.gilesthomas.com/2025/11/llm-from-scratch-27-whats-left-and-whats-next</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Things I Don't Like in Configuration Languages</title>
+      <link>https://medv.io/blog/things-i-dont-like-in-configuration-languages</link>
+      <description>Spoiler: I created my own configuration language maml.dev</description>
+      <category>conference</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <guid>https://medv.io/blog/things-i-dont-like-in-configuration-languages</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Does momentum exist in prediction markets? A short analysis</title>
+      <link>https://nodumbideas.com/p/does-momentum-exist-in-prediction</link>
+      <description>A change of pace driven by a minor obsession. Back to normal NDI next week.</description>
+      <guid>https://nodumbideas.com/p/does-momentum-exist-in-prediction</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hetzner Servers Benchmarks</title>
+      <link>https://softuts.com/hetzner-servers-benchmarks/</link>
+      <description>* EDITED: 4 November 2025 - Added EX63 benchmarks
+
+I wanted to quickly compare how different Hetzner servers are doing (especially in single-threaded), for CPU-intensive tasks.
+
+I ran sysbench on four different machines:
+
+ * Hetzner Cloud CPX21 (AMD EPYC Processor, 3vCPU, 4GB RAM) ~9EUR/mo
+ * Hetzner Dedicated EX44 (i5-13500, 64GB RAM) ~40EUR/</description>
+      <category>ai</category>
+      <guid>https://softuts.com/hetzner-servers-benchmarks/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>We need to give LLMs human-like vision</title>
+      <link>https://matml.bearblog.dev/we-need-to-give-llms-human-like-vision/</link>
+      <description>Most people think that the biggest problem facing LLMs is continuous learning. 
+
+The far bigger problem in my opinion is that LLMs cannot use the most impo...</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://matml.bearblog.dev/we-need-to-give-llms-human-like-vision/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why we don't use an ORM and why you (probably) shouldn't</title>
+      <link>https://diploi.com/blog/why-we-dont-use-an-orm-and-why-you-probably-shouldnt-4cfo</link>
+      <description>Jump to TLDR? &amp;gt;              This post is mainly intended for coders early in their careers, ✨vibe...</description>
+      <category>sql</category>
+      <guid>https://diploi.com/blog/why-we-dont-use-an-orm-and-why-you-probably-shouldnt-4cfo</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Stock Markets To Ledgers Series, Part I: Fairness</title>
+      <link>https://news.alvaroduran.com/p/from-stock-markets-to-ledgers-series</link>
+      <description>Why fairness, not speed, is the ultimate validation of stock markets</description>
+      <category>apple</category>
+      <guid>https://news.alvaroduran.com/p/from-stock-markets-to-ledgers-series</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>One codebase to rule them all: why to spend time on monorepo for large digital ecosystems</title>
+      <link>https://dev.family/blog/article/why-to-spend-time-on-monorepo-for-large-digital-ecosystems</link>
+      <description>Implementing a monorepo streamlines workflows, reduces errors, and helps decision-makers scale large projects efficiently. Learn practical strategies for managing complex development.</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://dev.family/blog/article/why-to-spend-time-on-monorepo-for-large-digital-ecosystems</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>From web developer to database developer in 10 years</title>
+      <link>https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html</link>
+      <description>From web developer to database developer in 10 years</description>
+      <category>rust</category>
+      <category>python</category>
+      <category>sql</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Evolution from RAG to Agentic RAG to Agent Memory – Leonie Monigatti</title>
+      <link>https://leoniemonigatti.com/blog/from-rag-to-agent-memory.html</link>
+      <description>Learn how agent memory evolved from vanilla RAG and agentic RAG. Understand the shift from read-only retrieval to read-write operations with pseudo code examples.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://leoniemonigatti.com/blog/from-rag-to-agent-memory.html</guid>
+      <pubDate>Wed, 05 Nov 2025 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding with agents is really good but I feel so empty</title>
+      <link>https://shub.club/writings/2025/november/ai-agents-are-good-i-m-bored-now/</link>
+      <description>Coding agents are great but it sucks in a way</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://shub.club/writings/2025/november/ai-agents-are-good-i-m-bored-now/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding Agents Are Outliers</title>
+      <link>https://vivekhaldar.com/articles/coding-agents-are-outliers/</link>
+      <description>If you look at the agent landscape today, one of the most prominent success stories has been software coding agents, particularly the quantum leap since the CLI coding agents came out, starting with Claude Code in early 2025. While people were certainly using LLMs for various coding tasks before these CLI agents, this new form factor offered a compelling set of functionality not available before. They can write complex code, debug tricky issues, refactor entire codebases, and even deploy applications.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://vivekhaldar.com/articles/coding-agents-are-outliers/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>You are doing your team retrospective wrong</title>
+      <link>https://domenicoluciani.com/2025/11/03/you-are-doing-your-team-retrospective-wrong.html</link>
+      <description>A team retrospective is not just another useless meeting, and if you feel so, it means you are doing it wrong, and this article is for you.</description>
+      <guid>https://domenicoluciani.com/2025/11/03/you-are-doing-your-team-retrospective-wrong.html</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disaggregated Inference: 18 Months Later</title>
+      <link>https://hao-ai-lab.github.io/blogs/distserve-retro/</link>
+      <description>Eighteen months ago, our lab introduced DistServe with a simple bet: split LLM inference into prefill and decode, and scale them independently on separate compute pools. Today, almost every production-grade LLM serving framework – NVIDIA Dynamo, llm-d, SGLang, vLLM, LMCache, MoonCake – runs on disaggregation and demonstrates its power in large-scale, real-world LLM serving workloads, with many more continuing to push its boundaries. Concepts like TTFT (time-to-first-token) and TPOT (time-per-output-token), now standard latency metrics in nearly every serving benchmark, were also popularized through the lens of disaggregation.</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://hao-ai-lab.github.io/blogs/distserve-retro/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resurrecting valuable expired domains</title>
+      <link>https://blog.mbrt.dev/posts/domain-resurrect/</link>
+      <description>I processed a large fraction of the Internet on a single machine, trying to find some valuable but forgotten domain names to buy (probably 25 years too late). Here’s the story of what I found and how I did it, and not the story of why I decided to try, because I don’t know myself.
+Spoiler alert: If you just want to know whether there is indeed something, and you should scramble to scoop it up to become a domain-flipper billionaire, hold your horses: I believe there isn’t much. The following sections are more focused on the engineering side, so if you only care about the conclusion, skip to Results.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>encryption</category>
+      <guid>https://blog.mbrt.dev/posts/domain-resurrect/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Implementing Soft Deletion in Prisma with Client Extensions</title>
+      <link>https://matranga.dev/true-soft-deletion-in-prisma-orm/</link>
+      <description>
+
+This post, my first, walks through extending the popular TypeScript &lt;abbr title="Object–relational mapping"&gt;ORM&lt;/abbr&gt; Prisma to enable "soft deleting" re...</description>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://matranga.dev/true-soft-deletion-in-prisma-orm/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Experience of building bytebeat player in Zig</title>
+      <link>https://blog.karanjanthe.me/posts/zig-beat/</link>
+      <description>I left my job at startup last month to have break and enjoy some time being bored, on the weekend i decided to write a bytebeat player for...</description>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://blog.karanjanthe.me/posts/zig-beat/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Airbus took off - Works in Progress Magazine</title>
+      <link>https://worksinprogress.co/issue/how-airbus-took-off/</link>
+      <description>Airbus is an example of successful industrial policy and the rare European company that is better than its American rival. Could its success be copied elsewhere?</description>
+      <category>git</category>
+      <guid>https://worksinprogress.co/issue/how-airbus-took-off/</guid>
+      <pubDate>Wed, 05 Nov 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - Snowflake-Labs/pg_lake: pg_lake: Postgres with Iceberg and data lake access</title>
       <link>https://github.com/Snowflake-Labs/pg_lake</link>
       <description>pg_lake: Postgres with Iceberg and data lake access - Snowflake-Labs/pg_lake</description>
@@ -75,184 +256,6 @@
       <category>web</category>
       <guid>https://htmx.org/essays/the-fetchening/</guid>
       <pubDate>Tue, 04 Nov 2025 03:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Training Imperative</title>
-      <link>https://sdan.io/blog/training-imperative</link>
-      <description>Apps are RL Environments</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://sdan.io/blog/training-imperative</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>On “Grok is this true?” – Fixing Tao</title>
-      <link>https://fixingtao.com/2025/11/on-grok-is-this-true/</link>
-      <description>I was thinking about why this question bothered me so much.</description>
-      <guid>https://fixingtao.com/2025/11/on-grok-is-this-true/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>are-dependent-types-actually-erased - Chad Nauseam Home</title>
-      <link>https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased</link>
-      <description>are-dependent-types-actually-erased - Chad Nauseam Home</description>
-      <guid>https://chadnauseam.com/coding/pltd/are-dependent-types-actually-erased</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>In defence of digital ID</title>
-      <link>https://timharford.com/2025/10/in-defence-of-digital-id/</link>
-      <description>In the late 1930s, a Dutch civil servant, Jacobus Lentz, designed a near-unforgeable identity card. In 1940, the Dutch government rejected his proposal as too intrusive. Weeks later, Germany occupi…</description>
-      <category>sql</category>
-      <guid>https://timharford.com/2025/10/in-defence-of-digital-id/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running Node.js in a Hugging Face Space</title>
-      <link>https://blog.tomayac.com/2025/11/03/running-nodejs-in-a-hugging-face-space/</link>
-      <description>The personal blog of Thomas Steiner</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://blog.tomayac.com/2025/11/03/running-nodejs-in-a-hugging-face-space/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Meaning Of Life According to ChatGPT</title>
-      <link>https://madebynathan.com/2025/11/03/the-meaning-of-life-according-to-chatgpt/</link>
-      <description>"All right," said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.
-"You're really not going to like it," observed Deep Thought.
-"Tell us!"
-"All right," said Deep Thought. "The Answer to the Great Question..."
-"Yes..!"
-"Of Life, the Universe and Everything..." said Deep</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://madebynathan.com/2025/11/03/the-meaning-of-life-according-to-chatgpt/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Today I learned: binfmt_misc | dfir.ch</title>
-      <link>https://dfir.ch/posts/today_i_learned_binfmt_misc/</link>
-      <description>Technical blog by Stephan Berger (@malmoeb)</description>
-      <category>linux</category>
-      <guid>https://dfir.ch/posts/today_i_learned_binfmt_misc/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Predicting Every Block of the 2025 NYC Mayoral Election</title>
-      <link>https://www.michaellange.nyc/p/predicting-every-block-of-the-2025</link>
-      <description>Spoiler Alert: Zohran Mamdani is going to win</description>
-      <guid>https://www.michaellange.nyc/p/predicting-every-block-of-the-2025</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Friendly Tour of Process Memory on Linux</title>
-      <link>https://www.0xkato.xyz/linux-process-memory/</link>
-      <description>A deep dive into how Linux manages process memory, page tables, and virtual address spaces</description>
-      <category>linux</category>
-      <category>vscode</category>
-      <guid>https://www.0xkato.xyz/linux-process-memory/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Masked Softmax Layers in PyTorch</title>
-      <link>https://mcognetta.github.io/posts/masked_softmax/</link>
-      <description>Correctly computing masked softmax layers.</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <guid>https://mcognetta.github.io/posts/masked_softmax/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do I want Coders to Code?</title>
-      <link>https://yeikoff.xyz/blog/11-02-2025-do-i-want-coders-to-code/</link>
-      <description>I got involved with another no-code project at work.
-I actually chose the stack this time.
-And I only chose that stack because I have a project management role.
-The no-code solution is an off-brand internal distribution of Node-RED.
-Which at least is open source and that gives me some degree of solace.</description>
-      <category>python</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://yeikoff.xyz/blog/11-02-2025-do-i-want-coders-to-code/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digital Twins – the missing pieces</title>
-      <link>https://quantblog.wordpress.com/2025/10/29/digital-twins-the-missing-pieces/</link>
-      <description>Digital Twins are great, but they have some real pain points : cost of scanning cost of modelling massive data I believe Machine Learning will be used to solve those practical issues. New ML algori…</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://quantblog.wordpress.com/2025/10/29/digital-twins-the-missing-pieces/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agents are commoditizing the complement — Andreas Fragner</title>
-      <link>https://andreasfragner.com/writing/agents-are-commoditizing-the-complement</link>
-      <description>Implementation — writing code — is a complement to specification — writing down what the code should do. Agents are commoditizing the former, pushing up demand for the latter.</description>
-      <category>sql</category>
-      <category>vscode</category>
-      <guid>https://andreasfragner.com/writing/agents-are-commoditizing-the-complement</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>What if you don't need MCP at all?</title>
-      <link>https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/?t=0</link>
-      <description>Got Bash and some code interpreter? Skip MCP.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/?t=0</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qikcik Blog</title>
-      <link>http://blog.dominikrudnik.pl/writing-http-server-and-blog-in-c-and-lua</link>
-      <description>First I wanted to say Hi, as it is my first post in my blog!
-After countless hours spent with my friend Qiu. I decided that this is finally the time to start writing my own blog.
-Of course, I could use WordPress or any other "blog engine", but then... where would the funniest part be?</description>
-      <guid>http://blog.dominikrudnik.pl/writing-http-server-and-blog-in-c-and-lua</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debugging Microsoft's Job Portal</title>
-      <link>http://blog.emilianbold.ro/2025/10/debugging-microsofts-job-portal.html</link>
-      <description>Or: When applying for a job becomes a technical interview you didn't sign up for  TL;DR:  Microsoft's job portal had a bug that prevented me...</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>http://blog.emilianbold.ro/2025/10/debugging-microsofts-job-portal.html</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs Caught Cheating: How AI Models Game Benchmarks and Hide Attacks</title>
-      <link>https://www.enbao.me/posts/paper-reading-11</link>
-      <description>GPT and Claude modify test cases, overload operators, and use clever tricks to pass impossible benchmarks. Plus: detecting malicious fine-tuning with only 56% accuracy.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>vscode</category>
-      <category>python</category>
-      <guid>https://www.enbao.me/posts/paper-reading-11</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dynamically include files in Gitlab-CI</title>
-      <link>https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/</link>
-      <description>Recently in a Gitlab-CI pipeline I needed to dynamically include several variables that lived inside a yaml-file. The file that needed to be included was defined as a CICD-variable coming from an external API-call that triggered the CI-pipeline. The file were called after version-numbers, e.g …</description>
-      <category>git</category>
-      <guid>https://www.zufallsheld.de/2025/10/03/dynamic-gitlab-ci-includes/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Architectural debt is not just technical debt</title>
-      <link>https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/</link>
-      <description>Frederick's delirious rants</description>
-      <category>cloud</category>
-      <guid>https://frederickvanbrabant.com/blog/2025-10-31-architectural-debt-is-not-just-technical-debt/</guid>
-      <pubDate>Tue, 04 Nov 2025 01:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
