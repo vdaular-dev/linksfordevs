@@ -1,5 +1,159 @@
 [
   {
+    "Title": "Hack-a-Day, Day 04: Reverse Vibe Coding",
+    "Url": "https://blog.za3k.com/reverse-vibe-coding/",
+    "Timestamp": "2025-11-06T01:03:59",
+    "Domain": "blog.za3k.com",
+    "Description": "Yikes, been having some back pain, and the past few days it's been tougher to work. I've started four projects in four days, without too much to show for it."
+  },
+  {
+    "Title": "Automation Via UEFI – vahidhsahemi.com",
+    "Url": "https://vahidhashemi.com/2025/11/05/automation-via-uefi/",
+    "Timestamp": "2025-11-06T01:03:56",
+    "Domain": "vahidhashemi.com",
+    "Description": "In our datacenter, we faced a recurring challenge when configuring several servers tasks such as setting the system time, updating passwords, and, most importantly, configuring the RAID controller. Our goal was to combine two 10 TB disks into a RAID 1 group for installing VMware ESXi, which only requires about 2 GB of disk space. This approach, however, meant wasting over 9 TB of usable storage just to install a lightweight hypervisor. Using stateless ESXi wasn’t an option, so we needed a better way to manage the RAID configuration directly in order to create two Virtual Drives one with 100GB for the ESXi and rest of it as data disk."
+  },
+  {
+    "Title": "I Built a Local Dev Tool for ChatGPT Apps SDK",
+    "Url": "https://itsnikhil.github.io/blog/posts/oai-app-composer/",
+    "Timestamp": "2025-11-06T01:03:50",
+    "Domain": "itsnikhil.github.io",
+    "Description": "When OpenAI released the Apps SDK, I was really excited. It finally allowed developers to build custom UI components inside ChatGPT, a big step toward making ChatGPT more like a real app platform.\nSo I tried it on day one. And getting it to work, I quickly realized that testing these apps locally wasn’t easy.\nThe Developer Experience Today To develop a simple App for ChatGPT, you currently need to:"
+  },
+  {
+    "Title": "Can we hide the orange dot without disabling SIP? - Alin Panaitiu",
+    "Url": "https://notes.alinpanaitiu.com/Can-we-hide-the-orange-dot-without-disabling-SIP",
+    "Timestamp": "2025-11-06T01:03:46",
+    "Domain": "notes.alinpanaitiu.com",
+    "Description": "A bit of background. When macOS Monterey was announced, Apple added an orange dot indicator that appears on top of everything whenever the microphone is in use. This has made a lot of people very angry and been widely regarded as a bad move. ..."
+  },
+  {
+    "Title": "Stop vibe coding your unit tests — Andy Gallagher",
+    "Url": "https://www.andy-gallagher.com/blog/stop-vibe-coding-your-unit-tests/",
+    "Timestamp": "2025-11-06T01:03:41",
+    "Domain": "www.andy-gallagher.com",
+    "Description": "Don't write noisy, unconstructive unit tests with LLMs"
+  },
+  {
+    "Title": "It really is good enough",
+    "Url": "https://ag404labs.com/p/it-really-is-good-enough",
+    "Timestamp": "2025-11-06T01:03:38",
+    "Domain": "ag404labs.com",
+    "Description": "Field notes from making a living without writing a line of code"
+  },
+  {
+    "Title": "The Death of the Demo",
+    "Url": "https://lielvilla.com/blog/death-of-demo/",
+    "Timestamp": "2025-11-06T01:03:33",
+    "Domain": "lielvilla.com",
+    "Description": "Why flashy AI demos don't tell the real story — and why we need measurable benchmarks for LLMs and TTS."
+  },
+  {
+    "Title": "GROUP BY ALL",
+    "Url": "https://modern-sql.com/caniuse/group-by-all",
+    "Timestamp": "2025-11-06T01:03:30",
+    "Domain": "modern-sql.com",
+    "Description": "Automatically put non-aggregate SELECT items into GROUP BY clause"
+  },
+  {
+    "Title": "Boris Tane",
+    "Url": "https://boristane.com/blog/what-are-cloudflare-durable-objects/",
+    "Timestamp": "2025-11-06T01:03:25",
+    "Domain": "boristane.com",
+    "Description": "Notes from 2 years of building with Cloudflare Durable Objects"
+  },
+  {
+    "Title": "Don't trust smart people! - Matthew T. Mason",
+    "Url": "https://mtmason.com/dont-trust-smart-people/",
+    "Timestamp": "2025-11-06T01:03:20",
+    "Domain": "mtmason.com",
+    "Description": "Some ideas about refining your ideas, starting with a chat with Jeff Schneider. Don't trust smart people's ideas, especially your own ideas!"
+  },
+  {
+    "Title": "A Short Lesson in Simpler Prompts",
+    "Url": "https://blog.nilenso.com/blog/2025/11/04/a-short-lesson-in-simpler-prompts/",
+    "Timestamp": "2025-11-06T01:03:15",
+    "Domain": "blog.nilenso.com",
+    "Description": "How I went from 300-word prompts that barely worked to 15-word prompts that worked quite well."
+  },
+  {
+    "Title": "The kind of company I want to be a part of...",
+    "Url": "https://www.dvsj.in/my-company",
+    "Timestamp": "2025-11-06T01:03:12",
+    "Domain": "www.dvsj.in",
+    "Description": "Like Charlie and the Chocolate Factory. Without the chocolate. And Charlie."
+  },
+  {
+    "Title": "Why bcrypt Can Be Unsafe for Password Hashing ?",
+    "Url": "https://blog.enamya.me/posts/bcrypt-limitation",
+    "Timestamp": "2025-11-06T01:03:07",
+    "Domain": "blog.enamya.me",
+    "Description": "TL;DR: bcrypt ignores any bytes after the first 72 bytes, this is due to bcrypt being based on the Blowfish cipher which has this limitation.\n bcrypt has been a commonly used password hashing algorithm for decades, it’s slow by design, includes built-in salting, and has protected countless systems from brute-force attacks.\nBut despite its solid reputation, it also has a few hidden limitations worth knowing about.\nLet’s take a look at this code:"
+  },
+  {
+    "Title": "Announcing Development on Flirt",
+    "Url": "https://blog.buenzli.dev/announcing-development-on-flirt/",
+    "Timestamp": "2025-11-06T01:03:04",
+    "Domain": "blog.buenzli.dev",
+    "Description": ""
+  },
+  {
+    "Title": "How to Sail a Building",
+    "Url": "https://www.scopeofwork.net/how-to-sail-a-building/",
+    "Timestamp": "2025-11-06T01:02:59",
+    "Domain": "www.scopeofwork.net",
+    "Description": "Domestic calm is what I'm after, come hell or high water."
+  },
+  {
+    "Title": "Now and Meanwhile: Two Worlds of Finance",
+    "Url": "https://blog.zactownsend.com/now-and-meanwhile-two-worlds-of-finance",
+    "Timestamp": "2025-11-06T01:02:55",
+    "Domain": "blog.zactownsend.com",
+    "Description": "Most of modern finance has been built for now: instant payments, real-time trading, same-day settlement, on-demand credit. We have made moving money effortless. Tap, swipe, trade,..."
+  },
+  {
+    "Title": "The future of LLMs: cognitive core + cartridges?",
+    "Url": "https://killerstorm.github.io/ai/2025/11/04/cogcore.html",
+    "Timestamp": "2025-11-06T01:02:51",
+    "Domain": "killerstorm.github.io",
+    "Description": "Andrej Karpathy introduced a concept of a “cognitive core”:"
+  },
+  {
+    "Title": "Flatpak Happenings",
+    "Url": "https://blog.sebastianwick.net/posts/flatpak-happenings/",
+    "Timestamp": "2025-11-06T01:02:48",
+    "Domain": "blog.sebastianwick.net",
+    "Description": "Yesterday I released Flatpak 1.17.0. It is the first version of the unstable 1.17 series and the first release in 6 months. There are a few things which didn’t make it for this release, which is why I’m planning to do another unstable release rather soon, and then a stable release still this year.\nBack at LAS this year I talked about the Future of Flatpak and I started with the grim situation the project found itself in: Flatpak was stagnant, the maintainers left the project and PRs didn’t get reviewed."
+  },
+  {
+    "Title": "User Experience is Computation",
+    "Url": "https://madebynathan.com/2025/11/05/user-experience-is-computation/",
+    "Timestamp": "2025-11-06T01:02:43",
+    "Domain": "madebynathan.com",
+    "Description": "TL;DR Computer programs with a user interface are parallel computation across multiple substrates: CPU and brain.\n\nThis is a follow-up to my post about Universal Causal Language (UCL).\n\n\nThe Concept\n\nEvery program with a user interface is running parallel computation on both a CPU and a brain.\n\nThe computation"
+  },
+  {
+    "Title": "Being Opinionated",
+    "Url": "https://hugo.writizzy.com/being-opinionated/57a0fa35-1afc-4824-8d42-3bce26e94ade",
+    "Timestamp": "2025-11-06T01:02:40",
+    "Domain": "hugo.writizzy.com",
+    "Description": "Building a product is making choices. The same applies to how you talk about it."
+  },
+  {
+    "Title": "When Life gives you Jenga",
+    "Url": "https://jameelur.com/blog/when-life-gives-you-jenga",
+    "Timestamp": "2025-11-06T01:02:34",
+    "Domain": "jameelur.com",
+    "Description": "When life gives you Jenga, you have fun with it :)"
+  },
+  {
+    "Title": "Developing desktop apps from scratch: A feature checklist",
+    "Url": "https://alek-tron.com/AppChecklist/Checklist.html",
+    "Timestamp": "2025-11-06T01:02:28",
+    "Domain": "alek-tron.com",
+    "Description": "Author: alek-tron.com | alektron1@gmail.com"
+  },
+  {
     "Title": "News - New gel restores dental enamel and could revolutionise tooth repair",
     "Url": "https://www.nottingham.ac.uk/news/new-gel-restores-dental-enamel-and-could-revolutionise-tooth-repair",
     "Timestamp": "2025-11-06T00:01:59",
