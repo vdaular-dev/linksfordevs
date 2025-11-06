@@ -1,5 +1,13 @@
 [
   {
+    "Title": "App Showcase",
+    "Url": "https://ratatui.rs/showcase/apps/",
+    "Timestamp": "2025-11-06T09:01:53",
+    "Domain": "ratatui.rs",
+    "Description": "Atuin replaces your existing shell history with a SQLite database, and records additional context\nfor your commands.",
+    "Confidence": 0.99377215
+  },
+  {
     "Title": "End of Japanese community | SUMO community discussions | Forums",
     "Url": "https://support.mozilla.org/en-US/forums/contributors/717446",
     "Timestamp": "2025-11-06T06:01:58",
@@ -238,13 +246,5 @@
     "Domain": "torrentfreak.com",
     "Description": "With nearly 750 million URLs removed from Google search, popular shadow library Anna's Archive is a top target for copyright holders.",
     "Confidence": 0.646605
-  },
-  {
-    "Title": "Send this article to your friend who still thinks the cloud is a good idea",
-    "Url": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
-    "Timestamp": "2025-11-05T09:02:03",
-    "Domain": "rameerez.com",
-    "Description": "You've been lied to. You don't need the cloud – you can just run servers and save 10x your AWS costs. It's not that difficult.",
-    "Confidence": 0.9711182
   }
 ]
