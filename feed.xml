@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple is crossing a Steve Jobs red line</title>
+      <link>https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/</link>
+      <description>You can fault Tim Cook for a number of things. Number one on the list, of course, is that he is not Steve Jobs. The nerve of that man!</description>
+      <category>apple</category>
+      <guid>https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/</guid>
+      <pubDate>Sat, 08 Nov 2025 02:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>How Men and Women Spend Their Days</title>
       <link>https://flowingdata.com/2025/11/04/spend-days-men-women-2024/</link>
       <description>Women and men tend to spend their days differently in the United States. Varying responsibilities and priorities will do that.</description>
@@ -307,166 +315,6 @@ Disclaimer: These are my notes from some unscientific tests, docs, and content p
       <category>gaming</category>
       <guid>https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html</guid>
       <pubDate>Fri, 07 Nov 2025 10:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Advanced Beginner’s guide to ClojureScript | Roman Liutikov, Software Engineer</title>
-      <link>https://romanliutikov.com/blog/advanced-beginners-guide-to-clojurescript</link>
-      <description>Having hard time figuring out how to build your ClojureScript project? This guide helps you to understand how the code is compiled</description>
-      <category>nodejs</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://romanliutikov.com/blog/advanced-beginners-guide-to-clojurescript</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Much Does This Meeting Cost?</title>
-      <link>https://ramezanpour.net/post/2025/11/06/how-much-does-this-meeting-cost</link>
-      <description>Photo by Austin Distel on Unsplash</description>
-      <guid>https://ramezanpour.net/post/2025/11/06/how-much-does-this-meeting-cost</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don’t Build an Audience</title>
-      <link>https://www.humaninvariant.com/blog/audience</link>
-      <description>Great work always finds the people who matter</description>
-      <guid>https://www.humaninvariant.com/blog/audience</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game design is simple, actually</title>
-      <link>https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/</link>
-      <description>So, let’s just walk through the whole thing, end to end. Here’s a twelve-step program for understanding game design. One: Fun There are a lot of things people call “fun.” But most of them are not u…</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.raphkoster.com/2025/11/03/game-design-is-simple-actually/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>New repository engagements page on trendshift.io</title>
-      <link>https://julianli.co/articles/repository-engagements-page-on-trendshift-io</link>
-      <description>The Repository Engagements page helps you quickly determine whether trending repositories are still popular, receiving contributions, and actively maintained.</description>
-      <category>sql</category>
-      <category>git</category>
-      <guid>https://julianli.co/articles/repository-engagements-page-on-trendshift-io</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>How creepy is the personalization in ChatGPT? – James O'Claire</title>
-      <link>https://jamesoclaire.com/2025/11/06/how-creepy-is-the-personalization-in-chatgpt/</link>
-      <description>I’ve been pretty cavalier with using AI. I think once I got used to not fully trusting it’s truthfulness, and instead using it like a teacher that I question and verify. But this past month I’ve been getting more uncomfortable with the answers. Especially ones that I can see are digging up little nuggets of personal information I dropped in over the past year:</description>
-      <category>vscode</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://jamesoclaire.com/2025/11/06/how-creepy-is-the-personalization-in-chatgpt/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Feature Extraction with KNN • fastknn</title>
-      <link>https://davpinto.github.io/fastknn/articles/knn-extraction.html</link>
-      <description>The fastknn provides a function to do feature extraction using KNN. It generates k * c new features, where c is the number of class labels. The new features are computed from the distances between the observations and their k nearest neighbors inside each class, as follows:</description>
-      <category>web</category>
-      <guid>https://davpinto.github.io/fastknn/articles/knn-extraction.html</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Should Write An Agent</title>
-      <link>https://fly.io/blog/everyone-write-an-agent/</link>
-      <description>They're like riding a bike: easy, and you don't get it until you try.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>python</category>
-      <category>cloud</category>
-      <guid>https://fly.io/blog/everyone-write-an-agent/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Web Thing Protocol</title>
-      <link>https://tola.me.uk/blog/2025/11/06/introducing-the-web-thing-protocol/</link>
-      <description>I am excited to share that the W3C Web Thing Protocol Community Group has published the first draft of the Web Thing Protocol WebSocket sub-protocol, a dedicated real-time protocol for the Web of Things.</description>
-      <category>javascript</category>
-      <guid>https://tola.me.uk/blog/2025/11/06/introducing-the-web-thing-protocol/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Thing That Changes Everything.</title>
-      <link>https://abermoo.wordpress.com/2025/11/06/the-thing-that-changes-everything/</link>
-      <description>Okay, I’ve been working on this for a long time. A really long time. But now it’s here.Something that’s going to change everything forever. Picture this: you’re out somewhere, your head full of tho…</description>
-      <guid>https://abermoo.wordpress.com/2025/11/06/the-thing-that-changes-everything/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Would a 4D Camera Work?</title>
-      <link>https://dugas.ch/funderstanding/4d_camera.html</link>
-      <description>Nov 2025   |   By Daniel Dugas</description>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://dugas.ch/funderstanding/4d_camera.html</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collatz stopping time parity</title>
-      <link>https://gbragafibra.github.io/2025/10/31/collatz_stopping_time_parity.html</link>
-      <description>Consider the following collatz function:</description>
-      <category>web</category>
-      <guid>https://gbragafibra.github.io/2025/10/31/collatz_stopping_time_parity.html</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gif to MP4 encoding in the browser, the terminal &amp; everywhere else</title>
-      <link>https://shaneosullivan.wordpress.com/2025/11/06/gif-to-mp4-encoding-in-the-browser-the-terminal-everywhere-else/</link>
-      <description>TLDR: I’ve shipped a new NPM module called gif2vid that enabled video encoding of GIF files in the browser, in your terminal and in a web app backend. I’ve also created an uber simple w…</description>
-      <category>ruby</category>
-      <category>apple</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://shaneosullivan.wordpress.com/2025/11/06/gif-to-mp4-encoding-in-the-browser-the-terminal-everywhere-else/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reflection – Alex Polozov</title>
-      <link>https://alexpolozov.com/blog/reflection/</link>
-      <description>Reflection AI is building the frontier open intelligence ecosystem of the Western world. I discuss AI as a platform technology, the importance of Western open …</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://alexpolozov.com/blog/reflection/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Charlemagne Labs - Safety is a Human Right</title>
-      <link>https://charlemagnelabs.ai/blog/building-agent-charley-270m-parameter-local-ai</link>
-      <description>Charlemagne Labs combines cutting-edge technology with visionary thinking to create solutions that shape the future.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://charlemagnelabs.ai/blog/building-agent-charley-270m-parameter-local-ai</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build Efficient MCP Servers: Three Design Principles</title>
-      <link>https://www.damiangalarza.com/posts/2025-11-06-build-efficient-mcp-servers-three-design-principles/</link>
-      <description>Three design principles for context-efficient MCP servers: filter at source, pre-aggregate data, work creatively. Real reductions: 746k→262 tokens.</description>
-      <author> (Damian Galarza)</author>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://www.damiangalarza.com/posts/2025-11-06-build-efficient-mcp-servers-three-design-principles/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Fan Worked Fine, So I Gave it WiFi</title>
-      <link>https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/</link>
-      <description></description>
-      <category>conference</category>
-      <category>git</category>
-      <guid>https://ellis.codes/blog/my-fan-worked-fine-so-i-gave-it-wi-fi/</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I stopped worrying and learned to love the easy fix</title>
-      <link>https://tn1ck.com/blog/how-i-stopped-worrying-and-learned-to-love-the-easy-fix</link>
-      <description>On the balance between perfect solutions and pragmatic fixes in software engineering</description>
-      <category>sql</category>
-      <guid>https://tn1ck.com/blog/how-i-stopped-worrying-and-learned-to-love-the-easy-fix</guid>
-      <pubDate>Fri, 07 Nov 2025 02:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
