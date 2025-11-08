@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ticker: Don’t Die of Heart Disease </title>
+      <link>https://myticker.com/</link>
+      <description>by Jared Hecht (blog, linkedin, twitter)</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://myticker.com/</guid>
+      <pubDate>Sat, 08 Nov 2025 22:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>My friends and I accidentally faked the Ryzen 7 9700X3D leaks. This is how we did it, and why you can't trust online bench databases.</title>
+      <link>https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/</link>
+      <description>Posted in r/pcmasterrace by u/A_Canadian_boi • 4,786 points and 130 comments</description>
+      <category>linux</category>
+      <category>sql</category>
+      <guid>https://old.reddit.com/r/pcmasterrace/comments/1orc6jl/my_friends_and_i_accidentally_faked_the_ryzen_7/</guid>
+      <pubDate>Sat, 08 Nov 2025 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Setting up a static site with Github Pages + Astro | Pure Krome</title>
       <link>https://www.world-domination.com.au/posts/setup-static-website-github-pages-with-astro/</link>
       <description>Static Website with Github + Astro</description>
@@ -354,14 +373,6 @@ Disclaimer: These are my notes from some unscientific tests, docs, and content p
       <category>gaming</category>
       <guid>https://openmw.org/2025/openmw-0-50-0-released/</guid>
       <pubDate>Fri, 07 Nov 2025 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I love OCaml</title>
-      <link>https://mccd.space/posts/ocaml-the-worlds-best/</link>
-      <description>Personal blog of Marc Coquand.</description>
-      <category>rust</category>
-      <guid>https://mccd.space/posts/ocaml-the-worlds-best/</guid>
-      <pubDate>Fri, 07 Nov 2025 22:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
