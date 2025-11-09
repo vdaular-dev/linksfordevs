@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tabloid: the clickbait headline programming language</title>
+      <link>https://tabloid.vercel.app/</link>
+      <description>Tabloid is a real, turing complete programming language written in JavaScript, inspired by cilckbait headlines.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://tabloid.vercel.app/</guid>
+      <pubDate>Sun, 09 Nov 2025 14:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>World’s Largest Cargo Sailboat Completes Historic First Atlantic Crossing</title>
       <link>https://www.marineinsight.com/shipping-news/worlds-largest-cargo-sailboat-completes-historic-first-atlantic-crossing/</link>
       <description>Marine Insight - The maritime industry guide.</description>
@@ -204,24 +213,6 @@ ahead with the project.</description>
       <category>python</category>
       <guid>https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/</guid>
       <pubDate>Sat, 08 Nov 2025 17:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>» The Space Sim’s Last Hurrah The Digital Antiquarian</title>
-      <link>https://www.filfre.net/2025/11/the-space-sims-last-hurrah/</link>
-      <description></description>
-      <category>gaming</category>
-      <category>vscode</category>
-      <guid>https://www.filfre.net/2025/11/the-space-sims-last-hurrah/</guid>
-      <pubDate>Sat, 08 Nov 2025 14:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>becoming a compiler engineer</title>
-      <link>https://rona.substack.com/p/becoming-a-compiler-engineer</link>
-      <description>I got a job!</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://rona.substack.com/p/becoming-a-compiler-engineer</guid>
-      <pubDate>Sat, 08 Nov 2025 14:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
