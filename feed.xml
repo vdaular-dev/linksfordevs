@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LLMs are steroids for your Dunning-Kruger</title>
+      <link>https://bytesauna.com/post/dunning-kruger</link>
+      <description>ChatGPT and LLMs amplify both insight and illusion. They are not knowledge engines, but confidence engines shaping how we think and learn.</description>
+      <category>ai</category>
+      <guid>https://bytesauna.com/post/dunning-kruger</guid>
+      <pubDate>Mon, 10 Nov 2025 22:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions</title>
       <link>https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</link>
       <description>Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel</description>
