@@ -1,5 +1,101 @@
 [
   {
+    "Title": "Managing Your Manager",
+    "Url": "https://yusufaytas.com/managing-your-manager/",
+    "Timestamp": "2025-11-10T00:02:42",
+    "Domain": "yusufaytas.com",
+    "Description": "Learn how to manage your manager through clarity, influence, early signals and trust. Practical tactics to work better with leaders and avoid surprises.",
+    "Confidence": 0.95857686
+  },
+  {
+    "Title": "LightGBM Explained",
+    "Url": "https://yanisfalaki.com/posts/lgbm/",
+    "Timestamp": "2025-11-10T00:02:36",
+    "Domain": "yanisfalaki.com",
+    "Description": "LightGBM is probably the most widely used algorithm used for machine learning tasks on tabular data. On kaggle you almost always see it in the top 10 leaderboards, yet many (and I suspect most) only understand the interface of its official library, and not its technical underpinnings.",
+    "Confidence": 0.97074723
+  },
+  {
+    "Title": "Writing your own BEAM",
+    "Url": "https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html",
+    "Timestamp": "2025-11-10T00:02:32",
+    "Domain": "martin.janiczek.cz",
+    "Description": "This is my Code BEAM Europe 2025 talk, converted to a blogpost.",
+    "Confidence": 0.99819803
+  },
+  {
+    "Title": "Introducing Sampo — Goulven Clec'h",
+    "Url": "https://goulven-clech.dev/2025/introducing-sampo/",
+    "Timestamp": "2025-11-10T00:02:28",
+    "Domain": "goulven-clech.dev",
+    "Description": "My new open-source side project to automate changelogs, versioning, and publishing... even for monorepos across multiple package registries.",
+    "Confidence": 0.9923518
+  },
+  {
+    "Title": "What do noise functions sound like?",
+    "Url": "https://aabiji.github.io/html/noise.html",
+    "Timestamp": "2025-11-10T00:02:24",
+    "Domain": "aabiji.github.io",
+    "Description": "Abigail Adegbiji • November 9, 2025",
+    "Confidence": 0.9981276
+  },
+  {
+    "Title": "Does ChatGPT know my geolocation?",
+    "Url": "https://www.hermandaniel.com/blog/20251109-chatgpt-geolocation/",
+    "Timestamp": "2025-11-10T00:02:20",
+    "Domain": "www.hermandaniel.com",
+    "Description": "The evidence that ChatGPT knows my IP geolocation.",
+    "Confidence": 0.8797453
+  },
+  {
+    "Title": "Using UUIDv7 with Rails without PostgreSQL 18",
+    "Url": "https://t27duck.com/posts/31-using-uuidv7-on-rails-without-postgresql-18",
+    "Timestamp": "2025-11-10T00:02:17",
+    "Domain": "t27duck.com",
+    "Description": "UUIDv7 was added to PostgreSQL 18 to support time-based UUIDs, but you don't have to upgrade to take advantage of them now.",
+    "Confidence": 0.99809515
+  },
+  {
+    "Title": "Growing explanations together – Clojure Civitas",
+    "Url": "https://clojurecivitas.github.io/civitas/why/growing_explanations_together.html",
+    "Timestamp": "2025-11-10T00:02:12",
+    "Domain": "clojurecivitas.github.io",
+    "Description": "",
+    "Confidence": 0.98984456
+  },
+  {
+    "Title": "What Small Bootstrapped Software Companies Can Learn From Michelin-Starred Restaurants",
+    "Url": "https://itwasjacob.com/posts/michelin-software-teams/",
+    "Timestamp": "2025-11-10T00:02:08",
+    "Domain": "itwasjacob.com",
+    "Description": "Small software teams fail the same way bad restaurants do: specialized people doing good work toward different goals. Michelin kitchens prove you don't need more people or meetings. You need three layers of coordination working together.",
+    "Confidence": 0.99193335
+  },
+  {
+    "Title": "Compiling a Call to a Block",
+    "Url": "https://patshaughnessy.net/2025/11/3/compiling-a-call-to-a-block",
+    "Timestamp": "2025-11-10T00:02:05",
+    "Domain": "patshaughnessy.net",
+    "Description": "I've started working on a new edition of Ruby Under a\nMicroscope that covers Ruby 3.x. I'm working on this in my spare time, so it\nwill take a while. Leave a comment or drop\nme a line and I'll email you when it's finished.",
+    "Confidence": 0.997087
+  },
+  {
+    "Title": "Lior BD",
+    "Url": "https://www.liorbd.me/blog/burnout",
+    "Timestamp": "2025-11-10T00:02:01",
+    "Domain": "www.liorbd.me",
+    "Description": "Lior Ben-David's personal website",
+    "Confidence": 0.8707317
+  },
+  {
+    "Title": "Everything is a Spreadsheet",
+    "Url": "https://ben-mini.com/2025/everything-is-a-spreadsheet",
+    "Timestamp": "2025-11-10T00:01:58",
+    "Domain": "ben-mini.com",
+    "Description": "Revisiting an old 2020 Invest Like the Best podcast that interviews John Collision, co-founder of Stripe. When asked about his thoughts on no-code:",
+    "Confidence": 0.99545455
+  },
+  {
     "Title": "Marble Fountain",
     "Url": "https://willmorrison.net/posts/marble-fountain/",
     "Timestamp": "2025-11-09T21:01:58",
