@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions</title>
+      <link>https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</link>
+      <description>Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel</description>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</guid>
+      <pubDate>Mon, 10 Nov 2025 21:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>XSLT.RIP - Google are killing XSLT!</title>
       <link>https://xslt.rip/</link>
       <description>October 24th 2025: Google published the death note:
@@ -136,13 +144,6 @@ me a line and I'll email you when it's finished.</description>
       <category>ai</category>
       <guid>https://ben-mini.com/2025/everything-is-a-spreadsheet</guid>
       <pubDate>Mon, 10 Nov 2025 00:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marble Fountain</title>
-      <link>https://willmorrison.net/posts/marble-fountain/</link>
-      <description>I really enjoy procedural generation, especially systems designed to work with hardware outputs. After starting work at Formlabs in September of 2023 and gaining access to much nicer printers than I was used to, I started wanting to tackle some large algorithmic structure projects. Complexity is free in 3d printing, the limit of design geometry is mostly how much time you’re willing to spend in CAD. I wanted to print the most complicated art piece I could think of.</description>
-      <guid>https://willmorrison.net/posts/marble-fountain/</guid>
-      <pubDate>Sun, 09 Nov 2025 21:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

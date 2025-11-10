@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
+    "Url": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
+    "Timestamp": "2025-11-10T21:01:59",
+    "Domain": "www.phoronix.com",
+    "Description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel",
+    "Confidence": 0.9834165
+  },
+  {
     "Title": "XSLT.RIP - Google are killing XSLT!",
     "Url": "https://xslt.rip/",
     "Timestamp": "2025-11-10T11:01:58",
@@ -110,13 +118,5 @@
     "Domain": "ben-mini.com",
     "Description": "Revisiting an old 2020 Invest Like the Best podcast that interviews John Collision, co-founder of Stripe. When asked about his thoughts on no-code:",
     "Confidence": 0.99545455
-  },
-  {
-    "Title": "Marble Fountain",
-    "Url": "https://willmorrison.net/posts/marble-fountain/",
-    "Timestamp": "2025-11-09T21:01:58",
-    "Domain": "willmorrison.net",
-    "Description": "I really enjoy procedural generation, especially systems designed to work with hardware outputs. After starting work at Formlabs in September of 2023 and gaining access to much nicer printers than I was used to, I started wanting to tackle some large algorithmic structure projects. Complexity is free in 3d printing, the limit of design geometry is mostly how much time you’re willing to spend in CAD. I wanted to print the most complicated art piece I could think of.",
-    "Confidence": 0.8840078
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
+    "Url": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
+    "Timestamp": "2025-11-10T21:01:59",
+    "Domain": "www.phoronix.com",
+    "Description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel"
+  },
+  {
     "Title": "XSLT.RIP - Google are killing XSLT!",
     "Url": "https://xslt.rip/",
     "Timestamp": "2025-11-10T11:01:58",
