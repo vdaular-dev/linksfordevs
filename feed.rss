@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FFmpeg to Google: Fund Us or Stop Sending Bugs</title>
+      <link>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</link>
+      <description>A lively discussion about open source, security, and who pays the bills has erupted on Twitter. </description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</guid>
+      <pubDate>Tue, 11 Nov 2025 21:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing iPhone Pocket: a beautiful way to wear and carry iPhone</title>
       <link>https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/</link>
       <description>ISSEY MIYAKE and Apple today unveiled iPhone Pocket, designed to fit any iPhone as well as all pocketable items.</description>
@@ -261,14 +272,6 @@ https://www.youtube.com/@davepl</description>
       <category>ai</category>
       <guid>https://bytesauna.com/post/dunning-kruger</guid>
       <pubDate>Mon, 10 Nov 2025 22:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Linux Kernel Looks To "Bite The Bullet" In Enabling Microsoft C Extensions</title>
-      <link>https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</link>
-      <description>Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel</description>
-      <category>linux</category>
-      <guid>https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext</guid>
-      <pubDate>Mon, 10 Nov 2025 21:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

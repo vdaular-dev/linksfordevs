@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
+    "Url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
+    "Timestamp": "2025-11-11T21:02:11",
+    "Domain": "thenewstack.io",
+    "Description": "A lively discussion about open source, security, and who pays the bills has erupted on Twitter. ",
+    "Confidence": 0.93476266
+  },
+  {
     "Title": "Introducing iPhone Pocket: a beautiful way to wear and carry iPhone",
     "Url": "https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/",
     "Timestamp": "2025-11-11T19:02:06",
@@ -198,13 +206,5 @@
     "Domain": "bytesauna.com",
     "Description": "ChatGPT and LLMs amplify both insight and illusion. They are not knowledge engines, but confidence engines shaping how we think and learn.",
     "Confidence": 0.98279154
-  },
-  {
-    "Title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
-    "Url": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext",
-    "Timestamp": "2025-11-10T21:01:59",
-    "Domain": "www.phoronix.com",
-    "Description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel",
-    "Confidence": 0.9834165
   }
 ]
