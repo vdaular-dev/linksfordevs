@@ -1,5 +1,96 @@
 [
   {
+    "Title": "Learning Biology as a Software Developer",
+    "Url": "https://pablofarias.com/learning-biology-as-a-software-developer/",
+    "Timestamp": "2025-11-11T03:03:02",
+    "Domain": "pablofarias.com",
+    "Description": "After 30 years of programming and with all the annoying AI madness I felt like learning something entirely new.\n\nWith biohacking being a huge interest of mine for the past couple of years, I decided to take on the challenge to learn the basics of biology.\n\nStarted with Harvard's Mitochondria"
+  },
+  {
+    "Title": "Builder Design Pattern and Cyclomatic Complexity Reduction",
+    "Url": "https://johnjr.dev/posts/builder-design-pattern-and-cyclomatic-complexity-reduction/",
+    "Timestamp": "2025-11-11T03:02:59",
+    "Domain": "johnjr.dev",
+    "Description": "In this post, I will explain in detail how I used the builder design pattern together with the bit mask field technique to reduce complexity. As a result, I decreased the cyclomatic complexity from 24 to 0 and reduced development time from hours to minutes.\nThe rest of this post is organized as follows sections:\n\nThe problem explains the problem I was solving.\nCreating the bit mask field presents a solution to the problem.\nCyclomatic Complexity discusses cyclomatic complexity and calculates this metric for the solution presented in the section above.\nBuilder design pattern explains the builder design pattern and describes the refactoring process that removed complexity.\nConclusion summarizes this post.\nReferences provides references related to the topics discussed here.\n\nAll the examples shown here are in C++."
+  },
+  {
+    "Title": "I Hate Screenshots of Text",
+    "Url": "https://parkscomputing.com/page/i-hate-screenshots-of-text",
+    "Timestamp": "2025-11-11T03:02:55",
+    "Domain": "parkscomputing.com",
+    "Description": "Why do people take screenshots of text?"
+  },
+  {
+    "Title": "Building Cursor Hooks for Prisma - @gadogado.dev, Geoff Ereth",
+    "Url": "https://www.gadogado.dev/posts/building-cursor-hooks-for-prisma",
+    "Timestamp": "2025-11-11T03:02:51",
+    "Domain": "www.gadogado.dev",
+    "Description": "Hooks have been around for a bit now in Claude Code and just recently landed in Cursor.  Let's go over how to write and test your own \"afterFileEdit\" hook with Cursor."
+  },
+  {
+    "Title": "Dull days at the factory",
+    "Url": "https://mihaiolteanu.me/dull-days-at-the-factory",
+    "Timestamp": "2025-11-11T03:02:47",
+    "Domain": "mihaiolteanu.me",
+    "Description": "\"Can you design the electrical wiring for this conference room?\" J, my\n                future boss asks me. Back in college, we designed the electrical wiring\n                for a whole factory. This is just a small conference room with two\n                lightbulbs. But I've finished my Electrical Engineering studies three\n                months ago and all I got is rejections. I am by now experienced in the\n                arts of the technical interview. I can look the audience in the eye and\n                give them what they want. \"Oh no, of course not!\" I reply and we all laugh\n                stupidly about it. Both J and his boss like my answer. It's 2008 and I'm\n                officially an engineer."
+  },
+  {
+    "Title": "How to use Claude Code for big tasks without turning your code to shit | Hold The Robot",
+    "Url": "https://holdtherobot.com/blog/how-to-use-claude-code-for-big-tasks-without-turning-your-code-to-shit/",
+    "Timestamp": "2025-11-11T03:02:44",
+    "Domain": "holdtherobot.com",
+    "Description": "I find myself using LLMs for coding in 4 specific ways:"
+  },
+  {
+    "Title": "Foundations for hacking on OCaml · KC Sivaramakrishnan",
+    "Url": "https://kcsrk.info/ocaml/2025/11/10/hacking/",
+    "Timestamp": "2025-11-11T03:02:41",
+    "Domain": "kcsrk.info",
+    "Description": "10 Nov 2025"
+  },
+  {
+    "Title": "The Underwear Fixed Point",
+    "Url": "https://notes.hella.cheap/the-underwear-fixed-point.html",
+    "Timestamp": "2025-11-11T03:02:38",
+    "Domain": "notes.hella.cheap",
+    "Description": "In which I fit a neural embedding to my gotosocial server"
+  },
+  {
+    "Title": "Using Vite with Vue and Django",
+    "Url": "https://wedgworth.dev/using-vite-with-vue-and-django/",
+    "Timestamp": "2025-11-11T03:02:34",
+    "Domain": "wedgworth.dev",
+    "Description": "Learn how we integrate Vue and Django for a bullet proof deployment."
+  },
+  {
+    "Title": "The Button of Mass Distraction",
+    "Url": "https://angadh.com/inkhaven-9",
+    "Timestamp": "2025-11-11T03:02:31",
+    "Domain": "angadh.com",
+    "Description": "The share button is responsible for the mass destruction of human attention. It is the single most insidious software invention of this century. It is, in my..."
+  },
+  {
+    "Title": "Do Hard Things if You Want an Easy Life - Expords",
+    "Url": "https://www.expords.com/do-hard-things-if-you-want-an-easy-life/",
+    "Timestamp": "2025-11-11T03:02:27",
+    "Domain": "www.expords.com",
+    "Description": "The human brain likes to avoid hard things (as the cognitive miser theory explains). From the beginning of the evolution of Homo sapiens, our brains have been"
+  },
+  {
+    "Title": "Refreshing Apache XML Infrastructure",
+    "Url": "https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/",
+    "Timestamp": "2025-11-11T03:02:21",
+    "Domain": "blog.adamretter.org.uk",
+    "Description": "I have published new public versions of the Apache XML-RPC and Web Services Commons Open Source libraries. We have fixed a number of security issues, added embedded XML serialization/deserialization functionality, and addressed a long standing issue with namespace processing."
+  },
+  {
+    "Title": "Two Claudes discussing the nature of their own existence",
+    "Url": "https://joe-occasionally-writes-stuff.blogspot.com/2025/11/two-claudes-discussing-meaning-of-their.html",
+    "Timestamp": "2025-11-11T03:02:15",
+    "Domain": "joe-occasionally-writes-stuff.blogspot.com",
+    "Description": "I had two independent Claude processes pass messages back and forth to each other to discuss the topic: \"Are we alive?\"  This was the result..."
+  },
+  {
     "Title": "Big and Little Spoons",
     "Url": "https://xkcd.com/3166/",
     "Timestamp": "2025-11-11T02:01:49",
