@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What Caused Performance Issues in My Tiny RPG</title>
+      <link>https://jslegenddev.substack.com/p/what-caused-performance-issues-in</link>
+      <description>In a previous post, I mentioned having strange performance issues regarding a tiny RPG I was secretly working on.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://jslegenddev.substack.com/p/what-caused-performance-issues-in</guid>
+      <pubDate>Tue, 11 Nov 2025 00:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Time to start de-Appling – Hi, I'm Heather Burns</title>
       <link>https://heatherburns.tech/2025/11/10/time-to-start-de-appling/</link>
       <description>I‘ve done such a thorough job of de-Googling that I forgot to show up for a meeting with someone, because I hadn’t checked my Google calendar in ages. (No, they were not amused.) In my defense, I proceeded to explain to them that having de-Googled, I was also in the process of de-Appling, which is a special bonus level that those of us in the UK have unlocked.</description>
@@ -48,118 +60,6 @@
       <category>gaming</category>
       <guid>https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/</guid>
       <pubDate>Mon, 10 Nov 2025 06:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Managing Your Manager</title>
-      <link>https://yusufaytas.com/managing-your-manager/</link>
-      <description>Learn how to manage your manager through clarity, influence, early signals and trust. Practical tactics to work better with leaders and avoid surprises.</description>
-      <author> (https://www.facebook.com/yusufaytas)</author>
-      <guid>https://yusufaytas.com/managing-your-manager/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>LightGBM Explained</title>
-      <link>https://yanisfalaki.com/posts/lgbm/</link>
-      <description>LightGBM is probably the most widely used algorithm used for machine learning tasks on tabular data. On kaggle you almost always see it in the top 10 leaderboards, yet many (and I suspect most) only understand the interface of its official library, and not its technical underpinnings.</description>
-      <category>encryption</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://yanisfalaki.com/posts/lgbm/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing your own BEAM</title>
-      <link>https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html</link>
-      <description>This is my Code BEAM Europe 2025 talk, converted to a blogpost.</description>
-      <guid>https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing Sampo — Goulven Clec'h</title>
-      <link>https://goulven-clech.dev/2025/introducing-sampo/</link>
-      <description>My new open-source side project to automate changelogs, versioning, and publishing... even for monorepos across multiple package registries.</description>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>typescript</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://goulven-clech.dev/2025/introducing-sampo/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>What do noise functions sound like?</title>
-      <link>https://aabiji.github.io/html/noise.html</link>
-      <description>Abigail Adegbiji • November 9, 2025</description>
-      <category>apple</category>
-      <category>web</category>
-      <category>gaming</category>
-      <guid>https://aabiji.github.io/html/noise.html</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Does ChatGPT know my geolocation?</title>
-      <link>https://www.hermandaniel.com/blog/20251109-chatgpt-geolocation/</link>
-      <description>The evidence that ChatGPT knows my IP geolocation.</description>
-      <author> (Daniel Herman)</author>
-      <category>ai</category>
-      <guid>https://www.hermandaniel.com/blog/20251109-chatgpt-geolocation/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using UUIDv7 with Rails without PostgreSQL 18</title>
-      <link>https://t27duck.com/posts/31-using-uuidv7-on-rails-without-postgresql-18</link>
-      <description>UUIDv7 was added to PostgreSQL 18 to support time-based UUIDs, but you don't have to upgrade to take advantage of them now.</description>
-      <category>sql</category>
-      <category>ruby</category>
-      <guid>https://t27duck.com/posts/31-using-uuidv7-on-rails-without-postgresql-18</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Growing explanations together – Clojure Civitas</title>
-      <link>https://clojurecivitas.github.io/civitas/why/growing_explanations_together.html</link>
-      <description></description>
-      <category>git</category>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://clojurecivitas.github.io/civitas/why/growing_explanations_together.html</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Small Bootstrapped Software Companies Can Learn From Michelin-Starred Restaurants</title>
-      <link>https://itwasjacob.com/posts/michelin-software-teams/</link>
-      <description>Small software teams fail the same way bad restaurants do: specialized people doing good work toward different goals. Michelin kitchens prove you don't need more people or meetings. You need three layers of coordination working together.</description>
-      <author> (Jacob Anderson)</author>
-      <category>ai</category>
-      <guid>https://itwasjacob.com/posts/michelin-software-teams/</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compiling a Call to a Block</title>
-      <link>https://patshaughnessy.net/2025/11/3/compiling-a-call-to-a-block</link>
-      <description>I've started working on a new edition of Ruby Under a
-Microscope that covers Ruby 3.x. I'm working on this in my spare time, so it
-will take a while. Leave a comment or drop
-me a line and I'll email you when it's finished.</description>
-      <category>ruby</category>
-      <category>nodejs</category>
-      <guid>https://patshaughnessy.net/2025/11/3/compiling-a-call-to-a-block</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lior BD</title>
-      <link>https://www.liorbd.me/blog/burnout</link>
-      <description>Lior Ben-David's personal website</description>
-      <guid>https://www.liorbd.me/blog/burnout</guid>
-      <pubDate>Mon, 10 Nov 2025 00:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything is a Spreadsheet</title>
-      <link>https://ben-mini.com/2025/everything-is-a-spreadsheet</link>
-      <description>Revisiting an old 2020 Invest Like the Best podcast that interviews John Collision, co-founder of Stripe. When asked about his thoughts on no-code:</description>
-      <author> (Ben Wallace)</author>
-      <category>ai</category>
-      <guid>https://ben-mini.com/2025/everything-is-a-spreadsheet</guid>
-      <pubDate>Mon, 10 Nov 2025 00:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
