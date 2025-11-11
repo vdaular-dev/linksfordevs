@@ -7,6 +7,197 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Software Wisdom | Jason Roelofs</title>
+      <link>https://jasonroelofs.com/articles/2025/10/03/software-wisdom/</link>
+      <description>Simple things should be simple, complex things should be possible.</description>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <guid>https://jasonroelofs.com/articles/2025/10/03/software-wisdom/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours - James Belchamber</title>
+      <link>https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/</link>
+      <description></description>
+      <author> (https://james.belchamber.com)</author>
+      <category>linux</category>
+      <category>python</category>
+      <guid>https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introductory field guide to Context Engineering for LLM users</title>
+      <link>https://andybromberg.com/field-guide-context-engineering</link>
+      <description>A breakdown of the components that go into an LLM call. Understanding this will help you get better results from AI.</description>
+      <category>ai</category>
+      <guid>https://andybromberg.com/field-guide-context-engineering</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>There's Too Much Advice</title>
+      <link>https://abhshk.me/blog/too-much-advice/</link>
+      <description>Most of it sucks.</description>
+      <category>gaming</category>
+      <guid>https://abhshk.me/blog/too-much-advice/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS Resolution Adds Up</title>
+      <link>https://macarthur.me/posts/dns/</link>
+      <description>DNS resolution is cheap, but it ain't free. In scenarios when it counts, the `dns-prefetch` resource hint could give you a nice, slight edge in the front-end performance game.</description>
+      <author> (Alex MacArthur)</author>
+      <category>web</category>
+      <guid>https://macarthur.me/posts/dns/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing .NET 10 - .NET Blog</title>
+      <link>https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/</link>
+      <description>Announcing the release of .NET 10, the most productive, modern, secure, intelligent, and performant release of .NET yet. With updates across ASP.NET Core, C# 14, .NET MAUI, Aspire, and so much more.</description>
+      <author> (facebook.com/dotnet)</author>
+      <category>visualstudio</category>
+      <category>aspnet</category>
+      <category>encryption</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getting Cross-Functional Buy-in By Making it Fun - Chris Lesinski</title>
+      <link>https://chrislesinski.com/2025/11/07/make-it-fun/</link>
+      <description>How do you get cross-functional buy-in? It’s hard and ambiguous. People on my teams over the years often come trying to get advice on this: how do I get people to participate in my program? How can I get people on board with what I’m doing? Everyone has to influence without authority at some point […]</description>
+      <category>gaming</category>
+      <guid>https://chrislesinski.com/2025/11/07/make-it-fun/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Accidentally Built a Web Browser</title>
+      <link>https://roblillack.net/i-accidentally-built-a-web-browser</link>
+      <description>For twenty-five years I tinkered with a personal wiki system, an XML parser, and an email client. In 2025 they converged in Rust, and I accidentally built something like a web browser.</description>
+      <category>rust</category>
+      <category>git</category>
+      <category>visualstudio</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://roblillack.net/i-accidentally-built-a-web-browser</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can Elon Musk Read Your X Chat Messages?</title>
+      <link>https://david.nepozitek.cz/blog/can-elon-musk-read-your-x-chat-messages/</link>
+      <description></description>
+      <category>encryption</category>
+      <category>android</category>
+      <guid>https://david.nepozitek.cz/blog/can-elon-musk-read-your-x-chat-messages/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Install Omarchy</title>
+      <link>https://quinn.io/blog/2025/11-05-install-omarchy</link>
+      <description>I was backing up my servers, but I realized I have my home directory as a separate mount point, so I should be able to try installing Omarchy now without thoroughly backing up all my files:</description>
+      <category>git</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://quinn.io/blog/2025/11-05-install-omarchy</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>In Praise of dhh</title>
+      <link>https://okayfail.com/2025/in-praise-of-dhh.html#how-i-learned-to-love-ruby?utm_source=hnblogs.substack.com</link>
+      <description>A reflection on Ruby's past, present, and future.</description>
+      <category>ruby</category>
+      <category>python</category>
+      <category>cloud</category>
+      <guid>https://okayfail.com/2025/in-praise-of-dhh.html#how-i-learned-to-love-ruby?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Making of Autism Simulator: 60,000 Visitors in 12 Hours</title>
+      <link>https://blog.drjoshcsimmons.com/p/the-making-of-autism-simulator-60000</link>
+      <description>I built Autism Simulator as a passion project over the course of a week or so.</description>
+      <category>gaming</category>
+      <guid>https://blog.drjoshcsimmons.com/p/the-making-of-autism-simulator-60000</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sherwood (C64 Collector’s Edition) – Another fantastic C64 game is coming from MUSKETEER creators 'Griffonsoft'</title>
+      <link>https://www.indieretronews.com/2025/11/sherwood-c64-collectors-edition-another.html</link>
+      <description>Sherwood (C64 Collector’s Edition) – Another fantastic C64 game is coming from MUSKETEER creators 'Griffonsoft'</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://www.indieretronews.com/2025/11/sherwood-c64-collectors-edition-another.html</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Are you the one?" is free money</title>
+      <link>https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/</link>
+      <description></description>
+      <category>gaming</category>
+      <guid>https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redirect Multiple Commands or an Entire Script to a File — Nick Janetakis</title>
+      <link>https://nickjanetakis.com/blog/redirect-multiple-commands-or-an-entire-script-to-a-file</link>
+      <description>We'll go over a few examples such as running a few commands of your choosing as well as redirecing all commands in a script.</description>
+      <guid>https://nickjanetakis.com/blog/redirect-multiple-commands-or-an-entire-script-to-a-file</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disaggregated Database Management Systems</title>
+      <link>http://muratbuffalo.blogspot.com/2025/11/disaggregated-database-management.html</link>
+      <description>This paper  is based on a panel discussion from the TPC Technology Conference 2022. It surveys how cloud hardware and software trends are re...</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>http://muratbuffalo.blogspot.com/2025/11/disaggregated-database-management.html</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Listen to Database Changes through the Postgres WAL</title>
+      <link>https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal</link>
+      <description>An in-depth guide to listening to Postgres database changes through the WAL. Covers logical replication, publications, replication slots, and an Elixir implementation.</description>
+      <category>sql</category>
+      <category>containers</category>
+      <category>web</category>
+      <category>conference</category>
+      <guid>https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ditch your (mut)ex, you deserve better</title>
+      <link>https://chrispenner.ca/posts/mutexes</link>
+      <description>The Personal blog and musings of Chris Penner, a designer, developer and future opsimath.</description>
+      <guid>https://chrispenner.ca/posts/mutexes</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Josh Duff | On making a product listing page that doesn't suck</title>
+      <link>https://joshduff.com/2025-11-10-making-a-product-listing-page-that-doesnt-suck.html</link>
+      <description>I am blessed and cursed by an awareness of all the little frictions that get in my way when I use software.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://joshduff.com/2025-11-10-making-a-product-listing-page-that-doesnt-suck.html</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Train an LLM: Part 1 - Omkaar Kamath</title>
+      <link>https://omkaark.com/posts/llm-1b-1.html</link>
+      <description>I train a 1B llama3-like LLM from scratch and built the accompanying infra to train it.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://omkaark.com/posts/llm-1b-1.html</guid>
+      <pubDate>Tue, 11 Nov 2025 23:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>FFmpeg to Google: Fund Us or Stop Sending Bugs</title>
       <link>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</link>
       <description>A lively discussion about open source, security, and who pays the bills has erupted on Twitter. </description>
@@ -256,14 +447,6 @@ https://www.youtube.com/@davepl</description>
       <category>javascript</category>
       <guid>https://jslegenddev.substack.com/p/what-caused-performance-issues-in</guid>
       <pubDate>Tue, 11 Nov 2025 00:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Time to start de-Appling – Hi, I'm Heather Burns</title>
-      <link>https://heatherburns.tech/2025/11/10/time-to-start-de-appling/</link>
-      <description>I‘ve done such a thorough job of de-Googling that I forgot to show up for a meeting with someone, because I hadn’t checked my Google calendar in ages. (No, they were not amused.) In my defense, I proceeded to explain to them that having de-Googled, I was also in the process of de-Appling, which is a special bonus level that those of us in the UK have unlocked.</description>
-      <category>encryption</category>
-      <guid>https://heatherburns.tech/2025/11/10/time-to-start-de-appling/</guid>
-      <pubDate>Mon, 10 Nov 2025 23:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,145 @@
 [
   {
+    "Title": "Software Wisdom | Jason Roelofs",
+    "Url": "https://jasonroelofs.com/articles/2025/10/03/software-wisdom/",
+    "Timestamp": "2025-11-11T23:03:20",
+    "Domain": "jasonroelofs.com",
+    "Description": "Simple things should be simple, complex things should be possible."
+  },
+  {
+    "Title": "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours - James Belchamber",
+    "Url": "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/",
+    "Timestamp": "2025-11-11T23:03:17",
+    "Domain": "james.belchamber.com",
+    "Description": ""
+  },
+  {
+    "Title": "Introductory field guide to Context Engineering for LLM users",
+    "Url": "https://andybromberg.com/field-guide-context-engineering",
+    "Timestamp": "2025-11-11T23:03:14",
+    "Domain": "andybromberg.com",
+    "Description": "A breakdown of the components that go into an LLM call. Understanding this will help you get better results from AI."
+  },
+  {
+    "Title": "There's Too Much Advice",
+    "Url": "https://abhshk.me/blog/too-much-advice/",
+    "Timestamp": "2025-11-11T23:03:10",
+    "Domain": "abhshk.me",
+    "Description": "Most of it sucks."
+  },
+  {
+    "Title": "DNS Resolution Adds Up",
+    "Url": "https://macarthur.me/posts/dns/",
+    "Timestamp": "2025-11-11T23:03:07",
+    "Domain": "macarthur.me",
+    "Description": "DNS resolution is cheap, but it ain't free. In scenarios when it counts, the `dns-prefetch` resource hint could give you a nice, slight edge in the front-end performance game."
+  },
+  {
+    "Title": "Announcing .NET 10 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
+    "Timestamp": "2025-11-11T23:03:03",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing the release of .NET 10, the most productive, modern, secure, intelligent, and performant release of .NET yet. With updates across ASP.NET Core, C# 14, .NET MAUI, Aspire, and so much more."
+  },
+  {
+    "Title": "Getting Cross-Functional Buy-in By Making it Fun - Chris Lesinski",
+    "Url": "https://chrislesinski.com/2025/11/07/make-it-fun/",
+    "Timestamp": "2025-11-11T23:02:58",
+    "Domain": "chrislesinski.com",
+    "Description": "How do you get cross-functional buy-in? It’s hard and ambiguous. People on my teams over the years often come trying to get advice on this: how do I get people to participate in my program? How can I get people on board with what I’m doing? Everyone has to influence without authority at some point […]"
+  },
+  {
+    "Title": "I Accidentally Built a Web Browser",
+    "Url": "https://roblillack.net/i-accidentally-built-a-web-browser",
+    "Timestamp": "2025-11-11T23:02:55",
+    "Domain": "roblillack.net",
+    "Description": "For twenty-five years I tinkered with a personal wiki system, an XML parser, and an email client. In 2025 they converged in Rust, and I accidentally built something like a web browser."
+  },
+  {
+    "Title": "Can Elon Musk Read Your X Chat Messages?",
+    "Url": "https://david.nepozitek.cz/blog/can-elon-musk-read-your-x-chat-messages/",
+    "Timestamp": "2025-11-11T23:02:50",
+    "Domain": "david.nepozitek.cz",
+    "Description": ""
+  },
+  {
+    "Title": "Install Omarchy",
+    "Url": "https://quinn.io/blog/2025/11-05-install-omarchy",
+    "Timestamp": "2025-11-11T23:02:47",
+    "Domain": "quinn.io",
+    "Description": "I was backing up my servers, but I realized I have my home directory as a separate mount point, so I should be able to try installing Omarchy now without thoroughly backing up all my files:"
+  },
+  {
+    "Title": "In Praise of dhh",
+    "Url": "https://okayfail.com/2025/in-praise-of-dhh.html#how-i-learned-to-love-ruby?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-11-11T23:02:42",
+    "Domain": "okayfail.com",
+    "Description": "A reflection on Ruby's past, present, and future."
+  },
+  {
+    "Title": "The Making of Autism Simulator: 60,000 Visitors in 12 Hours",
+    "Url": "https://blog.drjoshcsimmons.com/p/the-making-of-autism-simulator-60000",
+    "Timestamp": "2025-11-11T23:02:38",
+    "Domain": "blog.drjoshcsimmons.com",
+    "Description": "I built Autism Simulator as a passion project over the course of a week or so."
+  },
+  {
+    "Title": "Sherwood (C64 Collector’s Edition) – Another fantastic C64 game is coming from MUSKETEER creators 'Griffonsoft'",
+    "Url": "https://www.indieretronews.com/2025/11/sherwood-c64-collectors-edition-another.html",
+    "Timestamp": "2025-11-11T23:02:34",
+    "Domain": "www.indieretronews.com",
+    "Description": "Sherwood (C64 Collector’s Edition) – Another fantastic C64 game is coming from MUSKETEER creators 'Griffonsoft'"
+  },
+  {
+    "Title": "\"Are you the one?\" is free money",
+    "Url": "https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/",
+    "Timestamp": "2025-11-11T23:02:29",
+    "Domain": "blog.owenlacey.dev",
+    "Description": ""
+  },
+  {
+    "Title": "Redirect Multiple Commands or an Entire Script to a File — Nick Janetakis",
+    "Url": "https://nickjanetakis.com/blog/redirect-multiple-commands-or-an-entire-script-to-a-file",
+    "Timestamp": "2025-11-11T23:02:26",
+    "Domain": "nickjanetakis.com",
+    "Description": "We'll go over a few examples such as running a few commands of your choosing as well as redirecing all commands in a script."
+  },
+  {
+    "Title": "Disaggregated Database Management Systems",
+    "Url": "http://muratbuffalo.blogspot.com/2025/11/disaggregated-database-management.html",
+    "Timestamp": "2025-11-11T23:02:22",
+    "Domain": "muratbuffalo.blogspot.com",
+    "Description": "This paper  is based on a panel discussion from the TPC Technology Conference 2022. It surveys how cloud hardware and software trends are re..."
+  },
+  {
+    "Title": "Listen to Database Changes through the Postgres WAL",
+    "Url": "https://peterullrich.com/listen-to-database-changes-through-the-postgres-wal",
+    "Timestamp": "2025-11-11T23:02:17",
+    "Domain": "peterullrich.com",
+    "Description": "An in-depth guide to listening to Postgres database changes through the WAL. Covers logical replication, publications, replication slots, and an Elixir implementation."
+  },
+  {
+    "Title": "Ditch your (mut)ex, you deserve better",
+    "Url": "https://chrispenner.ca/posts/mutexes",
+    "Timestamp": "2025-11-11T23:02:13",
+    "Domain": "chrispenner.ca",
+    "Description": "The Personal blog and musings of Chris Penner, a designer, developer and future opsimath."
+  },
+  {
+    "Title": "Josh Duff | On making a product listing page that doesn't suck",
+    "Url": "https://joshduff.com/2025-11-10-making-a-product-listing-page-that-doesnt-suck.html",
+    "Timestamp": "2025-11-11T23:02:10",
+    "Domain": "joshduff.com",
+    "Description": "I am blessed and cursed by an awareness of all the little frictions that get in my way when I use software."
+  },
+  {
+    "Title": "How to Train an LLM: Part 1 - Omkaar Kamath",
+    "Url": "https://omkaark.com/posts/llm-1b-1.html",
+    "Timestamp": "2025-11-11T23:02:06",
+    "Domain": "omkaark.com",
+    "Description": "I train a 1B llama3-like LLM from scratch and built the accompanying infra to train it."
+  },
+  {
     "Title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
     "Url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
     "Timestamp": "2025-11-11T21:02:11",
