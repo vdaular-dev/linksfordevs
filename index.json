@@ -174,13 +174,5 @@
     "Domain": "www.phoronix.com",
     "Description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel",
     "Confidence": 0.9834165
-  },
-  {
-    "Title": "XSLT.RIP - Google are killing XSLT!",
-    "Url": "https://xslt.rip/",
-    "Timestamp": "2025-11-10T11:01:58",
-    "Domain": "xslt.rip",
-    "Description": "October 24th 2025: Google published the death note:\n          Intent to Deprecate and Remove: Deprecate and remove XSLT\n          Google will kill XSLT by 2027.\n          Google first tried to kill XSLT in July 2013 twelve years ago.",
-    "Confidence": 0.9329637
   }
 ]
