@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Firefox expands fingerprint protections: advancing towards a more private web | The Mozilla Blog</title>
+      <link>https://blog.mozilla.org/en/firefox/fingerprinting-protections/</link>
+      <description>With Firefox 145, we’re rolling out major privacy upgrades that take on browser fingerprinting — a pervasive and hidden tracking technique that lets we</description>
+      <guid>https://blog.mozilla.org/en/firefox/fingerprinting-protections/</guid>
+      <pubDate>Wed, 12 Nov 2025 00:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Collaboration sucks</title>
+      <link>https://newsletter.posthog.com/p/collaboration-sucks</link>
+      <description>If you want to go fast, go alone; if you want to go far, go alone too. (mostly)</description>
+      <category>ai</category>
+      <guid>https://newsletter.posthog.com/p/collaboration-sucks</guid>
+      <pubDate>Wed, 12 Nov 2025 00:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Software Wisdom | Jason Roelofs</title>
       <link>https://jasonroelofs.com/articles/2025/10/03/software-wisdom/</link>
       <description>Simple things should be simple, complex things should be possible.</description>
@@ -435,18 +450,6 @@ https://www.youtube.com/@davepl</description>
       <category>encryption</category>
       <guid>https://www.eff.org/deeplinks/2025/06/how-cops-can-get-your-private-online-data</guid>
       <pubDate>Tue, 11 Nov 2025 01:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Caused Performance Issues in My Tiny RPG</title>
-      <link>https://jslegenddev.substack.com/p/what-caused-performance-issues-in</link>
-      <description>In a previous post, I mentioned having strange performance issues regarding a tiny RPG I was secretly working on.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://jslegenddev.substack.com/p/what-caused-performance-issues-in</guid>
-      <pubDate>Tue, 11 Nov 2025 00:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

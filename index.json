@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Firefox expands fingerprint protections: advancing towards a more private web | The Mozilla Blog",
+    "Url": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
+    "Timestamp": "2025-11-12T00:01:58",
+    "Domain": "blog.mozilla.org",
+    "Description": "With Firefox 145, we’re rolling out major privacy upgrades that take on browser fingerprinting — a pervasive and hidden tracking technique that lets we",
+    "Confidence": 0.96200067
+  },
+  {
+    "Title": "Collaboration sucks",
+    "Url": "https://newsletter.posthog.com/p/collaboration-sucks",
+    "Timestamp": "2025-11-12T00:01:54",
+    "Domain": "newsletter.posthog.com",
+    "Description": "If you want to go fast, go alone; if you want to go far, go alone too. (mostly)",
+    "Confidence": 0.9695232
+  },
+  {
     "Title": "Software Wisdom | Jason Roelofs",
     "Url": "https://jasonroelofs.com/articles/2025/10/03/software-wisdom/",
     "Timestamp": "2025-11-11T23:03:20",
@@ -342,13 +358,5 @@
     "Domain": "www.eff.org",
     "Description": "Can the cops get your online data? In short, yes. There are a variety of US federal and state laws which give law enforcement powers to obtain information that you provided to online services. But, there are steps you as a user and/or as a service provider can take to improve online privacy.Law...",
     "Confidence": 0.92699546
-  },
-  {
-    "Title": "What Caused Performance Issues in My Tiny RPG",
-    "Url": "https://jslegenddev.substack.com/p/what-caused-performance-issues-in",
-    "Timestamp": "2025-11-11T00:01:57",
-    "Domain": "jslegenddev.substack.com",
-    "Description": "In a previous post, I mentioned having strange performance issues regarding a tiny RPG I was secretly working on.",
-    "Confidence": 0.99112135
   }
 ]
