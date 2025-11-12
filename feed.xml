@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10</title>
+      <link>https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10</link>
+      <description>The Ubuntu 25.10 transition to using some Rust system utilities continues proving quite rocky</description>
+      <category>linux</category>
+      <category>rust</category>
+      <guid>https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10</guid>
+      <pubDate>Wed, 12 Nov 2025 19:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Welcome to the home of the Network Time Protocol (NTP) Project.</title>
       <link>https://www.ntp.org/</link>
       <description>The NTP Project conducts Research and Development in NTP, a protocol designed to synchronize the clocks of computers over a network to a common timebase.</description>
@@ -239,14 +248,6 @@
       <category>gaming</category>
       <guid>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</guid>
       <pubDate>Tue, 11 Nov 2025 21:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing iPhone Pocket: a beautiful way to wear and carry iPhone</title>
-      <link>https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/</link>
-      <description>ISSEY MIYAKE and Apple today unveiled iPhone Pocket, designed to fit any iPhone as well as all pocketable items.</description>
-      <category>apple</category>
-      <guid>https://www.apple.com/newsroom/2025/11/introducing-iphone-pocket-a-beautiful-way-to-wear-and-carry-iphone/</guid>
-      <pubDate>Tue, 11 Nov 2025 19:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
