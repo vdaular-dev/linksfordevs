@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Geometry Behind Normal Maps · shlom.dev</title>
+      <link>https://www.shlom.dev/articles/geometry-behind-normal-maps/</link>
+      <description>Learn how tangent space works, how to compute tangents and the TBN matrix, and how normal mapping transforms textures into detailed 3D shading.</description>
+      <category>javascript</category>
+      <guid>https://www.shlom.dev/articles/geometry-behind-normal-maps/</guid>
+      <pubDate>Wed, 12 Nov 2025 21:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Car Size</title>
       <link>https://xkcd.com/3167/</link>
       <description></description>
@@ -245,17 +253,6 @@
       <category>git</category>
       <guid>https://omkaark.com/posts/llm-1b-1.html</guid>
       <pubDate>Tue, 11 Nov 2025 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>FFmpeg to Google: Fund Us or Stop Sending Bugs</title>
-      <link>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</link>
-      <description>A lively discussion about open source, security, and who pays the bills has erupted on Twitter. </description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/</guid>
-      <pubDate>Tue, 11 Nov 2025 21:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Geometry Behind Normal Maps · shlom.dev",
+    "Url": "https://www.shlom.dev/articles/geometry-behind-normal-maps/",
+    "Timestamp": "2025-11-12T21:02:03",
+    "Domain": "www.shlom.dev",
+    "Description": "Learn how tangent space works, how to compute tangents and the TBN matrix, and how normal mapping transforms textures into detailed 3D shading.",
+    "Confidence": 0.98817426
+  },
+  {
     "Title": "Car Size",
     "Url": "https://xkcd.com/3167/",
     "Timestamp": "2025-11-12T20:02:08",
@@ -206,13 +214,5 @@
     "Domain": "omkaark.com",
     "Description": "I train a 1B llama3-like LLM from scratch and built the accompanying infra to train it.",
     "Confidence": 0.9961911
-  },
-  {
-    "Title": "FFmpeg to Google: Fund Us or Stop Sending Bugs",
-    "Url": "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/",
-    "Timestamp": "2025-11-11T21:02:11",
-    "Domain": "thenewstack.io",
-    "Description": "A lively discussion about open source, security, and who pays the bills has erupted on Twitter. ",
-    "Confidence": 0.93476266
   }
 ]
