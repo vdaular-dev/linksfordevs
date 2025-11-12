@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Car Size</title>
+      <link>https://xkcd.com/3167/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3167/</guid>
+      <pubDate>Wed, 12 Nov 2025 20:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10</title>
       <link>https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10</link>
       <description>The Ubuntu 25.10 transition to using some Rust system utilities continues proving quite rocky</description>
