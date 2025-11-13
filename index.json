@@ -1,5 +1,13 @@
 [
   {
+    "Title": "IBM Patented Euler's 200 year old Math Technique",
+    "Url": "https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions",
+    "Timestamp": "2025-11-13T21:02:10",
+    "Domain": "leetarxiv.substack.com",
+    "Description": "IBM Slapped the Buzzwords 'AI Interpretability' on Generalized Continued Fractions and their Series Transformations and was awarded a Patent",
+    "Confidence": 0.9949172
+  },
+  {
     "Title": "Zed Is Our Office - Zed Blog",
     "Url": "https://zed.dev/blog/zed-is-our-office",
     "Timestamp": "2025-11-13T19:02:08",
@@ -198,13 +206,5 @@
     "Domain": "www.patrickcelentano.com",
     "Description": "Simulating a planet is hard work. The GPU makes it easer.",
     "Confidence": 0.92861444
-  },
-  {
-    "Title": "The Geometry Behind Normal Maps · shlom.dev",
-    "Url": "https://www.shlom.dev/articles/geometry-behind-normal-maps/",
-    "Timestamp": "2025-11-12T21:02:03",
-    "Domain": "www.shlom.dev",
-    "Description": "Learn how tangent space works, how to compute tangents and the TBN matrix, and how normal mapping transforms textures into detailed 3D shading.",
-    "Confidence": 0.98817426
   }
 ]

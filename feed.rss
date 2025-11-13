@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>IBM Patented Euler's 200 year old Math Technique</title>
+      <link>https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions</link>
+      <description>IBM Slapped the Buzzwords 'AI Interpretability' on Generalized Continued Fractions and their Series Transformations and was awarded a Patent</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions</guid>
+      <pubDate>Thu, 13 Nov 2025 21:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Zed Is Our Office - Zed Blog</title>
       <link>https://zed.dev/blog/zed-is-our-office</link>
       <description>From the Zed Blog: A look at how we use Zed's native collaboration features to run our entire company.</description>
@@ -231,14 +242,6 @@ This past September I gave the closing keynote at posit::conf; it’s now on You
       <category>ai</category>
       <guid>https://www.patrickcelentano.com/blog/planet-sim-part-1</guid>
       <pubDate>Wed, 12 Nov 2025 22:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Geometry Behind Normal Maps · shlom.dev</title>
-      <link>https://www.shlom.dev/articles/geometry-behind-normal-maps/</link>
-      <description>Learn how tangent space works, how to compute tangents and the TBN matrix, and how normal mapping transforms textures into detailed 3D shading.</description>
-      <category>javascript</category>
-      <guid>https://www.shlom.dev/articles/geometry-behind-normal-maps/</guid>
-      <pubDate>Wed, 12 Nov 2025 21:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
