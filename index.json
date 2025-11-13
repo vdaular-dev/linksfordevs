@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Zed Is Our Office - Zed Blog",
+    "Url": "https://zed.dev/blog/zed-is-our-office",
+    "Timestamp": "2025-11-13T19:02:08",
+    "Domain": "zed.dev",
+    "Description": "From the Zed Blog: A look at how we use Zed's native collaboration features to run our entire company.",
+    "Confidence": 0.966289
+  },
+  {
     "Title": "Britain’s Railway Privatization Was an Abject Failure - Rosa-Luxemburg-Stiftung",
     "Url": "https://www.rosalux.de/en/news/id/53917/britains-railway-privatization-was-an-abject-failure",
     "Timestamp": "2025-11-13T17:02:17",
@@ -206,13 +214,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "sudo-rs Affected By Multiple Security Vulnerabilities - Impacting Ubuntu 25.10",
-    "Url": "https://www.phoronix.com/news/sudo-rs-security-ubuntu-25.10",
-    "Timestamp": "2025-11-12T19:02:07",
-    "Domain": "www.phoronix.com",
-    "Description": "The Ubuntu 25.10 transition to using some Rust system utilities continues proving quite rocky",
-    "Confidence": 0.76728296
   }
 ]
