@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nano Banana can be prompt engineered for extremely nuanced AI image generation</title>
+      <link>https://minimaxir.com/2025/11/nano-banana-prompts/</link>
+      <description>Nano Banana allows 32,768 input tokens and I’m going to try to use them all dammit.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://minimaxir.com/2025/11/nano-banana-prompts/</guid>
+      <pubDate>Thu, 13 Nov 2025 22:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>IBM Patented Euler's 200 year old Math Technique</title>
       <link>https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions</link>
       <description>IBM Slapped the Buzzwords 'AI Interpretability' on Generalized Continued Fractions and their Series Transformations and was awarded a Patent</description>
@@ -221,27 +232,6 @@ This past September I gave the closing keynote at posit::conf; it’s now on You
       <category>linux</category>
       <guid>https://www.phoronix.com/news/Steam-Machines-Frame-2026</guid>
       <pubDate>Thu, 13 Nov 2025 00:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog</title>
-      <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/</link>
-      <description>Dear developers, We’re thrilled to announce that Visual Studio 2026 is now generally available! This is a moment we’ve built side by side with you. Your feedback has helped shape this release more than any before. Since the introduction of the Insiders Channel in September, more developers have downloaded and tested this preview than any […]</description>
-      <category>visualstudio</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/</guid>
-      <pubDate>Wed, 12 Nov 2025 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simulating a Planet on the GPU: Part 1 — Patrick Celentano</title>
-      <link>https://www.patrickcelentano.com/blog/planet-sim-part-1</link>
-      <description>Simulating a planet is hard work. The GPU makes it easer.</description>
-      <category>cloud</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.patrickcelentano.com/blog/planet-sim-part-1</guid>
-      <pubDate>Wed, 12 Nov 2025 22:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
