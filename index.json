@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Valve is about to win the console generation",
+    "Url": "https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/",
+    "Timestamp": "2025-11-13T11:01:59",
+    "Domain": "xeiaso.net",
+    "Description": "Valve does nothing and still wins",
+    "Confidence": 0.99198496
+  },
+  {
+    "Title": "Meta just killed native WhatsApp on Windows 11, now it opens WebView, uses 1GB RAM all the time",
+    "Url": "https://www.windowslatest.com/2025/11/12/meta-just-killed-native-whatsapp-on-windows-11-now-it-opens-webview-uses-1gb-ram-all-the-time/",
+    "Timestamp": "2025-11-13T11:01:54",
+    "Domain": "www.windowslatest.com",
+    "Description": "Windows 11 has just got a 'major' upgrade, and you're probably going to hate it because it uses 1-2GB RAM all the time.",
+    "Confidence": 0.9849441
+  },
+  {
     "Title": "GPT-5.1: A smarter, more conversational ChatGPT",
     "Url": "https://openai.com/index/gpt-5-1/",
     "Timestamp": "2025-11-13T06:02:08",
@@ -190,13 +206,5 @@
     "Domain": "www.ntp.org",
     "Description": "The NTP Project conducts Research and Development in NTP, a protocol designed to synchronize the clocks of computers over a network to a common timebase.",
     "Confidence": 0.9864365
-  },
-  {
-    "Title": "Meta's Chief AI Scientist Yann LeCun To Depart And Launch AI Start-Up Focused On 'World Models' ",
-    "Url": "https://www.nasdaq.com/articles/metas-chief-ai-scientist-yann-lecun-depart-and-launch-ai-start-focused-world-models",
-    "Timestamp": "2025-11-12T11:01:54",
-    "Domain": "www.nasdaq.com",
-    "Description": "(RTTNews) - Meta's (META) chief artificial intelligence scientist, Yann LeCun, plans to leave the company to launch his own AI start-up, marking a major shift inside Meta as CEO Mark Zuckerberg doubles down on \"superintelligence\" initiatives to compete with OpenAI and Google, acc",
-    "Confidence": 0.6241104
   }
 ]
