@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Valve Announces New Steam Machine, Steam Controller &amp; Steam Frame</title>
+      <link>https://www.phoronix.com/news/Steam-Machines-Frame-2026</link>
+      <description>Valve just sent over the press release announcing three new Steam Hardware devices.</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/Steam-Machines-Frame-2026</guid>
+      <pubDate>Thu, 13 Nov 2025 00:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog</title>
       <link>https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/</link>
       <description>Dear developers, We’re thrilled to announce that Visual Studio 2026 is now generally available! This is a moment we’ve built side by side with you. Your feedback has helped shape this release more than any before. Since the introduction of the Insiders Channel in September, more developers have downloaded and tested this preview than any […]</description>
@@ -77,21 +86,6 @@
       <category>web</category>
       <guid>https://www.spaceweatherlive.com/en/news/view/593/20251111-x5-1-solar-flare-g4-geomagnetic-storm-watch.html</guid>
       <pubDate>Wed, 12 Nov 2025 06:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox expands fingerprint protections: advancing towards a more private web | The Mozilla Blog</title>
-      <link>https://blog.mozilla.org/en/firefox/fingerprinting-protections/</link>
-      <description>With Firefox 145, we’re rolling out major privacy upgrades that take on browser fingerprinting — a pervasive and hidden tracking technique that lets we</description>
-      <guid>https://blog.mozilla.org/en/firefox/fingerprinting-protections/</guid>
-      <pubDate>Wed, 12 Nov 2025 00:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Collaboration sucks</title>
-      <link>https://newsletter.posthog.com/p/collaboration-sucks</link>
-      <description>If you want to go fast, go alone; if you want to go far, go alone too. (mostly)</description>
-      <category>ai</category>
-      <guid>https://newsletter.posthog.com/p/collaboration-sucks</guid>
-      <pubDate>Wed, 12 Nov 2025 00:01:54 GMT</pubDate>
     </item>
   </channel>
 </rss>

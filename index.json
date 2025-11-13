@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
+    "Url": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
+    "Timestamp": "2025-11-13T00:01:58",
+    "Domain": "www.phoronix.com",
+    "Description": "Valve just sent over the press release announcing three new Steam Hardware devices.",
+    "Confidence": 0.792044
+  },
+  {
     "Title": "Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog",
     "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/",
     "Timestamp": "2025-11-12T22:02:10",
@@ -62,21 +70,5 @@
     "Domain": "www.spaceweatherlive.com",
     "Description": "Here she blows! Sunspot region 4274 produced its strongest solar flare thus far since it appeared on the east limb and the sixth strongest solar flare of the current solar cycle. An impressive long duration and highly eruptive X5.1 (R3-strong) solar flare peaked this morning at 10:04 UTC.",
     "Confidence": 0.90401125
-  },
-  {
-    "Title": "Firefox expands fingerprint protections: advancing towards a more private web | The Mozilla Blog",
-    "Url": "https://blog.mozilla.org/en/firefox/fingerprinting-protections/",
-    "Timestamp": "2025-11-12T00:01:58",
-    "Domain": "blog.mozilla.org",
-    "Description": "With Firefox 145, we’re rolling out major privacy upgrades that take on browser fingerprinting — a pervasive and hidden tracking technique that lets we",
-    "Confidence": 0.96200067
-  },
-  {
-    "Title": "Collaboration sucks",
-    "Url": "https://newsletter.posthog.com/p/collaboration-sucks",
-    "Timestamp": "2025-11-12T00:01:54",
-    "Domain": "newsletter.posthog.com",
-    "Description": "If you want to go fast, go alone; if you want to go far, go alone too. (mostly)",
-    "Confidence": 0.9695232
   }
 ]
