@@ -1,5 +1,261 @@
 [
   {
+    "Title": "Sorry to my PR reviewers",
+    "Url": "https://ajkueterman.com/posts/sorry-pr-reviewers/",
+    "Timestamp": "2025-11-14T00:04:42",
+    "Domain": "ajkueterman.com",
+    "Description": "A brief explanation of my PR drafting foibles.",
+    "Confidence": 0.97907686
+  },
+  {
+    "Title": "Tracking Down Progressively-Enhanceable APIs",
+    "Url": "https://willhbr.net/2025/11/07/tracking-down-progressively-enhanceable-apis/",
+    "Timestamp": "2025-11-14T00:04:38",
+    "Domain": "willhbr.net",
+    "Description": "Something that I’m a big fan of is APIs that can be easily modified and hacked with. It’s frustrating to have to write fully production-ready code when you actually want to just prototype something, and so I’m happy when there’s an API that it’s easy to use, which then progresses into a more full-featured API. In Crystal an example of this is File.read. If you want to get the entire contents of a file you can just do: contents =...",
+    "Confidence": 0.9956607
+  },
+  {
+    "Title": "Satya Nadella — How Microsoft is preparing for AGI",
+    "Url": "https://www.dwarkesh.com/p/satya-nadella-2",
+    "Timestamp": "2025-11-14T00:04:35",
+    "Domain": "www.dwarkesh.com",
+    "Description": "Plus a tour of Fairwater 2, the most powerful AI datacenter in the world",
+    "Confidence": 0.9897466
+  },
+  {
+    "Title": "We’re Real Fucked",
+    "Url": "https://abermoo.wordpress.com/2025/11/13/were-real-fucked/",
+    "Timestamp": "2025-11-14T00:04:30",
+    "Domain": "abermoo.wordpress.com",
+    "Description": "Thursday. Okay, Thursday. Time to get ready for the weekend.Wait ready? For what, exactly? You ever notice how we say things like that get ready for the weekend as if it’s a ritual? A small prayer …",
+    "Confidence": 0.8509653
+  },
+  {
+    "Title": "How I Survived a Viral App—Almost Losing My Mind - Shajid Hasan",
+    "Url": "https://www.sh4jid.me/blog/how-i-survived-a-viral-app",
+    "Timestamp": "2025-11-14T00:04:26",
+    "Domain": "www.sh4jid.me",
+    "Description": "What started as a fun side project during exams became a viral sensation. Chithi.me, an app for anonymous hand-written letters, delivered millions of messages—bringing excitement, sleepless nights, and tech lessons.",
+    "Confidence": 0.96700823
+  },
+  {
+    "Title": "Why OLAP Migrations Are Hard: The Hidden Cost of Schema Change in Analytical Databases",
+    "Url": "https://www.fiveonefour.com/blog/olap-migration-complexity",
+    "Timestamp": "2025-11-14T00:04:22",
+    "Domain": "www.fiveonefour.com",
+    "Description": "Schema changes in analytical databases like ClickHouse aren’t simple DDL tweaks—they’re physical rewrites that ripple through materialized views and dependencies. Learn why OLAP migrations are so complex, and how design choices that speed up reads make change management harder.",
+    "Confidence": 0.9832279
+  },
+  {
+    "Title": "Cursor's Composer Model Surprised Me",
+    "Url": "https://www.sawyerhood.com/blog/composer-1-surprise",
+    "Timestamp": "2025-11-14T00:04:17",
+    "Domain": "www.sawyerhood.com",
+    "Description": "After months away from Cursor, Composer 1 has me reconsidering my daily driver. Speed beats raw intelligence for most coding tasks.",
+    "Confidence": 0.9716043
+  },
+  {
+    "Title": "My Home (VPN) Network Setup",
+    "Url": "https://a14m.dev/blog/my-home-network-setup/",
+    "Timestamp": "2025-11-14T00:04:14",
+    "Domain": "a14m.dev",
+    "Description": "A14M · Platform Engineer · DevOps",
+    "Confidence": 0.99779415
+  },
+  {
+    "Title": "A reminder to stay in control of your agents",
+    "Url": "https://raniz.blog/2025-11-13_remain-in-control-agents/",
+    "Timestamp": "2025-11-14T00:04:11",
+    "Domain": "raniz.blog",
+    "Description": "These tools are good, but seriously flawed. Trust but verify.",
+    "Confidence": 0.989711
+  },
+  {
+    "Title": "Air gapped / Data Diode backing up arrangement",
+    "Url": "https://bnikolic.co.uk/blog/linux/2025/11/13/backupdiode.html",
+    "Timestamp": "2025-11-14T00:04:07",
+    "Domain": "bnikolic.co.uk",
+    "Description": "With the news today UK GDP has apparently been measurably decreased by the well publicised JLR hack of their computer system, here is a simple air-gapped archiving / backup system which can easily be implemented on multi-TB sized systems. We have great tools available – we just need to use them!",
+    "Confidence": 0.8572795
+  },
+  {
+    "Title": "Let Your Intrusive Thoughts Win: How To Talk To Anyone",
+    "Url": "https://www.brandonhresko.com/blog/let-your-intrusive-thoughts-win",
+    "Timestamp": "2025-11-14T00:04:03",
+    "Domain": "www.brandonhresko.com",
+    "Description": "how to use your intrusive thoughts to start and maintain conversations",
+    "Confidence": 0.9862016
+  },
+  {
+    "Title": "Bayesian A/B testing is not immune to peeking",
+    "Url": "https://www.alexmolas.com/2025/10/30/bayesian-ab-test-peeking.html",
+    "Timestamp": "2025-11-14T00:04:00",
+    "Domain": "www.alexmolas.com",
+    "Description": "October 30, 2025 · \n  \n  \n  \n  \n\n  \n  \n  \n\n  \n  \n\n  \n    3 mins · 559 words\n  \n\n\n  \n    Share on:\n    X ·\n    HN",
+    "Confidence": 0.96916395
+  },
+  {
+    "Title": "Truly First-Class Custom Smart Pointers",
+    "Url": "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html",
+    "Timestamp": "2025-11-14T00:03:56",
+    "Domain": "nadrieril.github.io",
+    "Description": "I propose this blog post as part of the discussions around the Field Projections project goal. Thanks to Benno Lossin and everyone involved for the very fruitful discussions!",
+    "Confidence": 0.9963376
+  },
+  {
+    "Title": "Architecting for multitenancy",
+    "Url": "https://www.gouthamve.dev/architecting-for-multitenancy/",
+    "Timestamp": "2025-11-14T00:03:52",
+    "Domain": "www.gouthamve.dev",
+    "Description": "Ever since I wrote the ClickHouse post, it has been living in my head rent-free. I was thinking a lot about running it as the backend for a SaaS service and realized its multi-tenancy model isn't great.\n\nAnd that led me into a rabbit hole where I realized I am",
+    "Confidence": 0.988496
+  },
+  {
+    "Title": "Model T Housing",
+    "Url": "https://joelx.com/model-t-housing/",
+    "Timestamp": "2025-11-14T00:03:48",
+    "Domain": "joelx.com",
+    "Description": "Government building over-regulation makes housing far more expensive and generic for everyone. Building code mandates one way, a quite expensive way, of building homes. It forces builders to use old techniques despite advancing technology. If cars were over-regulated in the same way housing is, you would still have everyone driving Model T Fords! We can",
+    "Confidence": 0.86572945
+  },
+  {
+    "Title": "Needy Programs",
+    "Url": "https://tonsky.me/blog/needy-programs/",
+    "Timestamp": "2025-11-14T00:03:44",
+    "Domain": "tonsky.me",
+    "Description": "We used to use software; now software started to use us",
+    "Confidence": 0.99634385
+  },
+  {
+    "Title": "Recommendations for Getting the Most Out of a Technical Book",
+    "Url": "https://sebastianraschka.com/blog/2025/reading-books.html",
+    "Timestamp": "2025-11-14T00:03:40",
+    "Domain": "sebastianraschka.com",
+    "Description": "This short article compiles a few notes I previously shared when readers ask how to get the most out of my building large language model from scratch books. ...",
+    "Confidence": 0.9874768
+  },
+  {
+    "Title": "How to Build an NFL Prediction Model with ELO Ratings and DuckDB",
+    "Url": "https://michellepellon.com/blog/2025-11-13-building-an-nfl-prediction-model",
+    "Timestamp": "2025-11-14T00:03:36",
+    "Domain": "michellepellon.com",
+    "Description": "Build a sophisticated NFL prediction model achieving 57% accuracy using ELO ratings, DuckDB, and dbt. Complete technical guide with Python code, Monte Carlo simulations, and real-world results from 143 games.",
+    "Confidence": 0.9862677
+  },
+  {
+    "Title": "Animating CSS width or height no longer forces a Main Thread animation (in Chrome, under the right conditions)",
+    "Url": "https://www.bram.us/2025/11/13/animating-css-width-or-height-no-longer-force-a-main-thread-animation-in-chrome-under-the-right-conditions/",
+    "Timestamp": "2025-11-14T00:03:32",
+    "Domain": "www.bram.us",
+    "Description": "When their values don't change throughout the animation, CSS width / height animations can run on the Compositor, instead of being forced to run on the Main Thread.",
+    "Confidence": 0.9915363
+  },
+  {
+    "Title": "Announcing YARD-Lint: Keep Your Ruby Documentation Solid",
+    "Url": "https://mensfeld.pl/2025/11/yard-lint-ruby-documentation-linter/",
+    "Timestamp": "2025-11-14T00:03:27",
+    "Domain": "mensfeld.pl",
+    "Description": "YARD-Lint catches documentation drift in Ruby projects. Open-source linter that validates YARD tags, types, and examples. Improve code quality and AI accuracy.",
+    "Confidence": 0.9919109
+  },
+  {
+    "Title": "Against 'Metroidbrania': a Landscape of Knowledge Games",
+    "Url": "https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/",
+    "Timestamp": "2025-11-14T00:03:22",
+    "Domain": "azhdarchid.com",
+    "Description": "What are knowledge games? How do we relate them to each other? What sub-genres exist – and which ones might be implied?",
+    "Confidence": 0.9330658
+  },
+  {
+    "Title": "Messing with bots",
+    "Url": "https://herman.bearblog.dev/messing-with-bots/",
+    "Timestamp": "2025-11-14T00:03:18",
+    "Domain": "herman.bearblog.dev",
+    "Description": "Markov chain babblers, bogus php files, and more!",
+    "Confidence": 0.99261856
+  },
+  {
+    "Title": "Artisanal Coding Is Dead, Long Live Artisanal Coding!",
+    "Url": "https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/",
+    "Timestamp": "2025-11-14T00:03:15",
+    "Domain": "joel.id",
+    "Description": "Discuss on Hacker News or Twitter.\n\nI recently discovered that I possess certain AI-assisted superpowers: I can now implement working features — the ones I actually need and want — far faster than if I coded them artisanally, and with no loss in quality. I literally feel 10× more productive!\n\nTake, for",
+    "Confidence": 0.9819374
+  },
+  {
+    "Title": "Rust in Android: move fast and fix things",
+    "Url": "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html",
+    "Timestamp": "2025-11-14T00:03:12",
+    "Domain": "security.googleblog.com",
+    "Description": "Posted by Jeff Vander Stoep, Android    Last year, we wrote  about why a memory safety strategy that focuses on vulnerability prevention in ...",
+    "Confidence": 0.9761286
+  },
+  {
+    "Title": "Just 10 minutes away",
+    "Url": "https://tushardadlani.com/just-10-minutes-away",
+    "Timestamp": "2025-11-14T00:03:08",
+    "Domain": "tushardadlani.com",
+    "Description": "10 minutes is a powerful distance. If you walk, take public transit or drive for just 10 minutes from where you currently are you are likely to encounter another human being who either has way less...",
+    "Confidence": 0.8192948
+  },
+  {
+    "Title": "Skills as Object-oriented Programming for LLMs",
+    "Url": "https://bit.kevinslin.com/p/skills-as-object-oriented-programming",
+    "Timestamp": "2025-11-14T00:03:04",
+    "Domain": "bit.kevinslin.com",
+    "Description": "In case you missed the launch announcement - skills are structured markdown files with (optional) resources that can augment LLM’s with additional capabilities (eg.",
+    "Confidence": 0.9970855
+  },
+  {
+    "Title": "Bring Your Own … Blob Storage?",
+    "Url": "https://nuon.co/blog/bring-your-own-blob-storage/",
+    "Timestamp": "2025-11-14T00:02:59",
+    "Domain": "nuon.co",
+    "Description": "Thoughts on why blog storage, and specifically S3 are a perfect match for BYOC software.",
+    "Confidence": 0.9939631
+  },
+  {
+    "Title": "The Lost Spark: How Modernity Flattened Real and Imaginary",
+    "Url": "https://ystepanoff.net/blog/2025-11-10-the-lost-spark/",
+    "Timestamp": "2025-11-14T00:02:55",
+    "Domain": "ystepanoff.net",
+    "Description": "The Lost Spark: How Modernity Flattened Real and Imaginary",
+    "Confidence": 0.7466647
+  },
+  {
+    "Title": "How We Streamed OpenAlt on Vhsky.cz – Brno Hat",
+    "Url": "https://enblog.eischmann.cz/2025/11/13/how-we-streamed-openalt-on-vhsky-cz/",
+    "Timestamp": "2025-11-14T00:02:40",
+    "Domain": "enblog.eischmann.cz",
+    "Description": "The blog post was originally published on my Czech blog.",
+    "Confidence": 0.9686629
+  },
+  {
+    "Title": "How Close Can a PWA Get to a Native App? Closer Than You Think - Kool Codez",
+    "Url": "https://koolcodez.com/blog/how-close-can-a-pwa-get-to-a-native-app/",
+    "Timestamp": "2025-11-14T00:02:34",
+    "Domain": "koolcodez.com",
+    "Description": "I set out to see how far the web can go toward feeling native. Here’s what I found while building a PWA demo that might just make a full rewrite unnecessary.",
+    "Confidence": 0.9934493
+  },
+  {
+    "Title": "Everyone Says They Can Spot AI Writing—Can You? 🤔",
+    "Url": "https://benjaminste.in/blog/2025/11/12/everyone-says-they-can-spot-ai-writing/",
+    "Timestamp": "2025-11-14T00:02:29",
+    "Domain": "benjaminste.in",
+    "Description": "I built a collaborative team of copywriters that run inside Claude Code (what?!) that automate my writing process–without sounding like an LLM",
+    "Confidence": 0.99062365
+  },
+  {
+    "Title": "Eggtastic Fortress",
+    "Url": "https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html",
+    "Timestamp": "2025-11-14T00:02:25",
+    "Domain": "ahmed1011001.github.io",
+    "Description": "It began, as many thought exercises do, with a discussion in the\n          kitchen. My wife and I were debating whether a cooked egg was still\n          safe to eat after spending the night on the kitchen counter. I am \n          certainly not the type to throw away food lightly at the lightest hint \n          of an issue. Confidently, I told her the egg would be fine. After all, \n          eggshells are made of calcium carbonate, solid, sealed, and, \n          in my mind, impenetrable to any contaminants.",
+    "Confidence": 0.8385672
+  },
+  {
     "Title": "Nano Banana can be prompt engineered for extremely nuanced AI image generation",
     "Url": "https://minimaxir.com/2025/11/nano-banana-prompts/",
     "Timestamp": "2025-11-13T22:02:10",
@@ -190,13 +446,5 @@
     "Domain": "dvitsios.org",
     "Description": "I’ve been reflecting on how 𝑨𝑰 𝒂𝒈𝒆𝒏𝒕𝒔 built on large language models communicate, not with 0s and 1s but through tokens, hinting at a quiet shift in how information behaves. 💡 For decades, the 𝒃𝒊𝒕 …",
     "Confidence": 0.9542867
-  },
-  {
-    "Title": "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
-    "Url": "https://www.phoronix.com/news/Steam-Machines-Frame-2026",
-    "Timestamp": "2025-11-13T00:01:58",
-    "Domain": "www.phoronix.com",
-    "Description": "Valve just sent over the press release announcing three new Steam Hardware devices.",
-    "Confidence": 0.792044
   }
 ]

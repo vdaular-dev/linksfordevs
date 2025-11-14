@@ -7,6 +7,328 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sorry to my PR reviewers</title>
+      <link>https://ajkueterman.com/posts/sorry-pr-reviewers/</link>
+      <description>A brief explanation of my PR drafting foibles.</description>
+      <guid>https://ajkueterman.com/posts/sorry-pr-reviewers/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tracking Down Progressively-Enhanceable APIs</title>
+      <link>https://willhbr.net/2025/11/07/tracking-down-progressively-enhanceable-apis/</link>
+      <description>Something that I’m a big fan of is APIs that can be easily modified and hacked with. It’s frustrating to have to write fully production-ready code when you actually want to just prototype something, and so I’m happy when there’s an API that it’s easy to use, which then progresses into a more full-featured API. In Crystal an example of this is File.read. If you want to get the entire contents of a file you can just do: contents =...</description>
+      <category>rust</category>
+      <category>web</category>
+      <guid>https://willhbr.net/2025/11/07/tracking-down-progressively-enhanceable-apis/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Satya Nadella — How Microsoft is preparing for AGI</title>
+      <link>https://www.dwarkesh.com/p/satya-nadella-2</link>
+      <description>Plus a tour of Fairwater 2, the most powerful AI datacenter in the world</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>encryption</category>
+      <guid>https://www.dwarkesh.com/p/satya-nadella-2</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>We’re Real Fucked</title>
+      <link>https://abermoo.wordpress.com/2025/11/13/were-real-fucked/</link>
+      <description>Thursday. Okay, Thursday. Time to get ready for the weekend.Wait ready? For what, exactly? You ever notice how we say things like that get ready for the weekend as if it’s a ritual? A small prayer …</description>
+      <guid>https://abermoo.wordpress.com/2025/11/13/were-real-fucked/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Survived a Viral App—Almost Losing My Mind - Shajid Hasan</title>
+      <link>https://www.sh4jid.me/blog/how-i-survived-a-viral-app</link>
+      <description>What started as a fun side project during exams became a viral sensation. Chithi.me, an app for anonymous hand-written letters, delivered millions of messages—bringing excitement, sleepless nights, and tech lessons.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://www.sh4jid.me/blog/how-i-survived-a-viral-app</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why OLAP Migrations Are Hard: The Hidden Cost of Schema Change in Analytical Databases</title>
+      <link>https://www.fiveonefour.com/blog/olap-migration-complexity</link>
+      <description>Schema changes in analytical databases like ClickHouse aren’t simple DDL tweaks—they’re physical rewrites that ripple through materialized views and dependencies. Learn why OLAP migrations are so complex, and how design choices that speed up reads make change management harder.</description>
+      <author> (Johanan Ottensooser)</author>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://www.fiveonefour.com/blog/olap-migration-complexity</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor's Composer Model Surprised Me</title>
+      <link>https://www.sawyerhood.com/blog/composer-1-surprise</link>
+      <description>After months away from Cursor, Composer 1 has me reconsidering my daily driver. Speed beats raw intelligence for most coding tasks.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.sawyerhood.com/blog/composer-1-surprise</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Home (VPN) Network Setup</title>
+      <link>https://a14m.dev/blog/my-home-network-setup/</link>
+      <description>A14M · Platform Engineer · DevOps</description>
+      <category>conference</category>
+      <category>javascript</category>
+      <category>android</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://a14m.dev/blog/my-home-network-setup/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>A reminder to stay in control of your agents</title>
+      <link>https://raniz.blog/2025-11-13_remain-in-control-agents/</link>
+      <description>These tools are good, but seriously flawed. Trust but verify.</description>
+      <category>ai</category>
+      <guid>https://raniz.blog/2025-11-13_remain-in-control-agents/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Air gapped / Data Diode backing up arrangement</title>
+      <link>https://bnikolic.co.uk/blog/linux/2025/11/13/backupdiode.html</link>
+      <description>With the news today UK GDP has apparently been measurably decreased by the well publicised JLR hack of their computer system, here is a simple air-gapped archiving / backup system which can easily be implemented on multi-TB sized systems. We have great tools available – we just need to use them!</description>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://bnikolic.co.uk/blog/linux/2025/11/13/backupdiode.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let Your Intrusive Thoughts Win: How To Talk To Anyone</title>
+      <link>https://www.brandonhresko.com/blog/let-your-intrusive-thoughts-win</link>
+      <description>how to use your intrusive thoughts to start and maintain conversations</description>
+      <guid>https://www.brandonhresko.com/blog/let-your-intrusive-thoughts-win</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bayesian A/B testing is not immune to peeking</title>
+      <link>https://www.alexmolas.com/2025/10/30/bayesian-ab-test-peeking.html</link>
+      <description>October 30, 2025 · 
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+    3 mins · 559 words
+  
+
+
+  
+    Share on:
+    X ·
+    HN</description>
+      <category>web</category>
+      <guid>https://www.alexmolas.com/2025/10/30/bayesian-ab-test-peeking.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Truly First-Class Custom Smart Pointers</title>
+      <link>https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html</link>
+      <description>I propose this blog post as part of the discussions around the Field Projections project goal. Thanks to Benno Lossin and everyone involved for the very fruitful discussions!</description>
+      <category>rust</category>
+      <guid>https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Architecting for multitenancy</title>
+      <link>https://www.gouthamve.dev/architecting-for-multitenancy/</link>
+      <description>Ever since I wrote the ClickHouse post, it has been living in my head rent-free. I was thinking a lot about running it as the backend for a SaaS service and realized its multi-tenancy model isn't great.
+
+And that led me into a rabbit hole where I realized I am</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <guid>https://www.gouthamve.dev/architecting-for-multitenancy/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Model T Housing</title>
+      <link>https://joelx.com/model-t-housing/</link>
+      <description>Government building over-regulation makes housing far more expensive and generic for everyone. Building code mandates one way, a quite expensive way, of building homes. It forces builders to use old techniques despite advancing technology. If cars were over-regulated in the same way housing is, you would still have everyone driving Model T Fords! We can</description>
+      <guid>https://joelx.com/model-t-housing/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Needy Programs</title>
+      <link>https://tonsky.me/blog/needy-programs/</link>
+      <description>We used to use software; now software started to use us</description>
+      <author> (https://www.facebook.com/nikitonsky)</author>
+      <category>git</category>
+      <guid>https://tonsky.me/blog/needy-programs/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Recommendations for Getting the Most Out of a Technical Book</title>
+      <link>https://sebastianraschka.com/blog/2025/reading-books.html</link>
+      <description>This short article compiles a few notes I previously shared when readers ask how to get the most out of my building large language model from scratch books. ...</description>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://sebastianraschka.com/blog/2025/reading-books.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Build an NFL Prediction Model with ELO Ratings and DuckDB</title>
+      <link>https://michellepellon.com/blog/2025-11-13-building-an-nfl-prediction-model</link>
+      <description>Build a sophisticated NFL prediction model achieving 57% accuracy using ELO ratings, DuckDB, and dbt. Complete technical guide with Python code, Monte Carlo simulations, and real-world results from 143 games.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <guid>https://michellepellon.com/blog/2025-11-13-building-an-nfl-prediction-model</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Animating CSS width or height no longer forces a Main Thread animation (in Chrome, under the right conditions)</title>
+      <link>https://www.bram.us/2025/11/13/animating-css-width-or-height-no-longer-force-a-main-thread-animation-in-chrome-under-the-right-conditions/</link>
+      <description>When their values don't change throughout the animation, CSS width / height animations can run on the Compositor, instead of being forced to run on the Main Thread.</description>
+      <category>web</category>
+      <guid>https://www.bram.us/2025/11/13/animating-css-width-or-height-no-longer-force-a-main-thread-animation-in-chrome-under-the-right-conditions/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing YARD-Lint: Keep Your Ruby Documentation Solid</title>
+      <link>https://mensfeld.pl/2025/11/yard-lint-ruby-documentation-linter/</link>
+      <description>YARD-Lint catches documentation drift in Ruby projects. Open-source linter that validates YARD tags, types, and examples. Improve code quality and AI accuracy.</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <guid>https://mensfeld.pl/2025/11/yard-lint-ruby-documentation-linter/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Against 'Metroidbrania': a Landscape of Knowledge Games</title>
+      <link>https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/</link>
+      <description>What are knowledge games? How do we relate them to each other? What sub-genres exist – and which ones might be implied?</description>
+      <category>gaming</category>
+      <category>sql</category>
+      <guid>https://azhdarchid.com/against-metroidbrania-a-landscape-of-knowledge-games/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Messing with bots</title>
+      <link>https://herman.bearblog.dev/messing-with-bots/</link>
+      <description>Markov chain babblers, bogus php files, and more!</description>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>gaming</category>
+      <guid>https://herman.bearblog.dev/messing-with-bots/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artisanal Coding Is Dead, Long Live Artisanal Coding!</title>
+      <link>https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/</link>
+      <description>Discuss on Hacker News or Twitter.
+
+I recently discovered that I possess certain AI-assisted superpowers: I can now implement working features — the ones I actually need and want — far faster than if I coded them artisanally, and with no loss in quality. I literally feel 10× more productive!
+
+Take, for</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://joel.id/artisanal-coding-is-dead-long-live-artisanal-coding/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust in Android: move fast and fix things</title>
+      <link>https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html</link>
+      <description>Posted by Jeff Vander Stoep, Android    Last year, we wrote  about why a memory safety strategy that focuses on vulnerability prevention in ...</description>
+      <category>rust</category>
+      <category>android</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <guid>https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Just 10 minutes away</title>
+      <link>https://tushardadlani.com/just-10-minutes-away</link>
+      <description>10 minutes is a powerful distance. If you walk, take public transit or drive for just 10 minutes from where you currently are you are likely to encounter another human being who either has way less...</description>
+      <guid>https://tushardadlani.com/just-10-minutes-away</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skills as Object-oriented Programming for LLMs</title>
+      <link>https://bit.kevinslin.com/p/skills-as-object-oriented-programming</link>
+      <description>In case you missed the launch announcement - skills are structured markdown files with (optional) resources that can augment LLM’s with additional capabilities (eg.</description>
+      <category>ai</category>
+      <guid>https://bit.kevinslin.com/p/skills-as-object-oriented-programming</guid>
+      <pubDate>Fri, 14 Nov 2025 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bring Your Own … Blob Storage?</title>
+      <link>https://nuon.co/blog/bring-your-own-blob-storage/</link>
+      <description>Thoughts on why blog storage, and specifically S3 are a perfect match for BYOC software.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://nuon.co/blog/bring-your-own-blob-storage/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Lost Spark: How Modernity Flattened Real and Imaginary</title>
+      <link>https://ystepanoff.net/blog/2025-11-10-the-lost-spark/</link>
+      <description>The Lost Spark: How Modernity Flattened Real and Imaginary</description>
+      <category>gaming</category>
+      <guid>https://ystepanoff.net/blog/2025-11-10-the-lost-spark/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>How We Streamed OpenAlt on Vhsky.cz – Brno Hat</title>
+      <link>https://enblog.eischmann.cz/2025/11/13/how-we-streamed-openalt-on-vhsky-cz/</link>
+      <description>The blog post was originally published on my Czech blog.</description>
+      <category>youtube</category>
+      <guid>https://enblog.eischmann.cz/2025/11/13/how-we-streamed-openalt-on-vhsky-cz/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Close Can a PWA Get to a Native App? Closer Than You Think - Kool Codez</title>
+      <link>https://koolcodez.com/blog/how-close-can-a-pwa-get-to-a-native-app/</link>
+      <description>I set out to see how far the web can go toward feeling native. Here’s what I found while building a PWA demo that might just make a full rewrite unnecessary.</description>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>android</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://koolcodez.com/blog/how-close-can-a-pwa-get-to-a-native-app/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everyone Says They Can Spot AI Writing—Can You? 🤔</title>
+      <link>https://benjaminste.in/blog/2025/11/12/everyone-says-they-can-spot-ai-writing/</link>
+      <description>I built a collaborative team of copywriters that run inside Claude Code (what?!) that automate my writing process–without sounding like an LLM</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://benjaminste.in/blog/2025/11/12/everyone-says-they-can-spot-ai-writing/</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eggtastic Fortress</title>
+      <link>https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html</link>
+      <description>It began, as many thought exercises do, with a discussion in the
+          kitchen. My wife and I were debating whether a cooked egg was still
+          safe to eat after spending the night on the kitchen counter. I am 
+          certainly not the type to throw away food lightly at the lightest hint 
+          of an issue. Confidently, I told her the egg would be fine. After all, 
+          eggshells are made of calcium carbonate, solid, sealed, and, 
+          in my mind, impenetrable to any contaminants.</description>
+      <guid>https://ahmed1011001.github.io/Notes/stories/eggstrodinary.html</guid>
+      <pubDate>Fri, 14 Nov 2025 00:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Nano Banana can be prompt engineered for extremely nuanced AI image generation</title>
       <link>https://minimaxir.com/2025/11/nano-banana-prompts/</link>
       <description>Nano Banana allows 32,768 input tokens and I’m going to try to use them all dammit.</description>
@@ -223,15 +545,6 @@ This past September I gave the closing keynote at posit::conf; it’s now on You
       <category>ai</category>
       <guid>https://dvitsios.org/2025/11/12/the-shift-from-computation-to-conversation/</guid>
       <pubDate>Thu, 13 Nov 2025 01:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve Announces New Steam Machine, Steam Controller &amp; Steam Frame</title>
-      <link>https://www.phoronix.com/news/Steam-Machines-Frame-2026</link>
-      <description>Valve just sent over the press release announcing three new Steam Hardware devices.</description>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://www.phoronix.com/news/Steam-Machines-Frame-2026</guid>
-      <pubDate>Thu, 13 Nov 2025 00:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
