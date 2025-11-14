@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing SlopStop: Community-driven AI slop detection in Kagi Search</title>
+      <link>https://blog.kagi.com/slopstop</link>
+      <description>-------------------------------------------------------------------
+Your collective defense against AI-generated spam and content farms
+-------------------------------------------------------------------
+
+We made it our mission to prevent the web from becoming useless and a harmful space.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://blog.kagi.com/slopstop</guid>
+      <pubDate>Fri, 14 Nov 2025 01:01:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Sorry to my PR reviewers</title>
       <link>https://ajkueterman.com/posts/sorry-pr-reviewers/</link>
       <description>A brief explanation of my PR drafting foibles.</description>
@@ -421,130 +434,6 @@ i get the first call at 11:30pm from mom, who lived...</description>
       <category>web</category>
       <guid>https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html</guid>
       <pubDate>Thu, 13 Nov 2025 03:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comparing Integers and Doubles</title>
-      <link>http://databasearchitects.blogspot.com/2025/11/comparing-integers-and-doubles.html</link>
-      <description>A blog by and for database architects.</description>
-      <category>sql</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>web</category>
-      <guid>http://databasearchitects.blogspot.com/2025/11/comparing-integers-and-doubles.html</guid>
-      <pubDate>Thu, 13 Nov 2025 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creating recurring tasks in Todoist with cron</title>
-      <link>https://www.davidschlachter.com/misc/todoist-repeater</link>
-      <description>My approach to managing and creating repeating tasks using a cron scheduler in Todoist.</description>
-      <category>git</category>
-      <guid>https://www.davidschlachter.com/misc/todoist-repeater</guid>
-      <pubDate>Thu, 13 Nov 2025 01:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Exit Taxes</title>
-      <link>https://eidel.io/the-rise-of-exit-taxes/</link>
-      <description>Revolut’s co-founder Nik Storonsky recently moved from the UK to the UAE. The move will likely save him up to GBP 3bn (yes, those are billions) in capital gains tax which he would no longer have to pay in the UK if he were to sell his entire stake in Revolut. This sparked a huge […]</description>
-      <category>ai</category>
-      <guid>https://eidel.io/the-rise-of-exit-taxes/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>When Builders became Bullies</title>
-      <link>https://blog.con.rs/2025/11/12/when-builders-became-bullies.html</link>
-      <description>Builders once disrupted the tech world, but now they’re the gatekeepers. As their success made them risk-averse, they see any change as a threat. Today, they’re bullies - ripe for disruption.</description>
-      <category>web</category>
-      <guid>https://blog.con.rs/2025/11/12/when-builders-became-bullies.html</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't start writing — Luka</title>
-      <link>https://lukakopajtic.com/dont-start-writing/</link>
-      <description>Luka's first post.</description>
-      <guid>https://lukakopajtic.com/dont-start-writing/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learning from running</title>
-      <link>https://the-nerve-blog.ghost.io/learning-from-running/</link>
-      <description>In 2005, Steve Jobs told the graduating class of Stanford a now-famous story about connecting the dots - a story about the calligraphy courses he took in his college years, which later influenced the industry-leading digital fonts that shipped with the Macintosh. He said:
-
-Again, you can’t connect the</description>
-      <category>ai</category>
-      <guid>https://the-nerve-blog.ghost.io/learning-from-running/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>What is Purchasing Power Parity (PPP) ?</title>
-      <link>https://hugo.writizzy.com/purchasing-power-parity-ppp/4ea79d1b-988e-4a9f-8d0f-3d7557703fb5</link>
-      <description>Thinking about Purchasing Power Parity (PPP) for SaaS: should prices be adjusted according to country? Analysis of marginal costs and VPN risk</description>
-      <category>apple</category>
-      <guid>https://hugo.writizzy.com/purchasing-power-parity-ppp/4ea79d1b-988e-4a9f-8d0f-3d7557703fb5</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creating prototypes constrained by the medium not our skills or understanding</title>
-      <link>https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html</link>
-      <description></description>
-      <category>ai</category>
-      <category>web</category>
-      <category>sql</category>
-      <guid>https://grillopress.github.io/2025/10/27/prototypes-that-arent-limited-by-your-skills.html</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>I left my Big Tech job at 50 to build a game</title>
-      <link>https://galantrix.com/blog/20251112/</link>
-      <description>We make modern games with a fierce classic touch.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://galantrix.com/blog/20251112/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>how to stop having FOMO as a curious engineer: hold a thread</title>
-      <link>https://www.yacinemahdid.com/p/how-to-stop-having-fomo-as-a-curious</link>
-      <description>little worthless advice to learn passionately without boxing yourself</description>
-      <category>ai</category>
-      <guid>https://www.yacinemahdid.com/p/how-to-stop-having-fomo-as-a-curious</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trustworthy Data Visualization</title>
-      <link>https://kieranhealy.org/blog/archives/2025/11/10/trustworthy-data-visualization/</link>
-      <description>
-      
-    
-
-This past September I gave the closing keynote at posit::conf; it’s now on YouTube to watch. Keen-eyed observers will note from the title that it’s about trustworthy data visualization. But it’s also about trust a bit more generally, and how we should think about it in a world where  researchers are faking results, AIs are enthusiastically confabulating, and government is destroying data infrastructure. When you find yourself giving a talk with a little tiny microphone stuck to the side of your head you have to ask yourself some hard questions, but the talk was partly about that.</description>
-      <category>youtube</category>
-      <guid>https://kieranhealy.org/blog/archives/2025/11/10/trustworthy-data-visualization/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Make a Living as an Artist</title>
-      <link>https://essays.fnnch.com/make-a-living</link>
-      <description>An essay by fnnch on making a living as an artist.</description>
-      <guid>https://essays.fnnch.com/make-a-living</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Feed the Beast | Derek Larson</title>
-      <link>https://www.dtlarson.com/feed-the-beast</link>
-      <description>AI Eats Software</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.dtlarson.com/feed-the-beast</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Shift from Computation to Conversation</title>
-      <link>https://dvitsios.org/2025/11/12/the-shift-from-computation-to-conversation/</link>
-      <description>I’ve been reflecting on how 𝑨𝑰 𝒂𝒈𝒆𝒏𝒕𝒔 built on large language models communicate, not with 0s and 1s but through tokens, hinting at a quiet shift in how information behaves. 💡 For decades, the 𝒃𝒊𝒕 …</description>
-      <category>ai</category>
-      <guid>https://dvitsios.org/2025/11/12/the-shift-from-computation-to-conversation/</guid>
-      <pubDate>Thu, 13 Nov 2025 01:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
