@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Why agents DO NOT write most of our code - a reality check",
+    "Url": "https://octomind.dev/blog/why-agents-do-not-write-most-of-our-code-a-reality-check",
+    "Timestamp": "2025-11-14T03:02:12",
+    "Domain": "octomind.dev",
+    "Description": "At Octomind, we build AI agents - but our code is still mostly written by humans. We love LLMs and use them everywhere we can, from our product to our internal workflows. But despite all the hype, we’re nowhere near “agents writing most of our code.”",
+    "Confidence": 0.98468894
+  },
+  {
+    "Title": "Blue Origin sticks first New Glenn rocket landing and launches NASA spacecraft | TechCrunch",
+    "Url": "https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/",
+    "Timestamp": "2025-11-14T03:02:08",
+    "Domain": "techcrunch.com",
+    "Description": "It's an impressive accomplishment for the new mega-rocket launch system, and paves the way for the company to start re-using the boosters in commercial missions.",
+    "Confidence": 0.5148462
+  },
+  {
     "Title": "Introducing SlopStop: Community-driven AI slop detection in Kagi Search",
     "Url": "https://blog.kagi.com/slopstop",
     "Timestamp": "2025-11-14T01:01:53",
@@ -334,13 +350,5 @@
     "Domain": "www.jenn.site",
     "Description": "cw: death\n\ndad died this summer, from his first heart attack, barely a week after his 57th birthday.\n\ni get the first call at 11:30pm from mom, who lived...",
     "Confidence": 0.8748257
-  },
-  {
-    "Title": "Android developer verification: Early access starts now as we continue to build with your feedback",
-    "Url": "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html",
-    "Timestamp": "2025-11-13T03:02:09",
-    "Domain": "android-developers.googleblog.com",
-    "Description": "News and insights on the Android platform, developer tools, and events.",
-    "Confidence": 0.9655957
   }
 ]
