@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI World Clocks</title>
+      <link>https://clocks.brianmoore.com/</link>
+      <description>The current time as rendered by 9 different AI models. By Brian Moore.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://clocks.brianmoore.com/</guid>
+      <pubDate>Fri, 14 Nov 2025 21:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>You misunderstand what it means to be poor</title>
       <link>https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/</link>
       <description>The more I speak about being poor, the more I realize how fundamentally other folks misunderstand what it means to be poor versus being broke.</description>
@@ -403,17 +412,6 @@ Take, for</description>
       <category>web</category>
       <guid>https://minimaxir.com/2025/11/nano-banana-prompts/</guid>
       <pubDate>Thu, 13 Nov 2025 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM Patented Euler's 200 year old Math Technique</title>
-      <link>https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions</link>
-      <description>IBM Slapped the Buzzwords 'AI Interpretability' on Generalized Continued Fractions and their Series Transformations and was awarded a Patent</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions</guid>
-      <pubDate>Thu, 13 Nov 2025 21:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

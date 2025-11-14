@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI World Clocks",
+    "Url": "https://clocks.brianmoore.com/",
+    "Timestamp": "2025-11-14T21:02:04",
+    "Domain": "clocks.brianmoore.com",
+    "Description": "The current time as rendered by 9 different AI models. By Brian Moore.",
+    "Confidence": 0.79798466
+  },
+  {
     "Title": "You misunderstand what it means to be poor",
     "Url": "https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/",
     "Timestamp": "2025-11-14T20:02:04",
@@ -318,13 +326,5 @@
     "Domain": "minimaxir.com",
     "Description": "Nano Banana allows 32,768 input tokens and I’m going to try to use them all dammit.",
     "Confidence": 0.97128
-  },
-  {
-    "Title": "IBM Patented Euler's 200 year old Math Technique",
-    "Url": "https://leetarxiv.substack.com/p/ibm-patented-eulers-fractions",
-    "Timestamp": "2025-11-13T21:02:10",
-    "Domain": "leetarxiv.substack.com",
-    "Description": "IBM Slapped the Buzzwords 'AI Interpretability' on Generalized Continued Fractions and their Series Transformations and was awarded a Patent",
-    "Confidence": 0.9949172
   }
 ]
