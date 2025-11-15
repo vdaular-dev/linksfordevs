@@ -7,6 +7,168 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Comet sends all your URLs to Perplexity servers and there's no way to stop it</title>
+      <link>https://shivankaul.com/blog/comet-privacy</link>
+      <description>There's no way to disable Comet leaking your entire browsing history to their backend.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://shivankaul.com/blog/comet-privacy</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Danger of the Eat The Frog Productivity Method (And How to Actually Use It Right)</title>
+      <link>https://zhighley.com/article/the-danger-of-the-eat-the-frog-productivity-method-and-how-to-actually-use-it-right/</link>
+      <description>Using productivity techniques have changed my life. But when I first started using them, I saw no benefit. One of the most popular ones, “eating the frog,” stumped me. At first, I was motivated to do…</description>
+      <category>gaming</category>
+      <guid>https://zhighley.com/article/the-danger-of-the-eat-the-frog-productivity-method-and-how-to-actually-use-it-right/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The bitter lesson for web agents</title>
+      <link>https://yutori.com/blog/the-bitter-lesson-for-web-agents</link>
+      <description>Agents that generalize need to perceive the web like a human would.</description>
+      <author> (The Yutori team)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://yutori.com/blog/the-bitter-lesson-for-web-agents</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Collaborators to Consumers: Have We Killed the Soul of Open Source? | MyNotes</title>
+      <link>https://my-notes.dragas.net/2025/06/19/from-collaborators-to-consumers-have-we-killed-the-soul-of-open-source/</link>
+      <description>The Open Source community is becoming increasingly polarized. From the distro wars to Wayland vs. X11, the spirit of collaboration is fading. Are we shifting from collaborators to consumers, and what can we do to build bridges instead of walls?</description>
+      <category>linux</category>
+      <guid>https://my-notes.dragas.net/2025/06/19/from-collaborators-to-consumers-have-we-killed-the-soul-of-open-source/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on Funding Free Software Development</title>
+      <link>http://yummymelon.com/devnull/thoughts-on-funding-free-software-development.html</link>
+      <description>“I have always depended on the kindness of strangers.” — Blanche Dubois from “A Streetcar Named Desire”, Tennessee Williams. DISCLAIMER: None of this post should be considered as financial or...</description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>linux</category>
+      <guid>http://yummymelon.com/devnull/thoughts-on-funding-free-software-development.html</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's the difference between an artist and a creator?</title>
+      <link>https://www.ystrickler.com/whats-the-difference-between-an-artist-and-a-creator/</link>
+      <description>In 1973, experimental filmmaker Hollis Frampton wrote a letter to MoMA that captures a paradox that still defines creative work today. 
+
+The Museum of Modern Art had offered the filmmaker a retrospective of his work. However he was also told there would be "no money included at all" and it</description>
+      <guid>https://www.ystrickler.com/whats-the-difference-between-an-artist-and-a-creator/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scheduling in inference engines</title>
+      <link>https://fergusfinn.com/blog/scheduling-in-inference-engines/</link>
+      <description>A look into how inference engines choose which requests to process
+</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://fergusfinn.com/blog/scheduling-in-inference-engines/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can ChatGPT Beat My Favorite Puzzle Game?</title>
+      <link>https://www.nicksypteras.com/blog/cbs-benchmark.html</link>
+      <description>nick sypteras</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://www.nicksypteras.com/blog/cbs-benchmark.html</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Beauty of Boring Businesses</title>
+      <link>https://brajeshwar.com/2025/beauty-of-boring-businesses/</link>
+      <description>I’m on an adventure to create beautiful and meaningful products to improve the world for my daughters and their friends.</description>
+      <guid>https://brajeshwar.com/2025/beauty-of-boring-businesses/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Management Lessons Learned from Playing Factorio</title>
+      <link>https://weitz.blog/p/factorio-management-lessons</link>
+      <description>An After-the-Fact Justification</description>
+      <category>gaming</category>
+      <guid>https://weitz.blog/p/factorio-management-lessons</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Month of Chat-Oriented Programming</title>
+      <link>https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/</link>
+      <description>Or when did you last change your mind about something?</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>git</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Sophisticated Crypto Scam &amp; The Power of Social Engineering</title>
+      <link>https://www.davidexmachina.com/2025/11/a-sophisticated-crypto-scam-power-of.html</link>
+      <description>We've all heard the warnings: "Don't click suspicious links!" "Be wary of unsolicited emails!" But what happens when the scam isn't a glarin...</description>
+      <guid>https://www.davidexmachina.com/2025/11/a-sophisticated-crypto-scam-power-of.html</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keeping dependencies up to date with Renovate | Mateusz Kiersnowski</title>
+      <link>https://kiersnowski.dev/posts/renovate/</link>
+      <description>A quick guide on how to setup Renovate on self-hosted GitLab instance for automatic dependency updates.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://kiersnowski.dev/posts/renovate/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>    
+                        Debugging Your Decisions – Jon C. Phillips
+            </title>
+      <link>https://joncphillips.com/debugging-your-decisions/</link>
+      <description>    
+                                        Here's the thing. By the time you're stepping through code, the real bug is already ancient history. It's sitting in a Slack thread from three weeks a…
+            </description>
+      <author> (https://joncphillips.com/)</author>
+      <guid>https://joncphillips.com/debugging-your-decisions/</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are Young People Screwed?</title>
+      <link>https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy</link>
+      <description>It seems like everyone has suddenly agreed that young Americans have never had it worse. Let's investigate.</description>
+      <category>ai</category>
+      <guid>https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>My way to remove “Linuxisms” from FreeBSD</title>
+      <link>https://eugene-andrienko.com/it/2025/03/30/freebsd-pkgs-wout-unwanted-deps.html</link>
+      <description>TOC&amp;#xa0;&amp;#xa0;&amp;#xa0; Preamble Poudriere installation Removing unwanted dependencies More complex examples of deWaylandization Ports flavors Patching Makefile Results and thoughts Notes Preamble My everyday FreeBSD system has two good old components for graphics and sound — the X Server and the OSS. There are simple reasons to use these components — they are mature, they have tons of user documentation, use case examples, etc. I also like the way these things have been used in the FreeBSD world. Let me quote vermaden, who wrote well (about the OSS) in the Quare FreeBSD? blogpost:</description>
+      <category>git</category>
+      <category>linux</category>
+      <category>rust</category>
+      <guid>https://eugene-andrienko.com/it/2025/03/30/freebsd-pkgs-wout-unwanted-deps.html</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving Back to a Tiling WM - XMonad</title>
+      <link>https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad</link>
+      <description></description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad</guid>
+      <pubDate>Sat, 15 Nov 2025 01:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Beam Dump</title>
       <link>https://xkcd.com/3168/</link>
       <description></description>
@@ -85,19 +247,6 @@ Palestinians are dependent on Israel for their access to electricity,</descripti
       <description>It's an impressive accomplishment for the new mega-rocket launch system, and paves the way for the company to start re-using the boosters in commercial missions.</description>
       <guid>https://techcrunch.com/2025/11/13/blue-origin-sticks-first-new-glenn-rocket-landing-and-launches-nasa-spacecraft/</guid>
       <pubDate>Fri, 14 Nov 2025 03:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing SlopStop: Community-driven AI slop detection in Kagi Search</title>
-      <link>https://blog.kagi.com/slopstop</link>
-      <description>-------------------------------------------------------------------
-Your collective defense against AI-generated spam and content farms
--------------------------------------------------------------------
-
-We made it our mission to prevent the web from becoming useless and a harmful space.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://blog.kagi.com/slopstop</guid>
-      <pubDate>Fri, 14 Nov 2025 01:01:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
