@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Behind the complaints: Our investigation into the suspicious pressure on Archive.today</title>
+      <link>https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html</link>
+      <description>Some time ago, we were contacted by a group fighting against online CSAM, demanding that AdGuard DNS blocks the Archive.today website. This was only the beginning of a much larger story…</description>
+      <guid>https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html</guid>
+      <pubDate>Sat, 15 Nov 2025 14:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Taming Service Dependencies with Aspire</title>
       <link>https://youtu.be/u0iK6Bv5BZ0</link>
       <description>Tired of wrestling with local development environments? You're not alone. Setting up and maintaining local services—especially a mix of cloud-native and legacy apps—is a common headache for developers. It's a time sink that slows down innovation and productivity. At Trayport, we're facing this exact challenge. Our solution? We're packaging our applications as Aspire integrations. In this talk, we'll walk you through our journey and show you how extending Aspire is transforming our development workflow.
