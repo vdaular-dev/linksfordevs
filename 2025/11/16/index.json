@@ -1,5 +1,89 @@
 [
   {
+    "Title": "Teaching LLaMa to write for $0.08",
+    "Url": "https://www.enbao.me/posts/lora",
+    "Timestamp": "2025-11-16T01:02:55",
+    "Domain": "www.enbao.me",
+    "Description": "fine-tuning llama 3.1 8b on 650 prose snippets in 75 seconds for $0.08"
+  },
+  {
+    "Title": "Referential transparency",
+    "Url": "https://quamserena.com/2025-11-15/referential-transparency",
+    "Timestamp": "2025-11-16T01:02:52",
+    "Domain": "quamserena.com",
+    "Description": "I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com."
+  },
+  {
+    "Title": "Web Dev Has Never Been This Easy",
+    "Url": "https://blog.lohr.dev/ai-web-development",
+    "Timestamp": "2025-11-16T01:02:48",
+    "Domain": "blog.lohr.dev",
+    "Description": "Web development today is nothing like it used to be: With the rise of web apps, frameworks, and developer tools have matured massively."
+  },
+  {
+    "Title": "The Life of a Packet in the Linux kernel",
+    "Url": "https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/",
+    "Timestamp": "2025-11-16T01:02:45",
+    "Domain": "www.0xkato.xyz",
+    "Description": "A practical, plain-English tour of how Linux moves packets from write() to the wire and back"
+  },
+  {
+    "Title": "3manuek - Upgrading Postgres Major, and Django model with Logical Replication.",
+    "Url": "https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/",
+    "Timestamp": "2025-11-16T01:02:41",
+    "Domain": "tr3s.ma",
+    "Description": ""
+  },
+  {
+    "Title": "How should we peer review software?",
+    "Url": "https://mirawelner.com/posts/peer_review.html",
+    "Timestamp": "2025-11-16T01:02:37",
+    "Domain": "mirawelner.com",
+    "Description": "Why peer reviewing software isn't as easy as running the code."
+  },
+  {
+    "Title": "EyesOff: How I Built A Screen Contact Detection Model",
+    "Url": "https://ym2132.github.io/building_EyesOff_part2_model_training",
+    "Timestamp": "2025-11-16T01:02:33",
+    "Domain": "ym2132.github.io",
+    "Description": "I trained a model for my app EyesOff, which detects when people are looking at your screen to protect you from shoulder surfing. With no existing dataset for this task, I hand-labelled 20k+ images for training and created synthetic gaze labels for pre-training. The final model achieves ~71% accuracy across close and mid-range distances."
+  },
+  {
+    "Title": "512-Byte Boot Sector Pong Game",
+    "Url": "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/",
+    "Timestamp": "2025-11-16T01:02:30",
+    "Domain": "akshatjoshi.com",
+    "Description": "written by - Akshat Joshi\n\n\nSometime back, I set myself a crazy constraint:\n\n\n\n\nLoad only one thing at boot - A Pong game that fits in one floppy disk sector — 512 bytes.\n\n\n\n\nWhy would I build this?\n\nI have played with Operating Systems and their workings by customizing them and"
+  },
+  {
+    "Title": "Auto-vectorizing operations on buffers of unknown length",
+    "Url": "https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html",
+    "Timestamp": "2025-11-16T01:02:26",
+    "Domain": "nicula.xyz",
+    "Description": "GCC isn’t yet capable of auto-vectorizing even simple search operations on\nbuffers for which the length isn’t explicitly specified1."
+  },
+  {
+    "Title": "Make Your Own Spotify, With Blackjack And Hookers",
+    "Url": "https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/",
+    "Timestamp": "2025-11-16T01:02:22",
+    "Domain": "andreklein.net",
+    "Description": "[drop_cap]E[/drop_cap]arlier this year I found myself at a crossroads. Spotify's recommendation algorithms hadn't been what they used to be for a long time. I noticed they kept serving up the..."
+  },
+  {
+    "Title": "Forward-deployed engineer, the new full-stack frontier",
+    "Url": "https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/",
+    "Timestamp": "2025-11-16T01:02:14",
+    "Domain": "kairollmann.de",
+    "Description": "A grim but motivational piece on the new frontier of the 10x can-do-it-all developer and the overall AI wave."
+  },
+  {
+    "Title": "Blog",
+    "Url": "https://www.enbao.me/posts",
+    "Timestamp": "2025-11-16T01:02:10",
+    "Domain": "www.enbao.me",
+    "Description": "All posts on enbao.me"
+  },
+  {
     "Title": "GitHub - davidfowl/aspire-13-samples: A repo showing micro samples with aspire 13",
     "Url": "https://github.com/davidfowl/aspire-13-samples",
     "Timestamp": "2025-11-16T00:02:09",

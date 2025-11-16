@@ -1,5 +1,101 @@
 [
   {
+    "Title": "Teaching LLaMa to write for $0.08",
+    "Url": "https://www.enbao.me/posts/lora",
+    "Timestamp": "2025-11-16T01:02:55",
+    "Domain": "www.enbao.me",
+    "Description": "fine-tuning llama 3.1 8b on 650 prose snippets in 75 seconds for $0.08",
+    "Confidence": 0.8156072
+  },
+  {
+    "Title": "Referential transparency",
+    "Url": "https://quamserena.com/2025-11-15/referential-transparency",
+    "Timestamp": "2025-11-16T01:02:52",
+    "Domain": "quamserena.com",
+    "Description": "I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com.",
+    "Confidence": 0.99068373
+  },
+  {
+    "Title": "Web Dev Has Never Been This Easy",
+    "Url": "https://blog.lohr.dev/ai-web-development",
+    "Timestamp": "2025-11-16T01:02:48",
+    "Domain": "blog.lohr.dev",
+    "Description": "Web development today is nothing like it used to be: With the rise of web apps, frameworks, and developer tools have matured massively.",
+    "Confidence": 0.9969072
+  },
+  {
+    "Title": "The Life of a Packet in the Linux kernel",
+    "Url": "https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/",
+    "Timestamp": "2025-11-16T01:02:45",
+    "Domain": "www.0xkato.xyz",
+    "Description": "A practical, plain-English tour of how Linux moves packets from write() to the wire and back",
+    "Confidence": 0.99537945
+  },
+  {
+    "Title": "3manuek - Upgrading Postgres Major, and Django model with Logical Replication.",
+    "Url": "https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/",
+    "Timestamp": "2025-11-16T01:02:41",
+    "Domain": "tr3s.ma",
+    "Description": "",
+    "Confidence": 0.9901828
+  },
+  {
+    "Title": "How should we peer review software?",
+    "Url": "https://mirawelner.com/posts/peer_review.html",
+    "Timestamp": "2025-11-16T01:02:37",
+    "Domain": "mirawelner.com",
+    "Description": "Why peer reviewing software isn't as easy as running the code.",
+    "Confidence": 0.70667285
+  },
+  {
+    "Title": "EyesOff: How I Built A Screen Contact Detection Model",
+    "Url": "https://ym2132.github.io/building_EyesOff_part2_model_training",
+    "Timestamp": "2025-11-16T01:02:33",
+    "Domain": "ym2132.github.io",
+    "Description": "I trained a model for my app EyesOff, which detects when people are looking at your screen to protect you from shoulder surfing. With no existing dataset for this task, I hand-labelled 20k+ images for training and created synthetic gaze labels for pre-training. The final model achieves ~71% accuracy across close and mid-range distances.",
+    "Confidence": 0.98427516
+  },
+  {
+    "Title": "512-Byte Boot Sector Pong Game",
+    "Url": "https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/",
+    "Timestamp": "2025-11-16T01:02:30",
+    "Domain": "akshatjoshi.com",
+    "Description": "written by - Akshat Joshi\n\n\nSometime back, I set myself a crazy constraint:\n\n\n\n\nLoad only one thing at boot - A Pong game that fits in one floppy disk sector — 512 bytes.\n\n\n\n\nWhy would I build this?\n\nI have played with Operating Systems and their workings by customizing them and",
+    "Confidence": 0.9845381
+  },
+  {
+    "Title": "Auto-vectorizing operations on buffers of unknown length",
+    "Url": "https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html",
+    "Timestamp": "2025-11-16T01:02:26",
+    "Domain": "nicula.xyz",
+    "Description": "GCC isn’t yet capable of auto-vectorizing even simple search operations on\nbuffers for which the length isn’t explicitly specified1.",
+    "Confidence": 0.958102
+  },
+  {
+    "Title": "Make Your Own Spotify, With Blackjack And Hookers",
+    "Url": "https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/",
+    "Timestamp": "2025-11-16T01:02:22",
+    "Domain": "andreklein.net",
+    "Description": "[drop_cap]E[/drop_cap]arlier this year I found myself at a crossroads. Spotify's recommendation algorithms hadn't been what they used to be for a long time. I noticed they kept serving up the...",
+    "Confidence": 0.92919725
+  },
+  {
+    "Title": "Forward-deployed engineer, the new full-stack frontier",
+    "Url": "https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/",
+    "Timestamp": "2025-11-16T01:02:14",
+    "Domain": "kairollmann.de",
+    "Description": "A grim but motivational piece on the new frontier of the 10x can-do-it-all developer and the overall AI wave.",
+    "Confidence": 0.94869506
+  },
+  {
+    "Title": "Blog",
+    "Url": "https://www.enbao.me/posts",
+    "Timestamp": "2025-11-16T01:02:10",
+    "Domain": "www.enbao.me",
+    "Description": "All posts on enbao.me",
+    "Confidence": 0.88739085
+  },
+  {
     "Title": "GitHub - davidfowl/aspire-13-samples: A repo showing micro samples with aspire 13",
     "Url": "https://github.com/davidfowl/aspire-13-samples",
     "Timestamp": "2025-11-16T00:02:09",
@@ -46,141 +142,5 @@
     "Domain": "searchepsteinfiles.com",
     "Description": "Search the Epstein Files",
     "Confidence": 0.926393
-  },
-  {
-    "Title": "Comet sends all your URLs to Perplexity servers and there's no way to stop it",
-    "Url": "https://shivankaul.com/blog/comet-privacy",
-    "Timestamp": "2025-11-15T01:03:24",
-    "Domain": "shivankaul.com",
-    "Description": "There's no way to disable Comet leaking your entire browsing history to their backend.",
-    "Confidence": 0.9829274
-  },
-  {
-    "Title": "The Danger of the Eat The Frog Productivity Method (And How to Actually Use It Right)",
-    "Url": "https://zhighley.com/article/the-danger-of-the-eat-the-frog-productivity-method-and-how-to-actually-use-it-right/",
-    "Timestamp": "2025-11-15T01:03:20",
-    "Domain": "zhighley.com",
-    "Description": "Using productivity techniques have changed my life. But when I first started using them, I saw no benefit. One of the most popular ones, “eating the frog,” stumped me. At first, I was motivated to do…",
-    "Confidence": 0.9496145
-  },
-  {
-    "Title": "The bitter lesson for web agents",
-    "Url": "https://yutori.com/blog/the-bitter-lesson-for-web-agents",
-    "Timestamp": "2025-11-15T01:03:16",
-    "Domain": "yutori.com",
-    "Description": "Agents that generalize need to perceive the web like a human would.",
-    "Confidence": 0.96106184
-  },
-  {
-    "Title": "From Collaborators to Consumers: Have We Killed the Soul of Open Source? | MyNotes",
-    "Url": "https://my-notes.dragas.net/2025/06/19/from-collaborators-to-consumers-have-we-killed-the-soul-of-open-source/",
-    "Timestamp": "2025-11-15T01:03:12",
-    "Domain": "my-notes.dragas.net",
-    "Description": "The Open Source community is becoming increasingly polarized. From the distro wars to Wayland vs. X11, the spirit of collaboration is fading. Are we shifting from collaborators to consumers, and what can we do to build bridges instead of walls?",
-    "Confidence": 0.9736236
-  },
-  {
-    "Title": "Thoughts on Funding Free Software Development",
-    "Url": "http://yummymelon.com/devnull/thoughts-on-funding-free-software-development.html",
-    "Timestamp": "2025-11-15T01:03:07",
-    "Domain": "yummymelon.com",
-    "Description": "“I have always depended on the kindness of strangers.” — Blanche Dubois from “A Streetcar Named Desire”, Tennessee Williams. DISCLAIMER: None of this post should be considered as financial or...",
-    "Confidence": 0.9893092
-  },
-  {
-    "Title": "What's the difference between an artist and a creator?",
-    "Url": "https://www.ystrickler.com/whats-the-difference-between-an-artist-and-a-creator/",
-    "Timestamp": "2025-11-15T01:03:03",
-    "Domain": "www.ystrickler.com",
-    "Description": "In 1973, experimental filmmaker Hollis Frampton wrote a letter to MoMA that captures a paradox that still defines creative work today. \n\nThe Museum of Modern Art had offered the filmmaker a retrospective of his work. However he was also told there would be \"no money included at all\" and it",
-    "Confidence": 0.8051406
-  },
-  {
-    "Title": "Scheduling in inference engines",
-    "Url": "https://fergusfinn.com/blog/scheduling-in-inference-engines/",
-    "Timestamp": "2025-11-15T01:03:00",
-    "Domain": "fergusfinn.com",
-    "Description": "A look into how inference engines choose which requests to process\n",
-    "Confidence": 0.99211556
-  },
-  {
-    "Title": "Can ChatGPT Beat My Favorite Puzzle Game?",
-    "Url": "https://www.nicksypteras.com/blog/cbs-benchmark.html",
-    "Timestamp": "2025-11-15T01:02:56",
-    "Domain": "www.nicksypteras.com",
-    "Description": "nick sypteras",
-    "Confidence": 0.9886347
-  },
-  {
-    "Title": "The Beauty of Boring Businesses",
-    "Url": "https://brajeshwar.com/2025/beauty-of-boring-businesses/",
-    "Timestamp": "2025-11-15T01:02:53",
-    "Domain": "brajeshwar.com",
-    "Description": "I’m on an adventure to create beautiful and meaningful products to improve the world for my daughters and their friends.",
-    "Confidence": 0.8312254
-  },
-  {
-    "Title": "Management Lessons Learned from Playing Factorio",
-    "Url": "https://weitz.blog/p/factorio-management-lessons",
-    "Timestamp": "2025-11-15T01:02:50",
-    "Domain": "weitz.blog",
-    "Description": "An After-the-Fact Justification",
-    "Confidence": 0.98130506
-  },
-  {
-    "Title": "A Month of Chat-Oriented Programming",
-    "Url": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
-    "Timestamp": "2025-11-15T01:02:45",
-    "Domain": "checkeagle.com",
-    "Description": "Or when did you last change your mind about something?",
-    "Confidence": 0.9936249
-  },
-  {
-    "Title": "A Sophisticated Crypto Scam & The Power of Social Engineering",
-    "Url": "https://www.davidexmachina.com/2025/11/a-sophisticated-crypto-scam-power-of.html",
-    "Timestamp": "2025-11-15T01:02:41",
-    "Domain": "www.davidexmachina.com",
-    "Description": "We've all heard the warnings: \"Don't click suspicious links!\" \"Be wary of unsolicited emails!\" But what happens when the scam isn't a glarin...",
-    "Confidence": 0.8594267
-  },
-  {
-    "Title": "Keeping dependencies up to date with Renovate | Mateusz Kiersnowski",
-    "Url": "https://kiersnowski.dev/posts/renovate/",
-    "Timestamp": "2025-11-15T01:02:37",
-    "Domain": "kiersnowski.dev",
-    "Description": "A quick guide on how to setup Renovate on self-hosted GitLab instance for automatic dependency updates.",
-    "Confidence": 0.9950423
-  },
-  {
-    "Title": "    \n                        Debugging Your Decisions – Jon C. Phillips\n            ",
-    "Url": "https://joncphillips.com/debugging-your-decisions/",
-    "Timestamp": "2025-11-15T01:02:34",
-    "Domain": "joncphillips.com",
-    "Description": "    \n                                        Here's the thing. By the time you're stepping through code, the real bug is already ancient history. It's sitting in a Slack thread from three weeks a…\n            ",
-    "Confidence": 0.9725781
-  },
-  {
-    "Title": "Are Young People Screwed?",
-    "Url": "https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy",
-    "Timestamp": "2025-11-15T01:02:29",
-    "Domain": "www.derekthompson.org",
-    "Description": "It seems like everyone has suddenly agreed that young Americans have never had it worse. Let's investigate.",
-    "Confidence": 0.6548928
-  },
-  {
-    "Title": "My way to remove “Linuxisms” from FreeBSD",
-    "Url": "https://eugene-andrienko.com/it/2025/03/30/freebsd-pkgs-wout-unwanted-deps.html",
-    "Timestamp": "2025-11-15T01:02:25",
-    "Domain": "eugene-andrienko.com",
-    "Description": "TOC&#xa0;&#xa0;&#xa0; Preamble Poudriere installation Removing unwanted dependencies More complex examples of deWaylandization Ports flavors Patching Makefile Results and thoughts Notes Preamble My everyday FreeBSD system has two good old components for graphics and sound — the X Server and the OSS. There are simple reasons to use these components — they are mature, they have tons of user documentation, use case examples, etc. I also like the way these things have been used in the FreeBSD world. Let me quote vermaden, who wrote well (about the OSS) in the Quare FreeBSD? blogpost:",
-    "Confidence": 0.9956052
-  },
-  {
-    "Title": "Moving Back to a Tiling WM - XMonad",
-    "Url": "https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad",
-    "Timestamp": "2025-11-15T01:02:19",
-    "Domain": "wssite.vercel.app",
-    "Description": "",
-    "Confidence": 0.98333466
   }
 ]

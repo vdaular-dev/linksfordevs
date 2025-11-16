@@ -7,6 +7,133 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Teaching LLaMa to write for $0.08</title>
+      <link>https://www.enbao.me/posts/lora</link>
+      <description>fine-tuning llama 3.1 8b on 650 prose snippets in 75 seconds for $0.08</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.enbao.me/posts/lora</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Referential transparency</title>
+      <link>https://quamserena.com/2025-11-15/referential-transparency</link>
+      <description>I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com.</description>
+      <category>javascript</category>
+      <category>typescript</category>
+      <category>rust</category>
+      <guid>https://quamserena.com/2025-11-15/referential-transparency</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Dev Has Never Been This Easy</title>
+      <link>https://blog.lohr.dev/ai-web-development</link>
+      <description>Web development today is nothing like it used to be: With the rise of web apps, frameworks, and developer tools have matured massively.</description>
+      <author> (https://hashnode.com/@michidk)</author>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>sql</category>
+      <category>typescript</category>
+      <guid>https://blog.lohr.dev/ai-web-development</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Life of a Packet in the Linux kernel</title>
+      <link>https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/</link>
+      <description>A practical, plain-English tour of how Linux moves packets from write() to the wire and back</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>3manuek - Upgrading Postgres Major, and Django model with Logical Replication.</title>
+      <link>https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/</link>
+      <description></description>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How should we peer review software?</title>
+      <link>https://mirawelner.com/posts/peer_review.html</link>
+      <description>Why peer reviewing software isn't as easy as running the code.</description>
+      <category>ai</category>
+      <guid>https://mirawelner.com/posts/peer_review.html</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>EyesOff: How I Built A Screen Contact Detection Model</title>
+      <link>https://ym2132.github.io/building_EyesOff_part2_model_training</link>
+      <description>I trained a model for my app EyesOff, which detects when people are looking at your screen to protect you from shoulder surfing. With no existing dataset for this task, I hand-labelled 20k+ images for training and created synthetic gaze labels for pre-training. The final model achieves ~71% accuracy across close and mid-range distances.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://ym2132.github.io/building_EyesOff_part2_model_training</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>512-Byte Boot Sector Pong Game</title>
+      <link>https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/</link>
+      <description>written by - Akshat Joshi
+
+
+Sometime back, I set myself a crazy constraint:
+
+
+
+
+Load only one thing at boot - A Pong game that fits in one floppy disk sector — 512 bytes.
+
+
+
+
+Why would I build this?
+
+I have played with Operating Systems and their workings by customizing them and</description>
+      <category>gaming</category>
+      <guid>https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auto-vectorizing operations on buffers of unknown length</title>
+      <link>https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html</link>
+      <description>GCC isn’t yet capable of auto-vectorizing even simple search operations on
+buffers for which the length isn’t explicitly specified1.</description>
+      <category>web</category>
+      <guid>https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Make Your Own Spotify, With Blackjack And Hookers</title>
+      <link>https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/</link>
+      <description>[drop_cap]E[/drop_cap]arlier this year I found myself at a crossroads. Spotify's recommendation algorithms hadn't been what they used to be for a long time. I noticed they kept serving up the...</description>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Forward-deployed engineer, the new full-stack frontier</title>
+      <link>https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/</link>
+      <description>A grim but motivational piece on the new frontier of the 10x can-do-it-all developer and the overall AI wave.</description>
+      <category>ai</category>
+      <guid>https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://www.enbao.me/posts</link>
+      <description>All posts on enbao.me</description>
+      <category>ai</category>
+      <guid>https://www.enbao.me/posts</guid>
+      <pubDate>Sun, 16 Nov 2025 01:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - davidfowl/aspire-13-samples: A repo showing micro samples with aspire 13</title>
       <link>https://github.com/davidfowl/aspire-13-samples</link>
       <description>A repo showing micro samples with aspire 13. Contribute to davidfowl/aspire-13-samples development by creating an account on GitHub.</description>
@@ -86,168 +213,6 @@ Forums: https://aka.ms/dotnet/forums
       <description>Search the Epstein Files</description>
       <guid>https://searchepsteinfiles.com/</guid>
       <pubDate>Sat, 15 Nov 2025 05:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comet sends all your URLs to Perplexity servers and there's no way to stop it</title>
-      <link>https://shivankaul.com/blog/comet-privacy</link>
-      <description>There's no way to disable Comet leaking your entire browsing history to their backend.</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://shivankaul.com/blog/comet-privacy</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Danger of the Eat The Frog Productivity Method (And How to Actually Use It Right)</title>
-      <link>https://zhighley.com/article/the-danger-of-the-eat-the-frog-productivity-method-and-how-to-actually-use-it-right/</link>
-      <description>Using productivity techniques have changed my life. But when I first started using them, I saw no benefit. One of the most popular ones, “eating the frog,” stumped me. At first, I was motivated to do…</description>
-      <category>gaming</category>
-      <guid>https://zhighley.com/article/the-danger-of-the-eat-the-frog-productivity-method-and-how-to-actually-use-it-right/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The bitter lesson for web agents</title>
-      <link>https://yutori.com/blog/the-bitter-lesson-for-web-agents</link>
-      <description>Agents that generalize need to perceive the web like a human would.</description>
-      <author> (The Yutori team)</author>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>git</category>
-      <category>vscode</category>
-      <guid>https://yutori.com/blog/the-bitter-lesson-for-web-agents</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Collaborators to Consumers: Have We Killed the Soul of Open Source? | MyNotes</title>
-      <link>https://my-notes.dragas.net/2025/06/19/from-collaborators-to-consumers-have-we-killed-the-soul-of-open-source/</link>
-      <description>The Open Source community is becoming increasingly polarized. From the distro wars to Wayland vs. X11, the spirit of collaboration is fading. Are we shifting from collaborators to consumers, and what can we do to build bridges instead of walls?</description>
-      <category>linux</category>
-      <guid>https://my-notes.dragas.net/2025/06/19/from-collaborators-to-consumers-have-we-killed-the-soul-of-open-source/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on Funding Free Software Development</title>
-      <link>http://yummymelon.com/devnull/thoughts-on-funding-free-software-development.html</link>
-      <description>“I have always depended on the kindness of strangers.” — Blanche Dubois from “A Streetcar Named Desire”, Tennessee Williams. DISCLAIMER: None of this post should be considered as financial or...</description>
-      <category>nodejs</category>
-      <category>python</category>
-      <category>linux</category>
-      <guid>http://yummymelon.com/devnull/thoughts-on-funding-free-software-development.html</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's the difference between an artist and a creator?</title>
-      <link>https://www.ystrickler.com/whats-the-difference-between-an-artist-and-a-creator/</link>
-      <description>In 1973, experimental filmmaker Hollis Frampton wrote a letter to MoMA that captures a paradox that still defines creative work today. 
-
-The Museum of Modern Art had offered the filmmaker a retrospective of his work. However he was also told there would be "no money included at all" and it</description>
-      <guid>https://www.ystrickler.com/whats-the-difference-between-an-artist-and-a-creator/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scheduling in inference engines</title>
-      <link>https://fergusfinn.com/blog/scheduling-in-inference-engines/</link>
-      <description>A look into how inference engines choose which requests to process
-</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://fergusfinn.com/blog/scheduling-in-inference-engines/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can ChatGPT Beat My Favorite Puzzle Game?</title>
-      <link>https://www.nicksypteras.com/blog/cbs-benchmark.html</link>
-      <description>nick sypteras</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://www.nicksypteras.com/blog/cbs-benchmark.html</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Beauty of Boring Businesses</title>
-      <link>https://brajeshwar.com/2025/beauty-of-boring-businesses/</link>
-      <description>I’m on an adventure to create beautiful and meaningful products to improve the world for my daughters and their friends.</description>
-      <guid>https://brajeshwar.com/2025/beauty-of-boring-businesses/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Management Lessons Learned from Playing Factorio</title>
-      <link>https://weitz.blog/p/factorio-management-lessons</link>
-      <description>An After-the-Fact Justification</description>
-      <category>gaming</category>
-      <guid>https://weitz.blog/p/factorio-management-lessons</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Month of Chat-Oriented Programming</title>
-      <link>https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/</link>
-      <description>Or when did you last change your mind about something?</description>
-      <category>ai</category>
-      <category>web</category>
-      <category>git</category>
-      <category>python</category>
-      <category>nodejs</category>
-      <guid>https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Sophisticated Crypto Scam &amp; The Power of Social Engineering</title>
-      <link>https://www.davidexmachina.com/2025/11/a-sophisticated-crypto-scam-power-of.html</link>
-      <description>We've all heard the warnings: "Don't click suspicious links!" "Be wary of unsolicited emails!" But what happens when the scam isn't a glarin...</description>
-      <guid>https://www.davidexmachina.com/2025/11/a-sophisticated-crypto-scam-power-of.html</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keeping dependencies up to date with Renovate | Mateusz Kiersnowski</title>
-      <link>https://kiersnowski.dev/posts/renovate/</link>
-      <description>A quick guide on how to setup Renovate on self-hosted GitLab instance for automatic dependency updates.</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://kiersnowski.dev/posts/renovate/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>    
-                        Debugging Your Decisions – Jon C. Phillips
-            </title>
-      <link>https://joncphillips.com/debugging-your-decisions/</link>
-      <description>    
-                                        Here's the thing. By the time you're stepping through code, the real bug is already ancient history. It's sitting in a Slack thread from three weeks a…
-            </description>
-      <author> (https://joncphillips.com/)</author>
-      <guid>https://joncphillips.com/debugging-your-decisions/</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are Young People Screwed?</title>
-      <link>https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy</link>
-      <description>It seems like everyone has suddenly agreed that young Americans have never had it worse. Let's investigate.</description>
-      <category>ai</category>
-      <guid>https://www.derekthompson.org/p/are-young-people-screwed-by-the-economy</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>My way to remove “Linuxisms” from FreeBSD</title>
-      <link>https://eugene-andrienko.com/it/2025/03/30/freebsd-pkgs-wout-unwanted-deps.html</link>
-      <description>TOC&amp;#xa0;&amp;#xa0;&amp;#xa0; Preamble Poudriere installation Removing unwanted dependencies More complex examples of deWaylandization Ports flavors Patching Makefile Results and thoughts Notes Preamble My everyday FreeBSD system has two good old components for graphics and sound — the X Server and the OSS. There are simple reasons to use these components — they are mature, they have tons of user documentation, use case examples, etc. I also like the way these things have been used in the FreeBSD world. Let me quote vermaden, who wrote well (about the OSS) in the Quare FreeBSD? blogpost:</description>
-      <category>git</category>
-      <category>linux</category>
-      <category>rust</category>
-      <guid>https://eugene-andrienko.com/it/2025/03/30/freebsd-pkgs-wout-unwanted-deps.html</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moving Back to a Tiling WM - XMonad</title>
-      <link>https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad</link>
-      <description></description>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://wssite.vercel.app/blog/moving-back-to-a-tiling-wm-xmonad</guid>
-      <pubDate>Sat, 15 Nov 2025 01:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
