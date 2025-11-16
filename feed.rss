@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>IDEmacs</title>
+      <link>https://codeberg.org/IDEmacs/IDEmacs</link>
+      <description>Making Emacs beginner-friendly, via configurations that emulate mainstream IDEs</description>
+      <category>vscode</category>
+      <category>visualstudio</category>
+      <category>git</category>
+      <guid>https://codeberg.org/IDEmacs/IDEmacs</guid>
+      <pubDate>Sun, 16 Nov 2025 16:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - kavishdevar/librepods: AirPods liberated from Apple's ecosystem.</title>
       <link>https://github.com/kavishdevar/librepods</link>
       <description>AirPods liberated from Apple's ecosystem. Contribute to kavishdevar/librepods development by creating an account on GitHub.</description>
