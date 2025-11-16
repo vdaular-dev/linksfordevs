@@ -179,44 +179,5 @@ buffers for which the length isn’t explicitly specified1.</description>
       <guid>https://adguard-dns.io/en/blog/archive-today-adguard-dns-block-demand.html</guid>
       <pubDate>Sat, 15 Nov 2025 14:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>Taming Service Dependencies with Aspire</title>
-      <link>https://youtu.be/u0iK6Bv5BZ0</link>
-      <description>Tired of wrestling with local development environments? You're not alone. Setting up and maintaining local services—especially a mix of cloud-native and legacy apps—is a common headache for developers. It's a time sink that slows down innovation and productivity. At Trayport, we're facing this exact challenge. Our solution? We're packaging our applications as Aspire integrations. In this talk, we'll walk you through our journey and show you how extending Aspire is transforming our development workflow.
-
-🎥 See more from .NET Conf: https://aka.ms/dotnetconf-playlist
-
-🔗 Links:
-.NET 10 — The most intelligent and unified .NET yet: https://aka.ms/dotnet10/
-.NET Aspire 13 — Simplified orchestration for cloud-native apps: https://aka.ms/aspire13/announcement 
-ASP.NET Core 10 — Modern, secure, and full-stack web development: https://aka.ms/asp/dotnet/2025 
-.NET MAUI 10 — Build beautiful apps on every platform: https://aka.ms/dotnet/maui/2025  
-C# 14 — A more expressive and productive language: https://aka.ms/csharp14/announcement/2025 
-F# 10 — Safer, faster, and more functional than ever: https://aka.ms/fsharp10/2025/announcement 
-Visual Studio 2026 — Faster, smarter, and built for the future: https://aka.ms/visualstudio2026/announcement
-.NET Conf 2025 — A global celebration of .NET innovation: https://aka.ms/dotnotconf2025/recap
-
-🎙️ Featuring: Alex Crome
-
-Connect with .NET: 
-Blog:  https://aka.ms/dotnet/blog
-Twitter: https://aka.ms/dotnet/twitter
-TikTok:  https://aka.ms/dotnet/tiktok
-Mastodon:  https://aka.ms/dotnet/mastodon
-LinkedIn:  https://aka.ms/dotnet/linkedin
-Facebook:  https://aka.ms/dotnet/facebook
-Docs: https://learn.microsoft.com/dotnet
-Forums: https://aka.ms/dotnet/forums
-🙋‍♀️Q&amp;A: https://aka.ms/dotnet-qa
-👨‍🎓Microsoft Learn: https://aka.ms/learndotnet
-
-#dotnet #dotnetconf</description>
-      <author> (dotnet)</author>
-      <category>visualstudio</category>
-      <category>aspnet</category>
-      <category>dotnet</category>
-      <guid>https://youtu.be/u0iK6Bv5BZ0</guid>
-      <pubDate>Sat, 15 Nov 2025 07:01:54 GMT</pubDate>
-    </item>
   </channel>
 </rss>
