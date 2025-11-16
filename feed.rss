@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bloom filters: the niche trick behind a 16× faster API | Blog | incident.io</title>
+      <link>https://incident.io/blog/bloom-filters</link>
+      <description>This post is a deep dive into how we improved the P95 latency of an API endpoint from 5s to 0.3s using a niche little computer science trick called a bloom filter.</description>
+      <category>sql</category>
+      <guid>https://incident.io/blog/bloom-filters</guid>
+      <pubDate>Sun, 16 Nov 2025 22:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>His Legal Name Is One Letter—The Airline Rejects It And Says 'Just Call Yourself AA,' Creating Chaos - View from the Wing</title>
       <link>https://viewfromthewing.com/his-legal-name-is-one-letter-the-airline-rejects-it-and-says-just-call-yourself-aa-creating-chaos/?amp;ICID=ref_fark</link>
       <description>His legal first name is literally one letter: "A." But the airline won't accept it, forcing him to use "AA" instead. What might seem like a small detail is creating serious travel chaos—risking issues with passports, points transfers, security checks, and international flights.</description>
@@ -191,13 +199,6 @@ buffers for which the length isn’t explicitly specified1.</description>
       <category>containers</category>
       <guid>https://github.com/davidfowl/aspire-13-samples</guid>
       <pubDate>Sun, 16 Nov 2025 00:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Internet is Cool. Thank you, TCP</title>
-      <link>https://cefboud.com/posts/tcp-deep-dive-internals/</link>
-      <description>An exploration of TCP, the workhorse of the internet. This deep dive includes detailed examples and a step-by-step walkthrough.</description>
-      <guid>https://cefboud.com/posts/tcp-deep-dive-internals/</guid>
-      <pubDate>Sat, 15 Nov 2025 22:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

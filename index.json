@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Bloom filters: the niche trick behind a 16× faster API | Blog | incident.io",
+    "Url": "https://incident.io/blog/bloom-filters",
+    "Timestamp": "2025-11-16T22:02:16",
+    "Domain": "incident.io",
+    "Description": "This post is a deep dive into how we improved the P95 latency of an API endpoint from 5s to 0.3s using a niche little computer science trick called a bloom filter.",
+    "Confidence": 0.97410387
+  },
+  {
     "Title": "His Legal Name Is One Letter—The Airline Rejects It And Says 'Just Call Yourself AA,' Creating Chaos - View from the Wing",
     "Url": "https://viewfromthewing.com/his-legal-name-is-one-letter-the-airline-rejects-it-and-says-just-call-yourself-aa-creating-chaos/?amp;ICID=ref_fark",
     "Timestamp": "2025-11-16T20:02:15",
@@ -142,13 +150,5 @@
     "Domain": "github.com",
     "Description": "A repo showing micro samples with aspire 13. Contribute to davidfowl/aspire-13-samples development by creating an account on GitHub.",
     "Confidence": 0.99948615
-  },
-  {
-    "Title": "The Internet is Cool. Thank you, TCP",
-    "Url": "https://cefboud.com/posts/tcp-deep-dive-internals/",
-    "Timestamp": "2025-11-15T22:02:01",
-    "Domain": "cefboud.com",
-    "Description": "An exploration of TCP, the workhorse of the internet. This deep dive includes detailed examples and a step-by-step walkthrough.",
-    "Confidence": 0.990434
   }
 ]
