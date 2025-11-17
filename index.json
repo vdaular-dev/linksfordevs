@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Google is killing the open web, part 2",
+    "Url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
+    "Timestamp": "2025-11-17T20:02:09",
+    "Domain": "wok.oblomov.eu",
+    "Description": "Do not comply in advance.",
+    "Confidence": 0.9529214
+  },
+  {
     "Title": "Britney Spears' Guide to Semiconductor Physics",
     "Url": "https://britneyspears.ac/lasers.htm",
     "Timestamp": "2025-11-17T14:02:21",
@@ -110,21 +118,5 @@
     "Domain": "incident.io",
     "Description": "This post is a deep dive into how we improved the P95 latency of an API endpoint from 5s to 0.3s using a niche little computer science trick called a bloom filter.",
     "Confidence": 0.97410387
-  },
-  {
-    "Title": "His Legal Name Is One Letter—The Airline Rejects It And Says 'Just Call Yourself AA,' Creating Chaos - View from the Wing",
-    "Url": "https://viewfromthewing.com/his-legal-name-is-one-letter-the-airline-rejects-it-and-says-just-call-yourself-aa-creating-chaos/?amp;ICID=ref_fark",
-    "Timestamp": "2025-11-16T20:02:15",
-    "Domain": "viewfromthewing.com",
-    "Description": "His legal first name is literally one letter: \"A.\" But the airline won't accept it, forcing him to use \"AA\" instead. What might seem like a small detail is creating serious travel chaos—risking issues with passports, points transfers, security checks, and international flights.",
-    "Confidence": 0.8274796
-  },
-  {
-    "Title": "GitHub - p-e-w/heretic: Fully automatic censorship removal for language models",
-    "Url": "https://github.com/p-e-w/heretic",
-    "Timestamp": "2025-11-16T20:02:10",
-    "Domain": "github.com",
-    "Description": "Fully automatic censorship removal for language models - p-e-w/heretic",
-    "Confidence": 0.98701525
   }
 ]
