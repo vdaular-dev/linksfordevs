@@ -1,5 +1,75 @@
 [
   {
+    "Title": "Apply to &U",
+    "Url": "https://andys.blog/apply/",
+    "Timestamp": "2025-11-17T01:03:09",
+    "Domain": "andys.blog",
+    "Description": "Do you reject the default path? Are you leveling yourself up? Want to change the world?\n\nI'd like to have a conversation with anyone who relentlessly overcomes challenges, frequently bets on themself, and eagerly ships projects. Or maybe you're not sure if this describes you...yet.\n\n==> APPLY HERE\n\nI'm offering"
+  },
+  {
+    "Title": "Custom Asidenotes",
+    "Url": "https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/",
+    "Timestamp": "2025-11-17T01:03:05",
+    "Domain": "meyerweb.com",
+    "Description": "In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS."
+  },
+  {
+    "Title": "Comparing PlanetScale PostgreSQL with Hetzner Local Postgres",
+    "Url": "https://mazeez.dev/posts/planetscale-vs-hetzner-postgres/",
+    "Timestamp": "2025-11-17T01:03:01",
+    "Domain": "mazeez.dev",
+    "Description": "PlanetScale’s new $5 single-node PostgreSQL tier (PS-5) promises the same observability/maintenance story you get from their Vitess-backed MySQL side. I wanted to see how it feels next to the very boring Postgres instance I already pay for: a Hetzner CPX11 (2 vCPU / 2 GB RAM for €3.85) running in their eu-central region (Nuremberg). This isn’t even LAN vs internet—it’s literally local disk vs a remote region—so the goal is to get a sanity check, not crown a winner."
+  },
+  {
+    "Title": "Kites flying without wind",
+    "Url": "https://www.horvath.ch/en/kite-lab/",
+    "Timestamp": "2025-11-17T01:02:58",
+    "Domain": "www.horvath.ch",
+    "Description": "Zerowind kites are light flying objects, floating and gliding in no wind. Each glider celebrates its own flight characteristics."
+  },
+  {
+    "Title": "Community as Minimum Viable World Building",
+    "Url": "https://rosie.land/posts/community-as-minimum-viable-world-building/",
+    "Timestamp": "2025-11-17T01:02:45",
+    "Domain": "rosie.land",
+    "Description": "The communities we create are micro-systems that can model the future"
+  },
+  {
+    "Title": "How to Scale Distributed Product Teams From 10 to 100+ in 2025",
+    "Url": "https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/",
+    "Timestamp": "2025-11-17T01:02:40",
+    "Domain": "intelligentfuturetech.com",
+    "Description": "Master the art of scaling distributed product teams with proven frameworks from leading tech companies. Learn structures and strategies that enable hypergrowth."
+  },
+  {
+    "Title": "How I use Claude Code to manage sysadmin tasks",
+    "Url": "https://martinalderson.com/posts/how-i-use-claude-code-to-manage-sysadmin-tasks/",
+    "Timestamp": "2025-11-17T01:02:37",
+    "Domain": "martinalderson.com",
+    "Description": "A practical approach to managing production infrastructure using git-tracked markdown files and Claude Code for small teams"
+  },
+  {
+    "Title": "#8: The inner autumn",
+    "Url": "https://hi-im-ada.beehiiv.com/p/8-the-inner-autumn",
+    "Timestamp": "2025-11-17T01:02:34",
+    "Domain": "hi-im-ada.beehiiv.com",
+    "Description": "How I learned to stop worrying and love the PMS. About the autumn, pumpkin stews, stereotypes and self fulfilling prophecies."
+  },
+  {
+    "Title": "I Program on the Subway",
+    "Url": "https://www.scd31.com/posts/programming-on-the-subway",
+    "Timestamp": "2025-11-17T01:02:29",
+    "Domain": "www.scd31.com",
+    "Description": ""
+  },
+  {
+    "Title": "Goodbye *ibe Coding",
+    "Url": "https://ikouchiha47.github.io/2025/11/16/ai-code-editors.html",
+    "Timestamp": "2025-11-17T01:02:25",
+    "Domain": "ikouchiha47.github.io",
+    "Description": "The Hypertrophy of Coder vs. The Hallucination of Speed"
+  },
+  {
     "Title": "Coinbase Data Breach Timeline Doesn't Add Up",
     "Url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
     "Timestamp": "2025-11-17T00:02:17",

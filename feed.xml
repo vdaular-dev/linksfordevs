@@ -7,6 +7,102 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apply to &amp;U</title>
+      <link>https://andys.blog/apply/</link>
+      <description>Do you reject the default path? Are you leveling yourself up? Want to change the world?
+
+I'd like to have a conversation with anyone who relentlessly overcomes challenges, frequently bets on themself, and eagerly ships projects. Or maybe you're not sure if this describes you...yet.
+
+==&gt; APPLY HERE
+
+I'm offering</description>
+      <category>youtube</category>
+      <guid>https://andys.blog/apply/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Custom Asidenotes</title>
+      <link>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</link>
+      <description>In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparing PlanetScale PostgreSQL with Hetzner Local Postgres</title>
+      <link>https://mazeez.dev/posts/planetscale-vs-hetzner-postgres/</link>
+      <description>PlanetScale’s new $5 single-node PostgreSQL tier (PS-5) promises the same observability/maintenance story you get from their Vitess-backed MySQL side. I wanted to see how it feels next to the very boring Postgres instance I already pay for: a Hetzner CPX11 (2 vCPU / 2 GB RAM for €3.85) running in their eu-central region (Nuremberg). This isn’t even LAN vs internet—it’s literally local disk vs a remote region—so the goal is to get a sanity check, not crown a winner.</description>
+      <category>conference</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <guid>https://mazeez.dev/posts/planetscale-vs-hetzner-postgres/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kites flying without wind</title>
+      <link>https://www.horvath.ch/en/kite-lab/</link>
+      <description>Zerowind kites are light flying objects, floating and gliding in no wind. Each glider celebrates its own flight characteristics.</description>
+      <guid>https://www.horvath.ch/en/kite-lab/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Community as Minimum Viable World Building</title>
+      <link>https://rosie.land/posts/community-as-minimum-viable-world-building/</link>
+      <description>The communities we create are micro-systems that can model the future</description>
+      <guid>https://rosie.land/posts/community-as-minimum-viable-world-building/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Scale Distributed Product Teams From 10 to 100+ in 2025</title>
+      <link>https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/</link>
+      <description>Master the art of scaling distributed product teams with proven frameworks from leading tech companies. Learn structures and strategies that enable hypergrowth.</description>
+      <author> (Intelligent Future Tech)</author>
+      <category>git</category>
+      <category>rust</category>
+      <guid>https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I use Claude Code to manage sysadmin tasks</title>
+      <link>https://martinalderson.com/posts/how-i-use-claude-code-to-manage-sysadmin-tasks/</link>
+      <description>A practical approach to managing production infrastructure using git-tracked markdown files and Claude Code for small teams</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>git</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <guid>https://martinalderson.com/posts/how-i-use-claude-code-to-manage-sysadmin-tasks/</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>#8: The inner autumn</title>
+      <link>https://hi-im-ada.beehiiv.com/p/8-the-inner-autumn</link>
+      <description>How I learned to stop worrying and love the PMS. About the autumn, pumpkin stews, stereotypes and self fulfilling prophecies.</description>
+      <guid>https://hi-im-ada.beehiiv.com/p/8-the-inner-autumn</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Program on the Subway</title>
+      <link>https://www.scd31.com/posts/programming-on-the-subway</link>
+      <description></description>
+      <guid>https://www.scd31.com/posts/programming-on-the-subway</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Goodbye *ibe Coding</title>
+      <link>https://ikouchiha47.github.io/2025/11/16/ai-code-editors.html</link>
+      <description>The Hypertrophy of Coder vs. The Hallucination of Speed</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://ikouchiha47.github.io/2025/11/16/ai-code-editors.html</guid>
+      <pubDate>Mon, 17 Nov 2025 01:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Coinbase Data Breach Timeline Doesn't Add Up</title>
       <link>https://jonathanclark.com/posts/coinbase-breach-timeline.html</link>
       <description>I have recordings and emails showing attacks months before Coinbase's 'discovery'. Timeline, headers, and audio evidence.</description>
@@ -78,133 +174,6 @@
       <category>linux</category>
       <guid>https://github.com/kavishdevar/librepods</guid>
       <pubDate>Sun, 16 Nov 2025 04:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teaching LLaMa to write for $0.08</title>
-      <link>https://www.enbao.me/posts/lora</link>
-      <description>fine-tuning llama 3.1 8b on 650 prose snippets in 75 seconds for $0.08</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.enbao.me/posts/lora</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Referential transparency</title>
-      <link>https://quamserena.com/2025-11-15/referential-transparency</link>
-      <description>I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com.</description>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>rust</category>
-      <guid>https://quamserena.com/2025-11-15/referential-transparency</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web Dev Has Never Been This Easy</title>
-      <link>https://blog.lohr.dev/ai-web-development</link>
-      <description>Web development today is nothing like it used to be: With the rise of web apps, frameworks, and developer tools have matured massively.</description>
-      <author> (https://hashnode.com/@michidk)</author>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>sql</category>
-      <category>typescript</category>
-      <guid>https://blog.lohr.dev/ai-web-development</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Life of a Packet in the Linux kernel</title>
-      <link>https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/</link>
-      <description>A practical, plain-English tour of how Linux moves packets from write() to the wire and back</description>
-      <category>conference</category>
-      <category>apple</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://www.0xkato.xyz/life-of-a-packet-in-the-linux-kernel/</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>3manuek - Upgrading Postgres Major, and Django model with Logical Replication.</title>
-      <link>https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/</link>
-      <description></description>
-      <category>python</category>
-      <category>sql</category>
-      <guid>https://tr3s.ma/posts/2025-11/pgmajorupgradedjango/</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>How should we peer review software?</title>
-      <link>https://mirawelner.com/posts/peer_review.html</link>
-      <description>Why peer reviewing software isn't as easy as running the code.</description>
-      <category>ai</category>
-      <guid>https://mirawelner.com/posts/peer_review.html</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>EyesOff: How I Built A Screen Contact Detection Model</title>
-      <link>https://ym2132.github.io/building_EyesOff_part2_model_training</link>
-      <description>I trained a model for my app EyesOff, which detects when people are looking at your screen to protect you from shoulder surfing. With no existing dataset for this task, I hand-labelled 20k+ images for training and created synthetic gaze labels for pre-training. The final model achieves ~71% accuracy across close and mid-range distances.</description>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://ym2132.github.io/building_EyesOff_part2_model_training</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>512-Byte Boot Sector Pong Game</title>
-      <link>https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/</link>
-      <description>written by - Akshat Joshi
-
-
-Sometime back, I set myself a crazy constraint:
-
-
-
-
-Load only one thing at boot - A Pong game that fits in one floppy disk sector — 512 bytes.
-
-
-
-
-Why would I build this?
-
-I have played with Operating Systems and their workings by customizing them and</description>
-      <category>gaming</category>
-      <guid>https://akshatjoshi.com/i-wrote-a-pong-game-in-a-512-byte-boot-sector/</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto-vectorizing operations on buffers of unknown length</title>
-      <link>https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html</link>
-      <description>GCC isn’t yet capable of auto-vectorizing even simple search operations on
-buffers for which the length isn’t explicitly specified1.</description>
-      <category>web</category>
-      <guid>https://nicula.xyz/2025/11/15/vectorizing-unknown-length-loops.html</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Make Your Own Spotify, With Blackjack And Hookers</title>
-      <link>https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/</link>
-      <description>[drop_cap]E[/drop_cap]arlier this year I found myself at a crossroads. Spotify's recommendation algorithms hadn't been what they used to be for a long time. I noticed they kept serving up the...</description>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://andreklein.net/make-your-own-spotify-with-blackjack-and-hookers/</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forward-deployed engineer, the new full-stack frontier</title>
-      <link>https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/</link>
-      <description>A grim but motivational piece on the new frontier of the 10x can-do-it-all developer and the overall AI wave.</description>
-      <category>ai</category>
-      <guid>https://kairollmann.de/2025/11/06/forward-deployed-engineer-the-new-full-stack-frontier/</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://www.enbao.me/posts</link>
-      <description>All posts on enbao.me</description>
-      <category>ai</category>
-      <guid>https://www.enbao.me/posts</guid>
-      <pubDate>Sun, 16 Nov 2025 01:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
