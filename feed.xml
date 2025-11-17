@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Coinbase Data Breach Timeline Doesn't Add Up</title>
+      <link>https://jonathanclark.com/posts/coinbase-breach-timeline.html</link>
+      <description>I have recordings and emails showing attacks months before Coinbase's 'discovery'. Timeline, headers, and audio evidence.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://jonathanclark.com/posts/coinbase-breach-timeline.html</guid>
+      <pubDate>Mon, 17 Nov 2025 00:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zigbook – Learn the Zig Programming Language</title>
+      <link>https://www.zigbook.net/</link>
+      <description>Zigbook is a comprehensive, open-source guide to the Zig programming language, packed with hands-on chapters, projects, and real-world examples.</description>
+      <category>ai</category>
+      <guid>https://www.zigbook.net/</guid>
+      <pubDate>Mon, 17 Nov 2025 00:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Bloom filters: the niche trick behind a 16× faster API | Blog | incident.io</title>
       <link>https://incident.io/blog/bloom-filters</link>
       <description>This post is a deep dive into how we improved the P95 latency of an API endpoint from 5s to 0.3s using a niche little computer science trick called a bloom filter.</description>
@@ -187,18 +205,6 @@ buffers for which the length isn’t explicitly specified1.</description>
       <category>ai</category>
       <guid>https://www.enbao.me/posts</guid>
       <pubDate>Sun, 16 Nov 2025 01:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - davidfowl/aspire-13-samples: A repo showing micro samples with aspire 13</title>
-      <link>https://github.com/davidfowl/aspire-13-samples</link>
-      <description>A repo showing micro samples with aspire 13. Contribute to davidfowl/aspire-13-samples development by creating an account on GitHub.</description>
-      <category>sql</category>
-      <category>typescript</category>
-      <category>aspnet</category>
-      <category>python</category>
-      <category>containers</category>
-      <guid>https://github.com/davidfowl/aspire-13-samples</guid>
-      <pubDate>Sun, 16 Nov 2025 00:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

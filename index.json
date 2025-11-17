@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Coinbase Data Breach Timeline Doesn't Add Up",
+    "Url": "https://jonathanclark.com/posts/coinbase-breach-timeline.html",
+    "Timestamp": "2025-11-17T00:02:17",
+    "Domain": "jonathanclark.com",
+    "Description": "I have recordings and emails showing attacks months before Coinbase's 'discovery'. Timeline, headers, and audio evidence.",
+    "Confidence": 0.93366265
+  },
+  {
+    "Title": "Zigbook – Learn the Zig Programming Language",
+    "Url": "https://www.zigbook.net/",
+    "Timestamp": "2025-11-17T00:02:12",
+    "Domain": "www.zigbook.net",
+    "Description": "Zigbook is a comprehensive, open-source guide to the Zig programming language, packed with hands-on chapters, projects, and real-world examples.",
+    "Confidence": 0.98464364
+  },
+  {
     "Title": "Bloom filters: the niche trick behind a 16× faster API | Blog | incident.io",
     "Url": "https://incident.io/blog/bloom-filters",
     "Timestamp": "2025-11-16T22:02:16",
@@ -142,13 +158,5 @@
     "Domain": "www.enbao.me",
     "Description": "All posts on enbao.me",
     "Confidence": 0.88739085
-  },
-  {
-    "Title": "GitHub - davidfowl/aspire-13-samples: A repo showing micro samples with aspire 13",
-    "Url": "https://github.com/davidfowl/aspire-13-samples",
-    "Timestamp": "2025-11-16T00:02:09",
-    "Domain": "github.com",
-    "Description": "A repo showing micro samples with aspire 13. Contribute to davidfowl/aspire-13-samples development by creating an account on GitHub.",
-    "Confidence": 0.99948615
   }
 ]
