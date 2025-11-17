@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Israeli-founded app preloaded on Samsung phones is attracting controversy",
+    "Url": "https://www.sammobile.com/news/israeli-app-app-cloud-samsung-phones-controversy/",
+    "Timestamp": "2025-11-17T22:02:11",
+    "Domain": "www.sammobile.com",
+    "Description": "For years, Samsung has shipped its Galaxy M, F, and A series smartphones in India with a little-known app called AppCloud. Despite its name, AppCloud isn’t a cloud storage service. It’s essentially an app-installer that surfaces third-party app recommendations during device setup. On new Galaxy devices in these lineups, AppCloud appears as part of the […]",
+    "Confidence": 0.8792968
+  },
+  {
     "Title": "Google is killing the open web, part 2",
     "Url": "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/",
     "Timestamp": "2025-11-17T20:02:09",
@@ -110,13 +118,5 @@
     "Domain": "www.zigbook.net",
     "Description": "Zigbook is a comprehensive, open-source guide to the Zig programming language, packed with hands-on chapters, projects, and real-world examples.",
     "Confidence": 0.98464364
-  },
-  {
-    "Title": "Bloom filters: the niche trick behind a 16× faster API | Blog | incident.io",
-    "Url": "https://incident.io/blog/bloom-filters",
-    "Timestamp": "2025-11-16T22:02:16",
-    "Domain": "incident.io",
-    "Description": "This post is a deep dive into how we improved the P95 latency of an API endpoint from 5s to 0.3s using a niche little computer science trick called a bloom filter.",
-    "Confidence": 0.97410387
   }
 ]
