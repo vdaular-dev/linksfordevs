@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Pebble, Rebble, and a Path Forward",
+    "Url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward/",
+    "Timestamp": "2025-11-18T23:02:06",
+    "Domain": "ericmigi.com",
+    "Description": "Pebble, Rebble, and a Path Forward",
+    "Confidence": 0.9791306
+  },
+  {
+    "Title": "Git operation failures",
+    "Url": "https://www.githubstatus.com/incidents/5q7nmlxz30sk",
+    "Timestamp": "2025-11-18T23:02:01",
+    "Domain": "www.githubstatus.com",
+    "Description": "GitHub's Status Page - Git operation failures.",
+    "Confidence": 0.9557913
+  },
+  {
     "Title": "A new era of intelligence with Gemini 3",
     "Url": "https://blog.google/products/gemini/gemini-3/#gemini-3-deep-think",
     "Timestamp": "2025-11-18T22:02:13",
@@ -302,13 +318,5 @@
     "Domain": "bitsnpieces.dev",
     "Description": "How I built a portable synthesizer for my three year old daughter.",
     "Confidence": 0.9835355
-  },
-  {
-    "Title": "EPIRBs",
-    "Url": "https://xkcd.com/3169/",
-    "Timestamp": "2025-11-17T23:02:06",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
