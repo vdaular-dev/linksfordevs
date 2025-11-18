@@ -7,6 +7,228 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Write once, run anywhere: The promise C couldn't keep</title>
+      <link>https://ryansepassi.com/notes/universal-c</link>
+      <description>From portable functions to portable state machines.</description>
+      <category>web</category>
+      <category>sql</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://ryansepassi.com/notes/universal-c</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The API of a Camera and the Unix manifesto</title>
+      <link>https://www.eliseomartelli.it/blog/2025-11-17-the-api-of-a-camera-and-the-unix-manifesto</link>
+      <description>What Edsger W. Dijkstra can teach us about photography and the tools we use?</description>
+      <guid>https://www.eliseomartelli.it/blog/2025-11-17-the-api-of-a-camera-and-the-unix-manifesto</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bug Fixing is an ETL Problem</title>
+      <link>https://qckfx.com/blog/bug-fixing-is-an-etl-problem</link>
+      <description>Learn why bug fixing is an ETL problem and how AI agents can search logs, traces, and Sentry errors to identify root causes in minutes instead of hours.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://qckfx.com/blog/bug-fixing-is-an-etl-problem</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Goto Considered Harmless</title>
+      <link>https://bramadityaw.github.io/blog/posts/goto/</link>
+      <description>Computing has progressed so far that a lot of our foreparents' statements are treated like passages from sacred texts: universal laws that don’t need to be considered with historical context due to their supposed timelessness. One such statement is Edsger Dijkstra’s ‘GOTO considered harmful’. This article aims to convince you that goto isn’t so bad these days.</description>
+      <category>linux</category>
+      <guid>https://bramadityaw.github.io/blog/posts/goto/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>What are Blocking Queues and Why We Need Them</title>
+      <link>https://arpitbhayani.me/blogs/blocking-queues/</link>
+      <description>Concurrent programming is one of the most interesting and challenging aspects of software engineering. When multiple goroutines need to share data, coordinating access becomes critical.</description>
+      <guid>https://arpitbhayani.me/blogs/blocking-queues/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jack Duvall's Blog - Click-To-Open In Neovim With Kitty</title>
+      <link>https://blog.duvallj.pw/posts/2025-11-14-click-to-open-in-neovim-with-kitty.html</link>
+      <description>An overly detailed explanation of how I copied a very basic feature from VSCode into my bespoke terminal setup</description>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://blog.duvallj.pw/posts/2025-11-14-click-to-open-in-neovim-with-kitty.html</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Practical tips for what to do when you are lost</title>
+      <link>https://dhirajtourani.com/posts/practical-tips-for-what-to-do-when-you-are-lost/</link>
+      <description>A follow-up to On being lost.
+The initial reaction to being lost is often to cling to what you know to be true. Thereby establishing what you do not. To frame the search. To break it down into questions, sub-questions and methodically go to answer them. Here this instinct is counterproductive. The time and place for the imposition for structure will come, but it comes later.
+There is no universal guide for what to do and how to spend your time. However there are three qualities that are useful to cultivate:</description>
+      <guid>https://dhirajtourani.com/posts/practical-tips-for-what-to-do-when-you-are-lost/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thinking through how pretraining vs RL learn</title>
+      <link>https://www.dwarkesh.com/p/bits-per-sample</link>
+      <description>And implications for RLVR progress</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.dwarkesh.com/p/bits-per-sample</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>n8n on FreeBSD – installation, configuration, and optimisation</title>
+      <link>https://m4c.pl/blog/n8n-freebsd-installation-configuration/</link>
+      <description>n8n - a guide to setting up a highly efficient and secure system environment on FreeBSD with Nginx as a reverse proxy, SSL, and Redis.</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://m4c.pl/blog/n8n-freebsd-installation-configuration/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to DIY New Scientific Protocols</title>
+      <link>https://slimemoldtimemold.com/2025/11/17/how-to-diy-new-scientific-protocols/</link>
+      <description>Scientific research today relies on one main protocol — experiments with control groups and random assignment. In medical contexts, these are usually called randomized controlled trials, or RCTs.&amp;n…</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://slimemoldtimemold.com/2025/11/17/how-to-diy-new-scientific-protocols/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memory-corrupting Pong</title>
+      <link>https://arhan.sh/blog/memory-corrupting-pong/</link>
+      <description>Allocating heap memory on the screen</description>
+      <guid>https://arhan.sh/blog/memory-corrupting-pong/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building the Ultimate Cyberdeck: My Custom Hackberry PI</title>
+      <link>https://eclypsium.com/blog/build-the-ultimate-cyberdeck-hackberry-pi/</link>
+      <description>A Hackberry Pi CM5 9900 cyberdeck, customized with an NVME SSD running Kali, enhanced by an external antenna, is a compact, responsive hacking platform. It’s ideal for pentesters, infosec enthusiasts, and anyone craving flexible Linux power in a handheld package.</description>
+      <category>linux</category>
+      <category>android</category>
+      <guid>https://eclypsium.com/blog/build-the-ultimate-cyberdeck-hackberry-pi/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>I 3D printed a running buggy</title>
+      <link>https://leontrolski.github.io/buggy.html</link>
+      <description>2025-10-17</description>
+      <guid>https://leontrolski.github.io/buggy.html</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Couchbase Taught Me About System Thinking</title>
+      <link>https://lorbic.com/what-couchbase-taught-me-about-system-thinking/</link>
+      <description>Working with Couchbase for the past year and a half has been more than just learning a database. It has been an exercise in system thinking: seeing how indexes, queries, consistency, and durability interact, and how small design choices ripple through performance and reliability.
+This essay is my personal notebook from that journey. It is technically dense because Couchbase demands precision, but it is also reflective because the lessons extend beyond one database. Understanding how array indexes multiply entries, why compound index order matters, or how query consistency flags change latency is not just about Couchbase, it is about learning to think in terms of systems, trade‑offs, and consequences.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://lorbic.com/what-couchbase-taught-me-about-system-thinking/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>datasetFactory - Synthetic RAG Evaluation Datasets</title>
+      <link>https://alexjacobs08.github.io/datasetFactory/</link>
+      <description>Generate scaled synthetic datasets for RAG evaluation</description>
+      <category>ai</category>
+      <guid>https://alexjacobs08.github.io/datasetFactory/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ad-Hoc Emacs Packages with Nix</title>
+      <link>https://borretti.me/article/ad-hoc-emacs-packages-with-nix</link>
+      <description>Creating ad-hoc Emacs packages in a few lines of code.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://borretti.me/article/ad-hoc-emacs-packages-with-nix</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparing programming communities on Reddit</title>
+      <link>https://strzibny.name/blog/comparing-programming-language-communities-on-reddit</link>
+      <description>Reddit finally changed how he shows the vitality of a particular subreddit. So let's see what languages and frameworks are popular among Redditors.</description>
+      <category>nodejs</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://strzibny.name/blog/comparing-programming-language-communities-on-reddit</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Assess Mindset and Attitude During the Interview</title>
+      <link>https://www.bolshchikov.com/p/how-to-assess-mindset-and-attitude</link>
+      <description>How to uncover how someone really thinks — before you hire them.</description>
+      <category>ai</category>
+      <guid>https://www.bolshchikov.com/p/how-to-assess-mindset-and-attitude</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dissection of a PHP Backdoor leveraging php-win.exe | dfir.ch</title>
+      <link>https://dfir.ch/posts/dissection_php_backdoor/</link>
+      <description>Technical blog by Stephan Berger (@malmoeb)</description>
+      <category>git</category>
+      <guid>https://dfir.ch/posts/dissection_php_backdoor/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>BareMetal in the Cloud</title>
+      <link>https://ian.seyler.me/baremetal-in-the-cloud/</link>
+      <description>BareMetal is now running inside a cloud VM, serving live traffic through an extremely compact web server. Getting it stable inside a DigitalOcean droplet req...</description>
+      <category>rust</category>
+      <category>cloud</category>
+      <guid>https://ian.seyler.me/baremetal-in-the-cloud/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>BigQuery Table Sampling · James Hartig</title>
+      <link>https://jameshartig.dev/2025-bigquery-tablesample/</link>
+      <description>BigQuery table sampling introduction and bias</description>
+      <guid>https://jameshartig.dev/2025-bigquery-tablesample/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineering Catan Universe Gameplay with Large Language Models</title>
+      <link>https://ankitmaloo.com/reverse-engg-catan/</link>
+      <description>Documenting my journey in the world of AI and RL.</description>
+      <category>gaming</category>
+      <category>web</category>
+      <category>cloud</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://ankitmaloo.com/reverse-engg-catan/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Stanley - Against exponential backoff</title>
+      <link>https://incoherency.co.uk/blog/stories/against-exponential-backoff.html</link>
+      <description>Thu 22 May 2025
+Tagged: software</description>
+      <category>web</category>
+      <guid>https://incoherency.co.uk/blog/stories/against-exponential-backoff.html</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Built a Synth for My Daughter</title>
+      <link>https://bitsnpieces.dev/posts/a-synth-for-my-daughter/</link>
+      <description>How I built a portable synthesizer for my three year old daughter.</description>
+      <category>git</category>
+      <category>apple</category>
+      <category>python</category>
+      <category>vscode</category>
+      <guid>https://bitsnpieces.dev/posts/a-synth-for-my-daughter/</guid>
+      <pubDate>Tue, 18 Nov 2025 01:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>EPIRBs</title>
       <link>https://xkcd.com/3169/</link>
       <description></description>
@@ -38,102 +260,6 @@
       <description>Britney Spears' Guide to Semiconductor Physics. Britney lectures on the semiconductor lasers and optoelectronic devices that make our lives easier.</description>
       <guid>https://britneyspears.ac/lasers.htm</guid>
       <pubDate>Mon, 17 Nov 2025 14:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apply to &amp;U</title>
-      <link>https://andys.blog/apply/</link>
-      <description>Do you reject the default path? Are you leveling yourself up? Want to change the world?
-
-I'd like to have a conversation with anyone who relentlessly overcomes challenges, frequently bets on themself, and eagerly ships projects. Or maybe you're not sure if this describes you...yet.
-
-==&gt; APPLY HERE
-
-I'm offering</description>
-      <category>youtube</category>
-      <guid>https://andys.blog/apply/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Custom Asidenotes</title>
-      <link>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</link>
-      <description>In which I turn inline asides into robustly enhanced sidenotes with CSS and just a touch of JS.</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://meyerweb.com/eric/thoughts/2025/10/29/custom-asidenotes/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comparing PlanetScale PostgreSQL with Hetzner Local Postgres</title>
-      <link>https://mazeez.dev/posts/planetscale-vs-hetzner-postgres/</link>
-      <description>PlanetScale’s new $5 single-node PostgreSQL tier (PS-5) promises the same observability/maintenance story you get from their Vitess-backed MySQL side. I wanted to see how it feels next to the very boring Postgres instance I already pay for: a Hetzner CPX11 (2 vCPU / 2 GB RAM for €3.85) running in their eu-central region (Nuremberg). This isn’t even LAN vs internet—it’s literally local disk vs a remote region—so the goal is to get a sanity check, not crown a winner.</description>
-      <category>conference</category>
-      <category>sql</category>
-      <category>nodejs</category>
-      <guid>https://mazeez.dev/posts/planetscale-vs-hetzner-postgres/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kites flying without wind</title>
-      <link>https://www.horvath.ch/en/kite-lab/</link>
-      <description>Zerowind kites are light flying objects, floating and gliding in no wind. Each glider celebrates its own flight characteristics.</description>
-      <guid>https://www.horvath.ch/en/kite-lab/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Community as Minimum Viable World Building</title>
-      <link>https://rosie.land/posts/community-as-minimum-viable-world-building/</link>
-      <description>The communities we create are micro-systems that can model the future</description>
-      <guid>https://rosie.land/posts/community-as-minimum-viable-world-building/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Scale Distributed Product Teams From 10 to 100+ in 2025</title>
-      <link>https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/</link>
-      <description>Master the art of scaling distributed product teams with proven frameworks from leading tech companies. Learn structures and strategies that enable hypergrowth.</description>
-      <author> (Intelligent Future Tech)</author>
-      <category>git</category>
-      <category>rust</category>
-      <guid>https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I use Claude Code to manage sysadmin tasks</title>
-      <link>https://martinalderson.com/posts/how-i-use-claude-code-to-manage-sysadmin-tasks/</link>
-      <description>A practical approach to managing production infrastructure using git-tracked markdown files and Claude Code for small teams</description>
-      <author> (Martin Alderson)</author>
-      <category>ai</category>
-      <category>git</category>
-      <category>encryption</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <guid>https://martinalderson.com/posts/how-i-use-claude-code-to-manage-sysadmin-tasks/</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>#8: The inner autumn</title>
-      <link>https://hi-im-ada.beehiiv.com/p/8-the-inner-autumn</link>
-      <description>How I learned to stop worrying and love the PMS. About the autumn, pumpkin stews, stereotypes and self fulfilling prophecies.</description>
-      <guid>https://hi-im-ada.beehiiv.com/p/8-the-inner-autumn</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Program on the Subway</title>
-      <link>https://www.scd31.com/posts/programming-on-the-subway</link>
-      <description></description>
-      <guid>https://www.scd31.com/posts/programming-on-the-subway</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Goodbye *ibe Coding</title>
-      <link>https://ikouchiha47.github.io/2025/11/16/ai-code-editors.html</link>
-      <description>The Hypertrophy of Coder vs. The Hallucination of Speed</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>rust</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://ikouchiha47.github.io/2025/11/16/ai-code-editors.html</guid>
-      <pubDate>Mon, 17 Nov 2025 01:02:25 GMT</pubDate>
     </item>
   </channel>
 </rss>

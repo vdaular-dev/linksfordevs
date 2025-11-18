@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "Title": "Write once, run anywhere: The promise C couldn't keep",
+    "Url": "https://ryansepassi.com/notes/universal-c",
+    "Timestamp": "2025-11-18T01:03:51",
+    "Domain": "ryansepassi.com",
+    "Description": "From portable functions to portable state machines."
+  },
+  {
+    "Title": "The API of a Camera and the Unix manifesto",
+    "Url": "https://www.eliseomartelli.it/blog/2025-11-17-the-api-of-a-camera-and-the-unix-manifesto",
+    "Timestamp": "2025-11-18T01:03:48",
+    "Domain": "www.eliseomartelli.it",
+    "Description": "What Edsger W. Dijkstra can teach us about photography and the tools we use?"
+  },
+  {
+    "Title": "Bug Fixing is an ETL Problem",
+    "Url": "https://qckfx.com/blog/bug-fixing-is-an-etl-problem",
+    "Timestamp": "2025-11-18T01:03:45",
+    "Domain": "qckfx.com",
+    "Description": "Learn why bug fixing is an ETL problem and how AI agents can search logs, traces, and Sentry errors to identify root causes in minutes instead of hours."
+  },
+  {
+    "Title": "Goto Considered Harmless",
+    "Url": "https://bramadityaw.github.io/blog/posts/goto/",
+    "Timestamp": "2025-11-18T01:03:41",
+    "Domain": "bramadityaw.github.io",
+    "Description": "Computing has progressed so far that a lot of our foreparents' statements are treated like passages from sacred texts: universal laws that don’t need to be considered with historical context due to their supposed timelessness. One such statement is Edsger Dijkstra’s ‘GOTO considered harmful’. This article aims to convince you that goto isn’t so bad these days."
+  },
+  {
+    "Title": "What are Blocking Queues and Why We Need Them",
+    "Url": "https://arpitbhayani.me/blogs/blocking-queues/",
+    "Timestamp": "2025-11-18T01:03:38",
+    "Domain": "arpitbhayani.me",
+    "Description": "Concurrent programming is one of the most interesting and challenging aspects of software engineering. When multiple goroutines need to share data, coordinating access becomes critical."
+  },
+  {
+    "Title": "Jack Duvall's Blog - Click-To-Open In Neovim With Kitty",
+    "Url": "https://blog.duvallj.pw/posts/2025-11-14-click-to-open-in-neovim-with-kitty.html",
+    "Timestamp": "2025-11-18T01:03:33",
+    "Domain": "blog.duvallj.pw",
+    "Description": "An overly detailed explanation of how I copied a very basic feature from VSCode into my bespoke terminal setup"
+  },
+  {
+    "Title": "Practical tips for what to do when you are lost",
+    "Url": "https://dhirajtourani.com/posts/practical-tips-for-what-to-do-when-you-are-lost/",
+    "Timestamp": "2025-11-18T01:03:30",
+    "Domain": "dhirajtourani.com",
+    "Description": "A follow-up to On being lost.\nThe initial reaction to being lost is often to cling to what you know to be true. Thereby establishing what you do not. To frame the search. To break it down into questions, sub-questions and methodically go to answer them. Here this instinct is counterproductive. The time and place for the imposition for structure will come, but it comes later.\nThere is no universal guide for what to do and how to spend your time. However there are three qualities that are useful to cultivate:"
+  },
+  {
+    "Title": "Thinking through how pretraining vs RL learn",
+    "Url": "https://www.dwarkesh.com/p/bits-per-sample",
+    "Timestamp": "2025-11-18T01:03:27",
+    "Domain": "www.dwarkesh.com",
+    "Description": "And implications for RLVR progress"
+  },
+  {
+    "Title": "n8n on FreeBSD – installation, configuration, and optimisation",
+    "Url": "https://m4c.pl/blog/n8n-freebsd-installation-configuration/",
+    "Timestamp": "2025-11-18T01:03:22",
+    "Domain": "m4c.pl",
+    "Description": "n8n - a guide to setting up a highly efficient and secure system environment on FreeBSD with Nginx as a reverse proxy, SSL, and Redis."
+  },
+  {
+    "Title": "How to DIY New Scientific Protocols",
+    "Url": "https://slimemoldtimemold.com/2025/11/17/how-to-diy-new-scientific-protocols/",
+    "Timestamp": "2025-11-18T01:03:16",
+    "Domain": "slimemoldtimemold.com",
+    "Description": "Scientific research today relies on one main protocol — experiments with control groups and random assignment. In medical contexts, these are usually called randomized controlled trials, or RCTs.&n…"
+  },
+  {
+    "Title": "Memory-corrupting Pong",
+    "Url": "https://arhan.sh/blog/memory-corrupting-pong/",
+    "Timestamp": "2025-11-18T01:03:12",
+    "Domain": "arhan.sh",
+    "Description": "Allocating heap memory on the screen"
+  },
+  {
+    "Title": "Building the Ultimate Cyberdeck: My Custom Hackberry PI",
+    "Url": "https://eclypsium.com/blog/build-the-ultimate-cyberdeck-hackberry-pi/",
+    "Timestamp": "2025-11-18T01:03:08",
+    "Domain": "eclypsium.com",
+    "Description": "A Hackberry Pi CM5 9900 cyberdeck, customized with an NVME SSD running Kali, enhanced by an external antenna, is a compact, responsive hacking platform. It’s ideal for pentesters, infosec enthusiasts, and anyone craving flexible Linux power in a handheld package."
+  },
+  {
+    "Title": "I 3D printed a running buggy",
+    "Url": "https://leontrolski.github.io/buggy.html",
+    "Timestamp": "2025-11-18T01:03:04",
+    "Domain": "leontrolski.github.io",
+    "Description": "2025-10-17"
+  },
+  {
+    "Title": "What Couchbase Taught Me About System Thinking",
+    "Url": "https://lorbic.com/what-couchbase-taught-me-about-system-thinking/",
+    "Timestamp": "2025-11-18T01:03:01",
+    "Domain": "lorbic.com",
+    "Description": "Working with Couchbase for the past year and a half has been more than just learning a database. It has been an exercise in system thinking: seeing how indexes, queries, consistency, and durability interact, and how small design choices ripple through performance and reliability.\nThis essay is my personal notebook from that journey. It is technically dense because Couchbase demands precision, but it is also reflective because the lessons extend beyond one database. Understanding how array indexes multiply entries, why compound index order matters, or how query consistency flags change latency is not just about Couchbase, it is about learning to think in terms of systems, trade‑offs, and consequences."
+  },
+  {
+    "Title": "datasetFactory - Synthetic RAG Evaluation Datasets",
+    "Url": "https://alexjacobs08.github.io/datasetFactory/",
+    "Timestamp": "2025-11-18T01:02:57",
+    "Domain": "alexjacobs08.github.io",
+    "Description": "Generate scaled synthetic datasets for RAG evaluation"
+  },
+  {
+    "Title": "Ad-Hoc Emacs Packages with Nix",
+    "Url": "https://borretti.me/article/ad-hoc-emacs-packages-with-nix",
+    "Timestamp": "2025-11-18T01:02:54",
+    "Domain": "borretti.me",
+    "Description": "Creating ad-hoc Emacs packages in a few lines of code."
+  },
+  {
+    "Title": "Comparing programming communities on Reddit",
+    "Url": "https://strzibny.name/blog/comparing-programming-language-communities-on-reddit",
+    "Timestamp": "2025-11-18T01:02:50",
+    "Domain": "strzibny.name",
+    "Description": "Reddit finally changed how he shows the vitality of a particular subreddit. So let's see what languages and frameworks are popular among Redditors."
+  },
+  {
+    "Title": "How to Assess Mindset and Attitude During the Interview",
+    "Url": "https://www.bolshchikov.com/p/how-to-assess-mindset-and-attitude",
+    "Timestamp": "2025-11-18T01:02:45",
+    "Domain": "www.bolshchikov.com",
+    "Description": "How to uncover how someone really thinks — before you hire them."
+  },
+  {
+    "Title": "Dissection of a PHP Backdoor leveraging php-win.exe | dfir.ch",
+    "Url": "https://dfir.ch/posts/dissection_php_backdoor/",
+    "Timestamp": "2025-11-18T01:02:41",
+    "Domain": "dfir.ch",
+    "Description": "Technical blog by Stephan Berger (@malmoeb)"
+  },
+  {
+    "Title": "BareMetal in the Cloud",
+    "Url": "https://ian.seyler.me/baremetal-in-the-cloud/",
+    "Timestamp": "2025-11-18T01:02:36",
+    "Domain": "ian.seyler.me",
+    "Description": "BareMetal is now running inside a cloud VM, serving live traffic through an extremely compact web server. Getting it stable inside a DigitalOcean droplet req..."
+  },
+  {
+    "Title": "BigQuery Table Sampling · James Hartig",
+    "Url": "https://jameshartig.dev/2025-bigquery-tablesample/",
+    "Timestamp": "2025-11-18T01:02:32",
+    "Domain": "jameshartig.dev",
+    "Description": "BigQuery table sampling introduction and bias"
+  },
+  {
+    "Title": "Reverse Engineering Catan Universe Gameplay with Large Language Models",
+    "Url": "https://ankitmaloo.com/reverse-engg-catan/",
+    "Timestamp": "2025-11-18T01:02:29",
+    "Domain": "ankitmaloo.com",
+    "Description": "Documenting my journey in the world of AI and RL."
+  },
+  {
+    "Title": "James Stanley - Against exponential backoff",
+    "Url": "https://incoherency.co.uk/blog/stories/against-exponential-backoff.html",
+    "Timestamp": "2025-11-18T01:02:25",
+    "Domain": "incoherency.co.uk",
+    "Description": "Thu 22 May 2025\nTagged: software"
+  },
+  {
+    "Title": "I Built a Synth for My Daughter",
+    "Url": "https://bitsnpieces.dev/posts/a-synth-for-my-daughter/",
+    "Timestamp": "2025-11-18T01:02:20",
+    "Domain": "bitsnpieces.dev",
+    "Description": "How I built a portable synthesizer for my three year old daughter."
+  }
+]
