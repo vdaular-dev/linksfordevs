@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Emulator Bugs: Sega CD | jsgroth's blog</title>
+      <link>https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/</link>
+      <description>Here are two bugs that I ran into while adding Sega CD support to my Genesis emulator, both related to emulating the Sega CD’s CD-ROM hardware. These are from a while ago but I think they’re still interesting enough to write about.</description>
+      <category>gaming</category>
+      <guid>https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/</guid>
+      <pubDate>Wed, 19 Nov 2025 18:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship | ACLU</title>
+      <link>https://www.aclu.org/news/free-speech/app-store-oligopoly</link>
+      <description>Big Tech Oligopoly helps the Trump Administration crack down on free speech</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://www.aclu.org/news/free-speech/app-store-oligopoly</guid>
+      <pubDate>Wed, 19 Nov 2025 18:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>DownDetector’s Down Detector</title>
       <link>https://downdetectorsdowndetector.com/</link>
       <description>A tiny independent status checker.</description>
@@ -221,27 +239,6 @@ synths to play some music.</description>
       <category>ai</category>
       <guid>https://antigravity.google/</guid>
       <pubDate>Tue, 18 Nov 2025 20:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Start building with Gemini 3</title>
-      <link>https://blog.google/technology/developers/gemini-3-developers/</link>
-      <description>Gemini 3 is introducing advanced agentic coding capabilities, plus Google Antigravity, a new agentic development platform.</description>
-      <category>visualstudio</category>
-      <category>ai</category>
-      <category>android</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://blog.google/technology/developers/gemini-3-developers/</guid>
-      <pubDate>Tue, 18 Nov 2025 18:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>A new era of intelligence with Gemini 3</title>
-      <link>https://blog.google/products/gemini/gemini-3/</link>
-      <description>Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.</description>
-      <category>visualstudio</category>
-      <category>ai</category>
-      <guid>https://blog.google/products/gemini/gemini-3/</guid>
-      <pubDate>Tue, 18 Nov 2025 18:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
