@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Linus Torvalds: Vibe coding is fine, but not for production</title>
+      <link>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</link>
+      <description>: Linux inventor also discusses Rust in the kernel, Nvidia's proprietary code, and the problem of AI crawlers</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>youtube</category>
+      <guid>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</guid>
+      <pubDate>Wed, 19 Nov 2025 21:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Emulator Bugs: Sega CD | jsgroth's blog</title>
       <link>https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/</link>
       <description>Here are two bugs that I ran into while adding Sega CD support to my Genesis emulator, both related to emulating the Sega CD’s CD-ROM hardware. These are from a while ago but I think they’re still interesting enough to write about.</description>
