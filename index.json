@@ -238,13 +238,5 @@
     "Domain": "unbuffered.stream",
     "Description": "I asked Google Gemini a pretty basic developer question. The answer was unremarkable, apart from it mentioning in conclusion that it knows I previously used ...",
     "Confidence": 0.8421464
-  },
-  {
-    "Title": "How quake.exe got its TCP/IP stack",
-    "Url": "https://fabiensanglard.net/quake_chunnel/index.html",
-    "Timestamp": "2025-11-18T08:01:51",
-    "Domain": "fabiensanglard.net",
-    "Description": "Nov 17, 2025",
-    "Confidence": 0.9850037
   }
 ]
