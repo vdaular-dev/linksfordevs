@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building more with GPT-5.1-Codex-Max</title>
+      <link>https://openai.com/index/gpt-5-1-codex-max/</link>
+      <description>Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/gpt-5-1-codex-max/</guid>
+      <pubDate>Wed, 19 Nov 2025 22:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Linus Torvalds: Vibe coding is fine, but not for production</title>
       <link>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</link>
       <description>: Linux inventor also discusses Rust in the kernel, Nvidia's proprietary code, and the problem of AI crawlers</description>
@@ -234,15 +242,6 @@ synths to play some music.</description>
       <category>git</category>
       <guid>https://www.githubstatus.com/incidents/5q7nmlxz30sk</guid>
       <pubDate>Tue, 18 Nov 2025 23:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>A new era of intelligence with Gemini 3</title>
-      <link>https://blog.google/products/gemini/gemini-3/#gemini-3-deep-think</link>
-      <description>Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.</description>
-      <category>visualstudio</category>
-      <category>ai</category>
-      <guid>https://blog.google/products/gemini/gemini-3/#gemini-3-deep-think</guid>
-      <pubDate>Tue, 18 Nov 2025 22:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

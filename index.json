@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Building more with GPT-5.1-Codex-Max",
+    "Url": "https://openai.com/index/gpt-5-1-codex-max/",
+    "Timestamp": "2025-11-19T22:01:59",
+    "Domain": "openai.com",
+    "Description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
+    "Confidence": 0.96449643
+  },
+  {
     "Title": "Linus Torvalds: Vibe coding is fine, but not for production",
     "Url": "https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/",
     "Timestamp": "2025-11-19T21:02:07",
@@ -190,13 +198,5 @@
     "Domain": "www.githubstatus.com",
     "Description": "GitHub's Status Page - Git operation failures.",
     "Confidence": 0.9557913
-  },
-  {
-    "Title": "A new era of intelligence with Gemini 3",
-    "Url": "https://blog.google/products/gemini/gemini-3/#gemini-3-deep-think",
-    "Timestamp": "2025-11-18T22:02:13",
-    "Domain": "blog.google",
-    "Description": "Today we’re releasing Gemini 3 – our most intelligent model that helps you bring any idea to life.",
-    "Confidence": 0.9611511
   }
 ]
