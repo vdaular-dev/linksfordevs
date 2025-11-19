@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How much does it cost to make a video game?</title>
+      <link>https://hushcrasher.substack.com/p/how-much-does-it-cost-to-make-a-video?r=cbm7u&amp;triedRedirect=true</link>
+      <description>We built a model to estimate the budget of 100,000 games. Here's what we found.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://hushcrasher.substack.com/p/how-much-does-it-cost-to-make-a-video?r=cbm7u&amp;triedRedirect=true</guid>
+      <pubDate>Wed, 19 Nov 2025 11:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft steers Aspire to a polyglot future</title>
       <link>https://www.infoworld.com/article/4085051/aspires-polyglot-future.html</link>
       <description>Microsoft’s cloud-native, distributed application development tool kit drops .NET from its name and embraces, well, everything.</description>
@@ -298,14 +308,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ai</category>
       <guid>https://www.cloudflarestatus.com/?t=1</guid>
       <pubDate>Tue, 18 Nov 2025 12:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>I caught Google Gemini using my data—and then covering it up</title>
-      <link>https://unbuffered.stream/gemini-personal-context/</link>
-      <description>I asked Google Gemini a pretty basic developer question. The answer was unremarkable, apart from it mentioning in conclusion that it knows I previously used ...</description>
-      <category>ai</category>
-      <guid>https://unbuffered.stream/gemini-personal-context/</guid>
-      <pubDate>Tue, 18 Nov 2025 11:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How much does it cost to make a video game?",
+    "Url": "https://hushcrasher.substack.com/p/how-much-does-it-cost-to-make-a-video?r=cbm7u&triedRedirect=true",
+    "Timestamp": "2025-11-19T11:02:12",
+    "Domain": "hushcrasher.substack.com",
+    "Description": "We built a model to estimate the budget of 100,000 games. Here's what we found.",
+    "Confidence": 0.91578484
+  },
+  {
     "Title": "Microsoft steers Aspire to a polyglot future",
     "Url": "https://www.infoworld.com/article/4085051/aspires-polyglot-future.html",
     "Timestamp": "2025-11-19T02:02:12",
@@ -230,13 +238,5 @@
     "Domain": "www.cloudflarestatus.com",
     "Description": "Welcome to Cloudflare's home for real-time and historical data on system performance.",
     "Confidence": 0.87480336
-  },
-  {
-    "Title": "I caught Google Gemini using my data—and then covering it up",
-    "Url": "https://unbuffered.stream/gemini-personal-context/",
-    "Timestamp": "2025-11-18T11:02:01",
-    "Domain": "unbuffered.stream",
-    "Description": "I asked Google Gemini a pretty basic developer question. The answer was unremarkable, apart from it mentioning in conclusion that it knows I previously used ...",
-    "Confidence": 0.8421464
   }
 ]
