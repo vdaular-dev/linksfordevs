@@ -7,6 +7,31 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Microsoft steers Aspire to a polyglot future</title>
+      <link>https://www.infoworld.com/article/4085051/aspires-polyglot-future.html</link>
+      <description>Microsoft’s cloud-native, distributed application development tool kit drops .NET from its name and embraces, well, everything.</description>
+      <category>nodejs</category>
+      <category>visualstudio</category>
+      <category>typescript</category>
+      <category>rust</category>
+      <category>containers</category>
+      <guid>https://www.infoworld.com/article/4085051/aspires-polyglot-future.html</guid>
+      <pubDate>Wed, 19 Nov 2025 02:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare outage on November 18, 2025</title>
+      <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
+      <description>Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected. 
+</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>rust</category>
+      <guid>https://blog.cloudflare.com/18-november-2025-outage/</guid>
+      <pubDate>Wed, 19 Nov 2025 02:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>My two-part desk setup</title>
       <link>https://arslan.io/2025/11/18/my-two-part-desk-setup/</link>
       <description>How I turned a single long desk into a digital side for work and an analog side for reading, writing, and building LEGO with the kids.</description>
