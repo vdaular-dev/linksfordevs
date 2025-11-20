@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Don’t Refactor Like Uncle Bob (Second Edition)</title>
+      <link>https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/</link>
+      <description>When I heard a year ago that Uncle Bob was planning on writing a second edition of Clean Code, I got excited, which isn’t normal for me. I thought the first edition was alright, and I don&amp;#82…</description>
+      <guid>https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/</guid>
+      <pubDate>Thu, 20 Nov 2025 02:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Service Outage</title>
+      <link>https://xkcd.com/3170/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3170/</guid>
+      <pubDate>Thu, 20 Nov 2025 02:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SAM 3</title>
+      <link>https://ai.meta.com/sam3/</link>
+      <description>With SAM 3 you can use text and visual prompts to precisely identify, segment, and follow any object in images or videos—coming soon to Instagram Edits and Vibes on the Meta AI app.</description>
+      <category>ai</category>
+      <guid>https://ai.meta.com/sam3/</guid>
+      <pubDate>Thu, 20 Nov 2025 02:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>"I was wrong"</title>
       <link>https://ozorn.in/blog/i-was-wrong/</link>
       <description>Anyone saying these words is a friend of mine</description>
@@ -174,31 +197,6 @@ That’s not the debugger’s</description>
       <category>sql</category>
       <guid>https://hushcrasher.substack.com/p/how-much-does-it-cost-to-make-a-video?r=cbm7u&amp;triedRedirect=true</guid>
       <pubDate>Wed, 19 Nov 2025 11:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft steers Aspire to a polyglot future</title>
-      <link>https://www.infoworld.com/article/4085051/aspires-polyglot-future.html</link>
-      <description>Microsoft’s cloud-native, distributed application development tool kit drops .NET from its name and embraces, well, everything.</description>
-      <category>nodejs</category>
-      <category>visualstudio</category>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>containers</category>
-      <guid>https://www.infoworld.com/article/4085051/aspires-polyglot-future.html</guid>
-      <pubDate>Wed, 19 Nov 2025 02:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare outage on November 18, 2025</title>
-      <link>https://blog.cloudflare.com/18-november-2025-outage/</link>
-      <description>Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected. 
-</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>sql</category>
-      <category>rust</category>
-      <guid>https://blog.cloudflare.com/18-november-2025-outage/</guid>
-      <pubDate>Wed, 19 Nov 2025 02:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

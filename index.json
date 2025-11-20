@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Don’t Refactor Like Uncle Bob (Second Edition)",
+    "Url": "https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/",
+    "Timestamp": "2025-11-20T02:02:05",
+    "Domain": "theaxolot.wordpress.com",
+    "Description": "When I heard a year ago that Uncle Bob was planning on writing a second edition of Clean Code, I got excited, which isn’t normal for me. I thought the first edition was alright, and I don&#82…",
+    "Confidence": 0.99420357
+  },
+  {
+    "Title": "Service Outage",
+    "Url": "https://xkcd.com/3170/",
+    "Timestamp": "2025-11-20T02:02:01",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "SAM 3",
+    "Url": "https://ai.meta.com/sam3/",
+    "Timestamp": "2025-11-20T02:01:57",
+    "Domain": "ai.meta.com",
+    "Description": "With SAM 3 you can use text and visual prompts to precisely identify, segment, and follow any object in images or videos—coming soon to Instagram Edits and Vibes on the Meta AI app.",
+    "Confidence": 0.9769577
+  },
+  {
     "Title": "\"I was wrong\"",
     "Url": "https://ozorn.in/blog/i-was-wrong/",
     "Timestamp": "2025-11-20T01:02:49",
@@ -134,21 +158,5 @@
     "Domain": "hushcrasher.substack.com",
     "Description": "We built a model to estimate the budget of 100,000 games. Here's what we found.",
     "Confidence": 0.91578484
-  },
-  {
-    "Title": "Microsoft steers Aspire to a polyglot future",
-    "Url": "https://www.infoworld.com/article/4085051/aspires-polyglot-future.html",
-    "Timestamp": "2025-11-19T02:02:12",
-    "Domain": "www.infoworld.com",
-    "Description": "Microsoft’s cloud-native, distributed application development tool kit drops .NET from its name and embraces, well, everything.",
-    "Confidence": 0.98993
-  },
-  {
-    "Title": "Cloudflare outage on November 18, 2025",
-    "Url": "https://blog.cloudflare.com/18-november-2025-outage/",
-    "Timestamp": "2025-11-19T02:02:08",
-    "Domain": "blog.cloudflare.com",
-    "Description": "Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected. \n",
-    "Confidence": 0.9694835
   }
 ]
