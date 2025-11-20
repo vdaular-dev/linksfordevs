@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Red Alert 2: Chrono Divide",
+    "Url": "https://chronodivide.com/",
+    "Timestamp": "2025-11-20T18:02:17",
+    "Domain": "chronodivide.com",
+    "Description": "Play now, in your web browser!",
+    "Confidence": 0.997931
+  },
+  {
     "Title": "Introducing Nano Banana Pro",
     "Url": "https://blog.google/technology/ai/nano-banana-pro/",
     "Timestamp": "2025-11-20T17:02:34",
@@ -174,21 +182,5 @@
     "Domain": "www.theregister.com",
     "Description": ": Linux inventor also discusses Rust in the kernel, Nvidia's proprietary code, and the problem of AI crawlers",
     "Confidence": 0.66163105
-  },
-  {
-    "Title": "Emulator Bugs: Sega CD | jsgroth's blog",
-    "Url": "https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/",
-    "Timestamp": "2025-11-19T18:02:12",
-    "Domain": "jsgroth.dev",
-    "Description": "Here are two bugs that I ran into while adding Sega CD support to my Genesis emulator, both related to emulating the Sega CD’s CD-ROM hardware. These are from a while ago but I think they’re still interesting enough to write about.",
-    "Confidence": 0.9974857
-  },
-  {
-    "Title": "Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship | ACLU",
-    "Url": "https://www.aclu.org/news/free-speech/app-store-oligopoly",
-    "Timestamp": "2025-11-19T18:02:08",
-    "Domain": "www.aclu.org",
-    "Description": "Big Tech Oligopoly helps the Trump Administration crack down on free speech",
-    "Confidence": 0.84788513
   }
 ]

@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Red Alert 2: Chrono Divide</title>
+      <link>https://chronodivide.com/</link>
+      <description>Play now, in your web browser!</description>
+      <category>gaming</category>
+      <guid>https://chronodivide.com/</guid>
+      <pubDate>Thu, 20 Nov 2025 18:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Nano Banana Pro</title>
       <link>https://blog.google/technology/ai/nano-banana-pro/</link>
       <description>Nano Banana Pro is our new image generation and editing model from Google DeepMind.</description>
@@ -220,24 +228,6 @@ That’s not the debugger’s</description>
       <category>youtube</category>
       <guid>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</guid>
       <pubDate>Wed, 19 Nov 2025 21:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emulator Bugs: Sega CD | jsgroth's blog</title>
-      <link>https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/</link>
-      <description>Here are two bugs that I ran into while adding Sega CD support to my Genesis emulator, both related to emulating the Sega CD’s CD-ROM hardware. These are from a while ago but I think they’re still interesting enough to write about.</description>
-      <category>gaming</category>
-      <guid>https://jsgroth.dev/blog/posts/emulator-bugs-sega-cd/</guid>
-      <pubDate>Wed, 19 Nov 2025 18:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship | ACLU</title>
-      <link>https://www.aclu.org/news/free-speech/app-store-oligopoly</link>
-      <description>Big Tech Oligopoly helps the Trump Administration crack down on free speech</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>gaming</category>
-      <guid>https://www.aclu.org/news/free-speech/app-store-oligopoly</guid>
-      <pubDate>Wed, 19 Nov 2025 18:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
