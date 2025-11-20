@@ -1,5 +1,93 @@
 [
   {
+    "Title": "\"I was wrong\"",
+    "Url": "https://ozorn.in/blog/i-was-wrong/",
+    "Timestamp": "2025-11-20T01:02:49",
+    "Domain": "ozorn.in",
+    "Description": "Anyone saying these words is a friend of mine",
+    "Confidence": 0.8980912
+  },
+  {
+    "Title": "Native binary debugging for OCaml (written by Claude!)",
+    "Url": "https://joel.id/native-binary-debugging-for-ocaml/",
+    "Timestamp": "2025-11-20T01:02:45",
+    "Domain": "joel.id",
+    "Description": "Discuss on Hacker News or Twitter.\n\n\nDebugging Native OCaml Code with DWARF\n\nWhen you compile OCaml to native code and try to debug it, lldb can’t show you much: breakpoints don’t resolve, source lines don’t appear, and variable names look meaningless.\n\nThat’s not the debugger’s",
+    "Confidence": 0.9949905
+  },
+  {
+    "Title": "How to work with Product: At the tea table",
+    "Url": "https://blog.nilenso.com/blog/2025/11/18/how-to-work-with-product-at-the-tea-table/",
+    "Timestamp": "2025-11-20T01:02:41",
+    "Domain": "blog.nilenso.com",
+    "Description": "Srihari Sriraman\n        \n      \n      \n    \n    \n      \n      \n         ...",
+    "Confidence": 0.95502424
+  },
+  {
+    "Title": "How to Use Cloudfront for Sendgrid Click Tracking",
+    "Url": "https://rozumem.xyz/posts/9",
+    "Timestamp": "2025-11-20T01:02:37",
+    "Domain": "rozumem.xyz",
+    "Description": "Nothing like a Cloudflare outage to inspire another blog post. I learned from the last incident and was able to turn off the CF proxy early on while it was still possible to do so. This kept my website up during most of the outage as requests were bypassing CF and hitting my origin servers directly.",
+    "Confidence": 0.96209043
+  },
+  {
+    "Title": "Don't sleep on MCP",
+    "Url": "https://goto-code.com/dont-sleep-on-mcp/",
+    "Timestamp": "2025-11-20T01:02:34",
+    "Domain": "goto-code.com",
+    "Description": "It’s not just an upgrade to tool calls. Why Anthropic’s Model Context Protocol is a glimpse into the future of LLM-centric software.",
+    "Confidence": 0.980719
+  },
+  {
+    "Title": "Building the foundations of an 'AI CEO'",
+    "Url": "https://skyfall.ai/blog/building-the-foundations-of-an-ai-ceo",
+    "Timestamp": "2025-11-20T01:02:29",
+    "Domain": "skyfall.ai",
+    "Description": "Building Enterprise Super Intelligence",
+    "Confidence": 0.95406395
+  },
+  {
+    "Title": "Why your retrospectives don't work and how to fix them",
+    "Url": "https://www.lucasfcosta.com/blog/retrospectives",
+    "Timestamp": "2025-11-20T01:02:24",
+    "Domain": "www.lucasfcosta.com",
+    "Description": "Hot takes and cold truths on software, startups, and the lies we tell ourselves.",
+    "Confidence": 0.9906236
+  },
+  {
+    "Title": "Build vs Buy: What This Week's Outages Should Teach You",
+    "Url": "https://www.toddhgardner.com/blog/build-vs-buy-outages",
+    "Timestamp": "2025-11-20T01:02:21",
+    "Domain": "www.toddhgardner.com",
+    "Description": "The simple rule everyone gets wrong: build what makes you unique, buy what makes you run. But whatever you do, make sure you understand it well enough to fix it when it breaks. Because it will break.",
+    "Confidence": 0.98001146
+  },
+  {
+    "Title": "Why is Browser Observability Hard | Hazel Weakly",
+    "Url": "https://hazelweakly.me/blog/why-is-browser-observability-hard/",
+    "Timestamp": "2025-11-20T01:02:18",
+    "Domain": "hazelweakly.me",
+    "Description": "So the big thing that makes everything so difficult for browsers is that opentelemetry has a concept of a lifecycle for telemetry that doesn’t map very well to...",
+    "Confidence": 0.98032707
+  },
+  {
+    "Title": "Are large language models worth it?",
+    "Url": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
+    "Timestamp": "2025-11-20T01:02:14",
+    "Domain": "nicholas.carlini.com",
+    "Description": "Are the harms that LLMs have caused, and will soon cause, worth the benefits they may bring? This article (a written version of a keynote talk I gave at CoLM) tries to explore this question.",
+    "Confidence": 0.9733741
+  },
+  {
+    "Title": "How to Play Responsibility Dodgeball in an Organization | Joe IQ",
+    "Url": "https://joeiq.com/blog/avoiding-responsibility/",
+    "Timestamp": "2025-11-20T01:02:09",
+    "Domain": "joeiq.com",
+    "Description": "The corporate game is to avoid responsibility. These are the plays.",
+    "Confidence": 0.91984314
+  },
+  {
     "Title": "Building more with GPT-5.1-Codex-Max",
     "Url": "https://openai.com/index/gpt-5-1-codex-max/",
     "Timestamp": "2025-11-19T22:01:59",
