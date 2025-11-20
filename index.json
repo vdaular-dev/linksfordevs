@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Preserving code that shaped generations: Zork I, II, and III go Open Source",
+    "Url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
+    "Timestamp": "2025-11-20T21:02:09",
+    "Domain": "opensource.microsoft.com",
+    "Description": "Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision are making Zork I, Zork II, and Zork III available under the MIT License.",
+    "Confidence": 0.98889744
+  },
+  {
+    "Title": "Android and iPhone users can now share files, starting with the Pixel 10 family.",
+    "Url": "https://blog.google/products/android/quick-share-airdrop/",
+    "Timestamp": "2025-11-20T21:02:05",
+    "Domain": "blog.google",
+    "Description": "Today, we’re introducing a way for Quick Share to work with AirDrop.",
+    "Confidence": 0.9549218
+  },
+  {
     "Title": "Firefox 147 Will Support The XDG Base Directory Specification",
     "Url": "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory",
     "Timestamp": "2025-11-20T19:02:07",
@@ -182,13 +198,5 @@
     "Domain": "openai.com",
     "Description": "Introducing GPT-5.1-Codex-Max, a faster, more intelligent agentic coding model for Codex. The model is designed for long-running, project-scale work with enhanced reasoning and token efficiency.",
     "Confidence": 0.96449643
-  },
-  {
-    "Title": "Linus Torvalds: Vibe coding is fine, but not for production",
-    "Url": "https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/",
-    "Timestamp": "2025-11-19T21:02:07",
-    "Domain": "www.theregister.com",
-    "Description": ": Linux inventor also discusses Rust in the kernel, Nvidia's proprietary code, and the problem of AI crawlers",
-    "Confidence": 0.66163105
   }
 ]

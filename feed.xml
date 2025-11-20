@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Preserving code that shaped generations: Zork I, II, and III go Open Source</title>
+      <link>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</link>
+      <description>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision are making Zork I, Zork II, and Zork III available under the MIT License.</description>
+      <category>gaming</category>
+      <category>python</category>
+      <guid>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</guid>
+      <pubDate>Thu, 20 Nov 2025 21:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android and iPhone users can now share files, starting with the Pixel 10 family.</title>
+      <link>https://blog.google/products/android/quick-share-airdrop/</link>
+      <description>Today, we’re introducing a way for Quick Share to work with AirDrop.</description>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://blog.google/products/android/quick-share-airdrop/</guid>
+      <pubDate>Thu, 20 Nov 2025 21:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Firefox 147 Will Support The XDG Base Directory Specification</title>
       <link>https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory</link>
       <description>A 21 year old bug report requesting support of the XDG Base Directory specification is finally being addressed by Firefox</description>
@@ -224,18 +242,6 @@ That’s not the debugger’s</description>
       <category>ai</category>
       <guid>https://openai.com/index/gpt-5-1-codex-max/</guid>
       <pubDate>Wed, 19 Nov 2025 22:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds: Vibe coding is fine, but not for production</title>
-      <link>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</link>
-      <description>: Linux inventor also discusses Rust in the kernel, Nvidia's proprietary code, and the problem of AI crawlers</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://www.theregister.com/2025/11/18/linus_torvalds_vibe_coding/</guid>
-      <pubDate>Wed, 19 Nov 2025 21:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
