@@ -7,6 +7,134 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I asked the smartest AI model what was the smartest thing it could think of - we ended up talking about degrowth</title>
+      <link>https://fraboniface.com/blog/gemini-3-on-degrowth/</link>
+      <description>Gemini 3 on the power of less, the economic bicyle, and degrowth.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://fraboniface.com/blog/gemini-3-on-degrowth/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>My favorite math problem | ByteSauna</title>
+      <link>https://bytesauna.com/post/my-favorite-math-problem</link>
+      <description>There’s one math problem I find surprisingly deep in how it connects simple puzzles to profound ideas in logic, proof, and the rise of AI in mathematics.</description>
+      <category>ai</category>
+      <guid>https://bytesauna.com/post/my-favorite-math-problem</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weekly AI Observations: Interviews in the Vibe Coding Era</title>
+      <link>https://www.yuanhao.site/post/ai-weekly/2025-11-19-weekly-en/</link>
+      <description>Cover created with Nano Banana Our team’s interview format just changed.
+Leetcode puzzles are out; building a full feature is in. If you don’t code with AI—and your typing speed isn’t absurd—you won’t finish. It sounds like a tooling upgrade, but it’s actually reshaping what we mean by an “excellent engineer.”
+The Gap Gets Wider In classic algorithm interviews, the difference between failing and passing might come down to a single hint.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.yuanhao.site/post/ai-weekly/2025-11-19-weekly-en/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>We don't use Cloudflare, yet Prisma depends on it so the outage broke our infra | Ariana Blog</title>
+      <link>https://ariana.dev/blog/cloudflare-outage-lessons</link>
+      <description>After AWS, now Cloudflare is down. It's always the same story: we, builders, are lazy, we start depending on things that are not necessary, we pay the price and</description>
+      <author> (Anicet Nougaret)</author>
+      <category>ai</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <guid>https://ariana.dev/blog/cloudflare-outage-lessons</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Think you can’t interpose static binaries with LD_PRELOAD? Think again! - Obsessed with reality</title>
+      <link>https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/</link>
+      <description>Well, you are right, you can't. At least not directly. This is well documented in many projects relying on interposing binaries, like faketime. But what if we could write something that would take a static binary, replace at least the direct syscalls with ones going through libc and load it with the dynamic linker? We are in luck, because the…</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Application Software Is Dead, Again</title>
+      <link>https://www.akashbajwa.co/p/application-software-is-dead-again</link>
+      <description>Data Fabrics, Agent Labs, Moving Up And Down The Stack</description>
+      <category>ai</category>
+      <guid>https://www.akashbajwa.co/p/application-software-is-dead-again</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>There is nothing out-of-distribution</title>
+      <link>https://gusarich.com/blog/there-is-nothing-out-of-distribution/</link>
+      <description></description>
+      <author> (https://gusarich.com/)</author>
+      <category>ai</category>
+      <guid>https://gusarich.com/blog/there-is-nothing-out-of-distribution/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finding the Echoes: An Artist’s Journey From Trauma to Rediscovery (Part 1) — Jerome Leroy | Composer</title>
+      <link>https://www.jeromeleroy.com/complog-content/2025/10/finding-the-echoes-an-artists-journey-from-trauma-to-self-discovery-part1-awakenings</link>
+      <description>After more than 25 years, I'm returning to public performance. This five-part essay traces the journey from childhood trauma through artistic suppression to rediscovering my voice—and why performing my own music in 2026 represents more than just a concert.</description>
+      <category>ai</category>
+      <guid>https://www.jeromeleroy.com/complog-content/2025/10/finding-the-echoes-an-artists-journey-from-trauma-to-self-discovery-part1-awakenings</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stumbling into AI: Part 6—I’ve been thinking about Agents and MCP all wrong</title>
+      <link>https://rmoff.net/2025/11/20/stumbling-into-ai-part-6ive-been-thinking-about-agents-and-mcp-all-wrong/</link>
+      <description></description>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://rmoff.net/2025/11/20/stumbling-into-ai-part-6ive-been-thinking-about-agents-and-mcp-all-wrong/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving Beyond the NPM elliptic Package - Dhole Moments</title>
+      <link>https://soatok.blog/2025/11/19/moving-beyond-the-npm-elliptic-package/</link>
+      <description>If you’re in a hurry, head on over to soatok/elliptic-to-noble and follow the instructions in the README in order to remove the elliptic package from your project and all dependencies in node…</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <guid>https://soatok.blog/2025/11/19/moving-beyond-the-npm-elliptic-package/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brute-Forceable Airline Reservation API Left Millions of Passenger Records Vulnerable</title>
+      <link>https://alexschapiro.com/blog/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability</link>
+      <description>Timeline &amp; Responsible Disclosure</description>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://alexschapiro.com/blog/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Visa works</title>
+      <link>https://nandinfinitum.com/posts/visa/</link>
+      <description>A look into how Visa actually works: the messy early days of credit, the coordination problems between banks, how Dee Hock re-architected the system, and how VisaNet became the invisible infrastructure behind modern payments.</description>
+      <guid>https://nandinfinitum.com/posts/visa/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why is software so much less efficient than hardware – kbrecordzz</title>
+      <link>https://kbrecordzz.com/2025/11/why-is-software-so-much-less-efficient-than-hardware/</link>
+      <description>While hardware continues to get faster and faster, software seems to degrade. It's logical that we aren't as resourceful with the hardware today as we were in the 80s, because the hardware is so powerful today that we can afford to be lazy with our programming and still have our programs run smoothly. But the weird part is that software seems to degrade more than it should.</description>
+      <guid>https://kbrecordzz.com/2025/11/why-is-software-so-much-less-efficient-than-hardware/</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Over-Regulation is Doubling the Cost by Peter Reinhardt</title>
+      <link>https://rein.pk/over-regulation-is-doubling-the-cost</link>
+      <description>After building a software company to a multi-billion dollar exit, I made the jump to hardware. Now I’m working on carbon removal + steel at Charm Industrial, and electric long-haul trucking with Revoy. It’s epically fun to be building in the real world, but little did I expect that more than half the cost of building a hardware company would come from regulatory bottlenecks. Despite a huge push for climate fixes and the bipartisan geopolitical desire to bring industry back to the USA, I’ve been shocked to find that the single biggest barrier—by far—is over-regulation from the massive depth of bureaucracy.</description>
+      <category>rust</category>
+      <guid>https://rein.pk/over-regulation-is-doubling-the-cost</guid>
+      <pubDate>Fri, 21 Nov 2025 02:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Preserving code that shaped generations: Zork I, II, and III go Open Source</title>
       <link>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</link>
       <description>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision are making Zork I, Zork II, and Zork III available under the MIT License.</description>
@@ -97,29 +225,6 @@ References:
       <description>The U.S. Patent and Trademark Office (USPTO) has proposed new rules that would effectively end the public’s ability to challenge improperly granted patents at the Patent Office itself. We need EFF supporters to file public comments opposing these rules this week. The USPTO is moving quickly, and staying silent will only help those who profit from abusive patents.</description>
       <guid>https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable</guid>
       <pubDate>Thu, 20 Nov 2025 03:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don’t Refactor Like Uncle Bob (Second Edition)</title>
-      <link>https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/</link>
-      <description>When I heard a year ago that Uncle Bob was planning on writing a second edition of Clean Code, I got excited, which isn’t normal for me. I thought the first edition was alright, and I don&amp;#82…</description>
-      <guid>https://theaxolot.wordpress.com/2025/11/18/dont-refactor-like-uncle-bob-second-edition/</guid>
-      <pubDate>Thu, 20 Nov 2025 02:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Service Outage</title>
-      <link>https://xkcd.com/3170/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3170/</guid>
-      <pubDate>Thu, 20 Nov 2025 02:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAM 3</title>
-      <link>https://ai.meta.com/sam3/</link>
-      <description>With SAM 3 you can use text and visual prompts to precisely identify, segment, and follow any object in images or videos—coming soon to Instagram Edits and Vibes on the Meta AI app.</description>
-      <category>ai</category>
-      <guid>https://ai.meta.com/sam3/</guid>
-      <pubDate>Thu, 20 Nov 2025 02:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
