@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Wealthfolio | Open-Source, Offline & Private Portfolio Tracker",
+    "Url": "https://wealthfolio.app/?v=2.0",
+    "Timestamp": "2025-11-21T21:02:01",
+    "Domain": "wealthfolio.app",
+    "Description": "Wealthfolio is an open-source, private, and offline desktop portfolio tracker. Keep your financial data safe on your computer. No subscriptions, no cloud storage - just a straightforward tool to manage your wealth.",
+    "Confidence": 0.9025803
+  },
+  {
     "Title": "GitHub - Geolm/bc_crunch: tiny dependency-free lossless compressor for BC/DXT texture streams (C99, ~800 LoC)",
     "Url": "https://github.com/Geolm/bc_crunch",
     "Timestamp": "2025-11-21T16:02:37",
@@ -166,21 +174,5 @@
     "Domain": "rein.pk",
     "Description": "After building a software company to a multi-billion dollar exit, I made the jump to hardware. Now I’m working on carbon removal + steel at Charm Industrial, and electric long-haul trucking with Revoy. It’s epically fun to be building in the real world, but little did I expect that more than half the cost of building a hardware company would come from regulatory bottlenecks. Despite a huge push for climate fixes and the bipartisan geopolitical desire to bring industry back to the USA, I’ve been shocked to find that the single biggest barrier—by far—is over-regulation from the massive depth of bureaucracy.",
     "Confidence": 0.8419505
-  },
-  {
-    "Title": "Preserving code that shaped generations: Zork I, II, and III go Open Source",
-    "Url": "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source",
-    "Timestamp": "2025-11-20T21:02:09",
-    "Domain": "opensource.microsoft.com",
-    "Description": "Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision are making Zork I, Zork II, and Zork III available under the MIT License.",
-    "Confidence": 0.98889744
-  },
-  {
-    "Title": "Android and iPhone users can now share files, starting with the Pixel 10 family.",
-    "Url": "https://blog.google/products/android/quick-share-airdrop/",
-    "Timestamp": "2025-11-20T21:02:05",
-    "Domain": "blog.google",
-    "Description": "Today, we’re introducing a way for Quick Share to work with AirDrop.",
-    "Confidence": 0.9549218
   }
 ]

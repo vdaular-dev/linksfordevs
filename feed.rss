@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Wealthfolio | Open-Source, Offline &amp; Private Portfolio Tracker</title>
+      <link>https://wealthfolio.app/?v=2.0</link>
+      <description>Wealthfolio is an open-source, private, and offline desktop portfolio tracker. Keep your financial data safe on your computer. No subscriptions, no cloud storage - just a straightforward tool to manage your wealth.</description>
+      <guid>https://wealthfolio.app/?v=2.0</guid>
+      <pubDate>Fri, 21 Nov 2025 21:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - Geolm/bc_crunch: tiny dependency-free lossless compressor for BC/DXT texture streams (C99, ~800 LoC)</title>
       <link>https://github.com/Geolm/bc_crunch</link>
       <description>tiny dependency-free lossless compressor for BC/DXT texture streams (C99, ~800 LoC) - Geolm/bc_crunch</description>
@@ -214,24 +221,6 @@ The Gap Gets Wider In classic algorithm interviews, the difference between faili
       <category>rust</category>
       <guid>https://rein.pk/over-regulation-is-doubling-the-cost</guid>
       <pubDate>Fri, 21 Nov 2025 02:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preserving code that shaped generations: Zork I, II, and III go Open Source</title>
-      <link>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</link>
-      <description>Microsoft’s Open Source Programs Office (OSPO), Team Xbox, and Activision are making Zork I, Zork II, and Zork III available under the MIT License.</description>
-      <category>gaming</category>
-      <category>python</category>
-      <guid>https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source</guid>
-      <pubDate>Thu, 20 Nov 2025 21:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android and iPhone users can now share files, starting with the Pixel 10 family.</title>
-      <link>https://blog.google/products/android/quick-share-airdrop/</link>
-      <description>Today, we’re introducing a way for Quick Share to work with AirDrop.</description>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://blog.google/products/android/quick-share-airdrop/</guid>
-      <pubDate>Thu, 20 Nov 2025 21:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
