@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tom Forsyth (@TomF@mastodon.gamedev.place)</title>
+      <link>https://mastodon.gamedev.place/@TomF/115589875974658415</link>
+      <description>Attached: 1 image
+
+Recent discussion about the perils of doors in gamedev reminded me of a bug caused by a door in a game you may have heard of called "Half Life 2". Are you sitting comfortably? Then I shall begin.</description>
+      <category>gaming</category>
+      <guid>https://mastodon.gamedev.place/@TomF/115589875974658415</guid>
+      <pubDate>Sat, 22 Nov 2025 23:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>The privacy nightmare of browser fingerprinting</title>
       <link>https://kevinboone.me/fingerprinting.html</link>
       <description>%%DESC%%</description>
@@ -225,29 +235,6 @@ This time, I'm building something close to heart: not a healthcare SaaS platform
       <category>javascript</category>
       <guid>https://xkcd.com/3171/</guid>
       <pubDate>Sat, 22 Nov 2025 00:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Did Qualcomm kill Arduino for good? | Molecularist</title>
-      <link>https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html</link>
-      <description>The maker community worried Qualcomm would kill the Arduino ethos. New T&amp;Cs confirm the community's worst fears. Here's what's at stake, what Qualcomm got wrong, and what might still be salvaged.</description>
-      <category>encryption</category>
-      <category>vscode</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html</guid>
-      <pubDate>Fri, 21 Nov 2025 23:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Helping Valve to Power Up Steam Devices | Igalia</title>
-      <link>https://www.igalia.com/2025/11/helpingvalve.html</link>
-      <description>Igalia is an open source consultancy specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solutions for companies across the globe. Our work and contributions are present in many projects such as GStreamer, Mesa 3D, WebKit, Chromium, etc.</description>
-      <author> (https://www.igalia.com/about/)</author>
-      <category>gaming</category>
-      <category>rust</category>
-      <category>linux</category>
-      <category>android</category>
-      <guid>https://www.igalia.com/2025/11/helpingvalve.html</guid>
-      <pubDate>Fri, 21 Nov 2025 23:01:54 GMT</pubDate>
     </item>
   </channel>
 </rss>
