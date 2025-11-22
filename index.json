@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The privacy nightmare of browser fingerprinting",
+    "Url": "https://kevinboone.me/fingerprinting.html",
+    "Timestamp": "2025-11-22T21:02:00",
+    "Domain": "kevinboone.me",
+    "Description": "%%DESC%%",
+    "Confidence": 0.98281986
+  },
+  {
     "Title": "Agent Design Is Still Hard",
     "Url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
     "Timestamp": "2025-11-22T20:01:59",
@@ -182,13 +190,5 @@
     "Domain": "www.igalia.com",
     "Description": "Igalia is an open source consultancy specialised in the development of innovative projects and solutions. Our engineers have expertise in a wide range of technological areas, including browsers and client-side web technologies, graphics pipeline, compilers and virtual machines. We have the most WPE, WebKit, Chromium/Blink and Firefox expertise found in the consulting business, including many reviewers and committers. Igalia designs, develops, customises and optimises GNU/Linux-based solutions for companies across the globe. Our work and contributions are present in many projects such as GStreamer, Mesa 3D, WebKit, Chromium, etc.",
     "Confidence": 0.8605265
-  },
-  {
-    "Title": "Wealthfolio | Open-Source, Offline & Private Portfolio Tracker",
-    "Url": "https://wealthfolio.app/?v=2.0",
-    "Timestamp": "2025-11-21T21:02:01",
-    "Domain": "wealthfolio.app",
-    "Description": "Wealthfolio is an open-source, private, and offline desktop portfolio tracker. Keep your financial data safe on your computer. No subscriptions, no cloud storage - just a straightforward tool to manage your wealth.",
-    "Confidence": 0.9025803
   }
 ]

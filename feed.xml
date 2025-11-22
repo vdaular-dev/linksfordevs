@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The privacy nightmare of browser fingerprinting</title>
+      <link>https://kevinboone.me/fingerprinting.html</link>
+      <description>%%DESC%%</description>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://kevinboone.me/fingerprinting.html</guid>
+      <pubDate>Sat, 22 Nov 2025 21:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Agent Design Is Still Hard</title>
       <link>https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</link>
       <description>My Agent abstractions keep breaking somewhere I don’t expect.</description>
@@ -238,13 +248,6 @@ This time, I'm building something close to heart: not a healthcare SaaS platform
       <category>android</category>
       <guid>https://www.igalia.com/2025/11/helpingvalve.html</guid>
       <pubDate>Fri, 21 Nov 2025 23:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wealthfolio | Open-Source, Offline &amp; Private Portfolio Tracker</title>
-      <link>https://wealthfolio.app/?v=2.0</link>
-      <description>Wealthfolio is an open-source, private, and offline desktop portfolio tracker. Keep your financial data safe on your computer. No subscriptions, no cloud storage - just a straightforward tool to manage your wealth.</description>
-      <guid>https://wealthfolio.app/?v=2.0</guid>
-      <pubDate>Fri, 21 Nov 2025 21:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
