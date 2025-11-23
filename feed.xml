@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Making Software: Shaders.</title>
+      <link>https://www.makingsoftware.com/chapters/shaders</link>
+      <description>How to draw high fidelity graphics when all you have is an x and y coordinate.</description>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://www.makingsoftware.com/chapters/shaders</guid>
+      <pubDate>Sun, 23 Nov 2025 20:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>The realities of being a pop star. </title>
       <link>https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star</link>
       <description>According to my experience...</description>
@@ -144,15 +153,6 @@ Recent discussion about the perils of doors in gamedev reminded me of a bug caus
       <category>git</category>
       <guid>https://kevinboone.me/fingerprinting.html</guid>
       <pubDate>Sat, 22 Nov 2025 21:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agent Design Is Still Hard</title>
-      <link>https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</link>
-      <description>My Agent abstractions keep breaking somewhere I don’t expect.</description>
-      <author> (Armin Ronacher)</author>
-      <category>ai</category>
-      <guid>https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</guid>
-      <pubDate>Sat, 22 Nov 2025 20:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

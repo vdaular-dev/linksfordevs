@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Making Software: Shaders.",
+    "Url": "https://www.makingsoftware.com/chapters/shaders",
+    "Timestamp": "2025-11-23T20:02:22",
+    "Domain": "www.makingsoftware.com",
+    "Description": "How to draw high fidelity graphics when all you have is an x and y coordinate.",
+    "Confidence": 0.9912943
+  },
+  {
     "Title": "The realities of being a pop star. ",
     "Url": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
     "Timestamp": "2025-11-23T13:02:04",
@@ -126,13 +134,5 @@
     "Domain": "kevinboone.me",
     "Description": "%%DESC%%",
     "Confidence": 0.98281986
-  },
-  {
-    "Title": "Agent Design Is Still Hard",
-    "Url": "https://lucumr.pocoo.org/2025/11/21/agents-are-hard/",
-    "Timestamp": "2025-11-22T20:01:59",
-    "Domain": "lucumr.pocoo.org",
-    "Description": "My Agent abstractions keep breaking somewhere I don’t expect.",
-    "Confidence": 0.9924095
   }
 ]
