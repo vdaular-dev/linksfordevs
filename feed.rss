@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude Opus 4.5</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-5</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.anthropic.com/news/claude-opus-4-5</guid>
+      <pubDate>Mon, 24 Nov 2025 20:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Electronic Voting is a BAD Idea - Computerphile</title>
+      <link>https://youtube.com/watch?v=w3_0x6oaDmI</link>
+      <description>Voting is centuries old, why can't we move with the times and use our phones, tablets and computers? Tom Scott lays out why e-voting is such a bad idea.
+
+More from Tom Scott: http://www.youtube.com/user/enyay and https://twitter.com/tomscott
+
+http://www.facebook.com/computerphile
+https://twitter.com/computer_phile
+
+This video was filmed and edited by Sean Riley.
+
+Computer Science at the University of Nottingham: http://bit.ly/nottscomputer
+
+Computerphile is a sister project to Brady Haran's Numberphile. See the full list of Brady's video projects at: http://bit.ly/bradychannels</description>
+      <author> (Computerphile)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=w3_0x6oaDmI</guid>
+      <pubDate>Mon, 24 Nov 2025 20:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>NSA and IETF, part 3</title>
       <link>https://blog.cr.yp.to/20251123-dodging.html</link>
       <description>Normal practice
@@ -262,15 +292,6 @@ I didn’t come from a big-name college. There was no built-in reputation attach
       <category>git</category>
       <guid>https://emilysneddon.com/fran-sans-essay</guid>
       <pubDate>Sun, 23 Nov 2025 22:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making Software: Shaders.</title>
-      <link>https://www.makingsoftware.com/chapters/shaders</link>
-      <description>How to draw high fidelity graphics when all you have is an x and y coordinate.</description>
-      <category>gaming</category>
-      <category>javascript</category>
-      <guid>https://www.makingsoftware.com/chapters/shaders</guid>
-      <pubDate>Sun, 23 Nov 2025 20:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
