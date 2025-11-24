@@ -1,5 +1,29 @@
 [
   {
+    "Title": "HelixGuard",
+    "Url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+    "Timestamp": "2025-11-24T13:02:11",
+    "Domain": "helixguard.ai",
+    "Description": "Supply chain security, vulnerability intelligence, and malware detection.",
+    "Confidence": 0.9439159
+  },
+  {
+    "Title": "\"Every Class Should Be Sealed in C#\"",
+    "Url": "https://youtube.com/watch?v=u79quQu4t_s",
+    "Timestamp": "2025-11-24T13:02:08",
+    "Domain": "youtube.com",
+    "Description": "Get 40% off Dometrain with code BLACKFRIDAY25: https://dometrain.com/?ref=nick-chapsas&promo=youtube&coupon_code=BLACKFRIDAY25\n\nHello, everybody. I'm Nick, and in this video, I want to talk about the suggestion of sealing every class in C# and what benefits such a thing might come with.\n\nCheck out my workshops: https://dometrain.com/workshops/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
+    "Confidence": 0.9940063
+  },
+  {
+    "Title": "Spatial hashing for raytraced ambient occlusion",
+    "Url": "https://interplayoflight.wordpress.com/2025/11/23/spatial-hashing-for-raytraced-ambient-occlusion/",
+    "Timestamp": "2025-11-24T13:02:06",
+    "Domain": "interplayoflight.wordpress.com",
+    "Description": "Subdividing a 3D space into cells or voxels and using positional and/or directional information to directly index into it is a popular method to store and access local data, typically using 3D text…",
+    "Confidence": 0.99609125
+  },
+  {
     "Title": "RuBee",
     "Url": "https://computer.rip/2025-11-22-RuBee.html",
     "Timestamp": "2025-11-24T12:02:17",
@@ -158,21 +182,5 @@
     "Domain": "www.makingsoftware.com",
     "Description": "How to draw high fidelity graphics when all you have is an x and y coordinate.",
     "Confidence": 0.9912943
-  },
-  {
-    "Title": "The realities of being a pop star. ",
-    "Url": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star",
-    "Timestamp": "2025-11-23T13:02:04",
-    "Domain": "itscharlibb.substack.com",
-    "Description": "According to my experience...",
-    "Confidence": 0.77912503
-  },
-  {
-    "Title": "after my dad died, we found the love letters",
-    "Url": "https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/",
-    "Timestamp": "2025-11-23T13:01:59",
-    "Domain": "www.jenn.site",
-    "Description": "a few days after , we found the love letters, hidden away among his things. one of them said, \n\nmy parents were not a love match. at 27 and 26, they were e...",
-    "Confidence": 0.8118226
   }
 ]
