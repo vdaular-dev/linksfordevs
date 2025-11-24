@@ -1,5 +1,26 @@
 [
   {
+    "Title": "NSA and IETF, part 3",
+    "Url": "https://blog.cr.yp.to/20251123-dodging.html",
+    "Timestamp": "2025-11-24T19:02:28",
+    "Domain": "blog.cr.yp.to",
+    "Description": "Normal practice\nin deploying post-quantum cryptography is to deploy ECC+PQ.\nIETF's TLS working group is standardizing ECC+PQ.\nBut IETF management is also non-consensually ramming a particular NSA-driven document\nthrough the IETF process,\na \"non-hybrid\" document that adds just PQ as another TLS option."
+  },
+  {
+    "Title": "La Quadrature du Net (@LaQuadrature@mamot.fr)",
+    "Url": "https://mamot.fr/@LaQuadrature/115581775965025042",
+    "Timestamp": "2025-11-24T19:02:24",
+    "Domain": "mamot.fr",
+    "Description": "Attached: 1 image\n\nDeux articles du Parisien hier, suivis aujourd'hui d'un article du Figaro, ont lancé une offensive honteuse contre GrapheneOS, un système d'exploitation open-source pour téléphones, gratuit et accessible à toutes et tous. À La Quadrature, c'est un des outils que nous privilégions et recommandons régulièrement pour se protéger du tracking publicitaire ou des spywares. \n\nhttps://archive.is/20251119082524/https://www.leparisien.fr/faits-divers/google-pixel-et-grapheneos-la-botte-secrete-des-narcotrafiquants-pour-proteger-leurs-donnees-de-la-police-19-11-2025-NTGPQE4JCNGEHLF7XGIQ3CCA2I.php"
+  },
+  {
+    "Title": "Shai Hulud 2.0 Strikes Again: Malware Supply-Chain Attack Hits Zapier & ENS Domains",
+    "Url": "https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains",
+    "Timestamp": "2025-11-24T19:02:16",
+    "Domain": "www.aikido.dev",
+    "Description": "The threat actor behind “Shai Hulud 2.0” launched a new malware campaign compromising the supply chain of Zapier, ENS Domains and more — exposing secrets, injecting malicious code, and enabling widespread developer-environment takeover."
+  },
+  {
     "Title": "HelixGuard",
     "Url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
     "Timestamp": "2025-11-24T13:02:11",
