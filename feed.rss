@@ -7,6 +7,113 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introduction to radix (best cognate-tree grower, pre-α, dormant)</title>
+      <link>https://tsvibt.blogspot.com/2025/11/introduction-to-radix-best-cognate-tree.html</link>
+      <description>My old project, called radix , is still the best cognate-forest grower in the world, but unfortunately it's nowhere near good enough. It use...</description>
+      <guid>https://tsvibt.blogspot.com/2025/11/introduction-to-radix-best-cognate-tree.html</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>How you can save money on LLM tokens as a developer with MCP / ChatGPT apps</title>
+      <link>https://www.mikeborozdin.com/post/how-mcp-and-chatgpt-apps-can-save-you-tokens</link>
+      <description>That one weird trick... MCP receives input from an LLM, so you don't need to call it. Hence you save $$$.
+</description>
+      <category>ai</category>
+      <guid>https://www.mikeborozdin.com/post/how-mcp-and-chatgpt-apps-can-save-you-tokens</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are conference reviewers harsher when they have a submission of their own?</title>
+      <link>https://johnwickerson.wordpress.com/2025/11/19/are-conference-reviewers-harsher-when-they-have-a-submission-of-their-own/</link>
+      <description>My area of academia runs mainly on conferences, as opposed to journals. This means that a few times each year, hundreds of researchers simultaneously submit papers about their latest and greatest p…</description>
+      <guid>https://johnwickerson.wordpress.com/2025/11/19/are-conference-reviewers-harsher-when-they-have-a-submission-of-their-own/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Work, Woodlands, and Geocaches</title>
+      <link>https://sjg.io/writing/work-woodlands-and-geocaches/</link>
+      <description>When work expands to fill every gap, you stop noticing how much you are giving up. Here's how I learned to find hobbies that actually pull you out of work.</description>
+      <guid>https://sjg.io/writing/work-woodlands-and-geocaches/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let’s Focus on Things You Can Control</title>
+      <link>https://ramezanpour.net/post/2025/11/22/worry-about-things-you-can-change</link>
+      <description>News websites — and certain people — can make you worry about everything. The moment you open a news site or talk to them, you start feeling anxious about things far outside your control. Whether it’s new workplace rules or world events, many of these sources of information are unhelpful, if not harmful.</description>
+      <guid>https://ramezanpour.net/post/2025/11/22/worry-about-things-you-can-change</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tinkering with Generative UI</title>
+      <link>https://pranavc28.github.io/blog/posts/generative-ui-tinker/</link>
+      <description>“Form and function should be one, joined in a spiritual union” - Frank Lloyd Wright
+Research code: https://github.com/pranavc28/generative-ui Dataset: https://huggingface.co/datasets/cfahlgren1/react-code-instructions/ Purpose This blog explores how I fine-tuned Qwen, Qwen/Qwen3-30B-A3B, an open source model producing React code for a fraction of the cost of any of the top-tier AI research labs. I used Tinker to fine-tune my own LLM, a product released by the team at Thinking Machines Lab.
+It did a great job, and produced generally usable React code at a better level that I expected it to from an online dataset.</description>
+      <category>typescript</category>
+      <category>vscode</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://pranavc28.github.io/blog/posts/generative-ui-tinker/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Indie, Alone, and Figuring It Out</title>
+      <link>https://danijelavrzan.com/posts/2025/11/indie-dev/</link>
+      <description>Going indie looks like freedom from the outside. But once you’re in it, you face loneliness, pressure, constant decisions, user feedback, and all the invisible work no one warns you about. This is what the journey feels like, and why it’s still worth it.</description>
+      <author> (Danijela Vrzan)</author>
+      <category>ai</category>
+      <guid>https://danijelavrzan.com/posts/2025/11/indie-dev/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Armin is wrong and here's why</title>
+      <link>https://mariozechner.at/posts/2025-11-22-armin-is-wrong/</link>
+      <description>A rambling rebuttal to Armin's claim that LLM APIs are a state synchronization problem.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://mariozechner.at/posts/2025-11-22-armin-is-wrong/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Surprisingly, Emacs on Android is pretty good | Kristoffer Balintona</title>
+      <link>https://kristofferbalintona.me/posts/202505291438/</link>
+      <description>Musings</description>
+      <category>android</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://kristofferbalintona.me/posts/202505291438/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dolev Hadar</title>
+      <link>https://www.dlvhdr.me/posts/support-oss</link>
+      <description>Dolev Hadar</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://www.dlvhdr.me/posts/support-oss</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Got Every Job Without an Interview</title>
+      <link>https://manthanguptaa.in/posts/proof_of_work/</link>
+      <description>I have never relied on traditional interview processes to get a job. No DSA rounds, no system design grilling, no multi-step loops. Almost every role I have landed came through a single conversation focused entirely on the projects I had built.
+The reason is simple: proof of work makes interviews optional.
+I didn’t come from a big-name college. There was no built-in reputation attached to where I studied, and no advantage from well known tags like IIT, GSOC, or Big Tech internships.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://manthanguptaa.in/posts/proof_of_work/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Quest to Find the Perfect Self-Hosted Notes App</title>
+      <link>https://dhruvahuja.me/posts/choosing-notes-app/</link>
+      <description>My back-and-forth journey to go self-hosted with my notes.</description>
+      <category>git</category>
+      <category>android</category>
+      <guid>https://dhruvahuja.me/posts/choosing-notes-app/</guid>
+      <pubDate>Mon, 24 Nov 2025 01:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Racket v9.0</title>
       <link>https://blog.racket-lang.org/2025/11/racket-v9-0.html</link>
       <description>_posted by Stephen De Gabrielle and John Clements_  We are pleased to announce Racket v9.0 is now available from https://download.racket-lang.org/.  **Racket 9.0 is here!**  A major release is always exciting and Racket 9.0 is no exception in that it intr...</description>
@@ -89,86 +196,6 @@ my parents were not a love match. at 27 and 26, they were e...</description>
       <category>python</category>
       <guid>https://iwriteaboutcode.blogspot.com/2025/11/after-15-years-i-have-finally-reached.html</guid>
       <pubDate>Sun, 23 Nov 2025 05:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Speed Up Your Claude Code Experience with Slash Commands | alexop.dev</title>
-      <link>https://alexop.dev/posts/claude-code-slash-commands-guide/</link>
-      <description>Learn how to transform Claude Code from a chatbot into a deterministic engine using Slash Commands. This guide covers the technical setup and a complete 'Full Circle' workflow that automates your entire feature lifecycle.</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://alexop.dev/posts/claude-code-slash-commands-guide/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to work with product: To what port do you sail?</title>
-      <link>https://blog.nilenso.com/blog/2025/11/21/how-to-work-with-product-towards-what-port-do-you-sail/</link>
-      <description>Srihari Sriraman
-        
-      
-      
-    
-    
-      
-      
-         ...</description>
-      <guid>https://blog.nilenso.com/blog/2025/11/21/how-to-work-with-product-towards-what-port-do-you-sail/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Fermi Paradox Just From Rarity</title>
-      <link>https://win-vector.com/2025/11/22/the-fermi-paradox-just-from-rarity/</link>
-      <description>Sabine Hossenfelder’s video “Odds Are The Universe is Full Of Intelligent Life, Mathematician Finds” recently pointed out a new paper on the Fermi paradox: Antal Veres “The …</description>
-      <guid>https://win-vector.com/2025/11/22/the-fermi-paradox-just-from-rarity/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let Me Opt In, Not Out | Aleksandr Hovhannisyan</title>
-      <link>https://www.aleksandrhovhannisyan.com/blog/let-me-opt-in-not-out/</link>
-      <description>Why should I have to opt out of something I never agreed to in the first place?</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.aleksandrhovhannisyan.com/blog/let-me-opt-in-not-out/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why and How You Should Persist Your OpenWrt Logs?</title>
-      <link>https://blog.mohammad-abbasi.me/en/p/why-and-how-you-should-persist-your-openwrt-logs/</link>
-      <description>Stop losing your OpenWrt router logs on every reboot, Learn why it is crucial to persist your OpenWrt logs and explore various methods to achieve this, from local storage solutions to cloud-based log management services.</description>
-      <guid>https://blog.mohammad-abbasi.me/en/p/why-and-how-you-should-persist-your-openwrt-logs/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Time in C++: Understanding &lt;chrono&gt; and the Concept of Clocks</title>
-      <link>https://www.sandordargo.com/blog/2025/11/19/clocks-part-1-intro-to-chrono</link>
-      <description>Let’s start a new series! A few months ago, I began working on tasks related to instrumentation and logging, and I had to deal with timestamps, different clock types, and more. Some parts felt a bit cryptic at first, so I decided to dig deeper into the topic. As I’ve shared many times during the past eight years, the main goal of this blog is to document what I learn — hence this new series on clocks and time.</description>
-      <guid>https://www.sandordargo.com/blog/2025/11/19/clocks-part-1-intro-to-chrono</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Full Text of the Wyoming GRANITE Act</title>
-      <link>https://prestonbyrne.com/2025/11/19/the-full-text-of-the-wyoming-granite-act/</link>
-      <description>The Wyoming GRANITE Act, the first foreign censorship shield bill ever conceived in the history of the United States, was filed for numbering in the State of Wyoming today by Representative Daniel …</description>
-      <guid>https://prestonbyrne.com/2025/11/19/the-full-text-of-the-wyoming-granite-act/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trying out C++26 executors · Mathieu Ropert</title>
-      <link>https://mropert.github.io/2025/11/21/trying_out_stdexec/</link>
-      <description>I wanted my program to boot up faster so I tried to multithread it with both executors and the more classic TBB.</description>
-      <category>gaming</category>
-      <category>vscode</category>
-      <guid>https://mropert.github.io/2025/11/21/trying_out_stdexec/</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>You're Senior After 6 Years. Now What?</title>
-      <link>https://hugo.writizzy.com/senior-with-6-years-of-experience-what-s-next</link>
-      <description>Staff, Principal, Fellow: what's the career path after Senior? Dual ladder, impact levels, and how developers drive real value through Discovery and Delivery at Malt.</description>
-      <category>git</category>
-      <guid>https://hugo.writizzy.com/senior-with-6-years-of-experience-what-s-next</guid>
-      <pubDate>Sun, 23 Nov 2025 01:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
