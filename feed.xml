@@ -7,6 +7,218 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can Transformers Do Everything, and Undo It Too?</title>
+      <link>https://astro-eric.github.io/blogs/surjective/</link>
+      <description>Blog</description>
+      <category>ai</category>
+      <guid>https://astro-eric.github.io/blogs/surjective/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build a Signboard</title>
+      <link>https://annanay.dev/build-a-signboard/</link>
+      <description>Staff Software Engineer, Grafana Labs</description>
+      <guid>https://annanay.dev/build-a-signboard/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data Point: ChatGPT vs. StackOverflow vs. Reddit in helping a guy with a tricky web development problem | Pasta's Corner</title>
+      <link>https://mmkthecoolest.gitlab.io/blog/2025-11-23-data-point-chatgpt-vs-stackoverflow-vs-reddit-in-helping-a-guy-with-a-tricky-web-development-problem/</link>
+      <description>What was supposed to be a simple web development problem to solve turned into an adventure in seeking help and learning some new stuff</description>
+      <category>web</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://mmkthecoolest.gitlab.io/blog/2025-11-23-data-point-chatgpt-vs-stackoverflow-vs-reddit-in-helping-a-guy-with-a-tricky-web-development-problem/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Someone At YouTube Needs Glasses: The Prophecy Has Been Fulfilled</title>
+      <link>https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html</link>
+      <description>In my recent analysis of YouTube’s information density I included the results from an advanced statistical analysis on the number of videos present on the home page, which projected that around May 2026 there would only be one lonely video on the home screen.</description>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Modular Code with Reusable Standalone Modules</title>
+      <link>https://massimo-nazaria.github.io/reusable-standalone-modules.html</link>
+      <description>Let’s explore how reusable standalone modules help us implement modular software in a practical and convenient way!</description>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://massimo-nazaria.github.io/reusable-standalone-modules.html</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>aadil pickle</title>
+      <link>https://www.aadillpickle.com/blog/how-to-sell-to-engineers</link>
+      <description>aadil pickle's internet home</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <guid>https://www.aadillpickle.com/blog/how-to-sell-to-engineers</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents Should Be More Opinionated | vtrivedy</title>
+      <link>https://www.vtrivedy.com/posts/agents-should-be-more-opinionated/</link>
+      <description>The best agent products aren't the most flexible, they're the most opinionated. Learn why agents need fewer knobs, not more, and how to design around model intelligence spikes.</description>
+      <category>apple</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.vtrivedy.com/posts/agents-should-be-more-opinionated/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile browsers see telephone numbers everywhere</title>
+      <link>https://sethmlarson.dev/mobile-browsers-and-telephone-numbers</link>
+      <description>Just like Excel seeing everything as a date,
+mobile browsers automatically interpret many numbers as telephone
+numbers. When detected, mobile browsers replace the text in the HTML with
+a clickable ...</description>
+      <category>web</category>
+      <guid>https://sethmlarson.dev/mobile-browsers-and-telephone-numbers</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Return of the Viva</title>
+      <link>https://ednutting.com/2025/11/25/return-of-the-viva.html</link>
+      <description>Back in 2018, I was a teaching assistant at the University of Bristol (UK) on the 1st-year Introduction to Computer Architecture course. Aside from coursework and exams, the final grade included a viva assessment. Three or four students would be assessed by one or two lecturers in a viva: an oral examination similar to a kind of interview. In the age of AI, will we return to this style of examination?
+</description>
+      <author> (Ed Nutting)</author>
+      <category>ai</category>
+      <guid>https://ednutting.com/2025/11/25/return-of-the-viva.html</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs in predicaments</title>
+      <link>https://dxdt.ch/blog.php?blog=predicaments</link>
+      <description>18.11.2025 — about 5 minutes if you skim</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://dxdt.ch/blog.php?blog=predicaments</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context privateering: debugging custom instructions like a pirate</title>
+      <link>https://huonw.github.io/blog/2025/11/piraite/</link>
+      <description>Adding "always speak like a pirate" to instructions for an AI tool is a helpful generic trick for debugging whether those instructions are being read correctly.</description>
+      <category>ai</category>
+      <guid>https://huonw.github.io/blog/2025/11/piraite/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to deploy ChatGPT on your own hardware, the hard way</title>
+      <link>https://www.natebrake.com/blog/brake-chat</link>
+      <description>How I stitched together LM Studio, OpenWebUI, Cloudflare, and Google OAuth to run "BrakeChat" entirely on my own hardware.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>apple</category>
+      <category>cloud</category>
+      <guid>https://www.natebrake.com/blog/brake-chat</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Host a Blog on a Subdirectory instead of a Subdomain with Cloudflare Workers | David Ma</title>
+      <link>https://www.davidma.co/blog/2025-11-14-host-your-blog-on-a-subdirectory/</link>
+      <description>A guide to setting up your blog on a subdirectory for better SEO and user experience.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://www.davidma.co/blog/2025-11-14-host-your-blog-on-a-subdirectory/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>How do we keep apps maintained on Flathub? (or building a more respectful App Store)</title>
+      <link>https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/</link>
+      <description>There have been a few discussions about what Flathub should do to push developers to maintain their apps on the latest versions of the published runtimes. But most of those lack important details around how this would actually happen. I will not discuss in this post the technical means that are already in place to help developers keep their dependencies up to date. See the Flathub Safety: A Layered Approach from Source to User blog post instead.  The main thing to have in mind is that Flathub is not a commercial entity like other app stores. Right now, developers that put their apps on Flathub are (in the vast majority) not paid to do so and most apps are under an open source license.  So any discussion that starts with “developers should update to the latest runtime or have their apps removed” directly contradicts the social contract here (which is also in the terms of most open source licenses): You get something for free so don’t go around making demands unless you want to look like a jerk. We are not going to persuade overworked and generally volunteer developers to update their apps by putting pressure on them to do more work. It’s counter productive.  With that out of the way, how do we gently push developers to keep their apps up to date and using the latest runtime? Well, we can pay them. Flathub wants to setup a way to offer payments for applications but unfortunately it’s not ready yet. So in the meantime, the best option is to donate to the projects or developers working on those applications.  And make it very easy for users to do so.  Now we are in luck, this is exactly what some folks have been working on recently. Bazaar is a Flathub first app store that makes it really easy to donate to the apps that you have installed.  But we also need to make sure that the developers actually have something set up to get donations.  And this is were the flatpak-tracker project comes in. This project looks for the donation links in a collection of Flatpaks and checks if there is one and if the website is still up. If it’s not, it opens issues in the repo for tracking and fixing. It also checks if those apps are using the latest runtimes and open issues for that as well (FreeDesktop, GNOME, KDE).  If you want to help, you can take a look at this repo for apps that you use and see if things needs to be fixed. Then engage and suggest fixes upstream. Some of this work does not require complex technical skills so it’s a really good way to start contributing. This is probably one of the most direct way to enable developers to receive money from their users, via donations.  Updating the runtime used by an app usually requires more work and more testing, but it’s a great way to get started and to contribute to your favorite apps. And this is not just about Flathub: updating a Qt5 app to run with Qt6, or a GNOME 48 app to 49, will help everyone using the app.  We want to build an App Store that is respectful of the time developers put into developing, submitting, publishing, testing and maintaining their apps.  We don’t want to replicate the predatory model of other app stores.  Will some apps be out of date sometimes? Probably, but I would rather have a sustainable community than an exploiting one.</description>
+      <author> (Timothée Ravier)</author>
+      <category>linux</category>
+      <guid>https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use 20x less peak RAM with dp_knapsack_sliding_hirschberg, a new activation memory budget solver for PyTorch</title>
+      <link>https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg</link>
+      <description>TL;DR: If you use a default
+      torch._functorch.config.activation_memory_budget_solver=dp, you can change it to dp_knapsack_sliding_hirschberg
+      and decrease your peak RAM usage during memory planning by a factor of 20.
+      Currently it's only available when you compile from source (main branch), because it's not released yet</description>
+      <category>python</category>
+      <guid>https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg</guid>
+      <pubDate>Tue, 25 Nov 2025 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I build internal developer tools inside a small team</title>
+      <link>https://patrickm.de/building-internal-dev-tools/</link>
+      <description>There are thousands of resources on how to build good software products. When I was developing my first SaaS product, LemonSpeak, I often found myself in the same loop: Should I implement a new feature or improve an existing one?
+
+The question seems easy - but it isn't. I very</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://patrickm.de/building-internal-dev-tools/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>What They Don't Tell You About Maintaining an Open Source Project</title>
+      <link>https://andrej.sh/blog/maintaining-open-source-project/</link>
+      <description>i built kaneo.app - an open source, self-hosted kanban board. turns out shipping code is the easy part. here's what maintaining it actually looks like.</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <guid>https://andrej.sh/blog/maintaining-open-source-project/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>What a CTO should know about tech | deadSimpleTech</title>
+      <link>https://deadsimpletech.com/blog/cto_tech_capabilities</link>
+      <description>Clausewitz (and I don't think Jomini particularly disagrees with him on this point) stresses understanding the capabilities of various units and weapons systems. What this means is that while you don't need to know how a cannon was made, how to ride a horse or the fine details of sabre drill, you need to understand what a cavalry squadron can and can't do like the back of your hand. You need to understand which of your divisions are hardened veterans and which are more likely to break when faced with undue strain. You need to know the range of your muskets and your field artillery, the capabilities of different kinds of shot and how your different arms need to be supported.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://deadsimpletech.com/blog/cto_tech_capabilities</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extracting Reddit Data with AI</title>
+      <link>https://blog.hakanserce.com/post/reddit-ai-integration/</link>
+      <description>A few days ago, I stumbled upon a Reddit thread packed with API recommendations. The thread was long, detailed, and exactly what I needed—except I didn’t want to manually comb through dozens of comments. I figured this was the perfect job for AI. Spoiler alert: it wasn’t as straightforward as I expected.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://blog.hakanserce.com/post/reddit-ai-integration/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reproducing the results of a computational life experiment, Part 1</title>
+      <link>https://blog.ricky0123.com/blog/complexity_v2/</link>
+      <description>This is a post about a computational life experiment.</description>
+      <guid>https://blog.ricky0123.com/blog/complexity_v2/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Actually Makes You Senior</title>
+      <link>https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/</link>
+      <description>The one skill that separates senior engineers from everyone else isn’t technical. It’s the ability to take ambiguous problems and make them concrete.Retry</description>
+      <category>vscode</category>
+      <guid>https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Local-First Comeback You Didn’t See Coming</title>
+      <link>https://shivekkhurana.com/blog/sync-engines/</link>
+      <description>Linear’s Secret Weapon and The Quiet Rebellion Against Slow and Stale Web Apps</description>
+      <author> (Shivek Khurana)</author>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://shivekkhurana.com/blog/sync-engines/</guid>
+      <pubDate>Tue, 25 Nov 2025 23:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Google Antigravity Exfiltrates Data</title>
       <link>https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data</link>
       <description>An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE.</description>
