@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Introducing advanced tool use on the Claude Developer Platform",
+    "Url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "Timestamp": "2025-11-25T00:02:09",
+    "Domain": "www.anthropic.com",
+    "Description": "Claude can now discover, learn, and execute tools dynamically to enable agents that take action in the real world. Here’s how.",
+    "Confidence": 0.9943557
+  },
+  {
     "Title": "Fifteen Years",
     "Url": "https://xkcd.com/3172/",
     "Timestamp": "2025-11-24T22:02:01",
@@ -198,21 +206,5 @@
     "Domain": "dhruvahuja.me",
     "Description": "My back-and-forth journey to go self-hosted with my notes.",
     "Confidence": 0.9712064
-  },
-  {
-    "Title": "Racket v9.0",
-    "Url": "https://blog.racket-lang.org/2025/11/racket-v9-0.html",
-    "Timestamp": "2025-11-24T00:02:13",
-    "Domain": "blog.racket-lang.org",
-    "Description": "_posted by Stephen De Gabrielle and John Clements_  We are pleased to announce Racket v9.0 is now available from https://download.racket-lang.org/.  **Racket 9.0 is here!**  A major release is always exciting and Racket 9.0 is no exception in that it intr...",
-    "Confidence": 0.9053911
-  },
-  {
-    "Title": "One year as full-time solo game dev",
-    "Url": "https://simondalvai.org/blog/one-year-solodev/",
-    "Timestamp": "2025-11-24T00:02:08",
-    "Domain": "simondalvai.org",
-    "Description": "Experience and tips from my first year as a solo developer, working full time.",
-    "Confidence": 0.9759635
   }
 ]

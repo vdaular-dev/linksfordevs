@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing advanced tool use on the Claude Developer Platform</title>
+      <link>https://www.anthropic.com/engineering/advanced-tool-use</link>
+      <description>Claude can now discover, learn, and execute tools dynamically to enable agents that take action in the real world. Here’s how.</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/engineering/advanced-tool-use</guid>
+      <pubDate>Tue, 25 Nov 2025 00:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Fifteen Years</title>
       <link>https://xkcd.com/3172/</link>
       <description></description>
@@ -275,23 +286,6 @@ I didn’t come from a big-name college. There was no built-in reputation attach
       <category>android</category>
       <guid>https://dhruvahuja.me/posts/choosing-notes-app/</guid>
       <pubDate>Mon, 24 Nov 2025 01:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Racket v9.0</title>
-      <link>https://blog.racket-lang.org/2025/11/racket-v9-0.html</link>
-      <description>_posted by Stephen De Gabrielle and John Clements_  We are pleased to announce Racket v9.0 is now available from https://download.racket-lang.org/.  **Racket 9.0 is here!**  A major release is always exciting and Racket 9.0 is no exception in that it intr...</description>
-      <category>web</category>
-      <guid>https://blog.racket-lang.org/2025/11/racket-v9-0.html</guid>
-      <pubDate>Mon, 24 Nov 2025 00:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>One year as full-time solo game dev</title>
-      <link>https://simondalvai.org/blog/one-year-solodev/</link>
-      <description>Experience and tips from my first year as a solo developer, working full time.</description>
-      <category>gaming</category>
-      <category>visualstudio</category>
-      <guid>https://simondalvai.org/blog/one-year-solodev/</guid>
-      <pubDate>Mon, 24 Nov 2025 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
