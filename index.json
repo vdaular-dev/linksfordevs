@@ -1,5 +1,197 @@
 [
   {
+    "Title": "Cancer",
+    "Url": "https://jacobbrazeal.wordpress.com/2025/11/24/cancer/",
+    "Timestamp": "2025-11-25T02:03:51",
+    "Domain": "jacobbrazeal.wordpress.com",
+    "Description": "2025 rolls in with the shadow of a pending biopsy. I forget about it for a little while. They make you wait so very long to confirm anything. I doubt that anything could be seriously wrong. What ar…",
+    "Confidence": 0.93247604
+  },
+  {
+    "Title": "jott - five_times_faster",
+    "Url": "https://jott.live/markdown/five_times_faster",
+    "Timestamp": "2025-11-25T02:03:48",
+    "Domain": "jott.live",
+    "Description": "by @bwasti",
+    "Confidence": 0.7658203
+  },
+  {
+    "Title": "Different Models, Same Slop?",
+    "Url": "https://www.jerpint.io/blog/different-models-same-slop/",
+    "Timestamp": "2025-11-25T02:03:44",
+    "Domain": "www.jerpint.io",
+    "Description": "Are Big Lab Models Converging to the Same Slop?",
+    "Confidence": 0.9734433
+  },
+  {
+    "Title": "A Lightweight Way to Guard Against Prompt Injection",
+    "Url": "https://andersmyrmel.com/blog/a-lightweight-way-to-guard-against-prompt-injection/",
+    "Timestamp": "2025-11-25T02:03:40",
+    "Domain": "andersmyrmel.com",
+    "Description": "Simple, composable guards for safer prompts and cleaner code",
+    "Confidence": 0.99306196
+  },
+  {
+    "Title": "With Love to KDE: Take a Moment",
+    "Url": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
+    "Timestamp": "2025-11-25T02:03:37",
+    "Domain": "korcenji.neocities.org",
+    "Description": "I've been using KDE Plasma for four and a half years. The community is sweet and the software is stellar, and I see a bright future for it. I want it to be the best it can be! So, I'd like to talk about a small incident that I want KDE to lean away from.",
+    "Confidence": 0.9662502
+  },
+  {
+    "Title": "Demystifying Determinism in Durable Execution — Jack Vanlightly",
+    "Url": "https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution",
+    "Timestamp": "2025-11-25T02:03:34",
+    "Domain": "jack-vanlightly.com",
+    "Description": "Determinism is a key concept to understand when writing code using durable execution frameworks such as Temporal, Restate, DBOS, and Resonate. If you read the docs you see that some parts of your code must be deterministic while other parts do not have to be.&nbsp; This can be confusing to a dev",
+    "Confidence": 0.99134356
+  },
+  {
+    "Title": "Prosody XMPP server in the home lab",
+    "Url": "https://box.matto.nl/prosody-xmpp-server-in-the-home-lab.html",
+    "Timestamp": "2025-11-25T02:03:30",
+    "Domain": "box.matto.nl",
+    "Description": "Posted: 2025-11-23",
+    "Confidence": 0.99680847
+  },
+  {
+    "Title": "Django spotlight: SimpleLazyObject & Co.",
+    "Url": "https://roam.be/notes/2025/django-spotlight-simplelazyobject-co/",
+    "Timestamp": "2025-11-25T02:03:26",
+    "Domain": "roam.be",
+    "Description": "Turning the spotlight to Django's lesser known useful tidbits: SimpleLazyObject, lazy and examples showing you how to defer work until you actually need it.",
+    "Confidence": 0.9951051
+  },
+  {
+    "Title": "Result is the most boring sum type",
+    "Url": "https://blog.ploeh.dk/2025/11/24/result-is-the-most-boring-sum-type/",
+    "Timestamp": "2025-11-25T02:03:21",
+    "Domain": "blog.ploeh.dk",
+    "Description": "If you don't see the point, you may be looking in the wrong place.",
+    "Confidence": 0.9905562
+  },
+  {
+    "Title": "Three Months",
+    "Url": "https://sef.kloninger.com/posts/three-months/",
+    "Timestamp": "2025-11-25T02:03:17",
+    "Domain": "sef.kloninger.com",
+    "Description": "I've been off work for about three months now. It's a\ngood occasion to take stock of how that's going. In a word, it's been great.\n\n\n\nI'm surprised how much lighter my mood is. It feels like a weight ",
+    "Confidence": 0.79357296
+  },
+  {
+    "Title": "Claude Agent Skills: A First Principles Deep Dive",
+    "Url": "https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/",
+    "Timestamp": "2025-11-25T02:03:13",
+    "Domain": "leehanchung.github.io",
+    "Description": "Technical deep dive into Claude Agent Skills' prompt-based meta-tool architecture. Learn how context injection design, two-message patterns, LLM-based routin...",
+    "Confidence": 0.9976372
+  },
+  {
+    "Title": "Joint-Embedding vs Reconstruction: When Should You Use Each?",
+    "Url": "https://huguesva.github.io/blog/2025/je-vs-reconstruction/",
+    "Timestamp": "2025-11-25T02:03:10",
+    "Domain": "huguesva.github.io",
+    "Description": "A theoretical analysis revealing when joint-embedding methods outperform reconstruction-based SSL, and vice versa.",
+    "Confidence": 0.98290396
+  },
+  {
+    "Title": "Jacob Personal",
+    "Url": "https://www.jacobjacquet.com/posts/reddit-marketing-strategy",
+    "Timestamp": "2025-11-25T02:03:06",
+    "Domain": "www.jacobjacquet.com",
+    "Description": "",
+    "Confidence": 0.8542438
+  },
+  {
+    "Title": "Not knowing is part of the path - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/not-knowing-is-part-of-the-path/",
+    "Timestamp": "2025-11-25T02:03:02",
+    "Domain": "kudmitry.com",
+    "Description": "I've noticed an interesting trend recently: everyone wants answers.\n\nNo matter where you look, people just want to know the answer: to life, to business, to lov...",
+    "Confidence": 0.84857064
+  },
+  {
+    "Title": "An entire PS5 now costs less than 64GB of DDR5 memory, even after a discount — simple memory kit jumps to $600 due to DRAM shortage, and it's expected to get worse into 2026",
+    "Url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+    "Timestamp": "2025-11-25T02:02:57",
+    "Domain": "www.tomshardware.com",
+    "Description": "You can spend $50 more to get an entire PS5 Pro.",
+    "Confidence": 0.523739
+  },
+  {
+    "Title": "Technical Deflation — Benjamin Anderson",
+    "Url": "https://benanderson.work/blog/technical-deflation/",
+    "Timestamp": "2025-11-25T02:02:48",
+    "Domain": "benanderson.work",
+    "Description": "Let's buy the fridge next month, honey.",
+    "Confidence": 0.98011816
+  },
+  {
+    "Title": "How to implement action sequences and cutscenes",
+    "Url": "https://edw.is/how-to-implement-action-sequences-and-cutscenes/",
+    "Timestamp": "2025-11-25T02:02:43",
+    "Domain": "edw.is",
+    "Description": "The personal website of Elias Daler about programming, technology and videogames",
+    "Confidence": 0.9979368
+  },
+  {
+    "Title": "Evolving Narratives - Trimming Circles",
+    "Url": "https://futurisold.github.io/2025-11-23-evolving-narratives/",
+    "Timestamp": "2025-11-25T02:02:38",
+    "Domain": "futurisold.github.io",
+    "Description": "",
+    "Confidence": 0.7600507
+  },
+  {
+    "Title": "The age of personalized software",
+    "Url": "https://samsaffron.com/archive/2025/11/23/the-age-of-personalized-software",
+    "Timestamp": "2025-11-25T02:02:34",
+    "Domain": "samsaffron.com",
+    "Description": "Sam's Spot - Sam saffron's web log",
+    "Confidence": 0.9832302
+  },
+  {
+    "Title": "Typography in the wild",
+    "Url": "https://www.jaydip.me/blog/typography-in-the-wild",
+    "Timestamp": "2025-11-25T02:02:30",
+    "Domain": "www.jaydip.me",
+    "Description": "how we feel emotions with words",
+    "Confidence": 0.9376219
+  },
+  {
+    "Title": "I wrote an EF Core Provider",
+    "Url": "https://anasismail.com/i-wrote-an-ef-core-provider/",
+    "Timestamp": "2025-11-25T02:02:27",
+    "Domain": "anasismail.com",
+    "Description": "EF Core Database Provider for Azure Data Explorer (Kusto). GitHub     The project that I work on has a lot of data, in a lot of entities with a lot of fields, all exposed through an OData API. Naturally, that compels us to know exactly what kind of query shapes our users may be interested in and to create optimal indexes for them beforehand. However, there’s literally hundreds of fields and creating an index for every single one of them is simply not an option. Timeouts are great for protecting the database from maliciously demanding queries but they don’t offer much in the realm of user-experience. We need to allow clients to send arbitrary queries and we need them to be fast regardless of whether we’re expecting said query or not. It was clear to me that we needed a solution and not an optimization and so I considered exploring Big Data solutions and columnar databases. Since our infrastructure is primarily Azure-based, my boss suggested that we explore Azure Data Explorer (ADX) aka Kusto. In a couple of days, ingestion was complete and a little testing showed promising performance so we decided to explore our options for integration. Sadly, Kusto not only doesn’t have an EF Core provider package, the T-SQL support, although well-marketed, was poorly performing. It was very clear to us that this path would require a little investment. After discovering that EFCore.Snowflake, another library/database pair we considered using, is developed and maintained by one person alone, I felt motivated to take a crack at writing a database provider. I mean, how hard could it be in today’s AI powered era?",
+    "Confidence": 0.9850889
+  },
+  {
+    "Title": "'My Body Is My Passport; Verify Me': FIDO Auth via Subdermal JavaCard Platform | Jack's Brain | the blog of Jack Kingsman",
+    "Url": "https://jacksbrain.com/2025/11/my-body-is-my-passport-verify-me-fido-auth-via-subdermal-javacard-platform/",
+    "Timestamp": "2025-11-25T02:02:24",
+    "Domain": "jacksbrain.com",
+    "Description": "The blog of Jack Kingsman, a Site Reliability Engineer and geek living in Seattle.",
+    "Confidence": 0.9719826
+  },
+  {
+    "Title": "LLM APIs are a Synchronization Problem",
+    "Url": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
+    "Timestamp": "2025-11-25T02:02:20",
+    "Domain": "lucumr.pocoo.org",
+    "Description": "Maybe the LLM message APIs should be rethought as a synchronization problem.",
+    "Confidence": 0.980965
+  },
+  {
+    "Title": "How LLM Inference Works",
+    "Url": "https://arpitbhayani.me/blogs/how-llm-inference-works/",
+    "Timestamp": "2025-11-25T02:02:16",
+    "Domain": "arpitbhayani.me",
+    "Description": "When you enter a prompt into an LLM, the model converts your text into numbers, processes them, and returns a response one token at a time. In this article, we go through the journey of LLM inference and see how it works.",
+    "Confidence": 0.9950479
+  },
+  {
     "Title": "Introducing advanced tool use on the Claude Developer Platform",
     "Url": "https://www.anthropic.com/engineering/advanced-tool-use",
     "Timestamp": "2025-11-25T00:02:09",
