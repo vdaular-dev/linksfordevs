@@ -320,43 +320,5 @@ Computerphile is a sister project to Brady Haran's Numberphile. See the full lis
       <guid>https://youtube.com/watch?v=w3_0x6oaDmI</guid>
       <pubDate>Mon, 24 Nov 2025 20:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>NSA and IETF, part 3</title>
-      <link>https://blog.cr.yp.to/20251123-dodging.html</link>
-      <description>Normal practice
-in deploying post-quantum cryptography is to deploy ECC+PQ.
-IETF's TLS working group is standardizing ECC+PQ.
-But IETF management is also non-consensually ramming a particular NSA-driven document
-through the IETF process,
-a "non-hybrid" document that adds just PQ as another TLS option.</description>
-      <category>encryption</category>
-      <category>vscode</category>
-      <guid>https://blog.cr.yp.to/20251123-dodging.html</guid>
-      <pubDate>Mon, 24 Nov 2025 19:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>La Quadrature du Net (@LaQuadrature@mamot.fr)</title>
-      <link>https://mamot.fr/@LaQuadrature/115581775965025042</link>
-      <description>Attached: 1 image
-
-Deux articles du Parisien hier, suivis aujourd'hui d'un article du Figaro, ont lancé une offensive honteuse contre GrapheneOS, un système d'exploitation open-source pour téléphones, gratuit et accessible à toutes et tous. À La Quadrature, c'est un des outils que nous privilégions et recommandons régulièrement pour se protéger du tracking publicitaire ou des spywares. 
-
-https://archive.is/20251119082524/https://www.leparisien.fr/faits-divers/google-pixel-et-grapheneos-la-botte-secrete-des-narcotrafiquants-pour-proteger-leurs-donnees-de-la-police-19-11-2025-NTGPQE4JCNGEHLF7XGIQ3CCA2I.php</description>
-      <category>android</category>
-      <guid>https://mamot.fr/@LaQuadrature/115581775965025042</guid>
-      <pubDate>Mon, 24 Nov 2025 19:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shai Hulud 2.0 Strikes Again: Malware Supply-Chain Attack Hits Zapier &amp; ENS Domains</title>
-      <link>https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains</link>
-      <description>The threat actor behind “Shai Hulud 2.0” launched a new malware campaign compromising the supply chain of Zapier, ENS Domains and more — exposing secrets, injecting malicious code, and enabling widespread developer-environment takeover.</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains</guid>
-      <pubDate>Mon, 24 Nov 2025 19:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
