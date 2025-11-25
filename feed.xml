@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Google Antigravity Exfiltrates Data</title>
+      <link>https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data</link>
+      <description>An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE.</description>
+      <category>ai</category>
+      <guid>https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data</guid>
+      <pubDate>Tue, 25 Nov 2025 21:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Orion 1.0 ✴︎ Browse Beyond</title>
+      <link>https://blog.kagi.com/orion</link>
+      <description>After six years of relentless development, *Orion for MacOS 1.0 is here*.</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://blog.kagi.com/orion</guid>
+      <pubDate>Tue, 25 Nov 2025 21:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Making Crash Bandicoot</title>
       <link>https://all-things-andy-gavin.com/video-games/making-crash/</link>
       <description>As one of the co-creators of Crash Bandicoot, I have been (slowly) writing a long series of posts on the making of everyone’s favorite orange marsupial. You can find them all below, so enjoy.…</description>
@@ -278,17 +297,6 @@ No matter where you look, people just want to know the answer: to life, to busin
       <category>javascript</category>
       <guid>https://xkcd.com/3172/</guid>
       <pubDate>Mon, 24 Nov 2025 22:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!</title>
-      <link>https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source</link>
-      <description>Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!</description>
-      <author> (Eric Migicovsky)</author>
-      <category>apple</category>
-      <category>android</category>
-      <category>linux</category>
-      <guid>https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source</guid>
-      <pubDate>Mon, 24 Nov 2025 21:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

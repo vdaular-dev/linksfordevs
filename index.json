@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Google Antigravity Exfiltrates Data",
+    "Url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "Timestamp": "2025-11-25T21:02:16",
+    "Domain": "www.promptarmor.com",
+    "Description": "An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE.",
+    "Confidence": 0.9879726
+  },
+  {
+    "Title": "Orion 1.0 ✴︎ Browse Beyond",
+    "Url": "https://blog.kagi.com/orion",
+    "Timestamp": "2025-11-25T21:02:12",
+    "Domain": "blog.kagi.com",
+    "Description": "After six years of relentless development, *Orion for MacOS 1.0 is here*.",
+    "Confidence": 0.98950046
+  },
+  {
     "Title": "Making Crash Bandicoot",
     "Url": "https://all-things-andy-gavin.com/video-games/making-crash/",
     "Timestamp": "2025-11-25T18:02:33",
@@ -238,13 +254,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
-    "Url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
-    "Timestamp": "2025-11-24T21:02:18",
-    "Domain": "ericmigi.com",
-    "Description": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
-    "Confidence": 0.9980144
   }
 ]
