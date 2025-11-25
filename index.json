@@ -270,29 +270,5 @@
     "Domain": "www.aikido.dev",
     "Description": "The threat actor behind “Shai Hulud 2.0” launched a new malware campaign compromising the supply chain of Zapier, ENS Domains and more — exposing secrets, injecting malicious code, and enabling widespread developer-environment takeover.",
     "Confidence": 0.9953615
-  },
-  {
-    "Title": "HelixGuard",
-    "Url": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
-    "Timestamp": "2025-11-24T13:02:11",
-    "Domain": "helixguard.ai",
-    "Description": "Supply chain security, vulnerability intelligence, and malware detection.",
-    "Confidence": 0.9439159
-  },
-  {
-    "Title": "\"Every Class Should Be Sealed in C#\"",
-    "Url": "https://youtube.com/watch?v=u79quQu4t_s",
-    "Timestamp": "2025-11-24T13:02:08",
-    "Domain": "youtube.com",
-    "Description": "Get 40% off Dometrain with code BLACKFRIDAY25: https://dometrain.com/?ref=nick-chapsas&promo=youtube&coupon_code=BLACKFRIDAY25\n\nHello, everybody. I'm Nick, and in this video, I want to talk about the suggestion of sealing every class in C# and what benefits such a thing might come with.\n\nCheck out my workshops: https://dometrain.com/workshops/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
-    "Confidence": 0.9940063
-  },
-  {
-    "Title": "Spatial hashing for raytraced ambient occlusion",
-    "Url": "https://interplayoflight.wordpress.com/2025/11/23/spatial-hashing-for-raytraced-ambient-occlusion/",
-    "Timestamp": "2025-11-24T13:02:06",
-    "Domain": "interplayoflight.wordpress.com",
-    "Description": "Subdividing a 3D space into cells or voxels and using positional and/or directional information to directly index into it is a popular method to store and access local data, typically using 3D text…",
-    "Confidence": 0.99609125
   }
 ]
