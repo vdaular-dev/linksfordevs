@@ -414,13 +414,5 @@
     "Domain": "arpitbhayani.me",
     "Description": "When you enter a prompt into an LLM, the model converts your text into numbers, processes them, and returns a response one token at a time. In this article, we go through the journey of LLM inference and see how it works.",
     "Confidence": 0.9950479
-  },
-  {
-    "Title": "Introducing advanced tool use on the Claude Developer Platform",
-    "Url": "https://www.anthropic.com/engineering/advanced-tool-use",
-    "Timestamp": "2025-11-25T00:02:09",
-    "Domain": "www.anthropic.com",
-    "Description": "Claude can now discover, learn, and execute tools dynamically to enable agents that take action in the real world. Here’s how.",
-    "Confidence": 0.9943557
   }
 ]
