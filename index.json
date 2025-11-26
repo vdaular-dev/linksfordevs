@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Satellite Imagery",
+    "Url": "https://xkcd.com/3173/",
+    "Timestamp": "2025-11-26T21:02:10",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs” — abZ Global",
+    "Url": "https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus",
+    "Timestamp": "2025-11-26T21:02:06",
+    "Domain": "www.abzglobal.net",
+    "Description": "When two of the most influential people in AI both say that  today’s large language models are hitting their limits , it’s worth paying attention.  In a recent long-form interview,  Ilya Sutskever  – co-founder of OpenAI and now head of Safe Superintelligence Inc. – argued that the industry is movin",
+    "Confidence": 0.9568513
+  },
+  {
     "Title": "DOOMed to Fail: A Horror Story - CoRecursive Podcast",
     "Url": "https://corecursive.com/doomed-to-fail-with-burger-becky/",
     "Timestamp": "2025-11-26T20:02:09",
@@ -246,21 +262,5 @@
     "Domain": "shivekkhurana.com",
     "Description": "Linear’s Secret Weapon and The Quiet Rebellion Against Slow and Stale Web Apps",
     "Confidence": 0.9979251
-  },
-  {
-    "Title": "Google Antigravity Exfiltrates Data",
-    "Url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
-    "Timestamp": "2025-11-25T21:02:16",
-    "Domain": "www.promptarmor.com",
-    "Description": "An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE.",
-    "Confidence": 0.9879726
-  },
-  {
-    "Title": "Orion 1.0 ✴︎ Browse Beyond",
-    "Url": "https://blog.kagi.com/orion",
-    "Timestamp": "2025-11-25T21:02:12",
-    "Domain": "blog.kagi.com",
-    "Description": "After six years of relentless development, *Orion for MacOS 1.0 is here*.",
-    "Confidence": 0.98950046
   }
 ]

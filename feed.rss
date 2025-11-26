@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Satellite Imagery</title>
+      <link>https://xkcd.com/3173/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3173/</guid>
+      <pubDate>Wed, 26 Nov 2025 21:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs” — abZ Global</title>
+      <link>https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus</link>
+      <description>When two of the most influential people in AI both say that  today’s large language models are hitting their limits , it’s worth paying attention.  In a recent long-form interview,  Ilya Sutskever  – co-founder of OpenAI and now head of Safe Superintelligence Inc. – argued that the industry is movin</description>
+      <category>ai</category>
+      <guid>https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus</guid>
+      <pubDate>Wed, 26 Nov 2025 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>DOOMed to Fail: A Horror Story - CoRecursive Podcast</title>
       <link>https://corecursive.com/doomed-to-fail-with-burger-becky/</link>
       <description>Today Rebecca Burger Becky Heineman shares the tale of porting Doom to the 3DO console under extreme conditions. There is an engine to tweak, deadlines to hit, hardware acceleration to get working, and dramatic rock anthems to record.We also learn about how game piracy led her to game development and what it was like to do game development in the... […]</description>
@@ -301,25 +317,6 @@ The question seems easy - but it isn't. I very</description>
       <category>git</category>
       <guid>https://shivekkhurana.com/blog/sync-engines/</guid>
       <pubDate>Tue, 25 Nov 2025 23:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Antigravity Exfiltrates Data</title>
-      <link>https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data</link>
-      <description>An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE.</description>
-      <category>ai</category>
-      <guid>https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data</guid>
-      <pubDate>Tue, 25 Nov 2025 21:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orion 1.0 ✴︎ Browse Beyond</title>
-      <link>https://blog.kagi.com/orion</link>
-      <description>After six years of relentless development, *Orion for MacOS 1.0 is here*.</description>
-      <category>cloud</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://blog.kagi.com/orion</guid>
-      <pubDate>Tue, 25 Nov 2025 21:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
