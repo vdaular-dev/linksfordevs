@@ -1,5 +1,189 @@
 [
   {
+    "Title": "Daniel's Blog · People as Foundation (以民为本): The Productive Capacity Theory of Money (Part 1)",
+    "Url": "https://danieltan.weblog.lol/2025/11/people-as-foundation-the-productive-capacity-theory-of-money-part-1",
+    "Timestamp": "2025-11-27T23:03:57",
+    "Domain": "danieltan.weblog.lol",
+    "Description": "Conventional macroeconomic frameworks—whether neoclassical, Keynesian, or monetarist—cannot explain persistent policy failures across developed economies. This paper presents the Productive Capacity Theory of Money: money is created through debt backed by human productive capacity—working-age population, skills, health, and infrastructure. Companies aggregate and certify this capacity, enabling banks to lend against workers' future productivity. Employment isn't just wages—it's capacity activation for money creation.",
+    "Confidence": 0.9856124
+  },
+  {
+    "Title": "SSE sucks for transporting LLM tokens",
+    "Url": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
+    "Timestamp": "2025-11-27T23:03:51",
+    "Domain": "zknill.io",
+    "Description": "SSE sucks I’m just going to cut to the chase here. SSE as a transport mechanism for LLM tokens is naff. It’s not that it can’t work, obviously it can, because people are using it and SDKs are built around it. But it’s not a great fit for the problem space.\nThe basic SSE flow goes something like this:\nClient makes an HTTP POST request to the server with a prompt Server responds with a 200 OK and keeps the connection open Server streams tokens back to the client as they are generated, using the SSE format Client processes the tokens as they arrive on the long-lived HTTP connection Sure the approach has some benefits, like simplicity and compatibility with existing HTTP infrastructure. But it still sucks.",
+    "Confidence": 0.99726737
+  },
+  {
+    "Title": "First Principles: Why You Must Learn Before You Prompt",
+    "Url": "https://imapenguin.com/2025/11/first-principles-why-you-must-learn-before-you-prompt/",
+    "Timestamp": "2025-11-27T23:03:46",
+    "Domain": "imapenguin.com",
+    "Description": "Why mastering fundamentals before using AI coding tools is the difference between wielding power and being wielded by it",
+    "Confidence": 0.9943142
+  },
+  {
+    "Title": "The Impossible Prompt",
+    "Url": "https://teodordyakov.github.io/the-impossible-promt/",
+    "Timestamp": "2025-11-27T23:03:42",
+    "Domain": "teodordyakov.github.io",
+    "Description": "Historically there have been very simple prompts that LLMs struggled with disproportionately\n            compared to the areas in which they excel. The early versions of ChatGPT struggled with very simple\n            one-step logical deduction. But that is no longer the case; in the last 2.5 years, LLMs have progressed\n            tremendously.",
+    "Confidence": 0.9732557
+  },
+  {
+    "Title": "Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles | Marvin Zhang",
+    "Url": "https://www.marvinzhang.dev/blog/introducing-leanspec",
+    "Timestamp": "2025-11-27T23:03:39",
+    "Domain": "www.marvinzhang.dev",
+    "Description": "Earlier this year, I was amazed by agentic AI coding with Claude Sonnet 3.7. The term \"vibe coding\" hadn't been coined yet, but that's exactly what I was doing—letting AI generate code while I steered the conversation. It felt magical. Until it didn't.",
+    "Confidence": 0.9943879
+  },
+  {
+    "Title": "I Made Playing Cards to Teach English – LandenLove.xyz",
+    "Url": "https://landenlove.xyz/i-made-playing-cards-to-teach-english/",
+    "Timestamp": "2025-11-27T23:03:35",
+    "Domain": "landenlove.xyz",
+    "Description": "I own nothing related to the ‘Uno’ trademark. Please do not destroy me, Mattel",
+    "Confidence": 0.94378287
+  },
+  {
+    "Title": "3.3x Faster HuggingFace Tokenizers for Single Sequence",
+    "Url": "https://charlesxu.io/parallel-tokenizer/",
+    "Timestamp": "2025-11-27T23:03:32",
+    "Domain": "charlesxu.io",
+    "Description": "I made HuggingFace tokenizers 3.3x faster by parallelizing single-input tokenization with overlapping chunks, zero-copy offset operations, SIMD-accelerated boundary detection, and cache-hierarchy-aware chunking. The result is bit-identical to serial encoding. Fast tokenization is critical to achieve low TTFT given long context.",
+    "Confidence": 0.989947
+  },
+  {
+    "Title": "On 10 Years of Writing a Blog Nobody Reads",
+    "Url": "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads",
+    "Timestamp": "2025-11-27T23:03:27",
+    "Domain": "flowtwo.io",
+    "Description": "flow2 | Blog post: 'On 10 Years of Writing a Blog Nobody Reads' in Personal",
+    "Confidence": 0.9893162
+  },
+  {
+    "Title": "Don’t be a scary old guy: My 40s survival strategy with charm",
+    "Url": "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/",
+    "Timestamp": "2025-11-27T23:03:20",
+    "Domain": "www.devas.life",
+    "Description": "Hi, it’s Takuya.\nLast week I had my birthday and turned 41 (November 19th).\n\nWhen I was younger, I could never really picture what life in my 40s would look like. It’s this vague age where you don’t have a clear image of how you’re supposed",
+    "Confidence": 0.9006682
+  },
+  {
+    "Title": "My Notes on: When Ants Are Smarter Than People",
+    "Url": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people",
+    "Timestamp": "2025-11-27T23:03:16",
+    "Domain": "aethermug.com",
+    "Description": "Group intelligence is worth talking about",
+    "Confidence": 0.95008063
+  },
+  {
+    "Title": "What a prototype can be",
+    "Url": "https://sophia.ooo/writing/what-a-prototype-can-be/",
+    "Timestamp": "2025-11-27T23:03:12",
+    "Domain": "sophia.ooo",
+    "Description": "A prototype is a sketch of a possible thing.\n\n\n  A prototype can be an exploration: it materializes and hones intuition.\n  It generates hypotheses. Its unboundedness is strength and danger.\n\n\n\n  A prototype can be an argument: it articulates a gap between the\n  world as it is and as it could be.\n\n\n\n  An argument reframes the gap in ways that can’t be unseen. It makes its claims\n  visceral and renders the contrast to the status quo unmistakable. It functions\n  as an irritant; its existence provokes a response and makes change feel\n  necessary.\n",
+    "Confidence": 0.9145707
+  },
+  {
+    "Title": "Expect Subvertations",
+    "Url": "https://knhash.in/expect-subvertations/",
+    "Timestamp": "2025-11-27T23:03:08",
+    "Domain": "knhash.in",
+    "Description": "A World Model is an AI's internal representation of cause and effect. Not memorized facts, but learned dynamics. A robot with a World Model can predict \"if I...",
+    "Confidence": 0.9417265
+  },
+  {
+    "Title": "Antimatter Development Program",
+    "Url": "https://caseyhandmer.wordpress.com/2025/11/26/antimatter-development-program/",
+    "Timestamp": "2025-11-27T23:03:05",
+    "Domain": "caseyhandmer.wordpress.com",
+    "Description": "Printable PDF of this post.  “Space is big. You just won’t believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it’s a long way down the road to the chemist…",
+    "Confidence": 0.9691126
+  },
+  {
+    "Title": "Bringing Emacs Support to OCaml's LSP Server with `ocaml-eglot`",
+    "Url": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
+    "Timestamp": "2025-11-27T23:03:01",
+    "Domain": "tarides.com",
+    "Description": "Discover the `ocaml-eglot` project, a plugin that integrates OCaml's Emacs editor support with the LSP.",
+    "Confidence": 0.9947043
+  },
+  {
+    "Title": "Age of “Don’t do it yourself”",
+    "Url": "https://blog.rybarix.com/2025/11/26/age-of-dont-diy.html",
+    "Timestamp": "2025-11-27T23:02:56",
+    "Domain": "blog.rybarix.com",
+    "Description": "Lately, I started seeing more and more replies to the juniors where they shouldn’t try to build something themselves but instead use off the shelf solution.",
+    "Confidence": 0.8982323
+  },
+  {
+    "Title": "This time it’s not fatigue, but disconnection",
+    "Url": "https://morrick.me/archives/10176",
+    "Timestamp": "2025-11-27T23:02:52",
+    "Domain": "morrick.me",
+    "Description": "Trying to elaborate on why I feel increasingly disconnected from tech and by tech, and why this isn't just some passing sense of fatigue.",
+    "Confidence": 0.96725976
+  },
+  {
+    "Title": "Delivering Value Without the Weight of Over-Engineering",
+    "Url": "https://uberpub.com/posts/delivering-value-without-the-weight-of-over-engineering",
+    "Timestamp": "2025-11-27T23:02:48",
+    "Domain": "uberpub.com",
+    "Description": "Every software team has faced this familiar dilemma: should we build it fast, or build it right? Agile promises a way to do both, but let's be honest, in practice it's like walking a tightrope. On one side is the rush to deliver something now; on the other, the pull to make it perfect for every possible future.",
+    "Confidence": 0.9766956
+  },
+  {
+    "Title": "The State of College Hackathons | Deveesh Shetty",
+    "Url": "https://dev.shetty.me/blog/the-state-of-college-hackathons?v=2",
+    "Timestamp": "2025-11-27T23:02:44",
+    "Domain": "dev.shetty.me",
+    "Description": "My perspective on how college hackathons are drifting from their original purpose, and how AI is changing what participants build and how they learn.",
+    "Confidence": 0.9189221
+  },
+  {
+    "Title": "belongings",
+    "Url": "https://amulya.no/belongings.html",
+    "Timestamp": "2025-11-27T23:02:41",
+    "Domain": "amulya.no",
+    "Description": "The amortized daily cost represents how much I've spent per day to own each item. It is calculated by dividing the purchase price by the number of days owned. \n                If I were to, say, lose an item, this metric is roughly the amount that I paid to own that item for a day. \n                This metric naturally decreases over time as items are kept longer and so it rewards long-term ownership of the things I buy..it's a subtle encouragement to avoid impulsive buying and to think carefully about purchases.  \n                When items are sold or given away, they stop contributing to the total amortized cost so it is a dynamic measure of my current material commitment. My goal is to keep this value as low as possible, or atleast strive to make it to 1kr/day per item for *most* items.\n                It is ofcourse unrealistic to expect this for all items, especially electronics and gadgets which tend to have a higher upfront cost and depreciate quickly but I try to be mindful of their ADC when making purchases.",
+    "Confidence": 0.9428202
+  },
+  {
+    "Title": "Is RCE Really Just Low Severity?",
+    "Url": "https://www.0xkato.xyz/Is-RCE-Really-Just-Low-Severity/",
+    "Timestamp": "2025-11-27T23:02:38",
+    "Domain": "www.0xkato.xyz",
+    "Description": "A friendly case study of a command injection in fmt::say, how it was fixed, and how impact and exposure shape severity",
+    "Confidence": 0.9897578
+  },
+  {
+    "Title": "Running a Business Means Contact With Reality - Fried Kielbasa",
+    "Url": "https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/",
+    "Timestamp": "2025-11-27T23:02:34",
+    "Domain": "fredkozlowski.com",
+    "Description": "A year ago I decided to help build a service business for my mom because I wanted to learn about marketing and business. One of the largest blindspots engineers have is around sales and marketing. I was determined to not fall into this trap, but marketing seemed like a skill I couldn’t just learn by […]",
+    "Confidence": 0.91884214
+  },
+  {
+    "Title": "How to get hired in 2025",
+    "Url": "https://tonsky.me/blog/hiring-ai/",
+    "Timestamp": "2025-11-27T23:02:30",
+    "Domain": "tonsky.me",
+    "Description": "A collection of red flags in software engineers' test assignments",
+    "Confidence": 0.98753405
+  },
+  {
+    "Title": "All that is solid melts into code",
+    "Url": "https://www.robinsloan.com/lab/all-that-is-solid/",
+    "Timestamp": "2025-11-27T23:02:25",
+    "Domain": "www.robinsloan.com",
+    "Description": "More computer, rather than more human.",
+    "Confidence": 0.9304385
+  },
+  {
     "Title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform ",
     "Url": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
     "Timestamp": "2025-11-27T22:02:02",

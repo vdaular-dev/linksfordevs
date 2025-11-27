@@ -7,6 +7,237 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Daniel's Blog · People as Foundation (以民为本): The Productive Capacity Theory of Money (Part 1)</title>
+      <link>https://danieltan.weblog.lol/2025/11/people-as-foundation-the-productive-capacity-theory-of-money-part-1</link>
+      <description>Conventional macroeconomic frameworks—whether neoclassical, Keynesian, or monetarist—cannot explain persistent policy failures across developed economies. This paper presents the Productive Capacity Theory of Money: money is created through debt backed by human productive capacity—working-age population, skills, health, and infrastructure. Companies aggregate and certify this capacity, enabling banks to lend against workers' future productivity. Employment isn't just wages—it's capacity activation for money creation.</description>
+      <category>encryption</category>
+      <guid>https://danieltan.weblog.lol/2025/11/people-as-foundation-the-productive-capacity-theory-of-money-part-1</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSE sucks for transporting LLM tokens</title>
+      <link>https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/</link>
+      <description>SSE sucks I’m just going to cut to the chase here. SSE as a transport mechanism for LLM tokens is naff. It’s not that it can’t work, obviously it can, because people are using it and SDKs are built around it. But it’s not a great fit for the problem space.
+The basic SSE flow goes something like this:
+Client makes an HTTP POST request to the server with a prompt Server responds with a 200 OK and keeps the connection open Server streams tokens back to the client as they are generated, using the SSE format Client processes the tokens as they arrive on the long-lived HTTP connection Sure the approach has some benefits, like simplicity and compatibility with existing HTTP infrastructure. But it still sucks.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Principles: Why You Must Learn Before You Prompt</title>
+      <link>https://imapenguin.com/2025/11/first-principles-why-you-must-learn-before-you-prompt/</link>
+      <description>Why mastering fundamentals before using AI coding tools is the difference between wielding power and being wielded by it</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://imapenguin.com/2025/11/first-principles-why-you-must-learn-before-you-prompt/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Impossible Prompt</title>
+      <link>https://teodordyakov.github.io/the-impossible-promt/</link>
+      <description>Historically there have been very simple prompts that LLMs struggled with disproportionately
+            compared to the areas in which they excel. The early versions of ChatGPT struggled with very simple
+            one-step logical deduction. But that is no longer the case; in the last 2.5 years, LLMs have progressed
+            tremendously.</description>
+      <category>ai</category>
+      <guid>https://teodordyakov.github.io/the-impossible-promt/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles | Marvin Zhang</title>
+      <link>https://www.marvinzhang.dev/blog/introducing-leanspec</link>
+      <description>Earlier this year, I was amazed by agentic AI coding with Claude Sonnet 3.7. The term "vibe coding" hadn't been coined yet, but that's exactly what I was doing—letting AI generate code while I steered the conversation. It felt magical. Until it didn't.</description>
+      <author> (https://github.com/tikazyq)</author>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <guid>https://www.marvinzhang.dev/blog/introducing-leanspec</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Made Playing Cards to Teach English – LandenLove.xyz</title>
+      <link>https://landenlove.xyz/i-made-playing-cards-to-teach-english/</link>
+      <description>I own nothing related to the ‘Uno’ trademark. Please do not destroy me, Mattel</description>
+      <category>gaming</category>
+      <guid>https://landenlove.xyz/i-made-playing-cards-to-teach-english/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>3.3x Faster HuggingFace Tokenizers for Single Sequence</title>
+      <link>https://charlesxu.io/parallel-tokenizer/</link>
+      <description>I made HuggingFace tokenizers 3.3x faster by parallelizing single-input tokenization with overlapping chunks, zero-copy offset operations, SIMD-accelerated boundary detection, and cache-hierarchy-aware chunking. The result is bit-identical to serial encoding. Fast tokenization is critical to achieve low TTFT given long context.</description>
+      <category>git</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://charlesxu.io/parallel-tokenizer/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>On 10 Years of Writing a Blog Nobody Reads</title>
+      <link>https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads</link>
+      <description>flow2 | Blog post: 'On 10 Years of Writing a Blog Nobody Reads' in Personal</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don’t be a scary old guy: My 40s survival strategy with charm</title>
+      <link>https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/</link>
+      <description>Hi, it’s Takuya.
+Last week I had my birthday and turned 41 (November 19th).
+
+When I was younger, I could never really picture what life in my 40s would look like. It’s this vague age where you don’t have a clear image of how you’re supposed</description>
+      <guid>https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Notes on: When Ants Are Smarter Than People</title>
+      <link>https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people</link>
+      <description>Group intelligence is worth talking about</description>
+      <author> (Marco Giancotti)</author>
+      <guid>https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>What a prototype can be</title>
+      <link>https://sophia.ooo/writing/what-a-prototype-can-be/</link>
+      <description>A prototype is a sketch of a possible thing.
+
+
+  A prototype can be an exploration: it materializes and hones intuition.
+  It generates hypotheses. Its unboundedness is strength and danger.
+
+
+
+  A prototype can be an argument: it articulates a gap between the
+  world as it is and as it could be.
+
+
+
+  An argument reframes the gap in ways that can’t be unseen. It makes its claims
+  visceral and renders the contrast to the status quo unmistakable. It functions
+  as an irritant; its existence provokes a response and makes change feel
+  necessary.
+</description>
+      <author> (sophia ooo)</author>
+      <guid>https://sophia.ooo/writing/what-a-prototype-can-be/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Expect Subvertations</title>
+      <link>https://knhash.in/expect-subvertations/</link>
+      <description>A World Model is an AI's internal representation of cause and effect. Not memorized facts, but learned dynamics. A robot with a World Model can predict "if I...</description>
+      <category>ai</category>
+      <guid>https://knhash.in/expect-subvertations/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antimatter Development Program</title>
+      <link>https://caseyhandmer.wordpress.com/2025/11/26/antimatter-development-program/</link>
+      <description>Printable PDF of this post.  “Space is big. You just won’t believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it’s a long way down the road to the chemist…</description>
+      <guid>https://caseyhandmer.wordpress.com/2025/11/26/antimatter-development-program/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bringing Emacs Support to OCaml's LSP Server with `ocaml-eglot`</title>
+      <link>https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/</link>
+      <description>Discover the `ocaml-eglot` project, a plugin that integrates OCaml's Emacs editor support with the LSP.</description>
+      <category>visualstudio</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Age of “Don’t do it yourself”</title>
+      <link>https://blog.rybarix.com/2025/11/26/age-of-dont-diy.html</link>
+      <description>Lately, I started seeing more and more replies to the juniors where they shouldn’t try to build something themselves but instead use off the shelf solution.</description>
+      <category>web</category>
+      <guid>https://blog.rybarix.com/2025/11/26/age-of-dont-diy.html</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>This time it’s not fatigue, but disconnection</title>
+      <link>https://morrick.me/archives/10176</link>
+      <description>Trying to elaborate on why I feel increasingly disconnected from tech and by tech, and why this isn't just some passing sense of fatigue.</description>
+      <category>visualstudio</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://morrick.me/archives/10176</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Delivering Value Without the Weight of Over-Engineering</title>
+      <link>https://uberpub.com/posts/delivering-value-without-the-weight-of-over-engineering</link>
+      <description>Every software team has faced this familiar dilemma: should we build it fast, or build it right? Agile promises a way to do both, but let's be honest, in practice it's like walking a tightrope. On one side is the rush to deliver something now; on the other, the pull to make it perfect for every possible future.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://uberpub.com/posts/delivering-value-without-the-weight-of-over-engineering</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The State of College Hackathons | Deveesh Shetty</title>
+      <link>https://dev.shetty.me/blog/the-state-of-college-hackathons?v=2</link>
+      <description>My perspective on how college hackathons are drifting from their original purpose, and how AI is changing what participants build and how they learn.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://dev.shetty.me/blog/the-state-of-college-hackathons?v=2</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>belongings</title>
+      <link>https://amulya.no/belongings.html</link>
+      <description>The amortized daily cost represents how much I've spent per day to own each item. It is calculated by dividing the purchase price by the number of days owned. 
+                If I were to, say, lose an item, this metric is roughly the amount that I paid to own that item for a day. 
+                This metric naturally decreases over time as items are kept longer and so it rewards long-term ownership of the things I buy..it's a subtle encouragement to avoid impulsive buying and to think carefully about purchases.  
+                When items are sold or given away, they stop contributing to the total amortized cost so it is a dynamic measure of my current material commitment. My goal is to keep this value as low as possible, or atleast strive to make it to 1kr/day per item for *most* items.
+                It is ofcourse unrealistic to expect this for all items, especially electronics and gadgets which tend to have a higher upfront cost and depreciate quickly but I try to be mindful of their ADC when making purchases.</description>
+      <category>web</category>
+      <guid>https://amulya.no/belongings.html</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is RCE Really Just Low Severity?</title>
+      <link>https://www.0xkato.xyz/Is-RCE-Really-Just-Low-Severity/</link>
+      <description>A friendly case study of a command injection in fmt::say, how it was fixed, and how impact and exposure shape severity</description>
+      <guid>https://www.0xkato.xyz/Is-RCE-Really-Just-Low-Severity/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running a Business Means Contact With Reality - Fried Kielbasa</title>
+      <link>https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/</link>
+      <description>A year ago I decided to help build a service business for my mom because I wanted to learn about marketing and business. One of the largest blindspots engineers have is around sales and marketing. I was determined to not fall into this trap, but marketing seemed like a skill I couldn’t just learn by […]</description>
+      <category>gaming</category>
+      <guid>https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to get hired in 2025</title>
+      <link>https://tonsky.me/blog/hiring-ai/</link>
+      <description>A collection of red flags in software engineers' test assignments</description>
+      <author> (https://www.facebook.com/nikitonsky)</author>
+      <category>ai</category>
+      <guid>https://tonsky.me/blog/hiring-ai/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>All that is solid melts into code</title>
+      <link>https://www.robinsloan.com/lab/all-that-is-solid/</link>
+      <description>More computer, rather than more human.</description>
+      <category>ai</category>
+      <guid>https://www.robinsloan.com/lab/all-that-is-solid/</guid>
+      <pubDate>Thu, 27 Nov 2025 23:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform </title>
       <link>https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support</link>
       <description>Initial kernel and subsystem support for new Snapdragon 8 Elite Gen 5 posted for review. Learn what’s in the patches and how you can start working with them.</description>
