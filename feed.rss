@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Update 25.11.26</title>
+      <link>https://sbox.game/news/update-25-11-26</link>
+      <description>s&amp;box is now an open source game engine, terrain looks 20% cooler with anti tiling and seam fixes, and a ton of bug fixes this week</description>
+      <category>gaming</category>
+      <guid>https://sbox.game/news/update-25-11-26</guid>
+      <pubDate>Thu, 27 Nov 2025 05:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrating from GitHub to Codeberg ⚡ Zig Programming Language</title>
+      <link>https://ziglang.org/news/migrating-from-github-to-codeberg/</link>
+      <description>← Back to
+        News
+        page</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://ziglang.org/news/migrating-from-github-to-codeberg/</guid>
+      <pubDate>Thu, 27 Nov 2025 05:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Don't Download Apps</title>
       <link>https://blog.calebjay.com/posts/dont-download-apps/</link>
       <description>The personal blog of Caleb Jay Rogers, Software Engineer</description>
@@ -107,28 +127,6 @@
       <category>ai</category>
       <guid>https://www.dwarkesh.com/p/ilya-sutskever-2</guid>
       <pubDate>Wed, 26 Nov 2025 07:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - flowglad/flowglad: Open source payments + billing infrastructure</title>
-      <link>https://github.com/flowglad/flowglad</link>
-      <description>Open source payments + billing infrastructure. Contribute to flowglad/flowglad development by creating an account on GitHub.</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://github.com/flowglad/flowglad</guid>
-      <pubDate>Wed, 26 Nov 2025 05:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>All Sources of DirectX 12 Documentation</title>
-      <link>https://asawicki.info/news_1794_all_sources_of_directx_12_documentation</link>
-      <description>Tue
-25
-Nov 2025</description>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://asawicki.info/news_1794_all_sources_of_directx_12_documentation</guid>
-      <pubDate>Wed, 26 Nov 2025 05:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

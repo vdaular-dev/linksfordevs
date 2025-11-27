@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Update 25.11.26",
+    "Url": "https://sbox.game/news/update-25-11-26",
+    "Timestamp": "2025-11-27T05:02:28",
+    "Domain": "sbox.game",
+    "Description": "s&box is now an open source game engine, terrain looks 20% cooler with anti tiling and seam fixes, and a ton of bug fixes this week",
+    "Confidence": 0.9653895
+  },
+  {
+    "Title": "Migrating from GitHub to Codeberg ⚡ Zig Programming Language",
+    "Url": "https://ziglang.org/news/migrating-from-github-to-codeberg/",
+    "Timestamp": "2025-11-27T05:02:24",
+    "Domain": "ziglang.org",
+    "Description": "← Back to\n        News\n        page",
+    "Confidence": 0.84858435
+  },
+  {
     "Title": "Don't Download Apps",
     "Url": "https://blog.calebjay.com/posts/dont-download-apps/",
     "Timestamp": "2025-11-27T03:02:13",
@@ -94,21 +110,5 @@
     "Domain": "www.dwarkesh.com",
     "Description": "“These models somehow just generalize dramatically worse than people. It's a very fundamental thing.”",
     "Confidence": 0.99027497
-  },
-  {
-    "Title": "GitHub - flowglad/flowglad: Open source payments + billing infrastructure",
-    "Url": "https://github.com/flowglad/flowglad",
-    "Timestamp": "2025-11-26T05:02:25",
-    "Domain": "github.com",
-    "Description": "Open source payments + billing infrastructure. Contribute to flowglad/flowglad development by creating an account on GitHub.",
-    "Confidence": 0.99951196
-  },
-  {
-    "Title": "All Sources of DirectX 12 Documentation",
-    "Url": "https://asawicki.info/news_1794_all_sources_of_directx_12_documentation",
-    "Timestamp": "2025-11-26T05:02:19",
-    "Domain": "asawicki.info",
-    "Description": "Tue\n25\nNov 2025",
-    "Confidence": 0.9955913
   }
 ]
