@@ -1,5 +1,141 @@
 [
   {
+    "Title": "How to work with Product: Taste and Adjust",
+    "Url": "https://blog.nilenso.com/blog/2025/11/26/how-to-work-with-product-taste-and-adjust/",
+    "Timestamp": "2025-11-28T23:03:26",
+    "Domain": "blog.nilenso.com",
+    "Description": "Srihari Sriraman\n        \n      \n      \n    \n    \n      \n      \n         ...",
+    "Confidence": 0.99271464
+  },
+  {
+    "Title": "Decimal is sometimes wrong",
+    "Url": "https://jt-hill.com/dropping-decimal/",
+    "Timestamp": "2025-11-28T23:03:21",
+    "Domain": "jt-hill.com",
+    "Description": "Credkit is dropping its usage of the Python Decimal class. I thought it was the solution to all my problems, but it was not.",
+    "Confidence": 0.97672224
+  },
+  {
+    "Title": "A first look at Django's new background tasks",
+    "Url": "https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/",
+    "Timestamp": "2025-11-28T23:03:18",
+    "Domain": "roam.be",
+    "Description": "Django 6.0 introduces a built-in background tasks framework in `django.tasks`. But don't expect to phase out Celery, Huey or other preferred solutions just yet.",
+    "Confidence": 0.9961277
+  },
+  {
+    "Title": "Dealgorithmed – Manu",
+    "Url": "https://manuelmoreale.com/thoughts/dealgorithmed",
+    "Timestamp": "2025-11-28T23:03:13",
+    "Domain": "manuelmoreale.com",
+    "Description": "TL;DR: I hate having spare time, and I decided to launch another newsletter called Dealgorithmed. Will start on January 1st, delivered every 1st and …",
+    "Confidence": 0.93646306
+  },
+  {
+    "Title": "I want to give a lot of fucks! - Prashant Anand",
+    "Url": "https://anandprashant.com/posts/i-want-to-give-a-lot-of-fucks",
+    "Timestamp": "2025-11-28T23:03:07",
+    "Domain": "anandprashant.com",
+    "Description": "Stop caring. Stop giving a fuck.",
+    "Confidence": 0.97348845
+  },
+  {
+    "Title": "Agentic Coding Is Anything But · Mat",
+    "Url": "https://matcohle.me/agentic-coding-is-anything-but/",
+    "Timestamp": "2025-11-28T23:03:03",
+    "Domain": "matcohle.me",
+    "Description": "For the joy of making",
+    "Confidence": 0.99282676
+  },
+  {
+    "Title": "On Seriousness",
+    "Url": "https://www.punkrockbio.com/p/on-seriousness",
+    "Timestamp": "2025-11-28T23:03:00",
+    "Domain": "www.punkrockbio.com",
+    "Description": "We need to be serious in our culture to achieve the future of our dreams.",
+    "Confidence": 0.9416689
+  },
+  {
+    "Title": "Talk \"From Bias to Bots\"",
+    "Url": "https://www.munich-datageeks.de/talk-from-bias-to-bots/",
+    "Timestamp": "2025-11-28T23:02:55",
+    "Domain": "www.munich-datageeks.de",
+    "Description": "Karim built a bot testing housing applications in Munich. Western names got 4x more responses. Nationwide tests confirmed systemic bias. A decade later, he warns modern AI has made algorithmic discrimination far more sophisticated and opaque.",
+    "Confidence": 0.8867947
+  },
+  {
+    "Title": "The Psychology of Bad Code - SheHacksPurple",
+    "Url": "https://shehackspurple.ca/2025/11/27/the-psychology-of-bad-code/",
+    "Timestamp": "2025-11-28T23:02:51",
+    "Domain": "shehackspurple.ca",
+    "Description": "In this blog series I will explore several known bad developer behaviors that lead to insecure software, as well as how we can combat them by applying behavioral economic interventions. This series is an expansion upon my thoughts from my conference talk ‘Threat Modeling Developer Behavior: The Psychology of Bad Code’.",
+    "Confidence": 0.97804475
+  },
+  {
+    "Title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
+    "Url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+    "Timestamp": "2025-11-28T23:02:47",
+    "Domain": "blog.chrislewis.au",
+    "Description": "A deep dive into how a 'one-shot' Claude headless loop (paired with scoring, defensive tooling, and a simple bash driver) massively accelerates matching decompilation of Snowboard Kids 2 on the Nintendo 64.",
+    "Confidence": 0.9778473
+  },
+  {
+    "Title": "Tips for effective prototyping with Rails 8 and Claude Code",
+    "Url": "https://www.wyeworks.com/blog/2025/11/26/tips-for-effective-prototyping-rails-claude-code/",
+    "Timestamp": "2025-11-28T23:02:43",
+    "Domain": "www.wyeworks.com",
+    "Description": "As developers, we’re living in a time where building applications from scratch is easier than ever, thanks to AI tools like Claude Code. Our…",
+    "Confidence": 0.99393386
+  },
+  {
+    "Title": "The One = Digital planetary system we simply all agree on",
+    "Url": "https://blog.hermesloom.org/p/the-one-digital-planetary-system",
+    "Timestamp": "2025-11-28T23:02:39",
+    "Domain": "blog.hermesloom.org",
+    "Description": "Fragmentation of digital systems disrupts workflows and harms overall productivity.",
+    "Confidence": 0.9712293
+  },
+  {
+    "Title": "Be useful in emergencies",
+    "Url": "https://kg.dev/thoughts/emergencies",
+    "Timestamp": "2025-11-28T23:02:35",
+    "Domain": "kg.dev",
+    "Description": "Before the years of compounding technical experience, before accumulating an intricate understanding of corporate bureaucracy, before I started my own company — I was an intern. An intern who thought he knew more than any other intern on the planet. I miss the confidence I had before I learned more about the world. I really thought that I could do no wrong.As with most forms of arrogance, it didn’t take long to catch up to me. This time, in the form of a P0, company-wide alarm. When you’re 19, few things prepare you for a situation like this. The closest I had come to dealing with an emergency was a mandatory CPR class I took while working the front desk at a YMCA as a teenager. This, though, was different.The team that I worked on was in charge of datacenter failovers. This is the process of migrating traffic from one datacenter to another in case of an emergency. One day, there was some sort of cooling issue in one of our datacenters on the East Coast. Servers were getting overheated and we had to act fast to redirect traffic to the West Coast. It was my team’s time to shine.Code that is only executed during emergencies tends to collect cobwebs. In these cobwebs, there lived a bug. A bug that I had put there. The same one that rendered this emergency lever of ours completely useless. The only way around it was to do the failover by hand — a long, painful process involving dozens of people across the company.The embarrassment I felt when it was discovered that I had caused the issue was… something else. Thankfully, I had a great manager who made sure the attention was kept off of me until he had a chance to talk to me privately after this whole thing was resolved.At the end of the day, when all affected customers were migrated to the healthy datacenter and everyone was happy, my manager told me something I have never forgotten. The best piece of advice I’ve been given in my career:Things like this will happen again in your career. Things break all the time. Sometimes, it will be your doing and other times someone else’s. Regardless, you need to learn how to deal with situations like these. Learn to be useful during emergencies.Since then, I’ve tried to put myself in positions where I’d play a role in resolving major issues. Some caused by me; most (thankfully) not. Emergencies are scary and most people will try to weasel their way out of playing a major role in them, so this opens up space for those of us willing to take on the challenge. Take full advantage.The way that you deal with an emergency is a whole separate, complex topic. You should read Sources of Power by Gary Klein if you’re interested in learning about how professionals make decisions in high-stakes situations. For now, I’ll leave you with this one tip: Present as the calmest person in the room. Slow down your heart rate. Write things down so you don’t forget about all the moving pieces as they come in. Keep track of who is supposed to be doing what. Speak more slowly. Breathe.",
+    "Confidence": 0.948896
+  },
+  {
+    "Title": "Securing File Imports: Fixing SSRF and XXE Vulnerabilities",
+    "Url": "https://hugo.writizzy.com/p/securing-file-imports-fixing-ssrf-and-xxe-vulnerabilities",
+    "Timestamp": "2025-11-28T23:02:31",
+    "Domain": "hugo.writizzy.com",
+    "Description": "How to fix SSRF and XXE vulnerabilities in file imports? Real-world case with exploitation, code examples, and security solutions in Kotlin.",
+    "Confidence": 0.9983057
+  },
+  {
+    "Title": "Interfaces should make understanding opt-out, not opt-in",
+    "Url": "https://www.amantulsyan.com/interfaces-should-make-understanding-opt-out-not-opt-in/",
+    "Timestamp": "2025-11-28T23:02:22",
+    "Domain": "www.amantulsyan.com",
+    "Description": "Current AI tools make understanding optional, creating passive builders who plateau at mediocrity. A case for interfaces that keep comprehension at the center while letting us choose when to abstract it away.",
+    "Confidence": 0.97789985
+  },
+  {
+    "Title": "Bringing Sexy Back",
+    "Url": "https://lux-magazine.com/article/privacy-eroticism/",
+    "Timestamp": "2025-11-28T23:02:19",
+    "Domain": "lux-magazine.com",
+    "Description": "Internet surveillance has killed eroticism. We need privacy to reclaim it.",
+    "Confidence": 0.6381877
+  },
+  {
+    "Title": "Twelve Thought Experiments on the Computational Theory of Consciousness – Joe Antognini",
+    "Url": "https://joe-antognini.github.io/ml/thought-experiments-on-consciousness",
+    "Timestamp": "2025-11-28T23:02:13",
+    "Domain": "joe-antognini.github.io",
+    "Description": "A few years ago I outlined the so-called “triviality argument” thatconsciousness cannot be reduced to the process of ...",
+    "Confidence": 0.98944145
+  },
+  {
     "Title": "Bridge Clearance",
     "Url": "https://xkcd.com/3174/",
     "Timestamp": "2025-11-28T22:02:04",
@@ -78,189 +214,5 @@
     "Domain": "www.uncoveralpha.com",
     "Description": "I am publishing a comprehensive deep dive, not just a technical overview, but also strategic and financial coverage of the Google TPU.",
     "Confidence": 0.9806578
-  },
-  {
-    "Title": "Daniel's Blog · People as Foundation (以民为本): The Productive Capacity Theory of Money (Part 1)",
-    "Url": "https://danieltan.weblog.lol/2025/11/people-as-foundation-the-productive-capacity-theory-of-money-part-1",
-    "Timestamp": "2025-11-27T23:03:57",
-    "Domain": "danieltan.weblog.lol",
-    "Description": "Conventional macroeconomic frameworks—whether neoclassical, Keynesian, or monetarist—cannot explain persistent policy failures across developed economies. This paper presents the Productive Capacity Theory of Money: money is created through debt backed by human productive capacity—working-age population, skills, health, and infrastructure. Companies aggregate and certify this capacity, enabling banks to lend against workers' future productivity. Employment isn't just wages—it's capacity activation for money creation.",
-    "Confidence": 0.9856124
-  },
-  {
-    "Title": "SSE sucks for transporting LLM tokens",
-    "Url": "https://zknill.io/posts/sse-sucks-for-transporting-llm-tokens/",
-    "Timestamp": "2025-11-27T23:03:51",
-    "Domain": "zknill.io",
-    "Description": "SSE sucks I’m just going to cut to the chase here. SSE as a transport mechanism for LLM tokens is naff. It’s not that it can’t work, obviously it can, because people are using it and SDKs are built around it. But it’s not a great fit for the problem space.\nThe basic SSE flow goes something like this:\nClient makes an HTTP POST request to the server with a prompt Server responds with a 200 OK and keeps the connection open Server streams tokens back to the client as they are generated, using the SSE format Client processes the tokens as they arrive on the long-lived HTTP connection Sure the approach has some benefits, like simplicity and compatibility with existing HTTP infrastructure. But it still sucks.",
-    "Confidence": 0.99726737
-  },
-  {
-    "Title": "First Principles: Why You Must Learn Before You Prompt",
-    "Url": "https://imapenguin.com/2025/11/first-principles-why-you-must-learn-before-you-prompt/",
-    "Timestamp": "2025-11-27T23:03:46",
-    "Domain": "imapenguin.com",
-    "Description": "Why mastering fundamentals before using AI coding tools is the difference between wielding power and being wielded by it",
-    "Confidence": 0.9943142
-  },
-  {
-    "Title": "The Impossible Prompt",
-    "Url": "https://teodordyakov.github.io/the-impossible-promt/",
-    "Timestamp": "2025-11-27T23:03:42",
-    "Domain": "teodordyakov.github.io",
-    "Description": "Historically there have been very simple prompts that LLMs struggled with disproportionately\n            compared to the areas in which they excel. The early versions of ChatGPT struggled with very simple\n            one-step logical deduction. But that is no longer the case; in the last 2.5 years, LLMs have progressed\n            tremendously.",
-    "Confidence": 0.9732557
-  },
-  {
-    "Title": "Introducing LeanSpec: A Lightweight SDD Framework Built from First Principles | Marvin Zhang",
-    "Url": "https://www.marvinzhang.dev/blog/introducing-leanspec",
-    "Timestamp": "2025-11-27T23:03:39",
-    "Domain": "www.marvinzhang.dev",
-    "Description": "Earlier this year, I was amazed by agentic AI coding with Claude Sonnet 3.7. The term \"vibe coding\" hadn't been coined yet, but that's exactly what I was doing—letting AI generate code while I steered the conversation. It felt magical. Until it didn't.",
-    "Confidence": 0.9943879
-  },
-  {
-    "Title": "I Made Playing Cards to Teach English – LandenLove.xyz",
-    "Url": "https://landenlove.xyz/i-made-playing-cards-to-teach-english/",
-    "Timestamp": "2025-11-27T23:03:35",
-    "Domain": "landenlove.xyz",
-    "Description": "I own nothing related to the ‘Uno’ trademark. Please do not destroy me, Mattel",
-    "Confidence": 0.94378287
-  },
-  {
-    "Title": "3.3x Faster HuggingFace Tokenizers for Single Sequence",
-    "Url": "https://charlesxu.io/parallel-tokenizer/",
-    "Timestamp": "2025-11-27T23:03:32",
-    "Domain": "charlesxu.io",
-    "Description": "I made HuggingFace tokenizers 3.3x faster by parallelizing single-input tokenization with overlapping chunks, zero-copy offset operations, SIMD-accelerated boundary detection, and cache-hierarchy-aware chunking. The result is bit-identical to serial encoding. Fast tokenization is critical to achieve low TTFT given long context.",
-    "Confidence": 0.989947
-  },
-  {
-    "Title": "On 10 Years of Writing a Blog Nobody Reads",
-    "Url": "https://flowtwo.io/post/on-10-years-of-writing-a-blog-nobody-reads",
-    "Timestamp": "2025-11-27T23:03:27",
-    "Domain": "flowtwo.io",
-    "Description": "flow2 | Blog post: 'On 10 Years of Writing a Blog Nobody Reads' in Personal",
-    "Confidence": 0.9893162
-  },
-  {
-    "Title": "Don’t be a scary old guy: My 40s survival strategy with charm",
-    "Url": "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/",
-    "Timestamp": "2025-11-27T23:03:20",
-    "Domain": "www.devas.life",
-    "Description": "Hi, it’s Takuya.\nLast week I had my birthday and turned 41 (November 19th).\n\nWhen I was younger, I could never really picture what life in my 40s would look like. It’s this vague age where you don’t have a clear image of how you’re supposed",
-    "Confidence": 0.9006682
-  },
-  {
-    "Title": "My Notes on: When Ants Are Smarter Than People",
-    "Url": "https://aethermug.com/posts/my-notes-on-when-ants-are-smarter-than-people",
-    "Timestamp": "2025-11-27T23:03:16",
-    "Domain": "aethermug.com",
-    "Description": "Group intelligence is worth talking about",
-    "Confidence": 0.95008063
-  },
-  {
-    "Title": "What a prototype can be",
-    "Url": "https://sophia.ooo/writing/what-a-prototype-can-be/",
-    "Timestamp": "2025-11-27T23:03:12",
-    "Domain": "sophia.ooo",
-    "Description": "A prototype is a sketch of a possible thing.\n\n\n  A prototype can be an exploration: it materializes and hones intuition.\n  It generates hypotheses. Its unboundedness is strength and danger.\n\n\n\n  A prototype can be an argument: it articulates a gap between the\n  world as it is and as it could be.\n\n\n\n  An argument reframes the gap in ways that can’t be unseen. It makes its claims\n  visceral and renders the contrast to the status quo unmistakable. It functions\n  as an irritant; its existence provokes a response and makes change feel\n  necessary.\n",
-    "Confidence": 0.9145707
-  },
-  {
-    "Title": "Expect Subvertations",
-    "Url": "https://knhash.in/expect-subvertations/",
-    "Timestamp": "2025-11-27T23:03:08",
-    "Domain": "knhash.in",
-    "Description": "A World Model is an AI's internal representation of cause and effect. Not memorized facts, but learned dynamics. A robot with a World Model can predict \"if I...",
-    "Confidence": 0.9417265
-  },
-  {
-    "Title": "Antimatter Development Program",
-    "Url": "https://caseyhandmer.wordpress.com/2025/11/26/antimatter-development-program/",
-    "Timestamp": "2025-11-27T23:03:05",
-    "Domain": "caseyhandmer.wordpress.com",
-    "Description": "Printable PDF of this post.  “Space is big. You just won’t believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it’s a long way down the road to the chemist…",
-    "Confidence": 0.9691126
-  },
-  {
-    "Title": "Bringing Emacs Support to OCaml's LSP Server with `ocaml-eglot`",
-    "Url": "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/",
-    "Timestamp": "2025-11-27T23:03:01",
-    "Domain": "tarides.com",
-    "Description": "Discover the `ocaml-eglot` project, a plugin that integrates OCaml's Emacs editor support with the LSP.",
-    "Confidence": 0.9947043
-  },
-  {
-    "Title": "Age of “Don’t do it yourself”",
-    "Url": "https://blog.rybarix.com/2025/11/26/age-of-dont-diy.html",
-    "Timestamp": "2025-11-27T23:02:56",
-    "Domain": "blog.rybarix.com",
-    "Description": "Lately, I started seeing more and more replies to the juniors where they shouldn’t try to build something themselves but instead use off the shelf solution.",
-    "Confidence": 0.8982323
-  },
-  {
-    "Title": "This time it’s not fatigue, but disconnection",
-    "Url": "https://morrick.me/archives/10176",
-    "Timestamp": "2025-11-27T23:02:52",
-    "Domain": "morrick.me",
-    "Description": "Trying to elaborate on why I feel increasingly disconnected from tech and by tech, and why this isn't just some passing sense of fatigue.",
-    "Confidence": 0.96725976
-  },
-  {
-    "Title": "Delivering Value Without the Weight of Over-Engineering",
-    "Url": "https://uberpub.com/posts/delivering-value-without-the-weight-of-over-engineering",
-    "Timestamp": "2025-11-27T23:02:48",
-    "Domain": "uberpub.com",
-    "Description": "Every software team has faced this familiar dilemma: should we build it fast, or build it right? Agile promises a way to do both, but let's be honest, in practice it's like walking a tightrope. On one side is the rush to deliver something now; on the other, the pull to make it perfect for every possible future.",
-    "Confidence": 0.9766956
-  },
-  {
-    "Title": "The State of College Hackathons | Deveesh Shetty",
-    "Url": "https://dev.shetty.me/blog/the-state-of-college-hackathons?v=2",
-    "Timestamp": "2025-11-27T23:02:44",
-    "Domain": "dev.shetty.me",
-    "Description": "My perspective on how college hackathons are drifting from their original purpose, and how AI is changing what participants build and how they learn.",
-    "Confidence": 0.9189221
-  },
-  {
-    "Title": "belongings",
-    "Url": "https://amulya.no/belongings.html",
-    "Timestamp": "2025-11-27T23:02:41",
-    "Domain": "amulya.no",
-    "Description": "The amortized daily cost represents how much I've spent per day to own each item. It is calculated by dividing the purchase price by the number of days owned. \n                If I were to, say, lose an item, this metric is roughly the amount that I paid to own that item for a day. \n                This metric naturally decreases over time as items are kept longer and so it rewards long-term ownership of the things I buy..it's a subtle encouragement to avoid impulsive buying and to think carefully about purchases.  \n                When items are sold or given away, they stop contributing to the total amortized cost so it is a dynamic measure of my current material commitment. My goal is to keep this value as low as possible, or atleast strive to make it to 1kr/day per item for *most* items.\n                It is ofcourse unrealistic to expect this for all items, especially electronics and gadgets which tend to have a higher upfront cost and depreciate quickly but I try to be mindful of their ADC when making purchases.",
-    "Confidence": 0.9428202
-  },
-  {
-    "Title": "Is RCE Really Just Low Severity?",
-    "Url": "https://www.0xkato.xyz/Is-RCE-Really-Just-Low-Severity/",
-    "Timestamp": "2025-11-27T23:02:38",
-    "Domain": "www.0xkato.xyz",
-    "Description": "A friendly case study of a command injection in fmt::say, how it was fixed, and how impact and exposure shape severity",
-    "Confidence": 0.9897578
-  },
-  {
-    "Title": "Running a Business Means Contact With Reality - Fried Kielbasa",
-    "Url": "https://fredkozlowski.com/2025/11/02/running-a-business-means-contact-with-reality/",
-    "Timestamp": "2025-11-27T23:02:34",
-    "Domain": "fredkozlowski.com",
-    "Description": "A year ago I decided to help build a service business for my mom because I wanted to learn about marketing and business. One of the largest blindspots engineers have is around sales and marketing. I was determined to not fall into this trap, but marketing seemed like a skill I couldn’t just learn by […]",
-    "Confidence": 0.91884214
-  },
-  {
-    "Title": "How to get hired in 2025",
-    "Url": "https://tonsky.me/blog/hiring-ai/",
-    "Timestamp": "2025-11-27T23:02:30",
-    "Domain": "tonsky.me",
-    "Description": "A collection of red flags in software engineers' test assignments",
-    "Confidence": 0.98753405
-  },
-  {
-    "Title": "All that is solid melts into code",
-    "Url": "https://www.robinsloan.com/lab/all-that-is-solid/",
-    "Timestamp": "2025-11-27T23:02:25",
-    "Domain": "www.robinsloan.com",
-    "Description": "More computer, rather than more human.",
-    "Confidence": 0.9304385
   }
 ]
