@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Bridge Clearance",
+    "Url": "https://xkcd.com/3174/",
+    "Timestamp": "2025-11-28T22:02:04",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "EXCLUSIVE: Credit Report Shows Meta Keeping $27 Billion Off Its Books Through Advanced Geometry",
     "Url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
     "Timestamp": "2025-11-28T21:02:05",
@@ -254,13 +262,5 @@
     "Domain": "www.robinsloan.com",
     "Description": "More computer, rather than more human.",
     "Confidence": 0.9304385
-  },
-  {
-    "Title": "Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform ",
-    "Url": "https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support",
-    "Timestamp": "2025-11-27T22:02:02",
-    "Domain": "www.qualcomm.com",
-    "Description": "Initial kernel and subsystem support for new Snapdragon 8 Elite Gen 5 posted for review. Learn what’s in the patches and how you can start working with them.",
-    "Confidence": 0.99337363
   }
 ]
