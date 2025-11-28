@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Remarkable Assertion from A16Z</title>
+      <link>https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z</link>
+      <description>A friend made me aware of a reading list from A16Z containg recommendations for books, weighted towards science fiction since that’s mostly what people there read.</description>
+      <category>ai</category>
+      <guid>https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z</guid>
+      <pubDate>Fri, 28 Nov 2025 19:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google CEO Says AI Coding Can Turn Everyone Into a Developer</title>
+      <link>https://www.interviewquery.com/p/ai-coding-vibe-coding-explained</link>
+      <description>Google CEO Sundar Pichai says AI will make coding accessible to everyone, but engineers warn that vibe coding still struggles with reliability, complexity, and real-world software demands.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.interviewquery.com/p/ai-coding-vibe-coding-explained</guid>
+      <pubDate>Fri, 28 Nov 2025 19:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland - Online petition</title>
       <link>https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main</link>
       <description>Open-Source-Software bildet heute das Fundament großer Teile der digitalen Infrastruktur – in Verwaltung, Wirtschaft, Forschung und im täglichen Leben. Selbst im aktuellen Koalitionsvertrag der Bundesregierung wird Open-Source-Software als elementarer Baustein zur Erreichung digitaler Souveränität genannt. Dennoch wird die Arbeit, die tausende Freiwillige dafür leisten, in Deutschland steuer- und förderrechtlich nicht als Ehrenamt anerkannt. Dieses Ungleichgewicht zwischen gesellschaftlicher Bed</description>
@@ -330,24 +347,6 @@ When I was younger, I could never really picture what life in my 40s would look 
       <category>ai</category>
       <guid>https://replaceyourboss.ai/</guid>
       <pubDate>Thu, 27 Nov 2025 21:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>We're Losing Our Voice to LLMs | Tony Alicea</title>
-      <link>https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/</link>
-      <description>We are losing something precious in the age of LLMs: our unique voices.</description>
-      <guid>https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/</guid>
-      <pubDate>Thu, 27 Nov 2025 19:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google's Antigravity IDE Sparks Forking Debate -- Visual Studio Magazine</title>
-      <link>https://visualstudiomagazine.com/articles/2025/11/21/googles-antigravity-ide-sparks-forking-debate.aspx</link>
-      <description>Google's new Antigravity IDE spurred much developer debate focusing heavily on its apparent status as a Visual Studio Code fork, with developers debating why another fork is needed, what it means for the VS Code ecosystem, and how open source reuse, lock-in, and fragmentation should be handled in AI-focused development tools.</description>
-      <category>vscode</category>
-      <category>visualstudio</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://visualstudiomagazine.com/articles/2025/11/21/googles-antigravity-ide-sparks-forking-debate.aspx</guid>
-      <pubDate>Thu, 27 Nov 2025 19:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

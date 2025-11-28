@@ -1,5 +1,21 @@
 [
   {
+    "Title": "A Remarkable Assertion from A16Z",
+    "Url": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
+    "Timestamp": "2025-11-28T19:02:06",
+    "Domain": "nealstephenson.substack.com",
+    "Description": "A friend made me aware of a reading list from A16Z containg recommendations for books, weighted towards science fiction since that’s mostly what people there read.",
+    "Confidence": 0.93658286
+  },
+  {
+    "Title": "Google CEO Says AI Coding Can Turn Everyone Into a Developer",
+    "Url": "https://www.interviewquery.com/p/ai-coding-vibe-coding-explained",
+    "Timestamp": "2025-11-28T19:02:01",
+    "Domain": "www.interviewquery.com",
+    "Description": "Google CEO Sundar Pichai says AI will make coding accessible to everyone, but engineers warn that vibe coding still struggles with reliability, complexity, and real-world software demands.",
+    "Confidence": 0.97106904
+  },
+  {
     "Title": "Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland - Online petition",
     "Url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
     "Timestamp": "2025-11-28T17:02:11",
@@ -246,21 +262,5 @@
     "Domain": "replaceyourboss.ai",
     "Description": "Stop working for humans. AI CEO delivers algorithmic thought leadership, with instant decisions, and zero ego. Replace your boss before they replace you.",
     "Confidence": 0.7021644
-  },
-  {
-    "Title": "We're Losing Our Voice to LLMs | Tony Alicea",
-    "Url": "https://tonyalicea.dev/blog/were-losing-our-voice-to-llms/",
-    "Timestamp": "2025-11-27T19:02:10",
-    "Domain": "tonyalicea.dev",
-    "Description": "We are losing something precious in the age of LLMs: our unique voices.",
-    "Confidence": 0.9422322
-  },
-  {
-    "Title": "Google's Antigravity IDE Sparks Forking Debate -- Visual Studio Magazine",
-    "Url": "https://visualstudiomagazine.com/articles/2025/11/21/googles-antigravity-ide-sparks-forking-debate.aspx",
-    "Timestamp": "2025-11-27T19:02:07",
-    "Domain": "visualstudiomagazine.com",
-    "Description": "Google's new Antigravity IDE spurred much developer debate focusing heavily on its apparent status as a Visual Studio Code fork, with developers debating why another fork is needed, what it means for the VS Code ecosystem, and how open source reuse, lock-in, and fragmentation should be handled in AI-focused development tools.",
-    "Confidence": 0.81603646
   }
 ]
