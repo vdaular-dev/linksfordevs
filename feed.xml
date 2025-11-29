@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Langjam Gamejam</title>
+      <link>https://langjamgamejam.com/</link>
+      <description>A 7-day challenge to create a programming language and then use it to build a game.</description>
+      <category>gaming</category>
+      <guid>https://langjamgamejam.com/</guid>
+      <pubDate>Sat, 29 Nov 2025 19:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>System 7 natively boots on the Mac mini G4!</title>
       <link>https://macos9lives.com/smforum/index.php?topic=7711.0</link>
       <description>System 7 natively boots on the Mac mini G4!</description>
@@ -269,23 +277,6 @@
       <category>git</category>
       <guid>https://stohl.substack.com/p/exclusive-credit-report-shows-meta</guid>
       <pubDate>Fri, 28 Nov 2025 21:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Remarkable Assertion from A16Z</title>
-      <link>https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z</link>
-      <description>A friend made me aware of a reading list from A16Z containg recommendations for books, weighted towards science fiction since that’s mostly what people there read.</description>
-      <category>ai</category>
-      <guid>https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z</guid>
-      <pubDate>Fri, 28 Nov 2025 19:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google CEO Says AI Coding Can Turn Everyone Into a Developer</title>
-      <link>https://www.interviewquery.com/p/ai-coding-vibe-coding-explained</link>
-      <description>Google CEO Sundar Pichai says AI will make coding accessible to everyone, but engineers warn that vibe coding still struggles with reliability, complexity, and real-world software demands.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.interviewquery.com/p/ai-coding-vibe-coding-explained</guid>
-      <pubDate>Fri, 28 Nov 2025 19:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

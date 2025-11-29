@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Langjam Gamejam",
+    "Url": "https://langjamgamejam.com/",
+    "Timestamp": "2025-11-29T19:02:02",
+    "Domain": "langjamgamejam.com",
+    "Description": "A 7-day challenge to create a programming language and then use it to build a game.",
+    "Confidence": 0.9697591
+  },
+  {
     "Title": "System 7 natively boots on the Mac mini G4!",
     "Url": "https://macos9lives.com/smforum/index.php?topic=7711.0",
     "Timestamp": "2025-11-29T16:02:32",
@@ -222,21 +230,5 @@
     "Domain": "stohl.substack.com",
     "Description": "FSG LLC’s preliminary rating explains how a data center and selective eyesight create a perfectly legal accounting miracle.",
     "Confidence": 0.9139152
-  },
-  {
-    "Title": "A Remarkable Assertion from A16Z",
-    "Url": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
-    "Timestamp": "2025-11-28T19:02:06",
-    "Domain": "nealstephenson.substack.com",
-    "Description": "A friend made me aware of a reading list from A16Z containg recommendations for books, weighted towards science fiction since that’s mostly what people there read.",
-    "Confidence": 0.93658286
-  },
-  {
-    "Title": "Google CEO Says AI Coding Can Turn Everyone Into a Developer",
-    "Url": "https://www.interviewquery.com/p/ai-coding-vibe-coding-explained",
-    "Timestamp": "2025-11-28T19:02:01",
-    "Domain": "www.interviewquery.com",
-    "Description": "Google CEO Sundar Pichai says AI will make coding accessible to everyone, but engineers warn that vibe coding still struggles with reliability, complexity, and real-world software demands.",
-    "Confidence": 0.97106904
   }
 ]
