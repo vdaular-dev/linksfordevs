@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can Dutch universities do without Microsoft?</title>
+      <link>https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft</link>
+      <description>Can Dutch higher education part ways with Microsoft? The sector is trying to break free, and alternatives are being explored here and there. At the same time, more and more tasks are being completed by Microsoft tools.</description>
+      <category>ai</category>
+      <guid>https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft</guid>
+      <pubDate>Sat, 29 Nov 2025 02:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network</title>
       <link>https://blog.tymscar.com/posts/imgurukproxy/</link>
       <description>Imgur started blocking UK users. Rather than installing a VPN on every device, I set up a network-wide proxy that tunnels Imgur traffic through a VPN automatically.</description>
@@ -276,18 +284,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <description>Polar Night Energy and Lahti Energia have partnered for a project using 'Sand Battery' technology for a district heating network in Finland.</description>
       <guid>https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/</guid>
       <pubDate>Fri, 28 Nov 2025 10:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>The chip made for the AI inference era – the Google TPU</title>
-      <link>https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference</link>
-      <description>I am publishing a comprehensive deep dive, not just a technical overview, but also strategic and financial coverage of the Google TPU.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference</guid>
-      <pubDate>Fri, 28 Nov 2025 02:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
