@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "Title": "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network",
+    "Url": "https://blog.tymscar.com/posts/imgurukproxy/",
+    "Timestamp": "2025-11-29T01:02:03",
+    "Domain": "blog.tymscar.com",
+    "Description": "Imgur started blocking UK users. Rather than installing a VPN on every device, I set up a network-wide proxy that tunnels Imgur traffic through a VPN automatically."
+  }
+]
