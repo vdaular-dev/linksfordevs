@@ -1,5 +1,21 @@
 [
   {
+    "Title": "About - Advent of Code 2025",
+    "Url": "https://adventofcode.com/2025/about",
+    "Timestamp": "2025-11-30T17:02:02",
+    "Domain": "adventofcode.com",
+    "Description": "Hi!  I'm Eric Wastl. I make Advent of Code.  I hope you like it!  I also make lots of other things.  I'm on Bluesky, Mastodon, and GitHub.",
+    "Confidence": 0.98983115
+  },
+  {
+    "Title": "prizrak.me blog",
+    "Url": "https://blog.prizrak.me/post/landlock/",
+    "Timestamp": "2025-11-30T17:01:58",
+    "Domain": "blog.prizrak.me",
+    "Description": "Landlock is a Linux API that lets applications explicitly declare which resources they are allowed to access. Its philosophy is similar to OpenBSD’s unveil() and (less so) pledge(): programs can make a contract with the kernel stating, “I only need these files or resources — deny me everything else if I’m compromised.”",
+    "Confidence": 0.9908243
+  },
+  {
     "Title": "Zigbook is Plagiarizing the Zigtools Playground",
     "Url": "https://zigtools.org/blog/zigbook-plagiarizing-playground/",
     "Timestamp": "2025-11-30T11:02:18",
