@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It’s Always the Process, Stupid!</title>
+      <link>https://its.promp.td/its-always-the-process-stupid/</link>
+      <description>Why AI Won’t Save Your Broken Workflow</description>
+      <category>ai</category>
+      <guid>https://its.promp.td/its-always-the-process-stupid/</guid>
+      <pubDate>Sun, 30 Nov 2025 03:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Self-hosting my photos with Immich</title>
       <link>https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/</link>
       <description>For every cloud service I use, I want to have a local copy of my data for backup purposes and independence. Unfortunately, the gphotos-sync tool stopped working in March 2025 when Google restricted the OAuth scopes, so I needed an alternative for my existing Google Photos setup. In this post, I describe how I have set up Immich, a self-hostable photo manager.
