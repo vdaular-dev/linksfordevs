@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Self-hosting my photos with Immich",
+    "Url": "https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/",
+    "Timestamp": "2025-11-30T02:02:57",
+    "Domain": "michael.stapelberg.ch",
+    "Description": "For every cloud service I use, I want to have a local copy of my data for backup purposes and independence. Unfortunately, the gphotos-sync tool stopped working in March 2025 when Google restricted the OAuth scopes, so I needed an alternative for my existing Google Photos setup. In this post, I describe how I have set up Immich, a self-hostable photo manager.\n",
+    "Confidence": 0.99797773
+  },
+  {
+    "Title": "How I Won My First Game Jam",
+    "Url": "https://irtaza.xyz/blog/how-i-won-my-first-game-jam/",
+    "Timestamp": "2025-11-30T02:02:53",
+    "Domain": "irtaza.xyz",
+    "Description": "I won with a bad game!",
+    "Confidence": 0.97292024
+  },
+  {
+    "Title": "Why I'm Shutting Down Lorelight (And What It Taught Me About GEO)",
+    "Url": "https://growwithless.com/shutting-down-lorelight/",
+    "Timestamp": "2025-11-30T02:02:47",
+    "Domain": "growwithless.com",
+    "Description": "I’m shutting down Lorelight.\nNot because it didn’t work. Not because I ran out of money. But because I realized something that probably should have been obvious from the start.\nLet me explain.\nWhat Was Lorelight? A few months ago, I launched Lorelight—a generative engine optimization (GEO) platform designed to help businesses improve their visibility in AI search engines like ChatGPT, Claude, and Perplexity.\nThe pitch was simple: as more people use AI to find information, brands need to optimize for these new platforms. Lorelight would track your brand mentions in ChatGPT, monitor visibility across AI-generated answers, and help you understand what was driving citations in AI search results.",
+    "Confidence": 0.93297637
+  },
+  {
+    "Title": "Field Entities, Not Craft",
+    "Url": "https://abacusnoir.com/2025/11/29/field-entities-not-craft/",
+    "Timestamp": "2025-11-30T02:02:44",
+    "Domain": "abacusnoir.com",
+    "Description": "(a different frame for UAPs)\n\nI was watching The Age of Disclosure the other night and got stuck at the point where they break down the \"five observables\": instant acceleration, no sonic boom, trans-medium travel, the whole suite of behaviors that make UAPs physically weird.\n\nThe standard debate is binary:",
+    "Confidence": 0.96488744
+  },
+  {
+    "Title": "Make It Easy for Humans | Tom Bedor's Blog",
+    "Url": "https://tombedor.dev/make-it-easy-for-humans/",
+    "Timestamp": "2025-11-30T02:02:39",
+    "Domain": "tombedor.dev",
+    "Description": "I recently wrote about optimizing repos for AI, but I've not quite settled on the question of, _should_ you optimize repos for AI? That is, is there really substantial daylight between what an AI dev needs and what a human needs?",
+    "Confidence": 0.9944312
+  },
+  {
+    "Title": "In Favor of Giving Things Up",
+    "Url": "https://www.raptitude.com/2025/11/in-favor-of-giving-things-up/",
+    "Timestamp": "2025-11-30T02:02:35",
+    "Domain": "www.raptitude.com",
+    "Description": "The human being is the only animal that can say no to treats. That’s what makes us special. A hungry dog, fish, sheep...",
+    "Confidence": 0.90637
+  },
+  {
+    "Title": "The Fastest Image Diffing Engine You've Never Heard Of - Vizzly Blog",
+    "Url": "https://vizzly.dev/blog/honeydiff-vs-odiff-pixelmatch-benchmarks/",
+    "Timestamp": "2025-11-30T02:02:31",
+    "Domain": "vizzly.dev",
+    "Description": "I benchmarked Honeydiff against the best tools in visual testing. 9-16x faster than odiff's SIMD-optimized Zig rewrite. Faster than anything Playwright, Cypress, or Percy use under the hood. Here's the data.",
+    "Confidence": 0.99665433
+  },
+  {
+    "Title": "Thinning layers",
+    "Url": "https://writethat.blog/layers.html",
+    "Timestamp": "2025-11-30T02:02:28",
+    "Domain": "writethat.blog",
+    "Description": "Running containers is fun, until you have to wait for 5 hours to download all the image layers from a rate-limited server through your brittle mobile connection. Let's dive a little deeper into what is actually stored in those layers and how to make them thinner.",
+    "Confidence": 0.9962089
+  },
+  {
+    "Title": "alex wennerberg",
+    "Url": "https://alexwennerberg.com/blog/2025-11-28-engineering.html",
+    "Timestamp": "2025-11-30T02:02:24",
+    "Domain": "alexwennerberg.com",
+    "Description": "If you live in or have been to New York City, you may recognize 432 Park Avenue.",
+    "Confidence": 0.9001825
+  },
+  {
+    "Title": "Create Repeatable Success",
+    "Url": "https://www.frankblecha.com/blog/create-repeatable-success.md/",
+    "Timestamp": "2025-11-30T02:02:21",
+    "Domain": "www.frankblecha.com",
+    "Description": "",
+    "Confidence": 0.98848003
+  },
+  {
+    "Title": "my data should not be your cookie jar",
+    "Url": "https://blog.avas.space/cookie-jar/",
+    "Timestamp": "2025-11-30T02:02:18",
+    "Domain": "blog.avas.space",
+    "Description": "Nothing about buying apples actually necessitates an app. But they want you to think it does.",
+    "Confidence": 0.8912211
+  },
+  {
+    "Title": "The Hidden Power of Empty Spaces: Why Your Brain Sees What Your Metrics Miss",
+    "Url": "https://kanbanzone.com/2025/power-of-empty-spaces-seeing-what-your-metrics-miss/",
+    "Timestamp": "2025-11-30T02:02:15",
+    "Domain": "kanbanzone.com",
+    "Description": "Stand in front of your Kanban board right now. Notice anything? That gut feeling about something being “off,” even though your metrics look normal? There's a fascinating reason why you should trust it.Your brain has one primary mission: to keep you alive and thriving while using as little energy as",
+    "Confidence": 0.61030245
+  },
+  {
+    "Title": "\"Courage to quit\" matters more for seniors, less for juniors",
+    "Url": "https://til.andrew-quinn.me/posts/courage-to-quit-matters-more-for-seniors-less-for-juniors/",
+    "Timestamp": "2025-11-30T02:02:11",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "As a teenager first getting into computers in the late 2000s I spent a lot of\ntime reading old\nrevered tomes like\nESR’s The Art of Unix Programming\nand\nSICP\n.\nIf present-day me were to isekai back in time and lose all of the technical\nknowledge I had but retain my current instincts, however, I would have left\nall of this on the table and just built a terrible new automation tool for\nthe surprisingly scriptable MMORPG I was into\nin PHP 5, with as much disregard for clean code and security practices\nthat I could muster[^1].\nThen I would have put that tool online, continued to add new features to the\nball of mud, and kept it running for 5-10 years before my first post-college\ninterview. And then the vibe that would come across is less “He’s an egghead,\nand we like that, but we really need someone who actually does things” and\nmore “He’s a meathead, but inside of that meathead is an egghead waiting to\nbe revealed. We need this kind of junior dev yesterday.”\nI would have done this even though\nan objectively far superior tool\nhad already existed for quite some time,\nmaking this project “feel like” dead weight in the wide world of software!\nBut why?",
+    "Confidence": 0.9598655
+  },
+  {
+    "Title": "Reconnecting with old friends",
+    "Url": "https://nafees.bearblog.dev/reconnecting-with-old-friends/",
+    "Timestamp": "2025-11-30T02:02:06",
+    "Domain": "nafees.bearblog.dev",
+    "Description": "I’ve been trying to reconnect with old friends from high school lately, and honestly, it’s been… weird. Not bad, not heartbreaking, just this strange mix of ...",
+    "Confidence": 0.929054
+  },
+  {
     "Title": "All it takes is for one to work out",
     "Url": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
     "Timestamp": "2025-11-30T01:02:02",
@@ -70,13 +182,5 @@
     "Domain": "molly.im",
     "Description": "Molly is an improved Signal app for Android",
     "Confidence": 0.95464987
-  },
-  {
-    "Title": "Can Dutch universities do without Microsoft?",
-    "Url": "https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft",
-    "Timestamp": "2025-11-29T02:02:05",
-    "Domain": "dub.uu.nl",
-    "Description": "Can Dutch higher education part ways with Microsoft? The sector is trying to break free, and alternatives are being explored here and there. At the same time, more and more tasks are being completed by Microsoft tools.",
-    "Confidence": 0.84596395
   }
 ]
