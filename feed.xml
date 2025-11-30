@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>All it takes is for one to work out</title>
+      <link>https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/</link>
+      <description>More than a decade ago, when I was applying to graduate school, I went through a period of deep uncertainty. I had tried the previous year and hadn’t gotten in anywhere. I wanted to try again, but …</description>
+      <guid>https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/</guid>
+      <pubDate>Sun, 30 Nov 2025 01:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Langjam Gamejam</title>
       <link>https://langjamgamejam.com/</link>
       <description>A 7-day challenge to create a programming language and then use it to build a game.</description>
@@ -89,15 +96,6 @@
       <category>ai</category>
       <guid>https://dub.uu.nl/en/news/can-dutch-universities-do-without-microsoft</guid>
       <pubDate>Sat, 29 Nov 2025 02:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network</title>
-      <link>https://blog.tymscar.com/posts/imgurukproxy/</link>
-      <description>Imgur started blocking UK users. Rather than installing a VPN on every device, I set up a network-wide proxy that tunnels Imgur traffic through a VPN automatically.</description>
-      <category>containers</category>
-      <category>conference</category>
-      <guid>https://blog.tymscar.com/posts/imgurukproxy/</guid>
-      <pubDate>Sat, 29 Nov 2025 01:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
