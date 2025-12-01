@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why xor eax, eax? — Matt Godbolt’s blog</title>
+      <link>https://xania.org/202512/01-xor-eax-eax</link>
+      <description>Why do compilers love xor-ing registers so much?</description>
+      <category>encryption</category>
+      <category>linux</category>
+      <guid>https://xania.org/202512/01-xor-eax-eax</guid>
+      <pubDate>Mon, 01 Dec 2025 17:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Linux &amp; DevOps Troubleshooting Interviews</title>
       <link>https://sadservers.com/advent</link>
       <description>Linux Troubleshooting Interview DevOps SRE</description>
@@ -244,27 +253,6 @@ other forges.</description>
       <category>git</category>
       <guid>https://github.com/davidfowl/aspire-docker-ssh-template</guid>
       <pubDate>Sun, 30 Nov 2025 18:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>About - Advent of Code 2025</title>
-      <link>https://adventofcode.com/2025/about</link>
-      <description>Hi!  I'm Eric Wastl. I make Advent of Code.  I hope you like it!  I also make lots of other things.  I'm on Bluesky, Mastodon, and GitHub.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://adventofcode.com/2025/about</guid>
-      <pubDate>Sun, 30 Nov 2025 17:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>prizrak.me blog</title>
-      <link>https://blog.prizrak.me/post/landlock/</link>
-      <description>Landlock is a Linux API that lets applications explicitly declare which resources they are allowed to access. Its philosophy is similar to OpenBSD’s unveil() and (less so) pledge(): programs can make a contract with the kernel stating, “I only need these files or resources — deny me everything else if I’m compromised.”</description>
-      <category>android</category>
-      <category>rust</category>
-      <category>linux</category>
-      <category>containers</category>
-      <category>apple</category>
-      <guid>https://blog.prizrak.me/post/landlock/</guid>
-      <pubDate>Sun, 30 Nov 2025 17:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

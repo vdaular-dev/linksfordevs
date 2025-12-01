@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Why xor eax, eax? — Matt Godbolt’s blog",
+    "Url": "https://xania.org/202512/01-xor-eax-eax",
+    "Timestamp": "2025-12-01T17:02:01",
+    "Domain": "xania.org",
+    "Description": "Why do compilers love xor-ing registers so much?",
+    "Confidence": 0.9890295
+  },
+  {
     "Title": "Linux & DevOps Troubleshooting Interviews",
     "Url": "https://sadservers.com/advent",
     "Timestamp": "2025-12-01T13:01:57",
@@ -190,21 +198,5 @@
     "Domain": "github.com",
     "Description": "A starter template for deploying Aspire applications with Docker over SSH. - davidfowl/aspire-docker-ssh-template",
     "Confidence": 0.9968013
-  },
-  {
-    "Title": "About - Advent of Code 2025",
-    "Url": "https://adventofcode.com/2025/about",
-    "Timestamp": "2025-11-30T17:02:02",
-    "Domain": "adventofcode.com",
-    "Description": "Hi!  I'm Eric Wastl. I make Advent of Code.  I hope you like it!  I also make lots of other things.  I'm on Bluesky, Mastodon, and GitHub.",
-    "Confidence": 0.98983115
-  },
-  {
-    "Title": "prizrak.me blog",
-    "Url": "https://blog.prizrak.me/post/landlock/",
-    "Timestamp": "2025-11-30T17:01:58",
-    "Domain": "blog.prizrak.me",
-    "Description": "Landlock is a Linux API that lets applications explicitly declare which resources they are allowed to access. Its philosophy is similar to OpenBSD’s unveil() and (less so) pledge(): programs can make a contract with the kernel stating, “I only need these files or resources — deny me everything else if I’m compromised.”",
-    "Confidence": 0.9908243
   }
 ]
