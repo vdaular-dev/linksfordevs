@@ -7,6 +7,146 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Are we in a GPT-4-style leap that evals can't see?</title>
+      <link>https://martinalderson.com/posts/are-we-in-a-gpt4-style-leap-that-evals-cant-see/</link>
+      <description>Gemini 3 Pro's design capabilities and Opus 4.5's reduced babysitting needs represent a subtle but significant leap that traditional benchmarks completely miss.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://martinalderson.com/posts/are-we-in-a-gpt4-style-leap-that-evals-cant-see/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>People Who Care</title>
+      <link>https://micahblachman.beehiiv.com/p/people-who-care</link>
+      <description>A twelve-year-old on personality in design</description>
+      <category>ai</category>
+      <guid>https://micahblachman.beehiiv.com/p/people-who-care</guid>
+      <pubDate>Mon, 01 Dec 2025 02:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Advent of Code CLI Client and Library</title>
+      <link>https://blog.miloslavhomer.cz/advent-of-code-cli-client-and-library/</link>
+      <description>Mariah Carey has awakened from her yearly slumber. Shops are frantically tearing down pumpkins and putting up hollies and reindeer. It is time. Brace yourselves, Christmas is coming.</description>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://blog.miloslavhomer.cz/advent-of-code-cli-client-and-library/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons learned from contributing to PyTorch</title>
+      <link>https://michaelgathara.org/pytorch_lessons</link>
+      <description>Some lessons i've learned while contributing to PyTorch</description>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://michaelgathara.org/pytorch_lessons</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>The end of the road for kafka-delta-ingest</title>
+      <link>https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html</link>
+      <description>
+     After five years in production kafka-delta-ingest at Scribd has been shut off
+and removed from our infrastructure.
+kafka-delta-ingest was the
+motivation behind my team creating
+delta-rs, the most successful open
+source project I have started to date. With kafka-delta-ingest we achieved our
+original stated goals and reduced streaming data ingestion costs by 95%. In
+the time since however, we have further reduced that cost with even more
+efficient infrastructure.
+
+
+     </description>
+      <category>rust</category>
+      <category>web</category>
+      <guid>https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Documentation For Prompts</title>
+      <link>https://folio.benguzovsky.com/prompt-docs</link>
+      <description>Prompts are taking over codebases. How do we maintain them?</description>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://folio.benguzovsky.com/prompt-docs</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-hosting slides from sli.dev | Deveesh Shetty</title>
+      <link>https://dev.shetty.me/blog/self-hosting-slides-from-slidev</link>
+      <description>Selfhosting my slides on my VPS using nginx, with a detailed guide on how to setup a subdomain and nginx to serve your static files.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <guid>https://dev.shetty.me/blog/self-hosting-slides-from-slidev</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uncle Nerd Runs A Marathon</title>
+      <link>https://lupyuen.org/articles/marathon.html</link>
+      <description>Our 42 km Full Marathon Training turned out surprisingly successful! Let's look back and technically document everything that happened, over the past 6 months.</description>
+      <category>rust</category>
+      <guid>https://lupyuen.org/articles/marathon.html</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blog - What are microservices? (seriously)</title>
+      <link>https://bykozy.me/blog/what-are-microservices-seriously/</link>
+      <description>I used to particupate in many discussions about microservices, but over time I began to notice one strange phenomena: when 10 people are talking about microservices every one of them has slightly different meaning of the word. It goes like this:
+— Of course we use microservices. Our authorization lives in a separate microservice, game logic and stats live in the second microservices, and our PostgreSQL DB is a third microservice.
+— Wait, but your main logic service is not really “micro”. And your PostgreSQL storage is neither, it’s handling hell lot of responsibilities.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>web</category>
+      <category>gaming</category>
+      <guid>https://bykozy.me/blog/what-are-microservices-seriously/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why gRPC Uses HTTP2</title>
+      <link>https://arpitbhayani.me/blogs/grpc-http2/</link>
+      <description>When Google introduced gRPC in 2015, one of the most significant architectural decisions was building it on top of HTTP/2 rather than the widely adopted HTTP/1.1. This was just about following some trend, but a deliberate choice that fundamentally shapes how gRPC performs and behaves.</description>
+      <category>javascript</category>
+      <guid>https://arpitbhayani.me/blogs/grpc-http2/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Timeline for Selling a Micro-SaaS</title>
+      <link>https://www.jrhizor.dev/posts/timeline-for-selling-a-microsaas</link>
+      <description>A detailed timeline of selling a micro-SaaS on Acquire.com, including pricing strategies (and foibles) and lessons learned from building and selling a calorie tracker without a large audience.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://www.jrhizor.dev/posts/timeline-for-selling-a-microsaas</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrating from Jekyll to Ghost Blog</title>
+      <link>https://hughevans.dev/migrating-from-jekyll-to-ghost-blog/</link>
+      <description>I decided to migrate my simple static Jekyll site to Ghost Blog: a powerful open-source blog and newsletter platform.</description>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://hughevans.dev/migrating-from-jekyll-to-ghost-blog/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Listen to music like it’s 2005 : Luke Cyca Dot Calm</title>
+      <link>https://lukecyca.com/2025/listen-to-music-like-its-2005.html</link>
+      <description>Getting off spotify and rediscovering my own music collection</description>
+      <guid>https://lukecyca.com/2025/listen-to-music-like-its-2005.html</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's Hard to Feel the AGI · Tensor Labbet</title>
+      <link>https://tensorlabbet.com/2025/11/30/hard-to-feel-agi/</link>
+      <description>30 Nov 2025, Taro Langner</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://tensorlabbet.com/2025/11/30/hard-to-feel-agi/</guid>
+      <pubDate>Mon, 01 Dec 2025 02:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Writing a good CLAUDE.md</title>
       <link>https://www.humanlayer.dev/blog/writing-a-good-claude-md</link>
       <description>`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.</description>
@@ -131,158 +271,6 @@ other forges.</description>
       <category>ai</category>
       <guid>https://its.promp.td/its-always-the-process-stupid/</guid>
       <pubDate>Sun, 30 Nov 2025 03:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-hosting my photos with Immich</title>
-      <link>https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/</link>
-      <description>For every cloud service I use, I want to have a local copy of my data for backup purposes and independence. Unfortunately, the gphotos-sync tool stopped working in March 2025 when Google restricted the OAuth scopes, so I needed an alternative for my existing Google Photos setup. In this post, I describe how I have set up Immich, a self-hostable photo manager.
-</description>
-      <category>apple</category>
-      <category>encryption</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://michael.stapelberg.ch/posts/2025-11-29-self-hosting-photos-with-immich/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Won My First Game Jam</title>
-      <link>https://irtaza.xyz/blog/how-i-won-my-first-game-jam/</link>
-      <description>I won with a bad game!</description>
-      <category>gaming</category>
-      <guid>https://irtaza.xyz/blog/how-i-won-my-first-game-jam/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I'm Shutting Down Lorelight (And What It Taught Me About GEO)</title>
-      <link>https://growwithless.com/shutting-down-lorelight/</link>
-      <description>I’m shutting down Lorelight.
-Not because it didn’t work. Not because I ran out of money. But because I realized something that probably should have been obvious from the start.
-Let me explain.
-What Was Lorelight? A few months ago, I launched Lorelight—a generative engine optimization (GEO) platform designed to help businesses improve their visibility in AI search engines like ChatGPT, Claude, and Perplexity.
-The pitch was simple: as more people use AI to find information, brands need to optimize for these new platforms. Lorelight would track your brand mentions in ChatGPT, monitor visibility across AI-generated answers, and help you understand what was driving citations in AI search results.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://growwithless.com/shutting-down-lorelight/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Field Entities, Not Craft</title>
-      <link>https://abacusnoir.com/2025/11/29/field-entities-not-craft/</link>
-      <description>(a different frame for UAPs)
-
-I was watching The Age of Disclosure the other night and got stuck at the point where they break down the "five observables": instant acceleration, no sonic boom, trans-medium travel, the whole suite of behaviors that make UAPs physically weird.
-
-The standard debate is binary:</description>
-      <category>ai</category>
-      <guid>https://abacusnoir.com/2025/11/29/field-entities-not-craft/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Make It Easy for Humans | Tom Bedor's Blog</title>
-      <link>https://tombedor.dev/make-it-easy-for-humans/</link>
-      <description>I recently wrote about optimizing repos for AI, but I've not quite settled on the question of, _should_ you optimize repos for AI? That is, is there really substantial daylight between what an AI dev needs and what a human needs?</description>
-      <category>ai</category>
-      <guid>https://tombedor.dev/make-it-easy-for-humans/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>In Favor of Giving Things Up</title>
-      <link>https://www.raptitude.com/2025/11/in-favor-of-giving-things-up/</link>
-      <description>The human being is the only animal that can say no to treats. That’s what makes us special. A hungry dog, fish, sheep...</description>
-      <guid>https://www.raptitude.com/2025/11/in-favor-of-giving-things-up/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Fastest Image Diffing Engine You've Never Heard Of - Vizzly Blog</title>
-      <link>https://vizzly.dev/blog/honeydiff-vs-odiff-pixelmatch-benchmarks/</link>
-      <description>I benchmarked Honeydiff against the best tools in visual testing. 9-16x faster than odiff's SIMD-optimized Zig rewrite. Faster than anything Playwright, Cypress, or Percy use under the hood. Here's the data.</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>nodejs</category>
-      <guid>https://vizzly.dev/blog/honeydiff-vs-odiff-pixelmatch-benchmarks/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thinning layers</title>
-      <link>https://writethat.blog/layers.html</link>
-      <description>Running containers is fun, until you have to wait for 5 hours to download all the image layers from a rate-limited server through your brittle mobile connection. Let's dive a little deeper into what is actually stored in those layers and how to make them thinner.</description>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>python</category>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://writethat.blog/layers.html</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>alex wennerberg</title>
-      <link>https://alexwennerberg.com/blog/2025-11-28-engineering.html</link>
-      <description>If you live in or have been to New York City, you may recognize 432 Park Avenue.</description>
-      <category>gaming</category>
-      <guid>https://alexwennerberg.com/blog/2025-11-28-engineering.html</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Create Repeatable Success</title>
-      <link>https://www.frankblecha.com/blog/create-repeatable-success.md/</link>
-      <description></description>
-      <guid>https://www.frankblecha.com/blog/create-repeatable-success.md/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>my data should not be your cookie jar</title>
-      <link>https://blog.avas.space/cookie-jar/</link>
-      <description>Nothing about buying apples actually necessitates an app. But they want you to think it does.</description>
-      <category>ai</category>
-      <guid>https://blog.avas.space/cookie-jar/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Hidden Power of Empty Spaces: Why Your Brain Sees What Your Metrics Miss</title>
-      <link>https://kanbanzone.com/2025/power-of-empty-spaces-seeing-what-your-metrics-miss/</link>
-      <description>Stand in front of your Kanban board right now. Notice anything? That gut feeling about something being “off,” even though your metrics look normal? There's a fascinating reason why you should trust it.Your brain has one primary mission: to keep you alive and thriving while using as little energy as</description>
-      <guid>https://kanbanzone.com/2025/power-of-empty-spaces-seeing-what-your-metrics-miss/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Courage to quit" matters more for seniors, less for juniors</title>
-      <link>https://til.andrew-quinn.me/posts/courage-to-quit-matters-more-for-seniors-less-for-juniors/</link>
-      <description>As a teenager first getting into computers in the late 2000s I spent a lot of
-time reading old
-revered tomes like
-ESR’s The Art of Unix Programming
-and
-SICP
-.
-If present-day me were to isekai back in time and lose all of the technical
-knowledge I had but retain my current instincts, however, I would have left
-all of this on the table and just built a terrible new automation tool for
-the surprisingly scriptable MMORPG I was into
-in PHP 5, with as much disregard for clean code and security practices
-that I could muster[^1].
-Then I would have put that tool online, continued to add new features to the
-ball of mud, and kept it running for 5-10 years before my first post-college
-interview. And then the vibe that would come across is less “He’s an egghead,
-and we like that, but we really need someone who actually does things” and
-more “He’s a meathead, but inside of that meathead is an egghead waiting to
-be revealed. We need this kind of junior dev yesterday.”
-I would have done this even though
-an objectively far superior tool
-had already existed for quite some time,
-making this project “feel like” dead weight in the wide world of software!
-But why?</description>
-      <category>encryption</category>
-      <guid>https://til.andrew-quinn.me/posts/courage-to-quit-matters-more-for-seniors-less-for-juniors/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reconnecting with old friends</title>
-      <link>https://nafees.bearblog.dev/reconnecting-with-old-friends/</link>
-      <description>I’ve been trying to reconnect with old friends from high school lately, and honestly, it’s been… weird. Not bad, not heartbreaking, just this strange mix of ...</description>
-      <guid>https://nafees.bearblog.dev/reconnecting-with-old-friends/</guid>
-      <pubDate>Sun, 30 Nov 2025 02:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

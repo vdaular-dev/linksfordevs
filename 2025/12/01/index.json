@@ -1,5 +1,103 @@
 [
   {
+    "Title": "Are we in a GPT-4-style leap that evals can't see?",
+    "Url": "https://martinalderson.com/posts/are-we-in-a-gpt4-style-leap-that-evals-cant-see/",
+    "Timestamp": "2025-12-01T02:03:11",
+    "Domain": "martinalderson.com",
+    "Description": "Gemini 3 Pro's design capabilities and Opus 4.5's reduced babysitting needs represent a subtle but significant leap that traditional benchmarks completely miss."
+  },
+  {
+    "Title": "People Who Care",
+    "Url": "https://micahblachman.beehiiv.com/p/people-who-care",
+    "Timestamp": "2025-12-01T02:03:04",
+    "Domain": "micahblachman.beehiiv.com",
+    "Description": "A twelve-year-old on personality in design"
+  },
+  {
+    "Title": "Advent of Code CLI Client and Library",
+    "Url": "https://blog.miloslavhomer.cz/advent-of-code-cli-client-and-library/",
+    "Timestamp": "2025-12-01T02:03:00",
+    "Domain": "blog.miloslavhomer.cz",
+    "Description": "Mariah Carey has awakened from her yearly slumber. Shops are frantically tearing down pumpkins and putting up hollies and reindeer. It is time. Brace yourselves, Christmas is coming."
+  },
+  {
+    "Title": "Lessons learned from contributing to PyTorch",
+    "Url": "https://michaelgathara.org/pytorch_lessons",
+    "Timestamp": "2025-12-01T02:02:54",
+    "Domain": "michaelgathara.org",
+    "Description": "Some lessons i've learned while contributing to PyTorch"
+  },
+  {
+    "Title": "The end of the road for kafka-delta-ingest",
+    "Url": "https://brokenco.de/2025/10/30/kafka-delta-ingest-was-fun.html",
+    "Timestamp": "2025-12-01T02:02:51",
+    "Domain": "brokenco.de",
+    "Description": "\n     After five years in production kafka-delta-ingest at Scribd has been shut off\nand removed from our infrastructure.\nkafka-delta-ingest was the\nmotivation behind my team creating\ndelta-rs, the most successful open\nsource project I have started to date. With kafka-delta-ingest we achieved our\noriginal stated goals and reduced streaming data ingestion costs by 95%. In\nthe time since however, we have further reduced that cost with even more\nefficient infrastructure.\n\n\n     "
+  },
+  {
+    "Title": "Documentation For Prompts",
+    "Url": "https://folio.benguzovsky.com/prompt-docs",
+    "Timestamp": "2025-12-01T02:02:47",
+    "Domain": "folio.benguzovsky.com",
+    "Description": "Prompts are taking over codebases. How do we maintain them?"
+  },
+  {
+    "Title": "Self-hosting slides from sli.dev | Deveesh Shetty",
+    "Url": "https://dev.shetty.me/blog/self-hosting-slides-from-slidev",
+    "Timestamp": "2025-12-01T02:02:44",
+    "Domain": "dev.shetty.me",
+    "Description": "Selfhosting my slides on my VPS using nginx, with a detailed guide on how to setup a subdomain and nginx to serve your static files."
+  },
+  {
+    "Title": "Uncle Nerd Runs A Marathon",
+    "Url": "https://lupyuen.org/articles/marathon.html",
+    "Timestamp": "2025-12-01T02:02:40",
+    "Domain": "lupyuen.org",
+    "Description": "Our 42 km Full Marathon Training turned out surprisingly successful! Let's look back and technically document everything that happened, over the past 6 months."
+  },
+  {
+    "Title": "Blog - What are microservices? (seriously)",
+    "Url": "https://bykozy.me/blog/what-are-microservices-seriously/",
+    "Timestamp": "2025-12-01T02:02:36",
+    "Domain": "bykozy.me",
+    "Description": "I used to particupate in many discussions about microservices, but over time I began to notice one strange phenomena: when 10 people are talking about microservices every one of them has slightly different meaning of the word. It goes like this:\n— Of course we use microservices. Our authorization lives in a separate microservice, game logic and stats live in the second microservices, and our PostgreSQL DB is a third microservice.\n— Wait, but your main logic service is not really “micro”. And your PostgreSQL storage is neither, it’s handling hell lot of responsibilities."
+  },
+  {
+    "Title": "Why gRPC Uses HTTP2",
+    "Url": "https://arpitbhayani.me/blogs/grpc-http2/",
+    "Timestamp": "2025-12-01T02:02:31",
+    "Domain": "arpitbhayani.me",
+    "Description": "When Google introduced gRPC in 2015, one of the most significant architectural decisions was building it on top of HTTP/2 rather than the widely adopted HTTP/1.1. This was just about following some trend, but a deliberate choice that fundamentally shapes how gRPC performs and behaves."
+  },
+  {
+    "Title": "Timeline for Selling a Micro-SaaS",
+    "Url": "https://www.jrhizor.dev/posts/timeline-for-selling-a-microsaas",
+    "Timestamp": "2025-12-01T02:02:27",
+    "Domain": "www.jrhizor.dev",
+    "Description": "A detailed timeline of selling a micro-SaaS on Acquire.com, including pricing strategies (and foibles) and lessons learned from building and selling a calorie tracker without a large audience."
+  },
+  {
+    "Title": "Migrating from Jekyll to Ghost Blog",
+    "Url": "https://hughevans.dev/migrating-from-jekyll-to-ghost-blog/",
+    "Timestamp": "2025-12-01T02:02:20",
+    "Domain": "hughevans.dev",
+    "Description": "I decided to migrate my simple static Jekyll site to Ghost Blog: a powerful open-source blog and newsletter platform."
+  },
+  {
+    "Title": "Listen to music like it’s 2005 : Luke Cyca Dot Calm",
+    "Url": "https://lukecyca.com/2025/listen-to-music-like-its-2005.html",
+    "Timestamp": "2025-12-01T02:02:15",
+    "Domain": "lukecyca.com",
+    "Description": "Getting off spotify and rediscovering my own music collection"
+  },
+  {
+    "Title": "It's Hard to Feel the AGI · Tensor Labbet",
+    "Url": "https://tensorlabbet.com/2025/11/30/hard-to-feel-agi/",
+    "Timestamp": "2025-12-01T02:02:11",
+    "Domain": "tensorlabbet.com",
+    "Description": "30 Nov 2025, Taro Langner"
+  },
+  {
     "Title": "Writing a good CLAUDE.md",
     "Url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
     "Timestamp": "2025-12-01T01:02:02",
