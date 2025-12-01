@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Website Task Flowchart</title>
+      <link>https://xkcd.com/3175/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3175/</guid>
+      <pubDate>Mon, 01 Dec 2025 20:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>There are 47.2 million developers in the world - Global developer population trends 2025</title>
       <link>https://www.slashdata.co/post/global-developer-population-trends-2025-how-many-developers-are-there</link>
       <description>Explore key developer trends: developer population growth, rising languages like Rust, and booming sectors like embedded and visual tools.</description>
@@ -245,14 +253,6 @@ other forges.</description>
       <category>ai</category>
       <guid>https://gpt3experiments.substack.com/p/dont-push-ai-down-our-throats</guid>
       <pubDate>Sun, 30 Nov 2025 23:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows drive letters are not limited to A-Z</title>
-      <link>https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/</link>
-      <description>If you want €:, you can have it, sort of</description>
-      <category>rust</category>
-      <guid>https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/</guid>
-      <pubDate>Sun, 30 Nov 2025 20:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
