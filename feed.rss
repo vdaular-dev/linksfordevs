@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>There are 47.2 million developers in the world - Global developer population trends 2025</title>
+      <link>https://www.slashdata.co/post/global-developer-population-trends-2025-how-many-developers-are-there</link>
+      <description>Explore key developer trends: developer population growth, rising languages like Rust, and booming sectors like embedded and visual tools.</description>
+      <author> (SlashData Team)</author>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.slashdata.co/post/global-developer-population-trends-2025-how-many-developers-are-there</guid>
+      <pubDate>Mon, 01 Dec 2025 19:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Why xor eax, eax? — Matt Godbolt’s blog</title>
       <link>https://xania.org/202512/01-xor-eax-eax</link>
       <description>Why do compilers love xor-ing registers so much?</description>
