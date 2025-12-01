@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Writing a good CLAUDE.md",
+    "Url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+    "Timestamp": "2025-12-01T01:02:02",
+    "Domain": "www.humanlayer.dev",
+    "Description": "`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.",
+    "Confidence": 0.9986948
+  },
+  {
+    "Title": "Migrating Dillo from GitHub",
+    "Url": "https://dillo-browser.org/news/migration-from-github/",
+    "Timestamp": "2025-12-01T01:01:58",
+    "Domain": "dillo-browser.org",
+    "Description": "I would like to migrate the Dillo project away from\nGitHub\ninto a new home which is more friendly to be used with Dillo and solves some of\nits problems. This page summarizes the current situation with GitHub and why I\ndecided to move away from it into a self-hosted server with multiple mirrors in\nother forges.",
+    "Confidence": 0.9925724
+  },
+  {
     "Title": "The Math of Why You Can't Focus at Work",
     "Url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
     "Timestamp": "2025-12-01T00:02:09",
@@ -190,13 +206,5 @@
     "Domain": "nafees.bearblog.dev",
     "Description": "I’ve been trying to reconnect with old friends from high school lately, and honestly, it’s been… weird. Not bad, not heartbreaking, just this strange mix of ...",
     "Confidence": 0.929054
-  },
-  {
-    "Title": "All it takes is for one to work out",
-    "Url": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
-    "Timestamp": "2025-11-30T01:02:02",
-    "Domain": "alearningaday.blog",
-    "Description": "More than a decade ago, when I was applying to graduate school, I went through a period of deep uncertainty. I had tried the previous year and hadn’t gotten in anywhere. I wanted to try again, but …",
-    "Confidence": 0.96328026
   }
 ]

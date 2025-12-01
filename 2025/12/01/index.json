@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Writing a good CLAUDE.md",
+    "Url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+    "Timestamp": "2025-12-01T01:02:02",
+    "Domain": "www.humanlayer.dev",
+    "Description": "`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering."
+  },
+  {
+    "Title": "Migrating Dillo from GitHub",
+    "Url": "https://dillo-browser.org/news/migration-from-github/",
+    "Timestamp": "2025-12-01T01:01:58",
+    "Domain": "dillo-browser.org",
+    "Description": "I would like to migrate the Dillo project away from\nGitHub\ninto a new home which is more friendly to be used with Dillo and solves some of\nits problems. This page summarizes the current situation with GitHub and why I\ndecided to move away from it into a self-hosted server with multiple mirrors in\nother forges."
+  },
+  {
     "Title": "The Math of Why You Can't Focus at Work",
     "Url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
     "Timestamp": "2025-12-01T00:02:09",
