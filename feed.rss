@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Mistral 3 | Mistral AI</title>
+      <link>https://mistral.ai/news/mistral-3</link>
+      <description>A family of frontier open-source multimodal models</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://mistral.ai/news/mistral-3</guid>
+      <pubDate>Tue, 02 Dec 2025 17:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vertical Christmas from Dave's Garage!</title>
+      <link>https://youtube.com/watch?v=qwmKhOm5phg</link>
+      <description>Subscribe for quality Windows and Retro content!</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=qwmKhOm5phg</guid>
+      <pubDate>Tue, 02 Dec 2025 17:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>End-to-End Video Generative Modeling with Normalizing Flows</title>
       <link>https://starflow-v.github.io/</link>
       <description>STARFlow-V is the first normalizing flow-based causal video generator demonstrating that normalizing flows can match video diffusion models in visual quality while offering end-to-end training, exact likelihood estimation, and native multi-task support across T2V/I2V/V2V generation.</description>
@@ -314,15 +334,6 @@ https://www.youtube.com/@davepl</description>
       <category>ai</category>
       <guid>https://www.slashdata.co/post/global-developer-population-trends-2025-how-many-developers-are-there</guid>
       <pubDate>Mon, 01 Dec 2025 19:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why xor eax, eax? — Matt Godbolt’s blog</title>
-      <link>https://xania.org/202512/01-xor-eax-eax</link>
-      <description>Why do compilers love xor-ing registers so much?</description>
-      <category>encryption</category>
-      <category>linux</category>
-      <guid>https://xania.org/202512/01-xor-eax-eax</guid>
-      <pubDate>Mon, 01 Dec 2025 17:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

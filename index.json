@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Introducing Mistral 3 | Mistral AI",
+    "Url": "https://mistral.ai/news/mistral-3",
+    "Timestamp": "2025-12-02T17:02:01",
+    "Domain": "mistral.ai",
+    "Description": "A family of frontier open-source multimodal models",
+    "Confidence": 0.9654651
+  },
+  {
+    "Title": "Vertical Christmas from Dave's Garage!",
+    "Url": "https://youtube.com/watch?v=qwmKhOm5phg",
+    "Timestamp": "2025-12-02T17:01:57",
+    "Domain": "youtube.com",
+    "Description": "Subscribe for quality Windows and Retro content!",
+    "Confidence": 0.9757106
+  },
+  {
     "Title": "End-to-End Video Generative Modeling with Normalizing Flows",
     "Url": "https://starflow-v.github.io/",
     "Timestamp": "2025-12-02T15:02:08",
@@ -262,13 +278,5 @@
     "Domain": "www.slashdata.co",
     "Description": "Explore key developer trends: developer population growth, rising languages like Rust, and booming sectors like embedded and visual tools.",
     "Confidence": 0.9833433
-  },
-  {
-    "Title": "Why xor eax, eax? — Matt Godbolt’s blog",
-    "Url": "https://xania.org/202512/01-xor-eax-eax",
-    "Timestamp": "2025-12-01T17:02:01",
-    "Domain": "xania.org",
-    "Description": "Why do compilers love xor-ing registers so much?",
-    "Confidence": 0.9890295
   }
 ]
