@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Around The World, Part 27: Planting trees",
+    "Url": "https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/",
+    "Timestamp": "2025-12-02T01:01:58",
+    "Domain": "frozenfractal.com",
+    "Description": "In the previous post, I determined what kind of vegetation should grow where in my procedurally generated world. Now it’s time to actually plant those plants!",
+    "Confidence": 0.95173514
+  },
+  {
     "Title": "Always Do a Work Trial",
     "Url": "https://blog.abdellatif.io/always-do-a-work-trial",
     "Timestamp": "2025-12-02T00:03:38",
@@ -350,21 +358,5 @@
     "Domain": "tensorlabbet.com",
     "Description": "30 Nov 2025, Taro Langner",
     "Confidence": 0.9392905
-  },
-  {
-    "Title": "Writing a good CLAUDE.md",
-    "Url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
-    "Timestamp": "2025-12-01T01:02:02",
-    "Domain": "www.humanlayer.dev",
-    "Description": "`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.",
-    "Confidence": 0.9986948
-  },
-  {
-    "Title": "Migrating Dillo from GitHub",
-    "Url": "https://dillo-browser.org/news/migration-from-github/",
-    "Timestamp": "2025-12-01T01:01:58",
-    "Domain": "dillo-browser.org",
-    "Description": "I would like to migrate the Dillo project away from\nGitHub\ninto a new home which is more friendly to be used with Dillo and solves some of\nits problems. This page summarizes the current situation with GitHub and why I\ndecided to move away from it into a self-hosted server with multiple mirrors in\nother forges.",
-    "Confidence": 0.9925724
   }
 ]

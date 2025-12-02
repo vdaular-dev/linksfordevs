@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Around The World, Part 27: Planting trees</title>
+      <link>https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/</link>
+      <description>In the previous post, I determined what kind of vegetation should grow where in my procedurally generated world. Now it’s time to actually plant those plants!</description>
+      <category>gaming</category>
+      <guid>https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/</guid>
+      <pubDate>Tue, 02 Dec 2025 01:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Always Do a Work Trial</title>
       <link>https://blog.abdellatif.io/always-do-a-work-trial</link>
       <description>Why work trials are the best way to evaluate candidates and find great matches beyond traditional interviews.</description>
@@ -426,35 +434,6 @@ efficient infrastructure.
       <category>vscode</category>
       <guid>https://tensorlabbet.com/2025/11/30/hard-to-feel-agi/</guid>
       <pubDate>Mon, 01 Dec 2025 02:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing a good CLAUDE.md</title>
-      <link>https://www.humanlayer.dev/blog/writing-a-good-claude-md</link>
-      <description>`CLAUDE.md` is a high-leverage configuration point for Claude Code. Learning how to write a good `CLAUDE.md` (or `AGENTS.md`) is a key skill for agent-enabled software engineering.</description>
-      <author> (Kyle Mistele)</author>
-      <category>ai</category>
-      <category>sql</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://www.humanlayer.dev/blog/writing-a-good-claude-md</guid>
-      <pubDate>Mon, 01 Dec 2025 01:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrating Dillo from GitHub</title>
-      <link>https://dillo-browser.org/news/migration-from-github/</link>
-      <description>I would like to migrate the Dillo project away from
-GitHub
-into a new home which is more friendly to be used with Dillo and solves some of
-its problems. This page summarizes the current situation with GitHub and why I
-decided to move away from it into a self-hosted server with multiple mirrors in
-other forges.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>web</category>
-      <category>apple</category>
-      <guid>https://dillo-browser.org/news/migration-from-github/</guid>
-      <pubDate>Mon, 01 Dec 2025 01:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>
