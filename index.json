@@ -1,5 +1,189 @@
 [
   {
+    "Title": "Always Do a Work Trial",
+    "Url": "https://blog.abdellatif.io/always-do-a-work-trial",
+    "Timestamp": "2025-12-02T00:03:38",
+    "Domain": "blog.abdellatif.io",
+    "Description": "Why work trials are the best way to evaluate candidates and find great matches beyond traditional interviews.",
+    "Confidence": 0.98280966
+  },
+  {
+    "Title": "The End of the Train-Test Split",
+    "Url": "https://folio.benguzovsky.com/train-test",
+    "Timestamp": "2025-12-02T00:03:34",
+    "Domain": "folio.benguzovsky.com",
+    "Description": "The train-test split does not work for classification tasks at the frontier of LLM capability.",
+    "Confidence": 0.9705476
+  },
+  {
+    "Title": "What is a City Super App and Why Every City Needs One – Mert Bulan",
+    "Url": "https://mertbulan.com/2025/12/01/what-is-a-city-super-app-and-why-every-city-needs-one/",
+    "Timestamp": "2025-12-02T00:03:31",
+    "Domain": "mertbulan.com",
+    "Description": "Why I believe every city needs a super app and how it will transform the way we engage with digital devices.",
+    "Confidence": 0.97595155
+  },
+  {
+    "Title": "Packaging Caffeine | Caffeine",
+    "Url": "https://caffeine-lang.run/blog/packaging-caffeine",
+    "Timestamp": "2025-12-02T00:03:28",
+    "Domain": "caffeine-lang.run",
+    "Description": "A step-by-step guide to creating distributable binaries from Gleam code by targeting JavaScript and compiling with Deno.",
+    "Confidence": 0.9974529
+  },
+  {
+    "Title": "Periodic Spaces",
+    "Url": "https://ianthehenry.com/posts/periodic-spaces/",
+    "Timestamp": "2025-12-02T00:03:24",
+    "Domain": "ianthehenry.com",
+    "Description": "One of my favorite SDF techniques is domain repetition:",
+    "Confidence": 0.99798787
+  },
+  {
+    "Title": "Computer Science Degree in 2026",
+    "Url": "https://chrisdail.com/posts/choose-computer-science/",
+    "Timestamp": "2025-12-02T00:03:19",
+    "Domain": "chrisdail.com",
+    "Description": "Is it wise to start a Computer Science degree in 2026? Is AI going to take all of the software development jobs? These are especially relevant questions for me as my son graduates from high school this year. This is the advice I gave him.\nI believe it is a fine choice to take Computer Science in the year 2026, provided the following two things are true:\nYou love it - The days of this degree guaranteeing a good-paying job are over. If you are just in it for the money, take up a trade which pays well and is in high demand. Competition for jobs, especially at the entry level, will remain high, so this is only a place for people who love it. You have the mind for it - If you don’t have strong critical thinking and problem-solving skills, you are better off looking elsewhere. The mediocre or below-average software developer will be the first to be displaced by AI. I graduated with my Computer Science degree at a funny time. The year was 2003, and we had just navigated through the dot-com bust. Similar to the market today, it was very challenging to find work. For the next few years, the common wisdom was “Don’t take Computer Science”. High School guidance counsellors were advising students to stay away. I remember visiting my University and was shocked to see how much the CS school had shrunk. Just a few years later, in 2008, I was having a terrible time trying to hire people. There were simply too few people with the skills required.",
+    "Confidence": 0.96493
+  },
+  {
+    "Title": "The Anatomy of a One-Shot Prompt",
+    "Url": "https://rashidazarang.com/c/the-anatomy-of-a-one-shot-prompt",
+    "Timestamp": "2025-12-02T00:03:16",
+    "Domain": "rashidazarang.com",
+    "Description": "← Go back",
+    "Confidence": 0.9855472
+  },
+  {
+    "Title": "how i found a europa.eu compromise (thanks to cricket)",
+    "Url": "https://blog.himanshuanand.com/2025/11/how-i-found-a-europa.eu-compromise-thanks-to-cricket/",
+    "Timestamp": "2025-12-02T00:03:12",
+    "Domain": "blog.himanshuanand.com",
+    "Description": "TLDR\nWhile looking for a way to stream the India vs Pakistan cricket match on 14th September 2025, I stumbled across a suspicious search result on a europa.eu dev subdomain. It was being abused for blackhat SEO and redirecting users to scam streaming sites. I traced similar behavior across other high-profile domains, reported the issue to CERT-EU via email (after some Twitter help) and the problem was later confirmed as fixed on 6th November 2025.",
+    "Confidence": 0.961161
+  },
+  {
+    "Title": "Better than JSON",
+    "Url": "https://aloisdeniel.com/blog/better-than-json",
+    "Timestamp": "2025-12-02T00:03:09",
+    "Domain": "aloisdeniel.com",
+    "Description": "An in-depth look at why Protobuf can outperform JSON for modern APIs, with practical Dart examples showing how strong typing, binary serialization, and shared schemas improve both performance and developer experience.",
+    "Confidence": 0.99836695
+  },
+  {
+    "Title": "Multi-Horizon Delivery Framework",
+    "Url": "https://yusufaytas.com/multi-horizon-delivery-framework/",
+    "Timestamp": "2025-12-02T00:03:05",
+    "Domain": "yusufaytas.com",
+    "Description": "A practical model for aligning execution and strategy through clear risk signals, priorities, and structured planning.",
+    "Confidence": 0.97547024
+  },
+  {
+    "Title": "Prompt the Loop When Using Coding Agents",
+    "Url": "https://www.skeptrune.com/posts/prompting-the-agent-loop/",
+    "Timestamp": "2025-12-02T00:03:01",
+    "Domain": "www.skeptrune.com",
+    "Description": "The difference between a language model and an agent isn't just tool access. It's about giving the agent a condition to loop on. Here's how to prompt agents to actually finish tasks instead of just taking first steps.",
+    "Confidence": 0.99396
+  },
+  {
+    "Title": "Some musings on code generation: kintsugi",
+    "Url": "https://blog.engora.com/2025/12/some-musings-on-code-generation-kintsugi.html",
+    "Timestamp": "2025-12-02T00:02:57",
+    "Domain": "blog.engora.com",
+    "Description": "How code generation can be made to work in the real world.",
+    "Confidence": 0.9822421
+  },
+  {
+    "Title": "Maxims of good software",
+    "Url": "https://kevingugelmann.com/essays/software-maxims",
+    "Timestamp": "2025-12-02T00:02:53",
+    "Domain": "kevingugelmann.com",
+    "Description": "An essay by Kevin Gugelmann",
+    "Confidence": 0.98467314
+  },
+  {
+    "Title": "Can LLMs give us AGI if they are bad at arithmetic? – Wes McKinney",
+    "Url": "https://wesmckinney.com/blog/llms-arithmetic/",
+    "Timestamp": "2025-12-02T00:02:49",
+    "Domain": "wesmckinney.com",
+    "Description": "",
+    "Confidence": 0.96826893
+  },
+  {
+    "Title": "Karim Shehadeh - The Quiet Grief Behind Modern Management",
+    "Url": "https://karim.cloud/blog/posts/quiet-grief",
+    "Timestamp": "2025-12-02T00:02:45",
+    "Domain": "karim.cloud",
+    "Description": "For people who know me, it might be surprising to hear how much I love people 🙂. Especially the folks on the teams I’ve managed over the years. They’re relentlessly talented, curious, funny, stubborn in all the right ways, and full of these rich inner worlds that have nothing to do with their job titles. They’re engineers, yeah - but they’re also cooks, musicians, parents, painters, marathon runners, woodworkers, travelers, and everything in between. I genuinely love hearing their stories. Wher...",
+    "Confidence": 0.96684825
+  },
+  {
+    "Title": "On Idempotency Keys",
+    "Url": "https://www.morling.dev/blog/on-idempotency-keys/",
+    "Timestamp": "2025-12-02T00:02:42",
+    "Domain": "www.morling.dev",
+    "Description": "\nIn distributed systems, there’s a common understanding that it is not possible to guarantee exactly-once delivery of messages.\nWhat is possible though is exactly-once processing. By adding a unique idempotency key to each message, you can enable consumers to recognize and ignore duplicate messages, i.e. messages which they have received and successfully processed before.\n",
+    "Confidence": 0.9867044
+  },
+  {
+    "Title": "Crafting a Single File Neovim Config",
+    "Url": "https://jacksmith.xyz/blog/neovim-configuration-one-file-to-rule-them-all",
+    "Timestamp": "2025-12-02T00:02:38",
+    "Domain": "jacksmith.xyz",
+    "Description": "One file to rule them all,",
+    "Confidence": 0.9953319
+  },
+  {
+    "Title": "How to Implement a File Integrity Monitor in Linux",
+    "Url": "https://blog.clear-byte.com/how-to-implement-a-file-integrity-monitor-in-linux-2a1f14afa11f",
+    "Timestamp": "2025-12-02T00:02:34",
+    "Domain": "blog.clear-byte.com",
+    "Description": "Learn how to secure Linux systems by detecting unauthorized file changes. Implement a File Integrity Monitor, and harden your defenses.",
+    "Confidence": 0.9911244
+  },
+  {
+    "Title": "Constructing The Word's First\nJPEG XL MD5 Hash Quine",
+    "Url": "https://stackchk.fail/blog/jxl_hashquine_writeup",
+    "Timestamp": "2025-12-02T00:02:28",
+    "Domain": "stackchk.fail",
+    "Description": "A walk through of building an image that displays its own MD5 Hash",
+    "Confidence": 0.9978109
+  },
+  {
+    "Title": "Today is Full of Possibilities",
+    "Url": "https://www.jmilinovich.com/today-is-full-of-possibilities/",
+    "Timestamp": "2025-12-02T00:02:20",
+    "Domain": "www.jmilinovich.com",
+    "Description": "I have my mother’s last words tattooed on my arm.\n\nI got them thirteen years ago, a few months after she died. I was twenty-four. I thought I understood what they meant. Something about hope, about choosing light over darkness. The kind of thing you’d want to carry",
+    "Confidence": 0.9726691
+  },
+  {
+    "Title": "Understanding Why AGI Still Feels Distant",
+    "Url": "https://tawandamunongo.dev/posts/2025/12/machines-dont-think/",
+    "Timestamp": "2025-12-02T00:02:14",
+    "Domain": "tawandamunongo.dev",
+    "Description": "A technical deep-dive into modern AI fundamentals from gradient descent to transformers explaining why current systems excel at pattern recognition but struggle with reasoning and extrapolation.",
+    "Confidence": 0.970281
+  },
+  {
+    "Title": "Notepad: Get Back What THEY Took From You!",
+    "Url": "https://youtube.com/watch?v=bmBd39OwvWg",
+    "Timestamp": "2025-12-02T00:02:09",
+    "Domain": "youtube.com",
+    "Description": "Dave uses GPT Codex Max 5.1 in Extra High mode to generate a perfect clone of Notepad that brings back everything you missed about it.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nBlack Friday Affiliate Links!! Save $40 on the Slate 7:\nhttps://link.gl-inet.com/be3600-davesgarage-251130\nFor the Slate AX 1800: https://amzn.to/49hKPt2\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl",
+    "Confidence": 0.99429685
+  },
+  {
+    "Title": "Vibe CADing an Interactive Data Physicalization",
+    "Url": "https://nicolas.kruchten.com/content/2025/11/vibe-cading-a-data-physicalization/",
+    "Timestamp": "2025-12-02T00:02:08",
+    "Domain": "nicolas.kruchten.com",
+    "Description": "Ever since I bought a 3d printer, I’ve wanted to dip a toe into data physicalization. I’m not very good at point-and-click 3d modelling tools, and this is kind of a casual hobby rather than serious work so I used Claude Code, an AI programming assistant, to vibe code a parametric Python program to generate the printable files. It was a real rush to find out I can just start verbally describing the object I want to an AI agent and then be holding it in my hand less than three hours later! So here’s the story of how I vibe CADed my very own 1960s-inspired Bertin reorderable matrix.",
+    "Confidence": 0.99111086
+  },
+  {
     "Title": "Website Task Flowchart",
     "Url": "https://xkcd.com/3175/",
     "Timestamp": "2025-12-01T20:02:02",
@@ -182,13 +366,5 @@
     "Domain": "dillo-browser.org",
     "Description": "I would like to migrate the Dillo project away from\nGitHub\ninto a new home which is more friendly to be used with Dillo and solves some of\nits problems. This page summarizes the current situation with GitHub and why I\ndecided to move away from it into a self-hosted server with multiple mirrors in\nother forges.",
     "Confidence": 0.9925724
-  },
-  {
-    "Title": "The Math of Why You Can't Focus at Work",
-    "Url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
-    "Timestamp": "2025-12-01T00:02:09",
-    "Domain": "justoffbyone.com",
-    "Description": "Interruptions, recovery time, and task size: three numbers that determine if you'll get real work done. Interactive visualizations show the math behind bad days.",
-    "Confidence": 0.99802494
   }
 ]

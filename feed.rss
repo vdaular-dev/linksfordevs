@@ -7,6 +7,226 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Always Do a Work Trial</title>
+      <link>https://blog.abdellatif.io/always-do-a-work-trial</link>
+      <description>Why work trials are the best way to evaluate candidates and find great matches beyond traditional interviews.</description>
+      <guid>https://blog.abdellatif.io/always-do-a-work-trial</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The End of the Train-Test Split</title>
+      <link>https://folio.benguzovsky.com/train-test</link>
+      <description>The train-test split does not work for classification tasks at the frontier of LLM capability.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://folio.benguzovsky.com/train-test</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is a City Super App and Why Every City Needs One – Mert Bulan</title>
+      <link>https://mertbulan.com/2025/12/01/what-is-a-city-super-app-and-why-every-city-needs-one/</link>
+      <description>Why I believe every city needs a super app and how it will transform the way we engage with digital devices.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://mertbulan.com/2025/12/01/what-is-a-city-super-app-and-why-every-city-needs-one/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Packaging Caffeine | Caffeine</title>
+      <link>https://caffeine-lang.run/blog/packaging-caffeine</link>
+      <description>A step-by-step guide to creating distributable binaries from Gleam code by targeting JavaScript and compiling with Deno.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>containers</category>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://caffeine-lang.run/blog/packaging-caffeine</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Periodic Spaces</title>
+      <link>https://ianthehenry.com/posts/periodic-spaces/</link>
+      <description>One of my favorite SDF techniques is domain repetition:</description>
+      <guid>https://ianthehenry.com/posts/periodic-spaces/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Computer Science Degree in 2026</title>
+      <link>https://chrisdail.com/posts/choose-computer-science/</link>
+      <description>Is it wise to start a Computer Science degree in 2026? Is AI going to take all of the software development jobs? These are especially relevant questions for me as my son graduates from high school this year. This is the advice I gave him.
+I believe it is a fine choice to take Computer Science in the year 2026, provided the following two things are true:
+You love it - The days of this degree guaranteeing a good-paying job are over. If you are just in it for the money, take up a trade which pays well and is in high demand. Competition for jobs, especially at the entry level, will remain high, so this is only a place for people who love it. You have the mind for it - If you don’t have strong critical thinking and problem-solving skills, you are better off looking elsewhere. The mediocre or below-average software developer will be the first to be displaced by AI. I graduated with my Computer Science degree at a funny time. The year was 2003, and we had just navigated through the dot-com bust. Similar to the market today, it was very challenging to find work. For the next few years, the common wisdom was “Don’t take Computer Science”. High School guidance counsellors were advising students to stay away. I remember visiting my University and was shocked to see how much the CS school had shrunk. Just a few years later, in 2008, I was having a terrible time trying to hire people. There were simply too few people with the skills required.</description>
+      <category>ai</category>
+      <guid>https://chrisdail.com/posts/choose-computer-science/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of a One-Shot Prompt</title>
+      <link>https://rashidazarang.com/c/the-anatomy-of-a-one-shot-prompt</link>
+      <description>← Go back</description>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://rashidazarang.com/c/the-anatomy-of-a-one-shot-prompt</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>how i found a europa.eu compromise (thanks to cricket)</title>
+      <link>https://blog.himanshuanand.com/2025/11/how-i-found-a-europa.eu-compromise-thanks-to-cricket/</link>
+      <description>TLDR
+While looking for a way to stream the India vs Pakistan cricket match on 14th September 2025, I stumbled across a suspicious search result on a europa.eu dev subdomain. It was being abused for blackhat SEO and redirecting users to scam streaming sites. I traced similar behavior across other high-profile domains, reported the issue to CERT-EU via email (after some Twitter help) and the problem was later confirmed as fixed on 6th November 2025.</description>
+      <guid>https://blog.himanshuanand.com/2025/11/how-i-found-a-europa.eu-compromise-thanks-to-cricket/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Better than JSON</title>
+      <link>https://aloisdeniel.com/blog/better-than-json</link>
+      <description>An in-depth look at why Protobuf can outperform JSON for modern APIs, with practical Dart examples showing how strong typing, binary serialization, and shared schemas improve both performance and developer experience.</description>
+      <category>typescript</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://aloisdeniel.com/blog/better-than-json</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multi-Horizon Delivery Framework</title>
+      <link>https://yusufaytas.com/multi-horizon-delivery-framework/</link>
+      <description>A practical model for aligning execution and strategy through clear risk signals, priorities, and structured planning.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <guid>https://yusufaytas.com/multi-horizon-delivery-framework/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prompt the Loop When Using Coding Agents</title>
+      <link>https://www.skeptrune.com/posts/prompting-the-agent-loop/</link>
+      <description>The difference between a language model and an agent isn't just tool access. It's about giving the agent a condition to loop on. Here's how to prompt agents to actually finish tasks instead of just taking first steps.</description>
+      <author> (Nicholas Khami)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.skeptrune.com/posts/prompting-the-agent-loop/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Some musings on code generation: kintsugi</title>
+      <link>https://blog.engora.com/2025/12/some-musings-on-code-generation-kintsugi.html</link>
+      <description>How code generation can be made to work in the real world.</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://blog.engora.com/2025/12/some-musings-on-code-generation-kintsugi.html</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maxims of good software</title>
+      <link>https://kevingugelmann.com/essays/software-maxims</link>
+      <description>An essay by Kevin Gugelmann</description>
+      <category>ai</category>
+      <guid>https://kevingugelmann.com/essays/software-maxims</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can LLMs give us AGI if they are bad at arithmetic? – Wes McKinney</title>
+      <link>https://wesmckinney.com/blog/llms-arithmetic/</link>
+      <description></description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://wesmckinney.com/blog/llms-arithmetic/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karim Shehadeh - The Quiet Grief Behind Modern Management</title>
+      <link>https://karim.cloud/blog/posts/quiet-grief</link>
+      <description>For people who know me, it might be surprising to hear how much I love people 🙂. Especially the folks on the teams I’ve managed over the years. They’re relentlessly talented, curious, funny, stubborn in all the right ways, and full of these rich inner worlds that have nothing to do with their job titles. They’re engineers, yeah - but they’re also cooks, musicians, parents, painters, marathon runners, woodworkers, travelers, and everything in between. I genuinely love hearing their stories. Wher...</description>
+      <category>ai</category>
+      <guid>https://karim.cloud/blog/posts/quiet-grief</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Idempotency Keys</title>
+      <link>https://www.morling.dev/blog/on-idempotency-keys/</link>
+      <description>
+In distributed systems, there’s a common understanding that it is not possible to guarantee exactly-once delivery of messages.
+What is possible though is exactly-once processing. By adding a unique idempotency key to each message, you can enable consumers to recognize and ignore duplicate messages, i.e. messages which they have received and successfully processed before.
+</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://www.morling.dev/blog/on-idempotency-keys/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crafting a Single File Neovim Config</title>
+      <link>https://jacksmith.xyz/blog/neovim-configuration-one-file-to-rule-them-all</link>
+      <description>One file to rule them all,</description>
+      <category>git</category>
+      <guid>https://jacksmith.xyz/blog/neovim-configuration-one-file-to-rule-them-all</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Implement a File Integrity Monitor in Linux</title>
+      <link>https://blog.clear-byte.com/how-to-implement-a-file-integrity-monitor-in-linux-2a1f14afa11f</link>
+      <description>Learn how to secure Linux systems by detecting unauthorized file changes. Implement a File Integrity Monitor, and harden your defenses.</description>
+      <author> (https://kennyrogerwolf.medium.com)</author>
+      <category>linux</category>
+      <category>sql</category>
+      <guid>https://blog.clear-byte.com/how-to-implement-a-file-integrity-monitor-in-linux-2a1f14afa11f</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Constructing The Word's First
+JPEG XL MD5 Hash Quine</title>
+      <link>https://stackchk.fail/blog/jxl_hashquine_writeup</link>
+      <description>A walk through of building an image that displays its own MD5 Hash</description>
+      <category>rust</category>
+      <guid>https://stackchk.fail/blog/jxl_hashquine_writeup</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Today is Full of Possibilities</title>
+      <link>https://www.jmilinovich.com/today-is-full-of-possibilities/</link>
+      <description>I have my mother’s last words tattooed on my arm.
+
+I got them thirteen years ago, a few months after she died. I was twenty-four. I thought I understood what they meant. Something about hope, about choosing light over darkness. The kind of thing you’d want to carry</description>
+      <category>ai</category>
+      <guid>https://www.jmilinovich.com/today-is-full-of-possibilities/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Why AGI Still Feels Distant</title>
+      <link>https://tawandamunongo.dev/posts/2025/12/machines-dont-think/</link>
+      <description>A technical deep-dive into modern AI fundamentals from gradient descent to transformers explaining why current systems excel at pattern recognition but struggle with reasoning and extrapolation.</description>
+      <category>ai</category>
+      <category>conference</category>
+      <guid>https://tawandamunongo.dev/posts/2025/12/machines-dont-think/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notepad: Get Back What THEY Took From You!</title>
+      <link>https://youtube.com/watch?v=bmBd39OwvWg</link>
+      <description>Dave uses GPT Codex Max 5.1 in Extra High mode to generate a perfect clone of Notepad that brings back everything you missed about it.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM
+
+Black Friday Affiliate Links!! Save $40 on the Slate 7:
+https://link.gl-inet.com/be3600-davesgarage-251130
+For the Slate AX 1800: https://amzn.to/49hKPt2
+
+Check out ShopTalk, our weekly podcast, every Friday!
+https://www.youtube.com/@davepl</description>
+      <author> (Dave's Garage)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=bmBd39OwvWg</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe CADing an Interactive Data Physicalization</title>
+      <link>https://nicolas.kruchten.com/content/2025/11/vibe-cading-a-data-physicalization/</link>
+      <description>Ever since I bought a 3d printer, I’ve wanted to dip a toe into data physicalization. I’m not very good at point-and-click 3d modelling tools, and this is kind of a casual hobby rather than serious work so I used Claude Code, an AI programming assistant, to vibe code a parametric Python program to generate the printable files. It was a real rush to find out I can just start verbally describing the object I want to an AI agent and then be holding it in my hand less than three hours later! So here’s the story of how I vibe CADed my very own 1960s-inspired Bertin reorderable matrix.</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://nicolas.kruchten.com/content/2025/11/vibe-cading-a-data-physicalization/</guid>
+      <pubDate>Tue, 02 Dec 2025 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Website Task Flowchart</title>
       <link>https://xkcd.com/3175/</link>
       <description></description>
@@ -235,16 +455,6 @@ other forges.</description>
       <category>apple</category>
       <guid>https://dillo-browser.org/news/migration-from-github/</guid>
       <pubDate>Mon, 01 Dec 2025 01:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Math of Why You Can't Focus at Work</title>
-      <link>https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/</link>
-      <description>Interruptions, recovery time, and task size: three numbers that determine if you'll get real work done. Interactive visualizations show the math behind bad days.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>encryption</category>
-      <guid>https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/</guid>
-      <pubDate>Mon, 01 Dec 2025 00:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
