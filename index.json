@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Bun is joining Anthropic",
+    "Url": "https://bun.com/blog/bun-joins-anthropic",
+    "Timestamp": "2025-12-02T19:02:05",
+    "Domain": "bun.com",
+    "Description": "Bun has been acquired by Anthropic. Anthropic is betting on Bun as the infrastructure powering Claude Code, Claude Agent SDK, and future AI coding products & tools.",
+    "Confidence": 0.97411436
+  },
+  {
     "Title": "Introducing the Advent of Compiler Optimisations 2025 — Matt Godbolt’s blog",
     "Url": "https://xania.org/202511/advent-of-compiler-optimisation",
     "Timestamp": "2025-12-02T18:02:01",
@@ -278,13 +286,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "There are 47.2 million developers in the world - Global developer population trends 2025",
-    "Url": "https://www.slashdata.co/post/global-developer-population-trends-2025-how-many-developers-are-there",
-    "Timestamp": "2025-12-01T19:02:01",
-    "Domain": "www.slashdata.co",
-    "Description": "Explore key developer trends: developer population growth, rising languages like Rust, and booming sectors like embedded and visual tools.",
-    "Confidence": 0.9833433
   }
 ]
