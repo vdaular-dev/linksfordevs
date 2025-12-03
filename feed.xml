@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans — ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data</title>
+      <link>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</link>
+      <description>PC players can now opt into a slim version that’s 85% smaller.</description>
+      <category>gaming</category>
+      <guid>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</guid>
+      <pubDate>Wed, 03 Dec 2025 18:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Edge Detection Using the Sobel Operator</title>
+      <link>https://www.4rknova.com//blog/2017/01/01/sobel</link>
+      <description>The Sobel operator explained and implemented in GLSL</description>
+      <guid>https://www.4rknova.com//blog/2017/01/01/sobel</guid>
+      <pubDate>Wed, 03 Dec 2025 18:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sprite Encoding / Decoding Using Literals</title>
+      <link>https://www.4rknova.com//blog/2017/01/01/sprite-encoding</link>
+      <description>A simple approach for sprite texture encoding</description>
+      <guid>https://www.4rknova.com//blog/2017/01/01/sprite-encoding</guid>
+      <pubDate>Wed, 03 Dec 2025 18:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>The "Mad Men" in 4K on HBO Max Debacle</title>
       <link>http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html</link>
       <description>Reader warning: there's gonna be a lot of pretend puke photos in this post. If you've fired up HBO Max recently, you've probably seen that o...</description>
@@ -339,14 +361,6 @@ I personally do not use Cloudflare, and stay far away from all of their products
       <category>sql</category>
       <guid>https://bun.com/blog/bun-joins-anthropic</guid>
       <pubDate>Tue, 02 Dec 2025 19:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing the Advent of Compiler Optimisations 2025 — Matt Godbolt’s blog</title>
-      <link>https://xania.org/202511/advent-of-compiler-optimisation</link>
-      <description>Announcing AoCO 2025 - daily December posts about compiler optimisations</description>
-      <category>youtube</category>
-      <guid>https://xania.org/202511/advent-of-compiler-optimisation</guid>
-      <pubDate>Tue, 02 Dec 2025 18:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

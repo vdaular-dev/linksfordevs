@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans — ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data",
+    "Url": "https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives",
+    "Timestamp": "2025-12-03T18:02:35",
+    "Domain": "www.tomshardware.com",
+    "Description": "PC players can now opt into a slim version that’s 85% smaller.",
+    "Confidence": 0.6375422
+  },
+  {
+    "Title": "Edge Detection Using the Sobel Operator",
+    "Url": "https://www.4rknova.com//blog/2017/01/01/sobel",
+    "Timestamp": "2025-12-03T18:02:08",
+    "Domain": "www.4rknova.com",
+    "Description": "The Sobel operator explained and implemented in GLSL",
+    "Confidence": 0.9982103
+  },
+  {
+    "Title": "Sprite Encoding / Decoding Using Literals",
+    "Url": "https://www.4rknova.com//blog/2017/01/01/sprite-encoding",
+    "Timestamp": "2025-12-03T18:02:04",
+    "Domain": "www.4rknova.com",
+    "Description": "A simple approach for sprite texture encoding",
+    "Confidence": 0.9955842
+  },
+  {
     "Title": "The \"Mad Men\" in 4K on HBO Max Debacle",
     "Url": "http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html",
     "Timestamp": "2025-12-03T17:01:59",
@@ -278,13 +302,5 @@
     "Domain": "bun.com",
     "Description": "Bun has been acquired by Anthropic. Anthropic is betting on Bun as the infrastructure powering Claude Code, Claude Agent SDK, and future AI coding products & tools.",
     "Confidence": 0.97411436
-  },
-  {
-    "Title": "Introducing the Advent of Compiler Optimisations 2025 — Matt Godbolt’s blog",
-    "Url": "https://xania.org/202511/advent-of-compiler-optimisation",
-    "Timestamp": "2025-12-02T18:02:01",
-    "Domain": "xania.org",
-    "Description": "Announcing AoCO 2025 - daily December posts about compiler optimisations",
-    "Confidence": 0.97612435
   }
 ]
