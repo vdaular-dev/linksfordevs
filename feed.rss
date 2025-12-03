@@ -7,6 +7,37 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Future of My Channel</title>
+      <link>https://youtube.com/watch?v=RUvEfDubBa4</link>
+      <description>I haven't published a video in ~8 months! Let's talk about what's next for the channel!
+
+Interested in a FREE year subscription to Scrimba? Let me know why in the comments!
+
+New Intro to Astro Course -  https://scrimba.com/intro-to-astro-c00ar0fi5u?via=jamesqquick
+
+Makeswift - https://www.makeswift.com/
+Catalyst - https://www.catalyst.dev/
+VIBES - https://vibes.site/
+
+**Newsletter**
+Newsletter 🗞 - https://www.jamesqquick.com/newsletter
+
+**DISCORD**
+Join the Learn Build Teach Discord Server 💬 - https://discord.gg/vM2bagU
+
+Follow me on Twitter 🐦 - https://www.twitter.com/jamesqquick
+Check out the Podcast - https://compressed.fm/
+Courses - https://jamesqquick.com/courses
+
+**QUESTIONS ABOUT MY SETUP**
+Check out my Uses page for my VS Code setup, what recording equipment I use, etc.  https://www.jamesqquick.com/uses</description>
+      <author> (James Q Quick)</author>
+      <category>vscode</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=RUvEfDubBa4</guid>
+      <pubDate>Wed, 03 Dec 2025 15:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Zig quits GitHub, gripes about Microsoft's AI obsession</title>
       <link>https://www.theregister.com/2025/12/02/zig_quits_github_microsoft_ai_obsession/</link>
       <description>: Zig prez complains about 'vibe-scheduling' after safe sleep bug goes unaddressed for eons</description>
@@ -319,14 +350,6 @@ I personally do not use Cloudflare, and stay far away from all of their products
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=qwmKhOm5phg</guid>
       <pubDate>Tue, 02 Dec 2025 17:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>End-to-End Video Generative Modeling with Normalizing Flows</title>
-      <link>https://starflow-v.github.io/</link>
-      <description>STARFlow-V is the first normalizing flow-based causal video generator demonstrating that normalizing flows can match video diffusion models in visual quality while offering end-to-end training, exact likelihood estimation, and native multi-task support across T2V/I2V/V2V generation.</description>
-      <category>ai</category>
-      <guid>https://starflow-v.github.io/</guid>
-      <pubDate>Tue, 02 Dec 2025 15:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
