@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Claude 4.5 Opus' Soul Document — LessWrong",
+    "Url": "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document",
+    "Timestamp": "2025-12-03T01:02:07",
+    "Domain": "www.lesswrong.com",
+    "Description": "Update 2025-12-02: Amanda Askell has kindly confirmed that the document was used in supervised learning and will share the full version and more deta…",
+    "Confidence": 0.9657862
+  },
+  {
+    "Title": "100000 TPS over a billion rows: the unreasonable effectiveness of SQLite",
+    "Url": "https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html",
+    "Timestamp": "2025-12-03T01:01:58",
+    "Domain": "andersmurphy.com",
+    "Description": "A blog mostly about Clojure programming",
+    "Confidence": 0.99700147
+  },
+  {
     "Title": "Running Great Refinement Meetings",
     "Url": "https://www.jakeworth.com/posts/running-great-refinement-meetings/",
     "Timestamp": "2025-12-03T00:04:15",
@@ -294,13 +310,5 @@
     "Domain": "eclecticlight.co",
     "Description": "What was the key to successfully learning to drive, ride a bike, or speak a foreign language? Confidence, and it’s every bit as important in computing, and in macOS.",
     "Confidence": 0.9176541
-  },
-  {
-    "Title": "Around The World, Part 27: Planting trees",
-    "Url": "https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/",
-    "Timestamp": "2025-12-02T01:01:58",
-    "Domain": "frozenfractal.com",
-    "Description": "In the previous post, I determined what kind of vegetation should grow where in my procedurally generated world. Now it’s time to actually plant those plants!",
-    "Confidence": 0.95173514
   }
 ]
