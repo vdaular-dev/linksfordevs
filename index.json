@@ -1,5 +1,213 @@
 [
   {
+    "Title": "Running Great Refinement Meetings",
+    "Url": "https://www.jakeworth.com/posts/running-great-refinement-meetings/",
+    "Timestamp": "2025-12-03T00:04:15",
+    "Domain": "www.jakeworth.com",
+    "Description": "This year I’ve run over 25 Scrum refinement meetings; here’s what I’ve learned.",
+    "Confidence": 0.9779987
+  },
+  {
+    "Title": "Why Authorization is more important than ever",
+    "Url": "https://oscarevertsson.com/posts/why-authorization-is-more-important-than-ever/",
+    "Timestamp": "2025-12-03T00:04:11",
+    "Domain": "oscarevertsson.com",
+    "Description": "Broken access control is at the top of the list for OWASP top 10. In fact, it’s still #1 in the 2025 release candidate with 100% (previously 94%) of tested applications showing some form of broken access control. That number alone should make you pay attention to the concept. Add to this the fact that we are now in an era where pretty much every developer is using Large Language Models (LLM) to some extent and we are producing more code than ever as a result.",
+    "Confidence": 0.9861268
+  },
+  {
+    "Title": "Hello there",
+    "Url": "https://adityadeshlahre.github.io/posts/time-of-a-dev/",
+    "Timestamp": "2025-12-03T00:04:08",
+    "Domain": "adityadeshlahre.github.io",
+    "Description": "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments & systems.",
+    "Confidence": 0.9761367
+  },
+  {
+    "Title": "Helping agents debug webapps",
+    "Url": "https://blog.fsck.com/2025/12/02/helping-agents-debug-webapps/",
+    "Timestamp": "2025-12-03T00:04:05",
+    "Domain": "blog.fsck.com",
+    "Description": "I used to write more",
+    "Confidence": 0.9847719
+  },
+  {
+    "Title": "Re-Signifying my Relationship with Speed",
+    "Url": "https://rashidazarang.com/c/re-signifying-my-relationship-with-speed",
+    "Timestamp": "2025-12-03T00:04:01",
+    "Domain": "rashidazarang.com",
+    "Description": "← Go back",
+    "Confidence": 0.8789548
+  },
+  {
+    "Title": "The Harvest Will Come",
+    "Url": "https://www.joanwestenberg.com/p/the-harvest-will-come",
+    "Timestamp": "2025-12-03T00:03:58",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "A Defense of Human Seasons",
+    "Confidence": 0.7246906
+  },
+  {
+    "Title": "Watch men - Works in Progress Magazine",
+    "Url": "https://worksinprogress.co/issue/watch-men/",
+    "Timestamp": "2025-12-03T00:03:53",
+    "Domain": "worksinprogress.co",
+    "Description": "Japanese quartz made watches accurate, lightweight, and thin. But Swiss mechanical watches fought back.",
+    "Confidence": 0.63323665
+  },
+  {
+    "Title": "Every Major City as a Tiny Miniature World",
+    "Url": "https://www.adithyan.io/blog/world-cities-ai",
+    "Timestamp": "2025-12-03T00:03:49",
+    "Domain": "www.adithyan.io",
+    "Description": "46 world cities reimagined as charming isometric miniatures",
+    "Confidence": 0.9254296
+  },
+  {
+    "Title": "Software Engineering is Map Making, Not Magic",
+    "Url": "https://www.chrisbako.com/posts/2025-11-16-what-the-fuck-is-swe",
+    "Timestamp": "2025-12-03T00:03:45",
+    "Domain": "www.chrisbako.com",
+    "Description": "Everyone wants to replace us, but noone actually knows what we do.",
+    "Confidence": 0.9827415
+  },
+  {
+    "Title": "Self-hosting DNS for no fun, but a little profit!",
+    "Url": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
+    "Timestamp": "2025-12-03T00:03:42",
+    "Domain": "linderud.dev",
+    "Description": "After Gandi was bought up and started taking extortion level prices for their domains I’ve been looking for an excuse to migrate registrar. Last week I decided to bite the bullet and move to Porkbun as I have another domain renewal coming up. However after setting up an account and paying for the transfer for 4 domains, I realized their DNS services are provided by Cloudflare!\nI personally do not use Cloudflare, and stay far away from all of their products for various reasons.",
+    "Confidence": 0.98585856
+  },
+  {
+    "Title": "LLMs Need Better Executive Function",
+    "Url": "https://www.robdearborn.com/2025/12/01/llms-need-better-executive-function/",
+    "Timestamp": "2025-12-03T00:03:37",
+    "Domain": "www.robdearborn.com",
+    "Description": "In the past several weeks we’ve gotten GPT-5.1, Gemini 3, and Opus 4.5. They’re incredible machines. Their benchmarks are superhuman and climbing. They can whip up interactive RNA explainers faster than you can consume them. They have EQ and souls! They’re smarter, speedier, cheaper.",
+    "Confidence": 0.98198354
+  },
+  {
+    "Title": "Flame Graphs",
+    "Url": "https://www.brendangregg.com/flamegraphs.html",
+    "Timestamp": "2025-12-03T00:03:32",
+    "Domain": "www.brendangregg.com",
+    "Description": "Homepage for Flame Graphs: a visualization for stack traces.",
+    "Confidence": 0.98562795
+  },
+  {
+    "Title": "Optimising PostgreSQL Memory Configuration - Tom Foster",
+    "Url": "https://tomfos.tr/postgres/tuning/memory/",
+    "Timestamp": "2025-12-03T00:03:28",
+    "Domain": "tomfos.tr",
+    "Description": "Give your PostgreSQL database the memory it craves! Learn to tune `shared_buffers`, `work_mem`, `effective_cache_size`, and more for peak performance, illustrated with Matrix Synapse examples.",
+    "Confidence": 0.99086326
+  },
+  {
+    "Title": "Hello there",
+    "Url": "https://adityadeshlahre.github.io/posts/hire-someone/",
+    "Timestamp": "2025-12-03T00:03:25",
+    "Domain": "adityadeshlahre.github.io",
+    "Description": "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments & systems.",
+    "Confidence": 0.9208548
+  },
+  {
+    "Title": "Patrick Evans",
+    "Url": "https://pve.dev/blog/post/2025_12_02",
+    "Timestamp": "2025-12-03T00:03:21",
+    "Domain": "pve.dev",
+    "Description": "Do you dread opening tickets when an internal tool is broken? Do you struggle to find someone to call when a production critical service is broken? Have you ever asked someone why something is broken and gotten a shrug in response?",
+    "Confidence": 0.94865704
+  },
+  {
+    "Title": "id Software was Lazy - DOOM could have had PC Speaker Music!",
+    "Url": "https://lenowo.org/viewtopic.php?t=45",
+    "Timestamp": "2025-12-03T00:03:18",
+    "Domain": "lenowo.org",
+    "Description": "I'm guessing everyone here has played DOOM before, or at least seen someone else play the game. It would also not be of any news for most here, that DOOM has sp",
+    "Confidence": 0.956127
+  },
+  {
+    "Title": "Price as Productive Capacity Signal",
+    "Url": "https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal",
+    "Timestamp": "2025-12-03T00:03:10",
+    "Domain": "danieltan.weblog.lol",
+    "Description": "Mainstream economics holds a foundational belief: prices signal quality, scarcity, and value. In perfectly competitive markets, prices aggregate dispersed information about supply and demand, guiding efficient resource allocation. When prices rise, they signal scarcity and attract supply. When they fall, they signal abundance and redirect resources elsewhere. This elegant theory underpins everything from central bank policy to antitrust law.",
+    "Confidence": 0.9885184
+  },
+  {
+    "Title": "Some people still drive stick",
+    "Url": "https://www.praf.me/driving-stick",
+    "Timestamp": "2025-12-03T00:03:03",
+    "Domain": "www.praf.me",
+    "Description": "I used to think that the world was as good as it could be. That things were this way because nothing better had been invented yet. I felt that progress and technology were a linear scale that all of humanity marched towards equally, stopping only at problems no one had solved.",
+    "Confidence": 0.9347371
+  },
+  {
+    "Title": "Metaphysical Boldness",
+    "Url": "https://cjauvin.github.io/posts/metaphysical-boldness/",
+    "Timestamp": "2025-12-03T00:03:00",
+    "Domain": "cjauvin.github.io",
+    "Description": "Some models of reality are bolder than others Digital physics is the body of mathematical and philosophical work treating the universe and the way it works as a giant digital computer. This is often associated with cellular automata, and names like Konrad Zuse, John Von Neumann, Stephen Wolfram, etc. What I find fascinating about this field is that the models it suggests are making very deep metaphysical claims: if they are true, it means that the underlying structure of the world is much different than we think, and radically simpler in a sense. Take the lattice gas automaton for instance. A version of it is an hexagonal cellular automata with very simple collision rules, not more complicated than the famous Rule 30 or 110, for 1D cellular automata. The impressive thing about it is that a simulation running this rule with many particles can be shown to approximate the Navier-Stokes equations, which are the classical complicated mathematics to describe the dynamics of fluids. Following Wolfram, I find it very appealing to consider the idea that the world is not somehow running “hidden mathematics”, somewhere and somehow, to solve some complicated equations in a seemingly magical way, but rather, that things are radically simpler, in that the world is simply implementing a set of trivially simple rules. The world is not concerned with, or made with mathematics, mathematics just emerges, with inherent and irreducible complexity, from extreme simplicity.",
+    "Confidence": 0.98453325
+  },
+  {
+    "Title": "What To Buy That Improves Quality of Life",
+    "Url": "https://www.developing.dev/p/what-to-buy-that-improves-quality",
+    "Timestamp": "2025-12-03T00:02:57",
+    "Domain": "www.developing.dev",
+    "Description": "Holiday gift guide inspiration",
+    "Confidence": 0.93834466
+  },
+  {
+    "Title": "Strongly Worded Emails",
+    "Url": "https://vale.rocks/posts/strongly-worded-emails",
+    "Timestamp": "2025-12-03T00:02:53",
+    "Domain": "vale.rocks",
+    "Description": "Only the finest form of communication.",
+    "Confidence": 0.81142396
+  },
+  {
+    "Title": "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
+    "Url": "https://piljoong.dev/posts/distributed-id-generation-complicated/",
+    "Timestamp": "2025-12-03T00:02:49",
+    "Domain": "piljoong.dev",
+    "Description": "Why ID formats become long-term architectural commitments, and how UUID, ULID, Snowflake, and custom schemes compare.",
+    "Confidence": 0.9842149
+  },
+  {
+    "Title": "Latency Profiling in Python: From Code Bottlenecks to Observability",
+    "Url": "https://quant.engineering/latency-profiling-in-python.html",
+    "Timestamp": "2025-12-03T00:02:46",
+    "Domain": "quant.engineering",
+    "Description": "Learn how to pinpoint where time disappears in Python systems, from CPU and I/O bottlenecks to Prometheus metrics and continuous profilers. Explore the tools that turn raw measurements into observability dashboards revealing real performance patterns.",
+    "Confidence": 0.9882165
+  },
+  {
+    "Title": "My Complicated Relationship With Side Projects",
+    "Url": "https://lopezb.com/articles/my-complicated-relationship-with-side-projects",
+    "Timestamp": "2025-12-03T00:02:42",
+    "Domain": "lopezb.com",
+    "Description": "On the frustrating cycle of starting, doubting, and abandoning side projects.",
+    "Confidence": 0.99223495
+  },
+  {
+    "Title": "How I Ported the Web to the Web!",
+    "Url": "https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/",
+    "Timestamp": "2025-12-03T00:02:39",
+    "Domain": "developer.puter.com",
+    "Description": "A deep dive into the history and evolution of web proxies, and how we built a modern web proxy that can handle the complexity of modern web applications.",
+    "Confidence": 0.99255717
+  },
+  {
+    "Title": "We Never Left the Dark Ages",
+    "Url": "https://www.razor.blog/2025/12/we-never-left-dark-ages.html",
+    "Timestamp": "2025-12-03T00:02:35",
+    "Domain": "www.razor.blog",
+    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.",
+    "Confidence": 0.8527772
+  },
+  {
     "Title": "Bun is joining Anthropic",
     "Url": "https://bun.com/blog/bun-joins-anthropic",
     "Timestamp": "2025-12-02T19:02:05",
@@ -94,189 +302,5 @@
     "Domain": "frozenfractal.com",
     "Description": "In the previous post, I determined what kind of vegetation should grow where in my procedurally generated world. Now it’s time to actually plant those plants!",
     "Confidence": 0.95173514
-  },
-  {
-    "Title": "Always Do a Work Trial",
-    "Url": "https://blog.abdellatif.io/always-do-a-work-trial",
-    "Timestamp": "2025-12-02T00:03:38",
-    "Domain": "blog.abdellatif.io",
-    "Description": "Why work trials are the best way to evaluate candidates and find great matches beyond traditional interviews.",
-    "Confidence": 0.98280966
-  },
-  {
-    "Title": "The End of the Train-Test Split",
-    "Url": "https://folio.benguzovsky.com/train-test",
-    "Timestamp": "2025-12-02T00:03:34",
-    "Domain": "folio.benguzovsky.com",
-    "Description": "The train-test split does not work for classification tasks at the frontier of LLM capability.",
-    "Confidence": 0.9705476
-  },
-  {
-    "Title": "What is a City Super App and Why Every City Needs One – Mert Bulan",
-    "Url": "https://mertbulan.com/2025/12/01/what-is-a-city-super-app-and-why-every-city-needs-one/",
-    "Timestamp": "2025-12-02T00:03:31",
-    "Domain": "mertbulan.com",
-    "Description": "Why I believe every city needs a super app and how it will transform the way we engage with digital devices.",
-    "Confidence": 0.97595155
-  },
-  {
-    "Title": "Packaging Caffeine | Caffeine",
-    "Url": "https://caffeine-lang.run/blog/packaging-caffeine",
-    "Timestamp": "2025-12-02T00:03:28",
-    "Domain": "caffeine-lang.run",
-    "Description": "A step-by-step guide to creating distributable binaries from Gleam code by targeting JavaScript and compiling with Deno.",
-    "Confidence": 0.9974529
-  },
-  {
-    "Title": "Periodic Spaces",
-    "Url": "https://ianthehenry.com/posts/periodic-spaces/",
-    "Timestamp": "2025-12-02T00:03:24",
-    "Domain": "ianthehenry.com",
-    "Description": "One of my favorite SDF techniques is domain repetition:",
-    "Confidence": 0.99798787
-  },
-  {
-    "Title": "Computer Science Degree in 2026",
-    "Url": "https://chrisdail.com/posts/choose-computer-science/",
-    "Timestamp": "2025-12-02T00:03:19",
-    "Domain": "chrisdail.com",
-    "Description": "Is it wise to start a Computer Science degree in 2026? Is AI going to take all of the software development jobs? These are especially relevant questions for me as my son graduates from high school this year. This is the advice I gave him.\nI believe it is a fine choice to take Computer Science in the year 2026, provided the following two things are true:\nYou love it - The days of this degree guaranteeing a good-paying job are over. If you are just in it for the money, take up a trade which pays well and is in high demand. Competition for jobs, especially at the entry level, will remain high, so this is only a place for people who love it. You have the mind for it - If you don’t have strong critical thinking and problem-solving skills, you are better off looking elsewhere. The mediocre or below-average software developer will be the first to be displaced by AI. I graduated with my Computer Science degree at a funny time. The year was 2003, and we had just navigated through the dot-com bust. Similar to the market today, it was very challenging to find work. For the next few years, the common wisdom was “Don’t take Computer Science”. High School guidance counsellors were advising students to stay away. I remember visiting my University and was shocked to see how much the CS school had shrunk. Just a few years later, in 2008, I was having a terrible time trying to hire people. There were simply too few people with the skills required.",
-    "Confidence": 0.96493
-  },
-  {
-    "Title": "The Anatomy of a One-Shot Prompt",
-    "Url": "https://rashidazarang.com/c/the-anatomy-of-a-one-shot-prompt",
-    "Timestamp": "2025-12-02T00:03:16",
-    "Domain": "rashidazarang.com",
-    "Description": "← Go back",
-    "Confidence": 0.9855472
-  },
-  {
-    "Title": "how i found a europa.eu compromise (thanks to cricket)",
-    "Url": "https://blog.himanshuanand.com/2025/11/how-i-found-a-europa.eu-compromise-thanks-to-cricket/",
-    "Timestamp": "2025-12-02T00:03:12",
-    "Domain": "blog.himanshuanand.com",
-    "Description": "TLDR\nWhile looking for a way to stream the India vs Pakistan cricket match on 14th September 2025, I stumbled across a suspicious search result on a europa.eu dev subdomain. It was being abused for blackhat SEO and redirecting users to scam streaming sites. I traced similar behavior across other high-profile domains, reported the issue to CERT-EU via email (after some Twitter help) and the problem was later confirmed as fixed on 6th November 2025.",
-    "Confidence": 0.961161
-  },
-  {
-    "Title": "Better than JSON",
-    "Url": "https://aloisdeniel.com/blog/better-than-json",
-    "Timestamp": "2025-12-02T00:03:09",
-    "Domain": "aloisdeniel.com",
-    "Description": "An in-depth look at why Protobuf can outperform JSON for modern APIs, with practical Dart examples showing how strong typing, binary serialization, and shared schemas improve both performance and developer experience.",
-    "Confidence": 0.99836695
-  },
-  {
-    "Title": "Multi-Horizon Delivery Framework",
-    "Url": "https://yusufaytas.com/multi-horizon-delivery-framework/",
-    "Timestamp": "2025-12-02T00:03:05",
-    "Domain": "yusufaytas.com",
-    "Description": "A practical model for aligning execution and strategy through clear risk signals, priorities, and structured planning.",
-    "Confidence": 0.97547024
-  },
-  {
-    "Title": "Prompt the Loop When Using Coding Agents",
-    "Url": "https://www.skeptrune.com/posts/prompting-the-agent-loop/",
-    "Timestamp": "2025-12-02T00:03:01",
-    "Domain": "www.skeptrune.com",
-    "Description": "The difference between a language model and an agent isn't just tool access. It's about giving the agent a condition to loop on. Here's how to prompt agents to actually finish tasks instead of just taking first steps.",
-    "Confidence": 0.99396
-  },
-  {
-    "Title": "Some musings on code generation: kintsugi",
-    "Url": "https://blog.engora.com/2025/12/some-musings-on-code-generation-kintsugi.html",
-    "Timestamp": "2025-12-02T00:02:57",
-    "Domain": "blog.engora.com",
-    "Description": "How code generation can be made to work in the real world.",
-    "Confidence": 0.9822421
-  },
-  {
-    "Title": "Maxims of good software",
-    "Url": "https://kevingugelmann.com/essays/software-maxims",
-    "Timestamp": "2025-12-02T00:02:53",
-    "Domain": "kevingugelmann.com",
-    "Description": "An essay by Kevin Gugelmann",
-    "Confidence": 0.98467314
-  },
-  {
-    "Title": "Can LLMs give us AGI if they are bad at arithmetic? – Wes McKinney",
-    "Url": "https://wesmckinney.com/blog/llms-arithmetic/",
-    "Timestamp": "2025-12-02T00:02:49",
-    "Domain": "wesmckinney.com",
-    "Description": "",
-    "Confidence": 0.96826893
-  },
-  {
-    "Title": "Karim Shehadeh - The Quiet Grief Behind Modern Management",
-    "Url": "https://karim.cloud/blog/posts/quiet-grief",
-    "Timestamp": "2025-12-02T00:02:45",
-    "Domain": "karim.cloud",
-    "Description": "For people who know me, it might be surprising to hear how much I love people 🙂. Especially the folks on the teams I’ve managed over the years. They’re relentlessly talented, curious, funny, stubborn in all the right ways, and full of these rich inner worlds that have nothing to do with their job titles. They’re engineers, yeah - but they’re also cooks, musicians, parents, painters, marathon runners, woodworkers, travelers, and everything in between. I genuinely love hearing their stories. Wher...",
-    "Confidence": 0.96684825
-  },
-  {
-    "Title": "On Idempotency Keys",
-    "Url": "https://www.morling.dev/blog/on-idempotency-keys/",
-    "Timestamp": "2025-12-02T00:02:42",
-    "Domain": "www.morling.dev",
-    "Description": "\nIn distributed systems, there’s a common understanding that it is not possible to guarantee exactly-once delivery of messages.\nWhat is possible though is exactly-once processing. By adding a unique idempotency key to each message, you can enable consumers to recognize and ignore duplicate messages, i.e. messages which they have received and successfully processed before.\n",
-    "Confidence": 0.9867044
-  },
-  {
-    "Title": "Crafting a Single File Neovim Config",
-    "Url": "https://jacksmith.xyz/blog/neovim-configuration-one-file-to-rule-them-all",
-    "Timestamp": "2025-12-02T00:02:38",
-    "Domain": "jacksmith.xyz",
-    "Description": "One file to rule them all,",
-    "Confidence": 0.9953319
-  },
-  {
-    "Title": "How to Implement a File Integrity Monitor in Linux",
-    "Url": "https://blog.clear-byte.com/how-to-implement-a-file-integrity-monitor-in-linux-2a1f14afa11f",
-    "Timestamp": "2025-12-02T00:02:34",
-    "Domain": "blog.clear-byte.com",
-    "Description": "Learn how to secure Linux systems by detecting unauthorized file changes. Implement a File Integrity Monitor, and harden your defenses.",
-    "Confidence": 0.9911244
-  },
-  {
-    "Title": "Constructing The Word's First\nJPEG XL MD5 Hash Quine",
-    "Url": "https://stackchk.fail/blog/jxl_hashquine_writeup",
-    "Timestamp": "2025-12-02T00:02:28",
-    "Domain": "stackchk.fail",
-    "Description": "A walk through of building an image that displays its own MD5 Hash",
-    "Confidence": 0.9978109
-  },
-  {
-    "Title": "Today is Full of Possibilities",
-    "Url": "https://www.jmilinovich.com/today-is-full-of-possibilities/",
-    "Timestamp": "2025-12-02T00:02:20",
-    "Domain": "www.jmilinovich.com",
-    "Description": "I have my mother’s last words tattooed on my arm.\n\nI got them thirteen years ago, a few months after she died. I was twenty-four. I thought I understood what they meant. Something about hope, about choosing light over darkness. The kind of thing you’d want to carry",
-    "Confidence": 0.9726691
-  },
-  {
-    "Title": "Understanding Why AGI Still Feels Distant",
-    "Url": "https://tawandamunongo.dev/posts/2025/12/machines-dont-think/",
-    "Timestamp": "2025-12-02T00:02:14",
-    "Domain": "tawandamunongo.dev",
-    "Description": "A technical deep-dive into modern AI fundamentals from gradient descent to transformers explaining why current systems excel at pattern recognition but struggle with reasoning and extrapolation.",
-    "Confidence": 0.970281
-  },
-  {
-    "Title": "Notepad: Get Back What THEY Took From You!",
-    "Url": "https://youtube.com/watch?v=bmBd39OwvWg",
-    "Timestamp": "2025-12-02T00:02:09",
-    "Domain": "youtube.com",
-    "Description": "Dave uses GPT Codex Max 5.1 in Extra High mode to generate a perfect clone of Notepad that brings back everything you missed about it.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nBlack Friday Affiliate Links!! Save $40 on the Slate 7:\nhttps://link.gl-inet.com/be3600-davesgarage-251130\nFor the Slate AX 1800: https://amzn.to/49hKPt2\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl",
-    "Confidence": 0.99429685
-  },
-  {
-    "Title": "Vibe CADing an Interactive Data Physicalization",
-    "Url": "https://nicolas.kruchten.com/content/2025/11/vibe-cading-a-data-physicalization/",
-    "Timestamp": "2025-12-02T00:02:08",
-    "Domain": "nicolas.kruchten.com",
-    "Description": "Ever since I bought a 3d printer, I’ve wanted to dip a toe into data physicalization. I’m not very good at point-and-click 3d modelling tools, and this is kind of a casual hobby rather than serious work so I used Claude Code, an AI programming assistant, to vibe code a parametric Python program to generate the printable files. It was a real rush to find out I can just start verbally describing the object I want to an AI agent and then be holding it in my hand less than three hours later! So here’s the story of how I vibe CADed my very own 1960s-inspired Bertin reorderable matrix.",
-    "Confidence": 0.99111086
   }
 ]
