@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>JavaScript™</title>
+      <link>https://javascript.tm/letter</link>
+      <description>We need your help to continue our fight over Oracle's claim to the JavaScript trademark. Here's where we are now and what you can do to help.</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://javascript.tm/letter</guid>
+      <pubDate>Thu, 04 Dec 2025 15:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs</title>
+      <link>https://arxiv.org/abs/2512.04047</link>
+      <description>In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2512.04047</guid>
+      <pubDate>Thu, 04 Dec 2025 15:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Validating Blueprints' Content in Unreal | Thomas Poulet</title>
       <link>https://blog.thomaspoulet.fr/posts/validating-blueprints-content-in-unreal/</link>
       <description>Validating Blueprint classes setup in Unreal Engine 5 using Asset Validators.</description>
@@ -295,37 +315,6 @@ registered 501(c)(3) non-profit.</description>
       <description>Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.</description>
       <guid>https://www.nber.org/papers/w34524</guid>
       <pubDate>Wed, 03 Dec 2025 16:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future of My Channel</title>
-      <link>https://youtube.com/watch?v=RUvEfDubBa4</link>
-      <description>I haven't published a video in ~8 months! Let's talk about what's next for the channel!
-
-Interested in a FREE year subscription to Scrimba? Let me know why in the comments!
-
-New Intro to Astro Course -  https://scrimba.com/intro-to-astro-c00ar0fi5u?via=jamesqquick
-
-Makeswift - https://www.makeswift.com/
-Catalyst - https://www.catalyst.dev/
-VIBES - https://vibes.site/
-
-**Newsletter**
-Newsletter 🗞 - https://www.jamesqquick.com/newsletter
-
-**DISCORD**
-Join the Learn Build Teach Discord Server 💬 - https://discord.gg/vM2bagU
-
-Follow me on Twitter 🐦 - https://www.twitter.com/jamesqquick
-Check out the Podcast - https://compressed.fm/
-Courses - https://jamesqquick.com/courses
-
-**QUESTIONS ABOUT MY SETUP**
-Check out my Uses page for my VS Code setup, what recording equipment I use, etc.  https://www.jamesqquick.com/uses</description>
-      <author> (James Q Quick)</author>
-      <category>vscode</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=RUvEfDubBa4</guid>
-      <pubDate>Wed, 03 Dec 2025 15:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
