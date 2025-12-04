@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>BREAKING: Unreal Tournament 2004 is back!</title>
+      <link>https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/</link>
+      <description>OldUnreal just posted this announcement on their [Discord](https://discord.gg/thURucxzs6): "Welcome Back, Unreal Tournament 2004! Hi everyone!...</description>
+      <category>apple</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Linux kernel is just a program</title>
+      <link>https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/</link>
+      <description>Most books and courses introduce Linux through shell commands, leaving the kernel as a mysterious black box doing magic behind the scenes. In this post, we will run some experiments to demystify it: the Linux kernel is just a binary that you can build and run.</description>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/</guid>
+      <pubDate>Thu, 04 Dec 2025 16:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>JavaScript™</title>
       <link>https://javascript.tm/letter</link>
       <description>We need your help to continue our fight over Oracle's claim to the JavaScript trademark. Here's where we are now and what you can do to help.</description>
@@ -308,13 +327,6 @@ registered 501(c)(3) non-profit.</description>
       <category>web</category>
       <guid>http://fxrant.blogspot.com/2025/12/the-mad-men-in-4k-on-hbo-max-debacle.html</guid>
       <pubDate>Wed, 03 Dec 2025 17:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Captain Gains" on Capitol Hill</title>
-      <link>https://www.nber.org/papers/w34524</link>
-      <description>Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.</description>
-      <guid>https://www.nber.org/papers/w34524</guid>
-      <pubDate>Wed, 03 Dec 2025 16:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

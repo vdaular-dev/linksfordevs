@@ -1,5 +1,21 @@
 [
   {
+    "Title": "BREAKING: Unreal Tournament 2004 is back!",
+    "Url": "https://old.reddit.com/r/unrealtournament/comments/1pdbe69/breaking_unreal_tournament_2004_is_back/",
+    "Timestamp": "2025-12-04T16:02:18",
+    "Domain": "old.reddit.com",
+    "Description": "OldUnreal just posted this announcement on their [Discord](https://discord.gg/thURucxzs6): \"Welcome Back, Unreal Tournament 2004! Hi everyone!...",
+    "Confidence": 0.99467474
+  },
+  {
+    "Title": "The Linux kernel is just a program",
+    "Url": "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/",
+    "Timestamp": "2025-12-04T16:02:11",
+    "Domain": "serversfor.dev",
+    "Description": "Most books and courses introduce Linux through shell commands, leaving the kernel as a mysterious black box doing magic behind the scenes. In this post, we will run some experiments to demystify it: the Linux kernel is just a binary that you can build and run.",
+    "Confidence": 0.9981089
+  },
+  {
     "Title": "JavaScript™",
     "Url": "https://javascript.tm/letter",
     "Timestamp": "2025-12-04T15:02:12",
@@ -270,13 +286,5 @@
     "Domain": "fxrant.blogspot.com",
     "Description": "Reader warning: there's gonna be a lot of pretend puke photos in this post. If you've fired up HBO Max recently, you've probably seen that o...",
     "Confidence": 0.7898453
-  },
-  {
-    "Title": "\"Captain Gains\" on Capitol Hill",
-    "Url": "https://www.nber.org/papers/w34524",
-    "Timestamp": "2025-12-03T16:02:01",
-    "Domain": "www.nber.org",
-    "Description": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
-    "Confidence": 0.95520365
   }
 ]
