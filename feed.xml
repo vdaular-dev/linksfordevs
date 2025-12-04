@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why are 38 percent of Stanford students saying they're disabled?</title>
+      <link>https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</link>
+      <description>If you get into an elite college, you probably don't have a learning disability.</description>
+      <guid>https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</guid>
+      <pubDate>Thu, 04 Dec 2025 22:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Who put the AI in my Database?</title>
       <link>https://basementprogrammer.com/who-put-the-ai-in-my-database</link>
       <description>I’m not a mathematician; I can’t even spell mathematician without help from spell check… so needless to say I am not the person building AI models for a living and trying to calculate the standard deviation of an elliptical ark. That’s a thing, right...</description>
@@ -335,34 +342,6 @@ We really need a wiki page.</description>
       <category>sql</category>
       <guid>https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/</guid>
       <pubDate>Thu, 04 Dec 2025 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why are my headphones buzzing whenever I run my game?</title>
-      <link>https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html</link>
-      <description>Background</description>
-      <category>cloud</category>
-      <category>gaming</category>
-      <category>rust</category>
-      <category>web</category>
-      <guid>https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html</guid>
-      <pubDate>Wed, 03 Dec 2025 22:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>RCE in React Server Components</title>
-      <link>https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</link>
-      <description>A vulnerability affects certain React packages&lt;sup&gt;1&lt;/sup&gt; for versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 and frameworks that use the affected packages, including Next.js 15.x and 16.x using the A...</description>
-      <category>javascript</category>
-      <guid>https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp</guid>
-      <pubDate>Wed, 03 Dec 2025 22:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everyone in Seattle Hates AI — Jonathon Ready</title>
-      <link>https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</link>
-      <description>A post about everyone in Seattle hating AI.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</guid>
-      <pubDate>Wed, 03 Dec 2025 22:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
