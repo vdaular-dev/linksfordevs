@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Prompt Injection Inside GitHub Actions: The New Frontier of Supply Chain Attacks",
+    "Url": "https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents",
+    "Timestamp": "2025-12-04T20:02:20",
+    "Domain": "www.aikido.dev",
+    "Description": "AI-driven GitHub Actions expose new prompt-injection supply chain vulnerabilities.",
+    "Confidence": 0.97938627
+  },
+  {
+    "Title": "Transparent Leadership Beats Servant Leadership",
+    "Url": "https://entropicthoughts.com/transparent-leadership-beats-servant-leadership",
+    "Timestamp": "2025-12-04T20:02:14",
+    "Domain": "entropicthoughts.com",
+    "Description": "tl:dr: Parenting and leadership is similar. Teach a man to fish, etc.",
+    "Confidence": 0.96478647
+  },
+  {
+    "Title": "Wolfenstein 3D's map renderer",
+    "Url": "https://youtube.com/watch?v=eOCQfxRQ2pY",
+    "Timestamp": "2025-12-04T20:02:08",
+    "Domain": "youtube.com",
+    "Description": "Wolfenstein 3D was a triumph of early 90s engineering. It was an action packed 3d first person shooter - arguably the first - and it ran well on a 12 MHz 286 PC.\n\nHow on earth was such a feat pulled off? Find out by watching this in-depth analysis of how the map renderer worked.\n\nApologies for the small size of the graphics: this was an early video of mine and my later presentations look better!\n\nThe Wolfenstein 3D source is available at: https://github.com/id-Software/wolf3d\n\nSource for this presentation: : https://github.com/mattgodbolt/wolf-doom-quake",
+    "Confidence": 0.89215434
+  },
+  {
     "Title": "Stacktower: An Accidental Deep Dive",
     "Url": "https://stacktower.io/",
     "Timestamp": "2025-12-04T19:11:10",
@@ -270,21 +294,5 @@
     "Domain": "alexschapiro.com",
     "Description": "Update: This post received a large amount of attention on Hacker News — see the discussion thread.",
     "Confidence": 0.983143
-  },
-  {
-    "Title": "update README.md maintenance mode · minio/minio@27742d4",
-    "Url": "https://github.com/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2",
-    "Timestamp": "2025-12-03T20:02:08",
-    "Domain": "github.com",
-    "Description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. - update README.md maintenance mode · minio/minio@27742d4",
-    "Confidence": 0.98389655
-  },
-  {
-    "Title": "Steam Deck lead reveals Valve is funding ARM compatibility of Windows games “to expand PC gaming” and release “ultraportables” in the future ",
-    "Url": "https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/",
-    "Timestamp": "2025-12-03T20:02:02",
-    "Domain": "frvr.com",
-    "Description": "Steam Deck creator Pierre-Loup Griffais explains that Valve is funding ARM compatibility layers for future ultraportables.",
-    "Confidence": 0.7843457
   }
 ]
