@@ -1,0 +1,114 @@
+[
+  {
+    "Title": "Your Mind Is Not Software",
+    "Url": "https://www.razor.blog/2025/11/your-mind-is-not-software.html",
+    "Timestamp": "2025-12-04T00:03:22",
+    "Domain": "www.razor.blog",
+    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers."
+  },
+  {
+    "Title": "Why WinQuake exists and how it works",
+    "Url": "https://fabiensanglard.net/winquake/index.html",
+    "Timestamp": "2025-12-04T00:03:18",
+    "Domain": "fabiensanglard.net",
+    "Description": "Dec 3, 2025"
+  },
+  {
+    "Title": "CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG",
+    "Url": "https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/",
+    "Timestamp": "2025-12-04T00:03:15",
+    "Domain": "www.gabrielebartolini.it",
+    "Description": "Leveraging the Kubernetes `ImageVolume` feature and PostgreSQL 18's `extension_control_path`, this article demonstrates the CloudNativePG method for declaratively managing extensions like `pgvector` and PostGIS from separate container images, marking the culmination of a multi-year vision to decouple the database core from extension distribution."
+  },
+  {
+    "Title": "I built a timer I can’t fail to set—Daniel De Laney",
+    "Url": "https://danieldelaney.net/timer/",
+    "Timestamp": "2025-12-04T00:03:12",
+    "Domain": "danieldelaney.net",
+    "Description": "Metacognition needs a prompt"
+  },
+  {
+    "Title": "Understanding ECDSA - Web3 Security Blog",
+    "Url": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
+    "Timestamp": "2025-12-04T00:03:08",
+    "Domain": "avidthinker.github.io",
+    "Description": "Exploring blockchain, math, and smart contracts through a security lens."
+  },
+  {
+    "Title": "LLMs are great at box diagrams",
+    "Url": "https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/",
+    "Timestamp": "2025-12-04T00:03:02",
+    "Domain": "joeblu.com",
+    "Description": "I love diagram languages like mermaid.js and PlantUML because the text format that backs the diagram can be tweaked, takes up very little space in storage, and can be re-rendered at various resolutions any time you need. They’re great! I hate writing them. Mermaid has a different syntax for every diagram type, and they’re hard to remember. PlantUML is more consistent, though not totally, and in my experience can be quite verbose."
+  },
+  {
+    "Title": "Everything that is wrong in museums starts with wall labels",
+    "Url": "https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-12-04T00:02:58",
+    "Domain": "www.aaronland.info",
+    "Description": "It is difficult to separate the issues and questions that contemporary machine-learning and “artificial intelligence” technologies raise in the context of museum without addressing the long history of past attempts to make collections “digital”  and how those efforts have played out organizationally over the years. So many of those issues end up being made manifest in the challenges surrounding the production of wall labels and this talk will discuss some inconvenient truths (and opportunities) about museums and computing that AI surfaces."
+  },
+  {
+    "Title": "Stop talking",
+    "Url": "https://gurkan.in/2025/12/stop-talking/",
+    "Timestamp": "2025-12-04T00:02:53",
+    "Domain": "gurkan.in",
+    "Description": "The years I’ve been working brought a lot of context, more scars, and more pattern recognition. You start seeing inefficiencies, problems. Like a lineman sees a frayed cable: obvious, dangerous, and actually … fixable."
+  },
+  {
+    "Title": "How about a unidimensional spaceship? - Page 9",
+    "Url": "https://conwaylife.com/forums/viewtopic.php?p=222136#p222136",
+    "Timestamp": "2025-12-04T00:02:49",
+    "Domain": "conwaylife.com",
+    "Description": "I6_I6 wrote: ↑Yesterday, 10:47 am\nWow! This is amazing!\nThat's 2 macro-spaceships in the span of a week.\nI've been watching this thread for a while as it grew, but could never comprehend anything going on.\nWill someone bother to explain how it works?\nWe really need a wiki page."
+  },
+  {
+    "Title": "Why don’t we get more scientific breakthroughs?",
+    "Url": "https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/",
+    "Timestamp": "2025-12-04T00:02:45",
+    "Domain": "lemire.me",
+    "Description": "It is absolutely clear to me that large language models represent the most significant scientific breakthrough of the past fifty years. The nature of that breakthrough has far reaching implications for what is happening in science today. And I believe that the entire scientific establishment is refusing to acknowledge it. We often excuse our slow … Continue reading Why don’t we get more scientific breakthroughs?"
+  },
+  {
+    "Title": "What I learned building an opinionated and minimal coding agent",
+    "Url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+    "Timestamp": "2025-12-04T00:02:41",
+    "Domain": "mariozechner.at",
+    "Description": "Lessons I learned while building my own coding agent from scratch."
+  },
+  {
+    "Title": "Lessons From a Noisy Monitor — Mergify",
+    "Url": "https://mergify.com/blog/lessons-from-a-noisy-monitor",
+    "Timestamp": "2025-12-04T00:02:35",
+    "Domain": "mergify.com",
+    "Description": "Your database monitors keep firing even though nothing is wrong? We hit the same problem: noisy IOPS alerts caused by predictable jobs. This post explains how we replaced brittle thresholds with an SLO-based approach that restored signal, eliminated noise, and stopped the monitor from \"crying wolf.\""
+  },
+  {
+    "Title": "Compliance != Security",
+    "Url": "https://introvertmac.wordpress.com/2025/12/03/compliance-security/",
+    "Timestamp": "2025-12-04T00:02:31",
+    "Domain": "introvertmac.wordpress.com",
+    "Description": "For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:Most startups call a security engineer or hire a se…"
+  },
+  {
+    "Title": "Parcha Dev Blog",
+    "Url": "https://blog.parcha.dev/dont-sleep-on-fast-inference",
+    "Timestamp": "2025-12-04T00:02:28",
+    "Domain": "blog.parcha.dev",
+    "Description": "Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation."
+  },
+  {
+    "Title": "Unpaid Labour in Productive Capacity",
+    "Url": "https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity",
+    "Timestamp": "2025-12-04T00:02:23",
+    "Domain": "danieltan.weblog.lol",
+    "Description": "The Productive Capacity Theory of Money framework begins with a simple observation: when you receive an employment letter, your relationship with the financial system transforms overnight. Banks that wouldn't lend you a dollar suddenly want to give you hundreds of thousands. Credit card companies compete for your business. Mortgage lenders calculate exactly how much house you can afford, typically three to four times your annual salary."
+  },
+  {
+    "Title": "My Database Was \"Correct.\" It Was Also 296x Too Slow. - Chandler Nguyen",
+    "Url": "https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/",
+    "Timestamp": "2025-12-04T00:02:18",
+    "Domain": "www.chandlernguyen.com",
+    "Description": "October 25th, 2025. My SaaS application was finally feature-complete. Nine major features, multi-tenant architecture, progressive learning—everything worked. But it was slow. Really slow. Dashboard queries"
+  }
+]

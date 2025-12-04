@@ -1,5 +1,133 @@
 [
   {
+    "Title": "Your Mind Is Not Software",
+    "Url": "https://www.razor.blog/2025/11/your-mind-is-not-software.html",
+    "Timestamp": "2025-12-04T00:03:22",
+    "Domain": "www.razor.blog",
+    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.",
+    "Confidence": 0.95902723
+  },
+  {
+    "Title": "Why WinQuake exists and how it works",
+    "Url": "https://fabiensanglard.net/winquake/index.html",
+    "Timestamp": "2025-12-04T00:03:18",
+    "Domain": "fabiensanglard.net",
+    "Description": "Dec 3, 2025",
+    "Confidence": 0.9907569
+  },
+  {
+    "Title": "CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG",
+    "Url": "https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/",
+    "Timestamp": "2025-12-04T00:03:15",
+    "Domain": "www.gabrielebartolini.it",
+    "Description": "Leveraging the Kubernetes `ImageVolume` feature and PostgreSQL 18's `extension_control_path`, this article demonstrates the CloudNativePG method for declaratively managing extensions like `pgvector` and PostGIS from separate container images, marking the culmination of a multi-year vision to decouple the database core from extension distribution.",
+    "Confidence": 0.9956377
+  },
+  {
+    "Title": "I built a timer I can’t fail to set—Daniel De Laney",
+    "Url": "https://danieldelaney.net/timer/",
+    "Timestamp": "2025-12-04T00:03:12",
+    "Domain": "danieldelaney.net",
+    "Description": "Metacognition needs a prompt",
+    "Confidence": 0.9884429
+  },
+  {
+    "Title": "Understanding ECDSA - Web3 Security Blog",
+    "Url": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
+    "Timestamp": "2025-12-04T00:03:08",
+    "Domain": "avidthinker.github.io",
+    "Description": "Exploring blockchain, math, and smart contracts through a security lens.",
+    "Confidence": 0.9877429
+  },
+  {
+    "Title": "LLMs are great at box diagrams",
+    "Url": "https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/",
+    "Timestamp": "2025-12-04T00:03:02",
+    "Domain": "joeblu.com",
+    "Description": "I love diagram languages like mermaid.js and PlantUML because the text format that backs the diagram can be tweaked, takes up very little space in storage, and can be re-rendered at various resolutions any time you need. They’re great! I hate writing them. Mermaid has a different syntax for every diagram type, and they’re hard to remember. PlantUML is more consistent, though not totally, and in my experience can be quite verbose.",
+    "Confidence": 0.98218596
+  },
+  {
+    "Title": "Everything that is wrong in museums starts with wall labels",
+    "Url": "https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-12-04T00:02:58",
+    "Domain": "www.aaronland.info",
+    "Description": "It is difficult to separate the issues and questions that contemporary machine-learning and “artificial intelligence” technologies raise in the context of museum without addressing the long history of past attempts to make collections “digital”  and how those efforts have played out organizationally over the years. So many of those issues end up being made manifest in the challenges surrounding the production of wall labels and this talk will discuss some inconvenient truths (and opportunities) about museums and computing that AI surfaces.",
+    "Confidence": 0.8963942
+  },
+  {
+    "Title": "Stop talking",
+    "Url": "https://gurkan.in/2025/12/stop-talking/",
+    "Timestamp": "2025-12-04T00:02:53",
+    "Domain": "gurkan.in",
+    "Description": "The years I’ve been working brought a lot of context, more scars, and more pattern recognition. You start seeing inefficiencies, problems. Like a lineman sees a frayed cable: obvious, dangerous, and actually … fixable.",
+    "Confidence": 0.6788981
+  },
+  {
+    "Title": "How about a unidimensional spaceship? - Page 9",
+    "Url": "https://conwaylife.com/forums/viewtopic.php?p=222136#p222136",
+    "Timestamp": "2025-12-04T00:02:49",
+    "Domain": "conwaylife.com",
+    "Description": "I6_I6 wrote: ↑Yesterday, 10:47 am\nWow! This is amazing!\nThat's 2 macro-spaceships in the span of a week.\nI've been watching this thread for a while as it grew, but could never comprehend anything going on.\nWill someone bother to explain how it works?\nWe really need a wiki page.",
+    "Confidence": 0.9818042
+  },
+  {
+    "Title": "Why don’t we get more scientific breakthroughs?",
+    "Url": "https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/",
+    "Timestamp": "2025-12-04T00:02:45",
+    "Domain": "lemire.me",
+    "Description": "It is absolutely clear to me that large language models represent the most significant scientific breakthrough of the past fifty years. The nature of that breakthrough has far reaching implications for what is happening in science today. And I believe that the entire scientific establishment is refusing to acknowledge it. We often excuse our slow … Continue reading Why don’t we get more scientific breakthroughs?",
+    "Confidence": 0.89646244
+  },
+  {
+    "Title": "What I learned building an opinionated and minimal coding agent",
+    "Url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
+    "Timestamp": "2025-12-04T00:02:41",
+    "Domain": "mariozechner.at",
+    "Description": "Lessons I learned while building my own coding agent from scratch.",
+    "Confidence": 0.99564654
+  },
+  {
+    "Title": "Lessons From a Noisy Monitor — Mergify",
+    "Url": "https://mergify.com/blog/lessons-from-a-noisy-monitor",
+    "Timestamp": "2025-12-04T00:02:35",
+    "Domain": "mergify.com",
+    "Description": "Your database monitors keep firing even though nothing is wrong? We hit the same problem: noisy IOPS alerts caused by predictable jobs. This post explains how we replaced brittle thresholds with an SLO-based approach that restored signal, eliminated noise, and stopped the monitor from \"crying wolf.\"",
+    "Confidence": 0.93165046
+  },
+  {
+    "Title": "Compliance != Security",
+    "Url": "https://introvertmac.wordpress.com/2025/12/03/compliance-security/",
+    "Timestamp": "2025-12-04T00:02:31",
+    "Domain": "introvertmac.wordpress.com",
+    "Description": "For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:Most startups call a security engineer or hire a se…",
+    "Confidence": 0.98829705
+  },
+  {
+    "Title": "Parcha Dev Blog",
+    "Url": "https://blog.parcha.dev/dont-sleep-on-fast-inference",
+    "Timestamp": "2025-12-04T00:02:28",
+    "Domain": "blog.parcha.dev",
+    "Description": "Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation.",
+    "Confidence": 0.9943273
+  },
+  {
+    "Title": "Unpaid Labour in Productive Capacity",
+    "Url": "https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity",
+    "Timestamp": "2025-12-04T00:02:23",
+    "Domain": "danieltan.weblog.lol",
+    "Description": "The Productive Capacity Theory of Money framework begins with a simple observation: when you receive an employment letter, your relationship with the financial system transforms overnight. Banks that wouldn't lend you a dollar suddenly want to give you hundreds of thousands. Credit card companies compete for your business. Mortgage lenders calculate exactly how much house you can afford, typically three to four times your annual salary.",
+    "Confidence": 0.9725689
+  },
+  {
+    "Title": "My Database Was \"Correct.\" It Was Also 296x Too Slow. - Chandler Nguyen",
+    "Url": "https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/",
+    "Timestamp": "2025-12-04T00:02:18",
+    "Domain": "www.chandlernguyen.com",
+    "Description": "October 25th, 2025. My SaaS application was finally feature-complete. Nine major features, multi-tenant architecture, progressive learning—everything worked. But it was slow. Really slow. Dashboard queries",
+    "Confidence": 0.99362886
+  },
+  {
     "Title": "Why are my headphones buzzing whenever I run my game?",
     "Url": "https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html",
     "Timestamp": "2025-12-03T22:02:08",
@@ -142,213 +270,5 @@
     "Domain": "andersmurphy.com",
     "Description": "A blog mostly about Clojure programming",
     "Confidence": 0.99700147
-  },
-  {
-    "Title": "Running Great Refinement Meetings",
-    "Url": "https://www.jakeworth.com/posts/running-great-refinement-meetings/",
-    "Timestamp": "2025-12-03T00:04:15",
-    "Domain": "www.jakeworth.com",
-    "Description": "This year I’ve run over 25 Scrum refinement meetings; here’s what I’ve learned.",
-    "Confidence": 0.9779987
-  },
-  {
-    "Title": "Why Authorization is more important than ever",
-    "Url": "https://oscarevertsson.com/posts/why-authorization-is-more-important-than-ever/",
-    "Timestamp": "2025-12-03T00:04:11",
-    "Domain": "oscarevertsson.com",
-    "Description": "Broken access control is at the top of the list for OWASP top 10. In fact, it’s still #1 in the 2025 release candidate with 100% (previously 94%) of tested applications showing some form of broken access control. That number alone should make you pay attention to the concept. Add to this the fact that we are now in an era where pretty much every developer is using Large Language Models (LLM) to some extent and we are producing more code than ever as a result.",
-    "Confidence": 0.9861268
-  },
-  {
-    "Title": "Hello there",
-    "Url": "https://adityadeshlahre.github.io/posts/time-of-a-dev/",
-    "Timestamp": "2025-12-03T00:04:08",
-    "Domain": "adityadeshlahre.github.io",
-    "Description": "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments & systems.",
-    "Confidence": 0.9761367
-  },
-  {
-    "Title": "Helping agents debug webapps",
-    "Url": "https://blog.fsck.com/2025/12/02/helping-agents-debug-webapps/",
-    "Timestamp": "2025-12-03T00:04:05",
-    "Domain": "blog.fsck.com",
-    "Description": "I used to write more",
-    "Confidence": 0.9847719
-  },
-  {
-    "Title": "Re-Signifying my Relationship with Speed",
-    "Url": "https://rashidazarang.com/c/re-signifying-my-relationship-with-speed",
-    "Timestamp": "2025-12-03T00:04:01",
-    "Domain": "rashidazarang.com",
-    "Description": "← Go back",
-    "Confidence": 0.8789548
-  },
-  {
-    "Title": "The Harvest Will Come",
-    "Url": "https://www.joanwestenberg.com/p/the-harvest-will-come",
-    "Timestamp": "2025-12-03T00:03:58",
-    "Domain": "www.joanwestenberg.com",
-    "Description": "A Defense of Human Seasons",
-    "Confidence": 0.7246906
-  },
-  {
-    "Title": "Watch men - Works in Progress Magazine",
-    "Url": "https://worksinprogress.co/issue/watch-men/",
-    "Timestamp": "2025-12-03T00:03:53",
-    "Domain": "worksinprogress.co",
-    "Description": "Japanese quartz made watches accurate, lightweight, and thin. But Swiss mechanical watches fought back.",
-    "Confidence": 0.63323665
-  },
-  {
-    "Title": "Every Major City as a Tiny Miniature World",
-    "Url": "https://www.adithyan.io/blog/world-cities-ai",
-    "Timestamp": "2025-12-03T00:03:49",
-    "Domain": "www.adithyan.io",
-    "Description": "46 world cities reimagined as charming isometric miniatures",
-    "Confidence": 0.9254296
-  },
-  {
-    "Title": "Software Engineering is Map Making, Not Magic",
-    "Url": "https://www.chrisbako.com/posts/2025-11-16-what-the-fuck-is-swe",
-    "Timestamp": "2025-12-03T00:03:45",
-    "Domain": "www.chrisbako.com",
-    "Description": "Everyone wants to replace us, but noone actually knows what we do.",
-    "Confidence": 0.9827415
-  },
-  {
-    "Title": "Self-hosting DNS for no fun, but a little profit!",
-    "Url": "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/",
-    "Timestamp": "2025-12-03T00:03:42",
-    "Domain": "linderud.dev",
-    "Description": "After Gandi was bought up and started taking extortion level prices for their domains I’ve been looking for an excuse to migrate registrar. Last week I decided to bite the bullet and move to Porkbun as I have another domain renewal coming up. However after setting up an account and paying for the transfer for 4 domains, I realized their DNS services are provided by Cloudflare!\nI personally do not use Cloudflare, and stay far away from all of their products for various reasons.",
-    "Confidence": 0.98585856
-  },
-  {
-    "Title": "LLMs Need Better Executive Function",
-    "Url": "https://www.robdearborn.com/2025/12/01/llms-need-better-executive-function/",
-    "Timestamp": "2025-12-03T00:03:37",
-    "Domain": "www.robdearborn.com",
-    "Description": "In the past several weeks we’ve gotten GPT-5.1, Gemini 3, and Opus 4.5. They’re incredible machines. Their benchmarks are superhuman and climbing. They can whip up interactive RNA explainers faster than you can consume them. They have EQ and souls! They’re smarter, speedier, cheaper.",
-    "Confidence": 0.98198354
-  },
-  {
-    "Title": "Flame Graphs",
-    "Url": "https://www.brendangregg.com/flamegraphs.html",
-    "Timestamp": "2025-12-03T00:03:32",
-    "Domain": "www.brendangregg.com",
-    "Description": "Homepage for Flame Graphs: a visualization for stack traces.",
-    "Confidence": 0.98562795
-  },
-  {
-    "Title": "Optimising PostgreSQL Memory Configuration - Tom Foster",
-    "Url": "https://tomfos.tr/postgres/tuning/memory/",
-    "Timestamp": "2025-12-03T00:03:28",
-    "Domain": "tomfos.tr",
-    "Description": "Give your PostgreSQL database the memory it craves! Learn to tune `shared_buffers`, `work_mem`, `effective_cache_size`, and more for peak performance, illustrated with Matrix Synapse examples.",
-    "Confidence": 0.99086326
-  },
-  {
-    "Title": "Hello there",
-    "Url": "https://adityadeshlahre.github.io/posts/hire-someone/",
-    "Timestamp": "2025-12-03T00:03:25",
-    "Domain": "adityadeshlahre.github.io",
-    "Description": "I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments & systems.",
-    "Confidence": 0.9208548
-  },
-  {
-    "Title": "Patrick Evans",
-    "Url": "https://pve.dev/blog/post/2025_12_02",
-    "Timestamp": "2025-12-03T00:03:21",
-    "Domain": "pve.dev",
-    "Description": "Do you dread opening tickets when an internal tool is broken? Do you struggle to find someone to call when a production critical service is broken? Have you ever asked someone why something is broken and gotten a shrug in response?",
-    "Confidence": 0.94865704
-  },
-  {
-    "Title": "id Software was Lazy - DOOM could have had PC Speaker Music!",
-    "Url": "https://lenowo.org/viewtopic.php?t=45",
-    "Timestamp": "2025-12-03T00:03:18",
-    "Domain": "lenowo.org",
-    "Description": "I'm guessing everyone here has played DOOM before, or at least seen someone else play the game. It would also not be of any news for most here, that DOOM has sp",
-    "Confidence": 0.956127
-  },
-  {
-    "Title": "Price as Productive Capacity Signal",
-    "Url": "https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal",
-    "Timestamp": "2025-12-03T00:03:10",
-    "Domain": "danieltan.weblog.lol",
-    "Description": "Mainstream economics holds a foundational belief: prices signal quality, scarcity, and value. In perfectly competitive markets, prices aggregate dispersed information about supply and demand, guiding efficient resource allocation. When prices rise, they signal scarcity and attract supply. When they fall, they signal abundance and redirect resources elsewhere. This elegant theory underpins everything from central bank policy to antitrust law.",
-    "Confidence": 0.9885184
-  },
-  {
-    "Title": "Some people still drive stick",
-    "Url": "https://www.praf.me/driving-stick",
-    "Timestamp": "2025-12-03T00:03:03",
-    "Domain": "www.praf.me",
-    "Description": "I used to think that the world was as good as it could be. That things were this way because nothing better had been invented yet. I felt that progress and technology were a linear scale that all of humanity marched towards equally, stopping only at problems no one had solved.",
-    "Confidence": 0.9347371
-  },
-  {
-    "Title": "Metaphysical Boldness",
-    "Url": "https://cjauvin.github.io/posts/metaphysical-boldness/",
-    "Timestamp": "2025-12-03T00:03:00",
-    "Domain": "cjauvin.github.io",
-    "Description": "Some models of reality are bolder than others Digital physics is the body of mathematical and philosophical work treating the universe and the way it works as a giant digital computer. This is often associated with cellular automata, and names like Konrad Zuse, John Von Neumann, Stephen Wolfram, etc. What I find fascinating about this field is that the models it suggests are making very deep metaphysical claims: if they are true, it means that the underlying structure of the world is much different than we think, and radically simpler in a sense. Take the lattice gas automaton for instance. A version of it is an hexagonal cellular automata with very simple collision rules, not more complicated than the famous Rule 30 or 110, for 1D cellular automata. The impressive thing about it is that a simulation running this rule with many particles can be shown to approximate the Navier-Stokes equations, which are the classical complicated mathematics to describe the dynamics of fluids. Following Wolfram, I find it very appealing to consider the idea that the world is not somehow running “hidden mathematics”, somewhere and somehow, to solve some complicated equations in a seemingly magical way, but rather, that things are radically simpler, in that the world is simply implementing a set of trivially simple rules. The world is not concerned with, or made with mathematics, mathematics just emerges, with inherent and irreducible complexity, from extreme simplicity.",
-    "Confidence": 0.98453325
-  },
-  {
-    "Title": "What To Buy That Improves Quality of Life",
-    "Url": "https://www.developing.dev/p/what-to-buy-that-improves-quality",
-    "Timestamp": "2025-12-03T00:02:57",
-    "Domain": "www.developing.dev",
-    "Description": "Holiday gift guide inspiration",
-    "Confidence": 0.93834466
-  },
-  {
-    "Title": "Strongly Worded Emails",
-    "Url": "https://vale.rocks/posts/strongly-worded-emails",
-    "Timestamp": "2025-12-03T00:02:53",
-    "Domain": "vale.rocks",
-    "Description": "Only the finest form of communication.",
-    "Confidence": 0.81142396
-  },
-  {
-    "Title": "Distributed ID Formats Are Architectural Commitments, Not Just Data Types",
-    "Url": "https://piljoong.dev/posts/distributed-id-generation-complicated/",
-    "Timestamp": "2025-12-03T00:02:49",
-    "Domain": "piljoong.dev",
-    "Description": "Why ID formats become long-term architectural commitments, and how UUID, ULID, Snowflake, and custom schemes compare.",
-    "Confidence": 0.9842149
-  },
-  {
-    "Title": "Latency Profiling in Python: From Code Bottlenecks to Observability",
-    "Url": "https://quant.engineering/latency-profiling-in-python.html",
-    "Timestamp": "2025-12-03T00:02:46",
-    "Domain": "quant.engineering",
-    "Description": "Learn how to pinpoint where time disappears in Python systems, from CPU and I/O bottlenecks to Prometheus metrics and continuous profilers. Explore the tools that turn raw measurements into observability dashboards revealing real performance patterns.",
-    "Confidence": 0.9882165
-  },
-  {
-    "Title": "My Complicated Relationship With Side Projects",
-    "Url": "https://lopezb.com/articles/my-complicated-relationship-with-side-projects",
-    "Timestamp": "2025-12-03T00:02:42",
-    "Domain": "lopezb.com",
-    "Description": "On the frustrating cycle of starting, doubting, and abandoning side projects.",
-    "Confidence": 0.99223495
-  },
-  {
-    "Title": "How I Ported the Web to the Web!",
-    "Url": "https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/",
-    "Timestamp": "2025-12-03T00:02:39",
-    "Domain": "developer.puter.com",
-    "Description": "A deep dive into the history and evolution of web proxies, and how we built a modern web proxy that can handle the complexity of modern web applications.",
-    "Confidence": 0.99255717
-  },
-  {
-    "Title": "We Never Left the Dark Ages",
-    "Url": "https://www.razor.blog/2025/12/we-never-left-dark-ages.html",
-    "Timestamp": "2025-12-03T00:02:35",
-    "Domain": "www.razor.blog",
-    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.",
-    "Confidence": 0.8527772
   }
 ]

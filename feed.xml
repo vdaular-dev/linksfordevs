@@ -7,6 +7,153 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your Mind Is Not Software</title>
+      <link>https://www.razor.blog/2025/11/your-mind-is-not-software.html</link>
+      <description>RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.</description>
+      <category>aspnet</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://www.razor.blog/2025/11/your-mind-is-not-software.html</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why WinQuake exists and how it works</title>
+      <link>https://fabiensanglard.net/winquake/index.html</link>
+      <description>Dec 3, 2025</description>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://fabiensanglard.net/winquake/index.html</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG</title>
+      <link>https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/</link>
+      <description>Leveraging the Kubernetes `ImageVolume` feature and PostgreSQL 18's `extension_control_path`, this article demonstrates the CloudNativePG method for declaratively managing extensions like `pgvector` and PostGIS from separate container images, marking the culmination of a multi-year vision to decouple the database core from extension distribution.</description>
+      <category>containers</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>gaming</category>
+      <guid>https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>I built a timer I can’t fail to set—Daniel De Laney</title>
+      <link>https://danieldelaney.net/timer/</link>
+      <description>Metacognition needs a prompt</description>
+      <guid>https://danieldelaney.net/timer/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding ECDSA - Web3 Security Blog</title>
+      <link>https://avidthinker.github.io/2025/11/28/understanding-ecdsa/</link>
+      <description>Exploring blockchain, math, and smart contracts through a security lens.</description>
+      <category>encryption</category>
+      <guid>https://avidthinker.github.io/2025/11/28/understanding-ecdsa/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs are great at box diagrams</title>
+      <link>https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/</link>
+      <description>I love diagram languages like mermaid.js and PlantUML because the text format that backs the diagram can be tweaked, takes up very little space in storage, and can be re-rendered at various resolutions any time you need. They’re great! I hate writing them. Mermaid has a different syntax for every diagram type, and they’re hard to remember. PlantUML is more consistent, though not totally, and in my experience can be quite verbose.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything that is wrong in museums starts with wall labels</title>
+      <link>https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com</link>
+      <description>It is difficult to separate the issues and questions that contemporary machine-learning and “artificial intelligence” technologies raise in the context of museum without addressing the long history of past attempts to make collections “digital”  and how those efforts have played out organizationally over the years. So many of those issues end up being made manifest in the challenges surrounding the production of wall labels and this talk will discuss some inconvenient truths (and opportunities) about museums and computing that AI surfaces.</description>
+      <category>ai</category>
+      <guid>https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop talking</title>
+      <link>https://gurkan.in/2025/12/stop-talking/</link>
+      <description>The years I’ve been working brought a lot of context, more scars, and more pattern recognition. You start seeing inefficiencies, problems. Like a lineman sees a frayed cable: obvious, dangerous, and actually … fixable.</description>
+      <guid>https://gurkan.in/2025/12/stop-talking/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>How about a unidimensional spaceship? - Page 9</title>
+      <link>https://conwaylife.com/forums/viewtopic.php?p=222136#p222136</link>
+      <description>I6_I6 wrote: ↑Yesterday, 10:47 am
+Wow! This is amazing!
+That's 2 macro-spaceships in the span of a week.
+I've been watching this thread for a while as it grew, but could never comprehend anything going on.
+Will someone bother to explain how it works?
+We really need a wiki page.</description>
+      <guid>https://conwaylife.com/forums/viewtopic.php?p=222136#p222136</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why don’t we get more scientific breakthroughs?</title>
+      <link>https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/</link>
+      <description>It is absolutely clear to me that large language models represent the most significant scientific breakthrough of the past fifty years. The nature of that breakthrough has far reaching implications for what is happening in science today. And I believe that the entire scientific establishment is refusing to acknowledge it. We often excuse our slow … Continue reading Why don’t we get more scientific breakthroughs?</description>
+      <author> (https://lemire.me/blog/author/lemire/)</author>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I learned building an opinionated and minimal coding agent</title>
+      <link>https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</link>
+      <description>Lessons I learned while building my own coding agent from scratch.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons From a Noisy Monitor — Mergify</title>
+      <link>https://mergify.com/blog/lessons-from-a-noisy-monitor</link>
+      <description>Your database monitors keep firing even though nothing is wrong? We hit the same problem: noisy IOPS alerts caused by predictable jobs. This post explains how we replaced brittle thresholds with an SLO-based approach that restored signal, eliminated noise, and stopped the monitor from "crying wolf."</description>
+      <category>sql</category>
+      <guid>https://mergify.com/blog/lessons-from-a-noisy-monitor</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compliance != Security</title>
+      <link>https://introvertmac.wordpress.com/2025/12/03/compliance-security/</link>
+      <description>For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:Most startups call a security engineer or hire a se…</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://introvertmac.wordpress.com/2025/12/03/compliance-security/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parcha Dev Blog</title>
+      <link>https://blog.parcha.dev/dont-sleep-on-fast-inference</link>
+      <description>Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://blog.parcha.dev/dont-sleep-on-fast-inference</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unpaid Labour in Productive Capacity</title>
+      <link>https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity</link>
+      <description>The Productive Capacity Theory of Money framework begins with a simple observation: when you receive an employment letter, your relationship with the financial system transforms overnight. Banks that wouldn't lend you a dollar suddenly want to give you hundreds of thousands. Credit card companies compete for your business. Mortgage lenders calculate exactly how much house you can afford, typically three to four times your annual salary.</description>
+      <category>gaming</category>
+      <guid>https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Database Was "Correct." It Was Also 296x Too Slow. - Chandler Nguyen</title>
+      <link>https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/</link>
+      <description>October 25th, 2025. My SaaS application was finally feature-complete. Nine major features, multi-tenant architecture, progressive learning—everything worked. But it was slow. Really slow. Dashboard queries</description>
+      <author> (https://www.facebook.com/groups/2316660408476702)</author>
+      <category>sql</category>
+      <guid>https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Why are my headphones buzzing whenever I run my game?</title>
       <link>https://alexene.dev/2025/12/03/Why-do-my-headphones-buzz-when-i-run-my-game.html</link>
       <description>Background</description>
@@ -181,236 +328,6 @@ Check out my Uses page for my VS Code setup, what recording equipment I use, etc
       <category>vscode</category>
       <guid>https://andersmurphy.com/2025/12/02/100000-tps-over-a-billion-rows-the-unreasonable-effectiveness-of-sqlite.html</guid>
       <pubDate>Wed, 03 Dec 2025 01:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running Great Refinement Meetings</title>
-      <link>https://www.jakeworth.com/posts/running-great-refinement-meetings/</link>
-      <description>This year I’ve run over 25 Scrum refinement meetings; here’s what I’ve learned.</description>
-      <guid>https://www.jakeworth.com/posts/running-great-refinement-meetings/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Authorization is more important than ever</title>
-      <link>https://oscarevertsson.com/posts/why-authorization-is-more-important-than-ever/</link>
-      <description>Broken access control is at the top of the list for OWASP top 10. In fact, it’s still #1 in the 2025 release candidate with 100% (previously 94%) of tested applications showing some form of broken access control. That number alone should make you pay attention to the concept. Add to this the fact that we are now in an era where pretty much every developer is using Large Language Models (LLM) to some extent and we are producing more code than ever as a result.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>sql</category>
-      <guid>https://oscarevertsson.com/posts/why-authorization-is-more-important-than-ever/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hello there</title>
-      <link>https://adityadeshlahre.github.io/posts/time-of-a-dev/</link>
-      <description>I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments &amp; systems.</description>
-      <guid>https://adityadeshlahre.github.io/posts/time-of-a-dev/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Helping agents debug webapps</title>
-      <link>https://blog.fsck.com/2025/12/02/helping-agents-debug-webapps/</link>
-      <description>I used to write more</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://blog.fsck.com/2025/12/02/helping-agents-debug-webapps/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Re-Signifying my Relationship with Speed</title>
-      <link>https://rashidazarang.com/c/re-signifying-my-relationship-with-speed</link>
-      <description>← Go back</description>
-      <category>ai</category>
-      <guid>https://rashidazarang.com/c/re-signifying-my-relationship-with-speed</guid>
-      <pubDate>Wed, 03 Dec 2025 00:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Harvest Will Come</title>
-      <link>https://www.joanwestenberg.com/p/the-harvest-will-come</link>
-      <description>A Defense of Human Seasons</description>
-      <guid>https://www.joanwestenberg.com/p/the-harvest-will-come</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watch men - Works in Progress Magazine</title>
-      <link>https://worksinprogress.co/issue/watch-men/</link>
-      <description>Japanese quartz made watches accurate, lightweight, and thin. But Swiss mechanical watches fought back.</description>
-      <category>ai</category>
-      <guid>https://worksinprogress.co/issue/watch-men/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every Major City as a Tiny Miniature World</title>
-      <link>https://www.adithyan.io/blog/world-cities-ai</link>
-      <description>46 world cities reimagined as charming isometric miniatures</description>
-      <category>ai</category>
-      <guid>https://www.adithyan.io/blog/world-cities-ai</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Engineering is Map Making, Not Magic</title>
-      <link>https://www.chrisbako.com/posts/2025-11-16-what-the-fuck-is-swe</link>
-      <description>Everyone wants to replace us, but noone actually knows what we do.</description>
-      <category>apple</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.chrisbako.com/posts/2025-11-16-what-the-fuck-is-swe</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-hosting DNS for no fun, but a little profit!</title>
-      <link>https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/</link>
-      <description>After Gandi was bought up and started taking extortion level prices for their domains I’ve been looking for an excuse to migrate registrar. Last week I decided to bite the bullet and move to Porkbun as I have another domain renewal coming up. However after setting up an account and paying for the transfer for 4 domains, I realized their DNS services are provided by Cloudflare!
-I personally do not use Cloudflare, and stay far away from all of their products for various reasons.</description>
-      <category>cloud</category>
-      <category>containers</category>
-      <guid>https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs Need Better Executive Function</title>
-      <link>https://www.robdearborn.com/2025/12/01/llms-need-better-executive-function/</link>
-      <description>In the past several weeks we’ve gotten GPT-5.1, Gemini 3, and Opus 4.5. They’re incredible machines. Their benchmarks are superhuman and climbing. They can whip up interactive RNA explainers faster than you can consume them. They have EQ and souls! They’re smarter, speedier, cheaper.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.robdearborn.com/2025/12/01/llms-need-better-executive-function/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flame Graphs</title>
-      <link>https://www.brendangregg.com/flamegraphs.html</link>
-      <description>Homepage for Flame Graphs: a visualization for stack traces.</description>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>aspnet</category>
-      <guid>https://www.brendangregg.com/flamegraphs.html</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optimising PostgreSQL Memory Configuration - Tom Foster</title>
-      <link>https://tomfos.tr/postgres/tuning/memory/</link>
-      <description>Give your PostgreSQL database the memory it craves! Learn to tune `shared_buffers`, `work_mem`, `effective_cache_size`, and more for peak performance, illustrated with Matrix Synapse examples.</description>
-      <category>sql</category>
-      <category>containers</category>
-      <guid>https://tomfos.tr/postgres/tuning/memory/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hello there</title>
-      <link>https://adityadeshlahre.github.io/posts/hire-someone/</link>
-      <description>I tinker with Linux, open source, AI, TypeScript, Go — backend, infra, deployments &amp; systems.</description>
-      <category>ai</category>
-      <guid>https://adityadeshlahre.github.io/posts/hire-someone/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patrick Evans</title>
-      <link>https://pve.dev/blog/post/2025_12_02</link>
-      <description>Do you dread opening tickets when an internal tool is broken? Do you struggle to find someone to call when a production critical service is broken? Have you ever asked someone why something is broken and gotten a shrug in response?</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://pve.dev/blog/post/2025_12_02</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>id Software was Lazy - DOOM could have had PC Speaker Music!</title>
-      <link>https://lenowo.org/viewtopic.php?t=45</link>
-      <description>I'm guessing everyone here has played DOOM before, or at least seen someone else play the game. It would also not be of any news for most here, that DOOM has sp</description>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://lenowo.org/viewtopic.php?t=45</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Price as Productive Capacity Signal</title>
-      <link>https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal</link>
-      <description>Mainstream economics holds a foundational belief: prices signal quality, scarcity, and value. In perfectly competitive markets, prices aggregate dispersed information about supply and demand, guiding efficient resource allocation. When prices rise, they signal scarcity and attract supply. When they fall, they signal abundance and redirect resources elsewhere. This elegant theory underpins everything from central bank policy to antitrust law.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://danieltan.weblog.lol/2025/12/appendix-a-price-as-productive-capacity-signal</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some people still drive stick</title>
-      <link>https://www.praf.me/driving-stick</link>
-      <description>I used to think that the world was as good as it could be. That things were this way because nothing better had been invented yet. I felt that progress and technology were a linear scale that all of humanity marched towards equally, stopping only at problems no one had solved.</description>
-      <category>ai</category>
-      <guid>https://www.praf.me/driving-stick</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metaphysical Boldness</title>
-      <link>https://cjauvin.github.io/posts/metaphysical-boldness/</link>
-      <description>Some models of reality are bolder than others Digital physics is the body of mathematical and philosophical work treating the universe and the way it works as a giant digital computer. This is often associated with cellular automata, and names like Konrad Zuse, John Von Neumann, Stephen Wolfram, etc. What I find fascinating about this field is that the models it suggests are making very deep metaphysical claims: if they are true, it means that the underlying structure of the world is much different than we think, and radically simpler in a sense. Take the lattice gas automaton for instance. A version of it is an hexagonal cellular automata with very simple collision rules, not more complicated than the famous Rule 30 or 110, for 1D cellular automata. The impressive thing about it is that a simulation running this rule with many particles can be shown to approximate the Navier-Stokes equations, which are the classical complicated mathematics to describe the dynamics of fluids. Following Wolfram, I find it very appealing to consider the idea that the world is not somehow running “hidden mathematics”, somewhere and somehow, to solve some complicated equations in a seemingly magical way, but rather, that things are radically simpler, in that the world is simply implementing a set of trivially simple rules. The world is not concerned with, or made with mathematics, mathematics just emerges, with inherent and irreducible complexity, from extreme simplicity.</description>
-      <guid>https://cjauvin.github.io/posts/metaphysical-boldness/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What To Buy That Improves Quality of Life</title>
-      <link>https://www.developing.dev/p/what-to-buy-that-improves-quality</link>
-      <description>Holiday gift guide inspiration</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>youtube</category>
-      <guid>https://www.developing.dev/p/what-to-buy-that-improves-quality</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strongly Worded Emails</title>
-      <link>https://vale.rocks/posts/strongly-worded-emails</link>
-      <description>Only the finest form of communication.</description>
-      <author> (Declan Chidlow)</author>
-      <category>gaming</category>
-      <guid>https://vale.rocks/posts/strongly-worded-emails</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed ID Formats Are Architectural Commitments, Not Just Data Types</title>
-      <link>https://piljoong.dev/posts/distributed-id-generation-complicated/</link>
-      <description>Why ID formats become long-term architectural commitments, and how UUID, ULID, Snowflake, and custom schemes compare.</description>
-      <category>nodejs</category>
-      <category>sql</category>
-      <guid>https://piljoong.dev/posts/distributed-id-generation-complicated/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Latency Profiling in Python: From Code Bottlenecks to Observability</title>
-      <link>https://quant.engineering/latency-profiling-in-python.html</link>
-      <description>Learn how to pinpoint where time disappears in Python systems, from CPU and I/O bottlenecks to Prometheus metrics and continuous profilers. Explore the tools that turn raw measurements into observability dashboards revealing real performance patterns.</description>
-      <author> (https://quant.engineering/author/rundef.html)</author>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://quant.engineering/latency-profiling-in-python.html</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Complicated Relationship With Side Projects</title>
-      <link>https://lopezb.com/articles/my-complicated-relationship-with-side-projects</link>
-      <description>On the frustrating cycle of starting, doubting, and abandoning side projects.</description>
-      <guid>https://lopezb.com/articles/my-complicated-relationship-with-side-projects</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Ported the Web to the Web!</title>
-      <link>https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/</link>
-      <description>A deep dive into the history and evolution of web proxies, and how we built a modern web proxy that can handle the complexity of modern web applications.</description>
-      <category>javascript</category>
-      <category>rust</category>
-      <category>encryption</category>
-      <category>web</category>
-      <category>git</category>
-      <guid>https://developer.puter.com/blog/how-I-ported-the-web-to-the-web/</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Never Left the Dark Ages</title>
-      <link>https://www.razor.blog/2025/12/we-never-left-dark-ages.html</link>
-      <description>RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.</description>
-      <category>ai</category>
-      <category>aspnet</category>
-      <guid>https://www.razor.blog/2025/12/we-never-left-dark-ages.html</guid>
-      <pubDate>Wed, 03 Dec 2025 00:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
