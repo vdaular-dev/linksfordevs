@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stacktower: An Accidental Deep Dive</title>
+      <link>https://stacktower.io/</link>
+      <description>How an XKCD comic led to teaching myself graph theory — a journey through NP-hard problems, PQ-trees, and layered graph algorithms.</description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://stacktower.io/</guid>
+      <pubDate>Thu, 04 Dec 2025 19:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAM is so expensive, Samsung won't even sell it to Samsung</title>
+      <link>https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html</link>
+      <description>Due to rising prices from the "AI" bubble, Samsung Semiconductor reportedly refused a RAM order for new Galaxy phones from Samsung Electronics.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.pcworld.com/article/2998935/ram-is-so-expensive-samsung-wont-even-sell-it-to-samsung.html</guid>
+      <pubDate>Thu, 04 Dec 2025 19:11:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Why I Ignore The Spotlight as a Staff Engineer</title>
       <link>https://lalitm.com/software-engineering-outside-the-spotlight/</link>
       <description>Lately I’ve been reading Sean Goedecke’s essays on being a Staff+ engineer. His work (particularly Software engineering under the spotlight and It’s Not Your Codebase) is razor-sharp and feels painfully familiar to anyone in Big Tech.
