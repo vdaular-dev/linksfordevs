@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why I Ignore The Spotlight as a Staff Engineer</title>
+      <link>https://lalitm.com/software-engineering-outside-the-spotlight/</link>
+      <description>Lately I’ve been reading Sean Goedecke’s essays on being a Staff+ engineer. His work (particularly Software engineering under the spotlight and It’s Not Your Codebase) is razor-sharp and feels painfully familiar to anyone in Big Tech.
+On paper, I fit the mold he describes: I’m a Senior Staff engineer at Google. Yet, reading his work left me with a lingering sense of unease. At first, I dismissed this as cynicism. After reflecting, however, I realized the problem wasn’t Sean’s writing but my reading.
+Sean isn’t being bleak; he is accurately describing how to deal with a world where engineers are fungible assets and priorities shift quarterly. But my job looks nothing like that and I know deep down that if I tried to operate in that environment or in the way he described I’d burn out within months.
+Instead I’ve followed an alternate path, one that optimizes for systems over spotlights, and stewardship over fungibility.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>aspnet</category>
+      <guid>https://lalitm.com/software-engineering-outside-the-spotlight/</guid>
+      <pubDate>Thu, 04 Dec 2025 18:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Basket Case Barn Find: Resurrection of Pontiac's Holy Grail</title>
       <link>https://youtube.com/watch?v=voKa9L7b3c0</link>
       <description>This is the hunt for the only known 1969 Pontiac 2+2 convertible to leave the factory with a Corvette-spec 427 and a four-speed—born in Canada, hiding Chevy bones under Pontiac skin, and scattered across an Alberta farm in coffee cans. We follow the trail from my dad’s bubble-top Parisienne to a barn-find basket case, through mirrored Protect-O-Plate forensics, lost-and-found VIN tags, and an eight-year, concours-level resurrection that dyno-verifies 390 honest horsepower.
@@ -320,28 +333,6 @@ registered 501(c)(3) non-profit.</description>
       <category>linux</category>
       <guid>https://frvr.com/blog/news/steam-deck-lead-reveals-valve-is-funding-arm-compatibility-of-windows-games-to-expand-pc-gaming-and-release-ultraportables-in-the-future/</guid>
       <pubDate>Wed, 03 Dec 2025 20:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Helldivers 2 devs slash install size from 154GB to 23GB, thanks to the help of PC port veterans — ditching HDD optimization, 85% size reduction accomplished by de-duplicating game data</title>
-      <link>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</link>
-      <description>PC players can now opt into a slim version that’s 85% smaller.</description>
-      <category>gaming</category>
-      <guid>https://www.tomshardware.com/video-games/pc-gaming/helldivers-2-install-size-slashed-from-154gb-to-just-23gb-85-percent-reduction-accomplished-by-de-duplicating-game-data-an-optimization-for-older-mechanical-hard-drives</guid>
-      <pubDate>Wed, 03 Dec 2025 18:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Edge Detection Using the Sobel Operator</title>
-      <link>https://www.4rknova.com//blog/2017/01/01/sobel</link>
-      <description>The Sobel operator explained and implemented in GLSL</description>
-      <guid>https://www.4rknova.com//blog/2017/01/01/sobel</guid>
-      <pubDate>Wed, 03 Dec 2025 18:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sprite Encoding / Decoding Using Literals</title>
-      <link>https://www.4rknova.com//blog/2017/01/01/sprite-encoding</link>
-      <description>A simple approach for sprite texture encoding</description>
-      <guid>https://www.4rknova.com//blog/2017/01/01/sprite-encoding</guid>
-      <pubDate>Wed, 03 Dec 2025 18:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
