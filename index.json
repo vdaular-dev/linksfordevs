@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Who put the AI in my Database?",
+    "Url": "https://basementprogrammer.com/who-put-the-ai-in-my-database",
+    "Timestamp": "2025-12-04T21:02:08",
+    "Domain": "basementprogrammer.com",
+    "Description": "I’m not a mathematician; I can’t even spell mathematician without help from spell check… so needless to say I am not the person building AI models for a living and trying to calculate the standard deviation of an elliptical ark. That’s a thing, right...",
+    "Confidence": 0.9896208
+  },
+  {
     "Title": "Prompt Injection Inside GitHub Actions: The New Frontier of Supply Chain Attacks",
     "Url": "https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents",
     "Timestamp": "2025-12-04T20:02:20",
@@ -278,21 +286,5 @@
     "Domain": "jonready.com",
     "Description": "A post about everyone in Seattle hating AI.",
     "Confidence": 0.9088775
-  },
-  {
-    "Title": "Ghostty Is Now Non-Profit",
-    "Url": "https://mitchellh.com/writing/ghostty-non-profit",
-    "Timestamp": "2025-12-03T21:02:06",
-    "Domain": "mitchellh.com",
-    "Description": "Ghostty is now fiscally sponsored by Hack Club, a\nregistered 501(c)(3) non-profit.",
-    "Confidence": 0.97950566
-  },
-  {
-    "Title": "How I Reverse Engineered a Billion-Dollar Legal AI Tool and Found 100k+ Confidential Files",
-    "Url": "https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k",
-    "Timestamp": "2025-12-03T21:02:02",
-    "Domain": "alexschapiro.com",
-    "Description": "Update: This post received a large amount of attention on Hacker News — see the discussion thread.",
-    "Confidence": 0.983143
   }
 ]

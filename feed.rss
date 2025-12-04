@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Who put the AI in my Database?</title>
+      <link>https://basementprogrammer.com/who-put-the-ai-in-my-database</link>
+      <description>I’m not a mathematician; I can’t even spell mathematician without help from spell check… so needless to say I am not the person building AI models for a living and trying to calculate the standard deviation of an elliptical ark. That’s a thing, right...</description>
+      <author> (https://hashnode.com/@BasementProgrammer)</author>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://basementprogrammer.com/who-put-the-ai-in-my-database</guid>
+      <pubDate>Thu, 04 Dec 2025 21:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Prompt Injection Inside GitHub Actions: The New Frontier of Supply Chain Attacks</title>
       <link>https://www.aikido.dev/blog/promptpwnd-github-actions-ai-agents</link>
       <description>AI-driven GitHub Actions expose new prompt-injection supply chain vulnerabilities.</description>
@@ -352,23 +363,6 @@ We really need a wiki page.</description>
       <category>web</category>
       <guid>https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html</guid>
       <pubDate>Wed, 03 Dec 2025 22:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghostty Is Now Non-Profit</title>
-      <link>https://mitchellh.com/writing/ghostty-non-profit</link>
-      <description>Ghostty is now fiscally sponsored by Hack Club, a
-registered 501(c)(3) non-profit.</description>
-      <guid>https://mitchellh.com/writing/ghostty-non-profit</guid>
-      <pubDate>Wed, 03 Dec 2025 21:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Reverse Engineered a Billion-Dollar Legal AI Tool and Found 100k+ Confidential Files</title>
-      <link>https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</link>
-      <description>Update: This post received a large amount of attention on Hacker News — see the discussion thread.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://alexschapiro.com/security/vulnerability/2025/12/02/filevine-api-100k</guid>
-      <pubDate>Wed, 03 Dec 2025 21:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
