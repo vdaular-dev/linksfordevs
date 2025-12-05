@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Gemini 3 Pro: the frontier of vision AI",
+    "Url": "https://blog.google/technology/developers/gemini-3-pro-vision/",
+    "Timestamp": "2025-12-05T23:02:08",
+    "Domain": "blog.google",
+    "Description": "Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.",
+    "Confidence": 0.9326245
+  },
+  {
     "Title": "Leveraging the AI in your database...",
     "Url": "https://basementprogrammer.com/leveraging-the-ai-in-your-database",
     "Timestamp": "2025-12-05T22:02:05",
@@ -262,13 +270,5 @@
     "Domain": "qckfx.com",
     "Description": "Onboarding to a new codebase is broken. The code isn't the truth anymore—context is scattered across Slack, Notion, PRs, and AI chat threads.",
     "Confidence": 0.981876
-  },
-  {
-    "Title": "The RAM Shortage Comes for Us All",
-    "Url": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all",
-    "Timestamp": "2025-12-04T23:02:04",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Memory price inflation comes for us all, and if you're not affected yet, just wait.",
-    "Confidence": 0.90547997
   }
 ]

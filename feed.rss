@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Gemini 3 Pro: the frontier of vision AI</title>
+      <link>https://blog.google/technology/developers/gemini-3-pro-vision/</link>
+      <description>Build with Gemini 3 Pro, the best model in the world for multimodal capabilities.</description>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <guid>https://blog.google/technology/developers/gemini-3-pro-vision/</guid>
+      <pubDate>Fri, 05 Dec 2025 23:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Leveraging the AI in your database...</title>
       <link>https://basementprogrammer.com/leveraging-the-ai-in-your-database</link>
       <description>Yesterday I wrote a blog post called “Who put the AI in my Database?” The topic of that blog post was how you can leverage the AI capabilities that Oracle has built into your database to train and deploy models.
@@ -321,16 +330,6 @@ Near the end of that post, I mentioned that the parser isn't very efficient.</de
       <category>ai</category>
       <guid>https://qckfx.com/blog/what-i-wish-i-could-tell-every-engineer-joining-a-new-team</guid>
       <pubDate>Fri, 05 Dec 2025 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>The RAM Shortage Comes for Us All</title>
-      <link>https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all</link>
-      <description>Memory price inflation comes for us all, and if you're not affected yet, just wait.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all</guid>
-      <pubDate>Thu, 04 Dec 2025 23:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
