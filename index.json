@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Netflix to Acquire Warner Bros. Following the Separation of Discovery Global for a Total Enterprise Value of $82.7 Billion (Equity Value of $72.0 Billion) - About Netflix",
+    "Url": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+    "Timestamp": "2025-12-05T14:02:15",
+    "Domain": "about.netflix.com",
+    "Description": "",
+    "Confidence": 0.853454
+  },
+  {
     "Title": "The secretive cabal of US polluters that is rewriting the EU’s human rights and climate law - SOMO",
     "Url": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
     "Timestamp": "2025-12-05T13:02:02",
@@ -326,13 +334,5 @@
     "Domain": "arxiv.org",
     "Description": "In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historically, elites could shape support only through limited instruments like schooling and mass media; advances in AI-driven persuasion sharply reduce the cost and increase the precision of shaping public opinion, making the distribution of preferences itself an object of deliberate design. We develop a dynamic model in which elites choose how much to reshape the distribution of policy preferences, subject to persuasion costs and a majority rule constraint. With a single elite, any optimal intervention tends to push society toward more polarized opinion profiles - a ``polarization pull'' - and improvements in persuasion technology accelerate this drift. When two opposed elites alternate in power, the same technology also creates incentives to park society in ``semi-lock'' regions where opinions are more cohesive and harder for a rival to overturn, so advances in persuasion can either heighten or dampen polarization depending on the environment. Taken together, cheaper persuasion technologies recast polarization as a strategic instrument of governance rather than a purely emergent social byproduct, with important implications for democratic stability as AI capabilities advance.",
     "Confidence": 0.80443126
-  },
-  {
-    "Title": "Validating Blueprints' Content in Unreal | Thomas Poulet",
-    "Url": "https://blog.thomaspoulet.fr/posts/validating-blueprints-content-in-unreal/",
-    "Timestamp": "2025-12-04T14:01:40",
-    "Domain": "blog.thomaspoulet.fr",
-    "Description": "Validating Blueprint classes setup in Unreal Engine 5 using Asset Validators.",
-    "Confidence": 0.9869923
   }
 ]
