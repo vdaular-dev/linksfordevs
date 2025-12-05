@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Leveraging the AI in your database...</title>
+      <link>https://basementprogrammer.com/leveraging-the-ai-in-your-database</link>
+      <description>Yesterday I wrote a blog post called “Who put the AI in my Database?” The topic of that blog post was how you can leverage the AI capabilities that Oracle has built into your database to train and deploy models.
+Being able to train and deploy an AI m...</description>
+      <author> (https://hashnode.com/@BasementProgrammer)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://basementprogrammer.com/leveraging-the-ai-in-your-database</guid>
+      <pubDate>Fri, 05 Dec 2025 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Cloudflare outage on December 5, 2025</title>
       <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
       <description>Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components.</description>
@@ -318,13 +331,6 @@ Near the end of that post, I mentioned that the parser isn't very efficient.</de
       <category>javascript</category>
       <guid>https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all</guid>
       <pubDate>Thu, 04 Dec 2025 23:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why are 38 percent of Stanford students saying they're disabled?</title>
-      <link>https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</link>
-      <description>If you get into an elite college, you probably don't have a learning disability.</description>
-      <guid>https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/</guid>
-      <pubDate>Thu, 04 Dec 2025 22:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
