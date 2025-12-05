@@ -7,6 +7,208 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>warp speed ahead – Pinaraf's website</title>
+      <link>https://www.pinaraf.info/2025/12/jit-episode-iii-warp-speed-ahead/</link>
+      <description>In our first JIT episode, we discussed how we could, using copy-patch, easily create a JIT compiler for PostgreSQL, with a slight improvement in performance compared to the PostgreSQL interpreter.</description>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://www.pinaraf.info/2025/12/jit-episode-iii-warp-speed-ahead/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ashley Willis</title>
+      <link>https://ashley.dev/posts/empathy-doesnt-scale/</link>
+      <description>The other day I texted my group chat with other leaders outside my organization. The ones I go to when the leadership stuff gets messy and I need perspective fr...</description>
+      <category>git</category>
+      <guid>https://ashley.dev/posts/empathy-doesnt-scale/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strategizing for my LLC</title>
+      <link>https://andys.blog/strategizing/</link>
+      <description>This post stems from my recent EOM Nov Update, where I was too lazy to list concrete next steps. Thanks Justin for hosting a useful 2026 goal-setting conversation with some other lovelies on Wednesday morn!
+
+Feedback welcome, especially on the clarity of the executive summary—how much does it improve</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <guid>https://andys.blog/strategizing/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Constraints That Create Autonomy</title>
+      <link>https://www.davidpoll.com/2025/12/constraints-create-autonomy/</link>
+      <description>The conventional wisdom about autonomy is simple: remove constraints. Get out of people’s way. Let them figure it out. Trust them to run.But this often backfires in a specific, predictable way. Tea...</description>
+      <guid>https://www.davidpoll.com/2025/12/constraints-create-autonomy/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTMX and Django make status polling trivial</title>
+      <link>https://sgoel.dev/posts/htmx-and-django-make-status-polling-trivial/</link>
+      <description>Implement status polling with htmx and Django without any frontend Javascript code or build pipelines, using only server-side rendering.</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://sgoel.dev/posts/htmx-and-django-make-status-polling-trivial/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Michael Tsai - Blog - Losing Confidence</title>
+      <link>https://mjtsai.com/blog/2025/12/03/losing-confidence/</link>
+      <description>Howard Oakley (Hacker News):</description>
+      <category>apple</category>
+      <guid>https://mjtsai.com/blog/2025/12/03/losing-confidence/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django: what’s new in 6.0 - Adam Johnson</title>
+      <link>https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</link>
+      <description>Django 6.0 was released today, starting another release cycle for the loved and long-lived Python web framework (now 20 years old!). It comes with a mosaic of new features, contributed to by many, some of which I am happy to have helped with. Below is my pick of highlights from the release notes.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shae Erisson's blog - Monoidal Hashing</title>
+      <link>https://www.scannedinavian.com/monoidal-hashing.html</link>
+      <description>Posted on 2025-12-03</description>
+      <category>rust</category>
+      <guid>https://www.scannedinavian.com/monoidal-hashing.html</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multiplying with a constant — Matt Godbolt’s blog</title>
+      <link>https://xania.org/202512/04-multiplying-integers</link>
+      <description>Compilers know all the tricks for avoiding doing actual multiplies.</description>
+      <guid>https://xania.org/202512/04-multiplying-integers</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Website's Frontend just became a Backdoor, and on the Future of Cyber Attacks.</title>
+      <link>https://vonwerk.com/blog/your-websites-frontent-just-became-a-backdoor-and-on-the-future-of-cyber-attacks</link>
+      <description></description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://vonwerk.com/blog/your-websites-frontent-just-became-a-backdoor-and-on-the-future-of-cyber-attacks</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>One Year with ChatGPT Pro as a First Hire | Sound for Movement</title>
+      <link>https://www.soundformovement.com/chatgpt-pro-as-first-hire</link>
+      <description>A one-year qualitative account of treating ChatGPT Pro as a first hire inside a one-person music company.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>encryption</category>
+      <guid>https://www.soundformovement.com/chatgpt-pro-as-first-hire</guid>
+      <pubDate>Fri, 05 Dec 2025 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Track Tasks. Track Interruptions.</title>
+      <link>https://adrianhoward.com/posts/track-interruptions/</link>
+      <description>TL;DR: Instead of tracking your time, try tracking the interruptions instead.</description>
+      <guid>https://adrianhoward.com/posts/track-interruptions/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Production Ready Terraform with Testing, Validation and CI/CD</title>
+      <link>https://fatihkoc.net/posts/production-ready-terraform/</link>
+      <description>Build production-ready Terraform pipelines with testing, validation and automated CI/CD. Learn tflint, tfsec, OPA policies and drift detection strategies.</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://fatihkoc.net/posts/production-ready-terraform/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why PyTorch is an amazing place to work... and Why I'm Joining Thinking Machines</title>
+      <link>https://www.thonking.ai/p/why-pytorch-is-an-amazing-place-to</link>
+      <description>In which I convince to you to join either PyTorch or Thinking Machines!</description>
+      <category>ai</category>
+      <guid>https://www.thonking.ai/p/why-pytorch-is-an-amazing-place-to</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should CSS be Constraints?</title>
+      <link>https://pavpanchekha.com/blog/why-css-bad.html</link>
+      <description>CSS is hard. The layout rules are quite complex and hard to pick up just from examples. Something like "centering a &lt;div&gt;" is, like, famously a problem. Or remember the 2000s when you'd read A List Apart for all sorts of crazy ways to achieve the "Holy Grail" layout, specifically a header, a main body and sidebar of equal heights, and a footer? Given that it's such a mess, should we maybe just throw it out and start over with a totally different system?</description>
+      <category>web</category>
+      <category>apple</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>typescript</category>
+      <guid>https://pavpanchekha.com/blog/why-css-bad.html</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Super-flat ASTs</title>
+      <link>https://jhwlr.io/super-flat-ast/</link>
+      <description>In my previous post, I introduced the simple programming language.
+Near the end of that post, I mentioned that the parser isn't very efficient.</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <guid>https://jhwlr.io/super-flat-ast/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>what would a WeWork of the future look like?</title>
+      <link>https://james.js.org/remote-future</link>
+      <description>My personal website</description>
+      <category>javascript</category>
+      <guid>https://james.js.org/remote-future</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Going the way of the lithographer</title>
+      <link>https://ondergetekende.nl/going-the-way-of-the-lithographer</link>
+      <description>Also available in:                    NL</description>
+      <category>ai</category>
+      <guid>https://ondergetekende.nl/going-the-way-of-the-lithographer</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>My First Impressions of MeshCore Off-Grid Messaging</title>
+      <link>https://mtlynch.io/first-impressions-of-meshcore/</link>
+      <description>
+    Using low-cost radio hardware to keep texting when there's no phone or Internet service.
+  </description>
+      <category>ai</category>
+      <category>android</category>
+      <category>git</category>
+      <category>encryption</category>
+      <guid>https://mtlynch.io/first-impressions-of-meshcore/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minimum Viable Benchmark - nilenso blog</title>
+      <link>https://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/</link>
+      <description>Atharva Raykar
+        
+        
+          Read more by Atharva
+         ...</description>
+      <category>ai</category>
+      <guid>https://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Wish I Could Tell Every Engineer Joining a New Team</title>
+      <link>https://qckfx.com/blog/what-i-wish-i-could-tell-every-engineer-joining-a-new-team</link>
+      <description>Onboarding to a new codebase is broken. The code isn't the truth anymore—context is scattered across Slack, Notion, PRs, and AI chat threads.</description>
+      <category>ai</category>
+      <guid>https://qckfx.com/blog/what-i-wish-i-could-tell-every-engineer-joining-a-new-team</guid>
+      <pubDate>Fri, 05 Dec 2025 00:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>The RAM Shortage Comes for Us All</title>
       <link>https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all</link>
       <description>Memory price inflation comes for us all, and if you're not affected yet, just wait.</description>
@@ -205,153 +407,6 @@ https://youtu.be/EzgEOh4s9Lw</description>
       <category>javascript</category>
       <guid>https://xkcd.com/3176/</guid>
       <pubDate>Thu, 04 Dec 2025 02:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Mind Is Not Software</title>
-      <link>https://www.razor.blog/2025/11/your-mind-is-not-software.html</link>
-      <description>RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.</description>
-      <category>aspnet</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://www.razor.blog/2025/11/your-mind-is-not-software.html</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why WinQuake exists and how it works</title>
-      <link>https://fabiensanglard.net/winquake/index.html</link>
-      <description>Dec 3, 2025</description>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://fabiensanglard.net/winquake/index.html</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG</title>
-      <link>https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/</link>
-      <description>Leveraging the Kubernetes `ImageVolume` feature and PostgreSQL 18's `extension_control_path`, this article demonstrates the CloudNativePG method for declaratively managing extensions like `pgvector` and PostGIS from separate container images, marking the culmination of a multi-year vision to decouple the database core from extension distribution.</description>
-      <category>containers</category>
-      <category>git</category>
-      <category>sql</category>
-      <category>gaming</category>
-      <guid>https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>I built a timer I can’t fail to set—Daniel De Laney</title>
-      <link>https://danieldelaney.net/timer/</link>
-      <description>Metacognition needs a prompt</description>
-      <guid>https://danieldelaney.net/timer/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understanding ECDSA - Web3 Security Blog</title>
-      <link>https://avidthinker.github.io/2025/11/28/understanding-ecdsa/</link>
-      <description>Exploring blockchain, math, and smart contracts through a security lens.</description>
-      <category>encryption</category>
-      <guid>https://avidthinker.github.io/2025/11/28/understanding-ecdsa/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs are great at box diagrams</title>
-      <link>https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/</link>
-      <description>I love diagram languages like mermaid.js and PlantUML because the text format that backs the diagram can be tweaked, takes up very little space in storage, and can be re-rendered at various resolutions any time you need. They’re great! I hate writing them. Mermaid has a different syntax for every diagram type, and they’re hard to remember. PlantUML is more consistent, though not totally, and in my experience can be quite verbose.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything that is wrong in museums starts with wall labels</title>
-      <link>https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com</link>
-      <description>It is difficult to separate the issues and questions that contemporary machine-learning and “artificial intelligence” technologies raise in the context of museum without addressing the long history of past attempts to make collections “digital”  and how those efforts have played out organizationally over the years. So many of those issues end up being made manifest in the challenges surrounding the production of wall labels and this talk will discuss some inconvenient truths (and opportunities) about museums and computing that AI surfaces.</description>
-      <category>ai</category>
-      <guid>https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop talking</title>
-      <link>https://gurkan.in/2025/12/stop-talking/</link>
-      <description>The years I’ve been working brought a lot of context, more scars, and more pattern recognition. You start seeing inefficiencies, problems. Like a lineman sees a frayed cable: obvious, dangerous, and actually … fixable.</description>
-      <guid>https://gurkan.in/2025/12/stop-talking/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>How about a unidimensional spaceship? - Page 9</title>
-      <link>https://conwaylife.com/forums/viewtopic.php?p=222136#p222136</link>
-      <description>I6_I6 wrote: ↑Yesterday, 10:47 am
-Wow! This is amazing!
-That's 2 macro-spaceships in the span of a week.
-I've been watching this thread for a while as it grew, but could never comprehend anything going on.
-Will someone bother to explain how it works?
-We really need a wiki page.</description>
-      <guid>https://conwaylife.com/forums/viewtopic.php?p=222136#p222136</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why don’t we get more scientific breakthroughs?</title>
-      <link>https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/</link>
-      <description>It is absolutely clear to me that large language models represent the most significant scientific breakthrough of the past fifty years. The nature of that breakthrough has far reaching implications for what is happening in science today. And I believe that the entire scientific establishment is refusing to acknowledge it. We often excuse our slow … Continue reading Why don’t we get more scientific breakthroughs?</description>
-      <author> (https://lemire.me/blog/author/lemire/)</author>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>What I learned building an opinionated and minimal coding agent</title>
-      <link>https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</link>
-      <description>Lessons I learned while building my own coding agent from scratch.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://mariozechner.at/posts/2025-11-30-pi-coding-agent/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lessons From a Noisy Monitor — Mergify</title>
-      <link>https://mergify.com/blog/lessons-from-a-noisy-monitor</link>
-      <description>Your database monitors keep firing even though nothing is wrong? We hit the same problem: noisy IOPS alerts caused by predictable jobs. This post explains how we replaced brittle thresholds with an SLO-based approach that restored signal, eliminated noise, and stopped the monitor from "crying wolf."</description>
-      <category>sql</category>
-      <guid>https://mergify.com/blog/lessons-from-a-noisy-monitor</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compliance != Security</title>
-      <link>https://introvertmac.wordpress.com/2025/12/03/compliance-security/</link>
-      <description>For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:Most startups call a security engineer or hire a se…</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>sql</category>
-      <guid>https://introvertmac.wordpress.com/2025/12/03/compliance-security/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Parcha Dev Blog</title>
-      <link>https://blog.parcha.dev/dont-sleep-on-fast-inference</link>
-      <description>Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://blog.parcha.dev/dont-sleep-on-fast-inference</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unpaid Labour in Productive Capacity</title>
-      <link>https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity</link>
-      <description>The Productive Capacity Theory of Money framework begins with a simple observation: when you receive an employment letter, your relationship with the financial system transforms overnight. Banks that wouldn't lend you a dollar suddenly want to give you hundreds of thousands. Credit card companies compete for your business. Mortgage lenders calculate exactly how much house you can afford, typically three to four times your annual salary.</description>
-      <category>gaming</category>
-      <guid>https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Database Was "Correct." It Was Also 296x Too Slow. - Chandler Nguyen</title>
-      <link>https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/</link>
-      <description>October 25th, 2025. My SaaS application was finally feature-complete. Nine major features, multi-tenant architecture, progressive learning—everything worked. But it was slow. Really slow. Dashboard queries</description>
-      <author> (https://www.facebook.com/groups/2316660408476702)</author>
-      <category>sql</category>
-      <guid>https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/</guid>
-      <pubDate>Thu, 04 Dec 2025 00:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

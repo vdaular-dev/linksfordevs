@@ -1,5 +1,173 @@
 [
   {
+    "Title": "warp speed ahead – Pinaraf's website",
+    "Url": "https://www.pinaraf.info/2025/12/jit-episode-iii-warp-speed-ahead/",
+    "Timestamp": "2025-12-05T00:03:47",
+    "Domain": "www.pinaraf.info",
+    "Description": "In our first JIT episode, we discussed how we could, using copy-patch, easily create a JIT compiler for PostgreSQL, with a slight improvement in performance compared to the PostgreSQL interpreter.",
+    "Confidence": 0.991334
+  },
+  {
+    "Title": "Ashley Willis",
+    "Url": "https://ashley.dev/posts/empathy-doesnt-scale/",
+    "Timestamp": "2025-12-05T00:03:41",
+    "Domain": "ashley.dev",
+    "Description": "The other day I texted my group chat with other leaders outside my organization. The ones I go to when the leadership stuff gets messy and I need perspective fr...",
+    "Confidence": 0.98178506
+  },
+  {
+    "Title": "Strategizing for my LLC",
+    "Url": "https://andys.blog/strategizing/",
+    "Timestamp": "2025-12-05T00:03:38",
+    "Domain": "andys.blog",
+    "Description": "This post stems from my recent EOM Nov Update, where I was too lazy to list concrete next steps. Thanks Justin for hosting a useful 2026 goal-setting conversation with some other lovelies on Wednesday morn!\n\nFeedback welcome, especially on the clarity of the executive summary—how much does it improve",
+    "Confidence": 0.92733485
+  },
+  {
+    "Title": "The Constraints That Create Autonomy",
+    "Url": "https://www.davidpoll.com/2025/12/constraints-create-autonomy/",
+    "Timestamp": "2025-12-05T00:03:34",
+    "Domain": "www.davidpoll.com",
+    "Description": "The conventional wisdom about autonomy is simple: remove constraints. Get out of people’s way. Let them figure it out. Trust them to run.But this often backfires in a specific, predictable way. Tea...",
+    "Confidence": 0.96941257
+  },
+  {
+    "Title": "HTMX and Django make status polling trivial",
+    "Url": "https://sgoel.dev/posts/htmx-and-django-make-status-polling-trivial/",
+    "Timestamp": "2025-12-05T00:03:31",
+    "Domain": "sgoel.dev",
+    "Description": "Implement status polling with htmx and Django without any frontend Javascript code or build pipelines, using only server-side rendering.",
+    "Confidence": 0.99128497
+  },
+  {
+    "Title": "Michael Tsai - Blog - Losing Confidence",
+    "Url": "https://mjtsai.com/blog/2025/12/03/losing-confidence/",
+    "Timestamp": "2025-12-05T00:03:28",
+    "Domain": "mjtsai.com",
+    "Description": "Howard Oakley (Hacker News):",
+    "Confidence": 0.8752414
+  },
+  {
+    "Title": "Django: what’s new in 6.0 - Adam Johnson",
+    "Url": "https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/",
+    "Timestamp": "2025-12-05T00:03:24",
+    "Domain": "adamj.eu",
+    "Description": "Django 6.0 was released today, starting another release cycle for the loved and long-lived Python web framework (now 20 years old!). It comes with a mosaic of new features, contributed to by many, some of which I am happy to have helped with. Below is my pick of highlights from the release notes.",
+    "Confidence": 0.98983335
+  },
+  {
+    "Title": "Shae Erisson's blog - Monoidal Hashing",
+    "Url": "https://www.scannedinavian.com/monoidal-hashing.html",
+    "Timestamp": "2025-12-05T00:03:21",
+    "Domain": "www.scannedinavian.com",
+    "Description": "Posted on 2025-12-03",
+    "Confidence": 0.98908776
+  },
+  {
+    "Title": "Multiplying with a constant — Matt Godbolt’s blog",
+    "Url": "https://xania.org/202512/04-multiplying-integers",
+    "Timestamp": "2025-12-05T00:03:17",
+    "Domain": "xania.org",
+    "Description": "Compilers know all the tricks for avoiding doing actual multiplies.",
+    "Confidence": 0.99631816
+  },
+  {
+    "Title": "Your Website's Frontend just became a Backdoor, and on the Future of Cyber Attacks.",
+    "Url": "https://vonwerk.com/blog/your-websites-frontent-just-became-a-backdoor-and-on-the-future-of-cyber-attacks",
+    "Timestamp": "2025-12-05T00:03:10",
+    "Domain": "vonwerk.com",
+    "Description": "",
+    "Confidence": 0.9949639
+  },
+  {
+    "Title": "One Year with ChatGPT Pro as a First Hire | Sound for Movement",
+    "Url": "https://www.soundformovement.com/chatgpt-pro-as-first-hire",
+    "Timestamp": "2025-12-05T00:03:02",
+    "Domain": "www.soundformovement.com",
+    "Description": "A one-year qualitative account of treating ChatGPT Pro as a first hire inside a one-person music company.",
+    "Confidence": 0.95420647
+  },
+  {
+    "Title": "Don't Track Tasks. Track Interruptions.",
+    "Url": "https://adrianhoward.com/posts/track-interruptions/",
+    "Timestamp": "2025-12-05T00:02:58",
+    "Domain": "adrianhoward.com",
+    "Description": "TL;DR: Instead of tracking your time, try tracking the interruptions instead.",
+    "Confidence": 0.8241483
+  },
+  {
+    "Title": "Production Ready Terraform with Testing, Validation and CI/CD",
+    "Url": "https://fatihkoc.net/posts/production-ready-terraform/",
+    "Timestamp": "2025-12-05T00:02:54",
+    "Domain": "fatihkoc.net",
+    "Description": "Build production-ready Terraform pipelines with testing, validation and automated CI/CD. Learn tflint, tfsec, OPA policies and drift detection strategies.",
+    "Confidence": 0.99678624
+  },
+  {
+    "Title": "Why PyTorch is an amazing place to work... and Why I'm Joining Thinking Machines",
+    "Url": "https://www.thonking.ai/p/why-pytorch-is-an-amazing-place-to",
+    "Timestamp": "2025-12-05T00:02:50",
+    "Domain": "www.thonking.ai",
+    "Description": "In which I convince to you to join either PyTorch or Thinking Machines!",
+    "Confidence": 0.97778374
+  },
+  {
+    "Title": "Should CSS be Constraints?",
+    "Url": "https://pavpanchekha.com/blog/why-css-bad.html",
+    "Timestamp": "2025-12-05T00:02:45",
+    "Domain": "pavpanchekha.com",
+    "Description": "CSS is hard. The layout rules are quite complex and hard to pick up just from examples. Something like \"centering a <div>\" is, like, famously a problem. Or remember the 2000s when you'd read A List Apart for all sorts of crazy ways to achieve the \"Holy Grail\" layout, specifically a header, a main body and sidebar of equal heights, and a footer? Given that it's such a mess, should we maybe just throw it out and start over with a totally different system?",
+    "Confidence": 0.9892835
+  },
+  {
+    "Title": "Super-flat ASTs",
+    "Url": "https://jhwlr.io/super-flat-ast/",
+    "Timestamp": "2025-12-05T00:02:42",
+    "Domain": "jhwlr.io",
+    "Description": "In my previous post, I introduced the simple programming language.\nNear the end of that post, I mentioned that the parser isn't very efficient.",
+    "Confidence": 0.99823576
+  },
+  {
+    "Title": "what would a WeWork of the future look like?",
+    "Url": "https://james.js.org/remote-future",
+    "Timestamp": "2025-12-05T00:02:39",
+    "Domain": "james.js.org",
+    "Description": "My personal website",
+    "Confidence": 0.62919855
+  },
+  {
+    "Title": "Going the way of the lithographer",
+    "Url": "https://ondergetekende.nl/going-the-way-of-the-lithographer",
+    "Timestamp": "2025-12-05T00:02:35",
+    "Domain": "ondergetekende.nl",
+    "Description": "Also available in:                    NL",
+    "Confidence": 0.9751926
+  },
+  {
+    "Title": "My First Impressions of MeshCore Off-Grid Messaging",
+    "Url": "https://mtlynch.io/first-impressions-of-meshcore/",
+    "Timestamp": "2025-12-05T00:02:32",
+    "Domain": "mtlynch.io",
+    "Description": "\n    Using low-cost radio hardware to keep texting when there's no phone or Internet service.\n  ",
+    "Confidence": 0.98139185
+  },
+  {
+    "Title": "Minimum Viable Benchmark - nilenso blog",
+    "Url": "https://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/",
+    "Timestamp": "2025-12-05T00:02:28",
+    "Domain": "blog.nilenso.com",
+    "Description": "Atharva Raykar\n        \n        \n          Read more by Atharva\n         ...",
+    "Confidence": 0.9879981
+  },
+  {
+    "Title": "What I Wish I Could Tell Every Engineer Joining a New Team",
+    "Url": "https://qckfx.com/blog/what-i-wish-i-could-tell-every-engineer-joining-a-new-team",
+    "Timestamp": "2025-12-05T00:02:24",
+    "Domain": "qckfx.com",
+    "Description": "Onboarding to a new codebase is broken. The code isn't the truth anymore—context is scattered across Slack, Notion, PRs, and AI chat threads.",
+    "Confidence": 0.981876
+  },
+  {
     "Title": "The RAM Shortage Comes for Us All",
     "Url": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all",
     "Timestamp": "2025-12-04T23:02:04",
@@ -150,133 +318,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Your Mind Is Not Software",
-    "Url": "https://www.razor.blog/2025/11/your-mind-is-not-software.html",
-    "Timestamp": "2025-12-04T00:03:22",
-    "Domain": "www.razor.blog",
-    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers.",
-    "Confidence": 0.95902723
-  },
-  {
-    "Title": "Why WinQuake exists and how it works",
-    "Url": "https://fabiensanglard.net/winquake/index.html",
-    "Timestamp": "2025-12-04T00:03:18",
-    "Domain": "fabiensanglard.net",
-    "Description": "Dec 3, 2025",
-    "Confidence": 0.9907569
-  },
-  {
-    "Title": "CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG",
-    "Url": "https://www.gabrielebartolini.it/articles/2025/12/cnpg-recipe-23-managing-extensions-with-imagevolume-in-cloudnativepg/",
-    "Timestamp": "2025-12-04T00:03:15",
-    "Domain": "www.gabrielebartolini.it",
-    "Description": "Leveraging the Kubernetes `ImageVolume` feature and PostgreSQL 18's `extension_control_path`, this article demonstrates the CloudNativePG method for declaratively managing extensions like `pgvector` and PostGIS from separate container images, marking the culmination of a multi-year vision to decouple the database core from extension distribution.",
-    "Confidence": 0.9956377
-  },
-  {
-    "Title": "I built a timer I can’t fail to set—Daniel De Laney",
-    "Url": "https://danieldelaney.net/timer/",
-    "Timestamp": "2025-12-04T00:03:12",
-    "Domain": "danieldelaney.net",
-    "Description": "Metacognition needs a prompt",
-    "Confidence": 0.9884429
-  },
-  {
-    "Title": "Understanding ECDSA - Web3 Security Blog",
-    "Url": "https://avidthinker.github.io/2025/11/28/understanding-ecdsa/",
-    "Timestamp": "2025-12-04T00:03:08",
-    "Domain": "avidthinker.github.io",
-    "Description": "Exploring blockchain, math, and smart contracts through a security lens.",
-    "Confidence": 0.9877429
-  },
-  {
-    "Title": "LLMs are great at box diagrams",
-    "Url": "https://joeblu.com/blog/2025_12_llms-are-great-at-box-diagrams/",
-    "Timestamp": "2025-12-04T00:03:02",
-    "Domain": "joeblu.com",
-    "Description": "I love diagram languages like mermaid.js and PlantUML because the text format that backs the diagram can be tweaked, takes up very little space in storage, and can be re-rendered at various resolutions any time you need. They’re great! I hate writing them. Mermaid has a different syntax for every diagram type, and they’re hard to remember. PlantUML is more consistent, though not totally, and in my experience can be quite verbose.",
-    "Confidence": 0.98218596
-  },
-  {
-    "Title": "Everything that is wrong in museums starts with wall labels",
-    "Url": "https://www.aaronland.info/weblog/2025/11/20/cafeteria/#usf?utm_source=hnblogs.substack.com",
-    "Timestamp": "2025-12-04T00:02:58",
-    "Domain": "www.aaronland.info",
-    "Description": "It is difficult to separate the issues and questions that contemporary machine-learning and “artificial intelligence” technologies raise in the context of museum without addressing the long history of past attempts to make collections “digital”  and how those efforts have played out organizationally over the years. So many of those issues end up being made manifest in the challenges surrounding the production of wall labels and this talk will discuss some inconvenient truths (and opportunities) about museums and computing that AI surfaces.",
-    "Confidence": 0.8963942
-  },
-  {
-    "Title": "Stop talking",
-    "Url": "https://gurkan.in/2025/12/stop-talking/",
-    "Timestamp": "2025-12-04T00:02:53",
-    "Domain": "gurkan.in",
-    "Description": "The years I’ve been working brought a lot of context, more scars, and more pattern recognition. You start seeing inefficiencies, problems. Like a lineman sees a frayed cable: obvious, dangerous, and actually … fixable.",
-    "Confidence": 0.6788981
-  },
-  {
-    "Title": "How about a unidimensional spaceship? - Page 9",
-    "Url": "https://conwaylife.com/forums/viewtopic.php?p=222136#p222136",
-    "Timestamp": "2025-12-04T00:02:49",
-    "Domain": "conwaylife.com",
-    "Description": "I6_I6 wrote: ↑Yesterday, 10:47 am\nWow! This is amazing!\nThat's 2 macro-spaceships in the span of a week.\nI've been watching this thread for a while as it grew, but could never comprehend anything going on.\nWill someone bother to explain how it works?\nWe really need a wiki page.",
-    "Confidence": 0.9818042
-  },
-  {
-    "Title": "Why don’t we get more scientific breakthroughs?",
-    "Url": "https://lemire.me/blog/2025/12/03/why-dont-we-get-more-scientific-breakthroughs/",
-    "Timestamp": "2025-12-04T00:02:45",
-    "Domain": "lemire.me",
-    "Description": "It is absolutely clear to me that large language models represent the most significant scientific breakthrough of the past fifty years. The nature of that breakthrough has far reaching implications for what is happening in science today. And I believe that the entire scientific establishment is refusing to acknowledge it. We often excuse our slow … Continue reading Why don’t we get more scientific breakthroughs?",
-    "Confidence": 0.89646244
-  },
-  {
-    "Title": "What I learned building an opinionated and minimal coding agent",
-    "Url": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-    "Timestamp": "2025-12-04T00:02:41",
-    "Domain": "mariozechner.at",
-    "Description": "Lessons I learned while building my own coding agent from scratch.",
-    "Confidence": 0.99564654
-  },
-  {
-    "Title": "Lessons From a Noisy Monitor — Mergify",
-    "Url": "https://mergify.com/blog/lessons-from-a-noisy-monitor",
-    "Timestamp": "2025-12-04T00:02:35",
-    "Domain": "mergify.com",
-    "Description": "Your database monitors keep firing even though nothing is wrong? We hit the same problem: noisy IOPS alerts caused by predictable jobs. This post explains how we replaced brittle thresholds with an SLO-based approach that restored signal, eliminated noise, and stopped the monitor from \"crying wolf.\"",
-    "Confidence": 0.93165046
-  },
-  {
-    "Title": "Compliance != Security",
-    "Url": "https://introvertmac.wordpress.com/2025/12/03/compliance-security/",
-    "Timestamp": "2025-12-04T00:02:31",
-    "Domain": "introvertmac.wordpress.com",
-    "Description": "For over a decade, I’ve been doing bug bounty, security audits, and security consulting. And if there’s one thing I’ve seen repeatedly, it’s this:Most startups call a security engineer or hire a se…",
-    "Confidence": 0.98829705
-  },
-  {
-    "Title": "Parcha Dev Blog",
-    "Url": "https://blog.parcha.dev/dont-sleep-on-fast-inference",
-    "Timestamp": "2025-12-04T00:02:28",
-    "Domain": "blog.parcha.dev",
-    "Description": "Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation.",
-    "Confidence": 0.9943273
-  },
-  {
-    "Title": "Unpaid Labour in Productive Capacity",
-    "Url": "https://danieltan.weblog.lol/2025/12/appendix-b-unpaid-labour-in-productive-capacity",
-    "Timestamp": "2025-12-04T00:02:23",
-    "Domain": "danieltan.weblog.lol",
-    "Description": "The Productive Capacity Theory of Money framework begins with a simple observation: when you receive an employment letter, your relationship with the financial system transforms overnight. Banks that wouldn't lend you a dollar suddenly want to give you hundreds of thousands. Credit card companies compete for your business. Mortgage lenders calculate exactly how much house you can afford, typically three to four times your annual salary.",
-    "Confidence": 0.9725689
-  },
-  {
-    "Title": "My Database Was \"Correct.\" It Was Also 296x Too Slow. - Chandler Nguyen",
-    "Url": "https://www.chandlernguyen.com/blog/2025/12/02/my-database-was-correct-it-was-also-296x-too-slow/",
-    "Timestamp": "2025-12-04T00:02:18",
-    "Domain": "www.chandlernguyen.com",
-    "Description": "October 25th, 2025. My SaaS application was finally feature-complete. Nine major features, multi-tenant architecture, progressive learning—everything worked. But it was slow. Really slow. Dashboard queries",
-    "Confidence": 0.99362886
   }
 ]
