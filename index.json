@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Cloudflare outage on December 5, 2025",
+    "Url": "https://blog.cloudflare.com/5-december-2025-outage/",
+    "Timestamp": "2025-12-05T18:02:01",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components.",
+    "Confidence": 0.957466
+  },
+  {
     "Title": "Color Grading, An Artist Driven Approach",
     "Url": "https://www.4rknova.com//blog/2017/01/01/color-grading",
     "Timestamp": "2025-12-05T15:02:11",
@@ -310,13 +318,5 @@
     "Domain": "www.pcworld.com",
     "Description": "Due to rising prices from the \"AI\" bubble, Samsung Semiconductor reportedly refused a RAM order for new Galaxy phones from Samsung Electronics.",
     "Confidence": 0.63645047
-  },
-  {
-    "Title": "Why I Ignore The Spotlight as a Staff Engineer",
-    "Url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
-    "Timestamp": "2025-12-04T18:02:05",
-    "Domain": "lalitm.com",
-    "Description": "Lately I’ve been reading Sean Goedecke’s essays on being a Staff+ engineer. His work (particularly Software engineering under the spotlight and It’s Not Your Codebase) is razor-sharp and feels painfully familiar to anyone in Big Tech.\nOn paper, I fit the mold he describes: I’m a Senior Staff engineer at Google. Yet, reading his work left me with a lingering sense of unease. At first, I dismissed this as cynicism. After reflecting, however, I realized the problem wasn’t Sean’s writing but my reading.\nSean isn’t being bleak; he is accurately describing how to deal with a world where engineers are fungible assets and priorities shift quarterly. But my job looks nothing like that and I know deep down that if I tried to operate in that environment or in the way he described I’d burn out within months.\nInstead I’ve followed an alternate path, one that optimizes for systems over spotlights, and stewardship over fungibility.",
-    "Confidence": 0.9582134
   }
 ]
