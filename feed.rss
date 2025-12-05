@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Django 6.0 release notes | Django documentation</title>
+      <link>https://docs.djangoproject.com/en/6.0/releases/6.0/</link>
+      <description>The web framework for perfectionists with deadlines.</description>
+      <category>sql</category>
+      <category>python</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://docs.djangoproject.com/en/6.0/releases/6.0/</guid>
+      <pubDate>Fri, 05 Dec 2025 04:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on Go vs. Rust vs. Zig</title>
+      <link>https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</link>
+      <description>Sinclair Target's personal website.</description>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/</guid>
+      <pubDate>Fri, 05 Dec 2025 04:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>warp speed ahead – Pinaraf's website</title>
       <link>https://www.pinaraf.info/2025/12/jit-episode-iii-warp-speed-ahead/</link>
       <description>In our first JIT episode, we discussed how we could, using copy-patch, easily create a JIT compiler for PostgreSQL, with a slight improvement in performance compared to the PostgreSQL interpreter.</description>
