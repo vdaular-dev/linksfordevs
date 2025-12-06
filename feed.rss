@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>CVE-2025-55182 (React2Shell): Remote code execution in React Server Components and Next.js | Datadog Security Labs</title>
+      <link>https://securitylabs.datadoghq.com/articles/cve-2025-55182-react2shell-remote-code-execution-react-server-components/</link>
+      <description>Learn more about the CVE-2025-55182 vulnerability affecting React Server Components and affecting Next.js.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://securitylabs.datadoghq.com/articles/cve-2025-55182-react2shell-remote-code-execution-react-server-components/</guid>
+      <pubDate>Sat, 06 Dec 2025 13:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Leaving Intel</title>
       <link>https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html</link>
       <description>Leaving Intel</description>
@@ -283,13 +294,6 @@ Being able to train and deploy an AI m...</description>
       <category>gaming</category>
       <guid>https://about.netflix.com/en/news/netflix-to-acquire-warner-bros</guid>
       <pubDate>Fri, 05 Dec 2025 14:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>The secretive cabal of US polluters that is rewriting the EU’s human rights and climate law - SOMO</title>
-      <link>https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/</link>
-      <description>Leaked documents reveal how a secretive alliance of eleven large multinational enterprises has worked to tear down the EU’s flagship human rights and climate law, the Corporate Sustainability Due Diligence Directive (CSDDD). The mostly US-based coalition, which calls itself the Competitiveness Roundtable, has targeted all EU institutions, governments in Europe’s capitals, as well as the […]</description>
-      <guid>https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/</guid>
-      <pubDate>Fri, 05 Dec 2025 13:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

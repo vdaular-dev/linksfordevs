@@ -1,5 +1,13 @@
 [
   {
+    "Title": "CVE-2025-55182 (React2Shell): Remote code execution in React Server Components and Next.js | Datadog Security Labs",
+    "Url": "https://securitylabs.datadoghq.com/articles/cve-2025-55182-react2shell-remote-code-execution-react-server-components/",
+    "Timestamp": "2025-12-06T13:02:16",
+    "Domain": "securitylabs.datadoghq.com",
+    "Description": "Learn more about the CVE-2025-55182 vulnerability affecting React Server Components and affecting Next.js.",
+    "Confidence": 0.9890798
+  },
+  {
     "Title": "Leaving Intel",
     "Url": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
     "Timestamp": "2025-12-06T12:02:15",
@@ -182,13 +190,5 @@
     "Domain": "about.netflix.com",
     "Description": "",
     "Confidence": 0.853454
-  },
-  {
-    "Title": "The secretive cabal of US polluters that is rewriting the EU’s human rights and climate law - SOMO",
-    "Url": "https://www.somo.nl/the-secretive-cabal-of-us-polluters-that-is-rewriting-the-eus-human-rights-and-climate-law/",
-    "Timestamp": "2025-12-05T13:02:02",
-    "Domain": "www.somo.nl",
-    "Description": "Leaked documents reveal how a secretive alliance of eleven large multinational enterprises has worked to tear down the EU’s flagship human rights and climate law, the Corporate Sustainability Due Diligence Directive (CSDDD). The mostly US-based coalition, which calls itself the Competitiveness Roundtable, has targeted all EU institutions, governments in Europe’s capitals, as well as the […]",
-    "Confidence": 0.70850605
   }
 ]
