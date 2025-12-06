@@ -158,29 +158,5 @@
     "Domain": "blog.cloudflare.com",
     "Description": "Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components.",
     "Confidence": 0.957466
-  },
-  {
-    "Title": "Color Grading, An Artist Driven Approach",
-    "Url": "https://www.4rknova.com//blog/2017/01/01/color-grading",
-    "Timestamp": "2025-12-05T15:02:11",
-    "Domain": "www.4rknova.com",
-    "Description": "A simple method of implementing color grading",
-    "Confidence": 0.98314226
-  },
-  {
-    "Title": "Matrices: From Linear Algebra to Graphics",
-    "Url": "https://www.4rknova.com//blog/2017/01/01/matrix-xforms",
-    "Timestamp": "2025-12-05T15:02:07",
-    "Domain": "www.4rknova.com",
-    "Description": "Matrices are a powerful mathematical tool, used everywhere from solving systemsof equations to rendering 3D graphics. In this post, we’ll explore the keymatrix operations: transpose, conjugate, inv...",
-    "Confidence": 0.97253233
-  },
-  {
-    "Title": "[games]",
-    "Url": "https://alistof.games/",
-    "Timestamp": "2025-12-05T15:02:03",
-    "Domain": "alistof.games",
-    "Description": "Effulgence RPGLooks sick.",
-    "Confidence": 0.82468075
   }
 ]
