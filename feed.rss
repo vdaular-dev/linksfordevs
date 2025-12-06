@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Chessboard Alignment</title>
+      <link>https://xkcd.com/3177/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3177/</guid>
+      <pubDate>Sat, 06 Dec 2025 03:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>martianlantern — Updating my Bash Prompt</title>
       <link>https://martianlantern.github.io/2025/11/updating-my-bash-prompt/</link>
       <description>On a late sunday night I started tinkering around with my bash profiles and came to realize I can very much optimize my terminal experience. The figure on the left shows what my terminal looks like currently. The prefix before the $ sign does not contain a lot of information which I can use in my current directory. It displays three things in order, the current host, current dir and the user name</description>
