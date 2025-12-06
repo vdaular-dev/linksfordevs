@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Leaving Intel",
+    "Url": "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
+    "Timestamp": "2025-12-06T12:02:15",
+    "Domain": "www.brendangregg.com",
+    "Description": "Leaving Intel",
+    "Confidence": 0.9277048
+  },
+  {
     "Title": "Sam Altman’s Dirty DRAM Deal",
     "Url": "https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal",
     "Timestamp": "2025-12-06T09:02:02",
@@ -182,13 +190,5 @@
     "Domain": "www.somo.nl",
     "Description": "Leaked documents reveal how a secretive alliance of eleven large multinational enterprises has worked to tear down the EU’s flagship human rights and climate law, the Corporate Sustainability Due Diligence Directive (CSDDD). The mostly US-based coalition, which calls itself the Competitiveness Roundtable, has targeted all EU institutions, governments in Europe’s capitals, as well as the […]",
     "Confidence": 0.70850605
-  },
-  {
-    "Title": "AI Trade Arena",
-    "Url": "https://www.aitradearena.com/research/we-ran-llms-for-8-months",
-    "Timestamp": "2025-12-05T12:02:08",
-    "Domain": "www.aitradearena.com",
-    "Description": "Testing GPT-5, Claude, Gemini, Grok, and DeepSeek with $100K each over 8 months of\nbacktested trading",
-    "Confidence": 0.9661231
   }
 ]
