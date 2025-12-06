@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Have I Been Flocked? - License Plate Privacy Check</title>
+      <link>https://haveibeenflocked.com/</link>
+      <description>Check if your license plate has been searched in the Flock mass surveillance database</description>
+      <guid>https://haveibeenflocked.com/</guid>
+      <pubDate>Sat, 06 Dec 2025 18:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>My schizophrenic sister hospitalised herself because she throught she was having a psychotic episode where someone was attempting to communciate with her through her fridge. Turns out it was an advert on the LED screen.</title>
       <link>https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/</link>
       <description>Need some advice. She's not really capable of organising most of her own affairs. She spent 2 days under monitoring. This isn't the first time...</description>
@@ -260,16 +267,6 @@ Being able to train and deploy an AI m...</description>
       <category>python</category>
       <guid>https://basementprogrammer.com/leveraging-the-ai-in-your-database</guid>
       <pubDate>Fri, 05 Dec 2025 22:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare outage on December 5, 2025</title>
-      <link>https://blog.cloudflare.com/5-december-2025-outage/</link>
-      <description>Cloudflare experienced a significant traffic outage on  December 5, 2025, starting approximately at 8:47 UTC. The incident lasted approximately 25 minutes before resolution. We are sorry for the impact that it caused to our customers and the Internet. The incident was not caused by an attack and was due to configuration changes being applied to attempt to mitigate a recent industry-wide vulnerability impacting React Server Components.</description>
-      <category>rust</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://blog.cloudflare.com/5-december-2025-outage/</guid>
-      <pubDate>Fri, 05 Dec 2025 18:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
