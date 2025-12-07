@@ -134,13 +134,5 @@
     "Domain": "old.reddit.com",
     "Description": "Need some advice. She's not really capable of organising most of her own affairs. She spent 2 days under monitoring. This isn't the first time...",
     "Confidence": 0.72025436
-  },
-  {
-    "Title": "CVE-2025-55182 (React2Shell): Remote code execution in React Server Components and Next.js | Datadog Security Labs",
-    "Url": "https://securitylabs.datadoghq.com/articles/cve-2025-55182-react2shell-remote-code-execution-react-server-components/",
-    "Timestamp": "2025-12-06T13:02:16",
-    "Domain": "securitylabs.datadoghq.com",
-    "Description": "Learn more about the CVE-2025-55182 vulnerability affecting React Server Components and affecting Next.js.",
-    "Confidence": 0.9890798
   }
 ]
