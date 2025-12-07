@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Second IC :) – Sam Zeloof</title>
+      <link>https://sam.zeloof.xyz/second-ic/</link>
+      <description>Homemade 1000+ transistor array chip</description>
+      <category>rust</category>
+      <guid>https://sam.zeloof.xyz/second-ic/</guid>
+      <pubDate>Sun, 07 Dec 2025 17:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Distributed Lock Failure: How Long GC Pauses Break Concurrency</title>
       <link>https://systemdr.substack.com/p/distributed-lock-failure-how-long</link>
       <description>When Your Distributed Lock Lies to You</description>
