@@ -1,5 +1,13 @@
 [
   {
+    "Title": "576 - Using LLMs at Oxide / RFD",
+    "Url": "https://rfd.shared.oxide.computer/rfd/0576",
+    "Timestamp": "2025-12-07T07:02:06",
+    "Domain": "rfd.shared.oxide.computer",
+    "Description": "LLM use varies widely, and the ramifications of those uses vary\naccordingly; it’s worth taking apart several of the (many) uses for LLMs.",
+    "Confidence": 0.95710313
+  },
+  {
     "Title": "KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever",
     "Url": "https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html",
     "Timestamp": "2025-12-07T02:02:21",

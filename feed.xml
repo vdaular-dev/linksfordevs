@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>576 - Using LLMs at Oxide / RFD</title>
+      <link>https://rfd.shared.oxide.computer/rfd/0576</link>
+      <description>LLM use varies widely, and the ramifications of those uses vary
+accordingly; it’s worth taking apart several of the (many) uses for LLMs.</description>
+      <category>ai</category>
+      <guid>https://rfd.shared.oxide.computer/rfd/0576</guid>
+      <pubDate>Sun, 07 Dec 2025 07:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever</title>
       <link>https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html</link>
       <description>The Scale Gap Problem</description>
