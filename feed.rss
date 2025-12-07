@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Titans + MIRAS: Helping AI have long-term memory</title>
+      <link>https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/</link>
+      <description>The Transformer architecture revolutionized sequence modeling with its introduction of attention, a mechanism by which models look back at earlier inputs to prioritize relevant input data. However, computational cost increases drastically with sequence length, which limits the ability to scale Transformer-based models to extremely long contexts, such as those required for full-document understanding or genomic analysis.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/</guid>
+      <pubDate>Sun, 07 Dec 2025 20:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>GPTZero uncovers 50+ Hallucinations in ICLR 2026</title>
       <link>https://gptzero.me/news/iclr-2026/</link>
       <description>GPTZero used our Citation Check tool to find 50+ hallucinations under review at ICLR, each of which were missed by 3-5 peer reviewers.</description>
@@ -144,20 +153,6 @@ accordingly; it’s worth taking apart several of the (many) uses for LLMs.</des
       <category>android</category>
       <guid>https://grapheneos.social/@GrapheneOS/115647408229616018</guid>
       <pubDate>Sat, 06 Dec 2025 21:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Law of Reflection</title>
-      <link>https://www.4rknova.com//blog/2016/01/01/law-of-reflection</link>
-      <description>The physics law of reflection, theory and implementation</description>
-      <guid>https://www.4rknova.com//blog/2016/01/01/law-of-reflection</guid>
-      <pubDate>Sat, 06 Dec 2025 20:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostFX, Pixelize</title>
-      <link>https://www.4rknova.com//blog/2015/07/06/fx-pixelize</link>
-      <description>Implementation of pixelization effects in GLSL</description>
-      <guid>https://www.4rknova.com//blog/2015/07/06/fx-pixelize</guid>
-      <pubDate>Sat, 06 Dec 2025 20:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

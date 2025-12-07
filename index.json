@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Titans + MIRAS: Helping AI have long-term memory",
+    "Url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
+    "Timestamp": "2025-12-07T20:02:05",
+    "Domain": "research.google",
+    "Description": "The Transformer architecture revolutionized sequence modeling with its introduction of attention, a mechanism by which models look back at earlier inputs to prioritize relevant input data. However, computational cost increases drastically with sequence length, which limits the ability to scale Transformer-based models to extremely long contexts, such as those required for full-document understanding or genomic analysis.",
+    "Confidence": 0.97775024
+  },
+  {
     "Title": "GPTZero uncovers 50+ Hallucinations in ICLR 2026",
     "Url": "https://gptzero.me/news/iclr-2026/",
     "Timestamp": "2025-12-07T18:01:58",
@@ -118,21 +126,5 @@
     "Domain": "grapheneos.social",
     "Description": "GrapheneOS is the only Android-based OS providing the full security preview patches. Samsung ships a small subset of their flagship devices. Pixel stock OS gets a portion of it early but we aren't sure exactly how much since they don't follow their guidelines for listing patches.",
     "Confidence": 0.8762546
-  },
-  {
-    "Title": "Law of Reflection",
-    "Url": "https://www.4rknova.com//blog/2016/01/01/law-of-reflection",
-    "Timestamp": "2025-12-06T20:02:44",
-    "Domain": "www.4rknova.com",
-    "Description": "The physics law of reflection, theory and implementation",
-    "Confidence": 0.9529964
-  },
-  {
-    "Title": "PostFX, Pixelize",
-    "Url": "https://www.4rknova.com//blog/2015/07/06/fx-pixelize",
-    "Timestamp": "2025-12-06T20:02:05",
-    "Domain": "www.4rknova.com",
-    "Description": "Implementation of pixelization effects in GLSL",
-    "Confidence": 0.996901
   }
 ]
