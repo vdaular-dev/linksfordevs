@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GPTZero uncovers 50+ Hallucinations in ICLR 2026</title>
+      <link>https://gptzero.me/news/iclr-2026/</link>
+      <description>GPTZero used our Citation Check tool to find 50+ hallucinations under review at ICLR, each of which were missed by 3-5 peer reviewers.</description>
+      <category>ai</category>
+      <guid>https://gptzero.me/news/iclr-2026/</guid>
+      <pubDate>Sun, 07 Dec 2025 18:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Second IC :) – Sam Zeloof</title>
       <link>https://sam.zeloof.xyz/second-ic/</link>
       <description>Homemade 1000+ transistor array chip</description>
@@ -150,13 +158,6 @@ accordingly; it’s worth taking apart several of the (many) uses for LLMs.</des
       <description>Implementation of pixelization effects in GLSL</description>
       <guid>https://www.4rknova.com//blog/2015/07/06/fx-pixelize</guid>
       <pubDate>Sat, 06 Dec 2025 20:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Have I Been Flocked? - License Plate Privacy Check</title>
-      <link>https://haveibeenflocked.com/</link>
-      <description>Check if your license plate has been searched in the Flock mass surveillance database</description>
-      <guid>https://haveibeenflocked.com/</guid>
-      <pubDate>Sat, 06 Dec 2025 18:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GPTZero uncovers 50+ Hallucinations in ICLR 2026",
+    "Url": "https://gptzero.me/news/iclr-2026/",
+    "Timestamp": "2025-12-07T18:01:58",
+    "Domain": "gptzero.me",
+    "Description": "GPTZero used our Citation Check tool to find 50+ hallucinations under review at ICLR, each of which were missed by 3-5 peer reviewers.",
+    "Confidence": 0.95957357
+  },
+  {
     "Title": "Second IC :) – Sam Zeloof",
     "Url": "https://sam.zeloof.xyz/second-ic/",
     "Timestamp": "2025-12-07T17:02:14",
@@ -126,13 +134,5 @@
     "Domain": "www.4rknova.com",
     "Description": "Implementation of pixelization effects in GLSL",
     "Confidence": 0.996901
-  },
-  {
-    "Title": "Have I Been Flocked? - License Plate Privacy Check",
-    "Url": "https://haveibeenflocked.com/",
-    "Timestamp": "2025-12-06T18:01:56",
-    "Domain": "haveibeenflocked.com",
-    "Description": "Check if your license plate has been searched in the Flock mass surveillance database",
-    "Confidence": 0.678643
   }
 ]
