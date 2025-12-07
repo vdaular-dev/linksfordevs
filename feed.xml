@@ -7,6 +7,74 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever</title>
+      <link>https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html</link>
+      <description>The Scale Gap Problem</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>vscode</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reflections from shutting down my VC backed startup after 4 years</title>
+      <link>https://shivekkhurana.com/blog/reflections-after-shutting-down-first-vc-backed-startup/</link>
+      <description>The idea wasn’t working, and no amount of optimism or grit would change that. So we made the only honest call left; return the money.</description>
+      <author> (Shivek Khurana)</author>
+      <category>ai</category>
+      <guid>https://shivekkhurana.com/blog/reflections-after-shutting-down-first-vc-backed-startup/</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Broken Job Search: Why Applying to Big Tech is a Trap</title>
+      <link>https://webdev-sb.blogspot.com/2025/11/the-broken-job-search-why-applying-to.html</link>
+      <description>If you're applying to hundreds of jobs and hearing nothing back, it's not just you. The system is broken.  Big companies dominate job boards...</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://webdev-sb.blogspot.com/2025/11/the-broken-job-search-why-applying-to.html</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instantaneous Velocity Is a Trap</title>
+      <link>https://www.brethorsting.com/blog/2025/12/instantaneous-velocity-is-a-trap/</link>
+      <description>Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.</description>
+      <guid>https://www.brethorsting.com/blog/2025/12/instantaneous-velocity-is-a-trap/</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Dumber Team</title>
+      <link>https://dandreamsofcoding.com/2025/07/13/building-a-dumber-team/</link>
+      <description>Having kids is weird. Here are these human beings, with their own interests, likes and dislikes, and absolutely no knowledge. I mean yes, over time they build up experiences, but they start out wit…</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://dandreamsofcoding.com/2025/07/13/building-a-dumber-team/</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>@tomlarkworthy/unaggregating-cloudwatch-metrics</title>
+      <link>https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html</link>
+      <description>Visnu Pitiyanuvath of Observable advocates "never aggregate your datapoints". The outliers are the signal! His talk made me realize that we, the developer community, could do better, especially the Cloud providers.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html</guid>
+      <pubDate>Sun, 07 Dec 2025 02:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Misconceptions About Vibe-Coding</title>
+      <link>https://blog.fka.dev/blog/2025-12-06-the-misconceptions-about-vibe-coding/</link>
+      <description>Everyone's talking about vibe-coding, but most of the discourse completely misses the point. The real disruption isn't about security risks or scalability concerns, it's about who should actually be worried.</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://blog.fka.dev/blog/2025-12-06-the-misconceptions-about-vibe-coding/</guid>
+      <pubDate>Sun, 07 Dec 2025 02:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Tiny Core Linux, Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable</title>
       <link>http://www.tinycorelinux.net/</link>
       <description>Welcome - Tiny Core Linux</description>

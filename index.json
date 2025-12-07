@@ -1,5 +1,61 @@
 [
   {
+    "Title": "KISS vs DRY in Infrastructure as Code: Why Simple Often Beats Clever",
+    "Url": "https://rosesecurity.dev/2025/11/14/kiss-versus-dry-iac.html",
+    "Timestamp": "2025-12-07T02:02:21",
+    "Domain": "rosesecurity.dev",
+    "Description": "The Scale Gap Problem",
+    "Confidence": 0.9791943
+  },
+  {
+    "Title": "Reflections from shutting down my VC backed startup after 4 years",
+    "Url": "https://shivekkhurana.com/blog/reflections-after-shutting-down-first-vc-backed-startup/",
+    "Timestamp": "2025-12-07T02:02:17",
+    "Domain": "shivekkhurana.com",
+    "Description": "The idea wasn’t working, and no amount of optimism or grit would change that. So we made the only honest call left; return the money.",
+    "Confidence": 0.9791362
+  },
+  {
+    "Title": "The Broken Job Search: Why Applying to Big Tech is a Trap",
+    "Url": "https://webdev-sb.blogspot.com/2025/11/the-broken-job-search-why-applying-to.html",
+    "Timestamp": "2025-12-07T02:02:14",
+    "Domain": "webdev-sb.blogspot.com",
+    "Description": "If you're applying to hundreds of jobs and hearing nothing back, it's not just you. The system is broken.  Big companies dominate job boards...",
+    "Confidence": 0.7767758
+  },
+  {
+    "Title": "Instantaneous Velocity Is a Trap",
+    "Url": "https://www.brethorsting.com/blog/2025/12/instantaneous-velocity-is-a-trap/",
+    "Timestamp": "2025-12-07T02:02:10",
+    "Domain": "www.brethorsting.com",
+    "Description": "Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.",
+    "Confidence": 0.97578096
+  },
+  {
+    "Title": "Building a Dumber Team",
+    "Url": "https://dandreamsofcoding.com/2025/07/13/building-a-dumber-team/",
+    "Timestamp": "2025-12-07T02:02:06",
+    "Domain": "dandreamsofcoding.com",
+    "Description": "Having kids is weird. Here are these human beings, with their own interests, likes and dislikes, and absolutely no knowledge. I mean yes, over time they build up experiences, but they start out wit…",
+    "Confidence": 0.9787262
+  },
+  {
+    "Title": "@tomlarkworthy/unaggregating-cloudwatch-metrics",
+    "Url": "https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html",
+    "Timestamp": "2025-12-07T02:02:03",
+    "Domain": "tomlarkworthy.github.io",
+    "Description": "Visnu Pitiyanuvath of Observable advocates \"never aggregate your datapoints\". The outliers are the signal! His talk made me realize that we, the developer community, could do better, especially the Cloud providers.",
+    "Confidence": 0.95719427
+  },
+  {
+    "Title": "The Misconceptions About Vibe-Coding",
+    "Url": "https://blog.fka.dev/blog/2025-12-06-the-misconceptions-about-vibe-coding/",
+    "Timestamp": "2025-12-07T02:01:59",
+    "Domain": "blog.fka.dev",
+    "Description": "Everyone's talking about vibe-coding, but most of the discourse completely misses the point. The real disruption isn't about security risks or scalability concerns, it's about who should actually be worried.",
+    "Confidence": 0.990362
+  },
+  {
     "Title": "Tiny Core Linux, Micro Core Linux, 12MB Linux GUI Desktop, Live, Frugal, Extendable",
     "Url": "http://www.tinycorelinux.net/",
     "Timestamp": "2025-12-06T21:02:13",
