@@ -7,6 +7,144 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How I block all online ads</title>
+      <link>https://troubled.engineer/posts/no-ads/</link>
+      <description>A couple of years ago, I decided I'd had enough of ads. Not just the occasional banner or a quick pre-roll video — I mean all of them. They have to go.</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>apple</category>
+      <guid>https://troubled.engineer/posts/no-ads/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learn CUTLASS the hard way!</title>
+      <link>http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/</link>
+      <description>Walkthrough of optimization techniques for GEMMs from a naive fp32 kernel to CUTLASS bf16 kernel</description>
+      <category>vscode</category>
+      <guid>http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>A series of tricks and techniques I learned doing tiny GLSL demos</title>
+      <link>https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html</link>
+      <description>In the past two months or so, I spent some time making tiny GLSL demos. I wrote
+an article about the first one, Red Alp. There, I went into details about the
+whole process, so I recommend to check it out first if you're not familiar with
+the field.</description>
+      <category>ai</category>
+      <guid>https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving Off of Netlify</title>
+      <link>https://broderic.blog/post/moving-away-from-netlify/</link>
+      <description>Ever since I started this blog 3 years ago back in 2022 I’ve hosted it on Netlify. Here is my first post whining about how difficult it was for me to set that up.. Looking back after having a better understanding of both Hugo and Netlify, my complaints are pretty dumb. I’ve learned from certain mistakes like using GitHub submodules unnecessarily and being able to read docs better.
+My newest complaint however is a bit more valid. I’ve been reading more and more regarding AI scrapers and was curious what kind of bot traffic my blog was receiving. So I go on Netlify and look around for logs. Can’t find any kind of access logs. Find out that Netlify does offer logs, however they are on their paid plan, and they do not provide really the level of detail compared to logs from like nginx. Since I already self host a VM running nginx, I decided I might as well throw that on it too. I’ve also starting building up monitoring for everything in my home lab. Lots of messing around with SNMP (I hate it) and Grafana’s LGTM stack. My overall plan is to eventually create some kind of primitive NOC &amp; SOC.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>encryption</category>
+      <category>web</category>
+      <guid>https://broderic.blog/post/moving-away-from-netlify/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>The New Cigarette</title>
+      <link>https://www.whitenoise.email/p/the-new-cigarette</link>
+      <description>Between Smoke and Ash</description>
+      <guid>https://www.whitenoise.email/p/the-new-cigarette</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSCAR Live Coding Environment</title>
+      <link>https://adam.zeloof.xyz/2025/11/07/oscar-live-coding-environment/</link>
+      <description>OSCAR (clumsily backronym’ed to OScilloscope Code And Renderer) is a live coding environment designed for vector visual performances. It lets the artist create visuals using sound waves, whic…</description>
+      <category>visualstudio</category>
+      <category>python</category>
+      <guid>https://adam.zeloof.xyz/2025/11/07/oscar-live-coding-environment/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>How prompt caching works - Paged Attention and Automatic Prefix Caching plus practical tips</title>
+      <link>https://sankalp.bearblog.dev/how-prompt-caching-works/</link>
+      <description>A deep dive into prompt caching - practical tips to improve cache hits and how vLLM's paged attention enables KV-cache reuse across requests via automatic prefix-caching</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://sankalp.bearblog.dev/how-prompt-caching-works/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Privacy-First Home Security Camera System | Joe IQ</title>
+      <link>https://joeiq.com/blog/privacy-first-home-security-camera-system/</link>
+      <description>I wanted home security cameras. Nothing fancy—just a way to keep an eye on my front door and backyard while I was away.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://joeiq.com/blog/privacy-first-home-security-camera-system/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using LLMs for Breadcrumbs, Not Code Generation</title>
+      <link>https://bonniesimon.in/blog/breadcrumbs-approach-to-learning-with-llms</link>
+      <description>How to learn using LLMs without outsourcing your thinking</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://bonniesimon.in/blog/breadcrumbs-approach-to-learning-with-llms</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steering the Vibe: Commits</title>
+      <link>https://staffordwilliams.com/blog/2025/12/07/steering-the-vibe-commits/</link>
+      <description>Use deterministic scripts to enforce commit message rules that prompts alone can't guarantee, reducing cognitive load when working across multiple projects.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://staffordwilliams.com/blog/2025/12/07/steering-the-vibe-commits/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Choosing Vim over VSCode</title>
+      <link>https://alexsci.com/blog/vim-over-vscode/</link>
+      <description>Why I keep coming back to Vim</description>
+      <author> (https://indieweb.social/@robalex)</author>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>visualstudio</category>
+      <category>android</category>
+      <guid>https://alexsci.com/blog/vim-over-vscode/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Working Thoughts</title>
+      <link>https://www.bramadams.dev/working-thoughts/</link>
+      <description>These are a collection of my most salient contributions to the thought space of humanity. They update as I learn more about life, of course.</description>
+      <category>conference</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://www.bramadams.dev/working-thoughts/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The impossible hot spot</title>
+      <link>https://heckmeck.de/blog/the-impossible-hot-spot/</link>
+      <description>The “hot spot” determines where your mouse cursor is pointing, i. e. the exact pixel that is considered the active
+pixel. This isn’t necessarily the top left edge:</description>
+      <guid>https://heckmeck.de/blog/the-impossible-hot-spot/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I forked instead of taking the easy way out | Andros Fenollosa</title>
+      <link>https://en.andros.dev/blog/7134f59f/why-i-forked-instead-of-taking-the-easy-way-out/</link>
+      <description>I wanted to add a small real-time visitor counter to my website. In other words, to openly display how many people are viewing my site at the exact mo</description>
+      <category>conference</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://en.andros.dev/blog/7134f59f/why-i-forked-instead-of-taking-the-easy-way-out/</guid>
+      <pubDate>Mon, 08 Dec 2025 00:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Titans + MIRAS: Helping AI have long-term memory</title>
       <link>https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/</link>
       <description>The Transformer architecture revolutionized sequence modeling with its introduction of attention, a mechanism by which models look back at earlier inputs to prioritize relevant input data. However, computational cost increases drastically with sequence length, which limits the ability to scale Transformer-based models to extremely long contexts, such as those required for full-document understanding or genomic analysis.</description>

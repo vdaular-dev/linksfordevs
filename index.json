@@ -1,5 +1,117 @@
 [
   {
+    "Title": "How I block all online ads",
+    "Url": "https://troubled.engineer/posts/no-ads/",
+    "Timestamp": "2025-12-08T00:03:27",
+    "Domain": "troubled.engineer",
+    "Description": "A couple of years ago, I decided I'd had enough of ads. Not just the occasional banner or a quick pre-roll video — I mean all of them. They have to go.",
+    "Confidence": 0.9417706
+  },
+  {
+    "Title": "Learn CUTLASS the hard way!",
+    "Url": "http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/",
+    "Timestamp": "2025-12-08T00:03:23",
+    "Domain": "www.kapilsharma.dev",
+    "Description": "Walkthrough of optimization techniques for GEMMs from a naive fp32 kernel to CUTLASS bf16 kernel",
+    "Confidence": 0.99408555
+  },
+  {
+    "Title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+    "Url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+    "Timestamp": "2025-12-08T00:03:18",
+    "Domain": "blog.pkh.me",
+    "Description": "In the past two months or so, I spent some time making tiny GLSL demos. I wrote\nan article about the first one, Red Alp. There, I went into details about the\nwhole process, so I recommend to check it out first if you're not familiar with\nthe field.",
+    "Confidence": 0.98892593
+  },
+  {
+    "Title": "Moving Off of Netlify",
+    "Url": "https://broderic.blog/post/moving-away-from-netlify/",
+    "Timestamp": "2025-12-08T00:03:13",
+    "Domain": "broderic.blog",
+    "Description": "Ever since I started this blog 3 years ago back in 2022 I’ve hosted it on Netlify. Here is my first post whining about how difficult it was for me to set that up.. Looking back after having a better understanding of both Hugo and Netlify, my complaints are pretty dumb. I’ve learned from certain mistakes like using GitHub submodules unnecessarily and being able to read docs better.\nMy newest complaint however is a bit more valid. I’ve been reading more and more regarding AI scrapers and was curious what kind of bot traffic my blog was receiving. So I go on Netlify and look around for logs. Can’t find any kind of access logs. Find out that Netlify does offer logs, however they are on their paid plan, and they do not provide really the level of detail compared to logs from like nginx. Since I already self host a VM running nginx, I decided I might as well throw that on it too. I’ve also starting building up monitoring for everything in my home lab. Lots of messing around with SNMP (I hate it) and Grafana’s LGTM stack. My overall plan is to eventually create some kind of primitive NOC & SOC.",
+    "Confidence": 0.9953559
+  },
+  {
+    "Title": "The New Cigarette",
+    "Url": "https://www.whitenoise.email/p/the-new-cigarette",
+    "Timestamp": "2025-12-08T00:03:09",
+    "Domain": "www.whitenoise.email",
+    "Description": "Between Smoke and Ash",
+    "Confidence": 0.97522914
+  },
+  {
+    "Title": "OSCAR Live Coding Environment",
+    "Url": "https://adam.zeloof.xyz/2025/11/07/oscar-live-coding-environment/",
+    "Timestamp": "2025-12-08T00:03:05",
+    "Domain": "adam.zeloof.xyz",
+    "Description": "OSCAR (clumsily backronym’ed to OScilloscope Code And Renderer) is a live coding environment designed for vector visual performances. It lets the artist create visuals using sound waves, whic…",
+    "Confidence": 0.8184111
+  },
+  {
+    "Title": "How prompt caching works - Paged Attention and Automatic Prefix Caching plus practical tips",
+    "Url": "https://sankalp.bearblog.dev/how-prompt-caching-works/",
+    "Timestamp": "2025-12-08T00:02:57",
+    "Domain": "sankalp.bearblog.dev",
+    "Description": "A deep dive into prompt caching - practical tips to improve cache hits and how vLLM's paged attention enables KV-cache reuse across requests via automatic prefix-caching",
+    "Confidence": 0.99369776
+  },
+  {
+    "Title": "Privacy-First Home Security Camera System | Joe IQ",
+    "Url": "https://joeiq.com/blog/privacy-first-home-security-camera-system/",
+    "Timestamp": "2025-12-08T00:02:54",
+    "Domain": "joeiq.com",
+    "Description": "I wanted home security cameras. Nothing fancy—just a way to keep an eye on my front door and backyard while I was away.",
+    "Confidence": 0.9826187
+  },
+  {
+    "Title": "Using LLMs for Breadcrumbs, Not Code Generation",
+    "Url": "https://bonniesimon.in/blog/breadcrumbs-approach-to-learning-with-llms",
+    "Timestamp": "2025-12-08T00:02:50",
+    "Domain": "bonniesimon.in",
+    "Description": "How to learn using LLMs without outsourcing your thinking",
+    "Confidence": 0.9924834
+  },
+  {
+    "Title": "Steering the Vibe: Commits",
+    "Url": "https://staffordwilliams.com/blog/2025/12/07/steering-the-vibe-commits/",
+    "Timestamp": "2025-12-08T00:02:46",
+    "Domain": "staffordwilliams.com",
+    "Description": "Use deterministic scripts to enforce commit message rules that prompts alone can't guarantee, reducing cognitive load when working across multiple projects.",
+    "Confidence": 0.9967662
+  },
+  {
+    "Title": "Choosing Vim over VSCode",
+    "Url": "https://alexsci.com/blog/vim-over-vscode/",
+    "Timestamp": "2025-12-08T00:02:43",
+    "Domain": "alexsci.com",
+    "Description": "Why I keep coming back to Vim",
+    "Confidence": 0.9687639
+  },
+  {
+    "Title": "Working Thoughts",
+    "Url": "https://www.bramadams.dev/working-thoughts/",
+    "Timestamp": "2025-12-08T00:02:39",
+    "Domain": "www.bramadams.dev",
+    "Description": "These are a collection of my most salient contributions to the thought space of humanity. They update as I learn more about life, of course.",
+    "Confidence": 0.9940687
+  },
+  {
+    "Title": "The impossible hot spot",
+    "Url": "https://heckmeck.de/blog/the-impossible-hot-spot/",
+    "Timestamp": "2025-12-08T00:02:36",
+    "Domain": "heckmeck.de",
+    "Description": "The “hot spot” determines where your mouse cursor is pointing, i. e. the exact pixel that is considered the active\npixel. This isn’t necessarily the top left edge:",
+    "Confidence": 0.9832274
+  },
+  {
+    "Title": "Why I forked instead of taking the easy way out | Andros Fenollosa",
+    "Url": "https://en.andros.dev/blog/7134f59f/why-i-forked-instead-of-taking-the-easy-way-out/",
+    "Timestamp": "2025-12-08T00:02:22",
+    "Domain": "en.andros.dev",
+    "Description": "I wanted to add a small real-time visitor counter to my website. In other words, to openly display how many people are viewing my site at the exact mo",
+    "Confidence": 0.990715
+  },
+  {
     "Title": "Titans + MIRAS: Helping AI have long-term memory",
     "Url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
     "Timestamp": "2025-12-07T20:02:05",
