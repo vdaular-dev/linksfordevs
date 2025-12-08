@@ -182,13 +182,5 @@
     "Domain": "research.google",
     "Description": "The Transformer architecture revolutionized sequence modeling with its introduction of attention, a mechanism by which models look back at earlier inputs to prioritize relevant input data. However, computational cost increases drastically with sequence length, which limits the ability to scale Transformer-based models to extremely long contexts, such as those required for full-document understanding or genomic analysis.",
     "Confidence": 0.97775024
-  },
-  {
-    "Title": "GPTZero uncovers 50+ Hallucinations in ICLR 2026",
-    "Url": "https://gptzero.me/news/iclr-2026/",
-    "Timestamp": "2025-12-07T18:01:58",
-    "Domain": "gptzero.me",
-    "Description": "GPTZero used our Citation Check tool to find 50+ hallucinations under review at ICLR, each of which were missed by 3-5 peer reviewers.",
-    "Confidence": 0.95957357
   }
 ]
