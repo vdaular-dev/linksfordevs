@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Microsoft has a problem: nobody wants its poor AI products",
+    "Url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+    "Timestamp": "2025-12-08T20:02:07",
+    "Domain": "www.windowscentral.com",
+    "Description": "A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products.",
+    "Confidence": 0.9524548
+  },
+  {
     "Title": "Better Tile Breakup - Terrain Shaders - Episode 7",
     "Url": "https://youtube.com/watch?v=z3f1bE41daI",
     "Timestamp": "2025-12-08T17:02:10",
@@ -174,13 +182,5 @@
     "Domain": "en.andros.dev",
     "Description": "I wanted to add a small real-time visitor counter to my website. In other words, to openly display how many people are viewing my site at the exact mo",
     "Confidence": 0.990715
-  },
-  {
-    "Title": "Titans + MIRAS: Helping AI have long-term memory",
-    "Url": "https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/",
-    "Timestamp": "2025-12-07T20:02:05",
-    "Domain": "research.google",
-    "Description": "The Transformer architecture revolutionized sequence modeling with its introduction of attention, a mechanism by which models look back at earlier inputs to prioritize relevant input data. However, computational cost increases drastically with sequence length, which limits the ability to scale Transformer-based models to extremely long contexts, such as those required for full-document understanding or genomic analysis.",
-    "Confidence": 0.97775024
   }
 ]
