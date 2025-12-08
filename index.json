@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Better Tile Breakup - Terrain Shaders - Episode 7",
+    "Url": "https://youtube.com/watch?v=z3f1bE41daI",
+    "Timestamp": "2025-12-08T17:02:10",
+    "Domain": "youtube.com",
+    "Description": "In this tutorial, I show a better method for breaking up tiling artifacts so terrain looks more organic and less repetitive. I show how to create the technique in both Unreal and Unity.\n\nHere's the original technique demonstrated by Inigo Quilez on ShaderToy:\nhttps://www.shadertoy.com/view/Xtl3zf\n\nHere's the playlist for the whole series:\nhttps://www.youtube.com/playlist?list=PL78XDi0TS4lHI72hWFQHpDJpL87LiQPgC\n\n\nShader Book Recommendations\nhttps://www.bencloward.com/resources_books.shtml\n\n------------------------------\n\nTheme Music\nPeace in the Circuitry - Glitch Hop\nhttp://teknoaxe.com/Link_Code_3.php?q=1526\n\nBackground Music\nSpeo - The Little Things\nhttps://www.youtube.com/watch?v=kvCYuyyLgC0\n\n#UnrealEngine #shadergraph #Unity",
+    "Confidence": 0.9691474
+  },
+  {
+    "Title": "New GPU Profiler and RHI Submission Pipeline | Unreal Fest Stockholm 2025",
+    "Url": "https://youtube.com/watch?v=vnbARZHccpQ",
+    "Timestamp": "2025-12-08T17:02:09",
+    "Domain": "youtube.com",
+    "Description": "In this session recorded at Unreal Fest Stockholm, we take a look at the new features of the improved GPU profiler that shipped with UE 5.6, and how the extra information it provides can help when profiling titles for both CPU and GPU performance. \n\nWe also take a deep dive on our modern RHI submission pipeline design. This system is responsible for the threading of renderer work on the CPU, and feeding that work to the GPU. \n\nWatch to learn about the modern Unreal Engine renderer threading design, which is valuable when analysing Unreal Insights traces for rendering related performance issues.\n\nLearn more about Unreal Engine here: unrealengine.com\n\n#GPUProfiler, #RHISubmissionPipeline, #UnrealInsights, #UnrealEngine, #UE5.6, #UnrealFestStockholm",
+    "Confidence": 0.85302204
+  },
+  {
     "Title": "Why Text in Vampire Survivors Used to Look Like This",
     "Url": "https://jslegenddev.substack.com/p/why-text-in-vampire-survivors-used",
     "Timestamp": "2025-12-08T16:02:16",
@@ -174,13 +190,5 @@
     "Domain": "gptzero.me",
     "Description": "GPTZero used our Citation Check tool to find 50+ hallucinations under review at ICLR, each of which were missed by 3-5 peer reviewers.",
     "Confidence": 0.95957357
-  },
-  {
-    "Title": "Second IC :) – Sam Zeloof",
-    "Url": "https://sam.zeloof.xyz/second-ic/",
-    "Timestamp": "2025-12-07T17:02:14",
-    "Domain": "sam.zeloof.xyz",
-    "Description": "Homemade 1000+ transistor array chip",
-    "Confidence": 0.8503022
   }
 ]
