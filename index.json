@@ -166,13 +166,5 @@
     "Domain": "systemdr.substack.com",
     "Description": "When Your Distributed Lock Lies to You",
     "Confidence": 0.9828076
-  },
-  {
-    "Title": "Perl's decline was cultural",
-    "Url": "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical",
-    "Timestamp": "2025-12-07T10:02:17",
-    "Domain": "www.beatworm.co.uk",
-    "Description": "There's been a flurry of discussion on Hacker News and other tech forums about what killed Perl. I wrote a lot of Perl in the mid 90s and subsequently worked on some of the most trafficked sites on the web in mod_perl in the early 2000s, so I have some thoughts. My take: it was mostly baked into the culture. Perl grew amongst a reactionary community with conservative values, which prevented it from evolving into a mature general purpose language ecosystem. Everything else filled the gap.",
-    "Confidence": 0.9764744
   }
 ]
