@@ -1,5 +1,149 @@
 [
   {
+    "Title": "All that matters is winning",
+    "Url": "https://www.ryanhoover.me/post/all-that-matters-is-winning",
+    "Timestamp": "2025-12-09T01:04:31",
+    "Domain": "www.ryanhoover.me",
+    "Description": "",
+    "Confidence": 0.8438093
+  },
+  {
+    "Title": "PostgreSQL and MongoDB: What Scaling Really Looks Like",
+    "Url": "https://stormatics.tech/blogs/postgresql-mongodb-and-what-cannot-scale-really-means",
+    "Timestamp": "2025-12-09T01:04:27",
+    "Domain": "stormatics.tech",
+    "Description": "How PostgreSQL scales in real-world systems, compared with MongoDB, and why true scalability depends on design and workloads, not headlines.",
+    "Confidence": 0.88535136
+  },
+  {
+    "Title": "i read more than i write",
+    "Url": "https://enombic.com/read-more-than-write",
+    "Timestamp": "2025-12-09T01:04:18",
+    "Domain": "enombic.com",
+    "Description": "we all consume. few create. ai trains on the minority.",
+    "Confidence": 0.9760238
+  },
+  {
+    "Title": "They have to be able to talk about us without us - Anil Dash",
+    "Url": "https://www.anildash.com/2025/12/05/talk-about-us-without-us/",
+    "Timestamp": "2025-12-09T01:04:15",
+    "Domain": "www.anildash.com",
+    "Description": "A blog about making culture. Since 1999.",
+    "Confidence": 0.96468174
+  },
+  {
+    "Title": "Satisficing for LLMs",
+    "Url": "https://www.alephic.com/writing/satisficing-for-llms",
+    "Timestamp": "2025-12-09T01:04:11",
+    "Domain": "www.alephic.com",
+    "Description": "By applying Herbert Simon’s concept of satisficing to AI, this post argues that language models might prefer logical‐sounding content over emotional appeals, mirroring human biases but inverted. It unveils a paradox: humans use emotion to decide rationally, while LLMs use pseudo‐rational style to appear helpful.",
+    "Confidence": 0.78013134
+  },
+  {
+    "Title": "The secure open source fallacy",
+    "Url": "https://ulveon.net/p/2025-12-03-the-secure-open-source-fallacy/",
+    "Timestamp": "2025-12-09T01:04:07",
+    "Domain": "ulveon.net",
+    "Description": "Most open source advocates, and many security professionals, often say things like “open source software is secure because you can just read the code”.\nThis argument assumes that the ability to read source code directly translates into the ability to understand, verify, and trust it, because you can see the files this software opens or the network sockets it listens on. You can see the kind of network data it sends, and the cryptography it uses.\n",
+    "Confidence": 0.9724006
+  },
+  {
+    "Title": "Jepsen: NATS 2.12.1",
+    "Url": "https://jepsen.io/analyses/nats-2.12.1",
+    "Timestamp": "2025-12-09T01:04:03",
+    "Domain": "jepsen.io",
+    "Description": "NATS is a distributed streaming system. Regular NATS streams offer only best-effort delivery, but a subsystem, called JetStream, guarantees messages are delivered at least once. We tested NATS JetStream, version 2.12.1, and found that it lost writes if data files were truncated or corrupted on a minority of nodes. We also found that coordinated power failures, or an OS crash on a single node combined with network delays or process pauses, can cause the loss of committed writes and persistent split-brain. This data loss was caused (at least in part) by choosing to flush writes to disk every two minutes, rather than before acknowledging them. We also include a belated note on data loss due to process crashes in version 2.10.22, which was fixed in 2.10.23. NATS has now documented the risk of its default fsync policy, and the remaining issues remain under investigation. This research was performed independently by Jepsen, without compensation, and conducted in accordance with the Jepsen ethics policy.",
+    "Confidence": 0.9320389
+  },
+  {
+    "Title": "Claude Diary",
+    "Url": "https://rlancemartin.github.io/2025/12/01/claude_diary/",
+    "Timestamp": "2025-12-09T01:03:59",
+    "Domain": "rlancemartin.github.io",
+    "Description": "Creating a memory system for Claude Code.",
+    "Confidence": 0.9884701
+  },
+  {
+    "Title": "John Ocen's",
+    "Url": "https://johnocens.com/soothfare/WeSolvedScalebutLostCohesion",
+    "Timestamp": "2025-12-09T01:03:56",
+    "Domain": "johnocens.com",
+    "Description": "Output is deliberate.",
+    "Confidence": 0.66520786
+  },
+  {
+    "Title": "History - 2100",
+    "Url": "https://lucasvance.github.io/2100/history/",
+    "Timestamp": "2025-12-09T01:03:52",
+    "Domain": "lucasvance.github.io",
+    "Description": "2100: Restoring the American Dream",
+    "Confidence": 0.5077828
+  },
+  {
+    "Title": "Multibase CLI",
+    "Url": "http://www.chriswarbo.net/blog/2025-12-07-multibase_cli.html",
+    "Timestamp": "2025-12-09T01:03:48",
+    "Domain": "www.chriswarbo.net",
+    "Description": "I recently pushed a few patches to the multiformats/rust-multibase\nproject to scratch my own itch, and I thought they would be useful to\ntalk about. In short, these changes do the following:",
+    "Confidence": 0.9934451
+  },
+  {
+    "Title": "NotARoomba",
+    "Url": "https://notaroomba.dev/simpleflightcontroller",
+    "Timestamp": "2025-12-09T01:03:42",
+    "Domain": "notaroomba.dev",
+    "Description": "",
+    "Confidence": 0.9972996
+  },
+  {
+    "Title": "Salt Bank Wants You to Gamble",
+    "Url": "https://michael-dev-tech.github.io/Website/salt.html",
+    "Timestamp": "2025-12-09T01:03:38",
+    "Domain": "michael-dev-tech.github.io",
+    "Description": "← Back to Home",
+    "Confidence": 0.7070735
+  },
+  {
+    "Title": "llm weights vs the papercuts of corporate",
+    "Url": "https://ghuntley.com/papercuts/",
+    "Timestamp": "2025-12-09T01:03:35",
+    "Domain": "ghuntley.com",
+    "Description": "In woodworking, there's a saying that you should work with the grain, not against the grain and I've been thinking about how this concept may apply to large language models.\n\nThese large language models are built by training on existing data. This data forms the backbone which creates output based",
+    "Confidence": 0.96999735
+  },
+  {
+    "Title": "Kinesis Advantage2 — Danish Prakash",
+    "Url": "https://danishpraka.sh/posts/kinesis-advantage2/",
+    "Timestamp": "2025-12-09T01:03:31",
+    "Domain": "danishpraka.sh",
+    "Description": "",
+    "Confidence": 0.9454265
+  },
+  {
+    "Title": "Deep Dive into NVIDIA's Virtuous Cycle",
+    "Url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
+    "Timestamp": "2025-12-09T01:03:28",
+    "Domain": "philippeoger.com",
+    "Description": "I’ve spent the last 48 hours completely falling down the rabbit hole of\nNVIDIA’s Q3 Fiscal 2026 earnings report. If\nyou just skim the headlines, everything looks perfect: Revenue is up 62% to $57\nbillion, and Jensen Huang is talking about a \"virtuous cycle of AI.\"",
+    "Confidence": 0.78219014
+  },
+  {
+    "Title": "Going direct: notes on Eli Lilly at a trillion",
+    "Url": "https://atelfo.github.io/2025/12/07/going-direct.html",
+    "Timestamp": "2025-12-09T01:03:24",
+    "Domain": "atelfo.github.io",
+    "Description": "Personal site for posts about my interests: the biotech industry, medicine, molecular biology, neuroscience, biorisk, science, consciousness, AI, innovation, decision making, philosophy, games, sci-fi, probability, and forecasting (among other things). I write to learn, mostly about biotech.",
+    "Confidence": 0.92629707
+  },
+  {
+    "Title": "Words That Make Language Models Perceive",
+    "Url": "https://www.sophielwang.com/sensory",
+    "Timestamp": "2025-12-09T01:02:46",
+    "Domain": "www.sophielwang.com",
+    "Description": "A simple cue like asking the model to 'see' or 'hear' can push a purely text-trained language model towards the representations of purely image-trained or purely-audio trained encoders.",
+    "Confidence": 0.75802153
+  },
+  {
     "Title": "IBM to Acquire Confluent",
     "Url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
     "Timestamp": "2025-12-08T21:02:22",
@@ -70,13 +214,5 @@
     "Domain": "javarevisited.substack.com",
     "Description": "Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT & SSO",
     "Confidence": 0.9914517
-  },
-  {
-    "Title": "I failed to recreate the 1996 Space Jam Website with Claude | j0nah.com",
-    "Url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
-    "Timestamp": "2025-12-08T01:01:59",
-    "Domain": "j0nah.com",
-    "Description": "Can Claude Recreate the 1996 Space Jam Website? No. Or at least not with my prompting skills.",
-    "Confidence": 0.96590966
   }
 ]

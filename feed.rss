@@ -7,6 +7,175 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>All that matters is winning</title>
+      <link>https://www.ryanhoover.me/post/all-that-matters-is-winning</link>
+      <description></description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.ryanhoover.me/post/all-that-matters-is-winning</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL and MongoDB: What Scaling Really Looks Like</title>
+      <link>https://stormatics.tech/blogs/postgresql-mongodb-and-what-cannot-scale-really-means</link>
+      <description>How PostgreSQL scales in real-world systems, compared with MongoDB, and why true scalability depends on design and workloads, not headlines.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://stormatics.tech/blogs/postgresql-mongodb-and-what-cannot-scale-really-means</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>i read more than i write</title>
+      <link>https://enombic.com/read-more-than-write</link>
+      <description>we all consume. few create. ai trains on the minority.</description>
+      <guid>https://enombic.com/read-more-than-write</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>They have to be able to talk about us without us - Anil Dash</title>
+      <link>https://www.anildash.com/2025/12/05/talk-about-us-without-us/</link>
+      <description>A blog about making culture. Since 1999.</description>
+      <guid>https://www.anildash.com/2025/12/05/talk-about-us-without-us/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Satisficing for LLMs</title>
+      <link>https://www.alephic.com/writing/satisficing-for-llms</link>
+      <description>By applying Herbert Simon’s concept of satisficing to AI, this post argues that language models might prefer logical‐sounding content over emotional appeals, mirroring human biases but inverted. It unveils a paradox: humans use emotion to decide rationally, while LLMs use pseudo‐rational style to appear helpful.</description>
+      <category>ai</category>
+      <guid>https://www.alephic.com/writing/satisficing-for-llms</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The secure open source fallacy</title>
+      <link>https://ulveon.net/p/2025-12-03-the-secure-open-source-fallacy/</link>
+      <description>Most open source advocates, and many security professionals, often say things like “open source software is secure because you can just read the code”.
+This argument assumes that the ability to read source code directly translates into the ability to understand, verify, and trust it, because you can see the files this software opens or the network sockets it listens on. You can see the kind of network data it sends, and the cryptography it uses.
+</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>encryption</category>
+      <category>ruby</category>
+      <guid>https://ulveon.net/p/2025-12-03-the-secure-open-source-fallacy/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jepsen: NATS 2.12.1</title>
+      <link>https://jepsen.io/analyses/nats-2.12.1</link>
+      <description>NATS is a distributed streaming system. Regular NATS streams offer only best-effort delivery, but a subsystem, called JetStream, guarantees messages are delivered at least once. We tested NATS JetStream, version 2.12.1, and found that it lost writes if data files were truncated or corrupted on a minority of nodes. We also found that coordinated power failures, or an OS crash on a single node combined with network delays or process pauses, can cause the loss of committed writes and persistent split-brain. This data loss was caused (at least in part) by choosing to flush writes to disk every two minutes, rather than before acknowledging them. We also include a belated note on data loss due to process crashes in version 2.10.22, which was fixed in 2.10.23. NATS has now documented the risk of its default fsync policy, and the remaining issues remain under investigation. This research was performed independently by Jepsen, without compensation, and conducted in accordance with the Jepsen ethics policy.</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <guid>https://jepsen.io/analyses/nats-2.12.1</guid>
+      <pubDate>Tue, 09 Dec 2025 01:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Diary</title>
+      <link>https://rlancemartin.github.io/2025/12/01/claude_diary/</link>
+      <description>Creating a memory system for Claude Code.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://rlancemartin.github.io/2025/12/01/claude_diary/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>John Ocen's</title>
+      <link>https://johnocens.com/soothfare/WeSolvedScalebutLostCohesion</link>
+      <description>Output is deliberate.</description>
+      <guid>https://johnocens.com/soothfare/WeSolvedScalebutLostCohesion</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>History - 2100</title>
+      <link>https://lucasvance.github.io/2100/history/</link>
+      <description>2100: Restoring the American Dream</description>
+      <guid>https://lucasvance.github.io/2100/history/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multibase CLI</title>
+      <link>http://www.chriswarbo.net/blog/2025-12-07-multibase_cli.html</link>
+      <description>I recently pushed a few patches to the multiformats/rust-multibase
+project to scratch my own itch, and I thought they would be useful to
+talk about. In short, these changes do the following:</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>http://www.chriswarbo.net/blog/2025-12-07-multibase_cli.html</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>NotARoomba</title>
+      <link>https://notaroomba.dev/simpleflightcontroller</link>
+      <description></description>
+      <category>python</category>
+      <category>conference</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://notaroomba.dev/simpleflightcontroller</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Salt Bank Wants You to Gamble</title>
+      <link>https://michael-dev-tech.github.io/Website/salt.html</link>
+      <description>← Back to Home</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://michael-dev-tech.github.io/Website/salt.html</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>llm weights vs the papercuts of corporate</title>
+      <link>https://ghuntley.com/papercuts/</link>
+      <description>In woodworking, there's a saying that you should work with the grain, not against the grain and I've been thinking about how this concept may apply to large language models.
+
+These large language models are built by training on existing data. This data forms the backbone which creates output based</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://ghuntley.com/papercuts/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kinesis Advantage2 — Danish Prakash</title>
+      <link>https://danishpraka.sh/posts/kinesis-advantage2/</link>
+      <description></description>
+      <guid>https://danishpraka.sh/posts/kinesis-advantage2/</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep Dive into NVIDIA's Virtuous Cycle</title>
+      <link>https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle</link>
+      <description>I’ve spent the last 48 hours completely falling down the rabbit hole of
+NVIDIA’s Q3 Fiscal 2026 earnings report. If
+you just skim the headlines, everything looks perfect: Revenue is up 62% to $57
+billion, and Jensen Huang is talking about a "virtuous cycle of AI."</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Going direct: notes on Eli Lilly at a trillion</title>
+      <link>https://atelfo.github.io/2025/12/07/going-direct.html</link>
+      <description>Personal site for posts about my interests: the biotech industry, medicine, molecular biology, neuroscience, biorisk, science, consciousness, AI, innovation, decision making, philosophy, games, sci-fi, probability, and forecasting (among other things). I write to learn, mostly about biotech.</description>
+      <category>ai</category>
+      <guid>https://atelfo.github.io/2025/12/07/going-direct.html</guid>
+      <pubDate>Tue, 09 Dec 2025 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Words That Make Language Models Perceive</title>
+      <link>https://www.sophielwang.com/sensory</link>
+      <description>A simple cue like asking the model to 'see' or 'hear' can push a purely text-trained language model towards the representations of purely image-trained or purely-audio trained encoders.</description>
+      <category>ai</category>
+      <guid>https://www.sophielwang.com/sensory</guid>
+      <pubDate>Tue, 09 Dec 2025 01:02:46 GMT</pubDate>
+    </item>
+    <item>
       <title>IBM to Acquire Confluent</title>
       <link>https://www.confluent.io/blog/ibm-to-acquire-confluent/</link>
       <description>IBM to Acquire Confluent</description>
@@ -158,15 +327,6 @@ https://www.stroustrup.com/JSF-AV-rules.pdf</description>
       <category>youtube</category>
       <guid>https://javarevisited.substack.com/p/system-design-basics-authentication</guid>
       <pubDate>Mon, 08 Dec 2025 08:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>I failed to recreate the 1996 Space Jam Website with Claude | j0nah.com</title>
-      <link>https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/</link>
-      <description>Can Claude Recreate the 1996 Space Jam Website? No. Or at least not with my prompting skills.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/</guid>
-      <pubDate>Mon, 08 Dec 2025 01:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
