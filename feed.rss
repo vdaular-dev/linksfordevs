@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The New Cross Platform C# IDE is INSANE</title>
+      <link>https://youtube.com/watch?v=h5C7zB2nbrc</link>
+      <description>Get 30% off Dometrain with code CHRISTMAS30: https://dometrain.com/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=CHRISTMAS30
+
+Hello, everybody. I'm Nick, and in this video, I want to show you a brand-new, open-source, cross-platform IDE called SharpIDE.
+
+Give SharpIDE on GitHub: https://github.com/MattParkerDev/SharpIDE
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#csharp #dotnet</description>
+      <author> (Nick Chapsas)</author>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtube.com/watch?v=h5C7zB2nbrc</guid>
+      <pubDate>Tue, 09 Dec 2025 12:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>The Universal Weight Subspace Hypothesis</title>
       <link>https://arxiv.org/abs/2512.05117</link>
       <description>We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization, task, or domain. Through mode-wise spectral analysis of over 1100 models - including 500 Mistral-7B LoRAs, 500 Vision Transformers, and 50 LLaMA-8B models - we identify universal subspaces capturing majority variance in just a few principal directions. By applying spectral decomposition techniques to the weight matrices of various architectures trained on a wide range of tasks and datasets, we identify sparse, joint subspaces that are consistently exploited, within shared architectures across diverse tasks and datasets. Our findings offer new insights into the intrinsic organization of information within deep networks and raise important questions about the possibility of discovering these universal subspaces without the need for extensive data and computational resources. Furthermore, this inherent structure has significant implications for model reusability, multi-task learning, model merging, and the development of training and inference-efficient algorithms, potentially reducing the carbon footprint of large-scale neural models.</description>
