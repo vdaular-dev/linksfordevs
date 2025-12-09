@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks",
+    "Url": "https://arxiv.org/abs/2512.03262",
+    "Timestamp": "2025-12-09T03:02:20",
+    "Domain": "arxiv.org",
+    "Description": "Vibe coding is a new programming paradigm in which human engineers instruct large language model (LLM) agents to complete complex coding tasks with little supervision. Although it is increasingly adopted, are vibe coding outputs really safe to deploy in production? To answer this question, we propose SU S VI B E S, a benchmark consisting of 200 feature-request software engineering tasks from real-world open-source projects, which, when given to human programmers, led to vulnerable implementations. We evaluate multiple widely used coding agents with frontier models on this benchmark. Disturbingly, all agents perform poorly in terms of software security. Although 61% of the solutions from SWE-Agent with Claude 4 Sonnet are functionally correct, only 10.5% are secure. Further experiments demonstrate that preliminary security strategies, such as augmenting the feature request with vulnerability hints, cannot mitigate these security issues. Our findings raise serious concerns about the widespread adoption of vibe-coding, particularly in security-sensitive applications.",
+    "Confidence": 0.96963537
+  },
+  {
+    "Title": "Hyperacute Interdynamics",
+    "Url": "https://xkcd.com/3178/",
+    "Timestamp": "2025-12-09T03:02:17",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Icons in Menus Everywhere — Send Help",
+    "Url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
+    "Timestamp": "2025-12-09T03:02:14",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web.",
+    "Confidence": 0.9856956
+  },
+  {
     "Title": "All that matters is winning",
     "Url": "https://www.ryanhoover.me/post/all-that-matters-is-winning",
     "Timestamp": "2025-12-09T01:04:31",

@@ -7,6 +7,31 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks</title>
+      <link>https://arxiv.org/abs/2512.03262</link>
+      <description>Vibe coding is a new programming paradigm in which human engineers instruct large language model (LLM) agents to complete complex coding tasks with little supervision. Although it is increasingly adopted, are vibe coding outputs really safe to deploy in production? To answer this question, we propose SU S VI B E S, a benchmark consisting of 200 feature-request software engineering tasks from real-world open-source projects, which, when given to human programmers, led to vulnerable implementations. We evaluate multiple widely used coding agents with frontier models on this benchmark. Disturbingly, all agents perform poorly in terms of software security. Although 61% of the solutions from SWE-Agent with Claude 4 Sonnet are functionally correct, only 10.5% are secure. Further experiments demonstrate that preliminary security strategies, such as augmenting the feature request with vulnerability hints, cannot mitigate these security issues. Our findings raise serious concerns about the widespread adoption of vibe-coding, particularly in security-sensitive applications.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2512.03262</guid>
+      <pubDate>Tue, 09 Dec 2025 03:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hyperacute Interdynamics</title>
+      <link>https://xkcd.com/3178/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3178/</guid>
+      <pubDate>Tue, 09 Dec 2025 03:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Icons in Menus Everywhere — Send Help</title>
+      <link>https://blog.jim-nielsen.com/2025/icons-in-menus/</link>
+      <description>Writing about the big beautiful mess that is making things for the world wide web.</description>
+      <category>gaming</category>
+      <guid>https://blog.jim-nielsen.com/2025/icons-in-menus/</guid>
+      <pubDate>Tue, 09 Dec 2025 03:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>All that matters is winning</title>
       <link>https://www.ryanhoover.me/post/all-that-matters-is-winning</link>
       <description></description>
