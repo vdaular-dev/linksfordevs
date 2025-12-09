@@ -275,55 +275,5 @@ billion, and Jensen Huang is talking about a "virtuous cycle of AI."</descriptio
       <guid>https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai</guid>
       <pubDate>Mon, 08 Dec 2025 20:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>Better Tile Breakup - Terrain Shaders - Episode 7</title>
-      <link>https://youtube.com/watch?v=z3f1bE41daI</link>
-      <description>In this tutorial, I show a better method for breaking up tiling artifacts so terrain looks more organic and less repetitive. I show how to create the technique in both Unreal and Unity.
-
-Here's the original technique demonstrated by Inigo Quilez on ShaderToy:
-https://www.shadertoy.com/view/Xtl3zf
-
-Here's the playlist for the whole series:
-https://www.youtube.com/playlist?list=PL78XDi0TS4lHI72hWFQHpDJpL87LiQPgC
-
-
-Shader Book Recommendations
-https://www.bencloward.com/resources_books.shtml
-
-------------------------------
-
-Theme Music
-Peace in the Circuitry - Glitch Hop
-http://teknoaxe.com/Link_Code_3.php?q=1526
-
-Background Music
-Speo - The Little Things
-https://www.youtube.com/watch?v=kvCYuyyLgC0
-
-#UnrealEngine #shadergraph #Unity</description>
-      <author> (Ben Cloward)</author>
-      <category>gaming</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=z3f1bE41daI</guid>
-      <pubDate>Mon, 08 Dec 2025 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>New GPU Profiler and RHI Submission Pipeline | Unreal Fest Stockholm 2025</title>
-      <link>https://youtube.com/watch?v=vnbARZHccpQ</link>
-      <description>In this session recorded at Unreal Fest Stockholm, we take a look at the new features of the improved GPU profiler that shipped with UE 5.6, and how the extra information it provides can help when profiling titles for both CPU and GPU performance. 
-
-We also take a deep dive on our modern RHI submission pipeline design. This system is responsible for the threading of renderer work on the CPU, and feeding that work to the GPU. 
-
-Watch to learn about the modern Unreal Engine renderer threading design, which is valuable when analysing Unreal Insights traces for rendering related performance issues.
-
-Learn more about Unreal Engine here: unrealengine.com
-
-#GPUProfiler, #RHISubmissionPipeline, #UnrealInsights, #UnrealEngine, #UE5.6, #UnrealFestStockholm</description>
-      <author> (Unreal Engine)</author>
-      <category>gaming</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=vnbARZHccpQ</guid>
-      <pubDate>Mon, 08 Dec 2025 17:02:09 GMT</pubDate>
-    </item>
   </channel>
 </rss>
