@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Horses</title>
+      <link>https://andyljones.com/posts/horses.html</link>
+      <description>AI progress is steady. Human equivalence is sudden.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://andyljones.com/posts/horses.html</guid>
+      <pubDate>Tue, 09 Dec 2025 06:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks</title>
       <link>https://arxiv.org/abs/2512.03262</link>
       <description>Vibe coding is a new programming paradigm in which human engineers instruct large language model (LLM) agents to complete complex coding tasks with little supervision. Although it is increasingly adopted, are vibe coding outputs really safe to deploy in production? To answer this question, we propose SU S VI B E S, a benchmark consisting of 200 feature-request software engineering tasks from real-world open-source projects, which, when given to human programmers, led to vulnerable implementations. We evaluate multiple widely used coding agents with frontier models on this benchmark. Disturbingly, all agents perform poorly in terms of software security. Although 61% of the solutions from SWE-Agent with Claude 4 Sonnet are functionally correct, only 10.5% are secure. Further experiments demonstrate that preliminary security strategies, such as augmenting the feature request with vulnerability hints, cannot mitigate these security issues. Our findings raise serious concerns about the widespread adoption of vibe-coding, particularly in security-sensitive applications.</description>
