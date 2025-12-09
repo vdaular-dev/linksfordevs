@@ -1,5 +1,29 @@
 [
   {
+    "Title": "10 Years of Let's Encrypt Certificates",
+    "Url": "https://letsencrypt.org/2025/12/09/10-years",
+    "Timestamp": "2025-12-09T22:02:12",
+    "Domain": "letsencrypt.org",
+    "Description": "On September 14, 2015, our first publicly-trusted certificate went live. We were proud that we had issued a certificate that a significant majority of clients could accept, and had done it using automated software. Of course, in retrospect this was just the first of billions of certificates. Today, Let’s Encrypt is the largest certificate authority in the world in terms of certificates issued, the ACME protocol we helped create and standardize is integrated throughout the server ecosystem, and we’ve become a household name among system administrators. We’re closing in on protecting one billion web sites.\n",
+    "Confidence": 0.9722173
+  },
+  {
+    "Title": "Keeping a Docker Container Open in Docker Compose | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/12/keeping-a-docker-container-open-in-docker-compose/",
+    "Timestamp": "2025-12-09T22:02:09",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "It is not immediately obvious how to keep a Docker container running when using Docker Compose. Here is a simple way to do it.",
+    "Confidence": 0.9972688
+  },
+  {
+    "Title": "PeerTube",
+    "Url": "https://www.digitalpublicgoods.net/r/peertube",
+    "Timestamp": "2025-12-09T22:02:05",
+    "Domain": "www.digitalpublicgoods.net",
+    "Description": "PeerTube is a tool for hosting, managing, and sharing videos or live streams.",
+    "Confidence": 0.6480555
+  },
+  {
     "Title": "Meet Pebble Index 01 - External Memory For Your Brain",
     "Url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
     "Timestamp": "2025-12-09T21:02:10",

@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>10 Years of Let's Encrypt Certificates</title>
+      <link>https://letsencrypt.org/2025/12/09/10-years</link>
+      <description>On September 14, 2015, our first publicly-trusted certificate went live. We were proud that we had issued a certificate that a significant majority of clients could accept, and had done it using automated software. Of course, in retrospect this was just the first of billions of certificates. Today, Let’s Encrypt is the largest certificate authority in the world in terms of certificates issued, the ACME protocol we helped create and standardize is integrated throughout the server ecosystem, and we’ve become a household name among system administrators. We’re closing in on protecting one billion web sites.
+</description>
+      <category>encryption</category>
+      <category>sql</category>
+      <guid>https://letsencrypt.org/2025/12/09/10-years</guid>
+      <pubDate>Tue, 09 Dec 2025 22:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keeping a Docker Container Open in Docker Compose | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2025/12/keeping-a-docker-container-open-in-docker-compose/</link>
+      <description>It is not immediately obvious how to keep a Docker container running when using Docker Compose. Here is a simple way to do it.</description>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://nodogmablog.bryanhogan.net/2025/12/keeping-a-docker-container-open-in-docker-compose/</guid>
+      <pubDate>Tue, 09 Dec 2025 22:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>PeerTube</title>
+      <link>https://www.digitalpublicgoods.net/r/peertube</link>
+      <description>PeerTube is a tool for hosting, managing, and sharing videos or live streams.</description>
+      <guid>https://www.digitalpublicgoods.net/r/peertube</guid>
+      <pubDate>Tue, 09 Dec 2025 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Meet Pebble Index 01 - External Memory For Your Brain</title>
       <link>https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain</link>
       <description>Meet Pebble Index 01 - External Memory For Your Brain</description>
