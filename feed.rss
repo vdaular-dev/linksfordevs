@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Universal Weight Subspace Hypothesis</title>
+      <link>https://arxiv.org/abs/2512.05117</link>
+      <description>We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization, task, or domain. Through mode-wise spectral analysis of over 1100 models - including 500 Mistral-7B LoRAs, 500 Vision Transformers, and 50 LLaMA-8B models - we identify universal subspaces capturing majority variance in just a few principal directions. By applying spectral decomposition techniques to the weight matrices of various architectures trained on a wide range of tasks and datasets, we identify sparse, joint subspaces that are consistently exploited, within shared architectures across diverse tasks and datasets. Our findings offer new insights into the intrinsic organization of information within deep networks and raise important questions about the possibility of discovering these universal subspaces without the need for extensive data and computational resources. Furthermore, this inherent structure has significant implications for model reusability, multi-task learning, model merging, and the development of training and inference-efficient algorithms, potentially reducing the carbon footprint of large-scale neural models.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2512.05117</guid>
+      <pubDate>Tue, 09 Dec 2025 09:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>Has the cost of building software just dropped 90%?</title>
       <link>https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/</link>
       <description>Agentic coding tools are dramatically reducing software development costs. Here's why 2026 is going to catch a lot of people off guard.</description>
@@ -323,49 +332,6 @@ Learn more about Unreal Engine here: unrealengine.com
       <category>visualstudio</category>
       <guid>https://www.nicchan.me/blog/the-f-off-contact-page/</guid>
       <pubDate>Mon, 08 Dec 2025 13:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Fighter Jets Ban 90% of C++ Features</title>
-      <link>https://youtube.com/watch?v=Gv4sDL9Ljww</link>
-      <description>A single unhandled exception destroyed a $500 million rocket in seconds.
-
-The F-35 wasn't going to make the same mistake.
-
-By carefully slicing C++, engineers created one of the strictest coding standards ever written.
-
-This...is Programming Like a Fighter Pilot.
-
-In this video, we dive into the history of software in aircraft, the (thousands!) of programming languages the Pentagon had to deal with, and perhaps the wildest of all, the JSF (F-35) C++ standard.
-
----
-
-Timestamps:
-00:00 History of Software in Flight
-08:27 The Pentagon and C++
-12:56 Flying (Simulated) F-35s
-17:58 No Exceptions?
-23:47 Recursion + Cyclomatic Complexity
-26:26 Memory (Pre)allocation
-30:51 Future of Safety Critical Software
-
----
-
-Check out my X account for cool Computer Science stuff!
-https://x.com/lauriewired
-
----
-
-My GitHub of all example code:
-https://github.com/LaurieWired/XplaneFlightData
-
----
-
-You can check out the REAL F-35 C++ Coding standard here (it's public!):
-https://www.stroustrup.com/JSF-AV-rules.pdf</description>
-      <author> (LaurieWired)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=Gv4sDL9Ljww</guid>
-      <pubDate>Mon, 08 Dec 2025 09:01:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
