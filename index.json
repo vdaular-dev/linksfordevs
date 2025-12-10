@@ -1,5 +1,197 @@
 [
   {
+    "Title": "What I Learned Using Neon Postgres for a Week of Live Traffic",
+    "Url": "https://ishan.page/blog/dbms-neon/",
+    "Timestamp": "2025-12-10T01:03:56",
+    "Domain": "ishan.page",
+    "Description": "I recently built a SQL practice platform for my DBMS course at IITM BS Degree. About 50-100 students were hitting it simultaneously during peak exam prep. I chose Neon as the backend database, mostly because I was curious about their serverless Postgres offering. Here&rsquo;s what I learned after a week of actual traffic.\nLet me be clear about what this actually tested: student queries don&rsquo;t hit Neon at all. Those run in WASM on the client side (which I&rsquo;ll write about in Part 2 because that setup was wild).",
+    "Confidence": 0.9917443
+  },
+  {
+    "Title": "I Don't Want to Be a Ping-Pong Ball Anymore | Tristan Isham",
+    "Url": "https://www.tristanisham.com/blog/i-dont-want-to-be-a-ping-pong-ball-anymore/",
+    "Timestamp": "2025-12-10T01:03:53",
+    "Domain": "www.tristanisham.com",
+    "Description": "The Pandemic made a job in journalism untennable, so I pivoted to software development. Now software development is becoming obsolete. Maybe a communications degree was the long play?",
+    "Confidence": 0.9779731
+  },
+  {
+    "Title": "If You’re Going to Vibe Code, Why Not Do It in C?",
+    "Url": "https://stephenramsay.net/posts/vibe-coding.html",
+    "Timestamp": "2025-12-10T01:03:49",
+    "Domain": "stephenramsay.net",
+    "Description": "Stephen Ramsay",
+    "Confidence": 0.98624384
+  },
+  {
+    "Title": "Engineers: Stop trying to win other people's game",
+    "Url": "https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior",
+    "Timestamp": "2025-12-10T01:03:45",
+    "Domain": "www.anthonyputignano.com",
+    "Description": "Last week, I wrote about a category of softwares engineer companies should be seeking: masters of context— the people who know when to slam the gas, when to tap the brakes, and how to shift their entire approach without being asked.",
+    "Confidence": 0.989032
+  },
+  {
+    "Title": "2026: The Last Year Before AGI",
+    "Url": "https://www.tenmas.tech/post/2026-the-last-year-before-agi-and-how-to-build-software-teams-that-survive-the-shift",
+    "Timestamp": "2025-12-10T01:03:40",
+    "Domain": "www.tenmas.tech",
+    "Description": "2026 could be the final “normal” year of software development. AI agents are accelerating, cost structures are collapsing, and engineering teams are being redesigned from the ground up. Winning teams will be smaller, faster, AI-powered, and globally distributed, especially across the U.S. and LATAM.",
+    "Confidence": 0.96211874
+  },
+  {
+    "Title": "Why Is Video Editing So Bad on Linux Compared to Windows with Camtasia? — Nick Janetakis",
+    "Url": "https://nickjanetakis.com/blog/why-is-video-editing-so-bad-on-linux-compared-to-windows-with-camtasia",
+    "Timestamp": "2025-12-10T01:03:36",
+    "Domain": "nickjanetakis.com",
+    "Description": "I recently tried Kdenlive, Shotcut, DaVinci Resolve, Blender and Lightworks on Linux. They're not even close to Camtasia.",
+    "Confidence": 0.9879402
+  },
+  {
+    "Title": "What is a Startup CTO?",
+    "Url": "https://www.kuril.in/blog/what-is-a-startup-cto/",
+    "Timestamp": "2025-12-10T01:03:32",
+    "Domain": "www.kuril.in",
+    "Description": "A candid look at what early-stage CTOs actually do, why many companies really need a founding engineer first, and how the role evolves as the startup scales.",
+    "Confidence": 0.96575195
+  },
+  {
+    "Title": "You need an #ideation channel",
+    "Url": "https://simedw.com/2025/12/09/ideation/",
+    "Timestamp": "2025-12-10T01:03:29",
+    "Domain": "simedw.com",
+    "Description": "How we do efficient company-wide ideation at V7.",
+    "Confidence": 0.9571556
+  },
+  {
+    "Title": "Notes on motivation",
+    "Url": "https://jeremyjaydan.au/notes-on-motivation/",
+    "Timestamp": "2025-12-10T01:03:25",
+    "Domain": "jeremyjaydan.au",
+    "Description": "26 November 2025 at 12:50PM",
+    "Confidence": 0.9698618
+  },
+  {
+    "Title": "“I've failed 17 consecutive times with the exact same error”",
+    "Url": "https://blog.tonkotsu.ai/p/ive-failed-17-consecutive-times-with",
+    "Timestamp": "2025-12-10T01:03:22",
+    "Domain": "blog.tonkotsu.ai",
+    "Description": "That was the verbatim response from our agent as it attempted to execute a coding task.",
+    "Confidence": 0.9940468
+  },
+  {
+    "Title": "Productivity? Obsession!",
+    "Url": "https://www.rupokghosh.com/productivity-obsession",
+    "Timestamp": "2025-12-10T01:03:18",
+    "Domain": "www.rupokghosh.com",
+    "Description": "\nFor years, I have tried to repair myself with the usual techniques that everyone talks about. You know, like principles, habits, systems, yada yada.  ...",
+    "Confidence": 0.95074594
+  },
+  {
+    "Title": "My App Will Harm You Physically, Using Math — Prolost",
+    "Url": "https://prolost.com/blog/drinkingbuddy",
+    "Timestamp": "2025-12-10T01:03:13",
+    "Domain": "prolost.com",
+    "Description": "I made an app! A real, native iPhone app coded in Swift and SwiftUI.",
+    "Confidence": 0.9603299
+  },
+  {
+    "Title": "Please, don't automate science!",
+    "Url": "http://togelius.blogspot.com/2025/12/please-dont-automate-science.html",
+    "Timestamp": "2025-12-10T01:03:09",
+    "Domain": "togelius.blogspot.com",
+    "Description": "I was at an event on AI for science yesterday, a panel discussion here at NeurIPS. The panelists discussed how they plan to replace humans a...",
+    "Confidence": 0.94218475
+  },
+  {
+    "Title": "The Rise of the 0.1x Engineer",
+    "Url": "https://www.jerpint.io/blog/2025-12-08-01x-engineer/",
+    "Timestamp": "2025-12-10T01:03:05",
+    "Domain": "www.jerpint.io",
+    "Description": "The 0.1x engineers of the future will have to learn to trudge through the slop",
+    "Confidence": 0.99600464
+  },
+  {
+    "Title": "When NOT to use Pydantic",
+    "Url": "https://ossa-ma.github.io/blog/when-not-to-use-pydantic",
+    "Timestamp": "2025-12-10T01:03:02",
+    "Domain": "ossa-ma.github.io",
+    "Description": "A dive into Pydantic performance and when to pick a different option.",
+    "Confidence": 0.9843843
+  },
+  {
+    "Title": "Building a startup marketing engine when you have nothing - Arnon Shimoni",
+    "Url": "https://arnon.dk/building-a-startup-marketing-engine-when-you-literally-have-nothing/",
+    "Timestamp": "2025-12-10T01:02:59",
+    "Domain": "arnon.dk",
+    "Description": "I think lots of founders misunderstand what early-stage marketing is. You don’t start when you get funding, or when you’re ready, or even when you hire your first marketing person – you start when you decide who you want to be in the world but more importantly: who you need to beat. When I cofounded […]",
+    "Confidence": 0.9609184
+  },
+  {
+    "Title": "Tono, actually – Olympia Time",
+    "Url": "https://olympiatime.com/2025/12/06/tono-actually/",
+    "Timestamp": "2025-12-10T01:02:55",
+    "Domain": "olympiatime.com",
+    "Description": "One of the historic rabbit holes I’m prone to falling down is the lost cities in Washington State. I don’t mean ghost towns, because some of them, like Tono in southern Thurston County, don’t exist at all anymore.",
+    "Confidence": 0.76624614
+  },
+  {
+    "Title": "No more tokens! Locking down npm Publish Workflows—zachleat.com",
+    "Url": "https://www.zachleat.com/web/npm-security/",
+    "Timestamp": "2025-12-10T01:02:51",
+    "Domain": "www.zachleat.com",
+    "Description": "A post by Zach Leatherman (zachleat)",
+    "Confidence": 0.99479204
+  },
+  {
+    "Title": "Private first, public when ready",
+    "Url": "https://www.ystrickler.com/the-galileo-method-private-first-public-when-ready/",
+    "Timestamp": "2025-12-10T01:02:47",
+    "Domain": "www.ystrickler.com",
+    "Description": "I recently read Galileo’s Dream by Kim Stanley Robinson, an exquisite historical science-fiction novel about the Italian scientist’s life. A central highlight is a story Galileo wrote in 1623 in his book The Assayer (one of the original diss tracks) that’s unlike anything he wrote before or",
+    "Confidence": 0.76543415
+  },
+  {
+    "Title": "Options Are Not Constraints",
+    "Url": "https://remy.duthu.org/2025/12/05/options-are-not-constraints.html",
+    "Timestamp": "2025-12-10T01:02:43",
+    "Domain": "remy.duthu.org",
+    "Description": "This short article is a gentle reminder to myself. Way too often, I see my options as constraints.",
+    "Confidence": 0.9245815
+  },
+  {
+    "Title": "Spending way too much time solving one problem",
+    "Url": "https://richclubb.github.io/blog/spending_way_too_much_time/",
+    "Timestamp": "2025-12-10T01:02:40",
+    "Domain": "richclubb.github.io",
+    "Description": "Bookmark this to keep an eye on my project updates!",
+    "Confidence": 0.99528575
+  },
+  {
+    "Title": "DHH & Open Source",
+    "Url": "https://ma.tt/2025/12/dhh-open-source/",
+    "Timestamp": "2025-12-10T01:02:36",
+    "Domain": "ma.tt",
+    "Description": "I might have a new prayer: God, give me confidence of DHH claiming his proprietary license is Open Source. 37signals/Basecamp has a great new product called Fizzy, whose brilliance and innovative q…",
+    "Confidence": 0.7811693
+  },
+  {
+    "Title": "Using E-Ink tablet as monitor for Linux - alavi.me",
+    "Url": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+    "Timestamp": "2025-12-10T01:02:33",
+    "Domain": "alavi.me",
+    "Description": "We will explore how we can use an Android E-ink tablet (or any tablet) as a monitor for Linux computer",
+    "Confidence": 0.9859186
+  },
+  {
+    "Title": "Morphisms All the Way Down: API Design as Arrow-First Thinking — Ibrahim Cesar",
+    "Url": "https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/",
+    "Timestamp": "2025-12-10T01:02:27",
+    "Domain": "ibrahimcesar.cloud",
+    "Description": "Stop designing services. Start designing contracts. Part 2 of applying category theory to Solutions Architecture—where we learn that the arrows, not the boxes, are the architecture.",
+    "Confidence": 0.9981889
+  },
+  {
     "Title": "10 Years of Let's Encrypt Certificates",
     "Url": "https://letsencrypt.org/2025/12/09/10-years",
     "Timestamp": "2025-12-09T22:02:12",
@@ -110,149 +302,5 @@
     "Domain": "blog.jim-nielsen.com",
     "Description": "Writing about the big beautiful mess that is making things for the world wide web.",
     "Confidence": 0.9856956
-  },
-  {
-    "Title": "All that matters is winning",
-    "Url": "https://www.ryanhoover.me/post/all-that-matters-is-winning",
-    "Timestamp": "2025-12-09T01:04:31",
-    "Domain": "www.ryanhoover.me",
-    "Description": "",
-    "Confidence": 0.8438093
-  },
-  {
-    "Title": "PostgreSQL and MongoDB: What Scaling Really Looks Like",
-    "Url": "https://stormatics.tech/blogs/postgresql-mongodb-and-what-cannot-scale-really-means",
-    "Timestamp": "2025-12-09T01:04:27",
-    "Domain": "stormatics.tech",
-    "Description": "How PostgreSQL scales in real-world systems, compared with MongoDB, and why true scalability depends on design and workloads, not headlines.",
-    "Confidence": 0.88535136
-  },
-  {
-    "Title": "i read more than i write",
-    "Url": "https://enombic.com/read-more-than-write",
-    "Timestamp": "2025-12-09T01:04:18",
-    "Domain": "enombic.com",
-    "Description": "we all consume. few create. ai trains on the minority.",
-    "Confidence": 0.9760238
-  },
-  {
-    "Title": "They have to be able to talk about us without us - Anil Dash",
-    "Url": "https://www.anildash.com/2025/12/05/talk-about-us-without-us/",
-    "Timestamp": "2025-12-09T01:04:15",
-    "Domain": "www.anildash.com",
-    "Description": "A blog about making culture. Since 1999.",
-    "Confidence": 0.96468174
-  },
-  {
-    "Title": "Satisficing for LLMs",
-    "Url": "https://www.alephic.com/writing/satisficing-for-llms",
-    "Timestamp": "2025-12-09T01:04:11",
-    "Domain": "www.alephic.com",
-    "Description": "By applying Herbert Simon’s concept of satisficing to AI, this post argues that language models might prefer logical‐sounding content over emotional appeals, mirroring human biases but inverted. It unveils a paradox: humans use emotion to decide rationally, while LLMs use pseudo‐rational style to appear helpful.",
-    "Confidence": 0.78013134
-  },
-  {
-    "Title": "The secure open source fallacy",
-    "Url": "https://ulveon.net/p/2025-12-03-the-secure-open-source-fallacy/",
-    "Timestamp": "2025-12-09T01:04:07",
-    "Domain": "ulveon.net",
-    "Description": "Most open source advocates, and many security professionals, often say things like “open source software is secure because you can just read the code”.\nThis argument assumes that the ability to read source code directly translates into the ability to understand, verify, and trust it, because you can see the files this software opens or the network sockets it listens on. You can see the kind of network data it sends, and the cryptography it uses.\n",
-    "Confidence": 0.9724006
-  },
-  {
-    "Title": "Jepsen: NATS 2.12.1",
-    "Url": "https://jepsen.io/analyses/nats-2.12.1",
-    "Timestamp": "2025-12-09T01:04:03",
-    "Domain": "jepsen.io",
-    "Description": "NATS is a distributed streaming system. Regular NATS streams offer only best-effort delivery, but a subsystem, called JetStream, guarantees messages are delivered at least once. We tested NATS JetStream, version 2.12.1, and found that it lost writes if data files were truncated or corrupted on a minority of nodes. We also found that coordinated power failures, or an OS crash on a single node combined with network delays or process pauses, can cause the loss of committed writes and persistent split-brain. This data loss was caused (at least in part) by choosing to flush writes to disk every two minutes, rather than before acknowledging them. We also include a belated note on data loss due to process crashes in version 2.10.22, which was fixed in 2.10.23. NATS has now documented the risk of its default fsync policy, and the remaining issues remain under investigation. This research was performed independently by Jepsen, without compensation, and conducted in accordance with the Jepsen ethics policy.",
-    "Confidence": 0.9320389
-  },
-  {
-    "Title": "Claude Diary",
-    "Url": "https://rlancemartin.github.io/2025/12/01/claude_diary/",
-    "Timestamp": "2025-12-09T01:03:59",
-    "Domain": "rlancemartin.github.io",
-    "Description": "Creating a memory system for Claude Code.",
-    "Confidence": 0.9884701
-  },
-  {
-    "Title": "John Ocen's",
-    "Url": "https://johnocens.com/soothfare/WeSolvedScalebutLostCohesion",
-    "Timestamp": "2025-12-09T01:03:56",
-    "Domain": "johnocens.com",
-    "Description": "Output is deliberate.",
-    "Confidence": 0.66520786
-  },
-  {
-    "Title": "History - 2100",
-    "Url": "https://lucasvance.github.io/2100/history/",
-    "Timestamp": "2025-12-09T01:03:52",
-    "Domain": "lucasvance.github.io",
-    "Description": "2100: Restoring the American Dream",
-    "Confidence": 0.5077828
-  },
-  {
-    "Title": "Multibase CLI",
-    "Url": "http://www.chriswarbo.net/blog/2025-12-07-multibase_cli.html",
-    "Timestamp": "2025-12-09T01:03:48",
-    "Domain": "www.chriswarbo.net",
-    "Description": "I recently pushed a few patches to the multiformats/rust-multibase\nproject to scratch my own itch, and I thought they would be useful to\ntalk about. In short, these changes do the following:",
-    "Confidence": 0.9934451
-  },
-  {
-    "Title": "NotARoomba",
-    "Url": "https://notaroomba.dev/simpleflightcontroller",
-    "Timestamp": "2025-12-09T01:03:42",
-    "Domain": "notaroomba.dev",
-    "Description": "",
-    "Confidence": 0.9972996
-  },
-  {
-    "Title": "Salt Bank Wants You to Gamble",
-    "Url": "https://michael-dev-tech.github.io/Website/salt.html",
-    "Timestamp": "2025-12-09T01:03:38",
-    "Domain": "michael-dev-tech.github.io",
-    "Description": "← Back to Home",
-    "Confidence": 0.7070735
-  },
-  {
-    "Title": "llm weights vs the papercuts of corporate",
-    "Url": "https://ghuntley.com/papercuts/",
-    "Timestamp": "2025-12-09T01:03:35",
-    "Domain": "ghuntley.com",
-    "Description": "In woodworking, there's a saying that you should work with the grain, not against the grain and I've been thinking about how this concept may apply to large language models.\n\nThese large language models are built by training on existing data. This data forms the backbone which creates output based",
-    "Confidence": 0.96999735
-  },
-  {
-    "Title": "Kinesis Advantage2 — Danish Prakash",
-    "Url": "https://danishpraka.sh/posts/kinesis-advantage2/",
-    "Timestamp": "2025-12-09T01:03:31",
-    "Domain": "danishpraka.sh",
-    "Description": "",
-    "Confidence": 0.9454265
-  },
-  {
-    "Title": "Deep Dive into NVIDIA's Virtuous Cycle",
-    "Url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
-    "Timestamp": "2025-12-09T01:03:28",
-    "Domain": "philippeoger.com",
-    "Description": "I’ve spent the last 48 hours completely falling down the rabbit hole of\nNVIDIA’s Q3 Fiscal 2026 earnings report. If\nyou just skim the headlines, everything looks perfect: Revenue is up 62% to $57\nbillion, and Jensen Huang is talking about a \"virtuous cycle of AI.\"",
-    "Confidence": 0.78219014
-  },
-  {
-    "Title": "Going direct: notes on Eli Lilly at a trillion",
-    "Url": "https://atelfo.github.io/2025/12/07/going-direct.html",
-    "Timestamp": "2025-12-09T01:03:24",
-    "Domain": "atelfo.github.io",
-    "Description": "Personal site for posts about my interests: the biotech industry, medicine, molecular biology, neuroscience, biorisk, science, consciousness, AI, innovation, decision making, philosophy, games, sci-fi, probability, and forecasting (among other things). I write to learn, mostly about biotech.",
-    "Confidence": 0.92629707
-  },
-  {
-    "Title": "Words That Make Language Models Perceive",
-    "Url": "https://www.sophielwang.com/sensory",
-    "Timestamp": "2025-12-09T01:02:46",
-    "Domain": "www.sophielwang.com",
-    "Description": "A simple cue like asking the model to 'see' or 'hear' can push a purely text-trained language model towards the representations of purely image-trained or purely-audio trained encoders.",
-    "Confidence": 0.75802153
   }
 ]

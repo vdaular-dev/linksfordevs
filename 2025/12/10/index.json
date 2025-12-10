@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "Title": "What I Learned Using Neon Postgres for a Week of Live Traffic",
+    "Url": "https://ishan.page/blog/dbms-neon/",
+    "Timestamp": "2025-12-10T01:03:56",
+    "Domain": "ishan.page",
+    "Description": "I recently built a SQL practice platform for my DBMS course at IITM BS Degree. About 50-100 students were hitting it simultaneously during peak exam prep. I chose Neon as the backend database, mostly because I was curious about their serverless Postgres offering. Here&rsquo;s what I learned after a week of actual traffic.\nLet me be clear about what this actually tested: student queries don&rsquo;t hit Neon at all. Those run in WASM on the client side (which I&rsquo;ll write about in Part 2 because that setup was wild)."
+  },
+  {
+    "Title": "I Don't Want to Be a Ping-Pong Ball Anymore | Tristan Isham",
+    "Url": "https://www.tristanisham.com/blog/i-dont-want-to-be-a-ping-pong-ball-anymore/",
+    "Timestamp": "2025-12-10T01:03:53",
+    "Domain": "www.tristanisham.com",
+    "Description": "The Pandemic made a job in journalism untennable, so I pivoted to software development. Now software development is becoming obsolete. Maybe a communications degree was the long play?"
+  },
+  {
+    "Title": "If You’re Going to Vibe Code, Why Not Do It in C?",
+    "Url": "https://stephenramsay.net/posts/vibe-coding.html",
+    "Timestamp": "2025-12-10T01:03:49",
+    "Domain": "stephenramsay.net",
+    "Description": "Stephen Ramsay"
+  },
+  {
+    "Title": "Engineers: Stop trying to win other people's game",
+    "Url": "https://www.anthonyputignano.com/p/the-western-front-advantage-how-junior",
+    "Timestamp": "2025-12-10T01:03:45",
+    "Domain": "www.anthonyputignano.com",
+    "Description": "Last week, I wrote about a category of softwares engineer companies should be seeking: masters of context— the people who know when to slam the gas, when to tap the brakes, and how to shift their entire approach without being asked."
+  },
+  {
+    "Title": "2026: The Last Year Before AGI",
+    "Url": "https://www.tenmas.tech/post/2026-the-last-year-before-agi-and-how-to-build-software-teams-that-survive-the-shift",
+    "Timestamp": "2025-12-10T01:03:40",
+    "Domain": "www.tenmas.tech",
+    "Description": "2026 could be the final “normal” year of software development. AI agents are accelerating, cost structures are collapsing, and engineering teams are being redesigned from the ground up. Winning teams will be smaller, faster, AI-powered, and globally distributed, especially across the U.S. and LATAM."
+  },
+  {
+    "Title": "Why Is Video Editing So Bad on Linux Compared to Windows with Camtasia? — Nick Janetakis",
+    "Url": "https://nickjanetakis.com/blog/why-is-video-editing-so-bad-on-linux-compared-to-windows-with-camtasia",
+    "Timestamp": "2025-12-10T01:03:36",
+    "Domain": "nickjanetakis.com",
+    "Description": "I recently tried Kdenlive, Shotcut, DaVinci Resolve, Blender and Lightworks on Linux. They're not even close to Camtasia."
+  },
+  {
+    "Title": "What is a Startup CTO?",
+    "Url": "https://www.kuril.in/blog/what-is-a-startup-cto/",
+    "Timestamp": "2025-12-10T01:03:32",
+    "Domain": "www.kuril.in",
+    "Description": "A candid look at what early-stage CTOs actually do, why many companies really need a founding engineer first, and how the role evolves as the startup scales."
+  },
+  {
+    "Title": "You need an #ideation channel",
+    "Url": "https://simedw.com/2025/12/09/ideation/",
+    "Timestamp": "2025-12-10T01:03:29",
+    "Domain": "simedw.com",
+    "Description": "How we do efficient company-wide ideation at V7."
+  },
+  {
+    "Title": "Notes on motivation",
+    "Url": "https://jeremyjaydan.au/notes-on-motivation/",
+    "Timestamp": "2025-12-10T01:03:25",
+    "Domain": "jeremyjaydan.au",
+    "Description": "26 November 2025 at 12:50PM"
+  },
+  {
+    "Title": "“I've failed 17 consecutive times with the exact same error”",
+    "Url": "https://blog.tonkotsu.ai/p/ive-failed-17-consecutive-times-with",
+    "Timestamp": "2025-12-10T01:03:22",
+    "Domain": "blog.tonkotsu.ai",
+    "Description": "That was the verbatim response from our agent as it attempted to execute a coding task."
+  },
+  {
+    "Title": "Productivity? Obsession!",
+    "Url": "https://www.rupokghosh.com/productivity-obsession",
+    "Timestamp": "2025-12-10T01:03:18",
+    "Domain": "www.rupokghosh.com",
+    "Description": "\nFor years, I have tried to repair myself with the usual techniques that everyone talks about. You know, like principles, habits, systems, yada yada.  ..."
+  },
+  {
+    "Title": "My App Will Harm You Physically, Using Math — Prolost",
+    "Url": "https://prolost.com/blog/drinkingbuddy",
+    "Timestamp": "2025-12-10T01:03:13",
+    "Domain": "prolost.com",
+    "Description": "I made an app! A real, native iPhone app coded in Swift and SwiftUI."
+  },
+  {
+    "Title": "Please, don't automate science!",
+    "Url": "http://togelius.blogspot.com/2025/12/please-dont-automate-science.html",
+    "Timestamp": "2025-12-10T01:03:09",
+    "Domain": "togelius.blogspot.com",
+    "Description": "I was at an event on AI for science yesterday, a panel discussion here at NeurIPS. The panelists discussed how they plan to replace humans a..."
+  },
+  {
+    "Title": "The Rise of the 0.1x Engineer",
+    "Url": "https://www.jerpint.io/blog/2025-12-08-01x-engineer/",
+    "Timestamp": "2025-12-10T01:03:05",
+    "Domain": "www.jerpint.io",
+    "Description": "The 0.1x engineers of the future will have to learn to trudge through the slop"
+  },
+  {
+    "Title": "When NOT to use Pydantic",
+    "Url": "https://ossa-ma.github.io/blog/when-not-to-use-pydantic",
+    "Timestamp": "2025-12-10T01:03:02",
+    "Domain": "ossa-ma.github.io",
+    "Description": "A dive into Pydantic performance and when to pick a different option."
+  },
+  {
+    "Title": "Building a startup marketing engine when you have nothing - Arnon Shimoni",
+    "Url": "https://arnon.dk/building-a-startup-marketing-engine-when-you-literally-have-nothing/",
+    "Timestamp": "2025-12-10T01:02:59",
+    "Domain": "arnon.dk",
+    "Description": "I think lots of founders misunderstand what early-stage marketing is. You don’t start when you get funding, or when you’re ready, or even when you hire your first marketing person – you start when you decide who you want to be in the world but more importantly: who you need to beat. When I cofounded […]"
+  },
+  {
+    "Title": "Tono, actually – Olympia Time",
+    "Url": "https://olympiatime.com/2025/12/06/tono-actually/",
+    "Timestamp": "2025-12-10T01:02:55",
+    "Domain": "olympiatime.com",
+    "Description": "One of the historic rabbit holes I’m prone to falling down is the lost cities in Washington State. I don’t mean ghost towns, because some of them, like Tono in southern Thurston County, don’t exist at all anymore."
+  },
+  {
+    "Title": "No more tokens! Locking down npm Publish Workflows—zachleat.com",
+    "Url": "https://www.zachleat.com/web/npm-security/",
+    "Timestamp": "2025-12-10T01:02:51",
+    "Domain": "www.zachleat.com",
+    "Description": "A post by Zach Leatherman (zachleat)"
+  },
+  {
+    "Title": "Private first, public when ready",
+    "Url": "https://www.ystrickler.com/the-galileo-method-private-first-public-when-ready/",
+    "Timestamp": "2025-12-10T01:02:47",
+    "Domain": "www.ystrickler.com",
+    "Description": "I recently read Galileo’s Dream by Kim Stanley Robinson, an exquisite historical science-fiction novel about the Italian scientist’s life. A central highlight is a story Galileo wrote in 1623 in his book The Assayer (one of the original diss tracks) that’s unlike anything he wrote before or"
+  },
+  {
+    "Title": "Options Are Not Constraints",
+    "Url": "https://remy.duthu.org/2025/12/05/options-are-not-constraints.html",
+    "Timestamp": "2025-12-10T01:02:43",
+    "Domain": "remy.duthu.org",
+    "Description": "This short article is a gentle reminder to myself. Way too often, I see my options as constraints."
+  },
+  {
+    "Title": "Spending way too much time solving one problem",
+    "Url": "https://richclubb.github.io/blog/spending_way_too_much_time/",
+    "Timestamp": "2025-12-10T01:02:40",
+    "Domain": "richclubb.github.io",
+    "Description": "Bookmark this to keep an eye on my project updates!"
+  },
+  {
+    "Title": "DHH & Open Source",
+    "Url": "https://ma.tt/2025/12/dhh-open-source/",
+    "Timestamp": "2025-12-10T01:02:36",
+    "Domain": "ma.tt",
+    "Description": "I might have a new prayer: God, give me confidence of DHH claiming his proprietary license is Open Source. 37signals/Basecamp has a great new product called Fizzy, whose brilliance and innovative q…"
+  },
+  {
+    "Title": "Using E-Ink tablet as monitor for Linux - alavi.me",
+    "Url": "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/",
+    "Timestamp": "2025-12-10T01:02:33",
+    "Domain": "alavi.me",
+    "Description": "We will explore how we can use an Android E-ink tablet (or any tablet) as a monitor for Linux computer"
+  },
+  {
+    "Title": "Morphisms All the Way Down: API Design as Arrow-First Thinking — Ibrahim Cesar",
+    "Url": "https://ibrahimcesar.cloud/blog/categorical-solutions-architect-part-2/",
+    "Timestamp": "2025-12-10T01:02:27",
+    "Domain": "ibrahimcesar.cloud",
+    "Description": "Stop designing services. Start designing contracts. Part 2 of applying category theory to Solutions Architecture—where we learn that the arrows, not the boxes, are the architecture."
+  }
+]
