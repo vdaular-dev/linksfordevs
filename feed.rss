@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The end of the kernel Rust experiment</title>
+      <link>https://lwn.net/Articles/1049831/</link>
+      <description>The topic of the Rust experiment was just discussed at the annual Maintainers Summit.  The cons [...]</description>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://lwn.net/Articles/1049831/</guid>
+      <pubDate>Wed, 10 Dec 2025 07:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Windows Post-Install Script Generator</title>
       <link>https://kaic.me/win-post-install/</link>
       <description>Automate your Windows setup with custom installation scripts. 200+ apps, 100+ system tweaks, all in your browser.</description>
