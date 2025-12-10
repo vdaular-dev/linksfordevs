@@ -7,6 +7,59 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building Games for Old Retro 1985 Hardware is fun!</title>
+      <link>https://youtube.com/watch?v=n5fBdYuIKqg</link>
+      <description>Ever wanted to code a game from scratch that runs on an old retro computer hardware from 1985 ? Challenge Accepted - This is my Work in Progress port of Zippy Race that runs on a standard Commodore Amiga A500 with the Original Chip Set (OCS) and just 512k/512k. In this episode I walk through how the port came to be and how I solved various challenges with the development of the game. I hope you enjoy!
+
+Sources/Links:
+
+https://www.youtube.com/watch?v=W7G-9J352lY
+https://www.youtube.com/watch?v=y1_gZAsiaw0
+https://www.youtube.com/watch?v=WRSEHmit7YM
+https://www.youtube.com/watch?v=Wd1p2UmoE-Y
+https://www.youtube.com/watch?v=Mb1xrYORwuY
+https://www.youtube.com/watch?v=JnkfnG9_yqk
+https://www.youtube.com/watch?v=LakPMXrHLs8
+https://www.youtube.com/watch?v=v9nD9DQwd80
+https://www.youtube.com/watch?v=RvcQ5FJTdxs
+https://www.youtube.com/watch?v=WZzTp3vSC0g
+https://github.com/BartmanAbyss/vscode-amiga-debug
+https://github.com/weiju/amiga_hardware_in_c
+https://codetapper.com/amiga/sprite-tricks/jim-power/
+https://eab.abime.net/showthread.php?t=121333
+
+TimeStamps:
+
+00:00 - Intro
+01:10 - Lets Make a game for the Amiga
+02:37 - Requirements
+03:17 - What Game Should I Make?
+04:23 - All About Zippy Race 
+06:03 - Development Environment 
+09:00 - Sprite Rendering
+10:23 - The power of the Amiga Blitter
+12:02 - Amiga Sprites/ Rendering the Motorcycle
+15:33 - Scrolling the Background
+20:38 - Building Tiles/Tilemaps
+21:44 - Rendering the HUD
+24:42 - Some more improvements
+23:50 - Outro
+
+Social Media Links :
+
+► X : https://x.com/ModernVintageG
+► TikTok : https://www.tiktok.com/@modernvintagegamer
+► Facebook : https://www.facebook.com/ModernVintageGamer
+► IG : https://www.instagram.com/modernvintagegamer/
+► BandCamp : https://modernvintagegamer.bandcamp.com/</description>
+      <author> (Modern Vintage Gamer)</author>
+      <category>vscode</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=n5fBdYuIKqg</guid>
+      <pubDate>Wed, 10 Dec 2025 10:01:27 GMT</pubDate>
+    </item>
+    <item>
       <title>The end of the kernel Rust experiment</title>
       <link>https://lwn.net/Articles/1049831/</link>
       <description>The topic of the Rust experiment was just discussed at the annual Maintainers Summit.  The cons [...]</description>

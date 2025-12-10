@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Building Games for Old Retro 1985 Hardware is fun!",
+    "Url": "https://youtube.com/watch?v=n5fBdYuIKqg",
+    "Timestamp": "2025-12-10T10:01:27",
+    "Domain": "youtube.com",
+    "Description": "Ever wanted to code a game from scratch that runs on an old retro computer hardware from 1985 ? Challenge Accepted - This is my Work in Progress port of Zippy Race that runs on a standard Commodore Amiga A500 with the Original Chip Set (OCS) and just 512k/512k. In this episode I walk through how the port came to be and how I solved various challenges with the development of the game. I hope you enjoy!\n\nSources/Links:\n\nhttps://www.youtube.com/watch?v=W7G-9J352lY\nhttps://www.youtube.com/watch?v=y1_gZAsiaw0\nhttps://www.youtube.com/watch?v=WRSEHmit7YM\nhttps://www.youtube.com/watch?v=Wd1p2UmoE-Y\nhttps://www.youtube.com/watch?v=Mb1xrYORwuY\nhttps://www.youtube.com/watch?v=JnkfnG9_yqk\nhttps://www.youtube.com/watch?v=LakPMXrHLs8\nhttps://www.youtube.com/watch?v=v9nD9DQwd80\nhttps://www.youtube.com/watch?v=RvcQ5FJTdxs\nhttps://www.youtube.com/watch?v=WZzTp3vSC0g\nhttps://github.com/BartmanAbyss/vscode-amiga-debug\nhttps://github.com/weiju/amiga_hardware_in_c\nhttps://codetapper.com/amiga/sprite-tricks/jim-power/\nhttps://eab.abime.net/showthread.php?t=121333\n\nTimeStamps:\n\n00:00 - Intro\n01:10 - Lets Make a game for the Amiga\n02:37 - Requirements\n03:17 - What Game Should I Make?\n04:23 - All About Zippy Race \n06:03 - Development Environment \n09:00 - Sprite Rendering\n10:23 - The power of the Amiga Blitter\n12:02 - Amiga Sprites/ Rendering the Motorcycle\n15:33 - Scrolling the Background\n20:38 - Building Tiles/Tilemaps\n21:44 - Rendering the HUD\n24:42 - Some more improvements\n23:50 - Outro\n\nSocial Media Links :\n\n► X : https://x.com/ModernVintageG\n► TikTok : https://www.tiktok.com/@modernvintagegamer\n► Facebook : https://www.facebook.com/ModernVintageGamer\n► IG : https://www.instagram.com/modernvintagegamer/\n► BandCamp : https://modernvintagegamer.bandcamp.com/",
+    "Confidence": 0.9958447
+  },
+  {
     "Title": "The end of the kernel Rust experiment",
     "Url": "https://lwn.net/Articles/1049831/",
     "Timestamp": "2025-12-10T07:02:07",
