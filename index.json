@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Size of Life",
+    "Url": "https://neal.fun/size-of-life/",
+    "Timestamp": "2025-12-10T18:02:07",
+    "Domain": "neal.fun",
+    "Description": "From an amoeba to a blue whale",
+    "Confidence": 0.85581213
+  },
+  {
     "Title": "Building Games for Old Retro 1985 Hardware is fun!",
     "Url": "https://youtube.com/watch?v=n5fBdYuIKqg",
     "Timestamp": "2025-12-10T10:01:27",
@@ -262,13 +270,5 @@
     "Domain": "mistral.ai",
     "Description": "State-of-the-art, open-source agentic coding models and CLI agent.",
     "Confidence": 0.9873525
-  },
-  {
-    "Title": "Hacker News",
-    "Url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
-    "Timestamp": "2025-12-09T18:02:05",
-    "Domain": "dosaygo-studio.github.io",
-    "Description": null,
-    "Confidence": 0.9738052
   }
 ]
