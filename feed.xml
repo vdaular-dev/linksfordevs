@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux</title>
+      <link>https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</link>
+      <description>Technically, the Steam Machine supports HDMI 2.1. However, Valve and AMD are not allowed to offer an open-source driver for it.</description>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</guid>
+      <pubDate>Wed, 10 Dec 2025 21:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Size of Life</title>
       <link>https://neal.fun/size-of-life/</link>
       <description>From an amoeba to a blue whale</description>
@@ -335,25 +344,6 @@ For years, I have tried to repair myself with the usual techniques that everyone
       <description>PeerTube is a tool for hosting, managing, and sharing videos or live streams.</description>
       <guid>https://www.digitalpublicgoods.net/r/peertube</guid>
       <pubDate>Tue, 09 Dec 2025 22:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meet Pebble Index 01 - External Memory For Your Brain</title>
-      <link>https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain</link>
-      <description>Meet Pebble Index 01 - External Memory For Your Brain</description>
-      <category>android</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain</guid>
-      <pubDate>Tue, 09 Dec 2025 21:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bruno Simon</title>
-      <link>https://bruno-simon.com/</link>
-      <description>Bruno Simon's creative portfolio</description>
-      <category>javascript</category>
-      <category>youtube</category>
-      <guid>https://bruno-simon.com/</guid>
-      <pubDate>Tue, 09 Dec 2025 21:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

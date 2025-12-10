@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+    "Url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+    "Timestamp": "2025-12-10T21:02:31",
+    "Domain": "www.heise.de",
+    "Description": "Technically, the Steam Machine supports HDMI 2.1. However, Valve and AMD are not allowed to offer an open-source driver for it.",
+    "Confidence": 0.9125241
+  },
+  {
     "Title": "Size of Life",
     "Url": "https://neal.fun/size-of-life/",
     "Timestamp": "2025-12-10T18:02:07",
@@ -246,21 +254,5 @@
     "Domain": "www.digitalpublicgoods.net",
     "Description": "PeerTube is a tool for hosting, managing, and sharing videos or live streams.",
     "Confidence": 0.6480555
-  },
-  {
-    "Title": "Meet Pebble Index 01 - External Memory For Your Brain",
-    "Url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
-    "Timestamp": "2025-12-09T21:02:10",
-    "Domain": "repebble.com",
-    "Description": "Meet Pebble Index 01 - External Memory For Your Brain",
-    "Confidence": 0.9903097
-  },
-  {
-    "Title": "Bruno Simon",
-    "Url": "https://bruno-simon.com/",
-    "Timestamp": "2025-12-09T21:02:05",
-    "Domain": "bruno-simon.com",
-    "Description": "Bruno Simon's creative portfolio",
-    "Confidence": 0.99584436
   }
 ]
