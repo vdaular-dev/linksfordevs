@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Windows Post-Install Script Generator</title>
+      <link>https://kaic.me/win-post-install/</link>
+      <description>Automate your Windows setup with custom installation scripts. 200+ apps, 100+ system tweaks, all in your browser.</description>
+      <category>gaming</category>
+      <category>visualstudio</category>
+      <category>typescript</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://kaic.me/win-post-install/</guid>
+      <pubDate>Wed, 10 Dec 2025 02:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>What I Learned Using Neon Postgres for a Week of Live Traffic</title>
       <link>https://ishan.page/blog/dbms-neon/</link>
       <description>I recently built a SQL practice platform for my DBMS course at IITM BS Degree. About 50-100 students were hitting it simultaneously during peak exam prep. I chose Neon as the backend database, mostly because I was curious about their serverless Postgres offering. Here&amp;rsquo;s what I learned after a week of actual traffic.
