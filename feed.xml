@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building a High-End AI Desktop</title>
+      <link>https://dnhkng.github.io/posts/hopper/</link>
+      <description>ML, Biotech, Hardware, and Coordination Problems. Sometimes I write about hard problems and how to solve them.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://dnhkng.github.io/posts/hopper/</guid>
+      <pubDate>Thu, 11 Dec 2025 06:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Getting a Gemini API key is an exercise in frustration — Ankur Sethi's Internet Website</title>
       <link>https://ankursethi.com/blog/gemini-api-key-frustration/</link>
       <description>Last week, I started working on a new side-project. It’s a standard React app partly made up of run-of-the-mill CRUD views—a perfect fit for LLM-assisted programming. I reasoned that if I could get an LLM to quickly write the boring code for me, I’d have more time to focus on the interesting problems I wanted to solve.</description>
