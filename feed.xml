@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Auto-grading decade-old Hacker News discussions with hindsight</title>
+      <link>https://karpathy.bearblog.dev/auto-grade-hn/</link>
+      <description>A vibe coding thought exercise on what it might look like for LLMs to scour human historical data at scale and in retrospect.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://karpathy.bearblog.dev/auto-grade-hn/</guid>
+      <pubDate>Thu, 11 Dec 2025 00:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Simple Network Communications in Docker Without Compose | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2025/12/simple-network-communications-in-docker-without-compose/</link>
       <description>Here is a simple example showing how to connect two applications running in Docker</description>
