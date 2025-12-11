@@ -1,5 +1,110 @@
 [
   {
+    "Title": "I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!",
+    "Url": "https://manthanguptaa.in/posts/chatgpt_memory/",
+    "Timestamp": "2025-12-11T01:03:08",
+    "Domain": "manthanguptaa.in",
+    "Description": "When I asked ChatGPT what it remembered about me, it listed 33 facts from my name and career goals to my current fitness routine. But how does it actually store and retrieve this information? And why does it feel so seamless?\nAfter extensive experimentation, I discovered that ChatGPT’s memory system is far simpler than I expected. No vector databases. No RAG over conversation history. Instead, it uses four distinct layers: session metadata that adapts to your environment, explicit facts stored long-term, lightweight summaries of recent chats, and a sliding window of your current conversation."
+  },
+  {
+    "Title": "How I discovered pigeons sabotaging my project with Aiven Free-Tier Kafka",
+    "Url": "https://hughevans.dev/how-i-discovered-pigeons-sabotaging-my-project-with-aiven-free-tier-kafka/",
+    "Timestamp": "2025-12-11T01:03:04",
+    "Domain": "hughevans.dev",
+    "Description": "How I used Aiven's free Kafka tier to monitor my smart bird feeder in real-time"
+  },
+  {
+    "Title": "The Marvel of SIM Cards",
+    "Url": "https://nelkinda.com/blog/the-marvel-of-sim-cards/",
+    "Timestamp": "2025-12-11T01:03:00",
+    "Domain": "nelkinda.com",
+    "Description": "SIM cards are a marvel of software engineering"
+  },
+  {
+    "Title": "We should live forever.",
+    "Url": "https://stas.love/e/forever.html",
+    "Timestamp": "2025-12-11T01:02:53",
+    "Domain": "stas.love",
+    "Description": "I feel deep resentment whenever I read or hear someone saying that life is only meaningful because we are mortal. It is probably the most profound thought I disagree with."
+  },
+  {
+    "Title": "Why I’m Fascinated by Package Management",
+    "Url": "https://nesbitt.io/2025/12/09/why-im-fascinated-by-package-management.html",
+    "Timestamp": "2025-12-11T01:02:49",
+    "Domain": "nesbitt.io",
+    "Description": "From gaming magazine CDs to dependency graphs"
+  },
+  {
+    "Title": "It's cheaper to buy a new printer every month",
+    "Url": "https://idiallo.com/byte-size/cheaper-to-buy-a-new-printer-every-month",
+    "Timestamp": "2025-12-11T01:02:46",
+    "Domain": "idiallo.com",
+    "Description": "It's the holiday season. My kids are doing all sorts of projects at school, this means we are doing a whole lot of printing. So I went online to look for the ink cartridge for our printer. I typed the printer name and model because who knows the ink cartridge number? I found our printer. And to my surprise, the printer only costs $64."
+  },
+  {
+    "Title": "Ode to my Office Lethargy",
+    "Url": "http://andersource.dev/2025/02/02/ode-to-my-office-lethargy.html",
+    "Timestamp": "2025-12-11T01:02:42",
+    "Domain": "andersource.dev",
+    "Description": "Experiments and musings"
+  },
+  {
+    "Title": "Exposing Hidden information in LLMs with Contrastive Decoding",
+    "Url": "https://rosmine.ai/2025/12/10/a-new-test-for-if-your-llm-is-subtly-manipulating-you/",
+    "Timestamp": "2025-12-11T01:02:38",
+    "Domain": "rosmine.ai",
+    "Description": "Explore how Contrastive Decoding uncovers hidden information in LLMs and highlights suppression techniques with practical applications."
+  },
+  {
+    "Title": "Why AGI Will Not Happen — Tim Dettmers",
+    "Url": "https://timdettmers.com/2025/12/10/why-agi-will-not-happen/",
+    "Timestamp": "2025-12-11T01:02:35",
+    "Domain": "timdettmers.com",
+    "Description": "If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]"
+  },
+  {
+    "Title": "I Wish People Were More Public",
+    "Url": "https://borretti.me/article/i-wish-people-were-more-public",
+    "Timestamp": "2025-12-11T01:02:31",
+    "Domain": "borretti.me",
+    "Description": "On sharing more of yourself."
+  },
+  {
+    "Title": "Troubleshooting TLS handshake failures with Docker distroless images",
+    "Url": "https://lucabaggi.com/posts/ssl-docker/",
+    "Timestamp": "2025-12-11T01:02:28",
+    "Domain": "lucabaggi.com",
+    "Description": ""
+  },
+  {
+    "Title": "RAG Isn’t a Vector Search Problem",
+    "Url": "https://softwaredoug.com/blog/2025/12/09/rag-users-want-affordances-not-vectors.html",
+    "Timestamp": "2025-12-11T01:02:25",
+    "Domain": "softwaredoug.com",
+    "Description": "Through market forces, embeddings became the singular framework we understood RAG. It’s the wrong lens to think about the problem"
+  },
+  {
+    "Title": "I miss the old Qasar, not the new Qasar",
+    "Url": "https://qy.co/writings/newqasar/",
+    "Timestamp": "2025-12-11T01:02:21",
+    "Domain": "qy.co",
+    "Description": "After many years of railing against going on X, I’m finally pulling the band-aid and getting on the platform."
+  },
+  {
+    "Title": "Unrolling loops — Matt Godbolt’s blog",
+    "Url": "https://xania.org/202512/10-loop-unrolling",
+    "Timestamp": "2025-12-11T01:02:17",
+    "Domain": "xania.org",
+    "Description": "Learning when the compiler decides to unroll loops for performance"
+  },
+  {
+    "Title": "Taking linked notes with Vimwiki and integrating it with Forgejo wikis",
+    "Url": "https://tzovar.as/linked-notes-with-vimwiki/",
+    "Timestamp": "2025-12-11T01:02:10",
+    "Domain": "tzovar.as",
+    "Description": "A couple of days ago, I stumbled over a Mastodon post by @johl, in which he shared vimwiki as his approach for taking notes in vim. Which immediately piqued my interest, as I have so far been just taking my notes in plain vim without a way of linking them...."
+  },
+  {
     "Title": "Auto-grading decade-old Hacker News discussions with hindsight",
     "Url": "https://karpathy.bearblog.dev/auto-grade-hn/",
     "Timestamp": "2025-12-11T00:02:01",
