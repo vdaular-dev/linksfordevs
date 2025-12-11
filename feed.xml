@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Deprecations via warnings don’t work for Python libraries</title>
+      <link>https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries</link>
+      <description>Last week urllib3 v2.6.0 was released which contained removals for
+several APIs that we've known were problematic since 2019 and
+have been deprecated since 2022. The deprecations
+were marked in the...</description>
+      <category>encryption</category>
+      <category>python</category>
+      <category>containers</category>
+      <guid>https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries</guid>
+      <pubDate>Thu, 11 Dec 2025 21:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing GPT-5.2</title>
       <link>https://openai.com/index/introducing-gpt-5-2/</link>
       <description>The most advanced frontier model for professional work and long-running agents.</description>
@@ -232,15 +245,6 @@ After extensive experimentation, I discovered that ChatGPT’s memory system is 
       <category>containers</category>
       <guid>https://nodogmablog.bryanhogan.net/2025/12/simple-network-communications-in-docker-without-compose/</guid>
       <pubDate>Wed, 10 Dec 2025 22:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux</title>
-      <link>https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</link>
-      <description>Technically, the Steam Machine supports HDMI 2.1. However, Valve and AMD are not allowed to offer an open-source driver for it.</description>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html</guid>
-      <pubDate>Wed, 10 Dec 2025 21:02:31 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Deprecations via warnings don’t work for Python libraries",
+    "Url": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
+    "Timestamp": "2025-12-11T21:02:09",
+    "Domain": "sethmlarson.dev",
+    "Description": "Last week urllib3 v2.6.0 was released which contained removals for\nseveral APIs that we've known were problematic since 2019 and\nhave been deprecated since 2022. The deprecations\nwere marked in the...",
+    "Confidence": 0.96090764
+  },
+  {
     "Title": "Introducing GPT-5.2",
     "Url": "https://openai.com/index/introducing-gpt-5-2/",
     "Timestamp": "2025-12-11T20:02:10",
@@ -182,13 +190,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "Here is a simple example showing how to connect two applications running in Docker",
     "Confidence": 0.9982522
-  },
-  {
-    "Title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-    "Url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
-    "Timestamp": "2025-12-10T21:02:31",
-    "Domain": "www.heise.de",
-    "Description": "Technically, the Steam Machine supports HDMI 2.1. However, Valve and AMD are not allowed to offer an open-source driver for it.",
-    "Confidence": 0.9125241
   }
 ]

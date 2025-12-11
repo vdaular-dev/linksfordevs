@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Deprecations via warnings don’t work for Python libraries",
+    "Url": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
+    "Timestamp": "2025-12-11T21:02:09",
+    "Domain": "sethmlarson.dev",
+    "Description": "Last week urllib3 v2.6.0 was released which contained removals for\nseveral APIs that we've known were problematic since 2019 and\nhave been deprecated since 2022. The deprecations\nwere marked in the..."
+  },
+  {
     "Title": "Introducing GPT-5.2",
     "Url": "https://openai.com/index/introducing-gpt-5-2/",
     "Timestamp": "2025-12-11T20:02:10",
