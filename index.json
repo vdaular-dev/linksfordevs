@@ -1,5 +1,13 @@
 [
   {
+    "Title": "SQLite JSON Superpower: Virtual Columns + Indexing - DB Pro Blog",
+    "Url": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
+    "Timestamp": "2025-12-12T21:02:03",
+    "Domain": "www.dbpro.app",
+    "Description": "One of the coolest patterns in SQLite—store raw JSON documents, create virtual generated columns using json_extract, add indexes, and query JSON at full B-tree index speed.",
+    "Confidence": 0.99251825
+  },
+  {
     "Title": "AI Can Write Your Code. It Can’t Do Your Job.",
     "Url": "https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/",
     "Timestamp": "2025-12-12T18:01:54",
@@ -190,13 +198,5 @@
     "Domain": "quamserena.com",
     "Description": "I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com.",
     "Confidence": 0.99388325
-  },
-  {
-    "Title": "Deprecations via warnings don’t work for Python libraries",
-    "Url": "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries",
-    "Timestamp": "2025-12-11T21:02:09",
-    "Domain": "sethmlarson.dev",
-    "Description": "Last week urllib3 v2.6.0 was released which contained removals for\nseveral APIs that we've known were problematic since 2019 and\nhave been deprecated since 2022. The deprecations\nwere marked in the...",
-    "Confidence": 0.96090764
   }
 ]

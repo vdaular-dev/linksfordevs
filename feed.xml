@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>SQLite JSON Superpower: Virtual Columns + Indexing - DB Pro Blog</title>
+      <link>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</link>
+      <description>One of the coolest patterns in SQLite—store raw JSON documents, create virtual generated columns using json_extract, add indexes, and query JSON at full B-tree index speed.</description>
+      <author> (Jay Freeman)</author>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</guid>
+      <pubDate>Fri, 12 Dec 2025 21:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Can Write Your Code. It Can’t Do Your Job.</title>
       <link>https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/</link>
       <description>The companies building AI are spending billions to acquire engineers, not replace them. Here’s why your job is safer than you think.</description>
@@ -243,19 +253,6 @@ I have since migrated to  (you ar...</description>
       <category>web</category>
       <guid>https://quamserena.com/2025-12-10/my-experience-with-lean-4-for-general-programming</guid>
       <pubDate>Fri, 12 Dec 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deprecations via warnings don’t work for Python libraries</title>
-      <link>https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries</link>
-      <description>Last week urllib3 v2.6.0 was released which contained removals for
-several APIs that we've known were problematic since 2019 and
-have been deprecated since 2022. The deprecations
-were marked in the...</description>
-      <category>encryption</category>
-      <category>python</category>
-      <category>containers</category>
-      <guid>https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries</guid>
-      <pubDate>Thu, 11 Dec 2025 21:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
