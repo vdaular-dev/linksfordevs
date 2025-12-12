@@ -7,6 +7,164 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Making Rails Global IDs safer</title>
+      <link>https://blog.julik.nl/2025/12/a-trap-with-global-ids</link>
+      <description>The new LLM world is very exciting, and I try to experiment with the new tools when I can. This includes building agentic applications, one of which is my personal accounting and invoicing tool - that I wrote about previously As part of that effort I started experimenting with RubyLLM to have some view into items in my system. And while I have used a neat pattern for referencing objects in the application from the tool calls - the Rails Global ID system - it turned out to be quite treacherous. So, let’s have a look at where GlobalID may bite you, and examine alternatives and tweaks we can do. What are Rails GIDs? The Rails global IDs (“GIDs”) are string handles to a particular model in a Rails application. Think of it like a model URL. They usually have the form of gid://awesome-app/Post/32. That comprises: The name of your app (roughly what you passed in when doing rails new) The class name of the model The primary key of the model You can grab a model in your application and get a global ID for it: moneymaker(dev):001&gt; Invoice.last.to_global_id Invoice Load (0.3ms) SELECT "invoices".* FROM "invoices" ORDER BY "invoices"."id" DESC LIMIT 1 /*application='Moneymaker'*/ =&gt; #&lt;GlobalID:0x00000001415978a0 @uri=#&lt;URI::GID gid://moneymaker/Invoice/161&gt;&gt; Rails uses those GIDs primarily in ActiveJob serialization. When you do DebitFundsJob.perform_later(customer) where the customer is your Customer model object which is stored in the DB, ActiveJob won’t serialize its attributes but instead serialize it as a “handle” - the global ID. When your job gets deserialized from the queue, the global ID is going to get resolved into a SELECT and your perform method will get the resulting Customer model as argument. All very neat. And dangerous, sometimes - once LLMs become involved.</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.julik.nl/2025/12/a-trap-with-global-ids</guid>
+      <pubDate>Fri, 12 Dec 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>DataPortal: Empowering Everyone to Build and Manage Code-Free Data Pipelines</title>
+      <link>https://blog.zeptonow.com/dataportal-empowering-everyone-to-build-and-manage-code-free-data-pipelines-fe017fb09bb1</link>
+      <description>In today’s fast-paced, data-driven world, teams spend far too much time manually building pipelines, managing access, and integrating data…</description>
+      <author> (https://medium.com/@mohitkundu1212)</author>
+      <category>sql</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://blog.zeptonow.com/dataportal-empowering-everyone-to-build-and-manage-code-free-data-pipelines-fe017fb09bb1</guid>
+      <pubDate>Fri, 12 Dec 2025 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>AcroByte - Acronym word game</title>
+      <link>https://blog.gametje.com/posts/2025-11-30/</link>
+      <description>This “new” game has a special place in my heart. It’s a re-imagining of a game I played all the time in high school back in the early 2000s. Late nights spent with friends pre-cable internet. Using our AOL connections and firing up Acrophobia. Making inside jokes and coming up with clever acronyms to make each other laugh (and hopefully score points too!). I actually wrote a version of this back in 2017 as part of my prototypes that came before Gametje. This one is luckily far more polished visually and with proper gameplay mechanics. Meet AcroByte:</description>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://blog.gametje.com/posts/2025-11-30/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debugging Strange CALayers in ChatGPT</title>
+      <link>https://oskargroth.com/blog/debugging-strange-calayers-chatgpt</link>
+      <description>Debugging upside-down text in ChatGPT.app: a race condition where addSubview() connects the view hierarchy before Core Animation's layer tree settles.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>vscode</category>
+      <guid>https://oskargroth.com/blog/debugging-strange-calayers-chatgpt</guid>
+      <pubDate>Fri, 12 Dec 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setting up distributed compilations with sccache – David Edmundson's Web Log</title>
+      <link>https://blog.davidedmundson.co.uk/blog/setting-up-distributed-compilations-with-sccache/</link>
+      <description>I hate waiting for compilations. For day-to-day it may only be a minute or two, but once you start doing another task, the context switching distracts from what you were doing before and breaks everything up. Life is too short to be waiting for computers.</description>
+      <category>containers</category>
+      <category>linux</category>
+      <guid>https://blog.davidedmundson.co.uk/blog/setting-up-distributed-compilations-with-sccache/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Responding to "The highest quality codebase" - Spencer Schneidenbach</title>
+      <link>https://schneidenba.ch/responding-to-the-highest-quality-codebase/</link>
+      <description>Responding to "The highest quality codebase"</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://schneidenba.ch/responding-to-the-highest-quality-codebase/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Small Plates</title>
+      <link>https://alexlance.blog/tagging.html</link>
+      <description>← back</description>
+      <category>linux</category>
+      <category>sql</category>
+      <guid>https://alexlance.blog/tagging.html</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perl Advent Calendar 2025 - Teaching Art to Computers the Hard Way</title>
+      <link>https://perladvent.org/2025/2025-12-11.html</link>
+      <description>I was told this over and over growing up as a kid. "Your mind doesn't work that way," being the rationale for this. Teachers, if you are reading this, NEVER tell a kid that. Seriously. I believed it for nearly a half-century, then wrote my first novel, and later painted my first-ever oil painting. Anyone can do art of some kind.</description>
+      <category>python</category>
+      <guid>https://perladvent.org/2025/2025-12-11.html</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nokia N900 Necromancy</title>
+      <link>https://yaky.dev/2025-12-11-nokia-n900-necromancy/</link>
+      <description>Building a fake battery, adding a USB-C port, booting from SD card, and giving a new life to a classic Linux smartphone.</description>
+      <category>linux</category>
+      <guid>https://yaky.dev/2025-12-11-nokia-n900-necromancy/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Favorite Self-Hosted Apps Launched in 2025</title>
+      <link>https://selfh.st/post/2025-favorite-new-apps/</link>
+      <description>A look back at some of my favorite self-hosted software and applications released in 2025</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>linux</category>
+      <guid>https://selfh.st/post/2025-favorite-new-apps/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redesigning should be done carefully • Milovan Jovičić, Product Designer</title>
+      <link>https://mikajovicic.com/writing/the-myth-of-big-redesign/</link>
+      <description>September 3, 1967 was the day every Swedish driver had to relearn how to drive. Here is how the streets looked on the day when Sweden switched from driving on the left side of the road to the right side of the road:</description>
+      <guid>https://mikajovicic.com/writing/the-myth-of-big-redesign/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maria Solano - My code editor</title>
+      <link>https://www.mariasolos.com/posts/my-code-editor/</link>
+      <description>I can quit it, but I do not want to</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://www.mariasolos.com/posts/my-code-editor/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why are my view transitions blinking?</title>
+      <link>https://piccalil.li/blog/why-are-my-view-transitions-blinking/</link>
+      <description>Miguel had been battling an annoying blinking with his view transitions and found the root cause. He’s sharing his learning in this article so you don’t fall into the same trap!</description>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://piccalil.li/blog/why-are-my-view-transitions-blinking/</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2 Review: Incredibly Impressive, But Too Slow</title>
+      <link>https://shumer.dev/gpt52review</link>
+      <description>Hands-on GPT-5.2 review: better instruction following and codegen, Pro is a slow genius, but Thinking is too slow to compete with other models of similar intelligence.</description>
+      <author> (Matt Shumer)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://shumer.dev/gpt52review</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finding broken migrations with Bisect</title>
+      <link>https://iain.rocks/blog/2025/12/11/finding-broken-migrations-with-bisect</link>
+      <description>The technical musings of Iain Cambridge.</description>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://iain.rocks/blog/2025/12/11/finding-broken-migrations-with-bisect</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>My experience with Lean 4 for general programming</title>
+      <link>https://quamserena.com/2025-12-10/my-experience-with-lean-4-for-general-programming</link>
+      <description>I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com.</description>
+      <category>rust</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://quamserena.com/2025-12-10/my-experience-with-lean-4-for-general-programming</guid>
+      <pubDate>Fri, 12 Dec 2025 01:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Deprecations via warnings don’t work for Python libraries</title>
       <link>https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries</link>
       <description>Last week urllib3 v2.6.0 was released which contained removals for
@@ -96,138 +254,6 @@ Check out my Uses page for my VS Code setup, what recording equipment I use, etc
       <category>javascript</category>
       <guid>https://xkcd.com/3179/</guid>
       <pubDate>Thu, 11 Dec 2025 03:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!</title>
-      <link>https://manthanguptaa.in/posts/chatgpt_memory/</link>
-      <description>When I asked ChatGPT what it remembered about me, it listed 33 facts from my name and career goals to my current fitness routine. But how does it actually store and retrieve this information? And why does it feel so seamless?
-After extensive experimentation, I discovered that ChatGPT’s memory system is far simpler than I expected. No vector databases. No RAG over conversation history. Instead, it uses four distinct layers: session metadata that adapts to your environment, explicit facts stored long-term, lightweight summaries of recent chats, and a sliding window of your current conversation.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://manthanguptaa.in/posts/chatgpt_memory/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I discovered pigeons sabotaging my project with Aiven Free-Tier Kafka</title>
-      <link>https://hughevans.dev/how-i-discovered-pigeons-sabotaging-my-project-with-aiven-free-tier-kafka/</link>
-      <description>How I used Aiven's free Kafka tier to monitor my smart bird feeder in real-time</description>
-      <category>nodejs</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://hughevans.dev/how-i-discovered-pigeons-sabotaging-my-project-with-aiven-free-tier-kafka/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Marvel of SIM Cards</title>
-      <link>https://nelkinda.com/blog/the-marvel-of-sim-cards/</link>
-      <description>SIM cards are a marvel of software engineering</description>
-      <category>encryption</category>
-      <guid>https://nelkinda.com/blog/the-marvel-of-sim-cards/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>We should live forever.</title>
-      <link>https://stas.love/e/forever.html</link>
-      <description>I feel deep resentment whenever I read or hear someone saying that life is only meaningful because we are mortal. It is probably the most profound thought I disagree with.</description>
-      <category>web</category>
-      <guid>https://stas.love/e/forever.html</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I’m Fascinated by Package Management</title>
-      <link>https://nesbitt.io/2025/12/09/why-im-fascinated-by-package-management.html</link>
-      <description>From gaming magazine CDs to dependency graphs</description>
-      <category>ruby</category>
-      <category>nodejs</category>
-      <category>containers</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://nesbitt.io/2025/12/09/why-im-fascinated-by-package-management.html</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>It's cheaper to buy a new printer every month</title>
-      <link>https://idiallo.com/byte-size/cheaper-to-buy-a-new-printer-every-month</link>
-      <description>It's the holiday season. My kids are doing all sorts of projects at school, this means we are doing a whole lot of printing. So I went online to look for the ink cartridge for our printer. I typed the printer name and model because who knows the ink cartridge number? I found our printer. And to my surprise, the printer only costs $64.</description>
-      <guid>https://idiallo.com/byte-size/cheaper-to-buy-a-new-printer-every-month</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ode to my Office Lethargy</title>
-      <link>http://andersource.dev/2025/02/02/ode-to-my-office-lethargy.html</link>
-      <description>Experiments and musings</description>
-      <category>ai</category>
-      <guid>http://andersource.dev/2025/02/02/ode-to-my-office-lethargy.html</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exposing Hidden information in LLMs with Contrastive Decoding</title>
-      <link>https://rosmine.ai/2025/12/10/a-new-test-for-if-your-llm-is-subtly-manipulating-you/</link>
-      <description>Explore how Contrastive Decoding uncovers hidden information in LLMs and highlights suppression techniques with practical applications.</description>
-      <category>ai</category>
-      <guid>https://rosmine.ai/2025/12/10/a-new-test-for-if-your-llm-is-subtly-manipulating-you/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why AGI Will Not Happen — Tim Dettmers</title>
-      <link>https://timdettmers.com/2025/12/10/why-agi-will-not-happen/</link>
-      <description>If you are reading this, you probably have strong opinions about AGI, superintelligence, and the future of AI. Maybe you believe we are on the cusp of a transformative breakthrough. Maybe you are skeptical. This blog post is for those who want to think more carefully about these claims and examine them from a perspective […]</description>
-      <category>ai</category>
-      <guid>https://timdettmers.com/2025/12/10/why-agi-will-not-happen/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Wish People Were More Public</title>
-      <link>https://borretti.me/article/i-wish-people-were-more-public</link>
-      <description>On sharing more of yourself.</description>
-      <category>git</category>
-      <category>sql</category>
-      <category>linux</category>
-      <guid>https://borretti.me/article/i-wish-people-were-more-public</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troubleshooting TLS handshake failures with Docker distroless images</title>
-      <link>https://lucabaggi.com/posts/ssl-docker/</link>
-      <description></description>
-      <category>containers</category>
-      <category>encryption</category>
-      <guid>https://lucabaggi.com/posts/ssl-docker/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAG Isn’t a Vector Search Problem</title>
-      <link>https://softwaredoug.com/blog/2025/12/09/rag-users-want-affordances-not-vectors.html</link>
-      <description>Through market forces, embeddings became the singular framework we understood RAG. It’s the wrong lens to think about the problem</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://softwaredoug.com/blog/2025/12/09/rag-users-want-affordances-not-vectors.html</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>I miss the old Qasar, not the new Qasar</title>
-      <link>https://qy.co/writings/newqasar/</link>
-      <description>After many years of railing against going on X, I’m finally pulling the band-aid and getting on the platform.</description>
-      <category>ai</category>
-      <guid>https://qy.co/writings/newqasar/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unrolling loops — Matt Godbolt’s blog</title>
-      <link>https://xania.org/202512/10-loop-unrolling</link>
-      <description>Learning when the compiler decides to unroll loops for performance</description>
-      <guid>https://xania.org/202512/10-loop-unrolling</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Taking linked notes with Vimwiki and integrating it with Forgejo wikis</title>
-      <link>https://tzovar.as/linked-notes-with-vimwiki/</link>
-      <description>A couple of days ago, I stumbled over a Mastodon post by @johl, in which he shared vimwiki as his approach for taking notes in vim. Which immediately piqued my interest, as I have so far been just taking my notes in plain vim without a way of linking them....</description>
-      <category>git</category>
-      <category>python</category>
-      <category>web</category>
-      <guid>https://tzovar.as/linked-notes-with-vimwiki/</guid>
-      <pubDate>Thu, 11 Dec 2025 01:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

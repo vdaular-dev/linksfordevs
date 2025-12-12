@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "Title": "Making Rails Global IDs safer",
+    "Url": "https://blog.julik.nl/2025/12/a-trap-with-global-ids",
+    "Timestamp": "2025-12-12T01:03:13",
+    "Domain": "blog.julik.nl",
+    "Description": "The new LLM world is very exciting, and I try to experiment with the new tools when I can. This includes building agentic applications, one of which is my personal accounting and invoicing tool - that I wrote about previously As part of that effort I started experimenting with RubyLLM to have some view into items in my system. And while I have used a neat pattern for referencing objects in the application from the tool calls - the Rails Global ID system - it turned out to be quite treacherous. So, let’s have a look at where GlobalID may bite you, and examine alternatives and tweaks we can do. What are Rails GIDs? The Rails global IDs (“GIDs”) are string handles to a particular model in a Rails application. Think of it like a model URL. They usually have the form of gid://awesome-app/Post/32. That comprises: The name of your app (roughly what you passed in when doing rails new) The class name of the model The primary key of the model You can grab a model in your application and get a global ID for it: moneymaker(dev):001> Invoice.last.to_global_id Invoice Load (0.3ms) SELECT \"invoices\".* FROM \"invoices\" ORDER BY \"invoices\".\"id\" DESC LIMIT 1 /*application='Moneymaker'*/ => #<GlobalID:0x00000001415978a0 @uri=#<URI::GID gid://moneymaker/Invoice/161>> Rails uses those GIDs primarily in ActiveJob serialization. When you do DebitFundsJob.perform_later(customer) where the customer is your Customer model object which is stored in the DB, ActiveJob won’t serialize its attributes but instead serialize it as a “handle” - the global ID. When your job gets deserialized from the queue, the global ID is going to get resolved into a SELECT and your perform method will get the resulting Customer model as argument. All very neat. And dangerous, sometimes - once LLMs become involved."
+  },
+  {
+    "Title": "DataPortal: Empowering Everyone to Build and Manage Code-Free Data Pipelines",
+    "Url": "https://blog.zeptonow.com/dataportal-empowering-everyone-to-build-and-manage-code-free-data-pipelines-fe017fb09bb1",
+    "Timestamp": "2025-12-12T01:03:10",
+    "Domain": "blog.zeptonow.com",
+    "Description": "In today’s fast-paced, data-driven world, teams spend far too much time manually building pipelines, managing access, and integrating data…"
+  },
+  {
+    "Title": "AcroByte - Acronym word game",
+    "Url": "https://blog.gametje.com/posts/2025-11-30/",
+    "Timestamp": "2025-12-12T01:03:05",
+    "Domain": "blog.gametje.com",
+    "Description": "This “new” game has a special place in my heart. It’s a re-imagining of a game I played all the time in high school back in the early 2000s. Late nights spent with friends pre-cable internet. Using our AOL connections and firing up Acrophobia. Making inside jokes and coming up with clever acronyms to make each other laugh (and hopefully score points too!). I actually wrote a version of this back in 2017 as part of my prototypes that came before Gametje. This one is luckily far more polished visually and with proper gameplay mechanics. Meet AcroByte:"
+  },
+  {
+    "Title": "Debugging Strange CALayers in ChatGPT",
+    "Url": "https://oskargroth.com/blog/debugging-strange-calayers-chatgpt",
+    "Timestamp": "2025-12-12T01:03:01",
+    "Domain": "oskargroth.com",
+    "Description": "Debugging upside-down text in ChatGPT.app: a race condition where addSubview() connects the view hierarchy before Core Animation's layer tree settles."
+  },
+  {
+    "Title": "Setting up distributed compilations with sccache – David Edmundson's Web Log",
+    "Url": "https://blog.davidedmundson.co.uk/blog/setting-up-distributed-compilations-with-sccache/",
+    "Timestamp": "2025-12-12T01:02:58",
+    "Domain": "blog.davidedmundson.co.uk",
+    "Description": "I hate waiting for compilations. For day-to-day it may only be a minute or two, but once you start doing another task, the context switching distracts from what you were doing before and breaks everything up. Life is too short to be waiting for computers."
+  },
+  {
+    "Title": "Responding to \"The highest quality codebase\" - Spencer Schneidenbach",
+    "Url": "https://schneidenba.ch/responding-to-the-highest-quality-codebase/",
+    "Timestamp": "2025-12-12T01:02:54",
+    "Domain": "schneidenba.ch",
+    "Description": "Responding to \"The highest quality codebase\""
+  },
+  {
+    "Title": "Small Plates",
+    "Url": "https://alexlance.blog/tagging.html",
+    "Timestamp": "2025-12-12T01:02:51",
+    "Domain": "alexlance.blog",
+    "Description": "← back"
+  },
+  {
+    "Title": "Perl Advent Calendar 2025 - Teaching Art to Computers the Hard Way",
+    "Url": "https://perladvent.org/2025/2025-12-11.html",
+    "Timestamp": "2025-12-12T01:02:48",
+    "Domain": "perladvent.org",
+    "Description": "I was told this over and over growing up as a kid. \"Your mind doesn't work that way,\" being the rationale for this. Teachers, if you are reading this, NEVER tell a kid that. Seriously. I believed it for nearly a half-century, then wrote my first novel, and later painted my first-ever oil painting. Anyone can do art of some kind."
+  },
+  {
+    "Title": "Nokia N900 Necromancy",
+    "Url": "https://yaky.dev/2025-12-11-nokia-n900-necromancy/",
+    "Timestamp": "2025-12-12T01:02:45",
+    "Domain": "yaky.dev",
+    "Description": "Building a fake battery, adding a USB-C port, booting from SD card, and giving a new life to a classic Linux smartphone."
+  },
+  {
+    "Title": "My Favorite Self-Hosted Apps Launched in 2025",
+    "Url": "https://selfh.st/post/2025-favorite-new-apps/",
+    "Timestamp": "2025-12-12T01:02:40",
+    "Domain": "selfh.st",
+    "Description": "A look back at some of my favorite self-hosted software and applications released in 2025"
+  },
+  {
+    "Title": "Redesigning should be done carefully • Milovan Jovičić, Product Designer",
+    "Url": "https://mikajovicic.com/writing/the-myth-of-big-redesign/",
+    "Timestamp": "2025-12-12T01:02:37",
+    "Domain": "mikajovicic.com",
+    "Description": "September 3, 1967 was the day every Swedish driver had to relearn how to drive. Here is how the streets looked on the day when Sweden switched from driving on the left side of the road to the right side of the road:"
+  },
+  {
+    "Title": "Maria Solano - My code editor",
+    "Url": "https://www.mariasolos.com/posts/my-code-editor/",
+    "Timestamp": "2025-12-12T01:02:33",
+    "Domain": "www.mariasolos.com",
+    "Description": "I can quit it, but I do not want to"
+  },
+  {
+    "Title": "Why are my view transitions blinking?",
+    "Url": "https://piccalil.li/blog/why-are-my-view-transitions-blinking/",
+    "Timestamp": "2025-12-12T01:02:30",
+    "Domain": "piccalil.li",
+    "Description": "Miguel had been battling an annoying blinking with his view transitions and found the root cause. He’s sharing his learning in this article so you don’t fall into the same trap!"
+  },
+  {
+    "Title": "GPT-5.2 Review: Incredibly Impressive, But Too Slow",
+    "Url": "https://shumer.dev/gpt52review",
+    "Timestamp": "2025-12-12T01:02:27",
+    "Domain": "shumer.dev",
+    "Description": "Hands-on GPT-5.2 review: better instruction following and codegen, Pro is a slow genius, but Thinking is too slow to compete with other models of similar intelligence."
+  },
+  {
+    "Title": "Finding broken migrations with Bisect",
+    "Url": "https://iain.rocks/blog/2025/12/11/finding-broken-migrations-with-bisect",
+    "Timestamp": "2025-12-12T01:02:24",
+    "Domain": "iain.rocks",
+    "Description": "The technical musings of Iain Cambridge."
+  },
+  {
+    "Title": "My experience with Lean 4 for general programming",
+    "Url": "https://quamserena.com/2025-12-10/my-experience-with-lean-4-for-general-programming",
+    "Timestamp": "2025-12-12T01:02:21",
+    "Domain": "quamserena.com",
+    "Description": "I am currently looking for a job! If you're hiring a new grad in 2026 for for Rust, TypeScript, or React, feel free to shoot me an email at serena (at) quamserena.com."
+  }
+]
