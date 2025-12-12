@@ -174,13 +174,5 @@
     "Domain": "tzovar.as",
     "Description": "A couple of days ago, I stumbled over a Mastodon post by @johl, in which he shared vimwiki as his approach for taking notes in vim. Which immediately piqued my interest, as I have so far been just taking my notes in plain vim without a way of linking them....",
     "Confidence": 0.9920123
-  },
-  {
-    "Title": "Auto-grading decade-old Hacker News discussions with hindsight",
-    "Url": "https://karpathy.bearblog.dev/auto-grade-hn/",
-    "Timestamp": "2025-12-11T00:02:01",
-    "Domain": "karpathy.bearblog.dev",
-    "Description": "A vibe coding thought exercise on what it might look like for LLMs to scour human historical data at scale and in retrospect.",
-    "Confidence": 0.98365253
   }
 ]
