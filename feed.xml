@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Litestream VFS</title>
+      <link>https://fly.io/blog/litestream-vfs/</link>
+      <description>Query your SQLite database any time, anywhere</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <guid>https://fly.io/blog/litestream-vfs/</guid>
+      <pubDate>Fri, 12 Dec 2025 05:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rivian Unveils Custom Silicon, R2 LiDAR Roadmap, Universal Hands Free, and Its Next Gen Autonomy Platform</title>
+      <link>https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/</link>
+      <description>RJ opened the first ever Autonomy and AI Day explaining why Rivian believes it is positioned to lead in this next phase of the industry. The company is leaning hard into compute, custom hardware, large scale AI systems, and a shared data foundation that touches every part of the ownership experience. Let's break it all</description>
+      <author> (https://www.facebook.com/kryptonlogic)</author>
+      <category>ai</category>
+      <guid>https://riviantrackr.com/news/rivian-unveils-custom-silicon-r2-lidar-roadmap-universal-hands-free-and-its-next-gen-autonomy-platform/</guid>
+      <pubDate>Fri, 12 Dec 2025 05:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Making Rails Global IDs safer</title>
       <link>https://blog.julik.nl/2025/12/a-trap-with-global-ids</link>
       <description>The new LLM world is very exciting, and I try to experiment with the new tools when I can. This includes building agentic applications, one of which is my personal accounting and invoicing tool - that I wrote about previously As part of that effort I started experimenting with RubyLLM to have some view into items in my system. And while I have used a neat pattern for referencing objects in the application from the tool calls - the Rails Global ID system - it turned out to be quite treacherous. So, let’s have a look at where GlobalID may bite you, and examine alternatives and tweaks we can do. What are Rails GIDs? The Rails global IDs (“GIDs”) are string handles to a particular model in a Rails application. Think of it like a model URL. They usually have the form of gid://awesome-app/Post/32. That comprises: The name of your app (roughly what you passed in when doing rails new) The class name of the model The primary key of the model You can grab a model in your application and get a global ID for it: moneymaker(dev):001&gt; Invoice.last.to_global_id Invoice Load (0.3ms) SELECT "invoices".* FROM "invoices" ORDER BY "invoices"."id" DESC LIMIT 1 /*application='Moneymaker'*/ =&gt; #&lt;GlobalID:0x00000001415978a0 @uri=#&lt;URI::GID gid://moneymaker/Invoice/161&gt;&gt; Rails uses those GIDs primarily in ActiveJob serialization. When you do DebitFundsJob.perform_later(customer) where the customer is your Customer model object which is stored in the DB, ActiveJob won’t serialize its attributes but instead serialize it as a “handle” - the global ID. When your job gets deserialized from the queue, the global ID is going to get resolved into a SELECT and your perform method will get the resulting Customer model as argument. All very neat. And dangerous, sometimes - once LLMs become involved.</description>
