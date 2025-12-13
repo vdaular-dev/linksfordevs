@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>macOS Tahoe 26.2 Release Notes | Apple Developer Documentation</title>
+      <link>https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</link>
+      <description>Update your apps to use new features, and test your apps against API changes.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</guid>
+      <pubDate>Sat, 13 Dec 2025 02:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>VACUUM Is a Lie (About Your Indexes)</title>
       <link>https://boringsql.com/posts/vacuum-is-lie/</link>
       <description>PostgreSQL VACUUM cleans tables but leaves indexes bloated. Learn why B-trees fragment and how to fix them properly.</description>
