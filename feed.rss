@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title>
+      <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
+      <description>One of the things that most excited me about Anthropic’s new Skills mechanism back in October is how easy it looked for other platforms to implement. A skill is just …</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://simonwillison.net/2025/Dec/12/openai-skills/</guid>
+      <pubDate>Sat, 13 Dec 2025 07:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>macOS Tahoe 26.2 Release Notes | Apple Developer Documentation</title>
       <link>https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</link>
       <description>Update your apps to use new features, and test your apps against API changes.</description>
