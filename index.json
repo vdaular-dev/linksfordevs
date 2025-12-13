@@ -174,13 +174,5 @@
     "Domain": "outofdesk.netlify.app",
     "Description": "I was thinking about the acquisition of Bun by Anthropic and wondering what it really signals. On the surface, it’s an intriguing investment of an AI company...",
     "Confidence": 0.9883881
-  },
-  {
-    "Title": "SQLite JSON Superpower: Virtual Columns + Indexing - DB Pro Blog",
-    "Url": "https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing",
-    "Timestamp": "2025-12-12T21:02:03",
-    "Domain": "www.dbpro.app",
-    "Description": "One of the coolest patterns in SQLite—store raw JSON documents, create virtual generated columns using json_extract, add indexes, and query JSON at full B-tree index speed.",
-    "Confidence": 0.99251825
   }
 ]

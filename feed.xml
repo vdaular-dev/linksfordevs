@@ -221,15 +221,5 @@ I am writing this as a desperate measure.</description>
       <guid>https://outofdesk.netlify.app/blog/keyboard-faster-than-mouse</guid>
       <pubDate>Sat, 13 Dec 2025 00:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>SQLite JSON Superpower: Virtual Columns + Indexing - DB Pro Blog</title>
-      <link>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</link>
-      <description>One of the coolest patterns in SQLite—store raw JSON documents, create virtual generated columns using json_extract, add indexes, and query JSON at full B-tree index speed.</description>
-      <author> (Jay Freeman)</author>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</guid>
-      <pubDate>Fri, 12 Dec 2025 21:02:03 GMT</pubDate>
-    </item>
   </channel>
 </rss>
