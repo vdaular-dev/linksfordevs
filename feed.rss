@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Rats Play Doom</title>
+      <link>https://ratsplaydoom.com/</link>
+      <description>We built a complete VR setup from scratch to let rats play DOOM. The system includes a motion-tracked treadmill ball, a panoramic headset, an input trigger, and a reward circuit. All hardware and software components are open sourced, including 3D-printable designs, circuit diagrams, firmware, and control software.</description>
+      <category>git</category>
+      <category>gaming</category>
+      <category>python</category>
+      <guid>https://ratsplaydoom.com/</guid>
+      <pubDate>Sat, 13 Dec 2025 08:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>20 Years of Digital Life, Gone in an Instant, thanks to Apple</title>
+      <link>https://hey.paris/posts/appleid/</link>
+      <description>Summary: A major brick-and-mortar store sold an Apple Gift Card that Apple seemingly took offence to, and locked out my entire Apple ID, effectively bricking my devices and my iCloud Account, Apple Developer ID, and everything associated with it, and I have no recourse. Can you help? Email paris AT paris.id.au (and read on for the details). ❤️
+Here’s how Apple “Permanently” locked my Apple ID.
+I am writing this as a desperate measure.</description>
+      <category>apple</category>
+      <guid>https://hey.paris/posts/appleid/</guid>
+      <pubDate>Sat, 13 Dec 2025 08:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title>
       <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
       <description>One of the things that most excited me about Anthropic’s new Skills mechanism back in October is how easy it looked for other platforms to implement. A skill is just …</description>
