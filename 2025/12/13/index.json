@@ -1,0 +1,114 @@
+[
+  {
+    "Title": "VACUUM Is a Lie (About Your Indexes)",
+    "Url": "https://boringsql.com/posts/vacuum-is-lie/",
+    "Timestamp": "2025-12-13T00:03:21",
+    "Domain": "boringsql.com",
+    "Description": "PostgreSQL VACUUM cleans tables but leaves indexes bloated. Learn why B-trees fragment and how to fix them properly."
+  },
+  {
+    "Title": "blog/2025/04/semantic-versioning-is-hard.mld",
+    "Url": "https://jon.recoil.org/blog/2025/04/semantic-versioning-is-hard.html",
+    "Timestamp": "2025-12-13T00:03:16",
+    "Domain": "jon.recoil.org",
+    "Description": "Let's take the case that hit me this morning. I've been working on ocaml-docs-ci in order to bring the exciting new odoc 3 features to ocaml.org for everyone to enjoy. I have it checked out and building locally, but to deploy it to the infrastructure managed by Mark Elvers it needs to be packaged up into a Docker image. So I issued the usual docker build . and after it churned through the setup stages and got on to building the project, it hit an error:"
+  },
+  {
+    "Title": "Apples",
+    "Url": "https://xkcd.com/3180/",
+    "Timestamp": "2025-12-13T00:03:09",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Parcha Dev Blog",
+    "Url": "https://blog.parcha.dev/claude-in-a-box",
+    "Timestamp": "2025-12-13T00:03:06",
+    "Domain": "blog.parcha.dev",
+    "Description": "Engineering insights from the Parcha team. AI agents, fast inference, and building compliance automation."
+  },
+  {
+    "Title": "Software engineering: Should it be a product, or a craft?",
+    "Url": "https://gokhan.sari.me/software-engineering-should-it-be-a-product-or-a-craft/",
+    "Timestamp": "2025-12-13T00:03:01",
+    "Domain": "gokhan.sari.me",
+    "Description": "I always had strong opinions about the value of craftsmanship, and of product as a kind of fake replica of craft. I still think that product is something falsely glorified in the hyper-commercialized world we live in today, while craftsmanship is the actual value-adding component of everything we build. But"
+  },
+  {
+    "Title": "Vibe-coding a startup MVP - Senko Rašić",
+    "Url": "https://senkorasic.com/articles/mvp-vibe-code",
+    "Timestamp": "2025-12-13T00:02:55",
+    "Domain": "senkorasic.com",
+    "Description": "Can autonomous AI coding be used to build a SaaS product from scratch? A practical experiment puts it to the test."
+  },
+  {
+    "Title": "magit-insert-worktrees improves status buffers",
+    "Url": "https://huonw.github.io/blog/2025/12/magit-insert-worktrees/",
+    "Timestamp": "2025-12-13T00:02:52",
+    "Domain": "huonw.github.io",
+    "Description": "When using Emacs' Magit and Git worktrees, adding the magit-insert-worktrees section inserter gives an nice overview of them in the status buffer."
+  },
+  {
+    "Title": "PX: from laptop to cloud cluster within seconds",
+    "Url": "https://amontalenti.com/2025/12/11/px-launch-overview",
+    "Timestamp": "2025-12-13T00:02:47",
+    "Domain": "amontalenti.com",
+    "Description": "Details on the launch of PX. Making backend development a joy again."
+  },
+  {
+    "Title": "You Are Dating an Ecosystem",
+    "Url": "https://www.razor.blog/2025/12/you-will-never-be-in-two-person.html",
+    "Timestamp": "2025-12-13T00:02:44",
+    "Domain": "www.razor.blog",
+    "Description": "RAZOR.BLOG: SEEING THINGS AS THEY ARE. Where Philosophy meets the road + questions matter more than answers."
+  },
+  {
+    "Title": "Not quite up to what was expected – Toby Champion’s Blog",
+    "Url": "https://blog.tobychampion.com/posts/engg-interviews/",
+    "Timestamp": "2025-12-13T00:02:40",
+    "Domain": "blog.tobychampion.com",
+    "Description": "He did end up passing, yes. This one is is pretty intensive coding position and he said the solution wasn’t quite up to what was expected."
+  },
+  {
+    "Title": "Growth Is Value Flow, Not Vanity Metrics - Log - nibzard",
+    "Url": "https://www.nibzard.com/growth-value-flow",
+    "Timestamp": "2025-12-13T00:02:37",
+    "Domain": "www.nibzard.com",
+    "Description": "Why chasing vanity metrics kills startups and how to think about growth as discovering and scaling value creation"
+  },
+  {
+    "Title": "Using Calibri on .gov sites • Cory Dransfeldt",
+    "Url": "https://www.coryd.dev/posts/2025/using-calibri-on-gov-sites",
+    "Timestamp": "2025-12-13T00:02:33",
+    "Domain": "www.coryd.dev",
+    "Description": "[The US government is run by petty morons that are threatened by a font.](https://www.reuters.com/world/us/rubio-stages-font-coup-times-new-roman-ousts-calibri-2025-12-09/) But because the web is the web, you can at least force `.gov` sites to render all text using Calibri."
+  },
+  {
+    "Title": "Holimization: Why Optimization Is Not Enough",
+    "Url": "https://www.lokad.com/blog/2025/12/12/holimization-why-optimization-is-not-enough/",
+    "Timestamp": "2025-12-13T00:02:29",
+    "Domain": "www.lokad.com",
+    "Description": "Joannes Vermorel introduces Holimization: why classical optimization fails in messy supply chains, and how reframing objectives, data and constraints turns failures into learning."
+  },
+  {
+    "Title": "Mark Bennett on Using Claude Code for Application Development - SKMurphy, Inc.",
+    "Url": "https://www.skmurphy.com/blog/2025/12/11/mark-bennett-on-using-claude-code-for-application-development/",
+    "Timestamp": "2025-12-13T00:02:26",
+    "Domain": "www.skmurphy.com",
+    "Description": "A conversation with Mark Bennett, an experienced software developer, about his experiences using Claude Code for application development."
+  },
+  {
+    "Title": "Migrating Schema from Oracle to YugabyteDB using HexaRocket | HexaCluster",
+    "Url": "https://hexacluster.ai/blog/migrating-schema-from-oracle-to-yugabytedb-using-hexarocket",
+    "Timestamp": "2025-12-13T00:02:19",
+    "Domain": "hexacluster.ai",
+    "Description": "PostgreSQL is a very popular open-source relational database system used widely across industries. Over time, it has inspired several forks and distributed databases that either extend PostgreSQL or maintain full compatibility with it. "
+  },
+  {
+    "Title": "The Keyboard Is Faster Than the Mouse",
+    "Url": "https://outofdesk.netlify.app/blog/keyboard-faster-than-mouse",
+    "Timestamp": "2025-12-13T00:02:13",
+    "Domain": "outofdesk.netlify.app",
+    "Description": "I was thinking about the acquisition of Bun by Anthropic and wondering what it really signals. On the surface, it’s an intriguing investment of an AI company..."
+  }
+]
