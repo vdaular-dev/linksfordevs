@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Tried Gleam for Advent of Code, and I Get the Hype</title>
+      <link>https://blog.tymscar.com/posts/gleamaoc2025/</link>
+      <description>A 12 day Advent of Code year convinced me Gleam is the real deal, thanks to Rust-like errors, great pipes, and surprisingly ergonomic FP.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <guid>https://blog.tymscar.com/posts/gleamaoc2025/</guid>
+      <pubDate>Sun, 14 Dec 2025 06:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Should You Trust Your VPN Location?</title>
       <link>https://ipinfo.io/blog/vpn-location-mismatch-report</link>
       <description>17 out of 20 popular VPNs exit traffic from different countries than they claim. Dig into what that means and why it matters in our VPN report.</description>
