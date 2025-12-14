@@ -7,6 +7,132 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ten Principles of Good Design | Tony Gaeta</title>
+      <link>https://tonygaeta.com/labs/ten-principles-of-good-design</link>
+      <description>Dieter Rams' Ten Principles of Good Design.</description>
+      <guid>https://tonygaeta.com/labs/ten-principles-of-good-design</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>One Agent Isn't Enough</title>
+      <link>https://benr.build/blog/one-agent-isnt-enough</link>
+      <description>Agentic coding has a problem - variance. What if single-agent runs are leaving performance on the table by design? Due to the stochastic nature of LLMs, each agent run has slight variations. Even with the same context, one session might land near the peak, another somewhere in the middle.</description>
+      <author> (Ben Redmond)</author>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://benr.build/blog/one-agent-isnt-enough</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Error-handling and locality</title>
+      <link>https://www.natemeyvis.com/error-handling-and-locality/</link>
+      <description>Here's a common problem:
+
+One subsystem (a service, a front end, or whatever) calls into another subsystem (another service, the back end, or whatever). Th...</description>
+      <guid>https://www.natemeyvis.com/error-handling-and-locality/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Before You Cite That Study</title>
+      <link>https://eleganthack.com/before-you-cite-that-study/</link>
+      <description>Last week Anthropic released findings from their new AI Interviewer tool. Among the headlines: people are optimistic about AI in business. I want you to sit with that for a second. Anthropic interv…</description>
+      <category>ai</category>
+      <guid>https://eleganthack.com/before-you-cite-that-study/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>1000 days in 32:9</title>
+      <link>https://blog.paavo.me/1000-days-in-32-by-9/</link>
+      <description>A comprehensive review of the Samsung Odyssey Neo G9 and the super ultrawide experience</description>
+      <author> (Paavo Huhtala)</author>
+      <category>gaming</category>
+      <category>visualstudio</category>
+      <category>apple</category>
+      <category>cloud</category>
+      <guid>https://blog.paavo.me/1000-days-in-32-by-9/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perl Advent Calendar 2025 - Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation</title>
+      <link>https://perladvent.org/2025/2025-12-13.html</link>
+      <description>December 1st. Vasco sat in the emergency management meeting with a sinking feeling in his stomach.</description>
+      <category>sql</category>
+      <guid>https://perladvent.org/2025/2025-12-13.html</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Toppleware </title>
+      <link>https://hannibalglaser.dk/toppleware</link>
+      <description>Toppleware is something that a community builds and adopts in order to overthrow an existing tool, product or service, usually one that h...</description>
+      <category>sql</category>
+      <guid>https://hannibalglaser.dk/toppleware</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 7 habits of highly ineffective agents</title>
+      <link>https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/</link>
+      <description>Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing a Type-Safe Linux Perf Interface in Zig</title>
+      <link>https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig</link>
+      <description>I'm building a benchmarking tool for Zig and needed CPU counters. This is how I wrapped Linux's `perf_event_open` to be type-safe with comptime.</description>
+      <category>linux</category>
+      <guid>https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP is a fad | Tom Bedor's Blog</title>
+      <link>https://tombedor.dev/mcp-is-a-fad/</link>
+      <description>Overview</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <guid>https://tombedor.dev/mcp-is-a-fad/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>My day as an augmented technical writer in 2030</title>
+      <link>https://passo.uno/my-day-tech-writer-2030/</link>
+      <description>Instead of writing my tech comms predictions for next year like I did in 2024, I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).</description>
+      <category>ai</category>
+      <guid>https://passo.uno/my-day-tech-writer-2030/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>New 200-pages Rust guide: Create a real-time voice incident narrator</title>
+      <link>https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a</link>
+      <description>The new free book on how to create an AI assistant that tracks errors in logs and reports them through voice messages.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>I think I might be done for a while</title>
+      <link>https://varunraghu.com/i-think-i-might-be-done-for-a-while/</link>
+      <description>burn out. there's no other way to put it honestly. feels like I've been working non stop for years. if not working I'm thinking about work. what next what ne...</description>
+      <category>gaming</category>
+      <guid>https://varunraghu.com/i-think-i-might-be-done-for-a-while/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Drawing rectangles instantly on a design job interview is a bad sign • Milovan Jovičić, Product Designer</title>
+      <link>https://mikajovicic.com/writing/research-first-then-move-to-solution/</link>
+      <description>When interviewing for a design position, I expect a candidate to ask many questions before starting to go into solution.</description>
+      <guid>https://mikajovicic.com/writing/research-first-then-move-to-solution/</guid>
+      <pubDate>Sun, 14 Dec 2025 01:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Goodbye Microservices</title>
       <link>https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices</link>
       <description>Discover Twilio’s shift to a single powerful service! Learn cloud communication trends, customer success stories, and how to build scalable apps. Join now!</description>

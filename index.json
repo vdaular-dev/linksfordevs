@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Ten Principles of Good Design | Tony Gaeta",
+    "Url": "https://tonygaeta.com/labs/ten-principles-of-good-design",
+    "Timestamp": "2025-12-14T01:02:50",
+    "Domain": "tonygaeta.com",
+    "Description": "Dieter Rams' Ten Principles of Good Design.",
+    "Confidence": 0.9824462
+  },
+  {
+    "Title": "One Agent Isn't Enough",
+    "Url": "https://benr.build/blog/one-agent-isnt-enough",
+    "Timestamp": "2025-12-14T01:02:47",
+    "Domain": "benr.build",
+    "Description": "Agentic coding has a problem - variance. What if single-agent runs are leaving performance on the table by design? Due to the stochastic nature of LLMs, each agent run has slight variations. Even with the same context, one session might land near the peak, another somewhere in the middle.",
+    "Confidence": 0.97621715
+  },
+  {
+    "Title": "Error-handling and locality",
+    "Url": "https://www.natemeyvis.com/error-handling-and-locality/",
+    "Timestamp": "2025-12-14T01:02:44",
+    "Domain": "www.natemeyvis.com",
+    "Description": "Here's a common problem:\n\nOne subsystem (a service, a front end, or whatever) calls into another subsystem (another service, the back end, or whatever). Th...",
+    "Confidence": 0.996298
+  },
+  {
+    "Title": "Before You Cite That Study",
+    "Url": "https://eleganthack.com/before-you-cite-that-study/",
+    "Timestamp": "2025-12-14T01:02:41",
+    "Domain": "eleganthack.com",
+    "Description": "Last week Anthropic released findings from their new AI Interviewer tool. Among the headlines: people are optimistic about AI in business. I want you to sit with that for a second. Anthropic interv…",
+    "Confidence": 0.97675663
+  },
+  {
+    "Title": "1000 days in 32:9",
+    "Url": "https://blog.paavo.me/1000-days-in-32-by-9/",
+    "Timestamp": "2025-12-14T01:02:36",
+    "Domain": "blog.paavo.me",
+    "Description": "A comprehensive review of the Samsung Odyssey Neo G9 and the super ultrawide experience",
+    "Confidence": 0.98758036
+  },
+  {
+    "Title": "Perl Advent Calendar 2025 - Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation",
+    "Url": "https://perladvent.org/2025/2025-12-13.html",
+    "Timestamp": "2025-12-14T01:02:33",
+    "Domain": "perladvent.org",
+    "Description": "December 1st. Vasco sat in the emergency management meeting with a sinking feeling in his stomach.",
+    "Confidence": 0.9648231
+  },
+  {
+    "Title": "Toppleware ",
+    "Url": "https://hannibalglaser.dk/toppleware",
+    "Timestamp": "2025-12-14T01:02:30",
+    "Domain": "hannibalglaser.dk",
+    "Description": "Toppleware is something that a community builds and adopts in order to overthrow an existing tool, product or service, usually one that h...",
+    "Confidence": 0.95616925
+  },
+  {
+    "Title": "The 7 habits of highly ineffective agents",
+    "Url": "https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/",
+    "Timestamp": "2025-12-14T01:02:26",
+    "Domain": "tobyhede.com",
+    "Description": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.",
+    "Confidence": 0.9881987
+  },
+  {
+    "Title": "Writing a Type-Safe Linux Perf Interface in Zig",
+    "Url": "https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig",
+    "Timestamp": "2025-12-14T01:02:22",
+    "Domain": "pyk.sh",
+    "Description": "I'm building a benchmarking tool for Zig and needed CPU counters. This is how I wrapped Linux's `perf_event_open` to be type-safe with comptime.",
+    "Confidence": 0.9971097
+  },
+  {
+    "Title": "MCP is a fad | Tom Bedor's Blog",
+    "Url": "https://tombedor.dev/mcp-is-a-fad/",
+    "Timestamp": "2025-12-14T01:02:18",
+    "Domain": "tombedor.dev",
+    "Description": "Overview",
+    "Confidence": 0.98911947
+  },
+  {
+    "Title": "My day as an augmented technical writer in 2030",
+    "Url": "https://passo.uno/my-day-tech-writer-2030/",
+    "Timestamp": "2025-12-14T01:02:15",
+    "Domain": "passo.uno",
+    "Description": "Instead of writing my tech comms predictions for next year like I did in 2024, I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).",
+    "Confidence": 0.9795828
+  },
+  {
+    "Title": "New 200-pages Rust guide: Create a real-time voice incident narrator",
+    "Url": "https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a",
+    "Timestamp": "2025-12-14T01:02:12",
+    "Domain": "press.knowledge.dev",
+    "Description": "The new free book on how to create an AI assistant that tracks errors in logs and reports them through voice messages.",
+    "Confidence": 0.9948855
+  },
+  {
+    "Title": "I think I might be done for a while",
+    "Url": "https://varunraghu.com/i-think-i-might-be-done-for-a-while/",
+    "Timestamp": "2025-12-14T01:02:07",
+    "Domain": "varunraghu.com",
+    "Description": "burn out. there's no other way to put it honestly. feels like I've been working non stop for years. if not working I'm thinking about work. what next what ne...",
+    "Confidence": 0.9624803
+  },
+  {
+    "Title": "Drawing rectangles instantly on a design job interview is a bad sign • Milovan Jovičić, Product Designer",
+    "Url": "https://mikajovicic.com/writing/research-first-then-move-to-solution/",
+    "Timestamp": "2025-12-14T01:02:04",
+    "Domain": "mikajovicic.com",
+    "Description": "When interviewing for a design position, I expect a candidate to ask many questions before starting to go into solution.",
+    "Confidence": 0.90178525
+  },
+  {
     "Title": "Goodbye Microservices",
     "Url": "https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices",
     "Timestamp": "2025-12-13T23:02:03",
