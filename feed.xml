@@ -168,14 +168,5 @@ One subsystem (a service, a front end, or whatever) calls into another subsystem
       <guid>https://mikajovicic.com/writing/research-first-then-move-to-solution/</guid>
       <pubDate>Sun, 14 Dec 2025 01:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>Goodbye Microservices</title>
-      <link>https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices</link>
-      <description>Discover Twilio’s shift to a single powerful service! Learn cloud communication trends, customer success stories, and how to build scalable apps. Join now!</description>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices</guid>
-      <pubDate>Sat, 13 Dec 2025 23:02:03 GMT</pubDate>
-    </item>
   </channel>
 </rss>
