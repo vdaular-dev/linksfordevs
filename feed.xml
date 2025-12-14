@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Linux Sandboxes And Fil-C</title>
+      <link>https://fil-c.org/seccomp</link>
+      <description>Memory safety and sandboxing are two different things. It's reasonable to think of them as orthogonal: you could have memory safety but not be sandboxed, or you could be sandboxed but not memory safe.</description>
+      <category>linux</category>
+      <guid>https://fil-c.org/seccomp</guid>
+      <pubDate>Sun, 14 Dec 2025 12:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>I Tried Gleam for Advent of Code, and I Get the Hype</title>
       <link>https://blog.tymscar.com/posts/gleamaoc2025/</link>
       <description>A 12 day Advent of Code year convinced me Gleam is the real deal, thanks to Rust-like errors, great pipes, and surprisingly ergonomic FP.</description>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Linux Sandboxes And Fil-C",
+    "Url": "https://fil-c.org/seccomp",
+    "Timestamp": "2025-12-14T12:02:19",
+    "Domain": "fil-c.org",
+    "Description": "Memory safety and sandboxing are two different things. It's reasonable to think of them as orthogonal: you could have memory safety but not be sandboxed, or you could be sandboxed but not memory safe.",
+    "Confidence": 0.99299425
+  },
+  {
     "Title": "I Tried Gleam for Advent of Code, and I Get the Hype",
     "Url": "https://blog.tymscar.com/posts/gleamaoc2025/",
     "Timestamp": "2025-12-14T06:02:22",
