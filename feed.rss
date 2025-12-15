@@ -190,13 +190,5 @@ This is the second post in a series where I reverse-engineer the memory systems 
       <guid>https://sandyuraz.com/blogs/bourdain/</guid>
       <pubDate>Sun, 14 Dec 2025 16:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>Linux Sandboxes And Fil-C</title>
-      <link>https://fil-c.org/seccomp</link>
-      <description>Memory safety and sandboxing are two different things. It's reasonable to think of them as orthogonal: you could have memory safety but not be sandboxed, or you could be sandboxed but not memory safe.</description>
-      <category>linux</category>
-      <guid>https://fil-c.org/seccomp</guid>
-      <pubDate>Sun, 14 Dec 2025 12:02:19 GMT</pubDate>
-    </item>
   </channel>
 </rss>
