@@ -7,6 +7,137 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Server-Sent Events Actually Work on Deno Deploy</title>
+      <link>https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/</link>
+      <description>I spent a week convinced my SSE implementation was wrong even if it did actually
+work in practice.</description>
+      <category>conference</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Compiler Engineering in Practice - Part 1: What is a Compiler?</title>
+      <link>https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html</link>
+      <description>“Compiler Engineering in Practice” is a blog series intended to pass on wisdom that seemingly every seasoned compiler developer knows, but is not systematically written down in any textbook or online resource. Some (but not much) prior experience with compilers is needed.</description>
+      <category>python</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html</guid>
+      <pubDate>Mon, 15 Dec 2025 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>If you truncate a UUID I will truncate your fingers</title>
+      <link>https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/</link>
+      <description>“Oh I just needed something random but also human-readable” you said, as you casually called .Substring(8) on a UUID. You probably also “casually” mutilate animals like you …</description>
+      <category>sql</category>
+      <guid>https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>When buttons were invented, people believed that all humanity would degenerate • Milovan Jovičić, Product Designer</title>
+      <link>https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/</link>
+      <description>"You push the button, we do the rest".
+This was once the slogan of the famous Kodak company. They wanted to convince buyers how easy their devices were to operate.</description>
+      <guid>https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Six Big Bets</title>
+      <link>https://www.jerry.wtf/posts/six-big-bets/</link>
+      <description>
+You don’t get to take unlimited big bets in a single lifetime. You get a small number of windows where risk tolerance, energy, capital, and conviction align.
+In The Black Swan Nassim Taleb frames this as asymmetric exposure to unlimited upside with limited downside. And startups are one of the clearest modern mechanisms for that kind of asymmetry. But what’s often missed is that these opportunities are finite. You can’t swing endlessly. Most of life is spent accumulating the resources—knowledge, capital, relationships—that make the next swing possible.
+What follows are six moments where those resources briefly line up.</description>
+      <guid>https://www.jerry.wtf/posts/six-big-bets/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>I've Been Sleeping On Chinese Models</title>
+      <link>https://kylenessen.com/ive-been-sleeping-on-chinese-models/</link>
+      <description>Personal website and essays by Kyle Nessen</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://kylenessen.com/ive-been-sleeping-on-chinese-models/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why My Payment Agent Is Named George, Not stripe-agent</title>
+      <link>https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/</link>
+      <description>I name my AI sub-agents after people who inspire me—not whimsy, but a practice for remembering who the work is actually for.</description>
+      <category>ai</category>
+      <guid>https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Things I learned making a game engine</title>
+      <link>https://www.joelotter.com/posts/2025/12/growl/</link>
+      <description>I’ve spent the last few years building my own game engine from scratch. Here are some of the things I learned.</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>android</category>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <guid>https://www.joelotter.com/posts/2025/12/growl/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>John Ocen's</title>
+      <link>https://johnocens.com/soothfare/learntfather</link>
+      <description>Output is deliberate.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://johnocens.com/soothfare/learntfather</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Where is GPT in the Chomsky Hierarchy?</title>
+      <link>https://fi-le.net/chomsky/</link>
+      <description>fi-le.net, the Fiefdom of Files</description>
+      <category>ai</category>
+      <guid>https://fi-le.net/chomsky/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Reverse Engineered Claude's Memory System, and Here's What I Found!</title>
+      <link>https://manthanguptaa.in/posts/claude_memory/</link>
+      <description>When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
+This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.</description>
+      <category>ai</category>
+      <guid>https://manthanguptaa.in/posts/claude_memory/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cezar Cocu - Software Engineer</title>
+      <link>https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end</link>
+      <description>Software engineer building backend systems, AI/ML applications, and real-time software.</description>
+      <guid>https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>a distributed computing system powered by WebGPU · Learn the Wire</title>
+      <link>https://jake-purton.uk/collatz_blog/</link>
+      <description>Fri, Dec 12, 2025</description>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://jake-purton.uk/collatz_blog/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>How CPU Caches Work</title>
+      <link>https://www.0xkato.xyz/How-CPU-Caches-Work/</link>
+      <description>How CPU caches work, explained with a simple office analogy.</description>
+      <category>vscode</category>
+      <guid>https://www.0xkato.xyz/How-CPU-Caches-Work/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Recovering Anthony Bourdain’s (really) lost Li.st’s</title>
       <link>https://sandyuraz.com/blogs/bourdain/</link>
       <description>Loved reading through GReg TeChnoLogY Anthony Bourdain’s Lost Li.st’s and seeing the list of los...</description>
@@ -41,132 +172,6 @@
       <description>17 out of 20 popular VPNs exit traffic from different countries than they claim. Dig into what that means and why it matters in our VPN report.</description>
       <guid>https://ipinfo.io/blog/vpn-location-mismatch-report</guid>
       <pubDate>Sun, 14 Dec 2025 03:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ten Principles of Good Design | Tony Gaeta</title>
-      <link>https://tonygaeta.com/labs/ten-principles-of-good-design</link>
-      <description>Dieter Rams' Ten Principles of Good Design.</description>
-      <guid>https://tonygaeta.com/labs/ten-principles-of-good-design</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>One Agent Isn't Enough</title>
-      <link>https://benr.build/blog/one-agent-isnt-enough</link>
-      <description>Agentic coding has a problem - variance. What if single-agent runs are leaving performance on the table by design? Due to the stochastic nature of LLMs, each agent run has slight variations. Even with the same context, one session might land near the peak, another somewhere in the middle.</description>
-      <author> (Ben Redmond)</author>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://benr.build/blog/one-agent-isnt-enough</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Error-handling and locality</title>
-      <link>https://www.natemeyvis.com/error-handling-and-locality/</link>
-      <description>Here's a common problem:
-
-One subsystem (a service, a front end, or whatever) calls into another subsystem (another service, the back end, or whatever). Th...</description>
-      <guid>https://www.natemeyvis.com/error-handling-and-locality/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Before You Cite That Study</title>
-      <link>https://eleganthack.com/before-you-cite-that-study/</link>
-      <description>Last week Anthropic released findings from their new AI Interviewer tool. Among the headlines: people are optimistic about AI in business. I want you to sit with that for a second. Anthropic interv…</description>
-      <category>ai</category>
-      <guid>https://eleganthack.com/before-you-cite-that-study/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>1000 days in 32:9</title>
-      <link>https://blog.paavo.me/1000-days-in-32-by-9/</link>
-      <description>A comprehensive review of the Samsung Odyssey Neo G9 and the super ultrawide experience</description>
-      <author> (Paavo Huhtala)</author>
-      <category>gaming</category>
-      <category>visualstudio</category>
-      <category>apple</category>
-      <category>cloud</category>
-      <guid>https://blog.paavo.me/1000-days-in-32-by-9/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Perl Advent Calendar 2025 - Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation</title>
-      <link>https://perladvent.org/2025/2025-12-13.html</link>
-      <description>December 1st. Vasco sat in the emergency management meeting with a sinking feeling in his stomach.</description>
-      <category>sql</category>
-      <guid>https://perladvent.org/2025/2025-12-13.html</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toppleware </title>
-      <link>https://hannibalglaser.dk/toppleware</link>
-      <description>Toppleware is something that a community builds and adopts in order to overthrow an existing tool, product or service, usually one that h...</description>
-      <category>sql</category>
-      <guid>https://hannibalglaser.dk/toppleware</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>The 7 habits of highly ineffective agents</title>
-      <link>https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/</link>
-      <description>Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.</description>
-      <category>encryption</category>
-      <category>git</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing a Type-Safe Linux Perf Interface in Zig</title>
-      <link>https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig</link>
-      <description>I'm building a benchmarking tool for Zig and needed CPU counters. This is how I wrapped Linux's `perf_event_open` to be type-safe with comptime.</description>
-      <category>linux</category>
-      <guid>https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>MCP is a fad | Tom Bedor's Blog</title>
-      <link>https://tombedor.dev/mcp-is-a-fad/</link>
-      <description>Overview</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>encryption</category>
-      <category>sql</category>
-      <guid>https://tombedor.dev/mcp-is-a-fad/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>My day as an augmented technical writer in 2030</title>
-      <link>https://passo.uno/my-day-tech-writer-2030/</link>
-      <description>Instead of writing my tech comms predictions for next year like I did in 2024, I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).</description>
-      <category>ai</category>
-      <guid>https://passo.uno/my-day-tech-writer-2030/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>New 200-pages Rust guide: Create a real-time voice incident narrator</title>
-      <link>https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a</link>
-      <description>The new free book on how to create an AI assistant that tracks errors in logs and reports them through voice messages.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>I think I might be done for a while</title>
-      <link>https://varunraghu.com/i-think-i-might-be-done-for-a-while/</link>
-      <description>burn out. there's no other way to put it honestly. feels like I've been working non stop for years. if not working I'm thinking about work. what next what ne...</description>
-      <category>gaming</category>
-      <guid>https://varunraghu.com/i-think-i-might-be-done-for-a-while/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drawing rectangles instantly on a design job interview is a bad sign • Milovan Jovičić, Product Designer</title>
-      <link>https://mikajovicic.com/writing/research-first-then-move-to-solution/</link>
-      <description>When interviewing for a design position, I expect a candidate to ask many questions before starting to go into solution.</description>
-      <guid>https://mikajovicic.com/writing/research-first-then-move-to-solution/</guid>
-      <pubDate>Sun, 14 Dec 2025 01:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>

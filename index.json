@@ -1,5 +1,117 @@
 [
   {
+    "Title": "How Server-Sent Events Actually Work on Deno Deploy",
+    "Url": "https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/",
+    "Timestamp": "2025-12-15T01:03:10",
+    "Domain": "sam.elborai.me",
+    "Description": "I spent a week convinced my SSE implementation was wrong even if it did actually\nwork in practice.",
+    "Confidence": 0.97822773
+  },
+  {
+    "Title": "Compiler Engineering in Practice - Part 1: What is a Compiler?",
+    "Url": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
+    "Timestamp": "2025-12-15T01:03:06",
+    "Domain": "chisophugis.github.io",
+    "Description": "“Compiler Engineering in Practice” is a blog series intended to pass on wisdom that seemingly every seasoned compiler developer knows, but is not systematically written down in any textbook or online resource. Some (but not much) prior experience with compilers is needed.",
+    "Confidence": 0.9971392
+  },
+  {
+    "Title": "If you truncate a UUID I will truncate your fingers",
+    "Url": "https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/",
+    "Timestamp": "2025-12-15T01:03:03",
+    "Domain": "gieseanw.wordpress.com",
+    "Description": "“Oh I just needed something random but also human-readable” you said, as you casually called .Substring(8) on a UUID. You probably also “casually” mutilate animals like you …",
+    "Confidence": 0.96592224
+  },
+  {
+    "Title": "When buttons were invented, people believed that all humanity would degenerate • Milovan Jovičić, Product Designer",
+    "Url": "https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/",
+    "Timestamp": "2025-12-15T01:02:59",
+    "Domain": "mikajovicic.com",
+    "Description": "\"You push the button, we do the rest\".\nThis was once the slogan of the famous Kodak company. They wanted to convince buyers how easy their devices were to operate.",
+    "Confidence": 0.93324673
+  },
+  {
+    "Title": "Six Big Bets",
+    "Url": "https://www.jerry.wtf/posts/six-big-bets/",
+    "Timestamp": "2025-12-15T01:02:55",
+    "Domain": "www.jerry.wtf",
+    "Description": "\nYou don’t get to take unlimited big bets in a single lifetime. You get a small number of windows where risk tolerance, energy, capital, and conviction align.\nIn The Black Swan Nassim Taleb frames this as asymmetric exposure to unlimited upside with limited downside. And startups are one of the clearest modern mechanisms for that kind of asymmetry. But what’s often missed is that these opportunities are finite. You can’t swing endlessly. Most of life is spent accumulating the resources—knowledge, capital, relationships—that make the next swing possible.\nWhat follows are six moments where those resources briefly line up.",
+    "Confidence": 0.8704083
+  },
+  {
+    "Title": "I've Been Sleeping On Chinese Models",
+    "Url": "https://kylenessen.com/ive-been-sleeping-on-chinese-models/",
+    "Timestamp": "2025-12-15T01:02:52",
+    "Domain": "kylenessen.com",
+    "Description": "Personal website and essays by Kyle Nessen",
+    "Confidence": 0.95454586
+  },
+  {
+    "Title": "Why My Payment Agent Is Named George, Not stripe-agent",
+    "Url": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
+    "Timestamp": "2025-12-15T01:02:48",
+    "Domain": "blog.kestrelsnest.social",
+    "Description": "I name my AI sub-agents after people who inspire me—not whimsy, but a practice for remembering who the work is actually for.",
+    "Confidence": 0.9366425
+  },
+  {
+    "Title": "Things I learned making a game engine",
+    "Url": "https://www.joelotter.com/posts/2025/12/growl/",
+    "Timestamp": "2025-12-15T01:02:45",
+    "Domain": "www.joelotter.com",
+    "Description": "I’ve spent the last few years building my own game engine from scratch. Here are some of the things I learned.",
+    "Confidence": 0.9821189
+  },
+  {
+    "Title": "John Ocen's",
+    "Url": "https://johnocens.com/soothfare/learntfather",
+    "Timestamp": "2025-12-15T01:02:41",
+    "Domain": "johnocens.com",
+    "Description": "Output is deliberate.",
+    "Confidence": 0.6568258
+  },
+  {
+    "Title": "Where is GPT in the Chomsky Hierarchy?",
+    "Url": "https://fi-le.net/chomsky/",
+    "Timestamp": "2025-12-15T01:02:32",
+    "Domain": "fi-le.net",
+    "Description": "fi-le.net, the Fiefdom of Files",
+    "Confidence": 0.98649615
+  },
+  {
+    "Title": "I Reverse Engineered Claude's Memory System, and Here's What I Found!",
+    "Url": "https://manthanguptaa.in/posts/claude_memory/",
+    "Timestamp": "2025-12-15T01:02:29",
+    "Domain": "manthanguptaa.in",
+    "Description": "When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?\nThis is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.",
+    "Confidence": 0.99379456
+  },
+  {
+    "Title": "Cezar Cocu - Software Engineer",
+    "Url": "https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end",
+    "Timestamp": "2025-12-15T01:02:25",
+    "Domain": "cezarcocu.com",
+    "Description": "Software engineer building backend systems, AI/ML applications, and real-time software.",
+    "Confidence": 0.6894927
+  },
+  {
+    "Title": "a distributed computing system powered by WebGPU · Learn the Wire",
+    "Url": "https://jake-purton.uk/collatz_blog/",
+    "Timestamp": "2025-12-15T01:02:22",
+    "Domain": "jake-purton.uk",
+    "Description": "Fri, Dec 12, 2025",
+    "Confidence": 0.9948527
+  },
+  {
+    "Title": "How CPU Caches Work",
+    "Url": "https://www.0xkato.xyz/How-CPU-Caches-Work/",
+    "Timestamp": "2025-12-15T01:02:18",
+    "Domain": "www.0xkato.xyz",
+    "Description": "How CPU caches work, explained with a simple office analogy.",
+    "Confidence": 0.98805815
+  },
+  {
     "Title": "Recovering Anthony Bourdain’s (really) lost Li.st’s",
     "Url": "https://sandyuraz.com/blogs/bourdain/",
     "Timestamp": "2025-12-14T16:02:09",
@@ -30,117 +142,5 @@
     "Domain": "ipinfo.io",
     "Description": "17 out of 20 popular VPNs exit traffic from different countries than they claim. Dig into what that means and why it matters in our VPN report.",
     "Confidence": 0.93514675
-  },
-  {
-    "Title": "Ten Principles of Good Design | Tony Gaeta",
-    "Url": "https://tonygaeta.com/labs/ten-principles-of-good-design",
-    "Timestamp": "2025-12-14T01:02:50",
-    "Domain": "tonygaeta.com",
-    "Description": "Dieter Rams' Ten Principles of Good Design.",
-    "Confidence": 0.9824462
-  },
-  {
-    "Title": "One Agent Isn't Enough",
-    "Url": "https://benr.build/blog/one-agent-isnt-enough",
-    "Timestamp": "2025-12-14T01:02:47",
-    "Domain": "benr.build",
-    "Description": "Agentic coding has a problem - variance. What if single-agent runs are leaving performance on the table by design? Due to the stochastic nature of LLMs, each agent run has slight variations. Even with the same context, one session might land near the peak, another somewhere in the middle.",
-    "Confidence": 0.97621715
-  },
-  {
-    "Title": "Error-handling and locality",
-    "Url": "https://www.natemeyvis.com/error-handling-and-locality/",
-    "Timestamp": "2025-12-14T01:02:44",
-    "Domain": "www.natemeyvis.com",
-    "Description": "Here's a common problem:\n\nOne subsystem (a service, a front end, or whatever) calls into another subsystem (another service, the back end, or whatever). Th...",
-    "Confidence": 0.996298
-  },
-  {
-    "Title": "Before You Cite That Study",
-    "Url": "https://eleganthack.com/before-you-cite-that-study/",
-    "Timestamp": "2025-12-14T01:02:41",
-    "Domain": "eleganthack.com",
-    "Description": "Last week Anthropic released findings from their new AI Interviewer tool. Among the headlines: people are optimistic about AI in business. I want you to sit with that for a second. Anthropic interv…",
-    "Confidence": 0.97675663
-  },
-  {
-    "Title": "1000 days in 32:9",
-    "Url": "https://blog.paavo.me/1000-days-in-32-by-9/",
-    "Timestamp": "2025-12-14T01:02:36",
-    "Domain": "blog.paavo.me",
-    "Description": "A comprehensive review of the Samsung Odyssey Neo G9 and the super ultrawide experience",
-    "Confidence": 0.98758036
-  },
-  {
-    "Title": "Perl Advent Calendar 2025 - Thirty Slices, Twenty-Four Days: How Christmas Was Saved By Abandoning Estimation",
-    "Url": "https://perladvent.org/2025/2025-12-13.html",
-    "Timestamp": "2025-12-14T01:02:33",
-    "Domain": "perladvent.org",
-    "Description": "December 1st. Vasco sat in the emergency management meeting with a sinking feeling in his stomach.",
-    "Confidence": 0.9648231
-  },
-  {
-    "Title": "Toppleware ",
-    "Url": "https://hannibalglaser.dk/toppleware",
-    "Timestamp": "2025-12-14T01:02:30",
-    "Domain": "hannibalglaser.dk",
-    "Description": "Toppleware is something that a community builds and adopts in order to overthrow an existing tool, product or service, usually one that h...",
-    "Confidence": 0.95616925
-  },
-  {
-    "Title": "The 7 habits of highly ineffective agents",
-    "Url": "https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents/",
-    "Timestamp": "2025-12-14T01:02:26",
-    "Domain": "tobyhede.com",
-    "Description": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.",
-    "Confidence": 0.9881987
-  },
-  {
-    "Title": "Writing a Type-Safe Linux Perf Interface in Zig",
-    "Url": "https://pyk.sh/blog/2025-12-11-type-safe-linux-perf-event-open-in-zig",
-    "Timestamp": "2025-12-14T01:02:22",
-    "Domain": "pyk.sh",
-    "Description": "I'm building a benchmarking tool for Zig and needed CPU counters. This is how I wrapped Linux's `perf_event_open` to be type-safe with comptime.",
-    "Confidence": 0.9971097
-  },
-  {
-    "Title": "MCP is a fad | Tom Bedor's Blog",
-    "Url": "https://tombedor.dev/mcp-is-a-fad/",
-    "Timestamp": "2025-12-14T01:02:18",
-    "Domain": "tombedor.dev",
-    "Description": "Overview",
-    "Confidence": 0.98911947
-  },
-  {
-    "Title": "My day as an augmented technical writer in 2030",
-    "Url": "https://passo.uno/my-day-tech-writer-2030/",
-    "Timestamp": "2025-12-14T01:02:15",
-    "Domain": "passo.uno",
-    "Description": "Instead of writing my tech comms predictions for next year like I did in 2024, I’ve written a fictionalized account of my day as a technical writer in 2030. It’ll be interesting to see whether we get there or not. Take it as a window into a possible future, one where AI usage is safer, more regulated, and better integrated with our workflows (as it should be).",
-    "Confidence": 0.9795828
-  },
-  {
-    "Title": "New 200-pages Rust guide: Create a real-time voice incident narrator",
-    "Url": "https://press.knowledge.dev/p/new-150-pages-rust-guide-create-a",
-    "Timestamp": "2025-12-14T01:02:12",
-    "Domain": "press.knowledge.dev",
-    "Description": "The new free book on how to create an AI assistant that tracks errors in logs and reports them through voice messages.",
-    "Confidence": 0.9948855
-  },
-  {
-    "Title": "I think I might be done for a while",
-    "Url": "https://varunraghu.com/i-think-i-might-be-done-for-a-while/",
-    "Timestamp": "2025-12-14T01:02:07",
-    "Domain": "varunraghu.com",
-    "Description": "burn out. there's no other way to put it honestly. feels like I've been working non stop for years. if not working I'm thinking about work. what next what ne...",
-    "Confidence": 0.9624803
-  },
-  {
-    "Title": "Drawing rectangles instantly on a design job interview is a bad sign • Milovan Jovičić, Product Designer",
-    "Url": "https://mikajovicic.com/writing/research-first-then-move-to-solution/",
-    "Timestamp": "2025-12-14T01:02:04",
-    "Domain": "mikajovicic.com",
-    "Description": "When interviewing for a design position, I expect a candidate to ask many questions before starting to go into solution.",
-    "Confidence": 0.90178525
   }
 ]
