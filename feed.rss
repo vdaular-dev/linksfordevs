@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Switching from JavaScript to Godot for my RPG</title>
+      <link>https://jslegenddev.substack.com/p/js-to-godot</link>
+      <description>In 2022, Vampire Survivors, a game where you destroy hordes of enemies by just moving around, released.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>apple</category>
+      <guid>https://jslegenddev.substack.com/p/js-to-godot</guid>
+      <pubDate>Mon, 15 Dec 2025 16:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Roomba Maker iRobot Files for Bankruptcy and Will Go Private (1)</title>
       <link>https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years</link>
       <description>iRobot Corp., the company that revolutionized robot vacuum cleaners in the early 2000s with its Roomba model, filed for bankruptcy and proposed handing over control to its main Chinese supplier. </description>
@@ -185,17 +197,6 @@ This is the second post in a series where I reverse-engineer the memory systems 
       <category>vscode</category>
       <guid>https://www.0xkato.xyz/How-CPU-Caches-Work/</guid>
       <pubDate>Mon, 15 Dec 2025 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Recovering Anthony Bourdain’s (really) lost Li.st’s</title>
-      <link>https://sandyuraz.com/blogs/bourdain/</link>
-      <description>Loved reading through GReg TeChnoLogY Anthony Bourdain’s Lost Li.st’s and seeing the list of los...</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>python</category>
-      <category>apple</category>
-      <guid>https://sandyuraz.com/blogs/bourdain/</guid>
-      <pubDate>Sun, 14 Dec 2025 16:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
