@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hashcards: A Plain-Text Spaced Repetition System</title>
+      <link>https://borretti.me/article/hashcards-plain-text-spaced-repetition</link>
+      <description>Announcing my latest open-source project.</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://borretti.me/article/hashcards-plain-text-spaced-repetition</guid>
+      <pubDate>Mon, 15 Dec 2025 03:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Elevated errors across many models</title>
       <link>https://status.claude.com/incidents/9g6qpr72ttbr</link>
       <description>Claude's Status Page - Elevated errors across many models.</description>
@@ -173,13 +185,6 @@ This is the second post in a series where I reverse-engineer the memory systems 
       <category>rust</category>
       <guid>https://blog.tymscar.com/posts/gleamaoc2025/</guid>
       <pubDate>Sun, 14 Dec 2025 06:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Should You Trust Your VPN Location?</title>
-      <link>https://ipinfo.io/blog/vpn-location-mismatch-report</link>
-      <description>17 out of 20 popular VPNs exit traffic from different countries than they claim. Dig into what that means and why it matters in our VPN report.</description>
-      <guid>https://ipinfo.io/blog/vpn-location-mismatch-report</guid>
-      <pubDate>Sun, 14 Dec 2025 03:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
