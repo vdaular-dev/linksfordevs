@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Elevated errors across many models</title>
+      <link>https://status.claude.com/incidents/9g6qpr72ttbr</link>
+      <description>Claude's Status Page - Elevated errors across many models.</description>
+      <category>ai</category>
+      <guid>https://status.claude.com/incidents/9g6qpr72ttbr</guid>
+      <pubDate>Mon, 15 Dec 2025 02:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>How Server-Sent Events Actually Work on Deno Deploy</title>
       <link>https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/</link>
       <description>I spent a week convinced my SSE implementation was wrong even if it did actually
