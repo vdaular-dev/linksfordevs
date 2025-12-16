@@ -1,5 +1,13 @@
 [
   {
+    "Title": "This is not the future",
+    "Url": "https://blog.mathieui.net/this-is-not-the-future.html",
+    "Timestamp": "2025-12-16T16:02:24",
+    "Domain": "blog.mathieui.net",
+    "Description": "I thought about this when reading a mastodon post which commented on a news\nwhere a project adopted a \"use Generative AI but disclose it\" policy, because\nit is \"the future\" and \"people are going to use it anyway\".",
+    "Confidence": 0.9559253
+  },
+  {
     "Title": "The Future of Fleet | The Fleet Blog",
     "Url": "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/",
     "Timestamp": "2025-12-16T15:02:23",
@@ -270,13 +278,5 @@
     "Domain": "relaxing.run",
     "Description": "Best read with Danger Zone playing on loop\nLike most people, you’re probably an absolute expert at landing on the aircraft carrier in Top Gun for the NES. But if you’re in the silent minority that have not yet mastered this skill, you’re in luck: I’ve done a little reverse engineerining and figured out precisely how landing works. Hopefully now you can get things really dialed in during your next practice session. Let’s get those windmill high-fives warmed up!",
     "Confidence": 0.9652156
-  },
-  {
-    "Title": "Switching from JavaScript to Godot for my RPG",
-    "Url": "https://jslegenddev.substack.com/p/js-to-godot",
-    "Timestamp": "2025-12-15T16:02:10",
-    "Domain": "jslegenddev.substack.com",
-    "Description": "In 2022, Vampire Survivors, a game where you destroy hordes of enemies by just moving around, released.",
-    "Confidence": 0.991542
   }
 ]
