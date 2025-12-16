@@ -7,6 +7,207 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Understanding Content-Length Header and Chunked Transfer Encoding - Pinggy</title>
+      <link>https://pinggy.io/blog/understanding_content_length_header_and_chunked_encoding/</link>
+      <description>A complete guide to HTTP Content-Length header and chunked transfer encoding. Learn how servers communicate response size, when to use each approach, and practical implementation examples for developers.</description>
+      <category>python</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://pinggy.io/blog/understanding_content_length_header_and_chunked_encoding/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>10GbE</title>
+      <link>https://duggan.ie/posts/10gbe</link>
+      <description>A price negotiation call to Virgin Media ended up with me upgrading to 5Gb fibre broadband.  This took me on a bit of a journey investigating things that have changed in home networking since 1Gb networking cards hit the scene.  Turns out, somehow both more than I expected and less than I imagined!</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://duggan.ie/posts/10gbe</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Think Different: Asahi Linux On An M2 Macbook Pro</title>
+      <link>https://www.feoh.org/posts/think-different-asahi-linux-on-an-m2-macbook-pro.html</link>
+      <description>Fair Warning
+I am a pragmatist. If the idea of someone using Snap to install software fills you with inchoate rage, shop elsewhere
+and, forgive me, but maybe reconsider your life choices :)
+Also, Asah</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://www.feoh.org/posts/think-different-asahi-linux-on-an-m2-macbook-pro.html</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Self-Driving Cars Still Don't Exist</title>
+      <link>https://dan.bulwinkle.net/blog/full-self-driving-cars/</link>
+      <description>Three points on why autonomous vehicles haven’t arrived yet</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://dan.bulwinkle.net/blog/full-self-driving-cars/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>What makes something 'GitHubby'</title>
+      <link>https://blog.mattnigh.net/post/what-githubby-means/</link>
+      <description>The persistent values + practices of GitHub</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://blog.mattnigh.net/post/what-githubby-means/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>A year of not really blogging</title>
+      <link>https://duggan.ie/posts/a-year-of-not-really-blogging</link>
+      <description>I started building a new blog in December 2024, and wrote my first substantial post in January 2025, but I have only published a handful of posts since then. What does that tell me?</description>
+      <guid>https://duggan.ie/posts/a-year-of-not-really-blogging</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>What happened to Quantified Self?</title>
+      <link>https://www.natemeyvis.com/what-happened-to-quantified-self/</link>
+      <description>The "Quantified Self" movement, once a significant part of tech and tech-adjacent culture, , at least under that name. Here are some candidate explanations:
+...</description>
+      <guid>https://www.natemeyvis.com/what-happened-to-quantified-self/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why You Shouldn’t Speedrun a Production Refactor</title>
+      <link>https://www.petervanonselen.com/2025/12/12/speedrunning-prod-refactors/</link>
+      <description>Learning the hard way that AI makes discipline more important, not less…</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://www.petervanonselen.com/2025/12/12/speedrunning-prod-refactors/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bets on Post-GPU Compute</title>
+      <link>https://www.vishalv.com/notes/bets-on-post-GPU-compute</link>
+      <description>Post-GPU compute is a bet that new hardware will make different primitives cheap. When the primitive changes, the winning model classes change. Extropic is a bet that sampling becomes that primitive.</description>
+      <author> (Vishal V)</author>
+      <category>ai</category>
+      <guid>https://www.vishalv.com/notes/bets-on-post-GPU-compute</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>RikVerse blog post</title>
+      <link>https://rikverse2020.rikweb.org.uk/blog/how-not-to-train-your-reader/</link>
+      <description>How (not) to train your reader - ... The Road Not Taken is taken easier when I trust my audience as equals.</description>
+      <category>ai</category>
+      <guid>https://rikverse2020.rikweb.org.uk/blog/how-not-to-train-your-reader/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Possible platform/arch names in Deno.build &amp; node:process</title>
+      <link>https://jcbhmr.com/2025/12/14/deno-build-possible-values/</link>
+      <description>I did some diving into what the possible values for these string enums are:</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>android</category>
+      <guid>https://jcbhmr.com/2025/12/14/deno-build-possible-values/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Decoding UTFs</title>
+      <link>https://ngonella.com/posts/utf-encoding/</link>
+      <description>December 13, 2025</description>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://ngonella.com/posts/utf-encoding/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>i-built-an-app-to-talk-to-my-dad - Chad Nauseam Home</title>
+      <link>https://chadnauseam.com/coding/random/i-built-an-app-to-talk-to-my-dad</link>
+      <description>i-built-an-app-to-talk-to-my-dad - Chad Nauseam Home</description>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://chadnauseam.com/coding/random/i-built-an-app-to-talk-to-my-dad</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>A fleeting nature of digital products is a major advancement over physical products • Milovan Jovičić, Product Designer</title>
+      <link>https://mikajovicic.com/writing/digital-medium-can-be-infinitely-improved/</link>
+      <description>The advantage of digital products over physical products is in their fleeting nature, their impermanence, that they could be continuously improved and become increasingly better. Digital products are the perfect creations that could be upgraded incrementally; after the change, a designer can test the results, apply the learned principles in the new version, and repeat.</description>
+      <guid>https://mikajovicic.com/writing/digital-medium-can-be-infinitely-improved/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nikhil Srinivasan – CEO at Infinite | Forbes 30 Under 30</title>
+      <link>https://www.nvs.xyz/writing/starting-infinite</link>
+      <description>Cofounder &amp; CEO of Infinite (YC W25). Forbes 30 Under 30. Previously Sardine, Coinbase, Wyss Institute. Angel investor in Anthropic, OpenAI &amp; more.</description>
+      <category>gaming</category>
+      <guid>https://www.nvs.xyz/writing/starting-infinite</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rejecting rebase and stacked diffs, my way of doing atomic commits</title>
+      <link>https://iain.rocks/blog/2025/12/15/rejecting-rebase-and-stack-diffs-my-way-of-doing-atomic-commits</link>
+      <description>The technical musings of Iain Cambridge.</description>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://iain.rocks/blog/2025/12/15/rejecting-rebase-and-stack-diffs-my-way-of-doing-atomic-commits</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I used Claude Code to write a piano web app</title>
+      <link>https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app</link>
+      <description>I recently grabbed myself a Claude Max subscription in hopes to enhance my workflow after spending a year using OpenAI tokens here and there to get assistance with specific problems. Having a new tool at my disposal, I wanted to try to make a start to finish project with it to put it through its paces. I decided I'd have it help me write a piano web app. Below are the exact prompts that I used to have the piano made. I did omit a few where I changed the database engine because Postgres was giving me a hard time on my VPS, but that is another story.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js Sucks; Or Why I Wrote My Own SSG | P.C. Maffey</title>
+      <link>https://pcmaffey.com/custom-ssg/</link>
+      <description>A little Saturday morning project</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://pcmaffey.com/custom-ssg/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self Improving Agent with Dynamic Context and Continuous Learning</title>
+      <link>https://www.ashpreetbedi.com/articles/sql-agent</link>
+      <description>Learn how to build a text-to-sql agent with dynamic context and poor man's continuous learning.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://www.ashpreetbedi.com/articles/sql-agent</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Deadweight Loss of Entertainment</title>
+      <link>https://moultano.wordpress.com/2025/12/09/the-dead-weight-loss-of-entertainment/</link>
+      <description>It is undeniably the best time to be alone in human history, but nobody is happy being alone. Why can’t we fix it?</description>
+      <category>gaming</category>
+      <guid>https://moultano.wordpress.com/2025/12/09/the-dead-weight-loss-of-entertainment/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grow slowly, stay small</title>
+      <link>https://herman.bearblog.dev/grow-slowly-stay-small/</link>
+      <description>A more sustainable way to do business</description>
+      <category>youtube</category>
+      <guid>https://herman.bearblog.dev/grow-slowly-stay-small/</guid>
+      <pubDate>Tue, 16 Dec 2025 01:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Vaxry's Blog</title>
       <link>https://blog.vaxry.net/articles/2025-dbusSucks</link>
       <description>A programming blog written by Vaxry.</description>
@@ -96,137 +297,6 @@ Like most people, you’re probably an absolute expert at landing on the aircraf
       <category>ai</category>
       <guid>https://status.claude.com/incidents/9g6qpr72ttbr</guid>
       <pubDate>Mon, 15 Dec 2025 02:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Server-Sent Events Actually Work on Deno Deploy</title>
-      <link>https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/</link>
-      <description>I spent a week convinced my SSE implementation was wrong even if it did actually
-work in practice.</description>
-      <category>conference</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compiler Engineering in Practice - Part 1: What is a Compiler?</title>
-      <link>https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html</link>
-      <description>“Compiler Engineering in Practice” is a blog series intended to pass on wisdom that seemingly every seasoned compiler developer knows, but is not systematically written down in any textbook or online resource. Some (but not much) prior experience with compilers is needed.</description>
-      <category>python</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>sql</category>
-      <category>vscode</category>
-      <guid>https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html</guid>
-      <pubDate>Mon, 15 Dec 2025 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>If you truncate a UUID I will truncate your fingers</title>
-      <link>https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/</link>
-      <description>“Oh I just needed something random but also human-readable” you said, as you casually called .Substring(8) on a UUID. You probably also “casually” mutilate animals like you …</description>
-      <category>sql</category>
-      <guid>https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>When buttons were invented, people believed that all humanity would degenerate • Milovan Jovičić, Product Designer</title>
-      <link>https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/</link>
-      <description>"You push the button, we do the rest".
-This was once the slogan of the famous Kodak company. They wanted to convince buyers how easy their devices were to operate.</description>
-      <guid>https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Six Big Bets</title>
-      <link>https://www.jerry.wtf/posts/six-big-bets/</link>
-      <description>
-You don’t get to take unlimited big bets in a single lifetime. You get a small number of windows where risk tolerance, energy, capital, and conviction align.
-In The Black Swan Nassim Taleb frames this as asymmetric exposure to unlimited upside with limited downside. And startups are one of the clearest modern mechanisms for that kind of asymmetry. But what’s often missed is that these opportunities are finite. You can’t swing endlessly. Most of life is spent accumulating the resources—knowledge, capital, relationships—that make the next swing possible.
-What follows are six moments where those resources briefly line up.</description>
-      <guid>https://www.jerry.wtf/posts/six-big-bets/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>I've Been Sleeping On Chinese Models</title>
-      <link>https://kylenessen.com/ive-been-sleeping-on-chinese-models/</link>
-      <description>Personal website and essays by Kyle Nessen</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://kylenessen.com/ive-been-sleeping-on-chinese-models/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why My Payment Agent Is Named George, Not stripe-agent</title>
-      <link>https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/</link>
-      <description>I name my AI sub-agents after people who inspire me—not whimsy, but a practice for remembering who the work is actually for.</description>
-      <category>ai</category>
-      <guid>https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Things I learned making a game engine</title>
-      <link>https://www.joelotter.com/posts/2025/12/growl/</link>
-      <description>I’ve spent the last few years building my own game engine from scratch. Here are some of the things I learned.</description>
-      <category>cloud</category>
-      <category>apple</category>
-      <category>android</category>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <guid>https://www.joelotter.com/posts/2025/12/growl/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>John Ocen's</title>
-      <link>https://johnocens.com/soothfare/learntfather</link>
-      <description>Output is deliberate.</description>
-      <category>android</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://johnocens.com/soothfare/learntfather</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Where is GPT in the Chomsky Hierarchy?</title>
-      <link>https://fi-le.net/chomsky/</link>
-      <description>fi-le.net, the Fiefdom of Files</description>
-      <category>ai</category>
-      <guid>https://fi-le.net/chomsky/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Reverse Engineered Claude's Memory System, and Here's What I Found!</title>
-      <link>https://manthanguptaa.in/posts/claude_memory/</link>
-      <description>When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?
-This is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.</description>
-      <category>ai</category>
-      <guid>https://manthanguptaa.in/posts/claude_memory/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cezar Cocu - Software Engineer</title>
-      <link>https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end</link>
-      <description>Software engineer building backend systems, AI/ML applications, and real-time software.</description>
-      <guid>https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>a distributed computing system powered by WebGPU · Learn the Wire</title>
-      <link>https://jake-purton.uk/collatz_blog/</link>
-      <description>Fri, Dec 12, 2025</description>
-      <category>rust</category>
-      <category>javascript</category>
-      <guid>https://jake-purton.uk/collatz_blog/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>How CPU Caches Work</title>
-      <link>https://www.0xkato.xyz/How-CPU-Caches-Work/</link>
-      <description>How CPU caches work, explained with a simple office analogy.</description>
-      <category>vscode</category>
-      <guid>https://www.0xkato.xyz/How-CPU-Caches-Work/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

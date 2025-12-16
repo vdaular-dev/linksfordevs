@@ -1,5 +1,173 @@
 [
   {
+    "Title": "Understanding Content-Length Header and Chunked Transfer Encoding - Pinggy",
+    "Url": "https://pinggy.io/blog/understanding_content_length_header_and_chunked_encoding/",
+    "Timestamp": "2025-12-16T01:03:39",
+    "Domain": "pinggy.io",
+    "Description": "A complete guide to HTTP Content-Length header and chunked transfer encoding. Learn how servers communicate response size, when to use each approach, and practical implementation examples for developers.",
+    "Confidence": 0.9956746
+  },
+  {
+    "Title": "10GbE",
+    "Url": "https://duggan.ie/posts/10gbe",
+    "Timestamp": "2025-12-16T01:03:36",
+    "Domain": "duggan.ie",
+    "Description": "A price negotiation call to Virgin Media ended up with me upgrading to 5Gb fibre broadband.  This took me on a bit of a journey investigating things that have changed in home networking since 1Gb networking cards hit the scene.  Turns out, somehow both more than I expected and less than I imagined!",
+    "Confidence": 0.9060985
+  },
+  {
+    "Title": "Think Different: Asahi Linux On An M2 Macbook Pro",
+    "Url": "https://www.feoh.org/posts/think-different-asahi-linux-on-an-m2-macbook-pro.html",
+    "Timestamp": "2025-12-16T01:03:31",
+    "Domain": "www.feoh.org",
+    "Description": "Fair Warning\nI am a pragmatist. If the idea of someone using Snap to install software fills you with inchoate rage, shop elsewhere\nand, forgive me, but maybe reconsider your life choices :)\nAlso, Asah",
+    "Confidence": 0.988005
+  },
+  {
+    "Title": "Why Self-Driving Cars Still Don't Exist",
+    "Url": "https://dan.bulwinkle.net/blog/full-self-driving-cars/",
+    "Timestamp": "2025-12-16T01:03:27",
+    "Domain": "dan.bulwinkle.net",
+    "Description": "Three points on why autonomous vehicles haven’t arrived yet",
+    "Confidence": 0.9502242
+  },
+  {
+    "Title": "What makes something 'GitHubby'",
+    "Url": "https://blog.mattnigh.net/post/what-githubby-means/",
+    "Timestamp": "2025-12-16T01:03:24",
+    "Domain": "blog.mattnigh.net",
+    "Description": "The persistent values + practices of GitHub",
+    "Confidence": 0.97274256
+  },
+  {
+    "Title": "A year of not really blogging",
+    "Url": "https://duggan.ie/posts/a-year-of-not-really-blogging",
+    "Timestamp": "2025-12-16T01:03:20",
+    "Domain": "duggan.ie",
+    "Description": "I started building a new blog in December 2024, and wrote my first substantial post in January 2025, but I have only published a handful of posts since then. What does that tell me?",
+    "Confidence": 0.9454881
+  },
+  {
+    "Title": "What happened to Quantified Self?",
+    "Url": "https://www.natemeyvis.com/what-happened-to-quantified-self/",
+    "Timestamp": "2025-12-16T01:03:16",
+    "Domain": "www.natemeyvis.com",
+    "Description": "The \"Quantified Self\" movement, once a significant part of tech and tech-adjacent culture, , at least under that name. Here are some candidate explanations:\n...",
+    "Confidence": 0.8647913
+  },
+  {
+    "Title": "Why You Shouldn’t Speedrun a Production Refactor",
+    "Url": "https://www.petervanonselen.com/2025/12/12/speedrunning-prod-refactors/",
+    "Timestamp": "2025-12-16T01:03:13",
+    "Domain": "www.petervanonselen.com",
+    "Description": "Learning the hard way that AI makes discipline more important, not less…",
+    "Confidence": 0.9794289
+  },
+  {
+    "Title": "Bets on Post-GPU Compute",
+    "Url": "https://www.vishalv.com/notes/bets-on-post-GPU-compute",
+    "Timestamp": "2025-12-16T01:03:09",
+    "Domain": "www.vishalv.com",
+    "Description": "Post-GPU compute is a bet that new hardware will make different primitives cheap. When the primitive changes, the winning model classes change. Extropic is a bet that sampling becomes that primitive.",
+    "Confidence": 0.89385456
+  },
+  {
+    "Title": "RikVerse blog post",
+    "Url": "https://rikverse2020.rikweb.org.uk/blog/how-not-to-train-your-reader/",
+    "Timestamp": "2025-12-16T01:03:06",
+    "Domain": "rikverse2020.rikweb.org.uk",
+    "Description": "How (not) to train your reader - ... The Road Not Taken is taken easier when I trust my audience as equals.",
+    "Confidence": 0.9200859
+  },
+  {
+    "Title": "Possible platform/arch names in Deno.build & node:process",
+    "Url": "https://jcbhmr.com/2025/12/14/deno-build-possible-values/",
+    "Timestamp": "2025-12-16T01:03:01",
+    "Domain": "jcbhmr.com",
+    "Description": "I did some diving into what the possible values for these string enums are:",
+    "Confidence": 0.9985201
+  },
+  {
+    "Title": "Decoding UTFs",
+    "Url": "https://ngonella.com/posts/utf-encoding/",
+    "Timestamp": "2025-12-16T01:02:57",
+    "Domain": "ngonella.com",
+    "Description": "December 13, 2025",
+    "Confidence": 0.9983223
+  },
+  {
+    "Title": "i-built-an-app-to-talk-to-my-dad - Chad Nauseam Home",
+    "Url": "https://chadnauseam.com/coding/random/i-built-an-app-to-talk-to-my-dad",
+    "Timestamp": "2025-12-16T01:02:54",
+    "Domain": "chadnauseam.com",
+    "Description": "i-built-an-app-to-talk-to-my-dad - Chad Nauseam Home",
+    "Confidence": 0.9815604
+  },
+  {
+    "Title": "A fleeting nature of digital products is a major advancement over physical products • Milovan Jovičić, Product Designer",
+    "Url": "https://mikajovicic.com/writing/digital-medium-can-be-infinitely-improved/",
+    "Timestamp": "2025-12-16T01:02:51",
+    "Domain": "mikajovicic.com",
+    "Description": "The advantage of digital products over physical products is in their fleeting nature, their impermanence, that they could be continuously improved and become increasingly better. Digital products are the perfect creations that could be upgraded incrementally; after the change, a designer can test the results, apply the learned principles in the new version, and repeat.",
+    "Confidence": 0.7856248
+  },
+  {
+    "Title": "Nikhil Srinivasan – CEO at Infinite | Forbes 30 Under 30",
+    "Url": "https://www.nvs.xyz/writing/starting-infinite",
+    "Timestamp": "2025-12-16T01:02:47",
+    "Domain": "www.nvs.xyz",
+    "Description": "Cofounder & CEO of Infinite (YC W25). Forbes 30 Under 30. Previously Sardine, Coinbase, Wyss Institute. Angel investor in Anthropic, OpenAI & more.",
+    "Confidence": 0.8077694
+  },
+  {
+    "Title": "Rejecting rebase and stacked diffs, my way of doing atomic commits",
+    "Url": "https://iain.rocks/blog/2025/12/15/rejecting-rebase-and-stack-diffs-my-way-of-doing-atomic-commits",
+    "Timestamp": "2025-12-16T01:02:40",
+    "Domain": "iain.rocks",
+    "Description": "The technical musings of Iain Cambridge.",
+    "Confidence": 0.99366045
+  },
+  {
+    "Title": "How I used Claude Code to write a piano web app",
+    "Url": "https://jcurcioconsulting.com/posts/how-i-used-claude-code-to-write-a-piano-web-app",
+    "Timestamp": "2025-12-16T01:02:36",
+    "Domain": "jcurcioconsulting.com",
+    "Description": "I recently grabbed myself a Claude Max subscription in hopes to enhance my workflow after spending a year using OpenAI tokens here and there to get assistance with specific problems. Having a new tool at my disposal, I wanted to try to make a start to finish project with it to put it through its paces. I decided I'd have it help me write a piano web app. Below are the exact prompts that I used to have the piano made. I did omit a few where I changed the database engine because Postgres was giving me a hard time on my VPS, but that is another story.",
+    "Confidence": 0.9805835
+  },
+  {
+    "Title": "Next.js Sucks; Or Why I Wrote My Own SSG | P.C. Maffey",
+    "Url": "https://pcmaffey.com/custom-ssg/",
+    "Timestamp": "2025-12-16T01:02:32",
+    "Domain": "pcmaffey.com",
+    "Description": "A little Saturday morning project",
+    "Confidence": 0.9886223
+  },
+  {
+    "Title": "Self Improving Agent with Dynamic Context and Continuous Learning",
+    "Url": "https://www.ashpreetbedi.com/articles/sql-agent",
+    "Timestamp": "2025-12-16T01:02:29",
+    "Domain": "www.ashpreetbedi.com",
+    "Description": "Learn how to build a text-to-sql agent with dynamic context and poor man's continuous learning.",
+    "Confidence": 0.9953174
+  },
+  {
+    "Title": "The Deadweight Loss of Entertainment",
+    "Url": "https://moultano.wordpress.com/2025/12/09/the-dead-weight-loss-of-entertainment/",
+    "Timestamp": "2025-12-16T01:02:25",
+    "Domain": "moultano.wordpress.com",
+    "Description": "It is undeniably the best time to be alone in human history, but nobody is happy being alone. Why can’t we fix it?",
+    "Confidence": 0.91049755
+  },
+  {
+    "Title": "Grow slowly, stay small",
+    "Url": "https://herman.bearblog.dev/grow-slowly-stay-small/",
+    "Timestamp": "2025-12-16T01:02:22",
+    "Domain": "herman.bearblog.dev",
+    "Description": "A more sustainable way to do business",
+    "Confidence": 0.8858034
+  },
+  {
     "Title": "Vaxry's Blog",
     "Url": "https://blog.vaxry.net/articles/2025-dbusSucks",
     "Timestamp": "2025-12-16T00:02:05",
@@ -70,117 +238,5 @@
     "Domain": "status.claude.com",
     "Description": "Claude's Status Page - Elevated errors across many models.",
     "Confidence": 0.97614986
-  },
-  {
-    "Title": "How Server-Sent Events Actually Work on Deno Deploy",
-    "Url": "https://sam.elborai.me/articles/how-sse-actually-works-deno-deploy/",
-    "Timestamp": "2025-12-15T01:03:10",
-    "Domain": "sam.elborai.me",
-    "Description": "I spent a week convinced my SSE implementation was wrong even if it did actually\nwork in practice.",
-    "Confidence": 0.97822773
-  },
-  {
-    "Title": "Compiler Engineering in Practice - Part 1: What is a Compiler?",
-    "Url": "https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html",
-    "Timestamp": "2025-12-15T01:03:06",
-    "Domain": "chisophugis.github.io",
-    "Description": "“Compiler Engineering in Practice” is a blog series intended to pass on wisdom that seemingly every seasoned compiler developer knows, but is not systematically written down in any textbook or online resource. Some (but not much) prior experience with compilers is needed.",
-    "Confidence": 0.9971392
-  },
-  {
-    "Title": "If you truncate a UUID I will truncate your fingers",
-    "Url": "https://gieseanw.wordpress.com/2025/12/14/if-you-truncate-a-uuid-i-will-truncate-your-fingers/",
-    "Timestamp": "2025-12-15T01:03:03",
-    "Domain": "gieseanw.wordpress.com",
-    "Description": "“Oh I just needed something random but also human-readable” you said, as you casually called .Substring(8) on a UUID. You probably also “casually” mutilate animals like you …",
-    "Confidence": 0.96592224
-  },
-  {
-    "Title": "When buttons were invented, people believed that all humanity would degenerate • Milovan Jovičić, Product Designer",
-    "Url": "https://mikajovicic.com/writing/button-invention-made-interface-simplicity-possible/",
-    "Timestamp": "2025-12-15T01:02:59",
-    "Domain": "mikajovicic.com",
-    "Description": "\"You push the button, we do the rest\".\nThis was once the slogan of the famous Kodak company. They wanted to convince buyers how easy their devices were to operate.",
-    "Confidence": 0.93324673
-  },
-  {
-    "Title": "Six Big Bets",
-    "Url": "https://www.jerry.wtf/posts/six-big-bets/",
-    "Timestamp": "2025-12-15T01:02:55",
-    "Domain": "www.jerry.wtf",
-    "Description": "\nYou don’t get to take unlimited big bets in a single lifetime. You get a small number of windows where risk tolerance, energy, capital, and conviction align.\nIn The Black Swan Nassim Taleb frames this as asymmetric exposure to unlimited upside with limited downside. And startups are one of the clearest modern mechanisms for that kind of asymmetry. But what’s often missed is that these opportunities are finite. You can’t swing endlessly. Most of life is spent accumulating the resources—knowledge, capital, relationships—that make the next swing possible.\nWhat follows are six moments where those resources briefly line up.",
-    "Confidence": 0.8704083
-  },
-  {
-    "Title": "I've Been Sleeping On Chinese Models",
-    "Url": "https://kylenessen.com/ive-been-sleeping-on-chinese-models/",
-    "Timestamp": "2025-12-15T01:02:52",
-    "Domain": "kylenessen.com",
-    "Description": "Personal website and essays by Kyle Nessen",
-    "Confidence": 0.95454586
-  },
-  {
-    "Title": "Why My Payment Agent Is Named George, Not stripe-agent",
-    "Url": "https://blog.kestrelsnest.social/posts/2025-12-14-why-my-payment-agent-is-named-george-not-stripe-agent/",
-    "Timestamp": "2025-12-15T01:02:48",
-    "Domain": "blog.kestrelsnest.social",
-    "Description": "I name my AI sub-agents after people who inspire me—not whimsy, but a practice for remembering who the work is actually for.",
-    "Confidence": 0.9366425
-  },
-  {
-    "Title": "Things I learned making a game engine",
-    "Url": "https://www.joelotter.com/posts/2025/12/growl/",
-    "Timestamp": "2025-12-15T01:02:45",
-    "Domain": "www.joelotter.com",
-    "Description": "I’ve spent the last few years building my own game engine from scratch. Here are some of the things I learned.",
-    "Confidence": 0.9821189
-  },
-  {
-    "Title": "John Ocen's",
-    "Url": "https://johnocens.com/soothfare/learntfather",
-    "Timestamp": "2025-12-15T01:02:41",
-    "Domain": "johnocens.com",
-    "Description": "Output is deliberate.",
-    "Confidence": 0.6568258
-  },
-  {
-    "Title": "Where is GPT in the Chomsky Hierarchy?",
-    "Url": "https://fi-le.net/chomsky/",
-    "Timestamp": "2025-12-15T01:02:32",
-    "Domain": "fi-le.net",
-    "Description": "fi-le.net, the Fiefdom of Files",
-    "Confidence": 0.98649615
-  },
-  {
-    "Title": "I Reverse Engineered Claude's Memory System, and Here's What I Found!",
-    "Url": "https://manthanguptaa.in/posts/claude_memory/",
-    "Timestamp": "2025-12-15T01:02:29",
-    "Domain": "manthanguptaa.in",
-    "Description": "When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I discovered Claude uses on-demand tools and selective retrieval, a fundamentally different architecture. But how does this actually work? And how does it compare to ChatGPT’s approach?\nThis is the second post in a series where I reverse-engineer the memory systems of popular AI assistants. The first post focused on ChatGPT’s memory system.",
-    "Confidence": 0.99379456
-  },
-  {
-    "Title": "Cezar Cocu - Software Engineer",
-    "Url": "https://cezarcocu.com/blog/sometimes-you-dont-get-your-ice-cream-at-the-end",
-    "Timestamp": "2025-12-15T01:02:25",
-    "Domain": "cezarcocu.com",
-    "Description": "Software engineer building backend systems, AI/ML applications, and real-time software.",
-    "Confidence": 0.6894927
-  },
-  {
-    "Title": "a distributed computing system powered by WebGPU · Learn the Wire",
-    "Url": "https://jake-purton.uk/collatz_blog/",
-    "Timestamp": "2025-12-15T01:02:22",
-    "Domain": "jake-purton.uk",
-    "Description": "Fri, Dec 12, 2025",
-    "Confidence": 0.9948527
-  },
-  {
-    "Title": "How CPU Caches Work",
-    "Url": "https://www.0xkato.xyz/How-CPU-Caches-Work/",
-    "Timestamp": "2025-12-15T01:02:18",
-    "Domain": "www.0xkato.xyz",
-    "Description": "How CPU caches work, explained with a simple office analogy.",
-    "Confidence": 0.98805815
   }
 ]
