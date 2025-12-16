@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>No Graphics API — Sebastian Aaltonen</title>
+      <link>https://www.sebastianaaltonen.com/blog/no-graphics-api</link>
+      <description>Graphics APIs and shader languages have significantly increased in complexity over the past decade. It’s time to start discussing how to strip down the abstractions to simplify development, improve performance, and prepare for future GPU workloads.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://www.sebastianaaltonen.com/blog/no-graphics-api</guid>
+      <pubDate>Tue, 16 Dec 2025 23:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Mozilla’s next chapter: Building the world’s most trusted software company | The Mozilla Blog</title>
       <link>https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/</link>
       <description>Today, I step into the role of CEO of Mozilla Corporation. It is a privilege to lead an organization with a long history of standing up for people and buil</description>
@@ -37,8 +46,8 @@
       <description>GitHub Actions pricing update: Discover lower runner rates (up to 39% off) following a major re-architecture for faster, more reliable CI/CD.</description>
       <category>ai</category>
       <category>cloud</category>
-      <category>linux</category>
       <category>containers</category>
+      <category>linux</category>
       <category>git</category>
       <guid>https://resources.github.com/actions/2026-pricing-changes-for-github-actions/</guid>
       <pubDate>Tue, 16 Dec 2025 19:02:15 GMT</pubDate>
