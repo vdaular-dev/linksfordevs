@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution",
+    "Url": "https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/",
+    "Timestamp": "2025-12-16T09:02:22",
+    "Domain": "www.zdnet.com",
+    "Description": "Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.",
+    "Confidence": 0.66624844
+  },
+  {
+    "Title": "Sharp Monocular View Synthesis in Less Than a Second",
+    "Url": "https://apple.github.io/ml-sharp/",
+    "Timestamp": "2025-12-16T09:02:16",
+    "Domain": "apple.github.io",
+    "Description": "Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen,",
+    "Confidence": 0.708779
+  },
+  {
+    "Title": "Quill OS - Homepage",
+    "Url": "https://quill-os.org/",
+    "Timestamp": "2025-12-16T09:02:13",
+    "Domain": "quill-os.org",
+    "Description": "Here are some of Quill OS' features:",
+    "Confidence": 0.9475073
+  },
+  {
     "Title": "8 Million Users' AI Conversations Sold for Profit by \"Privacy\" Extensions | Koi Blog",
     "Url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
     "Timestamp": "2025-12-16T08:02:02",
@@ -238,13 +262,5 @@
     "Domain": "news.bloomberglaw.com",
     "Description": "iRobot Corp., the company that revolutionized robot vacuum cleaners in the early 2000s with its Roomba model, filed for bankruptcy and proposed handing over control to its main Chinese supplier. ",
     "Confidence": 0.5359483
-  },
-  {
-    "Title": "🦀 Rust Is Officially Part of Linux Mainline",
-    "Url": "https://weeklyrust.substack.com/p/rust-is-officially-part-of-linux?triedRedirect=true",
-    "Timestamp": "2025-12-15T09:02:02",
-    "Domain": "weeklyrust.substack.com",
-    "Description": "Today’s issue: Rust 1.92.0 Is Out, Zed’s Hidden Gems, and Redis-rs Is Finally Stable?",
-    "Confidence": 0.9055666
   }
 ]

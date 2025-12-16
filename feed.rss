@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Linus Torvalds is 'a huge believer' in using AI to maintain code - just don't call it a revolution</title>
+      <link>https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/</link>
+      <description>Torvalds is sick of all the AI hype, but says AI is finally maturing to the point where it will be useful for Linux developers and maintainers.</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>apple</category>
+      <guid>https://www.zdnet.com/article/linus-torvalds-ai-tool-maintaining-linux-code/</guid>
+      <pubDate>Tue, 16 Dec 2025 09:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sharp Monocular View Synthesis in Less Than a Second</title>
+      <link>https://apple.github.io/ml-sharp/</link>
+      <description>Lars Mescheder, Wei Dong, Shiwei Li, Xuyang Bai, Marcel Santos, Peiyun Hu, Bruno Lecouat, Mingmin Zhen,</description>
+      <guid>https://apple.github.io/ml-sharp/</guid>
+      <pubDate>Tue, 16 Dec 2025 09:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Quill OS - Homepage</title>
+      <link>https://quill-os.org/</link>
+      <description>Here are some of Quill OS' features:</description>
+      <category>cloud</category>
+      <guid>https://quill-os.org/</guid>
+      <pubDate>Tue, 16 Dec 2025 09:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions | Koi Blog</title>
       <link>https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection</link>
       <description></description>
@@ -288,18 +314,6 @@ Like most people, you’re probably an absolute expert at landing on the aircraf
       <description>iRobot Corp., the company that revolutionized robot vacuum cleaners in the early 2000s with its Roomba model, filed for bankruptcy and proposed handing over control to its main Chinese supplier. </description>
       <guid>https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years</guid>
       <pubDate>Mon, 15 Dec 2025 13:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>🦀 Rust Is Officially Part of Linux Mainline</title>
-      <link>https://weeklyrust.substack.com/p/rust-is-officially-part-of-linux?triedRedirect=true</link>
-      <description>Today’s issue: Rust 1.92.0 Is Out, Zed’s Hidden Gems, and Redis-rs Is Finally Stable?</description>
-      <category>rust</category>
-      <category>sql</category>
-      <category>linux</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://weeklyrust.substack.com/p/rust-is-officially-part-of-linux?triedRedirect=true</guid>
-      <pubDate>Mon, 15 Dec 2025 09:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
