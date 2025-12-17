@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The 1979 Pitch: Convincing Bjarne Stroustrup of C++'s Future</title>
+      <link>https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup</link>
+      <description>If you could time-travel to 1979 and met with Bjarne Stroustrup, what would you tell him (Updated)</description>
+      <category>apple</category>
+      <guid>https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup</guid>
+      <pubDate>Wed, 17 Dec 2025 11:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>No AI* Here - A Response to Mozilla's Next Chapter - Waterfox Blog</title>
       <link>https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/</link>
       <description>Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.</description>
@@ -345,16 +353,6 @@ it is "the future" and "people are going to use it anyway".</description>
       <category>gaming</category>
       <guid>https://retrogamecoders.com/how-c64-sprites-work/</guid>
       <pubDate>Tue, 16 Dec 2025 14:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable</title>
-      <link>https://johnlian.net/posts/hdmi-cec/</link>
-      <description>Revenge tale against Consumer Electronics "Control".</description>
-      <category>git</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://johnlian.net/posts/hdmi-cec/</guid>
-      <pubDate>Tue, 16 Dec 2025 11:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

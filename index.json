@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The 1979 Pitch: Convincing Bjarne Stroustrup of C++'s Future",
+    "Url": "https://coderschmoder.com/i-time-traveled-1979-met-bjarne-stroustrup",
+    "Timestamp": "2025-12-17T11:02:01",
+    "Domain": "coderschmoder.com",
+    "Description": "If you could time-travel to 1979 and met with Bjarne Stroustrup, what would you tell him (Updated)",
+    "Confidence": 0.99350363
+  },
+  {
     "Title": "No AI* Here - A Response to Mozilla's Next Chapter - Waterfox Blog",
     "Url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
     "Timestamp": "2025-12-17T08:01:58",
@@ -278,13 +286,5 @@
     "Domain": "retrogamecoders.com",
     "Description": "How to program the Commodore 64 to use hardware sprites in our games, with code in BASIC, XC-BASIC3, and UGBASIC",
     "Confidence": 0.9686627
-  },
-  {
-    "Title": "Fix HDMI-CEC weirdness with a Raspberry Pi and a $7 cable",
-    "Url": "https://johnlian.net/posts/hdmi-cec/",
-    "Timestamp": "2025-12-16T11:02:03",
-    "Domain": "johnlian.net",
-    "Description": "Revenge tale against Consumer Electronics \"Control\".",
-    "Confidence": 0.976914
   }
 ]
