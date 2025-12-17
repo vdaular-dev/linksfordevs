@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>No AI* Here - A Response to Mozilla's Next Chapter - Waterfox Blog</title>
+      <link>https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/</link>
+      <description>Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.</description>
+      <category>ai</category>
+      <guid>https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/</guid>
+      <pubDate>Wed, 17 Dec 2025 08:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Building Software From Blog Posts</title>
       <link>https://build.ms/2025/12/15/building-software-from-blog-posts/</link>
       <description>Did you know you can just point AI at a blog post and have it build a piece of software? That‘s where we are now.</description>
@@ -373,16 +381,6 @@ it is "the future" and "people are going to use it anyway".</description>
       <category>cloud</category>
       <guid>https://quill-os.org/</guid>
       <pubDate>Tue, 16 Dec 2025 09:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 Million Users' AI Conversations Sold for Profit by "Privacy" Extensions | Koi Blog</title>
-      <link>https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection</link>
-      <description></description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection</guid>
-      <pubDate>Tue, 16 Dec 2025 08:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

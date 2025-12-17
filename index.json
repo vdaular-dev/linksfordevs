@@ -1,5 +1,13 @@
 [
   {
+    "Title": "No AI* Here - A Response to Mozilla's Next Chapter - Waterfox Blog",
+    "Url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+    "Timestamp": "2025-12-17T08:01:58",
+    "Domain": "www.waterfox.com",
+    "Description": "Mozilla's pivot to AI first browsing raises fundamental questions about what a browser should be. Waterfox won't include them. The browser's job is to serve you, not think for you.",
+    "Confidence": 0.9900034
+  },
+  {
     "Title": "Building Software From Blog Posts",
     "Url": "https://build.ms/2025/12/15/building-software-from-blog-posts/",
     "Timestamp": "2025-12-17T02:04:02",
@@ -302,13 +310,5 @@
     "Domain": "quill-os.org",
     "Description": "Here are some of Quill OS' features:",
     "Confidence": 0.9475073
-  },
-  {
-    "Title": "8 Million Users' AI Conversations Sold for Profit by \"Privacy\" Extensions | Koi Blog",
-    "Url": "https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection",
-    "Timestamp": "2025-12-16T08:02:02",
-    "Domain": "www.koi.ai",
-    "Description": "",
-    "Confidence": 0.94784296
   }
 ]
