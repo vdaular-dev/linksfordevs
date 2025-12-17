@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Aspire 13.1 - Our holiday gift to you",
+    "Url": "https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/",
+    "Timestamp": "2025-12-17T23:02:19",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Aspire 13.1 adds first-class AI agent support, CLI MCP integration, dashboard improvements, Azure enhancements, and end-to-end HTTPS for local development.",
+    "Confidence": 0.9940679
+  },
+  {
+    "Title": "Resource Principal Authentication with OCI Container Instances",
+    "Url": "https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances",
+    "Timestamp": "2025-12-17T23:02:15",
+    "Domain": "basementprogrammer.com",
+    "Description": "OCI Instance Containers are the OCI way of saying “I have a Container… please run it for me…” The idea is that you don’t have to worry about the underlying resources. It’s serverless containers. Getting your container up and running is extremely simp...",
+    "Confidence": 0.9933434
+  },
+  {
     "Title": "Coursera to Combine with Udemy to Empower the Global Workforce with Skills for the AI Era",
     "Url": "https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx",
     "Timestamp": "2025-12-17T20:02:24",
@@ -262,13 +278,5 @@
     "Domain": "astral.sh",
     "Description": "ty is an extremely fast Python type checker and language server, written in Rust, and designed as an alternative to mypy, Pyright, and Pylance.",
     "Confidence": 0.9660636
-  },
-  {
-    "Title": "No Graphics API — Sebastian Aaltonen",
-    "Url": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
-    "Timestamp": "2025-12-16T23:02:13",
-    "Domain": "www.sebastianaaltonen.com",
-    "Description": "Graphics APIs and shader languages have significantly increased in complexity over the past decade. It’s time to start discussing how to strip down the abstractions to simplify development, improve performance, and prepare for future GPU workloads.",
-    "Confidence": 0.9978975
   }
 ]

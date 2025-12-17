@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Aspire 13.1 - Our holiday gift to you</title>
+      <link>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/</link>
+      <description>Aspire 13.1 adds first-class AI agent support, CLI MCP integration, dashboard improvements, Azure enhancements, and end-to-end HTTPS for local development.</description>
+      <category>conference</category>
+      <category>nodejs</category>
+      <category>aspnet</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/</guid>
+      <pubDate>Wed, 17 Dec 2025 23:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resource Principal Authentication with OCI Container Instances</title>
+      <link>https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances</link>
+      <description>OCI Instance Containers are the OCI way of saying “I have a Container… please run it for me…” The idea is that you don’t have to worry about the underlying resources. It’s serverless containers. Getting your container up and running is extremely simp...</description>
+      <author> (https://hashnode.com/@BasementProgrammer)</author>
+      <category>vscode</category>
+      <guid>https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances</guid>
+      <pubDate>Wed, 17 Dec 2025 23:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Coursera to Combine with Udemy to Empower the Global Workforce with Skills for the AI Era</title>
       <link>https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx</link>
       <description>Highly Complementary Capabilities Will Create a Leading Technology Platform, Redefining Skills Discovery, Development, and Mastery for Learners and Organizations at Scale Unites Udemy’s Dynamic AI-Powered Skills Development Marketplace with World-Class University and Industry Brands Under the Coursera Ecosystem, Expanding Value, Impact, and Choice Globally Strengthens Combined Company’s Financial Profile with Pro Forma Annual Revenue of More Than $1.5 Billion and Anticipated Annual Run-Rate Cost Synergies of $115 Million Within 24 Months Coursera and Udemy to Host Joint Conference Call Today, December 17, 2025, at 5:00 a.m. PT / 8:00 a.m. ET Coursera, Inc. (NYSE: COUR) and Udemy, Inc. (NASDAQ: UDMY) today announced that they have entered into a definitive merger agreement under which Coursera will combine with Udemy in an all-stock transaction. Based on the closing prices of Coursera and Udemy common stock on December 16, 2025, the implied equity value of the combined company is</description>
@@ -339,15 +360,6 @@ https://www.youtube.com/@davepl</description>
       <category>vscode</category>
       <guid>https://astral.sh/blog/ty</guid>
       <pubDate>Wed, 17 Dec 2025 01:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>No Graphics API — Sebastian Aaltonen</title>
-      <link>https://www.sebastianaaltonen.com/blog/no-graphics-api</link>
-      <description>Graphics APIs and shader languages have significantly increased in complexity over the past decade. It’s time to start discussing how to strip down the abstractions to simplify development, improve performance, and prepare for future GPU workloads.</description>
-      <category>cloud</category>
-      <category>gaming</category>
-      <guid>https://www.sebastianaaltonen.com/blog/no-graphics-api</guid>
-      <pubDate>Tue, 16 Dec 2025 23:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
