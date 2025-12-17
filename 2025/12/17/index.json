@@ -1,5 +1,166 @@
 [
   {
+    "Title": "Building Software From Blog Posts",
+    "Url": "https://build.ms/2025/12/15/building-software-from-blog-posts/",
+    "Timestamp": "2025-12-17T02:04:02",
+    "Domain": "build.ms",
+    "Description": "Did you know you can just point AI at a blog post and have it build a piece of software? That‘s where we are now."
+  },
+  {
+    "Title": "Moving Cloudflare out of the critical path",
+    "Url": "https://duggan.ie/posts/moving-cloudflare-out-of-the-critical-path",
+    "Timestamp": "2025-12-17T02:03:59",
+    "Domain": "duggan.ie",
+    "Description": "I'm a big fan of Cloudflare, but the extended outage on November 18th was long enough that I started wondering whether I really needed it to be in the critical request path for my blog."
+  },
+  {
+    "Title": "The “A” in “AI” Stands For Amnesia",
+    "Url": "https://blog.jim-nielsen.com/2025/a-in-ai-stands-for-amnesia/",
+    "Timestamp": "2025-12-17T02:03:54",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web."
+  },
+  {
+    "Title": "Don’t Build a General Purpose API (4 Years Later) - Max Chernyak",
+    "Url": "https://max.engineer/server-informed-ui-p2",
+    "Timestamp": "2025-12-17T02:03:51",
+    "Domain": "max.engineer",
+    "Description": "FAQ about the original article"
+  },
+  {
+    "Title": "From broken to testable SwiftUI navigation: The decoupled approach of MVVM with coordinators",
+    "Url": "https://matteomanferdini.com/mvvm-coordinator-swiftui/",
+    "Timestamp": "2025-12-17T02:03:47",
+    "Domain": "matteomanferdini.com",
+    "Description": "SwiftUI provides several tools for managing navigation, and the introduction of NavigationStack and value-destination links improved programmatic navigation. However, in larger applications, vanilla SwiftUI navigation can pose challenges for testability, maintainability, and modularity. Navigation logic is distributed across views, introducing coupling and making the navigation code hard to locate. These problems can be addressed by ... Read more"
+  },
+  {
+    "Title": "Angelo Cortez",
+    "Url": "https://angelocortez.com/blog/recsys",
+    "Timestamp": "2025-12-17T02:03:43",
+    "Domain": "angelocortez.com",
+    "Description": "Angelo Cortez's personal website"
+  },
+  {
+    "Title": "i'm just having fun",
+    "Url": "https://jyn.dev/i-m-just-having-fun/",
+    "Timestamp": "2025-12-17T02:03:39",
+    "Domain": "jyn.dev",
+    "Description": "programming isn't a competition"
+  },
+  {
+    "Title": "Prompt-coding without suffering",
+    "Url": "https://mough.xyz/2025/12/zen-coding/",
+    "Timestamp": "2025-12-17T02:03:36",
+    "Domain": "mough.xyz",
+    "Description": "I have been suffering greatly lately while prompt-coding. I find that the cause is consistently breaking one of a handful of what ought to be commandments.  I t..."
+  },
+  {
+    "Title": "The order is backwards",
+    "Url": "https://granot.io/the-order-is-backwards/",
+    "Timestamp": "2025-12-17T02:03:33",
+    "Domain": "granot.io",
+    "Description": "\n\n\nMost AI writing tools have the order backwards.\n\nThey generate first, then ask you to fix it. You end up iterating on garbage, hoping something real ..."
+  },
+  {
+    "Title": "Key Management System (Kraken Style)",
+    "Url": "https://bomfather.dev/comics/5/",
+    "Timestamp": "2025-12-17T02:03:29",
+    "Domain": "bomfather.dev",
+    "Description": "* We don't use AI to create our comics, all of our comics are hand drawn!"
+  },
+  {
+    "Title": "Remove black color with shaders",
+    "Url": "https://yuanchuan.dev/remove-black-color-with-shaders",
+    "Timestamp": "2025-12-17T02:03:26",
+    "Domain": "yuanchuan.dev",
+    "Description": "A while back, I coded the CBC (Canadian Broadcasting Corporation) logo with a quick css-doodle implementation.\n    There are certainly better ways to do it, but I chose to stack several black boxes and circles, because the background color was black, those black boxes ended up becoming"
+  },
+  {
+    "Title": "Brief note on hand-drawing and Lie groups",
+    "Url": "https://nigelvr.github.io/post-2.html",
+    "Timestamp": "2025-12-17T02:03:23",
+    "Domain": "nigelvr.github.io",
+    "Description": "A is a continous map from γ : [0, 1] → SO(3) ⋊ G\nwhere G = ℝ3 or\npossibly SO(2). In\nother words, a drawing is a continuous path in a group like the one\nabove. Call the drawing group (the semidirect product) D. Then the complete drawing is the\ncomposition [0, 1] → G → ℝ2. Let\nP be the , i.e. the image in\nℝ2 under this map."
+  },
+  {
+    "Title": "What Does a Database for SSDs Look Like?",
+    "Url": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+    "Timestamp": "2025-12-17T02:03:19",
+    "Domain": "brooker.co.za",
+    "Description": "Maybe not what you think."
+  },
+  {
+    "Title": "Type-Safe User Interfaces & the Manifest Pattern | Andrew Hathaway",
+    "Url": "https://andrewhathaway.net/blog/manifest-pattern/",
+    "Timestamp": "2025-12-17T02:03:15",
+    "Domain": "andrewhathaway.net",
+    "Description": "The Manifest Pattern offers a structured way to build fully type-safe, scalable user interfaces in TypeScript."
+  },
+  {
+    "Title": "Noel Welsh: Designing Custom UUIDs",
+    "Url": "https://noelwelsh.com/posts/building-an-id-scheme/",
+    "Timestamp": "2025-12-17T02:03:11",
+    "Domain": "noelwelsh.com",
+    "Description": "Of my recent projects, one of the most fun was creating an algorithm for generating unique identifiers.\nIn this post I'll walk through my process,\nand show how a combination of mathematics, computer science, and business requirements lead to the solution.\nI found this a very interesting problem,\nand I think it makes a great case study of how theory and practice go together."
+  },
+  {
+    "Title": "Efficient Dockerfile templating for complex build scenarios",
+    "Url": "https://gagor.pro/2025/01/efficient-dockerfile-templating-for-complex-build-scenarios/",
+    "Timestamp": "2025-12-17T02:03:07",
+    "Domain": "gagor.pro",
+    "Description": "Why even consider templating Dockerfiles? Dockerfiles revolutionized the industry with their simplicity. Each instruction creates a new layer in the image, which is automatically cached. This process integrates well with SCM, where you “commit” the results of one stage and move forward with other changes. The process can be easily parameterized with ARG instructions, similar to ENV but provided during the build. This allows for creating highly flexible builds. For most users, this is more than sufficient. However, there’s a notable exception: Docker base images."
+  },
+  {
+    "Title": "When Everything Is Important, Nothing Matters",
+    "Url": "https://ramezanpour.net/post/2025/12/16/when-everything-is-important-nothing-is",
+    "Timestamp": "2025-12-17T02:03:04",
+    "Domain": "ramezanpour.net",
+    "Description": "As we approach the end of the year, many people start thinking about their next steps for 2026. There are so many things we would like to accomplish in a single year—often things that usually take a lifetime. But why is that?"
+  },
+  {
+    "Title": "Going fast, yet standing still",
+    "Url": "https://blog.rybarix.com/2025/12/16/going-fast.html",
+    "Timestamp": "2025-12-17T02:03:01",
+    "Domain": "blog.rybarix.com",
+    "Description": "Cancelling all subscriptions of AI tools felt good."
+  },
+  {
+    "Title": "I made the XKCD impossible app without any words",
+    "Url": "https://www.danshapiro.com/blog/2025/12/i-made-the-xkcd-impossible-app-without-any-words/",
+    "Timestamp": "2025-12-17T02:02:57",
+    "Domain": "www.danshapiro.com",
+    "Description": "I’ve been impressed with AI Studio’s Apps for prototyping. https://aistudio.google.com/apps So I decided to give it the ultimate challenge: I pasted in XKCD 1425, and nothing else. I’ll let you be the…"
+  },
+  {
+    "Title": "trust and mistrust",
+    "Url": "https://www.savageevan.com/trust-and-mistrust/",
+    "Timestamp": "2025-12-17T02:02:53",
+    "Domain": "www.savageevan.com",
+    "Description": "Denmark is often mentioned as a high-trust society, the United States as a low-trust society. Having lived in both places for a number of years, you can feel the difference: in how public and private systems operate; in signage and instruction; in expressed opinions; in psychological safety; in pedagogy; in"
+  },
+  {
+    "Title": "My internet money fixation - Psychoanalysis - Text Incubation",
+    "Url": "https://text-incubation.com/my-internet-money-fixation-psychoanalysis",
+    "Timestamp": "2025-12-17T02:02:49",
+    "Domain": "text-incubation.com",
+    "Description": "My internet money fixation - Psychoanalysis - Text Incubation"
+  },
+  {
+    "Title": "Poisson to predict football results?",
+    "Url": "https://blog.engora.com/2025/12/poisson-to-predict-football-results.html",
+    "Timestamp": "2025-12-17T02:02:46",
+    "Domain": "blog.engora.com",
+    "Description": "It turns out, the Poisson distribution isn't so good for predicting football results"
+  },
+  {
+    "Title": "Against scale",
+    "Url": "https://tante.cc/2025/01/26/against-scale/",
+    "Timestamp": "2025-12-17T02:02:41",
+    "Domain": "tante.cc",
+    "Description": "Some of you might have heard the phrase “corporations don’t want to make money, they want to make all the money” (I think I heard it first from James Stephanie Sterling talking about video game publishers). This thinking is a bit of a companion thought to the delusion that within a limited system such as […]"
+  },
+  {
     "Title": "Uber Freight Dropped my Mainframe... Let's Fix it!",
     "Url": "https://youtube.com/watch?v=qjqPT89KaCc",
     "Timestamp": "2025-12-17T01:02:13",
