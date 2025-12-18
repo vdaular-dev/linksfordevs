@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The BIG Outage: The One System That Can Take Down Everything</title>
+      <link>https://youtube.com/watch?v=13IaHGr_FJA</link>
+      <description>Dave explains how the Cloud exposes us to aggregated, correlated risks rather than the types of failures we have become accustomed to in the PC age.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM
+
+Rapid Fix: https://amzn.to/48WkG4x
+For the Slate 7 Router: https://amzn.to/4pJfZ4Q
+For the Slate AX 1800: https://amzn.to/49hKPt2
+
+Check out ShopTalk, our weekly podcast, every Friday!
+https://www.youtube.com/@davepl</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=13IaHGr_FJA</guid>
+      <pubDate>Thu, 18 Dec 2025 23:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing GPT-5.2-Codex</title>
       <link>https://openai.com/index/introducing-gpt-5-2-codex/</link>
       <description>The most advanced agentic coding model for professional software engineering and defensive cybersecurity.</description>
@@ -306,27 +322,6 @@ In these files you write out http requests to the api endpoints using a familiar
       <category>javascript</category>
       <guid>https://xkcd.com/3182/</guid>
       <pubDate>Thu, 18 Dec 2025 00:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aspire 13.1 - Our holiday gift to you</title>
-      <link>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/</link>
-      <description>Aspire 13.1 adds first-class AI agent support, CLI MCP integration, dashboard improvements, Azure enhancements, and end-to-end HTTPS for local development.</description>
-      <category>conference</category>
-      <category>nodejs</category>
-      <category>aspnet</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/</guid>
-      <pubDate>Wed, 17 Dec 2025 23:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resource Principal Authentication with OCI Container Instances</title>
-      <link>https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances</link>
-      <description>OCI Instance Containers are the OCI way of saying “I have a Container… please run it for me…” The idea is that you don’t have to worry about the underlying resources. It’s serverless containers. Getting your container up and running is extremely simp...</description>
-      <author> (https://hashnode.com/@BasementProgrammer)</author>
-      <category>vscode</category>
-      <guid>https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances</guid>
-      <pubDate>Wed, 17 Dec 2025 23:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

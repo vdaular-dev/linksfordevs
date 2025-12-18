@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The BIG Outage: The One System That Can Take Down Everything",
+    "Url": "https://youtube.com/watch?v=13IaHGr_FJA",
+    "Timestamp": "2025-12-18T23:02:06",
+    "Domain": "youtube.com",
+    "Description": "Dave explains how the Cloud exposes us to aggregated, correlated risks rather than the types of failures we have become accustomed to in the PC age.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nRapid Fix: https://amzn.to/48WkG4x\nFor the Slate 7 Router: https://amzn.to/4pJfZ4Q\nFor the Slate AX 1800: https://amzn.to/49hKPt2\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl",
+    "Confidence": 0.96978223
+  },
+  {
     "Title": "Introducing GPT-5.2-Codex",
     "Url": "https://openai.com/index/introducing-gpt-5-2-codex/",
     "Timestamp": "2025-12-18T22:02:28",
@@ -254,21 +262,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Aspire 13.1 - Our holiday gift to you",
-    "Url": "https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/",
-    "Timestamp": "2025-12-17T23:02:19",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "Aspire 13.1 adds first-class AI agent support, CLI MCP integration, dashboard improvements, Azure enhancements, and end-to-end HTTPS for local development.",
-    "Confidence": 0.9940679
-  },
-  {
-    "Title": "Resource Principal Authentication with OCI Container Instances",
-    "Url": "https://basementprogrammer.com/resource-principal-authentication-with-oci-container-instances",
-    "Timestamp": "2025-12-17T23:02:15",
-    "Domain": "basementprogrammer.com",
-    "Description": "OCI Instance Containers are the OCI way of saying “I have a Container… please run it for me…” The idea is that you don’t have to worry about the underlying resources. It’s serverless containers. Getting your container up and running is extremely simp...",
-    "Confidence": 0.9933434
   }
 ]
