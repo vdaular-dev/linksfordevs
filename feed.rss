@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How SQLite Is Tested</title>
+      <link>https://sqlite.org/testing.html</link>
+      <description>How SQLite Is Tested</description>
+      <category>sql</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://sqlite.org/testing.html</guid>
+      <pubDate>Thu, 18 Dec 2025 05:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Laptop Linux: A (perhaps too deep) Dive into a Kernel Oddity </title>
       <link>https://rohan.ga/blog/laptop_brightness/</link>
       <description>This blogpost is a synopsis of my personal journey chasing apparent oddities in the way my laptop’s brightness is set.
