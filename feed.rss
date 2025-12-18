@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI vs human code gen report: AI code creates 1.7x more issues</title>
+      <link>https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report</link>
+      <description>We analyzed 470 open-source GitHub pull requests,  using CodeRabbit’s structured issue taxonomy and found that AI generated code creates 1.7x more issues.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.coderabbit.ai/blog/state-of-ai-vs-human-code-generation-report</guid>
+      <pubDate>Thu, 18 Dec 2025 14:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>OBS Studio Gets A New Renderer: How OBS Adopted Metal</title>
       <link>https://obsproject.com/blog/obs-studio-gets-a-new-renderer</link>
       <description>Starting with OBS Studio 32.0.0 a new renderer backend based on Apple's Metal graphics API is available for users to test as an experimental alternative to the existing OpenGL …</description>
