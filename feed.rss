@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Please Just Fucking Try HTMX</title>
+      <link>http://pleasejusttryhtmx.com/</link>
+      <description>A measured-yet-opinionated plea to try HTMX. Skip the React complexity, skip the raw HTML limitations. There's a third option.</description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>http://pleasejusttryhtmx.com/</guid>
+      <pubDate>Thu, 18 Dec 2025 19:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Your job is to deliver code you have proven to work</title>
       <link>https://simonwillison.net/2025/Dec/18/code-proven-to-work/</link>
       <description>In all of the debates about the value of AI-assistance in software development there’s one depressing anecdote that I keep on seeing: the junior engineer, empowered by some class of …</description>
