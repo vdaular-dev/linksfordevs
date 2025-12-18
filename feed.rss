@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hardened Images for Everyone | Docker</title>
+      <link>https://www.docker.com/blog/docker-hardened-images-for-every-developer/</link>
+      <description>Security for everyone. Docker Hardened Images are now free to use, share, and build on with no licensing surprises.</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://www.docker.com/blog/docker-hardened-images-for-every-developer/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telescope Types</title>
+      <link>https://xkcd.com/3182/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3182/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Aspire 13.1 - Our holiday gift to you</title>
       <link>https://devblogs.microsoft.com/aspire/aspire-13-1-holiday-gift/</link>
       <description>Aspire 13.1 adds first-class AI agent support, CLI MCP integration, dashboard improvements, Azure enhancements, and end-to-end HTTPS for local development.</description>
