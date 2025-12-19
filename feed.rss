@@ -7,6 +7,66 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Basic Framework - Physics For Game Dev #1</title>
+      <link>https://youtube.com/watch?v=eALXNAYUVsY</link>
+      <description>In this video we setup an initial physics framework and use the laws of motion to update the position of our particle.
+
+🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).
+
+📚 Timecodes 📚
+0:00 Intro
+0:25 Dev Env
+0:49 VS Project setup
+1:53 Visualization
+2:59 Application class
+3:57 Physics System class
+4:39 Design issues
+5:33 Update Listener
+6:27 PointMass class
+8:38 Physics Update
+10:26 Demo
+11:02 Outro
+
+Please visit https://ogldev.org to see more of my tutorials on modern OpenGL.
+
+🔥Link to source: 
+https://github.com/emeiri/ogldev/blob/master/PhysicsForGameDev/Tutorial01_ParticleDynamics/tutorial01.cpp
+If you want to get the same version of the code that was used in the video checkout the tag 'PHYSICS_01'
+
+Feel free to comment below.
+
+🔗Contacts:
+🔹Email: ogldev1@gmail.com
+🔹Instagram: @ogldev1
+🔹Github: https://github.com/emeiri/ogldev.git
+🔹TikTok - https://www.tiktok.com/@ogldev
+🔹Twitter: @ogldev
+🔹Discord: https://discord.gg/CZdVwZgTYk
+🔹One time donations (Paypal): https://ogldev.org/donate.html
+🔹Patreon: https://www.patreon.com/ogldev
+
+🙏Credits:
+🔹Images by AcatXIo, nugroho dwi hartawan from https://Pixabay.com
+🔹Blackboard image from https://Pixabay.com
+🔹Music: "No Indication" by TrackTribe - Youtube Audio Library
+
+Enjoy,
+
+Etay Meiri
+
+#opengl 
+#physics 
+#physicsengine</description>
+      <author> (OGLDEV)</author>
+      <category>git</category>
+      <category>vscode</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://youtube.com/watch?v=eALXNAYUVsY</guid>
+      <pubDate>Fri, 19 Dec 2025 12:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - DGoettlich/history-llms: Information hub for our project training the largest possible historical LLMs.</title>
       <link>https://github.com/DGoettlich/history-llms</link>
       <description>Information hub for our project training the largest possible historical LLMs. - DGoettlich/history-llms</description>
