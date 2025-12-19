@@ -246,21 +246,5 @@
     "Domain": "dev.karltryggvason.com",
     "Description": "It is a common ritual, grepping through http handlers or spelunking in a project’s Slack when you just want to know how to hit the auth endpoint. But it doesn’t have to be like this! If your service or app exposes or consumes an http api it should have .http file(s) that show how to make requests to it. Simple, executable, version controlled request documentation that improves developer experience.\nIn these files you write out http requests to the api endpoints using a familiar and easy to understand syntax (based on the RFC9110 - HTTP Semantics specification). Here is a very simple example:",
     "Confidence": 0.9982789
-  },
-  {
-    "Title": "Hardened Images for Everyone | Docker",
-    "Url": "https://www.docker.com/blog/docker-hardened-images-for-every-developer/",
-    "Timestamp": "2025-12-18T00:02:12",
-    "Domain": "www.docker.com",
-    "Description": "Security for everyone. Docker Hardened Images are now free to use, share, and build on with no licensing surprises.",
-    "Confidence": 0.9733142
-  },
-  {
-    "Title": "Telescope Types",
-    "Url": "https://xkcd.com/3182/",
-    "Timestamp": "2025-12-18T00:02:07",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
