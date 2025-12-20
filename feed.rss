@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vibe Coding 101: A Beginner’s Guide to AI-Assisted Development</title>
+      <link>https://www.designgurus.io/blog/vibe-coding-guide?gad_source=1&amp;amp;gad_campaignid=23163907085&amp;amp;gbraid=0AAAAADME9yrwhh3Pn4emui6N9e6TSIGXY</link>
+      <description>Master the key habits of vibe coding and level up your coding style with simple examples and easy steps.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.designgurus.io/blog/vibe-coding-guide?gad_source=1&amp;amp;gad_campaignid=23163907085&amp;amp;gbraid=0AAAAADME9yrwhh3Pn4emui6N9e6TSIGXY</guid>
+      <pubDate>Sat, 20 Dec 2025 02:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing CSS Grid Lanes</title>
+      <link>https://webkit.org/blog/17660/introducing-css-grid-lanes/</link>
+      <description>It’s here, the future of masonry layouts on the web!</description>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://webkit.org/blog/17660/introducing-css-grid-lanes/</guid>
+      <pubDate>Sat, 20 Dec 2025 02:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Node.js platform/arch possible values</title>
       <link>https://jcbhmr.com/2025/12/19/node-platform-arch-values/</link>
       <description>The official Node.js docs (v25.2.1) say that process.platform can be 'aix' | 'darwin' | 'freebsd' | 'linux' | 'openbsd' | 'sunos' | 'win32' and process.arch can be 'arm' | 'arm64' | 'ia32' | 'loong64' | 'mips' | 'mipsel' | 'ppc64' | 'riscv64' | 's390' | 's390x' | 'x64'. That's not quite true. This is my chronicle as I explore where the values come from.</description>
