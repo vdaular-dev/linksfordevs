@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI’s Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source",
+    "Url": "https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html",
+    "Timestamp": "2025-12-20T12:02:11",
+    "Domain": "www.quippd.com",
+    "Description": "TL;DR: The big tech AI company LLMs have gobbled up all of our data, but the damage they have done to open source and free culture communities are particularly insidious. By taking advantage of those who share freely, they destroy the bargain that made free software spread like wildfire.",
+    "Confidence": 0.9433975
+  },
+  {
     "Title": "Helper build script to optimize and protect your Godot projects | Development Blog - Jion Interactive",
     "Url": "https://jion.in/devlog/godot-build-script",
     "Timestamp": "2025-12-20T11:02:02",
@@ -190,13 +198,5 @@
     "Domain": "mullvad.net",
     "Description": "GotaTun is a WireGuard® implementation written in Rust aimed at being fast, efficient and reliable.",
     "Confidence": 0.9715548
-  },
-  {
-    "Title": "Basic Framework - Physics For Game Dev #1",
-    "Url": "https://youtube.com/watch?v=eALXNAYUVsY",
-    "Timestamp": "2025-12-19T12:02:04",
-    "Domain": "youtube.com",
-    "Description": "In this video we setup an initial physics framework and use the laws of motion to update the position of our particle.\n\n🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).\n\n📚 Timecodes 📚\n0:00 Intro\n0:25 Dev Env\n0:49 VS Project setup\n1:53 Visualization\n2:59 Application class\n3:57 Physics System class\n4:39 Design issues\n5:33 Update Listener\n6:27 PointMass class\n8:38 Physics Update\n10:26 Demo\n11:02 Outro\n\nPlease visit https://ogldev.org to see more of my tutorials on modern OpenGL.\n\n🔥Link to source: \nhttps://github.com/emeiri/ogldev/blob/master/PhysicsForGameDev/Tutorial01_ParticleDynamics/tutorial01.cpp\nIf you want to get the same version of the code that was used in the video checkout the tag 'PHYSICS_01'\n\nFeel free to comment below.\n\n🔗Contacts:\n🔹Email: ogldev1@gmail.com\n🔹Instagram: @ogldev1\n🔹Github: https://github.com/emeiri/ogldev.git\n🔹TikTok - https://www.tiktok.com/@ogldev\n🔹Twitter: @ogldev\n🔹Discord: https://discord.gg/CZdVwZgTYk\n🔹One time donations (Paypal): https://ogldev.org/donate.html\n🔹Patreon: https://www.patreon.com/ogldev\n\n🙏Credits:\n🔹Images by AcatXIo, nugroho dwi hartawan from https://Pixabay.com\n🔹Blackboard image from https://Pixabay.com\n🔹Music: \"No Indication\" by TrackTribe - Youtube Audio Library\n\nEnjoy,\n\nEtay Meiri\n\n#opengl \n#physics \n#physicsengine",
-    "Confidence": 0.99695206
   }
 ]
