@@ -7,6 +7,119 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Node.js platform/arch possible values</title>
+      <link>https://jcbhmr.com/2025/12/19/node-platform-arch-values/</link>
+      <description>The official Node.js docs (v25.2.1) say that process.platform can be 'aix' | 'darwin' | 'freebsd' | 'linux' | 'openbsd' | 'sunos' | 'win32' and process.arch can be 'arm' | 'arm64' | 'ia32' | 'loong64' | 'mips' | 'mipsel' | 'ppc64' | 'riscv64' | 's390' | 's390x' | 'x64'. That's not quite true. This is my chronicle as I explore where the values come from.</description>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>android</category>
+      <category>linux</category>
+      <guid>https://jcbhmr.com/2025/12/19/node-platform-arch-values/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frontend State Beyond useState</title>
+      <link>https://loukidelis.com/2025/12/19/frontend-state-management.html</link>
+      <description>A breakdown of different strategies for managing state in client-side code.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://loukidelis.com/2025/12/19/frontend-state-management.html</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Big-O Complexity of Vibe Coders — Shiveesh Fotedar</title>
+      <link>https://www.shiveesh.com/thoughts-and-ideas/the-big-o-complexity-of-vibe-coders</link>
+      <description>Vibe coding is increasingly part of how software engineers work with LLMs. Right now, “good” vibe coding is mostly judged by speed. Who gets to a working result fastest?  As LLM usage scales inside companies, a familiar evaluation pattern will likely emerge. Not whether something works, but how its </description>
+      <guid>https://www.shiveesh.com/thoughts-and-ideas/the-big-o-complexity-of-vibe-coders</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Roasted My Blogpost | Amil Masic</title>
+      <link>https://amilmasic.com/blog/claude-roasted-my-blogpost</link>
+      <description>Claude reviewing my blog post, on memento mori. </description>
+      <category>ai</category>
+      <guid>https://amilmasic.com/blog/claude-roasted-my-blogpost</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How we build complex software with type theory, strong specifications, and a little bit of LLM magic</title>
+      <link>https://www.atelierlogos.studio/blog/2025-12-18-how-we-build-complex-apps</link>
+      <description>You don't need Clay — build a vendorless GTM stack.</description>
+      <author> (James Bohrman)</author>
+      <category>rust</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <guid>https://www.atelierlogos.studio/blog/2025-12-18-how-we-build-complex-apps</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Small adventures with small language models</title>
+      <link>https://blog.engora.com/2025/12/small-adventures-with-small-language.html</link>
+      <description>How to access and evaluate small language models (SMLs).</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://blog.engora.com/2025/12/small-adventures-with-small-language.html</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ad Blockers helped kill the open web</title>
+      <link>https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/</link>
+      <description>The other day I found out that you can watch YouTube in Albania without ads.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I am a factory worker now</title>
+      <link>https://blog.jamesolds.me/post/factory-worker/</link>
+      <description>I am a factory worker now.
+Wake up, deploy the robot vacuum so it’s done before the kids get home. Fire up a Claude code session and have it get to work on a feature for a side project. Run a …</description>
+      <category>ai</category>
+      <guid>https://blog.jamesolds.me/post/factory-worker/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Contra DSPy and GEPA — Benjamin Anderson</title>
+      <link>https://benanderson.work/blog/contra-dspy-gepa/</link>
+      <description>Workflows are out. Agents are in.</description>
+      <category>ai</category>
+      <guid>https://benanderson.work/blog/contra-dspy-gepa/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Believe the Checkbook</title>
+      <link>https://robertgreiner.com/believe-the-checkbook/</link>
+      <description>AI companies talk as if engineering is over. Their acquisitions say the opposite.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://robertgreiner.com/believe-the-checkbook/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Coding Agent Is a Slot Machine</title>
+      <link>https://blog.kvit.app/posts/variance-claude-vibe/</link>
+      <description>Measuring run-to-run variance in coding agents: Claude Code vs Mistral's Vibe.</description>
+      <category>vscode</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://blog.kvit.app/posts/variance-claude-vibe/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I migrated from Jest to Vitest</title>
+      <link>https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/</link>
+      <description>The reasons I migrated my unit test framework from Jest to Vitest</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Grand Theft Auto: Vice City | DOS games in browser</title>
       <link>https://dos.zone/grand-theft-auto-vice-city/</link>
       <description>Open-source implementation of the classic GTA engine now running directly in your browser. Experience the reVC technology demo on DOS.Zone and see how a full 3D city comes alive on the web.</description>
@@ -134,154 +247,6 @@ Etay Meiri
       <category>gaming</category>
       <guid>https://github.com/DGoettlich/history-llms</guid>
       <pubDate>Fri, 19 Dec 2025 04:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything is Dead and We Killed It.</title>
-      <link>https://www.joanwestenberg.com/everything-is-dead-and-we-killed-it/</link>
-      <description>SaaS is dead. Punk is dead again, for approximately the four hundredth time since Sid Vicious actually died in 1979. Rock is dead. The novel is dead. Cinema is dead. Blogging is dead. Privacy is dead. Expertise is dead. Irony is dead. 
-
-We have collectively decided that the most interesting</description>
-      <guid>https://www.joanwestenberg.com/everything-is-dead-and-we-killed-it/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>The port I couldn't ship · ammil industries</title>
-      <link>https://ammil.industries/the-port-i-couldnt-ship/</link>
-      <description>Porting a venerable library on vibes. What started as a quick WebPerl success spiraled into weeks of failed attempts, mangled ASCII diagrams, and a hard lesson about respecting the craft embedded in battle-tested code.</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>nodejs</category>
-      <guid>https://ammil.industries/the-port-i-couldnt-ship/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>ORM Leaking More Than You Joined For</title>
-      <link>https://www.elttam.com/blog/leaking-more-than-you-joined-for/</link>
-      <description>elttam is a globally recognised, independent information security company, renowned for our advanced technical security assessments.</description>
-      <category>sql</category>
-      <category>dotnet</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>ruby</category>
-      <guid>https://www.elttam.com/blog/leaking-more-than-you-joined-for/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Revolution Will Not Make the Hacker News Front Page - Dhole Moments</title>
-      <link>https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-front-page/</link>
-      <description>(with apologies to Gil Scott-Heron) If you get all of your important technology news from “content aggregators” like Hacker News, Lobste.rs, and most subreddits, you might be totally un…</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-front-page/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minification isn't obfuscation - Claude Code proves it</title>
-      <link>https://martinalderson.com/posts/minification-isnt-obfuscation-claude-code-proves-it/</link>
-      <description>Using ASTs and AI agents to reverse engineer minified JavaScript in minutes instead of weeks</description>
-      <author> (Martin Alderson)</author>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://martinalderson.com/posts/minification-isnt-obfuscation-claude-code-proves-it/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Do We Still Pay For International Calls in 2025? |</title>
-      <link>https://rodyne.com/?p=3293</link>
-      <description>We live in an era where global communication is instant, continuous, and, thanks to apps like WhatsApp, Zoom and Messenger, usually completely free. Yes, technically the data is drawn down from your cellular data allowance, but free wi-fi is prevalent everywhere you work, shop or drink. Yet, if you, a typical New Zealand mobile user like me, pick up your phone and dial a family member in the UK, you will be hit with a retail charge that can be 50 to 100 times higher than the technical cost of routing that voice data, US$0.51/minute in my specific case. (I will use US$ as I have an international audience and everyone knows how to convert those)</description>
-      <guid>https://rodyne.com/?p=3293</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Railway.com knows better than you</title>
-      <link>https://anukari.com/blog/devlog/railway-knows-better-than-you</link>
-      <description>Captain's Log: Stardate 79429.5</description>
-      <category>nodejs</category>
-      <guid>https://anukari.com/blog/devlog/railway-knows-better-than-you</guid>
-      <pubDate>Fri, 19 Dec 2025 01:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supporting FLOSS: My end-of-year donations</title>
-      <link>https://tzovar.as/supporting-floss/</link>
-      <description>A couple of days ago - in light of Mozilla (once again) doubling down in poor decision making - I was saying how it’s a good idea to donate to alternative projects instead, every time Mozilla fails us. But all joking aside, given the state of the world, it’s indeed...</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://tzovar.as/supporting-floss/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</title>
-      <link>https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5</link>
-      <description></description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <category>git</category>
-      <guid>https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>in which our protagonist dreams of laurels — wingolog</title>
-      <link>https://wingolog.org/archives/2025/12/17/in-which-our-protagonist-dreams-of-laurels</link>
-      <description>wingolog: article: in which our protagonist dreams of laurels</description>
-      <category>ai</category>
-      <category>android</category>
-      <category>linux</category>
-      <guid>https://wingolog.org/archives/2025/12/17/in-which-our-protagonist-dreams-of-laurels</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox for Web Developers (@firefoxwebdevs@mastodon.social)</title>
-      <link>https://mastodon.social/@firefoxwebdevs/115740500373677782</link>
-      <description>Something that hasn't been made clear: Firefox will have an option to completely disable all AI features.
-
-We've been calling it the AI kill switch internally. I'm sure it'll ship with a less murderous name, but that's how seriously and absolutely we're taking this.
-
-…</description>
-      <category>ai</category>
-      <guid>https://mastodon.social/@firefoxwebdevs/115740500373677782</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>One weird trick to manage engineering crises; stakeholders love it</title>
-      <link>https://www.brethorsting.com/blog/2025/12/one-weird-trick-to-manage-engineering-crises;-stakeholders-love-it/</link>
-      <description>Personal website for Aaron Brethorst - Seattleite, technology leader, photographer, transit enthusiast, erstwhile non-runner.</description>
-      <category>sql</category>
-      <guid>https://www.brethorsting.com/blog/2025/12/one-weird-trick-to-manage-engineering-crises;-stakeholders-love-it/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Age of 10xy Opportunity</title>
-      <link>https://gonzo.engineer/posts/10xy/</link>
-      <description>We're using old terminology to describe a new phenomenon. The real shift isn't speed—it's capability. It's the difference between doing and becoming.</description>
-      <author> (Darin Gordon)</author>
-      <category>ai</category>
-      <guid>https://gonzo.engineer/posts/10xy/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Phinxel's Field Notes by ahmwma</title>
-      <link>https://ahmwma.itch.io/phield-notes</link>
-      <description>A Little Guy's Guide to getting started in Decker.</description>
-      <guid>https://ahmwma.itch.io/phield-notes</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>The app paradigm inversion</title>
-      <link>https://blog.dougbelshaw.com/app-paradigm-inversion/</link>
-      <description>There's a paradigmatic shift going on in terms of how people are now using AI to get things done.
-
-Some examples from the last week:
-
- * We ended up with slightly messy online whiteboard after running a pre-mortem activity with a client. I used Gemini 3 Pro to convert it into</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://blog.dougbelshaw.com/app-paradigm-inversion/</guid>
-      <pubDate>Fri, 19 Dec 2025 01:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,89 @@
 [
   {
+    "Title": "Node.js platform/arch possible values",
+    "Url": "https://jcbhmr.com/2025/12/19/node-platform-arch-values/",
+    "Timestamp": "2025-12-20T01:02:51",
+    "Domain": "jcbhmr.com",
+    "Description": "The official Node.js docs (v25.2.1) say that process.platform can be 'aix' | 'darwin' | 'freebsd' | 'linux' | 'openbsd' | 'sunos' | 'win32' and process.arch can be 'arm' | 'arm64' | 'ia32' | 'loong64' | 'mips' | 'mipsel' | 'ppc64' | 'riscv64' | 's390' | 's390x' | 'x64'. That's not quite true. This is my chronicle as I explore where the values come from."
+  },
+  {
+    "Title": "Frontend State Beyond useState",
+    "Url": "https://loukidelis.com/2025/12/19/frontend-state-management.html",
+    "Timestamp": "2025-12-20T01:02:48",
+    "Domain": "loukidelis.com",
+    "Description": "A breakdown of different strategies for managing state in client-side code."
+  },
+  {
+    "Title": "The Big-O Complexity of Vibe Coders — Shiveesh Fotedar",
+    "Url": "https://www.shiveesh.com/thoughts-and-ideas/the-big-o-complexity-of-vibe-coders",
+    "Timestamp": "2025-12-20T01:02:45",
+    "Domain": "www.shiveesh.com",
+    "Description": "Vibe coding is increasingly part of how software engineers work with LLMs. Right now, “good” vibe coding is mostly judged by speed. Who gets to a working result fastest?  As LLM usage scales inside companies, a familiar evaluation pattern will likely emerge. Not whether something works, but how its "
+  },
+  {
+    "Title": "Claude Roasted My Blogpost | Amil Masic",
+    "Url": "https://amilmasic.com/blog/claude-roasted-my-blogpost",
+    "Timestamp": "2025-12-20T01:02:41",
+    "Domain": "amilmasic.com",
+    "Description": "Claude reviewing my blog post, on memento mori. "
+  },
+  {
+    "Title": "How we build complex software with type theory, strong specifications, and a little bit of LLM magic",
+    "Url": "https://www.atelierlogos.studio/blog/2025-12-18-how-we-build-complex-apps",
+    "Timestamp": "2025-12-20T01:02:37",
+    "Domain": "www.atelierlogos.studio",
+    "Description": "You don't need Clay — build a vendorless GTM stack."
+  },
+  {
+    "Title": "Small adventures with small language models",
+    "Url": "https://blog.engora.com/2025/12/small-adventures-with-small-language.html",
+    "Timestamp": "2025-12-20T01:02:34",
+    "Domain": "blog.engora.com",
+    "Description": "How to access and evaluate small language models (SMLs)."
+  },
+  {
+    "Title": "Ad Blockers helped kill the open web",
+    "Url": "https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/",
+    "Timestamp": "2025-12-20T01:02:30",
+    "Domain": "christianheilmann.com",
+    "Description": "The other day I found out that you can watch YouTube in Albania without ads."
+  },
+  {
+    "Title": "I am a factory worker now",
+    "Url": "https://blog.jamesolds.me/post/factory-worker/",
+    "Timestamp": "2025-12-20T01:02:27",
+    "Domain": "blog.jamesolds.me",
+    "Description": "I am a factory worker now.\nWake up, deploy the robot vacuum so it’s done before the kids get home. Fire up a Claude code session and have it get to work on a feature for a side project. Run a …"
+  },
+  {
+    "Title": "Contra DSPy and GEPA — Benjamin Anderson",
+    "Url": "https://benanderson.work/blog/contra-dspy-gepa/",
+    "Timestamp": "2025-12-20T01:02:24",
+    "Domain": "benanderson.work",
+    "Description": "Workflows are out. Agents are in."
+  },
+  {
+    "Title": "Believe the Checkbook",
+    "Url": "https://robertgreiner.com/believe-the-checkbook/",
+    "Timestamp": "2025-12-20T01:02:20",
+    "Domain": "robertgreiner.com",
+    "Description": "AI companies talk as if engineering is over. Their acquisitions say the opposite."
+  },
+  {
+    "Title": "Your Coding Agent Is a Slot Machine",
+    "Url": "https://blog.kvit.app/posts/variance-claude-vibe/",
+    "Timestamp": "2025-12-20T01:02:17",
+    "Domain": "blog.kvit.app",
+    "Description": "Measuring run-to-run variance in coding agents: Claude Code vs Mistral's Vibe."
+  },
+  {
+    "Title": "Why I migrated from Jest to Vitest",
+    "Url": "https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/",
+    "Timestamp": "2025-12-20T01:02:13",
+    "Domain": "www.maartenhus.nl",
+    "Description": "The reasons I migrated my unit test framework from Jest to Vitest"
+  },
+  {
     "Title": "Grand Theft Auto: Vice City | DOS games in browser",
     "Url": "https://dos.zone/grand-theft-auto-vice-city/",
     "Timestamp": "2025-12-20T00:02:03",
