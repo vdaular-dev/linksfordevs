@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Backing up Spotify</title>
+      <link>https://annas-archive.li/blog/backing-up-spotify.html</link>
+      <description>We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>encryption</category>
+      <guid>https://annas-archive.li/blog/backing-up-spotify.html</guid>
+      <pubDate>Sat, 20 Dec 2025 23:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Go ahead, self-host Postgres | Pierce Freeman</title>
       <link>https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1</link>
       <description>Self-hosting Postgres is simpler and cheaper than managed services suggest, with comparable reliability and better performance tunability.</description>
