@@ -1,5 +1,21 @@
 [
   {
+    "Title": "abseil / Performance Hints",
+    "Url": "https://abseil.io/fast/hints.html",
+    "Timestamp": "2025-12-21T18:02:10",
+    "Domain": "abseil.io",
+    "Description": "An open-source collection of core C++ library code",
+    "Confidence": 0.998335
+  },
+  {
+    "Title": "Ruby Programming Language",
+    "Url": "https://www.ruby-lang.org/en/",
+    "Timestamp": "2025-12-21T18:02:06",
+    "Domain": "www.ruby-lang.org",
+    "Description": "A Programmer's Best Friend",
+    "Confidence": 0.93390477
+  },
+  {
     "Title": "Claude in Chrome | Claude",
     "Url": "https://claude.com/chrome",
     "Timestamp": "2025-12-21T16:02:07",
@@ -94,13 +110,5 @@
     "Domain": "www.charlesproxy.com",
     "Description": "Charles Web Debugging Proxy - Official Site",
     "Confidence": 0.9758658
-  },
-  {
-    "Title": "Privacy is Marketing. Anonymity is Architecture.",
-    "Url": "https://servury.com/blog/privacy-is-marketing-anonymity-is-architecture/",
-    "Timestamp": "2025-12-20T18:02:13",
-    "Domain": "servury.com",
-    "Description": "Privacy is when they promise to protect your data. Anonymity is when they never had your data to begin with.",
-    "Confidence": 0.9928424
   }
 ]
