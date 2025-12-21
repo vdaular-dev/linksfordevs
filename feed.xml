@@ -7,6 +7,40 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>CVE-2025-66019: LZW Decompression DoS Vulnerability in pypdf Library | Yunus Aydın Blog</title>
+      <link>https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/</link>
+      <description>DoS vulnerability I found in pypdf library's LZW decompression. How the LZW algorithm works, why it leads to this vulnerability, and how it differs from ZLIB.</description>
+      <category>vscode</category>
+      <category>cloud</category>
+      <guid>https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/</guid>
+      <pubDate>Sun, 21 Dec 2025 01:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>pg-trgm and Text Similarity Search — Common Sense Development</title>
+      <link>https://blog.kehvyn.dev/blog/pg-trgm-and-text-similarity-search/</link>
+      <description>When browsing the default Postgres extensions (a perfectly normal activity), I discovered pg_trgm. After a bit more reading, I'm convinced this simple database extension should be an essential part of any database engineer's toolkit.</description>
+      <category>sql</category>
+      <guid>https://blog.kehvyn.dev/blog/pg-trgm-and-text-similarity-search/</guid>
+      <pubDate>Sun, 21 Dec 2025 01:01:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>When You Increase Kafka Partitions</title>
+      <link>https://arpitbhayani.me/blogs/kafka-partitions/</link>
+      <description>Partitions sit right in the middle of how Kafka works. They define ordering, parallelism, and how far it can scale. But what actually happens when you need more of them? How does Kafka grow that number, what happens to the data you already have, and which guarantees stay intact after the change?</description>
+      <category>nodejs</category>
+      <guid>https://arpitbhayani.me/blogs/kafka-partitions/</guid>
+      <pubDate>Sun, 21 Dec 2025 01:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I’m not letting the juniors use GenAI for coding</title>
+      <link>https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/</link>
+      <description>TLDR: because I want them to become seniors one day, and I want them to enjoy being developers</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/</guid>
+      <pubDate>Sun, 21 Dec 2025 01:01:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates</title>
       <link>https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</link>
       <description>Dec 19, 2025</description>
@@ -192,119 +226,6 @@ AnneJ (watching from Edinburgh, UK)</description>
       <category>javascript</category>
       <guid>https://webkit.org/blog/17660/introducing-css-grid-lanes/</guid>
       <pubDate>Sat, 20 Dec 2025 02:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Node.js platform/arch possible values</title>
-      <link>https://jcbhmr.com/2025/12/19/node-platform-arch-values/</link>
-      <description>The official Node.js docs (v25.2.1) say that process.platform can be 'aix' | 'darwin' | 'freebsd' | 'linux' | 'openbsd' | 'sunos' | 'win32' and process.arch can be 'arm' | 'arm64' | 'ia32' | 'loong64' | 'mips' | 'mipsel' | 'ppc64' | 'riscv64' | 's390' | 's390x' | 'x64'. That's not quite true. This is my chronicle as I explore where the values come from.</description>
-      <category>nodejs</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>android</category>
-      <category>linux</category>
-      <guid>https://jcbhmr.com/2025/12/19/node-platform-arch-values/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frontend State Beyond useState</title>
-      <link>https://loukidelis.com/2025/12/19/frontend-state-management.html</link>
-      <description>A breakdown of different strategies for managing state in client-side code.</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://loukidelis.com/2025/12/19/frontend-state-management.html</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Big-O Complexity of Vibe Coders — Shiveesh Fotedar</title>
-      <link>https://www.shiveesh.com/thoughts-and-ideas/the-big-o-complexity-of-vibe-coders</link>
-      <description>Vibe coding is increasingly part of how software engineers work with LLMs. Right now, “good” vibe coding is mostly judged by speed. Who gets to a working result fastest?  As LLM usage scales inside companies, a familiar evaluation pattern will likely emerge. Not whether something works, but how its </description>
-      <guid>https://www.shiveesh.com/thoughts-and-ideas/the-big-o-complexity-of-vibe-coders</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Roasted My Blogpost | Amil Masic</title>
-      <link>https://amilmasic.com/blog/claude-roasted-my-blogpost</link>
-      <description>Claude reviewing my blog post, on memento mori. </description>
-      <category>ai</category>
-      <guid>https://amilmasic.com/blog/claude-roasted-my-blogpost</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>How we build complex software with type theory, strong specifications, and a little bit of LLM magic</title>
-      <link>https://www.atelierlogos.studio/blog/2025-12-18-how-we-build-complex-apps</link>
-      <description>You don't need Clay — build a vendorless GTM stack.</description>
-      <author> (James Bohrman)</author>
-      <category>rust</category>
-      <category>typescript</category>
-      <category>ai</category>
-      <guid>https://www.atelierlogos.studio/blog/2025-12-18-how-we-build-complex-apps</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Small adventures with small language models</title>
-      <link>https://blog.engora.com/2025/12/small-adventures-with-small-language.html</link>
-      <description>How to access and evaluate small language models (SMLs).</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://blog.engora.com/2025/12/small-adventures-with-small-language.html</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ad Blockers helped kill the open web</title>
-      <link>https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/</link>
-      <description>The other day I found out that you can watch YouTube in Albania without ads.</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://christianheilmann.com/2025/12/17/ad-blockers-helped-kill-the-open-web/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>I am a factory worker now</title>
-      <link>https://blog.jamesolds.me/post/factory-worker/</link>
-      <description>I am a factory worker now.
-Wake up, deploy the robot vacuum so it’s done before the kids get home. Fire up a Claude code session and have it get to work on a feature for a side project. Run a …</description>
-      <category>ai</category>
-      <guid>https://blog.jamesolds.me/post/factory-worker/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Contra DSPy and GEPA — Benjamin Anderson</title>
-      <link>https://benanderson.work/blog/contra-dspy-gepa/</link>
-      <description>Workflows are out. Agents are in.</description>
-      <category>ai</category>
-      <guid>https://benanderson.work/blog/contra-dspy-gepa/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Believe the Checkbook</title>
-      <link>https://robertgreiner.com/believe-the-checkbook/</link>
-      <description>AI companies talk as if engineering is over. Their acquisitions say the opposite.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://robertgreiner.com/believe-the-checkbook/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Coding Agent Is a Slot Machine</title>
-      <link>https://blog.kvit.app/posts/variance-claude-vibe/</link>
-      <description>Measuring run-to-run variance in coding agents: Claude Code vs Mistral's Vibe.</description>
-      <category>vscode</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://blog.kvit.app/posts/variance-claude-vibe/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I migrated from Jest to Vitest</title>
-      <link>https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/</link>
-      <description>The reasons I migrated my unit test framework from Jest to Vitest</description>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/</guid>
-      <pubDate>Sat, 20 Dec 2025 01:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
