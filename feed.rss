@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>HackerNews Readings</title>
+      <link>https://hackernews-readings-613604506318.us-west1.run.app/</link>
+      <description>The main issue on an economical point of view is that copyright is not the framework we need for social justice and everyone florishing by enjoying pre-existing treasures of human heritage and fairly contributing back.</description>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://hackernews-readings-613604506318.us-west1.run.app/</guid>
+      <pubDate>Sun, 21 Dec 2025 22:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mullvad VPN (@mullvadnet@mastodon.online)</title>
+      <link>https://mastodon.online/@mullvadnet/115742530333573065</link>
+      <description>The European Commission lost the Chat Control 2.0 battle over access to end-to-end encrypted data. By the summer 2026, they will be back with their next attempt: Going Dark. This time some EU member states want to include VPN services.
+
+The Going Dark initiative, or ProtectEU as the Commission now calls it, wants to “enable law enforcement authorities to access encrypted data in a lawful manner”. This is a Chat Control 3.0 attempt.</description>
+      <category>encryption</category>
+      <guid>https://mastodon.online/@mullvadnet/115742530333573065</guid>
+      <pubDate>Sun, 21 Dec 2025 22:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Logging Sucks - Your Logs Are Lying To You</title>
       <link>https://loggingsucks.com/</link>
       <description>Why traditional logging fails and how wide events can fix your observability</description>
