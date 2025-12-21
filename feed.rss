@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates</title>
+      <link>https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</link>
+      <description>Dec 19, 2025</description>
+      <category>python</category>
+      <guid>https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</guid>
+      <pubDate>Sun, 21 Dec 2025 00:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Backing up Spotify</title>
       <link>https://annas-archive.li/blog/backing-up-spotify.html</link>
       <description>We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.</description>
@@ -297,15 +305,6 @@ Wake up, deploy the robot vacuum so it’s done before the kids get home. Fire u
       <category>vscode</category>
       <guid>https://www.maartenhus.nl/blog/why-i-migrated-from-jest-to-vitest/</guid>
       <pubDate>Sat, 20 Dec 2025 01:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grand Theft Auto: Vice City | DOS games in browser</title>
-      <link>https://dos.zone/grand-theft-auto-vice-city/</link>
-      <description>Open-source implementation of the classic GTA engine now running directly in your browser. Experience the reVC technology demo on DOS.Zone and see how a full 3D city comes alive on the web.</description>
-      <category>web</category>
-      <category>gaming</category>
-      <guid>https://dos.zone/grand-theft-auto-vice-city/</guid>
-      <pubDate>Sat, 20 Dec 2025 00:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
