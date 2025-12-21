@@ -94,13 +94,5 @@
     "Domain": "annas-archive.li",
     "Description": "We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.",
     "Confidence": 0.97296107
-  },
-  {
-    "Title": "Go ahead, self-host Postgres | Pierce Freeman",
-    "Url": "https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1",
-    "Timestamp": "2025-12-20T20:02:08",
-    "Domain": "pierce.dev",
-    "Description": "Self-hosting Postgres is simpler and cheaper than managed services suggest, with comparable reliability and better performance tunability.",
-    "Confidence": 0.9901475
   }
 ]
