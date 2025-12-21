@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I can't upgrade to Windows 11, now leave me alone</title>
+      <link>https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone</link>
+      <description>Microsoft has deprecated windows 10, yet million of users still use it. They say the hardware is not supported, yet they keep pestering us with endless pings.</description>
+      <guid>https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone</guid>
+      <pubDate>Sun, 21 Dec 2025 23:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>HackerNews Readings</title>
       <link>https://hackernews-readings-613604506318.us-west1.run.app/</link>
       <description>The main issue on an economical point of view is that copyright is not the framework we need for social justice and everyone florishing by enjoying pre-existing treasures of human heritage and fairly contributing back.</description>
@@ -129,16 +136,6 @@ The Going Dark initiative, or ProtectEU as the Commission now calls it, wants to
       <category>python</category>
       <guid>https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html</guid>
       <pubDate>Sun, 21 Dec 2025 00:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Backing up Spotify</title>
-      <link>https://annas-archive.li/blog/backing-up-spotify.html</link>
-      <description>We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>encryption</category>
-      <guid>https://annas-archive.li/blog/backing-up-spotify.html</guid>
-      <pubDate>Sat, 20 Dec 2025 23:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
