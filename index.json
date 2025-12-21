@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenSCAD Is Kinda Neat – nuxx.net",
+    "Url": "https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/",
+    "Timestamp": "2025-12-21T12:02:02",
+    "Domain": "nuxx.net",
+    "Description": "Earlier this year I designed a very basic box/organizer for AA and AAA batteries in Autodesk Fusion, making it parameterized so that by changing a few variables one could adjust the battery type/size, rows/columns, etc. This worked well, and after uploading it to Printables earlier today I realized that reimplementing it would probably be a good way to learn the basics of OpenSCAD.",
+    "Confidence": 0.99526405
+  },
+  {
     "Title": "Flock and Cyble Inc. Weaponize \"Cybercrime\" Takedowns to Silence Critics",
     "Url": "https://haveibeenflocked.com/news/cyble-downtime",
     "Timestamp": "2025-12-21T06:02:18",
@@ -110,13 +118,5 @@
     "Domain": "karpathy.bearblog.dev",
     "Description": "2025 Year in Review of LLM paradigm changes",
     "Confidence": 0.98151344
-  },
-  {
-    "Title": "AI’s Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source",
-    "Url": "https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html",
-    "Timestamp": "2025-12-20T12:02:11",
-    "Domain": "www.quippd.com",
-    "Description": "TL;DR: The big tech AI company LLMs have gobbled up all of our data, but the damage they have done to open source and free culture communities are particularly insidious. By taking advantage of those who share freely, they destroy the bargain that made free software spread like wildfire.",
-    "Confidence": 0.9433975
   }
 ]

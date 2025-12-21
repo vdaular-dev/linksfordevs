@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenSCAD Is Kinda Neat – nuxx.net</title>
+      <link>https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/</link>
+      <description>Earlier this year I designed a very basic box/organizer for AA and AAA batteries in Autodesk Fusion, making it parameterized so that by changing a few variables one could adjust the battery type/size, rows/columns, etc. This worked well, and after uploading it to Printables earlier today I realized that reimplementing it would probably be a good way to learn the basics of OpenSCAD.</description>
+      <guid>https://nuxx.net/blog/2025/12/20/openscad-is-kinda-neat/</guid>
+      <pubDate>Sun, 21 Dec 2025 12:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Flock and Cyble Inc. Weaponize "Cybercrime" Takedowns to Silence Critics</title>
       <link>https://haveibeenflocked.com/news/cyble-downtime</link>
       <description>When a government contractor pays a company for "Takedown Services" to prevent transparency in government</description>
@@ -179,18 +186,6 @@ AnneJ (watching from Edinburgh, UK)</description>
       <category>git</category>
       <guid>https://karpathy.bearblog.dev/year-in-review-2025/</guid>
       <pubDate>Sat, 20 Dec 2025 13:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI’s Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source</title>
-      <link>https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html</link>
-      <description>TL;DR: The big tech AI company LLMs have gobbled up all of our data, but the damage they have done to open source and free culture communities are particularly insidious. By taking advantage of those who share freely, they destroy the bargain that made free software spread like wildfire.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <category>android</category>
-      <guid>https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html</guid>
-      <pubDate>Sat, 20 Dec 2025 12:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
