@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Jmail, logged in as jeevacation@gmail.com",
+    "Url": "https://www.jmail.world/",
+    "Timestamp": "2025-12-21T02:02:04",
+    "Domain": "www.jmail.world",
+    "Description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein's email. Sourced from the November 2025 House Oversight Committee data release.",
+    "Confidence": 0.92167807
+  },
+  {
     "Title": "CVE-2025-66019: LZW Decompression DoS Vulnerability in pypdf Library | Yunus Aydın Blog",
     "Url": "https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/",
     "Timestamp": "2025-12-21T01:01:49",
@@ -126,21 +134,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Vibe Coding 101: A Beginner’s Guide to AI-Assisted Development",
-    "Url": "https://www.designgurus.io/blog/vibe-coding-guide?gad_source=1&amp;gad_campaignid=23163907085&amp;gbraid=0AAAAADME9yrwhh3Pn4emui6N9e6TSIGXY",
-    "Timestamp": "2025-12-20T02:02:10",
-    "Domain": "www.designgurus.io",
-    "Description": "Master the key habits of vibe coding and level up your coding style with simple examples and easy steps.",
-    "Confidence": 0.96742415
-  },
-  {
-    "Title": "Introducing CSS Grid Lanes",
-    "Url": "https://webkit.org/blog/17660/introducing-css-grid-lanes/",
-    "Timestamp": "2025-12-20T02:02:05",
-    "Domain": "webkit.org",
-    "Description": "It’s here, the future of masonry layouts on the web!",
-    "Confidence": 0.9872751
   }
 ]
