@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Logging Sucks - Your Logs Are Lying To You</title>
+      <link>https://loggingsucks.com/</link>
+      <description>Why traditional logging fails and how wide events can fix your observability</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>nodejs</category>
+      <guid>https://loggingsucks.com/</guid>
+      <pubDate>Sun, 21 Dec 2025 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>abseil / Performance Hints</title>
       <link>https://abseil.io/fast/hints.html</link>
       <description>An open-source collection of core C++ library code</description>
