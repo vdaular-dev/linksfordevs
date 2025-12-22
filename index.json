@@ -86,37 +86,5 @@
     "Domain": "www.jmail.world",
     "Description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein's email. Sourced from the November 2025 House Oversight Committee data release.",
     "Confidence": 0.92167807
-  },
-  {
-    "Title": "CVE-2025-66019: LZW Decompression DoS Vulnerability in pypdf Library | Yunus Aydın Blog",
-    "Url": "https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/",
-    "Timestamp": "2025-12-21T01:01:49",
-    "Domain": "aydinnyunus.github.io",
-    "Description": "DoS vulnerability I found in pypdf library's LZW decompression. How the LZW algorithm works, why it leads to this vulnerability, and how it differs from ZLIB.",
-    "Confidence": 0.99951017
-  },
-  {
-    "Title": "pg-trgm and Text Similarity Search — Common Sense Development",
-    "Url": "https://blog.kehvyn.dev/blog/pg-trgm-and-text-similarity-search/",
-    "Timestamp": "2025-12-21T01:01:46",
-    "Domain": "blog.kehvyn.dev",
-    "Description": "When browsing the default Postgres extensions (a perfectly normal activity), I discovered pg_trgm. After a bit more reading, I'm convinced this simple database extension should be an essential part of any database engineer's toolkit.",
-    "Confidence": 0.96248513
-  },
-  {
-    "Title": "When You Increase Kafka Partitions",
-    "Url": "https://arpitbhayani.me/blogs/kafka-partitions/",
-    "Timestamp": "2025-12-21T01:01:42",
-    "Domain": "arpitbhayani.me",
-    "Description": "Partitions sit right in the middle of how Kafka works. They define ordering, parallelism, and how far it can scale. But what actually happens when you need more of them? How does Kafka grow that number, what happens to the data you already have, and which guarantees stay intact after the change?",
-    "Confidence": 0.9874497
-  },
-  {
-    "Title": "Why I’m not letting the juniors use GenAI for coding",
-    "Url": "https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/",
-    "Timestamp": "2025-12-21T01:01:37",
-    "Domain": "lukeplant.me.uk",
-    "Description": "TLDR: because I want them to become seniors one day, and I want them to enjoy being developers",
-    "Confidence": 0.9900962
   }
 ]

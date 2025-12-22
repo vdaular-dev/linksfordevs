@@ -102,39 +102,5 @@ The Going Dark initiative, or ProtectEU as the Commission now calls it, wants to
       <guid>https://www.jmail.world/</guid>
       <pubDate>Sun, 21 Dec 2025 02:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>CVE-2025-66019: LZW Decompression DoS Vulnerability in pypdf Library | Yunus Aydın Blog</title>
-      <link>https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/</link>
-      <description>DoS vulnerability I found in pypdf library's LZW decompression. How the LZW algorithm works, why it leads to this vulnerability, and how it differs from ZLIB.</description>
-      <category>vscode</category>
-      <category>cloud</category>
-      <guid>https://aydinnyunus.github.io/2025/12/20/cve-2025-66019-pypdf-lzw-dos/</guid>
-      <pubDate>Sun, 21 Dec 2025 01:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>pg-trgm and Text Similarity Search — Common Sense Development</title>
-      <link>https://blog.kehvyn.dev/blog/pg-trgm-and-text-similarity-search/</link>
-      <description>When browsing the default Postgres extensions (a perfectly normal activity), I discovered pg_trgm. After a bit more reading, I'm convinced this simple database extension should be an essential part of any database engineer's toolkit.</description>
-      <category>sql</category>
-      <guid>https://blog.kehvyn.dev/blog/pg-trgm-and-text-similarity-search/</guid>
-      <pubDate>Sun, 21 Dec 2025 01:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>When You Increase Kafka Partitions</title>
-      <link>https://arpitbhayani.me/blogs/kafka-partitions/</link>
-      <description>Partitions sit right in the middle of how Kafka works. They define ordering, parallelism, and how far it can scale. But what actually happens when you need more of them? How does Kafka grow that number, what happens to the data you already have, and which guarantees stay intact after the change?</description>
-      <category>nodejs</category>
-      <guid>https://arpitbhayani.me/blogs/kafka-partitions/</guid>
-      <pubDate>Sun, 21 Dec 2025 01:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I’m not letting the juniors use GenAI for coding</title>
-      <link>https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/</link>
-      <description>TLDR: because I want them to become seniors one day, and I want them to enjoy being developers</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://lukeplant.me.uk/blog/posts/why-im-not-letting-the-juniors-use-genai-for-coding/</guid>
-      <pubDate>Sun, 21 Dec 2025 01:01:37 GMT</pubDate>
-    </item>
   </channel>
 </rss>
