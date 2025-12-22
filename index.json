@@ -1,5 +1,93 @@
 [
   {
+    "Title": "Reimplementing FlashAttention for performance and giggles | AmineDiro",
+    "Url": "https://aminediro.com/posts/flash_attn/",
+    "Timestamp": "2025-12-22T02:02:43",
+    "Domain": "aminediro.com",
+    "Description": "",
+    "Confidence": 0.9959301
+  },
+  {
+    "Title": "The Quest To Replace My MagSafe Cable",
+    "Url": "https://nickoates.com/blog/quest-magsafe-replacement",
+    "Timestamp": "2025-12-22T02:02:38",
+    "Domain": "nickoates.com",
+    "Description": "A perfectly normal cable replacement turned into a side quest where I was stuck managing Apple and FedEx's logistics nightmare.",
+    "Confidence": 0.80779153
+  },
+  {
+    "Title": "Building Wine from Source on an M2 Mac",
+    "Url": "https://idrewsomeshapes.ca/posts/2025/12/building-wine-from-source-on-an-m2-mac/",
+    "Timestamp": "2025-12-22T02:02:35",
+    "Domain": "idrewsomeshapes.ca",
+    "Description": "Given that I'd like to move to Linux permanently some time, I want to get a deeper understanding of Wine. Please note this is not a tutorial, more like an adventure, so if you're looking for actual instructions, you may need to dissect this post yourself.\nNear the beginning of the year, I had tried to download and play a game called Foxhole on my M2 Mac. However, this game only supports Windows. Having ditched Windows over 4 years ago, I didn't want to go back just to play, so I downloaded the Crossover free trial and gave it a go.",
+    "Confidence": 0.99541044
+  },
+  {
+    "Title": "Switching to Omarchy",
+    "Url": "https://jordangoodman.bearblog.dev/switching-to-omarchy/",
+    "Timestamp": "2025-12-22T02:02:32",
+    "Domain": "jordangoodman.bearblog.dev",
+    "Description": "I have a gaming desktop from 2017. Unfortunately, it does not have a  chip, which prevents me from upgrading to Windows 11. My PC can run 90% of games on ste...",
+    "Confidence": 0.95339483
+  },
+  {
+    "Title": "Why Can’t Gemini Generate Images With Transparent Backgrounds?",
+    "Url": "https://ruky.me/nano-banana/",
+    "Timestamp": "2025-12-22T02:02:28",
+    "Domain": "ruky.me",
+    "Description": "I tried creating images with transparent backgrounds with Gemini but I was never able to get it working.",
+    "Confidence": 0.9947963
+  },
+  {
+    "Title": "Beyond the Ledger: A Case for Self-Hosted P2P Storage - Carlos Felicio",
+    "Url": "https://carlosfelic.io/misc/self-hosted-p2p-storage-ledgerless/",
+    "Timestamp": "2025-12-22T02:02:24",
+    "Domain": "carlosfelic.io",
+    "Description": "Discover why blockchain isn't necessary for personal backups. We explore \"Ledgerless Storage\": A self-hosted P2P storage architecture that prioritizes efficiency over global consensus.",
+    "Confidence": 0.9834307
+  },
+  {
+    "Title": "I don't play the game.",
+    "Url": "https://silence.bearblog.dev/i-dont-play-the-game/",
+    "Timestamp": "2025-12-22T02:02:20",
+    "Domain": "silence.bearblog.dev",
+    "Description": "I have a lot of things of value to share. I know that a lot of people would appreciate them. I can think of posts that would be very welcome on Hacker News. ...",
+    "Confidence": 0.9717542
+  },
+  {
+    "Title": "Developer convenience, infrastructure cost, and losing the open web",
+    "Url": "https://blog.senko.net/developer-convenience-infrastructure-cost-and-losing-the-open-web",
+    "Timestamp": "2025-12-22T02:02:17",
+    "Domain": "blog.senko.net",
+    "Description": "Lately I’ve been thinking about the cloud platforms, SaaS, AI, scraping, costs, and the gradual closing of the web.  At first glance thes...",
+    "Confidence": 0.97827667
+  },
+  {
+    "Title": "Preact without a build step, including routing and signals",
+    "Url": "https://ricardoanderegg.com/posts/preact-without-build-step-including-routing/",
+    "Timestamp": "2025-12-22T02:02:14",
+    "Domain": "ricardoanderegg.com",
+    "Description": "Build tools add a lot of complexity. They solve real problems. But for small projects, they add layers of abstraction I don’t need. I want to write code and run it. No waiting for builds, no …",
+    "Confidence": 0.9977184
+  },
+  {
+    "Title": "Henry's blog",
+    "Url": "https://hygt.github.io/sad-state-of-rcs/",
+    "Timestamp": "2025-12-22T02:02:11",
+    "Domain": "hygt.github.io",
+    "Description": "2025-12-21",
+    "Confidence": 0.95798653
+  },
+  {
+    "Title": "Notes on porting Wild - One must imagine /sys/fs happy",
+    "Url": "https://roci.co.za/posts/notes-on-porting-wild/",
+    "Timestamp": "2025-12-22T02:02:07",
+    "Domain": "roci.co.za",
+    "Description": "A blog about technology and programming",
+    "Confidence": 0.988661
+  },
+  {
     "Title": "WalletWallet — Create Apple Passes for Free",
     "Url": "https://walletwallet.alen.ro/",
     "Timestamp": "2025-12-22T00:02:06",
@@ -78,13 +166,5 @@
     "Domain": "haveibeenflocked.com",
     "Description": "When a government contractor pays a company for \"Takedown Services\" to prevent transparency in government",
     "Confidence": 0.8625562
-  },
-  {
-    "Title": "Jmail, logged in as jeevacation@gmail.com",
-    "Url": "https://www.jmail.world/",
-    "Timestamp": "2025-12-21T02:02:04",
-    "Domain": "www.jmail.world",
-    "Description": "You are logged into jeevacation@gmail.com, Jeffrey Epstein's email. Sourced from the November 2025 House Oversight Committee data release.",
-    "Confidence": 0.92167807
   }
 ]
