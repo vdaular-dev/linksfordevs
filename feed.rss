@@ -6,5 +6,290 @@
     <link>https://linksfor.dev/feed.xml</link>
     <description>Curated links for devs</description>
     <language>en</language>
+    <item>
+      <title>The Architecture of Resistance</title>
+      <link>https://aneeshsathe.com/2025/12/22/the-architecture-of-resistance/</link>
+      <description>The seventeenth-century Hague, the mid-twentieth-century Levant, and the digital terraforming of 2025 have a shared preoccupation with the “Average.” Whether it is the theologian’s way …</description>
+      <category>ai</category>
+      <guid>https://aneeshsathe.com/2025/12/22/the-architecture-of-resistance/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP caching, a refresher · Dan Cătălin Burzo</title>
+      <link>https://danburzo.ro/http-caching-refresher/</link>
+      <description>Let’s relearn web caching together.</description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://danburzo.ro/http-caching-refresher/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Classic Home Computers | Commodore, Atari, Apple, TI &amp; Tandy</title>
+      <link>https://youtube.com/watch?v=G3aDPtL4_cE</link>
+      <description>Before consoles dominated the living room and before personal computers became household appliances, owning a computer at home felt like stepping into the future.
+
+In the late 1970s through the 1980s and early 1990s, classic home computers began appearing on desks, kitchen tables, and bedrooms around the world. These machines weren’t just for games, they were tools for learning, experimenting, programming, and discovering how technology really worked.
+
+This video explores some of the most influential classic home computer platforms, including systems from Commodore, Atari, Apple, Texas Instruments, Tandy, and others that helped define early home computing.
+
+This is not an exhaustive list, the home computer market was massive and constantly evolving, but it is a look at the machines that mattered most, the ones many of us grew up with, learned on, and still remember today.
+
+From cassette tapes and floppy disks to command lines and BASIC programming, these computers laid the groundwork for the digital world we now take for granted.
+
+If you enjoy retro tech, classic computing, and gaming history, consider liking, commenting, and subscribing to help keep this history alive.
+
+🖥️ RetroGamer Gen X- documenting the technology we grew up with.
+
+💬 Tell me in the comments: Which Computer you liked the best? 
+👉 Love retro gaming? Don’t forget to subscribe for more!  
+👍 Hit the like button if you want more video game history.  
+💬 Share your retro computer memories in the comments below!  
+💖 Support the channel directly with a Super Thanks (the heart icon).  
+🕹️ Consider supporting us by becoming a member for early access to videos likes this, and more...
+
+Thank you for your support!
+
+📖📖📖 Chapters 📖📖📖 
+0:00:00 Intro
+0:01:20 Commodore 8-Bit Computers
+0:13:05 Amiga Computers
+0:26:41 Atari 8-Bit Computers
+0:44:49 Atari ST Computers
+0:53:41 Apple 8-Bit Computers
+1:29:13 Texas Instruments TI-99/4 and TI-99/4A
+1:37:19 Radio Shack/Tandy Computers
+
+🎶🎶🎶 Music Credits 🎶🎶🎶
+Produced by HAAL Electronica https://haalelectronica.bandcamp.com
+Used with permission from HAAL Electronica
+Check out his youtube channel:   https://www.youtube.com/@HaalElectronica   
+
+Produced by Nebulous https://www.blitter.com/~nebulous/synthetica.html
+Used with permission from Nebulous
+Check out his youtube channel: https://www.youtube.com/@neb6
+
+YouTube Creator Music:
+Funky Disco by Biz Baz Studio
+
+#ClassicComputers #RetroComputing #VintageComputers 
+#Commodore #Amiga #AtariComputers 
+#AppleII #TI99 #TRS80 
+#HomeComputers #RetroTech 
+#ComputerHistory #RetroGamerGenX</description>
+      <author> (Retrogamer Gen X)</author>
+      <category>gaming</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://youtube.com/watch?v=G3aDPtL4_cE</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bad Questions</title>
+      <link>https://imjosh.dev/blog/bad-questions</link>
+      <description>An article by Josh</description>
+      <guid>https://imjosh.dev/blog/bad-questions</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Document search using Claude and an inverted index.</title>
+      <link>https://annanay.dev/claude-inverted-index-search/</link>
+      <description>Soooo vector databases are pretty popular right now for document search, but it has some drawbacks: choosing the right embedding models, finding the right chunk size, indexing into high dimensional embeddings and managing specialized infrastructure.
+
+</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://annanay.dev/claude-inverted-index-search/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running Claude Code from my phone via SSH with Tailscale and tmux</title>
+      <link>https://www.qu8n.com/posts/running-claude-code-from-my-phone</link>
+      <description>A guide to controlling Claude Code running on your laptop from your phone over SSH using Termius, Tailscale, and tmux.</description>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://www.qu8n.com/posts/running-claude-code-from-my-phone</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adaptec RAID cards are junk</title>
+      <link>https://nickh.org/warstories/adaptec.html</link>
+      <description>From time to time, people would complain about this deleted driver and
+argue that other OSs were superior because they supported this bad
+hardware (usually without the fixes in the drivers that were needed).
+This story was originally posted on one of the OpenBSD mail lists in
+three installments -- it wasn't intended to be three installments, but
+the story kept getting better/worse as time went on.</description>
+      <category>linux</category>
+      <guid>https://nickh.org/warstories/adaptec.html</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bottom-Up Parser Example | ErrorCode0</title>
+      <link>https://www.errorcodezero.dev/blog/bottom-up-parser-example/</link>
+      <description>Showcasing how a simple  bottom up parser might function given a string and context-free grammar.</description>
+      <category>encryption</category>
+      <guid>https://www.errorcodezero.dev/blog/bottom-up-parser-example/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>davidbau.com In Defense of Curiosity</title>
+      <link>https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html</link>
+      <description>At the NeurIPS Mechanistic Interpretability Workshop, I was asked to give an opinion on Neel Nanda's recent blog post on "pragmatic interpretability."  I chose to respond by recounting the story of Venetian glassmaking.</description>
+      <category>ai</category>
+      <guid>https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Custom Evals Matter for Production LLMs</title>
+      <link>https://www.randalolson.com/2025/12/22/why-custom-evals-matter-for-production-llms/</link>
+      <description>Generic benchmarks measure breadth across many tasks. Your application needs depth on one specific task. This is why custom evals matter for production LLMs.</description>
+      <author> (Dr. Randal S. Olson)</author>
+      <category>ai</category>
+      <guid>https://www.randalolson.com/2025/12/22/why-custom-evals-matter-for-production-llms/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lua 5.5 Reference Manual - contents</title>
+      <link>https://www.lua.org/manual/5.5/</link>
+      <description>The reference manual is the official definition of the Lua language.
+
+For a complete introduction to Lua programming, see the book
+Programming in Lua.</description>
+      <guid>https://www.lua.org/manual/5.5/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Decision-Making: Guardrails Beat Gatekeepers</title>
+      <link>https://thomasvilhena.com/2025/12/scaling-decisions-guardrails-beat-gatekeepers</link>
+      <description>I walked into a budget meeting expecting the usual spreadsheet tour: what went up, what went down, and where we should trim next year. We did that. But in the middle of the call, something else surfaced: we were debating how decisions should happen, not just what the numbers were.</description>
+      <guid>https://thomasvilhena.com/2025/12/scaling-decisions-guardrails-beat-gatekeepers</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Couple 3D AABB Tricks</title>
+      <link>https://gpfault.net/posts/aabb-tricks.html</link>
+      <description>published on Dec 23 2025</description>
+      <guid>https://gpfault.net/posts/aabb-tricks.html</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Travel in Style. UniFi style. UniFi Travel Router.</title>
+      <link>https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</link>
+      <description>Take your UniFi network anywhere. The UniFi Travel Router recreates your full network environment on power up, with flexible uplinks, instant policies, and seamless device connectivity.</description>
+      <guid>https://blog.ui.com/article/travel-in-style-unifi-style-unifi-travel-router</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reflections and rantings from a system design interviewer</title>
+      <link>https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer</link>
+      <description>A list of subtly harmful behaviors I notice during system design interviews</description>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://www.calvinbarker.com/blog/reflections-and-rantings-from-a-system-design-interviewer</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Useful Agentic Workflows | David Gasquez</title>
+      <link>https://davidgasquez.com/useful-agentic-workflows-2025/</link>
+      <description>David Gasquez personal website</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://davidgasquez.com/useful-agentic-workflows-2025/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Best Things and Stuff of 2025</title>
+      <link>https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html</link>
+      <description>Great things and people that I discovered, learned, read, met, etc.
+in 2025. No particular ordering is implied. Not everything is new.</description>
+      <category>gaming</category>
+      <category>encryption</category>
+      <guid>https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html</guid>
+      <pubDate>Wed, 24 Dec 2025 16:08:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Must Seize the Means of Compute</title>
+      <link>https://thompson2026.com/blog/seize-the-means-of-compute/</link>
+      <description>The critics are right: massive data centers are a waste. But the solution isn't to ban the math. It is to run it on your own metal.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://thompson2026.com/blog/seize-the-means-of-compute/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex vs. Claude Code (Today)</title>
+      <link>https://build.ms/2025/12/22/codex-vs-claude-code-today/</link>
+      <description>Every AI tool has its strengths and weaknesses, and the only way to discover what they are is by using them.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>typescript</category>
+      <category>python</category>
+      <guid>https://build.ms/2025/12/22/codex-vs-claude-code-today/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Improving Direct Lighting Material Occlusion - Part 1</title>
+      <link>https://irradiance.ca/posts/microshadowing-part1/</link>
+      <description>Piqué fabric with micro-occlusion on the top, and micro-shadowing at the bottom. Both are using the same micro-occlusion map. Geometry virtualization and displacement systems like Nanite has allowed us to substantially increase the geometry resolution. But when it comes to representing small details like cavities, cracks, and creases, those types of solutions are too expensive to be used systemically in a game for a current generation console. As long as we have to rely on normal maps to encode geometric detail there will be a need to handle direct lighting occlusion at the mesoscopic scale. To do that most engines have relied on baking micro-occlusion onto textures or buffers. While that workaround is better than nothing, it results in a flat representation of those small details. In this series of posts I’ll touch on the issues with micro-occlusion and look at micro-shadowing as an improvement.</description>
+      <category>gaming</category>
+      <guid>https://irradiance.ca/posts/microshadowing-part1/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Release Trains Aren't About Releases</title>
+      <link>https://cameronwestland.com/release-trains-arent-about-releases/</link>
+      <description>My Corner of the Web - Cameron Westland's personal blog</description>
+      <category>apple</category>
+      <category>conference</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://cameronwestland.com/release-trains-arent-about-releases/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Funny Numbers</title>
+      <link>https://xkcd.com/3184/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3184/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>When Knowing How to Code Is Not Enough</title>
+      <link>https://iurysouza.dev/agentic-coding-and-context-engineering/</link>
+      <description>Being a good programmer doesn't make you good at managing agents.</description>
+      <author> (https://www.linkedin.com/in/iurysouza/)</author>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://iurysouza.dev/agentic-coding-and-context-engineering/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Find what you’re missing at zombo.com</title>
+      <link>https://jacobbrazeal.wordpress.com/2025/12/23/find-what-youre-missing-at-zombo-com/</link>
+      <description>We were approached on a sunny day by a charming stranger in a brilliant raincoat. “I would like you to make a radio advertisement,” said he, flashing white veneers and an impressive wad of cash. “A…</description>
+      <guid>https://jacobbrazeal.wordpress.com/2025/12/23/find-what-youre-missing-at-zombo-com/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Against SemVer</title>
+      <link>https://www.natemeyvis.com/against-semver/</link>
+      <description>Semantic versioning is the most standard way of naming versions of software.  is the spec, but in short, you define a contract and then give every version a ...</description>
+      <guid>https://www.natemeyvis.com/against-semver/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do students leave exams early?</title>
+      <link>https://www.njbrown.com/blog/76/</link>
+      <description>It's simply just irrational.</description>
+      <guid>https://www.njbrown.com/blog/76/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:07:28 GMT</pubDate>
+    </item>
   </channel>
 </rss>
