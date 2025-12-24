@@ -1,0 +1,310 @@
+[
+  {
+    "Title": "Create your own Mastodon UX",
+    "Url": "https://blog.jonudell.net/2022/12/19/create-your-own-mastodon-ux/",
+    "Timestamp": "2022-12-20T22:03:29",
+    "Domain": "blog.jonudell.net",
+    "Description": "I’ve been discussing Mastodon UX wishlists with some new acquaintances there. This excerpt from A Bloomberg terminal for Mastodon concludes with part of my own wishlist. In a Mastodon timelin…"
+  },
+  {
+    "Title": "DND 11: Better Dynamic Type Designs",
+    "Url": "https://www.david-smith.org/blog/2022/12/19/design-notes-11/",
+    "Timestamp": "2022-12-20T22:03:29",
+    "Domain": "www.david-smith.org",
+    "Description": "Last week I was doing some work on better Dynamic Type support for Pedometer++.  This involved  building out a custom tab view, which scales the size and visuals of my tab bar with larger sizes (the iOS system one doesn’t change at all)."
+  },
+  {
+    "Title": "Mathematically Evaluating mpv's Upscaling Algorithms",
+    "Url": "https://artoriuz.github.io/blog/mpv_upscaling.html",
+    "Timestamp": "2022-12-20T22:03:29",
+    "Domain": "artoriuz.github.io",
+    "Description": "This work aims to mathematically quantify image quality and performance of different real-time upscaling algorithms."
+  },
+  {
+    "Title": "The Year of 1000 Tomatoes – Shane Oberloier",
+    "Url": "https://oberloier.com/2022/12/20/the-year-of-1000-tomatoes/",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "oberloier.com",
+    "Description": "For the last several years I’d been in a pretty high stress situation. I don’t think you can find a grad student who isn’t stressed to some degree."
+  },
+  {
+    "Title": "Applicative programming in Ruby: railway reimagined",
+    "Url": "https://dmitrytsepelev.dev/applicative-ruby-railway",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "dmitrytsepelev.dev",
+    "Description": "How to write Railway–style code in Ruby with the Applicative functors"
+  },
+  {
+    "Title": "Deep work. Essentialism in asynchronous culture",
+    "Url": "https://jorzel.github.io/deep-work-essentialism-in-asynchronous-culture/",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "jorzel.github.io",
+    "Description": "Deep work\nNowadays, we are getting accustomed to working in a continuously interrupting environment. Smartphone notifications, hundreds of e-mails, open spaces, and meetings slicing our workday. We are feeling busy, and overworked, but are we more productive? \nIf I am a salesman or project coordinator that way of working can bring good effects and even improve my skills. However, for Software Developers, Designers, and other professionals that need a quiet environment for creative effort, it can lead only to frustration and burnout. They need something that is called deep work. Deep work is a concept popularized by Cal Newport in his book under the same title published in 2016. The author divides mental activity into two categories:\n\n  shallow work, that does not need intensive concentration like sending e-mails, formatting documents, chatting using communicators, etc.\n  deep work, that demands distraction-free focus on one task like writing a document, learning a new skill, designing a software system, etc.\n\n\n"
+  },
+  {
+    "Title": "Blockchain Blasphemy and the Technological Antichrist",
+    "Url": "https://lukesmith.xyz/articles/blockchain-blasphemy/",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "lukesmith.xyz",
+    "Description": "There’s a meme YouTube video by Leonardo of Biz (here) where the villainous Bogs refer to their desire to attain something called “The Akashic Records” using blockchain technology.\nThis random aside not just shows the attention to detail Leonardo gives what would otherwise be silly videos, but articulates something deeply troubling about a war unfolding over Bitcoin, Ethereum and other blockchain technology, but also technology generally.\nMost normal people see this comment and ask…"
+  },
+  {
+    "Title": "Optimizing Symmetric Quadratic Form",
+    "Url": "https://spmd.org/posts/optimizing_symmetric_quadratic_form/",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "spmd.org",
+    "Description": "This post is motivated by this discourse thread, providing the following code:"
+  },
+  {
+    "Title": "Starting a startup",
+    "Url": "https://www.talhoffman.com/2022/12/20/starting/",
+    "Timestamp": "2022-12-20T22:03:28",
+    "Domain": "www.talhoffman.com",
+    "Description": "Last week marked one year since I quit my previous job and began chasing my dream of starting my own startup. Even though it’s still early days in what will hopefully be a very long journey, I thought now would be a good time to take a step back and reflect."
+  },
+  {
+    "Title": "CSS Techniques for Blazor Developers | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=w_x1keHyXAY",
+    "Timestamp": "2022-12-20T20:03:34",
+    "Domain": "youtube.com",
+    "Description": "Does your CSS code remind you of an episode of Hoarders? In this session we’ll explore a variety of CSS related architecture decisions that Blazor developers..."
+  },
+  {
+    "Title": "Episode 450 - Twitter Live Spaces Discussion",
+    "Url": "https://azpodcast.azurewebsites.net/post/Episode-450-Twitter-Live-Spaces-Discussion",
+    "Timestamp": "2022-12-20T19:03:18",
+    "Domain": "azpodcast.azurewebsites.net",
+    "Description": "The Azure Podcast"
+  },
+  {
+    "Title": "Experimenting With .NET & WebAssembly - Running .NET Based Spin Application On WASI Node Pool in AKS",
+    "Url": "https://www.tpeczek.com/2022/12/experimenting-with-net-webassembly.html",
+    "Timestamp": "2022-12-20T19:03:18",
+    "Domain": "www.tpeczek.com",
+    "Description": "In this post I'm experimenting with a bunch of experimental and preview stuff by taking .NET, WASM, and AKS for a spin."
+  },
+  {
+    "Title": "Beanstalk Retrospective, part 5",
+    "Url": "https://ericlippert.com/2022/12/20/beanstalk-retrospective-part-5/",
+    "Timestamp": "2022-12-20T19:03:17",
+    "Domain": "ericlippert.com",
+    "Description": "Let’s take another look at the “hello world” example and think more carefully about what is actually going on: @random_variable def fairness():   return Beta(2,2) @random_variable…"
+  },
+  {
+    "Title": "Adding new files just got a lot faster",
+    "Url": "https://devblogs.microsoft.com/visualstudio/adding-new-files-just-got-a-lot-faster/",
+    "Timestamp": "2022-12-20T17:02:21",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Have you ever felt like the New Item Dialog slows you down when you want to quickly create an empty file or a simple C# class? Browsing through a list of templates is sometimes necessary, but wouldn’t it be great if Visual Studio could figure out which template you needed based only on the file name?"
+  },
+  {
+    "Title": "What are the biggest reasons newcomers give up on OCaml?",
+    "Url": "https://discuss.ocaml.org/t/what-are-the-biggest-reasons-newcomers-give-up-on-ocaml/10958/",
+    "Timestamp": "2022-12-20T17:02:20",
+    "Domain": "discuss.ocaml.org",
+    "Description": "That’s probably not a good question to ask here, as most people here are surely people who persisted and made it (or are on the way there). But I’m still wondering what prevents OCaml from being more widely adopted as a language, and more, what made people who could have benefited from (and contributed to) OCaml give up.  My guess would be these three, in order of importance:   The compiler errors. Personally I think this is the biggest hurdle to get over with when learning OCaml. I wanted to gi..."
+  },
+  {
+    "Title": "37 tips for improving productivity in software development teams",
+    "Url": "https://sprkl.dev/37-tips-for-improving-productivity-in-software-development-teams/",
+    "Timestamp": "2022-12-20T15:01:55",
+    "Domain": "sprkl.dev",
+    "Description": "37 tips on improving productivity working in software development teams working in complex modern software organizations"
+  },
+  {
+    "Title": "Why doesn't the BitLocker wizard let me save the BitLocker key on an encrypted drive?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221220-00/?p=107603",
+    "Timestamp": "2022-12-20T15:01:53",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Don't lock your keys in the car."
+  },
+  {
+    "Title": "dotnetdays.ro - .NET & Software Architecture conference in Romania",
+    "Url": "https://dotnetdays.ro/",
+    "Timestamp": "2022-12-20T13:01:37",
+    "Domain": "dotnetdays.ro",
+    "Description": ".NET & Software Architecture conference in Romania. Deeply technical talks and workshops, experienced professionals, software craftmanship."
+  },
+  {
+    "Title": "ASP.NET Core in Action, Version 3 update",
+    "Url": "https://andrewlock.net/aspnetcore-in-action-version-3-update/",
+    "Timestamp": "2022-12-20T13:01:33",
+    "Domain": "andrewlock.net",
+    "Description": "In this article I talk a little about my upcoming book, ASP.NET Core in Action, Version 3."
+  },
+  {
+    "Title": "Extreme LINQ Performance Boost in .NET 7 - Code Maze",
+    "Url": "https://code-maze.com/linq-performance-dotnet7/",
+    "Timestamp": "2022-12-20T09:03:14",
+    "Domain": "code-maze.com",
+    "Description": ".NET 7 has brought us a lot of great new features and improvements, including some pretty excellent LINQ performance improvements."
+  },
+  {
+    "Title": "Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)",
+    "Url": "https://youtu.be/sWLdZFCMx8Y",
+    "Timestamp": "2022-12-20T09:03:12",
+    "Domain": "youtu.be",
+    "Description": "Subscribe to Chrysalis Records' YouTube channel: https://chrys.lnk.to/SubscribeOfficial music video for The Lunatics Have Taken Over The Asylum by Fun Boy Th..."
+  },
+  {
+    "Title": "Structure and order your DI container",
+    "Url": "https://steven-giesel.com/blogPost/f557493c-0919-44fc-8073-40b4fb90d53e",
+    "Timestamp": "2022-12-20T09:03:11",
+    "Domain": "steven-giesel.com",
+    "Description": "Does your Dependency Injection container is one big pile of method calls one after the other?\nAre there 50 lines of just AddScoped, AddTransient, and so on? Well, let's fix this.\nWe can utilize extension methods to make an order to that mess!\n"
+  },
+  {
+    "Title": "ULTIMA ORĂ! EXCLUSIV. Federaţia Rusă ar avea în plan să invadeze şi R. Moldova la începutul anului 2023",
+    "Url": "https://tvrmoldova.md/article/a35b0916fd4f7829/ultima-ora-federatia-rusa-ar-avea-in-plan-sa-invadeze-si-r-moldova-la-inceputul-anului-2023.html",
+    "Timestamp": "2022-12-20T08:04:17",
+    "Domain": "tvrmoldova.md",
+    "Description": "Federaţia Rusă ar avea în plan să invadeze şi Republica Moldova la începutul anului 2023, iar punerea în aplicare a scenariului depinde de evoluţiile războiului din Ucraina. Asta susține directorul Serviciului de Informaţii şi Securitate, într-un interviu, în exclusivitate, pentru TVR Moldova."
+  },
+  {
+    "Title": "Deploying EOL .NET Core to Azure App Services - Dominique St-Amand",
+    "Url": "https://www.domstamand.com/deploying-eol-dotnet-core-to-azure-app-services/",
+    "Timestamp": "2022-12-20T06:03:11",
+    "Domain": "www.domstamand.com",
+    "Description": "As you all know, .NET Core 3.1 is now out of support since December 13 2022. If you follow me on my social media, I reminded my followers about this a little over a month ago. Unfortunately, some of the customers my colleagues and I deal with, have yet to…"
+  },
+  {
+    "Title": "Muhammad Azeez - Generating C# bindings for native libraries by using ChatGPT",
+    "Url": "https://mazeez.dev/posts/chat-gpt-csharp-bindings",
+    "Timestamp": "2022-12-20T06:03:10",
+    "Domain": "mazeez.dev",
+    "Description": "A blog about software engineering and beyond!"
+  },
+  {
+    "Title": "What are the biggest reasons newcomers give up on OCaml?",
+    "Url": "https://discuss.ocaml.org/t/what-are-the-biggest-reasons-newcomers-give-up-on-ocaml/10958",
+    "Timestamp": "2022-12-20T06:03:09",
+    "Domain": "discuss.ocaml.org",
+    "Description": "That’s probably not a good question to ask here, as most people here are surely people who persisted and made it (or are on the way there). But I’m still wondering what prevents OCaml from being more widely adopted as a language, and more, what made people who could have benefited from (and contributed to) OCaml give up.  My guess would be these three, in order of importance:   The compiler errors. Personally I think this is the biggest hurdle to get over with when learning OCaml. I wanted to gi..."
+  },
+  {
+    "Title": "Error-accumulating composable assertions in C#",
+    "Url": "https://blog.ploeh.dk/2022/12/19/error-accumulating-composable-assertions-in-c/",
+    "Timestamp": "2022-12-20T06:03:09",
+    "Domain": "blog.ploeh.dk",
+    "Description": "Perhaps the list monoid is all you need for non-short-circuiting assertions."
+  },
+  {
+    "Title": "[🎄.NET Advent Calendar🎄] Strengthening security posture of containerized .NET applications with Chiseled Ubuntu Containers",
+    "Url": "https://kristhecodingunicorn.com/post/dotnet_ubuntu_chiseled/",
+    "Timestamp": "2022-12-20T06:03:09",
+    "Domain": "kristhecodingunicorn.com",
+    "Description": "This blog post explains how you can run containerized .NET applications in a more secure manner with Chiseled Ubuntu Containers"
+  },
+  {
+    "Title": "GitHub - Spotifyd/spotifyd: A spotify daemon",
+    "Url": "https://github.com/Spotifyd/spotifyd",
+    "Timestamp": "2022-12-20T05:02:29",
+    "Domain": "github.com",
+    "Description": "A spotify daemon. Contribute to Spotifyd/spotifyd development by creating an account on GitHub."
+  },
+  {
+    "Title": "Data Point",
+    "Url": "https://xkcd.com/2713/",
+    "Timestamp": "2022-12-20T04:03:50",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Fun Boy Three - The Lunatics Have Taken Over The Asylum (Official Music Video)",
+    "Url": "https://youtube.com/watch?v=sWLdZFCMx8Y",
+    "Timestamp": "2022-12-20T02:02:45",
+    "Domain": "youtube.com",
+    "Description": "Subscribe to Chrysalis Records' YouTube channel: https://chrys.lnk.to/SubscribeOfficial music video for The Lunatics Have Taken Over The Asylum by Fun Boy Th..."
+  },
+  {
+    "Title": "23 Blockchain Predictions for 2023",
+    "Url": "https://www.coindesk.com/consensus-magazine/2022/12/19/23-blockchain-predictions-for-2023/",
+    "Timestamp": "2022-12-20T01:03:20",
+    "Domain": "www.coindesk.com",
+    "Description": "Andrew Keys, of DARMA Capital, previews developments in zero-knowledge, Ethereum, NFTs, Filecoin, Cosmos, regulations, and much more."
+  },
+  {
+    "Title": "How Tom Segura Answers When Asked How He's Doing | Netflix Is A Joke",
+    "Url": "https://youtu.be/8mREEqCFU9Y",
+    "Timestamp": "2022-12-20T01:03:14",
+    "Domain": "youtu.be",
+    "Description": "A small talk conversation at the bank literally ruined Tom Segura's day and there's no need to revisit this. Watch Tom Segura: Ball Hog, only on Netflix. htt..."
+  },
+  {
+    "Title": "Elon Musk Grossly Misunderstands Free Speech – Zdziarski",
+    "Url": "https://www.zdziarski.com/blog/?p=11814",
+    "Timestamp": "2022-12-20T00:01:37",
+    "Domain": "www.zdziarski.com",
+    "Description": "General . Opinion . Politics"
+  },
+  {
+    "Title": "Publish your calendar and let recruiters schedule interviews themselves",
+    "Url": "https://blog.dahl.dev/posts/publish-your-calendar-and-let-recruiters-schedule-interviews-themselves/",
+    "Timestamp": "2022-12-20T00:01:36",
+    "Domain": "blog.dahl.dev",
+    "Description": "I am unemployed! It&rsquo;s great!\nI have been (deliberately) out of work since June 2022. It&rsquo;s been a magical time!\n I tried a lot of new recipes I spent time on my side-project bostadsbussen I visited Singapore, South Korea, Thailand, Nepal (Hiking Himalayas), Turkey, Italy, France I slept a lot I spent time with family  But I also used a lot of my savings.\nSo I&rsquo;m looking for a job."
+  },
+  {
+    "Title": "Functional error-handling with stack traces",
+    "Url": "https://valentin.willscher.de/posts/scala-errorhandling/",
+    "Timestamp": "2022-12-20T00:01:35",
+    "Domain": "valentin.willscher.de",
+    "Description": "How I do functional error-handling in Scala by leveraging stack traces and ZIO"
+  },
+  {
+    "Title": "[Java][Profiling] Async-profiler - manual by use cases",
+    "Url": "https://krzysztofslusarski.github.io/2022/12/12/async-manual.html",
+    "Timestamp": "2022-12-20T00:01:35",
+    "Domain": "krzysztofslusarski.github.io",
+    "Description": "[Java][Profiling] Async-profiler - manual by use cases"
+  },
+  {
+    "Title": "The top 10 discoveries about ancient people from DNA in 2022",
+    "Url": "https://johnhawks.net/weblog/the-top-10-discoveries-about-ancient-people-from-dna-in-2022/",
+    "Timestamp": "2022-12-20T00:01:35",
+    "Domain": "johnhawks.net",
+    "Description": "Research on ancient genomes has moved way beyond population mixture into broader questions about how ancient people lived and interacted with their environments."
+  },
+  {
+    "Title": "Explicit Ontologies in a World Without | David Bieber",
+    "Url": "https://davidbieber.com/snippets/2022-12-16-note-taking-ontologies/",
+    "Timestamp": "2022-12-20T00:01:35",
+    "Domain": "davidbieber.com",
+    "Description": "Background: Ontologies in Note-taking I’ll do my best to get the context for this thought down quickly, but I don’t think I’ll do a good job. Feel free to ask me if you’d like to understand the context better.\nIn a note-taking system like C. or Tana, objects exist in an ontology1. This means that an object can have a type. That type definition can have properties. For example my notes might be full of people."
+  },
+  {
+    "Title": "How to Name a Startup",
+    "Url": "https://zachholman.com/posts/how-to-name-a-startup",
+    "Timestamp": "2022-12-20T00:01:34",
+    "Domain": "zachholman.com",
+    "Description": "Written pieces, talks, and other bits by Zach Holman."
+  },
+  {
+    "Title": "Publicly Host Your Own Twitter Archive | Charlton's Blog",
+    "Url": "https://blog.ctis.me/2022/12/host-your-twitter-archive/",
+    "Timestamp": "2022-12-20T00:01:34",
+    "Domain": "blog.ctis.me",
+    "Description": "A how-to, since I'm leaving and all."
+  },
+  {
+    "Title": "Continuous learning framework",
+    "Url": "https://jorzel.github.io/continuous-learning-framework/",
+    "Timestamp": "2022-12-20T00:01:34",
+    "Domain": "jorzel.github.io",
+    "Description": "Software development is a field that demands continuous skill improvement. Technology advances rapidly and to be successful you must find a balance between a destructive attempt to be up-to-date at all costs and clinging to your comfort zone by taking the same repetitive tasks all the time. There is a huge difference between 5 years of experience doing the same, and 5 years of experience practicing new things and taking on challenges. Here I have some tips from my experience, on how to build your continuous improvement framework.\n\n"
+  },
+  {
+    "Title": "New Year's Reading Challenges | Ale's little corner of the internet",
+    "Url": "https://alegnoli.com/blog/reading-challenges",
+    "Timestamp": "2022-12-20T00:01:34",
+    "Domain": "alegnoli.com",
+    "Description": "Ale's little corner of the internet. Where I muse about tech, society, human potential, philosophy, aviation, politics, and all other topics I find interesting."
+  },
+  {
+    "Title": "Peterometer",
+    "Url": "http://peterhajas.com/blog/peterometer.html",
+    "Timestamp": "2022-12-20T00:01:34",
+    "Domain": "peterhajas.com",
+    "Description": "i've written a few times on this site about the Peterometer, my name for a quantified-self dashboard."
+  }
+]

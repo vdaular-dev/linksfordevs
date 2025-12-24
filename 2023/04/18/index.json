@@ -1,0 +1,240 @@
+[
+  {
+    "Title": "Upgrading a Project with .NET Upgrade Assistant [6 of 18] Migrating from ASP.NET to ASP.NET Core",
+    "Url": "https://youtube.com/watch?v=ttangBEcZfo",
+    "Timestamp": "2023-04-18T23:06:05",
+    "Domain": "youtube.com",
+    "Description": "In this video, Mike uses the .NET Upgrade Assistant tool to upgrade a class library to .NET Standard. The .NET Upgrade Assistant automates many of the change..."
+  },
+  {
+    "Title": "Keep Watch On Sql Query In Intelli J Goland Or Data Grip - Neenad Ingole",
+    "Url": "https://www.iamninad.com/posts/keep-watch-on-sql-query-in-intelli-j-goland-or-data-grip/",
+    "Timestamp": "2023-04-18T23:06:03",
+    "Domain": "www.iamninad.com",
+    "Description": "Learn how to monitor SQL query results in Jetbrains products like IntelliJ/Goland or Data Grip."
+  },
+  {
+    "Title": "Machine learning models and the market for lemons",
+    "Url": "https://andrewpwheeler.com/2023/04/09/machine-learning-models-and-the-market-for-lemons/",
+    "Timestamp": "2023-04-18T23:06:03",
+    "Domain": "andrewpwheeler.com",
+    "Description": "The market for lemons is an economic concept in which buyers of a good cannot distinguish between quality products and poor products (the lemons). This lack of knowledge makes it so that people sel…"
+  },
+  {
+    "Title": "mjg59 | PSA: upgrade your LUKS key derivation function",
+    "Url": "https://mjg59.dreamwidth.org/66429.html",
+    "Timestamp": "2023-04-18T23:06:02",
+    "Domain": "mjg59.dreamwidth.org",
+    "Description": "Here's an article from a French anarchist describing how his (encrypted) laptop was seized after he was arrested, and material from the encrypted partition has since been entered as evidence against him. His encryption password was supposedly greater than 20 characters and included a mixture of cases, numbers, and punctuation, so in the absence of any sort of opsec failures this implies that even relatively complex passwords can now be brute forced, and we should be transitioning to even more secure passphrases."
+  },
+  {
+    "Title": "WireMock.NET - Troubleshooting",
+    "Url": "https://cezarypiatek.github.io/post/mocking-outgoing-http-requests-p2/",
+    "Timestamp": "2023-04-18T23:06:02",
+    "Domain": "cezarypiatek.github.io",
+    "Description": "How to deal with most common problems while creating HTTP stubs with WireMock"
+  },
+  {
+    "Title": "Nintendo Switch game modding is illegal. – Gabriel Sieben",
+    "Url": "https://gabrielsieben.tech/2023/04/17/nintendo-switch-game-modding-is-illegal/",
+    "Timestamp": "2023-04-18T23:06:02",
+    "Domain": "gabrielsieben.tech",
+    "Description": "Note: I am not a lawyer – but hear me out."
+  },
+  {
+    "Title": "macOS’ Rapid Security Response: Designed into a Corner",
+    "Url": "https://khronokernel.github.io/macos/2023/04/18/RSR.html",
+    "Timestamp": "2023-04-18T23:06:02",
+    "Domain": "khronokernel.github.io",
+    "Description": "With macOS 13.3.1 dropping a few weeks ago, some people have been wondering what happened to Apple’s featured “Rapid Security Response” system they showed off back at WWDC 2022? For some reason, Apple keeps shipping their usual slow, bulky security updates as opposed to the new small and “rapid” security updates."
+  },
+  {
+    "Title": "Generalized Macros",
+    "Url": "https://ianthehenry.com/posts/generalized-macros/",
+    "Timestamp": "2023-04-18T23:06:02",
+    "Domain": "ianthehenry.com",
+    "Description": "I’ve been writing a lot of Janet lately, and I’ve been especially enjoying my time with the macro system.\nJanet macros are Common Lisp-flavored unhygienic gensym-style macros. They are extremely powerful, and very easy to write, but they can be pretty tricky to get right. It’s easy to make mistakes that lead to unwanted variable capture, or to write macros that only work if they’re expanded in particular contexts, and it can be pretty difficult to detect these problems ahead of time.\nSo people have spent a lot of time thinking about ways to write macros more safely – sometimes at the cost of expressiveness or simplicity – and almost all recent languages use some sort of hygienic macro system that defaults to doing the right thing.\nBut as far as I know, no one has approached macro systems from the other direction. No one looked at Common Lisp’s macros and said “What if these macros aren’t dangerous enough? What if we could make them even harder to write correctly, in order to marginally increase their power and expressiveness?”\nSo welcome to my blog post."
+  },
+  {
+    "Title": "The Email we sent to Freehour",
+    "Url": "https://luke.collins.mt/fh-email/",
+    "Timestamp": "2023-04-18T23:06:01",
+    "Domain": "luke.collins.mt",
+    "Description": "It is very common in the tech industry for companies to have ‘bug-bounty programmes’, which are schemes where companies encourage people who are interested in cybersecurity (i.e., white-hat hackers) to check for vulnerabilities in their products and inform them of any bugs found. The ‘bounty’ is a reward for finding bugs, usually in the form of money or an internship with the company."
+  },
+  {
+    "Title": "Minimalism vs. Essentialism: Understanding the Difference and How It Impacts Your Life | Jim Mitchell",
+    "Url": "https://jimmitchellmedia.net/2023/04/18/minimalism-vs-essentialism-understanding-the-difference-and-how-it-impacts-your-life/",
+    "Timestamp": "2023-04-18T23:06:01",
+    "Domain": "jimmitchellmedia.net",
+    "Description": "Discover the difference between minimalism and essentialism and how they can impact your life positively. Learn how to simplify and focus on what truly matters, whether it's decluttering your physical space or aligning your choices with your values. Explore the world of intentional living and create a more meaningful life with minimalism and essentialism."
+  },
+  {
+    "Title": "Range Encoding for Data Compression",
+    "Url": "https://alecdee.github.io/rangecomp/index.html",
+    "Timestamp": "2023-04-18T23:06:01",
+    "Domain": "alecdee.github.io",
+    "Description": "Range encoders are a type of entropy encoder used in modern day data compressors. They're an\nevolution of earlier entropy encoders (most notably Huffman encoding) which were restricted to\nencoding data as a whole number of bits. Range encoding, by contrast, allows us to encode in\nfractions of a bit and thus achieve compression ratios very close to optimal."
+  },
+  {
+    "Title": "Hot Takes on the Modern Data Stack",
+    "Url": "https://mattpalmer.io/posts/hot-takes/",
+    "Timestamp": "2023-04-18T23:06:01",
+    "Domain": "mattpalmer.io",
+    "Description": "My take on the state of the modern data stack in 2023."
+  },
+  {
+    "Title": "[Responsible Disclosure] How we could have deleted any Linkedin Post | PingSafe",
+    "Url": "https://www.pingsafe.com/blog/linkedin-vulnerability-delete-any-post",
+    "Timestamp": "2023-04-18T20:02:50",
+    "Domain": "www.pingsafe.com",
+    "Description": "Issue was disclosed on April 11th, 2023 & was fixed earlier. Linkedin rewarded with a bounty of $10000 for responsible disclosure."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=Ba_j0Z-Xbh8",
+    "Timestamp": "2023-04-18T19:01:56",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": ".NET MAUI Community Standup - VS Accessibility Checker with Dante Gagne",
+    "Url": "https://youtube.com/watch?v=qeWB8DwP-dQ",
+    "Timestamp": "2023-04-18T19:01:56",
+    "Domain": "youtube.com",
+    "Description": "Join Maddy Montaquila, David Ortinau, and special guest Dante Gagne to see the recently shipped Accessibility Checker built right in to Visual Studio!Communi..."
+  },
+  {
+    "Title": "Easier Git rebase of messy branches",
+    "Url": "https://blog.genezini.com/p/easier-git-rebase-of-messy-branches/",
+    "Timestamp": "2023-04-18T15:05:47",
+    "Domain": "blog.genezini.com",
+    "Description": "How to resolve git conflicts just one time when rebasing"
+  },
+  {
+    "Title": "Preprint announcement: 'Weighted quantile estimators'",
+    "Url": "https://aakinshin.net/posts/preprint-wqe/",
+    "Timestamp": "2023-04-18T15:05:47",
+    "Domain": "aakinshin.net",
+    "Description": "I have just published a preprint of a paper &lsquo;Weighted quantile estimators&rsquo;. It&rsquo;s based on a series of my research notes that I have been ..."
+  },
+  {
+    "Title": "No, it is not a security vulnerability that there is no certificate of appreciation for reporting a bug - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230418-00/?p=108066",
+    "Timestamp": "2023-04-18T14:04:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It wasn't even a bug report."
+  },
+  {
+    "Title": "Nicolás Siplis",
+    "Url": "https://nicolas-siplis.com/ironboy/",
+    "Timestamp": "2023-04-18T14:04:30",
+    "Domain": "nicolas-siplis.com",
+    "Description": "Personal website"
+  },
+  {
+    "Title": "Consent management made easy and clear with Cloudflare Zaraz",
+    "Url": "https://blog.cloudflare.com/consent-manager/",
+    "Timestamp": "2023-04-18T13:01:37",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare Zaraz now can also help you with gathering and managing consent. With this new tool, you can easily collect user’s consent preferences on your website, using a consent modal, and apply your consent policy on third-party tools you load via Cloudflare Zaraz"
+  },
+  {
+    "Title": "Transgender Center Concerns",
+    "Url": "https://ago.mo.gov/file-a-complaint/transgender-center-concerns",
+    "Timestamp": "2023-04-18T10:03:28",
+    "Domain": "ago.mo.gov",
+    "Description": ""
+  },
+  {
+    "Title": "Postel's law for API Robustness",
+    "Url": "https://code4it.dev/architecture-notes/postel-law-for-api-robustness/",
+    "Timestamp": "2023-04-18T09:01:51",
+    "Domain": "code4it.dev",
+    "Description": "A system should be robust: it should be able to resist change and, well, not generate regressions. Postel’s law helps define a mindset to create robust APIs."
+  },
+  {
+    "Title": "How to Serialize a Dictionary to JSON in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-how-to-serialize-a-dictionary-to-json/",
+    "Timestamp": "2023-04-18T07:01:54",
+    "Domain": "code-maze.com",
+    "Description": "Exploring how to serialize a dictionary to JSON using two of the most popular .NET libraries: Newtonsoft.Json and System.Text.Json."
+  },
+  {
+    "Title": "Creating Cross-Platform/Multi-Platform .NET Applications with Windows App SDK (WinUI) and the Uno Platform - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/multi-platform-applications-uno-platform/",
+    "Timestamp": "2023-04-18T06:02:22",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "There are two main options for building applications in .NET and leverage the Windows App SDK, that target multiple platforms (aka cross-platform or multi-platform applications) with is Microsoft’s .NET MAUI and the Uno Platform. Before everyone jumps up and down that I’ve missed Avalonia UI, they don’t fit in this category because they don’t leverage ... Read more"
+  },
+  {
+    "Title": "My advice for transitioning to a clean architecture platform | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/04/17/my-advice-transitioning-clean-architecture-platform",
+    "Timestamp": "2023-04-18T06:02:18",
+    "Domain": "developers.redhat.com",
+    "Description": "This article discusses the transition from functional microservices to a clean architecture platform. Explore how clean architecture looks when it's mapped to"
+  },
+  {
+    "Title": "My advice for building maintainable, clean architecture | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/04/17/my-advice-building-maintainable-clean-architecture",
+    "Timestamp": "2023-04-18T06:02:18",
+    "Domain": "developers.redhat.com",
+    "Description": "Get a developer's thoughts on development concepts and methodologies that can be beneficial to infrastructure, including clean architecture."
+  },
+  {
+    "Title": "ChatGPT Problems in Coding React Apps",
+    "Url": "https://peterkellner.net//2023/04/16/chatgpt-problems-coding-react-apps/",
+    "Timestamp": "2023-04-18T06:02:18",
+    "Domain": "peterkellner.net",
+    "Description": "ChatGPT is awesome for helping in programming, but it's not up to the task of being an expert system. It often gives poor programming advice"
+  },
+  {
+    "Title": "Monsters Weekly 266 -  Time Series Data with Postgres",
+    "Url": "https://www.aspnetmonsters.com/2023/04/monsters-weekly%5Cep266/",
+    "Timestamp": "2023-04-18T06:02:17",
+    "Domain": "www.aspnetmonsters.com",
+    "Description": "We’re exploring time series data on Postgres and to get started we need to get the proper extensions set up on our Azure instance. Let’s mash on that."
+  },
+  {
+    "Title": "Redux Toolkit is the official way to write Redux apps",
+    "Url": "https://thoughtbot.com/blog/getting-started-with-redux-toolkit",
+    "Timestamp": "2023-04-18T06:02:17",
+    "Domain": "thoughtbot.com",
+    "Description": "An intro to Redux Toolkit."
+  },
+  {
+    "Title": "Webinar – Stefan Pölz – How to test C# unit tests with mutation testing | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/04/17/webinar-stefan-polz-how-to-test-csharp-unit-tests-with-mutation-testing/",
+    "Timestamp": "2023-04-18T06:02:17",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Join us Thursday, May 4, 2023, 3:00 - 4:00 PM UTC (check other timezones) for our free live webinar, How to test C# unit tests with mutation testing, with Clean C# Coder, Stefan Pölz.\n\n\n\nRegister now"
+  },
+  {
+    "Title": "Monsters Weekly 267 -  Updating Legacy ASP.NET Applications",
+    "Url": "https://www.aspnetmonsters.com/2023/04/monsters-weekly%5Cep267/",
+    "Timestamp": "2023-04-18T06:02:17",
+    "Domain": "www.aspnetmonsters.com",
+    "Description": "There are a lot of legacy ASP.NET applications out there. In this video we start looking at how we can update them"
+  },
+  {
+    "Title": "A restaurant example of refactoring from example-based to property-based testing",
+    "Url": "https://blog.ploeh.dk/2023/04/17/a-restaurant-example-of-refactoring-from-example-based-to-property-based-testing/",
+    "Timestamp": "2023-04-18T06:02:16",
+    "Domain": "blog.ploeh.dk",
+    "Description": "A C# example with xUnit.net and FsCheck."
+  },
+  {
+    "Title": "Cosmological Nostalgia Content",
+    "Url": "https://xkcd.com/2764/",
+    "Timestamp": "2023-04-18T05:03:13",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Building a system that Junior Developers can be productive in #shorts",
+    "Url": "https://youtube.com/watch?v=H6Hi_9BQEEc",
+    "Timestamp": "2023-04-18T01:02:09",
+    "Domain": "youtube.com",
+    "Description": "🔔 Subscribe: https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw?sub_confirmation=1💥 Join this channel to get access to a private Discord Server and a..."
+  }
+]

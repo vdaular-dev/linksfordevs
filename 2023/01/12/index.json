@@ -1,0 +1,289 @@
+[
+  {
+    "Title": "SimulaVR",
+    "Url": "https://simulavr.com/blog/2023-timeline/",
+    "Timestamp": "2023-01-12T23:05:38",
+    "Domain": "simulavr.com",
+    "Description": "Last year, we finished an early version of our Review Unit prototype, which showcased our displays, optics, and primary boards functioning together with our software. Our next major milestone is to deliver a more polished Review Unit (henceforth referred to as Simula's \"Polished Review Unit\") into the hands of YouTubers. After that, we will release a small early batch of Founders Edition units to our earliest preorderers. And after that, the remainder of our units will be distributed to the rest of our preorderers (in the order they were purchased, with preference for Founders Edition units first)."
+  },
+  {
+    "Title": "Project Шайба - Blago's blog",
+    "Url": "https://petrovs.info/post/2023-01-12-shaiba/",
+    "Timestamp": "2023-01-12T23:05:22",
+    "Domain": "petrovs.info",
+    "Description": "Update So, here is the code. It’s really simple gadget. The whole setup took me less than a hour for building and coding.\nI got the rotary dialer from a local auction site, like Ebay. My first idea was to include everything inside it’s box and leave only the USB cable outside but it was encapsulated and I didn’t have any success for opening it. Originally, the cable had 5 pin DIN connector but only three pins were connected ( White, Brown and Green):"
+  },
+  {
+    "Title": "The levels of Emacs proficiency",
+    "Url": "https://blog.vivekhaldar.com/post/3996068979/the-levels-of-emacs-proficiency",
+    "Timestamp": "2023-01-12T23:05:20",
+    "Domain": "blog.vivekhaldar.com",
+    "Description": "0. Awareness\nYou know about the existence of Emacs. You know that \"C-x C-c\" will get out of it. You also know that \"C-h t\" will go to the built-in tutorial, and you slowly and clumsily start making..."
+  },
+  {
+    "Title": "Building general artificial intelligence… for board games.",
+    "Url": "https://www.adama-platform.com/2023/01/10/general-artificial-intelligence.html",
+    "Timestamp": "2023-01-12T23:05:19",
+    "Domain": "www.adama-platform.com",
+    "Description": "Much has been written about perfect information games like chess, and I am reviewing literature on imperfect games like hearts. As many of you know, I am a huge fan of Battlestar Galactica (BSG) and the associated board game. I believe there is a level beyond imperfect games that requires deception. Honestly, it seems like a bad idea to teach machines how to lie, but as a hacker, I am focused on building a worthy adversary.\n\n"
+  },
+  {
+    "Title": "Velocity defeats itself. Get acceleration instead",
+    "Url": "https://jessitron.com/2022/12/22/velocity-defeats-itself-get-acceleration-instead/",
+    "Timestamp": "2023-01-12T23:05:17",
+    "Domain": "jessitron.com",
+    "Description": "what a spherical cow can teach us about task prioritization in software teams"
+  },
+  {
+    "Title": "Writing a TLA⁺ tree-sitter grammar",
+    "Url": "https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/",
+    "Timestamp": "2023-01-12T23:05:17",
+    "Domain": "ahelwer.ca",
+    "Description": "My foray into free software"
+  },
+  {
+    "Title": "Large Transformer Model Inference Optimization",
+    "Url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+    "Timestamp": "2023-01-12T23:05:17",
+    "Domain": "lilianweng.github.io",
+    "Description": "Large transformer models are mainstream nowadays, creating SoTA results for a variety of tasks. They are powerful but very expensive to train and use. The extremely high inference cost, in both time and memory, is a big bottleneck for adopting a powerful transformer for solving real-world tasks at scale.\nWhy is it hard to run inference for large transformer models? Besides the increasing size of SoTA models, there are two main factors contributing to the inference challenge (Pope et al."
+  },
+  {
+    "Title": "Entity Framework 8: Raw SQL queries on unmapped types",
+    "Url": "https://steven-giesel.com/blogPost/d1f069fb-7f6d-4f80-a98f-734755474ae1",
+    "Timestamp": "2023-01-12T23:05:17",
+    "Domain": "steven-giesel.com",
+    "Description": "The next iteration of Entity Framework, namely Entity Framework 8, will have a new and exciting feature:\nSupport raw SQL queries without defining an entity type for the result\nThat means less boilerplate code!\n"
+  },
+  {
+    "Title": "Part I: Founder-Led Enterprise Sales, Zero to $5M in ARR",
+    "Url": "https://tracy.posthaven.com/part-i-founder-led-enterprise-sales-zero-to-$5m-in-arr",
+    "Timestamp": "2023-01-12T23:05:16",
+    "Domain": "tracy.posthaven.com",
+    "Description": "In 2014, I drove through Sand Hill Road pitching a profitable construction software startup with five million dollars in ARR and zero sales people. We received three generous term sheets within..."
+  },
+  {
+    "Title": "What is a data warehouse?",
+    "Url": "https://stephendavidwilliams.com/what-is-a-data-warehouse",
+    "Timestamp": "2023-01-12T23:05:16",
+    "Domain": "stephendavidwilliams.com",
+    "Description": "Preface\nA data warehouse is a single centralized unit that collects and stores large volumes of data from several data sources. Its primary purpose is to serve as a single place where business users can gain insights into the past and current operati..."
+  },
+  {
+    "Title": "API Mismatch: Why bolting SQL onto noSQL is a terrible idea",
+    "Url": "https://www.chrisarmstrong.dev/posts/api-mismatch--why-bolting-sql-onto-nosql-is-a-bad-idea",
+    "Timestamp": "2023-01-12T23:05:16",
+    "Domain": "www.chrisarmstrong.dev",
+    "Description": "Database ORMs like Prisma can make managing data access layers to SQL databases much easier for developers, but if used with a database that has dramatically different semantics and API, the benefits of abstraction are lost and turned into a maze of horrors"
+  },
+  {
+    "Title": "Code is not Prose",
+    "Url": "https://joeblu.com/blog/2023_01_code_prose/",
+    "Timestamp": "2023-01-12T23:05:16",
+    "Domain": "joeblu.com",
+    "Description": "Once a month or so, this idea comes rambling out of the programming community1:\n Software is prose. It is written to communicate ideas to others, it has the interesting side effect that it can be transformed into something a computer can execute.\n- Chet Hendrickson\n This sounds nice on paper. It makes for a good conference talk about how to structure software, how to design programming languages, and how to collaborate."
+  },
+  {
+    "Title": "What Every Competent GDBMS Should Do (aka The Goals & Vision of Kùzu)",
+    "Url": "https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html",
+    "Timestamp": "2023-01-12T23:05:16",
+    "Domain": "kuzudb.com",
+    "Description": "Kùzu is an embeddable property graph database management system designed for performance, scalability, and ease of use in applications."
+  },
+  {
+    "Title": "What To Do If Dependency Teams Can’t Help",
+    "Url": "https://eugeneyan.com/writing/getting-help/",
+    "Timestamp": "2023-01-12T23:05:15",
+    "Domain": "eugeneyan.com",
+    "Description": "Seeking first to understand, earning trust, and preparing for away team work."
+  },
+  {
+    "Title": "OAuth 2 MUST utilize https.",
+    "Url": "https://rajasimon.io/blog/oauth-2-must-utilize-https/",
+    "Timestamp": "2023-01-12T23:05:15",
+    "Domain": "rajasimon.io",
+    "Description": "To avoid this error during the development you need to update the environment variable with insecure transport"
+  },
+  {
+    "Title": "Type Error: “Democratizing”",
+    "Url": "https://writing.kemitchell.com/2023/01/05/Type-Error-Democratizing",
+    "Timestamp": "2023-01-12T23:05:15",
+    "Domain": "writing.kemitchell.com",
+    "Description": "runaway sales speak hits the curb again"
+  },
+  {
+    "Title": "YouTube Analytics: How I Grew My Channel in the First 3 Months",
+    "Url": "https://www.alexhyett.com/youtube-analytics-3-month-growth/",
+    "Timestamp": "2023-01-12T23:05:15",
+    "Domain": "www.alexhyett.com",
+    "Description": ""
+  },
+  {
+    "Title": "The gotcha of unhandled promise rejections",
+    "Url": "https://jakearchibald.com/2023/unhandled-rejections/",
+    "Timestamp": "2023-01-12T23:05:15",
+    "Domain": "jakearchibald.com",
+    "Description": "A rough edge with promises that can sneak up on you."
+  },
+  {
+    "Title": "JavaScript Survey: Devs Want Static Typing (and Favor TypeScript over Vanilla JS) -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/12/javascript-typing.aspx",
+    "Timestamp": "2023-01-12T21:01:51",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "The latest State of JavaScript survey confirms findings from previous editions: Developers like and want static typing for the super-popular programming language. What's more, they're more likely to use statically typed TypeScript 100 percent of the time rather than dynamically typed vanilla JavaScript."
+  },
+  {
+    "Title": "Announcing ML.NET 2.0 | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=eG2h0qrZRJc",
+    "Timestamp": "2023-01-12T21:01:51",
+    "Domain": "youtube.com",
+    "Description": "ML.NET is a free, cross-platform, and open-source machine learning framework built for .NET developers that simplifies the model training and deployment proc..."
+  },
+  {
+    "Title": "GODLIKE! Unreal Tournament Sound",
+    "Url": "https://youtube.com/watch?v=eG-BOuN41vU",
+    "Timestamp": "2023-01-12T21:01:51",
+    "Domain": "youtube.com",
+    "Description": "Use Dirpy.com to download it."
+  },
+  {
+    "Title": "Using Latest C# Features in Any Old .NET Version",
+    "Url": "https://youtu.be/RgKa-tjnUMA",
+    "Timestamp": "2023-01-12T17:03:15",
+    "Domain": "youtu.be",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasJoin the NDC Conferences Giveawa..."
+  },
+  {
+    "Title": "Bad days- Self-help Singh",
+    "Url": "https://youtu.be/HjPgdhRsGIQ",
+    "Timestamp": "2023-01-12T17:03:14",
+    "Domain": "youtu.be",
+    "Description": "bad days will come. But don't despair, there is always tomorrow"
+  },
+  {
+    "Title": "Getting rid of warnings with nullable reference types and JSON object models in C#",
+    "Url": "https://blog.maartenballiauw.be/post/2023/01/12/getting-rid-of-warnings-with-nullable-reference-types-and-json-object-models-in-csharp.html",
+    "Timestamp": "2023-01-12T17:03:13",
+    "Domain": "blog.maartenballiauw.be",
+    "Description": "In my blog series, Nullable reference types in C# - Migrating to nullable reference types, we discussed the benefits of enabling nullable reference types in your C# code, and annotating your code so the compiler and IDE can give you more reliable hints about whether a particular variable or property may need to be checked for being null before using it."
+  },
+  {
+    "Title": "Using Latest C# Features in Any Old .NET Version",
+    "Url": "https://youtube.com/watch?v=RgKa-tjnUMA",
+    "Timestamp": "2023-01-12T15:06:14",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasJoin the NDC Conferences Giveawa..."
+  },
+  {
+    "Title": "Copyright without years | daniel.haxx.se",
+    "Url": "https://daniel.haxx.se/blog/2023/01/08/copyright-without-years/",
+    "Timestamp": "2023-01-12T15:06:12",
+    "Domain": "daniel.haxx.se",
+    "Description": "Like so many other software projects the curl project has copyright mentions at the top of almost every file in the source code repository. Like"
+  },
+  {
+    "Title": "How should I interpret the various values of NLM_CONNECTIVITY?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230112-00/?p=107700",
+    "Timestamp": "2023-01-12T15:06:12",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Different levels of connectedness."
+  },
+  {
+    "Title": "The yaml document from hell",
+    "Url": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+    "Timestamp": "2023-01-12T15:06:12",
+    "Domain": "ruudvanasseldonk.com",
+    "Description": "As a data format, yaml is extremely complicated and it has many footguns. In this post I explain some of those pitfalls by means of an example, and I suggest a few simpler and safer yaml alternatives."
+  },
+  {
+    "Title": "Announcing SCIM support for Cloudflare Access & Gateway",
+    "Url": "https://blog.cloudflare.com/access-and-gateway-with-scim/",
+    "Timestamp": "2023-01-12T14:03:23",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare Access & Gateway now support the System for Cross-domain Identity Management (SCIM) protocol."
+  },
+  {
+    "Title": "Sponsor @dodyg on GitHub Sponsors",
+    "Url": "https://github.com/sponsors/dodyg",
+    "Timestamp": "2023-01-12T14:03:21",
+    "Domain": "github.com",
+    "Description": "I am Dody Gunawinata. I am the creator and maintainer of Practical ASP.NET Core, the largest repository of ASP.NET Core code samples in the world, spanning over 1500 samples across all version of A..."
+  },
+  {
+    "Title": "Cryptography Implementations in .NET - Code Maze",
+    "Url": "https://code-maze.com/dotnet-cryptography-implementations/",
+    "Timestamp": "2023-01-12T11:04:45",
+    "Domain": "code-maze.com",
+    "Description": "In this article we learn about different cryptography implementations in .NET. We see how to use different approaches for specific use cases."
+  },
+  {
+    "Title": "More on .NET 7 user-jwts Tool\n",
+    "Url": "https://wildermuth.com/2023/01/10/more-on-net-y-user-jwt-tool/",
+    "Timestamp": "2023-01-12T06:06:37",
+    "Domain": "wildermuth.com",
+    "Description": "I recently released a Coding Short video and a blog post about the new JWT Tooling in .NET 7. It was received well, but I didn't dig into some of the real details of what is happening.\n"
+  },
+  {
+    "Title": "Bad days- Self-help Singh",
+    "Url": "https://youtube.com/watch?v=HjPgdhRsGIQ",
+    "Timestamp": "2023-01-12T06:06:30",
+    "Domain": "youtube.com",
+    "Description": "bad days will come. But don't despair, there is always tomorrow"
+  },
+  {
+    "Title": "5 new advanced features improving C# 11 | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/01/11/5-new-advanced-features-improving-c-11",
+    "Timestamp": "2023-01-12T06:06:30",
+    "Domain": "developers.redhat.com",
+    "Description": "Learn about 5 new features that improve C# applications, including UTF-8 string literals, file-scoped types, generic attributes, and ref fields. (Part 3 of 3)"
+  },
+  {
+    "Title": "Migrating to Isolated Durable Functions",
+    "Url": "https://markheath.net/post/migrating-to-isolated-durable-functions",
+    "Timestamp": "2023-01-12T06:06:29",
+    "Domain": "markheath.net",
+    "Description": "Mark Heath's Development Blog"
+  },
+  {
+    "Title": "Unit Tests for Main and Other Methods in Top-Level Statements Console Applications | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2023/01/unit-tests-for-main-and-other-methods-in-top-level-statements-console-applications/",
+    "Timestamp": "2023-01-12T06:06:28",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I spent some time attempting to find a way to execute unit tests on the Main and other methods within a console application using top-level statements, purely for the fun of it. It took longer than I had expected."
+  },
+  {
+    "Title": "Writing Custom Hooks with React",
+    "Url": "https://rhythmandbinary.com/post/2023-01-10-writing-custom-hooks-with-react",
+    "Timestamp": "2023-01-12T06:06:28",
+    "Domain": "rhythmandbinary.com",
+    "Description": "I﻿f you've done any React development, you've probably heard of \"hooks\" in components. Hooks enable you to reuse logic across your project's components. Hooks help minimize repetition of code, and also make your project's easier to maintain. React has a few \"built in\" hooks, but also allows you to build your own. In this post I'm "
+  },
+  {
+    "Title": "9 Best Practices to Safely Deploy and Keep Your Application Healthy at Scale",
+    "Url": "https://michaelscodingspot.com/safe-application-deployment/",
+    "Timestamp": "2023-01-12T06:06:28",
+    "Domain": "michaelscodingspot.com",
+    "Description": "Disclaimer: This blog post was written by a human, with no AI-generated text. An application’s code base is a living entity. It keeps growing, changing, and adapting. There’s always a new feature to add, more bugs to solve, and new bugs that are created as a result. As the teams grow, the code changes more often and there are ever more features, more issues, and more bugs. Thorough manual testing becomes impossible the bigger your application gets and as you ship more frequently."
+  },
+  {
+    "Title": "Azure API Management with Tom Kerkhove",
+    "Url": "https://www.spreaker.com/user/16677006/dotnetrocks-1828-azure-api-management",
+    "Timestamp": "2023-01-12T05:01:34",
+    "Domain": "www.spreaker.com",
+    "Description": "API Management has evolved! Carl and Richard talk to Tom Kerkhove about his new role working on Azure API Management. Tom talks about using Azure Arc to deploy the API Management service into your on-premises services. The conversation digs into more of the fundamentals around API management with rate limiting, authentication and authorization, billing, testing, and more. A good API can make your company money - executed poorly and it's a massive headache. Use the tools available to make it easier!"
+  },
+  {
+    "Title": "Programming and its positive impacts on brain functioning",
+    "Url": "https://levelup-edu.com/programming-and-its-positive-impacts-on-brain-functioning/",
+    "Timestamp": "2023-01-12T04:01:53",
+    "Domain": "levelup-edu.com",
+    "Description": "Learning to program can accelerate knowledge acquisition by developing cognitive skills. As a result, we remember the information much better"
+  },
+  {
+    "Title": "We're on dotnet.social",
+    "Url": "https://dev.to/devteam/were-on-dotnetsocial-4c71",
+    "Timestamp": "2023-01-12T02:02:35",
+    "Domain": "dev.to",
+    "Description": "The best of DotNet content on DEV Community is now available via Toot 🦣  We've syndicated our..."
+  }
+]

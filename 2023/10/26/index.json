@@ -1,0 +1,254 @@
+[
+  {
+    "Title": "We need to talk about funding",
+    "Url": "https://octoprint.org/blog/2023/10/26/we-need-to-talk-about-funding/",
+    "Timestamp": "2023-10-26T22:03:02",
+    "Domain": "octoprint.org",
+    "Description": "OctoPrint relies on your financial support to keep going. Please consider chipping in if you can."
+  },
+  {
+    "Title": "The crippling problem of being able to build whatever you want",
+    "Url": "https://aschmelyun.com/blog/the-crippling-problem-of-being-able-to-build-whatever-you-want/",
+    "Timestamp": "2023-10-26T22:03:00",
+    "Domain": "aschmelyun.com",
+    "Description": "A critical look at the problems I've faced with procrastination, analysis paralysis, and side projects as a developer who loves building"
+  },
+  {
+    "Title": "Paolo Melchiorre - μDjango (micro Django) 🧬",
+    "Url": "https://www.paulox.net/2023/10/26/udjango_micro_django/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "www.paulox.net",
+    "Description": "A single file Django micro project created for demonstration purposes to be used in the same way as other Python frameworks."
+  },
+  {
+    "Title": "What 5 years of interviewing software engineers taught me – Lasse Laursen",
+    "Url": "https://www.lasselaursen.com/post/what-5-years-of-interviewing-software-engineers-taught-me/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "www.lasselaursen.com",
+    "Description": "From 2017 to 2023 I interviewed and evaluated over 100 C++ software engineering candidates, with the final three years also covering Python. In this article I’ll cover key lessons I learned from this experience, including:"
+  },
+  {
+    "Title": "/proc los",
+    "Url": "https://admccartney.mur.at/programming/idkprocii/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "admccartney.mur.at",
+    "Description": "Background This posts is a successor to not knowing the /proc filesystem The aim is to improve on at least one major shortcoming of the code listing from the other post. The major fault with that program is that it does not handle the case where the /proc/$PID disappears between the call to readdir and the call to fopen with the status file. To be honest, I was aware of this possibility while writing writing the other program, but was temporarily uninspired to search for a solution."
+  },
+  {
+    "Title": "The Practice of Friendship - Tasshin",
+    "Url": "https://tasshin.com/blog/the-practice-of-friendship/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "tasshin.com",
+    "Description": "This post shares everything I’ve learned so far about making and keeping friends."
+  },
+  {
+    "Title": "I Rewrote my CV in Typst and I'll Never Look Back",
+    "Url": "https://mattrighetti.com/2023/10/25/i-rewrote-my-cv-in-typst",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "mattrighetti.com",
+    "Description": "One of the things I’ve been doing for quite a while, other than tracking myexpenses, has been keeping my CV up-to-date as much as I could. Every three ..."
+  },
+  {
+    "Title": "An Open Letter to Cryptographers: Please Work Together",
+    "Url": "https://gavinhoward.com/2023/10/an-open-letter-to-cryptographers-please-work-together/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "gavinhoward.com",
+    "Description": "There is controversy on the NIST's post-quantum selections, and I have some thoughts."
+  },
+  {
+    "Title": "I’m offering free consulting for sustaining open source projects",
+    "Url": "https://piero.dev/2023/10/im-offering-free-consulting-for-sustaining-open-source-projects/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "piero.dev",
+    "Description": "October 26th, 2023"
+  },
+  {
+    "Title": "Intro to flow fields",
+    "Url": "https://blog.serchinastico.com/posts/flow-fields/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "blog.serchinastico.com",
+    "Description": "Let's see how to translate the theory from flow fields to amazing visual creations that can be devirtualized with a CNC."
+  },
+  {
+    "Title": "Nvix: implementing a Tvix store with NATS",
+    "Url": "https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "bmcgee.ie",
+    "Description": "Ok, before we get started, the name isn’t great. I get it. But in my defence, naming things is hard, and I wanted something short for the eventual cli command.\nSo let’s take it as read that I have heard your groans and accept your position that Nvix as a name is lame and should be changed at my earliest convenience 😉.\nWith that out of the way, let’s get to it."
+  },
+  {
+    "Title": "TLA+ is easy if you know how to abstract",
+    "Url": "https://blog.fponzi.me/2023-10-26-tla-plus-is-easy-if-you-know-how-to-abstract.html",
+    "Timestamp": "2023-10-26T22:02:59",
+    "Domain": "blog.fponzi.me",
+    "Description": "I've been wanting to learn TLA+ for a while now, and I finally had a chance to do it thanks to a seminar series held by Professor [Murat..."
+  },
+  {
+    "Title": "Things I like about Gleam's Syntax",
+    "Url": "https://erikarow.land/notes/gleam-syntax",
+    "Timestamp": "2023-10-26T22:02:58",
+    "Domain": "erikarow.land",
+    "Description": "Gleam is a Type-Safe programming language that transpiles to ErlangAnd javascript., so you can run its code on the BEAM. I’ve slept on Gleam for a while because its syntax. It was too much Rust and not enough Elixir for me."
+  },
+  {
+    "Title": "Microsoft Cranks Out Weekly Visual Studio 2022 17.8 Previews as GA Nears -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/10/26/v17-8-previews.aspx",
+    "Timestamp": "2023-10-26T21:02:34",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Microsoft is now cranking out weekly previews of Visual Studio 2022 17.8, perhaps aiming for general availability next month with the debut of .NET 8 and associated dev tooling."
+  },
+  {
+    "Title": "Microsoft Developer Labs: Adventures with GitHub Copilot in VS Code",
+    "Url": "https://youtube.com/watch?v=ZGU7OlPX8rA",
+    "Timestamp": "2023-10-26T21:02:30",
+    "Domain": "youtube.com",
+    "Description": "Explore the power of GitHub Copilot with fun but challenging coding puzzles. The GitHub Copilot challenge workshop is a chance to dive deep into complex prob..."
+  },
+  {
+    "Title": "You Can Run SignalR on AWS Lambda",
+    "Url": "https://youtube.com/watch?v=_rz9wLBsuVo",
+    "Timestamp": "2023-10-26T18:04:08",
+    "Domain": "youtube.com",
+    "Description": "Hi, I'm James! And in this video you're going to learn how you can send messages through SignalR from your AWS Lambda Functions.If you're building backend, a..."
+  },
+  {
+    "Title": "The Negative Impact of Mobile-First Web Design on Desktop",
+    "Url": "https://www.nngroup.com/articles/content-dispersion/",
+    "Timestamp": "2023-10-26T18:04:06",
+    "Domain": "www.nngroup.com",
+    "Description": "Mobile-first web designs cause significant usability issues when viewed on desktop. Content becomes overly dispersed across long scrolling pages with expansive white space and enlarged images and fonts, making it difficult for users to consume and understand the information."
+  },
+  {
+    "Title": "Helix",
+    "Url": "https://helix-editor.com/news/release-23-10-highlights/",
+    "Timestamp": "2023-10-26T18:04:05",
+    "Domain": "helix-editor.com",
+    "Description": "A post-modern modal text editor."
+  },
+  {
+    "Title": "How to support a COM interface conditionally in C++/WinRT - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20231026-00/?p=108930",
+    "Timestamp": "2023-10-26T17:03:14",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Prevent winrt::implements from responding to it or reporting it."
+  },
+  {
+    "Title": "Oracle unveils Java development extension for Visual Studio Code",
+    "Url": "https://www.infoworld.com/article/3709228/oracle-unveils-java-development-extension-for-visual-studio-code.html",
+    "Timestamp": "2023-10-26T16:02:50",
+    "Domain": "www.infoworld.com",
+    "Description": "Oracle said that its Oracle Java Platform extension would support current JDK releases and the next upcoming JDK version. "
+  },
+  {
+    "Title": "The WORST Domain Modeling Mistakes!",
+    "Url": "https://youtube.com/watch?v=uIfGIlD3lnw",
+    "Timestamp": "2023-10-26T15:03:19",
+    "Domain": "youtube.com",
+    "Description": "What is the worst mistake you can make when modeling a domain? I was asked this question by a member of my channel on our private Discord. Before giving you ..."
+  },
+  {
+    "Title": ".NET 8 & C# 12 Release In a Nutshell",
+    "Url": "https://youtube.com/watch?v=P3-7Fc48AlQ",
+    "Timestamp": "2023-10-26T15:03:19",
+    "Domain": "youtube.com",
+    "Description": "Stephen is the GOAT"
+  },
+  {
+    "Title": "Getting Ready for .NET Conf 2023!",
+    "Url": "https://youtube.com/watch?v=VpmYatshaRk",
+    "Timestamp": "2023-10-26T14:02:48",
+    "Domain": "youtube.com",
+    "Description": "Today, I want to tell you about my preparation for the .NET Conf 2023 and why you should also mark it in your calendar!00:00 Introduction00:19 What is the .N..."
+  },
+  {
+    "Title": "\"Stop Using Structured Logging in .NET!\" | Code Cop #006",
+    "Url": "https://youtube.com/watch?v=XV7N21Dwa-U",
+    "Timestamp": "2023-10-26T13:02:40",
+    "Domain": "youtube.com",
+    "Description": "Become a Patreon and get special perks: https://www.patreon.com/nickchapsasHello everybody, I'm Nick, and in this video, I'll show you why structured logging..."
+  },
+  {
+    "Title": ".NET MAUI Android Auto : Launching Navigation Apps from your app - András Tóth's professional blog | banditoth",
+    "Url": "https://www.banditoth.net/2023/10/26/net-maui-android-auto-launching-navigation-apps-from-your-app/",
+    "Timestamp": "2023-10-26T13:02:39",
+    "Domain": "www.banditoth.net",
+    "Description": "Android Auto is a popular platform that allows users to seamlessly integrate their Android devices with their car’s infotainment system. This integration extends to navigation, allowing users to launch navigation apps like Google Maps or Waze directly from Android Auto. In this blog post, we’ll explore how to achieve this functionality from within your Android ... Read more"
+  },
+  {
+    "Title": "Blazor Unit Testing With bUnit: How To Get Started For Beginners",
+    "Url": "https://www.devleader.ca/2023/10/26/blazor-unit-testing-with-bunit-how-to-get-started-for-beginners/",
+    "Timestamp": "2023-10-26T13:02:38",
+    "Domain": "www.devleader.ca",
+    "Description": "Improve your Blazor unit testing! Look no further than this article on Blazor unit testing with bUnit. Get started from scratch and write useful tests!"
+  },
+  {
+    "Title": "The Cloud Computer / Oxide",
+    "Url": "https://oxide.computer/blog/the-cloud-computer",
+    "Timestamp": "2023-10-26T13:02:37",
+    "Domain": "oxide.computer",
+    "Description": "The world's first commercial cloud computer."
+  },
+  {
+    "Title": "How to Read a String From a .resx (Resource) File in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-string-resource-file/",
+    "Timestamp": "2023-10-26T11:02:16",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will learn how we can easily read a string from a resource (.resx) file and look at some of the best practices."
+  },
+  {
+    "Title": "Approaching unconventional problems | Manas.Tech",
+    "Url": "https://manas.tech/blog/2023/10/25/approaching-unconventional-problems/",
+    "Timestamp": "2023-10-26T10:02:17",
+    "Domain": "manas.tech",
+    "Description": "Or <em>\"How to find a lost phone in a no-cell-coverage camping site?\"</em>"
+  },
+  {
+    "Title": "Craig Stuntz - On Learning Compilers and Creating Programming Languages",
+    "Url": "https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html",
+    "Timestamp": "2023-10-26T10:02:17",
+    "Domain": "www.craigstuntz.com",
+    "Description": "Posted on October 13, 2023"
+  },
+  {
+    "Title": "Jina AI Launches World's First Open-Source 8K Text Embedding, Rivaling OpenAI",
+    "Url": "https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/",
+    "Timestamp": "2023-10-26T08:02:41",
+    "Domain": "jina.ai",
+    "Description": "Jina AI introduces jina-embeddings-v2, the world's first open-source model boasting an 8K context length. Matching the prowess of OpenAI's proprietary models, this innovation is now publicly accessible on Huggingface, signaling a significant milestone in the landscape of text embeddings."
+  },
+  {
+    "Title": "Source Code Generators, DIY",
+    "Url": "https://blog.stackademic.com/source-code-generators-diy-f04229c59e1a",
+    "Timestamp": "2023-10-26T06:02:39",
+    "Domain": "blog.stackademic.com",
+    "Description": "Making your own Source Code Generator is only a few command lines away :-)"
+  },
+  {
+    "Title": "Blazor Basics: Blazor Component (Re-)Rendering",
+    "Url": "https://www.telerik.com/blogs/blazor-basics-blazor-component-re-rendering",
+    "Timestamp": "2023-10-26T06:02:38",
+    "Domain": "www.telerik.com",
+    "Description": "Component rendering is a core mechanic of Blazor applications turning C# components into HTML and CSS. Lifecycle methods allow us to execute custom code."
+  },
+  {
+    "Title": "Announcing the end of support for Node.js 14.x in the AWS SDK for JavaScript (v3) | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/developer/announcing-the-end-of-support-for-node-js-14-x-in-the-aws-sdk-for-javascript-v3/",
+    "Timestamp": "2023-10-26T06:02:37",
+    "Domain": "aws.amazon.com",
+    "Description": "This blog post is about AWS SDK for JavaScript (v3) announcing the end of support for Node.js 14.x, and not AWS Lambda, which is planning their Node.js 14.x deprecation (phase 1) on Nov 27, 2023. Starting May 1, 2024, the AWS SDK for JavaScript (v3) will no longer actively support Node.js 14.x, which reached end-of-life […]"
+  },
+  {
+    "Title": ".NET Rocks! Observability Engineering with Charity Majors",
+    "Url": "https://www.dotnetrocks.com/details/1869",
+    "Timestamp": "2023-10-26T05:02:58",
+    "Domain": "www.dotnetrocks.com",
+    "Description": "What is observability engineering, and why do you need some? While at NDC in Porto, Carl and Richard recorded a .NET Rocks Live with Charity Majors, one of the founders of Honeycomb. Charity talked about her experiences trying to understand how complex applications worked and failed at scale over her years of experience at Facebook and other companies. Ultimately, those experiences led to a book and the creation of Honeycomb. Lots of fun insight from someone who has fought the good fight - and some great questions from the audience!"
+  },
+  {
+    "Title": "Was Rust Worth It?",
+    "Url": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3",
+    "Timestamp": "2023-10-26T04:04:32",
+    "Domain": "jsoverson.medium.com",
+    "Description": "From JavaScript to Rust, three years in."
+  }
+]

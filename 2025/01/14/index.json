@@ -1,0 +1,324 @@
+[
+  {
+    "Title": ".NET and .NET Framework January 2025 servicing releases updates - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/net-and-net-framework-january-2025-servicing-releases-updates/",
+    "Timestamp": "2025-01-14T23:01:53",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Welcome to our combined .NET servicing updates for January 2025. Let’s get into the latest release of .NET & .NET Framework, here is a quick overview of what’s new in these releases: Security Improvements .NET updates .NET Framework updates Security improvements   This month you will find several CVEs that have been fixed this month: […]"
+  },
+  {
+    "Title": "Copilot Induced Crash: how AI-assisted development introduces new types of bugs",
+    "Url": "https://www.bugsink.com/blog/copilot-induced-crash/",
+    "Timestamp": "2025-01-14T22:01:42",
+    "Domain": "www.bugsink.com",
+    "Description": "AI-assisted development introduces new types of bugs. Here's how LLM-assisted coding gave me 2024's hardest-to-find bug."
+  },
+  {
+    "Title": "Apple will soon receive ‘made in America’ chips from TSMC Arizona",
+    "Url": "https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification",
+    "Timestamp": "2025-01-14T21:01:45",
+    "Domain": "www.tomshardware.com",
+    "Description": "Mass production could begin as soon as Q1."
+  },
+  {
+    "Title": "Millions of Accounts Vulnerable due to Google’s OAuth Flaw ◆ Truffle Security Co.",
+    "Url": "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw",
+    "Timestamp": "2025-01-14T20:01:40",
+    "Domain": "trufflesecurity.com",
+    "Description": "Millions of Americans can have their data stolen right now because of a deficiency in Google’s “Sign in with Google” authentication flow. If you’ve worked for a startup in the past - especially one that has since shut down - you might be vulnerable."
+  },
+  {
+    "Title": "Making an Intersection Unsafe for Pedestrians to Save Seconds for Drivers",
+    "Url": "https://collegetowns.substack.com/p/making-an-intersection-unsafe-for",
+    "Timestamp": "2025-01-14T19:01:52",
+    "Domain": "collegetowns.substack.com",
+    "Description": "How the redesign of a street in a walkable college town reflects our broader values for cars over people."
+  },
+  {
+    "Title": "1 in 5 Online Job Postings Are Either Fake or Never Filled, Study Finds",
+    "Url": "https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706",
+    "Timestamp": "2025-01-14T19:01:51",
+    "Domain": "gizmodo.com",
+    "Description": "A plague of \"ghost jobs\" is haunting the modern job-seeker."
+  },
+  {
+    "Title": "in the belly of the MrBeast ",
+    "Url": "https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast",
+    "Timestamp": "2025-01-14T17:01:59",
+    "Domain": "kevinmunger.substack.com",
+    "Description": "what does MrBeast mean?"
+  },
+  {
+    "Title": "My Favorite Tech Stack for Startup Success in 2025",
+    "Url": "https://dev.to/this-is-learning/my-favorite-tech-stack-for-startup-success-in-2025-1e14",
+    "Timestamp": "2025-01-14T16:01:43",
+    "Domain": "dev.to",
+    "Description": "In 2025, building a scalable and efficient tech stack is more critical than ever for startups aiming..."
+  },
+  {
+    "Title": "Release zfs-2.3.0 · openzfs/zfs",
+    "Url": "https://github.com/openzfs/zfs/releases/tag/zfs-2.3.0",
+    "Timestamp": "2025-01-14T15:01:47",
+    "Domain": "github.com",
+    "Description": "We are excited to announce the release of OpenZFS 2.3.0.\nKey Features in OpenZFS 2.3.0:\n\nRAIDZ Expansion (#15022): Add new devices to an existing RAIDZ pool, increasing storage capacity without dow..."
+  },
+  {
+    "Title": "webtop - LinuxServer.io",
+    "Url": "https://docs.linuxserver.io/images/docker-webtop/",
+    "Timestamp": "2025-01-14T15:01:47",
+    "Domain": "docs.linuxserver.io",
+    "Description": "Welcome to the home of the LinuxServer.io documentation!"
+  },
+  {
+    "Title": "Why I Switched to Firefox and Never Looked Back",
+    "Url": "https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/",
+    "Timestamp": "2025-01-14T15:01:47",
+    "Domain": "www.howtogeek.com",
+    "Description": "And I think you should too."
+  },
+  {
+    "Title": "Background Jobs With Quartz - Advanced Scheduling, Persistence, OpenTelemetry",
+    "Url": "https://youtube.com/watch?v=p6bZewonoM0",
+    "Timestamp": "2025-01-14T14:01:36",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nGet the source code here: https://www.patreon.com/milanjovanovic\n\nLearn how to implement robust background job processing in your applications using Quartz.NET, from basic setup to advanced features. This video walks you through the essential concepts of background jobs, guides you through Quartz installation and configuration, and demonstrates how to create and schedule jobs effectively. You'll discover how to achieve job persistence using PostgreSQL for reliable task management, understand durable job storage and triggering mechanisms, and learn how to implement OpenTelemetry instrumentation for enhanced monitoring and observability. Whether you're new to background job processing or looking to enhance your existing implementation, this tutorial provides the practical knowledge you need to build scalable and maintainable job scheduling systems.\n\nScheduling Background Jobs With Quartz in .NET (advanced concepts)\nhttps://www.milanjovanovic.tech/blog/scheduling-background-jobs-with-quartz-in-dotnet-advanced-concepts\n\nScheduling Background Jobs With Quartz.NET\nhttps://www.milanjovanovic.tech/blog/scheduling-background-jobs-with-quartz-net\n\nRunning Background Tasks In ASP.NET Core\nhttps://www.milanjovanovic.tech/blog/running-background-tasks-in-asp-net-core\n\nQuartz tables SQL: https://github.com/quartznet/quartznet/blob/main/database/tables/tables_postgres.sql\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 Why we need background jobs\n0:49 Installing and configuring Quartz\n2:44 Creating a Quartz background job\n4:52 Scheduling a Quartz background job\n9:20 Persistence with Quartz - Postgres\n11:40 Storing jobs durably and triggering\n14:27 Quartz OpenTelemetry instrumentation"
+  },
+  {
+    "Title": "Error Handling and Graceful Shutdowns in Socket Programming – Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/error-handling-and-graceful-shutdowns-in-socket-programming/",
+    "Timestamp": "2025-01-14T13:01:42",
+    "Domain": "woodruff.dev",
+    "Description": "In the world of socket programming, things don’t always go as planned. Networks are unpredictable, connections drop, and unexpected errors can throw a wrench in the smooth operation of your application. But here’s the good news: with robust error handling and graceful shutdowns, you can keep your application resilient and your users happy, even when things go sideways."
+  },
+  {
+    "Title": "B: Game Essence 3 (Category Compilation) #16～#23",
+    "Url": "https://youtube.com/watch?v=zEAuQZq14xE",
+    "Timestamp": "2025-01-14T12:01:45",
+    "Domain": "youtube.com",
+    "Description": "In Category B: Game Essence, I define \"game essence\" as risk and reward, and explore how it impacts the push and pull at the heart of games.\n\n[Index]\n0:00 Opening\n0:11 B-16 Game Essence in Shooting Games\n2:48 B-17 More Game Essence Means Less Broad Appeal\n6:46 B-18 The Shoryuken Command\n11:39 B-19 The Pros and Cons of Leaderboards\n14:52 B-20 What is “Play”?\n18:39 B-21 Faithfulness Comes First in Licensed Games\n22:25 B-22 Game Essence in Action Games\n25:21 B-23 Making \"Work\" Games Fun\n\n[Playlist B: Game Essence]\nhttps://www.youtube.com/playlist?list=PLgKCjZ2WsVLScUWJZ7ppkHGlCUIXEj5Io"
+  },
+  {
+    "Title": "The Power of Continuous Learning in Software Engineering",
+    "Url": "https://long.sweet.pub/the-power-of-continuous-learning-in-software-engineering-7b6430d416a0?source=rss-c77187421577------2",
+    "Timestamp": "2025-01-14T11:01:41",
+    "Domain": "long.sweet.pub",
+    "Description": "Stay Updated, Stay Ahead"
+  },
+  {
+    "Title": "Static Factory Pattern: Solving JSON Deserialization Challenges in .NET",
+    "Url": "https://goatreview.com/static-factory-pattern-json-serialization-dotnet/",
+    "Timestamp": "2025-01-14T11:01:40",
+    "Domain": "goatreview.com",
+    "Description": "Learn how to implement the Static Factory Pattern in .NET while handling JSON serialization challenges. Discover practical solutions using System.Text.Json with example implementations and best practices"
+  },
+  {
+    "Title": "Announcing Developer Academy",
+    "Url": "https://steven-giesel.com/blogPost/abe1b169-78df-4b0e-a31e-8e274c43549a",
+    "Timestamp": "2025-01-14T09:02:37",
+    "Domain": "steven-giesel.com",
+    "Description": "Fabian Gosebrink and I finally launch our new website: developer-academy.ch. A website meant for developers that want to level up their skills!\n"
+  },
+  {
+    "Title": "Snyk security researcher deploys malicious NPM packages targeting Cursor.com",
+    "Url": "https://sourcecodered.com/snyk-malicious-npm-package/",
+    "Timestamp": "2025-01-14T08:01:45",
+    "Domain": "sourcecodered.com",
+    "Description": "A security researcher at Snyk published 5 malicious software packages to the NPM registry. These packages appear to target Cursor.com"
+  },
+  {
+    "Title": "Incident with Git Operations",
+    "Url": "https://www.githubstatus.com/incidents/qd96yfgvmcf9",
+    "Timestamp": "2025-01-14T04:01:45",
+    "Domain": "www.githubstatus.com",
+    "Description": "GitHub's Status Page - Incident with Git Operations."
+  },
+  {
+    "Title": "The 2025 AI Engineering Reading List",
+    "Url": "https://www.latent.space/p/2025-papers",
+    "Timestamp": "2025-01-14T03:01:53",
+    "Domain": "www.latent.space",
+    "Description": "We picked 50 paper/models/blogs across 10 fields in AI Eng: LLMs, Benchmarks, Prompting, RAG, Agents, CodeGen, Vision, Voice, Diffusion, Finetuning. If you're starting from scratch, start here."
+  },
+  {
+    "Title": "Evaluating vector indexes in MariaDB and pgvector: part 1",
+    "Url": "http://smalldatum.blogspot.com/2025/01/evaluating-vector-indexes-in-mariadb.html",
+    "Timestamp": "2025-01-14T01:02:42",
+    "Domain": "smalldatum.blogspot.com",
+    "Description": "This post has results for vector index support in MariaDB and Postgres. I am new to vector indexes so I will start small and over time add m..."
+  },
+  {
+    "Title": "Why don’t we do more prescribed burning? An explainer. - Kevin Drum",
+    "Url": "https://jabberwocking.com/why-dont-we-do-more-prescribed-burning-an-explainer/",
+    "Timestamp": "2025-01-14T01:02:33",
+    "Domain": "jabberwocking.com",
+    "Description": "Prescribed fires—or the lack of them—are on everybody's lip these days. Most people are just parroting talking points for political purposes, but perhaps you'd actually like to be a little smarter about it? Sure you would. It's a weekend and you have some spare time. So let's go through some history and then some current events. It's a little long…"
+  },
+  {
+    "Title": "Differentiable Programming from Scratch",
+    "Url": "https://thenumb.at/Autodiff/",
+    "Timestamp": "2025-01-14T01:02:33",
+    "Domain": "thenumb.at",
+    "Description": "Differentiable programming has become a hot research topic, and not only due to the popularity of machine learning frameworks like TensorFlow, PyTorch, and JAX. Many fields apart from machine learning are finding differentiable programming to be a useful tool for solving optimization problems. In computer graphics, differentiable rendering, differentiable physics, and neural representations are all gaining popularity."
+  },
+  {
+    "Title": "A startup is a religion",
+    "Url": "https://www.backgroundnoise.blog/p/a-startup-is-a-religion",
+    "Timestamp": "2025-01-14T01:02:33",
+    "Domain": "www.backgroundnoise.blog",
+    "Description": "Everyone's searching for meaning. Startups can help you find it, until they can't."
+  },
+  {
+    "Title": "Cosine Similarity: Not the Silver Bullet We Thought It Was | Shaped Blog",
+    "Url": "https://www.shaped.ai/blog/cosine-similarity-not-the-silver-bullet-we-thought-it-was",
+    "Timestamp": "2025-01-14T01:02:32",
+    "Domain": "www.shaped.ai",
+    "Description": "In the world of machine learning and data science, cosine similarity has long been a go-to metric for measuring the semantic similarity between high-dimensional objects. However, a new study by researchers at Netflix and Cornell University challenges our understanding of this popular technique, exposing the underlying issues that could lead to arbitrary and meaningless results. This is particularly concerning for recommendation systems and other AI models that rely on cosine similarity to quantify semantic similarity. As Netflix continues to innovate in enhancing user experiences, understanding these limitations is essential for refining algorithms to deliver more accurate and reliable insights, ultimately improving user engagement and satisfaction."
+  },
+  {
+    "Title": "Treat Extensions Like Apps - Firewalls Don't Stop Dragons",
+    "Url": "https://firewallsdontstopdragons.com/treat-extensions-like-apps/",
+    "Timestamp": "2025-01-14T01:02:32",
+    "Domain": "firewallsdontstopdragons.com",
+    "Description": "Browser extensions are helpful, but powerful, and can be malicious. Treat browser add-ons and plugins like software applications. Remove any you don't need."
+  },
+  {
+    "Title": "I stumbled upon a high-value communication hack for 1:1s",
+    "Url": "https://shaungallagher.pressbin.com/blog/shared-notes.html",
+    "Timestamp": "2025-01-14T01:02:32",
+    "Domain": "shaungallagher.pressbin.com",
+    "Description": "Taking notes during a meeting is smart, but this extra step is brilliant."
+  },
+  {
+    "Title": "You are your mask",
+    "Url": "https://ozorn.in/blog/you-are-your-mask/",
+    "Timestamp": "2025-01-14T01:02:32",
+    "Domain": "ozorn.in",
+    "Description": "You are not what you think you are. You are what others think you are."
+  },
+  {
+    "Title": "Thorsten Ball - Funny Tweets",
+    "Url": "https://thorstenball.com/funny_tweets/",
+    "Timestamp": "2025-01-14T01:02:31",
+    "Domain": "thorstenball.com",
+    "Description": "Last updated: 2025-01-12"
+  },
+  {
+    "Title": "The missing tier for query compilers",
+    "Url": "https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/",
+    "Timestamp": "2025-01-14T01:02:31",
+    "Domain": "www.scattered-thoughts.net",
+    "Description": ""
+  },
+  {
+    "Title": "Optimizing libjson, or: beating encoding/json by at least 2.5x",
+    "Url": "https://xnacly.me/posts/2024/optimizing-libjson/",
+    "Timestamp": "2025-01-14T01:02:31",
+    "Domain": "xnacly.me",
+    "Description": "Benchmarking, analysing and improving JSON parsing performance"
+  },
+  {
+    "Title": "Document Your Progress at Work",
+    "Url": "https://shivamrana.me/2025/01/document-your-progress/",
+    "Timestamp": "2025-01-14T01:02:28",
+    "Domain": "shivamrana.me",
+    "Description": "How can you ensure that your contributions are also recognized?\n\n"
+  },
+  {
+    "Title": "The Unexpected Benefit of Consuming Articles Offline",
+    "Url": "https://blog.nawaz.org/posts/2025/Jan/the-unexpected-benefit-of-consuming-articles-offline/",
+    "Timestamp": "2025-01-14T01:02:28",
+    "Domain": "blog.nawaz.org",
+    "Description": "A while ago, I\nwrote\nabout my shift in reading most articles on a paper as opposed to on a screen."
+  },
+  {
+    "Title": "Self-Service Analytics Grounded in Reality - The Good, The Bad, and The Ugly - Ryan Lynch's Hub",
+    "Url": "https://ryanlynch.me/Professional+Development/Architecture/Technical+POVs/Self-Service+Analytics+Grounded+in+Reality+-+The+Good%2C+The+Bad%2C+and+The+Ugly",
+    "Timestamp": "2025-01-14T01:02:20",
+    "Domain": "ryanlynch.me",
+    "Description": "Self-Service Analytics Grounded in Reality - The Good, The Bad, and The Ugly - Ryan Lynch's Hub"
+  },
+  {
+    "Title": "When each proud fighter brags",
+    "Url": "https://blog.rossry.net/chisness/",
+    "Timestamp": "2025-01-14T01:02:20",
+    "Domain": "blog.rossry.net",
+    "Description": "Remembering Max Chiswick, may his memory be a blessing."
+  },
+  {
+    "Title": "How to use FFmpeg and Whisper to add subtitles for free",
+    "Url": "https://www.tommyjepsen.com/blog/how-to-use-ffmpeg-and-whisper-to-add-subtitles",
+    "Timestamp": "2025-01-14T01:02:20",
+    "Domain": "www.tommyjepsen.com",
+    "Description": "How to add subtitles for free to videos using FFmpeg and Whisper"
+  },
+  {
+    "Title": "How I Use LLMs for Coding and Writing",
+    "Url": "https://taoofmac.com/space/blog/2025/01/12/1730",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "taoofmac.com",
+    "Description": "I’ve come across a couple of posts about how people use LLMs for coding, so I thought I would share how I currently use AI in general–spanni..."
+  },
+  {
+    "Title": "Do Larger PRs Get Merged Faster?",
+    "Url": "https://www.greptile.com/blog/do-larger-prs-get-merged-faster",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "www.greptile.com",
+    "Description": "An analysis of 24,000+ pull requests reveals surprising insights about PR size and review time. Learn how PR complexity affects merge speed and what it means for your development workflow."
+  },
+  {
+    "Title": "On Prompt Engineering",
+    "Url": "https://blog.buschnick.net/2025/01/on-prompt-engineering.html",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "blog.buschnick.net",
+    "Description": "I have a visceral reaction to people talking about \"prompt engineering\". This is an attempt to reflect on why this phrase elicits such a str..."
+  },
+  {
+    "Title": "Turning my laptop into a Search Relevance Judge with local LLMs",
+    "Url": "https://softwaredoug.com/blog/2025/01/13/llm-for-judgment-lists",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "softwaredoug.com",
+    "Description": "Local LLMs can evaluate 100s of result pairs a minute in a Macbook, enabling a new age of rapid search relevance improvements"
+  },
+  {
+    "Title": "Installing and Developing vLLM with Ease",
+    "Url": "https://blog.vllm.ai/2025/01/10/dev-experience.html",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "blog.vllm.ai",
+    "Description": "The field of LLM inference is advancing at an unprecedented pace. With new models and features emerging weekly, the traditional software release pipeline often struggles to keep up. At vLLM, we aim to provide more than just a software package. We’re building a system—a trusted, trackable, and participatory ecosystem for LLM inference. This blog post highlights how vLLM enables users to install and develop with ease while staying at the forefront of innovation."
+  },
+  {
+    "Title": "Chrome Web Store is a mess",
+    "Url": "https://palant.info/2025/01/13/chrome-web-store-is-a-mess/",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "palant.info",
+    "Description": "The post details Google’s lax enforcement of their policies in Chrome Web Store, resulting in a flood of spam submissions, add-ons “legitimately” stealing users’ data and outright malicious extensions not being addressed. At this point Chrome Web Store is a very dangerous mess for users."
+  },
+  {
+    "Title": "Introduction to FFmpeg - AlexandreHTRB blog",
+    "Url": "https://alexandrehtrb.github.io/posts/2025/01/introduction-to-ffmpeg/",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "alexandrehtrb.github.io",
+    "Description": "Learn through practical examples how to use FFmpeg to edit videos and audios."
+  },
+  {
+    "Title": "What I Learned Failing to Finish a Game in 2024",
+    "Url": "https://georgeallen.dev/posts/2024-failures-in-game-development/",
+    "Timestamp": "2025-01-14T01:02:19",
+    "Domain": "georgeallen.dev",
+    "Description": "Here’s a breakdown of my year in game dev, the challenges I faced, and the key takeaways that’ll shape my 2025 projects."
+  },
+  {
+    "Title": "What is a Software Engineer's Job?",
+    "Url": "https://www.kevinberridge.com/posts/20250112-what-is-our-job",
+    "Timestamp": "2025-01-14T01:02:18",
+    "Domain": "www.kevinberridge.com",
+    "Description": "Kevin Berridge's blog"
+  },
+  {
+    "Title": "I Built a Visa Requirement Change Tracker for Fun",
+    "Url": "https://jerrynsh.com/i-built-a-visa-requirement-change-tracker-for-fun/",
+    "Timestamp": "2025-01-14T01:02:17",
+    "Domain": "jerrynsh.com",
+    "Description": "Have you ever wondered how visa requirements between countries change over time? I certainly have. It all started when I was planning an international trip and needed to check if I needed a visa for the country I was visiting. A quick Google search gave me the answer, but it"
+  }
+]

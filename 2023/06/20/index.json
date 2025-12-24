@@ -1,0 +1,261 @@
+[
+  {
+    "Title": "OpenId User Impersonation in Asp.net core With Duende Identity Server - Doumer's Blog",
+    "Url": "https://doumer.me/openid-user-impersonation-in-asp-net-core-with-duende-identity-server/",
+    "Timestamp": "2023-06-20T23:04:25",
+    "Domain": "doumer.me",
+    "Description": "In this article, we will use Duende Identity server and ASP.net core on dotnet 7 to implement OpenId User Impersonation in Asp.net core"
+  },
+  {
+    "Title": "How (not) to compare 2D scatter plots",
+    "Url": "https://liorsinai.github.io/mathematics/2023/05/13/similarities-2d.html",
+    "Timestamp": "2023-06-20T21:03:18",
+    "Domain": "liorsinai.github.io",
+    "Description": "How to calculate the statistical distance between two 2D distributions of points. But first a lesson in bad statistics, the pitfalls of visual solutions and ..."
+  },
+  {
+    "Title": "My first steps with Nix on Mac OSX as Homebrew replacement",
+    "Url": "https://sandstorm.de/de/blog/post/my-first-steps-with-nix-on-mac-osx-as-homebrew-replacement.html",
+    "Timestamp": "2023-06-20T21:03:18",
+    "Domain": "sandstorm.de",
+    "Description": "I finally had some time to play around with Nix - the immutable package manager and build system.  This was on my agenda since a long time, but I finally took the plunge on my M1 OSX system. I by no means understand Nix fully yet, but making progress and it is usable to me already."
+  },
+  {
+    "Title": "How to deploy your deep learning side project on a budget",
+    "Url": "https://luckytoilet.wordpress.com/2023/06/20/how-to-deploy-your-deep-learning-side-project-on-a-budget/",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "luckytoilet.wordpress.com",
+    "Description": "Imagine this scenario: you have successfully trained a nice big neural network model for your side project. The next step is deploying it, making it available for everyone to use and benefit from. …"
+  },
+  {
+    "Title": "Where to find a co-founder | By Anna Leijon",
+    "Url": "https://annaleijon.se/where-to-find-a-co-founder.html",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "annaleijon.se",
+    "Description": "In this article, I gather all the different successful approaches to finding a co-founder - whether it is knowingly or unknowingly."
+  },
+  {
+    "Title": "SQLite Scripting",
+    "Url": "https://www.fabian.fyi/2023/06/sqlite-scripting.html",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "www.fabian.fyi",
+    "Description": "I often inherit scripts in an assortment of programming languages written by predecessors and vendors who…  "
+  },
+  {
+    "Title": "The Next Phase of Eleventy: Return of the Side Project—zachleat.com",
+    "Url": "https://www.zachleat.com/web/eleventy-side-project/",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "www.zachleat.com",
+    "Description": "A post by Zach Leatherman (zachleat)"
+  },
+  {
+    "Title": "Some Elixir Testing Tricks",
+    "Url": "https://pdx.su/blog/2023-06-14-some-elixir-test-tricks/",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "pdx.su",
+    "Description": "Testing in Elixir is pretty great. ExUnit, combined with the functional nature of Elixir, makes it very easy to test almost everything in your codebase. However, it is very easy for boilerplate to creep into your tests. Common setup patterns, similar assertions, and more can quickly make your test suite feel cumbersome. But ExUnit files are just Elixir files. So you can write bits of code that will help you out tremendously."
+  },
+  {
+    "Title": "No, I don't want to chat with my documents | Engin Arslan",
+    "Url": "https://www.enginarslan.com/posts/a-different-kind-of-an-interface-for-llms",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "www.enginarslan.com",
+    "Description": "Engin Arslan - Software developer, teacher, entrepreneur"
+  },
+  {
+    "Title": "Hashing",
+    "Url": "https://samwho.dev/hashing/",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "samwho.dev",
+    "Description": "A visual, interactive introduction to hash functions."
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/2023/do-you-want-your-children-to-be-like-you",
+    "Timestamp": "2023-06-20T21:03:17",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "Bean Machine Retrospective, part 5",
+    "Url": "https://ericlippert.com/2022/12/20/bean-machine-retrospective-part-5/",
+    "Timestamp": "2023-06-20T20:02:43",
+    "Domain": "ericlippert.com",
+    "Description": "Let’s take another look at the “hello world” example and think more carefully about what is actually going on: @random_variable def fairness():   return Beta(2,2) @random_variable…"
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=2d0d6862-7898-4cfe-b7df-252fbdba525a",
+    "Timestamp": "2023-06-20T20:02:42",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password must start with cat: =Arringtonviona9"
+  },
+  {
+    "Title": "Introducing Microsoft Teams tabs and building with SharePoint Framework",
+    "Url": "https://youtube.com/watch?v=hxsrG5IEcWM",
+    "Timestamp": "2023-06-20T19:08:55",
+    "Domain": "youtube.com",
+    "Description": "Blog:  https://aka.ms/dotnet/blogTwitter: https://aka.ms/dotnet/twitterTikTok:  https://aka.ms/dotnet/tiktokMastodon:  https://aka.ms/dotnet/mastodonLinkedIn..."
+  },
+  {
+    "Title": "How To Store Secrets For Local Development",
+    "Url": "https://youtube.com/watch?v=Vp44MP1SPy8",
+    "Timestamp": "2023-06-20T19:08:54",
+    "Domain": "youtube.com",
+    "Description": "💻Watch the full tutorial: https://youtu.be/bKCzoR01lpE🔥My Free .NET Backend Developer Roadmap: https://go.dotnetmicroservices.com/roadmapAre you storing yo..."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=K-IlNtfztE0",
+    "Timestamp": "2023-06-20T19:08:54",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "Microsoft Forms Service’s Journey to .NET 6 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/microsoft-forms-services-journey-to-dotnet-6/",
+    "Timestamp": "2023-06-20T19:08:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Microsoft Forms is an Office product with 130M monthly active users, recently we migrated our services to .NET 6, and we have seen 100%-200% increase in CPU efficiency."
+  },
+  {
+    "Title": "Introducing the New T4 Command-Line Tool for .NET - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/t4-command-line-tool-for-dotnet/",
+    "Timestamp": "2023-06-20T19:08:50",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Learn about the new T4 text template utility built with .NET 6"
+  },
+  {
+    "Title": "YouTube",
+    "Url": "https://youtube.com/watch?v=7raqOv9-Km4",
+    "Timestamp": "2023-06-20T16:03:34",
+    "Domain": "youtube.com",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+  },
+  {
+    "Title": "Understanding the pitfalls of preferring the median over the mean",
+    "Url": "https://aakinshin.net/posts/median-vs-mean/",
+    "Timestamp": "2023-06-20T16:03:32",
+    "Domain": "aakinshin.net",
+    "Description": "We discuss the problem of selecting the right measure of central tendency in statistical analysis, discussing the pros and cons of the mean, median, and Hodges-Lehmann estimator"
+  },
+  {
+    "Title": "Adding Filtering, Sorting And Pagination To a REST API | .NET 7",
+    "Url": "https://youtube.com/watch?v=X8zRvXbirMU",
+    "Timestamp": "2023-06-20T15:06:26",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicREST APIs are the industry standard when it comes to building APIs...."
+  },
+  {
+    "Title": "Integer compression: Implementing FastPFor decoding in C#",
+    "Url": "https://ayende.com/blog/199587-A/integer-compression-implementing-fastpfor-decoding-in-c?Key=cf2b9db2-c738-4977-8886-48a749bba7cd",
+    "Timestamp": "2023-06-20T15:06:25",
+    "Domain": "ayende.com",
+    "Description": "In the previous post, I discussed FastPFor encoding, now I&rsquo;m going to focus on how we deal with decoding. Here is the decode struct:\n\n\n\nNote that t..."
+  },
+  {
+    "Title": "PostgreSQL reconsiders its process-based model",
+    "Url": "https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/",
+    "Timestamp": "2023-06-20T15:06:24",
+    "Domain": "lwn.net",
+    "Description": "In the fast-moving open-source world, programs can come and go quickly; a\ntool that has many users today can easily be eclipsed by something better\nnext week.  Even in this environment, though, some programs endure for a\nlong time.  As an example, consider the\nPostgreSQL database system, which traces its\nhistory back to 1986.  Making fundamental changes to a large code base\nwith that much history is never an easy task.  As fundamental changes go,\nmoving PostgreSQL away from its process-oriented model is not a small one,\nbut it is one that the project is considering seriously."
+  },
+  {
+    "Title": "Why is Windows using only even-numbered processors? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230620-00/?p=108358",
+    "Timestamp": "2023-06-20T14:02:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Spreading out the load over cores."
+  },
+  {
+    "Title": "Azure App Configuration and .NET API: a smart and secure way to manage configurations",
+    "Url": "https://www.code4it.dev/blog/azure-app-configuration-dotnet-api/",
+    "Timestamp": "2023-06-20T09:05:17",
+    "Domain": "www.code4it.dev",
+    "Description": "Centralizing configurations can be useful for several reasons: security, consistency, deployability. In this article, we’re gonna use Azure App Configuration to centralize the configurations used in a .NET API application."
+  },
+  {
+    "Title": "Parsing websites in C# with Html Agility Pack or AngleSharp",
+    "Url": "https://blog.elmah.io/parsing-websites-in-c-with-html-agility-pack-or-anglesharp/",
+    "Timestamp": "2023-06-20T09:05:16",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to parse a website from .NET/C# using the two most popular NuGet packages for the job: Html Agility Pack and AngleSharp."
+  },
+  {
+    "Title": "Exploring .NET streaming API scenarios",
+    "Url": "https://davidpine.net/blog/dotnet-async-enumerable",
+    "Timestamp": "2023-06-20T09:05:16",
+    "Domain": "davidpine.net",
+    "Description": "Use the IAsyncEnumerable<T> interface to stream data from a server to a client."
+  },
+  {
+    "Title": "Home Assistant Yellow",
+    "Url": "https://www.home-assistant.io/yellow/",
+    "Timestamp": "2023-06-20T09:05:16",
+    "Domain": "www.home-assistant.io",
+    "Description": "The easiest way to run Home Assistant. Now available for pre-order."
+  },
+  {
+    "Title": "How to Use Bulk Updates in Entity Framework Core - Code Maze",
+    "Url": "https://code-maze.com/efcore-bulk-updates/",
+    "Timestamp": "2023-06-20T07:03:19",
+    "Domain": "code-maze.com",
+    "Description": "Discover how to perform bulk updates in Entity Framework Core. Explore the new ExecuteUpdate and ExecuteDelete methods."
+  },
+  {
+    "Title": "A History of JavaScript Modules and Bundling, For the Post-ES6 Developer | 8th Light",
+    "Url": "https://8thlight.com/insights/a-history-of-javascript-modules-and-bundling-for-the-post-es6-developer",
+    "Timestamp": "2023-06-20T06:06:24",
+    "Domain": "8thlight.com",
+    "Description": ""
+  },
+  {
+    "Title": "C# Source Code Generators - Bruno Sonnino",
+    "Url": "https://blog.revolution.com.br/2023/06/11/c-source-code-generators/",
+    "Timestamp": "2023-06-20T06:06:21",
+    "Domain": "blog.revolution.com.br",
+    "Description": "C# 9 introduced a new feature that allows you to inspect user code as it is being compiled and generate new C# source files that are added to the compilation. This enables you to write code that runs during compilation and produces additional source code based on the analysis of your program. In this blog"
+  },
+  {
+    "Title": "GraphQL Code Generator–Avoid generating types that are not needed",
+    "Url": "https://bartwullems.blogspot.com/2023/06/graphql-code-generatoravoid-generating.html",
+    "Timestamp": "2023-06-20T06:06:20",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "If you are using GraphQL in your frontend(or even backend) applications I hope you are not creating all the types yourself. Thanks to the bu..."
+  },
+  {
+    "Title": "When is an implementation detail an implementation detail?",
+    "Url": "https://blog.ploeh.dk/2023/06/19/when-is-an-implementation-detail-an-implementation-detail/",
+    "Timestamp": "2023-06-20T06:06:20",
+    "Domain": "blog.ploeh.dk",
+    "Description": "On the tension between encapsulation and testability."
+  },
+  {
+    "Title": "ASP.NET Community Standup - Create a Microsoft Power App for your ASP.NET Core Web API",
+    "Url": "https://youtu.be/saVqRI7QjoY",
+    "Timestamp": "2023-06-20T02:03:40",
+    "Domain": "youtu.be",
+    "Description": "Learn how to quickly build a front-end for your .net web APIs (using Power Platform) with Julia Kasper and Marcel Ferreira.Featuring: Julia Kasper, Marcel Fe..."
+  },
+  {
+    "Title": "Saving Files with .NET MAUI Community Toolkit",
+    "Url": "https://askxammy.com/saving-files-with-net-maui-community-toolkit/",
+    "Timestamp": "2023-06-20T01:03:45",
+    "Domain": "askxammy.com",
+    "Description": "Knowing how to save files in our applications is very important, however, the perception has been that implementation can be tedious. Thanks to the .NET MAUI Community Toolkit using FileSaver, you can now save files much faster. In this article I will show you all the necessary elements to achieve it.\n\n🔧 First of all... What do I need to know?\nWhat is .NET MAUI Community Toolkit??\n\nIt’s a collection of reusable elements such as animations, behaviors  converters, among others, for developing applications for iOS, Android, macOS and WinUI using MAUI.\n\n✍️ Important! Adding this configuration to your project just once is enough to fully benefit from the Community Toolkit. If you've already implemented it using another NuGet feature, feel free to skip this step.\n\n \n\n[expand title=🔧 Still haven't implemented it? Check it here!\n]\n\nAdd from NuGet Package: Community.Toolkit.Maui\n\n\n\nNow let’s initialize: Go to your MauiProgram.cs file\n\nIn the CreateMauiApp method, place in the .UseMauiApp<App>() line and just below it add the following line of code:\n\n⚠ Don’t forget to add the using CommunityToolkit.Maui;at the top of the class.\n[/expand]\n\nPlatform Settings\nOnce you have the MAUI Community Toolkit installation ready. Let’s continue by adding some platform settings. To implement them, follow the instructions added below:\n\nOn Android: Go to  Platform ➖ Android ➖ AndroidManifes.cs and add the following code:\n\n\n\n      On Tizen: Go to  Platform ➖ Tizen ➖ tizen-manifest.xml and add the following code:\n\n\n  For iOS/MacCatalyst and Windows you don’t need an additional configuration.\n\nLet’s start! \nWhat is a FileSaver?\nThis is an API that is part of the MAUI Community Toolkit, which allows you to select a file and save it to a destination folder on your device's file system\nHow to implement it? \n\nStep 1⃣ : Let's use Dependency Injection\nFor this example, we will use Dependency Injection. If you want to know more about this topic you can enter to the article .NET Dependency Injection.\n➖ Registering the FileSaver: For the first step, we need to use the FileSaver, which is responsible for saving the desired file on the system. Since we'll be using Dependency Injection, we need to register it.\nTo do this, go to MauiProgram.cs, navigate to the CreateMauiApp method, and add the following code after the builder.\n\n➖Injecting the service: Now go to your MainPage.xaml.cs, and let's inject the File Saver as I show you below:\n\nStep 2⃣: Saving the file\nWe will use the SaveAsync() method, which displays a dialog on the screen to allow us to select a file and save it to a destination folder on the file system. This method contains the following set of properties:\n➖ Initial path: This is the initial path (suggested) that appears by default in the dialog box when the user goes to save their file. - It’s of string type.\n➖ File name: Upon saving a file, the user is presented with a suggested name, which can be edited or kept as is. It is essential to include the file extension in the suggested name. - It’s of string type. – [Mandatory] \n➖ Stream: This is an abstraction of a stream of bytes. Here, you will manage all the contents of the file that you want to save. - It’s of Stream type. – [Mandatory] \n➖ CancellationToken: Allows you to send a cancellation for the operation you are doing. - It’s of CancellationToken type. – [Mandatory] \nNow let's se how to do it in code\nAdd the cancellationToken: To do so, locate the comment in step 1 that says Add the CancellationToken here and add the following line of code:\n\n⚠ If you want to cancel it, you just have to do the following:\n\nTo prepare the content of the file that we are going to save, we must first create a new method, in this example we will call it SaveFile. Inside, you will see two lines of code which I explain below:\n🔹 We create a stream that we will later pass as a parameter to the SaveAsync method. For this example, we will use text, but you can replace it with other type of content you wish to save.\n🔹 We call  the SaveAsync method, we use SampleFile.txt as the suggested file name.\n\nFinally, let's see the result!\n\n\n\n\nAdditional Topics\nFileSaverResult\nThe FileSaverResult covers the result returned by the SaveAsync method. It contains a set of properties and methods that can help determine if the operation was successful or if there was an exception, among other informations as shown below:\n🔹 File Path: Is a property that refers to the location on disk where the file was saved. - It’s of string type.\n🔹 Exception: Returns the Exception in case the save operation failed.\n🔹 IsSuccessful: Indicates the success of the operation by returning a boolean value.\n🔹 EnsureSuccess: Is a method that checks if the operation was successfull.\nTo access these methods and properties, just save the result of SaveAsync using await and don't forget to make the method async.\n\n\nAnd done! 😎 From now on, you know how to save files in your .NET MAUI applications! 💚💕\n<Label Text=”Thanks for reading! 👋 ” />\nSpanish post:\n\nhttps://es.askxammy.com/guardando-archivos-con-net-maui-community-toolkit/\n\nReferences:\n\nGerald Versluis's Video\nhttps://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/essentials/file-saver?tabs=tizen?WT.mc_id=DT-MVP-50033\n"
+  },
+  {
+    "Title": "On .NET Live - Improving Productivity & Reducing Support Time with Tag Helpers",
+    "Url": "https://youtube.com/watch?v=kbbaiUIjBEg",
+    "Timestamp": "2023-06-20T01:03:43",
+    "Domain": "youtube.com",
+    "Description": "Tag Helpers are one of the most useful features to save time in ASP.NET Core. In this week's episode, community MVP Mitchel Sellers shows us his open-source ..."
+  },
+  {
+    "Title": "How to use RuntimeHelpers.IsReferenceOrContainsReferences to micro-optimize collections - Gérald Barré",
+    "Url": "https://www.meziantou.net/how-to-use-runtimehelpers-isreferenceorcontainsreferences-to-micro-optimize-coll.htm",
+    "Timestamp": "2023-06-20T01:03:43",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to use RuntimeHelpers.IsReferenceOrContainsReferences to micro-optimize collections in .NET."
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "Title": "Why don’t schools teach debugging, or, more fundamentally, fundamentals?",
+    "Url": "https://jakeseliger.com/2024/01/16/why-dont-schools-teach-debugging-or-more-fundamentally-fundamentals/",
+    "Timestamp": "2024-01-17T23:02:37",
+    "Domain": "jakeseliger.com",
+    "Description": "If you find this piece worthwhile, consider the Go Fund Me that’s funding ongoing cancer care. A story from Dan Luu, from back when he “TA’ed EE 202, a second year class on signals and systems at P…"
+  },
+  {
+    "Title": "Net Rotations",
+    "Url": "https://xkcd.com/2882/",
+    "Timestamp": "2024-01-17T23:02:37",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "ASP.NET Core 8.0: Output Caching using Redis",
+    "Url": "https://jaliyaudagedara.blogspot.com/2024/01/aspnet-core-80-output-caching-using.html",
+    "Timestamp": "2024-01-17T22:05:37",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, .NET Core, ASP.NET, ASP.NET Core, Visual Studio, Jaliya Udagedara"
+  },
+  {
+    "Title": "White space does matter in C23",
+    "Url": "https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "gustedt.wordpress.com",
+    "Description": "Usually in C identifiers are not directly followed by strings. But when U prefixed literals were introduced in C. there still were some rare clashes with existing code. This happened were a macro U…"
+  },
+  {
+    "Title": "My daily driver is older than I thought; it's positively vintage!",
+    "Url": "https://blog.jgc.org/2024/01/my-daily-driver-is-older-than-i-thought.html",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "blog.jgc.org",
+    "Description": "I was doing some clean up on my main laptop and realized it had been a while since bought a new computer. Turns out it was a lot older than ..."
+  },
+  {
+    "Title": "AlphaGeometry: An Olympiad-level AI system for geometry",
+    "Url": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "deepmind.google",
+    "Description": "Our AI system surpasses the state-of-the-art approach for geometry problems, advancing AI reasoning in mathematics"
+  },
+  {
+    "Title": "systemd: enable indefinite service restarts",
+    "Url": "https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "michael.stapelberg.ch",
+    "Description": "When a service fails to start up enough times in a row, systemd gives up on it.\nOn servers, this isn’t what I want — in general it’s helpful for automated recovery if daemons are restarted indefinitely. As long as you don’t have circular dependencies between services, all your services will eventually come up after transient failures, without having to specify dependencies."
+  },
+  {
+    "Title": "The Director of \"Toy Story\" also drew the BSD Daemon logo",
+    "Url": "https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "www.jacobelder.com",
+    "Description": "Full stack of BSD 4.3 bound manuals"
+  },
+  {
+    "Title": "Why I ended up making my own mattress",
+    "Url": "https://blog.taoetc.org/why_i_ended_up_making_my_own_mattress/index.html",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "blog.taoetc.org",
+    "Description": "Musings about the path and other things"
+  },
+  {
+    "Title": "Remove iOS Navigation Bar Separator in .NET MAUI",
+    "Url": "https://dev.to/vhugogarcia/remove-ios-navigation-bar-separator-in-net-maui-1ma1",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "dev.to",
+    "Description": "If you are developing a .NET MAUI app for iOS you may need to update the UI of the Navigation Bar..."
+  },
+  {
+    "Title": "Using Vector Embeddings to Overengineer 404 pages",
+    "Url": "https://aimd.app/blog/2024-01-16-using-ai-to-overengineer-404-pages",
+    "Timestamp": "2024-01-17T22:05:16",
+    "Domain": "aimd.app",
+    "Description": "Using vector embeddings to find the page that the user was looking for when they hit a 404 page."
+  },
+  {
+    "Title": "#4 Roam Research — What comes after a renaissance?",
+    "Url": "https://productidentity.co/p/4-roam-research-what-comes-after",
+    "Timestamp": "2024-01-17T22:05:15",
+    "Domain": "productidentity.co",
+    "Description": "On mixing ideas, evolving design patterns and finding a soul"
+  },
+  {
+    "Title": "Simplifying Complex Systems with Backend for Frontends (BFF)",
+    "Url": "https://aien.me/simplifying-complex-systems-with-backend-for-frontends-bff/",
+    "Timestamp": "2024-01-17T22:05:14",
+    "Domain": "aien.me",
+    "Description": "Discover how the Backend for Frontends (BFF) pattern can revolutionize the way you structure your applications, ensuring a smoother and more efficient interaction between your frontend and backend systems."
+  },
+  {
+    "Title": "To learn a technology is to tell good stories about it",
+    "Url": "https://blog.liallen.me/to-learn-a-technology-is-to-tell-good-stories-about-it",
+    "Timestamp": "2024-01-17T22:05:13",
+    "Domain": "blog.liallen.me",
+    "Description": "On the importance of knowing the history of a technology "
+  },
+  {
+    "Title": "You Can Have an Open Source Personal Assistant in 2024",
+    "Url": "https://mattcool.tech/posts/you-can-have-an-open-source-personal-assistant-in-2024/",
+    "Timestamp": "2024-01-17T22:05:13",
+    "Domain": "mattcool.tech",
+    "Description": "Smart assistants should be more than just heavily commercialized products, we need private, conversational assistants that can genuinely help us get things done. All the pieces seem to be there right now if we put them together..."
+  },
+  {
+    "Title": "Getting started with GDB",
+    "Url": "https://abstractexpr.com/2024/01/17/getting-started-with-gdb/",
+    "Timestamp": "2024-01-17T22:05:13",
+    "Domain": "abstractexpr.com",
+    "Description": "Most programmers prefer to write code over debugging it. Unfortunately, code breaks a lot more often than we would like and it often breaks in situations that are hard to debug. Therefore, an essen…"
+  },
+  {
+    "Title": "Writing zsh tab completions can be straightforward | olets.dev",
+    "Url": "https://www.olets.dev/posts/writing-tab-completions-for-zsh-commands-can-be-straightforward/",
+    "Timestamp": "2024-01-17T22:05:13",
+    "Domain": "www.olets.dev",
+    "Description": "How I add tab completion for the zsh command line"
+  },
+  {
+    "Title": "Fine-tuning an LLM on your texts: part 2 - exploring your text data - Edward Donner",
+    "Url": "https://edwarddonner.com/2024/01/17/fine-tune-llm-on-texts-part-2-the-data/",
+    "Timestamp": "2024-01-17T22:05:13",
+    "Domain": "edwarddonner.com",
+    "Description": "In part 2 of my guide to fine-tuning an LLM on your text messages, we use our CSV downloads to read, organize and investigate our data."
+  },
+  {
+    "Title": "Pwned Certificates on the Fediverse",
+    "Url": "https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "www.hezmatt.org",
+    "Description": "Posted: Tue, 16 January 2024\n\t\t\t\t\t| permalink\n\t\t\t\t\t| \n\t\t\t\t\t\t\n\t\t\t\t\t\t\tNo comments"
+  },
+  {
+    "Title": "Rubygems introduced a file option to specify Ruby version in Gemfile",
+    "Url": "https://blog.saeloun.com/2024/01/17/rubygems-introduced-a-file-option-to-specify-ruby-version/",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "blog.saeloun.com",
+    "Description": "Rubygems introduced a :file option so that we can read the Ruby version from a file."
+  },
+  {
+    "Title": "Everything that I learned about Embeddings",
+    "Url": "https://akash5100.github.io/blog/deeplearning/2024/01/15/embeddings.html",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "akash5100.github.io",
+    "Description": "I will write a follow up blog about Regression and Random Forest, today completes the half of the first month of 2024, I learned lots of stuffs that I am interested and participated on a Kaggle compe, predicing Energy consumption and production using solar panels, just to try what I learned and now I am one step closer to understanding the “Attention”. To whoever reads this (other than me) I started writing blogs as creating notes to what I learned, example, I learned about neural net’s neurons and wrote a blog on it, talking to myself, but if you read some other blog of mine or reading this, or will read after this, then– thank you, I will continue this journey and still be writing this blog for future me like creating notes, maybe in more readable (and understandable to others) form."
+  },
+  {
+    "Title": "RSA is deceptively simple (and fun)",
+    "Url": "https://ntietz.com/blog/rsa-deceptively-simple/",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "ntietz.com",
+    "Description": "While reading Real-World Cryptography, I came across the \"million message attack\".\nThis is an attack that Daniel Bleichenbacher demonstrated in 1998, which effectively broke RSA with a particular encoding function called PKCS #1.\nIt was only mentioned briefly, so I dug in and decided to try to understand the attack, eventually to implement it."
+  },
+  {
+    "Title": "Shipping Blended Diffs",
+    "Url": "https://markdotto.com/2024/01/17/blended-diffs/",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "markdotto.com",
+    "Description": "It’s been a whopping five years since I last shipped one of my Shipping blog posts, and boy do I have a good one to come back with. I’ve been working on Pierre for most of the last year and we’ve been shipping some amazing stuff."
+  },
+  {
+    "Title": "Motivation | ruiper.es",
+    "Url": "https://ruiper.es/posts/motivation/",
+    "Timestamp": "2024-01-17T22:05:12",
+    "Domain": "ruiper.es",
+    "Description": ""
+  },
+  {
+    "Title": "Let’s self-host!",
+    "Url": "https://www.jotaen.net/anA6o/self-hosting-guide-docker-haproxy-lets-encrypt/",
+    "Timestamp": "2024-01-17T22:05:11",
+    "Domain": "www.jotaen.net",
+    "Description": "Get started with self-hosting, using Docker, HAProxy and Let’s Encrypt"
+  },
+  {
+    "Title": "ChatGPT vs. Advent of Code 2023 Day 18: Lavaduct Lagoon",
+    "Url": "https://youtube.com/watch?v=Q15-wP5r9gs",
+    "Timestamp": "2024-01-17T21:04:06",
+    "Domain": "youtube.com",
+    "Description": "Can ChatGPT and its Code Interpreter handle lava? Let's see in day 18 of #adventofcode!#openai #chatgpt #python #ai #codeinterpreterContents:0:00 - Intro0:12..."
+  },
+  {
+    "Title": "Principal Component Analysis (PCA) from Scratch Using the Classical Technique with C# -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2024/01/17/principal-component-analysis.aspx",
+    "Timestamp": "2024-01-17T21:04:06",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Transforming a dataset into one with fewer columns is more complicated than it might seem, explains Dr. James McCaffrey of Microsoft Research in this full-code, step-by-step machine learning tutorial."
+  },
+  {
+    "Title": "Hacking into a Toyota/Eicher Motors insurance company by exploiting their premium calculator website",
+    "Url": "https://eaton-works.com/2024/01/17/ttibi-email-hack/",
+    "Timestamp": "2024-01-17T21:04:04",
+    "Domain": "eaton-works.com",
+    "Description": "A vulnerable API on Toyota Tsusho Insurance Broker India’s premium calculator website exposed Microsoft corporate cloud credentials."
+  },
+  {
+    "Title": "Why Optimize Code for Performance",
+    "Url": "https://www.developmentsimplyput.com/post/why-optimize-code-for-performance",
+    "Timestamp": "2024-01-17T20:03:07",
+    "Domain": "www.developmentsimplyput.com",
+    "Description": "Why Optimize Code For Performance Answer .NET DotNet C# CSharp Coding Programming Software Design Development Engineering Architecture"
+  },
+  {
+    "Title": "Azure Container Apps Community Standup - Cloud-native apps with .NET Aspire",
+    "Url": "https://youtube.com/watch?v=FXZeKX8A_Gw",
+    "Timestamp": "2024-01-17T19:03:38",
+    "Domain": "youtube.com",
+    "Description": "The .NET team joins us this month to tell us all about building cloud-native apps with .NET Aspire and deploy them to Azure Container Apps!Community Links: h..."
+  },
+  {
+    "Title": "Rider 2023.3: AI Asistant, .NET 8 Support, C# 12 and F# 8 Features, Debugging Improvements and More ",
+    "Url": "https://www.infoq.com/news/2024/01/rider-2023-3/",
+    "Timestamp": "2024-01-17T19:03:36",
+    "Domain": "www.infoq.com",
+    "Description": "JetBrains has released Rider 2023.3, the latest version of their cross-platform .NET IDE. This release contains an AI Assistant, support for .NET 8 SDK and an extended list of C# 12 and F# 8 features. There are also improvements regarding debugging, running multiple projects, UI/UX and Unity."
+  },
+  {
+    "Title": "Mocking GraphQL queries with WireMock.NET",
+    "Url": "https://cezarypiatek.github.io/post/mocking-graphql-with-wiremock/",
+    "Timestamp": "2024-01-17T19:03:36",
+    "Domain": "cezarypiatek.github.io",
+    "Description": "Practical tips for simulating GraphQL query responses with WireMock.NET"
+  },
+  {
+    "Title": "Willow Specifications - Willow",
+    "Url": "https://willowprotocol.org/",
+    "Timestamp": "2024-01-17T19:03:34",
+    "Domain": "willowprotocol.org",
+    "Description": "A protocol for peer-to-peer data stores. The best parts? Fine-grained permissions, a keen approach to privacy, destructive edits, and a dainty bandwidth and memory footprint."
+  },
+  {
+    "Title": "DISASTERS You Can Avoid With Enum Serialization in CSharp",
+    "Url": "https://youtube.com/watch?v=tCRI9ZIT6C0",
+    "Timestamp": "2024-01-17T18:03:09",
+    "Domain": "youtube.com",
+    "Description": "Previously, I've talked about enums in C# and some of the things we can do when structuring our dotnet applications to avoid challenges. When it comes to ser..."
+  },
+  {
+    "Title": "Goodbye long procedural code! Fix it with workflows",
+    "Url": "https://youtube.com/watch?v=WjzojcyNp4U",
+    "Timestamp": "2024-01-17T17:03:58",
+    "Domain": "youtube.com",
+    "Description": "We've all written long procedural code that has many branches and has to handle failures because it's trying to execute a long business process with many act..."
+  },
+  {
+    "Title": "Use gradients in your UI | .NET MAUI Minutes",
+    "Url": "https://youtube.com/watch?v=lL_60Dh9bdg",
+    "Timestamp": "2024-01-17T17:03:58",
+    "Domain": "youtube.com",
+    "Description": "Sometimes a solid color isn't enough, and your app's UI calls for gradients everywhere! Join Maddy for a quick crash course on how to create both linear and ..."
+  },
+  {
+    "Title": "Meta Blog: Blogging ergonomics in 2024",
+    "Url": "https://ayende.com/blog/200521-B/meta-blog-blogging-ergonomics-in-2024?Key=f8115b05-cf22-4270-bec0-9fe3831947ee",
+    "Timestamp": "2024-01-17T17:03:57",
+    "Domain": "ayende.com",
+    "Description": "I&#39;ve been writing this blog since 2004. That means I have been doing this for twenty years, which is frankly unbelievable to me. The actual date is somet..."
+  },
+  {
+    "Title": ".NET Aspire inner loop networking overview - .NET Aspire",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/networking-overview",
+    "Timestamp": "2024-01-17T15:02:58",
+    "Domain": "learn.microsoft.com",
+    "Description": "Learn how .NET Aspire handles networking and service bindings, and how you can use them in your app code."
+  },
+  {
+    "Title": "Getting a strong reference from the this pointer too soon - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240117-00/?p=109276",
+    "Timestamp": "2024-01-17T15:02:58",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Giving out strong references to an object before you can guarantee that it will work."
+  },
+  {
+    "Title": "How Apple built iCloud to store billions of databases",
+    "Url": "https://read.engineerscodex.com/p/how-apple-built-icloud-to-store-billions",
+    "Timestamp": "2024-01-17T14:03:48",
+    "Domain": "read.engineerscodex.com",
+    "Description": "Apple uses Cassandra and FoundationDB for CloudKit, their cloud backend service. We take a look into how exactly each is used within their cloud and the problems they've solved."
+  },
+  {
+    "Title": "ASP.NET Core Integration Testings Setup",
+    "Url": "https://youtube.com/watch?v=-Dpg9fqXWGM",
+    "Timestamp": "2024-01-17T13:03:22",
+    "Domain": "youtube.com",
+    "Description": "In this video I show how to setup integration testing using an xunit project with asp.net core. We then write some simple tests for our nuget package and fin..."
+  },
+  {
+    "Title": ".NET CONF 2023 - Tuxtla Gutiérrez",
+    "Url": "https://ti.to/el-camino-dev/net-conf-2023-tuxtla-gutierrez",
+    "Timestamp": "2024-01-17T11:02:44",
+    "Domain": "ti.to",
+    "Description": "¡Únete al evento más grande de desarrolladores .NET en Tuxtla Gutiérrez! Disfruta de ponentes de primer nivel, con charlas sobre las últimas novedades del mundo del desarrollo en .NET. Entre los temas a tratar se encuentran: * Novedades en el lenguaje C# * Novedades en .NET MAUI * Novedades en ASP.NET * Novedades en Azure ¡y muchos otros temas!"
+  },
+  {
+    "Title": "Collection Performance: The Fastest Way To Iterate Over a Collection in .NET!",
+    "Url": "https://dotnettips.wordpress.com/2024/01/17/collection-performance-the-fastest-way-to-iterate-over-a-collection-in-net/",
+    "Timestamp": "2024-01-17T10:02:59",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "Discover the quickest method to iterate over a collection in Microsoft.NET with this article, which includes performance benchmark tests."
+  },
+  {
+    "Title": "Stable Code 3B: Coding on the Edge — Stability AI",
+    "Url": "https://stability.ai/news/stable-code-2024-llm-code-completion-release",
+    "Timestamp": "2024-01-17T10:02:59",
+    "Domain": "stability.ai",
+    "Description": "Stable Code, an upgrade from Stable Code Alpha 3B, specializes in code completion and outperforms predecessors in efficiency and multi-language support. It is compatible with standard laptops, including non-GPU models, and features capabilities like FIM and expanded context size. Trained in multiple"
+  },
+  {
+    "Title": "Kagi.com is unstable for all regions",
+    "Url": "https://status.kagi.com/issues/2024-01-12-kagi-down-on-some-regions/",
+    "Timestamp": "2024-01-17T10:02:58",
+    "Domain": "status.kagi.com",
+    "Description": "Investigating - We are experiencing issues following a deploy. Team is working on resolving this.. (16:45 UTC — Jan 12) Monitoring - We have are reverting a configuration change that we believe to be the culprit, and are continuing to monitor as service is coming back to full health. (18:30 UTC — Jan 12) Update - In order to fully restore stability we will need to pause traffic momentarily. We will be redirecting users to this page while we restore load to the service in a controlled manner."
+  },
+  {
+    "Title": "Some Memories of Niklaus Wirth",
+    "Url": "https://odersky.github.io/blog/2024-01-04-post.html",
+    "Timestamp": "2024-01-17T10:02:58",
+    "Domain": "odersky.github.io",
+    "Description": "January 2024"
+  },
+  {
+    "Title": "How to Ensure a String Is Valid JSON in C#",
+    "Url": "https://code-maze.com/csharp-how-to-ensure-a-string-is-valid-json/",
+    "Timestamp": "2024-01-17T09:03:37",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we delve into the different approaches to ensure a string is a valid JSON in C# with explanations and practical examples"
+  },
+  {
+    "Title": ".NET MAUI Community Toolkit 7.0.0 Aligns to .NET 8 ",
+    "Url": "https://www.infoq.com/news/2024/01/net-maui-community-toolkit-7/",
+    "Timestamp": "2024-01-17T09:03:35",
+    "Domain": "www.infoq.com",
+    "Description": "On November 15th, 2023, Microsoft announced version 7.0.0 of their open-source MAUI Community Toolkit. The new version adds support for .NET 8 and brings several bug fixes."
+  },
+  {
+    "Title": "Fluorite lenses: Corrective capabilities beyond the limits of ordinary optical glass",
+    "Url": "https://global.canon/en/c-museum/special/exhibition2.html",
+    "Timestamp": "2024-01-17T09:03:35",
+    "Domain": "global.canon",
+    "Description": "Canon developed its own technology for forming large, high-purity artificial fluorite crystals using fluorite ore as a raw material."
+  },
+  {
+    "Title": "The Mom Test",
+    "Url": "https://graphite.dev/blog/the-mom-test",
+    "Timestamp": "2024-01-17T08:02:04",
+    "Domain": "graphite.dev",
+    "Description": ""
+  },
+  {
+    "Title": "OpenAI drops ban on military tools to partner with the Pentagon | Semafor",
+    "Url": "https://www.semafor.com/article/01/16/2024/openai-is-working-with-the-pentagon-on-cybersecurity-projects",
+    "Timestamp": "2024-01-17T08:02:03",
+    "Domain": "www.semafor.com",
+    "Description": "OpenAI joined the ranks of Silicon Valley tech companies that have changed their stance on collaborating with the U.S. military."
+  },
+  {
+    "Title": "Interceptors – Using C# 12 in Rider and ReSharper | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2024/01/16/interceptors-using-csharp-12-in-rider-and-resharper/",
+    "Timestamp": "2024-01-17T06:03:50",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Welcome to our series, where we take a closer look at the C# 12 language features and how ReSharper and Rider make it easy for you to adopt them in your codebase. If you haven’t yet, download the"
+  },
+  {
+    "Title": "How to use IAsyncEnumerable with Blazor Stream Rendering",
+    "Url": "https://khalidabuhakmeh.com/how-to-use-iasyncenumerable-with-blazor-stream-rendering",
+    "Timestamp": "2024-01-17T06:03:49",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "IAsyncEnumerable with Blazor Stream Rendering for improved ASP.NET Core performance"
+  },
+  {
+    "Title": "Simpler auth for Blazor Web Apps with Auth0?",
+    "Url": "https://jonhilton.net/blazor-auth0-net8/",
+    "Timestamp": "2024-01-17T06:03:49",
+    "Domain": "jonhilton.net",
+    "Description": "Integrate Auth0 with your Blazor Web App (.NET 8)"
+  },
+  {
+    "Title": "Azure Cosmos DB design patterns – Part 5: Document versioning - Azure Cosmos DB Blog",
+    "Url": "https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-design-patterns-part-5-document-versioning/",
+    "Timestamp": "2024-01-17T06:03:49",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Welcome to part five of our Azure Cosmos DB series. Discover the document versioning design pattern, essential for tracking and managing document changes over time, preserving a complete history of revisions."
+  },
+  {
+    "Title": "Analyzing WPF performance by enabling ETW | endjin",
+    "Url": "https://endjin.com/blog/2024/01/wpf-performance-enable-etw",
+    "Timestamp": "2024-01-17T06:03:48",
+    "Domain": "endjin.com",
+    "Description": "WPF makes extensive performance instrumentation available through ETW. However, in modern .NET, it's not obvious how to get hold of it. This blog shows how"
+  },
+  {
+    "Title": "U.S. Developers Can Now Offer Non-App Store Purchasing Option, But Apple Will Still Collect Commissions",
+    "Url": "https://www.macrumors.com/2024/01/16/us-app-store-alternative-purchase-option/",
+    "Timestamp": "2024-01-17T05:03:01",
+    "Domain": "www.macrumors.com",
+    "Description": "Apple is making major changes to its U.S. iOS App Store policies, and developers are now able to direct customers to a non-App Store purchasing..."
+  },
+  {
+    "Title": "Building a Critter Stack Application: Messaging with Rabbit MQ",
+    "Url": "https://jeremydmiller.com/2024/01/16/building-a-critter-stack-application-messaging-with-rabbit-mq/",
+    "Timestamp": "2024-01-17T03:03:03",
+    "Domain": "jeremydmiller.com",
+    "Description": "Hey, did you know that JasperFx Software is ready for formal support plans for Marten and Wolverine? Not only are we trying to make the “Critter Stack” tools be v…"
+  },
+  {
+    "Title": "On .NET Live - Taming LINQ Proliferation with Specifications",
+    "Url": "https://youtube.com/watch?v=8r8MuF1356U",
+    "Timestamp": "2024-01-17T02:02:40",
+    "Domain": "youtube.com",
+    "Description": "As the complexity of LINQ queries in an app increases, it becomes more difficult to maintain the code. In this week's episode, community MVP Steve Smith visi..."
+  },
+  {
+    "Title": "Rebecca Solnit: Slow Change Can Be Radical Change",
+    "Url": "https://lithub.com/rebecca-solnit-slow-change-can-be-radical-change/",
+    "Timestamp": "2024-01-17T01:03:29",
+    "Domain": "lithub.com",
+    "Description": "“To see takes time, like to have a friend takes time.” –Georgia O’Keeffe * Someone at the dinner table wanted to know what everyone’s turning point on climate was, which is to say she w…"
+  },
+  {
+    "Title": "Postgres password encryption without leaking credentials",
+    "Url": "https://launchbylunch.com/posts/2024/Jan/16/postgres-password-encryption/",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "launchbylunch.com",
+    "Description": "\"Dance like no one is watching. Encrypt like everyone is.\""
+  },
+  {
+    "Title": "Building Maintainable PHP Applications: Over-engineering vs under-engineering",
+    "Url": "https://davorminchorov.com/articles/building-maintainable-php-applications-over-engineering-vs-under-engineering",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "davorminchorov.com",
+    "Description": "This article is part of the Building Maintainable PHP Applications series"
+  },
+  {
+    "Title": "Estimating your memory bandwidth",
+    "Url": "https://lemire.me/blog/2024/01/13/estimating-your-memory-bandwidth/",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "lemire.me",
+    "Description": "One of the limitations of a compute is the memory bandwidth. For the scope of this article, I define “memory bandwidth” as the maximal number of bytes you can bring from memory to the CPU per unit of time. E.g., if your system has 5 GB/s of bandwidth, you can read up to 5 GB … Continue reading Estimating your memory bandwidth"
+  },
+  {
+    "Title": "pivoting a million dollar startup",
+    "Url": "https://scalingdevtools.com/blog/devcycle-pivoting-story.html",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "scalingdevtools.com",
+    "Description": "The story of how Jonathan Norris and the team behind Taplytics pivoted to DevCycle"
+  },
+  {
+    "Title": "10 Beautiful SaaS Landing Pages Without Product Images",
+    "Url": "https://www.jeffedmondson.dev/10-great-saas-landing-pages-without-product-images/",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "www.jeffedmondson.dev",
+    "Description": "Ever been told, 'First validate your idea – make a landing page with a waitlist to see if people actually want what you're building'? That is clearly a good idea, right? But here’s where I hit a snag: how do you whip up a landing page that is compelling enough"
+  },
+  {
+    "Title": "Maybe don't use Blake3 on Short Inputs",
+    "Url": "https://jszym.com/blog/short_input_hash/",
+    "Timestamp": "2024-01-17T01:03:28",
+    "Domain": "jszym.com",
+    "Description": "I needed to hash some relatively short data (the length of an English word) and couldn't really find any benchmarks that fit my purpose. So, I ran them myself, and some of the results were actually kind of surprising to me."
+  },
+  {
+    "Title": "VPS Showdown - January 2024 - DigitalOcean vs. Linode vs. Vultr",
+    "Url": "https://joshtronic.com/2024/01/07/vps-showdown-january-2024-digitalocean-vs-linode-vs-vultr/",
+    "Timestamp": "2024-01-17T01:03:27",
+    "Domain": "joshtronic.com",
+    "Description": "Which VPS provider is better? Check out my VPS Showdown post and compare DigitalOcean, Linode and Vultr on performance, features and pricing."
+  },
+  {
+    "Title": "urllib3 is fundraising for HTTP/2 support",
+    "Url": "https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support",
+    "Timestamp": "2024-01-17T01:03:26",
+    "Domain": "sethmlarson.dev",
+    "Description": "\n  TLDR: urllib3 is raising ~$40,000 USD to release HTTP/2 support and ensure long-term sustainable maintenance of the project after a sharp decline in financial support for 2023.\n\n\nWhat is urllib3..."
+  },
+  {
+    "Title": "Letter to HEY",
+    "Url": "https://www.trentguillory.com/letter-to-hey/",
+    "Timestamp": "2024-01-17T01:03:26",
+    "Domain": "www.trentguillory.com",
+    "Description": "December 11, 2023"
+  },
+  {
+    "Title": "RSS is dead, subscribe through email",
+    "Url": "https://ochagavia.nl/blog/rss-is-dead-subscribe-through-email/",
+    "Timestamp": "2024-01-17T01:03:25",
+    "Domain": "ochagavia.nl",
+    "Description": "This is a story of how a random person on the internet set me thinking and eventually triggered a change to this blog. It started last September, when someone suggested offering email subscriptions in addition to the existing RSS feed. The thing is… I was purposefully not offering email subscriptions! What a waste, someone might say: you had multiple articles reach the Hacker News frontpage in 2023, yet you failed to “capitalize” on the opportunity to “grow” your email subscriber base."
+  },
+  {
+    "Title": "What makes an entrepreneur succeed? ",
+    "Url": "https://frederik.today/blog/understanding-entrepreneurship",
+    "Timestamp": "2024-01-17T01:03:25",
+    "Domain": "frederik.today",
+    "Description": "It's a path of vision, hard work, and overcoming hurdles. Discover the essential skills and debunk myths about entrepreneurship. Are you up for it?\r\n"
+  },
+  {
+    "Title": "Perfecting Protocol Parsing (Probably) with eBPF",
+    "Url": "https://thebsdbox.co.uk/2024/01/15/Perfecting-Protocol-Parsing-Probably-with-eBPF/",
+    "Timestamp": "2024-01-17T01:03:25",
+    "Domain": "thebsdbox.co.uk",
+    "Description": "I recently had a little bit of time to kill and decided to see if I could actually do some parsing of other protocols with eBPF. The previous post that I created was about http and whilst it’s an impo"
+  },
+  {
+    "Title": "The architecture behind Alma – An experimental playground for generative graphics",
+    "Url": "https://polar.sh/emilwidlund/posts/alma-an-experimental-playground-for-generative-graphics",
+    "Timestamp": "2024-01-17T01:03:24",
+    "Domain": "polar.sh",
+    "Description": " This post dives deep into Alma - A side project which I built in 2022. It was nominated to Side project of the year at React Summit in Amsterdam 2023. My history with node-based user interfaces goes back to 2017. During my time as a Designer at EA DICE working on the Battlefield-franchise, I did some work within the [Frostbite](https://fr "
+  },
+  {
+    "Title": "Progress Report December 2023",
+    "Url": "https://blog.ryujinx.org/progress-report-december-2023/",
+    "Timestamp": "2024-01-17T01:03:23",
+    "Domain": "blog.ryujinx.org",
+    "Description": "Happy New Year!\n\nWe hope everyone is having a great start to 2024 and that you’re all rejuvenated for another year of listening to these (mostly) regular rambles. We’ve got a fair bit to go through, including the usual sprinkling of graphical fixes, a nice meaty section that"
+  },
+  {
+    "Title": "NixOS on Hetzner Dedicated - mhu.dev",
+    "Url": "https://mhu.dev/posts/2024-01-06-nixos-on-hetzner/",
+    "Timestamp": "2024-01-17T01:03:23",
+    "Domain": "mhu.dev",
+    "Description": "DevOoops"
+  },
+  {
+    "Title": "My Indie SaaS Revenue has Grown 37% per Year for 13 Years",
+    "Url": "https://mattmazur.com/2024/01/16/my-indie-saas-revenue-has-grown-37-per-year-for-13-years/",
+    "Timestamp": "2024-01-17T01:03:23",
+    "Domain": "mattmazur.com",
+    "Description": "Unlike many indie founders, I’ve never shared revenue numbers for Preceden, my SaaS timeline maker tool. Even if they were remarkable – which they are not really – I just don&#821…"
+  },
+  {
+    "Title": "Debloating My Android Phone with ADB",
+    "Url": "https://rugu.dev/en/blog/debloat-with-adb/",
+    "Timestamp": "2024-01-17T01:03:22",
+    "Domain": "rugu.dev",
+    "Description": "Written at 2024-01-16"
+  },
+  {
+    "Title": "Enhancing Dired Sorting With Transient",
+    "Url": "http://yummymelon.com/devnull/enhancing-dired-sorting-with-transient.html",
+    "Timestamp": "2024-01-17T01:03:22",
+    "Domain": "yummymelon.com",
+    "Description": "Out of the box, sorting a Dired buffer is rather underwhelming. In this post I describe how to improve that. But before we get into details, let’s see what the end-result looks like. For the..."
+  },
+  {
+    "Title": "I regret selling my startup",
+    "Url": "https://www.nothingeasyaboutthis.com/i-regret-selling-my-startup/",
+    "Timestamp": "2024-01-17T01:03:22",
+    "Domain": "www.nothingeasyaboutthis.com",
+    "Description": "Selling my company was a milestone that many entrepreneurs dream of. But today, I get to look back on all of that nearly two years later with the benefit of hindsight."
+  },
+  {
+    "Title": "Observer Teams",
+    "Url": "https://mihaiolteanu.me/observer-teams",
+    "Timestamp": "2024-01-17T01:03:22",
+    "Domain": "mihaiolteanu.me",
+    "Description": "Software teams that have not mastered the technical language invent their own\n                    observer language together with the adoption of legions of tools and procesess"
+  },
+  {
+    "Title": "I miss human curation",
+    "Url": "https://blog.cassidoo.co/post/human-curation/",
+    "Timestamp": "2024-01-17T01:03:22",
+    "Domain": "blog.cassidoo.co",
+    "Description": "Where are my internet friends? And where are their weird blogs?"
+  }
+]

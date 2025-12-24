@@ -1,0 +1,205 @@
+[
+  {
+    "Title": "New ArgumentException and ArgumentOutOfRangeException helpers in .NET 8",
+    "Url": "https://steven-giesel.com/blogPost/f4bc6fcc-5691-4f72-b9bb-75aeeb59230a",
+    "Timestamp": "2022-12-01T23:02:30",
+    "Domain": "steven-giesel.com",
+    "Description": "Do you remember how .NET 6 introduced the ArgumentNullException.ThrowIfNull guard? And afterward, with .NET 7 we've got this excellent bit: ArgumentException.ThrowIfNullOrEmpty? Guess what, there might come some new handy additions for the upcoming .NET 8 iteration.\nSo let's see what are those new changes and how they make the code simpler.\n"
+  },
+  {
+    "Title": "How much does Rust's bounds checking actually cost?",
+    "Url": "https://blog.readyset.io/bounds-checks/",
+    "Timestamp": "2022-12-01T22:03:25",
+    "Domain": "blog.readyset.io",
+    "Description": "Rust prevents out-of-bounds memory accesses and buffer overruns via runtime bounds checks - what’s the cost of those bounds checks for a real-world, production application?"
+  },
+  {
+    "Title": "Advent of Code 2022",
+    "Url": "https://adventofcode.com/2022",
+    "Timestamp": "2022-12-01T22:03:25",
+    "Domain": "adventofcode.com",
+    "Description": "Our sponsors help make Advent of Code possible:"
+  },
+  {
+    "Title": ".NET MAUI Community Toolkit Monthly Standup, December 2022",
+    "Url": "https://youtube.com/watch?v=tqQhW104UKI",
+    "Timestamp": "2022-12-01T21:04:41",
+    "Domain": "youtube.com",
+    "Description": "Join us for our monthly team standup as we discuss the current happenings in the .NET MAUI Community Toolkit! https://github.com/CommunityToolkit/Maui"
+  },
+  {
+    "Title": "Episode 448 - Azure and OSS",
+    "Url": "https://azpodcast.azurewebsites.net/post/Episode-448-Azure-and-OSS",
+    "Timestamp": "2022-12-01T21:04:40",
+    "Domain": "azpodcast.azurewebsites.net",
+    "Description": "The Azure Podcast"
+  },
+  {
+    "Title": "Azure DevOps Podcast: Steve Smith: Domain-Driven Design and Architecture - Episode 209",
+    "Url": "http://azuredevopspodcast.clear-measure.com/steve-smith-domain-driven-design-and-architecture",
+    "Timestamp": "2022-12-01T21:04:39",
+    "Domain": "azuredevopspodcast.clear-measure.com",
+    "Description": "Steve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software quickly. Steve and his team at NimblePros have been described by clients as a “force multiplier,” amplifying the value of existing development teams. Steve’s client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers. And he also offers career coaching to developers through Dev better.com. &nbsp; Topics of Discussion: [3:20] What is onion architecture? [4:07] Steve discusses Domain-Driven design. [5:15] Domain-Driven Design is all about how to take big complicated problems in software, and break them up into smaller pieces that we as developers can isolate, think about, design, test, and then construct together in a modular fashion with other pieces. [6:00] The key concepts of Domain-Driven Design. [9:13] How and why DDD came about. [12:28] Why Steve thinks about it in terms of having a bounded context per application that you deploy. [16:33] Historical records of things should always be duplicate data. There should be a snapshot of the data at that time. [17:06] Where should people begin if/when they are new to the book? [17:54] What exactly is clean architecture? [23:01] Steven talks about having one infrastructure project where there are all these dependencies versus multiple. [24:09] Steve names the three main projects. [30:49] Very mature and high-stakes professions have chosen to put constraints on themselves, and with positive effect. How can we take this into architecture and design? &nbsp; Mentioned in this Episode:  — New video podcast!   (Sponsor)  — Available on Amazon!   — Follow to stay informed about future events!  programming@palermo.net     &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "Upgrading Xamarin apps to .NET MAUI | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=_XT7m5oIKCs",
+    "Timestamp": "2022-12-01T19:03:33",
+    "Domain": "youtube.com",
+    "Description": "This session will walk you through the changes you need to make to your libraries and UI when upgrading your Xamarin apps to .NET Multi-platform App UI. We'l..."
+  },
+  {
+    "Title": "What's new in the .NET MAUI Community Toolkit",
+    "Url": "https://devblogs.microsoft.com/dotnet/whats-new-in-the-dotnet-maui-community-toolkit/",
+    "Timestamp": "2022-12-01T19:03:33",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Check out what's new in the latest .NET MAUI Community Toolkit releases."
+  },
+  {
+    "Title": "Pratyush Mishra",
+    "Url": "https://pratyushmishra.com/",
+    "Timestamp": "2022-12-01T19:03:31",
+    "Domain": "pratyushmishra.com",
+    "Description": ""
+  },
+  {
+    "Title": "Testing WITHOUT Mocks or Interfaces!",
+    "Url": "https://youtube.com/watch?v=2oRofOH2NT4",
+    "Timestamp": "2022-12-01T17:02:29",
+    "Domain": "youtube.com",
+    "Description": "A common approach people take with testing is mocking. Specifically defining interfaces for dependencies which are then typically mocked so you can test in i..."
+  },
+  {
+    "Title": "Building a new JavaScript linting experience in Visual Studio",
+    "Url": "https://devblogs.microsoft.com/visualstudio/building-a-new-javascript-linting-experience-in-visual-studio/",
+    "Timestamp": "2022-12-01T17:02:25",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Available today in the 17.4 public release, Visual Studio has revamped its ESLint support! The new linting experience includes:  Linting support – for not only JavaScript and TypeScript files, but also for JSX/TSX, Vue and HTML files.  Quick actions and fixes,"
+  },
+  {
+    "Title": "Not even trying to cross an airtight hatchway: Calling a function in your own process by synthesizing a function pointer",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221201-46/?p=107528",
+    "Timestamp": "2022-12-01T16:02:44",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "You can already attack yourself in far more interesting ways."
+  },
+  {
+    "Title": "Using .NET’s NativeAOT to fix the biggest serverless issue",
+    "Url": "https://youtube.com/watch?v=3QJDJl-zDFM",
+    "Timestamp": "2022-12-01T15:02:37",
+    "Domain": "youtube.com",
+    "Description": "Get $50 free AWS Credit by adding \"AWS CREDIT #NICK\" in the \"Tell us about your project\" area: https://bit.ly/nickawsGet the source code: https://github.com/..."
+  },
+  {
+    "Title": "Notice of Recent Security Incident - The LastPass Blog",
+    "Url": "https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/",
+    "Timestamp": "2022-12-01T14:02:47",
+    "Domain": "blog.lastpass.com",
+    "Description": "We are working diligently to understand the scope of the incident and identify what specific information has been accessed."
+  },
+  {
+    "Title": "Emacs 29 is nigh! What can we expect?",
+    "Url": "https://blog.phundrak.com/emacs-29-what-can-we-expect/",
+    "Timestamp": "2022-12-01T14:02:47",
+    "Domain": "blog.phundrak.com",
+    "Description": "It was announced a couple of hours ago, Emacs 29’s branch is now cut from the master branch!"
+  },
+  {
+    "Title": "Producer-Consumer Applications With .NET Channels Code Maze",
+    "Url": "https://code-maze.com/dotnet-producer-consumer-channels/",
+    "Timestamp": "2022-12-01T11:02:25",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to look at creating producer/consumer applications in .NET by using bounded and unbounded Channels."
+  },
+  {
+    "Title": "GitHub - aspnet-contrib/AspNet.Security.OpenId.Providers: OpenID 2.0 authentication middleware for ASP.NET Core",
+    "Url": "https://github.com/aspnet-contrib/AspNet.Security.OpenId.Providers",
+    "Timestamp": "2022-12-01T09:02:54",
+    "Domain": "github.com",
+    "Description": "OpenID 2.0 authentication middleware for ASP.NET Core - GitHub - aspnet-contrib/AspNet.Security.OpenId.Providers: OpenID 2.0 authentication middleware for ASP.NET Core"
+  },
+  {
+    "Title": "Passport.js",
+    "Url": "https://www.passportjs.org/",
+    "Timestamp": "2022-12-01T09:02:54",
+    "Domain": "www.passportjs.org",
+    "Description": "Simple, unobtrusive authentication for Node.js"
+  },
+  {
+    "Title": "Recap: State of .NET MAUI—.NET Conf 2022",
+    "Url": "https://www.telerik.com/blogs/recap-state-dotnet-maui-net-conf-2022",
+    "Timestamp": "2022-12-01T06:03:51",
+    "Domain": "www.telerik.com",
+    "Description": "See what you missed at .NET Conf 2022 about .NET MAUI, and get an update on the state of .NET MAUI."
+  },
+  {
+    "Title": "Replicating Food Delivery App UI with Uno Platform",
+    "Url": "https://platform.uno/blog/replicating-food-delivery-app-ui-with-uno-platform/",
+    "Timestamp": "2022-12-01T06:03:51",
+    "Domain": "platform.uno",
+    "Description": "What better way to learn than with a hands-on tutorial. This quick tutorial will help teach you the basics of Uno Platform XAML and how you can utilize it in your next project."
+  },
+  {
+    "Title": "WPF: How to (Maybe) Prevent the Text of a Time Display from Jiggling Around",
+    "Url": "https://weblogs.asp.net/rweigelt/wpf-how-to-maybe-prevent-the-text-of-a-time-display-from-jiggling-around",
+    "Timestamp": "2022-12-01T06:03:50",
+    "Domain": "weblogs.asp.net",
+    "Description": "Imagine you want to develop a time display that is updated in quick succession, e.g., the timecode during media playback. One unexpected problem that you may run into, depending on the typeface you&#160;&#8230;"
+  },
+  {
+    "Title": "Url.ActionLink() is not thread-safe",
+    "Url": "https://bartwullems.blogspot.com/2022/11/urlactionlink-is-not-thread-safe.html",
+    "Timestamp": "2022-12-01T06:03:49",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "I have an API that allows users to upload documents. To optimize the performance I save the documents to the database in parallel. After upl..."
+  },
+  {
+    "Title": "Make PRs the BEST PART of Programming",
+    "Url": "https://dev.to/devsatasurion/make-prs-the-best-part-of-programming-1l95",
+    "Timestamp": "2022-12-01T06:03:49",
+    "Domain": "dev.to",
+    "Description": "In this blog post, I'd like to share some of my thoughts on how I've been able to effectively think..."
+  },
+  {
+    "Title": "Keynote: ZKP Languages - Where We Are Now - Kobi Gurkan (Geometry)",
+    "Url": "https://youtube.com/watch?v=ru-fCNOWals",
+    "Timestamp": "2022-12-01T05:02:05",
+    "Domain": "youtube.com",
+    "Description": "This is the official stream of the 5th ZKProof Workshop for the session \"Keynote: ZKP Languages - Where We Are Now - Kobi Gurkan (Geometry)\"A detailed agenda..."
+  },
+  {
+    "Title": "Thinking High-Level Design with Billy Hollis",
+    "Url": "https://www.spreaker.com/user/16677006/dotnetrocks-1822-thinking-high-level-des_1",
+    "Timestamp": "2022-12-01T05:02:02",
+    "Domain": "www.spreaker.com",
+    "Description": ""
+  },
+  {
+    "Title": "Spacetime Soccer",
+    "Url": "https://xkcd.com/2705/",
+    "Timestamp": "2022-12-01T04:03:31",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Tales of the M1 GPU - Asahi Linux",
+    "Url": "https://asahilinux.org/2022/11/tales-of-the-m1-gpu/",
+    "Timestamp": "2022-12-01T01:02:18",
+    "Domain": "asahilinux.org",
+    "Description": "Porting Linux to Apple Silicon"
+  },
+  {
+    "Title": "Wix.com - 5 Event Driven Architecture Pitfalls!",
+    "Url": "https://codeopinion.com/wix-com-5-event-driven-architecture-pitfalls/",
+    "Timestamp": "2022-12-01T01:02:17",
+    "Domain": "codeopinion.com",
+    "Description": "Wix.com migrated from a request-reply RPC style system to an event driven architecture and, not surprisingly, ran into a few pitfalls!"
+  },
+  {
+    "Title": "MemoryExtensions Class (System)",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/api/system.memoryextensions?view=net-7.0",
+    "Timestamp": "2022-12-01T00:03:55",
+    "Domain": "learn.microsoft.com",
+    "Description": "Provides extension methods for the memory- and span-related types, such as Memory<T>, ReadOnlyMemory<T>, Span<T>, and ReadOnlySpan<T>. "
+  }
+]

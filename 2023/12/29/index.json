@@ -1,0 +1,233 @@
+[
+  {
+    "Title": "GitHub - Manbeardo/lookup-odd",
+    "Url": "https://github.com/Manbeardo/lookup-odd",
+    "Timestamp": "2023-12-29T23:01:56",
+    "Domain": "github.com",
+    "Description": "Contribute to Manbeardo/lookup-odd development by creating an account on GitHub."
+  },
+  {
+    "Title": "GitHub - Depechie/OpenTelemetryGrafana at aspire",
+    "Url": "https://github.com/Depechie/OpenTelemetryGrafana/tree/aspire",
+    "Timestamp": "2023-12-29T23:01:56",
+    "Domain": "github.com",
+    "Description": "OpenTelemetry and Grafana stack. Contribute to Depechie/OpenTelemetryGrafana development by creating an account on GitHub."
+  },
+  {
+    "Title": "Why are Apple silicon VMs so different?",
+    "Url": "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/",
+    "Timestamp": "2023-12-29T22:03:13",
+    "Domain": "eclecticlight.co",
+    "Description": "Before Apple had even released its Developer Transition Kit, virtualisation was already one of the 3 pillars of software support on Apple silicon Macs."
+  },
+  {
+    "Title": "Every Major Pharmacy Chain Is Giving The Government Warrantless Access To Medical Records",
+    "Url": "https://www.techdirt.com/2023/12/28/every-major-pharmacy-chain-is-giving-the-government-warrantless-access-to-medical-records/",
+    "Timestamp": "2023-12-29T21:03:48",
+    "Domain": "www.techdirt.com",
+    "Description": "The Fourth Amendment is rarely a match for the Third Party Doctrine. In recent years, things have gotten a wee bit better thanks to a couple of Supreme Court rulings. But the operative principle st…"
+  },
+  {
+    "Title": "Creating Christmas UI in .NET MAUI",
+    "Url": "https://askxammy.com/creating-christmas-ui-in-net-maui/",
+    "Timestamp": "2023-12-29T20:02:41",
+    "Domain": "askxammy.com",
+    "Description": "Merry Christmas! 🎄 I hope you're doing well during this season and enjoying time with your loved ones! 💓 As we wrap up the year, let's continue improving our XAML skills by replicating a Christmas-themed user interface (UI). You'll see how you can create impressive results with simple steps! This UI is based on a design sourced from Dribbble!\n\nExplanation Insights\n🗒 Before diving in, here are some guidelines to enhance your experience while replicating the UI:\n▪ Reference Image: Initially, you’ll encounter an image displaying the original UI. This image is segmented into blocks, mirroring how we’ll approach each design element.\n▪ Design Blocks: Every block features a specific design element we’ll focus on. These elements are accentuated within a highlighted box.\n▪ Code Annotations: Within the coding sections, lookout for comments stating, “Insert the following code here.” These comments signal that the upcoming code explanation corresponds directly to that marked location.\n\nLet’s start!\nBreaking Down the Original Design into Blocks\nFor clarity and a structured approach, I’ve segmented the original design into specific blocks. We’ll tackle each block in the sequence presented below:\n\n\n\n\nMain structure\nIn this case, we want to keep the same colors for both light and dark mode, let's start by adding a white background color to the ContentPage.\n\n⚠️ Additionally, if you're interested in learning how to adapt your applications for both light and dark modes, I highly recommend the article Handling Light and Dark Mode With .NET MAUI .\nTo organize the UI elements we will use the VerticalStackLayout as the main layout:\n\nIf you want to know more information about VerticalStackLayout, I invite you to read the article Horizontal & VerticalStackLayout in .NET MAUI.\n\n\n\n\n\n\n \n\nLet's start by adding the main block:\n➖ Santa Claus's picture:\nOur main block contains the image of Santa Claus. To adapt the appearance of the image, we will use the Aspect property adding 'Fill' as a value. This property can be very useful for adjusting the appearance of your images. I encourage you to explore the different results it can offer.\nFor more information, please refer to the provided article Image Scaling in .NET MAUI.\n\n\n \n\n\n\nAs you can see, this user interface is incredibly simple and quick to create! Now, we have reached our final block, which is made up of three elements. We will explore every detail below:\n\n\n➖ Main description:\n\n\n💡 Tip: Notice that within the text we have the following combination of characters &#10;. What exactly is it for? It allows us to insert line breaks in the text!\n➖  Second description:\n\n➖  Discover button:\n\n\n\nAnd our Christmas UI  is done! .\nThanks for reading! 👋 See you next time! 💚💕\n\nSpanish article: https://es.askxammy.com/creando-ui-de-navidad-en-net-maui/\n"
+  },
+  {
+    "Title": "It's not microservice or monolith; it's cognitive load you need to understand first",
+    "Url": "https://fernandovillalba.substack.com/p/its-not-microservice-or-monolith",
+    "Timestamp": "2023-12-29T19:02:24",
+    "Domain": "fernandovillalba.substack.com",
+    "Description": "How understanding cognitive load and team capacity can help you decide on an architectural style"
+  },
+  {
+    "Title": "Gentoo goes Binary! – Gentoo Linux",
+    "Url": "https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html",
+    "Timestamp": "2023-12-29T19:02:23",
+    "Domain": "www.gentoo.org",
+    "Description": "News and information from Gentoo Linux"
+  },
+  {
+    "Title": "Why asking your customers what they want doesn't work ",
+    "Url": "https://techbooks.substack.com/p/why-asking-your-customers-what-they",
+    "Timestamp": "2023-12-29T18:03:07",
+    "Domain": "techbooks.substack.com",
+    "Description": "And how can you figure it out what they really need"
+  },
+  {
+    "Title": "In 2024, please switch to Firefox",
+    "Url": "https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/",
+    "Timestamp": "2023-12-29T17:03:33",
+    "Domain": "roytanck.com",
+    "Description": "This December, if there's one tech New Year's resolution I'd encourage you to have, it's switching to the only remaining ethical web browser, Firefox. According to recent posts on social media, Firefox's market share is slipping. We should not let that happen. There are two main reasons why switchin"
+  },
+  {
+    "Title": "2023 year-end link clearance - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20231229-01/?p=109208",
+    "Timestamp": "2023-12-29T17:03:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Ringing out another year."
+  },
+  {
+    "Title": "How to allocate address space with a custom alignment or in a custom address region - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20231229-00/?p=109204",
+    "Timestamp": "2023-12-29T17:03:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Some new powers to guide the allocation."
+  },
+  {
+    "Title": "Blockchain dev's wallet emptied in \"job interview\" using npm package",
+    "Url": "https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/",
+    "Timestamp": "2023-12-29T16:03:37",
+    "Domain": "www.bleepingcomputer.com",
+    "Description": "A blockchain developer shares his ordeal over the holidays when he was approached on LinkedIn by a \"recruiter\" for a web development job. The recruiter in question asked the developer to download npm packages from a GitHub repository, and hours later the developer discovered his MetaMask wallet had been emptied."
+  },
+  {
+    "Title": "Cloud-Bound: Stack Overflow Teams Embraces Azure | .NET Conf 2023",
+    "Url": "https://youtube.com/watch?v=xsnAGIHGDvM",
+    "Timestamp": "2023-12-29T15:02:55",
+    "Domain": "youtube.com",
+    "Description": "Explore the journey of Stack Overflow for Teams as it transitions to Azure. This session spotlights the pivotal decisions and learning experiences encountere..."
+  },
+  {
+    "Title": "How to Understand a New Codebase – Tips and Tricks for Tackling Complex Code",
+    "Url": "https://www.devleader.ca/2023/12/29/how-to-understand-a-new-codebase-tips-and-tricks-for-tackling-complex-code/",
+    "Timestamp": "2023-12-29T14:03:12",
+    "Domain": "www.devleader.ca",
+    "Description": "Learn effective strategies and tips for how to understand a new codebase. From reading documentation to pair-programming, you'll learn the necessary tools!"
+  },
+  {
+    "Title": "terminal smooth scrolling",
+    "Url": "https://flak.tedunangst.com/post/terminal-smooth-scrolling",
+    "Timestamp": "2023-12-29T14:03:11",
+    "Domain": "flak.tedunangst.com",
+    "Description": "I didn’t realize I needed this until I implemented it, and now, oh wow, can’t imagine life without it."
+  },
+  {
+    "Title": "Controlling Precision of Decimal Numbers in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-controlling-precision-of-decimal-numbers/",
+    "Timestamp": "2023-12-29T13:03:16",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to examine the decimal type, while focusing on controlling its precision both internally and in output."
+  },
+  {
+    "Title": "Liero - Official website",
+    "Url": "http://www.liero.be/",
+    "Timestamp": "2023-12-29T12:02:26",
+    "Domain": "www.liero.be",
+    "Description": "liero game open source"
+  },
+  {
+    "Title": "Default Values for Lambda Expressions in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-default-values-for-lambda-expressions/",
+    "Timestamp": "2023-12-29T09:02:23",
+    "Domain": "code-maze.com",
+    "Description": "We will learn about default values for lambda expressions in C# 12. Lambdas now include support for default values and params arrays."
+  },
+  {
+    "Title": "Dad Jokes | Fatherhood.gov",
+    "Url": "https://fatherhood.gov/for-dads/dad-jokes",
+    "Timestamp": "2023-12-29T07:03:28",
+    "Domain": "fatherhood.gov",
+    "Description": ""
+  },
+  {
+    "Title": "Epic NextGen Night Match! Felix Auger-Aliassime vs Jannik Sinner - 2022 Western & Southern Open",
+    "Url": "https://youtube.com/watch?v=0WXP5MNLVdQ",
+    "Timestamp": "2023-12-29T04:03:22",
+    "Domain": "youtube.com",
+    "Description": "The next generation of tennis, 22 year old Felix Auger-Aliassime from Canada (World #9) and 21 year old Jannik Sinner from Italy (World #8) had an epic 3 set..."
+  },
+  {
+    "Title": "Epic NextGen Night Match! Felix Auger-Aliassime vs Jannik Sinner - 2022 Western & Southern Open",
+    "Url": "https://youtu.be/0WXP5MNLVdQ",
+    "Timestamp": "2023-12-29T04:03:22",
+    "Domain": "youtu.be",
+    "Description": "The next generation of tennis, 22 year old Felix Auger-Aliassime from Canada (World #9) and 21 year old Jannik Sinner from Italy (World #8) had an epic 3 set..."
+  },
+  {
+    "Title": "Why large companies and fast-moving startups are banning merge commits",
+    "Url": "https://graphite.dev/blog/why-ban-merge-commits",
+    "Timestamp": "2023-12-29T03:02:45",
+    "Domain": "graphite.dev",
+    "Description": "As a developer creating pull requests in a git repo, you almost certainly use one of two distinct workflows for integrating changes from one branch into another: merging or rebasing. There are three key points in the development process where you need to do this:"
+  },
+  {
+    "Title": "basically every video essay",
+    "Url": "https://youtube.com/watch?v=S0WWbpBxLCI",
+    "Timestamp": "2023-12-29T00:06:36",
+    "Domain": "youtube.com",
+    "Description": "hold on, let me just explain the concept of \"cinema.\" Twitter: https://twitter.com/ManCarryingPatreon: https://www.patreon.com/mancarryingthingReddit: https:..."
+  },
+  {
+    "Title": "Semantic Versioning is a terrible mistake",
+    "Url": "https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/",
+    "Timestamp": "2023-12-29T00:06:35",
+    "Domain": "reprog.wordpress.com",
+    "Description": "When I first heard about Semantic Versioning, or SemVer, I thought it was one of those ideas that’s so obviously right that we were all going to benefit from someone having just codified it a…"
+  },
+  {
+    "Title": "Is \"Source Available\" Really That Bad?",
+    "Url": "https://gavinhoward.com/2023/12/is-source-available-really-that-bad/",
+    "Timestamp": "2023-12-29T00:06:32",
+    "Domain": "gavinhoward.com",
+    "Description": "In which I argue that Source Available Noncommercial Software still respects end users."
+  },
+  {
+    "Title": "What if I paid for all my free software?",
+    "Url": "https://www.cynicusrex.com/file/takemymoney.html",
+    "Timestamp": "2023-12-29T00:06:32",
+    "Domain": "www.cynicusrex.com",
+    "Description": "I've always felt guilty by taking for granted the rare breed of virtuous humans that provide free excellent software without relying on advertising. Let's change that and pay, how much would I “lose” anyway?"
+  },
+  {
+    "Title": "The world is run by those who show up",
+    "Url": "https://www.karlsnotes.com/the-world-is-run-by-those-who-show-up/",
+    "Timestamp": "2023-12-29T00:06:32",
+    "Domain": "www.karlsnotes.com",
+    "Description": "A Reddit comment discussing an article on long-shot replacements for Governor of California, explains how an individual can have a much larger impact, without having to run for office."
+  },
+  {
+    "Title": "Repurposing Hugo as a wiki · ./jm",
+    "Url": "https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/",
+    "Timestamp": "2023-12-29T00:06:32",
+    "Domain": "justinmiller.io",
+    "Description": "Wed, Dec 27, 2023"
+  },
+  {
+    "Title": "The Case to Free a Machine to Learn – Michael Bastos",
+    "Url": "https://michaelbastos.com/blog/machine-learning-ideological-capture",
+    "Timestamp": "2023-12-29T00:06:31",
+    "Domain": "michaelbastos.com",
+    "Description": "In the realm of artificial intelligence (AI) and machine learning (ML), understanding freedom is crucial. They are interchangeably the same concept but the distinction between AI and ML can be a litmus test for expertise: those who use ‘AI’ may have a broader, less technical perspective, while ‘ML’ indicates a deeper, more technical knowhow. This distinction is essential when discussing the recent Executive Order (EO) 14110 on AI Safety by the White House, which has stirred debates about technological control and ideological capture.\n"
+  },
+  {
+    "Title": "This is not a Drill, this is just Tuesday",
+    "Url": "https://blog.koehntopp.info/2023/02/18/this-is-not-a-drill.html",
+    "Timestamp": "2023-12-29T00:06:31",
+    "Domain": "blog.koehntopp.info",
+    "Description": ""
+  },
+  {
+    "Title": "AccentCoach: Transfrom Your Accent into American Accent",
+    "Url": "https://otioss.github.io/2023/12/22/accentcoach-transfrom-your-accent-to-american-accent.html",
+    "Timestamp": "2023-12-29T00:06:31",
+    "Domain": "otioss.github.io",
+    "Description": "Accent reduction is a goal that many non-native English speakers persue. A big obstacle is that they often listen to native speakers’ speech, but they have never heard their own voice with a native accent. If learners could listen to their own voice speaking with a native accent, they can notice the differences and improve how they sound. Think of it like a personal AI accent coach but with your own voice."
+  },
+  {
+    "Title": "Challenges with semantic search on transcribed audio files",
+    "Url": "https://notjoemartinez.com/blog/chromadb_for_yt-fts/",
+    "Timestamp": "2023-12-29T00:06:31",
+    "Domain": "notjoemartinez.com",
+    "Description": "My woes trying to improved semantic search with yt-fts"
+  },
+  {
+    "Title": "Why I use Astro",
+    "Url": "https://flaviocopes.com/why-i-use-astro/",
+    "Timestamp": "2023-12-29T00:06:30",
+    "Domain": "flaviocopes.com",
+    "Description": "I help people learn to code."
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "Title": "Staff Software Engineer, Copilot IDE",
+    "Url": "https://boards.greenhouse.io/github/jobs/4960308",
+    "Timestamp": "2023-04-03T23:02:57",
+    "Domain": "boards.greenhouse.io",
+    "Description": "Remote - United States"
+  },
+  {
+    "Title": "My Favorite Things",
+    "Url": "https://xkcd.com/2758/",
+    "Timestamp": "2023-04-03T23:02:57",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Option selects and other tactics",
+    "Url": "https://diatone.net/posts/option-selects",
+    "Timestamp": "2023-04-03T22:04:21",
+    "Domain": "diatone.net",
+    "Description": "[2023-04-03 Mon]  diatone.net"
+  },
+  {
+    "Title": "The C in CRM Grows Unbounded",
+    "Url": "https://shermanonsoftware.com/2023/04/02/the-c-in-crm-grows-unbounded/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "shermanonsoftware.com",
+    "Description": ""
+  },
+  {
+    "Title": "Embracing genuine deadlines as software engineers",
+    "Url": "https://alediaferia.com/2023/02/14/embracing-genuine-deadlines-as-software-engineers/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "alediaferia.com",
+    "Description": "Genuine deadlines are there to help the organization seize an opportunity. Let's explore how they impact engineering organization and how not to antagonize them."
+  },
+  {
+    "Title": "Engineering with Code Ownership – Dan Palmer",
+    "Url": "https://danpalmer.me/2023-03-31-engineering-with-code-ownership/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "danpalmer.me",
+    "Description": "Personal site and blog"
+  },
+  {
+    "Title": "Simulators",
+    "Url": "https://generative.ink/posts/simulators/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "generative.ink",
+    "Description": "Simulacra and simulation in self-supervised models"
+  },
+  {
+    "Title": "You're pricing your SaaS wrong but that's probably OK - Arnon Shimoni",
+    "Url": "https://arnon.dk/youre-pricing-your-saas-wrong-but-thats-probably-ok/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "arnon.dk",
+    "Description": "Previously, I wrote about how important it is to Design your pricing and tools so you can adapt them later – now I want to give a little bit more material on that… I’m going to assume that you’re some sort of SaaS founder, or perhaps even a product manager for pricing, growth, or monetisation. […]"
+  },
+  {
+    "Title": "12 Startups, 12 Months",
+    "Url": "https://daverhay.com/posts/projects/12-startups-12-months/",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "daverhay.com",
+    "Description": "The Plan? 12 Startups in 12 Months"
+  },
+  {
+    "Title": "On Unauthorized Copies of Software",
+    "Url": "https://rant.li/intothegnu/on-unauthorized-copies-of-software",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "rant.li",
+    "Description": "Many call the use or distribution of unauthorized copies of software \"piracy\", but I still don't get what it has to do with boarding ship..."
+  },
+  {
+    "Title": "Dual-booting NixOS and Alpine Linux without root partitions",
+    "Url": "https://adnab.me/blog/2023/2023-04-02-rootless-nixos-alpine.html",
+    "Timestamp": "2023-04-03T22:04:20",
+    "Domain": "adnab.me",
+    "Description": "Last week I read this post and I\nthought that it was a nice idea to try to setup a NixOS install which\nhas no on-disk root partition. This means that the content of everything\nin /etc, /var, … is rebuilt from scratch at\neach boot. The only partitions that are actually required are\n/nix for the Nix store, and /boot that\ncontains the kernel, initramfs and bootloader config to boot the\nsystem."
+  },
+  {
+    "Title": "Nix and direnv · Way Enough",
+    "Url": "https://www.danielcorin.com/posts/nix-and-direnv/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "www.danielcorin.com",
+    "Description": "I know a little about nix.\nNot a lot.\nI know some things about Python virtual environments, asdf and a few things about package managers.\nI’ve heard the combo of direnv and nix is fantastic from a number of engineers I trust, but I haven’t had the chance to figure out what these tools can really do.\nI could totally ask someone what their setup is, but I decided to ask ChatGPT (gpt-4) to see what would happen.\nThe following is the summary of what I did that worked, as instructed and summarized by the LM, with a bit of editing and commentary by me."
+  },
+  {
+    "Title": "Duplicating HTTP status in the response body is an anti-pattern",
+    "Url": "https://haim.dev/posts/2023-04-02-duplicating-http-status-in-response-body-is-an-antipattern/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "haim.dev",
+    "Description": "Have only one source of truth in our API responses"
+  },
+  {
+    "Title": "trurl manipulates URLs | daniel.haxx.se",
+    "Url": "https://daniel.haxx.se/blog/2023/04/03/introducing-trurl/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "daniel.haxx.se",
+    "Description": "trurl is a tool in a similar spirit of tr but for URLs. Here, tr stands for translate or transpose."
+  },
+  {
+    "Title": "Rim Rocked: Overcoming a Stalled Career",
+    "Url": "https://robertgreiner.com/overcoming-a-stalled-career/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "robertgreiner.com",
+    "Description": "One of my favorite shows growing up was Man vs. Wild with Bear Grylls - to this day, I still don't know why. A couple of weeks back, while discussing career progression with a colleague, I remembered an episode where Bear was Free Climbing out of a canyon, effortlessly talking"
+  },
+  {
+    "Title": "AI(ngst)",
+    "Url": "https://jaredhecht.com/2023/03/27/aingst/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "jaredhecht.com",
+    "Description": "Watching the world of technology evolve at its fastest rate ever due to AI hitting its stride is absolutely nerve wracking. As an entrepreneur focused on software, I feel like I’m experiencin…"
+  },
+  {
+    "Title": "Making a Bloom Filter Keyboard - Blog by Maryanne Wachter",
+    "Url": "https://mclare.blog/posts/making-a-bloom-filter-keyboard/",
+    "Timestamp": "2023-04-03T22:04:19",
+    "Domain": "mclare.blog",
+    "Description": "Turning a Keyboardio Model 100 into a Bloom filter test status indicator with Shapr"
+  },
+  {
+    "Title": "Debugging tasks with the Parallel Stacks window",
+    "Url": "https://youtube.com/watch?v=9Rb1EHLKCBY",
+    "Timestamp": "2023-04-03T21:02:17",
+    "Domain": "youtube.com",
+    "Description": "The Parallel Stacks window is very helpful for debugging multithreaded applications. Mark and Ram show how to use the Tasks view to see stack information for..."
+  },
+  {
+    "Title": "Riding & Driving in Washington",
+    "Url": "https://youtu.be/M25bynIraVY",
+    "Timestamp": "2023-04-03T19:02:05",
+    "Domain": "youtu.be",
+    "Description": ""
+  },
+  {
+    "Title": "ASP.NET Core Route Tooling Enhancements in .NET 8 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/aspnet-core-route-tooling-dotnet-8/",
+    "Timestamp": "2023-04-03T19:02:02",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Route tooling is a group of new features in .NET 8 that makes ASP.NET Core routing easier to use. Check out what route tooling adds to building ASP.NET Core apps."
+  },
+  {
+    "Title": "Riding & Driving in Washington",
+    "Url": "https://youtube.com/watch?v=M25bynIraVY",
+    "Timestamp": "2023-04-03T18:02:24",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Azure DevOps Podcast: Chris Sainty: Blazor in Action - Episode 238",
+    "Url": "http://azuredevopspodcast.clear-measure.com/chris-sainty-blazor-in-action-episode-238",
+    "Timestamp": "2023-04-03T18:02:21",
+    "Domain": "azuredevopspodcast.clear-measure.com",
+    "Description": "Chris is a Microsoft MVP, author, and software engineer with over 17 years of experience with ASP.NET. Passionate about sharing his knowledge with the community, he regularly writes both for his own blog as well as others — such as Visual Studio magazine, Progress Telerik, and StackOverflow. This passion for blogging led to his first book, Blazor in Action, a practical guide to building Blazor applications. He also maintains several popular open-source projects under the GitHub organization, Blazored. When not tapping on a keyboard, Chris is a keen speaker, having delivered talks at both user groups and conferences all over the world. &nbsp; Topics of Discussion: [1:15] Jeffrey puts out a call for those who may be looking to work with him. [4:41] What was Chris’s start in the industry? [10:07] Chris talks about falling in love with Blazor and why he is so passionate about it. [12:10] Chris shares how he got into blogging and why he thinks it should be for everyone, not just those at the senior level. [15:22] Talks about winning the Microsoft MVP award. [15:48] How does Chris talk about Blazor when creating a new application? Are there defaults that he goes to? [21:51] Chris talks about his organizational technique on the client side. [25:05] In Chris’s book, , he talks about GitHub repositories that he likes. [27:04] Structuring web APIs from a security perspective. [28:00] How does Chris segment different projects? [33:47] What is Chris’s favorite method of putting together an authentication flow? &nbsp; Mentioned in this Episode:     — New Video Podcast! Email us work  (Sponsor)  — Available on Amazon!  — Follow to stay informed about future events!  — Video podcast!        - PBSAINTY for 50% off  &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "Multi-Class Classification Using a scikit Neural Network -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/04/03/scikit-neural-network.aspx",
+    "Timestamp": "2023-04-03T17:02:54",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Dr. James McCaffrey of Microsoft Research says a neural network model is arguably the most powerful multi-class classification technique."
+  },
+  {
+    "Title": "Django 4.2 released",
+    "Url": "https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/",
+    "Timestamp": "2023-04-03T16:02:40",
+    "Domain": "www.djangoproject.com",
+    "Description": "Posted by Mariusz Felisiak on April 3, 2023"
+  },
+  {
+    "Title": "On .NET Live - Driving API Quality with Postman + .NET",
+    "Url": "https://youtube.com/watch?v=OVuBUHiZuxw",
+    "Timestamp": "2023-04-03T15:01:36",
+    "Domain": "youtube.com",
+    "Description": "How does your organization manage its APIs? In this week's episode, Postman architect Garrett London shows us how you can use Postman and .NET to drive API q..."
+  },
+  {
+    "Title": "Listing all available ETW events in a .NET application - Gérald Barré",
+    "Url": "https://www.meziantou.net/listing-all-available-etw-events-in-a-dotnet-application.htm",
+    "Timestamp": "2023-04-03T15:01:34",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to list all available events in a .NET application."
+  },
+  {
+    "Title": "C++17 creates a practical use of the backward array index operator - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230403-00/?p=108005",
+    "Timestamp": "2023-04-03T14:02:14",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Possibly more than just a curiosity."
+  },
+  {
+    "Title": "Introducing Rollbacks for Workers Deployments",
+    "Url": "https://blog.cloudflare.com/introducing-rollbacks-for-workers-deployments/",
+    "Timestamp": "2023-04-03T13:03:10",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Deployment rollbacks provide users the ability to quickly visualize and deploy past versions of their Workers, providing even more confidence in the deployment pipeline"
+  },
+  {
+    "Title": "I Lied! The Fastest C# Loop Is Even Weirder",
+    "Url": "https://youtube.com/watch?v=KLtMtxUihBk",
+    "Timestamp": "2023-04-03T13:03:07",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello everybody I'm Nick, and in..."
+  },
+  {
+    "Title": "Entity Framework Core 8 Preview 2 Released ",
+    "Url": "https://www.infoq.com/news/2023/04/ef-core-8-preview-2/",
+    "Timestamp": "2023-04-03T09:04:53",
+    "Domain": "www.infoq.com",
+    "Description": "Entity Framework Core 8 Preview 2 was released on March 14th. The most notable feature in EF Core 8 preview 2 is support for SQL Server hierarchical data."
+  },
+  {
+    "Title": "352: Analyzing The Twitter Algorithm",
+    "Url": "https://www.mergeconflict.fm/352",
+    "Timestamp": "2023-04-03T09:04:53",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "They did it! The Twitter Algorithm is open source! We break down how it works, what is in it, and how why you should care (or not)."
+  },
+  {
+    "Title": "Application Security at YOO",
+    "Url": "https://asp.net-hacker.rocks/2023/04/03/appsec-role-at-yoo.html",
+    "Timestamp": "2023-04-03T07:01:23",
+    "Domain": "asp.net-hacker.rocks",
+    "Description": "For about a year, I was working on a pretty exciting project. I defined and created a new role for our company that is responsible for application security. This also means that I will take over this new role and to be responsible, to ensure and to maintain the security standards throughout the entire company. "
+  },
+  {
+    "Title": "Supercharge your AI skills with #30DaysOfAzureAI launching today with daily posts throughout April",
+    "Url": "https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/supercharge-your-ai-skills-with-30daysofazureai-launching-today/ba-p/3784159",
+    "Timestamp": "2023-04-03T06:01:34",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Supercharge your AI skills with #30DaysOfAzureAI  #30DaysOfAzureAI Roadmap  The #30DaysOfAzureAI content is organized into four themed weeks. Based on your role, you can choose specific weeks or follow along with all the content. For more details, view the roadmap, but in summary, the weeks are laid..."
+  },
+  {
+    "Title": "Happy April Tools Day!",
+    "Url": "https://techcommunity.microsoft.com/t5/sql-server-blog/happy-april-tools-day/ba-p/3785353",
+    "Timestamp": "2023-04-03T06:01:33",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "While many folks observe April 1 as April Fool’s Day, we in the SQL Tools team celebrate April 1 as April Tools Day, a day when we debunk myths surrounding the tools for SQL Server. We recommend having some good chocolate to honor the occasion.    Now, you may wonder how we are aware of the misconce..."
+  },
+  {
+    "Title": "How to use AI to do practical stuff: A new guide",
+    "Url": "https://oneusefulthing.substack.com/p/how-to-use-ai-to-do-practical-stuff",
+    "Timestamp": "2023-04-03T06:01:28",
+    "Domain": "oneusefulthing.substack.com",
+    "Description": "People often ask me how to use AI. Here's an overview with lots of links."
+  },
+  {
+    "Title": "TypeScript–Template literal types",
+    "Url": "https://bartwullems.blogspot.com/2023/03/typescripttemplate-literal-types.html",
+    "Timestamp": "2023-04-03T06:01:27",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "Although I spend most of my time in C# land, I like to explore other programming languages to stretch my brain. Recently I was looking again..."
+  },
+  {
+    "Title": "The Future of Senior Developers in an AI-Driven World",
+    "Url": "https://christianheilmann.com/2023/04/02/the-future-of-senior-developers-in-an-ai-driven-world/",
+    "Timestamp": "2023-04-03T06:01:27",
+    "Domain": "christianheilmann.com",
+    "Description": "As artificial intelligence (AI) continues to advance, many are concerned about its impact on the job market, particularly for junior developers. If AI can automate many of the tasks these developers currently perform, how will we have new senior developers and architects in the future? Let’s talk about how junior developers still have crucial roles to play, and why the potential automation of their tasks doesn’t necessarily mean a lack of future senior developers and architects."
+  },
+  {
+    "Title": "Accessing Objects Just After they are Saved by Entity Framework | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2023/04/accessing-objects-just-after-they-are-saved-by-entity-framework/",
+    "Timestamp": "2023-04-03T06:01:27",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Here is a way to access objects just after they are saved by Entity Framework and have had a primary key assigned to them."
+  },
+  {
+    "Title": "Docs As Part Of The Developer Experience For MSAL",
+    "Url": "https://den.dev/blog/msal-docs/",
+    "Timestamp": "2023-04-03T06:01:27",
+    "Domain": "den.dev",
+    "Description": "I am a big believer in good documentation being an essential part of the product. Good docs are hard to come by for several reasons, not the least being the fact that writing good docs is hard."
+  },
+  {
+    "Title": "AI is morphing from tool to platform (and the next technology epoch begins)",
+    "Url": "https://blog.scottlogic.com/2023/03/31/the-new-ai-platform.html",
+    "Timestamp": "2023-04-03T06:01:27",
+    "Domain": "blog.scottlogic.com",
+    "Description": "The buzz and excitement around generative AI is continuing to grow as their capabilities rapidly expand. However, their ability to generate content is just the starting point. From my perspective, the emergent reasoning capability, coupled with their intelligent use of tools, is what will make this technology truly transformational, and will mark the start of a new technology epoch."
+  },
+  {
+    "Title": "Serializable Transactions in Databases like Redis",
+    "Url": "https://www.codingblocks.net/podcast/understanding-serial-transactions-for-databases-like-redis/",
+    "Timestamp": "2023-04-03T05:03:28",
+    "Domain": "www.codingblocks.net",
+    "Description": "Podcast: Play in new window | Download"
+  },
+  {
+    "Title": ".NET MAUI Community Toolkit Monthly Standup, April 2023",
+    "Url": "https://youtube.com/watch?v=3pJh1eYcYPg",
+    "Timestamp": "2023-04-03T05:03:24",
+    "Domain": "youtube.com",
+    "Description": "Join us as we discuss the current happenings in the .NET MAUI Community Toolkit!  https://github.com/CommunityToolkit/Maui/wiki/Monthly-Standups"
+  },
+  {
+    "Title": "Refactoring Object-Orientation Abusers in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-refactoring-object-orientation-abusers/",
+    "Timestamp": "2023-04-03T01:03:03",
+    "Domain": "code-maze.com",
+    "Description": "In this post, we are going to explore how to recognize and refactor a code smell called object-orientation abusers in C#."
+  }
+]

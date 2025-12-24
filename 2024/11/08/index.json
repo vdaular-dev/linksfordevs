@@ -1,0 +1,79 @@
+[
+  {
+    "Title": "Mitochondria Are Alive",
+    "Url": "https://www.asimov.press/p/mitochondria",
+    "Timestamp": "2024-11-08T22:01:34",
+    "Domain": "www.asimov.press",
+    "Description": "The physical world is an intricate dance between matter, information, and energy. Recognizing that mitochondria are alive will open new horizons into how we learn about, and build with, biology."
+  },
+  {
+    "Title": "Rails 8.0: No PaaS Required",
+    "Url": "https://rubyonrails.org/2024/11/7/rails-8-no-paas-required",
+    "Timestamp": "2024-11-08T22:01:33",
+    "Domain": "rubyonrails.org",
+    "Description": "Deploying modern web apps – with all the provisions needed to be fast and secure while easily updateable – has become so hard that many developers don’t dare do it without a PaaS (platform-as-a-service). But that’s ridiculous. Nobody should have to pay orders of magnitude more for basic computing just to make deployment friendly and usable. That’s a job for open source, and Rails 8 is ready to solve it. So it’s with great pleasure that we are now ready with the final version of Rails 8.0, after a successful beta release and several release candidates!"
+  },
+  {
+    "Title": "Getting Started in Tech Part 3",
+    "Url": "https://youtube.com/watch?v=e0gqZ14xaQY",
+    "Timestamp": "2024-11-08T19:02:40",
+    "Domain": "youtube.com",
+    "Description": "In this edition of #tech on ice, we continue the \"Getting started in tech\" series where we discuss how you should go about building your learning journey. #technology #programming #developer #coldplunge"
+  },
+  {
+    "Title": "A New Era of macOS Sandbox Escapes: Diving into an Overlooked Attack Surface and Uncovering 10+ New Vulnerabilities",
+    "Url": "https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/",
+    "Timestamp": "2024-11-08T18:04:17",
+    "Domain": "jhftss.github.io",
+    "Description": "This is a blog post for my presentation at the conference POC2024. The slides are uploaded here.\n\n"
+  },
+  {
+    "Title": "Why I love Rust for tokenising and parsing",
+    "Url": "https://xnacly.me/posts/2024/rust-pldev/",
+    "Timestamp": "2024-11-08T18:04:10",
+    "Domain": "xnacly.me",
+    "Description": "Macros, iterators, patterns, error handling and match make Rust almost perfect"
+  },
+  {
+    "Title": "Getting Started with Blazor - Color Palette Generator",
+    "Url": "https://youtube.com/watch?v=lZA2hKx3SEY",
+    "Timestamp": "2024-11-08T17:01:34",
+    "Domain": "youtube.com",
+    "Description": "In this 20-minute introduction to Blazor development, we build a Color Palette Generator application.\n\nLearn the fundamentals of Blazor development and enjoy the beauty of its component-oriented development model.\n\n00:00 Introduction\n00:30 Creating a Blazor Web Application\n02:16 Implementing the Tile Component\n05:45 Using the Tile Component on a Page\n06:44 Testing the Tile Component\n07:19 Implementing the Palette Component\n11:43 Using and Testing the Palette Component\n12:25 Improving the Styling using Flexbox\n15:05 Implementing a Button and a Click Handler\n16:57 Styling the Web App using CSS (and ChatGPT)\n20:23 C# and .NET Course: Web Development Section & Discount Code\n\n🔥 C#/.NET Bootcamp: Full-Stack Web Development with ASP.NET Core and Blazor (Code FRIENDS10 for 10% OFF)*\nhttps://claudiobernasconi.ch/dotnet-course\n\n📌 .NET Developer Roadmap\nhttps://claudiobernasconi.ch/learn-dotnet\n\n📌 YouTube Playlists:\nThe FREE Blazor Crash Course: https://www.youtube.com/watch?v=89Klc6WHElw&list=PLwISgxnkpZGL_LhTQCWwp-WCzupv7lcp0\nBlazor: https://www.youtube.com/playlist?list=PLwISgxnkpZGITT6pELfCeQ6qK0G3ujldZ\n\n✅ SUBSCRIBE FOR MORE VIDEOS \nSubscribe: 🔔 https://claudiobernasconi.ch/Subscribe\n\n🚀 CONNECT & SUPPORT\nWebsite & Blog: https://claudiobernasconi.ch\nNewsletter: https://claudiobernasconi.ch/newsletter\nTwitter: https://twitter.com/CHBernasconiC\nBluesky: https://bsky.app/profile/bernasconi.bsky.social\nMastodon: https://dotnet.social/@bernasconi\n\n* Affiliate Link: I earn a small commission at no additional cost"
+  },
+  {
+    "Title": "REST APIs: Are You Really Following REST? (Richardson Maturity Model Explained)",
+    "Url": "https://youtube.com/watch?v=WrO7iGU_nnw",
+    "Timestamp": "2024-11-08T14:01:31",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nJoin a community of 1000+ .NET developers: https://www.patreon.com/milanjovanovic\n\nLearn how to elevate your API design from basic HTTP endpoints to truly RESTful services using the Richardson Maturity Model. This practical guide walks you through refactoring an API from Level 0 to Level 3, demonstrating how to implement HATEOAS, proper resource naming, and HTTP method usage. Whether you're building your first API or looking to improve an existing one, this tutorial will help you understand what makes an API truly RESTful and how to apply these principles in your own projects.\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 What is REST?\n1:17 REST Constraints\n4:38 REST Maturity Levels\n6:41 Resource-based URIs\n9:12 HTTP Methods with URIs\n13:07 Hypermedia, HATEOAS\n17:48 REST Maturity Levels Recap"
+  },
+  {
+    "Title": "MVVM Toolkit v8.4: Custom Access Modifiers for Partial Properties – How To",
+    "Url": "https://egvijayanand.in/2024/11/08/mvvm-toolkit-v8-4-custom-access-modifiers-for-partial-properties-how-to/",
+    "Timestamp": "2024-11-08T13:01:47",
+    "Domain": "egvijayanand.in",
+    "Description": "This article is part of the MVVM – Made Easy series, with focus on the initial preview release of v8.4 of the CommunityToolkit.Mvvm (aka Microsoft MVVM Toolkit) NuGet package, which includes …"
+  },
+  {
+    "Title": "[HOWTO] Rotate Azure Key Vault secrets used by an ASP.NET Core Web API with Terraform on every deployment",
+    "Url": "https://blog.rufer.be/2024/11/08/howto-rotate-azure-key-vault-secrets-used-by-an-asp-net-core-web-api-with-terraform-on-every-deployment/",
+    "Timestamp": "2024-11-08T13:01:47",
+    "Domain": "blog.rufer.be",
+    "Description": "The blog post details the process of rotating secrets stored in Azure Key Vault with each application deployment, utilizing Infrastructure as Code (IaC) principles via Terraform. It emphasizes the …"
+  },
+  {
+    "Title": "How dotnet.exe resolves and loads the hostfxr library - Exploring the .NET muxer - Steve Gordon - Code with Steve",
+    "Url": "https://www.stevejgordon.co.uk/how-dotnet-muxer-resolves-and-loads-the-hostfxr-library",
+    "Timestamp": "2024-11-08T12:01:44",
+    "Domain": "www.stevejgordon.co.uk",
+    "Description": "This post explores the implementation of dotnet.exe, specifically focusing on how the hostfxr library is resolved and loaded."
+  },
+  {
+    "Title": "B: Game Essence 2 (Category Compilation) #07～#15",
+    "Url": "https://youtube.com/watch?v=6sbJdEGZA-o",
+    "Timestamp": "2024-11-08T11:01:25",
+    "Domain": "youtube.com",
+    "Description": "In Category B: Game Essence, I define \"game essence\" as risk and reward, and explore how it impacts the push and pull at the heart of games.\n\n[Index]\n0:00 Opening\n0:11 B-07 Falling Sells the Feeling of Flight\n2:41 B-08 Do We Really Need Enemies?\n5:57 B-09 Consider Rewards First\n8:37 B-10 Do Competitive Games Have to Be Complex?\n12:36 B-11 Game Essence in Falling-Block Puzzle Games\n15:21 B-12 Dying Comes as a Relief? \n17:45 B-13 Mountain Climbing Is More Than Just Climbing\n20:21 B-14 Make Retries Quick\n23:13 B-15 Is Your Game Appealing Enough to Start Over?\n\n[Playlist B: Game Essence]\nhttps://www.youtube.com/playlist?list=PLgKCjZ2WsVLScUWJZ7ppkHGlCUIXEj5Io"
+  }
+]

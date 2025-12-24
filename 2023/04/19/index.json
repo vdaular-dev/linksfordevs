@@ -1,0 +1,219 @@
+[
+  {
+    "Title": "The Complete Beginners Guide To Autonomous Agents",
+    "Url": "https://www.mattprd.com/p/the-complete-beginners-guide-to-autonomous-agents",
+    "Timestamp": "2023-04-19T21:05:32",
+    "Domain": "www.mattprd.com",
+    "Description": "What are autonomous agents? Why are they such a big opportunity? How do they work? What does this look like in the future? How can I build or use one?"
+  },
+  {
+    "Title": "I used to believe in objective morality",
+    "Url": "https://blog.kaichristensen.com/p/i-used-to-believe-in-objective-morality",
+    "Timestamp": "2023-04-19T21:05:29",
+    "Domain": "blog.kaichristensen.com",
+    "Description": "From \"you're evil\" to \"I think you're evil\""
+  },
+  {
+    "Title": "Get your app to Mars!",
+    "Url": "https://kentindell.github.io/2023/04/18/get-your-app-to-mars/",
+    "Timestamp": "2023-04-19T21:05:28",
+    "Domain": "kentindell.github.io",
+    "Description": "This is a blog post about firmware updates, and I was inspired to write it by the news that NASA’s Curiosity rover on Mars has got an OTA update. The firmware image was about 21MB and took 11 days to send it over-the-air (or in this case, over-the-vacuum: Mars is currently 242 million kilometres from Earth)."
+  },
+  {
+    "Title": "TheeSeeShip – The Opposite of a Rewrite",
+    "Url": "https://shermanonsoftware.com/2023/04/18/theeseeship-the-opposite-of-a-rewrite/",
+    "Timestamp": "2023-04-19T21:05:28",
+    "Domain": "shermanonsoftware.com",
+    "Description": ""
+  },
+  {
+    "Title": "Creating a Custom Command Bar in Neovim",
+    "Url": "https://imfeld.dev/writing/creating_a_custom_command_bar_in_neovim",
+    "Timestamp": "2023-04-19T21:05:27",
+    "Domain": "imfeld.dev",
+    "Description": "Creating a Custom Command Bar in Neovim by Daniel Imfeld"
+  },
+  {
+    "Title": "No Code, Clean Performance",
+    "Url": "https://mlajtos.mu/posts/no-code-clean-performance",
+    "Timestamp": "2023-04-19T21:05:27",
+    "Domain": "mlajtos.mu",
+    "Description": "Can we have the cake and eat it too?"
+  },
+  {
+    "Title": "The Overemployed Via ChatGPT",
+    "Url": "https://thezvi.wordpress.com/2023/04/18/the-overemployed-via-chatgpt/",
+    "Timestamp": "2023-04-19T21:05:27",
+    "Domain": "thezvi.wordpress.com",
+    "Description": "Previously: Escape Velocity From Bullshit Jobs They took our jobs! They took… several of our jobs? “ChatGPT does like 80 percent of my job,” said one worker. Another is holding the line…"
+  },
+  {
+    "Title": "How to read more articles",
+    "Url": "https://hiranyey.dev/posts/read-more/",
+    "Timestamp": "2023-04-19T21:05:27",
+    "Domain": "hiranyey.dev",
+    "Description": "A small chrome extension i made"
+  },
+  {
+    "Title": "Why Prompt Engineering Is Nonsense",
+    "Url": "https://pavkam.dev/2023-04-19-work-with-ai-nonsense/",
+    "Timestamp": "2023-04-19T21:05:27",
+    "Domain": "pavkam.dev",
+    "Description": "Like most people in tech, I have been bombarded lately with a ton of “AI stuff”. Articles upon articles of opinions and rants. Papers and videos on various subjects from technical architectures to societal impacts and beyond. While one must preserve a level-headed view on all these subjects and opinions,..."
+  },
+  {
+    "Title": "How RocksDB works - Artem Krylysov",
+    "Url": "https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/",
+    "Timestamp": "2023-04-19T21:05:26",
+    "Domain": "artem.krylysov.com",
+    "Description": "Over the past years, the adoption of RocksDB increased dramatically. It became a standard for embeddable key-value stores."
+  },
+  {
+    "Title": "Where's my feedback loop?",
+    "Url": "https://www.felipehummel.com/wheres-my-feedback-loop/",
+    "Timestamp": "2023-04-19T21:05:26",
+    "Domain": "www.felipehummel.com",
+    "Description": "It was the end of 2019, and I had been a manager for just over a year. I was leading a small team, with fewer than 15 people. We were well-oiled and functioning smoothly, but there was one feature that customers kept complaining about, and it was way way down"
+  },
+  {
+    "Title": "Simplifying Bézier paths",
+    "Url": "https://raphlinus.github.io/curves/2023/04/18/bezpath-simplify.html",
+    "Timestamp": "2023-04-19T21:05:26",
+    "Domain": "raphlinus.github.io",
+    "Description": "Finding the optimal Bézier path to fit some source curve is, surprisingly, not yet a completely solved problem. Previous posts have given good solutions for specific instances: Fitting cubic Bézier curves primarily addressed Euler spirals (which are very smooth), while Parallel curves of cubic Béziers rendered parallel curves. In this post, I describe refinements of the ideas to solve the much more general problem of simplifying arbitrary paths. Along with the theoretical ideas, a reasonably solid implementation is landing in kurbo, a Rust library for 2D shapes."
+  },
+  {
+    "Title": "Rentomojo Data Breach",
+    "Url": "https://old.reddit.com/r/pune/comments/12s4mny/rentomojo_data_breach/",
+    "Timestamp": "2023-04-19T20:04:09",
+    "Domain": "old.reddit.com",
+    "Description": "Just a few minutes back got an email from Shiny Hunters stating that they had access to Rentomojo Data. They have access to all the details like..."
+  },
+  {
+    "Title": ".NET MAUI Team Stamps Out Memory Leaks, Tweaks NuGet Packaging -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/04/19/net-maui-preview-3.aspx",
+    "Timestamp": "2023-04-19T19:02:14",
+    "Domain": "visualstudiomagazine.com",
+    "Description": " Released last week, .NET MAUI (.NET Multi-platform App UI) in .NET 8 Preview 3 mostly continues the effort to improve the quality of UI controls, layout and memory management, Microsoft said."
+  },
+  {
+    "Title": "Git Tooling Preview Features to Enhance Productivity - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/git-tooling-preview-features-to-enhance-productivity/",
+    "Timestamp": "2023-04-19T17:03:28",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We’re excited to share productivity and quality of life improvements available to the Git experience in Visual Studio version 17.6 Preview 2."
+  },
+  {
+    "Title": "Episode 52: Elastic - with Steve Gordon",
+    "Url": "https://unhandledexceptionpodcast.com/posts/0052-elasticsearch/?hss_channel=tw-2384354214",
+    "Timestamp": "2023-04-19T17:03:28",
+    "Domain": "unhandledexceptionpodcast.com",
+    "Description": "In this episode, I was joined by Steve Gordon to chat about the Elastic Stack, and his work on the Elasticsearch .NET client.\nSteve is a senior engineer at Elastic, maintaining the .NET client libraries. He’s a Microsoft MVP, Pluralsight author, speaker, and blogger, and user-group organiser.\n  Steve’s social links  Twitter Mastodon GitHub Website/Blog LinkedIn YouTube  Links from the show  Elastic Elasticsearch client Elastic Observability Kibana Logstash Snapshot testing with Verify episode Verify on GitHub LocalStack  Devtip links  Github CLI Flurl Dan’s Flurl YouTube video  Listener Mention  Danielle D  "
+  },
+  {
+    "Title": "Deploying RavenDB with Helm Chart",
+    "Url": "https://ayende.com/blog/199269-A/deploying-ravendb-with-helm-chart?Key=75c4e431-594c-44b3-b9d1-9477d16cbdbf",
+    "Timestamp": "2023-04-19T15:03:48",
+    "Domain": "ayende.com",
+    "Description": "Helm is the package manager for Kubernetes. It allows you to easily deploy applications and systems to a Kubernetes cluster easily, safely and in a reproduci..."
+  },
+  {
+    "Title": "sourcehut pages",
+    "Url": "https://srht.site/",
+    "Timestamp": "2023-04-19T15:03:47",
+    "Domain": "srht.site",
+    "Description": "sourcehut is a network of useful open source tools for software project maintainers and collaborators, including git repos, bug tracking, continuous integration, and mailing lists."
+  },
+  {
+    "Title": "The case of the unhandled exception in a brokered Windows Runtime component - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230419-00/?p=108070",
+    "Timestamp": "2023-04-19T14:02:12",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Digging into the event dispatch code."
+  },
+  {
+    "Title": ".NET Data Community Standup - EF Core Internals – Model Building",
+    "Url": "https://youtube.com/watch?v=FYz0rAxQkC8",
+    "Timestamp": "2023-04-19T12:04:36",
+    "Domain": "youtube.com",
+    "Description": "In this session, the .NET Data Access team will dig into the EF Core internals for building a model. EF models are built using a combination of three mechani..."
+  },
+  {
+    "Title": "Message-Driven Architecture: Promoting Efficient and Scalable Communication",
+    "Url": "https://jamilhallal.blogspot.com/2023/04/message-driven-architecture-promoting-efficient-and-scalable-communication.html",
+    "Timestamp": "2023-04-19T11:07:17",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "Message-driven architecture (MDA) is a powerful approach that enables efficient and scalable communication between different systems and components."
+  },
+  {
+    "Title": "Web API Updates with .NET 8",
+    "Url": "https://csharp.christiannagel.com/2023/04/19/api-dotnet8/",
+    "Timestamp": "2023-04-19T11:07:15",
+    "Domain": "csharp.christiannagel.com",
+    "Description": "Preview 3 of .NET 8 includes a new project templates to create an API with a todo service instead of the weather forecast . Looking into the generated code of this template, there are a lot more ch…"
+  },
+  {
+    "Title": "How to Serialize Exceptions as JSON in .NET - Code Maze",
+    "Url": "https://code-maze.com/dotnet-serialize-exceptions-as-json/",
+    "Timestamp": "2023-04-19T07:06:19",
+    "Domain": "code-maze.com",
+    "Description": "Demonstrate how to serialize exceptions in .NET with elaborate explanation, guidelines and practical examples"
+  },
+  {
+    "Title": "How to Migrate Your WebForms App to Blazor in 6 Steps",
+    "Url": "https://www.telerik.com/blogs/how-to-migrate-web-forms-app-blazor-6-steps",
+    "Timestamp": "2023-04-19T06:05:00",
+    "Domain": "www.telerik.com",
+    "Description": "So the time has come to thank your Web Forms app for its service and let it enjoy a peaceful retirement, but how do you migrate from Web Forms to Blazor?"
+  },
+  {
+    "Title": "Deep dive - Uno Platform Template Wizard - Framework, Platforms and Presentation - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/wizard-framework-platforms-presentation/",
+    "Timestamp": "2023-04-19T06:04:59",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "In my previous two posts (here and here) I’ve talked about the new wizard that’s available for creating multi-platform applications with .NET and the Windows App SDK (WinUI), leveraging the Uno Platform. Now we’re going to jump in and take a look at the options that are available via the Customize button. In this post ... Read more"
+  },
+  {
+    "Title": "The Three Browser Storage Mechanisms",
+    "Url": "https://www.telerik.com/blogs/three-browser-storage-mechanisms",
+    "Timestamp": "2023-04-19T06:04:58",
+    "Domain": "www.telerik.com",
+    "Description": "A focus on the comparison between the three different browser storage mechanisms: localStorage, sessionStorage and cookies."
+  },
+  {
+    "Title": "Reduce Lookups in HashSet, Dictionary and Other Collections With ReSharper | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/04/18/reduce-lookups-in-hashset-dictionary-and-other-collections-with-resharper/",
+    "Timestamp": "2023-04-19T06:04:55",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Many C# projects contain numerous places where developers add items to collections like HashSet and Dictionary. Quite often, there’s a check to verify whether the item is already in the collection. Ho"
+  },
+  {
+    "Title": "Need your Blazor sibling components to talk to each other?",
+    "Url": "https://jonhilton.net/blazor-sibling-communication/",
+    "Timestamp": "2023-04-19T06:04:55",
+    "Domain": "jonhilton.net",
+    "Description": "How to handle Component A needs to talk to Component B challenges in Blazor"
+  },
+  {
+    "Title": "2023 State of Web Components",
+    "Url": "https://eisenbergeffect.medium.com/2023-state-of-web-components-c8feb21d4f16",
+    "Timestamp": "2023-04-19T06:04:54",
+    "Domain": "eisenbergeffect.medium.com",
+    "Description": "Looking at uses of Web Components in the wild today and how the platform has grown over the years and is likely to evolve in the future."
+  },
+  {
+    "Title": "Writing a Cross-Platform Clock App With Avalonia UI and NXUI",
+    "Url": "https://khalidabuhakmeh.com/writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui",
+    "Timestamp": "2023-04-19T06:04:53",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Using Avalonia UI to build a cross-platform .NET clock app for Window, macOS, and Linux using NXUI."
+  },
+  {
+    "Title": "My 2023 C# Software Developer Tool List",
+    "Url": "https://michaelscodingspot.com/developer-tools/",
+    "Timestamp": "2023-04-19T06:04:51",
+    "Domain": "michaelscodingspot.com",
+    "Description": "I don’t think I have to make the point of how important tools are. What would we do without IDEs like Visual Studio? Or without good email clients like Gmail and Outlook? For power users like software engineers, good tools can 10x your productivity. Everyone got their favorite tools, and I think I gathered a pretty good list. So here’s my list of tools that I use every day and highly recommend."
+  }
+]

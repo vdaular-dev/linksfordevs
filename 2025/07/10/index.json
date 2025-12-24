@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "Seeing like an LLM",
+    "Url": "https://www.strangeloopcanon.com/p/seeing-like-an-llm",
+    "Timestamp": "2025-07-10T23:03:02",
+    "Domain": "www.strangeloopcanon.com",
+    "Description": "\"I will run the tests again. I expect nothing. I am a leaf on the wind.\" an LLM while coding"
+  },
+  {
+    "Title": "The Code Inflation",
+    "Url": "https://blog.hermesloom.org/p/the-code-inflation",
+    "Timestamp": "2025-07-10T23:03:02",
+    "Domain": "blog.hermesloom.org",
+    "Description": "Consider all the steps between the total cost associated with one line of code written by an expert on a gigantic machine, to nowadays the cost of generating one line of code with an LLM"
+  },
+  {
+    "Title": "I used Claude Sonnet 4 to help a customer import their blog archive in 46 minutes - @olly",
+    "Url": "https://olly.pagecord.com/i-used-claude-sonnet-4-to-help-a-customer-import-their-blog-archive-in-46-minutes",
+    "Timestamp": "2025-07-10T23:03:01",
+    "Domain": "olly.pagecord.com",
+    "Description": "I'm sure people are starting to get a little tired of hearing about how AI solved this coding problem or that coding problem. If you look at X (urgh, I know..."
+  },
+  {
+    "Title": "DrGrizz's blog | Dark Mode is not just about aesthetic",
+    "Url": "https://drgrizz.xyz/dark-mode.html",
+    "Timestamp": "2025-07-10T23:02:59",
+    "Domain": "drgrizz.xyz",
+    "Description": "I discovered in 2011 that I had won the genetic lottery: I am suffering from Retinis Pigmentosa.\nSince, my vision overall has been declining (worsening eyesight, narrowing field of view, loss of night vision), and my photophobia increased by a lot.\nThe condition has reached a level where a moderate amount of light is not just uncomfortable, but really painful. \nAnd that is true from any kind of light, which includes light from screens as well."
+  },
+  {
+    "Title": "Sensible use of MCP today | Andre Landgraf",
+    "Url": "https://andrelandgraf.dev/blog/2025-07-09_sensible-use-of-mcp-today",
+    "Timestamp": "2025-07-10T23:02:59",
+    "Domain": "andrelandgraf.dev",
+    "Description": "In this blog post, we discuss the Model Context Protocol (MCP), prompt injection attacks, problems with LLM agency, and how to use MCP in production."
+  },
+  {
+    "Title": "Using Gemini and Claude For SQL Analytics - A Bake Off | BenjaminWootton.com",
+    "Url": "https://benjaminwootton.com/insights/clickhouse-gemini-claude",
+    "Timestamp": "2025-07-10T23:02:59",
+    "Domain": "benjaminwootton.com",
+    "Description": "A bake off of Claude and Gemini in order to test their SQL performance against a ClickHouse database."
+  },
+  {
+    "Title": "User simulators bridge RL with real-world interaction",
+    "Url": "https://jessylin.com/2025/07/10/user-simulators-1/",
+    "Timestamp": "2025-07-10T23:02:59",
+    "Domain": "jessylin.com",
+    "Description": "To make RL work on tasks we care about, we need better user simulators. What's missing?Co-written with Nick Tomlin."
+  },
+  {
+    "Title": "Strategy · Rohit Gupta",
+    "Url": "https://rohitgupta.in/blog/2025/07/10/Strategy/",
+    "Timestamp": "2025-07-10T23:02:58",
+    "Domain": "rohitgupta.in",
+    "Description": "Writing notes helps me think more clearly. I share them in case someone spots a gap in my thinking."
+  },
+  {
+    "Title": "eBPF: Connecting with Container Runtimes",
+    "Url": "https://h0x0er.github.io/blog/2025/06/29/ebpf-connecting-with-container-runtimes/",
+    "Timestamp": "2025-07-10T23:02:57",
+    "Domain": "h0x0er.github.io",
+    "Description": "Code snippets are take from open-source tetragon, tracee and crictl projects."
+  },
+  {
+    "Title": "Foul Play: Privilege Escalation on the Playdate",
+    "Url": "https://www.peterstefek.me/foul-play.html",
+    "Timestamp": "2025-07-10T23:02:57",
+    "Domain": "www.peterstefek.me",
+    "Description": "Posted on 28 June 2025"
+  },
+  {
+    "Title": "Orchestrating Intelligence: Why Every Company Will Have a Chief Agent Officer",
+    "Url": "https://mike-hostetler.com/blog/orchestrating-intelligence-why-every-company-will-have-a-chief-agent-officer-y4EQpjr9",
+    "Timestamp": "2025-07-10T23:02:56",
+    "Domain": "mike-hostetler.com",
+    "Description": "AI agents are everywhere, but are they delivering real ROI? Most companies are stuck in an 'Intelligence Hyperinflation' trap, where disconnected AI tools yield dismal returns.\n\nThe key to transforming that chaos into significant, measurable business value lies with a new leadership role: the Chief Agent Officer."
+  },
+  {
+    "Title": "Author and Assistant",
+    "Url": "https://zmj.dev/author_assistant.html",
+    "Timestamp": "2025-07-10T23:02:56",
+    "Domain": "zmj.dev",
+    "Description": "When you talk to an AI, you're talking to two other \"people\"."
+  },
+  {
+    "Title": "Phrase origin: Why do we “call” functions?",
+    "Url": "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/",
+    "Timestamp": "2025-07-10T21:02:06",
+    "Domain": "quuxplusone.github.io",
+    "Description": "On StackExchange,\nsomeone asks why programmers talk about “calling” a function. Several possible allusions spring to mind:\n\n\n  Calling a function is like calling on a friend — we go, we stay a while, we come back.\n  Calling a function is like calling for a servant — a summoning to perform a task.\n  Calling a function is like making a phone call — we ask a question and get an answer from outside ourselves.\n\n\nThe true answer seems to be the middle one — “calling” as in “calling up, summoning” —\nbut indirectly, originating in the notion of “calling for” a subroutine out of a library of subroutines\nin the same way that we’d “call for” a book out of a closed-stack library of books.\n"
+  },
+  {
+    "Title": "Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity",
+    "Url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "Timestamp": "2025-07-10T20:02:28",
+    "Domain": "metr.org",
+    "Description": "We conduct a randomized controlled trial (RCT) to understand how early-2025 AI tools affect the productivity of experienced open-source developers working on their own repositories. Surprisingly, we find that when developers use AI tools, they take 19% longer than without—AI makes them slower. We view this result as a snapshot of early-2025 AI capabilities in one relevant setting; as these systems continue to rapidly evolve, we plan on continuing to use this methodology to help estimate AI acceleration from AI R&D automation 1."
+  },
+  {
+    "Title": "GitHub - W1LDN16H7/JPL: The JSON Programming Language",
+    "Url": "https://github.com/W1LDN16H7/JPL",
+    "Timestamp": "2025-07-10T19:02:16",
+    "Domain": "github.com",
+    "Description": "The JSON Programming Language. Contribute to W1LDN16H7/JPL development by creating an account on GitHub."
+  },
+  {
+    "Title": "Significant drop in code quality after recent update",
+    "Url": "https://forum.cursor.com/t/significant-drop-in-code-quality-after-recent-update/115651",
+    "Timestamp": "2025-07-10T19:02:16",
+    "Domain": "forum.cursor.com",
+    "Description": "Hey everyone,  After the last Cursor update, I’ve noticed the code suggestions have gotten way worse. Before, it used to generate clean, well-structured code that followed good practices. Now the code feels really basic, sloppy, and sometimes just wrong.  For example:   It used to generate proper Laravel controllers, with form requests, policies, and clean separation. Now it just dumps everything into one messy controller. Blade views used to use my project’s layouts and components properly, sty..."
+  },
+  {
+    "Title": "b - Browser Model Context Protocol",
+    "Url": "https://mcp-b.ai/",
+    "Timestamp": "2025-07-10T13:02:10",
+    "Domain": "mcp-b.ai",
+    "Description": "Today's AI automation is like using a robot to read your screen and click buttons. MCP-B gives AI direct access to your website's functions instead."
+  }
+]

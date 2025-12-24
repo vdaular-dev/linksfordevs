@@ -1,0 +1,296 @@
+[
+  {
+    "Title": "Apache Kafka and Tinybird (ClickHouse) for Streaming Analytics and HTTP APIs",
+    "Url": "https://www.kai-waehner.de/blog/2024/04/04/apache-kafka-and-tinybird-clickhouse-for-streaming-analytics-http-apis/",
+    "Timestamp": "2024-04-04T22:01:49",
+    "Domain": "www.kai-waehner.de",
+    "Description": "Blog about architectures, best practices and use cases for data streaming, analytics, hybrid cloud infrastructure, internet of things, crypto, and more"
+  },
+  {
+    "Title": "Actual Automation",
+    "Url": "https://samwing.dev/posts/dQ3wKkKozhyI",
+    "Timestamp": "2024-04-04T22:01:45",
+    "Domain": "samwing.dev",
+    "Description": "Post titled \"Actual Automation\""
+  },
+  {
+    "Title": "xz backdoor - Dmitry Kudryavtsev",
+    "Url": "https://www.yieldcode.blog/post/xz-backdoor/",
+    "Timestamp": "2024-04-04T22:01:45",
+    "Domain": "www.yieldcode.blog",
+    "Description": "\nA malicious backdoor was discovered in xz library that implements LZMA compression.\nxz, among many other places, is used, indirectly, in sshd.\nMy attempt to explain what happened.\n\n"
+  },
+  {
+    "Title": "Against URL-Based Content Rendering - Susam Pal",
+    "Url": "https://susam.net/against-url-based-content-rendering.html",
+    "Timestamp": "2024-04-04T22:01:44",
+    "Domain": "susam.net",
+    "Description": "By Susam Pal on 31 Jan 2022"
+  },
+  {
+    "Title": "Use OpenVPN as a proxy to more comfortably access internal Gitlab",
+    "Url": "https://blog.kulman.sk/use-openvn-as-proxy/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "blog.kulman.sk",
+    "Description": "I currently work on a project that uses a self hosted Gitlab instance for git and this Gitlab instance can be only accessed after connecting to the company’s OpenVPN.\nI did not want to be connected to OpenVPN all the time from my machine, especially this being a side project that I do not work on every day.\nEvery time I needed to push or pull code or create or review a PR I connected to OpenVPN, did what I need to do, disconnected."
+  },
+  {
+    "Title": "a client-side exception has occurred",
+    "Url": "https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "garrit.xyz",
+    "Description": "Application error: a client-side exception has occurred (see the browser console for more information)."
+  },
+  {
+    "Title": "Yi-34B, Llama 2, and common practices in LLM training: a fact check of the New York Times",
+    "Url": "https://blog.eleuther.ai/nyt-yi-34b-response/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "blog.eleuther.ai",
+    "Description": "Setting the record straight regarding Yi-34B and Llama 2."
+  },
+  {
+    "Title": "Abstraction is much more than interfaces",
+    "Url": "https://andreiboar.com/posts/abstraction-is-much-more-than-interfaces/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "andreiboar.com",
+    "Description": "When people learn about abstraction, they usually focus on the means used to achieve it: abstract classes, objects, functions, or interfaces.\nThey read that abstraction is used to hide background details or unnecessary implementation of the data so that users see only the required information.\nIt makes sense. When you drive a car you don’t care how it’s implemented, you only want to drive from Point A to Point B."
+  },
+  {
+    "Title": "Please return my property.",
+    "Url": "https://jeffbayer.com/blog/please-return-my-property/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "jeffbayer.com",
+    "Description": "California Attorney General Rob Bonta, Please return my property – as I have asked through your official contact form, by email (with read receipts), and by phone many times, and have been in…"
+  },
+  {
+    "Title": "The Video That Inspired Me To Create Odin",
+    "Url": "https://www.gingerbill.org/article/2024/04/04/video-that-inspired-odin/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "www.gingerbill.org",
+    "Description": "[Originally from a Twitter Thread]\nOriginal Twitter Post\nMany people may not know this but this video by Sean Barrett @nothings is partially the reason why I made the Odin programming language.\nAnd I’ll explain what insights it gave me in this thread 🧵.\nA lot of these seem “so obvious” but for some reason it never clicked to me before this video. A lot of the “higher level” “scripting” languages are not that much higher level than C."
+  },
+  {
+    "Title": "How to take down production with a single Helm command",
+    "Url": "https://ounapuu.ee/posts/2024/04/04/helm-rollbljat/",
+    "Timestamp": "2024-04-04T22:01:43",
+    "Domain": "ounapuu.ee",
+    "Description": "Incident? No, I prefer to call it a 'premature deprecation event'."
+  },
+  {
+    "Title": "When and how to move from an assumption to a hypothesis",
+    "Url": "https://grillopress.github.io/2024/03/12/moving-from-an-assumption-to-a-hypothesis.html",
+    "Timestamp": "2024-04-04T22:01:42",
+    "Domain": "grillopress.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "PostgreSQL and its annoying crosstab",
+    "Url": "https://blog.aurelianix.com/2024/04/04/postgresql-and-its-annoying-crosstab/",
+    "Timestamp": "2024-04-04T22:01:42",
+    "Domain": "blog.aurelianix.com",
+    "Description": "Today, I had to pivot (pun intended) from my usual tasks to help a colleague with a query. The task is deceptively simple: Collect metadata about all columns of a table in a single query. This was to be a function in PostgreSQL that would return a table with the following columns:"
+  },
+  {
+    "Title": "Measuring your system’s performance using software (Go edition) – Daniel Lemire's blog",
+    "Url": "https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/",
+    "Timestamp": "2024-04-04T22:01:41",
+    "Domain": "lemire.me",
+    "Description": "When programming software, we are working over an abstraction over a system. The computer hardware may not know about your functions, your variables, and your data. It may only see bits and instructions. Yet to write efficient software, the programmer needs to be aware of the characteristics of the underlying system. Thankfully, we can also use the software itself to observe the behavior of the system through experiments."
+  },
+  {
+    "Title": "Joining Polar as an Advisor",
+    "Url": "https://mitchellh.com/writing/polar",
+    "Timestamp": "2024-04-04T22:01:41",
+    "Domain": "mitchellh.com",
+    "Description": "I'm excited to share that I've joined Polar as an advisor. The opening text of\nthe Polar website at the time of writing is \"Get paid coding on your\npassion.\" This is a deeply personal mission to me. I want to share\nsome of my personal history and how it led to becoming an advisor for Polar."
+  },
+  {
+    "Title": "Robot Slide Whistle Orchestrion - mitxela.com",
+    "Url": "https://mitxela.com/projects/slide2",
+    "Timestamp": "2024-04-04T22:01:40",
+    "Domain": "mitxela.com",
+    "Description": "Army of Robot Slide Whistles"
+  },
+  {
+    "Title": "dotNetDave Story: The Critical Importance of Addressing Performance Before Product Release",
+    "Url": "https://dotnettips.wordpress.com/2024/04/04/dotnetdave-story-the-critical-importance-of-addressing-performance-before-product-release/",
+    "Timestamp": "2024-04-04T22:01:40",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "dotNetDave Story: The Critical Importance of Addressing Performance Before Product Release,’ I recount a personal anecdote from my time at a San Diego-based company, highlighting the conseque…"
+  },
+  {
+    "Title": "LLM Task-Specific Evals that Do & Don't Work",
+    "Url": "https://eugeneyan.com/writing/evals/",
+    "Timestamp": "2024-04-04T22:01:39",
+    "Domain": "eugeneyan.com",
+    "Description": "Evals for classification, summarization, translation, copyright regurgitation, and toxicity."
+  },
+  {
+    "Title": "HTTP/2 `CONTINUATION` Flood",
+    "Url": "https://nowotarski.info/http2-continuation-flood/",
+    "Timestamp": "2024-04-04T22:01:39",
+    "Domain": "nowotarski.info",
+    "Description": "What is the CONTINUATION Flood? It is a new class of vulnerabilities in multiple implementations of HTTP/2 protocol. The root cause is an incorrect handling of HEADERS and multiple CONTINUATION frames which ultimately leads to Denial of Service.\nThe outcome depends on the implementation but ranges from instant crash after sending a couple of HTTP/2 frames, Out Of Memory crash, to CPU exhaustion affecting server availability.\nMore technical details can be found in HTTP/2 CONTINUATION Flood: Technical Details post."
+  },
+  {
+    "Title": "Optimizing rendering of 100,000+ HTML nodes",
+    "Url": "https://dimden.dev/blog/?id=13-optimizing-rendering-of-100k-html-nodes",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "dimden.dev",
+    "Description": "My website and blog."
+  },
+  {
+    "Title": "Demystifying HTTP with Telnet – Ian's notes",
+    "Url": "https://ivdl.co.za/2024/02/19/demystifying-http-with-telnet/",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "ivdl.co.za",
+    "Description": "Established in 2020, this site serves as a memory bank of notes and guides for me to reference again down the line, made public with the knowledge that others are likely to encounter simillar situations, especially in niche environments."
+  },
+  {
+    "Title": "Performance insights: Engineering for high performance",
+    "Url": "https://hkupty.github.io/penna/blog/performance-insights-specialized/",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "hkupty.github.io",
+    "Description": "The performance of our projects is a byproduct of the process we adopt developing it"
+  },
+  {
+    "Title": "Introducing selfh.st/apps, a Directory of Self-Hosted Software",
+    "Url": "https://selfh.st/blog/introducing-selfhst-apps/",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "selfh.st",
+    "Description": "A directory of self-hosted software and applications for easy browsing"
+  },
+  {
+    "Title": "Exploring Batch Caching of Trees",
+    "Url": "https://blog.julik.nl/2024/04/batch-caching-of-trees",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "blog.julik.nl",
+    "Description": "From my other posts it might seem that I am a bit of a React hater - not at all. React and related frameworks have introduced a very powerful concept into the web development field - the concept of materialised trees. In fact, we have been dealing with those in Rails for years now as well. Standard Rails rendering has been a cornerstone of dozens of applications to date, and continues to be so. But once you see “trees everywhere” it is hard not to think about optimising using trees. So let me share an idea I’ve had recently which might as well be very neat."
+  },
+  {
+    "Title": "XDP for Game Programmers",
+    "Url": "https://mas-bandwidth.com/xdp-for-game-programmers/",
+    "Timestamp": "2024-04-04T22:01:38",
+    "Domain": "mas-bandwidth.com",
+    "Description": "Learn how you can use XDP/eBPF to get maximum bandwidth for your applications."
+  },
+  {
+    "Title": "Reverse engineering Bandcamp authentication protocol",
+    "Url": "https://mijailovic.net/2024/04/04/bandcamp-auth/",
+    "Timestamp": "2024-04-04T22:01:37",
+    "Domain": "mijailovic.net",
+    "Description": "Did you know that the albums you purchase on Bandcamp can disappear from your collection\nwithout notice? This can happen for various reasons. For example, a seller might\ndecide on a whim to remove the album from the platform. Bandcamp apparently\nallows this in their terms of use:"
+  },
+  {
+    "Title": "XZ Backdoor: Not the End of Open Source",
+    "Url": "https://beny23.github.io/posts/xz_backdoor_is_not_the_end_of_open_source/",
+    "Timestamp": "2024-04-04T22:01:37",
+    "Domain": "beny23.github.io",
+    "Description": "When I stumbled across a post that an encryption library offers a potential backdoor to SSH connectivity on Good Friday, my first thought was: why is it always on a Friday that these things drop? And then my second one: oh bugger, here goes my weekend. Now, I won’t go into the technical details, there are many, many, many, many better resources out there, but I can’t help thinking that this would/should force the software industry to think."
+  },
+  {
+    "Title": "Linux shellcraft: the pipe trick",
+    "Url": "https://joev.dev/posts/linux-shellcraft-pipe-tricks",
+    "Timestamp": "2024-04-04T22:01:37",
+    "Domain": "joev.dev",
+    "Description": "This article covers a useful shell scripting technique on Linux that allows for getting read and write handles to a pipe in a shell process's memory."
+  },
+  {
+    "Title": "Oneiblog",
+    "Url": "https://oneirical.github.io/bevyrage/",
+    "Timestamp": "2024-04-04T22:01:37",
+    "Domain": "oneirical.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "Create a Custom Static Code Analysis Rule for Azure SQL Database / SQL Server with .NET",
+    "Url": "https://erikej.github.io/dacfx/dotnet/2024/04/04/dacfx-rules.html",
+    "Timestamp": "2024-04-04T18:01:03",
+    "Domain": "erikej.github.io",
+    "Description": "This walkthrough demonstrates the steps used to create a SQL Server Code Analysis rule. The rule created in this walkthrough is used to avoid WAITFOR DELAY statements in stored procedures, triggers, and functions."
+  },
+  {
+    "Title": "It rather involved being on the other side of this airtight hatchway: System corruption caused by an administrator - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240404-00/?p=109612",
+    "Timestamp": "2024-04-04T17:01:07",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "If your goal was to corrupt the system, you sure are doing it the hard way."
+  },
+  {
+    "Title": "autoconf makes me think we stopped evolving too soon",
+    "Url": "https://rachelbythebay.com/w/2024/04/02/autoconf/",
+    "Timestamp": "2024-04-04T17:01:06",
+    "Domain": "rachelbythebay.com",
+    "Description": "I've gotten a few bits of feedback asking for my thoughts and/or \nreactions to the whole \"xz backdoor\" thing that happened over the past \ncouple of days.  Most of my thoughts on the matter apply to autoconf and \nfriends, and they aren't great."
+  },
+  {
+    "Title": "Anatomy of a credit card rewards program",
+    "Url": "https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/",
+    "Timestamp": "2024-04-04T14:01:03",
+    "Domain": "www.bitsaboutmoney.com",
+    "Description": "Credit card rewards are mostly funded out of interchange, a fee paid by businesses to accept cards."
+  },
+  {
+    "Title": "German state moving 30,000 PCs to LibreOffice - The Document Foundation Blog",
+    "Url": "https://blog.documentfoundation.org/blog/2024/04/04/german-state-moving-30000-pcs-to-libreoffice/",
+    "Timestamp": "2024-04-04T13:01:03",
+    "Domain": "blog.documentfoundation.org",
+    "Description": "Following a successful pilot project, the northern German federal state of Schleswig-Holstein has decided to move from Microsoft Windows and Microsoft Office to Linux and LibreOffice (and other free and open source software) on the 30,000 PCs used in the local government. As reported on the homepage of the Minister-President: Independent, sustainable, secure: Schleswig-Holstein will […]"
+  },
+  {
+    "Title": "Examples of Composition in C# – A Simple Guide for Beginners",
+    "Url": "https://www.devleader.ca/2024/04/04/examples-of-composition-in-csharp-a-simple-guide-for-beginners/",
+    "Timestamp": "2024-04-04T13:01:02",
+    "Domain": "www.devleader.ca",
+    "Description": "Check these examples of composition in C#! Learn about composition in object-oriented programming with these simple code examples in C# - perfect for beginners!"
+  },
+  {
+    "Title": "A disk so full, it couldn’t be restored",
+    "Url": "https://sixcolors.com/post/2024/03/a-disk-so-full-it-couldnt-be-restored/",
+    "Timestamp": "2024-04-04T12:00:59",
+    "Domain": "sixcolors.com",
+    "Description": "My younger child’s MacBook Pro was unsalvageably full. Only a complete wipe would suffice—and then Time Machine failed us. I love my children, but they do sometimes forget what I do for a living: a…"
+  },
+  {
+    "Title": "Boosting Performance and Memory Efficiency: Introducing ToDelimitedString() with Source Generators in Spargine",
+    "Url": "https://dotnettips.wordpress.com/2024/04/04/boosting-performance-and-memory-efficiency-introducing-todelimitedstring-with-source-generators-in-spargine/",
+    "Timestamp": "2024-04-04T09:01:00",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "The article introduces a method called ToDelimitedString() in programming, using a StringBuilder and commas to create a delimited string. Benchmark results indicate that this method is 1.23 times m…"
+  },
+  {
+    "Title": "[HOWTO] Suggest changes directly in Azure DevOps pull requests",
+    "Url": "https://blog.rufer.be/2024/04/04/howto-suggest-changes-directly-in-azure-devops-pull-requests/",
+    "Timestamp": "2024-04-04T09:00:59",
+    "Domain": "blog.rufer.be",
+    "Description": "Azure DevOps allows proposing changes directly in pull requests, simplifying the process of suggesting small alterations like translations or formatting. Users can mark the part needing a change, c…"
+  },
+  {
+    "Title": ".NET MAUI Community Standup",
+    "Url": "https://egvijayanand.in/2024/04/04/dotnet-maui-community-standup-april-2024/",
+    "Timestamp": "2024-04-04T08:01:01",
+    "Domain": "egvijayanand.in",
+    "Description": "The topic for this month’s .NET MAUI community standup is so interesting, Testing your MAUI Apps ft. Gerald Versluis. Remember to join live on Thu, Apr 4 at 17:00 UTC. Click the link to access the …"
+  },
+  {
+    "Title": "GitHub - nilsherzig/LLocalSearch: This is a completely locally running meta search engine using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+    "Url": "https://github.com/nilsherzig/LLocalSearch",
+    "Timestamp": "2024-04-04T06:01:04",
+    "Domain": "github.com",
+    "Description": "This is a completely locally running meta search engine using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of th..."
+  },
+  {
+    "Title": "Terraform makes carbon neutral natural gas",
+    "Url": "https://terraformindustries.wordpress.com/2024/04/01/terraform-makes-carbon-neutral-natural-gas/",
+    "Timestamp": "2024-04-04T06:01:02",
+    "Domain": "terraformindustries.wordpress.com",
+    "Description": "We did it! After two years of hard work we hold in our hands hard proof that the incredible team at Terraform can make synthetic natural gas from sunlight and air, as reported in TechCrunch. Last W…"
+  },
+  {
+    "Title": "Introducing Jpegli: A New JPEG Coding Library",
+    "Url": "https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html",
+    "Timestamp": "2024-04-04T05:01:16",
+    "Domain": "opensource.googleblog.com",
+    "Description": "Jpegli, an advanced JPEG coding library that maintains high backward compatibility is faster, and more efficient, than traditional JPEG."
+  }
+]

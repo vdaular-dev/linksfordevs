@@ -1,0 +1,324 @@
+[
+  {
+    "Title": "So Just How Much Faster Is Visual Studio 2022 17.4? -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/11/21/vs-2022-17-4-performance.aspx",
+    "Timestamp": "2022-11-21T23:03:15",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "It has speedier find in files, branch switching, configuration changes, unit testing, C++ indexing and file saving."
+  },
+  {
+    "Title": "Boring Innovation - Artur Piszek",
+    "Url": "https://piszek.com/2022/11/21/disruption-vs-boring-innovation/",
+    "Timestamp": "2022-11-21T22:02:38",
+    "Domain": "piszek.com",
+    "Description": "Real progress is boring, unsexy and incremental. It's time for some boring innovation."
+  },
+  {
+    "Title": "Just Say No To Unreasonable On-Call - Bill Prin's Tech Blog",
+    "Url": "https://billprin.com/2022/11/21/just-say-no.html",
+    "Timestamp": "2022-11-21T22:02:37",
+    "Domain": "billprin.com",
+    "Description": "Why you should just say no to unreasonable on-call expectations "
+  },
+  {
+    "Title": "World Cup 2022 predictions",
+    "Url": "https://selbydavid.com/2022/11/20/world-cup-2022/",
+    "Timestamp": "2022-11-21T22:02:37",
+    "Domain": "selbydavid.com",
+    "Description": "Sports prediction has exploded in the last couple of decades with entire journals, conferences and books devoted to it.\nMuch of this focuses on utilising ever-greater amounts of data, with soccer, for example, now providing sub-second ball and player tracking data.\nBut sometimes it is nice to try to do more with less.\nHere we (Ian Hamilton, Stefan Stein and David Selby) describe a method that we applied to predict the results (indeed all possible match outcomes) of the Euro 2020 football tournament, that took just 120 data points and two linear regressions, yet managed to beat the market over the course of the tournament (based on the accumulated log-loss of match outcomes against predictions taken from the market odds immediately prior to the match)."
+  },
+  {
+    "Title": "To be named a winner... — Francisco Presencia",
+    "Url": "https://francisco.io/blog/to-be-named-a-winner/",
+    "Timestamp": "2022-11-21T22:02:37",
+    "Domain": "francisco.io",
+    "Description": "Some random text inspired by The Little Prince, I wanted to try this written style for a small piece and here it is."
+  },
+  {
+    "Title": "CVE-2022-41924 - RCE in Tailscale, DNS Rebinding, and You",
+    "Url": "https://emily.id.au/tailscale",
+    "Timestamp": "2022-11-21T22:02:35",
+    "Domain": "emily.id.au",
+    "Description": "TL;DR Recommendations"
+  },
+  {
+    "Title": "The Missing Middle in Tech Education",
+    "Url": "https://amedee.me/missing-middle/",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "amedee.me",
+    "Description": "Why isn't there anything between a 4 year CS degree and a 3 month bootcamp?"
+  },
+  {
+    "Title": "Software²",
+    "Url": "https://blog.minch.co/2022/11/15/software-squared.html",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "blog.minch.co",
+    "Description": "We are currently at the cusp of transitioning from “learning from data” to “learning what data to learn from” as the central focus of AI research. State-of-the-art deep learning models, like GPT‑[X] and Stable Diffusion, have been described as data sponges,1 capable of modeling immense amounts of data.2 These large generative models, many based on the transformer architecture, can model massive datasets, learning to produce images, video, audio, code, and data in many other domains at a quality that begins to rival that of samples authored by human experts. Growing evidence suggests the generality of such large models is largely limited by the quality of the training data. Yet, mainstream training practices are not inherently data-seeking. Instead, they ignore the specific quality of information within the training data in favor of maximizing data quantity. This discrepancy hints at a likely, major shift in research focus in the coming years, toward innovating directly on data collection and generation as a principal way to improve model performance. To our knowledge, the term “data sponge” was first coined in Eric Jang’s excellent article, “Just Ask for Generalization.” https://evjang.com/2021/10/23/generalization.html. ↩ The recent Stable Diffusion model effectively compresses approximately 100GB of training data into a mere 2GB of model weights. ↩"
+  },
+  {
+    "Title": "Why Ed-tech Startups Don't Scale",
+    "Url": "https://giansegato.com/essays/why-edtech-startups-dont-scale",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "giansegato.com",
+    "Description": "I have yet to find a sucessful ed-tech model that works at scale. Issue abound. Often it comes down to how ed-tech growsn and how it monetizes its audience. Let's start with growth:"
+  },
+  {
+    "Title": "Why CVE-2022-3602 was not detected by fuzz testing",
+    "Url": "https://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "allsoftwaresucks.blogspot.com",
+    "Description": "So recently a very hyped memory corruption security vulnerability was discovered in the OpenSSL punycode parser. Some folks including Hanno ..."
+  },
+  {
+    "Title": "When risk can pay off",
+    "Url": "https://louisabraham.github.io/articles/when-risk-can-pay-off.html",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "louisabraham.github.io",
+    "Description": "Let’s start with a brain teaser. We consider 3 Gaussian random variables N(μ,σ) defined by their mean and standard deviation: A∼N(0,1), B∼N(0,10) and C∼N(1,1). You have to bet on which variable has the highest value. What would you bet on?"
+  },
+  {
+    "Title": "The Evolution of a Career, From an Individual Contributor to a Leader | Hennessey Digital",
+    "Url": "https://hennessey.com/blog/the-evolution-of-a-career/",
+    "Timestamp": "2022-11-21T22:02:34",
+    "Domain": "hennessey.com",
+    "Description": "Hennessey Digital President & COO Scott Shrum breaks down the evolution of a career, from learning and doing to managing and learning."
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/always-use-closed-open-intervals",
+    "Timestamp": "2022-11-21T22:02:33",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "Om's Observations",
+    "Url": "https://omajoshi.com/blog/14/",
+    "Timestamp": "2022-11-21T22:02:33",
+    "Domain": "omajoshi.com",
+    "Description": "November 05, 2022"
+  },
+  {
+    "Title": "Keyboards I’ve used in the past two decades",
+    "Url": "https://arslan.io/2022/11/21/keyboards-i-have-used-in-the-past-two-decades/",
+    "Timestamp": "2022-11-21T22:02:33",
+    "Domain": "arslan.io",
+    "Description": "I have used many keyboards over the years. Some of those were standard OEM keyboards you would probably have seen and used all the time. But at some point, I started trying out different designs and wanted to type faster and be more productive. Allow me to share some of"
+  },
+  {
+    "Title": "the internet, by Neuenet/ · a blog",
+    "Url": "https://blog.neuenet.com/post/setup-handshake-full-node-systemd",
+    "Timestamp": "2022-11-21T22:02:33",
+    "Domain": "blog.neuenet.com",
+    "Description": "Low maintenance - this is the way"
+  },
+  {
+    "Title": "You’re Not Going Anywhere",
+    "Url": "https://borretti.me/article/youre-not-going-anywhere",
+    "Timestamp": "2022-11-21T22:02:32",
+    "Domain": "borretti.me",
+    "Description": "Twitter, Dante, and the World State."
+  },
+  {
+    "Title": "Peasants and Kings",
+    "Url": "https://cmdli.github.io/blog/peasants-and-kings/",
+    "Timestamp": "2022-11-21T22:02:32",
+    "Domain": "cmdli.github.io",
+    "Description": "November 20 2022"
+  },
+  {
+    "Title": "Wichtig - Sicherheitsvorfall bei noez.de / Important",
+    "Url": "https://noez.de/de/announcements/1616/wichtig-sicherheitsvorfall-bei-noez-de-important-security-incident-at-noez-de",
+    "Timestamp": "2022-11-21T20:02:47",
+    "Domain": "noez.de",
+    "Description": "English version below\nDringende Empfehlung: Ändere umgehend sämtliche Zugangsdaten zu Deinen Services bei noez.de\nLieber Nutzer von noez.de,\nwir möchten Dich mit diesem Beitrag über einen Sicherheitsvorfall bei noez.de informieren.\nIm Rahmen von Administrationsarbeiten haben wir kürzlich Anhaltspunkte für einen Zugang zu einem unserer Systeme finden können, den wir nicht..."
+  },
+  {
+    "Title": "Creating JSON Web Tokens using dotnet user-jwts tool",
+    "Url": "https://dotnetthoughts.net/creating-jwt-using-dotnet-user-jwts/",
+    "Timestamp": "2022-11-21T19:02:00",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about creating JSON Web Tokens in development with dotnet user-jwts CLI tool. This tool introduced last year - recently I saw some demo using this tool and it was awesome. So I explored it and started using it in projects. The dotnet user-jwts command line tool can create and manage app specific local JSON Web Tokens (JWTs)."
+  },
+  {
+    "Title": "Visual Studio 2022 Performance Enhancements 17.4",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-performance-enhancements-17-4/",
+    "Timestamp": "2022-11-21T19:01:59",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Every new Visual Studio release includes new performance improvements that make the product faster and more responsive. 17.4 has some significant improvements across common scenarios like  Find in Files, Branch switching, configuration changes, unit testing, C++ indexing and file saving. We use product telemetry from our GA releases to set baselines,"
+  },
+  {
+    "Title": "Change in Slope",
+    "Url": "https://xkcd.com/2701/",
+    "Timestamp": "2022-11-21T17:02:40",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "The new .NET Exception that should NEVER be thrown",
+    "Url": "https://youtube.com/watch?v=s_NrqRI7Gnc",
+    "Timestamp": "2022-11-21T15:02:19",
+    "Domain": "youtube.com",
+    "Description": "Until the 28th of Nov 2022 use discount code BF2022 for up to 25% offat: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patr..."
+  },
+  {
+    "Title": "What kind of caller diagnostic information can I get from exceptions thrown by C++/WinRT and wil?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221121-00/?p=107429",
+    "Timestamp": "2022-11-21T15:02:17",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "A survey of the current state of the art."
+  },
+  {
+    "Title": "Killing all child processes when the parent exits (Job Object) - Gérald Barré",
+    "Url": "https://www.meziantou.net/killing-all-child-processes-when-the-parent-exits-job-object.htm",
+    "Timestamp": "2022-11-21T15:02:17",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to kill all child processes when the parent process exits in a .NET application on Windows using a Job Object."
+  },
+  {
+    "Title": "Use the IDE to make a Fluxor CRUD Application | Blazor IDE Part 2",
+    "Url": "https://youtube.com/watch?v=r2XaCISF4dQ",
+    "Timestamp": "2022-11-21T14:01:42",
+    "Domain": "youtube.com",
+    "Description": "Email Me:    -hunterfreemandev@gmail.comGitHub repos    -BlazorStudio: https://github.com/huntercfreeman/BlazorStudio    -Blazor.Text.Editor: https://github...."
+  },
+  {
+    "Title": "Invidious",
+    "Url": "https://inv.vern.cc/feed/popular",
+    "Timestamp": "2022-11-21T14:01:40",
+    "Domain": "inv.vern.cc",
+    "Description": "An alternative front-end to YouTube"
+  },
+  {
+    "Title": "HashSet vs SortedSet in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-hashset-vs-sortedset/",
+    "Timestamp": "2022-11-21T11:02:31",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to compare the HashSet and SortedSet classes in C#, looking at the similarities and differences."
+  },
+  {
+    "Title": "333: How to REALLY ship apps",
+    "Url": "https://www.mergeconflict.fm/333",
+    "Timestamp": "2022-11-21T11:02:07",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "Signing, provisioning, certificates, oh my! We break down what you need to know on how to really ship apps to the app store."
+  },
+  {
+    "Title": "Tagged Strings in Visual Studio and .NET 7 ",
+    "Url": "https://www.infoq.com/news/2022/11/visual-studio-tagged-strings/",
+    "Timestamp": "2022-11-21T10:02:56",
+    "Domain": "www.infoq.com",
+    "Description": "As part of .NET 7, developers now have the ability to tag strings using the StringSyntax attribute. These tags inform tools such as Visual Studio as to the nature of the string. For example, you can mark the string as containing JSON or RegEx and Visual Studio will apply the appropriate syntax highlighting."
+  },
+  {
+    "Title": "Use multiple Azure AD access tokens in an ASP.NET Core API",
+    "Url": "https://damienbod.com/2022/11/21/use-multiple-azure-ad-access-tokens-in-an-asp-net-core-api/",
+    "Timestamp": "2022-11-21T10:02:55",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to setup an ASP.NET Core application to authorize multiple access tokens from different Azure AD App registrations. Each endpoint can only accept a single AAD access token an…"
+  },
+  {
+    "Title": "Invidious",
+    "Url": "https://y.com.sb/feed/popular",
+    "Timestamp": "2022-11-21T08:04:35",
+    "Domain": "y.com.sb",
+    "Description": "An alternative front-end to YouTube"
+  },
+  {
+    "Title": "Why and how you should use AWS SDK for JavaScript (v3) on Node.js 18 | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/developer/why-and-how-you-should-use-aws-sdk-for-javascript-v3-on-node-js-18/",
+    "Timestamp": "2022-11-21T06:02:11",
+    "Domain": "aws.amazon.com",
+    "Description": "The Node.js 18.x runtime was promoted to Active Long Term Support (LTS) on October 25th, 2022, and is now available in AWS Lambda. The AWS SDK for JavaScript (v3) is included by default in AWS Lambda Node.js 18 runtime as a convenience for developers building simpler functions. You can read about features in Node.js 18 […]"
+  },
+  {
+    "Title": "Cloud-Native Application Security - DZone Refcardz",
+    "Url": "https://dzone.com/refcardz/cloud-native-application-security-1",
+    "Timestamp": "2022-11-21T06:02:11",
+    "Domain": "dzone.com",
+    "Description": "This Refcard introduces the critical components of cloud-native application security, how to build security into the CI/CD pipeline, and core patterns and anti-patterns."
+  },
+  {
+    "Title": "How to publish .NET 7 apps directly to Docker",
+    "Url": "https://dateo-software.de/blog/publish-net-apps-to-docker",
+    "Timestamp": "2022-11-21T06:02:10",
+    "Domain": "dateo-software.de",
+    "Description": "With .NET 7 being around for only a couple of days now, there are plenty of new features to be played with.\nOne of these is the actual ability of .NET's build infrastructure to directly publish your applications to a Docker container registry (or any other container registry, for that matter), without having to explicitly specify a Docker file."
+  },
+  {
+    "Title": "Lambda Cold Starts - .NET 7 Native AOT vs .NET 6 Managed Runtime | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2022/11/lambda-cold-starts-net-7-native-aot-vs-net-6-managed-runtime/",
+    "Timestamp": "2022-11-21T06:02:10",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "The release of .NET 7 brings with it a new way to compile and run .NET code - native AOT compilation. This post compares the cold start time of a Lambda function running on .NET 7 after native AOT compilation with the cold start time of a Lambda function running on .NET 6 with the managed runtime. The results are surprisingly good."
+  },
+  {
+    "Title": "Update to Windows Subsystem for Android™ on Windows 11 (November 2022)",
+    "Url": "https://blogs.windows.com/windows-insider/2022/11/17/update-to-windows-subsystem-for-android-on-windows-11-november-2022/",
+    "Timestamp": "2022-11-21T06:02:10",
+    "Domain": "blogs.windows.com",
+    "Description": "Hello Windows Insiders,\n\nToday we are shipping an update for Windows Subsystem for Android™ on Windows 11 to all Windows Insider Dev and Beta Channels. This update (2210.40000.7.0) will improve camera, general reliability, and perf"
+  },
+  {
+    "Title": "ECMAScript proposal: source text access for `JSON.parse()` and `JSON.stringify()`",
+    "Url": "https://2ality.com/2022/11/json-parse-with-source.html",
+    "Timestamp": "2022-11-21T06:02:09",
+    "Domain": "2ality.com",
+    "Description": "In this blog post, we look at the ECMAScript proposal “JSON.parse source text access” by Richard Gibson and Mathias Bynens. It gives access to source text to two kinds of callbacks: Revivers, callbacks that are passed to JSON.parse() and post-process the data it parses. Replacers, callbacks that are passed to JSON.stringify() and pre-process data before it is stringified. We’ll examine how exactly that works and what you can do with this feature."
+  },
+  {
+    "Title": "Kelsey Hightower (@kelseyhightower@mastodon.social)",
+    "Url": "https://mastodon.social/@kelseyhightower",
+    "Timestamp": "2022-11-21T04:04:22",
+    "Domain": "mastodon.social",
+    "Description": "46 Posts, 5 Following, 3.81K Followers · Minimalist"
+  },
+  {
+    "Title": "Hachyderm.io",
+    "Url": "https://hachyderm.io/about",
+    "Timestamp": "2022-11-21T04:04:20",
+    "Domain": "hachyderm.io",
+    "Description": "Here we are trying to build a curated network of respectful professionals in the tech industry around the globe. Welcome anyone who follows the rules and needs a safe home or fresh start.\n\nWe are hackers, professionals, enthusiasts, and are passionate about life, respect, and digital freedom. We believe in peace and balance.\n\nSafe space. Tech Industry. Economics. OSINT. News. Rust. Linux. Aurae. Kubernetes. Go. C. Infrastructure. Security. LGTBQIA+. Pets. Hobbies."
+  },
+  {
+    "Title": "Nix By Example | <fun>",
+    "Url": "https://mimoo.github.io/nixbyexample/basics-hello-world.html",
+    "Timestamp": "2022-11-21T04:04:20",
+    "Domain": "mimoo.github.io",
+    "Description": "To \"nixify\" a project, it only needs a flake.nix file at its root. To create one, you can use the nix flake new command."
+  },
+  {
+    "Title": "Technical Challenges of Scale at Twitter",
+    "Url": "https://www.codingblocks.net/podcast/technical-challenges-of-scale-at-twitter/",
+    "Timestamp": "2022-11-21T03:03:13",
+    "Domain": "www.codingblocks.net",
+    "Description": "We take a peak into some of the challenges Twitter has faced while solving data problems at large scale, while Michael challenges the audience, Joe speaks from experience, and Allen blindsides them both."
+  },
+  {
+    "Title": "A Life Engineered",
+    "Url": "https://www.youtube.com/@ALifeEngineered",
+    "Timestamp": "2022-11-21T01:01:58",
+    "Domain": "www.youtube.com",
+    "Description": "Software engineers can make code do just about anything. However, they often struggle with career direction, work-life balance and finding true meaning in their jobs.\n\nAm I hitting a bit close to home? \n\nLet’s change that.\n\nI have 16 years of experience at a high-performance, high-stress FAANG company as a principal engineer (top 1%). I’ve conducted over 850 technical interviews and am an expert on the promotion/growth track for high-level, non-managerial tech leadership.\n\nIt’s time to learn how to give your career and your life the same impact that your programs create for others. I’ll be there to guide you, prod you and maybe even push you out of your comfort zone. \n\nReady to take a smart engineering approach to your career and life? \n\nLet’s do this."
+  },
+  {
+    "Title": "Let's Talk About WASM and WASI — Offline Stream #11",
+    "Url": "https://youtu.be/2qV-1JhxWeE",
+    "Timestamp": "2022-11-21T01:01:58",
+    "Domain": "youtu.be",
+    "Description": "References:- WASI: https://wasi.dev/- Rust Browser Game: https://github.com/tsoding/rust-browser-game- Simple Stack-Based Virtual Machine in C: https://gist...."
+  },
+  {
+    "Title": "Corn Kid - Green Giant",
+    "Url": "https://greengiant.com/cornkid/",
+    "Timestamp": "2022-11-21T00:02:21",
+    "Domain": "greengiant.com",
+    "Description": "Celebrate Thanksgiving with Corn Kid Corn enthusiast and internet sensation Tariq aka “Corn Kid” joins forces with Green Giant this Thanksgiving season to create delicious corn-filled dishes that are bound to be the star of the table! “Thanksgiving is practically a holiday about corn. I mean, every day could be a holiday if you get..."
+  },
+  {
+    "Title": "GitHub - chubin/cheat.sh: the only cheat sheet you need",
+    "Url": "https://github.com/chubin/cheat.sh#editors-integration",
+    "Timestamp": "2022-11-21T00:02:18",
+    "Domain": "github.com",
+    "Description": "the only cheat sheet you need. Contribute to chubin/cheat.sh development by creating an account on GitHub."
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Title": "Sqids (formerly Hashids) · Generate Short IDs from Numbers",
+    "Url": "https://sqids.org/",
+    "Timestamp": "2023-11-25T23:02:27",
+    "Domain": "sqids.org",
+    "Description": "Sqids is an open-source library that lets you generate YouTube-looking IDs from numbers. It supports 40 programming languages."
+  },
+  {
+    "Title": "Variations in the VISCA protocol",
+    "Url": "https://codeblog.jonskeet.uk/2023/11/25/variations-in-the-visca-protocol/",
+    "Timestamp": "2023-11-25T19:02:27",
+    "Domain": "codeblog.jonskeet.uk",
+    "Description": "Nearly three years ago, I posted about some fun I’d been having with VISCA using C#. As a reminder, VISCA is a camera control protocol, originally used over dedicated serial ports, but more r…"
+  },
+  {
+    "Title": "Paper: You Want My Password or a Dead Patient?",
+    "Url": "https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p",
+    "Timestamp": "2023-11-25T18:02:26",
+    "Domain": "cohost.org",
+    "Description": "This week's paper is a draft from Ross Koppel, Sean Smith, Jim Blythe, and Vijay Kothari titled Workarounds to Computer Access in Healthcare Organizations: You Want My Password or a Dead Patient? [https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf] First of all, great title. This paper is a work of ethnography, where the authors sat and studied how people in medical settings did their work interacting with computers, and denoted all sorts of workarounds they'd take to bypass security rules that they judge are a hindrance to their work.\n\nThe idea behind the paper is that clearly, people behind the computer systems are not working from a realistic understanding of what medical professionals have to contend with to do their job. And maybe, just maybe if they sat and figured out how said professionals do their work, it may be different:\n\n> Cyber security efforts in healthcare settings increasingly confront workarounds and evasions by clinicians and employees who are just trying to do their work in the face of often onerous and irrational computer security rules. These are not terrorists or black hat hackers, but rather clinicians trying to use the computer system for conventional healthcare activities. These “evaders” acknowledge that effective security controls are, at some level, important—especially the case of an essential service, such as healthcare. [...] Unfortunately, all too often, with these tools, clinicians cannot do their job—and the medical mission trumps the security mission.\n\nMostly, the idea is that computer and security experts rarely happen to also be clinical care experts. What the paper finds through observations, interviews, and reports, is that:\n\n> workarounds to cyber security are the norm, rather than the exception. They not only go unpunished, they go unnoticed in most settings—and often are taught as correct practice.\n\nThey break down workarounds in categories, and they're just amazing.\n\nAUTHENTICATION\n\nThey note endemic circumvention of password-based auth. Hospitals and clinics write down passwords everywhere, sometimes as \"sticky notes form sticky stalagmites on medical devices and medication preparation room\". They've noted things like:\n\n * entire hospitals sharing a password for a medical device (the password is taped on the device)\n * emergency rooms' supply rooms with locked doors but the code is written on the door as well\n * vendors that distribute stickers to put your password on your monitor\n * computers with all employees passwords in a word doc shortcut on the desktop\n\nSticker distributed by a health IT vendor, stating 'You may use these stickers to write your username and password, and post it on your computer monitor'. The sticker has a link to the login URL, and a line for a username and a password [https://s3.us-east-2.amazonaws.com/ferd.ca/cohost/imgur/pYBnDRx.png]\n\nIn general, this happens because no one wants to prevent a clinician from obtaining emergency supplies and someone dying because the code slipped their mind. In some cases, passwords are shared so everyone can read the same patient charts, even if they do have shared access. In some cases, bad actors can use this to mess with data.\n\nBut really even the passwords themselves are worse in healthcare. The paper states \"the US Inspection General notes that NIST will certify EHR systems as secure even if passwords are only one-character long\", for example.\n\nPassword expiry also gets a slam:\n\n> one physician colleague lamented that a practice may require a physician to do rounds at a hospital monthly—but that unfortunate expiration intervals can force the physician to spend as long at the help desk resetting an expired password as he or she then spends treating patients.\n\nDE-AUTHENTICATION\n\nThis one is neat. After you authentified someone, you need to de-auth them when they walk away so their session ends and nobody surfs on their login. In some cases forgetting to log out can lead to abuse or mistakes where people enter information for wrong patients. Unfortunately, this is often undesirable as well and so they note the following workarounds:\n\n * defeating proximity sensors by putting styrofoam cups over detectors\n * asking the most junior person on staff to keep pressing the space bar on everyone's keyboard to prevent timeouts\n * clinicians offering their logged-in session to next clinicians as a \"professional courtesy\" (even during security training sessions)\n * nurses marking their seats with sweaters or large signs with their name on them, hiding computers, or lowering laptop screens to mark them as busy\n\nOne clinician mentioned that his dictation system has a 5 minutes timeout that requires a password and that during a 14-hour day, he spends almost 1.5 hours logging in. In other cases, the auto-logout feature exists on some systems but not all of them such that sometimes staff expect to be logged out when they are not.\n\nOne specific example of such usability problem is:\n\n> A nurse reports that one hospital’s EMR prevented users from logging in if they were already logged in somewhere else, although it would not meaningfully identify where the offending session was. Unfortunately, the nursing workflow included frequent interruptions—unexpectedly calling a nurse away from her COW. The workflow also included burdensome transitions, such as cleaning and suiting up for surgery. These security design decisions and workflow issues interacted badly: when a nurse going into surgery discovered she was still logged-in, she’d either have to un-gown—or yell for a colleague in the non-sterile area to interrupt her work and go log her out.\n\nWhich is an interesting way to see how compliance requirements can interact oddly with the reality on the ground.\n\nBREAKING THE REPRESENTATION\n\nUsability problems often result in medical staff working around the system in a way that creates mismatches between reality and what the system sees reported.\n\nOne example given is that one Electronic Health Record (EHR) system forces clinicians to prescribe blood thinners to patient meeting given criteria before they can end their session, even if the patient is already on blood thinners. So clinicians have to do a risky workaround where they order a second dose of blood thinners to log out (which is lethal if the patient gets it), quit the system, then log back in to cancel the second dose.\n\nAnother example comes from a city hospital where creating a death certificate requires a doctor's digital thumbprint. Unfortunately for that hospital, there is a single doctor that has thumbs that the digital reader manages to scan, so the doctor ends up signing all the death certificates for that hospital regardless of whose patient the deceased was.\n\nThere's yet more for these mismatches:\n\n * the creation of shadow notes, paper trails that get destroyed because they are not wanted in an official formal record\n * \"nurses brain\" notes that list all tasks for a patient for their shift (something the computer does not support)\n * the creation of shadow notes because the computer doesn't allow enough precision\n * needing to note the operating room (OR) admission time precisely when the computer is 2 minutes away from there and won't allow future dates (on paper, nurses wrote now()+2 mins); so the nurse logs in, turns off the monitor, wheels the patient into the OR, then runs out to mark the record with a more accurate time\n\nNone of this is really surprising to me; any inadequate system seems to have a tendency to create its own shadow workflow that hides problems by working around them.\n\nPERMISSION MANAGEMENT\n\nAccess control plainly sucks, if I can be allowed the editorial tone:\n\n> Clinicians often have multiple responsibilities—sometimes moving between hospitals with multiple roles at each one, but accessing the same back-end EHR. Residents change services every 30 days during their training. If access is limited to one service, it needs to be reconfigured that often. However, a resident may be consulted about a former patient, to which he/she no longer has access. More frequent are clinicians who serve in multiple roles: the CMIO may need access to every patient record, not only those in her/his specific medical sub-discipline. A physician who focuses on infectious disease may also be on the committee that oversees medication errors, and thus requires access to the pharmacy IT system and the nurses medication administration system. In some hospitals, nurses sometimes authenticate as nurses and sometimes as doctors.\n\nAlso not surprised.\n\nUNDERMINING THE MEDICAL MISSION\n\nMany health IT systems are so bad they're seen as harming the medical objectives of practitioners.\n\nThe example given here is that some hospitals have tele-ICU, where patients must be monitored from distant nurse stations, which has a video feed and all the vitals relayed there. However, when bathing patients, the nurses have to cover the cameras to protect their privacy, and so the ICU can't monitor them adequately anymore.\n\nThere's also a case where a doctor couldn't find the required medication in the software. He found a custom field with free text where he noted the prescription, but the box was not visible on the other end so the prescription was never given and the patient lost half his stomach.\n\nFinally, the authors circle back on the value of ethnographic investigations to properly adapt tools to work. They end by stating:\n\n> in the inevitable conflict between even well-intended people vs. the machines and the machine rule makers, it’s the people who are more creative and motivated.\n\nI do also appreciate the 'well-intended' qualifier, and I felt like this sentence was a good way to end given current events."
+  },
+  {
+    "Title": "Visual Studio 17.9 Preview 1: Refreshed UI, Debugging, AI, Productivity and More ",
+    "Url": "https://www.infoq.com/news/2023/11/vs2022-v17-9-preview-1/",
+    "Timestamp": "2023-11-25T17:03:08",
+    "Domain": "www.infoq.com",
+    "Description": "Microsoft has released the first preview of Visual Studio version 17.9. Preview 1 brings a range of improvements and features aimed at enhancing developer productivity. Including some AI features like GitHub Copilot, IntelliSense support for Unreal Engine projects, memory management and debugging improvements and this preview version is packed with refreshed UI."
+  },
+  {
+    "Title": "How To Approach Refactoring And Tech Debt – Dev Leader Weekly 19",
+    "Url": "https://www.devleader.ca/2023/11/25/how-to-approach-refactoring-and-tech-debt-dev-leader-weekly-19/",
+    "Timestamp": "2023-11-25T15:02:56",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue we'll look at refactoring and how to effectively prioritize tech debt."
+  },
+  {
+    "Title": "REPR (Request-Endpoint-Response) Pattern and ApiEndpoints",
+    "Url": "https://youtube.com/watch?v=zK0wEh1wLj8",
+    "Timestamp": "2023-11-25T14:02:59",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Model 3 Owner's Manual | Tesla",
+    "Url": "https://www.tesla.com/ownersmanual/model3/en_us/GUID-AA58ED67-9C93-4EE6-8B19-9FDABE018787.html",
+    "Timestamp": "2023-11-25T14:02:59",
+    "Domain": "www.tesla.com",
+    "Description": "Learn about normal operating sounds and your Tesla."
+  },
+  {
+    "Title": "Look up IP, Network, and ASN data",
+    "Url": "https://ip.guide/",
+    "Timestamp": "2023-11-25T13:02:23",
+    "Domain": "ip.guide",
+    "Description": "An easy to use API for looking up IP, Network, and ASN data. Refreshed nightly from authoritative sources."
+  },
+  {
+    "Title": ".NET | Add Feature flags to your application",
+    "Url": "https://youtube.com/watch?v=N70Ucd_fsfc",
+    "Timestamp": "2023-11-25T11:02:37",
+    "Domain": "youtube.com",
+    "Description": "Free Detailed design newsletter:- https://voleinic.substack.comFeel free to support the channel on Patreon:- https://www.patreon.com/OleinicVasiliiIn this vi..."
+  },
+  {
+    "Title": "Le novità di .NET 8",
+    "Url": "https://www.eventbrite.it/e/biglietti-le-novita-di-net-8-736351115007?aff=oddtdtcreator",
+    "Timestamp": "2023-11-25T10:02:09",
+    "Domain": "www.eventbrite.it",
+    "Description": "Le novità di .NET 8"
+  },
+  {
+    "Title": "GitHub - MichalStrehovsky/uefimaze: Bare-metal bootable graphical maze game in C#",
+    "Url": "https://github.com/MichalStrehovsky/uefimaze",
+    "Timestamp": "2023-11-25T10:02:04",
+    "Domain": "github.com",
+    "Description": "Bare-metal bootable graphical maze game in C#. Contribute to MichalStrehovsky/uefimaze development by creating an account on GitHub."
+  },
+  {
+    "Title": "Hackers Claim Attack on General Electric, Leak Data Samples",
+    "Url": "https://restoreprivacy.com/hackers-claim-attack-on-general-electric-leak-data-samples/",
+    "Timestamp": "2023-11-25T04:02:59",
+    "Domain": "restoreprivacy.com",
+    "Description": "Threat actors have claimed a data breach against multinational tech giant General Electric, leading to accessing confidential data of DARPA."
+  },
+  {
+    "Title": "CICERO",
+    "Url": "https://ai.meta.com/research/cicero/",
+    "Timestamp": "2023-11-25T02:02:59",
+    "Domain": "ai.meta.com",
+    "Description": "The first AI to play at a human level in Diplomacy, a strategy game that requires building trust, negotiating and cooperating with multiple players."
+  },
+  {
+    "Title": ".NET 8's Best Blazor is not Blazor as we know it",
+    "Url": "https://servicestack.net/posts/net8-best-blazor#your-first.net-8-blazor-app",
+    "Timestamp": "2023-11-25T02:02:59",
+    "Domain": "servicestack.net",
+    "Description": "We explore the exciting new potential of Blazor in .NET 8 to develop fast, interactive Web Apps without compromise"
+  },
+  {
+    "Title": ".NET 8 and C# 12 Launch - What is New, What is Improved, and What is Supported",
+    "Url": "https://youtube.com/watch?v=mT70wtkE7DI",
+    "Timestamp": "2023-11-25T01:03:00",
+    "Domain": "youtube.com",
+    "Description": ".NET 8, C# 12, and Visual Studio 17.8 are launching tomorrow. In this video, we will look at what is being launched, how long it will be supported for, and w..."
+  },
+  {
+    "Title": "LLM finetuning memory requirements",
+    "Url": "https://blog.scottlogic.com/2023/11/24/llm-mem.html",
+    "Timestamp": "2023-11-25T01:03:00",
+    "Domain": "blog.scottlogic.com",
+    "Description": "The memory costs for LLM training are large but predictable."
+  },
+  {
+    "Title": "An important parking infrastructure decision is about to be made – and I feel like us nerds can help make it right",
+    "Url": "https://takes.jamesomalley.co.uk/p/an-important-parking-infrastructure",
+    "Timestamp": "2023-11-25T01:03:00",
+    "Domain": "takes.jamesomalley.co.uk",
+    "Description": "A side-quest for my readers awaits"
+  },
+  {
+    "Title": "Gprobe",
+    "Url": "https://zeromips.org/posts/2023-11-18-gprobe/",
+    "Timestamp": "2023-11-25T01:03:00",
+    "Domain": "zeromips.org",
+    "Description": "My very first encounter with Lukas F. Hartmann was over at the bird site. I hadn&rsquo;t heard about MNT Research or the Reform. I only saw a post where he was talking about doing a design with the STDP2600 HDMI to DisplayPort converter and I told him that this probably meant trouble."
+  },
+  {
+    "Title": "5 Awesome C# Refactoring Tips",
+    "Url": "https://www.milanjovanovic.tech/blog/5-awesome-csharp-refactoring-tips",
+    "Timestamp": "2023-11-25T01:02:59",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "Refactoring is a technique for restructuring existing code without changing its behavior. You can think of refactoring as a series of small code transformations. One change (refactoring) does little. But a sequence of refactors produces a significant transformation. There's no better way to learn refactoring than practicing. So I prepared a refactoring exercise for you."
+  },
+  {
+    "Title": "Ben Carlsson / Surprises in North China",
+    "Url": "https://twos.dev/china.html",
+    "Timestamp": "2023-11-25T01:02:59",
+    "Domain": "twos.dev",
+    "Description": "Surprises in North China"
+  },
+  {
+    "Title": "Paolo Melchiorre - Database generated columns⁽²⁾: Django & PostgreSQL",
+    "Url": "https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/",
+    "Timestamp": "2023-11-25T01:02:59",
+    "Domain": "www.paulox.net",
+    "Description": "An introduction to database generated columns, using PostgreSQL and the new GeneratedField added in Django 5.0."
+  },
+  {
+    "Title": "How to adopt Realtime updates in your app",
+    "Url": "https://zknill.io/posts/how-to-adopt-realtime/",
+    "Timestamp": "2023-11-25T01:02:58",
+    "Domain": "zknill.io",
+    "Description": "…and why you really should!\nWhat do I mean by \"Realtime\" Realtime is where clients of your app can find out about something the moment it happens, rather than having to poll/nag/ask for updates. It’s generally where the server pushes the updates to the clients the moment the updates happens, rather than the clients needing to ask for them. Realtime updates rely on two main technologies:\nWebsockets: A stateful, persistent, bi-directional ‘channel’ of communication."
+  },
+  {
+    "Title": "Consider Evaluating LLMs as Search Engines",
+    "Url": "https://win-vector.com/2023/11/24/consider-evaluating-llms-as-search-engines/",
+    "Timestamp": "2023-11-25T01:02:58",
+    "Domain": "win-vector.com",
+    "Description": "A lot is going on with current large language models (LLMs). Some of it is quite impactful, and some of it is the usual venture capital game (“we don’t stretch the truth, but we benefit…"
+  },
+  {
+    "Title": "The Bond villain compliance strategy",
+    "Url": "https://www.bitsaboutmoney.com/archive/bond-villain-compliance-strategy/",
+    "Timestamp": "2023-11-25T01:02:58",
+    "Domain": "www.bitsaboutmoney.com",
+    "Description": "Jurisdictional gamesmanship is a common strategy for crypto businesses. Here is how it worked out for Binance and its CEO. Spoiler: poorly."
+  },
+  {
+    "Title": "Registering My Hypotheses On Starting A Business — Ludicity",
+    "Url": "https://ludic.mataroa.blog/blog/registering-my-hypotheses-on-starting-a-business/",
+    "Timestamp": "2023-11-25T01:02:58",
+    "Domain": "ludic.mataroa.blog",
+    "Description": "I've mentioned that I'm starting a company with friends - no, this isn't a plug for us. The name of the company won't even be mentioned. We now have five engineers on board, one being a 15-year industry veteran, though we're all working on it part-time. Without getting into the details, I've had a very easy time succeeding in the tech industry despite moving to a country with no network and decent programming skills at best - I've done a few things that are supposed to be hard, like getting a job without a permanent work visa, within about an hour of trying, after carefully building a model of how the job market works."
+  },
+  {
+    "Title": "Ephemeral as the default in digital",
+    "Url": "https://notes.ghed.in/posts/2023/ephemeral-default-digital/",
+    "Timestamp": "2023-11-25T01:02:58",
+    "Domain": "notes.ghed.in",
+    "Description": "Those who were over 30 years old in 2013 have probably never used or even understand Snapchat."
+  },
+  {
+    "Title": "Score by Surprise",
+    "Url": "https://yuri.is/surprised/",
+    "Timestamp": "2023-11-25T01:02:57",
+    "Domain": "yuri.is",
+    "Description": "Score by Surprise"
+  },
+  {
+    "Title": "GeorgeMac",
+    "Url": "https://george.macro.re/posts/etcd-and-concurrency-stm",
+    "Timestamp": "2023-11-25T01:02:57",
+    "Domain": "george.macro.re",
+    "Description": "Personal site for George MacRorie"
+  },
+  {
+    "Title": "My essential toolkit for local data manipulation",
+    "Url": "https://blog.ignaciobrasca.com/opinion/2023/11/23/my-dataset-toolkit.html",
+    "Timestamp": "2023-11-25T01:02:57",
+    "Domain": "blog.ignaciobrasca.com",
+    "Description": "Exposing my personal data toolkit"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "Title": "Digging Into Nullable Reference Types in C#\n",
+    "Url": "https://wildermuth.com/2023/02/13/nullable-reference-types-in-csharp/",
+    "Timestamp": "2023-02-13T23:02:47",
+    "Domain": "wildermuth.com",
+    "Description": "This topic has been on my TODO: list for quite a while now. As I work with clients, many of them are just ignoring the warnings that you get from Nullable Reference Types. When Microsoft changed to make nullability the default, some developers seemed to be confused by the need.\n"
+  },
+  {
+    "Title": "Solving the Right Problem - Pooya Saeedi",
+    "Url": "https://www.saeedi.dev/solving-the-right-problem/",
+    "Timestamp": "2023-02-13T23:02:42",
+    "Domain": "www.saeedi.dev",
+    "Description": "How often do we pause to reflect on the problems we are solving every day? Why do we do them? What business value do they bring? Whether we are in a middle of a project to add a new user flow to a website, migrate to a new tech stack, or create a new data"
+  },
+  {
+    "Title": "27 Lessons Before Turning 27 | Think Nimba",
+    "Url": "https://www.thinknimba.com/p/27-lessons-turning-27",
+    "Timestamp": "2023-02-13T23:02:42",
+    "Domain": "www.thinknimba.com",
+    "Description": "The ultimate newsletter for builders"
+  },
+  {
+    "Title": "mast1c0re: Part 2 - Arbitrary PS2 code execution",
+    "Url": "https://mccaulay.co.uk/mast1c0re-part-2-arbitrary-ps2-code-execution/",
+    "Timestamp": "2023-02-13T23:02:40",
+    "Domain": "mccaulay.co.uk",
+    "Description": "In this post we develop a stack-buffer overflow exploit for the PS2 Okage: Shadow King game."
+  },
+  {
+    "Title": "Beware of fast-math",
+    "Url": "https://simonbyrne.github.io/notes/fastmath/",
+    "Timestamp": "2023-02-13T23:02:40",
+    "Domain": "simonbyrne.github.io",
+    "Description": "One of my more frequent rants, both online and in person, is the danger posed by the \"fast-math\" compiler flag. While these rants may elicit resigned acknowledgment from those who already understand the dangers involved, they do little to help those who don't. So given the remarkable paucity of writing on the topic (including the documentation of the compilers themselves), I decided it would make a good inaugural topic for this blog."
+  },
+  {
+    "Title": "Open-GitRemote: PowerShell Cmdlet to Open Git Web View",
+    "Url": "https://www.paraesthesia.com/archive/2023/02/13/open-gitremote-powershell-cmdlet/",
+    "Timestamp": "2023-02-13T23:02:38",
+    "Domain": "www.paraesthesia.com",
+    "Description": "Sometimes, when at a command prompt, I want to open the web view of a repo I have cloned. This cmdlet tries to calculate that location and open it in the system browser."
+  },
+  {
+    "Title": "Introduction to GeoJSON",
+    "Url": "https://imfeld.dev/writing/introduction_to_geojson",
+    "Timestamp": "2023-02-13T23:02:37",
+    "Domain": "imfeld.dev",
+    "Description": "Introduction to GeoJSON by Daniel Imfeld"
+  },
+  {
+    "Title": "Pepper spray your officers",
+    "Url": "https://yakkomajuri.com/blog/pepper-spray-your-officers",
+    "Timestamp": "2023-02-13T23:02:37",
+    "Domain": "yakkomajuri.com",
+    "Description": "13/02/2023"
+  },
+  {
+    "Title": "Organising Ecto schemas",
+    "Url": "https://www.stephenlewis.me/blog/organising-ecto-schemas",
+    "Timestamp": "2023-02-13T23:02:37",
+    "Domain": "www.stephenlewis.me",
+    "Description": "Placing schemas inside contexts makes it difficult to distinguish between data and actions. Let's fix that."
+  },
+  {
+    "Title": "Keeping up with The Thiel Fellows",
+    "Url": "https://www.alexkesin.com/2023/02/keeping-up-with-thiel-fellows.html",
+    "Timestamp": "2023-02-13T23:02:37",
+    "Domain": "www.alexkesin.com",
+    "Description": "The website all about a clueless guy named Alex Kesin."
+  },
+  {
+    "Title": "Analyzing How Much Time I Spend in Meetings (using SQL and Python)",
+    "Url": "https://davidgomes.com/analyzing-how-much-time-i-spend-in-meetings-using-sql-and-python/",
+    "Timestamp": "2023-02-13T23:02:36",
+    "Domain": "davidgomes.com",
+    "Description": "tl;dr: I will show you how I ran some simple analytics on my Google Calendar history over almost 7 years. I used SingleStoreDB for this, but it should be straightforward to do this with any database. Skip to the second part if you don’t care about the technical"
+  },
+  {
+    "Title": "Twitter Blue as anti-recommendations",
+    "Url": "https://erikgahner.dk/2023/twitter-blue-as-anti-recommendations/",
+    "Timestamp": "2023-02-13T23:02:34",
+    "Domain": "erikgahner.dk",
+    "Description": "I really like Twitter Blue, Twitter’s opt-in subscription that adds a blue checkmark to people’s account. I would never pay for it myself and that is the reason I like it. In brief, Twi…"
+  },
+  {
+    "Title": "Who killed Velocity? - Coline Pannier",
+    "Url": "https://colinepannier.com/who-killed-velocity/",
+    "Timestamp": "2023-02-13T23:02:34",
+    "Domain": "colinepannier.com",
+    "Description": "During an update of our courses at the Amsterdam University of Applied Sciences, I was told that we would no longer be teaching about planning poker in Scrum projects. Apparently, measuring velocity was no longer part of the orthodoxy. I found this puzzling, as I had taken the rituals of estimating and measuring velocity to […]"
+  },
+  {
+    "Title": "SREPL",
+    "Url": "https://jew.ski/article/srepl/index.html",
+    "Timestamp": "2023-02-13T23:02:34",
+    "Domain": "jew.ski",
+    "Description": "Save-Read-Eval-Print-Loop: The file is the REPL"
+  },
+  {
+    "Title": "Setting up fast Debian package builds using sbuild, mmdebstrap and apt-cacher-ng",
+    "Url": "https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/",
+    "Timestamp": "2023-02-13T23:02:33",
+    "Domain": "stephan.lachnit.xyz",
+    "Description": "In this post I will give a quick tutorial on how to set up fast Debian package builds using sbuild with mmdebstrap and apt-cacher-ng.\nThe usual tool for building Debian packages is dpkg-buildpackage, or a user-friendly wrapper like debuild, and while these are geat tools, if you want to upload something to the Debian archive they lack the required separation from the system they are run on to ensure that your packaging also works on a different system."
+  },
+  {
+    "Title": "My role as a founder CTO: Year Five",
+    "Url": "https://miguelcarranza.es/cto-year-5",
+    "Timestamp": "2023-02-13T23:02:33",
+    "Domain": "miguelcarranza.es",
+    "Description": "It’s hard to believe that five years have already gone by since RevenueCat’s inception. In a matter of weeks, RevenueCat will become the company where I have..."
+  },
+  {
+    "Title": "jmtd → log → HLedger, 1 year on",
+    "Url": "https://jmtd.net/log/hledger_1yr/",
+    "Timestamp": "2023-02-13T23:02:33",
+    "Domain": "jmtd.net",
+    "Description": "It's been a year since I started exploring HLedger, and I'm still\ngoing. The rollover to 2023 was an opportunity to revisit my approach."
+  },
+  {
+    "Title": "Monitoring - Status Dashboards",
+    "Url": "https://lanziani.com/posts/2023/02/monitoring-status-dashboards/",
+    "Timestamp": "2023-02-13T23:02:32",
+    "Domain": "lanziani.com",
+    "Description": "How many types of Dashboards do you need?"
+  },
+  {
+    "Title": "Wikimedia’s Terms of Use",
+    "Url": "https://writing.kemitchell.com/2023/02/13/Wikimedia-Terms-of-Use",
+    "Timestamp": "2023-02-13T23:02:32",
+    "Domain": "writing.kemitchell.com",
+    "Description": "thoughts from a recent review"
+  },
+  {
+    "Title": "Email Spam Detection using Pre-Trained BERT Model : Part 1",
+    "Url": "https://blog.madhukaraphatak.com/bert-email-spam-1",
+    "Timestamp": "2023-02-13T23:02:32",
+    "Domain": "blog.madhukaraphatak.com",
+    "Description": "Thoughts on technology, life and everything else."
+  },
+  {
+    "Title": "Ruby's private keyword is weird – Jake Zimmerman",
+    "Url": "https://blog.jez.io/ruby-private/",
+    "Timestamp": "2023-02-13T23:02:32",
+    "Domain": "blog.jez.io",
+    "Description": "Ruby's `private` keyword means something different compared to basically all other object-oriented languages. Most other languages don't even have a feature matching what Ruby calls `private`, but incredibly, Scala does, which it calls `protected[this]` (meaning"
+  },
+  {
+    "Title": "My 'Conversation' with ChatGPT about What Devs Need to Know -- ADTmag",
+    "Url": "https://adtmag.com/blogs/watersworks/2023/01/my-conversation-with-chatgpt.aspx",
+    "Timestamp": "2023-02-13T22:01:52",
+    "Domain": "adtmag.com",
+    "Description": "ChatGPT is so hot right now, our columnist couldn't get an interview at OpenAI, so he went to the source, so to speak, and queried the tool itself about the opportunities and challenges it presents to developers. "
+  },
+  {
+    "Title": "'Blazor United' Deep Dive Coming Tomorrow -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/02/13/blazor-united-deep-dive.aspx",
+    "Timestamp": "2023-02-13T21:02:11",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Since Microsoft's Steve Sanderson teased a prototype 'Blazor United' project last month in a video, the company has basically been mum on the subject, but that's changing with a deep dive tomorrow."
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=0f708712-22db-4eee-8c33-c3ff9c8b8845",
+    "Timestamp": "2023-02-13T21:02:10",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password length must be odd: Winter1234dog"
+  },
+  {
+    "Title": "GitHub - Pythagora-io/pythagora",
+    "Url": "https://github.com/Pythagora-io/pythagora",
+    "Timestamp": "2023-02-13T20:03:29",
+    "Domain": "github.com",
+    "Description": "Contribute to Pythagora-io/pythagora development by creating an account on GitHub."
+  },
+  {
+    "Title": "Using Xamarin and Visual Studio in Developing a Prosthetic Arm",
+    "Url": "https://youtube.com/watch?v=r4SLot_PGgg",
+    "Timestamp": "2023-02-13T19:05:25",
+    "Domain": "youtube.com",
+    "Description": "Watch the full video: https://youtu.be/KNHGeCC5sv8#shorts #xamarin #visualstudio #microsoftdeveloper #opensource #accessibility #prosthetics"
+  },
+  {
+    "Title": "Visual Studio AI-Assistance: A Developer's Best Friend",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-ai-assistance-a-developers-best-friend/",
+    "Timestamp": "2023-02-13T17:02:20",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Introduction to Visual Studio AI features. Learn how IntelliCode helps you in your software development process."
+  },
+  {
+    "Title": "On .NET Live - Azure Functions (and more!) with CosmosDB and RBAC",
+    "Url": "https://youtube.com/watch?v=HmmxVWO_488",
+    "Timestamp": "2023-02-13T16:04:12",
+    "Domain": "youtube.com",
+    "Description": "This week, we're going serverless! Community MVP George Kosmidis joins the panel to show us how to create an out-of-proc function app (and the supporting inf..."
+  },
+  {
+    "Title": "Important message from Crypto Dave",
+    "Url": "https://thislayoffdoesnotexist.com/",
+    "Timestamp": "2023-02-13T16:04:11",
+    "Domain": "thislayoffdoesnotexist.com",
+    "Description": "Crypto sent the following email to Sennheiser employees earlier today.\n\nGreetings, fellow Sennheisers! It is with a heavy heart that I must inform you that we have been forced to make the difficult decision of laying off 15% of our staff.\n\nIt’s been a long and hard road trying to make sure the company is prepared for the future and unfortunately, we have been unable to achieve this. Our ambition was to get “all-in” on the cryptocurrency market, with the goal of providing our products to a wider audience and expanding our reach. Unfortunately, due to external factors, our plans were not successful and we have been left with no choice but to take this difficult decision."
+  },
+  {
+    "Title": "You Completely Misunderstand How Strings Work in C#",
+    "Url": "https://youtube.com/watch?v=Xeq8YGEyyp8",
+    "Timestamp": "2023-02-13T15:03:50",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello everybody I'm Nick and in ..."
+  },
+  {
+    "Title": "Adventures in application compatibility: The case of the display control panel crash on exit",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230213-00/?p=107823",
+    "Timestamp": "2023-02-13T15:03:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "When you get a 64-bit pointer, you probably should remember all 64 of the bits."
+  },
+  {
+    "Title": "Prevent accidental disclosure of configuration secrets - Gérald Barré",
+    "Url": "https://www.meziantou.net/prevent-accidental-disclosure-of-configuration-secrets.htm",
+    "Timestamp": "2023-02-13T15:03:48",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to prevent disclosing secrets from configuration objects in .NET."
+  },
+  {
+    "Title": "<3 Deno Feb 12, 2023",
+    "Url": "https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html",
+    "Timestamp": "2023-02-13T15:03:48",
+    "Domain": "matklad.github.io",
+    "Description": "Deno is a relatively new JavaScript runtime.\nI find quite interesting and aesthetically appealing, in-line with the recent trend to rein in the worse-is-better law of software evolution.\nThis post explains why."
+  },
+  {
+    "Title": "How to disable Windows 11 Defender Credential Guard?",
+    "Url": "https://answers.microsoft.com/en-us/windows/forum/all/how-to-disable-windows-11-defender-credential/8ed83adc-56e9-4b6a-ac79-39803bbdfb07",
+    "Timestamp": "2023-02-13T14:03:39",
+    "Domain": "answers.microsoft.com",
+    "Description": "After upgrading to Windows 11 2022H2, RDP always prompts for credentials and Edge Dev doesn't autofill credentials. According to this, Windows 11 H2 enables Windows Defender Credential Guard. I tried"
+  },
+  {
+    "Title": "Rider 2023.1 EAP 4 Is Here! | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/02/13/rider-2023-1-eap-4/",
+    "Timestamp": "2023-02-13T14:03:25",
+    "Domain": "blog.jetbrains.com",
+    "Description": "The latest EAP build for Rider 2023.1 has just been released and is available for download! Let’s take a look at what’s inside.\n\n\n\n\n\n\n\nFull IDE zoom\n\n\n\nIt’s now possible to zoom into and out of Rider,"
+  },
+  {
+    "Title": "Buy One, Get One Free! – Special deals",
+    "Url": "https://deals.manning.com/buy-one-get-one-free-2/",
+    "Timestamp": "2023-02-13T11:01:34",
+    "Domain": "deals.manning.com",
+    "Description": ""
+  },
+  {
+    "Title": "Building a Smart Home - Part 9 Door Locks | LINQ to Fail",
+    "Url": "https://www.aaron-powell.com/posts/2023-02-13-building-a-smart-home---part-9-door-locks/",
+    "Timestamp": "2023-02-13T09:03:38",
+    "Domain": "www.aaron-powell.com",
+    "Description": "Because a physical key is so old school"
+  },
+  {
+    "Title": "345: Backwards Compatible .NET",
+    "Url": "https://www.mergeconflict.fm/345",
+    "Timestamp": "2023-02-13T09:03:38",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "We talk about .NET Standard, XamarinLegacyCompat, Android Support, and all sorts of forward/backwards compatibility. "
+  },
+  {
+    "Title": "[1480] $329 Smart Lock Opened in Seconds (Level Lock)",
+    "Url": "https://youtube.com/watch?v=m_MX96MVD00",
+    "Timestamp": "2023-02-13T08:02:05",
+    "Domain": "youtube.com",
+    "Description": "https://www.covertinstruments.com"
+  },
+  {
+    "Title": "Introducing your copilot for the web: AI-powered Bing and Microsoft Edge",
+    "Url": "https://youtube.com/watch?v=rOeRWRJ16yY",
+    "Timestamp": "2023-02-13T07:01:29",
+    "Domain": "youtube.com",
+    "Description": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web. Today, we launched an all new, AI-powered Bing search engine and ..."
+  },
+  {
+    "Title": "Maximizing Performance with Span<T>: Practical Examples in C#",
+    "Url": "https://jamilhallal.blogspot.com/2023/02/maximizing-performance-with-span-t-real-world-examples-in-csharp.html",
+    "Timestamp": "2023-02-13T07:01:29",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "Learn how to use Span<T> to improve performance in real-world C# applications through an example that demonstrate how to parse CSV files with Span<T>."
+  },
+  {
+    "Title": "What’s New in .NET 7 for Minimal APIs?",
+    "Url": "https://www.telerik.com/blogs/whats-new-dotnet-7-minimal-apis",
+    "Timestamp": "2023-02-13T06:03:50",
+    "Domain": "www.telerik.com",
+    "Description": ".NET 7 arrived and brought three great features to minimal APIs. Check out in this blog post what's new with practical examples."
+  },
+  {
+    "Title": "Lean BDD and Code Generation",
+    "Url": "http://www.plainionist.net/TickSpec-with-Code-Generation/",
+    "Timestamp": "2023-02-13T06:03:48",
+    "Domain": "www.plainionist.net",
+    "Description": "TickSpec is a lean BDD framework with powerful F# integration but the resulting tests are not nicely visualized in the TestExplorer of Visual Studio. This is were code generation comes to the rescue."
+  },
+  {
+    "Title": "Container Service Options and Guidance in Azure",
+    "Url": "https://techcommunity.microsoft.com/t5/fasttrack-for-azure/container-service-options-and-guidance-in-azure/ba-p/3732666",
+    "Timestamp": "2023-02-13T06:03:48",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Overview The main scope of this blog is to evaluate and understand the capabilities and limitations of Azure container services to help you choose the optimal platform for your container deployments. The container services in scope for this blog are App Service Web App for Containers, Azure Containe..."
+  },
+  {
+    "Title": "Iterators – An Elementary Perspective on How They Function - Dev Leader",
+    "Url": "https://www.devleader.ca/2023/02/10/iterators-an-elementary-perspective-on-how-they-function/",
+    "Timestamp": "2023-02-13T06:03:47",
+    "Domain": "www.devleader.ca",
+    "Description": "You've heard about IEnumerable, but what the heck are iterators in C#? No worries. With this introductory article on iterators, we'll cover the bases."
+  },
+  {
+    "Title": "Where programs live? Vague spaces and software systems",
+    "Url": "https://tomasp.net/blog/2023/vague-spaces/",
+    "Timestamp": "2023-02-13T06:03:47",
+    "Domain": "tomasp.net",
+    "Description": " Terrain vague in a city is abandoned space without clear purpose. Does it also\nexist in programs and can we learn something useful about reading programs and the space in\nwhich program exist from the inter-disciplinary study of terrain vague in cities?"
+  },
+  {
+    "Title": "[In progress] Email gateway issue - Namecheap Status",
+    "Url": "https://www.namecheap.com/status-updates/archives/74848",
+    "Timestamp": "2023-02-13T02:02:26",
+    "Domain": "www.namecheap.com",
+    "Description": "Dear Customers, We have evidence that the upstream system we use for sending emails (third-party) is involved in the mailing of unsolicited emails to our clients. As a result, some unauthorized emails might have been received by you. We would like to assure you that Namecheap’s own systems were not breached, and your products, accounts, … Continue reading [In progress] Email gateway issue →"
+  }
+]

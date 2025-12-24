@@ -1,0 +1,219 @@
+[
+  {
+    "Title": "Why I Always Use PostgreSQL Functions For Everything",
+    "Url": "https://blog.devgenius.io/why-i-always-use-postgresql-functions-for-everything-aa501a33842a",
+    "Timestamp": "2024-08-28T23:01:27",
+    "Domain": "blog.devgenius.io",
+    "Description": "As a general rule, every single command or query for the application use — I always wrap up in a PostgreSQL user-defined function!"
+  },
+  {
+    "Title": "YOTEY Article | Why I decided to make a project management tool and why I think it is different",
+    "Url": "https://yotey.co/articles/why-I-decided-to-make-a-project-management-tool-and-why-I-think-it-is-different.html",
+    "Timestamp": "2024-08-28T23:01:27",
+    "Domain": "yotey.co",
+    "Description": "A fresh approach to project management. Visually break down, organize and discuss complex technical work."
+  },
+  {
+    "Title": "The Power of a Command-Line Processor",
+    "Url": "https://blog.ervinvarga.com/2024/08/the-power-of-command-line-processor.html",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "blog.ervinvarga.com",
+    "Description": "Introduces the concept of a command-line processor using JQ as example. Presents the power of integrating such processor into a larger system. "
+  },
+  {
+    "Title": "How  You Should Keep Score in Pickup Basketball - Bryan Shalloway's Blog",
+    "Url": "https://www.bryanshalloway.com/2024/08/27/how-you-should-keep-score-in-pickup-basketball/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "www.bryanshalloway.com",
+    "Description": "TLDR: For full court pickup basketball you should play by 2s and 3s. Make-it-take-it by 1s and 2s is also fine. Adapt your game according to the scoring and possession system in place."
+  },
+  {
+    "Title": "Regrets of the Dying – Bronnie Ware",
+    "Url": "https://bronnieware.com/blog/regrets-of-the-dying/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "bronnieware.com",
+    "Description": "For many years I worked in palliative care. My patients were those who had gone home to die. Some incredibly special times were shared. I was with them for the last three to twelve weeks of their lives."
+  },
+  {
+    "Title": "Understanding Linux's File Descriptors: A Deep Dive Into '2>&1' and Redirection",
+    "Url": "https://sebastianmarines.com/post/linux-file-descriptors-and-what-does-21-mean/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "sebastianmarines.com",
+    "Description": "In this post, we will learn what file descriptors are, how they work, and how to implement redirections from scratch."
+  },
+  {
+    "Title": "Shedding Extra Complexity and Shipping Side Projects",
+    "Url": "https://www.akpain.net/blog/shedding-complexity/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "www.akpain.net",
+    "Description": "Before you know it, you've gone from an evening or weekend project to something that seems like it's never going to be done."
+  },
+  {
+    "Title": "Weird People",
+    "Url": "https://maraoz.com/2024/08/26/weird-people/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "maraoz.com",
+    "Description": "maraoz's personal website."
+  },
+  {
+    "Title": "The Beauty Of Having A Pi-hole",
+    "Url": "https://den.dev/blog/pihole/",
+    "Timestamp": "2024-08-28T23:01:24",
+    "Domain": "den.dev",
+    "Description": "So, check this little idea that I have - I want to browse the internet without all sorts of unscrupulous actors collecting every little bit of metadata on me and my family they can possibly get their hands on."
+  },
+  {
+    "Title": "How we cut token count by 11% and boosted success rate by 3.9% by using HTML instead of JSON in our LLM calls",
+    "Url": "https://blog.skyvern.com/how-we-cut-token-count-by-11-and-boosted-success-rate-by-3-9-by-using-html-instead-of-json-in-our-llm-calls/",
+    "Timestamp": "2024-08-28T23:01:23",
+    "Domain": "blog.skyvern.com",
+    "Description": "TL;DR\n\nWe started using HTML instead of JSON to represent possible actions that Skyvern could take and reduced our cost by 11.8% and increased our success rate by 3.9%\n\n\nWhat’s Skyvern?\n\nSkyvern is an open source AI agent that helps companies automate browser-based workflows with AI."
+  },
+  {
+    "Title": "Stranded",
+    "Url": "https://xkcd.com/2978/",
+    "Timestamp": "2024-08-28T21:01:00",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Visual Studio for Mac Retirement – Visual Studio Code Setup",
+    "Url": "https://egvijayanand.in/2024/08/28/visual-studio-for-mac-retirement-visual-studio-code-setup/",
+    "Timestamp": "2024-08-28T19:01:03",
+    "Domain": "egvijayanand.in",
+    "Description": "In February, an article was published discussing the use of VS Code as a tool for developing .NET MAUI apps, following the announcement of the retirement of Visual Studio for Mac. The support for V…"
+  },
+  {
+    "Title": "BinaryFormatter removed from .NET 9 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/",
+    "Timestamp": "2024-08-28T18:01:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Starting with .NET 9, we no longer include an implementation of BinaryFormatter in the runtime. This post covers what options you have to move forward."
+  },
+  {
+    "Title": "On the strange status of wchar_t in classic MIDL - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240828-00/?p=110188",
+    "Timestamp": "2024-08-28T17:01:04",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "From the era before wchar_t was a standard type."
+  },
+  {
+    "Title": "Why every .NET developer is already an Uno Platform developer",
+    "Url": "https://platform.uno/blog/why-every-net-developer-is-already-an-uno-platform-developer/",
+    "Timestamp": "2024-08-28T16:01:12",
+    "Domain": "platform.uno",
+    "Description": "Pixel-Perfect Multi-Platform Applications with C# and WinUI for Windows, WebAssembly, iOS, macOS, Android and Linux"
+  },
+  {
+    "Title": "Understanding Angular AOT vs. JIT Compilations",
+    "Url": "https://medium.com/abp-community/understanding-angular-aot-vs-jit-compilations-bed986d93ed2",
+    "Timestamp": "2024-08-28T13:01:12",
+    "Domain": "medium.com",
+    "Description": "Ahead-of-Time (AOT) compilation and Just-in-Time (JIT) compilation are two different methods for compiling Angular applications. Here’s a…"
+  },
+  {
+    "Title": "GameNGen",
+    "Url": "https://gamengen.github.io/",
+    "Timestamp": "2024-08-28T06:01:06",
+    "Domain": "gamengen.github.io",
+    "Description": "Diffusion Models Are Real-Time Game Engines"
+  },
+  {
+    "Title": "Free Public APIs",
+    "Url": "https://www.freepublicapis.com/",
+    "Timestamp": "2024-08-28T03:01:07",
+    "Domain": "www.freepublicapis.com",
+    "Description": "A collection of Free Public APIs for Students and Developers. Tested every single day."
+  },
+  {
+    "Title": "Things I learned talking to the new breed of scientific institution",
+    "Url": "https://www.owlposting.com/p/things-i-learned-talking-to-the-new",
+    "Timestamp": "2024-08-28T00:01:21",
+    "Domain": "www.owlposting.com",
+    "Description": "4k words, 19 minutes reading time"
+  },
+  {
+    "Title": "We've Been Lied To About Work",
+    "Url": "https://danielmiessler.com/p/real-problem-job-market",
+    "Timestamp": "2024-08-28T00:01:20",
+    "Domain": "danielmiessler.com",
+    "Description": "My big, depressing, and optimistic theory for why it's so hard to find and keep a job that makes you happy"
+  },
+  {
+    "Title": "Exploring inner workings of a random free android VPN",
+    "Url": "https://lecromee.github.io/posts/bd_net_vpn/",
+    "Timestamp": "2024-08-28T00:01:20",
+    "Domain": "lecromee.github.io",
+    "Description": "Introduction Nothing special here. Got some free time to play around and decided to explore a free VPN from android play store in hopes to find something interesting, solve some riddle and just have fun. For this experiment I chose “BD NET VPN”. It is freely avaible for any android phone from Google play store: BD NET VPN. There is nothing special in it. My interest grabbed that it was loading it encrypted configuration stored in github and I have experience finding interesting apps that use this method (not this time though)."
+  },
+  {
+    "Title": "How I’d Set Up My Tech If I Were Tate: Ensuring the Police Have Zero Evidence",
+    "Url": "https://sotergreco.com/how-id-set-up-my-tech-if-i-were-tate-ensuring-the-police-have-zero-evidence",
+    "Timestamp": "2024-08-28T00:01:19",
+    "Domain": "sotergreco.com",
+    "Description": "I am not a security expert, but because of the Tate case, I want to share some tips on how to stay anonymous if you're involved in any semi-illegal activity. My background as a software engineer has taught me a few simple things about cybersecurity t..."
+  },
+  {
+    "Title": "Dokploys: How I Accidentally Became an Admin on 600 Servers",
+    "Url": "https://bor.hashnode.dev/dokploys-how-i-accidentally-became-an-admin-on-600-servers",
+    "Timestamp": "2024-08-28T00:01:19",
+    "Domain": "bor.hashnode.dev",
+    "Description": "As I was going through Hacker News, a trending topic about Dokku caught my eye—it was the top-ranked post at the time. For those who aren't familiar, Dokku is an open-source Platform as a Service (PaaS) that you can run on your own server. It’s often..."
+  },
+  {
+    "Title": "Cons Artist - Spring @Cacheable",
+    "Url": "https://consartist.com/2024/06/25/spring-cacheable.html",
+    "Timestamp": "2024-08-28T00:01:19",
+    "Domain": "consartist.com",
+    "Description": "This blog post was also published (with permission) on my employer’s website."
+  },
+  {
+    "Title": "All Aboard the Bootstrap Transpiler Express",
+    "Url": "https://branchtaken.com/blog/2024/08/26/all-aboard-the-bootstrap-transpiler-express.html",
+    "Timestamp": "2024-08-28T00:01:19",
+    "Domain": "branchtaken.com",
+    "Description": "Champion of the Hemlock programming language"
+  },
+  {
+    "Title": "Implementing Vercel-style paste functionality in your web app",
+    "Url": "https://www.brianbriscoe.dev/blog/vercel-env-vars",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "www.brianbriscoe.dev",
+    "Description": "A look at how Vercel handles .env files and how you can do it too"
+  },
+  {
+    "Title": "Scattered thoughts on buying software businesses · Applied Cartography",
+    "Url": "https://jmduke.com/posts/essays/buying-software-businesses/",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "jmduke.com",
+    "Description": "My friends and I bought five software businesses last year, on the thesis that:"
+  },
+  {
+    "Title": "Predicting the Future of Distributed Systems",
+    "Url": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "blog.colinbreck.com",
+    "Description": "There are significant changes happening in distributed systems."
+  },
+  {
+    "Title": "The Startup Designer",
+    "Url": "https://paulstamatiou.com/the-startup-designer",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "paulstamatiou.com",
+    "Description": "There's nothing glamorous about being a designer at a startup. It's a role that frequently values speed and pragmatism over going deep in the craft. It's not all big launches, viral tweets, building for happy paths, and clear-cut product requirements.  However, it can be incredibly rewarding. The fu"
+  },
+  {
+    "Title": "I wrote a file watcher so I can automatically reload my code",
+    "Url": "https://www.vegardstikbakke.com/file-watcher/",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "www.vegardstikbakke.com",
+    "Description": "I wrote reload, my own file watcher!"
+  },
+  {
+    "Title": "💻 I coded my own dead link checker",
+    "Url": "https://port19.xyz/tech/deadsniper/",
+    "Timestamp": "2024-08-28T00:01:18",
+    "Domain": "port19.xyz",
+    "Description": "Go is an acquired taste"
+  }
+]

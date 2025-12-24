@@ -1,0 +1,240 @@
+[
+  {
+    "Title": "The Balatro Timeline — LocalThunk",
+    "Url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+    "Timestamp": "2025-03-07T20:01:45",
+    "Domain": "localthunk.com",
+    "Description": "It’s been approximately 3 years since I began work on Balatro - and in that time I have personally documented almost nothing about the journey. This is something that has bothered me since the game launched. I am constantly forgetting major moments in development or milestones. It’s about time I sta"
+  },
+  {
+    "Title": "LADDER: Self-Improving LLMs Through Recursive Problem Decomposition",
+    "Url": "https://arxiv.org/abs/2503.00735",
+    "Timestamp": "2025-03-07T18:02:20",
+    "Domain": "arxiv.org",
+    "Description": "We introduce LADDER (Learning through Autonomous Difficulty-Driven Example Recursion), a framework which enables Large Language Models to autonomously improve their problem-solving capabilities through self-guided learning by recursively generating and solving progressively simpler variants of complex problems. Unlike prior approaches that require curated datasets or human feedback, LADDER leverages a model's own capabilities to generate easier question variants. We demonstrate LADDER's effectiveness in the subject of mathematical integration, improving Llama 3.2 3B's accuracy from 1% to 82% on undergraduate-level problems and enabling Qwen2.5 7B Deepseek-R1 Distilled to achieve 73% on the MIT Integration Bee qualifying examination. We also introduce TTRL (Test-Time Reinforcement Learning), where we perform reinforcement learning on variants of test problems at inference time. TTRL enables Qwen2.5 7B Deepseek-R1 Distilled to achieve a state-of-the-art score of 90% on the MIT Integration Bee qualifying examination, surpassing OpenAI o1's performance. These results show how self-directed strategic learning can achieve significant capability improvements without relying on architectural scaling or human supervision."
+  },
+  {
+    "Title": "Why Local-First Software Is the Future and its Limitations | RxDB - JavaScript Database",
+    "Url": "https://rxdb.info/articles/local-first-future.html",
+    "Timestamp": "2025-03-07T17:01:44",
+    "Domain": "rxdb.info",
+    "Description": "Discover how local-first transforms web apps, boosts offline resilience, and why instant user feedback is becoming the new normal."
+  },
+  {
+    "Title": "Terraform in Action: Real-World Success Stories from the Cloud - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/terraform-in-action-real-world-success-stories-from-the-cloud/",
+    "Timestamp": "2025-03-07T15:01:56",
+    "Domain": "woodruff.dev",
+    "Description": "Terraform isn’t just a cool tool for spinning up infrastructure—it’s transforming how companies build, scale, and secure their cloud environments. […]"
+  },
+  {
+    "Title": "A Quick Journey Into the Linux Kernel | Blog",
+    "Url": "https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel",
+    "Timestamp": "2025-03-07T15:01:54",
+    "Domain": "www.lucavall.in",
+    "Description": "I recently took a deep dive into the Linux kernel to understand how it handles processes, scheduling, memory, and more. While I had some OS knowledge from school, it always felt too abstract - so I wanted to see how things actually work. This post covers what I learned, from system calls to interrupts, and how kernel development differs from userspace."
+  },
+  {
+    "Title": "Sketchnote: Model Rigor, You Say – Rebecca Wirfs-Brock",
+    "Url": "https://www.planetgeek.ch/2025/03/07/sketchnote-model-rigor-you-say-rebecca-wirfs-brock/",
+    "Timestamp": "2025-03-07T14:01:49",
+    "Domain": "www.planetgeek.ch",
+    "Description": "Link to the talk on YouTube: https://youtu.be/WWaIkQ48bVY?si=fQ1wOC1ADwf4hG1u I didn't find a way to \"compress\" the talk, so there is a loooot of text. A good talk, but not well suited for a sketchnote. 😅"
+  },
+  {
+    "Title": "Adding an IMemoryCache to EF Core Repository Pattern",
+    "Url": "https://youtube.com/watch?v=S7lfLkKLkDA",
+    "Timestamp": "2025-03-07T14:01:40",
+    "Domain": "youtube.com",
+    "Description": "In prior videos, we wrapped a repository pattern around our EF Core calls -- and yes, this drives some people nuts. In this video, we'll look at enhancing our repository by adding a cache with IMemoryCache!\n\n----\nTimestamps:\n\n0:00 - Intro\n1:07 - Recap On Code\n3:15 - The Caching Repository\n4:30 - Dometrain Courses\n4:55 - Continuing\n5:25 - Stampede Protection Concept\n8:00 - Caching Other Repository Methods\n11:51 - GetAllAsync\n16:08 - See It In Action\n18:48 - Summary\n----\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\n\n🗣️ Social Media & Links:\n- All My Links: https://linktr.ee/devleader\n- Vlogs:  @DevLeaderBTS @CodeCommute \n- Blog: https://www.devleader.ca/\n- TikTok: https://www.tiktok.com/@devleader\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\n- Threads: https://threads.net/@dev.leader\n- Twitter: https://twitter.com/DevLeaderCa\n- Facebook: https://www.facebook.com/DevLeaderCa\n- Instagram: https://www.instagram.com/dev.leader\n- GitHub: https://github.com/ncosentino/\n- Twitch: https://twitch.tv/devleaderca\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\n\n❤️ Affiliations & Products/Services That I Love:\n- @BrandGhostAI for all of my content creation: https://brandghost.ai\n- AI shorts helper Opus Clip: https://opus.pro/?via=2f9e97\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\n----\n\n#softwareengineering #softwaredeveloper #softwareengineer"
+  },
+  {
+    "Title": "From Modular Monolith to Microservices (Incremental Architecture Evolution)",
+    "Url": "https://youtube.com/watch?v=SR-G_U9H2tg",
+    "Timestamp": "2025-03-07T14:01:39",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nGet the source code here: https://www.patreon.com/milanjovanovic\n\nDiscover the practical journey of transforming a modular monolith into microservices through strategic module extraction. This video breaks down the step-by-step process of identifying, isolating, and extracting your first module while maintaining system functionality and addressing critical concerns like data consistency, service boundaries, and communication patterns.\n\nLearn proven techniques for minimizing risk during extraction, including event-driven communication strategies, database separation approaches, and incremental deployment methods. Whether you're dealing with legacy systems or planning ahead for future scalability, this guide provides actionable insights to successfully migrate from a modular monolith to a resilient microservices architecture without disrupting your business operations.\n\nWhat Is a Modular Monolith?\nhttps://www.milanjovanovic.tech/blog/what-is-a-modular-monolith\n\nMonolith to Microservices: How a Modular Monolith Helps\nhttps://www.milanjovanovic.tech/blog/monolith-to-microservices-how-a-modular-monolith-helps\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 Drawing some boxes\n2:23 Modular Monolith overview\n4:54 Creating the Module Public API\n6:16 Extracting the Shipping Module\n10:16 Event-driven communication, RabbitMQ\n13:16 Sync communication over HTTP\n15:20 Modular Microservices? Complete flow"
+  },
+  {
+    "Title": "Differentiable Logic Cellular Automata: From Game of Life to pattern generation with learned recurrent circuits",
+    "Url": "https://google-research.github.io/self-organising-systems/difflogic-ca/?hn=",
+    "Timestamp": "2025-03-07T11:01:36",
+    "Domain": "google-research.github.io",
+    "Description": "We use Differentiable Logic Gate Networks to create end-to-end differentiable, self-organizing discrete cellular automata powered by recurrent circuits, capable of playing the Game of Life as well as producing patterns à la Neural Cellular Automata."
+  },
+  {
+    "Title": "Metaprogramming Made Accessible: Gael Fraiteur Explores the World of Metalama",
+    "Url": "https://youtube.com/watch?v=JJxHBNeqpAU",
+    "Timestamp": "2025-03-07T09:01:39",
+    "Domain": "youtube.com",
+    "Description": "RJJ Software's Software Development Service This episode of The Modern .NET Show is supported, in part, by RJJ Software's Podcasting Services, whether your company is looking to elevate its UK operations or reshape its US strategy, we can provide tailored solutions that exceed expectations.\r\n\r\n Show Notes \"And I think this is really the key factor in software development. I think it's really to keep complexity low, because in most projects, unless you are writing an operating system, a framework or rocket navigation you are not coding against hardware; like the hardware is not your bottleneck. You are coding against human brains, cognitive abilities of your team; like how many smart people your company is able to put on your team, this is your limiting factor so we need to keep complexity low and I think it's really the most important benefit.\"— Gael Fraiteur\r\n\r\n Welcome friends to The Modern .NET Show; the premier .NET podcast, focusing entirely on the knowledge, tools, and frameworks that all .NET developers should have in their toolbox. We are the go-to podcast for .NET developers worldwide, and I am not your host: Jamie. I'm Delilah and I will be recording the intro for this episode because Jamie is suffering with a throat infection.\r\n\r\n In this episode, Gael Fraiteur joined us to talk about Metaprogramming with Metalama. Gael is the original author of the wildly successful PostSharp and has been working with the aspect-oriented programming pattern for over 20 years. In this conversation we talk about how metaprogramming (regardless of whether you use Metalama to achieve that or not) can save on both the complexity and the number lines of code in your projects.\r\n\r\n \"Well, there are studies that try to correlate the cost of software projects to the number of lines of code. And the conclusion is: it is more or less a linear dependency. A bit super linear. That means that if you have 15% fewer lines of code, you are going to get 15% lower development cost. So that's the easiest part\"— Gael Fraiteur\r\n\r\n Anyway, without further ado, let's sit back, open up a terminal, type in `dotnet new podcast` and we'll dive into the core of Modern .NET.\r\n\r\n My voice was created using Generative AI.\r\n\r\n Supporting the Show If you find this episode useful in any way, please consider supporting the show by either leaving a review (check our review page for ways to do that), sharing the episode with a friend or colleague, buying the host a coffee, or considering becoming a Patron of the show.\r\n\r\n Full Show Notes The full show notes, including links to some of the things we discussed and a full transcription of this episode, can be found at:  https://dotnetcore.show/season-7/metaprogramming-with-gael-fraiteur/\r\n\r\n Gael's Links:  Gael on LinkedIn PostSharp on LinkedIn  Metalama:  Metalama homepage Documentation Marketplace GitHub  Supporting the show:  Leave a rating or review Buy the show a coffee Become a patron  Getting in Touch:  Via the contact page Joining the Discord  Remember to rate and review the show on  Apple Podcasts, Podchaser, or wherever you find your podcasts, this will help the show's audience grow. Or you can just share the show with a friend.\r\n\r\n And don't forget to reach out via our Contact page. We're very interested in your opinion of the show, so please get in touch.\r\n\r\n You can support the show by making a monthly donation on the show's Patreon page at: https://www.patreon.com/TheDotNetCorePodcast.\r\n\r\n Music created by Mono Memory Music, licensed to RJJ Software for use in The Modern .NET Show"
+  },
+  {
+    "Title": "How to Show and Hide the Keyboard in .NET MAUI",
+    "Url": "https://askxammy.com/how-to-show-and-hide-the-keyboard-in-net-maui/",
+    "Timestamp": "2025-03-07T03:01:45",
+    "Domain": "askxammy.com",
+    "Description": "As I always say, the more control we have over how elements behave in our apps, the better experience we can provide to users.\nIn this article, we’ll explore an interesting feature of the virtual keyboard: how to show or hide it strategically to improve usability. With .NET MAUI, you can achieve this easily in just a few steps. Let’s dive in! 🚀\n\n\n\n\nLet's get started! 🚀\nThe first thing you should know when you hear or read about the term soft input keyboard is that it refers to the virtual keyboard that appears on the screen when entering text.\n\nWhat are SoftInputExtensions?\nIn .NET MAUI, several UI elements, such as Entry and Editor, accept text input and automatically interact with the soft input keyboard. With SoftInputExtensions, we can take full control of its visibility using extension methods, allowing us to easily show or hide the keyboard as needed.\n\nSoftInputExtensions Methods\nThe SoftInputExtensions class provides the following methods:\n🔹 HideSoftInputAsync – Hides the soft input keyboard if it is currently visible.\n🔹 ShowSoftInputAsync – Displays the soft input keyboard if it is currently hidden.\n🔹 IsSoftInputShowing – Returns a boolean value indicating whether the soft input keyboard is currently displayed on the screen. - ✍️ I recommend using this method before deciding whether to show or hide the soft input keyboard.\n\nHow to implement it\n\n\n\n\nSpanish article\n\n \thttps://es.askxammy.com/como-mostrar-y-ocultar-el-teclado-en-net-maui/\n\nReferences\nThis article was based on the official documentation.\n\n \thttps://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/entry?view=net-maui-8.0&viewFallbackFrom=net-maui-7.0\n"
+  },
+  {
+    "Title": "Succinct data structures",
+    "Url": "https://blog.startifact.com/posts/succinct/",
+    "Timestamp": "2025-03-07T03:01:42",
+    "Domain": "blog.startifact.com",
+    "Description": "An overview of a class of data structures I didn't know about!"
+  },
+  {
+    "Title": "SalvaSC",
+    "Url": "https://salvasc.dev/blog/My-Weekend-at-JSCONF-es-2025soLUiTnK_R_0FHAAGIu97",
+    "Timestamp": "2025-03-07T02:02:24",
+    "Domain": "salvasc.dev",
+    "Description": "This past weekend, I had the incredible opportunity to attend JSCONF.es. It was an inspiring and enriching experience, filled with insightful talks, engaging workshops, and—most importantly—meaningful connections with fellow developers. Conferences like these remind me why I love working in the JavaScript ecosystem."
+  },
+  {
+    "Title": "Design tips for startups",
+    "Url": "https://www.vigilant.run/blog/design-tips-for-startups",
+    "Timestamp": "2025-03-07T02:02:23",
+    "Domain": "www.vigilant.run",
+    "Description": "Practical design advice for startups from two years of experience. Learn how to iterate quickly, set clear goals, and avoid common design pitfalls."
+  },
+  {
+    "Title": "LLMs Don’t Know What They Don’t Know—And That’s a Problem",
+    "Url": "https://blog.scottlogic.com/2025/03/06/llms-dont-know-what-they-dont-know-and-thats-a-problem.html",
+    "Timestamp": "2025-03-07T02:02:23",
+    "Domain": "blog.scottlogic.com",
+    "Description": "LLMs are not just limited by hallucinations—they fundamentally lack awareness of their own capabilities, making them overconfident in executing tasks they don’t fully understand. While “vibe coding” embraces AI’s ability to generate quick solutions, true progress lies in models that can acknowledge ambiguity, seek clarification, and recognise when they are out of their depth."
+  },
+  {
+    "Title": "Trying to Justify SNMP",
+    "Url": "https://www.robopenguins.com/snmp/",
+    "Timestamp": "2025-03-07T02:02:23",
+    "Domain": "www.robopenguins.com",
+    "Description": "Simple Network Management Protocol (SNMP) is a protocol for collecting info from devices like resource usage or configuration. It’s come up a few times when ..."
+  },
+  {
+    "Title": "If your content is only on social media, I'm not going to see it",
+    "Url": "https://www.coryd.dev/posts/2025/if-your-content-is-only-on-social-media-im-not-going-to-see-it/",
+    "Timestamp": "2025-03-07T02:02:22",
+    "Domain": "www.coryd.dev",
+    "Description": "If you only post on social media, I won't see it. If you don't have an RSS feed, I won't follow it, I won't subscribe to it. I don't want want your app because I don't want a homescreen full of apps for publications and platforms. "
+  },
+  {
+    "Title": "Forget Twitter Threads; Write A Blog Post Instead! | Kev Quirk",
+    "Url": "https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead",
+    "Timestamp": "2025-03-07T02:02:22",
+    "Domain": "kevquirk.com",
+    "Description": "All of the kool kids in Twitter land seem to be jumping on the bandwagon of a very annoying craze. Twitter threads. Please stop; write a blog post instead"
+  },
+  {
+    "Title": "The More Important Half of Great API Boundaries",
+    "Url": "https://www.kylegill.com/essays/api-boundaries",
+    "Timestamp": "2025-03-07T02:02:22",
+    "Domain": "www.kylegill.com",
+    "Description": "Designing good tools depends on much more than the features you include. Like the best margherita pizzas in Italy, or the best ambient music…"
+  },
+  {
+    "Title": "Claude, the librarian",
+    "Url": "https://martinklepsch.org/posts/claude-the-librarian/",
+    "Timestamp": "2025-03-07T02:02:22",
+    "Domain": "martinklepsch.org",
+    "Description": "Personal Website and Blog of Martin Klepsch"
+  },
+  {
+    "Title": "The “Every” thing Blueprint",
+    "Url": "https://www.hunter.vc/p/the-every-thing-blueprint",
+    "Timestamp": "2025-03-07T02:02:11",
+    "Domain": "www.hunter.vc",
+    "Description": "How AI is Enabling a New Type of Media Company"
+  },
+  {
+    "Title": "Let's Take a Look at... KIP-932: Queues for Kafka!",
+    "Url": "https://www.morling.dev/blog/kip-932-queues-for-kafka/",
+    "Timestamp": "2025-03-07T02:02:10",
+    "Domain": "www.morling.dev",
+    "Description": "\nIn the \"Let’s Take a Look at…!\" blog series I am going to explore interesting projects, developments and technologies in the data and streaming space. This can be KIPs and FLIPs, open-source projects, services, and more. The idea is to get some hands-on experience, learn about potential use cases and applications, and understand the trade-offs involved. If you think there’s a specific subject I should take a look at, let me know in the comments below!\n\n\n\n\n\nThat guy above? Yep, that’s me, whenever someone says \"Kafka queue\". Because, that’s not what Apache Kafka is. At its core, Kafka is a distributed durable event log. Producers write events to a topic, organized in partitions which are distributed amongst the brokers of a Kafka cluster. Consumers, organized in groups, divide the partitions they process amongst themselves, so that each partition of a topic is read by exactly one consumer in the group.\n"
+  },
+  {
+    "Title": "HTML, but not too HTML",
+    "Url": "https://lars.ingebrigtsen.no/2025/02/17/html-but-not-too-html/",
+    "Timestamp": "2025-03-07T02:02:09",
+    "Domain": "lars.ingebrigtsen.no",
+    "Description": "When writing blog posts, I use ewp, an Emacs package to administrate Wordpress. It offers an editing mode based on the revolutionary idea of just writing HTML. Everything is cyclical in computing, …"
+  },
+  {
+    "Title": "In defense of Gemini",
+    "Url": "https://www.strangeloopcanon.com/p/in-defense-of-gemini",
+    "Timestamp": "2025-03-07T02:02:09",
+    "Domain": "www.strangeloopcanon.com",
+    "Description": "a kvetch"
+  },
+  {
+    "Title": "Firecracker vs QEMU — E2B Blog",
+    "Url": "https://e2b.dev/blog/firecracker-vs-qemu",
+    "Timestamp": "2025-03-07T02:02:09",
+    "Domain": "e2b.dev",
+    "Description": ""
+  },
+  {
+    "Title": "Sum Types and Subtypes and Unions\n",
+    "Url": "https://blog.jle.im/entry/sum-types-and-subtypes-and-unions.html",
+    "Timestamp": "2025-03-07T02:02:09",
+    "Domain": "blog.jle.im",
+    "Description": "There’s yet again been a bit of functional programming-adjacent twitter drama recently, but it’s actually sort of touched into some subtleties about sum types that I am asked about (and think about) a lot nowadays. So, I’d like to take this opportunity to talk a bit about the “why” and nature of sum types and how to use them effectively, and how they contrast with other related concepts in programming and software development and when even cases where sum types aren’t the best option."
+  },
+  {
+    "Title": "Gaming in the desert",
+    "Url": "https://blog.etra0.lat/posts/2025-03-05-remote-gaming/",
+    "Timestamp": "2025-03-07T02:02:08",
+    "Domain": "blog.etra0.lat",
+    "Description": "If you ever ask yourself, where can you see the most pristine dark skies in the world? Well, I’m lucky enough to work in one of those places; in the middle of the desert, where humidity levels on average are less than 20%, and no civilization is in sight.\nI work as a Software Engineer over there, since the workplace is literally in the middle of the desert, we usually work in shifts, I arrive on a Tuesday, and stay until the next Tuesday, over +1.000km away from my home."
+  },
+  {
+    "Title": "Garbage collection theory - Basic Algorithms - Michał 'Chlebik' Piotrowski",
+    "Url": "https://michalpiotrowski.dev/2025/03/05/gc-theory-basic-algorithms/",
+    "Timestamp": "2025-03-07T02:02:08",
+    "Domain": "michalpiotrowski.dev",
+    "Description": "Reading Time:  5 minutesIn the world of garbage collection, there are three algorithms, that are the founding stone for all the other. In this article I will try to briefly introduce all of them – reference counting algorithm, mark-sweep and copying algorithm. More detailed articles about them will follow in the weeks to come. The reference counting algorithm"
+  },
+  {
+    "Title": "Dawn of Personal AIs",
+    "Url": "https://maraoz.com/personal-ai/",
+    "Timestamp": "2025-03-07T02:02:07",
+    "Domain": "maraoz.com",
+    "Description": "maraoz's personal website."
+  },
+  {
+    "Title": "Bulk Migrations by Passing validate(_check)_constraint through change_table",
+    "Url": "https://blog.saeloun.com/2025/03/06/bulk-migrations-validate-check-constraint/",
+    "Timestamp": "2025-03-07T02:02:06",
+    "Domain": "blog.saeloun.com",
+    "Description": "Rails 7.1 now delegates validate(_check)_constraint through change_table for bulk migrations by letting us define and validate check constraints within a single change_table block."
+  },
+  {
+    "Title": "Say Yes To Interesting Things - Don't Break Prod",
+    "Url": "https://dontbreakprod.com/posts/say-yes-to-interesting-things",
+    "Timestamp": "2025-03-07T02:02:05",
+    "Domain": "dontbreakprod.com",
+    "Description": "Don't Break Prod provides bite-sized pieces of career advice for software engineers."
+  },
+  {
+    "Title": "Nobody Watches Computers Play Chess - Billy Gardner McIntyre",
+    "Url": "https://gardnermcintyre.com/post/nobody-watches-computers-play-chess",
+    "Timestamp": "2025-03-07T02:02:03",
+    "Domain": "gardnermcintyre.com",
+    "Description": "March 6th 2025"
+  },
+  {
+    "Title": "Diffusion models are interesting",
+    "Url": "https://rnikhil.com/2025/03/06/diffusion-models-eval",
+    "Timestamp": "2025-03-07T02:02:03",
+    "Domain": "rnikhil.com",
+    "Description": "I stumbled across this tweet a week or so back where this company called Inception Labs released a Diffusion LLM (dLLM). Instead of being autoregressive and predicting tokens left to right, here you start all at once and then gradually come up with sensible words simultaneously (start/finish/middle etc. all at once). Something which worked historically for image and video models is now outperforming similar-sized LLMs in code generation."
+  },
+  {
+    "Title": ".NET Aspire and Dev Container",
+    "Url": "https://laurentkempe.com/2025/03/06/dotnet-aspire-and-dev-container/",
+    "Timestamp": "2025-03-07T01:01:40",
+    "Domain": "laurentkempe.com",
+    "Description": ".NET Aspire 9.1 was just released on February 25th, 2025. It comes with great new dashboard features, and there is more! One feature I am particularly interested in is the ability to use Dev Container"
+  }
+]

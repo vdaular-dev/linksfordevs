@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "Secure your .NET builds with StepSecurity and GitHub Actions",
+    "Url": "https://blog.taranissoftware.com/secure-your-net-builds-with-stepsecurity-and-github-actions",
+    "Timestamp": "2022-08-07T23:01:20",
+    "Domain": "blog.taranissoftware.com",
+    "Description": "Software supply chain attacks are increasing. I show how you can use StepSecurity's tools to improve the security of your GitHub Actions workflows."
+  },
+  {
+    "Title": "ASP.NET Core MVC Views not Resolving Partial Views outside of the default ControllerContext",
+    "Url": "https://weblog.west-wind.com/posts/2022/Aug/08/ASPNET-Core-MVC-Views-not-Resolving-when-Rendering-Partials-outside-of-the-default-ControllerContext",
+    "Timestamp": "2022-08-07T21:01:47",
+    "Domain": "weblog.west-wind.com",
+    "Description": "I recently ran into a problem with ASP.NET Core MVC views where rendering a Parent View in a Controller Context other than the originally designed context won't find Child Views that are referenced with no or local or relative paths. It turns out that ASP.NET Core MVC does not resolve local View paths as expected when rendering a View from a different ControllerContext instead using the current controller's context paths, rather than the view relative paths. In this post I describe why this can be a problem and several ways to work around this problem."
+  },
+  {
+    "Title": "“Code” 2nd Edition Now Available!",
+    "Url": "https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html",
+    "Timestamp": "2022-08-07T21:01:45",
+    "Domain": "www.charlespetzold.com",
+    "Description": "In a startling disruption of the space-time continuum — and a violation of the basic maxim of publishing that nothing is ever on time — the publication date of the 2nd edition of my book Code: The Hidden Language of Computer Hardware and Software was bumped up by 12 days. That means that the publication date is today and the book might be available from your favorite book vendor. (Or perhaps not quite yet.)"
+  },
+  {
+    "Title": "Our roadmap for Nix",
+    "Url": "https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/",
+    "Timestamp": "2022-08-07T21:01:45",
+    "Domain": "www.tweag.io",
+    "Description": "Tweag's Nix team plans for the coming years"
+  },
+  {
+    "Title": "#16: The case of fake IMDb credits",
+    "Url": "https://peabee.substack.com/p/16-the-case-of-fake-imdb-credits",
+    "Timestamp": "2022-08-07T20:01:42",
+    "Domain": "peabee.substack.com",
+    "Description": "I was casually browsing IMDb when I landed on the page for an upcoming Ranbir Kapoor starrer movie “Animal”. I saw the cast details and I found a face and a name I didn’t recognize. Finding out about this guy led me to a whole new world of how so many young Indian men from small towns are gaming the system to manufacture their own fake online clout."
+  },
+  {
+    "Title": "Figure",
+    "Url": "https://figure.game/",
+    "Timestamp": "2022-08-07T20:01:42",
+    "Domain": "figure.game",
+    "Description": "Free daily puzzle. Clear all the tiles before running out of moves!"
+  },
+  {
+    "Title": "How to pick a starter project that'll make someone quit",
+    "Url": "https://amir.rachum.com/blog/2022/08/07/starter-project/",
+    "Timestamp": "2022-08-07T19:01:26",
+    "Domain": "amir.rachum.com",
+    "Description": "Picking the worst project for a new hire is no easy feat. Learn how!"
+  },
+  {
+    "Title": "Nix By Example | <fun>",
+    "Url": "https://mimoo.github.io/nixbyexample/flakes-devshells.html",
+    "Timestamp": "2022-08-07T18:01:35",
+    "Domain": "mimoo.github.io",
+    "Description": "you can create devshells manually, but they won't use the derivation you created and the packages there. So not sure how useful it is."
+  },
+  {
+    "Title": "Nix By Example | <fun>",
+    "Url": "https://mimoo.github.io/nixbyexample/flakes-packaging.html",
+    "Timestamp": "2022-08-07T18:01:35",
+    "Domain": "mimoo.github.io",
+    "Description": "The first thing to do is to create a flake.nix file."
+  },
+  {
+    "Title": "Why Putting Solar Canopies on Parking Lots Is a Smart Green Move",
+    "Url": "https://e360.yale.edu/features/putting-solar-panels-atop-parking-lots-a-green-energy-solution",
+    "Timestamp": "2022-08-07T16:02:00",
+    "Domain": "e360.yale.edu",
+    "Description": "Solar farms are proliferating on undeveloped land, often harming ecosystems. But placing solar canopies on large parking lots offers a host of advantages — making use of land that is already cleared, producing electricity close to those who need it, and even shading cars."
+  },
+  {
+    "Title": "Using Landlock to Sandbox GNU Make",
+    "Url": "https://justine.lol/make/",
+    "Timestamp": "2022-08-07T16:01:59",
+    "Domain": "justine.lol",
+    "Description": "Sandboxing for builds never been easier"
+  },
+  {
+    "Title": "NSA, NIST, and post-quantum cryptography",
+    "Url": "https://blog.cr.yp.to/20220805-nsa.html",
+    "Timestamp": "2022-08-07T16:01:58",
+    "Domain": "blog.cr.yp.to",
+    "Description": "The Black Chamber was founded\nby the U.S. Army and the U.S. State Department in 1919.\nThe Secretary of State terminated funding in 1929,\nfamously writing that\n\"Gentlemen do not read each other's mail.\""
+  },
+  {
+    "Title": "Nix By Example | <fun>",
+    "Url": "https://mimoo.github.io/nixbyexample/basics-setup.html",
+    "Timestamp": "2022-08-07T15:01:31",
+    "Domain": "mimoo.github.io",
+    "Description": "You can install nix by following the instruction on their github or executing the following command in your terminal."
+  },
+  {
+    "Title": "Focus at Work • Relax at Home • Sleep at Night | myNoise ®",
+    "Url": "https://mynoise.net/",
+    "Timestamp": "2022-08-07T11:01:37",
+    "Domain": "mynoise.net",
+    "Description": "Background Noises • Ambient Sounds • Interactive Soundscapes • Relaxing Music • Online & Free"
+  },
+  {
+    "Title": "Jigzilla: the puzzle solving robot (part 1)",
+    "Url": "https://youtube.com/watch?v=Gu_1S77XkiM",
+    "Timestamp": "2022-08-07T09:01:46",
+    "Domain": "youtube.com",
+    "Description": "Visit http://brilliant.org/stuffmadehere to sign up for free. And also, the first 200 people will get 20% off their annual premium membership.Help support th..."
+  },
+  {
+    "Title": "C23 is Finished: Here is What is on the Menu",
+    "Url": "https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu",
+    "Timestamp": "2022-08-07T05:01:26",
+    "Domain": "thephd.dev",
+    "Description": "It’s That Blog Post. The release one, where we round up all the last of the features approved since the last time I blogged. If you’re"
+  },
+  {
+    "Title": "Intro to Graphics 05 - 2D Transformations",
+    "Url": "https://youtube.com/watch?v=EKN7dTJ4ep8",
+    "Timestamp": "2022-08-07T04:01:43",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "An intro to Open Telemetry in .NET - James World",
+    "Url": "https://youtube.com/watch?v=0Tt3M0Az02o",
+    "Timestamp": "2022-08-07T04:01:43",
+    "Domain": "youtube.com",
+    "Description": "https://www.dotnetoxford.com/posts/2022-07-lightning-talks"
+  },
+  {
+    "Title": "Git In Two Minutes (for a solo developer)",
+    "Url": "https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html",
+    "Timestamp": "2022-08-07T04:01:42",
+    "Domain": "www.garyrobinson.net",
+    "Description": "Inspired by “Git in 5 Minutes”, I decided to take things a step further, and create guide for git that takes even less time to get through. Of course, this is very minimalistic git! But it’s enough be useful for..."
+  },
+  {
+    "Title": "Simulating an Entire Car Engine (yes, it makes noise)",
+    "Url": "https://youtube.com/watch?v=RKT-sKtR970",
+    "Timestamp": "2022-08-07T02:01:26",
+    "Domain": "youtube.com",
+    "Description": "Quite possibly the dumbest project I've ever undertaken, this was an odyssey but well worth it in the end. It's hard to fully explain the depth of the rabbit..."
+  },
+  {
+    "Title": "Microdosing with psilocybin mushrooms: a double-blind placebo-controlled study - Translational Psychiatry",
+    "Url": "https://www.nature.com/articles/s41398-022-02039-0",
+    "Timestamp": "2022-08-07T02:01:25",
+    "Domain": "www.nature.com",
+    "Description": "The use of low sub-perceptual doses of psychedelics (“microdosing”) has gained popularity in recent years. Although anecdotal reports claim multiple benefits associated with this practice, the lack of placebo-controlled studies severely limits our knowledge of microdosing and its effects. Moreover, research conducted in standard laboratory settings could fail to capture the motivation of individuals engaged or planning to engage in microdosing protocols, thus underestimating the likelihood of positive effects on creativity and cognitive function. We recruited 34 individuals starting to microdose with psilocybin mushrooms (Psilocybe cubensis), one of the materials most frequently used for this purpose. Following a double-blind placebo-controlled experimental design, we investigated the acute and short-term effects of 0.5 g of dried mushrooms on subjective experience, behavior, creativity (divergent and convergent thinking), perception, cognition, and brain activity. The reported acute effects were significantly more intense for the active dose compared to the placebo, but only for participants who correctly identified their experimental condition. These changes were accompanied by reduced EEG power in the theta band, together with preserved levels of Lempel-Ziv broadband signal complexity. For all other measurements there was no effect of microdosing except for few small changes towards cognitive impairment. According to our findings, low doses of psilocybin mushrooms can result in noticeable subjective effects and altered EEG rhythms, but without evidence to support enhanced well-being, creativity and cognitive function. We conclude that expectation underlies at least some of the anecdotal benefits attributed to microdosing with psilocybin mushrooms."
+  },
+  {
+    "Title": "How To Combine Video Game Genres",
+    "Url": "https://yt.artemislena.eu/H63Bqex1Urs",
+    "Timestamp": "2022-08-07T01:01:56",
+    "Domain": "yt.artemislena.eu",
+    "Description": "GMTK is powered by Patreon - https://www.patreon.com/GameMakersToolkit\n\nGreat video games can come from combining genres - but getting the mix right isn't easy. In this video we'll explore the three main methods for merging genres, and look at the problems - and solutions - of each approach.\n\n=== Before you watch === \n\nContent warning: Mild Violence\n\n=== Sources ===\n\n- [1] Spelunky | Boss Fight Books\nhttps://bossfightbooks.com/products/spelunky-by-derek-yu\n\n[2] The Sid Meier Legacy | GameSpot\nhttps://web.archive.org/web/19991103090659/http://www.gamespot.com/features/sidlegacy/interview12.html\n\n[3] How Deus Ex Blended Genres To Change Shooters Forever | Ars Technica\nhttps://www.youtube.com/watch?v=Bb98qIZfwgc\n\n[4] Wolfenstein II: The New Colossus Design post-mortem | Digital Dragons\nhttps://www.youtube.com/watch?v=Hu_RkBI27Jw\n\n[5] Why Pocket Dungeon? | Yacht Club Games\n- https://www.yachtclubgames.com/blog/why-pocket-dungeon\n\n=== Chapters ===\n\n00:00 - Intro\n01:27 - Method 1: Hand-off\n05:49 - Method 2: Play style\n09:25 - Method 3: Blend\n12:23 - Conclusion\n\n=== Games Shown ===\n\nSuper Mario Bros. (1985)\nNetHack (1987)\nSpelunky Classic (2008)\nEnter the Gungeon (2016)\nReturnal (2021)\nFlorence (2018)\nRayman Legends (2013)\nCall of Duty: Modern Warfare (2019)\nForza Horizon 5 (2021)\nBaba is You (2019)\nOutlast (2013)\nPersona 5 (2016)\nThe Legend of Zelda: Breath of the Wild (2017)\nSlay the Spire (2019)\nThe Binding of Isaac: Rebirth (2014)\nGrand Theft Auto V (2013)\nUncharted 4: A Thief's End (2016)\nDOOM (2016)\nGod of War (2005)\nShovel Knight: King of Cards (2019)\nLA Noire (2011)\nYakuza 0 (2015)\nXCOM 2 (2016)\nSly Cooper and the Thievius Raccoonus (2002)\nMarvel's Spider-Man: Miles Morales (2020)\nUntitled Magnet Game (Unreleased)\nGrapple Dog (2022)\nFar Cry 5 (2018)\nBatman: Arkham City (2011)\nImmortals Fenyx Rising (2020)\nSid Meier’s Covert Action (1990)\nBioShock (2007)\nDishonored (2012)\nDeus Ex (2000)\nThe Elder Scrolls V: Skyrim (2011)\nAlpha Protocol (2010)\nPrey (2017)\nHalf-Life (1998)\nBaldur’s Gate (1998) \nThief: The Dark Project (1998)\nDeathloop (2021)\nWolfenstein II: The New Colossus (2017)\nElden Ring (2022)\nHades (2020)\nDishonored: Death of the Outsider (2017)\nDeus Ex: Human Revolution (2011)\nCyberpunk 2077 (2020)\nThumper (2016)\nDead Cells (2018)\nPortal (2007)\nHalf-Life 2: Episode One (2006)\nBattle Chef Brigade (2017)\nBejeweled 3 (2010)\nFIFA 21 (2020)\nBurnout Paradise (2008)\nYoku's Island Express (2018)\nCrypt of the NecroDancer (2015)\nToodee and Topdee (2021)\nPyre (2017)\nOctopath Traveler (2018)\nPuzzle Quest: Challenge of the Warlords (2007)\nMass Effect 2 (2010)\nUndertale (2015)\nEverhood (2021)\nChasm (2018)\nHollow Knight (2017)\nAssassin's Creed: Origins (2017)\nMarvel's Avengers (2020)\nSpelunky (2012)\nShovel Knight: Pocket Dungeon (2021)\nMixolumia (2020)\n868-HACK (2015) \nLumines Remastered (2018)\n\n=== Credits ===\n\nMusic provided by Epidemic Sound - https://www.epidemicsound.com/referral/vtdu5y (Referral Link)\n\nDerek Yu photo by Alex Van Aken\n\n=== Subtitles ===\n\nContribute translated subtitles - https://amara.org/en-gb/videos/KRCdUJTZF82h/"
+  },
+  {
+    "Title": "2022 Indian Scout Bobber Motorcycle",
+    "Url": "https://www.indianmotorcycle.com/en-us/scout-bobber/",
+    "Timestamp": "2022-08-07T00:01:32",
+    "Domain": "www.indianmotorcycle.com",
+    "Description": "Stripped-down and blacked-out with barely-tamed power. Find price and colors for the 2022 Indian Scout Bobber Motorcycle."
+  },
+  {
+    "Title": "MPC In The Head Special",
+    "Url": "https://cronokirby.substack.com/p/mpc-in-the-head-special",
+    "Timestamp": "2022-08-07T00:01:30",
+    "Domain": "cronokirby.substack.com",
+    "Description": "Listen now (72 min) | Did you know that not all ZK proofs are SNARKs? Do you want to know how to make concretely efficient ZK proofs? (Terms and conditions may apply). This is the episode for you!"
+  },
+  {
+    "Title": "CK's Cold Dive",
+    "Url": "https://cronokirby.substack.com/embed/podcast/mpc-in-the-head-special?autoplay=1",
+    "Timestamp": "2022-08-07T00:01:29",
+    "Domain": "cronokirby.substack.com",
+    "Description": "Musings about programming, mathematics, and technology. Click to read CK's Cold Dive, by Lúcás Meier, a Substack publication. Launched 11 days ago."
+  }
+]

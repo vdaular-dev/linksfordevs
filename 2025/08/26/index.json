@@ -1,0 +1,359 @@
+[
+  {
+    "Title": "Do blogs need to be so lonely? - The History of the Web",
+    "Url": "https://thehistoryoftheweb.com/do-blogs-need-to-be-so-lonely/",
+    "Timestamp": "2025-08-26T22:03:49",
+    "Domain": "thehistoryoftheweb.com",
+    "Description": "If the web is participatory, and I really think it is, then how come blogging can feel so lonely?"
+  },
+  {
+    "Title": "Piloting Claude for Chrome",
+    "Url": "https://www.anthropic.com/news/claude-for-chrome",
+    "Timestamp": "2025-08-26T22:03:44",
+    "Domain": "www.anthropic.com",
+    "Description": "Announcing a pilot test of a new Claude browser extension"
+  },
+  {
+    "Title": "It takes 26 yottabytes of RAM to typecheck a union of Safe Integers",
+    "Url": "https://jacobasper.com/blog/it-takes-26-yottabytes-of-ram-to-typecheck-a-union-of-safe-integers/",
+    "Timestamp": "2025-08-26T22:03:39",
+    "Domain": "jacobasper.com",
+    "Description": "Sometimes `number` is good enough"
+  },
+  {
+    "Title": "Algorithms to Live By: Sliding Window",
+    "Url": "https://jordangoodman.bearblog.dev/algorithms-to-live-by-sliding-window/",
+    "Timestamp": "2025-08-26T22:03:36",
+    "Domain": "jordangoodman.bearblog.dev",
+    "Description": "\n\nOptimal Stopping: Look at the first 37 percent of options and then pick the next one that is better.\n\nExplore/Exploit: Try new things at the start and ..."
+  },
+  {
+    "Title": "Mystery of the missing Bluesky posts",
+    "Url": "https://anderegg.ca/2025/08/25/a-bluesky-mystery",
+    "Timestamp": "2025-08-26T22:03:32",
+    "Domain": "anderegg.ca",
+    "Description": "UPDATE: I heard back from Bryan Newbold, protocol engineer at Bluesky, about this. It seems this is an issue with the AppView layer of the protocol when it comes to large threads. There’s a new API in the works that’s set to help out with this problem. I’m glad to hear it wasn’t just me missing something obvious! The original post follows below."
+  },
+  {
+    "Title": "SMS URLs",
+    "Url": "https://sethmlarson.dev/sms-urls",
+    "Timestamp": "2025-08-26T22:03:29",
+    "Domain": "sethmlarson.dev",
+    "Description": "Did you know there are is a URL scheme for sending\nan “SMS” or text message, similar to mailto:? SMS URLs\nare defined in RFC 5724 and are formatted like so:\n\nsms:&lt;recipient(s)&gt;?body=&lt;body&..."
+  },
+  {
+    "Title": "Skip the Next iPhone",
+    "Url": "https://josem.co/skip-the-next-iphone",
+    "Timestamp": "2025-08-26T22:03:26",
+    "Domain": "josem.co",
+    "Description": "There’s a ritual that happens every September. Apple unveils its latest iPhone, and millions of us suddenly discover that the device in our pocket—the one we loved just yesterday—has become obsolete.\nIt’s marketing genius, really. The same phone that was “revolutionary” twelve months ago is now just…old.\nBig tech companies have mastered the art of manufactured desire. Apple and Samsung don’t need to release a new phone every year—the technological leaps between generations have become increasingly small. But why wait three years when you can extract revenue annually?"
+  },
+  {
+    "Title": "From Bug Bounties to $100M Exit: The Bootstrapped Journey of AssetNote ",
+    "Url": "https://www.valleyofdoubt.com/p/from-bug-bounties-to-100m-exit-the",
+    "Timestamp": "2025-08-26T22:03:22",
+    "Domain": "www.valleyofdoubt.com",
+    "Description": "How two Australian hackers built a global cybersecurity company without taking a single dollar of VC funding"
+  },
+  {
+    "Title": "Inside the S&P 500: Cracking a Decade of Market Code",
+    "Url": "https://devden.raghavan.studio/p/inside-the-s-and-p-500-cracking-a",
+    "Timestamp": "2025-08-26T22:03:18",
+    "Domain": "devden.raghavan.studio",
+    "Description": "🚀 What backtests reveal about classic buy-and-hold philosophy"
+  },
+  {
+    "Title": "Robust Software, Clear Thinking, and Production Excellence in Release It!",
+    "Url": "https://www.stevenoxley.com/blog/2025/08/26/robust-software-clear-thinking-and-production-excellence-in-release-it/",
+    "Timestamp": "2025-08-26T22:03:14",
+    "Domain": "www.stevenoxley.com",
+    "Description": "I recently ran a book club at Seeq for the book Release It! by Michael T. Nygard. It’s a new entry on my list of recommended books for all software engineers - platform engineers included. There are a bunch of great, practical insights to be harvested. Throughout the book, I found myself reflecting on the systems I work on at Seeq or even checking code to verify some detail that Nygard had brought to mind."
+  },
+  {
+    "Title": "Forensic RL: Investigating a Surprisingly Successful Bug – Breakout Baseline #5",
+    "Url": "https://theprincipledagent.com/2025/08/26/forensic-rl-investigating-a-surprisingly-successful-bug-breakout-baseline-5/",
+    "Timestamp": "2025-08-26T22:03:10",
+    "Domain": "theprincipledagent.com",
+    "Description": "The case landed on my desk late. The loss curves were a mess, all volatility and noise, the kind of data that spells trouble. Then the score walked in: 84. A perfect score. Too perfect. I’d b…"
+  },
+  {
+    "Title": "rv, a new kind of Ruby management tool",
+    "Url": "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/",
+    "Timestamp": "2025-08-26T22:03:07",
+    "Domain": "andre.arko.net",
+    "Description": "For the last ten years or so of working on Bundler, I’ve had a wish rattling around: I want a better dependency manager. It doesn’t just manage your gems, it manages your ruby versions, too. It doesn’t just manage your ruby versions, it installs pre-compiled rubies so you don’t have to wait for ruby to compile from source every time. And more than all of that, it makes it completely trivial to run any script or tool written in ruby, even if that script or tool needs a different ruby than your application does."
+  },
+  {
+    "Title": "Musings on evergreen content",
+    "Url": "https://gabrielweinberg.com/p/musings-on-evergreen-content",
+    "Timestamp": "2025-08-26T22:03:04",
+    "Domain": "gabrielweinberg.com",
+    "Description": "Building an audience for ideas that last"
+  },
+  {
+    "Title": "Can LLMs dream of Electric Sheep?",
+    "Url": "https://sankalp.bearblog.dev/can-llms-dream-of-electric-sheep/",
+    "Timestamp": "2025-08-26T22:02:59",
+    "Domain": "sankalp.bearblog.dev",
+    "Description": "I forgot to cancel my Midjourney v7 subscription last month. I love Midjourney, amazing model and great product. I have been short on ideas and, honestly, co..."
+  },
+  {
+    "Title": "I Bought An N100 Mini PC, Then Another",
+    "Url": "https://blog.alexellis.io/n100-mini-computer/",
+    "Timestamp": "2025-08-26T22:02:55",
+    "Domain": "blog.alexellis.io",
+    "Description": "Exploring the capabilities of the Intel N100 Mini PC for work and self-hosting as an alternative to public cloud."
+  },
+  {
+    "Title": "Make + SQL: An old new way for Data Science workloads",
+    "Url": "https://vasvir.wordpress.com/2025/08/26/make-sql-an-old-new-way-for-data-science-workloads/",
+    "Timestamp": "2025-08-26T22:02:51",
+    "Domain": "vasvir.wordpress.com",
+    "Description": "Make + SQL: An old new way for Data Science workloads"
+  },
+  {
+    "Title": "H2C Is on the Way: Here’s How It All Started",
+    "Url": "https://blog.bambulab.com/h2c-is-on-the-way-heres-how-it-all-started/",
+    "Timestamp": "2025-08-26T22:02:48",
+    "Domain": "blog.bambulab.com",
+    "Description": "I hope you’re as excited as we are about the launch of H2S. After all, H2S is more like the product everyone has been asking for over the past three years; essentially a bigger X1C.\n\nBut this launch also brings us a tough question: should we let everyone know"
+  },
+  {
+    "Title": "Peter Sobot's Blog - Shelling Out is Selling Out",
+    "Url": "https://petersobot.com/blog/shelling-out-is-selling-out/index.html",
+    "Timestamp": "2025-08-26T22:02:44",
+    "Domain": "petersobot.com",
+    "Description": "August 03, 2025\n            3 weeks ago"
+  },
+  {
+    "Title": "How to use LLMs for studying without bullshitting yourself",
+    "Url": "https://www.hellmayr.com/blog/2025-08-26-study-with-ai",
+    "Timestamp": "2025-08-26T22:02:41",
+    "Domain": "www.hellmayr.com",
+    "Description": "The biggest danger in learning is thinking you understand something when you don't. LLMs make this especially easy. They're like a machine for manufacturin..."
+  },
+  {
+    "Title": "Framework Laptop 16 pre-orders are now open!",
+    "Url": "https://frame.work/ro/en/laptop16?tab=whats-new",
+    "Timestamp": "2025-08-26T22:02:38",
+    "Domain": "frame.work",
+    "Description": "Framework Laptop 16 is an endlessly customizable laptop with upgradable graphics, powered by NVIDIA® GeForce RTX™ 5070 and AMD's latest Ryzen™ AI 300 Series processors."
+  },
+  {
+    "Title": "Alexander Nicita",
+    "Url": "https://www.nicita.cc/blog/antonym-of-the-market",
+    "Timestamp": "2025-08-26T22:02:33",
+    "Domain": "www.nicita.cc",
+    "Description": "welcome. email: alex@nicita.cc"
+  },
+  {
+    "Title": "Inside CPython's attribute lookup - Antonio Cuni's blog",
+    "Url": "https://antocuni.eu/2025/08/25/inside-cpythons-attribute-lookup/",
+    "Timestamp": "2025-08-26T22:02:30",
+    "Domain": "antocuni.eu",
+    "Description": "Python's attribute lookup logic seems pretty simple at a first glance: \"first\nlook in the instance __dict__, then look in its type\"."
+  },
+  {
+    "Title": "Learning how MCP works by reading logs - and building MCP Interceptor",
+    "Url": "https://thomasgauvin.com/writing/learning-how-mcp-works-by-reading-logs-and-building-mcp-interceptor/",
+    "Timestamp": "2025-08-26T22:02:26",
+    "Domain": "thomasgauvin.com",
+    "Description": "I'm a product builder and web developer. I believe the web is the best distribution platform we have as developers to reach everyone across the world."
+  },
+  {
+    "Title": "Byte - a visual archive",
+    "Url": "https://byte.tsundoku.io/",
+    "Timestamp": "2025-08-26T21:02:11",
+    "Domain": "byte.tsundoku.io",
+    "Description": "A visual archive.\n        About."
+  },
+  {
+    "Title": "We regret but have to temporary suspend the shipments to USA",
+    "Url": "https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/",
+    "Timestamp": "2025-08-26T19:02:17",
+    "Domain": "olimex.wordpress.com",
+    "Description": "Starting August 29th, new regulations have come into effect. Both DHL and UPS currently have no working solution, so on their advice, we are temporarily suspending all shipments to the USA effectiv…"
+  },
+  {
+    "Title": "Introducing Gemini 2.5 Flash Image, our state-of-the-art image model- Google Developers Blog",
+    "Url": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
+    "Timestamp": "2025-08-26T18:02:15",
+    "Domain": "developers.googleblog.com",
+    "Description": "Explore Gemini 2.5 Flash Image, a powerful new image generation and editing model with advanced features and creative control."
+  },
+  {
+    "Title": "Create and edit images with Gemini 2.5 Flash Image",
+    "Url": "https://deepmind.google/models/gemini/image/",
+    "Timestamp": "2025-08-26T17:02:10",
+    "Domain": "deepmind.google",
+    "Description": "Bring your imagination to life. Generate detailed images with Gemini, using text and image prompts."
+  },
+  {
+    "Title": "New MIT study says most AI projects are doomed...",
+    "Url": "https://youtube.com/watch?v=ly6YKz9UfQ4",
+    "Timestamp": "2025-08-26T17:02:06",
+    "Domain": "youtube.com",
+    "Description": "Get the best pair programming app for remote teams - https://tuple.app/fireship - Use code FIRESHIP for a discount\n\nA new MIT study says that 95% of corporate GenAI projects have failed, Meta is pulling back on its AI spend, and tech markets are getting nervous. Is the AI bubble starting to pop? \n\n💬 Chat with Me on Discord\n\nhttps://discord.gg/fireship\n\n🔗 Resources\n\nhttps://www.axios.com/2025/08/21/ai-wall-street-big-tech\n\n📚 Chapters\n\n🔥 Get More Content - Upgrade to PRO\n\nUpgrade at https://fireship.io/pro\nUse code YT25 for 25% off PRO access \n\n🎨 My Editor Settings\n\n- Atom One Dark \n- vscode-icons\n- Fira Code Font"
+  },
+  {
+    "Title": "macOS dotfiles should not go in ~/Library/Application Support",
+    "Url": "https://becca.ooo/blog/macos-dotfiles/",
+    "Timestamp": "2025-08-26T16:01:55",
+    "Domain": "becca.ooo",
+    "Description": "A CLI tool is not an app, and none of you are reading the docs as carefully as you think you are"
+  },
+  {
+    "Title": "Will Smith's concert crowds are real, but AI is blurring the lines - Waxy.org",
+    "Url": "https://waxy.org/2025/08/will-smiths-concert-crowds-were-real-but-ai-is-blurring-the-lines/",
+    "Timestamp": "2025-08-26T12:02:03",
+    "Domain": "waxy.org",
+    "Description": "Will Smith is being accused of generating fake fans with AI, but it's complicated: the crowds are real, but the videos were manipulated by Smith's team and YouTube itself."
+  },
+  {
+    "Title": "MacOS 26 Tahoe’s Dead Canary Utility App Icons",
+    "Url": "https://daringfireball.net/2025/08/macos_26_tahoes_dead_canary_utility_app_icons",
+    "Timestamp": "2025-08-26T07:02:03",
+    "Domain": "daringfireball.net",
+    "Description": "These are the not the work of carpenters who care about the backs of the cabinets they’re building. These icons are so bad, they look like the work of untrained “How hard can it be?” dilettante carpenters who only last a few days on the job before sawing off one of their own fingers."
+  },
+  {
+    "Title": "Dual Roomba",
+    "Url": "https://xkcd.com/3133/",
+    "Timestamp": "2025-08-26T04:02:12",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Google's Liquid Cooling at Hot Chips 2025",
+    "Url": "https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips",
+    "Timestamp": "2025-08-26T03:02:10",
+    "Domain": "chipsandcheese.com",
+    "Description": "Datacenter-Scale Heat Management"
+  },
+  {
+    "Title": "🔒 Complex passwords are a waste of time | Ian McCloy Blog",
+    "Url": "https://ianmccloy.com/blog/complex-passwords-are-a-waste-of-time/",
+    "Timestamp": "2025-08-26T00:03:33",
+    "Domain": "ianmccloy.com",
+    "Description": "Believe it or not, a strong password does not really secure your online accounts"
+  },
+  {
+    "Title": "My Brainrot Demands Slop: Infinite Jest and GenAI",
+    "Url": "https://mattwie.se/infinite-jest-genai-slop",
+    "Timestamp": "2025-08-26T00:03:28",
+    "Domain": "mattwie.se",
+    "Description": "The parallel between GenAI Slop and Infinite Jest's The Entertainment"
+  },
+  {
+    "Title": "Multimodal LLMs are blind",
+    "Url": "https://www.moderndescartes.com/essays/blind_llms/",
+    "Timestamp": "2025-08-26T00:03:24",
+    "Domain": "www.moderndescartes.com",
+    "Description": "Originally posted 2025-08-23"
+  },
+  {
+    "Title": "Big O",
+    "Url": "https://samwho.dev/big-o/",
+    "Timestamp": "2025-08-26T00:03:21",
+    "Domain": "samwho.dev",
+    "Description": "A visual introduction to big O notation."
+  },
+  {
+    "Title": "It’s Not Wrong that (for HN) “🤦🏼‍♂️”.length == 36 – Francesco Bigiarini: defeating AIs with a screwdriver",
+    "Url": "https://zaerl.com/2025/08/24/its-not-wrong-that-for-hn-%F0%9F%A4%A6%F0%9F%8F%BC%E2%99%82%EF%B8%8F-length-36/",
+    "Timestamp": "2025-08-26T00:03:17",
+    "Domain": "zaerl.com",
+    "Description": "Hey! Unintentional clickbait! I am not talking about how a space character has length 36 in Hacker News! If you are coming here from HN the above  emoji have been replaced with a space!"
+  },
+  {
+    "Title": "How teams grow organically",
+    "Url": "https://frederickvanbrabant.com/blog/2025-08-22-how-teams-grow-organically/",
+    "Timestamp": "2025-08-26T00:03:14",
+    "Domain": "frederickvanbrabant.com",
+    "Description": "Frederick's delirious rants"
+  },
+  {
+    "Title": "I coached ChatGPT into crossing its own line",
+    "Url": "https://myexocortex.bearblog.dev/i-coached-chatgpt-into-crossing-its-own-line/",
+    "Timestamp": "2025-08-26T00:03:11",
+    "Domain": "myexocortex.bearblog.dev",
+    "Description": "Tl;dr:\nWhat happens if you don’t just prompt ChatGPT, but coach it? I used basic coaching tools (confrontation, scaling, reframing) to push it beyond a repe..."
+  },
+  {
+    "Title": "Nathaniel Emodi - Blog",
+    "Url": "https://natemodi.com/blog/focus/",
+    "Timestamp": "2025-08-26T00:03:07",
+    "Domain": "natemodi.com",
+    "Description": "Two years ago, as the dust of NFT hype was settling, we shipped Highlight: the first open-to-all generative platform on Ethereum. Robust, self-sovereign, and focused on helping anyone, anywhere realize their creative value."
+  },
+  {
+    "Title": "Understanding alignment - from source to object file",
+    "Url": "https://maskray.me/blog/2025-08-24-understanding-alignment-from-source-to-object-file",
+    "Timestamp": "2025-08-26T00:03:04",
+    "Domain": "maskray.me",
+    "Description": "Alignment refers to the practice of placing data or code at memory addresses that are multiples of a specific value, typically a power of 2. This is typically done to meet the requirements of the prog"
+  },
+  {
+    "Title": "Exploring the tragedy of the Counter-Strike 2 server browser",
+    "Url": "https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/",
+    "Timestamp": "2025-08-26T00:03:00",
+    "Domain": "bphilip.uk",
+    "Description": "An examination of the mess that is the CS2 server browser."
+  },
+  {
+    "Title": "Memory optimizations to reduce CPU costs",
+    "Url": "https://ayende.com/blog/203011-A/memory-optimizations-to-reduce-cpu-costs",
+    "Timestamp": "2025-08-26T00:02:55",
+    "Domain": "ayende.com",
+    "Description": "Imagine that you are given the following task, with a file like this:Name,Department,Salary,JoinDate\nJohn Smith,Marketing,75000,2023-01-15\nAlice Johnson,Fi..."
+  },
+  {
+    "Title": "Randomness Made to Order, part 1",
+    "Url": "https://mathenchant.wordpress.com/2025/08/23/randomness-made-to-order-part-1/",
+    "Timestamp": "2025-08-26T00:02:50",
+    "Domain": "mathenchant.wordpress.com",
+    "Description": "As a member of the Advisory Council for the National Museum of Mathematics (“MoMath”) over the past decade, I’ve had a number of unique opportunities, such as the thrilling chance…"
+  },
+  {
+    "Title": "Pebble 2 Duo is in mass production!",
+    "Url": "https://ericmigi.com/blog/pebble-2-duo-is-in-mass-production/",
+    "Timestamp": "2025-08-26T00:02:47",
+    "Domain": "ericmigi.com",
+    "Description": "Pebble 2 Duo is in mass production!"
+  },
+  {
+    "Title": "Improving search for deep research agents – Vishnu Dut",
+    "Url": "https://www.vishnudut.com/blog/deep-research-agent",
+    "Timestamp": "2025-08-26T00:02:41",
+    "Domain": "www.vishnudut.com",
+    "Description": "My experience using the Deep Research API"
+  },
+  {
+    "Title": "Understanding Promise.any(): when one success is enough - Matt Smith",
+    "Url": "https://allthingssmitty.com/2025/08/25/understanding-promise-any-when-one-success-is-enough/",
+    "Timestamp": "2025-08-26T00:02:38",
+    "Domain": "allthingssmitty.com",
+    "Description": "Learn how Promise.any() helps you handle multiple promises by resolving with the first success, perfect for fallback APIs and progressive features in JavaScript."
+  },
+  {
+    "Title": "When Switches Flood LLDP Traffic « ipSpace.net blog",
+    "Url": "https://blog.ipspace.net/2025/08/switches-flood-lldp/",
+    "Timestamp": "2025-08-26T00:02:34",
+    "Domain": "blog.ipspace.net",
+    "Description": "A networking engineer (let’s call him Joe1) sent me an interesting challenge: they built a data center network with Cisco switches, and the switches flood LLDP packets between servers.\nThat would be interesting by itself (the whole network would appear as a single hub), but they’re also using DCBX (which is riding in LLDP TLVs), and the DCBX parameters are negotiated between servers (not between servers and adjacent switches), sometimes resulting in NIC resets2."
+  },
+  {
+    "Title": "A Fast Bytecode VM for Arithmetic: The Compiler",
+    "Url": "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/",
+    "Timestamp": "2025-08-26T00:02:30",
+    "Domain": "abhinavsarkar.net",
+    "Description": "We write a fast bytecode VM for arithmetic in Haskell."
+  },
+  {
+    "Title": "Nicolas Rinaudo - Hands on Capture Checking",
+    "Url": "https://nrinaudo.github.io/articles/capture_checking.html",
+    "Timestamp": "2025-08-26T00:02:25",
+    "Domain": "nrinaudo.github.io",
+    "Description": "The full code for this article can be viewed here."
+  }
+]

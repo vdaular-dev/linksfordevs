@@ -1,0 +1,289 @@
+[
+  {
+    "Title": "Worth Reading - Gen Z, millennials: A college degree is a waste of money and time",
+    "Url": "https://www.mikemcbrideonline.com/2025/05/worth-reading-gen-z-millennials-a-college-degree-is-a-waste-of-money-and-time/",
+    "Timestamp": "2025-06-04T22:02:34",
+    "Domain": "www.mikemcbrideonline.com",
+    "Description": "When you're looking at student loan debt and an uncertain job market, while being asked to learn new skills, it's understandable to question what all that college was for in the first place. I'm not saying there's no value in a college education. Still, the cost-benefit analysis is changing for many people right now, because learning and upskilling won't stop when school is over. They keep going, and it's only going to keep happening faster. "
+  },
+  {
+    "Title": "Leave the Bucket - kupajo",
+    "Url": "https://kupajo.com/leave-the-bucket/",
+    "Timestamp": "2025-06-04T22:02:33",
+    "Domain": "kupajo.com",
+    "Description": "When crabs are thrown into a bucket, they instinctively grab at other crabs trying to climb out. As a group, crabs in a bucket pull each other down, preventing one another from escaping."
+  },
+  {
+    "Title": "Experimenting with no-build Web Applications • AndreGarzia.com",
+    "Url": "https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html",
+    "Timestamp": "2025-06-04T22:02:33",
+    "Domain": "andregarzia.com",
+    "Description": "AndreGarzia.com website"
+  },
+  {
+    "Title": "Font Around and Find Out",
+    "Url": "https://www.jasonthorsness.com/27",
+    "Timestamp": "2025-06-04T22:02:32",
+    "Domain": "www.jasonthorsness.com",
+    "Description": "Font Around and Find Out"
+  },
+  {
+    "Title": "Quality & taste | Stories",
+    "Url": "https://mfelix.org/stories/quality-and-taste/",
+    "Timestamp": "2025-06-04T22:02:32",
+    "Domain": "mfelix.org",
+    "Description": "two things LLMs can't understand"
+  },
+  {
+    "Title": "Predictions by Anthropic Researchers",
+    "Url": "https://solmaz.io/log/2025/06/04/dwarkesh-sholto-trenton-2/",
+    "Timestamp": "2025-06-04T22:02:32",
+    "Domain": "solmaz.io",
+    "Description": "Dwarkesh Patel has recently interviewed Sholto Douglas and Trenton Bricken for a second time, and the podcast is very enlightening in terms of how the big AI labs think in terms of their economic strategy:"
+  },
+  {
+    "Title": "The Art of SQL Query Optimization",
+    "Url": "https://jnidzwetzki.github.io/2025/06/03/art-of-query-optimization.html",
+    "Timestamp": "2025-06-04T22:02:31",
+    "Domain": "jnidzwetzki.github.io",
+    "Description": "SQL is a declarative language; only the result of the query is specified. The exact steps to produce the result must be determined by the DBMS. Often, multiple ways exist to calculate a query result. For example, the DBMS can choose to use an index or perform a sequential scan on a table to find the needed tuples. The query optimizer is responsible for finding the most efficient plan for a given query. The plan generator creates possible plans, which are then evaluated based on their costs. Afterward, the cheapest plan is chosen and executed. When the DBMS expects to return a large portion of the table, a full table scan can be more efficient than following the pointers in an index structure. However, it is hard to determine when the DBMS prefers one plan over another and when the switch between plans occurs. In a few evenings of vibe coding, I implemented the plan explorer for PostgreSQL. It iterates over a search space and generates visualizations that show when the plan changes and how many tuples are expected versus the actual number returned. This blog post examines the “art” of query optimization. It discusses the plan explorer tool, the images the tool generates, and the insights the tool provides into the decisions made by the PostgreSQL query optimizer."
+  },
+  {
+    "Title": "Ditching Sonos for Music Assistant",
+    "Url": "https://www.jonashietala.se/blog/2025/06/04/ditching_sonos_for_music_assistant/",
+    "Timestamp": "2025-06-04T22:02:31",
+    "Domain": "www.jonashietala.se",
+    "Description": "My general advice for life is: be a good person, and care for the people around you. And follow this one very specific rule: avoid vendor lock-in."
+  },
+  {
+    "Title": "Too Many Open Files",
+    "Url": "https://mattrighetti.com/2025/06/04/too-many-files-open",
+    "Timestamp": "2025-06-04T22:02:31",
+    "Domain": "mattrighetti.com",
+    "Description": "Recently I’ve been working on a pretty big rust project and to my surprise Icouldn’t get tests to work properly."
+  },
+  {
+    "Title": "Being Organic",
+    "Url": "https://hangyuan.xyz/2025/05/19/being_organic.html",
+    "Timestamp": "2025-06-04T22:02:30",
+    "Domain": "hangyuan.xyz",
+    "Description": "Lately, I’ve been reflecting on the concept of being organic. To me, being organic means not forcing things to happen. It’s a mindset of alignment—understanding nature, respecting its pace, and all..."
+  },
+  {
+    "Title": "How Compiler Explorer Works in 2025 — Matt Godbolt’s blog",
+    "Url": "https://xania.org/202506/how-compiler-explorer-works",
+    "Timestamp": "2025-06-04T22:02:30",
+    "Domain": "xania.org",
+    "Description": "How we handle 92 million compilations a year without everything catching fire"
+  },
+  {
+    "Title": "Why Open Source Maintainers Thrive in the LLM Era",
+    "Url": "https://mikemcquaid.com/why-open-source-maintainers-thrive-in-the-llm-era/",
+    "Timestamp": "2025-06-04T22:02:30",
+    "Domain": "mikemcquaid.com",
+    "Description": "At the time of writing (June 2025), the prevailing view in the software industry is that LLM-powered AI is either completely useless or will imminently destroy all software engineering jobs. As you might expect, the reality is somewhere in between. In this post, I’ll share my journey with LLM tooling, from reviewing an early, internal alpha of GitHub Copilot to my current daily usage of Cursor, ChatGPT, and the latest Copilot offerings. My perspective is that of a startup founder (of Workbrew) and long-time open source software maintainer (of Homebrew)"
+  },
+  {
+    "Title": "Michael Tsai - Blog - The Automation Gap",
+    "Url": "https://mjtsai.com/blog/2025/06/03/the-automation-gap/",
+    "Timestamp": "2025-06-04T22:02:30",
+    "Domain": "mjtsai.com",
+    "Description": "John Voorhees:"
+  },
+  {
+    "Title": "Trojan Horse",
+    "Url": "https://xkcd.com/3098/",
+    "Timestamp": "2025-06-04T22:02:28",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Persistent storage is for cowards | Lukas Knuth",
+    "Url": "https://lknuth.dev/writings/persistent_storage_cowards/",
+    "Timestamp": "2025-06-04T22:02:27",
+    "Domain": "lknuth.dev",
+    "Description": "About a year ago, I rebuild my home server. It still runs on Kubernetes, but I moved away from traditional tooling associated with it. The goal was simplicity; and I made some opinionated choices to achieve it. For example, I deploy everything using Terraform with the Kubernetes provider - no more YAML!\nFor hardware, I just have a single Raspberry Pi 4. There is no external storage attached to it, so everything is on an SD Card that could be corrupted at any point. I would like very much for my application data to not be lost when that happens though."
+  },
+  {
+    "Title": "JSON Edit",
+    "Url": "https://sascha-andres.github.io/jsonedit/",
+    "Timestamp": "2025-06-04T22:02:27",
+    "Domain": "sascha-andres.github.io",
+    "Description": "A web-based JSON editor application"
+  },
+  {
+    "Title": "Catch Up on Microsoft Build 2025: Essential Sessions for .NET Developers - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/catching-up-on-microsoft-build-2025-essential-sessions-for-dotnet-developers/",
+    "Timestamp": "2025-06-04T20:02:24",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Get up to date on all of the .NET sessions from Microsoft Build 2025 covering .NET 10, C# 14, .NET Aspire, ASP.NET Core, Blazor, AI development, and more!"
+  },
+  {
+    "Title": "git.ffmpeg.org Git - ffmpeg.git/commit",
+    "Url": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+    "Timestamp": "2025-06-04T20:02:18",
+    "Domain": "git.ffmpeg.org",
+    "Description": null
+  },
+  {
+    "Title": "Direct File on GitHub",
+    "Url": "https://chrisgiven.com/2025/05/direct-file-on-github/",
+    "Timestamp": "2025-06-04T20:02:17",
+    "Domain": "chrisgiven.com",
+    "Description": "Personal blog of Chris Given, government technologist. These words are always written by a human; I have no one to blame but myself."
+  },
+  {
+    "Title": "Why I Wrote the BEAM Book",
+    "Url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+    "Timestamp": "2025-06-04T18:02:35",
+    "Domain": "happihacking.com",
+    "Description": "The story behind writing The BEAM Book—ten years, three publishers, and an open‑source sprint."
+  },
+  {
+    "Title": "Problems in Precious Plastic",
+    "Url": "https://www.preciousplastic.com//news/problems-in-precious-plastic",
+    "Timestamp": "2025-06-04T13:02:21",
+    "Domain": "www.preciousplastic.com",
+    "Description": "News update: Precious Plastic is in problems. You can decide the future of the project. Die or grow"
+  },
+  {
+    "Title": "DiffX - Next-Generation Extensible Diff Format",
+    "Url": "https://diffx.org/",
+    "Timestamp": "2025-06-04T12:02:10",
+    "Domain": "diffx.org",
+    "Description": "If you’re a software developer, you’ve probably worked with diff files. Git\ndiffs, Subversion diffs, CVS diffs.. Some kind of diff. You probably haven’t\ngiven it a second thought, really. You make some changes, run a command, a\ndiff comes out. Maybe you hand it to someone, or apply it elsewhere, or put it\nup for review."
+  },
+  {
+    "Title": "Rachel Thomas, PhD - Deep learning gets the glory, deep fact checking gets ignored",
+    "Url": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+    "Timestamp": "2025-06-04T01:02:12",
+    "Domain": "rachel.fast.ai",
+    "Description": "an AI researcher going back to school for immunology"
+  },
+  {
+    "Title": "Seven Mistakes When Applying For An Engineering Job – Bohemian Valley",
+    "Url": "https://bohemianvalley.tech/2025/06/seven-mistakes-when-applying-for-an-engineering-job/",
+    "Timestamp": "2025-06-04T00:05:35",
+    "Domain": "bohemianvalley.tech",
+    "Description": "https://www.youtube.com/watch?v=gxwyKJOLQRM"
+  },
+  {
+    "Title": "How I improved my unit tests",
+    "Url": "https://blog.ademapps.dev/how-i-improved-my-unit-tests/",
+    "Timestamp": "2025-06-04T00:02:45",
+    "Domain": "blog.ademapps.dev",
+    "Description": "Hello, welcome to a new post!\n\nToday I want to talk about a very important topic that should never be missing in serious software development: unit tests.\n\nUnit tests are code we write to validate the logic of our program. These tests are characterized by evaluating small parts of the"
+  },
+  {
+    "Title": "Uniqueness for Behavioural Types · KC Sivaramakrishnan",
+    "Url": "https://kcsrk.info/ocaml/modes/2025/05/29/uniqueness_and_behavioural_types/",
+    "Timestamp": "2025-06-04T00:02:44",
+    "Domain": "kcsrk.info",
+    "Description": "29 May 2025"
+  },
+  {
+    "Title": "Poker for Startup Founders",
+    "Url": "https://blog.jonlu.ca/posts/poker-for-founders",
+    "Timestamp": "2025-06-04T00:02:44",
+    "Domain": "blog.jonlu.ca",
+    "Description": "Poker and startups share more than late nights, caffeine, and the occasional bluff. Both worlds rely on decision making under uncertainty, calculated risks, and knowing when to fold and move on. So let's break down some poker jargon with a founder's twist."
+  },
+  {
+    "Title": "The future of User Research - Jeremy Belcher",
+    "Url": "https://jeremybelcher.co/the-future-of-user-research/",
+    "Timestamp": "2025-06-04T00:02:42",
+    "Domain": "jeremybelcher.co",
+    "Description": "User research will need to adapt, and fast. But those who adapt will have an unfair advantage. Up until now, a core value of research has been to de-risk software development. When building is expensive, mistakes are costly, especially when they’re caught late. Getting smart up front via research leads to fewer mistakes down the... Continue reading →"
+  },
+  {
+    "Title": "Meet the LLM developer",
+    "Url": "https://www.ericburel.tech/blog/meet-the-llm-developer",
+    "Timestamp": "2025-06-04T00:02:42",
+    "Domain": "www.ericburel.tech",
+    "Description": "The LLM developer is a new specialized role, whose goal is to keep the complexity of creating and maintaining AI-based software solutions under control."
+  },
+  {
+    "Title": "Why I have slightly longer timelines than some of my guests",
+    "Url": "https://www.dwarkesh.com/p/timelines-june-2025",
+    "Timestamp": "2025-06-04T00:02:42",
+    "Domain": "www.dwarkesh.com",
+    "Description": "Continual learning is a huge bottleneck"
+  },
+  {
+    "Title": "Fabian Falck's personal website",
+    "Url": "https://www.fabianfalck.com/posts/spectralauto/",
+    "Timestamp": "2025-06-04T00:02:42",
+    "Domain": "www.fabianfalck.com",
+    "Description": "Fabian Falck, ML researcher, Generative Models"
+  },
+  {
+    "Title": "Error Monads The Hard Way",
+    "Url": "https://articles.pragdave.me/p/error-monads-the-hard-way",
+    "Timestamp": "2025-06-04T00:02:42",
+    "Domain": "articles.pragdave.me",
+    "Description": "I can't decide how to best express the equivalent of Haskell's Error monad and DO block in Ruby..."
+  },
+  {
+    "Title": "I Got Fine-Tuned to Use More Em Dashes Too - Billy Gardner McIntyre",
+    "Url": "https://gardnermcintyre.com/post/i-got-fine-tuned-to-use-more-em-dashes-too",
+    "Timestamp": "2025-06-04T00:02:40",
+    "Domain": "gardnermcintyre.com",
+    "Description": "June 3rd 2025"
+  },
+  {
+    "Title": "I \"built\" a newsletter app",
+    "Url": "https://bruceroettgers.eu/i-built-a-newsletter-app/",
+    "Timestamp": "2025-06-04T00:02:40",
+    "Domain": "bruceroettgers.eu",
+    "Description": "You can use it to read, archive and organise newsletters. It's free, synchronised between your devices and open-source."
+  },
+  {
+    "Title": "The Curse of Microlearning",
+    "Url": "https://sbaziotis.com/non-cs/the-curse-of-microlearning.html",
+    "Timestamp": "2025-06-04T00:02:40",
+    "Domain": "sbaziotis.com",
+    "Description": "I argue that microlearning is not effective for long-term appreciation of knowledge."
+  },
+  {
+    "Title": "technology isn’t invented, it’s inevitable",
+    "Url": "https://joeconway.io/2025/06/03/technology-isnt-invented-its-inevitable.html",
+    "Timestamp": "2025-06-04T00:02:39",
+    "Domain": "joeconway.io",
+    "Description": "I was training an engineering team at Apple in 2010 after a minor, but important, technology advancement - and they were pissed."
+  },
+  {
+    "Title": "I am tired of not having enough ram.",
+    "Url": "https://firoz.co/stories/1/",
+    "Timestamp": "2025-06-04T00:02:39",
+    "Domain": "firoz.co",
+    "Description": "A rant"
+  },
+  {
+    "Title": "UBI and the Environmental Cost of Overemployment",
+    "Url": "https://www.greshm.org/blog/ubi-and-the-environmental-cost-of-overemployment/",
+    "Timestamp": "2025-06-04T00:02:39",
+    "Domain": "www.greshm.org",
+    "Description": "\nImagine for a moment that we paused all economic growth.  The pie isn’t getting bigger, but it isn’t getting smaller either.\nNow, imagine we invent an efficiency improvement—some new technology. This means the same amount of goods and services can be produced with less employment of natural resources."
+  },
+  {
+    "Title": "How to avoid dynamic linking of Steam’s client library using a very old trick",
+    "Url": "https://nullonerror.org/2025/06/03/how-to-avoid-dynamic-linking-of-steam-s-client-library-using-a-very-old-trick/",
+    "Timestamp": "2025-06-04T00:02:38",
+    "Domain": "nullonerror.org",
+    "Description": "As you know, this blog is more focused on sharing code snippets than on teaching, so today I’m going to show you something I recently discovered."
+  },
+  {
+    "Title": "Joe LaChance",
+    "Url": "https://www.jlchnc.com/n/prompts",
+    "Timestamp": "2025-06-04T00:02:38",
+    "Domain": "www.jlchnc.com",
+    "Description": "Founder and developer."
+  },
+  {
+    "Title": "Optimizing AI Model Load Times",
+    "Url": "https://blog.jonlu.ca/posts/optimizing-model-load-times",
+    "Timestamp": "2025-06-04T00:02:38",
+    "Domain": "blog.jonlu.ca",
+    "Description": "At Weights, we handle millions of inference and training requests every day. Users frequently use and train LoRa models, resulting in nearly a petabyte of user-generated models."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "Title": "On Being Rich-ish: Lessons I learned becoming suddenly middle-class",
+    "Url": "https://www.residentcontrarian.com/p/on-being-rich-ish-lessons-i-learned",
+    "Timestamp": "2022-08-04T23:01:59",
+    "Domain": "www.residentcontrarian.com",
+    "Description": "There once was a guy who was very, very broke. To be clear, he wasn’t the brokest guy you’ve ever heard of. There were poorer people (he knew some, even) but he did spend a long, long time trying to raise a family on not a lot of money; think “a family of four on 35k or less in a major metropolitan area” destitute."
+  },
+  {
+    "Title": "What Is Cloud Asset Inventory? | Resoto by Some Engineering Inc.",
+    "Url": "https://resoto.com/blog/2022/07/28/what-is-cloud-asset-inventory",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "resoto.com",
+    "Description": "On March 14, 2006, Amazon Web Services (AWS) launched S3, the first public cloud service. Since then, cloud consumption has increased each year. Gartner estimates that worldwide spend on public cloud services will reach $600 billion in 2023, up from $410 billion in 2021. At annual growth rates of over 20%, the trillion-dollar market size is only a few years away."
+  },
+  {
+    "Title": "We only need to plant 1 trillion trees",
+    "Url": "https://blog.barac.at/we-only-need-to-plant-1-trillion-trees",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "blog.barac.at",
+    "Description": "Global CO2 emissions from fossil fuels are ~35 billion tonnes (35 trillion kgs) [1] Over one year, on average, a mature tree will absorb about 22 kg of CO2 from the atmosphere [2] Following from 1..."
+  },
+  {
+    "Title": "Thinking with pen and paper",
+    "Url": "https://ljvmiranda921.github.io/life/2022/08/04/pen-and-paper/",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "ljvmiranda921.github.io",
+    "Description": "With the world inundated with productivity apps, it feels nice to return to the tried and tested pen-and-paper methods. In this blog post, I'll share my anal..."
+  },
+  {
+    "Title": "Discovering Ruby on Rails: is it dead or alive?",
+    "Url": "https://bognov.tech/discovering-ruby-on-rails-is-it-dead-or-alive",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "bognov.tech",
+    "Description": "Should you learn Ruby on Rails? Here's quick overview and exploration of RoR: a full stack framework that follows the MVC pattern to build web apps."
+  },
+  {
+    "Title": "Strict-serializability, but at what cost, for what purpose?",
+    "Url": "http://muratbuffalo.blogspot.com/2022/08/strict-serializability-but-at-what-cost.html",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "muratbuffalo.blogspot.com",
+    "Description": "Strict-serializability guarantees that transactions appear to occur in an order consistent with the \"real-time\" ordering of those transactio..."
+  },
+  {
+    "Title": "Stop searching for shared libraries",
+    "Url": "https://stoppels.ch/2022/08/04/stop-searching-for-shared-libraries.html",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "stoppels.ch",
+    "Description": "Aug 4th, 2022"
+  },
+  {
+    "Title": "Prevent Forwarded header spoofing with HTTP message signature",
+    "Url": "https://raphael.medaer.me/2022/08/04/prevent-forwarded-header-spoofing.html",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "raphael.medaer.me",
+    "Description": "The Forwarded HTTP header has been introduced in RFC7239 from June 2014. It “defines an HTTP extension header field that allows proxy components to disclose information lost in the proxying process, for example, the originating IP address(…)”. However there is not any mechanism to protect subsequent component against spoofing. Indeed, if your subsequent component, let’s say an API, is exposed on Internet, anyone can forge a HTTP Forwarded header. If your API is always behind your proxy, it has to remove/replace the original Forwarded header. It becomes even more complex if you have multiple proxies."
+  },
+  {
+    "Title": "Keeping a project bisectable - tony is coding",
+    "Url": "https://andrealmeid.com/post/2022-07-31-keep-bisect/",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "andrealmeid.com",
+    "Description": "People write code. Test coverage is never enough. And we all write bugs."
+  },
+  {
+    "Title": "Starlite Mk IV laptop review",
+    "Url": "https://www.extua.pw/blog/2022/08/01/starlite_mk_iv_laptop_review/",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "www.extua.pw",
+    "Description": "Some occasional thoughts on politics and tech."
+  },
+  {
+    "Title": "Five Positive Interactions for Every Negative One",
+    "Url": "https://devtails.xyz/@adam/five-positive-for-every-negative",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "devtails.xyz",
+    "Description": "One piece of leadership advice that has stuck with me is the idea that for every negative interaction you have with someone, you need to have 5 positive ones to offset every 1 negative"
+  },
+  {
+    "Title": "The Firestarter",
+    "Url": "https://kinduff.com/2022/08/01/the-firestarter/",
+    "Timestamp": "2022-08-04T23:01:57",
+    "Domain": "kinduff.com",
+    "Description": "A quality I try to have and look for at my jobs."
+  },
+  {
+    "Title": "What’s wrong with this code? #shorts",
+    "Url": "https://www.youtube.com/watch?v=dybdytHOmjw",
+    "Timestamp": "2022-08-04T22:01:24",
+    "Domain": "www.youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Taking a .NET Core Web App Offline ... Gracefully",
+    "Url": "https://dev.to/jamiemcmanus/taking-a-net-core-web-app-offline-gracefully-4clp",
+    "Timestamp": "2022-08-04T22:01:23",
+    "Domain": "dev.to",
+    "Description": "Have you ever had to take a Web App offline for maintenance or a software update? How did you do it ?..."
+  },
+  {
+    "Title": "New '.NET Data Hub' Is One-Stop-Shop for .NET Data Handling -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/08/04/net-data-hub.aspx",
+    "Timestamp": "2022-08-04T21:01:29",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "'A new .NET Data landing page will help .NET developers quickly navigate to the area of interest.'"
+  },
+  {
+    "Title": "Marvin the Martian by reddadsteve | Download free STL model | Printables.com",
+    "Url": "https://www.printables.com/model/71931-marvin-the-martian",
+    "Timestamp": "2022-08-04T21:01:28",
+    "Domain": "www.printables.com",
+    "Description": "Marvin the Martian is an extraterrestrial character from Warner Bros.' Looney Tunes and Merrie Melodies cartoons. | Download free 3D printable STL models"
+  },
+  {
+    "Title": "Devs Reviving Winamp Struggled with Visual Studio 2008 to 2019 Upgrade -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/08/04/winamp-visual-studio.aspx",
+    "Timestamp": "2022-08-04T19:01:28",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "News emerged last week that famed Windows media player Winamp had been revived after four years of work by developers, whose biggest challenge was upgrading the project from Visual Studio 2008 to Visual Studio 2019."
+  },
+  {
+    "Title": ".NET MAUI Community Toolkit Monthly Standup (August 2022)",
+    "Url": "https://www.youtube.com/watch?v=B6AJ3iXAw_0",
+    "Timestamp": "2022-08-04T19:01:28",
+    "Domain": "www.youtube.com",
+    "Description": "Join us as we discuss the current happenings in the .NET MAUI Community Toolkit! https://github.com/CommunityToolkit/Maui"
+  },
+  {
+    "Title": ".NET Data Community Standup - Intercept this EF7 Preview 6 Event",
+    "Url": "https://ytb.trom.tf/watch?v=EJs3sSetr2Q",
+    "Timestamp": "2022-08-04T18:03:13",
+    "Domain": "ytb.trom.tf",
+    "Description": "EF7 includes a variety of new interceptors and events, as well as many improvements to the existing lifecycle hooks. In this session, Arthur and others from the .NET Data team will dive into this new functionality, including examples for intercepting materialization of entities, query expression trees, identity resolution when tracking, and optimistic concurrency violations. Join us for a fun-packed ride into the world of modifying EF behavior through interception with code galore!\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-07-13\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#efcore #entityframework #ef7"
+  },
+  {
+    "Title": ".NET Data Community Standup - DbDataSource, a new System.Data abstraction",
+    "Url": "https://ytb.trom.tf/watch?v=vRUtHeUpU44",
+    "Timestamp": "2022-08-04T18:03:13",
+    "Domain": "ytb.trom.tf",
+    "Description": "In this episode of the .NET data community standup, we'll explore DbDataSource, a new abstraction being introduced to System.Data in .NET 7.0. DbDataSource unlocks easier integration of ADO.NET drivers with dependency injection, better management of advanced driver configuration, helps performance and more. Tune in to see improvements at the lower levels of the .NET data stack.\n\nCommunity Links: https://www.theurlist.com/dotnetdata-2022-07-27\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#dotnet #data"
+  },
+  {
+    "Title": ".NET Data Community Standup - DbContext Configuration and Lifetime - EF Core Architecture Part 2",
+    "Url": "https://ytb.trom.tf/watch?v=NPgFlqXPbK8",
+    "Timestamp": "2022-08-04T18:03:13",
+    "Domain": "ytb.trom.tf",
+    "Description": "Arthur and others from the EF Team continue their deep dive into the architecture of Entity Framework Core. This is a code-driven discussion looking at how and why things are designed and implemented the way they are. In this session, we look at the initialization and configuration of a DbContext instance, including selection of the provider, creating DbSet instances, reading DbContextOptions, and DbContext pooling.\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-06-29\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#entityframework #efcore #orm"
+  },
+  {
+    "Title": "Matt Warren - Performance in the .NET Runtime - NDC London 2022",
+    "Url": "https://video.weiler.rocks/watch?v=YcZ-nZa2XgA",
+    "Timestamp": "2022-08-04T18:03:10",
+    "Domain": "video.weiler.rocks",
+    "Description": "We often take the .NET Runtime for granted and just let it get on with its job. But not only does it run our code, it ensures that it runs as fast as possible!\n\nIn this talk we'll take a walk through the internals of the 'Common Language Runtime' (CLR), from a performance perspective. Looking at some of the low-level tricks the .NET Core CLR does to make our code run as fast as possible. Covering 'Value Types', 'Tiered Compilation', 'Stubs' and more.\n\nAfterwards, you'll never take a simple 'method call' for granted again!!\n\n\nCheck out more of our featured speakers and talks at\nhttps://www.ndcconferences.com\nhttps://ndclondon.com/"
+  },
+  {
+    "Title": "Announcing .NET Community Toolkit 8.0! MVVM, Diagnostics, Performance, and more!",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-the-dotnet-community-toolkit-800/",
+    "Timestamp": "2022-08-04T17:01:47",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We're happy to announce the official launch of the new .NET Community Toolkit version 8.0! Including tons of new features such as MVVM source generators, diagnostics, performance helpers, and more!"
+  },
+  {
+    "Title": "Differentiating Visual Studio instances",
+    "Url": "https://devblogs.microsoft.com/visualstudio/differentiating-visual-studio-instances/",
+    "Timestamp": "2022-08-04T17:01:46",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "When you have multiple instances of Visual Studio open at the same time, it can be tricky to tell them apart. Especially if you’re working on different branches of the same solution, which makes them look almost identical. What if each instance could have a unique color so you could instantly tell them apart?"
+  },
+  {
+    "Title": "Making your async code thread safe | .NET Tips 3 #shorts",
+    "Url": "https://www.youtube.com/watch?v=mr8kdAauc7E",
+    "Timestamp": "2022-08-04T16:01:34",
+    "Domain": "www.youtube.com",
+    "Description": "How to lock your C# code in an async way in C# and .NET"
+  },
+  {
+    "Title": "The AArch64 processor (aka arm64), part 8: Bit shifting and rotation",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20220804-00/?p=106945",
+    "Timestamp": "2022-08-04T15:01:33",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Sliding around."
+  },
+  {
+    "Title": "Botspam Apocalypse [ 2022-08-03 ]",
+    "Url": "https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi",
+    "Timestamp": "2022-08-04T14:01:53",
+    "Domain": "memex.marginalia.nu",
+    "Description": "The \"future\" in the film Terminator 2 is set in the 2020s. If you apply its predictions to the running of a website, it's honestly very accurate."
+  },
+  {
+    "Title": "Experiment with post-quantum cryptography today",
+    "Url": "https://blog.cloudflare.com/experiment-with-pq/",
+    "Timestamp": "2022-08-04T13:01:19",
+    "Domain": "blog.cloudflare.com",
+    "Description": "The future is post quantum. Enable post-quantum key agreement on your test zone today and get a headstart"
+  },
+  {
+    "Title": "Write cleaner Minimal APIs with MediatR in .NET 7",
+    "Url": "https://www.youtube.com/watch?v=euUg_IHo7-s",
+    "Timestamp": "2022-08-04T12:01:28",
+    "Domain": "www.youtube.com",
+    "Description": "Get started with Octopus Deploy: https://oc.to/nickchapsasCheck out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://w..."
+  },
+  {
+    "Title": "Azure Functions in .NET runtime",
+    "Url": "https://microsoft.qualtrics.com/jfe/form/SV_8jne0EVWffQMoxE",
+    "Timestamp": "2022-08-04T12:01:27",
+    "Domain": "microsoft.qualtrics.com",
+    "Description": ""
+  },
+  {
+    "Title": "Sort Dictionary by Value in .NET - Code Maze",
+    "Url": "https://code-maze.com/sort-dictionary-by-value-dotnet/",
+    "Timestamp": "2022-08-04T09:01:19",
+    "Domain": "code-maze.com",
+    "Description": "Sometimes, we may want to sort and enumerate all the key-value pairs in the dictionary, ordered by their value. Let's find out how."
+  },
+  {
+    "Title": "An intro to Open Telemetry in .NET - James World",
+    "Url": "https://www.youtube.com/watch?v=0Tt3M0Az02o",
+    "Timestamp": "2022-08-04T08:01:24",
+    "Domain": "www.youtube.com",
+    "Description": "https://www.dotnetoxford.com/posts/2022-07-lightning-talks"
+  },
+  {
+    "Title": "Cut the cutesy errors",
+    "Url": "https://alexwlchan.net/2022/08/no-cute/",
+    "Timestamp": "2022-08-04T08:01:21",
+    "Domain": "alexwlchan.net",
+    "Description": "If your app has just ruined my day, I need help, not humour."
+  },
+  {
+    "Title": "GitLab plans to delete dormant projects from free accounts",
+    "Url": "https://www.theregister.com/2022/08/04/gitlab_data_retention_policy/",
+    "Timestamp": "2022-08-04T07:01:17",
+    "Domain": "www.theregister.com",
+    "Description": "Hopes to save a quarter of hosting costs by binning repos that haven't been touched for a year"
+  },
+  {
+    "Title": "Happy 5th birthday, Rider 🥳 | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2022/08/03/happy-5th-birthday-rider/",
+    "Timestamp": "2022-08-04T06:01:32",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Today, we're celebrating the 5th birthday of our cross-platform .NET IDE: JetBrains Rider!\n\n\n\n\n\n\n\nWe initially revealed “project Rider” at NDC London in January 2016. We started with a private preview"
+  },
+  {
+    "Title": "Customizing TypeScript String Types with Template Literal Types and Utility Types",
+    "Url": "http://humbletoolsmith.com/2022/08/01/customizing-typescript-string-types-with-template-literal-types-and-utility-types/",
+    "Timestamp": "2022-08-04T06:01:30",
+    "Domain": "humbletoolsmith.com",
+    "Description": "Technical Web Development Blog"
+  },
+  {
+    "Title": "Windows Package Manager 1.3",
+    "Url": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-3/",
+    "Timestamp": "2022-08-04T06:01:29",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today I get to announce Windows Package Manager 1.3 has been released. The team has been adding several enhancements to manifests to improve your package installation experience. We’ve enabled better package version reporting. A new setting allows verbose logs to be on by default."
+  },
+  {
+    "Title": ".NET 7 Custom Runtime for AWS Lambda | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2022/08/dotnet-7-custom-runtime-for-aws-lambda/",
+    "Timestamp": "2022-08-04T06:01:29",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "You can't yet run .NET 7 on AWS Lambda functions with the familiar managed runtime, but you can with a custom runtime. Here are the few small steps you need."
+  },
+  {
+    "Title": "REST Client For Visual Studio 2022 - Code Rethinked",
+    "Url": "https://coderethinked.com/rest-client-for-visual-studio-2022/",
+    "Timestamp": "2022-08-04T06:01:28",
+    "Domain": "coderethinked.com",
+    "Description": "In this post we'll see what REST Client for Visual Studio 2022 offers us in terms features and we'll see how we can compose multiple requests."
+  },
+  {
+    "Title": ".NET Rocks! vNext",
+    "Url": "https://www.dotnetrocks.com/default.aspx?ShowNum=1805",
+    "Timestamp": "2022-08-04T05:01:26",
+    "Domain": "www.dotnetrocks.com",
+    "Description": ".NET Rocks! is a weekly talk show for anyone interested in programming on the Microsoft .NET platform. The shows range from introductory information to hardcore geekiness."
+  },
+  {
+    "Title": ".NET Foundation - Invidious",
+    "Url": "https://vid.puffyan.us/channel/UCiaZbznpWV1o-KLxj8zqR6A",
+    "Timestamp": "2022-08-04T05:01:26",
+    "Domain": "vid.puffyan.us",
+    "Description": ""
+  },
+  {
+    "Title": "Why do tree-based models still outperform deep learning on tabular data?",
+    "Url": "https://arxiv.org/abs/2207.08815",
+    "Timestamp": "2022-08-04T05:01:25",
+    "Domain": "arxiv.org",
+    "Description": "While deep learning has enabled tremendous progress on text and image\ndatasets, its superiority on tabular data is not clear. We contribute extensive\nbenchmarks of standard and novel deep learning methods as well as tree-based\nmodels such as XGBoost and Random Forests, across a large number of datasets\nand hyperparameter combinations. We define a standard set of 45 datasets from\nvaried domains with clear characteristics of tabular data and a benchmarking\nmethodology accounting for both fitting models and finding good\nhyperparameters. Results show that tree-based models remain state-of-the-art on\nmedium-sized data ($\\sim$10K samples) even without accounting for their\nsuperior speed. To understand this gap, we conduct an empirical investigation\ninto the differing inductive biases of tree-based models and Neural Networks\n(NNs). This leads to a series of challenges which should guide researchers\naiming to build tabular-specific NNs: 1. be robust to uninformative features,\n2. preserve the orientation of the data, and 3. be able to easily learn\nirregular functions. To stimulate research on tabular architectures, we\ncontribute a standard benchmark and raw data for baselines: every point of a 20\n000 compute hours hyperparameter search for each learner."
+  },
+  {
+    "Title": ".NET Data Community Standup - DbDataSource, a new System.Data abstraction",
+    "Url": "https://video.weiler.rocks/watch?v=vRUtHeUpU44",
+    "Timestamp": "2022-08-04T04:02:03",
+    "Domain": "video.weiler.rocks",
+    "Description": "In this episode of the .NET data community standup, we'll explore DbDataSource, a new abstraction being introduced to System.Data in .NET 7.0. DbDataSource unlocks easier integration of ADO.NET drivers with dependency injection, better management of advanced driver configuration, helps performance and more. Tune in to see improvements at the lower levels of the .NET data stack.\n\nCommunity Links: https://www.theurlist.com/dotnetdata-2022-07-27\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#dotnet #data"
+  },
+  {
+    "Title": ".NET Data Community Standup - DbContext Configuration and Lifetime - EF Core Architecture Part 2",
+    "Url": "https://video.weiler.rocks/watch?v=NPgFlqXPbK8",
+    "Timestamp": "2022-08-04T04:02:02",
+    "Domain": "video.weiler.rocks",
+    "Description": "Arthur and others from the EF Team continue their deep dive into the architecture of Entity Framework Core. This is a code-driven discussion looking at how and why things are designed and implemented the way they are. In this session, we look at the initialization and configuration of a DbContext instance, including selection of the provider, creating DbSet instances, reading DbContextOptions, and DbContext pooling.\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-06-29\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#entityframework #efcore #orm"
+  },
+  {
+    "Title": ".NET Data Community Standup - TPH, TPT, and TPC Inheritance mapping with EF Core",
+    "Url": "https://video.weiler.rocks/watch?v=HaL6DKW1mrg",
+    "Timestamp": "2022-08-04T04:02:01",
+    "Domain": "video.weiler.rocks",
+    "Description": "Type inheritance hierarchies as used in object-oriented programming do not map naturally to relational database schemas. In this live stream, we will look at different strategies for inheritance mapping when using EF Core with a relational database. This includes table-per-hierarchy (TPH) mapping, table-per-type (TPT) mapping, and table-per-concrete type (TPC) mapping, which is new in EF Core 7.0 preview 5. We will look at the consequences of the mapping on the generated SQL and consider the performance and storage implications. This will result in some guidance as to when each strategy should be used.\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-06-15\n\nFeaturing: Arthur Vickers (@ajcvickers)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#entityframework #efcore #orm"
+  },
+  {
+    "Title": ".NET Data Community Standup - Intercept this EF7 Preview 6 Event",
+    "Url": "https://video.weiler.rocks/watch?v=EJs3sSetr2Q",
+    "Timestamp": "2022-08-04T04:02:01",
+    "Domain": "video.weiler.rocks",
+    "Description": "EF7 includes a variety of new interceptors and events, as well as many improvements to the existing lifecycle hooks. In this session, Arthur and others from the .NET Data team will dive into this new functionality, including examples for intercepting materialization of entities, query expression trees, identity resolution when tracking, and optimistic concurrency violations. Join us for a fun-packed ride into the world of modifying EF behavior through interception with code galore!\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-07-13\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#efcore #entityframework #ef7"
+  },
+  {
+    "Title": ".NET Data Community Standup - DbDataSource, a new System.Data abstraction",
+    "Url": "https://inv.vern.cc/watch?v=vRUtHeUpU44",
+    "Timestamp": "2022-08-04T03:02:34",
+    "Domain": "inv.vern.cc",
+    "Description": "In this episode of the .NET data community standup, we'll explore DbDataSource, a new abstraction being introduced to System.Data in .NET 7.0. DbDataSource unlocks easier integration of ADO.NET drivers with dependency injection, better management of advanced driver configuration, helps performance and more. Tune in to see improvements at the lower levels of the .NET data stack.\n\nCommunity Links: https://www.theurlist.com/dotnetdata-2022-07-27\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#dotnet #data"
+  },
+  {
+    "Title": ".NET Data Community Standup - DbContext Configuration and Lifetime - EF Core Architecture Part 2",
+    "Url": "https://inv.vern.cc/watch?v=NPgFlqXPbK8",
+    "Timestamp": "2022-08-04T03:02:34",
+    "Domain": "inv.vern.cc",
+    "Description": "Arthur and others from the EF Team continue their deep dive into the architecture of Entity Framework Core. This is a code-driven discussion looking at how and why things are designed and implemented the way they are. In this session, we look at the initialization and configuration of a DbContext instance, including selection of the provider, creating DbSet instances, reading DbContextOptions, and DbContext pooling.\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-06-29\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#entityframework #efcore #orm"
+  },
+  {
+    "Title": ".NET Data Community Standup - Intercept this EF7 Preview 6 Event",
+    "Url": "https://inv.vern.cc/watch?v=EJs3sSetr2Q",
+    "Timestamp": "2022-08-04T03:02:34",
+    "Domain": "inv.vern.cc",
+    "Description": "EF7 includes a variety of new interceptors and events, as well as many improvements to the existing lifecycle hooks. In this session, Arthur and others from the .NET Data team will dive into this new functionality, including examples for intercepting materialization of entities, query expression trees, identity resolution when tracking, and optimistic concurrency violations. Join us for a fun-packed ride into the world of modifying EF behavior through interception with code galore!\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-07-13\n\nFeaturing: Arthur Vickers (@ajcvickers), Shay Rojansky (@shayrojansky)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#efcore #entityframework #ef7"
+  },
+  {
+    "Title": ".NET Data Community Standup - TPH, TPT, and TPC Inheritance mapping with EF Core",
+    "Url": "https://inv.vern.cc/watch?v=HaL6DKW1mrg",
+    "Timestamp": "2022-08-04T03:02:33",
+    "Domain": "inv.vern.cc",
+    "Description": "Type inheritance hierarchies as used in object-oriented programming do not map naturally to relational database schemas. In this live stream, we will look at different strategies for inheritance mapping when using EF Core with a relational database. This includes table-per-hierarchy (TPH) mapping, table-per-type (TPT) mapping, and table-per-concrete type (TPC) mapping, which is new in EF Core 7.0 preview 5. We will look at the consequences of the mapping on the generated SQL and consider the performance and storage implications. This will result in some guidance as to when each strategy should be used.\n\nCommunity Links: https://www.theurlist.com/dotnet-data-2022-06-15\n\nFeaturing: Arthur Vickers (@ajcvickers)\n\nGet your questions answered on the Microsoft Q&A for .NET - https://aka.ms/dotnetqa\n​\nLearn .NET with free self-guided learning from Microsoft Learn: http://aka.ms/learndotnet\n\n#entityframework #efcore #orm"
+  },
+  {
+    "Title": "Matt Warren - Performance in the .NET Runtime - NDC London 2022",
+    "Url": "https://ytb.trom.tf/watch?v=YcZ-nZa2XgA",
+    "Timestamp": "2022-08-04T02:01:36",
+    "Domain": "ytb.trom.tf",
+    "Description": "We often take the .NET Runtime for granted and just let it get on with its job. But not only does it run our code, it ensures that it runs as fast as possible!\n\nIn this talk we'll take a walk through the internals of the 'Common Language Runtime' (CLR), from a performance perspective. Looking at some of the low-level tricks the .NET Core CLR does to make our code run as fast as possible. Covering 'Value Types', 'Tiered Compilation', 'Stubs' and more.\n\nAfterwards, you'll never take a simple 'method call' for granted again!!\n\n\nCheck out more of our featured speakers and talks at\nhttps://www.ndcconferences.com\nhttps://ndclondon.com/"
+  },
+  {
+    "Title": "Matt Warren - Performance in the .NET Runtime - NDC London 2022",
+    "Url": "https://www.youtube.com/watch?v=YcZ-nZa2XgA",
+    "Timestamp": "2022-08-04T01:01:24",
+    "Domain": "www.youtube.com",
+    "Description": "We often take the .NET Runtime for granted and just let it get on with its job. But not only does it run our code, it ensures that it runs as fast as possibl..."
+  },
+  {
+    "Title": "BrainSTARK, Part 0: Introduction",
+    "Url": "https://aszepieniec.github.io/stark-brainfuck/",
+    "Timestamp": "2022-08-04T01:01:22",
+    "Domain": "aszepieniec.github.io",
+    "Description": "Tutorial on the design of a STARK Engine, complete with working source code."
+  },
+  {
+    "Title": "ErikEJ.SqlClient.Extensions 0.1.1-alpha",
+    "Url": "https://www.nuget.org/packages/ErikEJ.SqlClient.Extensions/0.1.1-alpha",
+    "Timestamp": "2022-08-04T00:01:34",
+    "Domain": "www.nuget.org",
+    "Description": "Makes it easier to use Microsoft.Data.SqlClient with Dependency Injection and adds ILogger logging of SqlClient events."
+  }
+]

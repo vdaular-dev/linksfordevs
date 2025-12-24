@@ -1,0 +1,345 @@
+[
+  {
+    "Title": "Notes on Teaching Test Driven Development",
+    "Url": "https://jeremydmiller.com/2023/09/14/notes-on-teaching-test-driven-development/",
+    "Timestamp": "2023-09-14T23:02:23",
+    "Domain": "jeremydmiller.com",
+    "Description": "JasperFx Software has several decades worth of experience with Test Driven Development, developer focused testing, and test automation in general. We’re more than happy to engage with potenti…"
+  },
+  {
+    "Title": "Mads K's Favorite Features in New Visual Studio 2022 17.8 Preview 2 -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/09/14/vs-2022-17-8-preview-2.aspx",
+    "Timestamp": "2023-09-14T23:02:18",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "With at least 20 main enhancements explained in detail in the announcement post for Visual Studio 2022 17.8 Preview 2, Microsoft's Mads Kristensen has boiled down his favorites."
+  },
+  {
+    "Title": "I think \"Law 3.0\" is OK, actually",
+    "Url": "https://shkspr.mobi/blog/2023/09/i-think-law-3-0-is-ok-actually/",
+    "Timestamp": "2023-09-14T22:03:23",
+    "Domain": "shkspr.mobi",
+    "Description": "I recently came across a post about \"The Energy Bill 2023 and the Fusion of Technology and Law - We are going to be governed under 'Law 3.0', and we won't like it one little bit\". It is a superficial look at the \"horrors\" of being governed by technical measures. It starts off reasonably enough [...]"
+  },
+  {
+    "Title": "Onboarding Made Simple with zkLogin",
+    "Url": "https://blog.sui.io/introducing-zklogin-primitive/",
+    "Timestamp": "2023-09-14T22:03:23",
+    "Domain": "blog.sui.io",
+    "Description": "Sui's newest primitive supports Web2 credential services, easing the flow for app users new to Web3."
+  },
+  {
+    "Title": "The Emails You Send When Running a SaaS Business - Vance Lucas",
+    "Url": "https://vancelucas.com/blog/the-emails-you-send-when-running-a-saas-business/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "vancelucas.com",
+    "Description": "Nobody really prepared me for the amount of different emails I would have to send when running a SaaS business. It's something I didn't even think about - all I was thinking about was what to build, and what problems I wanted to solve with my software. Now after running…"
+  },
+  {
+    "Title": "Release Pagefind v1.0.0 — Stable static search at scale ✨ 🚀 · CloudCannon/pagefind",
+    "Url": "https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "github.com",
+    "Description": "Pagefind 1.0 is here! This release has been many months in the making, and we're thrilled to be bringing some great new features and improvements.\nThis release also marks a point in time for Pagefi..."
+  },
+  {
+    "Title": "Potentials of Multitenancy Fine-Tuned LLM Serving",
+    "Url": "https://le.qun.ch/en/blog/2023/09/11/multi-lora-potentials/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "le.qun.ch",
+    "Description": "As open-source pre-trained Large Language Models (LLMs) become more powerful and permissive, more and more users are incorporating LLMs into their projects. An essential adaptation step is the integration of domain-specific documents into the pre-trained model, known as fine-tuning. Often, the additional knowledge from domain-specific documents is minuscule compared to what the pre-trained model already knows. In such scenarios, the Low-Rank Adaptation (LoRA) technique proves valuable. With LoRA, a fine-tuned model adds fewer than 0.1% of parameters to the pre-trained model. In concrete terms, this means a LoRA fine-tuned model increases storage by only 10~200 MB, depending on the configuration. From a computational standpoint, given the marginal increase in parameters compared to the pre-trained model, the additional computational load is relatively small. Considering the minimal storage addition and computational overhead, I believe there’s potential in developing a multitenancy fine-tuned LLM serving service. This service could host thousands of LoRA models, all sharing the same backbone LLM. With batching, each user request would invoke a distinct fine-tuned model, thereby amortizing storage and computational costs across various models. In my previous blog post, I delved into the batching effects in LLM serving. In this post, I’ll detail why multitenancy LoRA serving has immense potential."
+  },
+  {
+    "Title": "Myth of Ego Death",
+    "Url": "https://mobukamal.com/myth-of-ego-death/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "mobukamal.com",
+    "Description": "The ego never dies. At least, when you are still alive. Numerous people, who underwent psychedelic experiences, can relate to the concept of ego death - the dissolution of the self/identity as a concept. There are also a good number of people that believe ego death simply means becoming"
+  },
+  {
+    "Title": "Things fall apart (to come back together)",
+    "Url": "https://method.ac/writing/work_journal/things_fall_apart_to_come_back_together.html",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "method.ac",
+    "Description": "About two weeks ago I timidly added a donation prompt on KernType for a GoFundMe campaign to help pay for my new MacBook Air, which only appeared after completing the third stage of the game:"
+  },
+  {
+    "Title": "My microphone didn't work - Johnathan Nader",
+    "Url": "https://johnathannader.com/my-microphone-didnt-work/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "johnathannader.com",
+    "Description": "My microphone didn't work by Johnathan Nader"
+  },
+  {
+    "Title": "Software engineer titles - let's get rid of them (??)",
+    "Url": "https://workdad.dev/posts/software-eng-titles/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "workdad.dev",
+    "Description": "One of the worst ideas that I’ve seen in tech companies is to strip away titles from software engineers and just call them that. Levels are obviously preserved1, because you still need to be able to compensate according to them but they are internal and not supposed to be divulged.\nThe justifications I’ve seen for this have been along the lines of\nSome people feel intimidated by a person’s title, particularly if the gap is big (say, junior and staff); It puts everyone in the same bucket, erasing differences and giving everyone a “we are all just software engineers, let’s work together” vibe; It allows everyone to be able to step up and own any engineering problem because, again, “we are all just software engineers here”; I’ve also heard of something-something solves under-slotting of minorities (seriously, can’t remember the reason exactly because it was just too wrong)."
+  },
+  {
+    "Title": "Role Of Algorithms",
+    "Url": "https://matklad.github.io/2023/08/13/role-of-algorithms.html",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "matklad.github.io",
+    "Description": "This is lobste.rs comment as an article, so expect even more abysmal editing than usual."
+  },
+  {
+    "Title": "On Waiting - Tim Kellogg",
+    "Url": "https://timkellogg.me/blog/2023/09/14/wu-wei",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "timkellogg.me",
+    "Description": "Thu September 14, 2023"
+  },
+  {
+    "Title": "XState",
+    "Url": "https://sjer.red/blog/xstate/",
+    "Timestamp": "2023-09-14T22:03:22",
+    "Domain": "sjer.red",
+    "Description": "State Machines reduce edge cases"
+  },
+  {
+    "Title": "LLMs, Intuition, and Working With Computers",
+    "Url": "https://blog.jim-nielsen.com/2023/llms-intuition-and-computers/",
+    "Timestamp": "2023-09-14T22:03:21",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web."
+  },
+  {
+    "Title": "🔴 Burke Learns Blazor - Two bald guys build with Blazor",
+    "Url": "https://youtube.com/watch?v=f_vVcGVNtbA",
+    "Timestamp": "2023-09-14T21:03:05",
+    "Domain": "youtube.com",
+    "Description": "The work continues on theurlist.com rewrite from VueJS to Blazor. We didn't come up with this week's title - you did. We're just giving the people what they ..."
+  },
+  {
+    "Title": "Burke Learns Blazor - More Edit Form fun!",
+    "Url": "https://youtube.com/watch?v=OyjMVfTgpYM",
+    "Timestamp": "2023-09-14T21:03:04",
+    "Domain": "youtube.com",
+    "Description": "This Edit Form is the most important part of the whole app! Let's get it working!Community Links: https://www.theurlist.com/burke-learns-blazorFeaturing: Bur..."
+  },
+  {
+    "Title": "Chromebooks will get 10 years of automatic updates",
+    "Url": "https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/",
+    "Timestamp": "2023-09-14T21:03:03",
+    "Domain": "blog.google",
+    "Description": "Chromebooks are getting 10 years of automatic updates, plus new features to help devices last longer."
+  },
+  {
+    "Title": "Visual Studio 2022 17.8 Preview 2 has arrived! - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-8-preview-2-has-arrived/",
+    "Timestamp": "2023-09-14T19:03:25",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "﻿ We hope everyone enjoyed all the new and updated features that came with our first preview of Visual Studio’s next version, and now we’re back with more! This release brings additional tools to help you improve your productivity, debug your code,"
+  },
+  {
+    "Title": "The Tyranny of the Marginal User",
+    "Url": "https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user",
+    "Timestamp": "2023-09-14T19:03:25",
+    "Domain": "nothinghuman.substack.com",
+    "Description": "why consumer software gets worse, not better, over time"
+  },
+  {
+    "Title": "What's new in Teams Toolkit for Visual Studio 2022? - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/teams-toolkit-vs177-update/",
+    "Timestamp": "2023-09-14T19:03:24",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Teams Toolkit for Visual Studio 2022 version 17.7 is packed with the new exciting capabilities for .NET developers."
+  },
+  {
+    "Title": "ipapi.is - Geolocation",
+    "Url": "https://ipapi.is/geolocation.html",
+    "Timestamp": "2023-09-14T18:03:00",
+    "Domain": "ipapi.is",
+    "Description": "ipapi.is offers precise IP data via a user-friendly API, encompassing geolocation, ASN data, hosting detection, VPN detection, and proxy detection."
+  },
+  {
+    "Title": "Tails",
+    "Url": "https://tails.net/",
+    "Timestamp": "2023-09-14T18:03:00",
+    "Domain": "tails.net",
+    "Description": ""
+  },
+  {
+    "Title": "PSA: My side projects, time, and platforms",
+    "Url": "https://msicc.net/psa-my-side-projects-time-and-platforms/",
+    "Timestamp": "2023-09-14T17:03:05",
+    "Domain": "msicc.net",
+    "Description": "There is so little time for so much to do. I need to shift priorities for my side projects – this post has an overview."
+  },
+  {
+    "Title": "PostgreSQL 16 Released!",
+    "Url": "https://www.postgresql.org/about/news/postgresql-16-released-2715/",
+    "Timestamp": "2023-09-14T16:02:50",
+    "Domain": "www.postgresql.org",
+    "Description": "September 14, 2023 - The PostgreSQL Global Development Group today announced the release of PostgreSQL 16, the latest version of …"
+  },
+  {
+    "Title": "Horizons, Marshfield, Wisconsin",
+    "Url": "https://medium.com/@antao.almada/horizons-marshfield-wisconsin-65efed9469d7",
+    "Timestamp": "2023-09-14T15:03:28",
+    "Domain": "medium.com",
+    "Description": "Horizons, Marshfield, Wisconsin"
+  },
+  {
+    "Title": "This NEW feature entirely CHANGES Blazor in .NET 8!",
+    "Url": "https://youtube.com/watch?v=FUWmB5eNZdQ",
+    "Timestamp": "2023-09-14T15:03:26",
+    "Domain": "youtube.com",
+    "Description": "With .NET 8, we will get server-side rendering. Server-side rendering allows us to use the Blazor component model and run the application like an ASP.NET MVC..."
+  },
+  {
+    "Title": "Hidden FaceTime Feature For iPhone Family Tech Support",
+    "Url": "https://youtube.com/watch?v=2VAo-x07hBM",
+    "Timestamp": "2023-09-14T15:03:26",
+    "Domain": "youtube.com",
+    "Description": "Do you have a family or friend that needs help with their iPhone, but you aren't nearby? Problem solved with this amazing FaceTime feature that enables you t..."
+  },
+  {
+    "Title": "I accidentally performed an operation on INVALID_HANDLE_VALUE, and it worked: What just happened? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230914-00/?p=108766",
+    "Timestamp": "2023-09-14T15:03:24",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Coincidentally valid, but not what you think."
+  },
+  {
+    "Title": "Plugin Architecture in Blazor - A How To Guide",
+    "Url": "https://www.devleader.ca/2023/09/14/plugin-architecture-in-blazor-a-how-to-guide/",
+    "Timestamp": "2023-09-14T14:02:58",
+    "Domain": "www.devleader.ca",
+    "Description": "Like building ASP.NET web applications and want to maximize extensibility? This guide is a how-to on using a plugin architecture in Blazor. Check it out!"
+  },
+  {
+    "Title": "GitHub - dearimgui/dear_bindings: C header (and language binding metadata) generator for Dear ImGui",
+    "Url": "https://github.com/dearimgui/dear_bindings",
+    "Timestamp": "2023-09-14T14:02:58",
+    "Domain": "github.com",
+    "Description": "C header (and language binding metadata) generator for Dear ImGui - GitHub - dearimgui/dear_bindings: C header (and language binding metadata) generator for Dear ImGui"
+  },
+  {
+    "Title": "#15 BlablaCar, Par Frédéric Mazzella | Doumer's Blog",
+    "Url": "https://doumer.me/15-blablacar-par-frederic-mazzella/",
+    "Timestamp": "2023-09-14T13:03:38",
+    "Domain": "doumer.me",
+    "Description": "L'histoire de la création du géant du covoiturage et L'ascension de Frédéric Mazzella. BlablaCar Frédéric Mazzella"
+  },
+  {
+    "Title": "Why Startups Hate .NET and C#",
+    "Url": "https://youtube.com/watch?v=RIDIBREwWBw",
+    "Timestamp": "2023-09-14T13:03:36",
+    "Domain": "youtube.com",
+    "Description": "Use code DOCKER15 and get 15% off the brand new Docker course on Dometrain: https://dometrain.com/course/from-zero-to-hero-dockerBecome a Patreon and get sou..."
+  },
+  {
+    "Title": ".NET Load Balancer in 3 steps Using YARP #shorts",
+    "Url": "https://youtube.com/watch?v=tQaPDZf3UcQ",
+    "Timestamp": "2023-09-14T13:03:36",
+    "Domain": "youtube.com",
+    "Description": "📌 Check out my Pragmatic Clean Architecture course: https://bit.ly/3PupkOJ🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanj..."
+  },
+  {
+    "Title": "How mobile apps illegally share your personal data",
+    "Url": "https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data",
+    "Timestamp": "2023-09-14T13:03:35",
+    "Domain": "noyb.eu",
+    "Description": "Some mobile apps share your personal data immediately after they're opened. This isn't compliant with EU privacy laws"
+  },
+  {
+    "Title": ".NET MAUI in .NET 8 RC 1: Quality Improvements and Xcode 15 Beta Support ",
+    "Url": "https://www.infoq.com/news/2023/09/dotnet-maui-8-rc-1/",
+    "Timestamp": "2023-09-14T11:02:56",
+    "Domain": "www.infoq.com",
+    "Description": "Microsoft has recently released the first Release Candidate version of the .NET Multi-platform App UI (MAUI) framework in the .NET 8 roadmap. As reported, this release candidate version is focused on code quality, various UI improvements, and performance optimizations and it comes with Xcode 15 beta support for Apple SDKs."
+  },
+  {
+    "Title": ".NET Rocks! IoT Development using Particle Photon with Colleen Lavin",
+    "Url": "https://www.dotnetrocks.com/details/1863",
+    "Timestamp": "2023-09-14T09:02:53",
+    "Domain": "www.dotnetrocks.com",
+    "Description": "What can you do with a Particle Photon? While in an aluminum Airstream trailer in a thunderstorm at the Copenhagen Developers Festival, Carl and Richard talked to Colleen Lavin about her work with the Particle Photon IoT device - and its many maker possibilities! Colleen talks about making it easy to start building a device - but the struggle with so many choices to actually pick a project. The conversation also digs into making production versions of your device so that they are smaller, cheaper, and very reliable - it's a fun time to be a maker!"
+  },
+  {
+    "Title": "How to Use Moq to Return a Value That Was Passed Into a Method",
+    "Url": "https://code-maze.com/dotnet-use-moq-return-value-that-was-passed-into-a-method/",
+    "Timestamp": "2023-09-14T09:02:53",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to learn about moq in .NET. We're going to learn how we can mock a method that returns a value passed to it."
+  },
+  {
+    "Title": "Using a possibility tree for fast string parsing | Raygun Blog",
+    "Url": "https://raygun.com/blog/possibility-tree-fast-string-parsing/",
+    "Timestamp": "2023-09-14T09:02:53",
+    "Domain": "raygun.com",
+    "Description": "."
+  },
+  {
+    "Title": "C#: Using The Builder Pattern For Test Data #aspnetcore #dotnet",
+    "Url": "https://youtube.com/watch?v=-UoVvD6dLn4",
+    "Timestamp": "2023-09-14T08:02:27",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Don't use Discord as your Q&A forum",
+    "Url": "https://kraktoos.com/posts/dont-use-discord-as-forum/",
+    "Timestamp": "2023-09-14T08:02:25",
+    "Domain": "kraktoos.com",
+    "Description": "Please stop... Now."
+  },
+  {
+    "Title": "Introducing RustRover – A Standalone Rust IDE by JetBrains | The IntelliJ Rust Blog",
+    "Url": "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/",
+    "Timestamp": "2023-09-14T07:02:40",
+    "Domain": "blog.jetbrains.com",
+    "Description": "“When will there be a Rust IDE?”"
+  },
+  {
+    "Title": "Building a Minimal ASP.NET Core clone",
+    "Url": "https://steven-giesel.com/blogPost/e84dec43-51f1-4c70-8b3b-dcdb1c3164ce",
+    "Timestamp": "2023-09-14T07:02:39",
+    "Domain": "steven-giesel.com",
+    "Description": "In this article, we will build a minimal version of what ASP.NET Core does - yes, you read right. We will create a very simplistic clone of ASP.NET Core to discuss how the whole thing works. Beginning with a simple console application, we will add the necessary components to make it work as a web server. Bonus points for our own middleware pipeline and dependency injection.\n"
+  },
+  {
+    "Title": "Solution: Front-End Development Challenge in C#",
+    "Url": "https://youtube.com/watch?v=Xlke5PuSCnY",
+    "Timestamp": "2023-09-14T06:03:23",
+    "Domain": "youtube.com",
+    "Description": "On Tuesday, I issued a challenge to build an interface for the Pirate Weather API using C#. Hopefully, by this time you have been able to build that system. ..."
+  },
+  {
+    "Title": "Join Us for JetBrains GameDev Day 2023 | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/09/13/join-us-for-jetbrains-gamedev-day-2023/",
+    "Timestamp": "2023-09-14T06:03:22",
+    "Domain": "blog.jetbrains.com",
+    "Description": "We invite you to join JetBrains GameDev Day 2023, a hybrid event we're hosting to bring some luck to Friday, October 13, 2023. Let us know if you can make it!"
+  },
+  {
+    "Title": "When MFA isn't actually MFA",
+    "Url": "https://retool.com/blog/mfa-isnt-mfa/",
+    "Timestamp": "2023-09-14T05:04:12",
+    "Domain": "retool.com",
+    "Description": "Due to a recent Google change, MFA isn't truly MFA."
+  },
+  {
+    "Title": "Exploring the expander from .NET MAUI Community Toolkit",
+    "Url": "https://askxammy.com/exploring-the-expander-from-net-maui-community-toolkit/",
+    "Timestamp": "2023-09-14T02:02:58",
+    "Domain": "askxammy.com",
+    "Description": "Imagine designing a user interface filled with distinct elements, each boasting its unique header and intricate details. To achieve a streamlined visual layout and save space, consider displaying only the headers and revealing the details upon selection. With the Expander control from the .NET MAUI Community Toolkit, this vision is entirely attainable. Join me, and I'll guide you step-by-step to a implementation. 💕\nThe explanation will be divided into the following points:\n\n\n🔹 .NET MAUI Community Toolkit: Implementation\n🔹  What is a Expander?\n🔹  How to implement it?\n\n\n\n\n🔧 First of all... What do I need to know?\nWhat is .NET MAUI Community Toolkit??\n\n \tIt’s a collection of reusable elements such as animations, behaviors  converters, among others, for developing applications for iOS, Android, macOS and WinUI using MAUI.\n\n✍️ Important! Adding this configuration to your project just once is enough to fully benefit from the Community Toolkit. If you've already implemented it using another NuGet feature, feel free to skip this step.\n\n\n\n[expand title=🔧 Still haven't implemented it? Check it here!\n\n]\n\n \tAdd from NuGet Package: Community.Toolkit.Maui\n\n\n\n \tNow let’s initialize: Go to your MauiProgram.cs file\n\nIn the CreateMauiApp method, place in the .UseMauiApp<App>() line and just below it add the following line of code:\n\n\n\n⚠ Don’t forget to add the using CommunityToolkit.Maui;at the top of the class.\n\n[/expand]\n\n \tFinally, add the following namespace:\n\n\n\n\n\nLet's start!\nWhat is a Expander?\nThe Expander serves as an expandable container which is composed of a header (the content visible before expansion) and a container, designed to hold the detailed content linked to each header.\n\n\n\n\nHow to implement it? \nIn order to show the Expander on screen, you must utilize two elements: The Header and The Content. Each one of these includes specific properties that help in the Expander configuration.\nLet's see a preview of what the structure should be like, and consequently we will start detailing the explanation.\n\n\nHowever, before delving into incorporating the two previously mentioned elements, it is important to add the tags that will house them. To establish this foundation, you simply need to integrate the following tags provided below:\n\n\n\n\n\n🔹 Header\nThe header remains constantly in view, and a simple click or tap will expand or hide the content. Ensure you populate it with read-only material, steering clear of controls demanding further user engagement.\nExactly where it says <!-- The Header element goes here--> in the previous block, add the <Expander.Header> tags, here you can add all the visual elements you need, for this example I have only added a Label.\n\n\n🔹 Content\nThe content is what the user will see when interacting with the header, fluidly alternating between its visibility and hiding each time the header is selected.\nThe integration is intuitive and you do not need additional tags. Once you've set your header tags, simply add an element to hold the detailed content. For this example I will use the VerticalStackLayout, within the layout I can add all the visual elements I need.\n\n🚫 Limitations\n➖ Expander does not support ListView on iOS/MacCatalyst.\n\n\n\n\nAnd done! 😎 From now on, you are ready to use Expander in your .NET MAUI applications! 💚💕\n\n<Label Text=”Thanks for reading! 👋 ” />\n\nSpanish post:\n\n \thttps://es.askxammy.com/explorando-el-expander-de-net-maui-community-toolkit/\n\nReferences:\n\n \thttps://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/expander#basic-usage?tabs=ios?WT.mc_id=DT-MVP-50033\n"
+  },
+  {
+    "Title": "Languages & Runtime Community Standup - .NET 8 + Containers = 💖",
+    "Url": "https://youtube.com/watch?v=fMtQMYc_HlQ",
+    "Timestamp": "2023-09-14T01:02:48",
+    "Domain": "youtube.com",
+    "Description": "Containers are _the_ way to deploy applications in today's cloud-native architectures, and .NET has embraced them fully. Come chat with Rich Lander and Chet ..."
+  },
+  {
+    "Title": "RustRover: Rust IDE by JetBrains",
+    "Url": "https://www.jetbrains.com/rust/",
+    "Timestamp": "2023-09-14T01:02:46",
+    "Domain": "www.jetbrains.com",
+    "Description": "Try the new Rust IDE from JetBrains with a debugger, on-the-fly analysis, and quick-fixes."
+  }
+]

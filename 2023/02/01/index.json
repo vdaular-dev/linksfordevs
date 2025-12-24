@@ -1,0 +1,387 @@
+[
+  {
+    "Title": "Agile is noticeable when you do not prioritize developing reliability for critical systems",
+    "Url": "https://jack-michaud.github.io/#/page/agile%20is%20noticeable%20when%20you%20do%20not%20prioritize%20developing%20reliability%20for%20critical%20systems?utm_source=hnblogs.substack.com",
+    "Timestamp": "2023-02-01T22:05:09",
+    "Domain": "jack-michaud.github.io",
+    "Description": "When I see this I think about the NASA [[]] software"
+  },
+  {
+    "Title": "Diving into WebAuthn",
+    "Url": "https://blog.tiagorangel.com/diving-into-webauthn",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "blog.tiagorangel.com",
+    "Description": "As a developer, you may have already heard about the new standard in online authentication - Web Authentication (WebAuthn). This new standard offers a more secure and user-friendly alternative to the traditional password-based authentication system.\n..."
+  },
+  {
+    "Title": "JVM Field Guide: Memory",
+    "Url": "https://serce.me/posts/01-02-2023-jvm-field-guide-memory",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "serce.me",
+    "Description": "JVM Field Guide: Memory"
+  },
+  {
+    "Title": "How I Follow the News with RSS",
+    "Url": "https://ryanccn.dev/posts/how-i-rss/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "ryanccn.dev",
+    "Description": "A blog on web development, etc."
+  },
+  {
+    "Title": "Ten Years, Ten Highlights: Reflections on My Decade at Sumo Logic",
+    "Url": "https://jacek.migdal.pl/2023/02/01/ten-years.html",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "jacek.migdal.pl",
+    "Description": "Debug, simplify and execute."
+  },
+  {
+    "Title": "Server Environments",
+    "Url": "https://blog.eyas.sh/2023/02/server-environments/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "blog.eyas.sh",
+    "Description": "When maintaining large software systems, you will likely have multiple environments with names like Prod, Staging, Dev, Eval, UAT, Daily, Nightly, or some remix"
+  },
+  {
+    "Title": "Modern Health, frameworks, performance, and harm",
+    "Url": "https://ericwbailey.website/published/modern-health-frameworks-performance-and-harm/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "ericwbailey.website",
+    "Description": "Performance, accessibility, and usability are more than just inconvenient truths you can pretend don’t exist. They have a direct impact on the quality of someone’s life…"
+  },
+  {
+    "Title": "Quirks of the Page Visibility API | Matt Joseph",
+    "Url": "https://mattj.io/posts/2023-02-01-page-visibility-api/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "mattj.io",
+    "Description": "Exploring the quirks of the Page Visibility API across platforms and browsers."
+  },
+  {
+    "Title": "Precision Munitions for Denial of Service",
+    "Url": "https://beny23.github.io/posts/precision_munitions_for_denial_of_service/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "beny23.github.io",
+    "Description": "There’s a metaphor about the fight between attackers and defenders in the Denial of Service cybersecurity game. It’s an “arms race” between ever bigger attacks throwing huge amounts of traffic at ever more sophisticated defenses (e.g. AWS shield).\nIncidentally, I’ve just demonstrated an easy mistake: I’m not describing a Denial of Service (DoS) attack, it’s a Distributed Denial of Service (DDoS) attack. The aim is to overwhelm the infrastructure, either the networking infrastructure or the application by sending more requests than can be handled."
+  },
+  {
+    "Title": "Low Amounts of Drinking are Healthy",
+    "Url": "https://ja3k.com/blog/alc",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "ja3k.com",
+    "Description": "There is strong evidence drinking a unit of alcohol a day reduces all cause mortality primarily by being good for cardiovascular health and not particularly bad for anything."
+  },
+  {
+    "Title": "Use the dialog element (reasonably)",
+    "Url": "https://www.scottohara.me/blog/2023/01/26/use-the-dialog-element.html",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "www.scottohara.me",
+    "Description": "Today, the HTML specification landed a very important change to the dialog element.  One that resolves a multi-year discussion on how the dialog element shou..."
+  },
+  {
+    "Title": "The New Coder's Hierarchy of Needs",
+    "Url": "https://blog.charliemeyer.co/the-new-coders-hierarchy-of-needs/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "blog.charliemeyer.co",
+    "Description": "tags: #cs-education\nPart 1: Define Terms\nSetup\nPractical definition: Turning on the computer, remembering your password [1], installing Python.\nLet's face it..."
+  },
+  {
+    "Title": "A manifesto on shower temperature control",
+    "Url": "https://benholmen.com/blog/shower-temperature-control/",
+    "Timestamp": "2023-02-01T22:05:06",
+    "Domain": "benholmen.com",
+    "Description": "I had a very shower-y shower thought: why does turning my shower handle a tiny bit make such a huge difference in the comfort of the shower? Why are we wasting so much potential control area on water temperatures that no one wants? Who cares about ice..."
+  },
+  {
+    "Title": "A Novel PayPal Scam",
+    "Url": "https://anderegg.ca/2023/02/01/a-novel-paypal-scam",
+    "Timestamp": "2023-02-01T22:05:05",
+    "Domain": "anderegg.ca",
+    "Description": "This morning I received an interesting scam email. It might not be a new scam, but it was the first time I’d seen it."
+  },
+  {
+    "Title": "Wasm compression benchmarks and the cost of missing compression APIs",
+    "Url": "https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/",
+    "Timestamp": "2023-02-01T22:05:05",
+    "Domain": "nickb.dev",
+    "Description": "What is the best way to compress data in the browser? Is Wasm faster than JS? I have put together a small site that will let you run benchmarks within the browser."
+  },
+  {
+    "Title": "Anker admits to lying about Eufy security camera encryption; describes future plans",
+    "Url": "https://9to5mac.com/2023/02/01/eufy-security-camera-encryption/",
+    "Timestamp": "2023-02-01T21:01:49",
+    "Domain": "9to5mac.com",
+    "Description": "Anker has admitted that its statements about Eufy security camera encryption were not accurate. The smart home brand had previously stated that all video footage is end-to-end encrypted, but has now admitted there was an exception to this (which it has now fixed). The company only finally came clean about the privacy breach after The […]"
+  },
+  {
+    "Title": "Intro to Graphics 01 - Introduction",
+    "Url": "https://youtube.com/watch?v=5egHuZ0KU-c",
+    "Timestamp": "2023-02-01T21:01:48",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 00 - Opening",
+    "Url": "https://youtube.com/watch?v=vLSphLtKQ0o",
+    "Timestamp": "2023-02-01T21:01:48",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 04 - Raster Images (Part2)",
+    "Url": "https://youtube.com/watch?v=PMIPC78Ybts",
+    "Timestamp": "2023-02-01T21:01:48",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 03 - Raster Images (Part1)",
+    "Url": "https://youtube.com/watch?v=zllIPDaiOyk",
+    "Timestamp": "2023-02-01T21:01:48",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 02 - Math Background",
+    "Url": "https://youtube.com/watch?v=DnkU4_DttGE",
+    "Timestamp": "2023-02-01T21:01:48",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Logistic Regression Using the scikit Library -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/02/01/scikit.aspx",
+    "Timestamp": "2023-02-01T21:01:47",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Dr. James McCaffrey of Microsoft Research says the main advantage of scikit is that it's easy to use (even though most classes have many constructor parameters)."
+  },
+  {
+    "Title": "LEDGE",
+    "Url": "https://greenmountaingrills.com/products/grills/prime/ledge/",
+    "Timestamp": "2023-02-01T21:01:47",
+    "Domain": "greenmountaingrills.com",
+    "Description": "The LEDGE PRIME model comes with a redesigned digital controller that allows you to control and monitor your grill through our iOS or Android mobile application."
+  },
+  {
+    "Title": "GitHub - DamianEdwards/AspNetCoreClientLibManagement: Examples of different techniques for management of client libraries (i.e. JS/CSS libraries/frameworks) to ASP.NET Core projects.",
+    "Url": "https://github.com/DamianEdwards/AspNetCoreClientLibManagement",
+    "Timestamp": "2023-02-01T21:01:45",
+    "Domain": "github.com",
+    "Description": "Examples of different techniques for management of client libraries (i.e. JS/CSS libraries/frameworks) to ASP.NET Core projects. - GitHub - DamianEdwards/AspNetCoreClientLibManagement: Examples of ..."
+  },
+  {
+    "Title": "Median absolute deviation vs. Shamos estimator",
+    "Url": "https://aakinshin.net/posts/mad-vs-shamos/",
+    "Timestamp": "2023-02-01T21:01:45",
+    "Domain": "aakinshin.net",
+    "Description": "There are multiple ways to estimate statistical dispersion. The standard deviation is the most popular one, but it&rsquo;s not robust: a single outlier cou..."
+  },
+  {
+    "Title": "Microsoft Azure Load Testing is now generally available",
+    "Url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-load-testing-is-now-generally-available/",
+    "Timestamp": "2023-02-01T20:03:04",
+    "Domain": "azure.microsoft.com",
+    "Description": "We are announcing the general availability of Azure Load Testing, a fully managed load-testing service."
+  },
+  {
+    "Title": "New Wolverine Release & Future Plans",
+    "Url": "https://jeremydmiller.com/2023/02/01/new-wolverine-release-future-plans/",
+    "Timestamp": "2023-02-01T19:04:14",
+    "Domain": "jeremydmiller.com",
+    "Description": "After plenty of keystone cops shenanigans with CI automation today that made me question my own basic technical competency, there’s a new Wolverine 0.9.8 release on Nuget today with a variety…"
+  },
+  {
+    "Title": "Bursa of Fabricius",
+    "Url": "https://xkcd.com/2732/",
+    "Timestamp": "2023-02-01T19:04:13",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "The names of birds, part 3",
+    "Url": "https://ericlippert.com/2023/02/01/the-names-of-birds-part-3/",
+    "Timestamp": "2023-02-01T18:03:02",
+    "Domain": "ericlippert.com",
+    "Description": "In the autumn of last year my friend Joan and I went on a little trip up to the Skagit valley north of Seattle to photograph birds of prey; I managed to get a blurry but recognizable shot of this c…"
+  },
+  {
+    "Title": "CatGPT",
+    "Url": "https://catgpt.wvd.io/",
+    "Timestamp": "2023-02-01T18:03:02",
+    "Domain": "catgpt.wvd.io",
+    "Description": "What if ChatGPT were a cat?"
+  },
+  {
+    "Title": "OpenAI has Launched AI Classifier to Detect AI Written Text.",
+    "Url": "https://thebuzz.news/article/ai-classifier-to-detect-ai-written-text/2318/",
+    "Timestamp": "2023-02-01T17:01:45",
+    "Domain": "thebuzz.news",
+    "Description": "OpenAI has launched an AI Classifier, which will be able to differentiate between human-written text and AI Written Text with current stability of 26%."
+  },
+  {
+    "Title": "Building an Audio Recorder and Player App in .NET MAUI",
+    "Url": "https://dev.to/syncfusion/building-an-audio-recorder-and-player-app-in-net-maui-2eej",
+    "Timestamp": "2023-02-01T16:02:56",
+    "Domain": "dev.to",
+    "Description": "In this blog, you will learn how to develop an audio recorder and player in .NET MAUI. The audio..."
+  },
+  {
+    "Title": "How to Execute CLI Applications From C#",
+    "Url": "https://code-maze.com/csharp-execute-cli-applications/",
+    "Timestamp": "2023-02-01T15:02:09",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we'll learn how to execute CLI applications in C# using a built-in class called Process and using open-source libs"
+  },
+  {
+    "Title": "Inside C++/WinRT: Coroutine completion handlers: Disconnection",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230201-00/?p=107772",
+    "Timestamp": "2023-02-01T15:02:08",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "When the other end hangs up without even saying good-bye."
+  },
+  {
+    "Title": "Live coding & Blazor with Jeff Fritz | Keep Coding Podcast",
+    "Url": "https://youtube.com/watch?v=vR6s28GPcNU",
+    "Timestamp": "2023-02-01T11:02:25",
+    "Domain": "youtube.com",
+    "Description": "Support the stream: https://streamlabs.com/nick_chapsasCheck out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www...."
+  },
+  {
+    "Title": "Want to give some feedback on GitHub Packages? · Discussion #45938 · community",
+    "Url": "https://github.com/orgs/community/discussions/45938",
+    "Timestamp": "2023-02-01T07:01:36",
+    "Domain": "github.com",
+    "Description": "Select Topic Area Product Feedback Body The GitHub Packages team is looking to talk to developers who publish packages to GitHub Package Registry, NPMjs.org, or NuGet.org. If you&#39;re interested ..."
+  },
+  {
+    "Title": ".NET MAUI Challenge 2: Light and Dark Mode in .NET MAUI",
+    "Url": "https://www.telerik.com/blogs/dotnet-maui-challenge-2-light-dark-mode",
+    "Timestamp": "2023-02-01T06:02:00",
+    "Domain": "www.telerik.com",
+    "Description": "For our second .NET MAUI Challenge, let’s test our memories about setting dark vs. light mode."
+  },
+  {
+    "Title": "A Breakdown of the React useEffect Hook",
+    "Url": "https://www.telerik.com/blogs/breakdown-react-useeffect-hook",
+    "Timestamp": "2023-02-01T06:01:59",
+    "Domain": "www.telerik.com",
+    "Description": "In this article, we’ll focus on the powerful useEffect hook, which allows us to perform side effects in our function components."
+  },
+  {
+    "Title": "Junior devs at their finest (tic tac toe winner checks)",
+    "Url": "https://old.reddit.com/r/ProgrammerHumor/comments/10qb7tj/junior_devs_at_their_finest_tic_tac_toe_winner/",
+    "Timestamp": "2023-02-01T06:01:59",
+    "Domain": "old.reddit.com",
+    "Description": "Posted in r/ProgrammerHumor by u/Mutated_Zombie • 1,299 points and 180 comments"
+  },
+  {
+    "Title": "Optimizing Queries in MySQL: Optimizing Reads - Simple Talk",
+    "Url": "https://www.red-gate.com/simple-talk/databases/mysql/optimizing-queries-in-mysql-optimizing-reads/",
+    "Timestamp": "2023-02-01T06:01:58",
+    "Domain": "www.red-gate.com",
+    "Description": "Optimizing read operations is one of the most prominent problems concerning any database administrator. No matter what kind of database management system is in use – MySQL, its flavors like Percona Server or MariaDB, MongoDB, TimescaleDB, SQL Server, or others, read queries are a concern. The primary read query example is SELECT queries, but a lot of this pertains to UPDATE and DELETE as well since they too have to fetch rows to be operated on."
+  },
+  {
+    "Title": "Custom React Hooks and When to Use Them",
+    "Url": "https://thoughtbot.com/blog/custom-react-hooks",
+    "Timestamp": "2023-02-01T06:01:56",
+    "Domain": "thoughtbot.com",
+    "Description": "Custom hooks are one of the most underused React abstractions. Let&rsquo;s explore when it makes sense to use them compared to other abstractions."
+  },
+  {
+    "Title": "A \"gotcha\" with object handles",
+    "Url": "https://ericsink.com/native_aot/objects_gotcha.html",
+    "Timestamp": "2023-02-01T06:01:55",
+    "Domain": "ericsink.com",
+    "Description": "2023-01-31 13:00:00"
+  },
+  {
+    "Title": "Method Overriding in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-method-overriding/",
+    "Timestamp": "2023-02-01T05:01:47",
+    "Domain": "code-maze.com",
+    "Description": "Method overriding in C# is when a derived class provides a specific implementation of a method that is already defined in its base class."
+  },
+  {
+    "Title": "GPT-3 generated Hacker News summaries in the style of n-gate.com - AILEF",
+    "Url": "https://ailef.tech/2023/01/31/gpt-3-generated-hacker-news-summaries-in-the-style-of-n-gate-com/",
+    "Timestamp": "2023-02-01T00:02:22",
+    "Domain": "ailef.tech",
+    "Description": "Visit the original n-gate.com for context. 23-29 January, 2023 Replacing a SQL analyst with 26 recursive GPT prompts (comments) An Internet replaces a person with a series of increasingly desperate computer programs. Hackernews is both outraged and excited by the idea of replacing human labor with increasingly desperate computer programs. One Hackernews is mad that […]"
+  },
+  {
+    "Title": "The Best GPUs for Deep Learning in 2023 — An In-depth Analysis",
+    "Url": "https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/",
+    "Timestamp": "2023-02-01T00:02:22",
+    "Domain": "timdettmers.com",
+    "Description": "Here, I provide an in-depth analysis of GPUs for deep learning/machine learning and explain what is the best GPU for your use-case and budget."
+  },
+  {
+    "Title": "Tools for Thought's greatest benefit",
+    "Url": "https://www.dsebastien.net/tools-for-thought-greatest-benefit/",
+    "Timestamp": "2023-02-01T00:02:21",
+    "Domain": "www.dsebastien.net",
+    "Description": "The greatest benefit of Tools for Thought (TfT) is not what you think"
+  },
+  {
+    "Title": "...so, I joined the time-complexity cult.",
+    "Url": "https://fyi.birnadine.guru/so-i-joined-the-time-complexity-cult",
+    "Timestamp": "2023-02-01T00:02:21",
+    "Domain": "fyi.birnadine.guru",
+    "Description": "I went through what most of the software engineers go through, choose between saving either space or time 🔫"
+  },
+  {
+    "Title": "Preparing Fastify for Testing",
+    "Url": "https://hire.jonasgalvez.com.br/2023/jan/31/fastify-testing/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "hire.jonasgalvez.com.br",
+    "Description": "One of the most popular training programs for our customers at NodeSource is the Testing Workshop, which includes a general introduction to testing but quickly dives into hands-on Fastify examples and CI/CD with GitHub Workflows. I thought I'd take a few essential Fastify bits from this training and have it in a blog post, for quick future reference."
+  },
+  {
+    "Title": "Using platforms encourages internet censorship",
+    "Url": "https://worldofmatthew.com/technology/fuckplatforms/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "worldofmatthew.com",
+    "Description": "Since politicians figured out how disruptive the internet in politics and how people outside of established power structures (outside government and media circles) can swing public opinion. There have been increasing attempts by governments worldwide to regulate (read as censor) it."
+  },
+  {
+    "Title": "The Product-Led Trap",
+    "Url": "https://e-baumer.github.io/2023-01-30-product-led/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "e-baumer.github.io",
+    "Description": "Why it's important for a company to balance technology, vision, sales, and product."
+  },
+  {
+    "Title": "tools for finding information on the internet",
+    "Url": "https://roman.computer/finding_information/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "roman.computer",
+    "Description": "Isn’t the internet such a magically useful tool? Thirty years ago, if you wanted to know how many plays Shakespeare wrote, you would have to physically walk to your local library and find a relevant book. Now, you can find the answer in less than ten seconds, at any time, wherever you are.\nHowever, the internet is not a truthful, superintelligent oracle. Rather, it’s a dangerous jungle of knowledge you must learn to navigate if you wish to find the truth."
+  },
+  {
+    "Title": "Various Ways of Sending Mail via SMTP",
+    "Url": "https://blog.bityard.net/articles/2023/January/various-ways-of-sending-mail-via-smtp",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "blog.bityard.net",
+    "Description": "Internet Mail, or email, or whatever kids these days call it, was one of those things that terrified me very early on when I was a strapping young..."
+  },
+  {
+    "Title": "My first recession",
+    "Url": "https://gadi.fm/posts/recession/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "gadi.fm",
+    "Description": "There’s an entire generation going through a recession for the first time.\nSure, everyone says we need to adapt, and while true, I think the phenomenon in itself – going through a recession for the first time – is a key paradigm shift for all of us first-timers. I’ll try capturing some of it here through my personal experience.\nI was a one-year-old when the Dotcom bubble burst, and I was 9 when the Great Recession started."
+  },
+  {
+    "Title": "Five years",
+    "Url": "https://i.jagad.me/five-years/",
+    "Timestamp": "2023-02-01T00:02:20",
+    "Domain": "i.jagad.me",
+    "Description": "2019\nThis was the last year of normal for most people but it was anything but normal for me. After a spiritual awakening towards the end of 2018, I began to ..."
+  },
+  {
+    "Title": "Automating the Addition of New Jekyll Post Files",
+    "Url": "https://anderegg.ca/2023/01/31/automating-adding-new-jekyll-post-files",
+    "Timestamp": "2023-02-01T00:02:19",
+    "Domain": "anderegg.ca",
+    "Description": "I’ve been a fan of static site generation for a while. When I switch over to GitHub Pages in 2012, I used Jekyll because it was the default option. It’s still great! But there are some rough edges that bug me."
+  }
+]

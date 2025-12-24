@@ -1,0 +1,219 @@
+[
+  {
+    "Title": "Azure Functions on Azure Container Apps: KEDA Scaling for Service Bus Functions When Using AZURE_CLIENT_ID",
+    "Url": "https://jaliyaudagedara.blogspot.com/2025/07/azure-functions-on-azure-container-apps.html",
+    "Timestamp": "2025-07-22T20:02:17",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, ASP.NET Core, Visual Studio, Azure, Jaliya Udagedara"
+  },
+  {
+    "Title": "Tech Workers Coalition",
+    "Url": "https://techworkerscoalition.org/",
+    "Timestamp": "2025-07-22T20:02:17",
+    "Domain": "techworkerscoalition.org",
+    "Description": "A coalition of tech industry workers, labor organizers, community organizers, and friends cultivating solidarity among all workers in tech."
+  },
+  {
+    "Title": "MCP C# SDK Gets Major Update: Support for Protocol Version 2025-06-18 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/mcp-csharp-sdk-2025-06-18-update/",
+    "Timestamp": "2025-07-22T18:01:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The MCP C# SDK has been updated to support the latest Model Context Protocol specification (2025-06-18), bringing structured tool output, elicitation support, enhanced security, and more to .NET developers building AI applications."
+  },
+  {
+    "Title": "GitHub - harfbuzz/harfbuzz: HarfBuzz text shaping engine",
+    "Url": "https://github.com/harfbuzz/harfbuzz",
+    "Timestamp": "2025-07-22T17:02:33",
+    "Domain": "github.com",
+    "Description": "HarfBuzz text shaping engine. Contribute to harfbuzz/harfbuzz development by creating an account on GitHub."
+  },
+  {
+    "Title": "Is MVVM Dead? Why One Engineer Says 'Yes' and What He's Using Instead",
+    "Url": "https://platform.uno/blog/is-mvvm-dead-why-one-engineer-says-yes-and-what-hes-using-instead/",
+    "Timestamp": "2025-07-22T17:02:32",
+    "Domain": "platform.uno",
+    "Description": "Is MVVM dead? One engineer thinks so and he's using MVUX instead. Discover why MVVM may be outdated and how to build modern apps with Uno Platform."
+  },
+  {
+    "Title": "▷ Create Viral Videos with SORA in .NET MAUI 【 2025】",
+    "Url": "https://devs.school/create-viral-videos-with-sora-in-net-maui/",
+    "Timestamp": "2025-07-22T17:02:32",
+    "Domain": "devs.school",
+    "Description": "Building a .NET MAUI app that uses Azure OpenAI SORA to generate videos. Step-by-step guide for devs interested in AI, UI, and automation."
+  },
+  {
+    "Title": "The United States Withdraws from the United Nations Educational, Scientific and Cultural Organization (UNESCO) - United States Department of State",
+    "Url": "https://www.state.gov/releases/office-of-the-spokesperson/2025/07/the-united-states-withdraws-from-the-united-nations-educational-scientific-and-cultural-organization-unesco",
+    "Timestamp": "2025-07-22T16:02:29",
+    "Domain": "www.state.gov",
+    "Description": "Today, the United States informed Director-General Audrey Azoulay of the United States’ decision to withdraw from UNESCO. Continued involvement in UNESCO is not in the national interest of the United States. UNESCO works to advance divisive social and cultural causes and maintains an outsized focus on the UN’s Sustainable Development Goals, a globalist, ideological agenda […]"
+  },
+  {
+    "Title": "🦊 How to Firefox - Kaushik Gopal's Website",
+    "Url": "https://kau.sh/blog/how-to-firefox/",
+    "Timestamp": "2025-07-22T14:02:19",
+    "Domain": "kau.sh",
+    "Description": "Chrome finally pulled the trigger on the web’s best ad-blocker, uBlock Origin.\nNow that Chrome has hobbled uBO, Firefox—my beloved—1 is surging again. I want to do my part to convince you to switch to Firefox and show you how I use it."
+  },
+  {
+    "Title": "Jujutsu For Busy Devs | maddie, wtf?!",
+    "Url": "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs",
+    "Timestamp": "2025-07-22T13:02:24",
+    "Domain": "maddie.wtf",
+    "Description": "Jujutsu (jj) is a version control system with a\nsignificantly simplified mental model and command-line interface compared to Git, without\nsacrificing expressibility or power (in fact, you could argue Jujutsu is more powerful).\nStacked-diff workflows, seamless rebases, and ephemeral revisions are all natural with jj, and it\nuses Git as a backend, which means you can begin using it non-destructively with a single command\nand can always drop back down to Git if you need to."
+  },
+  {
+    "Title": "Solving the source generator 'marker attribute' problem in .NET 10: Exploring the .NET 10 preview - Part 4",
+    "Url": "https://andrewlock.net/exploring-dotnet-10-preview-features-4-solving-the-source-generator-marker-attribute-problem-in-dotnet-10/",
+    "Timestamp": "2025-07-22T12:02:27",
+    "Domain": "andrewlock.net",
+    "Description": "In this post I discuss a new source generator API, AddEmbeddedAttributeDefinition(), added in .NET 10, which makes it easier to embed generated attributes"
+  },
+  {
+    "Title": "Automate AI Prompts with Claude Code Custom Commands",
+    "Url": "https://goatreview.com/automate-ai-prompts-claude-code-custom-commands/",
+    "Timestamp": "2025-07-22T10:02:18",
+    "Domain": "goatreview.com",
+    "Description": "Learn how Claude Code custom commands eliminate prompt repetition and standardize AI workflows. Complete tutorial with examples, $ARGUMENTS usage, and team implementation strategies."
+  },
+  {
+    "Title": "Complete silence is always hallucinated as \"ترجمة نانسي قنقر\" in Arabic which translates as \"Translation by Nancy Qunqar\" · openai/whisper · Discussion #2608",
+    "Url": "https://github.com/openai/whisper/discussions/2608",
+    "Timestamp": "2025-07-22T10:02:17",
+    "Domain": "github.com",
+    "Description": "If you generate complete silence in a wav file and run whisper on it, it will always hallucinate the same thing ffmpeg -f lavfi -i anullsrc=r=44100:cl=stereo -t 30 silence.wav whisper ./silence.wav..."
+  },
+  {
+    "Title": "Running scripts | uv",
+    "Url": "https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies",
+    "Timestamp": "2025-07-22T07:02:13",
+    "Domain": "docs.astral.sh",
+    "Description": "A guide to using uv to run Python scripts, including support for inline dependency metadata, reproducible scripts, and more."
+  },
+  {
+    "Title": "What Went Wrong Inside These Recalled Power Banks?",
+    "Url": "https://www.lumafield.com/article/what-went-wrong-inside-these-recalled-power-banks",
+    "Timestamp": "2025-07-22T00:03:03",
+    "Domain": "www.lumafield.com",
+    "Description": "Investigate Anker’s recalled power banks. See how CT scanning uncovers battery defects and improves safety in lithium-ion designs."
+  },
+  {
+    "Title": "How I found my way to contribute to OSS",
+    "Url": "https://tarasyarema.com/how-i-found-my-to-contribute-to-oss",
+    "Timestamp": "2025-07-22T00:03:03",
+    "Domain": "tarasyarema.com",
+    "Description": "Disclaimer: I do not consider myself an experienced OSS contributor, but rather someone beginning to understand how OSS actually works.\n\n  A (de)motivational story Since I started programming I've..."
+  },
+  {
+    "Title": "A Kaizen for Knowledge Work",
+    "Url": "https://www.jakeworth.com/posts/we-ran-a-software-engineering-kaizen/",
+    "Timestamp": "2025-07-22T00:03:02",
+    "Domain": "www.jakeworth.com",
+    "Description": "Confluence was a mess. Our documentation felt outdated, hard to navigate, and unreliable. Rather than scrap everything and start over, I decided to try something different: a Kaizen."
+  },
+  {
+    "Title": "The Rise of Fluid Teams",
+    "Url": "https://blog.pwkf.org/2025/fluid-teams.html",
+    "Timestamp": "2025-07-22T00:03:02",
+    "Domain": "blog.pwkf.org",
+    "Description": "In today’s world, software development needs to be super flexible but also stable. Fluid teams are a fresh new idea to help overcome that contradiction."
+  },
+  {
+    "Title": "Tracking Phishing Bots Via Locations, by Gwern · Gwern.net",
+    "Url": "https://gwern.net/blog/2025/bot-location",
+    "Timestamp": "2025-07-22T00:02:59",
+    "Domain": "gwern.net",
+    "Description": "Proposal: use an information leak from catfishing/thirst-trap bots of ‘their location’, which they set to a target’s location, to monitor their collective activities and infer their attacks."
+  },
+  {
+    "Title": "On the Benefits of Trunk-based Development",
+    "Url": "https://thinkinglabs.io/articles/2025/07/21/on-the-benefits-of-trunk-based-development.html",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "thinkinglabs.io",
+    "Description": ""
+  },
+  {
+    "Title": "Jimmy Meets World",
+    "Url": "https://www.jimmymeetsworld.com/claude-code-personal-tutor",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "www.jimmymeetsworld.com",
+    "Description": "Personal blog and portfolio of Jimmy Zhang"
+  },
+  {
+    "Title": "Mentoring junior engineers in the age of coding agents",
+    "Url": "https://blog.marcua.net/2025/07/21/mentoring-junior-engineers-in-the-age-of-coding-agents.html",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "blog.marcua.net",
+    "Description": "A decent amount of digital ink has been spilled about the future of software engineering in light of increasingly powerful coding agents. Will software engineers, especially junior ones, be able to find jobs in the future as coding agents become more powerful? I’m not a futurist, so I’ll make some observations informed by my own increasingly productive use of coding agents like Claude Code and Aider: Today’s best coding agents still very much require a human operator, To effectively use these coding agents in a professional context, you have to make some big changes to how you work, and There are many elements of professional software engineering that coding agents don’t meaningfully enhance."
+  },
+  {
+    "Title": "100R — solar evacuated tube cooking",
+    "Url": "https://100r.co/site/solar_evacuated_tube_cooking.html",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "100r.co",
+    "Description": "Vacuum tubes are also known as Solar Evacuated Tubes, and Solar Collector Tubes."
+  },
+  {
+    "Title": "3-json",
+    "Url": "https://rgbcu.be/blog/3-json/",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "rgbcu.be",
+    "Description": "tree, not three"
+  },
+  {
+    "Title": "How my manager tricked us team into doing things: The Experiment Framework | Daniel Sada Caraveo | Developer Productivity & Culture",
+    "Url": "https://danielsada.tech/blog/experiment-framework/",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "danielsada.tech",
+    "Description": "Software Development Engineer, I work on sync technologies and storage solutions for services that have millions of users. I empower people to be more productive."
+  },
+  {
+    "Title": "You have to decide | Tern Blog",
+    "Url": "https://tern.sh/blog/you-have-to-decide/",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "tern.sh",
+    "Description": "Today's AI coding tools aren't built for engineers. Let's change that."
+  },
+  {
+    "Title": "Build, Learn, Delete, Repeat",
+    "Url": "https://ymichael.com/2025/07/18/build-learn-delete-repeat.html",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "ymichael.com",
+    "Description": "ymichael's personal site"
+  },
+  {
+    "Title": "Dirt to airplanes: Making aluminium (Maurycy's blog)",
+    "Url": "https://maurycyz.com/projects/al/",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "maurycyz.com",
+    "Description": "No adblocker detected. Consider using an extention like uBlock Origin to save time and bandwidth. Click here to close."
+  },
+  {
+    "Title": "Why I'm Building a Low Cost ROV",
+    "Url": "https://compuficial.bearblog.dev/why-im-building-a-low-cost-rov/",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "compuficial.bearblog.dev",
+    "Description": "\n\nAfter looking at the cost of an ROV that question has been rattling around in my head for a while now. And after lots of research and thinking, I’ve deci..."
+  },
+  {
+    "Title": "Forcing Myself to Vibe Code",
+    "Url": "https://kevinhighwater.com/2025/07/kriegspiel-tic-tac-toe",
+    "Timestamp": "2025-07-22T00:02:57",
+    "Domain": "kevinhighwater.com",
+    "Description": "I’ve noticed two things recently:"
+  },
+  {
+    "Title": "Getting into technical writing: a primer",
+    "Url": "https://devinlogan.org/2025/05/23/primer.html",
+    "Timestamp": "2025-07-22T00:02:56",
+    "Domain": "devinlogan.org",
+    "Description": "Over the past few years I’ve talked to a number of people who are interested in getting into the technical writing field. After years of meaning to do this, I finally took some time to write up the thoughts and resources I typically share with people looking to get into the field. This is far from a comprehensive guide and notably doesn’t include much specific resume or cover letter advice."
+  },
+  {
+    "Title": "SQL Injection as a Feature",
+    "Url": "https://idiallo.com/blog/sql-injection-as-a-feature",
+    "Timestamp": "2025-07-22T00:02:56",
+    "Domain": "idiallo.com",
+    "Description": "Looking at old applications, we always wonder who in their right mind thought of building them so badly. But every repository has its story and every effort has noble origins. I encountered such an ap"
+  }
+]

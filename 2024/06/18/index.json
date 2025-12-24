@@ -1,0 +1,352 @@
+[
+  {
+    "Title": "Building a Distributed ETL Pipeline Using Bacalhau and MongoDB Atlas",
+    "Url": "https://blog.bacalhau.org/p/building-a-distributed-etl-pipeline",
+    "Timestamp": "2024-06-18T22:01:44",
+    "Domain": "blog.bacalhau.org",
+    "Description": "(1:35)"
+  },
+  {
+    "Title": "The Essence of Lagrange Multipliers",
+    "Url": "https://alexkritchevsky.com/2024/06/10/lagrange-multipliers.html",
+    "Timestamp": "2024-06-18T22:01:43",
+    "Domain": "alexkritchevsky.com",
+    "Description": "In which we attempt to better understand the classic multivariable calculus optimization problem."
+  },
+  {
+    "Title": "Neatnik Notes · Gotta block ’em all",
+    "Url": "https://notes.neatnik.net/2024/06/gotta-block-em-all",
+    "Timestamp": "2024-06-18T22:01:43",
+    "Domain": "notes.neatnik.net",
+    "Description": "Neatnik Notes"
+  },
+  {
+    "Title": "Fast Crimes at Lambda School",
+    "Url": "https://www.sandofsky.com/lambda-school/",
+    "Timestamp": "2024-06-18T22:01:43",
+    "Domain": "www.sandofsky.com",
+    "Description": "Two days after his company's downfall, Austen Allred wrote:\n\nI wish people could see how ugly it is to be envious, and how obvious it is to those around you when that's what's happening.\n\nThere's no much uglier than trying to tear someone down because they achieved what you wish"
+  },
+  {
+    "Title": "A Gentle Introduction to Metathics",
+    "Url": "https://www.ahalbert.com/reviews/2024/05/20/metaethics.html",
+    "Timestamp": "2024-06-18T22:01:42",
+    "Domain": "www.ahalbert.com",
+    "Description": ""
+  },
+  {
+    "Title": "April is the Cruelest Month",
+    "Url": "https://kmalexander.com/2024/06/17/april-is-the-cruelest-month/",
+    "Timestamp": "2024-06-18T22:01:42",
+    "Domain": "kmalexander.com",
+    "Description": "This has been a difficult post to write. I’ve written and rewritten it over the last few weeks, but I never liked how it came out. This is an attempt to correct that. It is always challenging…"
+  },
+  {
+    "Title": "Managers Should Focus More On Setting Expectations",
+    "Url": "https://shamun.dev/posts/setting-expectations",
+    "Timestamp": "2024-06-18T22:01:41",
+    "Domain": "shamun.dev",
+    "Description": "My tales as a technical founder, manager, and software engineer."
+  },
+  {
+    "Title": "It's OK to repeat yourself on the internet",
+    "Url": "https://www.markozivanovic.com/its-ok-to-repeat-yourself-on-the-internet/",
+    "Timestamp": "2024-06-18T22:01:41",
+    "Domain": "www.markozivanovic.com",
+    "Description": "I was talking recently with two fellow engineers who are actively writing on their blogs and occasionally on social media."
+  },
+  {
+    "Title": "wtb: Progressive SPAs",
+    "Url": "https://cra.mr/wtb-progressive-spas/",
+    "Timestamp": "2024-06-18T22:01:41",
+    "Domain": "cra.mr",
+    "Description": "I've been using React a long time at this point, and it's by far my favorite approach to building a UI - interactive or not. Most of that time has been spent at Sentry, but whenever I start a new project, I still reach for React. I want to talk a little about what I'd love to see the React ecosystem adopt, and where I see some of the gaps with approaches today, particularly around the slow evolution of Single Page Applications."
+  },
+  {
+    "Title": "Lemmy and my Switch to PieFed; Threadyverse software alternatives",
+    "Url": "https://jeena.net/lemmy-switch-to-piefed",
+    "Timestamp": "2024-06-18T22:01:41",
+    "Domain": "jeena.net",
+    "Description": "The main reason was Lemmy hogging server resources"
+  },
+  {
+    "Title": "Mac external displays for designers and developers, part 2",
+    "Url": "https://bjango.com/articles/macexternaldisplays2/",
+    "Timestamp": "2024-06-18T22:01:41",
+    "Domain": "bjango.com",
+    "Description": "Since writing about Mac external displays in 2016, not much has changed. LG, Dell, Samsung, and other display makers have either never catered for the specs many Mac designers and developers want, or they’ve reluctantly produced products that have been short-lived or compromised."
+  },
+  {
+    "Title": "listening to your friends' jams with last.fm",
+    "Url": "https://rjbs.cloud/blog/2024/06/lastfm-friendo/",
+    "Timestamp": "2024-06-18T22:01:40",
+    "Domain": "rjbs.cloud",
+    "Description": "Quite a while ago, I wrote some Spotify code that would find places when my Discover Weekly playlist would intersect with those of my friends and coworkers. This was fun. Every once in a while, I talked about other things that might be fun, along those lines. I tend not to do too much with those ideas, because the Spotify API is often missing exactly the method I want, and I can work around it, but it becomes too much of a pain. Also, I’m a little lazy when the project will need other people to be interested, unless I’m sure they will be. Who wants to launch a flop to their friends?"
+  },
+  {
+    "Title": "Comments on Scripting, CGI, and FastCGI",
+    "Url": "https://www.oilshell.org/blog/2024/06/cgi.html",
+    "Timestamp": "2024-06-18T22:01:40",
+    "Domain": "www.oilshell.org",
+    "Description": "|\nblog | oilshell.org"
+  },
+  {
+    "Title": "Grow a Pair",
+    "Url": "https://codingcraftsman.wordpress.com/2024/06/17/grow-a-pair/",
+    "Timestamp": "2024-06-18T22:01:38",
+    "Domain": "codingcraftsman.wordpress.com",
+    "Description": "I recently needed to merge a code change. I wasn’t a code owner of the specific repo, so I put my merge request in front of the code owners. It was a small lexical change, based on the curren…"
+  },
+  {
+    "Title": "Minimize all windows on Mac OS\n",
+    "Url": "https://hartenfeller.dev/blog/mac-minimize-all-windows",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "hartenfeller.dev",
+    "Description": "AppleScript to quickly minimize every window on my macOS. This is not hiding the windows, but minimizing them on the dock."
+  },
+  {
+    "Title": "Hack the Hacker - How to Setup an SSH Honeypot",
+    "Url": "https://blog.sofiane.cc/setup_ssh_honeypot/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "blog.sofiane.cc",
+    "Description": "What’s a Honeypot :A honeypot detects and records attacks when an attacker tries to break into a system. The honeypot we will discuss here is an SSH honeypot. PrephaseThis article comes after the one"
+  },
+  {
+    "Title": "Writing A Run Book Can Be Your First Iterative Step",
+    "Url": "https://shermanonsoftware.com/2024/06/17/writing-a-run-book-can-be-your-first-iterative-step/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "shermanonsoftware.com",
+    "Description": ""
+  },
+  {
+    "Title": "Technical Inspection",
+    "Url": "https://danshiebler.com/2024-06-17-inspection-strategy/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "danshiebler.com",
+    "Description": "The CEO needs to increase company margins. He turns to the engineering leadership team to help. Engineering leadership puts together a sound plan. First the objective to “Increase Company Margins” is decomposed into a collection of eng-level goals like “Reduce Tier 2 Support Hours”. Each of these eng-level goals decompose..."
+  },
+  {
+    "Title": "The case for criminalizing scientific misconduct · Chris Said",
+    "Url": "https://chris-said.io/2024/06/17/the-case-for-criminalizing-scientific-misconduct/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "chris-said.io",
+    "Description": "For a crime that could cost millions of lives, universities have failed to police themselves"
+  },
+  {
+    "Title": "Essential, open source Mac apps",
+    "Url": "https://ivdl.co.za/2024/06/17/essential-mac-apps/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "ivdl.co.za",
+    "Description": "These are the apps I install on every new Mac, and this post serves as my personal reference list (as with many other posts on this blog). It's likely that Rectangle will be replaced by the built-in window tiling functionality in the upcoming Sequoia release, but for now it remains indispensable. Al"
+  },
+  {
+    "Title": "There's something rotten in the kingdom of Wordpress",
+    "Url": "https://www.baldurbjarnason.com/2024/rotten-wordpress/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "www.baldurbjarnason.com",
+    "Description": "Like many in web development, Wordpress has been a semi-regular feature in my professional life and, for most of it, my impression was that it suffered from the usual infighting and mismanagement you see in free or open source software, but that it was otherwise as well run as you could expect of a long-running project built on layers and layers of legacy code."
+  },
+  {
+    "Title": "Python: 10 cool tricks with the * operator",
+    "Url": "https://lucasoshiro.github.io/posts-en/2024-05-11-splat-operator/",
+    "Timestamp": "2024-06-18T22:01:36",
+    "Domain": "lucasoshiro.github.io",
+    "Description": "Expanding args are more useful than you think!"
+  },
+  {
+    "Title": "My Experience With LineageOS",
+    "Url": "https://jadenarceneaux.com/posts/lineageos/",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "jadenarceneaux.com",
+    "Description": "Don’t take this post seriously, this is just me being goofy and having fun.\nSome Background Recently, I embarked on a mini project. It started with my boss giving me her old OnePlus 8. Conveniently, the very next day the battery in my iPhone 11 Pro Max decided it wanted to see the world and pushed the screen off my phone. This meant that for the next two days, I got to become an Android user for the first time in almost 10 years."
+  },
+  {
+    "Title": "Latency, Tail Latency and Response time in distributed systems",
+    "Url": "https://andrewpakhomov.com/posts/latency-tail-latency-and-response-time-in-distributed-systems/",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "andrewpakhomov.com",
+    "Description": "Response time is a metric that shows how fast software responds. This is the time between request was sent and the time response was received.\nThe questions arise right from the start: a sorting of 100 000 elements naturally requires more time than of 100.\nHow to measure a system response time in this case?\nIt’s natural to agree on some standard fixed request and perform a load test: send a lot of such standards requests\nand measure response time.\nThe distribution of the response time we receive at the end of the performance test usually resembles a Log Normal distribution."
+  },
+  {
+    "Title": "Of Rats and Ratchets",
+    "Url": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "matklad.github.io",
+    "Description": "This is going to be related to software engineering, pinky promise!"
+  },
+  {
+    "Title": "MCTS and LLMs: what's the big deal?",
+    "Url": "https://www.seangoedecke.com/mcts-and-llms/",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Why people are excited about Monte Carlo tree search and language models"
+  },
+  {
+    "Title": "A Vision For Roadway Infrastructure",
+    "Url": "https://blog.davidsint.com/vision-for-roads/",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "blog.davidsint.com",
+    "Description": "Explore the future of roadway infrastructure, envisioning smarter and safer roads as well as more efficient and pleasurable driving experiences for all."
+  },
+  {
+    "Title": "Making Friends",
+    "Url": "http://talhaashraf.com/making-friends.html",
+    "Timestamp": "2024-06-18T22:01:35",
+    "Domain": "talhaashraf.com",
+    "Description": "There's a pattern for people who want to make friends but are unable to. The thing they have in common is they have unusual views on a lot of mainstream things and therefore don't talk about them. The problem with having unusual views is that people think you're trying to be cool. But that's not it. If you say that you don't like rice, it's because you don't like them. And any food conversation would obviously have to involve this disclosure to have some context of what you do like. \n\nThis is one of the things that makes unusual people introverts. They often fail to relate with what people are saying and therefore find it impossible to share what they themselves are thinking.\n\nAnd the unusual views make it seem like you're trying to look for attention. But you're not. For you, the unusual view is like saying that you have tea 3 times a day. It's just something basic about you.\n\nThat's also why people with unusual views tend to talk less. Because the less they talk the less likely they are to say something that would make them appear unusual.\n\nBut this has a major downside. People that have unusual views are already very unlikely to find people like themselves. And when they don't even talk about their unusual views, it is almost impossible to find similar people they might make great friends with.\n\nSo to make friends or to find people like yourself, you need to do the counterintuitive thing and talk about yourself. I've been unintentionally doing this for a while and I've found people like me who've read hundreds of books, who like stupid puns, who don't plan on having kids, who get extremely obsessed about things.\n\nP.S. Ironically, after writing this down, I thought about not sharing it fearing it may seem unusual because most people don't have trouble making friends."
+  },
+  {
+    "Title": "Privacy and security improvements in .NET modernization tooling - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-modernization-privacy-security-improvements/",
+    "Timestamp": "2024-06-18T19:01:11",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Learn about the latest privacy and security-related updates to Azure Migrate application and code assessment and .NET Upgrade Assistant."
+  },
+  {
+    "Title": "Introducing a new RISC-V Mainboard from DeepComputing",
+    "Url": "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing",
+    "Timestamp": "2024-06-18T19:01:10",
+    "Domain": "frame.work",
+    "Description": "We’re excited to share a preview of a Framework Laptop 13 Mainboard with a new CPU architecture."
+  },
+  {
+    "Title": "The time smart quotes prevented the entire Office division from committing code - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240618-00/?p=109910",
+    "Timestamp": "2024-06-18T17:01:06",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Breaking your tools with your tools."
+  },
+  {
+    "Title": "Cyber Scarecrow",
+    "Url": "https://www.cyberscarecrow.com/",
+    "Timestamp": "2024-06-18T14:01:03",
+    "Domain": "www.cyberscarecrow.com",
+    "Description": "An app for scaring away malware"
+  },
+  {
+    "Title": "Chat Control Must Be Stopped – Now!",
+    "Url": "https://threema.ch/en/blog/posts/stop-chat-control",
+    "Timestamp": "2024-06-18T11:01:30",
+    "Domain": "threema.ch",
+    "Description": "With its legislative proposal known as “Chat Control,” the EU Commission is trying to establish an unprecedented mass-surveillance apparatus of Orwellian proportions in the European Union. If EU citizens don’t stand up for privacy now, it may be too late."
+  },
+  {
+    "Title": "Chat control: incompatible with fundamental rights",
+    "Url": "https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle",
+    "Timestamp": "2024-06-18T11:01:29",
+    "Domain": "freiheitsrechte.org",
+    "Description": "The EU Commission has presented a draft regulation that is to lay down rules for preventing and combating sexual violence against children (Chat Control Regulation). The planned regulation raises such significant fundamental rights concerns that the GFF is joining the debate while the draft is still being deliberated at EU level. The most important points of criticism at a glance."
+  },
+  {
+    "Title": "Efficiently Handling Stored Procedures in EFCore: Practical Solutions",
+    "Url": "https://goatreview.com/efficiently-handling-stored-procedures-efcore-practical-solutions/",
+    "Timestamp": "2024-06-18T09:01:07",
+    "Domain": "goatreview.com",
+    "Description": "Discover proven strategies and practical solutions for efficiently handling stored procedures in Entity Framework Core (EFCore) and optimize your database interactions."
+  },
+  {
+    "Title": "Getting 50% (SoTA) on ARC-AGI with GPT-4o",
+    "Url": "https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt",
+    "Timestamp": "2024-06-18T09:01:07",
+    "Domain": "redwoodresearch.substack.com",
+    "Description": "You can just draw more samples"
+  },
+  {
+    "Title": "\"Secret\" elmah.io features #5 - Breadcrumbs leading up to errors",
+    "Url": "https://blog.elmah.io/secret-elmah-io-features-5-breadcrumbs-leading-up-to-errors/",
+    "Timestamp": "2024-06-18T09:01:05",
+    "Domain": "blog.elmah.io",
+    "Description": "This post introduces the breadcrumbs feature available on elmah.io. Get help debugging errors by seeing the history leading up to the exception."
+  },
+  {
+    "Title": "Setting up NGINX load balancer for .NET WebApi - Event-Driven.io",
+    "Url": "https://event-driven.io/en/setting_up_nginx_with_aspnet/",
+    "Timestamp": "2024-06-18T06:01:16",
+    "Domain": "event-driven.io",
+    "Description": "Event-Driven by Oskar Dudycz"
+  },
+  {
+    "Title": "Health Checks in Your OpenAPI Specs\n",
+    "Url": "https://wildermuth.com/2024/06/17/health-checks-in-your-open-api/",
+    "Timestamp": "2024-06-18T06:01:15",
+    "Domain": "wildermuth.com",
+    "Description": "Adding health checks to your ASP.NET Core projects is simple and easy, but how do you get them exposed in your OpenAPI specification? Let me show you how!\n"
+  },
+  {
+    "Title": "How to achieve high HTTP scale with Azure Functions Flex Consumption",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-achieve-high-http-scale-with-azure-functions-flex/ba-p/4169736",
+    "Timestamp": "2024-06-18T06:01:15",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Taking Azure Functions from 0 to 32,000 RPS in 7 seconds "
+  },
+  {
+    "Title": "Docker Logging Guide Part 1: Basic Concepts and Importance - Simple Talk",
+    "Url": "https://www.red-gate.com/simple-talk/devops/containers-and-virtualization/docker-logging-guide-part-1-basic-concepts-and-importance/",
+    "Timestamp": "2024-06-18T06:01:14",
+    "Domain": "www.red-gate.com",
+    "Description": "Docker has gained popularity as a containerization platform that allows you to develop, deploy, and execute applications faster. It packages applications"
+  },
+  {
+    "Title": "The Arm development ecosystem is ready",
+    "Url": "https://www.poppastring.com/blog/the-arm-development-ecosystem-is-ready",
+    "Timestamp": "2024-06-18T06:01:14",
+    "Domain": "www.poppastring.com",
+    "Description": "I have been keeping a close eye on the Arm software and hardware ecosystem for ..."
+  },
+  {
+    "Title": "Process Monitor v4.0 and Sysmon 1.3.3 for Linux",
+    "Url": "https://techcommunity.microsoft.com/t5/sysinternals-blog/process-monitor-v4-0-and-sysmon-1-3-3-for-linux/ba-p/4169957",
+    "Timestamp": "2024-06-18T06:01:14",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "\nLearn about the latest updates to Process Monitor v4.0 and Sysmon 1.3.3 for Linux\n"
+  },
+  {
+    "Title": "Beyond the Basics: Screen Recording in .NET MAUI",
+    "Url": "https://www.telerik.com/blogs/beyond-basics-screen-recording-net-maui",
+    "Timestamp": "2024-06-18T06:01:14",
+    "Domain": "www.telerik.com",
+    "Description": "Let’s learn how to use the ScreenRecording plugin created by Gerald Versluis in a .NET MAUI application (available for Android, iOS and macOS)."
+  },
+  {
+    "Title": "Understanding open source LLMs",
+    "Url": "https://thoughtbot.com/blog/understanding-open-source-llms",
+    "Timestamp": "2024-06-18T06:01:13",
+    "Domain": "thoughtbot.com",
+    "Description": "Do you think you can run any Large Language Model (LLM) on your machine?"
+  },
+  {
+    "Title": "A failed attempt at priority collection with inheritance",
+    "Url": "https://blog.ploeh.dk/2024/06/17/a-failed-attempt-at-priority-collection-with-inheritance/",
+    "Timestamp": "2024-06-18T06:01:12",
+    "Domain": "blog.ploeh.dk",
+    "Description": "An instructive dead end."
+  },
+  {
+    "Title": "GitHub - nicanorflavier/spf-dkim-dmarc-simplified: Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.",
+    "Url": "https://github.com/nicanorflavier/spf-dkim-dmarc-simplified",
+    "Timestamp": "2024-06-18T05:01:13",
+    "Domain": "github.com",
+    "Description": "Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer. - nic..."
+  },
+  {
+    "Title": "Pascal's Wager Triangle",
+    "Url": "https://xkcd.com/2947/",
+    "Timestamp": "2024-06-18T02:01:03",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "j3s.sh",
+    "Url": "https://j3s.sh/thought/stop-using-fandom.html",
+    "Timestamp": "2024-06-18T01:01:05",
+    "Domain": "j3s.sh",
+    "Description": "Stop Using Fandom\n                2024-06-16\n\n     fandom is a wiki website (allegedly)\n\nif you are unfortunate enough to browse a fandom wiki\nwithout an ad blocker, you will experience what i like\nto call \"attention assault\"\n\nupon opening a fandom page (for me, it was the hollow\nknight wiki), you will note the very subtle aroma of a\n1/3 page banner ad, placed ever so daintily at the top of\nthe page.\n\nmy ad was for furniture - ah yes, just what i wanted.\na multi-thousand-dollar furniture purchase to go with my\nvideo game bug lore.\n\ni have been using fandom for 1 second\n\nand i already want to leave\n\n...\n\nas i scroll down, i'm assaulted by an auto-playing video\nad for dog food.\n\ni do not have a dog.\n\nin the top-left corner of the video sits a little \"1/2\",\nindicating the presence of a second ad. another dog food\nad. actually, exactly the same dog food ad.\n\nthis \"content\" is in the middle of the hollow knight\nfandom wiki. when i scroll down, the video shrinks into\nthe bottom-right corner of my screen and stalks me\naround the website, begging for attention.\n\nafter the ads finish playing, a 60 minute video called\n\"honest trailers\" starts. this must be the actual video\nthat i've been sitting through ads to witness.\n\n\"honest trailers\" is not hollow knight related - it's two\nguys vaping & reviewing the new mario movie trailer.\nthey're arguing about whether chris pratt is a good FIT\nto voice act MARIO\n\nafter about 5 seconds (no, i'm not kidding), another ad\nbreak occurs.\n\nit's the same dog food ad. AGAIN.\n\n...\n\nscrolling further down, i reach the end of the wiki page,\nand there are two banner ads waiting, as if to bid me\nfarewell after my arduous journey through this shit-ass\nwebsite.\n\n- one 1/3 page footer ad for Ubisoft+\n- one 1/4 page sidebar ad for sunscreen\n\ni don't need sunscreen. i need fandomscreen.\n\n        .\n       | /\n    '-.;;;.-'\n   -==;;;;;==-\n    .-';;;'-.\n      / | \n        '     [0]\n\n\n          some fandom history\n\nfrom the very beginning, fandom was about profit:\n  2004: jimmy founds wikicities\n  2006: wikicities renamed to wikia\n  2006: random venture capital firms invest $4M\n  2006: amazon.com invests $10M\n  2012: venture firms + amazon invest $11M\n  2014: venture firms invest $15M\n  2016: wikia renamed to fandom\n  2018: enormous private equity firm acquires fandom\n\n  grand total: $40M\n\nand what, dear readers, do venture capitalists want when\nthey invest $40M into something?\n\nreturns. at all costs.\n\nlet the enshittification begin.\n\n> but wait, what does fandom actually _do_?\n\nwhat valuable service does fandom provide to the world?\n\nfandom generates enough money to retain a staff of 300+,\nand rent several offices, including a very beautiful\nbuilding in downtown san francisco.\n\nas far as i can tell, this is fandom's business model:\n  1. users write wiki content on fandom\n  2. fandom displays your content on a wiki page\n  3. pelt fandom visitors with ads\n  4. $$$$$$$$ YUM YUM YUM, MONEY!! $$$$$$$$$\n\n\nmany fandom communities noticed fandom degrading.\n\nat first, it was the ads. huge, annoying, irrelevant ads\nembedded directly in the content.\n\nobtrusive ads obviously suck, but hey, adblockers are a\nthing, so maybe ours users could j...\n\nINTRODUCING:\n  THE MCDONALD'S GRIMACE SHAKE PROMOTION CONTROVERSY!\n\nin 2023, mcdonald's paid fandom an unknown[1] amount of\nmoney to temporarily replace the mcdonald's wiki main\npage + grimace article with advertisements promoting the\ngrimace shake.\n\nthe grimace shake.\n\ni can't make this shit up.\n\nfandom set the precedent that companies could pay them\nand make user content go *poof*\n\n\n           ⠀⠀⠀⠀⠀⠀⢱⣆⠀⠀⠀⠀⠀⠀\n           ⠀⠀⠀⠀⠀⠀⠈⣿⣷⡀⠀⠀⠀⠀\n           ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣷⣧⠀⠀⠀\n           ⠀⠀⠀⠀⡀⢠⣿⡟⣿⣿⣿⡇⠀⠀\n           ⠀⠀⠀⠀⣳⣼⣿⡏⢸⣿⣿⣿⢀⠀\n           ⠀⠀⠀⣰⣿⣿⡿⠁⢸⣿⣿⡟⣼⡆\n           ⢰⢀⣾⣿⣿⠟⠀⠀⣾⢿⣿⣿⣿⣿\n           ⢸⣿⣿⣿⡏⠀⠀⠀⠃⠸⣿⣿⣿⡿\n           ⢳⣿⣿⣿⠀⠀⠀⠀⠀⠀⢹⣿⡿⡁\n           ⠀⠹⣿⣿⡄⠀⠀⠀⠀⠀⢠⣿⡞⠁\n           ⠀⠀⠈⠛⢿⣄⠀⠀⠀⣠⠞⠋⠀⠀\n           ⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀⠀⠀\n          fandom shall burn\n\nwikis aren't quite like other websites.\n\n  - wiki software is largely open source\n  - wiki content authors are often technical\n  - users don't care where wikis are hosted\n\nthree simple ingredients. one predictable outcome.\n\n              mass exodus.\n\nthe runescape[2] and minecraft[3] communities acted\nfirst, migrating their treasured wikis to their own\ndomains.\n\nmany other wikis followed.\n  hollow knight (yay bugz!)\n  terraria\n  animal crossing\n  stardew valley\n  EVE Online\n  Factorio\n  dota2\n  ...\n  AND MANY, MANY MORE[4]\n\nover 300 wikis have migrated away from fandom, and i can\nonly hope that this trajectory accelerates. nothing makes\nme happier than passionate communities showing everyone\nthat a better world is possible.\n\n\nif you want to help,\n\n  1. download Indie Wiki Buddy\n\n     indie wiki buddy tells you when a fandom page has an\n     alternative community-led wiki. it's a great plugin\n     that will help you support and discover independent\n     wikis.\n\n  2. if you must use fandom, turn on your ad blocker\n  3. if you own a wiki on fandom, move it off!\n\nmy offer: if you are a fandom wiki owner & you would\n          like to move your wiki content elsewhere, i\n          will offer you my expertise at $0/hour. i know\n\t  lots about servers, software, and maintenance.\n\t  just email me - let's get you out of fandom's\n\t  ecosystem.\n\n                  stay weird\n                stay independent\n              fuck venture capital\n           long live the human internet\n\n\n                   LUV,\n                     JES\n\n\n[0]: sun ascii by jgs\n[1]: fandom is a private company & doesn't have to\n     disclose such petty details as \"how much money did\n     mcdonalds give us to tear out user content and\n     replace it with marketing\"\n[2]: https://runescape.wiki\n[3]: https://minecraft.wiki\n[4]: https://getindie.wiki/listings"
+  },
+  {
+    "Title": "Council to greenlight Chat Control - Take action now!",
+    "Url": "https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/",
+    "Timestamp": "2024-06-18T00:01:24",
+    "Domain": "www.patrick-breyer.de",
+    "Description": "The Belgian EU Council presidency seems set to have bulk Chat Control searches of our private communications greenlighted by EU governments on Wednesday 19 June. This confirms concerns that the proponents of Chat Control intend to exploit the period shortly after the European Elections during which"
+  }
+]

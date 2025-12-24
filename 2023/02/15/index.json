@@ -1,0 +1,450 @@
+[
+  {
+    "Title": "What's enough Complexity for a Domain Model?",
+    "Url": "https://codeopinion.com/whats-enough-complexity-for-a-domain-model/",
+    "Timestamp": "2023-02-15T23:01:29",
+    "Domain": "codeopinion.com",
+    "Description": "Using a domain model is a great way to manage complexity. But how do you know if you have enough domain complexity? Here's an example."
+  },
+  {
+    "Title": "Towards Modular Foundations for Protocol Security",
+    "Url": "https://eprint.iacr.org/2023/187",
+    "Timestamp": "2023-02-15T23:01:28",
+    "Domain": "eprint.iacr.org",
+    "Description": "Universally composable (UC) security is the most widely used framework for analyzing the security of cryptographic protocols. Many variants and simplifications of the framework have been proposed and developed, nonetheless, many practitioners find UC proofs to be both difficult to construct and understand.\n\nWe remedy this situation by proposing a new framework for protocol security. We believe that our framework provides proofs that are both easier to write, but also more rigorous, and easier to understand. Our work is based on state-separable proofs allowing for modular proofs, by decomposing complicated protocols into simple components."
+  },
+  {
+    "Title": "I dislike shell scripting - Nales",
+    "Url": "https://www.nales.org/en/blog/i-dislike-shell-scripting.html",
+    "Timestamp": "2023-02-15T22:02:38",
+    "Domain": "www.nales.org",
+    "Description": "Some examples on why I dislike shell scripting."
+  },
+  {
+    "Title": "No PM, no problem: how we ship great products fast",
+    "Url": "http://www.spencerfry.com/no-pm-no-problem-how-we-ship-great-products-fast",
+    "Timestamp": "2023-02-15T22:02:38",
+    "Domain": "www.spencerfry.com",
+    "Description": "Many things surprise people about how differently we work at Podia, but one that comes up often is that we have absolutely zero product/project managers at our company of more than 30 people. Despite this — though I’ll argue below that it’s precisely because of this — we’re shipping features faster than companies many times our size and resources."
+  },
+  {
+    "Title": "Granting at least once delivery",
+    "Url": "https://tuwukee.github.io/ruby/fibers/2023/02/14/granting-at-least-once.html",
+    "Timestamp": "2023-02-15T22:02:37",
+    "Domain": "tuwukee.github.io",
+    "Description": "Exactly-once is the message delivery guarantee the most developers want to achieve in their systems. In the most cases, the implementation of the set of rules backing it up should include the application layer. When it comes to messaging systems, exactly-once delivery at an app level is much easier to be built on top of at-least-once, since at-most-once sometimes loses messages."
+  },
+  {
+    "Title": "Lessons Learned from Re-rolling 60+ Production Credentials",
+    "Url": "https://nickjanetakis.com/blog/lessons-learned-from-rerolling-60-production-credentials",
+    "Timestamp": "2023-02-15T22:02:36",
+    "Domain": "nickjanetakis.com",
+    "Description": "It's worth documenting and running through the process before disaster strikes while the stakes are low."
+  },
+  {
+    "Title": "How to build a cost effective MVP of a company search engine?  ·  How to build a cost effective web search MVP?",
+    "Url": "https://coda.io/@williambarberjr/how-to-build-a-cost-effective-web-search-mvp",
+    "Timestamp": "2023-02-15T22:02:36",
+    "Domain": "coda.io",
+    "Description": ""
+  },
+  {
+    "Title": "Exploring maven incremental builds with maven-build-cache-extension | miguel codes",
+    "Url": "https://www.mortega.dev/posts/exploring-maven-build-cache-extension/",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "www.mortega.dev",
+    "Description": "With the release of maven 3.9.0, it is now possible to leverage the maven-build-cache-extension to benefit from incremental builds in your maven project.\nThis feature can improve build time (in your local workflow and your CI). It caches module builds, avoiding unnecessary and/or expensive tasks:\n T"
+  },
+  {
+    "Title": "Does Mathematics need a Philosophy? - Logic Matters",
+    "Url": "https://www.logicmatters.net/2023/02/15/does-mathematics-need-a-philosophy/",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "www.logicmatters.net",
+    "Description": "At a meeting some years ago of the Trinity Mathematical Society, Imre Leader and Thomas Forster gave introductory talks on “Does Mathematics need a Philosophy?” to a startlingly large audience, before a question-and-answer session. The topic is a very big one, and the talks were very short.  After the event, I wrote up a few … Does Mathematics need a Philosophy? Read More »"
+  },
+  {
+    "Title": "The Lie of Personal Responsibility",
+    "Url": "https://blog.verdn.com/p/the-lie-of-personal-responsibility",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "blog.verdn.com",
+    "Description": "Changing your lightbulbs just won't do"
+  },
+  {
+    "Title": "3 Easy Tips for Fast-Loading Website Images",
+    "Url": "https://blog.daniemon.com/2023/02/15/tips-to-load-images-fast/",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "blog.daniemon.com",
+    "Description": "To improve website loading times, here are three quick tips. They all involve images, which have the biggest impact on page-load speed, and they’re all super easy to implement."
+  },
+  {
+    "Title": "Why I came to hate tokenomics",
+    "Url": "https://mertdev.dev/why-i-came-to-hate-tokenomics",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "mertdev.dev",
+    "Description": "Gamers don’t care about tokenomics anymore. "
+  },
+  {
+    "Title": "How to Create a Pharo Smalltalk Plugin",
+    "Url": "https://blog.sebastiansastre.co/article/how-to-create-a-pharo-smalltalk-plugin",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "When working with Smalltalk, you may wish to access functionality that exists in a specific library or technology that you do not want to recreate. In such cases, you have two options: creating an FFI bridge or extending the Smalltalk VM with new primitives. In this article, we'll explore the less common method of extending the Pharo Virtual Machine with an external plugin by creating a HelloWorldPlugin. The goal is to provide insight and clarity into the process of extending the VM in this manner, and to explain the steps involved in Pharo 9 as of February 2023."
+  },
+  {
+    "Title": "The case for Flex applications",
+    "Url": "https://daverupert.com/2023/02/the-case-for-flex-applications/",
+    "Timestamp": "2023-02-15T22:02:35",
+    "Domain": "daverupert.com",
+    "Description": "The personal blog of Dave Rupert, web developer and podcaster from Austin, TX."
+  },
+  {
+    "Title": "Record Digital Video to an SD Card With an Analog Camera",
+    "Url": "https://www.shmostert.com/recording-digital-video-with-an-analog-camera/",
+    "Timestamp": "2023-02-15T22:02:34",
+    "Domain": "www.shmostert.com",
+    "Description": "How to use an old analog video recorder to capture video straight to an SD card."
+  },
+  {
+    "Title": "I replaced grub with systemd-boot",
+    "Url": "https://blog.bofh.it/debian/id_465",
+    "Timestamp": "2023-02-15T22:02:34",
+    "Domain": "blog.bofh.it",
+    "Description": "Wed, 15 Feb 2023"
+  },
+  {
+    "Title": "How I Decreased ETL Cost by Leveraging the Apache Arrow Ecosystem",
+    "Url": "https://rcpassos.me/post/apache-arrow-future-of-data-engineering",
+    "Timestamp": "2023-02-15T22:02:34",
+    "Domain": "rcpassos.me",
+    "Description": "In the field of Data Engineering, the Apache Spark framework is one of the most known and powerful ways to extract and process data.\nIt is well-trusted, and it is also very simple to use once you get the infrastructure set up.\nUnderstandably, most engineers will choose it for every task.\nHowever, in a lot of ways, it can be overkill. And a very expensive one."
+  },
+  {
+    "Title": "Gamebert: a Game Boy emulator built by Robert | Robert Heaton",
+    "Url": "https://robertheaton.com/gamebert/",
+    "Timestamp": "2023-02-15T22:02:34",
+    "Domain": "robertheaton.com",
+    "Description": "I’m a professional computer programmer, but I don’t often do all that much computer programming. Instead I spend much of my time futzing around with config files, other people’s frameworks, and other people. This makes it easy to forget how much fun it is to write a long program that truly interests you and watch it do something a little bit astonishing."
+  },
+  {
+    "Title": "A brief introduction to Nostr · Notes",
+    "Url": "https://notes.ghed.in/posts/2023/nostr/",
+    "Timestamp": "2023-02-15T22:02:34",
+    "Domain": "notes.ghed.in",
+    "Description": "“A milestone for open protocols…” This is how Jack Dorsey, co-founder and former CEO of Twitter, announced the arrival of the Damus app, a Nostr protocol client, in the App Store/iOS.\nNostr has generated buzz in developer groups, bitcoin addicts, and a crowd very suspicious of their own shadows. The reason: Nostr brings an alternative to commercial social media that, in the words of its creators, would be “truly censorship-resistant”."
+  },
+  {
+    "Title": "dbt is jQuery, not Terraform",
+    "Url": "https://www.aranke.org/dbt-jquery/",
+    "Timestamp": "2023-02-15T22:02:33",
+    "Domain": "www.aranke.org",
+    "Description": "Disclaimer: I work at dbt Labs, but the opinions here are strictly my own."
+  },
+  {
+    "Title": "A (performance) quirk with JsonSerializer",
+    "Url": "https://steven-giesel.com/blogPost/0e7512b0-c854-4cce-8606-765fcaf1e69c",
+    "Timestamp": "2023-02-15T21:01:24",
+    "Domain": "steven-giesel.com",
+    "Description": "System.Text.Json.JsonSerializer has a weird quirk in regard to performance and memory management. So we will discuss what is \"wrong\" with this code: JsonSerializer.Serialize(myObject, new JsonSerializerOptions(...));.\n"
+  },
+  {
+    "Title": ".NET Managed languages strategy - .NET",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/fundamentals/languages",
+    "Timestamp": "2023-02-15T20:01:43",
+    "Domain": "learn.microsoft.com",
+    "Description": "Each .NET language is unique. C# is the most widely used language and the language most of .NET is written in. F# explores new language possibilities and the community provides a rich experience across platforms. We remain committed to Visual Basic and continue to invest in maintaining C# interop and Visual Studio features for folks that love Visual Basic or want a stable language."
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=17de8eb0-c38f-43bd-80c6-bbb216607b7f",
+    "Timestamp": "2023-02-15T20:01:42",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password must not contain consecutive characters: keirenifuewiefwe"
+  },
+  {
+    "Title": "Improving EF Core performance with Compiled Queries",
+    "Url": "https://dotnetthoughts.net/improve-ef-core-performance-with-compiled-queries/",
+    "Timestamp": "2023-02-15T19:01:51",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about improving EF Core performance with Compiled queries. From EF Core 2.0 onwards, EF Core supports compiled queries, which helps developers to compile the queries in advance and executed when application executes the query. By default EF Core automatically compiles and caches your queries using a hashed representation of the query expression - when the code runs the previously executed query, EF Core lookup the cache with the hash value and returns the compiled query from the cache. We can explicitly compile the query upfront and invoke the compiled query. To compile the query, EF Core exposes two extension methods in EF class - EF.CompileQuery() and EF.CompileAsyncQuery(). These methods helps us to create compiled queries and call them using a delegate."
+  },
+  {
+    "Title": "Upgrading your .NET projects with Visual Studio",
+    "Url": "https://devblogs.microsoft.com/dotnet/upgrade-assistant-now-in-visual-studio/",
+    "Timestamp": "2023-02-15T19:01:49",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The .NET Upgrade Assistant is now available as an experimental extension in Visual Studio to easily enable to update your apps and projects to the latest version of .NET."
+  },
+  {
+    "Title": "MediatR 12.0 Released",
+    "Url": "https://jimmybogard.com/mediatr-12-0-released/",
+    "Timestamp": "2023-02-15T19:01:48",
+    "Domain": "jimmybogard.com",
+    "Description": "This is a pretty big release, with a number of breaking changes. Release NotesMigration GuideBreaking changes include: Depending directly on IServiceProvider to resolve servicesMaking \"void\" request handlers return Task instead of UnitIRequest does not inherit IRequest&lt;Unit&gt; instead IBaseRequestConsolidating the MediatR.Extensions.Microsoft.DependencyInjection package into the main"
+  },
+  {
+    "Title": "Omniknot",
+    "Url": "https://xkcd.com/2738/",
+    "Timestamp": "2023-02-15T16:01:41",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "What are the potentially-erroneous results if you don't pass NULL as the lpNumberOfBytesRead when issuing overlapped I/O?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230215-00/?p=107832",
+    "Timestamp": "2023-02-15T15:01:26",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It's to avoid a self-inflicted race condition."
+  },
+  {
+    "Title": "<div style=\"max-width: 480px;\">What Is ChatGPT Doing … and Why Does It Work?</div>",
+    "Url": "https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/",
+    "Timestamp": "2023-02-15T14:01:38",
+    "Domain": "writings.stephenwolfram.com",
+    "Description": "Stephen Wolfram explores the broader picture of what's going on inside ChatGPT and why it produces meaningful text. Discusses models, training neural nets, embeddings, tokens, transformers, language syntax."
+  },
+  {
+    "Title": "Building Functional .NET Applications: A Guide for Choosing Between F# vs C# ",
+    "Url": "https://www.infoq.com/articles/functional-dotnet-development/",
+    "Timestamp": "2023-02-15T11:01:13",
+    "Domain": "www.infoq.com",
+    "Description": "C# and F# are languages, each with growing user bases, that approach functional programming in fundamentally different ways. C# relies on object-oriented, imperative principles, and F# relies on functional principles.  Some developers are using F# as a complement to C#, rather than relying on the functional capabilities that exist natively in C#."
+  },
+  {
+    "Title": "C# Tip: List Pattern to match an collection against a sequence of patterns - Code4IT",
+    "Url": "https://www.code4it.dev/csharptips/list-pattern/",
+    "Timestamp": "2023-02-15T11:01:13",
+    "Domain": "www.code4it.dev",
+    "Description": "By using list patterns on an array or a list you can check whether a it contains the values you expect in a specific position."
+  },
+  {
+    "Title": "Creating Visual Studio extensions using Roslyn analyzers",
+    "Url": "https://blog.elmah.io/creating-visual-studio-extensions-using-roslyn-analyzers/",
+    "Timestamp": "2023-02-15T11:01:12",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to develop Visual Studio extensions with ease using Roslyn analyzers. This step-by-step guide will help you get started in no time!"
+  },
+  {
+    "Title": "Handling FunctionTimeoutException in Durable Azure Functions Orchestrators",
+    "Url": "https://jamilhallal.blogspot.com/2023/02/handling-functiontimeoutexception-in-durable-azure-functions-orchestrators.html",
+    "Timestamp": "2023-02-15T09:01:16",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "Learn how to catch the FunctionTimeoutException in durable Azure Functions orchestrators using a try-catch block in C#. "
+  },
+  {
+    "Title": "Multipart Form-Data in HttpClient with ASP.NET Core - Code Maze",
+    "Url": "https://code-maze.com/aspnetcore-multipart-form-data-in-httpclient/",
+    "Timestamp": "2023-02-15T09:01:15",
+    "Domain": "code-maze.com",
+    "Description": "We will learn about multipart requests and how to use multipart form-data in HttpClient with ASP.NET Core to send files."
+  },
+  {
+    "Title": "Google’s Fully Homomorphic Encryption Compiler — A Primer",
+    "Url": "https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/",
+    "Timestamp": "2023-02-15T08:01:34",
+    "Domain": "jeremykun.com",
+    "Description": "Back in May of 2022 I transferred teams at Google to work on Fully Homomorphic Encryption (newsletter announcement). Since then I’ve been working on a variety of projects in the space, includ…"
+  },
+  {
+    "Title": "Getting Started: Entity Framework Core 7 JSON Support | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/02/14/getting-started-entity-framework-core-7-json-support/",
+    "Timestamp": "2023-02-15T06:01:21",
+    "Domain": "blog.jetbrains.com",
+    "Description": "When working with databases, there are a few tenets to keep in mind to maximize your application's performance. First, reduce the number of network calls. Second, reduce the complexity of your queries"
+  },
+  {
+    "Title": "Async EventHandlers – A Simple Safety Net to the Rescue - Dev Leader",
+    "Url": "https://www.devleader.ca/2023/02/14/async-eventhandlers-a-simple-safety-net-to-the-rescue/",
+    "Timestamp": "2023-02-15T06:01:20",
+    "Domain": "www.devleader.ca",
+    "Description": "Dealing with async EventHandlers in C# can be very problematic. async void is a pattern causes headaches with exceptions. Check out this simple solution!"
+  },
+  {
+    "Title": "Convrt",
+    "Url": "https://convrt.it/trivia",
+    "Timestamp": "2023-02-15T05:01:48",
+    "Domain": "convrt.it",
+    "Description": "Convrt Trivia Night | Survive 7 live trivia questions, share the cash prize with other winners!"
+  },
+  {
+    "Title": "Brennan Build - Intel Core i7-13700K, GeForce RTX 4070 Ti, Fractal Design Pop XL Air ATX Full Tower - PCPartPicker",
+    "Url": "https://pcpartpicker.com/user/DamianEdwards/saved/wmNGkL",
+    "Timestamp": "2023-02-15T04:01:30",
+    "Domain": "pcpartpicker.com",
+    "Description": "Brennan Build - Intel Core i7-13700K, GeForce RTX 4070 Ti, Fractal Design Pop XL Air ATX Full Tower"
+  },
+  {
+    "Title": "Creating a circuit breaker health check using Polly CircuitBreaker",
+    "Url": "https://asp.net-hacker.rocks/2023/02/14/circuit-breaker-healthcheck.html",
+    "Timestamp": "2023-02-15T01:02:09",
+    "Domain": "asp.net-hacker.rocks",
+    "Description": "In this blog post I try to implement an ASP.NET Core Health Check that uses Polly CircuitBreaker that breaks if the number of errors reaches a limit within a specific period of time."
+  },
+  {
+    "Title": "Introducing Search By Target Framework on NuGet.org",
+    "Url": "https://devblogs.microsoft.com/nuget/introducing-search-by-target-framework-on-nuget-org/",
+    "Timestamp": "2023-02-15T01:02:06",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Last year, we brought a new feature to improve the way you assess target framework compatibility of a NuGet package through a new “Frameworks” tab. Today, we are announcing a new feature that will allow you to search by a target framework on NuGet.org."
+  },
+  {
+    "Title": "Whatever happened to Elm, anyway?",
+    "Url": "https://derw.substack.com/p/whatever-happened-to-elm-anyway",
+    "Timestamp": "2023-02-15T01:02:06",
+    "Domain": "derw.substack.com",
+    "Description": "I see this question pop up quite frequently in lots of different arenas - folks are curious as to what happened to Elm. As a former community member of Elm, I thought I'd act as a historian here and provide a write up covering the big pieces I see. Everything in this post is public already, I'm just putting it together in one place - and will not touch on anything personal to anyone involved. The interesting parts are not about personal matters - but about the natural to and fro of a niche technology."
+  },
+  {
+    "Title": "IdentityServer – IdentityResource vs. ApiResource vs. ApiScope – Tore Nestenius",
+    "Url": "https://nestenius.se/2023/02/02/identityserver-identityresource-vs-apiresource-vs-apiscope/",
+    "Timestamp": "2023-02-15T00:02:32",
+    "Domain": "nestenius.se",
+    "Description": ""
+  },
+  {
+    "Title": "I asked ChatGTP to write me a script to delete one million emails; It did very well",
+    "Url": "https://jeena.net/gmail-delete-with-chatgtp",
+    "Timestamp": "2023-02-15T00:02:30",
+    "Domain": "jeena.net",
+    "Description": "But for now I'm still the better programmer"
+  },
+  {
+    "Title": "Taking Entity Framework Core data seeding to the next level with Bogus",
+    "Url": "https://stenbrinke.nl/blog/taking-ef-core-data-seeding-to-the-next-level-with-bogus/",
+    "Timestamp": "2023-02-15T00:02:30",
+    "Domain": "stenbrinke.nl",
+    "Description": "Using Bogus to generate realistic fake data together with Entity Framework Core to set up your testing data in seconds!"
+  },
+  {
+    "Title": "Sample size determination",
+    "Url": "https://yegortkachenko.com/assets/mrkteng/sample_size_determination.html",
+    "Timestamp": "2023-02-15T00:02:30",
+    "Domain": "yegortkachenko.com",
+    "Description": "by Yegor Tkachenko"
+  },
+  {
+    "Title": "Principles Of Horrible API Documentation",
+    "Url": "https://den.dev/blog/horrible-api-documentation/",
+    "Timestamp": "2023-02-15T00:02:29",
+    "Domain": "den.dev",
+    "Description": "I've worked a fair bit of my PM career leading the efforts in improving the API documentation experiences for developers. Nothing opens your eyes more to the pain of developers than actually building the tooling that makes API docs happen - you start encountering all kinds of quirky edge cases and corners of the API that you thought were simple enough but they are not. The more I saw that, the more I learned about just how big of a slice in the \"Developer Experience\" pie \"API Documentation\" is."
+  },
+  {
+    "Title": "EVM at Risc0 | Odra Blog",
+    "Url": "https://odra.dev/blog/evm-at-risc0/",
+    "Timestamp": "2023-02-15T00:02:29",
+    "Domain": "odra.dev",
+    "Description": "Let's run Solidity code inside SputnikVM inside Risc0."
+  },
+  {
+    "Title": "The hard problem of onboarding horizontal products",
+    "Url": "https://robhaisfield.com/notes/the-hard-problem-of-onboarding-horizontal-products",
+    "Timestamp": "2023-02-15T00:02:29",
+    "Domain": "robhaisfield.com",
+    "Description": "Interconnected musings on behavior, products, and game design."
+  },
+  {
+    "Title": "The case for frameworks | Seldo.com",
+    "Url": "https://seldo.com/posts/the_case_for_frameworks",
+    "Timestamp": "2023-02-15T00:02:29",
+    "Domain": "seldo.com",
+    "Description": "Today I read Alex Russell's post The Market for Lemons and I found myself compelled to write a rebuttal. I am a big fan of Alex's work in general but not of this post in particular, which is very long, so allow me to attempt to summarize it:\r\n\r\nJavaScript-heavy single page apps (SPAs) are very popular\r\nThe web is mobile-first and Android-dominated\r\nJavaScript-heavy apps do not perform well on mobile Android"
+  },
+  {
+    "Title": "Dynamic Programming for People that Simply Want to Get a Job",
+    "Url": "https://cgmathprog.home.blog/2023/02/14/dynamic-programming-for-people-that-simply-want-to-get-a-job/",
+    "Timestamp": "2023-02-15T00:02:29",
+    "Domain": "cgmathprog.home.blog",
+    "Description": "Let me start with a question. Do you like solving Data Structure & Algorithms problems during interviews? If you’re like me the answer is hell no. I hated doing it at my school. I hated d…"
+  },
+  {
+    "Title": "Using Cell Phone Sensors for 3D Transformations – Ramatak Inc.",
+    "Url": "https://ramatak.com/2023/02/13/using-cell-phone-sensors-for-3d-transformations/",
+    "Timestamp": "2023-02-15T00:02:28",
+    "Domain": "ramatak.com",
+    "Description": "It’s a well-known fact that our mobile devices come equipped with all kinds of sensors used for various features that we tend to take for granted. For example, a phone knows if it’s held in portrait or landscape orientation, it knows if you’re walking in a certain direction, and it can even detect if you’ve left it on a table screen-up or screen-down. All of this information is calculated internally using various electronic sensors. But, as game devs can we make use of these sensors for our video games? The answer is yes, and it’s relatively straightforward."
+  },
+  {
+    "Title": "Novel Proofs of the Infinitude of Primes",
+    "Url": "https://rjlipton.wpcomstaging.com/2023/02/13/novel-proofs-of-the-infinitude-of-primes/",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "rjlipton.wpcomstaging.com",
+    "Description": "Can they inform computational complexity theory? Bill Gasarch and Christian Elsholtz both like primes and jokes and graphs and ways of sharing baked goods. Bill is a Professor of Computer Science a…"
+  },
+  {
+    "Title": "The delayed gratification delusion · Max Gorin",
+    "Url": "https://mxgrn.com/blog/the-delayed-gratification-delusion",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "mxgrn.com",
+    "Description": "The case of desire against rationality."
+  },
+  {
+    "Title": "This is why performance matters",
+    "Url": "https://andy-bell.co.uk/this-is-why-performance-matters/",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "andy-bell.co.uk",
+    "Description": "I just had a power cut and wanted to check how long it would be out for. The UK Power Networks power outage tool is handy for that, but there’s a problem: I only had a 3G network connection and the…"
+  },
+  {
+    "Title": "How to Save 20x on Your DB Costs - mikecann.co.uk",
+    "Url": "https://mikecann.co.uk/posts/how-to-save-20x-on-your-db-costs",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "mikecann.co.uk",
+    "Description": "The Blog of Mike Cann"
+  },
+  {
+    "Title": "GitHub - jenius-apps/ambie: An app that uses white noise, nature sounds, and focus features to boost your productivity.",
+    "Url": "https://github.com/jenius-apps/ambie",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "github.com",
+    "Description": "An app that uses white noise, nature sounds, and focus features to boost your productivity. - GitHub - jenius-apps/ambie: An app that uses white noise, nature sounds, and focus features to boost yo..."
+  },
+  {
+    "Title": "An interactive explanation of quadtrees.",
+    "Url": "https://jimkang.com/quadtreevis/",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "jimkang.com",
+    "Description": "Let's say you have a bunch of points in a space, like in the maps above. Someone asks you if some arbitrary point p is within your bunch of points. How can you find out if you have that point?"
+  },
+  {
+    "Title": "My Time At The Recurse Center",
+    "Url": "https://healeycodes.com/my-time-at-the-recurse-center",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "healeycodes.com",
+    "Description": "Thoughts and reflections on my six week batch."
+  },
+  {
+    "Title": "How To Fake A Long Exposure Photo of Earth At Night",
+    "Url": "https://matthewparrilla.com/post/long-exposure-earth-at-night/",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "matthewparrilla.com",
+    "Description": "Learn how to fake a long-exposure photo of earth at night using Photoshop and publically available satellite imagery."
+  },
+  {
+    "Title": "Gasoline Car Review",
+    "Url": "https://geoff.greer.fm/2023/02/08/gasoline-car-review/",
+    "Timestamp": "2023-02-15T00:02:26",
+    "Domain": "geoff.greer.fm",
+    "Description": "I recently purchased a Mazda Miata. This car is interesting because instead of running on electricity, it is powered by a combustible liquid called gasoline. The vehicle has an engine that mixes the…"
+  },
+  {
+    "Title": "Ruler and compass construction of a heart",
+    "Url": "http://blog.alanbernstein.net/posts/heart-geometry/",
+    "Timestamp": "2023-02-15T00:02:25",
+    "Domain": "blog.alanbernstein.net",
+    "Description": "My take on the parametric heart shape concept."
+  },
+  {
+    "Title": "A checklist for SQLite",
+    "Url": "https://marcospereira.me/2023/02/14/checklist-for-sqlite/",
+    "Timestamp": "2023-02-15T00:02:25",
+    "Domain": "marcospereira.me",
+    "Description": "This is a field guide on setting up and making use of SQLite in the strictest, least error-prone way possible. Examples are based on Python, which provides SQLite as part..."
+  },
+  {
+    "Title": "Welcome to the Age of Bullshit",
+    "Url": "https://erikmcclure.com/blog/age-of-bullshit/",
+    "Timestamp": "2023-02-15T00:02:25",
+    "Domain": "erikmcclure.com",
+    "Description": "We are fucked.\nIn fact, we are so fucked that Tom Scott conveniently released a new video talking about how fucked we are. Of course, he didn't actually say that we're fucked, because he's much nicer than I am. He uses soft and gentle words that disguise the raging maelstrom beneath us. His video talks about how “everything is about to change”, and he's right. I think he's more right than he wants to be, he knows it, and he's terrified."
+  }
+]

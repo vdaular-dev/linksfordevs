@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "On .NET Live - Build Faster, Optimize Smarter!",
+    "Url": "https://youtube.com/watch?v=ruqCAG75S74",
+    "Timestamp": "2025-02-07T23:01:06",
+    "Domain": "youtube.com",
+    "Description": "In a competitive landscape where user expectations are ever-increasing, successful organizations must deliver applications that are both high-performing and resilient from the start. In this week's episode, Microsoft employees Jan Kalis, Rigel Carlson, and Saloni Agrawal show how combining the power of Azure Chaos Studio, Azure Load Testing, and Application Insights Code Optimizations can rapidly identify weak points, optimize code, and continuously validate performance—accelerating innovation without sacrificing reliability.\r\n\r\nFeaturing:  Jan Kalis, Rigel Carlson, Saloni Agrawal\r\n\r\n#azure #dotnet"
+  },
+  {
+    "Title": "Suspension Bridge",
+    "Url": "https://xkcd.com/3048/",
+    "Timestamp": "2025-02-07T22:02:25",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "What are some built-in accessibility features in .NET MAUI?",
+    "Url": "https://youtube.com/watch?v=AgqKaWRaUSs",
+    "Timestamp": "2025-02-07T19:01:45",
+    "Domain": "youtube.com",
+    "Description": "#DidYouKnow that NET MAUI is built to be accessible right out of the box? That's right, from the moment you launch your .NET MAUI app, accessibility is ON! In this #OneDevQuestion, Rachel Kang shares a few tips to enhance it even further.\n\nLearn more: https://msft.it/6050UgLyK"
+  },
+  {
+    "Title": "add dma coherent allocator abstraction.)",
+    "Url": "https://lkml.org/lkml/2025/2/6/1292",
+    "Timestamp": "2025-02-07T17:01:14",
+    "Domain": "lkml.org",
+    "Description": "How about you accept the fact that maybe the problem is you."
+  },
+  {
+    "Title": "Back in the studio and coding with C#",
+    "Url": "https://youtube.com/watch?v=3fGiFwwp3g4",
+    "Timestamp": "2025-02-07T17:01:10",
+    "Domain": "youtube.com",
+    "Description": "Turn your videos into live streams with https://restream.io\n\nLet's work on SharpSite, an open source CMS that you can contribute to and learn from.  https://sharpsite.org"
+  },
+  {
+    "Title": "Building My Latest Project with ASP.NET, Blazor, and Cursor: A Journey to ABP",
+    "Url": "https://www.berkansasmaz.com/building-my-latest-project-with-asp-net-blazor-and-cursor-a-journey-to-abp/",
+    "Timestamp": "2025-02-07T16:01:55",
+    "Domain": "www.berkansasmaz.com",
+    "Description": "It’s been a year since I last published a newsletter. Over the past year, I’ve learned a lot about a variety of topics, but never got around to sharing any of it with you. That’s why I decided to resume this newsletter, starting with this very first"
+  },
+  {
+    "Title": "Stanford Lecture - Strong Components and Weak Components, Dr. Donald Knuth I 2024",
+    "Url": "https://youtube.com/watch?v=Hi8r_63LGyg",
+    "Timestamp": "2025-02-07T16:01:51",
+    "Domain": "youtube.com",
+    "Description": "The 28th annual Christmas lecture\nThursday, December 5, 2024\n\nA directed graph can often be best understood and used if we partition its vertices into separate components of various kinds. Most important are the strongly connected components, called “strong components” for short; and strong components are in turn partitioned into “weak components.”\n\nTwo definitions of weak components have appeared in the literature of graph theory. One of them is rather weak and uninteresting, while the other is becoming more and more relevant and appreciated (see weak components revived). Basically, the strong components are the smallest clusters of vertices that you can shrink to a point and obtain a dag, a digraph with no oriented cycles. The weak components, correctly defined, are the smallest clusters that you can shrink to a point and obtain an oriented path.\n\nDr. Knuth will discuss Robert Tarjan's beautiful algorithms for computing the strong and weak components of a given directed graph. (This will be fun because Dr. Knuth's personal favorite, among all of the algorithms of all kinds that he has encountered so far in his life, is Tarjan's method for discovering the strong components as it explores the graph.)\n\nFurthermore, if time permits, Dr. Knuth disclose the answer to the following riddle: In what major world city are shirts of size XL smaller than shirts of size L?\n\nSee more from Don Knuth: https://online.stanford.edu/donald-e-knuth-lectures\n\n► Check out our entire catalog of courses and programs: https://online.stanford.edu/explore"
+  },
+  {
+    "Title": "Announcing the Data.gov Archive | Library Innovation Lab",
+    "Url": "https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/",
+    "Timestamp": "2025-02-07T14:02:08",
+    "Domain": "lil.law.harvard.edu",
+    "Description": "Today we released our archive of data.gov on Source Cooperative. The 16TB collection includes over 311,000 datasets harvested during 2024 and 2025, a complet..."
+  },
+  {
+    "Title": "Build a SIMPLE Role-Based Auth System in .NET (from scratch)",
+    "Url": "https://youtube.com/watch?v=24r7UmuRh0A",
+    "Timestamp": "2025-02-07T14:02:05",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nGet the source code here: https://www.patreon.com/milanjovanovic\n\nLearn how to implement a robust role-based authorization system in your .NET applications from the ground up. This video covers everything you need to know about securing your application with user roles.\n\nKey topics covered:\n\n- Setting up user roles and managing role relationships in your database\n- Implementing role-based claims and authentication\n- Adding role authorization using .NET's built-in attributes\n- Best practices for role-based security\n- Common pitfalls and how to avoid them\n- Testing your authorization system\n\nMaster Claims Transformation for Flexible ASP.NET Core Authorization\nhttps://www.milanjovanovic.tech/blog/master-claims-transformation-for-flexible-aspnetcore-authorization\n\nImplementing API Gateway Authentication With YARP\nhttps://www.milanjovanovic.tech/blog/implementing-api-gateway-authentication-with-yarp\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 Adding the Roles entity\n2:38 Configuring with EF Core\n6:01 Registering a user with role\n6:44 Returning Role claims in JWT\n8:51 Enforcing Role Authorization"
+  },
+  {
+    "Title": "Cracking the Code: Decoding Query Plans Like a Pro - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/cracking-the-code-decoding-query-plans-like-a-pro/",
+    "Timestamp": "2025-02-07T13:02:05",
+    "Domain": "woodruff.dev",
+    "Description": "like at first glance—cryptic, overwhelming, and maybe a little intimidating. But don’t worry! Once you embark on the journey to analyze and understand query plans, you’ll be unlocking hidden performance treasures like a true database pirate, and you'll be amazed at how much you can grow and learn in the process."
+  },
+  {
+    "Title": "The End of Programming as We Know It",
+    "Url": "https://www.oreilly.com/radar/the-end-of-programming-as-we-know-it/",
+    "Timestamp": "2025-02-07T13:02:03",
+    "Domain": "www.oreilly.com",
+    "Description": ""
+  },
+  {
+    "Title": "Asdf Has Been Re-Written in Golang",
+    "Url": "http://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go/",
+    "Timestamp": "2025-02-07T10:01:58",
+    "Domain": "stratus3d.com",
+    "Description": "Over the last year I’ve rewritten asdf in Go. I’m excited to announce that the rewrite was released last Wednesday as asdf version 0.16. …"
+  },
+  {
+    "Title": "Grokking Application Security: Malcolm McDonald on Securing Your Apps",
+    "Url": "https://youtube.com/watch?v=vnU7yNzHNPY",
+    "Timestamp": "2025-02-07T09:01:36",
+    "Domain": "youtube.com",
+    "Description": "RJJ Software's Software Development Service This episode of The Modern .NET Show is supported, in part, by RJJ Software's Podcasting Services, whether your company is looking to elevate its UK operations or reshape its US strategy, we can provide tailored solutions that exceed expectations.\r\n\r\n Show Notes \"This should be a mantra for anyone working on web applications or web APIs: you should validate any input of the application as much as possible. When you conceptualize it, all the malicious input into your application comes across in an HTTP request at some point. It's either in the URL or in the body. That's generally speaking, unless you have a supply chain attack, that's generally the vector by which your application will be attacked. Before you even start to kind of think about specific vulnerabilities, if you narrow down what is permissible input right out of the gate, then you kind of close the door on so many different vulnerabilities without even thinking about it.\"— Malcolm McDonald\r\n\r\n Welcome friends to The Modern .NET Show; the premier .NET podcast, focusing entirely on the knowledge, tools, and frameworks that all .NET developers should have in their toolbox. We are the go-to podcast for .NET developers worldwide, and I am your host: Jamie \"GaProgMan\" Taylor.\r\n\r\n In this episode, Malcolm McDonald joined us to talk about the importance of Application Security, knowing the basics of secure coding, and backing that all up with both \"secure by default\" designs, and subscribing to CVE notifications.\r\n\r\n \"So what you find in your career is that if you set down kind of sensible default behaviour in your codebase earlier on, then everyone will follow that. You establish, kind of, best practices. It might take a little bit longer, but if you say, \"this is the way we do this over here,\" then even yourself when you, kind of, come back to, will kind of, reproduce that path. So the initial, kind of, like first few check-ins to your source control are key to, like, establishing best practice\"— Malcolm McDonald\r\n\r\n One note before we begin: some of Malcolm's audio is a little rough. Mark, our superstar editor, has done what he can, but there are parts that might be a little unclear. If you have trouble with the audio, please remember that there is a full transcription linked in the accompanying show notes.\r\n\r\n Anyway, without further ado, let's sit back, open up a terminal, type in `dotnet new podcast` and we'll dive into the core of Modern .NET.\r\n\r\n Supporting the Show If you find this episode useful in any way, please consider supporting the show by either leaving a review (check our review page for ways to do that), sharing the episode with a friend or colleague, buying the host a coffee, or considering becoming a Patron of the show.\r\n\r\n Full Show Notes The full show notes, including links to some of the things we discussed and a full transcription of this episode, can be found at:  https://dotnetcore.show/season-7/grokking-application-security-malcolm-mcdonald-on-securing-your-apps/\r\n\r\n Useful Links  Malcolm on LinkedIn Grokking Application Security Hacksplaining Hash function Don't Accept The Defaults Bcrypt  Supporting the show:  Leave a rating or review Buy the show a coffee Become a patron  Getting in Touch:  Via the contact page Joining the Discord  Remember to rate and review the show on  Apple Podcasts, Podchaser, or wherever you find your podcasts, this will help the show's audience grow. Or you can just share the show with a friend.\r\n\r\n And don't forget to reach out via our Contact page. We're very interested in your opinion of the show, so please get in touch.\r\n\r\n You can support the show by making a monthly donation on the show's Patreon page at: https://www.patreon.com/TheDotNetCorePodcast."
+  },
+  {
+    "Title": "Understanding Reasoning LLMs",
+    "Url": "https://magazine.sebastianraschka.com/p/understanding-reasoning-llms",
+    "Timestamp": "2025-02-07T08:01:33",
+    "Domain": "magazine.sebastianraschka.com",
+    "Description": "Methods and Strategies for Building and Refining Reasoning Models"
+  },
+  {
+    "Title": "Building an AI-Powered .NET API with Ollama and Microsoft.Extensions.AI",
+    "Url": "https://youtube.com/watch?v=5toMey7kxv0",
+    "Timestamp": "2025-02-07T08:01:28",
+    "Domain": "youtube.com",
+    "Description": "The integration of AI capabilities into .NET applications has become more accessible with Microsoft's release of the Microsoft.Extensions.AI package. This tutorial demonstrates how to build an intelligent API that leverages Ollama's Large Language Models (LLMs) and implements custom function calling.\n\nBlogpost: https://blog.antosubash.com/posts/ollama-with-extension-ai-and-function-calling\n\nMicrosoft blog post: https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/\n\nrepo: https://github.com/antosubash/OllamaExtensionsAI\n\n#genai #dotnet #ai #ollama"
+  },
+  {
+    "Title": "Veeto | CA AB-410: Bots: disclosure.",
+    "Url": "https://www.veeto.app/bill/1955756",
+    "Timestamp": "2025-02-07T05:01:46",
+    "Domain": "www.veeto.app",
+    "Description": "Hold California accountable. Check out AB-410: Bots: disclosure."
+  },
+  {
+    "Title": "From hours to 360ms: over-engineering a puzzle solution | Blog",
+    "Url": "https://blog.danielh.cc/blog/puzzle",
+    "Timestamp": "2025-02-07T01:02:11",
+    "Domain": "blog.danielh.cc",
+    "Description": "where my words occasionally escape /dev/null"
+  },
+  {
+    "Title": "Stronger Than Ever: How We Turned a DDoS Attack Into a Lesson in Resilience",
+    "Url": "https://scotthelme.co.uk/stronger-than-ever-how-we-turned-a-ddos-attack-into-a-lesson-in-resilience/",
+    "Timestamp": "2025-02-07T01:02:08",
+    "Domain": "scotthelme.co.uk",
+    "Description": "Operating an online service like Report URI, it comes with the territory. The ever present threat of attack is something we are fully aware of, and prepare for as best we can. Being the regular subject of attacks, mostly handled by our robust systems and automated defences, these attacks mostly"
+  },
+  {
+    "Title": "A Gentle Introduction to LLMs for Platform Engineers",
+    "Url": "https://blog.christianposta.com/a-gentle-introduction-to-llms-for-platform-engineers/",
+    "Timestamp": "2025-02-07T01:02:07",
+    "Domain": "blog.christianposta.com",
+    "Description": "Things change quickly in the land of technology. AI is the “hot” thing. I feel for the platform engineers out there struggling with technologies like Docker, Kubernetes, Prometheus, Istio, ArgoCD, Zipkin, Backstage.io, and many many others. Those things are already confusing, complex, and require deep attention. These folks don’t have time or attention to dig into AI and what’s going on in that space. But little by little AI will land in their world. Platform engineers will need to understand AI.\n\n"
+  },
+  {
+    "Title": "Why Developer Relations Matters",
+    "Url": "https://www.ramijames.com/thoughts/why-developer-relations-matters",
+    "Timestamp": "2025-02-07T01:02:07",
+    "Domain": "www.ramijames.com",
+    "Description": "Developer Relations is a key part of any software company's growth strategy. Let's talk about how to build a successful DevRel program."
+  },
+  {
+    "Title": "How I Stopped Fighting My Dashboards and Learned to Love Hex",
+    "Url": "https://www.brittanybennett.com/post/how-i-stopped-fighting-my-dashboards-and-learned-to-love-hex",
+    "Timestamp": "2025-02-07T01:02:07",
+    "Domain": "www.brittanybennett.com",
+    "Description": "I want to provide my stakeholders with the best possible dashboards. Hex is that tool."
+  },
+  {
+    "Title": "n0rdy - When Postgres index meets Bcrypt",
+    "Url": "https://n0rdy.foo/posts/20250131/when-postgres-index-meets-bcrypt/",
+    "Timestamp": "2025-02-07T01:02:07",
+    "Domain": "n0rdy.foo",
+    "Description": ""
+  },
+  {
+    "Title": "Julia for R users – vituri’s blog",
+    "Url": "https://vituri.github.io/blog/posts/julia-for-r-users/julia-for-r-users.html",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "vituri.github.io",
+    "Description": "I know a lot of R and can do my daily job with it. Why should I learn Julia?"
+  },
+  {
+    "Title": "Prompting Patterns: The Clarification Pattern",
+    "Url": "https://blog.kasperjunge.com/prompting-patterns-the-clarification-pattern",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "blog.kasperjunge.com",
+    "Description": "The more I use ChatGPT and develop software using LLM APIs, the more I realize that context is essential for LLMs to provide high-quality answers. When I use ChatGPT and receive unsatisfactory..."
+  },
+  {
+    "Title": "Making Reactive Datatypes in 200 lines of Nim",
+    "Url": "https://blog.elcritch.net/making-sigils-reactive",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "blog.elcritch.net",
+    "Description": "Sigil becomes more than a name\nSigils now supports first-class reactive data types! I wish I could say it was a grueling undertaking, but it wasn’t. Thanks to the core of Sigil’s being signals and slots along with Nim’s superb meta-programming it was..."
+  },
+  {
+    "Title": "String vs &str",
+    "Url": "https://blog.sulami.xyz/posts/string-vs-str/",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "blog.sulami.xyz",
+    "Description": "Weak Opinions, Strongly Held"
+  },
+  {
+    "Title": "Costly Moments: Where “Move Fast” Fails",
+    "Url": "https://avivbenyosef.com/costly-moments-where-move-fast-fails/",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "avivbenyosef.com",
+    "Description": "The tech industry glorifies speed. Yet moving fast all the time will inevitably result in more damage than good. Some decisions, especially in tech, can be reversed easily. Others will haunt you fo…"
+  },
+  {
+    "Title": "My website has been gaslighting you",
+    "Url": "https://daverupert.com/2025/01/color-hue-rotating-gaslight/",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "daverupert.com",
+    "Description": "I have a confession to make. You probably sensed it, but weren’t able to articulate what was happening. Your loved ones think you’re losing your grasp on reality. For the last six months I’ve been incrementally changing the color scheme on my website every single day. I boiled you like a frog! Mu-wa-ha-ha. Don’t believe me? Try for yourself…"
+  },
+  {
+    "Title": "The future belongs to idea guys who can just do things",
+    "Url": "https://ghuntley.com/dothings/",
+    "Timestamp": "2025-02-07T01:02:06",
+    "Domain": "ghuntley.com",
+    "Description": "There, I said it. I seriously can't see a path forward where the majority of software engineers are doing artisanal hand-crafted commits by as soon as the end of 2026. If you are a software engineer and were considering taking a gap year/holiday this year it would be an"
+  },
+  {
+    "Title": "Screening software engineers in the LLM era",
+    "Url": "https://bastien.bearblog.dev/screening-software-engineers-in-the-llm-era/",
+    "Timestamp": "2025-02-07T01:02:05",
+    "Domain": "bastien.bearblog.dev",
+    "Description": "The game has changed. It used to be about identifying promising candidates. Now it feels like identifying humans.\n\n\nToo many messages sound the same. They ..."
+  },
+  {
+    "Title": "Pulse AI Blog - Why LLMs Suck at OCR",
+    "Url": "https://www.runpulse.com/blog/why-llms-suck-at-ocr",
+    "Timestamp": "2025-02-07T01:02:05",
+    "Domain": "www.runpulse.com",
+    "Description": ""
+  },
+  {
+    "Title": "From Microsoft to TikTok:  Your Rude Questions Answered!",
+    "Url": "https://youtube.com/watch?v=3w4INVpTg9E",
+    "Timestamp": "2025-02-07T00:01:33",
+    "Domain": "youtube.com",
+    "Description": "Dave and Glen answer the best of more than 8000 comments about the Deepseek R1 episode!  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nSecrets of the Autistic Millionaire: https://amzn.to/3WNDDkJ\n\nWatch ShopTalk Now on Dave's Attic: https://youtu.be/5Emgx0lhllE\n\nFollow me on X: https://x.com/davepl1968\nFacebook: https://www.facebook.com/davepl"
+  }
+]

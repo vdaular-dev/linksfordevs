@@ -1,0 +1,51 @@
+[
+  {
+    "Title": "ZK app developers should be able to see down to the constraints",
+    "Url": "https://www.zksecurity.xyz/blog/posts/noname/",
+    "Timestamp": "2023-06-03T21:01:48",
+    "Domain": "www.zksecurity.xyz",
+    "Description": "As we’ve explained before, zero-knowledge apps (or ZK apps) will come in two different shapes: VM instructions and arithmetic circuits.\nVM instructions should sound familiar. Reading them is like reading assembly, and they’re a level of abstraction higher than arithmetic circuits (as pointed out by this post).\nWhatever they’re writing, real programmers need to see what their programs compile down to (according to John Carmack). That’s how you find unoptimized bits as a low-level code monkey, but it’s also how you find some security issues and bugs."
+  },
+  {
+    "Title": "zkSecurity",
+    "Url": "https://www.zksecurity.xyz/",
+    "Timestamp": "2023-06-03T21:01:48",
+    "Domain": "www.zksecurity.xyz",
+    "Description": "A"
+  },
+  {
+    "Title": "#08 Awesome .NET MAUI - AlohaKit Animations",
+    "Url": "https://youtube.com/watch?v=NlhQsPGWK2Y",
+    "Timestamp": "2023-06-03T20:02:21",
+    "Domain": "youtube.com",
+    "Description": "AlohaKit.Animations is a library designed for .NET MAUI that aims to facilitate the use of animations to developers. Very simple use from C# and XAML code.ht..."
+  },
+  {
+    "Title": "How to Pass Parameters With a GET Request in ASP.NET Core",
+    "Url": "https://code-maze.com/aspnetcore-pass-parameters-to-http-get-action/",
+    "Timestamp": "2023-06-03T09:01:59",
+    "Domain": "code-maze.com",
+    "Description": "This article will discuss ways to pass parameters with a GET request in ASP.NET Core, including query params, route params, body and headers."
+  },
+  {
+    "Title": "Deep dive into .NET performance and native AOT | BRK205H",
+    "Url": "https://youtube.com/watch?v=1eHjemGKfRw",
+    "Timestamp": "2023-06-03T06:02:53",
+    "Domain": "youtube.com",
+    "Description": "Join us for a deep dive into .NET performance and native AOT compilation, as we explore the latest advancements and goals for .NET 8. We cover various tools ..."
+  },
+  {
+    "Title": "Promoted from Dev to Team Lead: 8 Things They Didn’t Tell Me",
+    "Url": "https://devinterrupted.substack.com/p/promoted-from-dev-to-team-lead-8",
+    "Timestamp": "2023-06-03T03:02:04",
+    "Domain": "devinterrupted.substack.com",
+    "Description": "When I was promoted to Dev Team Lead, I was in over my head. Read the 8 things that I wish someone had told me when I was promoted."
+  },
+  {
+    "Title": "Microsoft Build 2023 Inside Azure Innovations - Infrastructure acceleration through offload",
+    "Url": "https://youtube.com/watch?v=7G2aM9LqqMI",
+    "Timestamp": "2023-06-03T00:02:16",
+    "Domain": "youtube.com",
+    "Description": ""
+  }
+]

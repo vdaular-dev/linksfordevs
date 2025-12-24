@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "Time is a Flat Circle: Applying Nietzsche's Philosophy to Agile Development — Matt Puchalski - Pittsburgh Roboticist",
+    "Url": "https://www.mattp.tech/blog/time-is-a-flat-circle-applying-nietzsches-philosophy-to-agile-development",
+    "Timestamp": "2023-04-09T22:03:13",
+    "Domain": "www.mattp.tech",
+    "Description": "This blog post explores how Nietzsche's concept of Eternal Return applies to software program management and planning, particularly in startups. It is important to recognize the cyclical patterns of challenges and use them to our advantage by being mindful of past mistakes, defining the project earl"
+  },
+  {
+    "Title": "Linux and Baikal Electronics:  Why Postgres Should not Follow that Path",
+    "Url": "http://ledgersmbdev.blogspot.com/2023/04/linux-and-baikal-electronics-why.html",
+    "Timestamp": "2023-04-09T22:03:12",
+    "Domain": "ledgersmbdev.blogspot.com",
+    "Description": " In my recent trip to PgConf Russia, a friend brought up the reaction  of a Linux kernel maintainer to a patch submission by Baikal Electron..."
+  },
+  {
+    "Title": "Galaxis",
+    "Url": "https://zeromips.org/posts/2023-04-08-galaxis/",
+    "Timestamp": "2023-04-09T22:03:12",
+    "Domain": "zeromips.org",
+    "Description": "Recently I picked something from our attic. It is a christmas present from my childhood, one of my favorite ones. It is the game Galaxis, a kind of electronic board game from the 80s by german company Ravensburger."
+  },
+  {
+    "Title": "What is AGI",
+    "Url": "https://tomblake.me/projects/What-is-AGI",
+    "Timestamp": "2023-04-09T22:03:12",
+    "Domain": "tomblake.me",
+    "Description": "What is Artificial General Intellegence and what can it do for us?"
+  },
+  {
+    "Title": "Tomaszkowal · Phoenix Framework",
+    "Url": "https://www.tomaszkowal.com/blog/how-to-reduce-software-impedance-mismatch",
+    "Timestamp": "2023-04-09T22:03:12",
+    "Domain": "www.tomaszkowal.com",
+    "Description": "2023-02-12 by Tomasz Kowal"
+  },
+  {
+    "Title": "Building common components in Data Lakehouse is a necessity",
+    "Url": "https://mertkavi.com/building-common-components-in-data-lakehouse-is-a-necessity/",
+    "Timestamp": "2023-04-09T22:03:12",
+    "Domain": "mertkavi.com",
+    "Description": "The article discusses the challenges faced by scalable data teams in managing and processing large amounts of data and proposes a system that includes separating storage, compute, and metadata, using distributed file systems and columnar data formats, real-time data ingestion with CDC tools, and efficient querying through composable components and a joint query/compute engine."
+  },
+  {
+    "Title": "Overconfidence, and Executives as Personality Defect — Ludicity",
+    "Url": "https://ludic.mataroa.blog/blog/overconfidence-executives-as-personality-defect/",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "ludic.mataroa.blog",
+    "Description": "I've been thinking a lot about confidence and how absolutely Gross (capital G intentional) it is, and how unpleasant so many of executives I've spoken to have ended up being."
+  },
+  {
+    "Title": "Mastering Yarn's lifecycle with hooks",
+    "Url": "https://scinos.dev/posts/2023-04-08-mastering-yarns-lifecycle-with-hooks/",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "scinos.dev",
+    "Description": "Yarn is a powerful package manager for Node.js projects that comes with a rich set of features, including support for\nplugins (starting with Yarn 2.x)."
+  },
+  {
+    "Title": "I'll read it – Manu",
+    "Url": "https://manuelmoreale.com/i-ll-read-it",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "manuelmoreale.com",
+    "Description": "\"I don't know what to write about\" and \"what if no one will read it?\". These are the two most common reasons why people don't want to start a personal blog. I already addressed the first one, so let me tackle the second one in the easiest way possible: I'll read it. If you decide to start a blog in either English or Italian, I'll read it. I don't care about the topic. Start a blog, write something, send it to me, and I'll read it. And you'll have your first reader. If you add an RSS feed to your blog, I'll add you to my reading list, and I'll keep reading what you post. As soon as a bunch of you have blogs, I'll compile a list and make it available on this site. Hopefully, more people will read what you write. But I promise you that if you start writing, you'll have a reader."
+  },
+  {
+    "Title": "Making Shell Scripts Executable Just-in-Time",
+    "Url": "https://eshelyaron.com/posts/2023-04-08-making-shell-scripts-executable-just-in-time.html",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "eshelyaron.com",
+    "Description": "Blog post by Eshel Yaron about a different take on adding exec permissions to shell script in Emacs"
+  },
+  {
+    "Title": "Do multi-gaming apps make sense?",
+    "Url": "https://rnikhil.com/2023/04/09/multi-vs-single-gaming.html",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "rnikhil.com",
+    "Description": "I’ve been thinking about multi-gaming platforms due to their recent meteoric rise to capture about 10% of the RMG market and the fact that I have to make a decision at work on bundling a mini-game with our main app. The multi-gaming segment is also growing at about 40% y-o-y which is the highest among all RMG segments. While one can argue that this growth was mostly driven by monstrous advertisement spends, this document tries to dig a bit deeper into the user behavior/personas between Multi Gaming Platforms and Single Gaming Platforms, framework to define value of adding/removing each game in the bundle, mental models for packaging games and finally some perspectives on user requirements/needs and way forward for building multi gaming apps. We want to basically explore why everybody is packaging games together or building yet another subscription service?"
+  },
+  {
+    "Title": "Can You Trust a Compiler to Optimize Your Code?",
+    "Url": "https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html",
+    "Timestamp": "2023-04-09T22:03:11",
+    "Domain": "matklad.github.io",
+    "Description": "More or less the title this time, but first, a story about SIMD. There are three\nlevels of understanding how SIMD works (well, at least I am level 3 at the moment):"
+  },
+  {
+    "Title": "Real-time Communication Between Clients and Servers with SignalR | C# Tutorials Blog",
+    "Url": "https://wellsb.com/csharp/aspnet/real-time-apps-client-server-signalr",
+    "Timestamp": "2023-04-09T11:01:57",
+    "Domain": "wellsb.com",
+    "Description": "Learn how to create real-time web apps with SignalR. Send/receive messages from any client using WebSockets, Server-Sent Events or Long Polling."
+  },
+  {
+    "Title": "On Endings: Why & How We Retired Elm at Culture Amp",
+    "Url": "https://kevinyank.com/posts/on-endings-why-how-we-retired-elm-at-culture-amp/",
+    "Timestamp": "2023-04-09T07:02:16",
+    "Domain": "kevinyank.com",
+    "Description": "Kevin Yank’s website"
+  },
+  {
+    "Title": "Securing Our Digital Future: A CERN for Open Source large-scale AI Research and its Safety - Online petition",
+    "Url": "https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety",
+    "Timestamp": "2023-04-09T04:01:59",
+    "Domain": "www.openpetition.eu",
+    "Description": "Join us in our urgent mission to democratize AI research by establishing an international, publicly funded supercomputing facility equipped with 100,000 state-of-the-art AI accelerators to train open source foundation models. This monumental initiative will secure our technological independence, empower global innovation, and ensure safety, while safeguarding our democratic principles for generations to come. In an era of unparalleled technological advancements, humanity stands on the precipice "
+  },
+  {
+    "Title": "a 1.5GB string",
+    "Url": "https://blog.backslasher.net/1.5GB-string.html",
+    "Timestamp": "2023-04-09T01:02:09",
+    "Domain": "blog.backslasher.net",
+    "Description": "In my previous role, I supported a Java service that operated similarly to RDP or Citrix by enabling remote UI functionality. This service relied on sessions, which consisted of interconnected Java objects that were supposed to be cleaned up either when a user logged out or after a predetermined timeout period."
+  },
+  {
+    "Title": "Trying to disable usage of SSE and CMOV instructions in x86 JIT · lukaaash/runtime@1ad2e02",
+    "Url": "https://github.com/lukaaash/runtime/commit/1ad2e0212d021b719c950269f7bcdd73467d22d6",
+    "Timestamp": "2023-04-09T01:02:09",
+    "Domain": "github.com",
+    "Description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps. - Trying to disable usage of SSE and CMOV instructions in x86 JIT · lukaaash/runtime@1ad2e02"
+  },
+  {
+    "Title": "GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API",
+    "Url": "https://github.com/openai/openai-cookbook",
+    "Timestamp": "2023-04-09T01:02:09",
+    "Domain": "github.com",
+    "Description": "Examples and guides for using the OpenAI API. Contribute to openai/openai-cookbook development by creating an account on GitHub."
+  },
+  {
+    "Title": "How I built my own Sega Mega Drive hardware dev kit from scratch – Tore Nestenius",
+    "Url": "https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/",
+    "Timestamp": "2023-04-09T00:03:08",
+    "Domain": "nestenius.se",
+    "Description": "About 30 years ago (when I was around 20) I wanted to develop games, like most developers dream of doing. However, I had one open question: which platform should I write it for? Of course I could do it on the Atari 1040 STE that I had at the time, but I wanted to aim higher and do something cooler and more challenging."
+  },
+  {
+    "Title": "New Course – ASP.NET Core with OpenID Connect and IdentityServer – Tore Nestenius",
+    "Url": "https://nestenius.se/2020/04/27/new-course-asp-net-core-with-openid-connect-and-identityserver/",
+    "Timestamp": "2023-04-09T00:03:07",
+    "Domain": "nestenius.se",
+    "Description": ""
+  },
+  {
+    "Title": ".NET 5 Source Generators – MediatR – CQRS – OMG! – Tore Nestenius",
+    "Url": "https://nestenius.se/2020/12/16/net-5-source-generators-mediatr-cqrs-omg/",
+    "Timestamp": "2023-04-09T00:03:07",
+    "Domain": "nestenius.se",
+    "Description": "PrevPrevious"
+  },
+  {
+    "Title": "ASP.NET Core JwtBearer library: what’s new? – Tore Nestenius",
+    "Url": "https://nestenius.se/2022/02/04/asp-net-core-jwtbearer-library-whats-new/",
+    "Timestamp": "2023-04-09T00:03:07",
+    "Domain": "nestenius.se",
+    "Description": "As a developer and trainer, it is hard to keep up with all the changes in all the libraries, and in this blog post I will summarize the recent key changes that I have found in versions 3.1.22, 5.0.13 and 6.0.1 of JwtBearer library."
+  },
+  {
+    "Title": "Exploring the non-nullable type warnings in C# 8 – Tore Nestenius",
+    "Url": "https://nestenius.se/2019/09/29/exploring-the-non-nullable-type-warnings-in-csharp/",
+    "Timestamp": "2023-04-09T00:03:06",
+    "Domain": "nestenius.se",
+    "Description": "PrevPrevious"
+  },
+  {
+    "Title": "I was interviewed by RetroRGB – Tore Nestenius",
+    "Url": "https://nestenius.se/2022/02/23/i-was-interviewed-by-retrorgb/",
+    "Timestamp": "2023-04-09T00:03:06",
+    "Domain": "nestenius.se",
+    "Description": "PrevPrevious"
+  },
+  {
+    "Title": "Storing the ASP.NET Core Data Protection Key Ring in Azure Key Vault – Tore Nestenius",
+    "Url": "https://nestenius.se/2020/10/11/storing-the-asp-net-core-data-protection-key-ring-in-azure-key-vault/",
+    "Timestamp": "2023-04-09T00:03:06",
+    "Domain": "nestenius.se",
+    "Description": "PrevPrevious"
+  }
+]

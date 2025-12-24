@@ -1,0 +1,366 @@
+[
+  {
+    "Title": "Perspectives on Floating Point",
+    "Url": "https://www.eigentales.com/Floating-Point/",
+    "Timestamp": "2024-10-15T23:01:58",
+    "Domain": "www.eigentales.com",
+    "Description": "An illuminating perspective on floating point numbers that I haven't seen emphasized before."
+  },
+  {
+    "Title": "The Joy of Astro",
+    "Url": "https://darko.io/posts/the-joy-of-astro",
+    "Timestamp": "2024-10-15T23:01:57",
+    "Domain": "darko.io",
+    "Description": "Told from the perspective of a person building demo integrations for SuperTokens - and how it's an absolute joy to create with. "
+  },
+  {
+    "Title": "Memory for Nothing: Why Vec<usize> is (probably) a bad idea",
+    "Url": "https://pwy.io/posts/memory-for-nothing/",
+    "Timestamp": "2024-10-15T23:01:56",
+    "Domain": "pwy.io",
+    "Description": "Every now and then one has to index something - and what's better than a good old <code>Vec<usize></code>?"
+  },
+  {
+    "Title": "How to listen like Momo",
+    "Url": "https://www.marcnitzsche.de/how-to-listen-like-momo/",
+    "Timestamp": "2024-10-15T23:01:55",
+    "Domain": "www.marcnitzsche.de",
+    "Description": "The one quality that makes you a good listener"
+  },
+  {
+    "Title": "Tech Story: From Tinkering to Code",
+    "Url": "https://blogs.msurya.in/tech-story",
+    "Timestamp": "2024-10-15T23:01:55",
+    "Domain": "blogs.msurya.in",
+    "Description": "A personal journey through programming and beyond."
+  },
+  {
+    "Title": "The Cloud Mafia: Pay Up, or Lose Your Homepage",
+    "Url": "https://hajo.me/blog/2024/10/15/the-cloud-mafia-pay-up-or-lose-your-homepage/",
+    "Timestamp": "2024-10-15T23:01:55",
+    "Domain": "hajo.me",
+    "Description": "I recently helped a client\nto transition the hosting of their homepage\nto a cloud hosting provider.\nMy client had received the sales pitch,\nwere …"
+  },
+  {
+    "Title": "EQL - EVM Query Language",
+    "Url": "https://www.eql.sh/blog/how-is-it-different-from-dune",
+    "Timestamp": "2024-10-15T23:01:55",
+    "Domain": "www.eql.sh",
+    "Description": "EQL is a language that allows you to query the Ethereum Virtual Machine (EVM) using a SQL-like syntax. It is designed to be the simplest way to ask blockchain questions and get answers."
+  },
+  {
+    "Title": "The day I became a millionaire",
+    "Url": "https://signalvnoise.com/svn3/the-day-i-became-a-millionaire/",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "signalvnoise.com",
+    "Description": "I grew up lower-middle class on the outskirts of Copenhagen. Anywhere outside of Scandinavia, the socioeconomic label would probably have been ‘poor’, but Danish safety nets and support systems did…"
+  },
+  {
+    "Title": "Trust takes time",
+    "Url": "https://ruben.verborgh.org/blog/2024/10/15/trust-takes-time/",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "ruben.verborgh.org",
+    "Description": "Today’s websites and apps are built to compensate for an absence of trust, rather than to support its growth. Customers and companies both understand that human handshakes no longer scale in the digital age, and surrender to their replacement by a tap of the finger on a button labeled I accept. While every handshake comes with an expectation of honesty, this button never did: we know we are lying the moment we touch it, as does the author of the legalese no one expects anyone to read. Navigating a trustless world is a heavy price to pay for the boundless freedoms of the World Wide Web—except it doesn’t have to be like this. Although trust remains an inherently human relationship, machines can help us build and evolve our relationships by handling the fiddly bits on our behalf. This liberates people to refocus on gaining mutual value from our relationships, without the huge burden of their setup and maintenance. Everything starts with the realization that data technology is fundamentally trust technology, and thus a transversal layer within any ecosystem rather than just the icing on the cake."
+  },
+  {
+    "Title": "Generating images from css-doodle code",
+    "Url": "https://yuanchuan.dev/generating-images-from-css-doodle-code",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "yuanchuan.dev",
+    "Description": "For the past week, I've been working on a command-line tool\n    to generate images from css-doodle source code.\n    If you're familiar with command lines, try installing it with npm:\n  \n\nnpm i -g @css-doodle/cli"
+  },
+  {
+    "Title": "Ricky Mondello » Consider Slowing Down When Switching Password Managers",
+    "Url": "https://rmondello.com/2024/09/19/consider-slowing-down-when-switching-password-managers/",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "rmondello.com",
+    "Description": "Important Note: Although I work at Apple and am deeply involved in the creation of its new Passwords app, in this post I am speaking only for myself and not for Apple. There is no “news” in this post, or any kind of “inside scoop”. My intention is to help the kind of person who would read a blog post about password managers think about and manage their credential data better."
+  },
+  {
+    "Title": "The CAP Theorem Explained: Balancing the Big Three in Distributed Databases",
+    "Url": "https://amarpandey.me/blog/the-cap-theorem-explained-balancing-the-big-three-in-distributed-databases/",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "amarpandey.me",
+    "Description": "An introduction to the CAP theorem, explaining the trade-offs between consistency, availability, and partition tolerance in distributed systems."
+  },
+  {
+    "Title": "Tobiko - dbt: Incremental but Incomplete",
+    "Url": "https://tobikodata.com/dbt-incremental-but-incomplete.html",
+    "Timestamp": "2024-10-15T23:01:54",
+    "Domain": "tobikodata.com",
+    "Description": "Earlier this month, dbtTM launched microbatch incremental models in version 1.9, a highly requested feature since the experimental insert_by_period was introduced back in 2018. While it's certainly a step in the right direction, it has been a long time coming."
+  },
+  {
+    "Title": "The C23 edition of Modern C",
+    "Url": "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/",
+    "Timestamp": "2024-10-15T22:01:40",
+    "Domain": "gustedt.wordpress.com",
+    "Description": "The C23 edition of Modern C is now available for free download from This new edition has been the occasion to overhaul the presentation in many places, but its main purpose is the update to the new…"
+  },
+  {
+    "Title": "sqlite3 WebAssembly & JavaScript Documentation Index",
+    "Url": "https://sqlite.org/wasm/doc/trunk/index.md",
+    "Timestamp": "2024-10-15T22:01:40",
+    "Domain": "sqlite.org",
+    "Description": "This site is home to the documentation for the SQLite project's\nWebAssembly- and JavaScript-related APIs, which enable the use of\nsqlite3 in modern WASM-capable browsers. These components\nwere initially released for public beta with version 3.40 and will\ntentatively be made API-stable with the 3.41 release, pending\ncommunity feedback."
+  },
+  {
+    "Title": "NEW Windows 24H2: New Features!",
+    "Url": "https://youtube.com/watch?v=v7nprsWLq0A",
+    "Timestamp": "2024-10-15T22:01:36",
+    "Domain": "youtube.com",
+    "Description": "Dave reviews the newest features in Windows 24H2.   For my book on the autism spectrum, check out: https://amzn.to/3zBinWM\n\nDave's Attic - Friday 4PM Podcast - https://www.youtube.com/@UCtb6a_CnmGbSns9G8W2Ny0w \n\nFollow me for updates!  \nTwitter:   @davepl1968 davepl1968\nFacebook: fb.com/davepl"
+  },
+  {
+    "Title": "Coffee and Open Source Conversation - Jamie Taylor",
+    "Url": "https://youtube.com/watch?v=9BIi1QtnVy0",
+    "Timestamp": "2024-10-15T21:01:36",
+    "Domain": "youtube.com",
+    "Description": "Jamie is a software developer with 14 years' experience, a Microsoft MVP, \"Most Visionary Software Development & Consultancy Managing Director\" awardee for 2023, and a skilled podcaster with 5 years in engaging content creation.  \n \nWith a versatile tech toolkit, Jamie crafts tailored solutions, while his MVP status showcases his community commitment. His visionary leadership drives excellence, and his podcasting journey reflects his prowess in relatable communication. An inspiring multi-faceted professional, Jamie embodies dedication, innovation, and impactful change.\n\nYou can follow Jamie on Social Media\nhttps://twitter.com/podcasterJay\nhttps://hachyderm.io/@gaprogman\nhttps://github.com/GaProgMan\n\nAlso, be sure to check out The Modern .NET Show\nhttps://dotnetcore.show/\n\nPLEASE SUBSCRIBE TO THE PODCAST\n\n- Spotify: http://isaacl.dev/podcast-spotify\n- Apple Podcasts: http://isaacl.dev/podcast-apple\n- Google Podcasts: http://isaacl.dev/podcast-google\n- RSS: http://isaacl.dev/podcast-rss\n\nYou can check out more episodes of Coffee and Open Source on https://www.coffeeandopensource.com\n\nCoffee and Open Source is hosted by Isaac Levin (https://twitter.com/isaacrlevin)"
+  },
+  {
+    "Title": "A Sneak Peek at CSnakes: Embed Python code in .NET Apps",
+    "Url": "https://youtube.com/watch?v=U4-95gMT_UA",
+    "Timestamp": "2024-10-15T18:01:33",
+    "Domain": "youtube.com",
+    "Description": "James is joined by Anthony from the Python Cloud Advocacy team at Microsoft to talk about his latest experiment to help .NET developers leverage Python code and libraries in their apps!\n\nChapters:\n00:00:00 Introduction\n00:06:34 Integration of Python and C# into .NET Projects\n00:12:20 Integration of Tensor Span in Python and .NET\n00:16:53 Demonstration and Discussion on Python Integration in .NET\n00:23:13 Functionality of SKLearn and .NET API in Python\n00:29:56 Integration of Postgres and Python in .NET Aspire\n00:35:38 Database Integration and Tracing in Python Applications\n00:40:58 Python Log Analysis and API Trace in Development\n\nResources:\nCSnakes project: https://tonybaloney.github.io/CSnakes/\nRegister for .NET Conf: https://dotnetconf.net\n\nConnect with .NET: \nBlog:  https://aka.ms/dotnet/blog\nTwitter: https://aka.ms/dotnet/twitter\nTikTok:  https://aka.ms/dotnet/tiktok\nMastodon:  https://aka.ms/dotnet/mastodon\nLinkedIn:  https://aka.ms/dotnet/linkedin\nFacebook:  https://aka.ms/dotnet/facebook\nDocs: https://learn.microsoft.com/dotnet\nForums: https://aka.ms/dotnet/forums\n🙋‍♀️Q&A: https://aka.ms/dotnet-qa\n👨‍🎓Microsoft Learn: https://aka.ms/learndotnet\n\n#dotnet"
+  },
+  {
+    "Title": "What's new in System.Text.Json in .NET 9 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-9/",
+    "Timestamp": "2024-10-15T17:01:52",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "An overview of all new .NET 9 features in System.Text.Json for developers."
+  },
+  {
+    "Title": "Deal With It GIF emoji generator",
+    "Url": "https://emoji.build/deal-with-it-generator/",
+    "Timestamp": "2024-10-15T17:01:52",
+    "Domain": "emoji.build",
+    "Description": "Deal With It"
+  },
+  {
+    "Title": "C# and Linux - Building a better Wordpress",
+    "Url": "https://youtube.com/watch?v=IOYqWemaiyk",
+    "Timestamp": "2024-10-15T15:01:44",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io\n\nFritz is talking through and starting a new CMS project that anyone can contribute to!\r\n\r\nIt's time for the annual Ubuntober celebration!  C#, Blazor, and Ubuntu Linux development all month"
+  },
+  {
+    "Title": "Web Browser Engineering",
+    "Url": "https://browser.engineering/index.html",
+    "Timestamp": "2024-10-15T14:01:42",
+    "Domain": "browser.engineering",
+    "Description": "Web browsers are ubiquitous, but how do they work? This book\nexplains, building a basic but complete web browser, from networking to\nJavaScript, in a couple thousand lines of Python."
+  },
+  {
+    "Title": "A Natural Path to Domain-Driven Design (evolve your code)",
+    "Url": "https://youtube.com/watch?v=knjrierBovY",
+    "Timestamp": "2024-10-15T13:01:51",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nJoin a community of 1000+ .NET developers: https://www.patreon.com/milanjovanovic\n\nLearn how to naturally evolve your codebase from a basic transaction script to a robust Domain-Driven Design implementation. This step-by-step guide demonstrates practical refactoring techniques, helping you improve code quality, maintainability, and alignment with business logic. Perfect for developers looking to level up their architecture skills without starting from scratch.\n\nRefactoring From an Anemic Domain Model To a Rich Domain Model\nhttps://www.milanjovanovic.tech/blog/refactoring-from-an-anemic-domain-model-to-a-rich-domain-model\n\nHow To Use Domain Events To Build Loosely Coupled Systems\nhttps://www.milanjovanovic.tech/blog/how-to-use-domain-events-to-build-loosely-coupled-systems\n\nFrom Transaction Scripts to Domain Models: A Refactoring Journey\nhttps://www.milanjovanovic.tech/blog/from-transaction-scripts-to-domain-models-a-refactoring-journey\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 Reviewing the code\n3:21 Exploring the Meeting entity\n5:14 Aggregate root: Invariants\n10:42 Performance improvements\n13:20 Encapsulating nested entities - #1\n19:07 Encapsulating nested entities  - #2\n23:45 Business rules and encapsulation"
+  },
+  {
+    "Title": "Zyphra",
+    "Url": "https://www.zyphra.com/post/zamba2-7b",
+    "Timestamp": "2024-10-15T12:01:42",
+    "Domain": "www.zyphra.com",
+    "Description": ""
+  },
+  {
+    "Title": "Swagger is Gone in .NET 9! Replace It With This.",
+    "Url": "https://youtube.com/watch?v=8yI4gD1HruY",
+    "Timestamp": "2024-10-15T12:01:36",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://dometrain.com\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nBecome a Patreon and get special perks: https://www.patreon.com/nickchapsas\n\nHello, everybody. I'm Nick, and in this video I will talk about the removal of Swagger in .NET 9 and I'll show you how you can deal with it in your codebase.\n\nWorkshops: https://bit.ly/nickworkshops\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\nKeep coding merch: https://keepcoding.shop\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "Up is Down, and Down is Up [Work Ethic]",
+    "Url": "https://youtube.com/watch?v=r8ZZlnvNvBY",
+    "Timestamp": "2024-10-15T12:01:36",
+    "Domain": "youtube.com",
+    "Description": "This final video belongs to the Work Ethic category, in which I've shared my thoughts on how you can best approach your professional life.\nAnd with that...this channel's planned content is now complete!\nI hope you'll join me in the near future for the special finale episode. Thank you all so much for watching!"
+  },
+  {
+    "Title": "Asynchronous Messaging Made Easy",
+    "Url": "https://youtube.com/watch?v=qliRzRcJ-8k",
+    "Timestamp": "2024-10-15T11:01:25",
+    "Domain": "youtube.com",
+    "Description": "Asynchronous messaging is a concept that you here a lot about especially when it comes to event driven architecture. And every time it seems to be something very complicated. But is it? I can explain it in less than 2 minutes!\n#softwarearchitecture #softwaredesign #programming"
+  },
+  {
+    "Title": "Supercharging .NET Collections with Span and MemoryExtensions",
+    "Url": "https://dotnettips.wordpress.com/2024/10/15/supercharging-net-collections-with-span-and-memoryextensions/",
+    "Timestamp": "2024-10-15T10:01:33",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "This article discusses optimizing code efficiency in .NET using Span and MemoryExtensions for collection operations. It highlights significant performance improvements in common tasks such as findi…"
+  },
+  {
+    "Title": "How to Ace Developer Job Interviews: 8 Tips",
+    "Url": "https://youtube.com/watch?v=EJK7UjXF7tc",
+    "Timestamp": "2024-10-15T10:01:28",
+    "Domain": "youtube.com",
+    "Description": "Ace your software developer job interview with these 8 behavioural tips! \n💌 Get Free developer insights like this in your mailbox: https://guiferreira.me/newsletter\n\n⏲️ CHAPTERS\n00:00 Intro\n01:18 Tip 1\n01:57 Tip 2\n02:28 Tip 3\n04:38 Tip 4\n06:25 Tip 5\n07:54 Tip 6\n10:39 Tip 7\n11:52 Tip 8\n14:15 Bonus Tip\n\n#softwareengineer #programming"
+  },
+  {
+    "Title": "Azure Functions Dependency Injection",
+    "Url": "https://youtube.com/watch?v=EmrqkQLZmsY",
+    "Timestamp": "2024-10-15T08:01:29",
+    "Domain": "youtube.com",
+    "Description": "Here's how to use dependency injection in Azure Functions!"
+  },
+  {
+    "Title": "Serverless Gameshow: Pointless",
+    "Url": "https://youtube.com/watch?v=GFTWeOWtxoY",
+    "Timestamp": "2024-10-15T01:01:35",
+    "Domain": "youtube.com",
+    "Description": "The Serverless Gameshow is back with a British twist! It may sound irrelevant, but it’s anything but-- it’s Pointless! \r\n\r\nSam Lock hosts this unique Serverless quiz show as contestants try to score as few points as possible by coming up with answers no one else can think of. \r\n\r\nOn this episode Ryan Cormack, James Eastham, Tobias Schmidt, and Jimmy compete to be crowned the Prince of Pointless, and for a $50 donation to their charity of choice. \r\n\r\nPlay along at home and don’t forget to stay hydrated. Pip pip!"
+  },
+  {
+    "Title": "The Unreasonable Effectiveness of SDFs, Part 1",
+    "Url": "https://festina-lente-productions.com/articles/sdfs-1/",
+    "Timestamp": "2024-10-15T00:02:39",
+    "Domain": "festina-lente-productions.com",
+    "Description": "Example article format"
+  },
+  {
+    "Title": "Byte Order Mark",
+    "Url": "https://posts.joedmin.cz/posts/byte-order-mark/",
+    "Timestamp": "2024-10-15T00:02:36",
+    "Domain": "posts.joedmin.cz",
+    "Description": "What happens when your code does not expect it?"
+  },
+  {
+    "Title": "Analysing Every Y Combinator Batch Ever",
+    "Url": "https://lukafilipovic.com/writing/2024/10/12/analysing-every-y-combinator-batch-ever/",
+    "Timestamp": "2024-10-15T00:02:35",
+    "Domain": "lukafilipovic.com",
+    "Description": "Notes about my hobbies and other things I find interesting."
+  },
+  {
+    "Title": "Everyone’s An Owner",
+    "Url": "https://ma.tt/2024/10/owner-mentality/",
+    "Timestamp": "2024-10-15T00:02:35",
+    "Domain": "ma.tt",
+    "Description": "Last Friday we said goodbye to 159 colleagues as part of our alignment offer. It was a tough day, there are a lot of close relationships within Automattic, and goodbyes are always hard. On Monday,…"
+  },
+  {
+    "Title": "Teaching the world's largest programming lesson",
+    "Url": "https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson",
+    "Timestamp": "2024-10-15T00:02:35",
+    "Domain": "mathspp.com",
+    "Description": "This article goes over the content I taught at the world's largest programming lesson that broke a Guinness World Record with 1668 students."
+  },
+  {
+    "Title": "A Missing IDE Feature",
+    "Url": "https://matklad.github.io/2024/10/14/missing-ide-feature.html",
+    "Timestamp": "2024-10-15T00:02:34",
+    "Domain": "matklad.github.io",
+    "Description": "Slightly unusual genre --- with this article, I want to try to enact a change in the world. I\nbelieve that there is a missing IDE feature which is:"
+  },
+  {
+    "Title": "Early Praise Kills Projects",
+    "Url": "https://chrishannah.me/early-praise-kills-projects/",
+    "Timestamp": "2024-10-15T00:02:34",
+    "Domain": "chrishannah.me",
+    "Description": "Many people say things like \"Don't announce anything until it's done\", and there are many other people who work in public, as in they regularly announce shorter updates on their progress towards a certain outcome."
+  },
+  {
+    "Title": "The fathers of quality, Deming and Shewhart - AlexandreHTRB blog",
+    "Url": "https://alexandrehtrb.github.io/posts/2024/10/the-fathers-of-quality-deming-and-shewhart/",
+    "Timestamp": "2024-10-15T00:02:34",
+    "Domain": "alexandrehtrb.github.io",
+    "Description": "Meet the men that transformed the world's economy with statistical tools."
+  },
+  {
+    "Title": "Anjan's Homepage",
+    "Url": "https://momi.ca/posts/2024-10-09-honeybee.html",
+    "Timestamp": "2024-10-15T00:02:34",
+    "Domain": "momi.ca",
+    "Description": "As such, I have started writing an XMPP client in zig for calling using the snikket sdk.\nThe program is called honeybee and it is currently in pre-alpha.\nYou control the daemon (honeybee) using honeybeec:"
+  },
+  {
+    "Title": "Streamlining Legacy Rewrites: How LLMs Reduce Costs and Time in Application Modernization",
+    "Url": "https://thedayisntgray.github.io/now/2024/10/14/application-rewrite-with-llms/",
+    "Timestamp": "2024-10-15T00:02:32",
+    "Domain": "thedayisntgray.github.io",
+    "Description": "In the fast-paced world of software development, application rewrites have long been a necessary evil - costly, time-consuming, and often dreaded by developm..."
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/2024/thats-not-an-abstraction",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "For The Love Of Iframes",
+    "Url": "https://elijahpotter.dev/articles/for_the_love_of_iframes",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "elijahpotter.dev",
+    "Description": "Chronically underrated, chronically over-prescribed"
+  },
+  {
+    "Title": "HPTS'24 Day 1, part 1",
+    "Url": "http://muratbuffalo.blogspot.com/2024/09/hpts24-day-1-part-1.html",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "muratbuffalo.blogspot.com",
+    "Description": "Wow, what a week that was! The two days of HPTS (Monday and Tuesday this week)  felt like a week to me. I learned a lot, and had a lot of go..."
+  },
+  {
+    "Title": "Cron & Scheduled Jobs in Remix Shopify Apps",
+    "Url": "https://www.jeffedmondson.dev/cron-scheduled-jobs-in-remix-shopify-apps/",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "www.jeffedmondson.dev",
+    "Description": "Setting up cron jobs for Shopify apps built with Remix poses unique challenges. This guide explores why traditional methods fall short and demonstrates how to implement reliable scheduled tasks using Upstash Qstash."
+  },
+  {
+    "Title": "Jason Eckert's Website and Blog",
+    "Url": "https://jasoneckert.github.io/myblog/hiking/",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "jasoneckert.github.io",
+    "Description": "My personal website and blog"
+  },
+  {
+    "Title": "Trust Rules Everything Around Me",
+    "Url": "https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/",
+    "Timestamp": "2024-10-15T00:02:31",
+    "Domain": "scottarc.blog",
+    "Description": "As I write this, the most recent big move by Matt Mullenweg in his ongoing dispute with WP Engine was to abuse his position to seize control of a WP Engine owned plugin, justifying this act with a …"
+  },
+  {
+    "Title": "How to Debug an Electronic Device That Won't Power Up: A Step-by-Step Guide for Board-Level Repair",
+    "Url": "https://omid.dev/2024/10/14/how-to-debug-an-electronic-device-that-wont-power-up-a-step-by-step-guide-for-board-level-repair/",
+    "Timestamp": "2024-10-15T00:02:30",
+    "Domain": "omid.dev",
+    "Description": "When an electronic device refuses to power up, it can be frustrating for anyone, but for someone with a bit of electronics knowledge, it becomes a challenge to solve. The issue could be as simple as a faulty capacitor or as complex as a damaged integrated circuit (IC). This guide provides an in-depth, step-by-step approach for debugging a device at the board level. We’ll walk you through checking key components such as capacitors, transistors, diodes, and integrated circuits (ICs), explaining what each does, how to test them, and how to interpret the results. By the end, you should have a clear process for diagnosing and potentially fixing a dead device."
+  },
+  {
+    "Title": "Maximizing the Efficiency of Entity Matching with LLMs",
+    "Url": "https://www.anthonyledru.fr/en/blog/maximizing-the-efficiency-of-entity-matching-with-llms",
+    "Timestamp": "2024-10-15T00:02:30",
+    "Domain": "www.anthonyledru.fr",
+    "Description": "In a world where data management is becoming increasingly complex, companies must ensure the reliability of their information. A large portion of CRMs and databases contain outdated or incorrect data, complicating entity resolution (also known as data matching, data linkage, or record linkage), making data enrichment and updating difficult. This can not only introduce new errors but also directly impact strategic business decisions."
+  },
+  {
+    "Title": "Matt’s Malware",
+    "Url": "https://dbushell.com/2024/10/14/matts-malware/",
+    "Timestamp": "2024-10-15T00:02:30",
+    "Domain": "dbushell.com",
+    "Description": "The one where my professional liability is at risk"
+  },
+  {
+    "Title": "HTML Whitespace is Broken - Devel without a Cause",
+    "Url": "https://blog.dwac.dev/posts/html-whitespace/",
+    "Timestamp": "2024-10-15T00:02:30",
+    "Domain": "blog.dwac.dev",
+    "Description": "A deep dive into HTML whitespace collapsing: How it works, why it sucks, how it should work, and how to deal with it."
+  },
+  {
+    "Title": "The Debt Is Paid",
+    "Url": "http://shaw.wtf/The-Debt-Is-Paid/",
+    "Timestamp": "2024-10-15T00:02:30",
+    "Domain": "shaw.wtf",
+    "Description": "A few years ago I made a bet with John Carmack for $10,000. I lost the bet, which unfortunately timed with some pretty hard life experiences, so it took a little while to pay it all off, but it’s finally been settled.\n\n"
+  }
+]

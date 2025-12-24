@@ -1,0 +1,163 @@
+[
+  {
+    "Title": "The Jujutsu version control system",
+    "Url": "https://neugierig.org/software/blog/2024/12/jujutsu.html",
+    "Timestamp": "2024-12-13T20:01:41",
+    "Domain": "neugierig.org",
+    "Description": "Jujutsu is a new version control system that\nseems pretty nice!"
+  },
+  {
+    "Title": "METAR",
+    "Url": "https://xkcd.com/3024/",
+    "Timestamp": "2024-12-13T20:01:41",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": ".NET AI Community Standup - Semantic Kernel: What's New & Cool!",
+    "Url": "https://youtube.com/watch?v=TuU3XvFmz44",
+    "Timestamp": "2024-12-13T18:01:37",
+    "Domain": "youtube.com",
+    "Description": "Join us for an engaging conversation with Bruno Capuano and Microsoft MVP Rodrigo Liberoff as we dive into the latest updates on Semantic Kernel for C#. Discover powerful use cases, explore AI agents, and hey we may do some live code reviews. \r\n\r\nThis is the perfect chance to learn more about AI and Agents while leveling up your skills with the experts! Don’t miss out!\r\n\r\nCommunity Links: https://learn.microsoft.com/en-us/collections/07j6h3m8xjgjjy\r\n\r\nFeaturing: Bruno (@elbruno), Rodrigo (@rliberoff)\r\n\r\n#AI #DotNet #CSharp #SemanticKernel"
+  },
+  {
+    "Title": "When IBM Built a War Room for Executives",
+    "Url": "https://spectrum.ieee.org/ibm-demo",
+    "Timestamp": "2024-12-13T16:01:41",
+    "Domain": "spectrum.ieee.org",
+    "Description": "A new video captures a remarkable 1968 demo of IBM’s Executive Terminal"
+  },
+  {
+    "Title": "Building a plugin system with C# - Part 2",
+    "Url": "https://youtube.com/watch?v=eEDmLyGsjA0",
+    "Timestamp": "2024-12-13T16:01:38",
+    "Domain": "youtube.com",
+    "Description": "Turn your videos into live streams with https://restream.io\n\nFritz is working on adding a plugin system to SharpSite https://github.com/FritzAndFriends/SharpSite"
+  },
+  {
+    "Title": "The Simplest Way to Add Keycloak Authentication to Your .NET API",
+    "Url": "https://youtube.com/watch?v=HAvCoQ0tOTs",
+    "Timestamp": "2024-12-13T14:01:42",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nJoin a community of 1000+ .NET developers: https://www.patreon.com/milanjovanovic\n\nLearn how to secure your .NET API with Keycloak authentication in the most straightforward way possible with the help of .NET Aspire. In this tutorial, I'll show you how to integrate Keycloak JWT bearer authentication into your ASP.NET application with just a few lines of code. No complicated setup or confusing configuration files - just clean, simple implementation that you can add to your project today. Whether you're building a new API or adding security to an existing one, this guide will help you implement robust authentication without the usual headaches.\n\nBuilding Async APIs in ASP.NET Core - The Right Way\nhttps://www.milanjovanovic.tech/blog/building-async-apis-in-aspnetcore-the-right-way\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 The app we're using\n1:06 Adding the Keycloak service\n3:06 Configuring Keycloak realm\n5:20 Getting an access token (JWT)\n6:46 Adding Authentication in API\n9:54 Understanding backchannel auth\n11:14 Examining distributed traces"
+  },
+  {
+    "Title": "StarCellar E03: Configuring logging with Apizr",
+    "Url": "https://www.respawnsive.com/starcellar-e03-configuring-logging-with-apizr/",
+    "Timestamp": "2024-12-13T12:01:45",
+    "Domain": "www.respawnsive.com",
+    "Description": "Episode 03 of an Apizr walkthrough building a MAUI app requesting a backend API. Apizr is a Refit based web api client manager, but resilient (retry, connectivity, cache, auth, log, priority, etc...). This episode is about configuring logging. APIZR If you're new to Apizr, you shoud know that"
+  },
+  {
+    "Title": "Your First day on the team = releasing Your first feature",
+    "Url": "https://www.planetgeek.ch/2024/12/13/first-day-on-the-time-releasing-first-feature/",
+    "Timestamp": "2024-12-13T11:01:47",
+    "Domain": "www.planetgeek.ch",
+    "Description": "Welcome to our team! Today is your first day, which means it's the day you'll release your first feature. You'll see everything needed to design, implement, and release a feature in our system. We'll touch on F# language features, our TDD style, and some architecture topics. This blog post is part of the F# Advent..."
+  },
+  {
+    "Title": "ChatGPT vs. Advent of Code 2024 Day 13: Claw Contraption",
+    "Url": "https://youtube.com/watch?v=fiS4BADP4zg",
+    "Timestamp": "2024-12-13T11:01:33",
+    "Domain": "youtube.com",
+    "Description": "Will ChatGPT claw the prize or lose? Advent of Code 2024 day 13 is here!\n\n#openai #chatgpt #python #ai #codeinterpreter #adventofcode \n\nContents:\n0:00 - Intro\n0:10 - Part 1\n1:20 - Part 2\n4:20 - Summary"
+  },
+  {
+    "Title": "Open-Source and Our Digital Legacies with Scott Harden",
+    "Url": "https://youtube.com/watch?v=VaBEYyK_g2Y",
+    "Timestamp": "2024-12-13T09:01:41",
+    "Domain": "youtube.com",
+    "Description": "RJJ Software's Software Development Service This episode of The Modern .NET Show is supported, in part, by RJJ Software's Podcasting Services, whether your company is looking to elevate its UK operations or reshape its US strategy, we can provide tailored solutions that exceed expectations.\r\n\r\n Show Notes \"I don't want to go into the details right now, but for the listeners, I will say that we are right in the middle of an explosive situation right now with some WordPress drama. WordPress and WP Engine are experiencing a lot of the fallout, kind of related to what we talked about in the last episode, where you start out with some good intentions and then you get in a situation where both sides kind of feel burned. And I'm not going to say that there's a perfect solution out there, But I do think that this frequent check-ins and asking, you know, \"is this good for me and what needs to change for this to be good for my life?\" is important.\"— Scott Harden\r\n\r\n Welcome friends to The Modern .NET Show; the premier .NET podcast, focusing entirely on the knowledge, tools, and frameworks that all .NET developers should have in their toolbox. We are the go-to podcast for .NET developers worldwide, and I am not your host: Jamie. I'm Delilah and I will be recording the intro for this episode because Jamie is suffering with a throat infection.\r\n\r\n In this episode, Scott Harden joined us to talk more about open-source, software licensing, and a little on some of the most recent NuGet package updates that .NET developers should know about.\r\n\r\n It's important to note, Scott and Jamie talked about the WordPress controversy which was still unfolding as we recorded (which on October 19th, 2024). They brought it up not to make fun of WordPress or to add fuel to the flames, but to talk about the fact that it highlighted Scott's point about checking in with yourself regularly, as an open-source developer, about whether you're getting what you want from your public repos.\r\n\r\n Whilst talking about open-source development and licensing, Scott brought up a question on our collective and individual digital legacies.\r\n\r\n \"And this is kind of a startling topic to bring up, but what if you just disappeared tomorrow? Because people just leave because they have some medical situation or some life situation, or they die. And this happens. This happens in software. We'll talk about some specific examples in a minute. But, you know, if you disappear tomorrow, it's interesting to think about kind of what your digital legacy would be. And, you know, you could have left this thing behind in a way that it could have been used by everyone or anyone.\"— Scott Harden\r\n\r\n This episode has a lot of resources in the  accompanying show notes, so if you're listening along in a podcast player make sure to head to the website (there'll be a link). That way you don't miss out on all the wonderful things Scott and Jamie talked about.\r\n\r\n As a form of trigger warning, at around the 58 minute mark Scott talks about how his own journey with cancer brought the idea of his digital legacy to the forefront for him. Both Scott and Jamie also talk about the late Abel Wang and Pieter Hintjens. And they talk about other examples of developers who are very public with their health struggles: Jeremy Likness and (previous guest of the show) Jon Smith, who suffer with Alzheimer's disease and dementia respectively.\r\n\r\n We understand completely if you want to skip this entire section. But we also feel that there are very important points raised whilst talking about these, less cheery, matters. This conversation makes up the bulk for the final 10-15 minutes of the episode. Aside from a teaser for the next part (which is all about NuGet packages), you won't miss anything .NET specific if you choose to skip this part.\r\n\r\n Anyway, without further ado, let's sit back, open up a terminal, type in `dotnet new podcast` and we'll dive into the core of Modern .NET.\r\n\r\n Supporting the Show If you find this episode useful in any way, please consider supporting the show by either leaving a review (check our review page for ways to do that), sharing the episode with a friend or colleague, buying the host a coffee, or considering becoming a Patron of the show.\r\n\r\n Full Show Notes The full show notes, including links to some of the things we discussed and a full transcription of this episode, can be found at:  https://dotnetcore.show/season-7/open-source-and-our-digital-legacies-with-scott-harden/\r\n\r\n Scott's Links:  scottplot.net swharden.com GitHub LinkedIn  Jamie's Public NuGet Packages:  OwaspHeaders.Core ClackMiddleware OnionArch.Mvc  Useful Links  GNU Terry Pratchett OWASP Secure Headers Project GitHub sponsors Jamie on Coffee and Open Source with Isaac Levin  The WordPress vs VP Engine drama, explained  What we know about the xz Utils backdoor that almost infected the world .NET Foundation Finding Strength in Weakness by Jeremy Likness  How to update a NuGet library once the..."
+  },
+  {
+    "Title": "Android XR: The Gemini era comes to headsets and glasses",
+    "Url": "https://blog.google/products/android/android-xr/",
+    "Timestamp": "2024-12-13T02:01:37",
+    "Domain": "blog.google",
+    "Description": "Android XR is our newest platform built specifically for XR headsets and glasses."
+  },
+  {
+    "Title": "Creating a Radio Station",
+    "Url": "https://rokita.me/blog/creating-a-radio-station",
+    "Timestamp": "2024-12-13T01:02:01",
+    "Domain": "rokita.me",
+    "Description": "This post will guide you step-by-step through the process of creating an internet radio station using the Icecast streaming server, with LiquidSoap as the audio router and Mopidy as the music server."
+  },
+  {
+    "Title": "CADing and 3D printing like a software engineer, part 1 - baby step with an overengineered webcam raiser",
+    "Url": "https://fangpenlin.com/posts/2024/12/11/cading-and-3d-printing-like-a-software-engineer-part1/",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "fangpenlin.com",
+    "Description": "Fang-Pen Lin's blog about programming"
+  },
+  {
+    "Title": "A Kanji Always Pays Her Debts",
+    "Url": "https://aethermug.com/posts/a-kanji-always-pays-her-debts",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "aethermug.com",
+    "Description": "In defense of steep learning curve"
+  },
+  {
+    "Title": "My first DSF board meeting",
+    "Url": "https://www.paulox.net/2024/12/11/my-first-dsf-board-meeting/",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "www.paulox.net",
+    "Description": "Thoughts and insights aboutr my first meeting as a Django Software Foundation board member."
+  },
+  {
+    "Title": "Deliberate Restarts Only",
+    "Url": "https://buttondown.com/defragmenter/archive/deliberate-restarts-only/",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "buttondown.com",
+    "Description": "When solving a technical problem, I rarely restart a process or my computer. But when I was less experienced, I did this often. What changed? I learned..."
+  },
+  {
+    "Title": "Pipelines & Prompt Optimization with DSPy",
+    "Url": "https://www.dbreunig.com/2024/12/12/pipelines-prompt-optimization-with-dspy.html",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "www.dbreunig.com",
+    "Description": "Writing about technology, culture, media, data, and all the ways they interact."
+  },
+  {
+    "Title": "Defeasible Logic for Automatic Argumentation",
+    "Url": "https://gfrison.com/2024/12/01/defeasible-logic-automatic-argumentation",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "gfrison.com",
+    "Description": "Computational argumentation uses strict and defeasible rules to model the logical structure of arguments and evaluate their validity by considering facts, counterarguments, and preferences. Let’s figure it out…"
+  },
+  {
+    "Title": "Twitter → X → Bluesky - Sergey Kaplich",
+    "Url": "https://blog.kaplich.me/twitter-x-bluesky/",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "blog.kaplich.me",
+    "Description": "I’ve been using Bluesky daily for a month now and still love it. That’s why I’m sharing this post — after making sure it’s worth recommending."
+  },
+  {
+    "Title": "On Understanding Data Abstraction, Revisited",
+    "Url": "https://jimmyhmiller.github.io/advent-of-papers/2024/dec-11-data-abstraction",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "jimmyhmiller.github.io",
+    "Description": "What if you could have your beautiful immutability, but keep object oriented programming?"
+  },
+  {
+    "Title": "Rhetoric LLMs and Argumentation",
+    "Url": "https://gfrison.com/2024/12/01/rhetoric-llms-argumentation",
+    "Timestamp": "2024-12-13T01:02:00",
+    "Domain": "gfrison.com",
+    "Description": "How much are LLMs persuasive? Here a brief excursus on how automatic argumentation can benefit from LLMs linguistic skills"
+  },
+  {
+    "Title": "How I Calculate An x86 CPU FLOPs · Goodness Duru",
+    "Url": "https://goodyduru.com/posts/cpu-flops/",
+    "Timestamp": "2024-12-13T01:01:59",
+    "Domain": "goodyduru.com",
+    "Description": "My friend and I have been taking some performance engineering courses. One thing we’ve come to realize is how important calculating the maximum Floating-point Operations per second (FLOPs) of a CPU is. It turns out this is a little trickier than it looks."
+  },
+  {
+    "Title": "Dave Liepmann",
+    "Url": "https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html",
+    "Timestamp": "2024-12-13T01:01:58",
+    "Domain": "www.daveliepmann.com",
+    "Description": "Dave Liepmann's home on the web"
+  }
+]

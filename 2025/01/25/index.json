@@ -1,0 +1,79 @@
+[
+  {
+    "Title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "Url": "https://arxiv.org/abs/2501.12948",
+    "Timestamp": "2025-01-25T23:01:39",
+    "Domain": "arxiv.org",
+    "Description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrates remarkable reasoning capabilities. Through RL, DeepSeek-R1-Zero naturally emerges with numerous powerful and intriguing reasoning behaviors. However, it encounters challenges such as poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates multi-stage training and cold-start data before RL. DeepSeek-R1 achieves performance comparable to OpenAI-o1-1217 on reasoning tasks. To support the research community, we open-source DeepSeek-R1-Zero, DeepSeek-R1, and six dense models (1.5B, 7B, 8B, 14B, 32B, 70B) distilled from DeepSeek-R1 based on Qwen and Llama."
+  },
+  {
+    "Title": "JavaScript Temporal is coming | MDN Blog",
+    "Url": "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/",
+    "Timestamp": "2025-01-25T20:01:48",
+    "Domain": "developer.mozilla.org",
+    "Description": "A new way to handle dates and times is being added to JavaScript. Let's take a look at Temporal, what problems it solves, the current state, and what you'll find in the new documentation about it on MDN.\n"
+  },
+  {
+    "Title": "DbContext Pooling: The Secret Sauce to Faster EF Core Apps - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/dbcontext-pooling-the-secret-sauce-to-faster-ef-core-apps/",
+    "Timestamp": "2025-01-25T16:01:50",
+    "Domain": "woodruff.dev",
+    "Description": "Imagine you’re running a restaurant. Every time a customer orders, you buy a brand-new frying pan, use it once, and toss it out. Sounds absurd, right? But that’s essentially what happens in EF Core when you create a new DbContext for every request. It’s wasteful, slow, and totally unnecessary. Enter DbContext Pooling: the genius way to reuse those frying pans—err, contexts—and turbocharge your app’s performance."
+  },
+  {
+    "Title": "GitHub - lightpanda-io/browser: Lightpanda: the headless browser designed for AI and automation",
+    "Url": "https://github.com/lightpanda-io/browser",
+    "Timestamp": "2025-01-25T16:01:49",
+    "Domain": "github.com",
+    "Description": "Lightpanda: the headless browser designed for AI and automation - lightpanda-io/browser"
+  },
+  {
+    "Title": "How To Take Ownership - Dev Leader Weekly 80",
+    "Url": "https://www.devleader.ca/2025/01/25/how-to-take-ownership-dev-leader-weekly-80",
+    "Timestamp": "2025-01-25T14:01:47",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I discuss how to take ownership as a software engineer.\n"
+  },
+  {
+    "Title": "Caltrain’s Electric Fleet More Efficient than Expected | Caltrain",
+    "Url": "https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected",
+    "Timestamp": "2025-01-25T09:01:47",
+    "Domain": "www.caltrain.com",
+    "Description": "Caltrain announced at its monthly Board of Directors meeting that regenerative braking on the new trains is generating and sending back to the electric grid approximately 23% of the energy consumed by the system."
+  },
+  {
+    "Title": "How To Take Ownership - Principal Software Engineering Manager AMA",
+    "Url": "https://youtube.com/watch?v=frSprrBE6Lk",
+    "Timestamp": "2025-01-25T09:01:37",
+    "Domain": "youtube.com",
+    "Description": "What does it mean to \"take ownership\" with respect to projects? Let's discuss what this looks like in software engineering and how you can use this to level up as a developer!\n\nAs with all livestreams, I'm looking forward to answering YOUR questions! So join me live and ask in the chat, or you can comment now and I can try to get it answered while I stream.\r\n\r\n----\r\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\r\n\r\n🗣️ Social Media & Links:\r\n- All My Links: https://linktr.ee/devleader\r\n- Vlogs: @DevLeaderBTS @CodeCommute \r\n- Blog: https://www.devleader.ca/\r\n- TikTok: https://www.tiktok.com/@devleader\r\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\r\n- Threads: https://threads.net/@dev.leader\r\n- Twitter: https://twitter.com/DevLeaderCa\r\n- Facebook: https://www.facebook.com/DevLeaderCa\r\n- Instagram: https://www.instagram.com/dev.leader\r\n- GitHub: https://github.com/ncosentino/\r\n- Twitch: https://twitch.tv/devleaderca\r\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\r\n\r\n❤️ Affiliations & Products/Services That I Love:\r\n- @BrandGhostAI for all of my content creation: https://brandghost.ai\r\n- AI shorts helper Opus Clip: https://opus.pro/?via=2f9e97\r\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\r\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\r\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\r\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\r\n----\r\n#ama #askmeanything #softwareengineering #softwareengineer"
+  },
+  {
+    "Title": "TB",
+    "Url": "https://yasserarg.com/tb",
+    "Timestamp": "2025-01-25T06:01:39",
+    "Domain": "yasserarg.com",
+    "Description": "I'm Yasser and I've made it my mission to produce an alternative to LLVM, the current\nking of compiler backend libraries. I'm calling it Tilde (or TB for tilde backend) and the reasons\nare pretty simple, i believe it's far too slow at compiling and far too big to be fixed from the\ninside. It's been 20 years and cruft has built up, time for a \"redo\"."
+  },
+  {
+    "Title": "Implementing AES Encryption With C#",
+    "Url": "https://www.milanjovanovic.tech/blog/implementing-aes-encryption-with-csharp",
+    "Timestamp": "2025-01-25T01:02:01",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "Learn how to implement secure AES encryption in C# to protect sensitive application data like API keys and passwords, with practical code examples covering encryption, decryption, and key management best practices."
+  },
+  {
+    "Title": "GitHub - davidlattimore/wild: A very fast linker for Linux",
+    "Url": "https://github.com/davidlattimore/wild",
+    "Timestamp": "2025-01-25T01:02:00",
+    "Domain": "github.com",
+    "Description": "A very fast linker for Linux. Contribute to davidlattimore/wild development by creating an account on GitHub."
+  },
+  {
+    "Title": "The Mythical IO-Bound Rails App",
+    "Url": "https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html",
+    "Timestamp": "2025-01-25T01:01:59",
+    "Domain": "byroot.github.io",
+    "Description": "When the topic of Rails performance comes up, it is commonplace to hear that the database is the bottleneck, so Rails applications are IO-bound anyway, hence Ruby performance doesn’t matter that much, and all you need is a healthy dose of concurrency to make your service scale. But how true is this in general?"
+  }
+]

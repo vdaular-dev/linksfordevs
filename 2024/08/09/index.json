@@ -1,0 +1,79 @@
+[
+  {
+    "Title": "GitHub - Dicklesworthstone/llm_aided_ocr: Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections.",
+    "Url": "https://github.com/Dicklesworthstone/llm_aided_ocr",
+    "Timestamp": "2024-08-09T23:01:09",
+    "Domain": "github.com",
+    "Description": "Enhance Tesseract OCR output for scanned PDFs by applying Large Language Model (LLM) corrections. - Dicklesworthstone/llm_aided_ocr"
+  },
+  {
+    "Title": "Jake Seliger is Dead - Marginal REVOLUTION",
+    "Url": "https://marginalrevolution.com/marginalrevolution/2024/08/jake-seliger-is-dead.html",
+    "Timestamp": "2024-08-09T18:01:28",
+    "Domain": "marginalrevolution.com",
+    "Description": "We all knew it was coming but it’s no less painful to learn that Jake Seliger has died. I never met Jake in person but we were pen pals? email pals? blog friends? for well over a decade. We shared an interest in speeding up drug research and development, including FDA deregulation, an interest which […]"
+  },
+  {
+    "Title": "What does it even mean to Close a Windows Runtime asynchronous operation or action? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240809-00/?p=110116",
+    "Timestamp": "2024-08-09T17:01:02",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "That's the end of the road."
+  },
+  {
+    "Title": "Jepsen: jetcd 0.8.2",
+    "Url": "https://jepsen.io/analyses/jetcd-0.8.2",
+    "Timestamp": "2024-08-09T16:01:06",
+    "Domain": "jepsen.io",
+    "Description": "Jetcd is the official Java client library for the etcd coordination service. We show that jetcd contains an improper retry mechanism which allows transactions to execute multiple times, or to appear to fail but actually succeed. To users, these behaviors may appear as lost update, circular information flow, and aborted read. These issues have been outstanding for two and a half years. No patch is available, but disabling the retry mechanism is straightforward. This work was performed independently by Jepsen without compensation, and conducted in accordance with the Jepsen ethics policy."
+  },
+  {
+    "Title": "oTranscribe",
+    "Url": "https://otranscribe.com/",
+    "Timestamp": "2024-08-09T16:01:06",
+    "Domain": "otranscribe.com",
+    "Description": "A free HTML5 app to take the pain out of transcribing interviews. Useful for journalists, academics and anyone else transcribing audio. And it's open source, too."
+  },
+  {
+    "Title": "Buy a Raspberry Pi Pico 2 – Raspberry Pi",
+    "Url": "https://www.raspberrypi.com/products/raspberry-pi-pico-2/",
+    "Timestamp": "2024-08-09T15:01:10",
+    "Domain": "www.raspberrypi.com",
+    "Description": "The next big tiny thing. Our next-generation microcontroller board, built using RP2350."
+  },
+  {
+    "Title": "System76 - Linux Laptops, Desktops, and Servers",
+    "Url": "https://system76.com/cosmic",
+    "Timestamp": "2024-08-09T12:01:04",
+    "Domain": "system76.com",
+    "Description": "System76 computers empower the world's curious and capable makers of tomorrow"
+  },
+  {
+    "Title": "Azure APIM as a Negotiate Server for Azure SignalR Service",
+    "Url": "https://jaliyaudagedara.blogspot.com/2024/08/azure-apim-as-negotiate-server-for.html",
+    "Timestamp": "2024-08-09T09:01:31",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, ASP.NET Core, Visual Studio, Azure, Jaliya Udagedara"
+  },
+  {
+    "Title": "UPDATE: U+237C ⍼ &angzarr;",
+    "Url": "https://ionathan.ch/2023/06/06/angzarr",
+    "Timestamp": "2024-08-09T03:01:02",
+    "Domain": "ionathan.ch",
+    "Description": ""
+  },
+  {
+    "Title": "Do Quests, Not Goals",
+    "Url": "https://www.raptitude.com/2024/08/do-quests-not-goals/",
+    "Timestamp": "2024-08-09T03:01:02",
+    "Domain": "www.raptitude.com",
+    "Description": "South Island, New Zealand, a.k.a. Middle-Earth If you were to make a list of what you want to get done this week, it would mostly consist of things you have to do. Get groceries. Book a hair appointment. Get back to so-and-so. Read that health and safety thing for work. If you were to make a list of things you"
+  },
+  {
+    "Title": "Elevating .NET MAUI Item Templates: Simplified Namespace Resolution in Latest Release",
+    "Url": "https://egvijayanand.in/2024/08/09/working-with-dotnet-maui-item-templates-on-cli-and-vs-code/",
+    "Timestamp": "2024-08-09T02:01:01",
+    "Domain": "egvijayanand.in",
+    "Description": "Back in February, an article was published on the efficient utilization of Item Templates through the use of script automation. The article, titled .NET MAUI – Item Templates – Made Easy on CLI and…"
+  }
+]

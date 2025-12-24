@@ -1,0 +1,373 @@
+[
+  {
+    "Title": "Blazing fast CI with MicroVMs",
+    "Url": "https://blog.alexellis.io/blazing-fast-ci-with-microvms/",
+    "Timestamp": "2022-11-11T23:03:59",
+    "Domain": "blog.alexellis.io",
+    "Description": "I saw an opportunity to fix self-hosted runners for GitHub Actions. Actuated is now in pilot and aims to solve most if not all of the friction."
+  },
+  {
+    "Title": "Do What Works!",
+    "Url": "https://www.mikeguarneri.com/p/do-what-works",
+    "Timestamp": "2022-11-11T23:03:58",
+    "Domain": "www.mikeguarneri.com",
+    "Description": "“Life is all about doing what you feel is best for you.\" — Abdulazeez Henry Musa"
+  },
+  {
+    "Title": "Breaking the Frontend Monolith",
+    "Url": "https://ng-journal.com/blog/2022-09-12-breaking-the-frontend-monolith/",
+    "Timestamp": "2022-11-11T23:03:58",
+    "Domain": "ng-journal.com",
+    "Description": "In this article, you will learn about the challenges that arise when migrating a typical frontend monolith to microfrontends. You will hear about common practices from Domain Driven Design, that will help you draw boundaries in your monolith, which in the end allows you to divide your subdomains into microfrontends."
+  },
+  {
+    "Title": "The one about Lisp interactivity",
+    "Url": "http://blog.fogus.me/2022/11/10/the-one-about-lisp-interactivity/",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "blog.fogus.me",
+    "Description": "Pseudo-random ramblings from Fogus."
+  },
+  {
+    "Title": "Founders: Your employees’ first challenge is you",
+    "Url": "https://nimishgautam.github.io/posts/founder-journey/",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "nimishgautam.github.io",
+    "Description": "For the better part of the last 15 years, I’ve worked with start-ups and scale-ups in many capacities: co-founder, employee, consultant, advisor, mascot. Ok, maybe not the last one, but you get the idea 🙂"
+  },
+  {
+    "Title": "Molly Guard for Ansible | Paul's page",
+    "Url": "https://paul.totterman.name/posts/ansible-molly-guard/",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "paul.totterman.name",
+    "Description": "The Jargon File defines Molly\nGuard as:\n\nA shield to prevent tripping of some Big Red Switch by clumsy or ignorant\nhands. Originally used of the plexiglass covers improvised for the BRS on an\nIBM 4341 after a programmer’s toddler daughter (named Molly) frobbed it twice\nin one day. Later generalized to covers over stop/reset switches on disk\ndrives and networking equipment. In hardware catalogues, you’ll see the much\nless interesting description “guarded button”."
+  },
+  {
+    "Title": "Hard Reset",
+    "Url": "https://sarahguo.com/blog/hardreset",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "sarahguo.com",
+    "Description": "Hard Reset: Or, How Not to Drive Your Company Off A Cliff"
+  },
+  {
+    "Title": "Shells need strict typing",
+    "Url": "https://aljaz.murerzen.eu/posts/2022-11-11-shells-need-typing/",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "aljaz.murerzen.eu",
+    "Description": "Command line shells are interactive programs for running other programs.\nTo run a program, just type its name followed by a list of arguments. This rudimentary language does not know any other types than strings, so the name of the program and all of its arguments are just strings, simply deliminator by spaces.\n./build/my_program some-command --with-a-flag -m message input_file.txt Although very basic, this setup is easy to understand and create programs with, because these are just strings that can be handled in any programming or scripting language."
+  },
+  {
+    "Title": "I'm a 12 year old boy in a 36 year old body",
+    "Url": "https://gexp.no/blog/im-a-12-year-old-boy-in-a-36-year-old-body.html",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "gexp.no",
+    "Description": "I previously shared a post detailing\nwhy Guix meant so much to me and was surprised and\nmoved by all the feedback."
+  },
+  {
+    "Title": "You don't need to start with a niche - Life Programming",
+    "Url": "https://life-prog.com/life/2022-11-04-you-dont-need-a-niche/",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "life-prog.com",
+    "Description": "For the last few years, I've been trying to find a topic to actually work on to develop a side project. I had quite a few ideas, but always got stuck on the \"find people and understand their needs part\", because I did not know people in the domain to talk to, nor could I find those people online.\n You need a way to get people to discover you."
+  },
+  {
+    "Title": "willfennel.com – 83% of development is pointlessly renaming things",
+    "Url": "https://willfennel.com/posts/2022/11/11/83-percent-of-development-is-pointlessly-renaming-things.html",
+    "Timestamp": "2022-11-11T23:03:57",
+    "Domain": "willfennel.com",
+    "Description": "So you’re creating a (SQL) database table named car. Each car record has to have an indexed identifier, so you give it a column named id."
+  },
+  {
+    "Title": "Dr. Darjan Salaj",
+    "Url": "https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html",
+    "Timestamp": "2022-11-11T23:03:56",
+    "Domain": "dsalaj.com",
+    "Description": "Personal Website of Darjan Salaj, a student at TUG (Graz University of Technology)."
+  },
+  {
+    "Title": "Missing Apache Airflow, is that even possible?",
+    "Url": "https://geopet85.github.io/2022/11/11/step-functions-airlow.html",
+    "Timestamp": "2022-11-11T23:03:56",
+    "Domain": "geopet85.github.io",
+    "Description": "It’s been more than a year that I have been introduced to AWS Step Functions and my team decided to use them for our internal data workflows. It all started aiming to support all our ETL processes to extract data from our various databases, external platforms and APIs and eventually load and transform our tables using dbt into our Snowflake data warehouse. However since we also started implementing product facing features which required data transformations and exports to external systems, it made sense to extend our AWS Step Functions usage for those as well."
+  },
+  {
+    "Title": "Weekly Update 321",
+    "Url": "https://youtube.com/watch?v=VWFbMyuRaWU",
+    "Timestamp": "2022-11-11T20:05:08",
+    "Domain": "youtube.com",
+    "Description": "Canberra Travels; Mastodon Experiences; HTML Email Signature Pain; The New HIBP Rate Limits and Annual Billing; Medibank"
+  },
+  {
+    "Title": "GitHub - Unity-Technologies/com.unity.demoteam.mesh-to-sdf: A real-time SDF generator. Use a Mesh or a dynamically deforming SkinnedMesh as input to generate a 3D SDF texture.",
+    "Url": "https://github.com/Unity-Technologies/com.unity.demoteam.mesh-to-sdf",
+    "Timestamp": "2022-11-11T20:05:06",
+    "Domain": "github.com",
+    "Description": "A real-time SDF generator. Use a Mesh or a dynamically deforming SkinnedMesh as input to generate a 3D SDF texture. - GitHub - Unity-Technologies/com.unity.demoteam.mesh-to-sdf: A real-time SDF gen..."
+  },
+  {
+    "Title": "2022 US midterm elections attack analysis",
+    "Url": "https://blog.cloudflare.com/2022-us-midterm-elections-attack-analysis/",
+    "Timestamp": "2022-11-11T19:03:39",
+    "Domain": "blog.cloudflare.com",
+    "Description": "For Athenian Project and Cloudflare for Campaigns participant websites, overall traffic volume ramped as Election Day approached"
+  },
+  {
+    "Title": "Y2K and 2038",
+    "Url": "https://xkcd.com/2697/",
+    "Timestamp": "2022-11-11T19:03:38",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Join the C# Discord Server!",
+    "Url": "https://discord.com/invite/csharp?hss_channel=tw-2384354214",
+    "Timestamp": "2022-11-11T18:03:08",
+    "Domain": "discord.com",
+    "Description": "We are a programming server aimed at coders discussing everything related to C# (CSharp) and .NET. | 39,619 members"
+  },
+  {
+    "Title": "C# Community Discord",
+    "Url": "https://www.youtube.com/@csharpcommunitydiscord?hss_channel=tw-2384354214",
+    "Timestamp": "2022-11-11T18:03:08",
+    "Domain": "www.youtube.com",
+    "Description": "Share your videos with friends, family, and the world"
+  },
+  {
+    "Title": "Too Much Crypto",
+    "Url": "https://www.toomuchcrypto.xyz/",
+    "Timestamp": "2022-11-11T18:03:07",
+    "Domain": "www.toomuchcrypto.xyz",
+    "Description": "MORE DETAILS TBA – FOLLOW US ON TWITTER"
+  },
+  {
+    "Title": "NSA urges orgs to use memory-safe programming languages",
+    "Url": "https://www.theregister.com/2022/11/11/nsa_urges_orgs_to_use/",
+    "Timestamp": "2022-11-11T18:03:07",
+    "Domain": "www.theregister.com",
+    "Description": "C/C++ on the bench, as NSA puts its trust in Rust, C#, Go, Java, Ruby and Swift"
+  },
+  {
+    "Title": "Closings and Delays: The Day TheWolfWeb Took Over | Sports Channel 8",
+    "Url": "https://www.sportschannel8.com/closings-and-delays-the-day-thewolfweb-took-over/",
+    "Timestamp": "2022-11-11T17:02:20",
+    "Domain": "www.sportschannel8.com",
+    "Description": "With snow and ice in the forecast for the Triangle this week, schools and businesses across the state will close or delay their opening in order to keep"
+  },
+  {
+    "Title": "Your words are wasted",
+    "Url": "https://www.hanselman.com/blog/your-words-are-wasted",
+    "Timestamp": "2022-11-11T16:05:34",
+    "Domain": "www.hanselman.com",
+    "Description": "It needs to be said again, perhaps this time more strongly. Your Blog is The ..."
+  },
+  {
+    "Title": "Institute for the Study of War",
+    "Url": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-november-10",
+    "Timestamp": "2022-11-11T16:05:34",
+    "Domain": "www.understandingwar.org",
+    "Description": "Ukrainian forces steadily advanced in Kherson Oblast on November 10 as Russian forces conduct a withdrawal to the east (left) bank of the Dnipro River. Ukrainian military officials and geolocated social media footage confirm that Ukrainian troops have"
+  },
+  {
+    "Title": "If I issue multiple overlapped I/O requests against the same region of a file, will they execute in the order I issued them?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221111-00/?p=107385",
+    "Timestamp": "2022-11-11T16:05:33",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Overlapped I/O refers to temporal overlap, and that includes completion out of order."
+  },
+  {
+    "Title": "Introducing an all-new code search and code browsing experience | GitHub Changelog",
+    "Url": "https://github.blog/changelog/2022-11-09-introducing-an-all-new-code-search-and-code-browsing-experience/",
+    "Timestamp": "2022-11-11T14:11:54",
+    "Domain": "github.blog",
+    "Description": "Introducing an all-new code search and code browsing experience"
+  },
+  {
+    "Title": "Visual Studio 2022 17.4 is now available!",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/#selection-match-highlighting",
+    "Timestamp": "2022-11-11T10:03:14",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We are happy to announce that Visual Studio 2022 17.4 is now generally available. This is our first GA release to support Arm64. In addition some of the other prominent features it includes are .NET 7, enterprise support for setup including rollback,"
+  },
+  {
+    "Title": "Episode 110 - JetBrains and Remote Development with Maarten Balliauw",
+    "Url": "https://dotnetcore.show/episode-110-jet-brains-and-remote-development-with-maarten-balliauw/",
+    "Timestamp": "2022-11-11T09:02:57",
+    "Domain": "dotnetcore.show",
+    "Description": "In this episode, JetBrains developer advocate Maarten Balliauw joins us to talk about remote development, orchestration and onboarding new developers, and why you should check out JetBrains Fleet and Space"
+  },
+  {
+    "Title": "Gorillas (video game) - Wikipedia",
+    "Url": "https://en.m.wikipedia.org/wiki/Gorillas_(video_game)",
+    "Timestamp": "2022-11-11T08:02:17",
+    "Domain": "en.m.wikipedia.org",
+    "Description": "Gorillas, also known under the source code's file name GORILLA.BAS, is a video game first distributed with MS-DOS 5 and published in 1991 by Microsoft.[1] It is a turn-based artillery game.[2] With allusions to King Kong, the game consists of two gorillas throwing explosive bananas at each other above a city skyline. The players can adjust the angle and velocity of each throw as well as the gravitational pull of the planet."
+  },
+  {
+    "Title": "Automatically rotate the password of a service principal",
+    "Url": "https://www.patrickvankleef.com/2022/11/09/rotate-service-principal-password",
+    "Timestamp": "2022-11-11T06:02:11",
+    "Domain": "www.patrickvankleef.com",
+    "Description": "Secrets sprawl is a significant security risk for an organization. When using service principals, you want to ensure that passwords are rotated. PIM and Azure Automation allow you to secure your identities."
+  },
+  {
+    "Title": ".NET Conf 2022",
+    "Url": "https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVlqu_V8EXUDDnPsYwemxjn",
+    "Timestamp": "2022-11-11T06:02:11",
+    "Domain": "www.youtube.com",
+    "Description": "NET Conf is our annual virtual developer event co-organized by the .NET community and Microsoft and sponsored by the .NET Foundation and ecosystem partners. ..."
+  },
+  {
+    "Title": "What's New in .NET 7 for Authentication and Authorization",
+    "Url": "https://auth0.com/blog/whats-new-in-dotnet-7-for-authentication-and-authorization/",
+    "Timestamp": "2022-11-11T06:02:09",
+    "Domain": "auth0.com",
+    "Description": "Let’s explore the new .NET 7 features for improving and simplifying authentication and authorization support in .NET applications."
+  },
+  {
+    "Title": "Twelve C# 11 Features",
+    "Url": "https://blog.okyrylchuk.dev/twelve-csharp-11-features",
+    "Timestamp": "2022-11-11T06:02:09",
+    "Domain": "blog.okyrylchuk.dev",
+    "Description": "A dive into new C# 11 features with code samples."
+  },
+  {
+    "Title": "Does anyone like minimal API?",
+    "Url": "https://old.reddit.com/r/dotnet/comments/yqas0g/does_anyone_like_minimal_api/",
+    "Timestamp": "2022-11-11T03:02:18",
+    "Domain": "old.reddit.com",
+    "Description": "It seems like a good excuse to write bad code for those that don't master ASPNET functionality with hacky workarounds."
+  },
+  {
+    "Title": "Tutorial 3: Deploying to a Live Network | Mina Documentation",
+    "Url": "https://docs.minaprotocol.com/zkapps/tutorials/deploying-to-a-network",
+    "Timestamp": "2022-11-11T02:02:37",
+    "Domain": "docs.minaprotocol.com",
+    "Description": "Please note that zkApp programmability is not yet available on Mina Mainnet, but"
+  },
+  {
+    "Title": "Changing times (or, why is every layoff 10-15%?)",
+    "Url": "https://blog.eladgil.com/p/changing-times-or-why-is-every-layoff",
+    "Timestamp": "2022-11-11T01:02:59",
+    "Domain": "blog.eladgil.com",
+    "Description": "Changing economic markets suggests a shift in how some companies should operate, as well as what risks to assume for 2023"
+  },
+  {
+    "Title": "How to get feedback for your saas product?",
+    "Url": "https://www.peterkowalczyk.com/tech/startups/how-to-get-feedback-for-your-saas-product",
+    "Timestamp": "2022-11-11T01:02:58",
+    "Domain": "www.peterkowalczyk.com",
+    "Description": "Getting feedback and prioritizing it for development is hard. Here are 4 steps on how you can handle it, with real examples, so you don’t build unused features."
+  },
+  {
+    "Title": "What is the prime factorization of zero?",
+    "Url": "https://alok.github.io/2022/09/04/o428010/",
+    "Timestamp": "2022-11-11T01:02:57",
+    "Domain": "alok.github.io",
+    "Description": "Alok Singh's Blog"
+  },
+  {
+    "Title": "Work hard / work smart.",
+    "Url": "https://lethain.com/work-hard-work-smart/",
+    "Timestamp": "2022-11-11T01:02:57",
+    "Domain": "lethain.com",
+    "Description": "Twitter, Lyft, Stripe and several other companies had major layoffs last week, and with the undeniable tragedy of layoffs, a frequent debate has reemerged. Are the tech employees working hard enough? Is working hard a sign of puritanical virtue? Are long hours a sign of inefficient production that ignores a century of productivity research?\nUnless you place a premium on social networking engagement, participating in these debates isn’t very rewarding. Folks enter the discussion with their mind made up, some jabs are thrown, and then the discussion winds down with the participants feet solidly in their starting positions."
+  },
+  {
+    "Title": "Is the fediverse about to get Fryed? (Or, “Why every toot is also a potential denial of service attack”)",
+    "Url": "https://ar.al/2022/11/09/is-the-fediverse-about-to-get-fryed-or-why-every-toot-is-also-a-potential-denial-of-service-attack/",
+    "Timestamp": "2022-11-11T01:02:56",
+    "Domain": "ar.al",
+    "Description": "Every time I post something that gets lots of engagement, I essentially end up carrying out a denial of service attack on myself. What does this say about the design of Mastodon and ActivityPub and the future of the fediverse?"
+  },
+  {
+    "Title": "Nick Craver (@Nick_Craver@infosec.exchange)",
+    "Url": "https://infosec.exchange/@Nick_Craver",
+    "Timestamp": "2022-11-11T01:02:55",
+    "Domain": "infosec.exchange",
+    "Description": "0 Posts, 39 Following, 71 Followers · Dad and Principal Software Engineer Microsoft working on Azure. Formerly Stack Overflow. I build very fast things to improve life for millions of developers."
+  },
+  {
+    "Title": "How to Get Insanely Rich in the Creator Economy",
+    "Url": "https://blog.nateliason.com/p/get-rich-creator-economy",
+    "Timestamp": "2022-11-11T01:02:55",
+    "Domain": "blog.nateliason.com",
+    "Description": "The Ultimate Step-by-Step Comprehensive Guide [Updated for 2022]"
+  },
+  {
+    "Title": "Dominos Pizza Beats Any Tech Stock",
+    "Url": "https://notes.willrobbins.org/p/dominos-pizza-beats-any-tech-stock",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "notes.willrobbins.org",
+    "Description": "Businesses that appear to be commoditized can often times outperform even the strongest products and services."
+  },
+  {
+    "Title": "arborist",
+    "Url": "https://arborist.dev/blog/complexity-of-e2e-testing",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "arborist.dev",
+    "Description": "Web site created using create-react-app"
+  },
+  {
+    "Title": "The Fediverse is Inefficient (but that's a good trade-off)",
+    "Url": "https://berk.es/2022/11/08/fediverse-inefficiencies/",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "berk.es",
+    "Description": "Let's address the mammoth in the room: the fediverse, the network of mastodon\nservers, is very inefficient."
+  },
+  {
+    "Title": "You can finally disable Snap updates",
+    "Url": "https://merlijn.sebrechts.be/blog/2022-11-10-turn-off-snap-updates/",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "merlijn.sebrechts.be",
+    "Description": "During the Ubuntu Summit, a long-awaited feature was quietly released for preview: You can now completely turn off automatic updates of snaps.\n“The snap refresh --hold command holds, or postpones, snap updates for individual snaps, or for all snaps on the system, either indefinitely or for a specified period of time.”\n(currently only available in edge channel of snapd)\nThis might sound like an obvious feature to many people, but it’s a continental shift in philosophy for the Snap developers."
+  },
+  {
+    "Title": "What it's like to dissect a cadaver",
+    "Url": "https://alok.github.io/2022/11/09/dissection/",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "alok.github.io",
+    "Description": "Alok Singh's Blog"
+  },
+  {
+    "Title": "How a Cheap Flight Email Newsletter Makes Money (And How Much)",
+    "Url": "https://phillyflightlist.com/cheap-flight-newsletter-makes-money/",
+    "Timestamp": "2022-11-11T01:02:54",
+    "Domain": "phillyflightlist.com",
+    "Description": "We're opening up the hood to show you how a cheap flight newsletter makes money. We'll briefly cover how we make money, how much revenue and profit we make, and how it all fits together."
+  },
+  {
+    "Title": "Solving problems | Everything I know",
+    "Url": "https://wiki.nikiv.dev/research/solving-problems",
+    "Timestamp": "2022-11-11T01:02:53",
+    "Domain": "wiki.nikiv.dev",
+    "Description": "Always think from first principles."
+  },
+  {
+    "Title": "Debugging Is Science",
+    "Url": "https://amedee.me/2022/11/09/debugging/",
+    "Timestamp": "2022-11-11T01:02:53",
+    "Domain": "amedee.me",
+    "Description": "The strategies I use to debug everything."
+  },
+  {
+    "Title": "A Simple Computation Engine in F#",
+    "Url": "https://isthisit.nz/posts/2022/a-simple-computation-engine-in-fsharp/",
+    "Timestamp": "2022-11-11T01:02:53",
+    "Domain": "isthisit.nz",
+    "Description": "I’m in one of those reflective periods where I’m catching up on books I should have read earlier; Thomas Pynchon, Neal Stephenson, and the like. In Software Engineering one of those books is Structure and Interpretation of Computer Programs (SICP). SICP is known for teaching computing from basic principles using the programming language Scheme, (a (type of (lisp))). I began programming using Javascript, PHP, and Java. The first Lisp I encountered was Clojure, and I found the language and paradigm to be radically different from anything I’d ever written."
+  },
+  {
+    "Title": "Browsers, JSON, and FormData",
+    "Url": "https://blog.jim-nielsen.com/2022/browsers-json-formdata/",
+    "Timestamp": "2022-11-11T01:02:53",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Jeremy wrote about what a boon the new view transitions API could be for the web:"
+  },
+  {
+    "Title": "Elon Musk should pay me to run Twitter.",
+    "Url": "https://chatterhead.bearblog.dev/elon-musk-should-pay-me-to-run-twitter/",
+    "Timestamp": "2022-11-11T01:02:53",
+    "Domain": "chatterhead.bearblog.dev",
+    "Description": "Elon bought a Rolls-Royce and decided the best thing to do is drive it around like a McLaren. Do I need to remind you how that turned out last time? If most ..."
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "Title": "My Journey as a Microsoft Learn Student Ambassador",
+    "Url": "https://youtube.com/watch?v=CxkNfVqVGWM",
+    "Timestamp": "2024-11-21T23:01:42",
+    "Domain": "youtube.com",
+    "Description": "Join this session to hear Nicklas's story as a Microsoft Learn Student Ambassador and discover how it helped him get involved in the tech community and to build a network in the IT world. Learn about his experiences with writing blogs, giving talks, and how these activities played a key role in his growth. If you're a student interested in joining the Microsoft Learn Student Ambassador program but unsure how it can help you, this session is for you.\n\nResources:\nGet C# certified​ - https://aka.ms/csharp/certification​\nSee event resources​ - https://aka.ms/dotnetconf/students/resources​\n\n#dotnet #csharp #dotnetprojects #students #careeradvice"
+  },
+  {
+    "Title": ".NET Interview Insights: Tips from a Hiring Manager",
+    "Url": "https://youtube.com/watch?v=R4Oz4p2OlkY",
+    "Timestamp": "2024-11-21T22:01:41",
+    "Domain": "youtube.com",
+    "Description": "Join us for an engaging interview with Jeff, an experienced .NET hiring manager, as he shares his expert advice for aspiring .NET software engineers. In this session, Jeff will discuss the key skills he looks for in candidates, the types of questions he typically asks during interviews, and his top tips for standing out in the competitive job market. Whether you're preparing for your first .NET role or looking to advance your career, this session will provide you with valuable insights and practical advice to help you succeed. Don't miss this chance to learn from a seasoned professional and get your questions answered!\n\nResources:\nGet C# certified​ - https://aka.ms/csharp/certification​\nSee event resources​ - https://aka.ms/dotnetconf/students/resources​\n\n#dotnet #csharp #dotnetprojects #students #careeradvice"
+  },
+  {
+    "Title": "How I used .NET 9 and AI to charge my electric car",
+    "Url": "https://youtube.com/watch?v=SGSBZhbIX2E",
+    "Timestamp": "2024-11-21T19:01:45",
+    "Domain": "youtube.com",
+    "Description": "Can you use .NET 9 to charge your electric car using solar power? Absolutely! In this session, Johnny will show you how to leverage your development skills and .NET 9 to combine data from external vendors by using their API's and be smart with that data to command your electric vehicle to charge when the time is right. Johnny even added some AI to the mix to be able to ask questions about the current charging state using Azure OpenAI for the LLM, Semantic Kernel to create a custom copilot, and Azure Cognitive Services for Speech-To-Text. This demo is not something that is put together for this talk, it is a cloud-native distributed application used by Johnny on a day-to-day basis.\n\nConnect with .NET: \nBlog:  https://aka.ms/dotnet/blog\nTwitter: https://aka.ms/dotnet/twitter\nTikTok:  https://aka.ms/dotnet/tiktok\nMastodon:  https://aka.ms/dotnet/mastodon\nLinkedIn:  https://aka.ms/dotnet/linkedin\nFacebook:  https://aka.ms/dotnet/facebook\nDocs: https://learn.microsoft.com/dotnet\nForums: https://aka.ms/dotnet/forums\n🙋‍♀️Q&A: https://aka.ms/dotnet-qa\n👨‍🎓Microsoft Learn: https://aka.ms/learndotnet\n\n#dotnet"
+  },
+  {
+    "Title": "A common urban intersection in the Netherlands",
+    "Url": "https://bicycledutch.wordpress.com/2018/02/20/a-common-urban-intersection-in-the-netherlands/",
+    "Timestamp": "2024-11-21T16:02:09",
+    "Domain": "bicycledutch.wordpress.com",
+    "Description": "Can urban intersections be designed in such a way that motor traffic, cycling and walking flow smoothly and that the potential conflicts of these very different types of traffic crossing each other…"
+  },
+  {
+    "Title": "Getting Started with Docker for .NET Web Apps",
+    "Url": "https://youtube.com/watch?v=Fifjvgu6C_c",
+    "Timestamp": "2024-11-21T16:02:06",
+    "Domain": "youtube.com",
+    "Description": "I want to show you how to get started with Docker for .NET Web Apps. I will create a Blazor Server web application and add Docker support directly from Visual Studio.\n\nI will also show you how to achieve the same using the command-line interface.\n\nIn the end, you'll be able to run and debug a .NET web app from inside a Docker container running on your developer machine.\n\n00:00 Introduction\n00:45 Quick Introduction to Docker\n02:27 Install Docker Desktop\n03:39 Dockerize a Blazor Server App in Visual Studio\n08:38 Create a Docker Image and Container from the CLI\n11:43 Course Offer & Outro\n\n🔥 C#/.NET Bootcamp: Full-Stack Web Development with ASP.NET Core and Blazor (Code FRIENDS10 for 10% OFF)*\nhttps://claudiobernasconi.ch/dotnet-course\n\n📌 .NET Developer Roadmap\nhttps://claudiobernasconi.ch/learn-dotnet\n\n📌 Docker CLI Commands:\ndocker build -t blazordocker ./BlazorDocker\ndocker run -p 12345:8080 -p 12346:8081 blazordocker\n\n📌 GitHub Repository:\nhttps://github.com/claudiobernasconi/BlazorDocker\n\n📌 Docker Desktop:\nhttps://www.docker.com/products/docker-desktop/\n\n📌 Visual Studio Container Tools with ASP.NET Core:\nhttps://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/docker/visual-studio-tools-for-docker\n\n📌 YouTube Playlists:\nThe FREE Blazor Crash Course: https://www.youtube.com/watch?v=89Klc6WHElw&list=PLwISgxnkpZGL_LhTQCWwp-WCzupv7lcp0\nBlazor: https://www.youtube.com/playlist?list=PLwISgxnkpZGITT6pELfCeQ6qK0G3ujldZ\n\n✅ SUBSCRIBE FOR MORE VIDEOS \nSubscribe: 🔔 https://claudiobernasconi.ch/Subscribe\n\n🚀 CONNECT & SUPPORT\nWebsite & Blog: https://claudiobernasconi.ch\nNewsletter: https://claudiobernasconi.ch/newsletter\nTwitter: https://twitter.com/CHBernasconiC\nBluesky: https://bsky.app/profile/bernasconi.bsky.social\nMastodon: https://dotnet.social/@bernasconi\n\n* Affiliate Link: I earn a small commission at no additional cost"
+  },
+  {
+    "Title": "Some surprising code execution sources in bash",
+    "Url": "https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash",
+    "Timestamp": "2024-11-21T15:01:45",
+    "Domain": "yossarian.net",
+    "Description": "I ran across two surprising sources of code execution in bash (and probably\nother shells) recently."
+  },
+  {
+    "Title": "WordPress Is A DUMPSTER FIRE  - Build A Blog In Blazor!",
+    "Url": "https://youtube.com/watch?v=RGq2s25xTPE",
+    "Timestamp": "2024-11-21T15:01:43",
+    "Domain": "youtube.com",
+    "Description": "I am absolutely sick and tired of using WordPress.\n\nBut to be fair, WordPress has given me a platform to build my content on -- even as far back as 2013 when I first started.\n\nBut we're breaking up. We're through.\n\nIt's time to get everything moved over to... BLAZOR!\n\n----\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\n\n🗣️ Social Media & Links:\n- All My Links: https://linktr.ee/devleader\n- Vlogs:  @DevLeaderBTS @CodeCommute \n- Blog: https://www.devleader.ca/\n- TikTok: https://www.tiktok.com/@devleader\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\n- Threads: https://threads.net/@dev.leader\n- Twitter: https://twitter.com/DevLeaderCa\n- Facebook: https://www.facebook.com/DevLeaderCa\n- Instagram: https://www.instagram.com/dev.leader\n- GitHub: https://github.com/ncosentino/\n- Twitch: https://twitch.tv/devleaderca\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\n\n❤️ Affiliations & Products/Services That I Love:\n- @BrandGhostAI for all of my content creation: https://brandghost.ai\n- AI shorts helper Opus Clip: https://opus.pro/?via=2f9e97\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\n----\n\n#softwareengineering #softwaredeveloper #softwareengineer"
+  },
+  {
+    "Title": "Mathematical Thinking Isn’t What You Think It Is | Quanta Magazine",
+    "Url": "https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/",
+    "Timestamp": "2024-11-21T13:01:36",
+    "Domain": "www.quantamagazine.org",
+    "Description": "The mathematician David Bessis claims that everyone is capable of, and can benefit greatly from, mathematical thinking."
+  },
+  {
+    "Title": "How to create your Own AI Bot on WhatsApp Using the ABP Framework | ABP.IO",
+    "Url": "https://abp.io/community/articles/how-to-create-your-own-ai-bot-on-whatsapp-using-the-abp-framework-c6jgvt9c",
+    "Timestamp": "2024-11-21T11:01:50",
+    "Domain": "abp.io",
+    "Description": "This article demonstrates how to build a WhatsApp bot that uses ChatGPT’s conversational AI by integrating an ABP.IO application template with Twilio ..."
+  },
+  {
+    "Title": "Z-Library Helps Students to Overcome Academic Poverty, Study Finds * TorrentFreak",
+    "Url": "https://torrentfreak.com/z-library-helps-students-to-overcome-academic-poverty-study-finds-241120/",
+    "Timestamp": "2024-11-21T08:01:36",
+    "Domain": "torrentfreak.com",
+    "Description": "A recent study published in the Journal of University Teaching & Learning Practice sheds light on people's motivations to use Z-Library."
+  },
+  {
+    "Title": "Solene'% : Why I stopped using OpenBSD",
+    "Url": "https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html",
+    "Timestamp": "2024-11-21T07:01:10",
+    "Domain": "dataswamp.org",
+    "Description": "In this blog post, I share my experience and why I stopped using OpenBSD"
+  },
+  {
+    "Title": "75 Cents per Month by @ttunguz",
+    "Url": "https://tomtunguz.com/the-cost-of-her/",
+    "Timestamp": "2024-11-21T01:02:14",
+    "Domain": "tomtunguz.com",
+    "Description": "What it cost to have an assistant with you like in the movie Her?\nThe cost of using AI has dropped precipitously, an order of magnitude every year.\nIf the average American picks up their phone 144 times per day & engages with an assistant, each time for four interactions every day of a month, an assistant like Her would cost about 78 cents in inference cost.1\nI’m not taking into account any of the additional costs associated with delivering such a product."
+  },
+  {
+    "Title": "Singularity missed",
+    "Url": "https://blog.piekniewski.info/2024/11/13/singularity-missed/",
+    "Timestamp": "2024-11-21T01:02:13",
+    "Domain": "blog.piekniewski.info",
+    "Description": "Every now and then in the discussions of AI/AGI and what not comes the central figure of that entire intellectual movement - Ray Kurzweil. And with him inevitably comes a form of an exponential chart"
+  },
+  {
+    "Title": "some thoughts on blind spots - Tasshin",
+    "Url": "https://tasshin.com/blog/some-thoughts-on-blind-spots/",
+    "Timestamp": "2024-11-21T01:02:12",
+    "Domain": "tasshin.com",
+    "Description": "everyone, at every scale, has blind spots."
+  },
+  {
+    "Title": "Effort-Dumping: Why Nobody Likes You",
+    "Url": "https://www.pablomusumeci.com/p/effort-dumping-why-nobody-likes-you",
+    "Timestamp": "2024-11-21T01:02:10",
+    "Domain": "www.pablomusumeci.com",
+    "Description": "“Can You Help Me?” Is the Wrong Question. Stop the Habit That’s Holding You Back."
+  },
+  {
+    "Title": "High-Brow Media For All",
+    "Url": "https://www.workingtheorys.com/p/thoughts-for-sale",
+    "Timestamp": "2024-11-21T01:02:10",
+    "Domain": "www.workingtheorys.com",
+    "Description": "Mass-market intellectualism is an oxymoron, right? Ask Substack."
+  },
+  {
+    "Title": "Bluesky for Science",
+    "Url": "https://blog.stephenturner.us/p/bluesky-for-science",
+    "Timestamp": "2024-11-21T01:02:10",
+    "Domain": "blog.stephenturner.us",
+    "Description": "Bluesky starter packs for genomics, bioinformatics, R, and Nextflow"
+  },
+  {
+    "Title": "QK Norm and the Curious Case of Logit Drift",
+    "Url": "https://rossjtaylor.com/blog/2024-11-03-qk-norm.html",
+    "Timestamp": "2024-11-21T01:02:07",
+    "Domain": "rossjtaylor.com",
+    "Description": "Multimodality has led to some tweaks to the standard Transformer recipe. In this post we will cover QK Normalization (QKNorm), \n            where we apply normalization to the query and key vectors in the attention mechanism. This has become an important step for unified input \n            models where we have tokenized representations of text, images and other modalities present in a single sequence. These types of models are very prone to training instability without appropriate normalization, as the norms of the Q and K vectors can experience exponential growth during training. QKNorm is a necessary (although perhaps not sufficient) step to correct this problem."
+  },
+  {
+    "Title": "Your habits and routines make you",
+    "Url": "https://www.dsebastien.net/your-habits-and-routines-make-you/",
+    "Timestamp": "2024-11-21T01:02:07",
+    "Domain": "www.dsebastien.net",
+    "Description": "Discover how your daily habits and routines shape your identity, success, and overall life outcomes."
+  },
+  {
+    "Title": "Packing group membership data into an integer - Emir's blog",
+    "Url": "https://emiruz.com/post/2024-11-20-data-in-integers/",
+    "Timestamp": "2024-11-21T01:02:07",
+    "Domain": "emiruz.com",
+    "Description": "Say you have a large number of items, each of which could belong to multiple\ngroups, and you’d like to assign to each item an integer which is able\nto encode its group memberships. The number of items could be vast, but say the\nnumber of groups is fairly small – less than a few hundred – and each item\ncould be a member of many groups (say <= 5)."
+  },
+  {
+    "Title": "Bypassing app lock in Ente Auth",
+    "Url": "https://alexbakker.me/post/bypassing-app-lock-in-ente-auth.html",
+    "Timestamp": "2024-11-21T01:02:07",
+    "Domain": "alexbakker.me",
+    "Description": "A couple of months ago I discovered three issues that allow one to bypass app lock in Ente Auth. The issues I found aren't technically interesting and don't really deserve a blog post, but since Ente appears to be hesitant to notify their users about them, off we go."
+  },
+  {
+    "Title": "Django: Introducing Djade, a template formatter - Adam Johnson",
+    "Url": "https://adamj.eu/tech/2024/09/26/django-introducing-djade/",
+    "Timestamp": "2024-11-21T01:02:07",
+    "Domain": "adamj.eu",
+    "Description": "Happy DjangoCon US 2024 to you. Whilst I am not there, I have adopted the spirit of the season and got to work hacking together a new tool."
+  },
+  {
+    "Title": "giulianopz's weblog. Brain dumps and small hacks",
+    "Url": "https://giulianopz.github.io/bios-pwd-recovery-laptops",
+    "Timestamp": "2024-11-21T01:02:06",
+    "Domain": "giulianopz.github.io",
+    "Description": "November 19, 2024 by giulianopz"
+  },
+  {
+    "Title": "securing snake",
+    "Url": "https://www.basecase.sh/blog/securing-snake",
+    "Timestamp": "2024-11-21T01:02:06",
+    "Domain": "www.basecase.sh",
+    "Description": "how i went from \"immediately hackable\" to \"reasonably secure\" in 24 hours"
+  },
+  {
+    "Title": "My Minimal MacBook Pro Setup Guide",
+    "Url": "https://eugeneyan.com/writing/mac-setup/",
+    "Timestamp": "2024-11-21T01:02:06",
+    "Domain": "eugeneyan.com",
+    "Description": "Setting up my new MacBook Pro from scratch"
+  },
+  {
+    "Title": "Power to the power users",
+    "Url": "https://kinduff.com/2024/11/19/power-to-the-power-users/",
+    "Timestamp": "2024-11-21T01:02:05",
+    "Domain": "kinduff.com",
+    "Description": "How the creative uses of data structures by power users are transforming and inspiring new features in my product"
+  },
+  {
+    "Title": "I Cloned My Own Voice to Waste Telemarketer's Time",
+    "Url": "https://youtube.com/watch?v=IR0wyxp0IqA",
+    "Timestamp": "2024-11-21T01:01:45",
+    "Domain": "youtube.com",
+    "Description": "I built a convincing AI with a clone of my own voice and extensive training in how to seem VERY interested in whatever is being sold, but to never commit!"
+  }
+]

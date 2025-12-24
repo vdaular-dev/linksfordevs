@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "Replication Crisis",
+    "Url": "https://xkcd.com/3117/",
+    "Timestamp": "2025-07-18T23:02:12",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "lsr: ls but with io_uring",
+    "Url": "https://rockorager.dev/log/lsr-ls-but-with-io-uring/",
+    "Timestamp": "2025-07-18T20:02:16",
+    "Domain": "rockorager.dev",
+    "Description": "As an excercise in syscall golf, I wrote an implementation of ls(1) which uses my IO library, ourio to perform as much of the IO as possible. What I ended up with is something that is faster than any version or alternative to ls I tested, and also performs an order of magnitude fewer syscalls. I’m calling it lsr. Let’s start with the benchmarks, then we’ll see how we got there."
+  },
+  {
+    "Title": "NIH Is Far Cheaper Than The Wrong Dependency",
+    "Url": "https://lewiscampbell.tech/blog/250718.html",
+    "Timestamp": "2025-07-18T15:02:24",
+    "Domain": "lewiscampbell.tech",
+    "Description": "Frivilous dependencies are the enemy of maintainability."
+  },
+  {
+    "Title": "Fully Homomorphic Encryption and the Dawn of A Truly Private Internet",
+    "Url": "https://bozmen.io/fhe",
+    "Timestamp": "2025-07-18T12:02:34",
+    "Domain": "bozmen.io",
+    "Description": "Barış Özmen Blog"
+  },
+  {
+    "Title": "ChatGPT Guide to Building Cross Platform Applications - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/chatgpt-guide-to-building-cross-platform-applications/",
+    "Timestamp": "2025-07-18T09:02:23",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "I decided to ask ChatGPT what suggestions it had for building cross platform applications. Here’s it’s response, along with some commentary, specifically around the offering by the Uno Platform. What's the best guidance for building cross platform applications? From ChatGPT: The best guidance for building cross-platform applications can be broken into strategic decisions, tooling choices, ... Read more"
+  },
+  {
+    "Title": "My Experience With Claude Code After 2 Weeks of Adventures",
+    "Url": "https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/",
+    "Timestamp": "2025-07-18T09:02:21",
+    "Domain": "sankalp.bearblog.dev",
+    "Description": "<span style=\"color: #FF6B47;\">Hatching...</span>\n\n\nCursor, my beloved, started rate limiting shenanigans a few days back. For a good 2 weeks after June 16,..."
+  },
+  {
+    "Title": "Anthropic tightens usage limits for Claude Code – without telling users | TechCrunch",
+    "Url": "https://techcrunch.com/2025/07/17/anthropic-tightens-usage-limits-for-claude-code-without-telling-users/",
+    "Timestamp": "2025-07-18T04:02:18",
+    "Domain": "techcrunch.com",
+    "Description": "Claude Code users have been hit with unexpectedly restrictive usage limits. The problems, many of which have been aired on Claude Code’s GitHub page, seem to be concentrated among heavy users of the service, many of whom are on the $200-a-month Max plan. "
+  },
+  {
+    "Title": "How I Use Kagi",
+    "Url": "https://flamedfury.com/posts/how-i-use-kagi/",
+    "Timestamp": "2025-07-18T02:02:07",
+    "Domain": "flamedfury.com",
+    "Description": "My block list and some fun search lenses. Don&#39;t @ me that damn article about the guy whinging about Kagi."
+  }
+]

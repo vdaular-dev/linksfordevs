@@ -1,0 +1,268 @@
+[
+  {
+    "Title": "Savoring Complexity. Embracing the Infinite",
+    "Url": "https://konoplev.me/en/thoughts/post/savoring_complexity._embracing_the_infinite.html",
+    "Timestamp": "2023-05-08T21:02:38",
+    "Domain": "konoplev.me",
+    "Description": "As more opportunities arise in the world around us, it becomes increasingly complex. We often find ourselves so overwhelmed by the growing influx of information that we try to avoid complexity. At the same time, for many people, one of the most enjoyable experiences is when something completely incomprehensible just a second ago suddenly becomes clear. Drawing on scientific research, the concept of emptiness in Buddhism, and observations of the infinite diversity of the world, we will dive into the beauty of complexity using thought-provoking analogies. By examining its role in our lives and its influence on our understanding of the universe, we can better recognize the deep interconnectedness of the world around us. And I will try to write about complexity simply.\n"
+  },
+  {
+    "Title": "Removing the IIS Server Request Header from ASP.NET Core Apps (any version)",
+    "Url": "https://weblog.west-wind.com/posts/2023/May/08/Removing-IIS-Server-Request-Header-from-ASPNET-Core-Apps-any-version",
+    "Timestamp": "2023-05-08T21:02:37",
+    "Domain": "weblog.west-wind.com",
+    "Description": "ASP.NET Core applications that run on IIS as InProcess output an Server name for IIS into the HTTP headers. If you want to remove the server header, you'll find that the process for IIS is different than for the internally created Kestrel header and you can't use the same approach to remove the header as with Kestrel applications. In this post I discuss why the header behaves differently in IIS and how to remove it regardless of ASP.NET version."
+  },
+  {
+    "Title": "Accessibility for designer: where do I start? by Stéphanie Walter - UX Researcher & Designer.",
+    "Url": "https://stephaniewalter.design/blog/accessibility-resources-tools-articles-books-for-designer/",
+    "Timestamp": "2023-05-08T21:02:37",
+    "Domain": "stephaniewalter.design",
+    "Description": "A big list of resources, articles, blog posts, and checklists to help you, designers, get started on your “building more accessible products” journey."
+  },
+  {
+    "Title": "Scoped CSS is Back",
+    "Url": "https://keithjgrant.com/posts/2023/04/scoped-css-is-back/",
+    "Timestamp": "2023-05-08T21:02:37",
+    "Domain": "keithjgrant.com",
+    "Description": "Several years ago, I made a plea to save scoped CSS. One of the top features on my CSS wishlist was on the chopping block, and despite a pretty big push from th"
+  },
+  {
+    "Title": "Sami Lehtinen - cURL + Cloudflare = Information leak - But why",
+    "Url": "https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why",
+    "Timestamp": "2023-05-08T21:02:37",
+    "Domain": "www.sami-lehtinen.net",
+    "Description": "cURL + Cloudflare = Information leak - But why?\nTo be honest, I really don't know. But I'm pretty sure, it will be figured out.\nTL;DR - Don't enable Cloudflare Crawler Hints, if you don't want all of your URLs to be exposed to search engines.\nThe story\nI created a few unique URLs for my  specific"
+  },
+  {
+    "Title": "The first web browser",
+    "Url": "https://blog.marbu.eu/posts/2023-04-29-the-first-web-browser/",
+    "Timestamp": "2023-05-08T21:02:37",
+    "Domain": "blog.marbu.eu",
+    "Description": "When I was reading book How the Web was\nBorn\n(which describes the history of networking, user interfaces, hypertext and other\ncomputing concepts which the world wide web is based on), I realized how\ndifferent the first web browser as designed by Tim\nBerners-Lee was compared to\nboth browsers which came right after it as well as to modern ones we are all\nusing nowadays. In this post I will focus on development and use cases of\nearly web browsers explaining why they differ so much both between\neach other and modern browsers highlighting connections between the original\nvision and current reality."
+  },
+  {
+    "Title": "PV consumption optimization – the power of software defined devices",
+    "Url": "https://mycvs.org/2023/01/21/pv-consumption-optimization-the-power-of-software-defined-devices/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "mycvs.org",
+    "Description": "By utilizing software-defined virtual devices, one can optimize their PV consumption and ultimately reduce their energy consumption, leading to not only cost savings, but also a more sustainable and eco-friendly approach to their household operations."
+  },
+  {
+    "Title": "Figuring out how to use LLMs in production · Way Enough",
+    "Url": "https://www.danielcorin.com/posts/figuring-out-how-to-use-llms-in-production/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "www.danielcorin.com",
+    "Description": "The most popular language model use cases I’ve seen around have been"
+  },
+  {
+    "Title": "ChatGPT and Plagiarism",
+    "Url": "https://joecmarshall.com/posts/chatgpt-and-plagiarism/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "joecmarshall.com",
+    "Description": "Developer and Author from Austin, TX."
+  },
+  {
+    "Title": "Changes I Would Like To See in Game Development and Industry – Andrew McWatters",
+    "Url": "https://blog.andrewmcwatters.org/index.php/2023/05/08/changes-i-would-like-to-see-in-game-development-and-industry/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "blog.andrewmcwatters.org",
+    "Description": "I’m not confused by this from unit economics, but with high definition screens and more powerful graphics processing units, this should be easier than ever."
+  },
+  {
+    "Title": "In pursuit of a VISA | Yanina Bellini Saibene",
+    "Url": "https://yabellini.netlify.app/blog/2023-05-06-visa/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "yabellini.netlify.app",
+    "Description": ""
+  },
+  {
+    "Title": "The downsides of batch APIs",
+    "Url": "https://jensrantil.github.io/posts/downsides-of-batch-apis/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "jensrantil.github.io",
+    "Description": "Many small API calls are usually better than one large one."
+  },
+  {
+    "Title": "Creating a positive workplace community",
+    "Url": "https://matthewstrom.com/writing/culture-policy-enforcement/",
+    "Timestamp": "2023-05-08T21:02:36",
+    "Domain": "matthewstrom.com",
+    "Description": "How can you shape your interactions with your coworkers in a positive way?"
+  },
+  {
+    "Title": "On Custom-Width Integer Types",
+    "Url": "https://alic.dev/blog/custom-bitwidth.html",
+    "Timestamp": "2023-05-08T21:02:35",
+    "Domain": "alic.dev",
+    "Description": "Before we start: by \"custom-width integer types\" I'm referring to a \n\t\t\t\t\tlanguage feature that lets users specify integer types with any \n\t\t\t\t\tfixed number of bits (e.g. u7, \n\t\t\t\t\tu12) - instead of being provided a \n\t\t\t\t\thandful of integers that correspond to common xword sizes \n\t\t\t\t\t(e.g. u8,u16,\n\t\t\t\t\tu32,u64). \n\t\t\t\t\tThe first time I've encountered this idea was in the Zig language, \n\t\t\t\t\talthough it also exists in Clang & LLVM IR."
+  },
+  {
+    "Title": "Code Yellow: The Secret Weapon for Tackling Product Disarray",
+    "Url": "https://rosslazer.com/posts/code-yellow/",
+    "Timestamp": "2023-05-08T21:02:35",
+    "Domain": "rosslazer.com",
+    "Description": "A Potent Tool for Getting Things Done Fast"
+  },
+  {
+    "Title": "Planetary Scientist",
+    "Url": "https://xkcd.com/2773/",
+    "Timestamp": "2023-05-08T18:02:31",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Enforcing Software Architecture With Architecture Tests #shorts",
+    "Url": "https://youtube.com/watch?v=NVwUbIBVM4E",
+    "Timestamp": "2023-05-08T17:04:38",
+    "Domain": "youtube.com",
+    "Description": "Support me on Patreon to access the source code:https://www.patreon.com/milanjovanovicJoin my weekly .NET newsletter:https://www.milanjovanovic.techRead my B..."
+  },
+  {
+    "Title": "Control Visual Studio from an external application - Gérald Barré",
+    "Url": "https://www.meziantou.net/control-visual-studio-from-an-external-application.htm",
+    "Timestamp": "2023-05-08T15:02:37",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to interact with opened instances of Visual Studio from an external .NET application."
+  },
+  {
+    "Title": "What are the duck-typing requirements of _com_ptr_t? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230508-00/?p=108156",
+    "Timestamp": "2023-05-08T14:02:50",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "As long as you fulfill the contract, based on method names."
+  },
+  {
+    "Title": "2 MUST USE features for dotnet test debugging",
+    "Url": "https://youtube.com/watch?v=JTmIO21KmGw",
+    "Timestamp": "2023-05-08T13:02:05",
+    "Domain": "youtube.com",
+    "Description": "Save time & get the source code: https://www.patreon.com/CodeWithStuSubscribe to my DevOps Newsletter, Observed!: https://news.codewithstu.tv/In this video, ..."
+  },
+  {
+    "Title": "Working With Images Like a Pro in .NET",
+    "Url": "https://youtube.com/watch?v=aLozGWQa2Cc",
+    "Timestamp": "2023-05-08T13:02:05",
+    "Domain": "youtube.com",
+    "Description": "Enroll to \"Cloud Fundamentals: AWS Services for C# Developers\" for FREE:  https://bit.ly/3XKUBOHBecome a Patreon and get source code access: https://www.patr..."
+  },
+  {
+    "Title": "The Fastest Way To Work With Lists in C#! | .NET Tips 6",
+    "Url": "https://youtube.com/watch?v=QqNmUmmVH-Y",
+    "Timestamp": "2023-05-08T11:02:56",
+    "Domain": "youtube.com",
+    "Description": "Work with Lists in C# and .NET as fast as possible!"
+  },
+  {
+    "Title": "Introduction to Static Variables and Methods | C# Tutorials Blog",
+    "Url": "https://wellsb.com/csharp/learn/csharp-static-variables-methods",
+    "Timestamp": "2023-05-08T11:02:55",
+    "Domain": "wellsb.com",
+    "Description": "Learn about static variables and methods in C#. Understand best practices, common mistakes, and usage examples."
+  },
+  {
+    "Title": "SpaceTraders API",
+    "Url": "https://spacetraders.io/",
+    "Timestamp": "2023-05-08T10:01:48",
+    "Domain": "spacetraders.io",
+    "Description": "A unique multiplayer game built on a free Web API. The best sandbox platform to learn a new skill or apply your knowledge in a fun and meaningful way. Use any programming language with our RESTful API to control the most powerful fleet in universe."
+  },
+  {
+    "Title": "Secure Microservices Using JWT With Ocelot in .NET Core",
+    "Url": "https://code-maze.com/dotnetcore-secure-microservices-jwt-ocelot/",
+    "Timestamp": "2023-05-08T09:02:51",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to explore how to set up Ocelot API Gateway to use JWT authentication to secure our microservices."
+  },
+  {
+    "Title": "The Most Underrated C# Feature",
+    "Url": "https://youtube.com/watch?v=iwVzUxwEmnA",
+    "Timestamp": "2023-05-08T09:02:38",
+    "Domain": "youtube.com",
+    "Description": "Exception filtering is probably one of the most underrated C# features. It is however very powerful and it allows us to simply our code quite a lot. Also fol..."
+  },
+  {
+    "Title": "Using The Decorator Design Pattern in .NET",
+    "Url": "https://im5tu.io/article/2023/05/using-the-decorator-design-pattern-in-.net/",
+    "Timestamp": "2023-05-08T09:02:37",
+    "Domain": "im5tu.io",
+    "Description": "Discover how to use the Decorator design pattern in C#/.NET to add new behaviours to an object dynamically without changing its underlying structure. See how you can make your code more maintainable and extensible, and see step-by-step instructions for implementing it in C#. Find out how to use the Decorator pattern with dependency injection."
+  },
+  {
+    "Title": "Trust phishing resistant MFA for cross tenant users",
+    "Url": "https://damienbod.com/2023/05/08/trust-phishing-resistant-mfa-for-cross-tenant-users/",
+    "Timestamp": "2023-05-08T09:02:37",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to force phishing resistant authentication for external B2B users using a cross tenant trust. The external users are from a separate tenant and the local tenant needs to trus…"
+  },
+  {
+    "Title": "357: The Zune Is Back!",
+    "Url": "https://www.mergeconflict.fm/357",
+    "Timestamp": "2023-05-08T09:02:36",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "That is right! Everyone's favorite MP3 player is back! This time due to a collaboration with Guardians of the Galaxy, but it doesn't matter because Hanselman and others have found ways to revive it in 2023. We discuss the Zune software, UI stack, why we loved it, and why it may have been the best XAML to XAML."
+  },
+  {
+    "Title": "The Zune Is Back! | Merge Conflict ep. 357",
+    "Url": "https://youtube.com/watch?v=xKRyZdyVIAc",
+    "Timestamp": "2023-05-08T08:01:29",
+    "Domain": "youtube.com",
+    "Description": "That is right! Everyone's favorite MP3 player is back! This time due to a collaboration with Guardians of the Galaxy, but it doesn't matter because Hanselman..."
+  },
+  {
+    "Title": "#05 Awesome .NET MAUI - Material.Components.Maui",
+    "Url": "https://youtube.com/watch?v=uvxTuIBLk6M",
+    "Timestamp": "2023-05-08T08:01:29",
+    "Domain": "youtube.com",
+    "Description": "We reviewed different Open Source libraries and plugins from the community collected in https://github.com/jsuarezruiz/awesome-dotnet-mauiMDC-MAUI is a mater..."
+  },
+  {
+    "Title": "Entity Framework and ordered indexes",
+    "Url": "https://steven-giesel.com/blogPost/12c2926a-cf51-438a-af5a-5d160e9f3844",
+    "Timestamp": "2023-05-08T08:01:27",
+    "Domain": "steven-giesel.com",
+    "Description": "In Entity Framework 7, the team has added support for ordered indexes to the fluent API. In this blog post we will look at how to use this feature and what it means for your database.\n"
+  },
+  {
+    "Title": "April King — Understanding CORS",
+    "Url": "https://grayduck.mn/2016/11/29/understanding-cors/",
+    "Timestamp": "2023-05-08T08:01:27",
+    "Domain": "grayduck.mn",
+    "Description": "Understanding CORS"
+  },
+  {
+    "Title": "Professional Search with C# and Elastic (Part 3)",
+    "Url": "https://youtube.com/watch?v=SHeJN4zlv2c",
+    "Timestamp": "2023-05-08T07:02:25",
+    "Domain": "youtube.com",
+    "Description": "Hi everyone, in this series we use Elasticsearch and its amazing text searching capabilities. We take a closer look at its advantages over traditional databa..."
+  },
+  {
+    "Title": "Data Visualization in .NET with SandDance and Polyglot Notebooks",
+    "Url": "https://youtube.com/watch?v=QQmEtdbPXeE",
+    "Timestamp": "2023-05-08T04:02:12",
+    "Domain": "youtube.com",
+    "Description": "This video demos using SandDance for Data Visualization within a Polyglot Notebook in VS Code."
+  },
+  {
+    "Title": "Turnstile client-side API with IDs returning errors (.getResponse/.reset/.remove)",
+    "Url": "https://community.cloudflare.com/t/turnstile-client-side-api-with-ids-returning-errors-getresponse-reset-remove/493350",
+    "Timestamp": "2023-05-08T02:01:45",
+    "Domain": "community.cloudflare.com",
+    "Description": "Hello,  I’d like to file a bug report about Turnstile, not sure if this is the correct place.  Since April 5 at about 00:00 UTC I noticed that the client-side Turnstile API started to return errors.  The widget initializes correctly, solves, fires the success callback correctly with a token.  But from that point on, if I call any of the functions (with “ID” == to the id attribute of my   that contains the widget): turnstile.getResponse(“ID”), turnstile.reset(“ID”), turnstile.remove(“ID”)  I get ..."
+  },
+  {
+    "Title": "Getting Verified on Github (Step by Step)",
+    "Url": "https://youtube.com/watch?v=u9L5kDlU8rs",
+    "Timestamp": "2023-05-08T00:02:39",
+    "Domain": "youtube.com",
+    "Description": "In this session, I'm joined by Christo who's going to show us how to get your commits verified on github.Here's a link to generating new GPG keys:https://doc..."
+  },
+  {
+    "Title": "You don't need Scrum. You just need to do Kanban right.",
+    "Url": "https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html",
+    "Timestamp": "2023-05-08T00:02:37",
+    "Domain": "lucasfcosta.com",
+    "Description": "Why did you choose Scrum instead of Kanban? If you can’t answer that question, you didn’t choose Scrum. Someone else chose it for you."
+  }
+]

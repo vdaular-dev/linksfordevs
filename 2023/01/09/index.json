@@ -1,0 +1,492 @@
+[
+  {
+    "Title": "Azure Functions – Serverless Functions in Computing | Microsoft Azure",
+    "Url": "https://azure.microsoft.com/en-us/products/functions/",
+    "Timestamp": "2023-01-09T23:02:03",
+    "Domain": "azure.microsoft.com",
+    "Description": "Create event-driven, scalable serverless applications in .NET, Node.js, Python, Java, or PowerShell with the Azure Functions app— a serverless computing service."
+  },
+  {
+    "Title": ".NET MAUI Devs Hold 'Ask Me Anything' Community Standup -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/09/maui-ama.aspx",
+    "Timestamp": "2023-01-09T23:02:02",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "GitHub Copilot AI might write .NET MAUI UI code one day, but there are no plans for web targeting."
+  },
+  {
+    "Title": "Etymonline",
+    "Url": "https://xkcd.com/2722/",
+    "Timestamp": "2023-01-09T23:02:00",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "5 Tips to earn money with hive.blog -",
+    "Url": "https://www.oliverzander.com/5-tips-to-earn-money-with-hive-blog/",
+    "Timestamp": "2023-01-09T22:04:21",
+    "Domain": "www.oliverzander.com",
+    "Description": "Making money online can be a daunting task. With so many different sites, platforms, and strategies out there, it can be hard to know where to start."
+  },
+  {
+    "Title": "My Infrastructure as Code Rosetta Stone - Deploying the same web application on AWS ECS Fargate with CDK, Terraform and Pulumi",
+    "Url": "https://briancaffey.github.io/2023/01/07/i-deployed-the-same-containerized-serverless-django-app-with-aws-cdk-terraform-and-pulumi/",
+    "Timestamp": "2023-01-09T22:04:19",
+    "Domain": "briancaffey.github.io",
+    "Description": "I wrote three reusable infrastructure as code libraries to develop high-level abstractions for deploying containerized web apps on AWS ECS. This article will provide an overview of my experience working with CDK, Terraform and Pulumi and will cover how I use these libraries in automated infrastructure deployment pipelines using GitHub Actions"
+  },
+  {
+    "Title": "Curious & Obsessive Experimentation: Updating 2022",
+    "Url": "https://www.juandavidcampolargo.com/blog/annual-review-2022",
+    "Timestamp": "2023-01-09T22:04:19",
+    "Domain": "www.juandavidcampolargo.com",
+    "Description": "This year, I spent a lot of time doubting myself and not knowing what to do, but looking back, it was one of the best years of my life."
+  },
+  {
+    "Title": "How to Bounded Distrust",
+    "Url": "https://thezvi.wordpress.com/2023/01/09/how-to-bounded-distrust/",
+    "Timestamp": "2023-01-09T22:04:18",
+    "Domain": "thezvi.wordpress.com",
+    "Description": "Scott Alexander points out that the media, from The New York Times to Infowars, very rarely lies explicitly and directly. Alas, the media often misleads. It implies and insinuates that which is not…"
+  },
+  {
+    "Title": "Image Stacks and iPhone Racks - Building an Internet Scale Meme Search Engine",
+    "Url": "https://findthatmeme.com/blog/2023/01/08/image-stacks-and-iphone-racks-building-an-internet-scale-meme-search-engine-Qzrz7V6T.html",
+    "Timestamp": "2023-01-09T22:04:17",
+    "Domain": "findthatmeme.com",
+    "Description": "Anyone who’s spent any amount of time on the Internet has a good idea of how prevalent meme usage has become in online discourse. Finding new memes on the latest happening and sharing them with various friend groups to share in the humor is a long-enjoyed pastime of mine. Working in tech and in the InfoSec field has netted me an unsurprisingly “terminally-online” groups of friends who all do the same."
+  },
+  {
+    "Title": "Why parquet files are my preferred API for bulk open data",
+    "Url": "https://www.robinlinacre.com/parquet_api/",
+    "Timestamp": "2023-01-09T22:04:17",
+    "Domain": "www.robinlinacre.com",
+    "Description": "Open data should be served as CORS-enabled parquet files rather than using a custom API"
+  },
+  {
+    "Title": "The Science of Running Shoes",
+    "Url": "https://fellrnr.com/wiki/The_Science_of_Running_Shoes",
+    "Timestamp": "2023-01-09T22:04:17",
+    "Domain": "fellrnr.com",
+    "Description": "The design of most running shoes does not match the available science, and understanding this will help you know What to Look for in Running Shoes. The commonly held beliefs follow this logic: Runners get injured due to impact and excessive Pronation, running shoes reduce impact and pronation, and therefore running shoes reduce injury. Unfortunately, every part of this rationale seems to be flawed. There are other aspects of shoe design, such as the raise heel or arch support that have even less evidence to support them."
+  },
+  {
+    "Title": "Fighting Cognitive Biases in Software Engineering: A Guide to Rational Decision-Making - 𝖅𝕵",
+    "Url": "https://zouhairj.com/notes/fighting-cognitive-biases-in-software-engineering-a-guide-to-rational-decision-making/",
+    "Timestamp": "2023-01-09T22:04:17",
+    "Domain": "zouhairj.com",
+    "Description": "Cognitive bias is a term that refers to the systematic patterns of deviation from norm or rationality in judgment, whereby inferences about other people and situations may be drawn in an illogical fashion. These biases are often a result of the brain's attempt to simplify information processing. Cognitive biases can lead to perceptual distortion, inaccurate"
+  },
+  {
+    "Title": "On PBKDF2 iterations",
+    "Url": "https://neilmadden.blog/2023/01/09/on-pbkdf2-iterations/",
+    "Timestamp": "2023-01-09T22:04:16",
+    "Domain": "neilmadden.blog",
+    "Description": "There has been a lot of discussion recently around the LastPass breach, especially with regards to the number of PBKDF2 iterations applied to the master password to derive the vault encryption key.…"
+  },
+  {
+    "Title": "Marketing Advice From Open Source Founders",
+    "Url": "https://cannon.wtf/marketing-advice-from-open-source-founders/",
+    "Timestamp": "2023-01-09T22:04:16",
+    "Domain": "cannon.wtf",
+    "Description": "Face it, if you want to make your open-source project your day job, you’re going to have to put some effort into marketing it.\n\n"
+  },
+  {
+    "Title": "A Zig Diary",
+    "Url": "https://kihlander.net/post/a-zig-diary/",
+    "Timestamp": "2023-01-09T22:04:15",
+    "Domain": "kihlander.net",
+    "Description": "As it turned out I happened to help out with fixing a space to host a zig meetup here in Stockholm at the place where I work. However I haven’t written a single line of zig in my life… I felt that it might be worth doing something about that :D\nIf you don’t know, zig is a new systems programming language!\nI have found zig quite intriguing for a while now but I haven’t had the time to look into it so this sounded like an as good excuse as any!"
+  },
+  {
+    "Title": "Experience · Patrick Juchli",
+    "Url": "https://patrickjuchli.com/en/posts/skill/",
+    "Timestamp": "2023-01-09T22:04:15",
+    "Domain": "patrickjuchli.com",
+    "Description": "Experience is blind without empathy"
+  },
+  {
+    "Title": "How Microsoft attempted to make the Xbox 360 dashboard load faster",
+    "Url": "https://eaton-works.com/2023/01/09/how-microsoft-attempted-to-make-the-xbox-360-dashboard-load-faster/",
+    "Timestamp": "2023-01-09T22:04:15",
+    "Domain": "eaton-works.com",
+    "Description": "The October 2012 Xbox 360 dashboard update moved the dashboard from the nand flash to the hard-drive. Does it make a difference?"
+  },
+  {
+    "Title": "Top 4 Reasons Why You Should Participate in Hackathons",
+    "Url": "https://www.jeygeethan.com/articles/software-development/top-4-reasons-why-you-should-participate-in-hackathons",
+    "Timestamp": "2023-01-09T22:04:14",
+    "Domain": "www.jeygeethan.com",
+    "Description": "Hackathons help to keep an active engineering culture alive. Learn here why you should participate and may be try to win them"
+  },
+  {
+    "Title": "Surprising Consequences of macOS’s Environment Variable Sanitization",
+    "Url": "https://hynek.me/articles/macos-dyld-env/",
+    "Timestamp": "2023-01-09T22:04:14",
+    "Domain": "hynek.me",
+    "Description": "Or: Why does DYLD_LIBRARY_PATH keep disappearing!?"
+  },
+  {
+    "Title": "Why do home buyers look at price/sqft more than renters?",
+    "Url": "https://devonzuegel.com/post/why-do-home-buyers-look-at-price-sqft-more-than-renters",
+    "Timestamp": "2023-01-09T22:04:13",
+    "Domain": "devonzuegel.com",
+    "Description": "A question that's puzzled me for a while is why home buyers focus on price/sqft so much more than renters. I asked around for what other people thought and got some interesting answers, so I decided to write up my takeaways. I. Investments demand..."
+  },
+  {
+    "Title": "My Experience Donating Stem Cells | Pearl Leff",
+    "Url": "https://www.pearlleff.com/stem-cell-donation",
+    "Timestamp": "2023-01-09T22:04:13",
+    "Domain": "www.pearlleff.com",
+    "Description": "Join a bone marrow registry."
+  },
+  {
+    "Title": "Travel",
+    "Url": "https://seanbolton.dev/2023/01/08/travel/",
+    "Timestamp": "2023-01-09T22:04:13",
+    "Domain": "seanbolton.dev",
+    "Description": "Travel Tips and tricks I've learned over the years. Product recommendations, services to use and advice for traveling for less."
+  },
+  {
+    "Title": "Why I’m Choosing Shopify’s Developer Platform To Build My Next Side Project",
+    "Url": "https://shaneperreault.com/2023/01/08/why-im-choosing-shopifys-developer-platform-to-build-my-next-side-project/",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "shaneperreault.com",
+    "Description": "I’ve tinkered with Shopify App development here and there for the past few years. I’ve sadly never taken the plunge and actually released something onto the store, but one of my goals f…"
+  },
+  {
+    "Title": "I Tried JetBrains’ “New UI” and I Liked It – Levi's Blog",
+    "Url": "https://blog.levinotik.com/2023/01/09/i-tried-jetbrains-new-ui-and-i-liked-it/",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "blog.levinotik.com",
+    "Description": "People get very attached to the way a product they use currently works and feels. If someone proposes a change to the status quo, there will be pushback, even if the proposal would bring significant improvements."
+  },
+  {
+    "Title": "Viruses are bastards",
+    "Url": "https://mikka.md/txt/viruses-are-bastards/",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "mikka.md",
+    "Description": "Personal Website of Mikka Luster, just a medic."
+  },
+  {
+    "Title": "A life debugger",
+    "Url": "https://blog.liallen.me/a-life-debugger",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "blog.liallen.me",
+    "Description": "Debugging life problems like debugging programs"
+  },
+  {
+    "Title": "One week digital decluttering",
+    "Url": "https://blog.liallen.me/one-week-digital-decluttering",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "blog.liallen.me",
+    "Description": "An one week experiment of digital declutter process proposed by Cal Newport’s book Digital Minimalism"
+  },
+  {
+    "Title": "Zero Utils",
+    "Url": "https://ja3k.com/blog/zeroutils",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "ja3k.com",
+    "Description": "Von Neumann-Morgenstern's Utility Theorem and Harsayni's Aggregation Theorem are often given as good justifications for additive utility and utilitarianism in general but does it make sense?"
+  },
+  {
+    "Title": "Renato Athaydes",
+    "Url": "https://renato.athaydes.com/posts/unison-revolution.html",
+    "Timestamp": "2023-01-09T22:04:12",
+    "Domain": "renato.athaydes.com",
+    "Description": "Written on Sun, 08 Jan 2023 23:22:00 +0000"
+  },
+  {
+    "Title": "My Coffee Maker Just Makes Coffee",
+    "Url": "https://bt.ht/one-thing/",
+    "Timestamp": "2023-01-09T22:04:11",
+    "Domain": "bt.ht",
+    "Description": "2023-01-09"
+  },
+  {
+    "Title": "Observation or Recognition",
+    "Url": "https://macabe.info/observation-or-recognition/",
+    "Timestamp": "2023-01-09T22:04:11",
+    "Domain": "macabe.info",
+    "Description": "Just a way of saying I want to engage my thoughts more."
+  },
+  {
+    "Title": "SourceHut will blacklist the Go module mirror",
+    "Url": "https://sourcehut.org/blog/2023-01-09-gomodulemirror/",
+    "Timestamp": "2023-01-09T19:03:18",
+    "Domain": "sourcehut.org",
+    "Description": "sourcehut is a network of useful open source tools for software project maintainers and collaborators, including git repos, bug tracking, continuous integration, and mailing lists."
+  },
+  {
+    "Title": "Installing a Server Rack in my Home Office and adding a Ubiquiti Dream Machine/Switches for Dual WAN",
+    "Url": "https://youtube.com/watch?v=afRV3qYuSfg",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "This is the story of how I upgraded from an Amplifi, to a Ubiquiti Dream Machine, then finally moving to the UDM Pro line of equipment. A home rack is actual..."
+  },
+  {
+    "Title": "Intro to Graphics 14 - Textures on the GPU",
+    "Url": "https://youtube.com/watch?v=WULOKMqEGA0",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 16 - Shading Transformations",
+    "Url": "https://youtube.com/watch?v=Q_TYQvZS6WE",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Overwhelmed with Programming? Here's small things to help - Computer Stuff They Didn't Teach You #14",
+    "Url": "https://youtube.com/watch?v=5CmjW_8ief4",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Check out http://computerstufftheydidnteachyou.com/ for more and please subscribe.Overwhelmed with Programming? Is it your physical space or your digital spa..."
+  },
+  {
+    "Title": "Intro to Graphics 22 - Signal Processing",
+    "Url": "https://youtube.com/watch?v=UQl6ttthfXE",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 19 - Ray Tracing",
+    "Url": "https://youtube.com/watch?v=gGKup9tUSrU",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 13 - Textures",
+    "Url": "https://youtube.com/watch?v=Yjv6hc4Zqjk",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 24 - Physics Based Animation",
+    "Url": "https://youtube.com/watch?v=F9TP48yXs3s",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Effective Remote Teaching with intention and creativity - Computer Stuff They Didn't Teach You #16",
+    "Url": "https://youtube.com/watch?v=2LaTamAIinc",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Teaching at University in the middle of a pandemic with intention and Microsoft Teams with special guest Dr. David Kellermann from the University of New Sout..."
+  },
+  {
+    "Title": "Intro to Graphics 21 - Sampling",
+    "Url": "https://youtube.com/watch?v=qgdDu-K0pZ4",
+    "Timestamp": "2023-01-09T17:16:02",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 25 - Simulation in Graphics",
+    "Url": "https://youtube.com/watch?v=iZ1e_1tnLgI",
+    "Timestamp": "2023-01-09T17:16:01",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Intro to Graphics 20 - Shadows & Reflections",
+    "Url": "https://youtube.com/watch?v=l_iVdRbA_4s",
+    "Timestamp": "2023-01-09T17:16:01",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Basic Home Networking 101 - Computer Stuff They Didn't Teach You #17",
+    "Url": "https://youtube.com/watch?v=lp_CJba4RmU",
+    "Timestamp": "2023-01-09T17:16:01",
+    "Domain": "youtube.com",
+    "Description": "Basic Home Networking 101 - We will talk about IP addresses, general Networking, setting up Wi-Fi, DHCP, DNS, and general troubleshooting!"
+  },
+  {
+    "Title": "The Cloud and Cloud Architecture Explained - Computer Stuff They Didn't Teach You #15",
+    "Url": "https://youtube.com/watch?v=mJ_-VoEB6zM",
+    "Timestamp": "2023-01-09T17:16:00",
+    "Domain": "youtube.com",
+    "Description": "Most folks are just using the cloud as \"a virtual machine in the cloud.\" This is an easy but somewhat naïve perspective. Let's talk about persistent cloud st..."
+  },
+  {
+    "Title": "Intro to Graphics 15 - Shading",
+    "Url": "https://youtube.com/watch?v=Xg6KEmhqHCY",
+    "Timestamp": "2023-01-09T17:15:59",
+    "Domain": "youtube.com",
+    "Description": "Introduction to Computer Graphics.School of Computing, University of Utah.Full playlist: https://www.youtube.com/playlist?list=PLplnkTzzqsZTfYh4UbhLGpI5kGd5o..."
+  },
+  {
+    "Title": "Five shortcuts to boost your productivity",
+    "Url": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-editor-can-do-that/",
+    "Timestamp": "2023-01-09T17:01:49",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Taking full advantage of the Visual Studio editor features will make you a more productive developer. Any keyboard warrior will tell you that knowing the right shortcuts boosts that productivity even further. So, we’ve put together a short little video that demonstrates some useful shortcuts you can use while coding in Visual Studio."
+  },
+  {
+    "Title": "On .NET Live - F#:  Path to functional enlightenment",
+    "Url": "https://youtube.com/watch?v=E6RVX3oJNpo",
+    "Timestamp": "2023-01-09T16:02:23",
+    "Domain": "youtube.com",
+    "Description": "Are you interested in F# but don't quite see how it fits in your solutions? In this week's episode, Onur Gumus joins the panel to show how F# shines in scena..."
+  },
+  {
+    "Title": "Implementing Modern API Versioning in .NET",
+    "Url": "https://youtube.com/watch?v=8Asq7ymF1R8",
+    "Timestamp": "2023-01-09T15:02:11",
+    "Domain": "youtube.com",
+    "Description": "Join the NDC Conferences Giveaway: https://mailchi.mp/nickchapsas/ndcCheck out my courses: https://nickchapsas.comBecome a Patreon and get source code access..."
+  },
+  {
+    "Title": "RavenDB 6.0: Sharding webinar",
+    "Url": "https://ayende.com/blog/198785-B/ravendb-6-0-sharding-webinar?Key=4490c862-db91-4048-bd5e-00aabdeeadc7",
+    "Timestamp": "2023-01-09T15:02:10",
+    "Domain": "ayende.com",
+    "Description": "This Wednesday I’m going to be doing a webinar about RavenDB &amp; Sharding. This is going to be the flagship feature for RavenDB 6.0 and I’m really excited ..."
+  },
+  {
+    "Title": "On leading underscores and names reserved by the C and C++ languages",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685",
+    "Timestamp": "2023-01-09T15:02:10",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The rules laid out."
+  },
+  {
+    "Title": "Detecting breaking changes between two versions of a NuGet package at packaging time - Gérald Barré",
+    "Url": "https://www.meziantou.net/detecting-breaking-changes-between-two-versions-of-a-nuget-package-at-packaging.htm",
+    "Timestamp": "2023-01-09T15:02:09",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how .NET developers can detect breaking changes between two versions of a NuGet package at packaging time."
+  },
+  {
+    "Title": "Everything C# with Lead Designer Mads Torgersen | Keep Coding Podcast",
+    "Url": "https://youtube.com/watch?v=S7CAIahyUBs",
+    "Timestamp": "2023-01-09T13:03:12",
+    "Domain": "youtube.com",
+    "Description": "Support the stream: https://streamlabs.com/nick_chapsasCheck out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www...."
+  },
+  {
+    "Title": "Ibiyemi Abiodun | Reverse Engineering TikTok's VM Obfuscation (Part 2)",
+    "Url": "https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/",
+    "Timestamp": "2023-01-09T11:01:45",
+    "Domain": "ibiyemiabiodun.com",
+    "Description": "Jan 2022"
+  },
+  {
+    "Title": "How to Iterate Over JSON Objects in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-how-to-iterate-over-json-objects/",
+    "Timestamp": "2023-01-09T09:01:54",
+    "Domain": "code-maze.com",
+    "Description": "An overview of the different ways of iterating over JSON objects in C#. These include: Json.NET, System.Text.Json"
+  },
+  {
+    "Title": "340: CES, IoT, Security, & Roasting Coffee",
+    "Url": "https://www.mergeconflict.fm/340",
+    "Timestamp": "2023-01-09T09:01:54",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "It is time for lightning topics from YOU! We cover some of the latest happenings at CES including some new IoT things, some IoT security, and a bit of  coffee roasting :)"
+  },
+  {
+    "Title": "Implement the OAUTH 2.0 Token Exchange delegated flow between an Azure AD API and an API protected using OpenIddict",
+    "Url": "https://damienbod.com/2023/01/09/implement-the-oauth-2-0-token-exchange-delegated-flow-between-an-azure-ad-api-and-an-api-protected-using-openiddict/",
+    "Timestamp": "2023-01-09T09:01:53",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to implement the OAUTH 2.0 Token Exchange RFC 8693 delegated flow between two APIs, one using Azure AD to authorize the HTTP requests and a second API protected using OpenIdd…"
+  },
+  {
+    "Title": "Attercop: In-line shell command generations with natural language",
+    "Url": "https://yellhorn.com/attercop-in-line-shell-command-generations-with-natural-language.html",
+    "Timestamp": "2023-01-09T08:01:45",
+    "Domain": "yellhorn.com",
+    "Description": "Well what's this now? Hello! I'm so glad you asked. I'm going to kick this blog off by describing a tiny project I recently cooked up called Attercop. It's a simple shell program that takes a natural language prompt describing a desired outcome (ie."
+  },
+  {
+    "Title": "The Road to Out-of-Process ReSharper: Asynchronous Typing | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/01/05/resharper-out-of-process/",
+    "Timestamp": "2023-01-09T06:03:01",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Taking ReSharper out of process is a monumental undertaking. We covered the magnitude of this in a previous blog post and posted some updates on YouTrack along the way.  \n\n\n\nIn the simplest"
+  },
+  {
+    "Title": "Azure Functions 2022 recap and 2023 sneak peek",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-functions-2022-recap-and-2023-sneak-peek/ba-p/3710636",
+    "Timestamp": "2023-01-09T06:03:00",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Firstly wish you all a very happy new year. I sincerely hope that this year brings you much success. As I was doing a perspective of last year of the value that we added for Azure Functions customers - although we shipped 100’s of small improvements - I wanted to share with all of you a recap of all..."
+  },
+  {
+    "Title": "Protect and call an ASP.NET Core minimal Web API with Azure AD",
+    "Url": "https://markheath.net/post/secure-aspnet-core-web-api-azure-ad",
+    "Timestamp": "2023-01-09T06:03:00",
+    "Domain": "markheath.net",
+    "Description": "Mark Heath's Development Blog"
+  },
+  {
+    "Title": "Mocking dependencies in ASP.NET Core tests",
+    "Url": "https://cezarypiatek.github.io/post/mocking-dependencies-in-asp-net-core/",
+    "Timestamp": "2023-01-09T06:03:00",
+    "Domain": "cezarypiatek.github.io",
+    "Description": "How to replace services in DI container with mocks in tests using WebApplicationFactory."
+  },
+  {
+    "Title": "A developer’s guide to Zero Trust Networking - Architect.io",
+    "Url": "https://www.architect.io/blog/2023-01-05/zero-trust-networking/",
+    "Timestamp": "2023-01-09T06:02:59",
+    "Domain": "www.architect.io",
+    "Description": "Learn about Zero Trust Networking practices and how to implement them in your Kubernetes cluster."
+  },
+  {
+    "Title": "Bye bye Azure Functions, Hello Azure Container Apps: Conclusions | endjin",
+    "Url": "https://endjin.com/blog/2023/01/bye-bye-azure-functions-hello-azure-container-apps-part-6-conclusions",
+    "Timestamp": "2023-01-09T06:02:59",
+    "Domain": "endjin.com",
+    "Description": "In the sixth and final post we draw our conclusions about migrating an application from Azure Functions to Azure Container Apps."
+  },
+  {
+    "Title": "You should write React in F#",
+    "Url": "https://www.bekk.christmas/post/2022/20/you-should-write-react-in-fsharp",
+    "Timestamp": "2023-01-09T06:02:59",
+    "Domain": "www.bekk.christmas",
+    "Description": "6 min read"
+  },
+  {
+    "Title": "Azure DevOps Server - Switch from HTTP to HTTPS–Part 3",
+    "Url": "https://bartwullems.blogspot.com/2023/01/azure-devops-server-switch-from-http-to.html",
+    "Timestamp": "2023-01-09T06:02:59",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "With the release of Azure DevOps Server 2022 , I thought it would be a good time to finally make the switch to HTTPS for our internal Azure ..."
+  },
+  {
+    "Title": "Debugging Architects",
+    "Url": "https://architectelevator.com/transformation/debugging-architect/",
+    "Timestamp": "2023-01-09T06:02:58",
+    "Domain": "architectelevator.com",
+    "Description": "Whether architects must code or not has been much debated. Why not try debugging?"
+  },
+  {
+    "Title": "Observed No. 2 - Upgrade Your Terraform Modules",
+    "Url": "https://im5tu.io/article/2023/01/observed-no.-2-upgrade-your-terraform-modules/",
+    "Timestamp": "2023-01-09T03:03:34",
+    "Domain": "im5tu.io",
+    "Description": "Welcome to the second edition of Observed! your weekly newsletter, where I bring you a tip you can implement in your infrastructure across many categories like AWS, Terraform and General DevOps practices. This week's edition looks at a technique you can use to upgrade your Terraform modules."
+  },
+  {
+    "Title": "9 Practices that Haunt Developers Working with Scrum",
+    "Url": "https://ageling.substack.com/p/9-practices-that-haunt-developers-working-with-scrum-e5903b8500f0?r=18ih73",
+    "Timestamp": "2023-01-09T03:03:33",
+    "Domain": "ageling.substack.com",
+    "Description": "Why Scrum has a bad name"
+  },
+  {
+    "Title": "SDL2 common mistakes and how to avoid them",
+    "Url": "https://nullprogram.com/blog/2023/01/08/",
+    "Timestamp": "2023-01-09T02:01:48",
+    "Domain": "nullprogram.com",
+    "Description": "nullprogram.com/blog/2023/01/08/"
+  }
+]

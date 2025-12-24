@@ -1,0 +1,58 @@
+[
+  {
+    "Title": "Filippo Valsorda (@filippo.abyssdomain.expert)",
+    "Url": "https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b",
+    "Timestamp": "2024-03-30T23:01:03",
+    "Domain": "bsky.app",
+    "Description": "I'm watching some folks reverse engineer the xz backdoor, sharing some *preliminary* analysis with permission.\n\nThe hooked RSA_public_decrypt verifies a signature on the server's host key by a fixed Ed448 key, and then passes a payload to system().\n\nIt's RCE, not auth bypass, and gated/unreplayable.\n\n[contains quote post or other embedded content]"
+  },
+  {
+    "Title": "IrfanView - Official Homepage - One of the Most Popular Viewers Worldwide",
+    "Url": "https://www.irfanview.com/",
+    "Timestamp": "2024-03-30T23:01:03",
+    "Domain": "www.irfanview.com",
+    "Description": "IrfanView ... one of the most popular viewers worldwide."
+  },
+  {
+    "Title": "How GitHub monopolized code hosting",
+    "Url": "https://graphite.dev/blog/github-monopoly-on-code-hosting",
+    "Timestamp": "2024-03-30T17:01:00",
+    "Domain": "graphite.dev",
+    "Description": "How GitHub became a version control monopoly"
+  },
+  {
+    "Title": "Actionable Interview Tips – Dev Leader Weekly 37",
+    "Url": "https://www.devleader.ca/2024/03/30/actionable-interview-tips-dev-leader-weekly-37/",
+    "Timestamp": "2024-03-30T14:01:03",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I discuss the second of a 3-part series with a focus on actionable interview tips!"
+  },
+  {
+    "Title": "Urgent Alert: Stealthy Backdoor Discovered in XZ Compression Utilities - Cyber Kendra",
+    "Url": "https://www.cyberkendra.com/2024/03/major-linux-distributions-impacted-by.html",
+    "Timestamp": "2024-03-30T12:00:59",
+    "Domain": "www.cyberkendra.com",
+    "Description": "Critical Backdoor Found in xz Data Compression Tool"
+  },
+  {
+    "Title": "We are under DDoS attack and we do nothing",
+    "Url": "https://tableplus.com/blog/2024/03/how-we-deal-with-ddos.html",
+    "Timestamp": "2024-03-30T12:00:59",
+    "Domain": "tableplus.com",
+    "Description": "Modern, native SQL client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Amazon Redshift, MariaDB, CockroachDB, Vertica, and Redis."
+  },
+  {
+    "Title": "My list of challenging software projects some programmers should try",
+    "Url": "https://www.andreinc.net/2024/03/28/programming-projects-ideas",
+    "Timestamp": "2024-03-30T02:01:02",
+    "Domain": "www.andreinc.net",
+    "Description": "Unsolicited advice"
+  },
+  {
+    "Title": "Horizontally Scaling ASP.NET Core APIs With YARP Load Balancing",
+    "Url": "https://www.milanjovanovic.tech/blog/horizontally-scaling-aspnetcore-apis-with-yarp-load-balancing",
+    "Timestamp": "2024-03-30T01:00:34",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "When a single server reaches its limits, performance degrades, leading to slow response times, errors, or complete downtime. We'll dive into load balancing, why it matters, and how YARP simplifies the process for .NET applications."
+  }
+]

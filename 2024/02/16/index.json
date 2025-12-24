@@ -1,0 +1,520 @@
+[
+  {
+    "Title": "Install Unifi under TrueNAS | BSDbox.",
+    "Url": "https://bsdbox.de/en/artikel/unifi",
+    "Timestamp": "2024-02-16T23:05:08",
+    "Domain": "bsdbox.de",
+    "Description": "My Grav Site"
+  },
+  {
+    "Title": "The Risk of Dying Doing What We Love - Soaring - Chess in the Air",
+    "Url": "https://chessintheair.com/the-risk-of-dying-doing-what-we-love/",
+    "Timestamp": "2024-02-16T23:05:04",
+    "Domain": "chessintheair.com",
+    "Description": "Many of us participate in activities and sports that are at least somewhat dangerous.  However, most of us also do not have a full appreciation of how risky these activities really are, especially compared to other things that we could be doing instead. We just love our favorite pastime and facing up to its risks … Continue reading \"The Risk of Dying Doing What We Love\""
+  },
+  {
+    "Title": "Using Arduino Language Server With Neovim",
+    "Url": "https://ncona.com/2024/02/using-arduino-language-server-with-neovim",
+    "Timestamp": "2024-02-16T23:05:03",
+    "Domain": "ncona.com",
+    "Description": "In this post we’re going to configure neovim to work with Arduino Language Server.\n\nNvim Lsp Config\n\nNeovim comes with an LSP client included, nvim-lspconfig is a plugin that helps us configure the client so it can talk to LSP servers.\n\nThis configuration should be enough to get started with Arduino:\n\n1\n2\n3\n4\n5\n6\nreturn {\n  "
+  },
+  {
+    "Title": "Dependency solving in Nix",
+    "Url": "http://www.chriswarbo.net/projects/nixos/nix_dependencies.html",
+    "Timestamp": "2024-02-16T23:05:03",
+    "Domain": "www.chriswarbo.net",
+    "Description": "I’ve written a lot about the Nix build\nsystem over the past decade, but one complaint I keep coming across\nis that Nix requires dependency constraints to be “solved manually”."
+  },
+  {
+    "Title": "Version Interfaces, Not Implementations | Gavin D. Howard",
+    "Url": "https://gavinhoward.com/2024/02/version-interfaces-not-implementations/",
+    "Timestamp": "2024-02-16T23:05:02",
+    "Domain": "gavinhoward.com",
+    "Description": "In which I steal the thunder of a smart man and write a blog post for him showing that we should not version implementations, but interfaces."
+  },
+  {
+    "Title": "I Shouldn’t Have The Right to Disrupt Your Life",
+    "Url": "https://outlookzen.com/2024/02/16/i-shouldnt-have-the-right-to-disrupt-your-life/",
+    "Timestamp": "2024-02-16T23:05:02",
+    "Domain": "outlookzen.com",
+    "Description": "There are protests, and then there are protests. Some protests are peaceful non-disruptive demonstrations. They gather large groups of people in places where they cause minimal disruption to the li…"
+  },
+  {
+    "Title": "Visual vs text based programming, which is better?",
+    "Url": "https://successfulsoftware.net/2024/01/16/visual-vs-text-based-programming-which-is-better/",
+    "Timestamp": "2024-02-16T23:05:02",
+    "Domain": "successfulsoftware.net",
+    "Description": "Visual programming tools (also called ‘no-code’ or ‘low-code’) have been getting a lot of press recently. This, in turn, has generated a lot of discussion about whether visu…"
+  },
+  {
+    "Title": "Bisecting Regressions in Fedora Silverblue – Brno Hat",
+    "Url": "https://enblog.eischmann.cz/2024/02/15/bisecting-regressions-in-fedora-silverblue/",
+    "Timestamp": "2024-02-16T23:05:00",
+    "Domain": "enblog.eischmann.cz",
+    "Description": "I know that some blog posts on this topic have already been published, but nevertheless I have decided to share my real-life experience of bisecting regressions in Fedora Silverblue."
+  },
+  {
+    "Title": "(Michael Chinen) » Trying Out Stable Cascade Local Image Generation",
+    "Url": "https://michaelchinen.com/2024/02/16/trying-out-stable-cascade-local-image-generation-in-jupyter/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "michaelchinen.com",
+    "Description": "Stability AI released Stable Cascade on GitHub this week.  It’s very open, and allows not only inference on a number of tasks from text prompting to in-painting but also allows training and fine tuning.  It’s a three stage diffusion model, and they also provide pretrained weights you can download."
+  },
+  {
+    "Title": "How to feel when your startup feels easy",
+    "Url": "https://garethdmm.com/how-to-feel-when-your-startup-feels-easy-1c40b0b4210a",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "garethdmm.com",
+    "Description": "I did something hard once: I took my startup from zero to $1m in daily volume in 4 months. Something has bothered me ever since: it felt…"
+  },
+  {
+    "Title": "You won't scale",
+    "Url": "https://gomakethings.com/you-wont-scale/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "gomakethings.com",
+    "Description": "One of the more common myths I try to debunk around vanilla JavaScript and simpler approaches to web development is that they don’t scale (they do, actually).\nSo I really enjoyed this post on Mastodon from tante…\n You won’t grow to Google/Amazon scale. It’s fine. Just build a simple solution you can maintain.\n I really wish this was the norm in our industry.\nI’m thankfully starting to see the pendulum swing back away from overly complex solutions."
+  },
+  {
+    "Title": "Climbing out of the rabbit hole",
+    "Url": "https://ystrickler.com/2023/10/09/climbing-out-of-the-rabbit-hole/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "ystrickler.com",
+    "Description": "“Climbing out of the rabbit hole” is a private Google Doc circulated to friends sharing Metalabel’s reflections on the crypto scene. We gave permission to those friends to pass al…"
+  },
+  {
+    "Title": "EffVer: Version your code by the effort required to upgrade",
+    "Url": "https://jacobtomlinson.dev/effver/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "jacobtomlinson.dev",
+    "Description": "Version numbers are hard to get right. Semantic Versioning (SemVer) communicates backward compatibility via version numbers which often lead to a false sense of security and broken promises."
+  },
+  {
+    "Title": "Selecting hardware for a server",
+    "Url": "https://devraza.duckdns.org/blog/server-hardware-selection/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "devraza.duckdns.org",
+    "Description": "I see a lot of people worryingly mistaken about what a server needs (specifically, a home server). Some think that a bland and incredibly ignorant '20% budget for CPU, 30% for GPU, and the rest for the rest' plan for selecting hardware is good enough (at least, before choosing specific items) - you can't exactly be wrong when choosing hardware, but this is very, very far from right."
+  },
+  {
+    "Title": "The Selfish GPU",
+    "Url": "https://davidlaprade.github.io/the-selfish-gpu",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "davidlaprade.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "Protip: Notes in your zsh prompt",
+    "Url": "https://knezevic.ch/posts/zsh-notes/",
+    "Timestamp": "2024-02-16T23:04:59",
+    "Domain": "knezevic.ch",
+    "Description": "I tend to follow good practices. For example, commit certain things in a\nparticular git branch, that should be re-based of another branch that\ntracks the upstream. However, sometimes I just forget that, especially\nafter not working on that particular code base for a long time, and do a\ncommit in a wrong branch. Git is forgiving, but I wanted more, I wanted\nto avoid making that mistake in the first place."
+  },
+  {
+    "Title": "studiolanes blog",
+    "Url": "https://blog.studiolanes.com/posts/how-i-got-the-o1",
+    "Timestamp": "2024-02-16T23:04:58",
+    "Domain": "blog.studiolanes.com",
+    "Description": "Tech blog documenting interesting concepts and ideas in technology"
+  },
+  {
+    "Title": "Making my first open source contribution",
+    "Url": "https://jesusarroyo.com/2024/02/16/first-open-source-contribution.html",
+    "Timestamp": "2024-02-16T23:04:58",
+    "Domain": "jesusarroyo.com",
+    "Description": "Thoughts on open source contributions"
+  },
+  {
+    "Title": "Alternative BigInt ID identifiers for Rails",
+    "Url": "https://nts.strzibny.name/alternative-bigint-id-identifiers-rails/",
+    "Timestamp": "2024-02-16T23:04:58",
+    "Domain": "nts.strzibny.name",
+    "Description": "Rails comes with default BigInt IDs for your primary keys since version 5.1 (replacing regular Int) and offers UUID v4 as an supported alternative since version 6. But what are the alternatives and what to use in your next app?"
+  },
+  {
+    "Title": "E2EE on the web: is the web really that bad?",
+    "Url": "https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html",
+    "Timestamp": "2024-02-16T23:04:58",
+    "Domain": "emilymstark.com",
+    "Description": "In my last blog post, I discussed why people often view the web as a uniquely unsuited platform for implementing end-to-end encryption (E2EE). This view is that the web doesn’t offer a long-term trustable notion of what the application is. In that earlier post, I explored the idea of treating the application as untrustworthy and isolating sensitive data from it. In this post, I’m going to pontificate on whether web applications are truly less trustworthy than native applications, especially in an E2EE setting, and if so, how we should bridge the gap. The gap is narrower than it appears at first glance, especially with desktop applications. To close it, though, the devil is in the (UX- and deployment-related) details."
+  },
+  {
+    "Title": "The future of self-driving",
+    "Url": "https://herman.bearblog.dev/the-future-of-self-driving/",
+    "Timestamp": "2024-02-16T23:04:57",
+    "Domain": "herman.bearblog.dev",
+    "Description": "Modern self-driving technology still has a way to go before it becomes generally safe, and useful enough for broader adoption. While I do believe that at som..."
+  },
+  {
+    "Title": "How Working From Home Changed My Life",
+    "Url": "https://bitofbinary.com/how-working-from-home-changed-my-life/",
+    "Timestamp": "2024-02-16T22:03:02",
+    "Domain": "bitofbinary.com",
+    "Description": "In the profession of software development, the transition to remote work has been a significant shift for many, including myself. My journey into the world of working from home began well before COVID-19.\nIt started as an experiment with flexibility, gradually transforming from a couple of days a week to a full-time remote work setup. This change of course was because of my managers who showed a level of trust in me."
+  },
+  {
+    "Title": "Principal Component Analysis from Scratch Using Singular Value Decomposition with C# -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2024/02/16/pca-using-svd-for-ml.aspx",
+    "Timestamp": "2024-02-16T21:04:30",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Dr. James McCaffrey of Microsoft Research presents a full-code, step-by-step tutorial on a classical ML technique that transforms a dataset into one with fewer columns, useful for creating a graph of data that has more than two columns, for example."
+  },
+  {
+    "Title": "Weekly Update 387",
+    "Url": "https://youtube.com/watch?v=OKojaI8t4J4",
+    "Timestamp": "2024-02-16T21:04:29",
+    "Domain": "youtube.com",
+    "Description": "Sydney Speaking Events; Ransomware Payments Exceed $1B Annually; HIBP RDBMS Rollover; OpenAI Sora; Sponsored by Kolide"
+  },
+  {
+    "Title": "I Built a Tiny Tool for 1-on-1 Meeting Topics!",
+    "Url": "https://seankilleen.com/2024/02/a-tiny-tool-for-1-on-1s/",
+    "Timestamp": "2024-02-16T21:04:29",
+    "Domain": "seankilleen.com",
+    "Description": "Just a quick announcement: I built https://1on1.help as a tiny tool to help source questions & topics for one on one meetings."
+  },
+  {
+    "Title": "Get Started with the Uno Toolkit library | Uno Tech Bites",
+    "Url": "https://youtube.com/watch?v=sDmyWJaQp4Q",
+    "Timestamp": "2024-02-16T19:04:15",
+    "Domain": "youtube.com",
+    "Description": "Dive into the basics of the Uno Toolkit library in this video! We'll explore the key differences between Uno.Toolkit.WinUI and Uno.Toolkit.WinUI.Material giv..."
+  },
+  {
+    "Title": "German credit agency earns millions through unlawful customer manipulation",
+    "Url": "https://noyb.eu/en/german-credit-agency-earns-millions-through-unlawful-customer-manipulation",
+    "Timestamp": "2024-02-16T19:04:14",
+    "Domain": "noyb.eu",
+    "Description": "The comapny uses manipulative designs to prevent people from obtaining a free copy of their data in accordance with law"
+  },
+  {
+    "Title": "If you're just going to sit there doing nothing, at least do nothing correctly - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409",
+    "Timestamp": "2024-02-16T19:04:14",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "How to be inert."
+  },
+  {
+    "Title": "My Sixth Year as a Bootstrapped Founder",
+    "Url": "https://mtlynch.io/solo-developer-year-6/",
+    "Timestamp": "2024-02-16T18:04:38",
+    "Domain": "mtlynch.io",
+    "Description": "\n    Six years ago, I quit my job as a developer at Google to create my own self-funded software business. This is a review of my last year and what I've learned so far about bootstrapping software businesses.\n  "
+  },
+  {
+    "Title": "Implementing a Web API in .NET [Pt 3] | Back-end Web Development with .NET for Beginners",
+    "Url": "https://youtube.com/watch?v=FNLuegvqNak",
+    "Timestamp": "2024-02-16T17:04:45",
+    "Domain": "youtube.com",
+    "Description": "This video covers implementing a CRUD web API for managing tasks in a to-do list with minimal APIs in ASP.NET Core. In ASP.NET Core, Minimal APIs allow us to..."
+  },
+  {
+    "Title": "Azure OpenAI Models - Azure OpenAI Course for .NET Developers",
+    "Url": "https://youtube.com/watch?v=F8gZ8Y7wzNI",
+    "Timestamp": "2024-02-16T17:04:44",
+    "Domain": "youtube.com",
+    "Description": "In this video, I show you the different models available in Azure OpenAI."
+  },
+  {
+    "Title": "Add automatic route registration to your .NET MAUI app",
+    "Url": "https://blog.ewers-peters.de/add-automatic-route-registration-to-your-net-maui-app",
+    "Timestamp": "2024-02-16T17:04:41",
+    "Domain": "blog.ewers-peters.de",
+    "Description": "Learn how to add automatic route registration to your .NET MAUI app"
+  },
+  {
+    "Title": "Anatomy of an App",
+    "Url": "https://www.gonemobile.io/94",
+    "Timestamp": "2024-02-16T17:04:41",
+    "Domain": "www.gonemobile.io",
+    "Description": "How do we build mobile apps?  What are the various components and layers and pieces that we need to fit together to be successful in architecting a new app?"
+  },
+  {
+    "Title": "Video generation models as world simulators",
+    "Url": "https://openai.com/research/video-generation-models-as-world-simulators",
+    "Timestamp": "2024-02-16T15:08:35",
+    "Domain": "openai.com",
+    "Description": "We explore large-scale training of generative models on video data. Specifically, we train text-conditional diffusion models jointly on videos and images of variable durations, resolutions and aspect ratios. We leverage a transformer architecture that operates on spacetime patches of video and image latent codes. Our largest model, Sora, is capable of generating a minute of high fidelity video. Our results suggest that scaling video generation models is a promising path towards building general purpose simulators of the physical world."
+  },
+  {
+    "Title": "Code Maze Weekly #202 - Code Maze",
+    "Url": "https://code-maze.com/code-maze-weekly-202/",
+    "Timestamp": "2024-02-16T15:08:35",
+    "Domain": "code-maze.com",
+    "Description": "Issue #202 of the Code Maze weekly. Check out what’s new this week and enjoy the read. .NET and C# Top Picks 8 ways to set the URLs for an ASP.NET Core app [andrewlock.net] Did you know there are 8 different ways to set the URLs in ASP.NET Core? If you didn’t count the ones […]"
+  },
+  {
+    "Title": "How to Check if an Object Is a Number in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-how-to-check-if-an-object-is-a-number/",
+    "Timestamp": "2024-02-16T15:08:16",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will explore different methods how to check if an object is a number. C# is a strongly typed programming language."
+  },
+  {
+    "Title": ".NET MAUI on .NET 9",
+    "Url": "https://egvijayanand.in/2024/02/16/dotnet-maui-on-dotnet-9/",
+    "Timestamp": "2024-02-16T15:08:14",
+    "Domain": "egvijayanand.in",
+    "Description": "Last Tuesday, the first preview of .NET 9, an STS release, was released along with Visual Studio 2022 17.10 Preview 1.0 A detailed blog post describing the Vision for .NET 9 is here and what’…"
+  },
+  {
+    "Title": "Schedule AWS Lambda With Amazon EventBridge Scheduler: Powerful Serverless Scheduling! | Code With Mukesh",
+    "Url": "https://codewithmukesh.com/blog/schedule-aws-lambda-with-amazon-eventbridge-scheduler/",
+    "Timestamp": "2024-02-16T15:08:13",
+    "Domain": "codewithmukesh.com",
+    "Description": "Let's learn how to Schedule AWS Lambda with Amazon EventBridge Scheduler using rate and cron expressions. This is part of my ongoing .NET on AWS series, where"
+  },
+  {
+    "Title": "[ENG] Improving Your Code Coverage | Microsoft Visual Studio YouTube channel",
+    "Url": "https://www.code4it.dev/video/code-coverage-visualstudio-toolbox/",
+    "Timestamp": "2024-02-16T15:08:11",
+    "Domain": "www.code4it.dev",
+    "Description": ""
+  },
+  {
+    "Title": "NUnit in ASP.NET Core – What You Need To Get Started",
+    "Url": "https://www.devleader.ca/2024/02/16/nunit-in-asp-net-core-what-you-need-to-get-started/",
+    "Timestamp": "2024-02-16T15:08:10",
+    "Domain": "www.devleader.ca",
+    "Description": "Leverage NUNit in ASP.NET Core for crafting reliable code with confidence! Learn to create tests, use advanced techniques, and improve your code quality!"
+  },
+  {
+    "Title": "Decoding Startup Jargon: A Comprehensive Guide for Entrepreneurs",
+    "Url": "https://dev.to/this-is-learning/decoding-startup-jargon-a-comprehensive-guide-for-entrepreneurs-12im",
+    "Timestamp": "2024-02-16T15:08:10",
+    "Domain": "dev.to",
+    "Description": "In the fast-paced world of startups, communication is key. However, navigating through the sea of..."
+  },
+  {
+    "Title": "Think Python, 3rd edition — Think Python, 3rd edition",
+    "Url": "https://allendowney.github.io/ThinkPython/",
+    "Timestamp": "2024-02-16T15:08:09",
+    "Domain": "allendowney.github.io",
+    "Description": "Think Python is an introduction to Python for people who have never programmed before – or for people who have tried and had a hard time."
+  },
+  {
+    "Title": "Magika: AI powered fast and efficient file type identification",
+    "Url": "https://opensource.googleblog.com/2024/02/magika-ai-powered-fast-and-efficient-file-type-identification.html",
+    "Timestamp": "2024-02-16T07:04:19",
+    "Domain": "opensource.googleblog.com",
+    "Description": "Magika code and model are freely available starting today in Github under the Apache2 License. "
+  },
+  {
+    "Title": "Livestream - Chris Klug: Stop using Entity Framework as a DTO provider! | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2024/02/15/livestream-chris-klug-stop-using-entity-framework-as-a-dto-provider/",
+    "Timestamp": "2024-02-16T06:04:22",
+    "Domain": "blog.jetbrains.com",
+    "Description": "Chris Klug talks about \"Stop using Entity Framework as a DTO provider!\" in a JetBrains Livestream."
+  },
+  {
+    "Title": "Blazor Basics: HTML Forms and Capturing User Data",
+    "Url": "https://www.telerik.com/blogs/blazor-basics-html-forms-capturing-user-data",
+    "Timestamp": "2024-02-16T06:04:22",
+    "Domain": "www.telerik.com",
+    "Description": "Blazor provides fantastic helper components to make creating HTML forms simple so your web app can accept user data."
+  },
+  {
+    "Title": ".NET MAUI updates in .NET 9 Preview 1 · dotnet/maui · Discussion #20558",
+    "Url": "https://github.com/dotnet/maui/discussions/20558",
+    "Timestamp": "2024-02-16T06:04:21",
+    "Domain": "github.com",
+    "Description": "The team is continuing work on core fundamentals of the .NET MAUI SDK to improve overall product quality. This includes expanding test coverage, end to end scenario testing, and bug fixing. .NET MA..."
+  },
+  {
+    "Title": "Hello, MongoDB - Getting Started with Mongo and dotnet 8",
+    "Url": "https://ardalis.com/hello-mongodb-getting-started-mongo-dotnet/",
+    "Timestamp": "2024-02-16T06:04:21",
+    "Domain": "ardalis.com",
+    "Description": "Discover how to seamlessly integrate .NET Core applications with MongoDB using Docker. Learn to perform basic CRUD operations with MongoDB from within a .NET Core app, all through straightforward, easy-to-follow steps. Whether you're looking to enhance your current project or start a new one, this guide provides the essential knowledge to bridge .NET Core with MongoDB in a Dockerized environment."
+  },
+  {
+    "Title": "API Part 7 – Swagger Comments",
+    "Url": "https://jesseliberty.com/2024/02/15/api-part-7-swagger-comments/",
+    "Timestamp": "2024-02-16T06:04:21",
+    "Domain": "jesseliberty.com",
+    "Description": "In the previous post, I introduced Swagger and showed how to set up your project for Swagger. In this post I will show how to add Swagger comments to annotate your program."
+  },
+  {
+    "Title": "Changing TypeScript library functions while keeping backwards compatibility",
+    "Url": "https://michaelscodingspot.com/typescript-api-change/",
+    "Timestamp": "2024-02-16T06:04:21",
+    "Domain": "michaelscodingspot.com",
+    "Description": "Changing APIs is a common problem for library authors. There’s some class or function that you need to change, but you don’t want to break your library’s client code when they upgrade the library. In other words, the change needs to be backward compatible. Sure, there are cases when you’ll have to make breaking changes, but it’s usually better to avoid that. In the case of company-internal packages, when you can modify both the library and the app that consumes it, there are a few nifty patterns to deal with API changes."
+  },
+  {
+    "Title": "Download Ollama on Windows",
+    "Url": "https://ollama.com/download/windows",
+    "Timestamp": "2024-02-16T04:03:41",
+    "Domain": "ollama.com",
+    "Description": "Download Ollama on Windows"
+  },
+  {
+    "Title": "Louis The Child, MEMBA - I’m Not Giving Up (Official Visualizer)",
+    "Url": "https://youtube.com/watch?v=i93vajpvsEY",
+    "Timestamp": "2024-02-16T03:04:05",
+    "Domain": "youtube.com",
+    "Description": "Stream ‘I’m Not Giving Up (feat. MEMBA)’: https://louisthechild.lnk.to/ImNotGivingUp Spotify: https://louisthechild.lnk.to/ImNotGivingUp/Spotify Apple Music:..."
+  },
+  {
+    "Title": "How To Use Variables in CSS without SASS or LESS in 10 Minutes or Less",
+    "Url": "https://youtube.com/watch?v=NGWhwmYhUck",
+    "Timestamp": "2024-02-16T03:04:05",
+    "Domain": "youtube.com",
+    "Description": "CSS has changed dramatically in recent years, and most people don't seem to be aware of those changes. One of the changes in CSS3 is the ability to use varia..."
+  },
+  {
+    "Title": "Software Engineer in Remote, Denmark | GitHub, Inc.",
+    "Url": "https://www.github.careers/careers-home/jobs/2702?lang=en-us",
+    "Timestamp": "2024-02-16T02:04:03",
+    "Domain": "www.github.careers",
+    "Description": "GitHub Careers Home is hiring a Software Engineer in Remote, Denmark. Review all of the job details and apply today!"
+  },
+  {
+    "Title": "ASP.NET Community Standup - TagzApp - An app that discovers content on social media using hashtags",
+    "Url": "https://youtube.com/watch?v=WMdZPuMaGIM",
+    "Timestamp": "2024-02-16T01:05:24",
+    "Domain": "youtube.com",
+    "Description": "Jeff Fritz shows us how he built TagzApp, an app that discovers content on social media using hashtags.Links: https://www.theurlist.com/aspnet-standup-2024-0..."
+  },
+  {
+    "Title": "Making my bookshelves clickable | James' Coffee Blog",
+    "Url": "https://jamesg.blog/2024/02/14/clickable-bookshelves/",
+    "Timestamp": "2024-02-16T01:05:24",
+    "Domain": "jamesg.blog",
+    "Description": "You can make regions of an image clickable with a number of techniques, from overlyaing an SVG that contains onclick JavaScript handlers all the way to using image maps. I love this idea. I started to think about how I could create an image of my bookshelves that you could click to learn more about each book I am reading. This would be more engaging than a traditional list of text."
+  },
+  {
+    "Title": "No one cares about open-source, until …",
+    "Url": "https://blog.cryptpad.org/2024/02/15/no-one-cares-intil/",
+    "Timestamp": "2024-02-16T01:05:22",
+    "Domain": "blog.cryptpad.org",
+    "Description": "If you follow privacy news, you have probably heard that Skiff, an end-to-end encrypted productivity suite, announced that it has been acquired by Notion. We could not resist chiming in since Skiff was compared with CryptPad in the past."
+  },
+  {
+    "Title": "What is Developer Relations?",
+    "Url": "https://polar.sh/danielapassos/posts/what-is-developer-relations",
+    "Timestamp": "2024-02-16T01:05:22",
+    "Domain": "polar.sh",
+    "Description": "Developer Relations (DevRel) serves as the bridge between companies and developers, ensuring that both sides understand and benefit from each other's work. In the tech industry, building relationships with the developer community is essential. At its core, our work as DevRels builds and nurtures relationships with a dev-focused community, focusing on communication, support, and feedback loops between developers and the companies. Often times, DevRel teams wear many hats. They"
+  },
+  {
+    "Title": "How to Talk to Your Date versus Your Customer",
+    "Url": "https://jerry.wtf/posts/how-to-talk-to-your-date/",
+    "Timestamp": "2024-02-16T01:05:22",
+    "Domain": "jerry.wtf",
+    "Description": "\nIntroduction\nWhen I was younger, I thought dating was primarily about “impressing” someone enough that they would somehow find you attractive. After discussing this with my therapist, I now understand that my lack of self-confidence led me to feel like I had to “deceive” others to be liked because I didn’t like myself. Thus, inauthenticity.\nThat line of thinking and mindset led me to be single for a long time, and since then I’ve always paid attention to how I communicate and how I might communicate better. Coming from a nerdy, introverted, engineering background, it has taken me some time to reach my somewhat adequate level of socialization, but I’m enthusiastic to inform the reader that a psychologist friend recently dubbed me “almost certainly not autistic” 😎👍"
+  },
+  {
+    "Title": "The Generative Internet",
+    "Url": "https://joanfihu.com/2024/02/14/the-generative-internet/",
+    "Timestamp": "2024-02-16T01:05:21",
+    "Domain": "joanfihu.com",
+    "Description": "Generative AI is opening the doors to new products. It’s great to witness in real time how the Internet is evolving and to imagine what it might become in the coming years. Search, UI navigat…"
+  },
+  {
+    "Title": "varoa.net | Galo Navarro",
+    "Url": "https://varoa.net/2024/02/06/how-about-we-forget-the-concept-of-test-types.html",
+    "Timestamp": "2024-02-16T01:05:21",
+    "Domain": "varoa.net",
+    "Description": "I have found that the concept of test types (unit, integration, and soon) does more harm than good. People often give me odd looks when I saythis, so having ..."
+  },
+  {
+    "Title": "Keywords for Top 10 Languages",
+    "Url": "https://breadchris.com/thinkies/keywords-for-top-10-languages/",
+    "Timestamp": "2024-02-16T01:05:20",
+    "Domain": "breadchris.com",
+    "Description": "note: this does not include symbolic operators (*, ||, &&, etc.)\nPython: 35\nFalse, None, True, and, as, assert, async, await, break, class, continue, def, del, elif, else, except, finally, for, from, global, if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield Java: 52\nabstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do, double, else, enum, extends, final, finally, float, for, goto, if, implements, import, instanceof, int, interface, long, native, new, package, private, protected, public, return, short, static, strictfp, super, switch, synchronized, this, throw, throws, transient, try, void, volatile, while JavaScript: 50"
+  },
+  {
+    "Title": "Let CRS 4 be your valentine! – OWASP ModSecurity Core Rule Set",
+    "Url": "https://coreruleset.org/20240214/let-crs-4-be-your-valentine/",
+    "Timestamp": "2024-02-16T01:05:18",
+    "Domain": "coreruleset.org",
+    "Description": "What a Valentine’s Day present we have got for you: today, the Core Rule Set project is releasing CRS 4!"
+  },
+  {
+    "Title": "A beginners guide to fine tuning LLM using LoRA",
+    "Url": "https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/",
+    "Timestamp": "2024-02-16T01:05:18",
+    "Domain": "zohaib.me",
+    "Description": "Discover how to create a synthetic dataset, select the right metrics for evaluation, and fine-tune your model using LoRA for a narrow scenario. Plus, learn how to serve your model efficiently using LLaMa.cpp on Mac/Linux."
+  },
+  {
+    "Title": "Ocular IQ EV Chargers, or how not to leverage open source",
+    "Url": "https://benchilds.dev/blog/2024/02/ocular-iq-ev-chargers-or-how-not-to-leverage-open-source",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "benchilds.dev",
+    "Description": "Like most people in the IT industry, I love new tech. I would consider myself an early adopter on most things, unless I can see a clear reason not"
+  },
+  {
+    "Title": "Nerd Sniped - Solving for Jumbles and Letter Boxed",
+    "Url": "https://hlfshell.ai/posts/letter-puzzles/",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "hlfshell.ai",
+    "Description": "tl;dr I got nerd sniped by a problem and wrote a solver for it. You can find it here.\nThe Problem Apparently it’s impossible to determine if someone is capable of coding without asking them arbitrary puzzles that are in no way related to a realistic job. Resumes and previous job experience are so passe - puzzles are where it’s at.\nI received one of these coding challenges - given a jumble of letters, find all possible words you could spell."
+  },
+  {
+    "Title": "Safe hostnames and IP addresses for examples",
+    "Url": "https://sundry.jerryorr.com/2023/09/29/example-hostnames-ip-addresses",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "sundry.jerryorr.com",
+    "Description": "Various thoughts on programming and technology."
+  },
+  {
+    "Title": "Should I record my life?",
+    "Url": "https://matiroy.com/writings/Should-I-record-my-life.html",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "matiroy.com",
+    "Description": "\n    Say audio or video record most or all of my conversations\n    "
+  },
+  {
+    "Title": "How Poor Prompting Can Lead to Biased Results from LLM Applications",
+    "Url": "https://teddyrendahl.github.io/2024/02/12/bias_with_poor_prompting.html",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "teddyrendahl.github.io",
+    "Description": "Personal Portfolio for Teddy Rendahl"
+  },
+  {
+    "Title": "My Guide for Crafting Tech Talks in 2024",
+    "Url": "https://kelset.dev/blog/guide-craft-tech-talks-for-conferences-2024/",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "kelset.dev",
+    "Description": "My process and self-imposed rules for writing tech talks. Because it’s 2024, it’s also a GPT you can play with."
+  },
+  {
+    "Title": "Optimizing SQLite for servers",
+    "Url": "https://kerkour.com/sqlite-for-servers",
+    "Timestamp": "2024-02-16T01:05:17",
+    "Domain": "kerkour.com",
+    "Description": "SQLite is often misconceived as a &#34;toy database&#34;, only good for mobile applications and embedded systems because it&#39;s default configuration is optimized for embedded use cases, so most people trying it will encounter poor performances and the dreaded SQLITE_BUSY error. But what if I told you that by tuning a"
+  },
+  {
+    "Title": "Node People vs. Edge People",
+    "Url": "https://www.joshcsimmons.com/nodes-vs-edges",
+    "Timestamp": "2024-02-16T01:05:16",
+    "Domain": "www.joshcsimmons.com",
+    "Description": "Over the course of my study and career, I've come to realize that people largely\nfall into one of two groups of thinkers - they're either node people or edge\npeople. With most dichotomies, there is usually a huge amount of grey area. This\nis one of the rare cases where I've found that people fall pretty fully into one\ncategory or the other."
+  },
+  {
+    "Title": "Naming is Important",
+    "Url": "https://breadchris.com/blog/naming-is-important/",
+    "Timestamp": "2024-02-16T01:05:16",
+    "Domain": "breadchris.com",
+    "Description": "Why should we care so much about naming as developers? Code comes and goes, but language prevails. When a team is working on a project, they must develop a shared language on how things work, how they are structured, and how they are related. A database schema or language specification is such an important document that many developers will battle passionately over what columns are called. Mental models of how things go together are at odds when there are multiple words to describe the same thing."
+  },
+  {
+    "Title": "Chasing a bug in a SAT solver",
+    "Url": "https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/",
+    "Timestamp": "2024-02-16T01:05:16",
+    "Domain": "ochagavia.nl",
+    "Description": "Recently I spent two weeks collaborating with Prefix.dev to further develop resolvo, their SAT-based dependency solver. The main goal was to fix a nasty bug, where the solver unexpectedly panicked upon hitting code that was supposed to be unreachable. “That will make for a good war story!”, I thought, so I kept notes of my debugging process to serve as a basis for this article.\nI was being overly pessimistic, though, thinking it would take days to find the source of the bug… In reality it took me only a few hours, so there’s not much to tell about the chase itself."
+  },
+  {
+    "Title": "Computing Truth Tables in Org",
+    "Url": "http://yummymelon.com/devnull/computing-truth-tables-in-org.html",
+    "Timestamp": "2024-02-16T01:05:16",
+    "Domain": "yummymelon.com",
+    "Description": "Truth tables are great way to design and verify combinational logic. Useful as truth tables are, they however can be onerous to write: as the number of inputs grow, so does the size of table..."
+  }
+]

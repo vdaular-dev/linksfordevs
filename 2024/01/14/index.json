@@ -1,0 +1,345 @@
+[
+  {
+    "Title": "Implementing “nested inline markup” in reStructuredText and Sphinx",
+    "Url": "https://silverrainz.me/blog/sphinxnotes-comboroles.html",
+    "Timestamp": "2024-01-14T22:03:33",
+    "Domain": "silverrainz.me",
+    "Description": "Background: Sphinx is a famous documentation generator used by a lot of Open Source communities. It uses reStructuredText(hereafter referred to as rST) as markup language by default. Unlike Markdow..."
+  },
+  {
+    "Title": "One Supply Chain Attack to Rule Them All",
+    "Url": "https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/",
+    "Timestamp": "2024-01-14T22:03:12",
+    "Domain": "adnanthekhan.com",
+    "Description": "I successfully exploited a critical misconfiguration vulnerability in GitHub’s actions/runner images repository. Posing a risk if improperly configured, self-hosted runners acted as the entry…"
+  },
+  {
+    "Title": "Do Repeat Yourself",
+    "Url": "https://jordyvanvorselen.com/posts/do-repeat-yourself/",
+    "Timestamp": "2024-01-14T22:03:12",
+    "Domain": "jordyvanvorselen.com",
+    "Description": "One of the first things we teach aspiring software engineers is the principle Don't Repeat Yourself. While this is a very useful rule of thumb, it doesn't apply in every case. In this post we will discuss when it does not."
+  },
+  {
+    "Title": "HOWTO: Change your behavior",
+    "Url": "https://matt.might.net/articles/how-to-change-your-behavior/",
+    "Timestamp": "2024-01-14T22:03:11",
+    "Domain": "matt.might.net",
+    "Description": "For the purposes of this article, it’s important to distinguish between the short term and the long term when it comes to behavior."
+  },
+  {
+    "Title": "Notes on Differential Technological Development",
+    "Url": "https://michaelnotebook.com/dtd/index.html",
+    "Timestamp": "2024-01-14T22:03:11",
+    "Domain": "michaelnotebook.com",
+    "Description": ""
+  },
+  {
+    "Title": "Request for a Startup: Drilling Tech for Heat Pumps",
+    "Url": "https://jacek.migdal.pl/2024/01/14/request-for-startup-drilling-tech.html",
+    "Timestamp": "2024-01-14T22:03:10",
+    "Domain": "jacek.migdal.pl",
+    "Description": "Debug, simplify and execute."
+  },
+  {
+    "Title": "WebSockets for dummies | The Sloth Blog",
+    "Url": "https://thesloth.me/posts/7/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "thesloth.me",
+    "Description": "A simple write up on what is WebSocket protocol and how does it work.\nWebSocket protocol enables two way real-time communication between a client and a server over a TCP connection. One well known example where WebSockets are beneficial is a chat applications. By implementing chat over WebSocket protocol we get a live view of a chat window without having to re-load the browser page int order to fetch the new messages."
+  },
+  {
+    "Title": "Redeployment Part Two – brr",
+    "Url": "https://brr.fyi/posts/redeployment-part-two",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "brr.fyi",
+    "Description": "Station opening, and my flight out of Pole!"
+  },
+  {
+    "Title": "When am I ",
+    "Url": "https://ognjen.io/when-am-i-allowed-to-quit/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "ognjen.io",
+    "Description": "There comes a point at which continuing with your startup is just falling prey to the sunk cost fallacy. That point is about 4 years in."
+  },
+  {
+    "Title": "Code Reviews",
+    "Url": "https://vadimkravcenko.com/shorts/code-reviews/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "vadimkravcenko.com",
+    "Description": "Let me tell you a story. I worked with a client in the early days of my career. It was a social media sentiment analysis platform when Twitter was still"
+  },
+  {
+    "Title": "Between Art and Algorithms",
+    "Url": "https://alexkondov.com/between-writing-and-programming/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "alexkondov.com",
+    "Description": "I was more of a humanities person in high school. Didn’t do great in math and informatics, loved history and philosophy. So most people were surprised when I…"
+  },
+  {
+    "Title": "Chat is poor UX for most users.",
+    "Url": "https://www.elliotcsmith.com/chat-is-poor-ux-for-most-users/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "www.elliotcsmith.com",
+    "Description": "Large Language Models (LLMs) like ChatGPT have rapidly become commonplace tools. They’re the most transparent AI application I can think of, users know they’re interacting with an AI. Despite that, I see chat as a complex and difficult user experience for most applications. It’s similar to interacting"
+  },
+  {
+    "Title": "In search of a Search Engine, beyond Elasticsearch: Introducing Zinc",
+    "Url": "https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "prabhatsharma.in",
+    "Description": "Prabhat Sharma's blog on AWS, Cloud, ML, AI and technology"
+  },
+  {
+    "Title": "3.5+ Years of Coding on E-Ink",
+    "Url": "https://www.tomoliver.net/posts/coding-on-eink",
+    "Timestamp": "2024-01-14T22:03:09",
+    "Domain": "www.tomoliver.net",
+    "Description": "Tips I learned programming on e-ink."
+  },
+  {
+    "Title": "Mason Secky-Koebel",
+    "Url": "https://www.masonseckykoebel.com/posts/visions-and-burnout",
+    "Timestamp": "2024-01-14T22:03:08",
+    "Domain": "www.masonseckykoebel.com",
+    "Description": "Mason Secky-Koebel's website"
+  },
+  {
+    "Title": "Unfork with ArgoCD",
+    "Url": "https://alezkv.pro/blog/unfork-with-argocd/",
+    "Timestamp": "2024-01-14T22:03:08",
+    "Domain": "alezkv.pro",
+    "Description": "Post provides strategies for customizing third-party software in Kubernetes without maintaining a fork, focusing on ArgoCD integration and management techniques"
+  },
+  {
+    "Title": "A tech lead self-assessment - Nick Scialli",
+    "Url": "https://nick.scialli.me/blog/a-tech-lead-self-assessment/",
+    "Timestamp": "2024-01-14T22:03:08",
+    "Domain": "nick.scialli.me",
+    "Description": "I created the following tech lead self-assessment to give myself an honest grade of where I stand."
+  },
+  {
+    "Title": "Tools and Toys",
+    "Url": "https://davidshi.xyz/tools-and-toys",
+    "Timestamp": "2024-01-14T22:03:08",
+    "Domain": "davidshi.xyz",
+    "Description": "How products transcend their categorization"
+  },
+  {
+    "Title": "Where is all of the fediverse?\n",
+    "Url": "https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances",
+    "Timestamp": "2024-01-14T22:03:07",
+    "Domain": "blog.benjojo.co.uk",
+    "Description": ""
+  },
+  {
+    "Title": "HttpClient: Dynamically Add HttpMessageHandlers",
+    "Url": "https://jaliyaudagedara.blogspot.com/2024/01/httpclient-dynamically-add.html",
+    "Timestamp": "2024-01-14T18:03:33",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, .NET Core, ASP.NET, ASP.NET Core, Visual Studio, Jaliya Udagedara"
+  },
+  {
+    "Title": "GitHub - every-day-things/citadel: Manage your ebook library without frustrations. Calibre compatible.",
+    "Url": "https://github.com/every-day-things/citadel",
+    "Timestamp": "2024-01-14T18:03:13",
+    "Domain": "github.com",
+    "Description": "Manage your ebook library without frustrations. Calibre compatible. - GitHub - every-day-things/citadel: Manage your ebook library without frustrations. Calibre compatible."
+  },
+  {
+    "Title": "Implementing Caching using Decorator Pattern in ASP.NET WEB API",
+    "Url": "https://ilovedotnet.org/blogs/implementing-caching-using-decorator-pattern-in-asp-net-webapi/",
+    "Timestamp": "2024-01-14T17:03:47",
+    "Domain": "ilovedotnet.org",
+    "Description": "In this post I will teach how to implement caching using decorator pattern in ASP.NET Web API. All with live working demo."
+  },
+  {
+    "Title": "We're building a better PostHog community by closing our public Slack - PostHog",
+    "Url": "https://posthog.com/blog/slack-closure",
+    "Timestamp": "2024-01-14T16:03:01",
+    "Domain": "posthog.com",
+    "Description": "One of the great things about being open source is that we’ve grown a vibrant community around the project. Since launch we’ve accepted code from over…"
+  },
+  {
+    "Title": "Keep Your Email out of Recipients’ Spam Folders",
+    "Url": "https://dev.to/this-is-learning/keep-your-email-out-of-recipients-spam-folders-177b",
+    "Timestamp": "2024-01-14T16:03:00",
+    "Domain": "dev.to",
+    "Description": "Spam is a common problem for email users and administrators. Spam messages can clutter your inbox,..."
+  },
+  {
+    "Title": "School Mgmt App | Microservices With .NET Aspire & Blazor SSR | Part 5",
+    "Url": "https://youtube.com/watch?v=PuXXengQQKU",
+    "Timestamp": "2024-01-14T15:03:08",
+    "Domain": "youtube.com",
+    "Description": "Let's build a microservices app, orchestrated with .NET Aspire and using Blazor SSR on the front end. #dotnet JOIN as a member to gain access to the source c..."
+  },
+  {
+    "Title": "How one line of code caused a $60 million loss",
+    "Url": "https://read.engineerscodex.com/p/how-one-line-of-code-caused-a-60",
+    "Timestamp": "2024-01-14T15:03:07",
+    "Domain": "read.engineerscodex.com",
+    "Description": "60,000 people lost full phone service, half of AT&T's network was down, and 500 airline flights were delayed"
+  },
+  {
+    "Title": "The Best Way To Add Health Checks in ASP.NET Core",
+    "Url": "https://youtube.com/watch?v=DUpbktC5kTI",
+    "Timestamp": "2024-01-14T14:03:05",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Towards Modern Development of Cloud Applications | Proceedings of the 19th Workshop on Hot Topics in Operating Systems",
+    "Url": "https://dl.acm.org/doi/10.1145/3593856.3595909",
+    "Timestamp": "2024-01-14T13:02:51",
+    "Domain": "dl.acm.org",
+    "Description": "ABSTRACT"
+  },
+  {
+    "Title": "asmBB Forum \"What is AsmBB?\"",
+    "Url": "https://asmbb.org/what-is-asmbb.1/",
+    "Timestamp": "2024-01-14T13:02:49",
+    "Domain": "asmbb.org",
+    "Description": "AsmBB is fast and lightweight web forum engine"
+  },
+  {
+    "Title": "#!/usr/bin/env docker run",
+    "Url": "https://gist.github.com/adtac/595b5823ef73b329167b815757bbce9f",
+    "Timestamp": "2024-01-14T12:03:17",
+    "Domain": "gist.github.com",
+    "Description": "#!/usr/bin/env docker run. GitHub Gist: instantly share code, notes, and snippets."
+  },
+  {
+    "Title": "Dependency Injection via Primary Constructors #dotnet #aspnetcore",
+    "Url": "https://youtube.com/watch?v=1Q4aoiUdAFo",
+    "Timestamp": "2024-01-14T11:02:35",
+    "Domain": "youtube.com",
+    "Description": "Here's how we can use primary constructors in c# 12 for dependency injection in an #aspnetcore app. Join this channel to get source code access and other per..."
+  },
+  {
+    "Title": "Your washing machine could be sending 3.7 GB of data a day — LG washing machine owner disconnected his device from Wi-Fi after noticing excessive outgoing daily data traffic",
+    "Url": "https://www.tomshardware.com/networking/your-washing-machine-could-be-sending-37-gb-of-data-a-day",
+    "Timestamp": "2024-01-14T09:03:33",
+    "Domain": "www.tomshardware.com",
+    "Description": "The owner was puzzled why a clothes washer would need so much data."
+  },
+  {
+    "Title": "Building a fully local LLM voice assistant to control my smart home",
+    "Url": "https://johnthenerd.com/blog/local-llm-assistant/",
+    "Timestamp": "2024-01-14T03:03:26",
+    "Domain": "johnthenerd.com",
+    "Description": "I’ve had my days with Siri and Google Assistant. While they have the ability to control your devices, they cannot be customized and inherently rely on cloud services. In hopes of learning something new and having something cool I could use in my life, I decided I want better.\nThe premises are simple:\nI want my new assistant to be sassy and sarcastic.\nI want everything running local. No exceptions. There is no reason for my coffee machine downstairs to talk to a server on the other side of the country."
+  },
+  {
+    "Title": "Wayland really breaks things… Just for now? – Ximions Blog",
+    "Url": "https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html",
+    "Timestamp": "2024-01-14T01:04:08",
+    "Domain": "blog.tenstral.net",
+    "Description": "This post is in part a response to an aspect of Nate’s post “Does Wayland really break everything?“, but also my reflection on discussing Wayland protocol additions, a unique pleasure that I have been involved with for the past months1."
+  },
+  {
+    "Title": "Time is Limited",
+    "Url": "https://aminst.github.io/2024-01-13-time-is-limited/",
+    "Timestamp": "2024-01-14T00:04:28",
+    "Domain": "aminst.github.io",
+    "Description": "It's sad to accept it, but time is limited."
+  },
+  {
+    "Title": "Publishing ESLint rules to npm using pnpm monorepo",
+    "Url": "https://flashblaze.xyz/posts/publishing-eslint-rules",
+    "Timestamp": "2024-01-14T00:04:28",
+    "Domain": "flashblaze.xyz",
+    "Description": "Walkthrough on how to publish ESLint rules to npm using pnpm monorepo so that they can be reused in multiple projects"
+  },
+  {
+    "Title": "Worry is irreverent to outcome",
+    "Url": "https://techleader.pro/a/629-Worry-is-irreverent-to-outcome",
+    "Timestamp": "2024-01-14T00:04:27",
+    "Domain": "techleader.pro",
+    "Description": "Worrying about outcomes does not influence those outcomes."
+  },
+  {
+    "Title": "Exploring Podman: A More Secure Docker Alternative | Better Stack Community",
+    "Url": "https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/",
+    "Timestamp": "2024-01-14T00:04:27",
+    "Domain": "betterstack.com",
+    "Description": "This article explore Podman's features and benefits, comparing it to Docker and describing a step-by-step migration guide"
+  },
+  {
+    "Title": "Compressing Text into Images",
+    "Url": "https://shkspr.mobi/blog/2024/01/compressing-text-into-images/",
+    "Timestamp": "2024-01-14T00:04:27",
+    "Domain": "shkspr.mobi",
+    "Description": "(This is, I think, a silly idea. But sometimes the silliest things lead to unexpected results.) The text of Shakespeare's Romeo and Juliet is about 146,000 characters long. Thanks to the English language, each character can be represented by a single byte. So a plain Unicode text file of the play is about 142KB. In [...]"
+  },
+  {
+    "Title": "The Slow Frontier of Genetic Choice",
+    "Url": "https://kk.org/thetechnium/the-slow-frontier-of-genetic-choice/",
+    "Timestamp": "2024-01-14T00:04:26",
+    "Domain": "kk.org",
+    "Description": "Neither you nor I have consented to the genes we inherited. Our general makeup was dictated to us. I had no say whatever in my allergies, my short stature, my baldness, my tone deafness, nor in my general optimistic bent, … Continue reading →"
+  },
+  {
+    "Title": "Storing WebAuthn challenge values without a database in Elixir",
+    "Url": "https://matteing.com/posts/storing-challenge-nonces-passkeys",
+    "Timestamp": "2024-01-14T00:04:26",
+    "Domain": "matteing.com",
+    "Description": "A database solution felt heavyweight. A stateless token solution compromised on security."
+  },
+  {
+    "Title": "FreeBSD Desktop – Part 29 – Configuration – Audio Improvements",
+    "Url": "https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/",
+    "Timestamp": "2024-01-14T00:04:26",
+    "Domain": "vermaden.wordpress.com",
+    "Description": "I recently added some improvements to my audio configs and settings on FreeBSD desktop. Each of these ideas is nothing special or groundbreaking – but they all improve usability of daily Free…"
+  },
+  {
+    "Title": "A Beautifully Productive Terminal Experience",
+    "Url": "https://www.mikebuss.com/posts/a-beautiful-productive-terminal-experience",
+    "Timestamp": "2024-01-14T00:04:26",
+    "Domain": "www.mikebuss.com",
+    "Description": "I highlight the benefits of using the command line for developers and suggest a combination of iTerm 2, Zsh, Prezto, Tmux, and Tmuxinator for a productive setup. I also discuss the features and advantages of each tool, as well as how they can be combined to improve development workflows."
+  },
+  {
+    "Title": "ArchiveBox is Super Cool",
+    "Url": "https://mtlynch.io/notes/archivebox/",
+    "Timestamp": "2024-01-14T00:04:26",
+    "Domain": "mtlynch.io",
+    "Description": "\n    \n      Have you ever used archive.org’s Internet Wayback Machine? It’s a free tool that’s been archiving the web since 1996. So, if you want to see what Google looked like in 1999, they’ve got it.\nInternet Archive capture of Google from April 22, 1999\nArchiveBox is like your own, personal Internet Wayback Machine. It’s free and open-source, and you can use it to archive most websites.\nArchiveBox is a free, open-source tool that lets you archive websites locally.\n    \n  "
+  },
+  {
+    "Title": "Listening with LLM",
+    "Url": "https://paul.mou.dev/posts/2023-12-31-listening-with-llm/",
+    "Timestamp": "2024-01-14T00:04:25",
+    "Domain": "paul.mou.dev",
+    "Description": "Overview This is the first part of many posts I am writing to consolidate learnings on how to finetune Large Language Models (LLMs) to process audio, with the eventual goal of being able to build and host a LLM able to describe human voices."
+  },
+  {
+    "Title": "Introducing My Knowledge Lakehouse",
+    "Url": "https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html",
+    "Timestamp": "2024-01-14T00:04:25",
+    "Domain": "tabokie.github.io",
+    "Description": "1 There’re only three entities: log, list, structure."
+  },
+  {
+    "Title": "I once almost burned out",
+    "Url": "https://jensrantil.github.io/posts/burnout/",
+    "Timestamp": "2024-01-14T00:04:24",
+    "Domain": "jensrantil.github.io",
+    "Description": "When I was close to burnout."
+  },
+  {
+    "Title": "LukeW | The More Features You Add...",
+    "Url": "https://www.lukew.com/ff/entry.asp?2046=",
+    "Timestamp": "2024-01-14T00:04:24",
+    "Domain": "www.lukew.com",
+    "Description": "As Dave Fore once said: \"features are the currency of software development and marketing.\" Spend time in any software company and you'll begin to echo that sent..."
+  },
+  {
+    "Title": "A Cloudflare Workers primer: hello world",
+    "Url": "https://xenodium.com/a-cloudflare-workers-primer-hello-world/",
+    "Timestamp": "2024-01-14T00:04:24",
+    "Domain": "xenodium.com",
+    "Description": "The vast majority of my software development experience has been centered around client-side software. The few times I've needed a server-side component for a hobby project, I've historically provisioned a linux virtual machine somewhere and ran whatever services I needed. I have to admit though, I don't enjoy the provisioning process, configuration, maintenance, upgrades, database admin, etc. which take time away from the part I enjoy more: building and experimenting with features."
+  }
+]

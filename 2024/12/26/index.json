@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "Sub-pixel Distance Transform",
+    "Url": "https://acko.net/blog/subpixel-distance-transform/",
+    "Timestamp": "2024-12-26T23:01:55",
+    "Domain": "acko.net",
+    "Description": "High quality font rendering for WebGPU"
+  },
+  {
+    "Title": "String Matching. Beginning",
+    "Url": "https://andgein.ru/courses/strings/",
+    "Timestamp": "2024-12-26T23:01:50",
+    "Domain": "andgein.ru",
+    "Description": "Andrey Gein / 2024"
+  },
+  {
+    "Title": "Fine-tune classifier with ModernBERT in 2025",
+    "Url": "https://www.philschmid.de/fine-tune-modern-bert-in-2025",
+    "Timestamp": "2024-12-26T23:01:50",
+    "Domain": "www.philschmid.de",
+    "Description": "Modern updated guide on how to fine-tune BERT models for classification tasks in 2025."
+  },
+  {
+    "Title": "Everything I Know About Driving in NYC – Things We Make",
+    "Url": "https://thingswemake.com/everything-i-know-about-driving-in-nyc/",
+    "Timestamp": "2024-12-26T23:01:50",
+    "Domain": "thingswemake.com",
+    "Description": "It’s Christmas here in New York, my favorite day of the year. It is the one day I get to enjoy the most favorable driving conditions this city has to offer. The streets are mine, and mine alone. Free legal parking as far as the eye can see, paired with zero traffic: my own personal Toyotathon!"
+  },
+  {
+    "Title": "My horrible career — Bitfield Consulting",
+    "Url": "https://bitfieldconsulting.com/posts/my-horrible-career",
+    "Timestamp": "2024-12-26T23:01:50",
+    "Domain": "bitfieldconsulting.com",
+    "Description": "Dev advocate Zack Proser grilled me lightly about my career, and why I haven’t taken any of my own advice. Read the full interview, but pay no attention to the man behind the curtain."
+  },
+  {
+    "Title": "The Trap of \"I am not an Extrovert\" | Himanshu Mishra (@OrkoHunter)",
+    "Url": "https://orkohunter.net/blog/the-trap-of-introversion/",
+    "Timestamp": "2024-12-26T23:01:49",
+    "Domain": "orkohunter.net",
+    "Description": "Being an extrovert at work and introvert in friendship"
+  },
+  {
+    "Title": "Android 16 will include a terminal and full Linux VM support",
+    "Url": "https://techweez.com/2024/10/15/android-16-will-include-a-terminal-and-full-linux-vm-support/",
+    "Timestamp": "2024-12-26T23:01:49",
+    "Domain": "techweez.com",
+    "Description": "Android 16 introduces a built-in terminal with support for running a Linux VM with full GUI and GPU acceleration, alongside sysadmin features"
+  },
+  {
+    "Title": "ND JavaScript Demo",
+    "Url": "https://cdaringe.github.io/application-nd-javascript/",
+    "Timestamp": "2024-12-26T23:01:48",
+    "Domain": "cdaringe.github.io",
+    "Description": "A demonstration of the proposed application/nd-javascript MIME type"
+  },
+  {
+    "Title": "Tailscale LocalAPI",
+    "Url": "https://dorianmonnier.fr/posts/2024-12-26-tailscale-localapi/",
+    "Timestamp": "2024-12-26T23:01:47",
+    "Domain": "dorianmonnier.fr",
+    "Description": "Context I use Tailscale to secure network communication, and I wanted to authenticate users coming from the Tailscale network.\nThe goal was to reproduce the behavior in the golink application. When users come from the Tailscale network, the application should authenticate them and give them access to the application based on roles defined in Tailscale ACL.\nSolution Tailscale exposes an HTTP API through a Unix Socket named LocalAPI.\nIt can be used for many things. In my case, I needed to authenticate a user coming from Tailnet. I used it to get information about a Tailscale user by calling the whois endpoint."
+  },
+  {
+    "Title": "Ghostty",
+    "Url": "https://ghostty.org/",
+    "Timestamp": "2024-12-26T22:01:52",
+    "Domain": "ghostty.org",
+    "Description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+  },
+  {
+    "Title": "Server-Sent Events (SSE) Are Underrated",
+    "Url": "https://igorstechnoclub.com/server-sent-events-sse-are-underrated/",
+    "Timestamp": "2024-12-26T15:01:40",
+    "Domain": "igorstechnoclub.com",
+    "Description": "Most developers know about WebSockets, but Server-Sent Events (SSE) offer a simpler, often overlooked alternative that deserves more attention"
+  },
+  {
+    "Title": "Finished Course: iPhone Apps for Complete Beginners with Swift, SwiftUI & iOS17 (PacktPub)",
+    "Url": "https://msicc.net/finished-course-iphone-apps-for-complete-beginners-swift-swiftui-ios17/",
+    "Timestamp": "2024-12-26T13:01:34",
+    "Domain": "msicc.net",
+    "Description": "I recently finished the online course ‘iPhone Apps for Complete Beginners with Swift, SwiftUI & iOS17 (PacktPub)’. This course is part of my journey to learn the Swift programming language."
+  },
+  {
+    "Title": "GitHub - blackcandy-org/blackcandy: A self hosted music streaming server",
+    "Url": "https://github.com/blackcandy-org/blackcandy",
+    "Timestamp": "2024-12-26T11:01:47",
+    "Domain": "github.com",
+    "Description": "A self hosted music streaming server. Contribute to blackcandy-org/blackcandy development by creating an account on GitHub."
+  },
+  {
+    "Title": "GitHub - drk1wi/portspoof: Portspoof",
+    "Url": "https://github.com/drk1wi/portspoof",
+    "Timestamp": "2024-12-26T11:01:47",
+    "Domain": "github.com",
+    "Description": "Portspoof. Contribute to drk1wi/portspoof development by creating an account on GitHub."
+  },
+  {
+    "Title": "How to Migrate 1 MILLION Database Records in ONE MINUTE!",
+    "Url": "https://youtube.com/watch?v=Lni2C7bghIY",
+    "Timestamp": "2024-12-26T03:01:32",
+    "Domain": "youtube.com",
+    "Description": "In this session, I'm going to walk you through an amazing tool I've come across that can help software engineers doing data migration work in a *very* short time. \n\nAzure Data Factory is a cloud-native tool that simplifies migration work, data synchronization work and data analysis work for software engineers who may not be too involved in big data work and data science. \n\nHere's some useful links:\nAzure Data Factory:\nhttps://azure.microsoft.com/en-us/products/data-factory\n\nLean about ADF here:\nhttps://learn.microsoft.com/en-us/azure/data-factory/introduction"
+  },
+  {
+    "Title": "Sun Avoidance",
+    "Url": "https://xkcd.com/3029/",
+    "Timestamp": "2024-12-26T01:01:28",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "I Thought I Found a Bug…",
+    "Url": "https://www.os2museum.com/wp/i-thought-i-found-a-bug/",
+    "Timestamp": "2024-12-26T00:05:16",
+    "Domain": "www.os2museum.com",
+    "Description": "So I was working on improving a DOS emulator, when I found that something seemingly trivial wasn’t working right when COMMAND.COM was asked to do the following:"
+  },
+  {
+    "Title": "Memetic Culture",
+    "Url": "https://kualta.dev/posts/memetic-culture",
+    "Timestamp": "2024-12-26T00:05:16",
+    "Domain": "kualta.dev",
+    "Description": "on human connection"
+  },
+  {
+    "Title": "Are you smarter than Phi-2?",
+    "Url": "https://azigy.com/blog/are-you-smarter-than-phi-2",
+    "Timestamp": "2024-12-26T00:02:22",
+    "Domain": "azigy.com",
+    "Description": "Test your intelligence by facing off against Phi-2, a 2.7B parameter large language model (LLM) trained by Microsoft, in a set of 20 questions taken from the MMLU benchmark. Who will come out on top?"
+  },
+  {
+    "Title": "12 Life Lessons From A Backgammon Super Grandmaster ⋆ WBGF",
+    "Url": "https://wbgf.info/2024/12/18/12-life-lessons-from-a-backgammon-super-grandmaster/",
+    "Timestamp": "2024-12-26T00:02:21",
+    "Domain": "wbgf.info",
+    "Description": "World Backgammon Federation News & Events. New York City Backgammon Club organiser Remington Davenport tells her story."
+  },
+  {
+    "Title": "Interview with Niels Dossche",
+    "Url": "https://blog.keyvan.net/p/interview-with-niels-dossche",
+    "Timestamp": "2024-12-26T00:02:21",
+    "Domain": "blog.keyvan.net",
+    "Description": "PHP, HTML, the DOM, and living standards"
+  },
+  {
+    "Title": "Minimal Version Selection Revisited",
+    "Url": "https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html",
+    "Timestamp": "2024-12-26T00:02:21",
+    "Domain": "matklad.github.io",
+    "Description": "In this post, I want to highlight one aspect of Go-style minimal version selection that I have\nmissed completely at first. Maybe you missed it too?"
+  },
+  {
+    "Title": "Tech Trends 2025 - scapellato.dev",
+    "Url": "https://www.scapellato.dev/blog/tech-trends-2025",
+    "Timestamp": "2024-12-26T00:02:21",
+    "Domain": "www.scapellato.dev",
+    "Description": "GenAI, AI Agents, Loneliness, Healthcare..."
+  },
+  {
+    "Title": "VPR: Nordic's First RISC-V Processor",
+    "Url": "https://danielmangum.com/posts/vpr-nordic-risc-v-processor/",
+    "Timestamp": "2024-12-26T00:02:20",
+    "Domain": "danielmangum.com",
+    "Description": "VPR (pronounced “Viper”) is Nordic Semiconductor’s first RISC-V processor, landing in the new nRF54H and nRF54L lines of SoCs after their initial announcements in April and October of 2023 respectively. Readers of this blog are familiar with my long-running obsession interest in RISC-V (see my RISC-V Tips and RISC-V Bytes series). However, Nordic’s introduction of a RISC-V processor is particularly interesing to me as their lineup of microcontrollers is extremely popular in low power wireless domains, a common use case for Golioth customers."
+  },
+  {
+    "Title": "The Humble Virtues of a Simple Private Jet",
+    "Url": "https://philshapirochatgptexplorations.blogspot.com/2024/12/choose-simple-private-jet.html",
+    "Timestamp": "2024-12-26T00:02:19",
+    "Domain": "philshapirochatgptexplorations.blogspot.com",
+    "Description": "I have often thought that the question of how one ought to live is as perennial as the seasons, and as susceptible to overcomplication as th..."
+  },
+  {
+    "Title": "The Downfall of Alternative Frontends",
+    "Url": "https://denshi.org/blog/the-downfall-of-alternative-frontends/",
+    "Timestamp": "2024-12-26T00:02:19",
+    "Domain": "denshi.org",
+    "Description": " "
+  },
+  {
+    "Title": "Into CPS, never to return",
+    "Url": "https://bernsteinbear.com/blog/cps/",
+    "Timestamp": "2024-12-26T00:02:19",
+    "Domain": "bernsteinbear.com",
+    "Description": "CPS, or continuation-passing style, is an intermediate representation for programs, particularly functional programs. It’s used in compilers for languages such as SML and Scheme."
+  },
+  {
+    "Title": "Advent of Code analysis through the years – Blog Jesse van Elteren",
+    "Url": "https://jvanelteren.github.io/blog/posts/aoc/2024-12-25-analysis_aoc_stats.html",
+    "Timestamp": "2024-12-26T00:02:19",
+    "Domain": "jvanelteren.github.io",
+    "Description": "What can we learn from the stats?"
+  },
+  {
+    "Title": "Advent of Papers (2024)",
+    "Url": "https://jimmyhmiller.github.io/advent-of-papers",
+    "Timestamp": "2024-12-26T00:02:18",
+    "Domain": "jimmyhmiller.github.io",
+    "Description": "Each day I read and summarize a weird or intersting paper related to computing."
+  },
+  {
+    "Title": "How Much to Give is a Pragmatic Question",
+    "Url": "https://www.jefftk.com/p/how-much-to-give-is-a-pragmatic-question",
+    "Timestamp": "2024-12-26T00:02:17",
+    "Domain": "www.jefftk.com",
+    "Description": "I was recently talking to someone who had recently started thinking about effective altruism, and was trying to figure out how to work it into their life. They were established in their career, it paid well, and their background wasn't obviously a good fit for  direct work, so they were naturally considering earning to give. This prompts a question of how much to give.  \"How much?\" is a question p"
+  },
+  {
+    "Title": "Robotics Predictions for 2025",
+    "Url": "https://ben.bolte.cc/posts/2024-12-23-predictions",
+    "Timestamp": "2024-12-26T00:02:17",
+    "Domain": "ben.bolte.cc",
+    "Description": "Some predictions for how the robotics landscape looks next year, with varying degrees of confidence.\n"
+  },
+  {
+    "Title": "Fake Debugging II: The Race Condition Strikes Back",
+    "Url": "https://ankush.dev/p/race-condition-strikes-back",
+    "Timestamp": "2024-12-26T00:02:16",
+    "Domain": "ankush.dev",
+    "Description": "Fake Debugging Considered Harmful."
+  }
+]

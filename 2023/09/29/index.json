@@ -1,0 +1,394 @@
+[
+  {
+    "Title": "Controls for WinUI and the Uno Platform - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/winui-and-uno-controls/",
+    "Timestamp": "2023-09-29T22:03:10",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "I was discussing the features of the Uno Platform today and realised that we sometimes gloss over all the features. In this post we’re going to do a walk through of some of the different controls, styles and themes available to Windows (WinUI/Windows App SDK) and Uno Platform developers. Gallery One of the best ways ... Read more"
+  },
+  {
+    "Title": "Include interactive Clojure/script code snippets in a web page with SCI & friends",
+    "Url": "https://blog.jakubholy.net/2023/interactive-code-snippets-fulcro/",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "blog.jakubholy.net",
+    "Description": "I have long dreamt about having interactive code snippets of Fulcro in my teaching materials. Showing people code they could modify and see it render right next to it. Fulcro is a ClojureScript library, but it uses some heavy macros - and those typically require JVM Clojure. Well, not anymore. I was able to rewrite them into Borkdude’s Small Clojure Interpreter (SCI) dialect of Clojure. I.e. I can ask SCI to evaluate a piece of code with these macros, which SCI will macro-expand into more cljs, and execute. With SCI, my Fulcro sci.configs, CodeMirror, and Nextjournal’s clojure-mode, I can have a beautiful in-page editor with code evaluation. And I will show you how to do the same, for your blog."
+  },
+  {
+    "Title": "First Impressions with the Raspberry Pi 5",
+    "Url": "https://blog.alexellis.io/first-impressions-with-the-raspberry-pi-5/",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "blog.alexellis.io",
+    "Description": "For someone who runs the Raspberry Pi as a server, build agent and for Kubernetes, how does the new version  stack up? And should you upgrade?"
+  },
+  {
+    "Title": "You Can't Control Your Data in the Cloud",
+    "Url": "https://karl-voit.at/cloud/",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "karl-voit.at",
+    "Description": "There is this well cited argument that cloud companies like Google, Apple, Amazon, Facebook, and you-name-it are able to protect your personal data much better than you are able to. They have military grade security restrictions, better backup methods, and are able to do this much cheaper."
+  },
+  {
+    "Title": "Experts Live 2023 - My Recap",
+    "Url": "https://dev.to/this-is-learning/experts-live-2023-my-recap-4ack",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "dev.to",
+    "Description": "I’m excited to share with you my experience at Experts Live Europe 2023, a premier conference for IT..."
+  },
+  {
+    "Title": "The Death of the Author • Matt Neary",
+    "Url": "http://blog.mattneary.com/the-death-of-the-author",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "blog.mattneary.com",
+    "Description": "As everybody knows, Nietzsche announced long ago that “God is dead.” Or more accurately, he wrote the parable of the madman, who was the first to realize that God was dead. As Nietzsche’s madman tried to spread his message, he was thrown out of... | Matt Neary | Svbtle"
+  },
+  {
+    "Title": "Demystifying Database Transactions",
+    "Url": "https://dineshgowda.com/posts/demystifying-database-transcations/",
+    "Timestamp": "2023-09-29T22:03:08",
+    "Domain": "dineshgowda.com",
+    "Description": "The most compelling feature of relational database systems is ACID(Atomicity Consistency Isolation Durability). Isolation is achieved using transactions. Isolation is needed to avoid race conditions when concurrent actors act upon the same row.\nSQL standard defines isolation with different levels. Every isolation level offers certain guarantees and possible anomalies that can occur."
+  },
+  {
+    "Title": "What the Birthday Paradox Teaches Us About Protecting Patron Privacy",
+    "Url": "https://chimpy.me/blog/posts/what-the-birthday-paradox-teaches-us-about-protecting-patron-privacy/",
+    "Timestamp": "2023-09-29T22:03:07",
+    "Domain": "chimpy.me",
+    "Description": "Background"
+  },
+  {
+    "Title": "is: an inspector for your environment",
+    "Url": "https://www.olafalders.com/2023/09/28/is-an-inspector-for-your-environment/",
+    "Timestamp": "2023-09-29T22:03:07",
+    "Domain": "www.olafalders.com",
+    "Description": "Can we make working at the command line a little less cumbersome?"
+  },
+  {
+    "Title": "Understand How It Works",
+    "Url": "https://martinrue.com/understand-how-it-works/",
+    "Timestamp": "2023-09-29T22:03:07",
+    "Domain": "martinrue.com",
+    "Description": "One of the best pieces of advice I ever got was from my grandfather. He would often share some lesson he’d learnt that he thought was useful to me."
+  },
+  {
+    "Title": "Writing",
+    "Url": "https://sjer.red/blog/writing/",
+    "Timestamp": "2023-09-29T22:03:07",
+    "Domain": "sjer.red",
+    "Description": "If you can't write then you can't think."
+  },
+  {
+    "Title": "Factorial Numbers",
+    "Url": "https://xkcd.com/2835/",
+    "Timestamp": "2023-09-29T22:03:06",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "WHO recommends dropping component of many flu vaccines",
+    "Url": "https://www.statnews.com/2023/09/29/who-recommends-dropping-component-of-many-flu-vaccines/",
+    "Timestamp": "2023-09-29T21:03:09",
+    "Domain": "www.statnews.com",
+    "Description": "The WHO has recommended dropping a component of many flu vaccines because the viruses it protects against appear to have been driven into extinction in the Covid pandemic."
+  },
+  {
+    "Title": ".NET | Using MongoDb in under 20 minutes.",
+    "Url": "https://youtube.com/watch?v=w6htel3T6KY",
+    "Timestamp": "2023-09-29T21:03:08",
+    "Domain": "youtube.com",
+    "Description": "Feel free to support me on Patreon:- https://www.patreon.com/OleinicVasiliiDetailed design newsletter:- https://voleinic.substack.comIn this video we will co..."
+  },
+  {
+    "Title": "Solution: Full Stack Development Challenge in C#",
+    "Url": "https://youtube.com/watch?v=XuugKbEiFDg",
+    "Timestamp": "2023-09-29T21:03:08",
+    "Domain": "youtube.com",
+    "Description": "On Tuesday, I issued a challenge to build an API, a desktop UI, and a web UI for an employee directory using C#. Hopefully, by this time you have been able t..."
+  },
+  {
+    "Title": "Draggable objects",
+    "Url": "https://www.redblobgames.com/making-of/draggable/",
+    "Timestamp": "2023-09-29T20:03:46",
+    "Domain": "www.redblobgames.com",
+    "Description": "Many of my interactive pages have a draggable object. I want the reader to move the object around, and I want the diagram to respond in some way. Here I’ll document the code I use to make this work with both mouse and touch input, using browser features that are widely supported since 2020. Here’s a common case I want to support:"
+  },
+  {
+    "Title": "Privacy washing: Google claims to support privacy while lobbying against it | Proton",
+    "Url": "https://proton.me/blog/google-lobbying",
+    "Timestamp": "2023-09-29T19:02:40",
+    "Domain": "proton.me",
+    "Description": "Just as Big Oil has used greenwashing to block environmental protections, Big Tech uses privacy washing to stand in the way of privacy."
+  },
+  {
+    "Title": "Kirbstr (@kirbstr@techhub.social)",
+    "Url": "https://techhub.social/@kirbstr/111148950526108155",
+    "Timestamp": "2023-09-29T19:02:40",
+    "Domain": "techhub.social",
+    "Description": "Attached: 3 images\n\nWent to FB to share the eff opt-out link on my biz page (the one referenced in @pluralistic@mamot.fr latest thread) and now I have restrictions?"
+  },
+  {
+    "Title": "09-  We Speak: IBM 3270",
+    "Url": "https://youtube.com/watch?v=KMXw-Cqey2I%3Fsi%3DWRomZ9joJXy9P_JH",
+    "Timestamp": "2023-09-29T18:02:42",
+    "Domain": "youtube.com",
+    "Description": "In this session, we continue with the \"We Speak\", Mission Critical Series with an episode on how Azure Logic Apps can unlock scenarios where is required to i..."
+  },
+  {
+    "Title": "EP 28: Response Compression in ASP.NET Core",
+    "Url": "https://medium.com/net-newsletter-by-waseem/ep-28-response-compression-in-asp-net-core-55e595b38859",
+    "Timestamp": "2023-09-29T18:02:41",
+    "Domain": "medium.com",
+    "Description": "In today’s newsletter we are going to discuss:"
+  },
+  {
+    "Title": "Template meta-programming: Avoiding saying a type before it is complete - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230929-00/?p=108839",
+    "Timestamp": "2023-09-29T18:02:40",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Deferring use until after the class is defined."
+  },
+  {
+    "Title": "Test Stream 3",
+    "Url": "https://youtube.com/watch?v=c2-npq4RC_I",
+    "Timestamp": "2023-09-29T17:03:00",
+    "Domain": "youtube.com",
+    "Description": "Fritz is running a test"
+  },
+  {
+    "Title": "ASP.NET Core News - 09/29/2023",
+    "Url": "https://us7.campaign-archive.com/?u=66fdd2122e968863d381a26e1&id=16983f1937",
+    "Timestamp": "2023-09-29T17:02:58",
+    "Domain": "us7.campaign-archive.com",
+    "Description": "Would you like to advertise with us? Visit the Media Kit for details on how to sponsor this newsletter with thousands of readers every week."
+  },
+  {
+    "Title": "Karl Voit :emacs: :orgmode: (@publicvoit@graz.social)",
+    "Url": "https://graz.social/@publicvoit/111147782761723981",
+    "Timestamp": "2023-09-29T16:02:32",
+    "Domain": "graz.social",
+    "Description": "After basically the whole #Microsoft #Azure cloud was hacked (see list of related sources on https://karl-voit.at/cloud/ ), the first follow-up incidents went public caused by missing containment actions:\n\n60,000 emails were stolen from 10 #USA #StateDepartment accounts\nhttps://www.reuters.com/world/us/chinese-hackers-stole-60000-emails-us-state-department-microsoft-hack-senate-2023-09-27/\n\nIf you didn't understand until now: basically EVERYTHING at Microsoft got hacked and Microsoft can't (or won't) get rid of the intruders. Everything authenticated by Microsoft is tainted. Even #Windows auth."
+  },
+  {
+    "Title": "Burning money on paid ads for a dev tool – what we've learned - PostHog",
+    "Url": "https://posthog.com/blog/dev-marketing-paid-ads",
+    "Timestamp": "2023-09-29T16:02:29",
+    "Domain": "posthog.com",
+    "Description": "Since starting PostHog in 2020, we’ve learned a bunch about what does and doesn’t work when it comes to  marketing to engineers . Paid ads is a…"
+  },
+  {
+    "Title": "Red Blob Games",
+    "Url": "https://www.redblobgames.com/",
+    "Timestamp": "2023-09-29T16:02:29",
+    "Domain": "www.redblobgames.com",
+    "Description": "Interactive tutorials for math and algorithms"
+  },
+  {
+    "Title": "Introducing: Raspberry Pi 5! - Raspberry Pi",
+    "Url": "https://www.raspberrypi.com/news/introducing-raspberry-pi-5/",
+    "Timestamp": "2023-09-29T15:02:27",
+    "Domain": "www.raspberrypi.com",
+    "Description": "Announcing Raspberry Pi 5, coming in late October: over 2x faster than Raspberry Pi 4, featuring silicon designed in-house at Raspberry Pi."
+  },
+  {
+    "Title": "How C# 12 Changes Your .NET Classes Forever",
+    "Url": "https://youtube.com/watch?v=93PHtu0B47s",
+    "Timestamp": "2023-09-29T15:02:27",
+    "Domain": "youtube.com",
+    "Description": "Use code CLEAN20 and get 20% off the brand new Clean Architecture course on Dometrain: https://dometrain.com/course/getting-started-clean-architecture-in-dot..."
+  },
+  {
+    "Title": "Builder Pattern: What It Is And How To Use It Effectively",
+    "Url": "https://www.devleader.ca/2023/09/29/the-builder-pattern-what-it-is-and-how-to-use-it-effectively/",
+    "Timestamp": "2023-09-29T13:01:50",
+    "Domain": "www.devleader.ca",
+    "Description": "The builder pattern is a design pattern that helps us create complex objects. Let's dive into the builder design pattern, one of many awesome design patterns!"
+  },
+  {
+    "Title": "Data API builder Now Supports ENV Files - Azure SQL Devs’ Corner",
+    "Url": "https://devblogs.microsoft.com/azure-sql/dab-envfiles/",
+    "Timestamp": "2023-09-29T13:01:50",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "In September, Data API builder (DAB) revved with some great new features. In this article we’ll talk about controlling environment variables with ENV files. What is Data API builder? DAB is an open source, cross-platform engine that creates instant REST & GraphQL APIs for your database - MySQL, Postgres, Cosmos DB or Microsoft SQL. Without any code, DAB uses only a JSON configuration file that explains how to access your data and what objects to expose."
+  },
+  {
+    "Title": "Embracing Efficiency: Shorter Work Hours for Software Developers (And everyone else)",
+    "Url": "https://bizzeh.com/embracing-efficiency-shorter-work-hours-software-developers/",
+    "Timestamp": "2023-09-29T12:02:56",
+    "Domain": "bizzeh.com",
+    "Description": "In todays world, productivity is the name of the game, especially in the tech industry where software developers are the driving force behind innovation. However, the idea that longer hours lead to greater productivity is no longer considered to be the case by most. Recent research and real-world examples suggest that cutting back on work hours can actually boost productivity for software developers. In this article, we’ll explore the reasons behind this shift and the benefits it brings to both developers and their employers."
+  },
+  {
+    "Title": "EF Core 8 Finally Fixes Value Objects",
+    "Url": "https://youtube.com/watch?v=LhCD5CUSP6g",
+    "Timestamp": "2023-09-29T12:02:55",
+    "Domain": "youtube.com",
+    "Description": "📌 Check out my Pragmatic Clean Architecture course: https://bit.ly/3PupkOJ🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanj..."
+  },
+  {
+    "Title": "Learn Live - Add logic to C# console applications",
+    "Url": "https://youtube.com/watch?v=vlC9cEkN6wg",
+    "Timestamp": "2023-09-29T11:02:38",
+    "Domain": "youtube.com",
+    "Description": "Full series information: https://aka.ms/learnlive-get-started-with-csharpMore info here: https://aka.ms/learnlive-get-started-with-csharp-Ep3Follow on Micros..."
+  },
+  {
+    "Title": "Code Maze Weekly #187 - Code Maze",
+    "Url": "https://code-maze.com/code-maze-weekly-187/",
+    "Timestamp": "2023-09-29T11:02:36",
+    "Domain": "code-maze.com",
+    "Description": "Issue #187 of the Code Maze weekly. Check out what’s new this week and enjoy the read. .NET and C# Top Picks How to modify response headers in ASP.NET Core middleware [blog.elmah.io] Modifying response headers in ASP.NET Core is pretty straightforward. Or is it? Check out this post by Thomas Ardal to find out about […]"
+  },
+  {
+    "Title": "zk中秋節 Taipei Meetup (Aleo x zksecurity) · Luma",
+    "Url": "https://lu.ma/zkbbqtaipei",
+    "Timestamp": "2023-09-29T11:02:35",
+    "Domain": "lu.ma",
+    "Description": "🔒 Welcome to zk中秋節 zkBBQ \n\nDelve into the world of zero-knowledge technology with fellow enthusiasts! Whether a newbie or a seasoned professional in zk technology, this meetup is your..."
+  },
+  {
+    "Title": "Contributing to Uno Platform 101: From Novice to Expert!",
+    "Url": "https://youtube.com/watch?v=6h3r0Uk750M",
+    "Timestamp": "2023-09-29T10:03:52",
+    "Domain": "youtube.com",
+    "Description": "Welcome to the definitive guide on contributing to Uno Platform! 🌟 Whether you're a seasoned developer or just starting out, this video is tailored for you...."
+  },
+  {
+    "Title": "Subtraction Is Functionally Complete | orlp.net",
+    "Url": "https://orlp.net/blog/subtraction-is-functionally-complete/",
+    "Timestamp": "2023-09-29T10:03:51",
+    "Domain": "orlp.net",
+    "Description": "To be precise, IEEE-754 floating point\nsubtraction is functionally\ncomplete. That means you\ncan construct any binary circuit using nothing but floating point subtraction."
+  },
+  {
+    "Title": "Was Javascript really made in 10 days?",
+    "Url": "https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/",
+    "Timestamp": "2023-09-29T09:40:29",
+    "Domain": "buttondown.email",
+    "Description": "I once heard that Javascript has so many warts because the first version was made in just ten days. I was curious 1) if this is true, and 2) if it explains..."
+  },
+  {
+    "Title": "GitHub - fill3d/fill: Generative fill in 3D.",
+    "Url": "https://github.com/fill3d/fill",
+    "Timestamp": "2023-09-29T09:40:29",
+    "Domain": "github.com",
+    "Description": "Generative fill in 3D. Contribute to fill3d/fill development by creating an account on GitHub."
+  },
+  {
+    "Title": "22 C# Best Practices - Code Maze",
+    "Url": "https://code-maze.com/csharp-22-best-practices/",
+    "Timestamp": "2023-09-29T08:34:10",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we look at some of the best practices when coding in C# that helps us write clean, efficient code, and maintainable code"
+  },
+  {
+    "Title": "Dictionary of Algorithms and Data Structures",
+    "Url": "https://xlinux.nist.gov/dads/",
+    "Timestamp": "2023-09-29T08:34:09",
+    "Domain": "xlinux.nist.gov",
+    "Description": "Definitions of algorithms, data structures, and classical\n  Computer Science problems.\n\tSome entries have links to implementations and more information."
+  },
+  {
+    "Title": "an aborted experiment with server swift",
+    "Url": "https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift",
+    "Timestamp": "2023-09-29T08:34:08",
+    "Domain": "flak.tedunangst.com",
+    "Description": "I wanted to write a fun little experimental ActivityPub server. I have a solid idea how to handle this in go, or at least I think I do, so that’d be pretty boring. Instead, let’s try a new technology."
+  },
+  {
+    "Title": "Bandcamp has been sold to Songtradr. What does this mean for the musicians?",
+    "Url": "https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/",
+    "Timestamp": "2023-09-29T07:02:36",
+    "Domain": "rocknerd.co.uk",
+    "Description": "At least Songtradr, unlike Epic, is in the same business."
+  },
+  {
+    "Title": "T-SQL Fundamentals: Controlling Duplicates - Simple Talk",
+    "Url": "https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/t-sql-fundamentals-controlling-duplicates/",
+    "Timestamp": "2023-09-29T06:02:56",
+    "Domain": "www.red-gate.com",
+    "Description": "When people start learning a new field, for example T-SQL, it’s tempting to spend very little time trying to understand the fundamentals of the field so"
+  },
+  {
+    "Title": "Polly v8 officially released",
+    "Url": "https://www.thepollyproject.org/2023/09/28/polly-v8-officially-released/",
+    "Timestamp": "2023-09-29T06:02:55",
+    "Domain": "www.thepollyproject.org",
+    "Description": "After months of continuous development, Polly v8 is finally here! In our v8 announcement post, we discussed the background of the Polly project and what motivated us to completely redesign the library with a hyper-focus on performance. We were very fortunate to have top-notch developers from Microsoft do the bulk"
+  },
+  {
+    "Title": "The Future of ASP.NET Core: .NET 8 Feature Preview",
+    "Url": "https://www.claudiobernasconi.ch/2023/05/20/asp-net-core-dotnet-8-preview/",
+    "Timestamp": "2023-09-29T06:02:55",
+    "Domain": "www.claudiobernasconi.ch",
+    "Description": "Learn what we know about what's coming for .NET 8 in ASP.NET Core from the .NET 8 Preview 1 and Preview 2. We'll get exciting new features."
+  },
+  {
+    "Title": "Contributing to Tech Communities: How Open-Source can land you a job and get you out of the Skill Paradox 💼",
+    "Url": "https://dev.to/wasp/contributing-to-tech-communities-how-open-source-can-land-you-a-job-and-get-you-out-of-the-skill-paradox-4ejh",
+    "Timestamp": "2023-09-29T06:02:54",
+    "Domain": "dev.to",
+    "Description": "Hello there!            TL;DR    In this article, we’re going to see how open-source can..."
+  },
+  {
+    "Title": "How to Start a Software Project: A Guide for Junior Devs",
+    "Url": "https://thenewstack.io/how-to-start-a-software-project-a-guide-for-junior-devs/",
+    "Timestamp": "2023-09-29T06:02:53",
+    "Domain": "thenewstack.io",
+    "Description": "Starting a software project is a divider between the senior dev and the eager junior. Here's where to start and what to get right early on."
+  },
+  {
+    "Title": "Questions I asked as .NET interviewer",
+    "Url": "https://steven-giesel.com/blogPost/d64172d0-6b72-4d60-9935-0159c72997e4",
+    "Timestamp": "2023-09-29T06:02:53",
+    "Domain": "steven-giesel.com",
+    "Description": "This blog post is a small collection of questions I asked as a technical interviewer when we had candidates for software developer positions. This might be helpful for you if you are preparing for a job interview.\n"
+  },
+  {
+    "Title": "ASP.NET Core in .NET 8 is on The Way! Discover the NEW Features",
+    "Url": "https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-discover-the-new-features-3k86",
+    "Timestamp": "2023-09-29T06:02:53",
+    "Domain": "dev.to",
+    "Description": "Yes, you are reading correctly, the latest news about ASP.NET Core has been released! We’re about to..."
+  },
+  {
+    "Title": "LibrePCB",
+    "Url": "https://librepcb.org/",
+    "Timestamp": "2023-09-29T04:02:30",
+    "Domain": "librepcb.org",
+    "Description": "A free, easy-to-use, multiplatform EDA software to draw schematics and design PCBs"
+  },
+  {
+    "Title": "Polly v8 officially released",
+    "Url": "https://thepollyproject.azurewebsites.net/2023/09/28/polly-v8-officially-released/",
+    "Timestamp": "2023-09-29T02:03:27",
+    "Domain": "thepollyproject.azurewebsites.net",
+    "Description": "After months of continuous development, Polly v8 is finally here! In our v8 announcement post, we discussed the background of the Polly project and what motivated us to completely redesign the library with a hyper-focus on performance. We were very fortunate to have top-notch developers from Microsoft do the bulk"
+  },
+  {
+    "Title": "Working with ASP.NET Web API on AWS Lambda",
+    "Url": "https://www.pluralsight.com/cloud-guru/courses/working-with-aspnet-web-api-on-aws-lambda",
+    "Timestamp": "2023-09-29T01:03:14",
+    "Domain": "www.pluralsight.com",
+    "Description": "This course will teach you how to deploy full ASP.NET Web API applications that use SQL databases to the AWS Lambda service. "
+  },
+  {
+    "Title": "GitHub - damienbod/bff-azureadb2c-aspnetcore-angular: Azure AD B2C Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend",
+    "Url": "https://github.com/damienbod/bff-azureadb2c-aspnetcore-angular",
+    "Timestamp": "2023-09-29T01:03:13",
+    "Domain": "github.com",
+    "Description": "Azure AD B2C Backend for frontend security using Angular Standalone (nx) and ASP.NET Core backend - GitHub - damienbod/bff-azureadb2c-aspnetcore-angular: Azure AD B2C Backend for frontend security ..."
+  },
+  {
+    "Title": "Protecting your data from breaches",
+    "Url": "https://www.gocompare.com/about/protecting-your-data/",
+    "Timestamp": "2023-09-29T00:02:59",
+    "Domain": "www.gocompare.com",
+    "Description": "Find out how data breaches happen and what to do if your data is leaked. "
+  },
+  {
+    "Title": "Prism Library",
+    "Url": "https://prismlibrary.com/",
+    "Timestamp": "2023-09-29T00:02:56",
+    "Domain": "prismlibrary.com",
+    "Description": "Choose the perfect plan tailored to your business needs. Whether you're a budding startup or a thriving enterprise, we offer pricing options that align with your company's growth and budget."
+  }
+]

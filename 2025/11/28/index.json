@@ -1,0 +1,191 @@
+[
+  {
+    "Title": "How to work with Product: Taste and Adjust",
+    "Url": "https://blog.nilenso.com/blog/2025/11/26/how-to-work-with-product-taste-and-adjust/",
+    "Timestamp": "2025-11-28T23:03:26",
+    "Domain": "blog.nilenso.com",
+    "Description": "Srihari Sriraman\n        \n      \n      \n    \n    \n      \n      \n         ..."
+  },
+  {
+    "Title": "Decimal is sometimes wrong",
+    "Url": "https://jt-hill.com/dropping-decimal/",
+    "Timestamp": "2025-11-28T23:03:21",
+    "Domain": "jt-hill.com",
+    "Description": "Credkit is dropping its usage of the Python Decimal class. I thought it was the solution to all my problems, but it was not."
+  },
+  {
+    "Title": "A first look at Django's new background tasks",
+    "Url": "https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/",
+    "Timestamp": "2025-11-28T23:03:18",
+    "Domain": "roam.be",
+    "Description": "Django 6.0 introduces a built-in background tasks framework in `django.tasks`. But don't expect to phase out Celery, Huey or other preferred solutions just yet."
+  },
+  {
+    "Title": "Dealgorithmed – Manu",
+    "Url": "https://manuelmoreale.com/thoughts/dealgorithmed",
+    "Timestamp": "2025-11-28T23:03:13",
+    "Domain": "manuelmoreale.com",
+    "Description": "TL;DR: I hate having spare time, and I decided to launch another newsletter called Dealgorithmed. Will start on January 1st, delivered every 1st and …"
+  },
+  {
+    "Title": "I want to give a lot of fucks! - Prashant Anand",
+    "Url": "https://anandprashant.com/posts/i-want-to-give-a-lot-of-fucks",
+    "Timestamp": "2025-11-28T23:03:07",
+    "Domain": "anandprashant.com",
+    "Description": "Stop caring. Stop giving a fuck."
+  },
+  {
+    "Title": "Agentic Coding Is Anything But · Mat",
+    "Url": "https://matcohle.me/agentic-coding-is-anything-but/",
+    "Timestamp": "2025-11-28T23:03:03",
+    "Domain": "matcohle.me",
+    "Description": "For the joy of making"
+  },
+  {
+    "Title": "On Seriousness",
+    "Url": "https://www.punkrockbio.com/p/on-seriousness",
+    "Timestamp": "2025-11-28T23:03:00",
+    "Domain": "www.punkrockbio.com",
+    "Description": "We need to be serious in our culture to achieve the future of our dreams."
+  },
+  {
+    "Title": "Talk \"From Bias to Bots\"",
+    "Url": "https://www.munich-datageeks.de/talk-from-bias-to-bots/",
+    "Timestamp": "2025-11-28T23:02:55",
+    "Domain": "www.munich-datageeks.de",
+    "Description": "Karim built a bot testing housing applications in Munich. Western names got 4x more responses. Nationwide tests confirmed systemic bias. A decade later, he warns modern AI has made algorithmic discrimination far more sophisticated and opaque."
+  },
+  {
+    "Title": "The Psychology of Bad Code - SheHacksPurple",
+    "Url": "https://shehackspurple.ca/2025/11/27/the-psychology-of-bad-code/",
+    "Timestamp": "2025-11-28T23:02:51",
+    "Domain": "shehackspurple.ca",
+    "Description": "In this blog series I will explore several known bad developer behaviors that lead to insecure software, as well as how we can combat them by applying behavioral economic interventions. This series is an expansion upon my thoughts from my conference talk ‘Threat Modeling Developer Behavior: The Psychology of Bad Code’."
+  },
+  {
+    "Title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
+    "Url": "https://blog.chrislewis.au/the-unexpected-effectiveness-of-one-shot-decompilation-with-claude/",
+    "Timestamp": "2025-11-28T23:02:47",
+    "Domain": "blog.chrislewis.au",
+    "Description": "A deep dive into how a 'one-shot' Claude headless loop (paired with scoring, defensive tooling, and a simple bash driver) massively accelerates matching decompilation of Snowboard Kids 2 on the Nintendo 64."
+  },
+  {
+    "Title": "Tips for effective prototyping with Rails 8 and Claude Code",
+    "Url": "https://www.wyeworks.com/blog/2025/11/26/tips-for-effective-prototyping-rails-claude-code/",
+    "Timestamp": "2025-11-28T23:02:43",
+    "Domain": "www.wyeworks.com",
+    "Description": "As developers, we’re living in a time where building applications from scratch is easier than ever, thanks to AI tools like Claude Code. Our…"
+  },
+  {
+    "Title": "The One = Digital planetary system we simply all agree on",
+    "Url": "https://blog.hermesloom.org/p/the-one-digital-planetary-system",
+    "Timestamp": "2025-11-28T23:02:39",
+    "Domain": "blog.hermesloom.org",
+    "Description": "Fragmentation of digital systems disrupts workflows and harms overall productivity."
+  },
+  {
+    "Title": "Be useful in emergencies",
+    "Url": "https://kg.dev/thoughts/emergencies",
+    "Timestamp": "2025-11-28T23:02:35",
+    "Domain": "kg.dev",
+    "Description": "Before the years of compounding technical experience, before accumulating an intricate understanding of corporate bureaucracy, before I started my own company — I was an intern. An intern who thought he knew more than any other intern on the planet. I miss the confidence I had before I learned more about the world. I really thought that I could do no wrong.As with most forms of arrogance, it didn’t take long to catch up to me. This time, in the form of a P0, company-wide alarm. When you’re 19, few things prepare you for a situation like this. The closest I had come to dealing with an emergency was a mandatory CPR class I took while working the front desk at a YMCA as a teenager. This, though, was different.The team that I worked on was in charge of datacenter failovers. This is the process of migrating traffic from one datacenter to another in case of an emergency. One day, there was some sort of cooling issue in one of our datacenters on the East Coast. Servers were getting overheated and we had to act fast to redirect traffic to the West Coast. It was my team’s time to shine.Code that is only executed during emergencies tends to collect cobwebs. In these cobwebs, there lived a bug. A bug that I had put there. The same one that rendered this emergency lever of ours completely useless. The only way around it was to do the failover by hand — a long, painful process involving dozens of people across the company.The embarrassment I felt when it was discovered that I had caused the issue was… something else. Thankfully, I had a great manager who made sure the attention was kept off of me until he had a chance to talk to me privately after this whole thing was resolved.At the end of the day, when all affected customers were migrated to the healthy datacenter and everyone was happy, my manager told me something I have never forgotten. The best piece of advice I’ve been given in my career:Things like this will happen again in your career. Things break all the time. Sometimes, it will be your doing and other times someone else’s. Regardless, you need to learn how to deal with situations like these. Learn to be useful during emergencies.Since then, I’ve tried to put myself in positions where I’d play a role in resolving major issues. Some caused by me; most (thankfully) not. Emergencies are scary and most people will try to weasel their way out of playing a major role in them, so this opens up space for those of us willing to take on the challenge. Take full advantage.The way that you deal with an emergency is a whole separate, complex topic. You should read Sources of Power by Gary Klein if you’re interested in learning about how professionals make decisions in high-stakes situations. For now, I’ll leave you with this one tip: Present as the calmest person in the room. Slow down your heart rate. Write things down so you don’t forget about all the moving pieces as they come in. Keep track of who is supposed to be doing what. Speak more slowly. Breathe."
+  },
+  {
+    "Title": "Securing File Imports: Fixing SSRF and XXE Vulnerabilities",
+    "Url": "https://hugo.writizzy.com/p/securing-file-imports-fixing-ssrf-and-xxe-vulnerabilities",
+    "Timestamp": "2025-11-28T23:02:31",
+    "Domain": "hugo.writizzy.com",
+    "Description": "How to fix SSRF and XXE vulnerabilities in file imports? Real-world case with exploitation, code examples, and security solutions in Kotlin."
+  },
+  {
+    "Title": "Interfaces should make understanding opt-out, not opt-in",
+    "Url": "https://www.amantulsyan.com/interfaces-should-make-understanding-opt-out-not-opt-in/",
+    "Timestamp": "2025-11-28T23:02:22",
+    "Domain": "www.amantulsyan.com",
+    "Description": "Current AI tools make understanding optional, creating passive builders who plateau at mediocrity. A case for interfaces that keep comprehension at the center while letting us choose when to abstract it away."
+  },
+  {
+    "Title": "Bringing Sexy Back",
+    "Url": "https://lux-magazine.com/article/privacy-eroticism/",
+    "Timestamp": "2025-11-28T23:02:19",
+    "Domain": "lux-magazine.com",
+    "Description": "Internet surveillance has killed eroticism. We need privacy to reclaim it."
+  },
+  {
+    "Title": "Twelve Thought Experiments on the Computational Theory of Consciousness – Joe Antognini",
+    "Url": "https://joe-antognini.github.io/ml/thought-experiments-on-consciousness",
+    "Timestamp": "2025-11-28T23:02:13",
+    "Domain": "joe-antognini.github.io",
+    "Description": "A few years ago I outlined the so-called “triviality argument” thatconsciousness cannot be reduced to the process of ..."
+  },
+  {
+    "Title": "Bridge Clearance",
+    "Url": "https://xkcd.com/3174/",
+    "Timestamp": "2025-11-28T22:02:04",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "EXCLUSIVE: Credit Report Shows Meta Keeping $27 Billion Off Its Books Through Advanced Geometry",
+    "Url": "https://stohl.substack.com/p/exclusive-credit-report-shows-meta",
+    "Timestamp": "2025-11-28T21:02:05",
+    "Domain": "stohl.substack.com",
+    "Description": "FSG LLC’s preliminary rating explains how a data center and selective eyesight create a perfectly legal accounting miracle."
+  },
+  {
+    "Title": "A Remarkable Assertion from A16Z",
+    "Url": "https://nealstephenson.substack.com/p/a-remarkable-assertion-from-a16z",
+    "Timestamp": "2025-11-28T19:02:06",
+    "Domain": "nealstephenson.substack.com",
+    "Description": "A friend made me aware of a reading list from A16Z containg recommendations for books, weighted towards science fiction since that’s mostly what people there read."
+  },
+  {
+    "Title": "Google CEO Says AI Coding Can Turn Everyone Into a Developer",
+    "Url": "https://www.interviewquery.com/p/ai-coding-vibe-coding-explained",
+    "Timestamp": "2025-11-28T19:02:01",
+    "Domain": "www.interviewquery.com",
+    "Description": "Google CEO Sundar Pichai says AI will make coding accessible to everyone, but engineers warn that vibe coding still struggles with reliability, complexity, and real-world software demands."
+  },
+  {
+    "Title": "Anerkennung von Open-Source-Arbeit als Ehrenamt in Deutschland - Online petition",
+    "Url": "https://www.openpetition.de/petition/online/anerkennung-von-open-source-arbeit-als-ehrenamt-in-deutschland#petition-main",
+    "Timestamp": "2025-11-28T17:02:11",
+    "Domain": "www.openpetition.de",
+    "Description": "Open-Source-Software bildet heute das Fundament großer Teile der digitalen Infrastruktur – in Verwaltung, Wirtschaft, Forschung und im täglichen Leben. Selbst im aktuellen Koalitionsvertrag der Bundesregierung wird Open-Source-Software als elementarer Baustein zur Erreichung digitaler Souveränität genannt. Dennoch wird die Arbeit, die tausende Freiwillige dafür leisten, in Deutschland steuer- und förderrechtlich nicht als Ehrenamt anerkannt. Dieses Ungleichgewicht zwischen gesellschaftlicher Bed"
+  },
+  {
+    "Title": "Why You Need a Pocket Router and How To Use One for Travel - Hotels/Airports/AirBNB/Cruises/More",
+    "Url": "https://youtube.com/watch?v=nT1ZIlEl3LE",
+    "Timestamp": "2025-11-28T15:02:00",
+    "Domain": "youtube.com",
+    "Description": "Stuck on awful hotel Wi-Fi? Watching ads just to check your email? In this episode I show you how a pocket travel router can completely change the way you connect on the road – including how I accidentally became the official Wi-Fi provider for an entire car show out of the trunk of my Pontiac.  Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nSlate 7 Black Friday Link: https://link.gl-inet.com/be3600-davesgarage-251130\nFor the Slate AX 1800: https://amzn.to/49hKPt2\n\nFor my episode on VLANs, check out: https://youtu.be/9fLwFKGvmAY\nCheck out my new merch store at: http://davesgaragemerch.com/\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl"
+  },
+  {
+    "Title": "I Added an Insane New Feature in C#",
+    "Url": "https://youtube.com/watch?v=R38EVyZk57A",
+    "Timestamp": "2025-11-28T15:01:59",
+    "Domain": "youtube.com",
+    "Description": "Get 40% off Dometrain with code BLACKFRIDAY25: https://dometrain.com/?ref=nick-chapsas&promo=youtube&coupon_code=BLACKFRIDAY25\n\nHello, everybody. I'm Nick, and in this video, I want to show you how I added a brand new feature in C# using extension members.\n\nCheck out my workshops: https://dometrain.com/workshops/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "GitHub - NullPxl/banrays: Glasses to detect smart-glasses that have cameras. Ray-BANNED",
+    "Url": "https://github.com/NullPxl/banrays",
+    "Timestamp": "2025-11-28T13:02:11",
+    "Domain": "github.com",
+    "Description": "Glasses to detect smart-glasses that have cameras. Ray-BANNED - NullPxl/banrays"
+  },
+  {
+    "Title": "250MWh 'Sand Battery' to start construction in Finland, for both heating and ancillary services",
+    "Url": "https://www.energy-storage.news/250mwh-sand-battery-to-start-construction-in-finland-for-both-heating-and-ancillary-services/",
+    "Timestamp": "2025-11-28T10:01:56",
+    "Domain": "www.energy-storage.news",
+    "Description": "Polar Night Energy and Lahti Energia have partnered for a project using 'Sand Battery' technology for a district heating network in Finland."
+  },
+  {
+    "Title": "The chip made for the AI inference era – the Google TPU",
+    "Url": "https://www.uncoveralpha.com/p/the-chip-made-for-the-ai-inference",
+    "Timestamp": "2025-11-28T02:02:06",
+    "Domain": "www.uncoveralpha.com",
+    "Description": "I am publishing a comprehensive deep dive, not just a technical overview, but also strategic and financial coverage of the Google TPU."
+  }
+]

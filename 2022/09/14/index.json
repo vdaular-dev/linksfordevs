@@ -1,0 +1,471 @@
+[
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://twitter.dr460nf1r3.org/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-14T23:04:15",
+    "Domain": "twitter.dr460nf1r3.org",
+    "Description": ""
+  },
+  {
+    "Title": "When are low-code prototypes useful? Evaluating startup market and",
+    "Url": "https://www.philipithomas.com/posts/when-are-low-code-prototypes-useful-evaluating-startup-market-and-implementation-risks",
+    "Timestamp": "2022-09-14T23:04:12",
+    "Domain": "www.philipithomas.com",
+    "Description": "Ask for advice on how to make a startup, and most people recommend starting with a low-code prototype.  There are categories of businesses where low-code prototypes can help you de-risk a new idea: • Blogging software (like Ghost did) • Marketplaces (l..."
+  },
+  {
+    "Title": "A quick glance at the Kubernetes Gateway API",
+    "Url": "https://blog.frankel.ch/kubernetes-gateway-api/",
+    "Timestamp": "2022-09-14T23:04:12",
+    "Domain": "blog.frankel.ch",
+    "Description": "In one of my recent blog posts, I described several ways to access Kubernetes pods. One can access a pod through its IP, but pods are naturally transient. The nominal way is to configure a Service: its IP is stable, and Kubernetes' job is to keep the mapping between a Service and its underlying pods up-to-date. Different kinds of services are available: internal only, NodePort to finally allow access from outside the cluster, and LoadBalancer that relies on a third-party component - in general, a"
+  },
+  {
+    "Title": "The Myth Of The Good Practice",
+    "Url": "https://lakesare.brick.do/the-myth-of-the-good-practice-DAPd1nB6Vnkg",
+    "Timestamp": "2022-09-14T23:04:11",
+    "Domain": "lakesare.brick.do",
+    "Description": "In this post, I will discuss the idea of &quot;good code&quot; and &quot;good practice&quot; widespread in the programming community. What do people mean when they say some code i..."
+  },
+  {
+    "Title": "Rustdoc cleanups and improvements",
+    "Url": "https://blog.guillaume-gomez.fr/articles/2022-09-13+Rustdoc+cleanups+and+improvements",
+    "Timestamp": "2022-09-14T23:04:11",
+    "Domain": "blog.guillaume-gomez.fr",
+    "Description": "tuto articles"
+  },
+  {
+    "Title": "Building an Email Open Tracking System - Part 1",
+    "Url": "https://blog.alexrothberg.com/2022/09/14/building-an-email-tracking-system-p1/",
+    "Timestamp": "2022-09-14T23:04:11",
+    "Domain": "blog.alexrothberg.com",
+    "Description": "I develop a system that allows the sender of an email message to track when their message is opened by their recipient(s)."
+  },
+  {
+    "Title": "Echo: httpbin on Cloudflare Workers",
+    "Url": "https://mirio.dev/post/echo-httpbin-on-workers/",
+    "Timestamp": "2022-09-14T23:04:10",
+    "Domain": "mirio.dev",
+    "Description": "As a developer you may have come across the site httpbin.org. The purpose of the website is to provide a simple request and response service. For example, issuing a simple HTTP GET request “echos” back the request as the response, using JSON as the format.\ncurl https://httpbin.org/get { \"args\": {}, \"headers\": { \"Accept\": \"*/*\", \"Host\": \"httpbin.org\", \"User-Agent\": \"curl/7.79.1\", }, \"origin\": \"127.0.0.1\", \"url\": \"https://httpbin.org/get\" } You can often find usages of httpbin in the wild, and given it is a really simple app it is a great candidate for being built on Workers."
+  },
+  {
+    "Title": "Revisiting Godot: GDScript",
+    "Url": "http://janpaul.website/blog/revisiting-godot/",
+    "Timestamp": "2022-09-14T23:04:10",
+    "Domain": "janpaul.website",
+    "Description": "Godot (pronounced “guh-DOE”) is a fully open-source game engine that aims to compete with giants like Unity and Unreal. I’ve written about it in the past, and at that time I was pretty harsh:\nGDScript is terrible. I refuse to use a language that I will only ever use for this one particular program. They do have C# support through Mono, which is cool. And it does have some other nice features, like first-class 2d support (including 2d lighting!"
+  },
+  {
+    "Title": "First .NET 7 Release Candidate Ships -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/09/14/net-7-rc1.aspx",
+    "Timestamp": "2022-09-14T23:04:10",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "After seven previews dating back to February, Microsoft shipped .NET 7 Release Candidate 1, the first of two before the framework reaches General Availability in early November."
+  },
+  {
+    "Title": "Where should you use gRPC? And where NOT!",
+    "Url": "https://codeopinion.com/where-should-you-use-grpc-and-where-not/",
+    "Timestamp": "2022-09-14T23:04:08",
+    "Domain": "codeopinion.com",
+    "Description": "Where is gRPC useful? gPRC is synchronous request-response. So the question really is, where should use synchronous request-response?"
+  },
+  {
+    "Title": "Enstil Postmortem",
+    "Url": "https://amansanger.com/posts/enstil.html",
+    "Timestamp": "2022-09-14T23:04:08",
+    "Domain": "amansanger.com",
+    "Description": "A postmortem on enstil.ai - a text-to-image site by Michael Truell and Aman Sanger."
+  },
+  {
+    "Title": "Updates for 7.0.0 rc.1 (#21) · DamianEdwards/MinimalApiPlayground@93ff276",
+    "Url": "https://github.com/DamianEdwards/MinimalApiPlayground/commit/93ff2762f4ad597b4d7d0d6af5ba3a7983bbbb82",
+    "Timestamp": "2022-09-14T23:04:08",
+    "Domain": "github.com",
+    "Description": "* Update for 7.0.0-rc.1\n\n- Centralize &amp; update package versions\n- Update global.json\n- Update code where nullability annotations have changed\n- Change to an inline error handling request d..."
+  },
+  {
+    "Title": "FreeBSD Cope with WiFi Fuckup",
+    "Url": "https://vermaden.wordpress.com/2022/09/14/freebsd-cope-with-wifi-fuckup/",
+    "Timestamp": "2022-09-14T23:04:08",
+    "Domain": "vermaden.wordpress.com",
+    "Description": "I really wanted the name of this article does not sound dramatically but I was not able to invent any other title … none the less the wireless/WiFi topic can be problematic on the FreeBSD lan…"
+  },
+  {
+    "Title": "12 takeaways from my first year as an Engineering Manager",
+    "Url": "https://www.anantjain.dev/on-engineering-management/",
+    "Timestamp": "2022-09-14T23:04:08",
+    "Domain": "www.anantjain.dev",
+    "Description": "Anant Jain's blog"
+  },
+  {
+    "Title": "How Dangerous Is Biking in New York?",
+    "Url": "https://gregorygundersen.com/blog/2022/06/18/how-dangerous-is-biking-in-nyc/",
+    "Timestamp": "2022-09-14T23:04:07",
+    "Domain": "gregorygundersen.com",
+    "Description": "My conservative estimate is that if I bike to work in New York City most days over a twenty-year career, then I have a 2.4% chance of severe injury or death from my commute. This calculation is conservative in the sense that I think it’s an upper bound on my risk. It makes a lot of assumptions which may not hold in practice, but it is based on city-reported data, and I believe it is a reasonable first approximation."
+  },
+  {
+    "Title": "Gym Power",
+    "Url": "https://omattos.com/2022/06/19/gym-power.html",
+    "Timestamp": "2022-09-14T23:04:07",
+    "Domain": "omattos.com",
+    "Description": "I always wondered… where does the energy from all the people in a gym go? Do gyms use it to power the lighting? Is it enough to sell and have an effect on the business bottom line? Might a really strong cyclist be paid to cycle all day?"
+  },
+  {
+    "Title": "Working Hybrid",
+    "Url": "https://peter.czanik.hu/posts/working-hybrid/",
+    "Timestamp": "2022-09-14T23:04:07",
+    "Domain": "peter.czanik.hu",
+    "Description": "I worked from home all my life, or at least that’s what I thought. Recently I learned that what do is actually called “hybrid” work. I do most of my work from home, however I also regularly visit the office. I can work a lot more efficiently at home, so, I work from there. Once a week I’m at the office where I do not progress that well with my tasks."
+  },
+  {
+    "Title": "On better browsers: arbitrary media queries and browser UIs | Kilian Valkhof",
+    "Url": "https://kilianvalkhof.com/2022/css-html/on-better-browsers-arbitrary-media-queries-and-browser-uis/",
+    "Timestamp": "2022-09-14T23:04:07",
+    "Domain": "kilianvalkhof.com",
+    "Description": "This morning Kitty Giraudel tweeted about an imaginary media query that would indicate right- or left-handedness and it made me imagine a future where sites can register support for one or more media features through a browser API, and the browser would offer these options in the UI. Two years ago I requested something similar […]"
+  },
+  {
+    "Title": "Attacking the Android kernel using the Qualcomm TrustZone",
+    "Url": "https://tamirzb.com/attacking-android-kernel-using-qualcomm-trustzone",
+    "Timestamp": "2022-09-14T23:04:06",
+    "Domain": "tamirzb.com",
+    "Description": "In this post I describe a somewhat unique Android kernel exploit, which utilizes the TrustZone in order to compromise the kernel."
+  },
+  {
+    "Title": "Setting up ZFS RAIDZ for Sequential Workload - Manish R Jain",
+    "Url": "https://manishrjain.com/setting-up-zfs-raidz-for-sequential-workload",
+    "Timestamp": "2022-09-14T23:04:06",
+    "Domain": "manishrjain.com",
+    "Description": "In a previous post, I showed how to put together a cheap load balancer server for $500. I later had an idea to use that server for storage too."
+  },
+  {
+    "Title": "Translucent Fractal Tteok",
+    "Url": "https://howonlee.github.io/2022/09/12/Translucent-20Fractal-20Tteok.html",
+    "Timestamp": "2022-09-14T23:04:06",
+    "Domain": "howonlee.github.io",
+    "Description": "This is really a cooked potato starch oobleck, but it’s translucent and the texture is uncannily like tteok so that’s why I’m calling it tteok. Read on for w..."
+  },
+  {
+    "Title": "What Exactly *Is* a Difficult Decision?",
+    "Url": "https://www.j0sh.us/Difficult-Decisions/",
+    "Timestamp": "2022-09-14T23:04:06",
+    "Domain": "www.j0sh.us",
+    "Description": "After work today I had on my to-do list to complete a set of short-answer questions. One of the prompts was - what is a “difficult decision” I had to make at my job? I had no idea how to answer this, because I didn’t really know what qualified as a difficult decision.\n\n"
+  },
+  {
+    "Title": "How Typical is the Solar System?",
+    "Url": "https://nickdrozd.github.io/2022/09/13/solar-system.html",
+    "Timestamp": "2022-09-14T23:04:06",
+    "Domain": "nickdrozd.github.io",
+    "Description": "Compared to other planetary systems, how typical is the Solar System? Until recently this question couldn’t be given a satsfactory answer because no other planetery systems were known. Astronomers’ theories of things like planet formation tended to be overfitted to the Solar System simply because there wasn’t enough data to come up with much else. But since the mid-2000s, several thousand exoplanets have been discovered, and many of these belong to one of more than 800 known multiplanetary systems. With these discoveries it is now possible to consider the Solar System (that is, the multiplanetary system based on the star Sol) in a more general context."
+  },
+  {
+    "Title": "Privacy vs “I have nothing to hide” - Kev Quirk",
+    "Url": "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/",
+    "Timestamp": "2022-09-14T22:04:01",
+    "Domain": "kevquirk.com",
+    "Description": "I wrote an article a while ago about why I’m ditching Android. That article got numerous comments asking why I was so concerned about privacy and asking what I have ... More -->"
+  },
+  {
+    "Title": "Basic Cryptography Without Fluff - Cronokirby",
+    "Url": "https://cronokirby.com/posts/2022/07/basic-cryptography-without-fluff/",
+    "Timestamp": "2022-09-14T22:04:01",
+    "Domain": "cronokirby.com",
+    "Description": "- Read more: https://cronokirby.com/posts/2022/07/basic-cryptography-without-fluff/"
+  },
+  {
+    "Title": "Weekly Update 313",
+    "Url": "https://youtu.be/f1-dHiMugqQ",
+    "Timestamp": "2022-09-14T21:04:23",
+    "Domain": "youtu.be",
+    "Description": "Brand New Tube Data Breach; The TikTok Data Breach That Wasn’t; The Book, Take 2; Now I’m Off to Get Married!"
+  },
+  {
+    "Title": "Weekly Update 313",
+    "Url": "https://youtube.com/watch?v=f1-dHiMugqQ",
+    "Timestamp": "2022-09-14T21:04:23",
+    "Domain": "youtube.com",
+    "Description": "Brand New Tube Data Breach; The TikTok Data Breach That Wasn’t; The Book, Take 2; Now I’m Off to Get Married!"
+  },
+  {
+    "Title": "Building Realtime Games with .NET MAUI | .NET Conf: Focus on MAUI",
+    "Url": "https://youtube.com/watch?v=3jcVYUE-Tww",
+    "Timestamp": "2022-09-14T20:03:37",
+    "Domain": "youtube.com",
+    "Description": "After all of the excellent topics today let's kick back and enjoy a good gaming session. We will be looking at how we can build games in .NET MAUI and especi..."
+  },
+  {
+    "Title": "ASP.NET Core updates in .NET 7 Release Candidate 1",
+    "Url": "https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/#experimental-kestrel-support-for-webtransport-over-http-3",
+    "Timestamp": "2022-09-14T20:03:36",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 Release Candidate 1 is now available! Check out what's new in ASP.NET Core in this update."
+  },
+  {
+    "Title": "First Batch of Color Fonts Arrives on Google Fonts",
+    "Url": "https://material.io/blog/color-fonts-are-here",
+    "Timestamp": "2022-09-14T20:03:36",
+    "Domain": "material.io",
+    "Description": "Customize color palettes, add gradients, and more with COLRv1"
+  },
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://nt.vern.cc/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-14T20:03:36",
+    "Domain": "nt.vern.cc",
+    "Description": ""
+  },
+  {
+    "Title": "📞 Community Call - Thursday September 15, 2022 @ 9:00am PT · Discussion #608 · Azure/azure-dev",
+    "Url": "https://github.com/Azure/azure-dev/discussions/608",
+    "Timestamp": "2022-09-14T20:03:35",
+    "Domain": "github.com",
+    "Description": "✨Hey friends of azd! It&#39;s that time again! We&#39;ll be having another community call on 📅 Thursday September 15, 2022 @ 9:00am PT! During this call, we&#39;ll share out what&#39;s new in azd, ..."
+  },
+  {
+    "Title": "ASP.NET Core updates in .NET 7 Release Candidate 1",
+    "Url": "https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-1/",
+    "Timestamp": "2022-09-14T19:03:30",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 Release Candidate 1 is now available! Check out what's new in ASP.NET Core in this update."
+  },
+  {
+    "Title": "Microsoft Teams Assignments Service's Journey to .NET 6",
+    "Url": "https://devblogs.microsoft.com/dotnet/microsoft-teams-assignments-service-dotnet-6-journey/",
+    "Timestamp": "2022-09-14T19:03:29",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The Assignments and Grades features in Teams have seen exponential growth in usage as schools around the world have undergone a digital transformation. To better meet the needs of teachers and students, we have recently migrated our backend service to .NET 6."
+  },
+  {
+    "Title": "Visual Studio 2022 17.4 Preview 2",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4-preview-2/",
+    "Timestamp": "2022-09-14T19:03:29",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We have released Visual Studio 2022 17.4 Preview 2. In this post we’ll share details about features added since Preview 1. Feedback from developers like you during our preview cycle is so important for us to deliver a final product that meets your high expectations."
+  },
+  {
+    "Title": "Announcing .NET 7 Release Candidate 1",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-1/",
+    "Timestamp": "2022-09-14T19:03:29",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing .NET 7 Release Candidate 1, the fastest .NET release to date. Learn about its cloud native and multi-platform features."
+  },
+  {
+    "Title": "Announcing Entity Framework 7 Release Candidate 1",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-ef7-rc1/",
+    "Timestamp": "2022-09-14T19:03:29",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "EF7 RC1 is released and includes top requested features from JSON column support to bulk updates and stored procedure mapping."
+  },
+  {
+    "Title": "Azure Code Signing, democratizing trust for developers and consumers",
+    "Url": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/azure-code-signing-democratizing-trust-for-developers-and/ba-p/3604669",
+    "Timestamp": "2022-09-14T17:05:06",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Microsoft strives to increase not only the security of the ecosystem, but also maintain our commitment to an open and inclusive ecosystem. Code signing is a part of that. It establishes the identity of the publisher of the application as well as the integrity that it has not been modified since publ..."
+  },
+  {
+    "Title": "GitHub - matthiasjost/dotnet-content-creators: ⚡A list of .NET content creators",
+    "Url": "https://github.com/matthiasjost/dotnet-content-creators",
+    "Timestamp": "2022-09-14T17:05:06",
+    "Domain": "github.com",
+    "Description": "⚡A list of .NET content creators. Contribute to matthiasjost/dotnet-content-creators development by creating an account on GitHub."
+  },
+  {
+    "Title": "Windows Terminal Preview 1.16 Release",
+    "Url": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-16-release/",
+    "Timestamp": "2022-09-14T17:05:05",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The Windows Terminal team is back with another release for you! This release introduces version 1.16 to Windows Terminal Preview and updates Windows Terminal to version 1.15 with these new features. As always, you can install Windows Terminal and Windows Terminal Preview from the Microsoft Store,"
+  },
+  {
+    "Title": "Sudden disturbing moves for IT in very large companies, mandated by CEOs. Is something happening? What would cause this?",
+    "Url": "https://old.reddit.com/r/sysadmin/comments/xda3jr/sudden_disturbing_moves_for_it_in_very_large/",
+    "Timestamp": "2022-09-14T16:03:48",
+    "Domain": "old.reddit.com",
+    "Description": "Over the last week, I have seen a lot of requests coming across about testing if my company can assist in some very large corporations (Fortune..."
+  },
+  {
+    "Title": "Start using EF Core with your existing Azure SQL Database in 5 minutes | Data Exposed: MVP Edition",
+    "Url": "https://youtu.be/1g79ZbeEeL8",
+    "Timestamp": "2022-09-14T16:03:47",
+    "Domain": "youtu.be",
+    "Description": "Come learn how to start using your existing Azure SQL Database using Entity Framework Core and EF Core Power Tools in this episode of Data Exposed: MVP Editi..."
+  },
+  {
+    "Title": "Azure Developer Command Line Interface open-source tool to accelerate the time it takes to deploy",
+    "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/azure-developer-command-line-interface-open-source-tool-to/ba-p/3612553",
+    "Timestamp": "2022-09-14T16:03:47",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "As a developer, you need to make decisions when it comes to building, deploying, and securing your application. Frequent questions you might ask are:    Which cloud services should I use with my code? Which libraries do I need to use? How should I set up my local development environment? How do I pr..."
+  },
+  {
+    "Title": "It’s finally here. Bicep is in Visual Studio!",
+    "Url": "https://devblogs.microsoft.com/visualstudio/bicepforvs/",
+    "Timestamp": "2022-09-14T16:03:46",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "In less than two years, Bicep’s VS Code extension has grown from zero users to more than 15 thousand a month. In addition to the Bicep extension’s success, millions of resources are now deployed with Bicep files via Azure CLI and Azure PowerShell."
+  },
+  {
+    "Title": "The subtleties of proper B+Tree implementation",
+    "Url": "https://ayende.com/blog/198241-B/the-subtleties-of-proper-b-tree-implementation?Key=765fc243-3526-4280-88b9-ad21fab35df5",
+    "Timestamp": "2022-09-14T15:02:22",
+    "Domain": "ayende.com",
+    "Description": "I mentioned earlier that B+Trees are a gnarly beast to implement properly. On the face of it, this is a really strange statement, because they are a pretty s..."
+  },
+  {
+    "Title": "Creating a lazy-start C++/WinRT coroutine from an eager-start one, part 2",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20220914-00/?p=107175",
+    "Timestamp": "2022-09-14T15:02:21",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Keeping a turkey in suspense."
+  },
+  {
+    "Title": "Announcing The Unicode® Standard, Version 15.0",
+    "Url": "https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.html",
+    "Timestamp": "2022-09-14T14:05:23",
+    "Domain": "blog.unicode.org",
+    "Description": "      Version 15.0 of the Unicode Standard is now available, including  the core specification, annexes, and data files. This version adds 4..."
+  },
+  {
+    "Title": "Here's Why Car Wheels Are So Flat These Days (And No, It's Not Just Aerodynamics And Styling) - The Autopian",
+    "Url": "https://www.theautopian.com/heres-why-car-wheels-are-so-flat-these-days-and-no-its-not-just-aerodynamics-and-styling/",
+    "Timestamp": "2022-09-14T14:05:22",
+    "Domain": "www.theautopian.com",
+    "Description": "Hello Autopians! Have you ever wondered why designers show sketches of concept cars with massive deep dish wheels, but when those cars actually make it to production the wheels end up being fairly flat? Adrian Clarke talked about this recently from a designers point of view, but I’m going to tell you why this is …"
+  },
+  {
+    "Title": "Learnathon - Learn .NET MAUI | #LearnAtReactor",
+    "Url": "https://youtube.com/watch?v=F9VcnI_AXnU",
+    "Timestamp": "2022-09-14T14:05:22",
+    "Domain": "youtube.com",
+    "Description": "Whether you're just starting or an experienced professional, the hands-on approach helps you reach your goals faster and more confidently. In this Learnathon..."
+  },
+  {
+    "Title": "YouTube",
+    "Url": "https://youtube.com/watch?v=shorts/MASYQ4fffkM",
+    "Timestamp": "2022-09-14T14:05:21",
+    "Domain": "youtube.com",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+  },
+  {
+    "Title": "More Readable C# Code with File-Scoped Namespaces in .NET 6",
+    "Url": "https://youtube.com/watch?v=MASYQ4fffkM&feature=share",
+    "Timestamp": "2022-09-14T13:02:15",
+    "Domain": "youtube.com",
+    "Description": "There has always been that one unnecessary level of indentation in C# files. Now, with .NET 6 and C# 10 you can get rid of it! With file scoped namespaces yo..."
+  },
+  {
+    "Title": "Indexers in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-indexers/",
+    "Timestamp": "2022-09-14T12:20:17",
+    "Domain": "code-maze.com",
+    "Description": "Indexers in C# allow instances of a class or struct to have indexes, which in turn enable us to do things we cannot do with arrays."
+  },
+  {
+    "Title": "More Readable C# Code with File-Scoped Namespaces in .NET 6",
+    "Url": "https://youtube.com/watch?v=MASYQ4fffkM",
+    "Timestamp": "2022-09-14T12:20:12",
+    "Domain": "youtube.com",
+    "Description": "There has always been that one unnecessary level of indentation in C# files. Now, with .NET 6 and C# 10 you can get rid of it! With file scoped namespaces yo..."
+  },
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://bird.trom.tf/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-14T07:02:23",
+    "Domain": "bird.trom.tf",
+    "Description": ""
+  },
+  {
+    "Title": "Continuous Deployment for Azure Container Apps using GitHub Actions - Part 9 - Bit of Technology",
+    "Url": "https://bitoftech.net/2022/09/13/continuous-deployment-for-azure-container-apps-using-github-actions-part-9/",
+    "Timestamp": "2022-09-14T06:04:16",
+    "Domain": "bitoftech.net",
+    "Description": "Part 9: Tutorial shows how to implement continuous integration and continuous deployment for Azure Container Apps using GitHub Actions"
+  },
+  {
+    "Title": "Using WSL 2 on Windows Server 2022 to run Linux containers",
+    "Url": "https://techcommunity.microsoft.com/t5/itops-talk-blog/using-wsl-2-on-windows-server-2022-to-run-linux-containers/ba-p/3624745",
+    "Timestamp": "2022-09-14T06:04:15",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Windows Subsystem for Linux 2 (WSL 2) is one of the most popular features for developers on Windows 10 and 11. It has recently been made available on Windows Server 2022. With this addition, you can now run Linux containers on WSL 2 on Windows Server 2022 for development and testing purposes.   Prep..."
+  },
+  {
+    "Title": ".NET One-line Scoped Initializers with Dependency Injection",
+    "Url": "https://khalidabuhakmeh.com/dotnet-one-line-scoped-initializers-with-dependency-injection",
+    "Timestamp": "2022-09-14T06:04:14",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "An extension method for IServiceProvider to do one-line initialization for ASP.NET Core and .NET apps"
+  },
+  {
+    "Title": "New Developer Advocacy Handbook chapter – How to create short and concise technical videos",
+    "Url": "https://christianheilmann.com/2022/09/13/new-developer-advocacy-handbook-chapter-how-to-create-short-and-concise-technical-videos/",
+    "Timestamp": "2022-09-14T06:04:14",
+    "Domain": "christianheilmann.com",
+    "Description": "This weekend I released a new video on the VS Code TikTok and YouTube channel which got some good interaction (53k visits on TikTok, 6k on YouTube)."
+  },
+  {
+    "Title": "Edge’s Super-Res Image Enhancement",
+    "Url": "https://textslashplain.com/2022/09/12/edges-super-res-image-enhancement/",
+    "Timestamp": "2022-09-14T06:04:13",
+    "Domain": "textslashplain.com",
+    "Description": "One interesting feature that the Edge team is experimenting with this summer is called “SuperRes” or “Enhance Images.” This feature allows Microsoft Edge to use a Microsoft-…"
+  },
+  {
+    "Title": "Architecture of a .NET Application: Case Studies - NDepend",
+    "Url": "https://blog.ndepend.com/architecture-of-a-net-application-case-studies/",
+    "Timestamp": "2022-09-14T06:04:13",
+    "Domain": "blog.ndepend.com",
+    "Description": "Understand the key points to architecture a .NET solution and discover how industry leaders are structuring their applications."
+  },
+  {
+    "Title": "Audio Science Review (ASR) Forum",
+    "Url": "https://www.audiosciencereview.com/forum/index.php?threads%252Fsecrets-about-the-consumer-audio-business-you-may-find-interesting.37344%252F=",
+    "Timestamp": "2022-09-14T05:02:52",
+    "Domain": "www.audiosciencereview.com",
+    "Description": "Audio reviews, science and engineering discussions."
+  },
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://india.unofficialbird.com/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-14T04:03:08",
+    "Domain": "india.unofficialbird.com",
+    "Description": ""
+  },
+  {
+    "Title": "[Book review] Gödel, Escher, Bach: an in-depth explainer - AI Alignment Forum",
+    "Url": "https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer",
+    "Timestamp": "2022-09-14T03:03:25",
+    "Domain": "www.alignmentforum.org",
+    "Description": "[View this post on LessWrong to see comments.] …"
+  },
+  {
+    "Title": "GitHub - jtucker/FunBlazorInAction: An experiment in converting the sample app from Blazor In Action to Fun.Blazor",
+    "Url": "https://github.com/jtucker/FunBlazorInAction",
+    "Timestamp": "2022-09-14T03:03:18",
+    "Domain": "github.com",
+    "Description": "An experiment in converting the sample app from Blazor In Action to Fun.Blazor - GitHub - jtucker/FunBlazorInAction: An experiment in converting the sample app from Blazor In Action to Fun.Blazor"
+  },
+  {
+    "Title": "A robust weighted allocation algorithm thanks to CsCheck · Anthony Lloyd",
+    "Url": "http://anthonylloyd.github.io/blog/2022/09/14/allocate",
+    "Timestamp": "2022-09-14T01:02:02",
+    "Domain": "anthonylloyd.github.io",
+    "Description": "A robust weighted allocation algorithm thanks to CsCheck"
+  },
+  {
+    "Title": ".NET Framework September 2022 Security and Quality Rollup",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2022-security-and-quality-rollup/",
+    "Timestamp": "2022-09-14T01:02:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "September 2022 Security and Quality Rollup for .NET Framework"
+  },
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://canada.unofficialbird.com/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-14T00:03:40",
+    "Domain": "canada.unofficialbird.com",
+    "Description": ""
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "Title": "Start Your Cloud Journey with Azure App Service",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/start-your-cloud-journey-with-azure-app-service/ba-p/3804037",
+    "Timestamp": "2023-09-01T23:03:41",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Moving a line-of-business application that’s been designed to run on-prem, or even on a virtual machine, to the cloud can be intimidating. Let's take a.."
+  },
+  {
+    "Title": "Make your smartphone a little dumber",
+    "Url": "https://shanedowling.com/make-your-smartphone-a-little-dumber.html",
+    "Timestamp": "2023-09-01T23:03:39",
+    "Domain": "shanedowling.com",
+    "Description": ""
+  },
+  {
+    "Title": "The Mystery of the Bloomfield Bridge",
+    "Url": "https://tylervigen.com/the-mystery-of-the-bloomfield-bridge",
+    "Timestamp": "2023-09-01T23:03:39",
+    "Domain": "tylervigen.com",
+    "Description": ""
+  },
+  {
+    "Title": "Half Year of Bringing Ideas to Life",
+    "Url": "https://journey.kunalmodi.com/p/half-year-of-bringing-ideas-to-life",
+    "Timestamp": "2023-09-01T23:03:38",
+    "Domain": "journey.kunalmodi.com",
+    "Description": "A six month update on my journey since leaving my 9-5 job."
+  },
+  {
+    "Title": "SaaS for Developers with Gwen Shapira — Postgres, Performance and Rails with Andrew Atkinson 🎙️",
+    "Url": "https://andyatkinson.com/blog/2023/08/28/saas-for-developers-gwen-shapira-postgresql-rails",
+    "Timestamp": "2023-09-01T23:03:38",
+    "Domain": "andyatkinson.com",
+    "Description": "A few months ago I joined the SaaS Developer Community to learn more about challenges SaaS developers face."
+  },
+  {
+    "Title": "Android Linux",
+    "Url": "https://hcrypt.net/2023/09/01/android-linux/",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "hcrypt.net",
+    "Description": "Running Linux on Android"
+  },
+  {
+    "Title": "Gestión de Contraseñas Usando Contenedores Podman",
+    "Url": "https://sergiobelkin.com/posts/gestion-de-contrasenas-usando-contenedores-podman/",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "sergiobelkin.com",
+    "Description": "Gestión de passwords usando podman y pass"
+  },
+  {
+    "Title": "Things To Look For In Work · Some ninja",
+    "Url": "https://www.bonfacemunyoki.com/post/2023-08-30-things-to-look-for-in-work/",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "www.bonfacemunyoki.com",
+    "Description": "Linux enthusiast. Audiophile. Huge anime fan. \"Retired\" amateur competitive swimmer. Tinkeror. Former typography nerd."
+  },
+  {
+    "Title": "Rust: Generics Considered Colorful",
+    "Url": "https://maxtaylor.dev/posts/2023/09/rust-generics-considered-colorful",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "maxtaylor.dev",
+    "Description": "This post shows that Rust’s generics are colorful. I’ll demonstrate anexample to show what I mean, and what the problems are."
+  },
+  {
+    "Title": "Doing Laundry on Campus Without a Phone",
+    "Url": "https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "naveenarun.wordpress.com",
+    "Description": "A Graduate Student’s Attempt to Find Sunshine as the Cloud Reigns Summary: I tried doing my laundry without a smartphone. This proved to be difficult, since our laundry machines can only be o…"
+  },
+  {
+    "Title": "Restarting macOS apps automatically on crash - Alin Panaitiu",
+    "Url": "https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "notes.alinpanaitiu.com",
+    "Description": "Normally apps crash because of bugs introduced by the developer, but in my experience, there are cases where crashes can be out of the developer’s control. For example the app might work with hardware closely, and the expectations the system has on that hardware are not met when a power or connection cord is yanked out (or if there’s any electromagnetic interference caused by your IKEA chair) Or maybe the app works with a network shared disk which disconnects abruptly in the middle of busy I/O, or a rogue driver changes the hardware tree while the app is traversing it, or God forbid, there is a kernel bug. ..."
+  },
+  {
+    "Title": "Rails Database Migrations Cheatsheet",
+    "Url": "https://www.akshaykhot.com/rails-database-migrations-cheatsheet/",
+    "Timestamp": "2023-09-01T23:03:37",
+    "Domain": "www.akshaykhot.com",
+    "Description": "The database schema evolves continuously. Rails migrations is a powerful and flexible way to update the schema without dropping and re-creating the database. However, all this power and flexibility can be overwhelming. Here's a handy cheatsheet for most common migration operations."
+  },
+  {
+    "Title": "Why Taiwan?",
+    "Url": "https://erickhun.com/posts/why-taiwan/",
+    "Timestamp": "2023-09-01T23:03:36",
+    "Domain": "erickhun.com",
+    "Description": "There is something special about Taiwan I couldn’t really explain the first time I arrived. On my first trip to Taiwan, I couldn’t put words to this positive feeling I had when roaming around the city. It was a mix of relaxation, freedom, safety, friendliness, and convenience, everything all at once. I didn’t do much; I walked randomly in the city, worked in coffee shops, ate in random restaurants. I only stayed a week, but I knew I’d come again for a longer stay."
+  },
+  {
+    "Title": "Maxwell Rules - Homographies: Looking through a pinhole",
+    "Url": "https://www.maxwellrules.com/math/looking_through_a_pinhole.html",
+    "Timestamp": "2023-09-01T23:03:36",
+    "Domain": "www.maxwellrules.com",
+    "Description": "Ever wondered how you can match the pixel coordinates on an image to actual\ncoordinates on the world? This post is for you! By the end of it\nyou will know how to construct (and derive) a relationship between the two.\nMost remarkably it all boils down to multiplying a bunch of 4x4 matrices."
+  },
+  {
+    "Title": "QakBot Takedown Payload Analysis",
+    "Url": "https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/",
+    "Timestamp": "2023-09-01T23:03:36",
+    "Domain": "cyber.wtf",
+    "Description": "In a recent international operation, law enforcement agencies from the US and EU have taken down the QakBot botnet (see Press Release by U.S. Department of Justice, or in German, Press Release by B…"
+  },
+  {
+    "Title": "Becoming a contractor",
+    "Url": "https://ochagavia.nl/blog/becoming-a-contractor/",
+    "Timestamp": "2023-09-01T23:03:36",
+    "Domain": "ochagavia.nl",
+    "Description": "How many roads must a programmer walk down before you call them a contractor? It’s been about three years since I went down this (bumpy) path, and I finally have the feeling that my contracting business is “bootstrapped”1. Here’s an account of my journey so far, hoping you find it inspiring!\n0. Contents Articles about contracting and freelancing usually take the form of abstract advice: how to find clients, how much you should charge, etc."
+  },
+  {
+    "Title": "Oldest software system in continuous use",
+    "Url": "https://www.guinnessworldrecords.com/world-records/636196-oldest-software-system-in-continuous-use",
+    "Timestamp": "2023-09-01T22:02:40",
+    "Domain": "www.guinnessworldrecords.com",
+    "Description": "The Guinness World Records Official site with ultimate record-breaking facts & achievements. Do you want to set a world record? Are you Officially Amazing?"
+  },
+  {
+    "Title": "Doug Lenat, 1950-2023",
+    "Url": "https://garymarcus.substack.com/p/doug-lenat-1950-2023",
+    "Timestamp": "2023-09-01T22:02:37",
+    "Domain": "garymarcus.substack.com",
+    "Description": "AI has lost a giant"
+  },
+  {
+    "Title": "Get Rider with 65% off",
+    "Url": "https://jb.gg/rd65off-vs4macsunset-x",
+    "Timestamp": "2023-09-01T21:02:56",
+    "Domain": "jb.gg",
+    "Description": "Following the announcement of Visual Studio for Mac’s retirement, we are offering a 65% discount on new subscriptions for Rider, the only cross-platform .NET IDE."
+  },
+  {
+    "Title": "Devs' Choice to Replace Visual Studio for Mac? Rider -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/09/01/rider-vs-for-mac.aspx",
+    "Timestamp": "2023-09-01T19:02:47",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "After Microsoft this week angered developers by giving up on Visual Studio for Mac and recommending alternative replacements, many of those devs have overwhelmingly voiced support for something else: the Rider IDE from JetBrains."
+  },
+  {
+    "Title": "Behind The Screen – 2023 September, Week 1 – Distractions",
+    "Url": "https://www.devleader.ca/2023/09/01/behind-the-screen-2023-september-week-1-distractions/",
+    "Timestamp": "2023-09-01T18:03:05",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another Behind The Screen vlog from Dev Leader! This week I touch on how distractions completely derailed a lot of my productivity and my next plan!"
+  },
+  {
+    "Title": "X/Twitter has updated its Terms of Service to let it use Posts for AI training",
+    "Url": "https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/",
+    "Timestamp": "2023-09-01T18:03:05",
+    "Domain": "stackdiary.com",
+    "Description": "I'm not looking to make a habit out of writing about the Terms of Service of companies; first, it was Brave, then Zoom, and I could have written about"
+  },
+  {
+    "Title": "How I started in software development",
+    "Url": "https://jeremydmiller.com/2023/09/01/how-i-started-in-software-development/",
+    "Timestamp": "2023-09-01T17:02:55",
+    "Domain": "jeremydmiller.com",
+    "Description": "A very rare Friday blog post, but don’t worry, I didn’t exert too much energy on it. TL;DR: I was lucky as hell, but maybe prepared well enough that I was able to seize the opportunitie…"
+  },
+  {
+    "Title": "What is CQRS #shorts #microservices",
+    "Url": "https://youtube.com/watch?v=G0_C3gYcyBQ",
+    "Timestamp": "2023-09-01T17:02:53",
+    "Domain": "youtube.com",
+    "Description": "What is CQRS? #shortsSupport me on Patreon to access the source code:https://www.patreon.com/mohamadlawandLet us connect:🌍  My website  - https://mohamadlaw..."
+  },
+  {
+    "Title": "How do I find out more about the fail-fast exception that occurs when an exception in a PPL task goes unobserved? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230901-00/?p=108693",
+    "Timestamp": "2023-09-01T14:02:41",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Digging into the internals."
+  },
+  {
+    "Title": "Delegating Handler - It's Like Middleware But For HttpClient",
+    "Url": "https://youtube.com/watch?v=_u6v4D6qgDI",
+    "Timestamp": "2023-09-01T13:02:56",
+    "Domain": "youtube.com",
+    "Description": "📌 Check out my Pragmatic Clean Architecture course: https://www.milanjovanovic.tech/pragmatic-clean-architecture🚀 Support me on Patreon to access the sourc..."
+  },
+  {
+    "Title": "Code Maze Weekly #183 - Code Maze",
+    "Url": "https://code-maze.com/code-maze-weekly-183/",
+    "Timestamp": "2023-09-01T11:03:06",
+    "Domain": "code-maze.com",
+    "Description": "Issue #183 of the Code Maze weekly. Check out what’s new this week and enjoy the read. .NET and C# Top Picks 9 “hidden” features in Visual Studio that you may not know [blog.elmah.io] Visual Studio is a great tool. But it has so many options that we’re bound to miss some of them. Let’s […]"
+  },
+  {
+    "Title": "Ask Microsoft if They Plan to Use Our Personal Data to Train AI",
+    "Url": "https://foundation.mozilla.org/en/campaigns/microsoft-ai/",
+    "Timestamp": "2023-09-01T10:02:40",
+    "Domain": "foundation.mozilla.org",
+    "Description": "Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all."
+  },
+  {
+    "Title": "Generative AI and .NET - Part 1 Intro | LINQ to Fail",
+    "Url": "https://www.aaron-powell.com/posts/2023-09-01-generative-ai-and-dotnet---part-1-intro/",
+    "Timestamp": "2023-09-01T09:03:44",
+    "Domain": "www.aaron-powell.com",
+    "Description": "It's time to start a new series with everyone's favourite topic of the moment, AI!"
+  },
+  {
+    "Title": "Auditing ZK circuits for a living (with David Wong - ZKSecurity.xyz)",
+    "Url": "https://youtube.com/watch?v=Gvi4_9nD8ME",
+    "Timestamp": "2023-09-01T07:04:00",
+    "Domain": "youtube.com",
+    "Description": "ZKSecurity : https://zksecurity.xyz/ZKSecurity on Twitter: https://twitter.com/zksecurityXYZDavid Wong on Twitter : https://twitter.com/cryptodavidwHypernova..."
+  },
+  {
+    "Title": "Turn on Nullability checks by default",
+    "Url": "https://steven-giesel.com/blogPost/f65dee5e-a4eb-44b4-b338-a453acfdd5bd",
+    "Timestamp": "2023-09-01T07:03:58",
+    "Domain": "steven-giesel.com",
+    "Description": "Since C# 8, we have nullable reference types. The word sounds odd, given the fact that reference types are always nullable. The idea is that the default is that your reference types have to be properly initialized. Here are my thoughts after a few years of using them.\n"
+  },
+  {
+    "Title": "A Definitive Guide to Using the Web Share API",
+    "Url": "https://www.telerik.com/blogs/definitive-guide-using-web-share-api",
+    "Timestamp": "2023-09-01T06:03:09",
+    "Domain": "www.telerik.com",
+    "Description": "Learn how the Web Share API works to enhance the experience of users sharing links, text and other data. See some common use cases and how to implement it."
+  },
+  {
+    "Title": "Use explicit Lambdas with LINQ",
+    "Url": "https://weblogs.asp.net/bleroy/linq-lambdas",
+    "Timestamp": "2023-09-01T06:03:07",
+    "Domain": "weblogs.asp.net",
+    "Description": "Here's an interesting bug... What's wrong with this code?\n\nvar clones = source.Select(SourceType.Clone);\nIn principle, nothing. Your IDE might even encourage you to write this instead of the&#160;&#8230;"
+  },
+  {
+    "Title": "Watch what we have to say about ZK security in the Node Guardians season 2 episode 1",
+    "Url": "https://www.zksecurity.xyz/blog/posts/nodeguardian/",
+    "Timestamp": "2023-09-01T06:03:07",
+    "Domain": "www.zksecurity.xyz",
+    "Description": "Check out the latest episode of Node Guardians to see our cofounder David Wong talk about ZK security and the future of ZK with Sam. In this episode, David discusses the different workflows that can be used for blockchain auditing, the importance of math in auditing, and the scope of work that blockchain auditors typically perform. He also talks about the challenges of working in different contexts, how vulnerabilities are rated, and the usefulness of formal verification."
+  },
+  {
+    "Title": "EI024: SQL Processing Service (Part 4)",
+    "Url": "https://youtube.com/watch?v=Qr-LbEasal0",
+    "Timestamp": "2023-09-01T06:03:06",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Playing MIDI through SoundFonts with NAudio and MeltySynth",
+    "Url": "https://markheath.net/post/naudio-midi-playback-soundfont-meltysynth",
+    "Timestamp": "2023-09-01T06:03:05",
+    "Domain": "markheath.net",
+    "Description": "Mark Heath's Development Blog"
+  },
+  {
+    "Title": "GitHub - starkware-libs/stone-prover",
+    "Url": "https://github.com/starkware-libs/stone-prover",
+    "Timestamp": "2023-09-01T06:03:05",
+    "Domain": "github.com",
+    "Description": "Contribute to starkware-libs/stone-prover development by creating an account on GitHub."
+  },
+  {
+    "Title": "NuGet - Lock files",
+    "Url": "https://bartwullems.blogspot.com/2023/08/nuget-lock-files.html",
+    "Timestamp": "2023-09-01T06:03:05",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "A feature I wasn’t aware of that it existed for NuGet is the concept of a lock file. This allows to lock the project dependency graph guaran..."
+  },
+  {
+    "Title": "Introduction to TDD",
+    "Url": "https://ijrussell.github.io/posts/introduction-to-tdd/",
+    "Timestamp": "2023-09-01T06:03:04",
+    "Domain": "ijrussell.github.io",
+    "Description": "In this post, we are going to learn how to use Test-Driven Development (TDD). You will discover why I find the technique useful and discover how to write tests that allow you to change the implentation of your code in a safe way that doesn't introduce bugs or break the tests."
+  },
+  {
+    "Title": "Testing C# with F#",
+    "Url": "https://ijrussell.github.io/posts/testing-csharp-with-fsharp/?s=09",
+    "Timestamp": "2023-09-01T06:03:04",
+    "Domain": "ijrussell.github.io",
+    "Description": "Did you know that in modern .Net Solutions, projects using different .Net languages can happily co-exist? This means that you can use the best tool for the job such as F# for your domain logic and C# for your UI or, as we do in this blog post, test C# code with F#."
+  },
+  {
+    "Title": "Announcing my new blog · Higashi.blog",
+    "Url": "https://higashi.blog/2023/08/31/new-blog/",
+    "Timestamp": "2023-09-01T06:03:04",
+    "Domain": "higashi.blog",
+    "Description": "31 Aug 2023"
+  },
+  {
+    "Title": "Optimistic Concurrency in ASP.NET Core Web API - Code Maze",
+    "Url": "https://code-maze.com/aspnetcore-webapi-optimistic-concurrency/",
+    "Timestamp": "2023-09-01T05:02:55",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will learn how to implement optimistic concurrency control in an ASP.NET Core Web API application with EF Core."
+  },
+  {
+    "Title": "[Africa] Let's Learn .NET - Generative AI",
+    "Url": "https://youtube.com/watch?v=i-Ga7CW3BF4",
+    "Timestamp": "2023-09-01T02:02:44",
+    "Domain": "youtube.com",
+    "Description": "Learn about AI, how to get started, and using ChatGPT to improve text completions. Come to learn something new and leave with something that we all built, to..."
+  },
+  {
+    "Title": "Rider: The Cross-Platform .NET IDE from JetBrains",
+    "Url": "https://jb.gg/rider4mac",
+    "Timestamp": "2023-09-01T00:04:26",
+    "Domain": "jb.gg",
+    "Description": "Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux"
+  },
+  {
+    "Title": "Teaching with AI",
+    "Url": "https://openai.com/blog/teaching-with-ai",
+    "Timestamp": "2023-09-01T00:04:24",
+    "Domain": "openai.com",
+    "Description": "We’re releasing a guide for teachers using ChatGPT in their classroom—including suggested prompts, an explanation of how ChatGPT works and its limitations, the efficacy of AI detectors, and bias. "
+  }
+]

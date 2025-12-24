@@ -1,0 +1,289 @@
+[
+  {
+    "Title": "Migrating a Class Library with System.Web Dependencies [10/18] Migrating from ASP.NET to ASP.NETCore",
+    "Url": "https://youtube.com/watch?v=TB7nfriQuGI",
+    "Timestamp": "2023-04-25T23:01:53",
+    "Domain": "youtube.com",
+    "Description": "In this video, Mike uses the Upgrade Assistant Visual Studio extension and System.Web adapters to migrate a class library with System.Web dependencies to .NE..."
+  },
+  {
+    "Title": "6 nonobvious tools that should be in your command-line toolbox",
+    "Url": "https://jorzel.github.io/6-nonobvious-tools-that-should-be-in-your-command-line-toolbox/",
+    "Timestamp": "2023-04-25T22:02:24",
+    "Domain": "jorzel.github.io",
+    "Description": "Introduction\n\n"
+  },
+  {
+    "Title": "I wrote a swift app in under an hour",
+    "Url": "https://www.bramadams.dev/202304132204/",
+    "Timestamp": "2023-04-25T22:02:20",
+    "Domain": "www.bramadams.dev",
+    "Description": "Can I create an app in under an hour that converts long form spoken audio to bullet points for texting? Let's find out!"
+  },
+  {
+    "Title": "Why Apache Kafka doesn't need fsync to be safe — Jack Vanlightly",
+    "Url": "https://jack-vanlightly.com/blog/2023/4/24/why-apache-kafka-doesnt-need-fsync-to-be-safe",
+    "Timestamp": "2023-04-25T22:02:20",
+    "Domain": "jack-vanlightly.com",
+    "Description": "TLDR: Apache Kafka doesn’t need fsyncs to be safe because it includes recovery in its replication protocol. It is a real-world distributed system that uses asynchronous log writing + recovery with some additional extra safety built-in. Asynchronous log writing allows it to provide robust performance"
+  },
+  {
+    "Title": "Talk: Building a /now page with Eleventy • Cory Dransfeldt",
+    "Url": "https://coryd.dev/posts/2023/talk-building-now-page-with-11ty/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "coryd.dev",
+    "Description": "I'm a software developer in Camarillo, California. I enjoy hanging out with my beautiful family and 4 rescue dogs, technology, automation, music, writing, reading and tv and movies."
+  },
+  {
+    "Title": "Announcing Orchard orchestration for managing macOS virtual machines at scale - Tart",
+    "Url": "https://tart.run/blog/2023/04/25/announcing-orchard-orchestration-for-managing-macos-virtual-machines-at-scale/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "tart.run",
+    "Description": "Tart is a virtualization toolset to build, run and manage macOS and Linux virtual machines (VMs) on Apple Silicon. Built by CI engineers for your automation needs. \n"
+  },
+  {
+    "Title": "How I addressed post-launch feedback for Wilderplace",
+    "Url": "https://trashmoon.com/blog/2023/how-i-addressed-launch-feedback-for-wilderplace/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "trashmoon.com",
+    "Description": "\n  \n  \n  \n\n\n"
+  },
+  {
+    "Title": "Slaying Code with Linux: The Tools I Use to Dominate in Development",
+    "Url": "https://emre.xyz/slaying-code-with-linux-the-tools-i-use-to-dominate-in-development",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "emre.xyz",
+    "Description": "As a developer, I've often been asked about my development environment. I love using Linux and have found it to be a powerful tool for my..."
+  },
+  {
+    "Title": "If software engineering roles were chess pieces, what would they be?",
+    "Url": "https://ntietz.com/blog/software-roles-as-chess-pieces/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "ntietz.com",
+    "Description": "Monday, February 27, 2023"
+  },
+  {
+    "Title": "On tools — bayindirh",
+    "Url": "https://blog.bayindirh.io/blog/on-tools/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "blog.bayindirh.io",
+    "Description": "Learning and being informed about new technologies is a habit of mine. I regularly visit webpages and follow RSS feeds to see what is happening and what are the new tools being developed."
+  },
+  {
+    "Title": "Sending Signal messages",
+    "Url": "https://blog.aawadia.dev/2023/04/24/signal-api/",
+    "Timestamp": "2023-04-25T22:02:19",
+    "Domain": "blog.aawadia.dev",
+    "Description": "IntroductionSomething I have always wanted is the ability to send messages programmatically to my phone. It is such a useful thing to have - being able to send out notifications myself via code and si"
+  },
+  {
+    "Title": "Finding enjoyment",
+    "Url": "https://jorzel.github.io/finding-enjoyment/",
+    "Timestamp": "2023-04-25T22:02:18",
+    "Domain": "jorzel.github.io",
+    "Description": "People often think that material possessions or external achievements will bring them happiness and fulfillment. This may include things like a high-paying job or social status. However, research has shown that these external factors are not necessarily the key to happiness.\n\n"
+  },
+  {
+    "Title": "The Most Annoying Math Problem",
+    "Url": "https://gavinhoward.com/2023/04/the-most-annoying-math-problem/",
+    "Timestamp": "2023-04-25T22:02:18",
+    "Domain": "gavinhoward.com",
+    "Description": "There is one math problem I want solved. It annoys me."
+  },
+  {
+    "Title": "Mastodon Is Doomed",
+    "Url": "https://justingarrison.com/blog/2023-04-24-mastodon-is-doomed/",
+    "Timestamp": "2023-04-25T22:02:18",
+    "Domain": "justingarrison.com",
+    "Description": "Mastodon won't be the next Twitter, and it's not because of Bluesky. The ideals and execution won't scale."
+  },
+  {
+    "Title": "Introduction to HTTP Multipart",
+    "Url": "https://blog.adamchalmers.com/multipart/",
+    "Timestamp": "2023-04-25T22:02:18",
+    "Domain": "blog.adamchalmers.com",
+    "Description": "Why use it? How does it work?"
+  },
+  {
+    "Title": "GitHub Copilot for CLI for PowerShell",
+    "Url": "https://www.hanselman.com/blog/github-copilot-for-cli-for-powershell",
+    "Timestamp": "2023-04-25T21:02:00",
+    "Domain": "www.hanselman.com",
+    "Description": "GitHub Next has this cool project that is basically Copilot for the CLI ..."
+  },
+  {
+    "Title": "ErikEJ.EFCorePowerTools.Cli 7.0.0-preview2",
+    "Url": "https://www.nuget.org/packages/ErikEJ.EFCorePowerTools.Cli/",
+    "Timestamp": "2023-04-25T21:02:00",
+    "Domain": "www.nuget.org",
+    "Description": "Entity Framework Core Power Tools command line tool"
+  },
+  {
+    "Title": ".NET Framework April 2023 Cumulative Update Preview Updates - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-framework-april-2023-cumulative-update-preview-updates/",
+    "Timestamp": "2023-04-25T21:01:56",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "April 2023 Cumulative Update Preview Updates for .NET Framework"
+  },
+  {
+    "Title": "Custom reverse proxies for .NET containers with YARP",
+    "Url": "https://youtube.com/watch?v=eIcYdcQnows",
+    "Timestamp": "2023-04-25T20:01:49",
+    "Domain": "youtube.com",
+    "Description": "YARP is a reverse proxy extensible via C#. YARP can help you with your online services – you can create stable public-facing API, do slow version rollout, A/..."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=x69cXfvsZ1U",
+    "Timestamp": "2023-04-25T19:02:19",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "Contributing to Windows Community Toolkit Now Easier -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/04/25/wct-update.aspx",
+    "Timestamp": "2023-04-25T19:02:18",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Microsoft's ongoing revamp of the Windows Community Toolkit (WCT) is providing multiple benefits, including making it easier for developer to contribute to the project, which is a collection of helpers, extensions and custom controls for building UWP and .NET apps for Windows. "
+  },
+  {
+    "Title": "Drawing Elements on Maps with .NET MAUI - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/drawing-on-maps-with-dotnet-maui/",
+    "Timestamp": "2023-04-25T19:02:18",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET MAUI now features a Map control that allows you not only to display a position with pins, but also render full geometry to essentially draw on a map! In this post I show you how to do it."
+  },
+  {
+    "Title": "Let's Learn .NET Virtual Events - All Around the World - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/lets-learn-dotnet-anywhere-in-the-world/",
+    "Timestamp": "2023-04-25T19:02:18",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Part of what makes .NET amazing is the global community of developers who use it, and we're bringing more content localized for developers around the world!"
+  },
+  {
+    "Title": "1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond",
+    "Url": "https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond",
+    "Timestamp": "2023-04-25T17:01:34",
+    "Domain": "www.gamedeveloper.com",
+    "Description": "In Age of Empires the time to complete each simulation step varies greatly: the rendering time changes if the user is watching units, scrolling, or sitting over"
+  },
+  {
+    "Title": "Fight for every byte it takes: Variable size data",
+    "Url": "https://ayende.com/blog/199361-B/fight-for-every-byte-it-takes-variable-size-data?Key=73f1175b-8518-4bd4-8657-233bf8dd7942",
+    "Timestamp": "2023-04-25T17:01:32",
+    "Domain": "ayende.com",
+    "Description": "In my previous post, we stored keys and values as raw numbers inside the 8KB page. That was simple, but wasteful. For many scenarios, we are never going to n..."
+  },
+  {
+    "Title": "A code comment noting the steps to take when a 256th enum field is added - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230425-00/?p=108091",
+    "Timestamp": "2023-04-25T17:01:32",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "A note for my future self."
+  },
+  {
+    "Title": "SLP: a new DDoS amplification vector in the wild",
+    "Url": "https://blog.cloudflare.com/slp-new-ddos-amplification-vector/",
+    "Timestamp": "2023-04-25T14:02:09",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Researchers have recently published the discovery of a new DDoS reflection/amplification attack vector leveraging the SLP protocol. Cloudflare expects the prevalence of SLP-based DDoS attacks to rise in the coming weeks"
+  },
+  {
+    "Title": "When Mann-Whitney U-test returns astonishingly incorrect p-values",
+    "Url": "https://aakinshin.net/posts/r-mann-whitney-incorrect-p-value/",
+    "Timestamp": "2023-04-25T13:02:32",
+    "Domain": "aakinshin.net",
+    "Description": "Discussing corner cases in which wilcox.test returns distorted p-values"
+  },
+  {
+    "Title": "Creating AWS email templates with Handlebars.js and MJML",
+    "Url": "https://blog.elmah.io/creating-aws-email-templates-with-handlebars-js-and-mjml/",
+    "Timestamp": "2023-04-25T13:02:32",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to create email templates with Handlebars.js and MJML. Handlebars is used to insert dynamic content while MJML is for building HTML."
+  },
+  {
+    "Title": "Recursive arguments for customizable constraint systems",
+    "Url": "https://eprint.iacr.org/2023/573",
+    "Timestamp": "2023-04-25T11:01:48",
+    "Domain": "eprint.iacr.org",
+    "Description": "Srinath Setty, Microsoft Research"
+  },
+  {
+    "Title": "How to Run an Async Method Synchronously in .NET - Code Maze",
+    "Url": "https://code-maze.com/run-async-method-synchronously-dotnet/",
+    "Timestamp": "2023-04-25T09:01:51",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will learn different ways how to run an async method synchronously in .NET as well as some potential problems."
+  },
+  {
+    "Title": "10 Awesome C# Refactoring Tips",
+    "Url": "https://www.telerik.com/blogs/10-awesome-csharp-refactoring-tips",
+    "Timestamp": "2023-04-25T06:01:57",
+    "Domain": "www.telerik.com",
+    "Description": "Though many easy-to-use resources are available to help with refactoring, you may not know about them. Check out these 10 tips!"
+  },
+  {
+    "Title": "Sands of MAUI: Issue #100 🎉",
+    "Url": "https://www.telerik.com/blogs/sands-maui-issue-100",
+    "Timestamp": "2023-04-25T06:01:56",
+    "Domain": "www.telerik.com",
+    "Description": "Welcome to the Sands of MAUI—newsletter-style issues dedicated to bringing together latest .NET MAUI content relevant to developers."
+  },
+  {
+    "Title": "Applying the decorator pattern in .NET Core using Castle.DynamicProxy",
+    "Url": "https://bartwullems.blogspot.com/2023/04/applying-decorator-pattern-in-net-core.html",
+    "Timestamp": "2023-04-25T06:01:53",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "In this post I want to explain what the decorator pattern is, why it is useful and how you can implement it in a generic way using Castle.Dy..."
+  },
+  {
+    "Title": "Top Free Tools for .NET Web API Load Testing and Benchmarking",
+    "Url": "https://ardalis.com/top-free-tools-dotnet-webapi-load-testing-benchmarking/",
+    "Timestamp": "2023-04-25T06:01:53",
+    "Domain": "ardalis.com",
+    "Description": "Load testing is an important step in ensuring that a .NET web API application performs well under heavy traffic. There are several free and open-source tools available for load testing, such as Apache JMeter, Gatling, LoadUI, Siege, and Apache Bench (ab). Additionally, for microbenchmarking specific code segments, Benchmark.NET is a useful tool. It is important to choose the right tool based on the load testing scenario, and understand the limitations of each tool before using it."
+  },
+  {
+    "Title": "Part 1 – Announcing Babylon.js 6.0",
+    "Url": "https://blogs.windows.com/windowsdeveloper/2023/04/20/part-1-announcing-babylon-js-6-0/",
+    "Timestamp": "2023-04-25T06:01:53",
+    "Domain": "blogs.windows.com",
+    "Description": "Our mission is to build one of the most powerful, beautiful, simple, and open web rendering engines in the world, and we are excited to announce the next step forward in that journey: the release of Babylon.js 6.0.\n\n[embed]https://youtu.be/nsqpuRCQV2"
+  },
+  {
+    "Title": "Type-safe ASP.NET Configuration in F#",
+    "Url": "https://glorifiedgluer.com/blog/2023/type-safe-asp-net-configuration-in-fsharp",
+    "Timestamp": "2023-04-25T06:01:53",
+    "Domain": "glorifiedgluer.com",
+    "Description": "How to have a type-safe ASP.NET configuration with F#."
+  },
+  {
+    "Title": "The shrinking role of semaphores",
+    "Url": "https://lwn.net/Articles/928026/",
+    "Timestamp": "2023-04-25T05:01:55",
+    "Domain": "lwn.net",
+    "Description": "The kernel's handling of concurrency has changed a lot over the years.  In\n2023, a kernel developer's toolkit includes tools like completions, highly\noptimized mutexes, and a variety of lockless\nalgorithms.  But, once upon a time, concurrency control came down to\nthe use of simple semaphores; a discussion on a small change to the\nsemaphore API shows just how much the role of semaphores has changed over\nthe course of the kernel's history."
+  },
+  {
+    "Title": "Putting the SQL back in NoSQL",
+    "Url": "https://youtube.com/watch?v=uzt1QkvQmHs",
+    "Timestamp": "2023-04-25T03:01:52",
+    "Domain": "youtube.com",
+    "Description": "Event hosted by the Pittsburgh .NET User Group. Join us to see more interesting events https://www.meetup.com/pghdotnetDo you like the familiarity of SQL, bu..."
+  },
+  {
+    "Title": "Episode 457 - Data API Builder",
+    "Url": "https://azpodcast.azurewebsites.net/post/Episode-457-Data-API-Builder",
+    "Timestamp": "2023-04-25T03:01:51",
+    "Domain": "azpodcast.azurewebsites.net",
+    "Description": "The Azure Podcast"
+  },
+  {
+    "Title": "Recipe Relativity",
+    "Url": "https://xkcd.com/2767/",
+    "Timestamp": "2023-04-25T02:01:48",
+    "Domain": "xkcd.com",
+    "Description": ""
+  }
+]

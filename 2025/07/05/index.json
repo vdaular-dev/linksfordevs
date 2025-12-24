@@ -1,0 +1,289 @@
+[
+  {
+    "Title": "Context Engineering Guide",
+    "Url": "https://nlp.elvissaravia.com/p/context-engineering-guide",
+    "Timestamp": "2025-07-05T22:02:50",
+    "Domain": "nlp.elvissaravia.com",
+    "Description": "Prompt engineering is being rebranded as context engineering"
+  },
+  {
+    "Title": "What 'Project Hail Mary' teaches us about the Planetscale vs. Neon debate | Costa on Software",
+    "Url": "https://blog.alexoglou.com/posts/database-decisions/",
+    "Timestamp": "2025-07-05T22:02:49",
+    "Domain": "blog.alexoglou.com",
+    "Description": "Personal website of Costa Alexoglou, your friendly software engineer."
+  },
+  {
+    "Title": "How to Network as an Introvert",
+    "Url": "https://aginfer.bearblog.dev/how-to-network-as-an-introvert/",
+    "Timestamp": "2025-07-05T22:02:48",
+    "Domain": "aginfer.bearblog.dev",
+    "Description": "A calm guide to networking as an introvert—learn how posture, presence, and small signals can help you connect meaningfully without faking extroversion."
+  },
+  {
+    "Title": "What if This is it?",
+    "Url": "https://prickly.oxhe.art/this-is-it/",
+    "Timestamp": "2025-07-05T22:02:48",
+    "Domain": "prickly.oxhe.art",
+    "Description": "A raw exploration of how fear of missing out destroys presence, and why enough is the most radical choice you can make. The rebellion against endless wanting starts here."
+  },
+  {
+    "Title": "myNoise Backstage | The Blog of myNoise ®",
+    "Url": "https://mynoise.net/blog.php",
+    "Timestamp": "2025-07-05T22:02:48",
+    "Domain": "mynoise.net",
+    "Description": "Behind the scenes of myNoise. Personal notes from the Stéphane, the creator of myNoise."
+  },
+  {
+    "Title": "Cursor’s 500 requests => “unlimited” => 225 requests",
+    "Url": "https://blog.kilocode.ai/p/cursors-500-requests-unlimited-225",
+    "Timestamp": "2025-07-05T22:02:47",
+    "Domain": "blog.kilocode.ai",
+    "Description": "Flat-fee pricing doesn't work."
+  },
+  {
+    "Title": "Security Advisory: Airoha-based Bluetooth Headphones and Earbuds",
+    "Url": "https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/",
+    "Timestamp": "2025-07-05T22:02:46",
+    "Domain": "insinuator.net",
+    "Description": "Important note: Some media coverage on this topic falsely or inaccurately depicts the attack conditions. To be clear: Any vulnerable device can be compromised if the attacker is in Bluetooth range. That is the only precondition.\n\n\n\nDuring our research on Bluetooth headphones and earbuds, we identified several vulnerabilities in devices that incorporate Airoha Systems on a Chip (SoCs). In t ..."
+  },
+  {
+    "Title": "How to create repositories in Artifactory with curl",
+    "Url": "https://www.zufallsheld.de/2025/06/30/til-how-to-create-artifactory-repos/",
+    "Timestamp": "2025-07-05T22:02:46",
+    "Domain": "www.zufallsheld.de",
+    "Description": "I recently created repositories in a new Artifactory instance. This was a testing instance and since I dind’t work with Artifactory much before this, I created them in the web-frontend by hand. I then wanted to get them as code so I could recreate them in the production Artifactory …"
+  },
+  {
+    "Title": "Writing Modular Prompts | Adnan's Random bytes",
+    "Url": "https://blog.adnansiddiqi.me/writing-modular-prompts/",
+    "Timestamp": "2025-07-05T22:02:45",
+    "Domain": "blog.adnansiddiqi.me",
+    "Description": "This post is part of the GenAI Series. These days, if you ask a tech-savvy person whether they know how to use ChatGPT, they might take it as an insult. After all, using GPT seems as simple as asking anything and instantly getting a magical answer. But here's the thing. There's a big difference between using"
+  },
+  {
+    "Title": "Using Merkle trees at Paylias",
+    "Url": "https://paylias.xyz/blog/merkle-trees",
+    "Timestamp": "2025-07-05T22:02:45",
+    "Domain": "paylias.xyz",
+    "Description": "How Merkle trees allowed us to move settlement on-chain efficiently"
+  },
+  {
+    "Title": "How To Search For Theorems In Lean 4",
+    "Url": "https://lakesare.brick.do/how-to-search-for-theorems-in-lean-4-WXebAQkXVmx1",
+    "Timestamp": "2025-07-05T22:02:45",
+    "Domain": "lakesare.brick.do",
+    "Description": "Summary\n\nUse a mix of LeanSearch, Loogle, and exact?.\n\n\nIntroduction\n\nIn the &quot;All Lean Books And Where To Find Them&quot; article, I advise a number of formalizatio..."
+  },
+  {
+    "Title": "We're all idiots and that's fine",
+    "Url": "https://blog.douwe.com/2025/07/were-all-idiots-and-thats-fine.html",
+    "Timestamp": "2025-07-05T22:02:45",
+    "Domain": "blog.douwe.com",
+    "Description": "I learned something about myself and the world. I discussed it over a beer with a good friend of mine and he thought it was interesting enou..."
+  },
+  {
+    "Title": "Hyper Case: Designing my own keyboard case",
+    "Url": "https://arslan.io/2025/07/05/hyper-case-designing-my-own-keyboard-case/",
+    "Timestamp": "2025-07-05T22:02:44",
+    "Domain": "arslan.io",
+    "Description": "The Hyper case is my latest design project. It's a custom-made case for the Halcyon Elora Split keyboard made by the company splitkb.com. I already published it on my website under the \"Design & Works\" page. But subscribers don't get a notification of those additions, so I thought I’d"
+  },
+  {
+    "Title": "Speed Up Django Queries with values() over only()",
+    "Url": "https://johnnymetz.com/posts/django-values-over-only/",
+    "Timestamp": "2025-07-05T22:02:44",
+    "Domain": "johnnymetz.com",
+    "Description": "If your Django queries feel slow, the problem might not be your database — it might be your ORM. Recently, I was working with a query that took 25 seconds to run through the Django ORM, but the underlying SQL completed in just 2 seconds. With a single change, I got the ORM query down to 2 seconds as well — and reduced the memory footprint by 70%.\nLet’s walk through what happened, and why using .values() instead of .only() can dramatically improve performance."
+  },
+  {
+    "Title": "CLAUDE.md: one big file vs linking to project docs",
+    "Url": "https://ntharani.com/posts/2025/claude-code-md-inference-vs-length/",
+    "Timestamp": "2025-07-05T22:02:44",
+    "Domain": "ntharani.com",
+    "Description": "The additional inference step wins"
+  },
+  {
+    "Title": "Predicting Average IMDb Movie Ratings Using Text Embeddings of Movie Metadata",
+    "Url": "https://minimaxir.com/2025/06/movie-embeddings/",
+    "Timestamp": "2025-07-05T22:02:42",
+    "Domain": "minimaxir.com",
+    "Description": "Don’t try this in your data science interviews."
+  },
+  {
+    "Title": "Product of Additive Inverses - Susam Pal",
+    "Url": "https://susam.net/product-of-additive-inverses.html",
+    "Timestamp": "2025-07-05T22:02:41",
+    "Domain": "susam.net",
+    "Description": "By Susam Pal on 29 May 2025"
+  },
+  {
+    "Title": "Vim Setup",
+    "Url": "https://yobibyte.github.io/vim.html",
+    "Timestamp": "2025-07-05T22:02:39",
+    "Domain": "yobibyte.github.io",
+    "Description": "Let's jump straight into it.\nThis is the neovim config I write all my code with.\nIt is just eleven lines, two key bindings, and it does not use any plugins.\nIn this post, I will shortly describe my vim journey, and explain why I ended up with this config."
+  },
+  {
+    "Title": "Local-first software: You own your data, in spite of the cloud",
+    "Url": "https://www.inkandswitch.com/essay/local-first/",
+    "Timestamp": "2025-07-05T19:02:18",
+    "Domain": "www.inkandswitch.com",
+    "Description": "A new generation of collaborative software that allows users to retain ownership of their data."
+  },
+  {
+    "Title": "Why You're STUCK at Senior Software Engineer - Dev Leader Weekly 101",
+    "Url": "https://www.devleader.ca/2025/07/05/why-youre-stuck-at-senior-software-engineer-dev-leader-weekly-101",
+    "Timestamp": "2025-07-05T13:02:14",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I discuss why you might be stuck as a senior software engineer and what to do about it.\n"
+  },
+  {
+    "Title": "Weekly Recap - 2025-07-04",
+    "Url": "https://www.devleader.ca/2025/07/05/weekly-recap-20250704",
+    "Timestamp": "2025-07-05T08:02:25",
+    "Domain": "www.devleader.ca",
+    "Description": "Check out this week from Dev Leader! Here's a list including articles and videos on software engineering, career development, and programming in C#!\n"
+  },
+  {
+    "Title": "being too ambitious is a clever form of self-sabotage",
+    "Url": "https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form",
+    "Timestamp": "2025-07-05T08:02:21",
+    "Domain": "maalvika.substack.com",
+    "Description": "on starting, doing, being, and becoming."
+  },
+  {
+    "Title": "House Passes Tax Bill Sending to President for Signature – Details Inside | KBKG",
+    "Url": "https://www.kbkg.com/feature/house-passes-tax-bill-sending-to-president-for-signature",
+    "Timestamp": "2025-07-05T07:02:07",
+    "Domain": "www.kbkg.com",
+    "Description": "Follow KBKG on Social Media Linkedin Facebook X-twitter Youtube By Gian Pazzia and Paul McVoy | Research & Development Tax Credits Breaking News –"
+  },
+  {
+    "Title": "Is an Intel N100 a better value than a Raspberry Pi?",
+    "Url": "https://www.jeffgeerling.com/blog/2025/intel-n100-better-value-raspberry-pi",
+    "Timestamp": "2025-07-05T02:02:13",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "tl;dr: it depends."
+  },
+  {
+    "Title": "NVIDIA is full of shit",
+    "Url": "https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/",
+    "Timestamp": "2025-07-05T01:02:19",
+    "Domain": "blog.sebin-nyshkim.net",
+    "Description": "Since the disastrous launch of the RTX 50 series, NVIDIA has been unable to escape negative headlines: scalper bots are snatching GPUs away from consumers before official sales even begin, power connectors continue to melt, with no fix in sight, marketing is becoming increasingly deceptive, GPUs are missing processing units when they leave the factory, and the drivers, for which NVIDIA has always been praised, are currently falling apart. And to top it all off, NVIDIA is becoming increasingly insistent that media push a certain narrative when reporting on their hardware."
+  },
+  {
+    "Title": "Using .NET Aspire With the Docker Publisher",
+    "Url": "https://www.milanjovanovic.tech/blog/using-dotnet-aspire-with-the-docker-publisher",
+    "Timestamp": "2025-07-05T01:02:16",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "A practical walkthrough of using .NET Aspire's Docker publisher to generate Docker Compose files from C# code. Learn how to set up an API with Postgres and Redis, publish to Docker Compose, and deploy to a VPS with minimal configuration."
+  },
+  {
+    "Title": "Lightfast Testing: 50+ Coloured Pencil Brands",
+    "Url": "https://sarahrenaeclark.com/lightfast-testing-pencils/",
+    "Timestamp": "2025-07-05T00:03:36",
+    "Domain": "sarahrenaeclark.com",
+    "Description": "Discover the best and worst coloured pencils and markers for lightfastness, ensuring your artwork stays vibrant and doesn't fade too quickly."
+  },
+  {
+    "Title": "How Many Agents Does it Take to Beat PyTorch?(surprisingly not that much)",
+    "Url": "https://letters.lossfunk.com/p/how-many-agents-does-it-take-to-beat",
+    "Timestamp": "2025-07-05T00:03:36",
+    "Domain": "letters.lossfunk.com",
+    "Description": "Or: What happens when you give AI-agents a GPU and tell them to make it go brrr."
+  },
+  {
+    "Title": "pledge in OpenBSD",
+    "Url": "https://mateorfz.ir/posts/pledge-in-open-bsd",
+    "Timestamp": "2025-07-05T00:03:34",
+    "Domain": "mateorfz.ir",
+    "Description": "July 4, 2025"
+  },
+  {
+    "Title": "Intra: design notes on an LLM-driven text adventure",
+    "Url": "https://ianbicking.org/blog/2025/07/intra-llm-text-adventure",
+    "Timestamp": "2025-07-05T00:03:33",
+    "Domain": "ianbicking.org",
+    "Description": "Last year I participated in a text adventure hackathon to build a text-based game using AI. I’d already been thinking about it but it was a great opportunity to put together those thoughts into something real. Since then I made many improvements, and while I’ve shelved the project for other endeavors I still want to write up what I’ve learned along the way."
+  },
+  {
+    "Title": "Bad Prompting Is the New Bad Engineering",
+    "Url": "https://ryanperry.io/post/cost-of-poor-prompting",
+    "Timestamp": "2025-07-05T00:03:32",
+    "Domain": "ryanperry.io",
+    "Description": "Built the same crossword app twice. Bad prompt took 6+ hours, good prompt took 40 minutes. Prompt engineering is actually a real skill."
+  },
+  {
+    "Title": "Building a message board for Claude, learning MCP along the way",
+    "Url": "https://andrewperkins.com.au/a-message-board-for-claude/",
+    "Timestamp": "2025-07-05T00:03:31",
+    "Domain": "andrewperkins.com.au",
+    "Description": "I read an interesting post recently about creating a hackable AI assistant. There were a lot of things that appealed to me about it:\n\n * Simple. Not using abstractions like LangChain which have always felt a bit heavy to me\n * Custom context. Collect the data you need in regular code and"
+  },
+  {
+    "Title": "The Scam of Age Verification",
+    "Url": "https://pornbiz.com/post/17/the_scam_of_age_verification",
+    "Timestamp": "2025-07-05T00:03:31",
+    "Domain": "pornbiz.com",
+    "Description": "The Scam of Age Verification - PORNBIZ.COM"
+  },
+  {
+    "Title": "Using Jujutsu (jj) to teach a course",
+    "Url": "https://diskuv.com/blog/2025-07-03-teaching-with-jujutsu/",
+    "Timestamp": "2025-07-05T00:03:31",
+    "Domain": "diskuv.com",
+    "Description": ""
+  },
+  {
+    "Title": "Counting at Scale",
+    "Url": "https://priyavr.at/blog/hyperloglog/",
+    "Timestamp": "2025-07-05T00:03:31",
+    "Domain": "priyavr.at",
+    "Description": "A mathematical exploration of efficiently counting at scale, where traditional methods fall short."
+  },
+  {
+    "Title": "Lessons From Creating My First Text Adventure",
+    "Url": "https://entropicthoughts.com/lessons-from-creating-first-text-adventure",
+    "Timestamp": "2025-07-05T00:03:30",
+    "Domain": "entropicthoughts.com",
+    "Description": "When I write about the greatness of text adventures, I pretend they are easy to\nmake. They are, compared to many other types of games, but it’s still a bit of a\nlie. They’re hard to make."
+  },
+  {
+    "Title": "Not being federated and E2E as an advantage | Die wunderbare Welt von Isotopp",
+    "Url": "https://blog.koehntopp.info/2025/06/17/no-federation-no-e2e.html",
+    "Timestamp": "2025-07-05T00:03:30",
+    "Domain": "blog.koehntopp.info",
+    "Description": "Kris Köhntopp's blog (Fedi: @isotoppinfosec.exchange)"
+  },
+  {
+    "Title": "Everything around LLMs is still magical and wishful thinking",
+    "Url": "https://dmitriid.com/everything-around-llms-is-still-magical-and-wishful-thinking",
+    "Timestamp": "2025-07-05T00:03:30",
+    "Domain": "dmitriid.com",
+    "Description": "Everything around LLMs is still magical and wishful thinking"
+  },
+  {
+    "Title": "Process Vs Prejudice",
+    "Url": "https://shkspr.mobi/blog/2025/07/process-vs-prejudice/",
+    "Timestamp": "2025-07-05T00:03:30",
+    "Domain": "shkspr.mobi",
+    "Description": "I recently read an interesting article about Accountability Sinks. In it, the author argues that part of the reason for having business processes is that they diffuse accountability.  Every one of us has tried to have an argument with an employee of a big company, and it always goes like this:  the human being you are speaking to is only allowed to follow a set of processes and rules that pass on …"
+  },
+  {
+    "Title": "Switch project, part 3 - what Microchip doesn't (officially) tell you about the VSC8512",
+    "Url": "https://serd.es/2025/07/04/Switch-project-pt3.html",
+    "Timestamp": "2025-07-05T00:03:29",
+    "Domain": "serd.es",
+    "Description": "This is part 3 of my ongoing series about LATENTRED, my project to create an open source 1U managed Ethernet switch\nfrom scratch."
+  },
+  {
+    "Title": "How much code does that proc macro generate?",
+    "Url": "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html",
+    "Timestamp": "2025-07-05T00:03:28",
+    "Domain": "nnethercote.github.io",
+    "Description": "Rust’s proc macros are powerful but tricky, and have some compile-time costs. This post is about a new tool to help quantify and reduce some of those costs."
+  }
+]

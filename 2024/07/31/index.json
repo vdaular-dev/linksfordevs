@@ -1,0 +1,254 @@
+[
+  {
+    "Title": "Self hosting a website analytics at zero cost",
+    "Url": "https://www.andreagrandi.it/posts/self-hosting-analytics-at-zero-cost/",
+    "Timestamp": "2024-07-31T23:01:26",
+    "Domain": "www.andreagrandi.it",
+    "Description": "How to self host a website analytics solution at zero cost using Umami, Vercel, Xata and Cloudflare."
+  },
+  {
+    "Title": "How do you change browser in Slack anyway?",
+    "Url": "https://127001.me/post/change-browser-in-slack/",
+    "Timestamp": "2024-07-31T23:01:25",
+    "Domain": "127001.me",
+    "Description": "Overriding the default browser in Slack is my vexatious personal itch. I have a dedicated browser just for work, and I use Slack solely for work. Any link from Slack, be it a GitHub pull request, an unlisted corporate video on YouTube, or an internal meme, I want to open it in my work-only browser. Everything else I want to open in my default browser. And if I get this to work, I’ll be awesome."
+  },
+  {
+    "Title": "Create Beautiful PDFs with HTML, CSS, and Markdown",
+    "Url": "https://michaelnthiessen.com/create-beautiful-pdfs-with-html-css-and-markdown",
+    "Timestamp": "2024-07-31T23:01:25",
+    "Domain": "michaelnthiessen.com",
+    "Description": "I built an easy-to-use tool that lets me use just HTML, CSS, and Markdown to create beautiful ebooks and PDFs."
+  },
+  {
+    "Title": "On software as an \"in-discipline\"",
+    "Url": "https://nadh.in/blog/on-software-as-an-indiscipline/",
+    "Timestamp": "2024-07-31T23:01:24",
+    "Domain": "nadh.in",
+    "Description": "Some long lingering thoughts, prompted by the CrowdStrike fiasco."
+  },
+  {
+    "Title": "Custom Enterprise LLM/RAG with Real-Time Fine-Tuning - Machine Learning Techniques",
+    "Url": "https://mltechniques.com/2024/07/25/custom-enterprise-llm-rag-with-real-time-fine-tuning/",
+    "Timestamp": "2024-07-31T23:01:24",
+    "Domain": "mltechniques.com",
+    "Description": "This article features an application of xLLM to extract information from a corporate corpus, using prompts referred to as \"queries\". The goal is to serve the business user -- typically an employee of the company or someone allowed access -- with condensed, relevant pieces of information including links, examples, PDFs, tables, charts, definitions and so"
+  },
+  {
+    "Title": "Back in a few months, I'm networking an octopus",
+    "Url": "https://mas-bandwidth.com/back-in-a-few-months-im-networking-an-octopus/",
+    "Timestamp": "2024-07-31T23:01:24",
+    "Domain": "mas-bandwidth.com",
+    "Description": "An octopus in virtual reality to be precise"
+  },
+  {
+    "Title": "Bridge Command",
+    "Url": "https://mssv.net/2024/07/31/bridge-command/",
+    "Timestamp": "2024-07-31T23:01:24",
+    "Domain": "mssv.net",
+    "Description": "A thrilling starship simulator that marries video games, D&D, and live action role playing."
+  },
+  {
+    "Title": "Porting Lean to the ESP32-C3 RISC-V microcontroller",
+    "Url": "https://kuruczgy.com/blog/2024/07/31/lean-esp32/",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "kuruczgy.com",
+    "Description": "The goal of this project is to cross-compile Lean programs to the ESP32-C3. (You can find all the code in this repository.)"
+  },
+  {
+    "Title": "Why SQL is Forever | Swizec Teller",
+    "Url": "https://swizec.com/blog/why-sql-is-forever/",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "swizec.com",
+    "Description": "Never underestimate the power of good marketing for bad products. NoSQL was fun but SQL is here to stay."
+  },
+  {
+    "Title": "cppfront: Midsummer update",
+    "Url": "https://herbsutter.com/2024/07/28/cppfront-midsummer-update/",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "herbsutter.com",
+    "Description": "Over the winter and spring I spent a bunch of time building my essay “C++ safety, in context” and the related ACCU 2024 safety keynote, and on behind-the-scenes work toward improving C+…"
+  },
+  {
+    "Title": "Conditional logging with query parameters",
+    "Url": "https://mmazzarolo.com/blog/2024-07-30-conditional-logging/",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "mmazzarolo.com",
+    "Description": "A simple pattern for enabling conditional logging using query parameters in your web applications."
+  },
+  {
+    "Title": "Why are open source nonprofits so weird?",
+    "Url": "https://ergaster.org/posts/2024/07/31-open-source-nonprofits-weird/",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "ergaster.org",
+    "Description": "In the open source industry, creating an American nonprofit to serve and fund a project is not uncommon. These structures can choose a fiscal status depending on their needs within a wide range defined by the IRS. The 501(c)(3) status is widespread in the industry. These structures must follow specific legal and tax requirements, which means that sometimes, their interests can seem misaligned with the project they originate from."
+  },
+  {
+    "Title": "Composing Kubectl Commands in Style with Kubed",
+    "Url": "https://eshelyaron.com/posts/2024-07-31-crafting-kubectl-commands-in-style-with-kubed.html",
+    "Timestamp": "2024-07-31T23:01:23",
+    "Domain": "eshelyaron.com",
+    "Description": "A post by Eshel Yaron about tight integration with the command line Kubed, a new Emacs package for Kubernetes"
+  },
+  {
+    "Title": "Why I Dislike Maturity Models",
+    "Url": "https://adrianhoward.com/posts/maturity-models/",
+    "Timestamp": "2024-07-31T23:01:22",
+    "Domain": "adrianhoward.com",
+    "Description": "TL;DR: There isn't a single linear path from immature to mature. Immature does not mean bad. Cause and effect get confused. Maturity is not an end point."
+  },
+  {
+    "Title": "The Most Productive LLM Stack (for me)",
+    "Url": "https://www.yvesjunqueira.com/llm-tech-stack",
+    "Timestamp": "2024-07-31T23:01:22",
+    "Domain": "www.yvesjunqueira.com",
+    "Description": "Recommendations to build robust, scalable, and efficient LLM-powered applications"
+  },
+  {
+    "Title": "Enhancing #help in F# Interactive - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/enhancing-help-in-fsi/",
+    "Timestamp": "2024-07-31T19:01:09",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The '#help' directive in F# Interactive can now quickly access documentation instantly within the REPL."
+  },
+  {
+    "Title": "Exam Numbers",
+    "Url": "https://xkcd.com/2966/",
+    "Timestamp": "2024-07-31T19:01:08",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How to compress out interior padding in a std::pair and why you don't want to - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240731-00/?p=110069",
+    "Timestamp": "2024-07-31T18:01:03",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Context-sensitive layout means you get a different structure each time you use it."
+  },
+  {
+    "Title": "Meta Segment Anything Model 2",
+    "Url": "https://ai.meta.com/sam2/",
+    "Timestamp": "2024-07-31T15:01:06",
+    "Domain": "ai.meta.com",
+    "Description": "SAM 2 is a segmentation model that enables fast, precise selection of any object in any video or image."
+  },
+  {
+    "Title": "`find` + `mkdir` is Turing complete (retracted)",
+    "Url": "https://ogiekako.vercel.app/blog/find_mkdir_tc",
+    "Timestamp": "2024-07-31T15:01:05",
+    "Domain": "ogiekako.vercel.app",
+    "Description": "The proof is flawed and I retract the claim that I proved that find + mkdir is Turing complete.\nSee https://news.ycombinator.com/item?id=41117141. I will update the article if I could fix the proof."
+  },
+  {
+    "Title": "GitHub - sickcodes/Docker-OSX: Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+    "Url": "https://github.com/sickcodes/Docker-OSX",
+    "Timestamp": "2024-07-31T14:01:05",
+    "Domain": "github.com",
+    "Description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. - sickcodes/Docker-OSX"
+  },
+  {
+    "Title": "Azure Functions Best Practices For Performance, Reliability And Security | Build5Nines",
+    "Url": "https://build5nines.com/azure-functions-best-practices-for-performance-reliability-and-security/",
+    "Timestamp": "2024-07-31T06:01:31",
+    "Domain": "build5nines.com",
+    "Description": "Building Microservice and Serverless architectures demand different design patterns to be used that other traditional application architectures. Even the"
+  },
+  {
+    "Title": "React Hooks vs. Redux in 2024",
+    "Url": "https://www.syncfusion.com/blogs/post/react-hooks-vs-redux",
+    "Timestamp": "2024-07-31T06:01:30",
+    "Domain": "www.syncfusion.com",
+    "Description": "Learn how React Hooks vs. Redux compare for state management, including their core concepts, best use cases, and tips for integrating both in your React applications."
+  },
+  {
+    "Title": "Using Entity Framework Core with MongoDB",
+    "Url": "https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/",
+    "Timestamp": "2024-07-31T06:01:29",
+    "Domain": "www.freecodecamp.org",
+    "Description": "Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho..."
+  },
+  {
+    "Title": "Create a .NET PlantUML Markdown Render Extension",
+    "Url": "https://weblog.west-wind.com/posts/2024/Jul/29/Create-a-PlantUML-Markdown-RenderExtension",
+    "Timestamp": "2024-07-31T06:01:28",
+    "Domain": "weblog.west-wind.com",
+    "Description": "PlantUML is a Web based diagramming markup language that can be used to create diagrams using text descriptions that are rendered into images via a PlantUML server. In this post I describe how you can integrate PlantUML image rendering into your .NET application, specifically from a Markdown rendering perspective as Markdown documents are the most common mechanism that PlantUML output is delivered."
+  },
+  {
+    "Title": ".NET 6: Don’t Panic Yet - But .NET 6 End of Support Is On The Horizon",
+    "Url": "https://www.mobilize.net/blog/net-6-end-of-support-is-on-the-horizon",
+    "Timestamp": "2024-07-31T06:01:28",
+    "Domain": "www.mobilize.net",
+    "Description": ".NET 6 end of support is looming. Learn how to mitigate security risks and ensure your applications remain stable by upgrading to .NET 8."
+  },
+  {
+    "Title": "ASP.NET Core Basics: Working with JSON",
+    "Url": "https://www.telerik.com/blogs/asp.net-core-basics--working-with-json",
+    "Timestamp": "2024-07-31T06:01:28",
+    "Domain": "www.telerik.com",
+    "Description": "Check out this post for the main features of ASP.NET Core for handling data in JSON format."
+  },
+  {
+    "Title": "The React useSyncExternalStore Hook",
+    "Url": "https://www.telerik.com/blogs/react-usesyncexternalstore-hook",
+    "Timestamp": "2024-07-31T06:01:27",
+    "Domain": "www.telerik.com",
+    "Description": "The useSyncExternalStore hook in React is designed to handle subscriptions to external data stores within React components."
+  },
+  {
+    "Title": "Highlights from Git 2.46",
+    "Url": "https://github.blog/open-source/git/highlights-from-git-2-46/",
+    "Timestamp": "2024-07-31T06:01:27",
+    "Domain": "github.blog",
+    "Description": "Git 2.46 is here with new features like pseudo-merge bitmaps, more capable credential helpers, and a new git config command. Check out our coverage on some of the highlights here."
+  },
+  {
+    "Title": "AWS CodeCommit quietly deprecated",
+    "Url": "https://simonwillison.net/2024/Jul/30/aws-codecommit-quietly-deprecated/",
+    "Timestamp": "2024-07-31T06:01:26",
+    "Domain": "simonwillison.net",
+    "Description": "CodeCommit is AWS's Git hosting service. In a reply from an AWS employee to this forum thread: > Beginning on 06 June 2024, AWS CodeCommit ceased onboarding new customers. Going …"
+  },
+  {
+    "Title": "Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues",
+    "Url": "https://khalidabuhakmeh.com/fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues",
+    "Timestamp": "2024-07-31T06:01:25",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Fix an issue deploying iOS apps to iOS simulator with .NET MAUI"
+  },
+  {
+    "Title": "Instead of restricting AI and algorithms, make them explainable",
+    "Url": "https://martinfowler.com/articles/2024-restrict-algorithm.html",
+    "Timestamp": "2024-07-31T06:01:25",
+    "Domain": "martinfowler.com",
+    "Description": "a short post"
+  },
+  {
+    "Title": "Using Web Authentication (OAuth2) to access Figma from Windows and Uno Platform Application - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/figma-oauth-uno-extensions/",
+    "Timestamp": "2024-07-31T05:01:06",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "OAuth2 is quite a common authentication standard for web services to use. Whilst a lot of services have now updated to use OpenID Connect, there are still some, like the Figma api, that still use OAuth2. In this post we’re going to walk through using the Uno.Extensions web authentication package to simplify not only the ... Read more"
+  },
+  {
+    "Title": "Translating All C to Rust",
+    "Url": "https://www.darpa.mil/program/translating-all-c-to-rust",
+    "Timestamp": "2024-07-31T03:01:06",
+    "Domain": "www.darpa.mil",
+    "Description": "Defense Advanced Research Projects Agency Program Detail"
+  },
+  {
+    "Title": "Our audit of Homebrew",
+    "Url": "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/",
+    "Timestamp": "2024-07-31T02:01:04",
+    "Domain": "blog.trailofbits.com",
+    "Description": "By William Woodruff This is a joint post with the Homebrew maintainers; read their announcement here! Last summer, we performed an audit of Homebrew. Our audit’s scope included Homebrew/brew itself…"
+  },
+  {
+    "Title": "Porffor",
+    "Url": "https://porffor.dev/",
+    "Timestamp": "2024-07-31T01:01:02",
+    "Domain": "porffor.dev",
+    "Description": "Porffor is a unique JS engine/compiler/runtime, compiling JS code to WebAssembly or native ahead-of-time."
+  }
+]

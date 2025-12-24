@@ -1,0 +1,450 @@
+[
+  {
+    "Title": "Why Growth Engineering Practices Don’t Transfer to Product Engineering",
+    "Url": "https://alexeymk.com/2025/03/why-growth-engineering-practices-dont-transfer-to-product-engineering.html",
+    "Timestamp": "2025-03-26T23:02:28",
+    "Domain": "alexeymk.com",
+    "Description": "Should marathoner runners train like sprinters? While there are probably some interesting cross-training opportunities, the two are fundamentally different."
+  },
+  {
+    "Title": "Introduction - gRPC API Gateway",
+    "Url": "https://meshapi.github.io/grpc-api-gateway/",
+    "Timestamp": "2025-03-26T23:02:27",
+    "Domain": "meshapi.github.io",
+    "Description": "Documentation for the gRPC API Gateway (https://github.com/meshapi/grpc-api-gateway)."
+  },
+  {
+    "Title": "Arguments against static typing",
+    "Url": "https://developer.porn/posts/arguments-against-static-typing/",
+    "Timestamp": "2025-03-26T23:02:27",
+    "Domain": "developer.porn",
+    "Description": "A practical defense of static typing that addresses common complaints, agrees with them, and shows why they make static typing powerful."
+  },
+  {
+    "Title": "OTP in Your Password Manager Is Not 2FA",
+    "Url": "https://cedwards.xyz/otp-in-your-password-manager-is-not-2fa/",
+    "Timestamp": "2025-03-26T23:02:27",
+    "Domain": "cedwards.xyz",
+    "Description": "It’s quite common now for password managers to have a feature to store OTP secrets and generate TOTP/HOTP codes. In my opinion, this is antifeature that shouldn’t exist and it encourages bad security."
+  },
+  {
+    "Title": "Yolm AI - Get Custom Software in Weeks, Not Months or Years",
+    "Url": "https://yolm.ai/blog/saas-is-dead-long-live-saas",
+    "Timestamp": "2025-03-26T23:02:27",
+    "Domain": "yolm.ai",
+    "Description": "Transform your business with Yolm's AI Software Factory. Get Fortune 1000-level custom software solutions at a fraction of the cost."
+  },
+  {
+    "Title": "What every computer science major should know",
+    "Url": "https://matt.might.net/articles/what-cs-majors-should-know/",
+    "Timestamp": "2025-03-26T23:02:26",
+    "Domain": "matt.might.net",
+    "Description": "Given the expansive growth in the field, it's become challenging to discern\nwhat belongs in a modern computer science degree."
+  },
+  {
+    "Title": "Just write a test for it",
+    "Url": "https://kobzol.github.io/rust/2025/03/25/just-write-a-test-for-it.html",
+    "Timestamp": "2025-03-26T23:02:26",
+    "Domain": "kobzol.github.io",
+    "Description": "This is a short appreciation post about Rust continuously guiding me towards doing The Right Thing™."
+  },
+  {
+    "Title": "What Limits a Cell’s Size?",
+    "Url": "https://www.asimov.press/p/cell-size",
+    "Timestamp": "2025-03-26T23:02:25",
+    "Domain": "www.asimov.press",
+    "Description": "Two physical constraints help explain why cells are so tiny: surface area-to-volume ratios and diffusion. The first article in our new Data Series."
+  },
+  {
+    "Title": "Audio Recording on the Web is Broken",
+    "Url": "https://jimmythecricket.com/blog/audio-recording-on-the-web-is-broken",
+    "Timestamp": "2025-03-26T23:02:25",
+    "Domain": "jimmythecricket.com",
+    "Description": "TL;DR: The MediaRecorder API creates WebM files that can't be navigated through (seeked) because they lack duration metadata. Use the open-source fixwebmduration library to solve this, but we really need a better native solution."
+  },
+  {
+    "Title": "Why I Am Not A Pronatalist",
+    "Url": "https://www.fromthenew.world/p/why-i-am-not-a-pronatalist",
+    "Timestamp": "2025-03-26T23:02:23",
+    "Domain": "www.fromthenew.world",
+    "Description": "We live in a time for Natalist Philosophy, not Technocracy"
+  },
+  {
+    "Title": "Hijacking an UltraHuman Ring: How Unauthenticated Bluetooth Allows Attackers to Steal and Modify Health Data | bhavukjain1",
+    "Url": "https://bhavukjain.com/blog/2025/03/27/hacking-ultrahuman-ring/",
+    "Timestamp": "2025-03-26T23:02:22",
+    "Domain": "bhavukjain.com",
+    "Description": "Imagine wearing a smart ring that tracks your health data—your heart rate, sleep patterns, and activity levels. Now, what if I told you…"
+  },
+  {
+    "Title": "REST or gRPC? A Guide to Efficient API Design | Zuplo Blog",
+    "Url": "https://zuplo.com/blog/2025/03/24/rest-or-grpc-guide",
+    "Timestamp": "2025-03-26T23:02:22",
+    "Domain": "zuplo.com",
+    "Description": "Explore the REST vs gRPC debate in API design."
+  },
+  {
+    "Title": "Sharding pgvector",
+    "Url": "https://pgdog.dev/blog/sharding-pgvector",
+    "Timestamp": "2025-03-26T23:02:22",
+    "Domain": "pgdog.dev",
+    "Description": "Mar 25th, 2025Lev Kokotov"
+  },
+  {
+    "Title": "Using In-Wall Computer Fans For Home Air Movement",
+    "Url": "https://scosman.net/blog/using_in_wall_computer_fans_for_home_air_movement",
+    "Timestamp": "2025-03-26T23:02:22",
+    "Domain": "scosman.net",
+    "Description": "A simple solution to moving air in your house without having to run ducts everywhere."
+  },
+  {
+    "Title": "xan/docs/LOVE_LETTER.md at master · medialab/xan",
+    "Url": "https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md",
+    "Timestamp": "2025-03-26T23:02:22",
+    "Domain": "github.com",
+    "Description": "The CSV magician. Contribute to medialab/xan development by creating an account on GitHub."
+  },
+  {
+    "Title": "Solving the Pain that is CI/CD – Dan Manges",
+    "Url": "https://www.dan-manges.com/blog/solving-the-pain-that-is-ci-cd",
+    "Timestamp": "2025-03-26T23:02:21",
+    "Domain": "www.dan-manges.com",
+    "Description": "Last week, The Pain That Is GitHub Actions was on the front page of Hacker News. It received 700 upvotes and 500+ comments. The pain is widespread, and opinions on how to solve it are highly varied."
+  },
+  {
+    "Title": "Cloudflare Workers and MongoDB",
+    "Url": "https://alexbevi.com/blog/2025/03/25/cloudflare-workers-and-mongodb/",
+    "Timestamp": "2025-03-26T23:02:21",
+    "Domain": "alexbevi.com",
+    "Description": "Previously I wrote about Why Cloudflare Workers Don’t Work With MongoDB, but since then the Cloudflare team has done some great work to add support for the missing Node.js features MongoDB’s driver required to operate successfully from Cloudflare Workers:"
+  },
+  {
+    "Title": "Will MCP stay for the long term?",
+    "Url": "https://rnikhil.com/2025/03/26/mcp-standard-llm",
+    "Timestamp": "2025-03-26T23:02:21",
+    "Domain": "rnikhil.com",
+    "Description": "MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools. Based on the context, AI agents can decide which tools to use, in what order, and how to chain them together to accomplish a task. MCP also introduced a human-in-the-loop capabilities for humans to provide additional data and approve execution. With the right set of MCP servers, users can turn every MCP client into an “everything app.”"
+  },
+  {
+    "Title": "Tim Severien",
+    "Url": "https://tsev.dev/posts/2025-03-26-the-state-of-the-frontend-and-fullstack-job-market/",
+    "Timestamp": "2025-03-26T23:02:20",
+    "Domain": "tsev.dev",
+    "Description": "Blog of another senior web engineer"
+  },
+  {
+    "Title": "Deploy Nuxt Application to Cloudflare",
+    "Url": "https://chrisding.xyz/posts/deploy-nuxt-application-to-cloudflare",
+    "Timestamp": "2025-03-26T23:02:20",
+    "Domain": "chrisding.xyz",
+    "Description": "Related configurations and reference documentation for deploying Nuxt to Cloudflare"
+  },
+  {
+    "Title": "How Llama’s Licenses Have Evolved Over Time",
+    "Url": "https://notes.victor.earth/how-llamas-licenses-have-evolved-over-time/",
+    "Timestamp": "2025-03-26T23:02:20",
+    "Domain": "notes.victor.earth",
+    "Description": "How Llama’s Licenses Have Evolved Over Time"
+  },
+  {
+    "Title": "Matthew Chase Whittemore",
+    "Url": "https://mcwhittemore.com/posts/page-activity-report-2025-03-20.html",
+    "Timestamp": "2025-03-26T23:02:18",
+    "Domain": "mcwhittemore.com",
+    "Description": "Since 8:38 PM on February 22nd, I’ve been recording all my browsing activity in a database I manage using a custom-built browser extension and a wrapper around @rosskevin/ifvisible. The result? I now have a clear picture of just how much time I’ve spent on the web this past month. And, well… I spend a lot of time reading email. Go figure."
+  },
+  {
+    "Title": "Postel's Law and the Three Ring Circus · Alex Gaynor",
+    "Url": "https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/",
+    "Timestamp": "2025-03-26T23:02:17",
+    "Domain": "alexgaynor.net",
+    "Description": "Tue, Mar 25, 2025"
+  },
+  {
+    "Title": "APIs with C# – Part 4 Options",
+    "Url": "https://jesseliberty.com/2025/03/26/apis-with-c-part-4-options/",
+    "Timestamp": "2025-03-26T22:01:55",
+    "Domain": "jesseliberty.com",
+    "Description": "NET provides support for passing options via environment variables, appsettings.json, and XML files. as well as command line arguments. In short, each higher level overrides the settings in lower levels."
+  },
+  {
+    "Title": "Model context protocol (MCP) - OpenAI Agents SDK",
+    "Url": "https://openai.github.io/openai-agents-python/mcp/",
+    "Timestamp": "2025-03-26T22:01:55",
+    "Domain": "openai.github.io",
+    "Description": "The Model context protocol (aka MCP) is a way to provide tools and context to the LLM. From the MCP docs:"
+  },
+  {
+    "Title": "Airline Demand Between Canada & United States Collapses, Down 70%+",
+    "Url": "https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/",
+    "Timestamp": "2025-03-26T21:02:29",
+    "Domain": "onemileatatime.com",
+    "Description": "Future flight bookings between Canada and the United States are down by over 70% year-over-year in the summer months. WOW."
+  },
+  {
+    "Title": "Debian bookworm live images now fully reproducible [LWN.net]",
+    "Url": "https://lwn.net/Articles/1015402/",
+    "Timestamp": "2025-03-26T21:02:02",
+    "Domain": "lwn.net",
+    "Description": "[Posted March 26, 2025 by jzb]"
+  },
+  {
+    "Title": "Rock Identification",
+    "Url": "https://xkcd.com/3068/",
+    "Timestamp": "2025-03-26T20:01:54",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Windows Longhorn Explained by a Retired Microsoft Engineer",
+    "Url": "https://youtube.com/watch?v=RpRZ8BQiiMo",
+    "Timestamp": "2025-03-26T20:01:52",
+    "Domain": "youtube.com",
+    "Description": "Dave reveals the inside story of Windows Longhorn.\nLIVESTREAM TONIGHT: 7PM PST!  JOIN US LIVE!\n\nFree Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\nDave Cutler Interview: https://youtu.be/xi1Lq79mLeE\n\nWatch ShopTalk on Dave's Attic: https://www.youtube.com/@davepl\n\nFollow me on X: https://x.com/davepl1968\nFacebook: https://www.facebook.com/davepl"
+  },
+  {
+    "Title": "Use BrowserStack App Automate with Appium UI Tests for .NET MAUI Apps - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/browserstack-appium-dotnet-maui/",
+    "Timestamp": "2025-03-26T19:01:52",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "In this post, learn how to run your Appium UI Tests for .NET MAUI Apps on real devices on the cloud using BrowserStack App Automate."
+  },
+  {
+    "Title": "leaving the Sea of Nodes · V8",
+    "Url": "https://v8.dev/blog/leaving-the-sea-of-nodes",
+    "Timestamp": "2025-03-26T14:01:46",
+    "Domain": "v8.dev",
+    "Description": "Why V8 decided to move away from Sea of Nodes and go back to CFG instead"
+  },
+  {
+    "Title": "Back to the Past: How htmx is Reviving Server-Driven Web Development - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/back-to-the-past-how-htmx-is-reviving-server-driven-web-development/",
+    "Timestamp": "2025-03-26T13:01:45",
+    "Domain": "woodruff.dev",
+    "Description": "Hey folks! Welcome back to the HTMX journey. Today, we’re diving into a bit of web development history and how HTMX is taking us forward... by looking backward. Cue the DeLorean, because we’re heading back to the days when server-driven development was all the rage."
+  },
+  {
+    "Title": "Does MediatR Even Make Sense Anymore in .NET?",
+    "Url": "https://youtube.com/watch?v=SZnCG6m1Og0",
+    "Timestamp": "2025-03-26T13:01:41",
+    "Domain": "youtube.com",
+    "Description": "Check out Dometrain: https://dometrain.com\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nBecome a Patreon and get special perks: https://www.patreon.com/nickchapsas\n\nHello, everybody. I'm Nick, and in this video, I will talk about MediatR and whether there is any point in using it nowadays in your .NET projects.\n\nWorkshops: https://bit.ly/nickworkshops\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "Cyanview: Coordinating Super Bowl’s visual fidelity with Elixir",
+    "Url": "https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/",
+    "Timestamp": "2025-03-26T12:01:50",
+    "Domain": "elixir-lang.org",
+    "Description": "A case study of how Elixir is being used at Cyanview."
+  },
+  {
+    "Title": "You might want to stop running atop",
+    "Url": "https://rachelbythebay.com/w/2025/03/25/atop/",
+    "Timestamp": "2025-03-26T11:01:37",
+    "Domain": "rachelbythebay.com",
+    "Description": "My life as a mercenary sysadmin can be interesting.  Sometimes I find \nthings, and sometimes I hear things.  Now and then I say things."
+  },
+  {
+    "Title": "Sell Yourself Sell Your Work",
+    "Url": "https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn=",
+    "Timestamp": "2025-03-26T10:01:42",
+    "Domain": "www.solipsys.co.uk",
+    "Description": "In short, you have to \"advertise\"."
+  },
+  {
+    "Title": "ABP Modules",
+    "Url": "https://youtube.com/watch?v=jXroxIBPlWI",
+    "Timestamp": "2025-03-26T09:01:36",
+    "Domain": "youtube.com",
+    "Description": "🚀Get a quick overview of how modular development works with ABP.IO!"
+  },
+  {
+    "Title": "Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries",
+    "Url": "https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/",
+    "Timestamp": "2025-03-26T08:01:44",
+    "Domain": "arstechnica.com",
+    "Description": "AI bots hungry for data are taking down FOSS sites by accident, but humans are fighting back."
+  },
+  {
+    "Title": "HN Popularity Contest",
+    "Url": "https://refactoringenglish.com/tools/hn-popularity/",
+    "Timestamp": "2025-03-26T08:01:43",
+    "Domain": "refactoringenglish.com",
+    "Description": "The highest-ranking personal blogs of Hacker News"
+  },
+  {
+    "Title": "Google is Grounded and Needs to Learn How to Soar",
+    "Url": "https://tomcritchlow.com/2025/03/21/better-ai-mode/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "tomcritchlow.com",
+    "Description": "A short proposal for the future of search"
+  },
+  {
+    "Title": "Snakes in a Pane: Building Snake Entirely Within a tmux Config File",
+    "Url": "https://willhbr.net/2025/03/20/snakes-in-a-pane/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "willhbr.net",
+    "Description": "Honestly I’d stop if I could, but I just get carried away. After making a compiler for tmux, then solving sudoku, then playing video I wasn’t planning on making a game. These things just happen to you. Well maybe not to you, but they happen to me. Unlike the video player, this isn’t just rendering Snake inside tmux. The entire game—input, game logic, and rendering—is done using tmux config files. You just load tmux with this config, and you’ll have..."
+  },
+  {
+    "Title": "Infrastructure as Markdown?",
+    "Url": "https://danshiebler.com/2025-03-25-infrastructure-as-markdown/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "danshiebler.com",
+    "Description": "Ever had a complex Python function you wanted to quickly host as an API? Managing dependencies like databases, secret keys, or heavy utilities like audio processing libraries can be quite cumbersome. Typically, I handle this with a pattern involving: Docker: to manage and install dependencies AWS Parameter Store: to securely..."
+  },
+  {
+    "Title": "You should know this before choosing Next.js",
+    "Url": "https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "eduardoboucas.com",
+    "Description": "Picking the technology stack for a project is an important and consequential decision. In the enterprise space in particular, it often involves a multi-year commitment with long-lasting implications on the roadmap of the project, the pace of its development, the quality of the deliverables, and even the ability to assemble and maintain a happy team.The open-source software model is a fundamental answer to this. By using software that is developed in the open, anyone is free to extend it or modify it in whatever way fits their use case. More crucially, the portability of open-source software gives developers and organisations the freedom to move their infrastructure between different providers without fear of getting locked in to a specific vendor.This is the expectation with Next.js, an open-source web development framework created and [governed by Vercel](https://nextjs.org/governance), a cloud provider that offers managed hosting of Next.js as a service."
+  },
+  {
+    "Title": "Who moved my (virtual) cheese?",
+    "Url": "https://obra.studio/blog/2025/03/24/who-moved-my-cheese/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "obra.studio",
+    "Description": "Musings on redesigning software, user's mental models and guidelines on what to do when redesigning."
+  },
+  {
+    "Title": "The Shape of Code » Half-life of Microsoft products is 7 years",
+    "Url": "https://shape-of-code.com/2025/03/23/half-life-of-microsoft-products-is-7-years/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "shape-of-code.com",
+    "Description": "I get a lot of pushback from developers/managers when I tell them that the average application has a relatively short lifetime, i.e., half-life of 4-8 years.  The pushback kicks in when I start citing data, up until then my listeners appear surprised/skeptical.  The fact that source code has a brief and lonely existence is accepted, but telling them about the (one study) evidence that a coding mistake is more likely to disappear because of an unrelated coding change than as a result of fixing a fault report appears to make them feel uncomfortable."
+  },
+  {
+    "Title": "Why I recommend against Brave",
+    "Url": "https://thelibre.news/no-really-dont-use-brave/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "thelibre.news",
+    "Description": "If you are keen on personal privacy, you might have come across Brave Browser. Brave is a Chromium-based browser that promises to deliver privacy with built-in ad-blocking and content-blocking protection. It also offers several quality-of-life features and services, like a VPN and Tor access. I mean, it's even listed on"
+  },
+  {
+    "Title": "Nostalgia — bayindirh",
+    "Url": "https://blog.bayindirh.io/blog/nostalgia/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "blog.bayindirh.io",
+    "Description": "The people I'm following on the internet put me inside a small but vibrant retrocomputing bubble. When this is combined with the synthwave composers I tend to listen lately, I'm being transported to my earlier years on this planet, repeatedly. The fact that I have grown with a Commodore 64, 486 systems, boomboxes and big Hi-Fi racks makes this a rather harsh, but enjoyable ride every time."
+  },
+  {
+    "Title": "Hartwork Blog · How much security is in long-term support?",
+    "Url": "https://blog.hartwork.org/posts/how-much-security-is-in-long-term-support/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "blog.hartwork.org",
+    "Description": "Everyone loves the idea of long-term support\n— LTS for short —\nwhere a vendor promises you to provide security updates for a few years:\nlittle friction and strong security.\nDoes long-term support live up to that dream?\nIt does not.\nWhat makes me say that?"
+  },
+  {
+    "Title": "The Lost Art of Commit Messages",
+    "Url": "https://www.seyhan.me/blog/post/lost-art-of-commit-messages",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "www.seyhan.me",
+    "Description": "Personal blog of Seyhan Dzhamur"
+  },
+  {
+    "Title": "MCPs Part 2: Building an App Opener MCP Server for macOS",
+    "Url": "https://blog.fka.dev/blog/2025-03-23-building-app-opener-mcp-server-for-macos/",
+    "Timestamp": "2025-03-26T00:03:02",
+    "Domain": "blog.fka.dev",
+    "Description": "Learn how to build a custom MCP server that allows Claude Desktop to open applications on your macOS system. This step-by-step guide shows you how to create a tool that brings AI assistance to your daily workflow."
+  },
+  {
+    "Title": "Investigating MacPaint's Source Code | ℤ→ℤ",
+    "Url": "https://ztoz.blog/posts/macpaint-source-code/",
+    "Timestamp": "2025-03-26T00:02:55",
+    "Domain": "ztoz.blog",
+    "Description": "2025-03-25"
+  },
+  {
+    "Title": "When's the best time to surge when cycling up a hill?",
+    "Url": "https://leblancfg.com/surge-cycling-up-a-hill.html",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "leblancfg.com",
+    "Description": "A simple cycling simulator that calculates the time it takes to cycle up a hill with a surge of power."
+  },
+  {
+    "Title": "Post Apocalyptic Computing",
+    "Url": "https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "thomashunter.name",
+    "Description": "12 min read    Mar 23, 2025"
+  },
+  {
+    "Title": "Ski itinerary optimization",
+    "Url": "https://www.alexandercogneau.com/posts/ski-path-optimization/",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "www.alexandercogneau.com",
+    "Description": "Every year, my wife and I go skiing in the French Alps.\nThis time, we set our sights on something ambitious: skiing 100 kilometers in a single day. On a typical day, with breaks and a leisurely pace, we cover 40 to 50 kilometers.\nSo 100 felt like a stretch, but not impossible. The lifts run from roughly 9-17, giving us only eight hours. To make it work, we needed to properly plan for it."
+  },
+  {
+    "Title": "Reproducible Software Releases – Simon Josefsson's blog",
+    "Url": "https://blog.josefsson.org/2025/03/24/reproducible-software-releases/",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "blog.josefsson.org",
+    "Description": "Around a year ago I discussed two concerns with software release archives (tarball artifacts) that could be improved to increase confidence in the supply-chain security of software releases.  Repeating the goals for simplicity:"
+  },
+  {
+    "Title": "How I Choose What to Work On - Tynan.com",
+    "Url": "https://tynan.com/workonwhat/",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "tynan.com",
+    "Description": "A reader, “Moo”, asked me to write about my process for entrepreneurship and how I choose what to write on. Despite being a lifelong entrepreneur and being relatively successful at it, I don’t write a lot about it because I routinely make decisions that trade money for other things (freedom, autonomy, quality of life, stubborn […]"
+  },
+  {
+    "Title": "Let's build a VORON 0",
+    "Url": "https://www.jonashietala.se/blog/2025/03/25/lets_build_a_voron_0/",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "www.jonashietala.se",
+    "Description": "About 1.5 years ago I ventured into 3D printing by building a VORON Trident.\nIt was a very fun project and I’ve even used the printer quite a bit."
+  },
+  {
+    "Title": "On the relationship between sigmoid, softmax and tanh",
+    "Url": "https://blog.itdxer.com/2025/03/20/on-relation-between-sigmoid-softmax-and-tanh.html",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "blog.itdxer.com",
+    "Description": "20 Mar 2025"
+  },
+  {
+    "Title": "Installing NPM Packages Very Quickly",
+    "Url": "https://healeycodes.com/installing-npm-packages-very-quickly",
+    "Timestamp": "2025-03-26T00:02:51",
+    "Domain": "healeycodes.com",
+    "Description": "Building a package manager with a fast install step."
+  },
+  {
+    "Title": "The Server Sent Event protocol with Spring Webflux",
+    "Url": "https://blog.ght1pc9kc.fr/en/2025/the-server-sent-event-protocol-with-spring-webflux/",
+    "Timestamp": "2025-03-26T00:02:50",
+    "Domain": "blog.ght1pc9kc.fr",
+    "Description": "WebSockets are often mentioned for server events, but they are not the only option. Spring Boot WebFlux can send Server Sent Events out of the box. To change from the usual chat application examples, here’s how to implement server notifications in Java with Spring Webflux."
+  },
+  {
+    "Title": "REST in Peace? Django's Framework Problem",
+    "Url": "https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/",
+    "Timestamp": "2025-03-26T00:02:50",
+    "Domain": "danlamanna.com",
+    "Description": "The Django REST Framework maintainer has removed access to thousands of community discussions, leaving even other maintainers pleading for read-only access. What does this mean for Django’s ecosystem sustainability?"
+  },
+  {
+    "Title": "12 Weeks of “One Solution Every Week” — Vishnu's Pages",
+    "Url": "https://iamvishnu.com/posts/12-weeks-of-coding",
+    "Timestamp": "2025-03-26T00:02:50",
+    "Domain": "iamvishnu.com",
+    "Description": "I have been solving problems and writing code for over a decade. In recent years, I’ve been spending more time on the management side of things, which doesn’..."
+  },
+  {
+    "Title": "Breaking and Fixing Content-Defined Chunking",
+    "Url": "https://blog.ktruong.dev/breaking-cdc/",
+    "Timestamp": "2025-03-26T00:02:50",
+    "Domain": "blog.ktruong.dev",
+    "Description": "A collection of my (future) writings about cryptography, music and other random stuff."
+  },
+  {
+    "Title": "When You're On Vacation, Be On Vacation - Don't Break Prod",
+    "Url": "https://dontbreakprod.com/posts/when-youre-on-vacation-be-on-vacation",
+    "Timestamp": "2025-03-26T00:02:50",
+    "Domain": "dontbreakprod.com",
+    "Description": "Don't Break Prod provides bite-sized pieces of career advice for software engineers."
+  }
+]

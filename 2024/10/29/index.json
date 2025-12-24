@@ -1,0 +1,268 @@
+[
+  {
+    "Title": "Introduction to Reflection - C# .NET Tutorial",
+    "Url": "https://youtube.com/watch?v=b1_Qxw71xNg",
+    "Timestamp": "2024-10-29T21:01:30",
+    "Domain": "youtube.com",
+    "Description": "Unlock the power of C# with this easy-to-follow introduction to reflection! 🚀 In this tutorial, we dive deep into how reflection works in C# and how it can supercharge your development process. Whether you’re building flexible applications or simply curious about advanced C# techniques, this guide covers the essentials—from understanding metadata to accessing types, methods, and properties dynamically. With practical examples, you'll see how reflection allows your code to inspect and interact with itself, opening up a new level of versatility and control. Perfect for beginners and seasoned developers alike, join us to take your C# skills to the next level!\n\nDon’t forget to subscribe for more C# tutorials, tips, and .NET insights! Hit the like button if you find this helpful, and let us know in the comments how you plan to use reflection in your projects! 💬"
+  },
+  {
+    "Title": "Avoiding boilerplate and architecture erosion with Metalama",
+    "Url": "https://youtube.com/watch?v=x7IZ2skLYoQ",
+    "Timestamp": "2024-10-29T20:01:35",
+    "Domain": "youtube.com",
+    "Description": "Explore the challenges of boilerplate code in large C# codebases and the complexities of architecture erosion with Gael Fraiteur, the mind behind PostSharp and Metalama.\n\nIn this talk, we will discuss how meta-programming can help address code repetition and quality.\n\nWe will see how aspects can encapsulate concerns that cannot be handled by traditional object-oriented programming, thereby reducing boilerplate code.\n\nYou will also learn how to validate your code against architecture rules in real-time, directly from the IDE, which can help prevent architecture erosion.\n\nThe goal of this talk is to broaden your software development horizon. Attend if you want to improve your ability to deliver clean, concise, and maintainable code.\n\nWant to master Modern C#? Join our free course at https://www.productivecsharp.com/modern-csharp/"
+  },
+  {
+    "Title": "Introducing Microsoft.Extensions.VectorData Preview - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-vector-data/",
+    "Timestamp": "2024-10-29T19:04:26",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We are excited to introduce the Microsoft.Extensions.VectorData.Abstractions package available in preview today. This new package provides a unified abstraction layer that enables you to integrate vector stores into your .NET applications."
+  },
+  {
+    "Title": "Apple’s new Mac mini is more mighty, more mini, and built for Apple Intelligence",
+    "Url": "https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/",
+    "Timestamp": "2024-10-29T17:01:40",
+    "Domain": "www.apple.com",
+    "Description": "Apple today unveiled the all-new Mac mini powered by the M4 and new M4 Pro chips, and redesigned around Apple silicon so it’s even smaller."
+  },
+  {
+    "Title": "delroth's homepage - One weird trick to get the whole planet to send abuse complaints to your best friend(s)",
+    "Url": "https://delroth.net/posts/spoofed-mass-scan-abuse/",
+    "Timestamp": "2024-10-29T17:01:39",
+    "Domain": "delroth.net",
+    "Description": ""
+  },
+  {
+    "Title": ".NET Conf Student Zone on November 18",
+    "Url": "https://youtube.com/watch?v=UBc5AKrB3z4",
+    "Timestamp": "2024-10-29T16:01:43",
+    "Domain": "youtube.com",
+    "Description": "🚀 Register at https://aka.ms/dotnetconf/students/register\n\nThe Student Zone is a beginner-friendly, virtual event where experts will teach you how to build amazing projects – all using C# and .NET! This year, our experts will walk you through building a portfolio web application and an AI demo project. We’ll also be talking all about career readiness with hiring managers, recruiters, early-in-career engineers, and more!\n\nThis year, we’re running the event twice to reach you in your timezone. Both events will include the same content, so you only need to register for one of them.\n⭐Session 1 Date: Monday, November 18 Time: 4:00PM UTC\n⭐Session 2 Date: Tuesday, November 19 Time: 4:00AM UTC\n\n#dotnet #csharp #learntocode #careeradvice"
+  },
+  {
+    "Title": "How to Measure Time Correctly in .NET",
+    "Url": "https://youtube.com/watch?v=Lvdyi5DWNm4",
+    "Timestamp": "2024-10-29T14:02:23",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://dometrain.com\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nBecome a Patreon and get special perks: https://www.patreon.com/nickchapsas\n\nHello, everybody. I'm Nick, and in this video, I will explain what's the best way we have in .NET to measure how long a piece of code take to execute.\n\nWorkshops: https://bit.ly/nickworkshops\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\nKeep coding merch: https://keepcoding.shop\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "C# and Linux - Building a better Wordpress - Episode 6",
+    "Url": "https://youtube.com/watch?v=1_Zw5b-PU4g",
+    "Timestamp": "2024-10-29T14:02:23",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io\n\nFritz is talking through and starting a new CMS project that anyone can contribute to!  https://github.com/FritzAndFriends/SharpSite\r\n\r\nIt's time for the annual Ubuntober celebration!  C#, Blazor, and Ubuntu Linux development all month"
+  },
+  {
+    "Title": "HTML Form Validation is heavily underused",
+    "Url": "https://expressionstatement.com/html-form-validation-is-heavily-underused",
+    "Timestamp": "2024-10-29T13:02:23",
+    "Domain": "expressionstatement.com",
+    "Description": "HTML Forms have powerful validation mechanisms, but they are heavily underused. In fact, not many people even know much about them. Is this because of some flaw in their design? Let’s explore."
+  },
+  {
+    "Title": "Developing with Visual Studio on ARM: SQL Server Challenges",
+    "Url": "https://csharp.christiannagel.com/2024/10/29/surfacewitharm/",
+    "Timestamp": "2024-10-29T13:02:22",
+    "Domain": "csharp.christiannagel.com",
+    "Description": "Sharing experiences using a Surface Laptop 7 with a Snapdragon ARM64 CPU for development. What’s not running on ARM?"
+  },
+  {
+    "Title": "How I write code using Cursor: A review",
+    "Url": "https://www.arguingwithalgorithms.com/posts/cursor-review.html",
+    "Timestamp": "2024-10-29T13:02:22",
+    "Domain": "www.arguingwithalgorithms.com",
+    "Description": "A personal review of Cursor, an LLM-powered coding tool."
+  },
+  {
+    "Title": "Steve Ballmer was an underrated CEO",
+    "Url": "https://danluu.com/ballmer/",
+    "Timestamp": "2024-10-29T13:02:21",
+    "Domain": "danluu.com",
+    "Description": "There's a common narrative that Microsoft was moribund under Steve Ballmer and then later saved by the miraculous leadership of Satya Nadella. This is the dominant narrative in every online discussion about the topic I've seen and it's a commonly expressed belief \"in real life\" as well. While I don't have anything negative to say about Nadella's leadership in this post, this narrative underrates Ballmer's role in Microsoft's success. Not only did Microsoft's financials, revenue and profit, look great under Ballmer, Microsoft under Ballmer made deep, long-term bets that set up Microsoft for success in the decades after his reign. At the time, the bets were widely panned, indicating that they weren't necessarily obvious, but we can see in retrospect that the company made very strong bets despite the criticism at the time."
+  },
+  {
+    "Title": "Building Change Data Capture (CDC) in .NET with Debezium + RabbitMQ",
+    "Url": "https://youtube.com/watch?v=pACol04S_Ws",
+    "Timestamp": "2024-10-29T13:02:17",
+    "Domain": "youtube.com",
+    "Description": "Want to master Clean Architecture? Go here: https://bit.ly/3PupkOJ\nWant to unlock Modular Monoliths? Go here: https://bit.ly/3SXlzSt\nJoin a community of 1000+ .NET developers: https://www.patreon.com/milanjovanovic\n\nLearn how to implement Change Data Capture (CDC) in your .NET applications using Debezium, PostgreSQL, and RabbitMQ with MassTransit. In this tutorial, I'll show you how to:\n\n- Set up Debezium to capture database changes\n- Configure PostgreSQL for CDC\n- Stream changes to RabbitMQ\n- Process events with MassTransit in .NET\n- Implement real-time data synchronization\n\nPerfect for building event-driven architectures, data replication systems, or keeping your microservices in sync. See how these powerful tools work together to create a robust CDC pipeline.\n\nDebezium: https://debezium.io/\n\nPostgres Logical Replication:\nhttps://www.postgresql.org/docs/current/logical-replication.html\n\nCheck out my courses:\nhttps://www.milanjovanovic.tech/courses\n\nRead my Blog here:\nhttps://www.milanjovanovic.tech/blog\n\nJoin my weekly .NET newsletter:\nhttps://www.milanjovanovic.tech\n\nChapters\n0:00 What is Change Data Capture?\n3:21 Configuring the Debezium server\n9:28 Adding a MassTransit consumer\n12:11 Setting up RabbitMQ topology\n16:39 Transforming CDC messages"
+  },
+  {
+    "Title": "N: Game Concepts 1 (Category Compilation) #01～#05",
+    "Url": "https://youtube.com/watch?v=YYN22v4NjF4",
+    "Timestamp": "2024-10-29T12:02:12",
+    "Domain": "youtube.com",
+    "Description": "In Category N: Game Concepts, I look back at how I came up with the ideas for each of the games I worked on, in release order. Rather than sharing anecdotes from development, I've chosen to focus on the inspirations and thought processes behind their creation.\n\n[Index]\n0:00 Opening\n0:11 N-1 Kirby's Dream Land\n5:27 N-2 Kirby's Adventure\n11:20 N-3 Kirby Super Star\n18:56 N-4 Super Smash Bros.\n27:25 N-5 Super Smash Bros. Melee \n\n[Playlist N: Game Concepts]\nhttps://www.youtube.com/playlist?list=PLgKCjZ2WsVLTbEJdN9Rs6FWnOjlIj4Tdt"
+  },
+  {
+    "Title": "Book Review: API Testing and Development with Postman - Coding Sonata",
+    "Url": "https://codingsonata.com/book-review-api-testing-and-development-with-postman/",
+    "Timestamp": "2024-10-29T09:05:19",
+    "Domain": "codingsonata.com",
+    "Description": "Master the Art of API Testing and Development with this book: API Testing and Development with Postman, the Second Edition, check my review"
+  },
+  {
+    "Title": "Boost Your .NET Projects: Unlocking the Power of Spargine’s App Class",
+    "Url": "https://dotnettips.wordpress.com/2024/10/29/boost-your-net-projects-unlocking-the-power-of-spargines-app-class/",
+    "Timestamp": "2024-10-29T09:05:01",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "Spargine is a collection of open-source assemblies and NuGet packages for .NET 8, crucial for application development. Its App class optimizes various functions, including culture adjustments, envi…"
+  },
+  {
+    "Title": "Jia Tanning Go code",
+    "Url": "https://www.arp242.net/jia-tan-go.html",
+    "Timestamp": "2024-10-29T05:01:44",
+    "Domain": "www.arp242.net",
+    "Description": "The Go compiler skips files ending with _test.go during normal compilation.\nThey are compiled with go test command (together will all other .go files),\nwhich also inserts some chutney to run the test functions. The standard way to\ndo testing is to have a foo.go and foo_test.go file next to each other."
+  },
+  {
+    "Title": "A return to hand-written notes by learning to read & write",
+    "Url": "https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/",
+    "Timestamp": "2024-10-29T04:01:46",
+    "Domain": "research.google",
+    "Description": "Digital note-taking is gaining popularity, offering a durable, editable, and easily indexable way of storing notes in a vectorized form. However, a substantial gap remains between digital note-taking and traditional pen-and-paper note-taking, a practice still favored by a majority of people."
+  },
+  {
+    "Title": "A Rough Guide To Onocoy - Gristle King",
+    "Url": "https://gristleking.com/a-rough-guide-to-onocoy/",
+    "Timestamp": "2024-10-29T01:01:59",
+    "Domain": "gristleking.com",
+    "Description": "Ono­coy is a GNSS DePIN project with a “bring your own” hard­ware invi­ta­tion.  You buy a base sta­tion, set it up, and start pro­vid­ing its cor­rec­tion stream to Onocoy."
+  },
+  {
+    "Title": "An Ode To Vim",
+    "Url": "https://bokwoon.com/posts/1khtfep-an-ode-to-vim/",
+    "Timestamp": "2024-10-29T01:01:59",
+    "Domain": "bokwoon.com",
+    "Description": "This website you see right now, as well as the CMS powering it, is all thanks to Vim. Not because I wrote it in Vim (which I did, in Neovim) but because coming into contact with Vim as a freshman likely kickstarted my programming career and gave me programming edge that I otherwise would not have leaving university."
+  },
+  {
+    "Title": "kimono koans' blog! - A Somewhat Opinionated Guide to Effective ZFS Snapshots",
+    "Url": "https://kimono-koans.github.io/opinionated-guide/",
+    "Timestamp": "2024-10-29T01:01:58",
+    "Domain": "kimono-koans.github.io",
+    "Description": "kimono koans' blog!"
+  },
+  {
+    "Title": "Type-safe configuration files with TypeScript - Carlos Menezes",
+    "Url": "https://www.carlos-menezes.com/post/type-first-config",
+    "Timestamp": "2024-10-29T01:01:58",
+    "Domain": "www.carlos-menezes.com",
+    "Description": "A simple, type-safe way to handle configuration files in TypeScript"
+  },
+  {
+    "Title": "Operate Android Device on FreeBSD",
+    "Url": "https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/",
+    "Timestamp": "2024-10-29T01:01:58",
+    "Domain": "vermaden.wordpress.com",
+    "Description": "I really like communicators (or communication channels) that offer a web based interface – let it be WhatsApp or Telegram for example. Unfortunately many does not – like Signal for exam…"
+  },
+  {
+    "Title": "Turning a Skateboard Into an Instrument",
+    "Url": "https://skimoben.github.io/physical-interactions/A1/A1.html",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "skimoben.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "Elixir clustering on a Kamal+Hetzner deployment",
+    "Url": "https://samrat.me/elixir-clustering-on-a-kamal-hetzner-deployment/",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "samrat.me",
+    "Description": "I've been experimenting with Kamal for deploying an Elixir application. The application was previously deployed on Fly.io and relies on the Erlang VM's clustering capabilities, so I had to get this working on the Hetzner deployment I'd spun up using Kamal.\n\nIt took me a bit of effort to"
+  },
+  {
+    "Title": "Why we hate the tech industry even though we love tech",
+    "Url": "https://jakelacaze.com/why-we-hate-the-tech-industry-even-though-we-love-tech",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "jakelacaze.com",
+    "Description": "So many of us love tech yet have fallen out of love with the companies which comprise the tech industry.   But how can that be?  Data We'..."
+  },
+  {
+    "Title": "Techniques to Reduce Latency in Your Apps | James Darpinian",
+    "Url": "https://james.darpinian.com/blog/latency-techniques",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "james.darpinian.com",
+    "Description": "This is part 2 of a series on input latency. Check the first post for background information about input latency."
+  },
+  {
+    "Title": "Pimp My `man` | Kalman Szenes",
+    "Url": "https://kszenes.github.io/blog/2024/Manpager/",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "kszenes.github.io",
+    "Description": "Replace the default `man` pager with something with a bit more bling"
+  },
+  {
+    "Title": "Why Do Day Traders Quit after 5 Months 🥲?",
+    "Url": "https://lucas-schiavini.com/why-day-traders-quit-after-5-months/",
+    "Timestamp": "2024-10-29T01:01:56",
+    "Domain": "lucas-schiavini.com",
+    "Description": "How much are you willing to risk?"
+  },
+  {
+    "Title": "Integrating Large Language Models in .NET Projects",
+    "Url": "https://swedq.blog/2024/10/27/integrating-large-language-models-in-net-projects/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "swedq.blog",
+    "Description": "The integration of AI capabilities, especially large language models (LLMs), into applications is transforming user experiences and operational efficiency. This post guides developers on creating A…"
+  },
+  {
+    "Title": "Issue 59: Are Inboxes Evil?",
+    "Url": "https://www.bramadams.dev/issue-59-are-inboxes-evil/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "www.bramadams.dev",
+    "Description": "What are the rules of the Inbox?"
+  },
+  {
+    "Title": "Process Optimization",
+    "Url": "https://www.craigpardey.com/post/2024-10-27-process-optimization/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "www.craigpardey.com",
+    "Description": "\nOnly by increasing flow through the constraint can overall throughput be increased –  Eliyahu M. Goldratt, The Goal, 1984\n\nTurning this around we get the corollory that optimizations made to areas other than the constraint only serve to worsen the constraint.\nAgile practices, and particularly Scrum and SAFe, have been widely adopted in large enterprises over the last decade or so, spawning entirely new departments dedicated to locking down the process. Agile Centers of Excellence (CoEs) produce materials explicitly describing every aspect of their company’s specific flavour of Agile, and have coaches dedicated to enforcing it across the teams."
+  },
+  {
+    "Title": "Don’t Implement Unification by Recursion",
+    "Url": "https://www.philipzucker.com/unify/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "www.philipzucker.com",
+    "Description": "Unification is formal methods speak for solving equations."
+  },
+  {
+    "Title": "Why Slight Failed: A Slight Post-Mortem",
+    "Url": "https://www.colmanhumphrey.com/posts/why-slight-failed/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "www.colmanhumphrey.com",
+    "Description": "My best guesses as to why our early stage data startup failed. This isn’t a retrospective, but something closer to advice for past me. Or maybe just exorcism."
+  },
+  {
+    "Title": "Scheduling Model in LLVM - Part II",
+    "Url": "https://myhsu.xyz/llvm-sched-model-1.5/",
+    "Timestamp": "2024-10-29T01:01:55",
+    "Domain": "myhsu.xyz",
+    "Description": "In the previous post, we covered the basics of scheduling model in LLVM. Specifically, per-operand tokens that connect an instruction with models that spell out processor-specific scheduling properties like instruction latency, and the concept of processor resources with different sizes of buffer.\nWhile I was planning to write how scheduling models are used in this post – namely, covering things like instruction scheduler and MCA – the draft was overwhelmed by the sheer amount of content needed to cover just the substrate."
+  },
+  {
+    "Title": "Golang developers should try Odin",
+    "Url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+    "Timestamp": "2024-10-29T01:01:54",
+    "Domain": "rm4n0s.github.io",
+    "Description": "(BEWARE: the article may cause seizures)"
+  },
+  {
+    "Title": "Why it's time to retire CRUD · XTDB",
+    "Url": "https://xtdb.com/blog/retire-crud",
+    "Timestamp": "2024-10-29T01:01:54",
+    "Domain": "xtdb.com",
+    "Description": "Create, read, update, and delete – the four central database operations we lovingly refer to as CRUD – have represented the central paradigm for interacting with databases since databases were invented in the middle of the last century. These operations found their way into SQL as INSERT, SELECT, UPDATE, and DELETE."
+  },
+  {
+    "Title": "The year of Linux Desktop | Michele Adduci",
+    "Url": "https://madduci.netlify.app/posts/2024/the-year-of-linux-desktop",
+    "Timestamp": "2024-10-29T01:01:54",
+    "Domain": "madduci.netlify.app",
+    "Description": "Michele Adduci - Personal Website"
+  }
+]

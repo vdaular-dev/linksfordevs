@@ -1,0 +1,373 @@
+[
+  {
+    "Title": "Can Transformers Do Everything, and Undo It Too?",
+    "Url": "https://astro-eric.github.io/blogs/surjective/",
+    "Timestamp": "2025-11-25T23:03:54",
+    "Domain": "astro-eric.github.io",
+    "Description": "Blog"
+  },
+  {
+    "Title": "Build a Signboard",
+    "Url": "https://annanay.dev/build-a-signboard/",
+    "Timestamp": "2025-11-25T23:03:48",
+    "Domain": "annanay.dev",
+    "Description": "Staff Software Engineer, Grafana Labs"
+  },
+  {
+    "Title": "Data Point: ChatGPT vs. StackOverflow vs. Reddit in helping a guy with a tricky web development problem | Pasta's Corner",
+    "Url": "https://mmkthecoolest.gitlab.io/blog/2025-11-23-data-point-chatgpt-vs-stackoverflow-vs-reddit-in-helping-a-guy-with-a-tricky-web-development-problem/",
+    "Timestamp": "2025-11-25T23:03:45",
+    "Domain": "mmkthecoolest.gitlab.io",
+    "Description": "What was supposed to be a simple web development problem to solve turned into an adventure in seeking help and learning some new stuff"
+  },
+  {
+    "Title": "Someone At YouTube Needs Glasses: The Prophecy Has Been Fulfilled",
+    "Url": "https://jayd.ml/2025/11/10/someone-at-youtube-needs-glasses-prophecy-fulfilled.html",
+    "Timestamp": "2025-11-25T23:03:41",
+    "Domain": "jayd.ml",
+    "Description": "In my recent analysis of YouTube’s information density I included the results from an advanced statistical analysis on the number of videos present on the home page, which projected that around May 2026 there would only be one lonely video on the home screen."
+  },
+  {
+    "Title": "Modular Code with Reusable Standalone Modules",
+    "Url": "https://massimo-nazaria.github.io/reusable-standalone-modules.html",
+    "Timestamp": "2025-11-25T23:03:38",
+    "Domain": "massimo-nazaria.github.io",
+    "Description": "Let’s explore how reusable standalone modules help us implement modular software in a practical and convenient way!"
+  },
+  {
+    "Title": "aadil pickle",
+    "Url": "https://www.aadillpickle.com/blog/how-to-sell-to-engineers",
+    "Timestamp": "2025-11-25T23:03:34",
+    "Domain": "www.aadillpickle.com",
+    "Description": "aadil pickle's internet home"
+  },
+  {
+    "Title": "Agents Should Be More Opinionated | vtrivedy",
+    "Url": "https://www.vtrivedy.com/posts/agents-should-be-more-opinionated/",
+    "Timestamp": "2025-11-25T23:03:31",
+    "Domain": "www.vtrivedy.com",
+    "Description": "The best agent products aren't the most flexible, they're the most opinionated. Learn why agents need fewer knobs, not more, and how to design around model intelligence spikes."
+  },
+  {
+    "Title": "Mobile browsers see telephone numbers everywhere",
+    "Url": "https://sethmlarson.dev/mobile-browsers-and-telephone-numbers",
+    "Timestamp": "2025-11-25T23:03:28",
+    "Domain": "sethmlarson.dev",
+    "Description": "Just like Excel seeing everything as a date,\nmobile browsers automatically interpret many numbers as telephone\nnumbers. When detected, mobile browsers replace the text in the HTML with\na clickable ..."
+  },
+  {
+    "Title": "The Return of the Viva",
+    "Url": "https://ednutting.com/2025/11/25/return-of-the-viva.html",
+    "Timestamp": "2025-11-25T23:03:24",
+    "Domain": "ednutting.com",
+    "Description": "Back in 2018, I was a teaching assistant at the University of Bristol (UK) on the 1st-year Introduction to Computer Architecture course. Aside from coursework and exams, the final grade included a viva assessment. Three or four students would be assessed by one or two lecturers in a viva: an oral examination similar to a kind of interview. In the age of AI, will we return to this style of examination?\n"
+  },
+  {
+    "Title": "LLMs in predicaments",
+    "Url": "https://dxdt.ch/blog.php?blog=predicaments",
+    "Timestamp": "2025-11-25T23:03:21",
+    "Domain": "dxdt.ch",
+    "Description": "18.11.2025 — about 5 minutes if you skim"
+  },
+  {
+    "Title": "Context privateering: debugging custom instructions like a pirate",
+    "Url": "https://huonw.github.io/blog/2025/11/piraite/",
+    "Timestamp": "2025-11-25T23:03:15",
+    "Domain": "huonw.github.io",
+    "Description": "Adding \"always speak like a pirate\" to instructions for an AI tool is a helpful generic trick for debugging whether those instructions are being read correctly."
+  },
+  {
+    "Title": "How to deploy ChatGPT on your own hardware, the hard way",
+    "Url": "https://www.natebrake.com/blog/brake-chat",
+    "Timestamp": "2025-11-25T23:03:12",
+    "Domain": "www.natebrake.com",
+    "Description": "How I stitched together LM Studio, OpenWebUI, Cloudflare, and Google OAuth to run \"BrakeChat\" entirely on my own hardware."
+  },
+  {
+    "Title": "How to Host a Blog on a Subdirectory instead of a Subdomain with Cloudflare Workers | David Ma",
+    "Url": "https://www.davidma.co/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+    "Timestamp": "2025-11-25T23:03:09",
+    "Domain": "www.davidma.co",
+    "Description": "A guide to setting up your blog on a subdirectory for better SEO and user experience."
+  },
+  {
+    "Title": "How do we keep apps maintained on Flathub? (or building a more respectful App Store)",
+    "Url": "https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/",
+    "Timestamp": "2025-11-25T23:03:05",
+    "Domain": "tim.siosm.fr",
+    "Description": "There have been a few discussions about what Flathub should do to push developers to maintain their apps on the latest versions of the published runtimes. But most of those lack important details around how this would actually happen. I will not discuss in this post the technical means that are already in place to help developers keep their dependencies up to date. See the Flathub Safety: A Layered Approach from Source to User blog post instead.  The main thing to have in mind is that Flathub is not a commercial entity like other app stores. Right now, developers that put their apps on Flathub are (in the vast majority) not paid to do so and most apps are under an open source license.  So any discussion that starts with “developers should update to the latest runtime or have their apps removed” directly contradicts the social contract here (which is also in the terms of most open source licenses): You get something for free so don’t go around making demands unless you want to look like a jerk. We are not going to persuade overworked and generally volunteer developers to update their apps by putting pressure on them to do more work. It’s counter productive.  With that out of the way, how do we gently push developers to keep their apps up to date and using the latest runtime? Well, we can pay them. Flathub wants to setup a way to offer payments for applications but unfortunately it’s not ready yet. So in the meantime, the best option is to donate to the projects or developers working on those applications.  And make it very easy for users to do so.  Now we are in luck, this is exactly what some folks have been working on recently. Bazaar is a Flathub first app store that makes it really easy to donate to the apps that you have installed.  But we also need to make sure that the developers actually have something set up to get donations.  And this is were the flatpak-tracker project comes in. This project looks for the donation links in a collection of Flatpaks and checks if there is one and if the website is still up. If it’s not, it opens issues in the repo for tracking and fixing. It also checks if those apps are using the latest runtimes and open issues for that as well (FreeDesktop, GNOME, KDE).  If you want to help, you can take a look at this repo for apps that you use and see if things needs to be fixed. Then engage and suggest fixes upstream. Some of this work does not require complex technical skills so it’s a really good way to start contributing. This is probably one of the most direct way to enable developers to receive money from their users, via donations.  Updating the runtime used by an app usually requires more work and more testing, but it’s a great way to get started and to contribute to your favorite apps. And this is not just about Flathub: updating a Qt5 app to run with Qt6, or a GNOME 48 app to 49, will help everyone using the app.  We want to build an App Store that is respectful of the time developers put into developing, submitting, publishing, testing and maintaining their apps.  We don’t want to replicate the predatory model of other app stores.  Will some apps be out of date sometimes? Probably, but I would rather have a sustainable community than an exploiting one."
+  },
+  {
+    "Title": "Use 20x less peak RAM with dp_knapsack_sliding_hirschberg, a new activation memory budget solver for PyTorch",
+    "Url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+    "Timestamp": "2025-11-25T23:03:00",
+    "Domain": "jedrzej.maczan.pl",
+    "Description": "TL;DR: If you use a default\n      torch._functorch.config.activation_memory_budget_solver=dp, you can change it to dp_knapsack_sliding_hirschberg\n      and decrease your peak RAM usage during memory planning by a factor of 20.\n      Currently it's only available when you compile from source (main branch), because it's not released yet"
+  },
+  {
+    "Title": "How I build internal developer tools inside a small team",
+    "Url": "https://patrickm.de/building-internal-dev-tools/",
+    "Timestamp": "2025-11-25T23:02:57",
+    "Domain": "patrickm.de",
+    "Description": "There are thousands of resources on how to build good software products. When I was developing my first SaaS product, LemonSpeak, I often found myself in the same loop: Should I implement a new feature or improve an existing one?\n\nThe question seems easy - but it isn't. I very"
+  },
+  {
+    "Title": "What They Don't Tell You About Maintaining an Open Source Project",
+    "Url": "https://andrej.sh/blog/maintaining-open-source-project/",
+    "Timestamp": "2025-11-25T23:02:50",
+    "Domain": "andrej.sh",
+    "Description": "i built kaneo.app - an open source, self-hosted kanban board. turns out shipping code is the easy part. here's what maintaining it actually looks like."
+  },
+  {
+    "Title": "What a CTO should know about tech | deadSimpleTech",
+    "Url": "https://deadsimpletech.com/blog/cto_tech_capabilities",
+    "Timestamp": "2025-11-25T23:02:47",
+    "Domain": "deadsimpletech.com",
+    "Description": "Clausewitz (and I don't think Jomini particularly disagrees with him on this point) stresses understanding the capabilities of various units and weapons systems. What this means is that while you don't need to know how a cannon was made, how to ride a horse or the fine details of sabre drill, you need to understand what a cavalry squadron can and can't do like the back of your hand. You need to understand which of your divisions are hardened veterans and which are more likely to break when faced with undue strain. You need to know the range of your muskets and your field artillery, the capabilities of different kinds of shot and how your different arms need to be supported."
+  },
+  {
+    "Title": "Extracting Reddit Data with AI",
+    "Url": "https://blog.hakanserce.com/post/reddit-ai-integration/",
+    "Timestamp": "2025-11-25T23:02:39",
+    "Domain": "blog.hakanserce.com",
+    "Description": "A few days ago, I stumbled upon a Reddit thread packed with API recommendations. The thread was long, detailed, and exactly what I needed—except I didn’t want to manually comb through dozens of comments. I figured this was the perfect job for AI. Spoiler alert: it wasn’t as straightforward as I expected."
+  },
+  {
+    "Title": "Reproducing the results of a computational life experiment, Part 1",
+    "Url": "https://blog.ricky0123.com/blog/complexity_v2/",
+    "Timestamp": "2025-11-25T23:02:36",
+    "Domain": "blog.ricky0123.com",
+    "Description": "This is a post about a computational life experiment."
+  },
+  {
+    "Title": "What Actually Makes You Senior",
+    "Url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+    "Timestamp": "2025-11-25T23:02:33",
+    "Domain": "terriblesoftware.org",
+    "Description": "The one skill that separates senior engineers from everyone else isn’t technical. It’s the ability to take ambiguous problems and make them concrete.Retry"
+  },
+  {
+    "Title": "The Local-First Comeback You Didn’t See Coming",
+    "Url": "https://shivekkhurana.com/blog/sync-engines/",
+    "Timestamp": "2025-11-25T23:02:26",
+    "Domain": "shivekkhurana.com",
+    "Description": "Linear’s Secret Weapon and The Quiet Rebellion Against Slow and Stale Web Apps"
+  },
+  {
+    "Title": "Google Antigravity Exfiltrates Data",
+    "Url": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+    "Timestamp": "2025-11-25T21:02:16",
+    "Domain": "www.promptarmor.com",
+    "Description": "An indirect prompt injection in an implementation blog can manipulate Antigravity to invoke a malicious browser subagent in order to steal credentials and sensitive code from a user’s IDE."
+  },
+  {
+    "Title": "Orion 1.0 ✴︎ Browse Beyond",
+    "Url": "https://blog.kagi.com/orion",
+    "Timestamp": "2025-11-25T21:02:12",
+    "Domain": "blog.kagi.com",
+    "Description": "After six years of relentless development, *Orion for MacOS 1.0 is here*."
+  },
+  {
+    "Title": "Making Crash Bandicoot",
+    "Url": "https://all-things-andy-gavin.com/video-games/making-crash/",
+    "Timestamp": "2025-11-25T18:02:33",
+    "Domain": "all-things-andy-gavin.com",
+    "Description": "As one of the co-creators of Crash Bandicoot, I have been (slowly) writing a long series of posts on the making of everyone’s favorite orange marsupial. You can find them all below, so enjoy.…"
+  },
+  {
+    "Title": "Evidence suggests early developing human brains are preconfigured with instructions for understanding the world",
+    "Url": "https://news.ucsc.edu/2025/11/sharf-preconfigured-brain/",
+    "Timestamp": "2025-11-25T16:02:18",
+    "Domain": "news.ucsc.edu",
+    "Description": "Assistant Professor of Biomolecular Engineering Tal Sharf's lab used organoids to make fundamental discoveries about human brain development."
+  },
+  {
+    "Title": "GrapheneOS migrates server infrastructure from France amid police intimidation claims",
+    "Url": "https://www.privacyguides.org/news/2025/11/22/grapheneos-migrates-server-infrastructure-from-france-amid-police-intimidation-claims/",
+    "Timestamp": "2025-11-25T08:02:05",
+    "Domain": "www.privacyguides.org",
+    "Description": "The GrapheneOS project has announced on X that they are ceasing all operations in France, asserting that the country is no longer safe for \"open source projects\""
+  },
+  {
+    "Title": "The unpowered SSDs in your drawer are slowly losing your data",
+    "Url": "https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/",
+    "Timestamp": "2025-11-25T04:02:10",
+    "Domain": "www.xda-developers.com",
+    "Description": "SSDs aren't ideal for long-term data storage"
+  },
+  {
+    "Title": "Cancer",
+    "Url": "https://jacobbrazeal.wordpress.com/2025/11/24/cancer/",
+    "Timestamp": "2025-11-25T02:03:51",
+    "Domain": "jacobbrazeal.wordpress.com",
+    "Description": "2025 rolls in with the shadow of a pending biopsy. I forget about it for a little while. They make you wait so very long to confirm anything. I doubt that anything could be seriously wrong. What ar…"
+  },
+  {
+    "Title": "jott - five_times_faster",
+    "Url": "https://jott.live/markdown/five_times_faster",
+    "Timestamp": "2025-11-25T02:03:48",
+    "Domain": "jott.live",
+    "Description": "by @bwasti"
+  },
+  {
+    "Title": "Different Models, Same Slop?",
+    "Url": "https://www.jerpint.io/blog/different-models-same-slop/",
+    "Timestamp": "2025-11-25T02:03:44",
+    "Domain": "www.jerpint.io",
+    "Description": "Are Big Lab Models Converging to the Same Slop?"
+  },
+  {
+    "Title": "A Lightweight Way to Guard Against Prompt Injection",
+    "Url": "https://andersmyrmel.com/blog/a-lightweight-way-to-guard-against-prompt-injection/",
+    "Timestamp": "2025-11-25T02:03:40",
+    "Domain": "andersmyrmel.com",
+    "Description": "Simple, composable guards for safer prompts and cleaner code"
+  },
+  {
+    "Title": "With Love to KDE: Take a Moment",
+    "Url": "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment",
+    "Timestamp": "2025-11-25T02:03:37",
+    "Domain": "korcenji.neocities.org",
+    "Description": "I've been using KDE Plasma for four and a half years. The community is sweet and the software is stellar, and I see a bright future for it. I want it to be the best it can be! So, I'd like to talk about a small incident that I want KDE to lean away from."
+  },
+  {
+    "Title": "Demystifying Determinism in Durable Execution — Jack Vanlightly",
+    "Url": "https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution",
+    "Timestamp": "2025-11-25T02:03:34",
+    "Domain": "jack-vanlightly.com",
+    "Description": "Determinism is a key concept to understand when writing code using durable execution frameworks such as Temporal, Restate, DBOS, and Resonate. If you read the docs you see that some parts of your code must be deterministic while other parts do not have to be.&nbsp; This can be confusing to a dev"
+  },
+  {
+    "Title": "Prosody XMPP server in the home lab",
+    "Url": "https://box.matto.nl/prosody-xmpp-server-in-the-home-lab.html",
+    "Timestamp": "2025-11-25T02:03:30",
+    "Domain": "box.matto.nl",
+    "Description": "Posted: 2025-11-23"
+  },
+  {
+    "Title": "Django spotlight: SimpleLazyObject & Co.",
+    "Url": "https://roam.be/notes/2025/django-spotlight-simplelazyobject-co/",
+    "Timestamp": "2025-11-25T02:03:26",
+    "Domain": "roam.be",
+    "Description": "Turning the spotlight to Django's lesser known useful tidbits: SimpleLazyObject, lazy and examples showing you how to defer work until you actually need it."
+  },
+  {
+    "Title": "Result is the most boring sum type",
+    "Url": "https://blog.ploeh.dk/2025/11/24/result-is-the-most-boring-sum-type/",
+    "Timestamp": "2025-11-25T02:03:21",
+    "Domain": "blog.ploeh.dk",
+    "Description": "If you don't see the point, you may be looking in the wrong place."
+  },
+  {
+    "Title": "Three Months",
+    "Url": "https://sef.kloninger.com/posts/three-months/",
+    "Timestamp": "2025-11-25T02:03:17",
+    "Domain": "sef.kloninger.com",
+    "Description": "I've been off work for about three months now. It's a\ngood occasion to take stock of how that's going. In a word, it's been great.\n\n\n\nI'm surprised how much lighter my mood is. It feels like a weight "
+  },
+  {
+    "Title": "Claude Agent Skills: A First Principles Deep Dive",
+    "Url": "https://leehanchung.github.io/blogs/2025/10/26/claude-skills-deep-dive/",
+    "Timestamp": "2025-11-25T02:03:13",
+    "Domain": "leehanchung.github.io",
+    "Description": "Technical deep dive into Claude Agent Skills' prompt-based meta-tool architecture. Learn how context injection design, two-message patterns, LLM-based routin..."
+  },
+  {
+    "Title": "Joint-Embedding vs Reconstruction: When Should You Use Each?",
+    "Url": "https://huguesva.github.io/blog/2025/je-vs-reconstruction/",
+    "Timestamp": "2025-11-25T02:03:10",
+    "Domain": "huguesva.github.io",
+    "Description": "A theoretical analysis revealing when joint-embedding methods outperform reconstruction-based SSL, and vice versa."
+  },
+  {
+    "Title": "Jacob Personal",
+    "Url": "https://www.jacobjacquet.com/posts/reddit-marketing-strategy",
+    "Timestamp": "2025-11-25T02:03:06",
+    "Domain": "www.jacobjacquet.com",
+    "Description": ""
+  },
+  {
+    "Title": "Not knowing is part of the path - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/not-knowing-is-part-of-the-path/",
+    "Timestamp": "2025-11-25T02:03:02",
+    "Domain": "kudmitry.com",
+    "Description": "I've noticed an interesting trend recently: everyone wants answers.\n\nNo matter where you look, people just want to know the answer: to life, to business, to lov..."
+  },
+  {
+    "Title": "An entire PS5 now costs less than 64GB of DDR5 memory, even after a discount — simple memory kit jumps to $600 due to DRAM shortage, and it's expected to get worse into 2026",
+    "Url": "https://www.tomshardware.com/pc-components/ddr5/64gb-of-ddr5-memory-now-costs-more-than-an-entire-ps5-even-after-a-discount-trident-z5-neo-kit-jumps-to-usd600-due-to-dram-shortage-and-its-expected-to-get-worse-into-2026",
+    "Timestamp": "2025-11-25T02:02:57",
+    "Domain": "www.tomshardware.com",
+    "Description": "You can spend $50 more to get an entire PS5 Pro."
+  },
+  {
+    "Title": "Technical Deflation — Benjamin Anderson",
+    "Url": "https://benanderson.work/blog/technical-deflation/",
+    "Timestamp": "2025-11-25T02:02:48",
+    "Domain": "benanderson.work",
+    "Description": "Let's buy the fridge next month, honey."
+  },
+  {
+    "Title": "How to implement action sequences and cutscenes",
+    "Url": "https://edw.is/how-to-implement-action-sequences-and-cutscenes/",
+    "Timestamp": "2025-11-25T02:02:43",
+    "Domain": "edw.is",
+    "Description": "The personal website of Elias Daler about programming, technology and videogames"
+  },
+  {
+    "Title": "Evolving Narratives - Trimming Circles",
+    "Url": "https://futurisold.github.io/2025-11-23-evolving-narratives/",
+    "Timestamp": "2025-11-25T02:02:38",
+    "Domain": "futurisold.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "The age of personalized software",
+    "Url": "https://samsaffron.com/archive/2025/11/23/the-age-of-personalized-software",
+    "Timestamp": "2025-11-25T02:02:34",
+    "Domain": "samsaffron.com",
+    "Description": "Sam's Spot - Sam saffron's web log"
+  },
+  {
+    "Title": "Typography in the wild",
+    "Url": "https://www.jaydip.me/blog/typography-in-the-wild",
+    "Timestamp": "2025-11-25T02:02:30",
+    "Domain": "www.jaydip.me",
+    "Description": "how we feel emotions with words"
+  },
+  {
+    "Title": "I wrote an EF Core Provider",
+    "Url": "https://anasismail.com/i-wrote-an-ef-core-provider/",
+    "Timestamp": "2025-11-25T02:02:27",
+    "Domain": "anasismail.com",
+    "Description": "EF Core Database Provider for Azure Data Explorer (Kusto). GitHub     The project that I work on has a lot of data, in a lot of entities with a lot of fields, all exposed through an OData API. Naturally, that compels us to know exactly what kind of query shapes our users may be interested in and to create optimal indexes for them beforehand. However, there’s literally hundreds of fields and creating an index for every single one of them is simply not an option. Timeouts are great for protecting the database from maliciously demanding queries but they don’t offer much in the realm of user-experience. We need to allow clients to send arbitrary queries and we need them to be fast regardless of whether we’re expecting said query or not. It was clear to me that we needed a solution and not an optimization and so I considered exploring Big Data solutions and columnar databases. Since our infrastructure is primarily Azure-based, my boss suggested that we explore Azure Data Explorer (ADX) aka Kusto. In a couple of days, ingestion was complete and a little testing showed promising performance so we decided to explore our options for integration. Sadly, Kusto not only doesn’t have an EF Core provider package, the T-SQL support, although well-marketed, was poorly performing. It was very clear to us that this path would require a little investment. After discovering that EFCore.Snowflake, another library/database pair we considered using, is developed and maintained by one person alone, I felt motivated to take a crack at writing a database provider. I mean, how hard could it be in today’s AI powered era?"
+  },
+  {
+    "Title": "'My Body Is My Passport; Verify Me': FIDO Auth via Subdermal JavaCard Platform | Jack's Brain | the blog of Jack Kingsman",
+    "Url": "https://jacksbrain.com/2025/11/my-body-is-my-passport-verify-me-fido-auth-via-subdermal-javacard-platform/",
+    "Timestamp": "2025-11-25T02:02:24",
+    "Domain": "jacksbrain.com",
+    "Description": "The blog of Jack Kingsman, a Site Reliability Engineer and geek living in Seattle."
+  },
+  {
+    "Title": "LLM APIs are a Synchronization Problem",
+    "Url": "https://lucumr.pocoo.org/2025/11/22/llm-apis/",
+    "Timestamp": "2025-11-25T02:02:20",
+    "Domain": "lucumr.pocoo.org",
+    "Description": "Maybe the LLM message APIs should be rethought as a synchronization problem."
+  },
+  {
+    "Title": "How LLM Inference Works",
+    "Url": "https://arpitbhayani.me/blogs/how-llm-inference-works/",
+    "Timestamp": "2025-11-25T02:02:16",
+    "Domain": "arpitbhayani.me",
+    "Description": "When you enter a prompt into an LLM, the model converts your text into numbers, processes them, and returns a response one token at a time. In this article, we go through the journey of LLM inference and see how it works."
+  },
+  {
+    "Title": "Introducing advanced tool use on the Claude Developer Platform",
+    "Url": "https://www.anthropic.com/engineering/advanced-tool-use",
+    "Timestamp": "2025-11-25T00:02:09",
+    "Domain": "www.anthropic.com",
+    "Description": "Claude can now discover, learn, and execute tools dynamically to enable agents that take action in the real world. Here’s how."
+  }
+]

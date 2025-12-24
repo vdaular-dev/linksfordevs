@@ -1,0 +1,408 @@
+[
+  {
+    "Title": "Traits in Rust",
+    "Url": "https://serokell.io/blog/rust-traits",
+    "Timestamp": "2022-11-08T23:03:13",
+    "Domain": "serokell.io",
+    "Description": "In this article, we cover the basics of traits in Rust: what they are, when they are useful, and how to use them."
+  },
+  {
+    "Title": "Sometimes... Constraints Are Good",
+    "Url": "https://tiberriver256.github.io/software%20architecture/Constraints-Are-Good/",
+    "Timestamp": "2022-11-08T23:03:13",
+    "Domain": "tiberriver256.github.io",
+    "Description": "Sometimes having no constraints can be worse than having constraints."
+  },
+  {
+    "Title": "Zoom! Enhance! — Monday Morning Haskell",
+    "Url": "https://mmhaskell.com/blog/2022/11/7/zoom-enhance",
+    "Timestamp": "2022-11-08T23:03:13",
+    "Domain": "mmhaskell.com",
+    "Description": "Today we'll be tackling the Day 20 problem from Advent of Code 2021. This problem is a fun take on the Zoom and Enhance cliche from TV dramas where cops and spies can always seem to get unrealistic details from grainy camera footage by \"enhancing\" it. We'll have a binary image and we'll need to keep applying a decoding key to expand the image."
+  },
+  {
+    "Title": "Vim Is Just English",
+    "Url": "https://mark.mcnally.je/blog/post/Vim%20Is%20Just%20English",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "mark.mcnally.je",
+    "Description": "If you are just starting out with vim, this post will make learning vim so much easier."
+  },
+  {
+    "Title": "50 Tabs means 50 Mental contexts and needless cognitive load",
+    "Url": "https://dsebastien.net/blog/2022-11-07-50-tabs-means-50-mental-contexts",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "dsebastien.net",
+    "Description": "Close those tabs to regain mental resources and be more productive"
+  },
+  {
+    "Title": "Announcing NuGet 6.4 - Signed, Central, Delivered",
+    "Url": "https://devblogs.microsoft.com/nuget/announcing-nuget-6-4-signed-central-delivered/",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "NuGet 6.4 is included in Visual Studio 2022 and .NET 7.0 out of the box. You can also download NuGet 6.4 for Windows, macOS, and Linux as a standalone executable. NuGet 6.4 is one of many releases in our .NET unification journey."
+  },
+  {
+    "Title": "Twenty Questions",
+    "Url": "https://aaronson.org/blog/twenty-questions",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "aaronson.org",
+    "Description": "Let’s play a game. I’m thinking of a number from 1 to 100. You guess, and I tell you whether my number is higher or lower."
+  },
+  {
+    "Title": "My favorite 12 side projects in 2022",
+    "Url": "https://trycombine.com/posts/12-of-my-favorite-side-projects-in-2022/",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "trycombine.com",
+    "Description": "Swift development related blog-posts. Combine, modern concurrency model, Instruments, and more."
+  },
+  {
+    "Title": "Containers are chroot with a Marketing Budget",
+    "Url": "https://earthly.dev/blog/chroot/",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "earthly.dev",
+    "Description": "Every explanation is a simplification.There are many ways to understand how containers work, but most useful explanations are actually simplificati..."
+  },
+  {
+    "Title": "From WampServer, to Vagrant, to QEMU",
+    "Url": "https://andrewpillar.com/programming/2022/11/08/from-wampserver-to-vagrant-to-qemu/",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "andrewpillar.com",
+    "Description": "When I first dipped my toe into web development it was with PHP. Building quick\nand dirty inelegant websites, where the HTML and PHP would blur between one\nanother. At the time, I did have a very firm grip on what HTTP was, where\nexactly PHP sat in the stack, other than it being in the backend, whatever that\nwas, nor did I understand what a database was, other than a place to query data\nfrom. On top of this, I was writing this inelegant PHP code on Windows. If\nyou've ever done PHP development on Windows, then you are most likely aware of\nWampServer. This is a solution stack for Windows\nthat provides an Apache web server, OpenSSL, MySQL and PHP."
+  },
+  {
+    "Title": "What’s that magic computation in stb__RefineBlock?",
+    "Url": "https://fgiesen.wordpress.com/2022/11/08/whats-that-magic-computation-in-stb__refineblock/",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "fgiesen.wordpress.com",
+    "Description": "Back in 2007 I wrote my DXT1/5 (aka BC1/3) encoder rygdxt, originally for “fr-041: debris” (so it was size-constrained). A bit later I put up the source and Sean Barrett adapted it into…"
+  },
+  {
+    "Title": "Rails Quick Tip - Use Private Debugging Aliases ",
+    "Url": "https://pawelurbanek.com/rails-debug-aliases",
+    "Timestamp": "2022-11-08T23:03:12",
+    "Domain": "pawelurbanek.com",
+    "Description": "I don't like to type much. Even minor improvements in your debugging workflow are likely to accumulate into huge keystrokes savings over time. In this blog post, I'll describe a simple way to add debugging shortcuts to the project without modifying the codebase shared with other team members."
+  },
+  {
+    "Title": "\"Trust, but verify\" is bullshit",
+    "Url": "https://tmp.bearblog.dev/trust-but-verify-is-bullshit/",
+    "Timestamp": "2022-11-08T23:03:11",
+    "Domain": "tmp.bearblog.dev",
+    "Description": "I'm not sure why this is a popular saying in security, it doesn't make sense to me. If you trust something or someone, why would you need to verify?\n\nI trust..."
+  },
+  {
+    "Title": "Vanilla Rails is plenty",
+    "Url": "https://dev.37signals.com/vanilla-rails-is-plenty",
+    "Timestamp": "2022-11-08T23:03:11",
+    "Domain": "dev.37signals.com",
+    "Description": "A common critique of Rails is that it encourages a poor separation of concerns. That when things get serious, you need an alternative that brings the missing pieces. We disagree."
+  },
+  {
+    "Title": "Microsoft.EntityFrameworkCore 7.0.0",
+    "Url": "https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/7.0.0",
+    "Timestamp": "2022-11-08T22:02:07",
+    "Domain": "www.nuget.org",
+    "Description": "Entity Framework Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. EF Core works with SQL Server, Azure SQL Database, SQLite, Azure Cosmos DB, MySQL, PostgreSQL, and other databases through a provider plugin API.\n\nCommonly Used Types:\nMicrosoft.EntityFrameworkCore.DbContext\nMicrosoft.EntityFrameworkCore.DbSet"
+  },
+  {
+    "Title": "End to End Encryption with RSA in Kotlin and C sharp - Doumer's Blog",
+    "Url": "https://doumer.me/end-to-end-encryption-with-rsa-in-kotlin-and-c-sharp/",
+    "Timestamp": "2022-11-08T21:02:33",
+    "Domain": "doumer.me",
+    "Description": "Wondering how end to end encryption works ? check this article about implementing End to End Encryption with RSA in Kotlin and C sharp"
+  },
+  {
+    "Title": ".NET Conf 2022 - Day 1",
+    "Url": "https://youtu.be/sMOGPRbsbcs",
+    "Timestamp": "2022-11-08T21:02:29",
+    "Domain": "youtu.be",
+    "Description": "Join us for the first day of .NET Conf!  https://dotnetconf.netNET Conf is our annual virtual developer event co-organized by the .NET community and Microsof..."
+  },
+  {
+    "Title": "What's new for Minimal APIs in ASP NET Core 7?",
+    "Url": "https://youtube.com/watch?v=1xZKuAYrLDE",
+    "Timestamp": "2022-11-08T21:02:28",
+    "Domain": "youtube.com",
+    "Description": "Minimal APIs were introduced to ASP.NET Core 6, but the ASP.NET Core team continues to innovate with new features and capabilities to make it easier to write..."
+  },
+  {
+    "Title": "Visual Studio for Mac 17.4 is now available",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-17-4-is-now-available/",
+    "Timestamp": "2022-11-08T21:02:27",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Visual Studio for Mac v17.4 is available today! This release includes improvements to the editor like the new Editing State margin and the return of the Class pad, and fixes for issues that users have reported. We’re also releasing our first preview of Visual Studio for Mac 17.5 for people to see what we’ve got planned. "
+  },
+  {
+    "Title": ".NET Framework November 2022 Security and Quality Rollup Updates",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-framework-november-2022-security-and-quality-rollup-updates/",
+    "Timestamp": "2022-11-08T21:02:27",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "November 2022 Security and Quality Rollup Updates for .NET Framework"
+  },
+  {
+    "Title": "Arm64 Visual Studio is officially here!",
+    "Url": "https://devblogs.microsoft.com/visualstudio/arm64-visual-studio-is-officially-here/",
+    "Timestamp": "2022-11-08T21:02:26",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We are happy to announce the first fully supported Arm64 version of Visual Studio that will natively run, allowing building, and debugging Arm64 apps on Arm-based processors."
+  },
+  {
+    "Title": ".NET 7 GA available on App Service",
+    "Url": "https://azure.github.io/AppService/2022/11/08/dotnet7_ga.html",
+    "Timestamp": "2022-11-08T21:02:26",
+    "Domain": "azure.github.io",
+    "Description": "We have completed the initial rollout for .NET 7 GA support on App Service. Like in previous years we are using the App Service Early Access feature to enable day-0 support on the platform across all public regions on both Windows and Linux App Service Plans. The early access release will be followed by additional deployments to fully integrate the new bits across our fleet expecting to be fully done by the end of the week.If you already have an app targeting and earlier preview of .NET 7.0 on the platform, there is no need to take action as the new runtime will be picked up on the next application restart once the update is available for your app. You can trigger this manually by starting and stopping your app.Self-contained .NET apps will not be auto-updated since they have no dependency on the runtime provided by App Service.Azure Functions and Azure Static Webapps are also enabling .NET 7 workloads across their scenarios.If you want to learn more, be sure to checkout our session during .NET Conf 2022:  Tuesday 11/09 @ 11:00am PST Join Scott Hunter to talk about the latest happening in the world of building cloud native applications with .NET and Azure  Thursday 11/10 @ 1:00am PST Join @bktv99 and @segaurav will be taking the stage talk about  “.NET 7.0 and bulk migration of ASP.Net web apps to App Services”.Next steps:  Download .NET 7  Anouncing .NET 7.0   ASP.NET Core in .NET 7  Deploy a .NET application to App ServiceYou can also follow us on twitter for more updates and news: @AzAppService"
+  },
+  {
+    "Title": "Visual Studio 2022 17.4 is now available!",
+    "Url": "https://devblogs.microsoft.com/visualstudio/visual-studio-2022-17-4/",
+    "Timestamp": "2022-11-08T20:02:40",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We are happy to announce that Visual Studio 2022 17.4 is now generally available. This is our first GA release to support Arm64. In addition some of the other prominent features it includes are .NET 7, enterprise support for setup including rollback,"
+  },
+  {
+    "Title": ".NET 7: What's new in ASP.NET Core?",
+    "Url": "https://www.roundthecode.com/dotnet/dotnet-7-whats-new-aspnet-core",
+    "Timestamp": "2022-11-08T19:03:11",
+    "Domain": "www.roundthecode.com",
+    "Description": "Find out about the .NET 7 release, looking at features, performance improvements and how to download and install ASP.NET Core."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=_pCaRrqBQdQ",
+    "Timestamp": "2022-11-08T19:03:11",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": ".NET 7 Finally Arrives as Unifying Microsoft Development Platform -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/11/07/net-7-ga.aspx",
+    "Timestamp": "2022-11-08T19:03:10",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "During this week's Net Conf 2022 event, .NET 7 arrived to finally do what .NET 5 was supposed to do in 2020: crown Microsoft's years-long effort to unify disparate development products with 'just one .NET going forward.'"
+  },
+  {
+    "Title": "What's new for WPF in .NET 7",
+    "Url": "https://devblogs.microsoft.com/dotnet/wpf-on-dotnet-7/",
+    "Timestamp": "2022-11-08T19:03:09",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Find out what's new in WPF on .NET 7 including accessibility improvements, a focus on performance, and much more."
+  },
+  {
+    "Title": ".NET November 2022 Updates – .NET 6.0.11 and .NET Core 3.1.31",
+    "Url": "https://devblogs.microsoft.com/dotnet/november-2022-updates/",
+    "Timestamp": "2022-11-08T19:03:09",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Check out November updates for .NET 6.0"
+  },
+  {
+    "Title": "What's new in .NET 7",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7",
+    "Timestamp": "2022-11-08T18:02:06",
+    "Domain": "learn.microsoft.com",
+    "Description": "Learn about the new features introduced in .NET 7."
+  },
+  {
+    "Title": "Here’s how a Twitter engineer says it will break in the coming weeks",
+    "Url": "https://www.technologyreview.com/2022/11/08/1062886/heres-how-a-twitter-engineer-says-it-will-break-in-the-coming-weeks/",
+    "Timestamp": "2022-11-08T17:01:50",
+    "Domain": "www.technologyreview.com",
+    "Description": "One insider says the company’s current staffing isn’t able to sustain the platform."
+  },
+  {
+    "Title": ".NET Conf 2022 - Day 1",
+    "Url": "https://youtube.com/watch?v=sMOGPRbsbcs",
+    "Timestamp": "2022-11-08T17:01:50",
+    "Domain": "youtube.com",
+    "Description": "Join us for the first day of .NET Conf!  https://dotnetconf.netNET Conf is our annual virtual developer event co-organized by the .NET community and Microsof..."
+  },
+  {
+    "Title": ".NET 7 is Available Today",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 is a modern, fast, unified, and simple development framework to build any applications and is available today."
+  },
+  {
+    "Title": "Announcing F# 7",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-fsharp-7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "F# 7 is here, see what's new!"
+  },
+  {
+    "Title": "What's new in Windows Forms in .NET 7.0",
+    "Url": "https://devblogs.microsoft.com/dotnet/winforms-enhancements-in-dotnet-7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Read about the new features that are in Windows Forms in .NET 7 including new accessibility features, High DPI, UI Automation, and more."
+  },
+  {
+    "Title": "What's new in Orleans 7.0",
+    "Url": "https://devblogs.microsoft.com/dotnet/whats-new-in-orleans-7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "What's new in Orleans 7.0"
+  },
+  {
+    "Title": "Announcing ASP.NET Core in .NET 7",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 is now available! Check out all the new features and improvements in ASP.NET Core in .NET 7."
+  },
+  {
+    "Title": "Entity Framework Core 7 (EF7) is available today",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-ef7/",
+    "Timestamp": "2022-11-08T17:01:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing EF Core 7 (EF7) with JSON column mapping, bulk updates, TPC, and more!"
+  },
+  {
+    "Title": "Announcing .NET MAUI for .NET 7 General Availability",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/",
+    "Timestamp": "2022-11-08T17:01:47",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET MAUI is now available for .NET 7 and is packed with exciting improvements for multi-platform developers including performance improvements, improved tooling, enhanced desktop support, and more!"
+  },
+  {
+    "Title": "Welcome to C# 11",
+    "Url": "https://devblogs.microsoft.com/dotnet/welcome-to-csharp-11/",
+    "Timestamp": "2022-11-08T17:01:47",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "C# 11 is here! Bringing with it some highly anticipated features including string literals, generic math, required members, and much more."
+  },
+  {
+    "Title": "Immo Landwerth  🇩🇪 🇺🇦 (@terrajobst@hachyderm.io)",
+    "Url": "https://hachyderm.io/@terrajobst",
+    "Timestamp": "2022-11-08T16:02:05",
+    "Domain": "hachyderm.io",
+    "Description": "3 Posts, 10 Following, 35 Followers · #IStandWithUkraine #blacklivesmatter Program manager on .NET at Microsoft. Opinions are my own. I tweet in GIFs and typo for a livng. He/Him."
+  },
+  {
+    "Title": "Why is there a system sound called Asterisk? What sound does an Asterisk make anyway?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221108-36/?p=107367",
+    "Timestamp": "2022-11-08T15:01:35",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It's to accompany the asterisk, back when we had an asterisk."
+  },
+  {
+    "Title": "Watch .NET Conf 2022 LIVE 🔴 with me | .NET 7 Launch",
+    "Url": "https://youtube.com/watch?v=bz0ENYdZp7M",
+    "Timestamp": "2022-11-08T13:01:33",
+    "Domain": "youtube.com",
+    "Description": ".NET Conf Stream: https://www.youtube.com/watch?v=sMOGPRbsbcsSupport the stream: https://streamlabs.com/nick_chapsasI won't be streaming the actual video or ..."
+  },
+  {
+    "Title": "How to deploy .NET APIs on Azure using GitHub actions - Code4IT",
+    "Url": "https://www.code4it.dev/blog/deploy-api-on-azure-with-github-action/",
+    "Timestamp": "2022-11-08T13:01:31",
+    "Domain": "www.code4it.dev",
+    "Description": "Building APIs with .NET is easy. Deploying them on Azure is easy too, with GitHub Actions!"
+  },
+  {
+    "Title": "ADO.NET provider 9.1.0.0 for Firebird is ready",
+    "Url": "https://www.tabsoverspaces.com/233906-ado-net-provider-9-1-0-0-for-firebird-is-ready",
+    "Timestamp": "2022-11-08T11:03:25",
+    "Domain": "www.tabsoverspaces.com",
+    "Description": "8 Nov 2022\n\t\n\t 1 mins\n\t\n\t .NET, C#, Databases in general, Entity Framework, Entity Framework Core, Entity SQL, Firebird, LINQ, SQL, Visual Studio"
+  },
+  {
+    "Title": "How to Use HTML Agility Pack in C# - Code Maze",
+    "Url": "https://code-maze.com/html-agility-pack-csharp/",
+    "Timestamp": "2022-11-08T09:03:39",
+    "Domain": "code-maze.com",
+    "Description": "HTML Agility Pack is a popular third-party library to read, write and update HTML documents programmatically in C#."
+  },
+  {
+    "Title": "Polling asynchronous APIs with Azure Durable Functions",
+    "Url": "https://blog.elmah.io/polling-asynchronous-apis-with-azure-durable-functions/",
+    "Timestamp": "2022-11-08T09:03:38",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn about polling an asynchronous API with Azure Durable Functions. Easily integrate with async REST APIs using an initial request and retries."
+  },
+  {
+    "Title": "gRPC Communication In Azure Container Apps - Part 1 - Bit of Technology",
+    "Url": "https://bitoftech.net/2022/11/07/grpc-communication-in-azure-container-apps/",
+    "Timestamp": "2022-11-08T06:02:13",
+    "Domain": "bitoftech.net",
+    "Description": "Post shows how to build a gRPC service and gRPC client and enable gRPC communication between Azure Container Apps"
+  },
+  {
+    "Title": "Implementing TDD in a .NET Application",
+    "Url": "https://www.telerik.com/blogs/implementing-tdd-dotnet-application",
+    "Timestamp": "2022-11-08T06:02:12",
+    "Domain": "www.telerik.com",
+    "Description": "Check out in this article how TDD (test-driven development) works and how to implement it in a .NET application."
+  },
+  {
+    "Title": "NuGet Central Package Management Comes To JetBrains Rider | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2022/11/07/nuget-central-package-management-comes-to-jetbrains-rider/",
+    "Timestamp": "2022-11-08T06:02:10",
+    "Domain": "blog.jetbrains.com",
+    "Description": "We’re introducing one of the .NET ecosystem’s newest features in JetBrains Rider 2022.3 EAP, Central Package Management (CPM). CPM allows developers to manage NuGet dependencies in a .NET solution fro"
+  },
+  {
+    "Title": "Contextual Feature Filters in ASP.NET Core - Code Rethinked",
+    "Url": "https://coderethinked.com/contextual-feature-filters-in-asp-net-core/",
+    "Timestamp": "2022-11-08T06:02:09",
+    "Domain": "coderethinked.com",
+    "Description": "Contextual feature filters are helpful and allow you to enable/disable a feature based on the context supplied."
+  },
+  {
+    "Title": "Peter Ritchie's Blog - Fundamental ASP.Net Minimal API Integration Tests",
+    "Url": "https://blog.peterritchie.com/posts/fundamental-webapi-integration-tests",
+    "Timestamp": "2022-11-08T06:02:09",
+    "Domain": "blog.peterritchie.com",
+    "Description": "Peter Ritchie"
+  },
+  {
+    "Title": "Top 10 Dotnet Exception Anti-Patterns in C#",
+    "Url": "https://newdevsguide.com/2022/11/06/exception-anti-patterns-in-csharp/",
+    "Timestamp": "2022-11-08T06:02:09",
+    "Domain": "newdevsguide.com",
+    "Description": "In this article we'll explore the top 10 mistakes I see new and seasoned developers make with exception management in dotnet source code. These principles should be valid for all dotnet languages, but examples will be provided in C#."
+  },
+  {
+    "Title": "Polly with .NET 6, Part 6 - Policy Wraps with Minimal APIs | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2022/11/polly-with-net-6-part-6-policy-wraps-with-minimal-apis/",
+    "Timestamp": "2022-11-08T06:02:09",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Polly Policy Wraps let you apply multiple types of resilience to a single operation. Using them with Minimal API Endpoints is easy, read on to see how."
+  },
+  {
+    "Title": "Applicative assertions",
+    "Url": "https://blog.ploeh.dk/2022/11/07/applicative-assertions/",
+    "Timestamp": "2022-11-08T06:02:08",
+    "Domain": "blog.ploeh.dk",
+    "Description": "An exploration."
+  },
+  {
+    "Title": "GitHub - Orbis-Tertius/MVlookups: A note on multivariate lookup arguments",
+    "Url": "https://github.com/Orbis-Tertius/MVlookups",
+    "Timestamp": "2022-11-08T05:03:35",
+    "Domain": "github.com",
+    "Description": "A note on multivariate lookup arguments. Contribute to Orbis-Tertius/MVlookups development by creating an account on GitHub."
+  },
+  {
+    "Title": "Get Revenge On Your Ex Shows You How To Get Revenge Anonymously",
+    "Url": "https://getrevengeonyourex.com/",
+    "Timestamp": "2022-11-08T05:03:35",
+    "Domain": "getrevengeonyourex.com",
+    "Description": "Why Your Ex Deserves Revenge"
+  },
+  {
+    "Title": "GitHub - farcasterxyz/protocol: Specification of the Farcaster Protocol",
+    "Url": "https://github.com/farcasterxyz/protocol",
+    "Timestamp": "2022-11-08T01:01:56",
+    "Domain": "github.com",
+    "Description": "Specification of the Farcaster Protocol. Contribute to farcasterxyz/protocol development by creating an account on GitHub."
+  },
+  {
+    "Title": "An F# Primitive Giraffe Wearing Lenses: A Ports and Adapters Story",
+    "Url": "https://www.codit.eu/blog/a-f-primitive-giraffe-wearing-lenses-a-ports-and-adapters-story/",
+    "Timestamp": "2022-11-08T00:01:43",
+    "Domain": "www.codit.eu",
+    "Description": "The start of both architectures is the same: the domain. The ports and adapters architecture is often referred to as an onion structure. The reason for this is that when the application is growing you’ll see a set of layers being added on top of each other, like onion peel. The domain is always the core, the layers on top of that depend on your application. The outside layer is the outside world: this could be writing to the database, receiving an API request, or reading a file on disk – anything that is not under your control should be considered the ‘outside world’ or ‘untrusted’. You’ll notice the core of your union, the place within your control, is fairly small. In functional programming, this domain is usually pure. This is a big difference from the object-oriented approach where you inject ‘impure’ or ‘untrusted’ services within core functionality. The data direction is a lot simpler and descriptive in a port and adapter architecture. The direction and relation between the layers are made explicit while in a dependency injection system. This relation is often scattered."
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Using Rust at a startup: A cautionary tale",
+    "Url": "https://link.medium.com/f69Oihk6avb",
+    "Timestamp": "2022-11-24T21:01:45",
+    "Domain": "link.medium.com",
+    "Description": "Rust is awesome, for certain things. But think twice before picking it up for a startup that needs to move fast."
+  },
+  {
+    "Title": "Publish docker images to GitHub Container Registry (ghcr)",
+    "Url": "https://dotnetthoughts.net/publish-images-to-github-container-registry/",
+    "Timestamp": "2022-11-24T19:01:47",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about how to publish docker images to GitHub Container Registry. GitHub offers a container registry where we can publish docker images as public and private."
+  },
+  {
+    "Title": "Book notes & reflections: The Making of a Manager",
+    "Url": "https://www.scottbrady91.com/leadership/book-notes-making-of-a-manager",
+    "Timestamp": "2022-11-24T19:01:46",
+    "Domain": "www.scottbrady91.com",
+    "Description": "An overview of the book '“The Making of a Manager' by Julie Zhou. Including some of my key takeaways, how they relate to my own experience, and what I am trying to implement as a result."
+  },
+  {
+    "Title": "WUG: Novinky v .NET 7 a C# 11 (Brno)",
+    "Url": "https://www.tabsoverspaces.com/233909-wug-novinky-v-net-7-a-csharp-11-brno",
+    "Timestamp": "2022-11-24T19:01:45",
+    "Domain": "www.tabsoverspaces.com",
+    "Description": "24 Nov 2022\n\t\n\t 1 mins\n\t\n\t Presentations & Speaking"
+  },
+  {
+    "Title": "Smart Move, Google",
+    "Url": "https://garrit.xyz/posts/2022-11-24-smart-move-google",
+    "Timestamp": "2022-11-24T19:01:45",
+    "Domain": "garrit.xyz",
+    "Description": "Generalist developer writing about fullstack development, system administration and free software."
+  },
+  {
+    "Title": "Domain Events and  Event Sourcing go hand in hand? Not Exactly!",
+    "Url": "https://youtube.com/watch?v=dJBTNksQzys",
+    "Timestamp": "2022-11-24T17:02:44",
+    "Domain": "youtube.com",
+    "Description": "What are domain events for? Domain Driven Design and Event Driven Architecture are nothing new, but they continue to become more popular. Unfortunately, some..."
+  },
+  {
+    "Title": "Elimination of programmers",
+    "Url": "https://vocal.media/journal/elimination-of-programmers",
+    "Timestamp": "2022-11-24T17:02:42",
+    "Domain": "vocal.media",
+    "Description": "How is this possible."
+  },
+  {
+    "Title": "The weirdest way to loop in C# is also the fastest",
+    "Url": "https://youtube.com/watch?v=cwBrWn4m9y8",
+    "Timestamp": "2022-11-24T15:01:34",
+    "Domain": "youtube.com",
+    "Description": "Until the 28th of Nov 2022 use discount code BF2022 for up to 25% offat: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patr..."
+  },
+  {
+    "Title": "How does JavaScript represent output parameters in the Windows Runtime?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221124-00/?p=107448",
+    "Timestamp": "2022-11-24T15:01:32",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It has to fake it."
+  },
+  {
+    "Title": "GitHub - fzyzcjy/flutter_smooth: Achieve ~60 FPS, no matter how heavy the tree is to build/layout",
+    "Url": "https://github.com/fzyzcjy/flutter_smooth",
+    "Timestamp": "2022-11-24T14:01:46",
+    "Domain": "github.com",
+    "Description": "Achieve ~60 FPS, no matter how heavy the tree is to build/layout - GitHub - fzyzcjy/flutter_smooth: Achieve ~60 FPS, no matter how heavy the tree is to build/layout"
+  },
+  {
+    "Title": "Frozen collections in .NET 8",
+    "Url": "https://steven-giesel.com/blogPost/34e0fd95-0b3f-40f2-ba2a-36d1d4eb5601",
+    "Timestamp": "2022-11-24T11:01:23",
+    "Domain": "steven-giesel.com",
+    "Description": ".NET 7 was freshly released but Microsoft does not sleep. .NET 8 is already in the making and I want to showcase to you one new area where the dotnet team is working on Frozen collections.\nSo let's have a look at what frozen collections are and how they are working.\n"
+  },
+  {
+    "Title": "Added a \"current user\" scoped service · davidfowl/TodoApi@fea14ab",
+    "Url": "https://github.com/davidfowl/TodoApi/commit/fea14ab0452cb29a253c6c193a9373fd71ebce6f",
+    "Timestamp": "2022-11-24T10:02:50",
+    "Domain": "github.com",
+    "Description": "- Replace the user id type with a \"CurrentUser\" type that can be used in more places.\n- Added a middleware that populates the current user and use that from auth policies and the todo API."
+  },
+  {
+    "Title": "C# String Interpolation - Code Maze",
+    "Url": "https://code-maze.com/csharp-string-interpolation/",
+    "Timestamp": "2022-11-24T09:03:13",
+    "Domain": "code-maze.com",
+    "Description": "String interpolation is more readable variant of string.Format that was introduced in C# 6. It is identified by $ immediately before \"."
+  },
+  {
+    "Title": "Ensure the user is valid · davidfowl/TodoApi@74b9cd7",
+    "Url": "https://github.com/davidfowl/TodoApi/commit/74b9cd7639d4eddda456c954eeb0eb805316ca38",
+    "Timestamp": "2022-11-24T09:03:05",
+    "Domain": "github.com",
+    "Description": "- make an extra db round trip per request to make sure the user is\nvalid before continuing the http pipeline.\n- Added a test to verify the behavior"
+  },
+  {
+    "Title": "Weird West First Person Mod Tech Overview",
+    "Url": "https://youtu.be/yNskDpRj6IA",
+    "Timestamp": "2022-11-24T08:02:30",
+    "Domain": "youtu.be",
+    "Description": "The Weird West first person mod is out! Here's some scoops on that. As usual, if you find that I speak too quickly or don't enunciate enough, I advise you to..."
+  },
+  {
+    "Title": "Null vs. Undefined in JavaScript | Syncfusion Blogs",
+    "Url": "https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx",
+    "Timestamp": "2022-11-24T06:01:59",
+    "Domain": "www.syncfusion.com",
+    "Description": "This article covers the basics of the values null and undefined and some best practices that can be used to check and handle errors in JavaScript apps."
+  },
+  {
+    "Title": "Developer Docs | Developer Resources and Guides | Amazon AWS",
+    "Url": "https://aws.amazon.com/developer/language/net/net-developer-docs/",
+    "Timestamp": "2022-11-24T06:01:58",
+    "Domain": "aws.amazon.com",
+    "Description": "Find everything from step-by-step guides, to courses, workshops and resources for .NET development. All from the Amazon .NET on AWS Documentation & Developer Guides"
+  },
+  {
+    "Title": "MAUI App Accelerator v1.1 - Now with C# Markup support",
+    "Url": "https://www.mrlacey.com/2022/11/maui-app-accelerator-v11-now-with-c.html",
+    "Timestamp": "2022-11-24T06:01:57",
+    "Domain": "www.mrlacey.com",
+    "Description": "Version 1.1 of MAUI App Accelerator is now available from the Visual Studio Marketplace . The big change in this version is the inclusion of..."
+  },
+  {
+    "Title": "A Simple Web API Application that Echoes the Request for any URL | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2022/11/a-simple-web-api-application-that-echoes-the-request-for-any-url/",
+    "Timestamp": "2022-11-24T06:01:56",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "There have been many times that I wanted a simple web API application that takes any request on any url and returns a useful response. Here is how to do just that with both a minimal API endpoint and a full controller."
+  },
+  {
+    "Title": "Upgrade of .NET agent for Azure Pipelines",
+    "Url": "https://devblogs.microsoft.com/devops/upgrade-of-net-agent-for-azure-pipelines/",
+    "Timestamp": "2022-11-24T06:01:56",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Understand why, what and when and decide your next steps to prepare yourself for the Azure Pipelines .NET agent upgrade."
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=240584be-fde7-43ea-b066-8ee7ea07378b",
+    "Timestamp": "2022-11-24T05:01:45",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password must be 12-16 characters long: Divyani1234567890"
+  },
+  {
+    "Title": "Securing Existing Applications with Joylynn Kirui",
+    "Url": "https://www.spreaker.com/user/16677006/dotnetrocks-1821-securing-existing-apps",
+    "Timestamp": "2022-11-24T03:01:24",
+    "Domain": "www.spreaker.com",
+    "Description": ""
+  },
+  {
+    "Title": "Making Open Source Work for Everyone with David Whitney",
+    "Url": "https://www.spreaker.com/user/16677006/dotnetrocks-1818-open-source-working-for",
+    "Timestamp": "2022-11-24T02:03:30",
+    "Domain": "www.spreaker.com",
+    "Description": ""
+  },
+  {
+    "Title": "Weird West First Person Mod Tech Overview",
+    "Url": "https://youtube.com/watch?v=yNskDpRj6IA",
+    "Timestamp": "2022-11-24T00:02:19",
+    "Domain": "youtube.com",
+    "Description": "The Weird West first person mod is out! Here's some scoops on that. As usual, if you find that I speak too quickly or don't enunciate enough, I advise you to..."
+  },
+  {
+    "Title": "Elected Officials | USAGov",
+    "Url": "https://www.usa.gov/elected-officials/",
+    "Timestamp": "2022-11-24T00:02:18",
+    "Domain": "www.usa.gov",
+    "Description": "Find contact information for federal, state, and local government officials."
+  },
+  {
+    "Title": "zkapp-cli",
+    "Url": "https://www.npmjs.com/package/zkapp-cli",
+    "Timestamp": "2022-11-24T00:02:18",
+    "Domain": "www.npmjs.com",
+    "Description": "CLI to create a zkApp (\"zero-knowledge app\") for Mina Protocol.. Latest version: 0.5.3, last published: 8 hours ago. Start using zkapp-cli in your project by running `npm i zkapp-cli`. There are 3 other projects in the npm registry using zkapp-cli."
+  }
+]

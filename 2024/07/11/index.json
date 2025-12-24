@@ -1,0 +1,205 @@
+[
+  {
+    "Title": "Decorate the Symfony router to add a trailing slash to all URLs",
+    "Url": "https://chrisshennan.com/blog/decorate-the-symfony-router-to-add-a-trailing-slash-to-all-urls",
+    "Timestamp": "2024-07-11T22:01:24",
+    "Domain": "chrisshennan.com",
+    "Description": "I publish a Symfony application as a static site and need the URL's to include a trailing slash"
+  },
+  {
+    "Title": "Vectors",
+    "Url": "https://www.avni.sh/posts/linear-algebra/vectors/",
+    "Timestamp": "2024-07-11T22:01:23",
+    "Domain": "www.avni.sh",
+    "Description": "A vector is an array of data expanding in one dimension."
+  },
+  {
+    "Title": "How to lie about latency",
+    "Url": "https://www.obe.tv/how-to-lie-about-latency/",
+    "Timestamp": "2024-07-11T22:01:21",
+    "Domain": "www.obe.tv",
+    "Description": ""
+  },
+  {
+    "Title": "Crafting the Ultimate Note-Taking App for Developers: Hard-Won Insights and Essential Lessons",
+    "Url": "https://www.slavoglinsky.com/crafting-ultimate-note-taking-app-developers-hard-won-insights-essential-lessons",
+    "Timestamp": "2024-07-11T22:01:21",
+    "Domain": "www.slavoglinsky.com",
+    "Description": "Discover the journey of designing developer tools, featuring key insights and essential lessons learned over two years of crafting the ultimate note-taking app for developers."
+  },
+  {
+    "Title": "The case for burning counterterrorism operations",
+    "Url": "https://blog.kwiatkowski.fr/the-case-for-burning-counterterrorism-operations",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "blog.kwiatkowski.fr",
+    "Description": "In January 2021, a debate had coursed through the infosec community regarding Google’s TAG and P0 decision to publish a report on what they suspected could be a western antiterrorism operation. While there were dissenting voices back then, it seemed like there was a degree of industry consensus that Google’s decision was the correct one. Fast forward to June 24, 2024: Michael Coppola releases a blog post firmly in favor of not disclosing such cyberattacks, which I encourage reading. This is as good an occasion as any to lay down my thoughts on the subject."
+  },
+  {
+    "Title": "Introducing wlhc: wayland hot corners",
+    "Url": "https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "whynothugo.nl",
+    "Description": "In theory I’ve been resting in bed with COVID these last days, but it’s hard for\nme to sit my entirely idle, so I wrote a invested some of this time in\nfamiliarising myself with hare-wayland and hare-ev."
+  },
+  {
+    "Title": "In-Memory Analytics for Kafka using DuckDB",
+    "Url": "https://yokota.blog/2024/07/11/in-memory-analytics-for-kafka-using-duckdb/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "yokota.blog",
+    "Description": "Today’s data scientist has a plethora of options when processing data in Apache Kafka. In terms of stream processing, popular options are Kafka Streams, ksqlDB, and Apache Flink. In terms of …"
+  },
+  {
+    "Title": "Last Days In New York",
+    "Url": "https://www.baugues.com/last-days-nyc/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "www.baugues.com",
+    "Description": "Photos from our farewell tour"
+  },
+  {
+    "Title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "Url": "https://tridao.me/blog/2024/flash3/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "tridao.me",
+    "Description": "Homepage of Tri Dao. # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design."
+  },
+  {
+    "Title": "Map Hopping Made Easy!  🗺️🦘🗺️",
+    "Url": "https://davidwhittingham.com/posts/maphopping/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "davidwhittingham.com",
+    "Description": " Yet another useful tool in the modern mapping ecosystem."
+  },
+  {
+    "Title": "neotraverse: unbloating traverse | Puru Vijay",
+    "Url": "https://puruvj.dev/blog/forking-and-fixing-traverse",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "puruvj.dev",
+    "Description": "This is the entire process of why and how I forked traverse npm package into neotraverse."
+  },
+  {
+    "Title": "Federation is the one new concept which excites me",
+    "Url": "https://michal.sapka.me/blog/2024/fediverse/",
+    "Timestamp": "2024-07-11T22:01:20",
+    "Domain": "michal.sapka.me",
+    "Description": "The tech is here, we just need a good product"
+  },
+  {
+    "Title": " Using aerc-mail with Outlook",
+    "Url": "https://lukaswerner.com/post/2024-07-08@aerc-outlook",
+    "Timestamp": "2024-07-11T22:01:19",
+    "Domain": "lukaswerner.com",
+    "Description": "I am a college student in America where there are unfortunately only two email\nservers that universities use: Google Workplace Gmail and Microsoft Office 365.\nUp until this point I’ve used the Office suite without complaints. However,\nbeing an average terminal enjoyer, I recently started using a terminal based\nemail client personal email."
+  },
+  {
+    "Title": "It probably won’t be you | Nic Mulvaney",
+    "Url": "https://nicmulvaney.com/it-probably-wont-be-you",
+    "Timestamp": "2024-07-11T22:01:19",
+    "Domain": "nicmulvaney.com",
+    "Description": "An interactive exploration of our lottery instincts."
+  },
+  {
+    "Title": "I prefer discussion in open web",
+    "Url": "https://hamatti.org/posts/i-prefer-discussion-in-open-web/",
+    "Timestamp": "2024-07-11T22:01:19",
+    "Domain": "hamatti.org",
+    "Description": "One of the best parts of an interconnected blogosphere is when we have discussions with each other through blog posts. Manuel Moreale wrote about his preference of having those discussions via email and here I share another personal preference that prioritises discussion in open web."
+  },
+  {
+    "Title": "How does Spectre work?",
+    "Url": "https://bvisness.me/spectre/",
+    "Timestamp": "2024-07-11T22:01:19",
+    "Domain": "bvisness.me",
+    "Description": "An interactive explainer of Spectre, and my submission for the 2024 Handmade Learning Jam."
+  },
+  {
+    "Title": "Subscriptions Suck",
+    "Url": "https://kotarski.dev/Subscriptions-suck/",
+    "Timestamp": "2024-07-11T22:01:19",
+    "Domain": "kotarski.dev",
+    "Description": "Dark patterns in subscriptions are a huge problem. I believe that they alone have already cost the consumer facing industry billions in potential revenue."
+  },
+  {
+    "Title": "Announcing Lix 2.90 \"Vanilla Ice Cream\"",
+    "Url": "https://lix.systems/blog/2024-07-10-lix-2.90-release/",
+    "Timestamp": "2024-07-11T20:01:01",
+    "Domain": "lix.systems",
+    "Description": "Lix is an independent variant of the Nix package manager, developed by a team of open-source volunteers, and maintained by and for a passionate community of users."
+  },
+  {
+    "Title": "Why and How to Execute GraphQL Queries in .NET - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/why-and-how-to-execute-graph-ql-queries-in-dotnet/",
+    "Timestamp": "2024-07-11T19:01:04",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "This post shows how to query a GraphQL API in .NET using Strawberry Shake from a console application"
+  },
+  {
+    "Title": "WALL·E",
+    "Url": "https://typesetinthefuture.com/2018/12/04/walle/",
+    "Timestamp": "2024-07-11T17:01:04",
+    "Domain": "typesetinthefuture.com",
+    "Description": "From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism. Please join me, then, for a detail…"
+  },
+  {
+    "Title": "Received Microsoft MVP Award in Developer Technologies",
+    "Url": "https://jaliyaudagedara.blogspot.com/2024/07/received-microsoft-mvp-award-in.html",
+    "Timestamp": "2024-07-11T16:01:22",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, .NET Core, ASP.NET, ASP.NET Core, Visual Studio, Jaliya Udagedara"
+  },
+  {
+    "Title": "Building AR and VR MAUI Apps | .NET MAUI Community Standup with Ed Charbeneau",
+    "Url": "https://egvijayanand.in/2024/07/11/dotnet-maui-community-standup-july-2024-mixed-reality/",
+    "Timestamp": "2024-07-11T15:01:06",
+    "Domain": "egvijayanand.in",
+    "Description": "This month’s .NET MAUI community standup focuses on Mixed Reality, specifically on building MAUI apps for AR and VR devices, featuring Ed Charbeneau, well-known in the Blazor community. His a…"
+  },
+  {
+    "Title": "dut",
+    "Url": "https://codeberg.org/201984/dut",
+    "Timestamp": "2024-07-11T14:01:05",
+    "Domain": "codeberg.org",
+    "Description": "A disk usage calculator for Linux"
+  },
+  {
+    "Title": "Creating an already-completed asynchronous activity in C++/WinRT, part 3 - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240711-00/?p=109965",
+    "Timestamp": "2024-07-11T14:01:05",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Generalizing to the four kinds of Windows Runtime asynchronous activities."
+  },
+  {
+    "Title": "Announcing SSMS 20.2 ... and getting feedback for SSMS 21",
+    "Url": "https://techcommunity.microsoft.com/t5/sql-server-blog/announcing-ssms-20-2-and-getting-feedback-for-ssms-21/ba-p/4187034",
+    "Timestamp": "2024-07-11T06:01:03",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "The SSMS team is happy to announce the release of SSMS 20.2, and we are also looking for user feedback to help shape the next major release, SSMS 21."
+  },
+  {
+    "Title": "From Microservices to Modular Monoliths",
+    "Url": "https://ardalis.com/from-microservices-to-modular-monoliths/",
+    "Timestamp": "2024-07-11T06:01:03",
+    "Domain": "ardalis.com",
+    "Description": "What do you do when you find yourself in microservice hell? How do you keep the gains you (hopefully) made in breaking up your legacy ball of mud, without having to constantly contend with a massively distributed system? Migrate to a modular monolith."
+  },
+  {
+    "Title": "Does code rot over time?",
+    "Url": "https://ayende.com/blog/201377-A/does-code-rot-over-time?Key=b0af4b59-91db-482f-852e-b0de3b65c1a8",
+    "Timestamp": "2024-07-11T06:01:02",
+    "Domain": "ayende.com",
+    "Description": "&ldquo;This is Old Code&rdquo; is a programmer&rsquo;s idiom meaning &ldquo;There Be Dragons&rdquo;. &nbsp;The term &ldquo;Legacy Code&rdquo; is a nice way t..."
+  },
+  {
+    "Title": "Loading aggregates with EF Core",
+    "Url": "https://bartwullems.blogspot.com/2024/07/loading-aggregates-with-ef-core.html",
+    "Timestamp": "2024-07-11T06:01:01",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "In Domain-Driven Design (DDD), an aggregate is a cluster of domain objects that are treated as a single unit for the purpose of data changes..."
+  },
+  {
+    "Title": "VLMs are Blind",
+    "Url": "https://vlmsareblind.github.io/",
+    "Timestamp": "2024-07-11T00:01:09",
+    "Domain": "vlmsareblind.github.io",
+    "Description": "Research showing that vision language models (VLMs) fail on simple visual tasks that are easy for humans."
+  }
+]

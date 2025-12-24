@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Llama 3.1",
+    "Url": "https://llama.meta.com/",
+    "Timestamp": "2024-07-23T20:01:09",
+    "Domain": "llama.meta.com",
+    "Description": "The open source AI model you can fine-tune, distill and deploy anywhere. Our latest models are available in 8B, 70B, and 405B variants."
+  },
+  {
+    "Title": "Announcing .NET Conf: Focus on AI - August 20th 2024 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnetconf-focus-on-ai/",
+    "Timestamp": "2024-07-23T19:01:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "We're thrilled to announce the upcoming .NET Conf: Focus on AI, happening on August 20th! This one-day, virtual event will be packed with insightful sessions from both the community and Microsoft teams, showcasing how you can infuse your .NET applications with powerful AI capabilities."
+  },
+  {
+    "Title": "CockroachDB and Postgres - Releasing Locked Rows with idle_in_transaction_session_timeout | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/07/cockroachdb-and-postgres-releasing-locked-rows-with-idle-in-transaction-session-timeout/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "CockroachDB and Postgres let you lock a row with a select if you intend to update it, but what if the transaction gets stuck and the row remains locked? The idle_in_transaction_session_timeout setting can help with this."
+  },
+  {
+    "Title": "CockroachDB and Postgres SELECT FOR UPDATE and SKIP LOCKED | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/06/cockroach-postgres-select-for-update-and-skip-locked/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "With CockroachDB and Postgres, combining the SELECT FOR UPDATE and SKIP LOCKED statements can help you handle concurrent access to the same table."
+  },
+  {
+    "Title": "Doing Background Work with a Hosted Service in Web API | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/05/doing-background-work-with-a-hosted-service-in-web-api/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Adding a background service to Web API is easy to do, here's how. (Not saying you should do this!)"
+  },
+  {
+    "Title": "Running Postgres in Docker | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/06/running-postgres-in-docker/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "A simple example of running Postgres in Docker with a password set, and a port exposed."
+  },
+  {
+    "Title": "Running CockroachDB on Windows, Linux, or Mac with a Single Executable | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/05/running-cockroachdb-on-windows-linux-or-mac-with-a-single-executable/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "In a previous post I showed how to run CockroachDB locally using Docker, but there is an even easier way - run the executable for your operating system."
+  },
+  {
+    "Title": "CSS Grid Areas",
+    "Url": "https://ishadeed.com/article/css-grid-area/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "ishadeed.com",
+    "Description": "A fresh look at the CSS grid template areas and how to take advantage of its full potential today."
+  },
+  {
+    "Title": "Finding the command used to start a Docker container | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/07/finding-the-command-used-to-start-a-docker-container/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I recently wanted to find the command I had run to start a Docker container, it is not as easy as it should be!"
+  },
+  {
+    "Title": "The Gap",
+    "Url": "https://ishadeed.com/article/the-gap/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "ishadeed.com",
+    "Description": "An exploration of the pain points that CSS gap solves."
+  },
+  {
+    "Title": "CSS Cap Unit",
+    "Url": "https://ishadeed.com/article/css-cap-unit/",
+    "Timestamp": "2024-07-23T18:01:33",
+    "Domain": "ishadeed.com",
+    "Description": "A look at how I solved a design problem with CSS cap unit."
+  },
+  {
+    "Title": "GenAI for Developers",
+    "Url": "https://basementprogrammer.com/genai-for-developers",
+    "Timestamp": "2024-07-23T18:01:32",
+    "Domain": "basementprogrammer.com",
+    "Description": "It's hard to imagine the year is nearly half over, and this is the first Blog post I have written. As someone who works in technology, you can imagine I have been buried in talks about Generative AI with customers. We spend a lot of time discussing d..."
+  },
+  {
+    "Title": "What's new in .NET Aspire 8.1 for cloud native developers! - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/",
+    "Timestamp": "2024-07-23T18:01:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Let's take a look at what is new with .NET Aspire 8.1 for building cloud native applications!"
+  },
+  {
+    "Title": "Protect your AWS Webservers from Port Scanning attacks",
+    "Url": "https://basementprogrammer.com/easy-steps-to-protect-your-web-application-servers",
+    "Timestamp": "2024-07-23T18:01:31",
+    "Domain": "basementprogrammer.com",
+    "Description": "When I started working with AWS a little over 8 years ago, one of the first things I did was set up a simple web server. Being a \"Windows Guy,\" I created an EC2 instance running Windows Server, installed IIS, put it into a public subnet in the defaul..."
+  },
+  {
+    "Title": "Unquoted service paths: The new frontier in script kiddie security vulnerability reports - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240723-00/?p=110032",
+    "Timestamp": "2024-07-23T17:01:00",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Usually not exploitable, but the script kiddies don't know that."
+  },
+  {
+    "Title": "5.3 Release: Full Rider Support and 350+ Enhancements",
+    "Url": "https://platform.uno/blog/5-3/",
+    "Timestamp": "2024-07-23T16:00:30",
+    "Domain": "platform.uno",
+    "Description": "Uno platform 5.3 release"
+  },
+  {
+    "Title": "Database Design for Google Calendar: a tutorial",
+    "Url": "https://kb.databasedesignbook.com/posts/google-calendar/",
+    "Timestamp": "2024-07-23T14:01:07",
+    "Domain": "kb.databasedesignbook.com",
+    "Description": "Author: Alexey Makhotkin squadette@gmail.com.\nIntroduction In this database design tutorial (~9000 words) I’m going to show how to design the database tables for a real-world project of substantial complexity.\nWe’ll design a clone of Google Calendar. We will model as much as possible of the functionality that is directly related to the calendar.\nThis series illustrates an approach explained in the book called “Database Design using Minimal Modeling”, scheduled to be released in Summer 2024."
+  },
+  {
+    "Title": "July 2024 Update on Instability Reports on Intel Core 13th and 14th Gen Desktop Processors",
+    "Url": "https://community.intel.com/t5/Processors/July-2024-Update-on-Instability-Reports-on-Intel-Core-13th-and/m-p/1617113#M74792",
+    "Timestamp": "2024-07-23T13:01:51",
+    "Domain": "community.intel.com",
+    "Description": "Based on extensive analysis of Intel Core 13th/14th Gen desktop processors returned to us due to instability issues, we have determined that elevated operating voltage is causing instability issues in some 13th/14th Gen desktop processors. Our analysis of returned processors confirms that the elevat..."
+  },
+  {
+    "Title": "GitHub - linuxmint/timeshift: System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
+    "Url": "https://github.com/linuxmint/timeshift",
+    "Timestamp": "2024-07-23T13:01:47",
+    "Domain": "github.com",
+    "Description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be re..."
+  },
+  {
+    "Title": "Add a SignalR hub to ASP.NET Core & connect using JavaScript",
+    "Url": "https://www.roundthecode.com/dotnet-tutorials/add-signalr-hub-aspnet-core-connect-using-javascript",
+    "Timestamp": "2024-07-23T06:01:10",
+    "Domain": "www.roundthecode.com",
+    "Description": "Learn how to add a SignalR hub to an ASP.NET Core app and how to connect to it by using a WebSocket through JavaScript."
+  },
+  {
+    "Title": "A quick look at large language models with Node.js, Podman desktop, and the Granite model | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2024/07/22/quick-look-large-language-models-nodejs-podman-desktop-and-granite-model",
+    "Timestamp": "2024-07-23T06:01:05",
+    "Domain": "developers.redhat.com",
+    "Description": "Explore large language models (LLMs) by trying out the Granite model on Podman AI Lab."
+  },
+  {
+    "Title": "Web Styles in Native Apps",
+    "Url": "https://www.telerik.com/blogs/web-styles-native-apps",
+    "Timestamp": "2024-07-23T06:01:04",
+    "Domain": "www.telerik.com",
+    "Description": "Styles meant for web apps can be easily shared with native mobile/desktop apps—developers also have the flexibility to tinker with styling on the fly."
+  },
+  {
+    "Title": "Overriding MSAL's HttpClient with IHttpClientFactory",
+    "Url": "https://anthonysimmon.com/overriding-msal-httpclient-with-ihttpclientfactory/",
+    "Timestamp": "2024-07-23T06:01:04",
+    "Domain": "anthonysimmon.com",
+    "Description": "Increase the reliability of MSAL.NET with IHttpClientFactory, benefiting from automatic DNS lookup, TCP connection reuse, and HttpMessageHandler pipeline extensibility."
+  },
+  {
+    "Title": "Stop a script when an error occurs in PowerShell - Gérald Barré",
+    "Url": "https://www.meziantou.net/stop-the-script-when-an-error-occurs-in-powershell.htm",
+    "Timestamp": "2024-07-23T06:01:04",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to stop a PowerShell script when an error occurs using the $ErrorActionPreference and $PSNativeCommandUseErrorActionPreference variables"
+  },
+  {
+    "Title": "Copying is the way design works",
+    "Url": "https://matthewstrom.com/writing/copying/",
+    "Timestamp": "2024-07-23T01:01:00",
+    "Domain": "matthewstrom.com",
+    "Description": "What exists in the space between riffing and ripping"
+  },
+  {
+    "Title": "President Venn Diagram",
+    "Url": "https://xkcd.com/2962/",
+    "Timestamp": "2024-07-23T00:01:00",
+    "Domain": "xkcd.com",
+    "Description": ""
+  }
+]

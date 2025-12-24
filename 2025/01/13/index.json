@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Radon",
+    "Url": "https://xkcd.com/3037/",
+    "Timestamp": "2025-01-13T21:01:46",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "LLMs vs SLMs",
+    "Url": "https://youtube.com/watch?v=MYS1Qk7T0wg",
+    "Timestamp": "2025-01-13T19:01:45",
+    "Domain": "youtube.com",
+    "Description": "In this edition of #tech on ice, I discuss the difference between #LLMs vs #SLMs in the #ai space. \n#developer #programming #coldplunge #gpt #LLM"
+  },
+  {
+    "Title": "David A. Wheeler's Review of \"Debugging\" by David J. Agans",
+    "Url": "https://dwheeler.com/essays/debugging-agans.html",
+    "Timestamp": "2025-01-13T18:01:43",
+    "Domain": "dwheeler.com",
+    "Description": "It's not often you find a classic, but I think I've found\na new classic for software and computer hardware developers.\nIt's David J. Agan's\nDebugging: The 9 Indispensable Rules for Finding\nEven the Most Elusive Software and Hardware Problems\n(ISBN 0814471684).\nThis book explains the fundamentals of finding and fixing bugs\n(once a bug has been detected), rather than any particular technology.\nIt's best for developers who are novices or who are only moderately\nexperienced, but even old pros will find helpful reminders of things they\nknow they should do but forget in the rush of the moment.\nThis book will help you fix those inevitable bugs,\nparticularly if you're not a pro at debugging.\nIt's hard to bottle experience; this book does a good job.\nThis is a book I expect to find useful many, many, years from now."
+  },
+  {
+    "Title": "EF Core 9.0: Breaking Change in Migration Idempotent Scripts",
+    "Url": "https://jaliyaudagedara.blogspot.com/2025/01/ef-core-90-breaking-change-in-migration.html",
+    "Timestamp": "2025-01-13T16:01:43",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, ASP.NET Core, Visual Studio, Azure, Jaliya Udagedara"
+  },
+  {
+    "Title": "v25.01 · YaLTeR/niri · Discussion #956",
+    "Url": "https://github.com/YaLTeR/niri/discussions/956",
+    "Timestamp": "2025-01-13T14:01:42",
+    "Domain": "github.com",
+    "Description": "Niri is a scrollable-tiling Wayland compositor. Windows are arranged in columns on an infinite strip going to the right. Opening a new window never causes existing windows to resize. Here are the i..."
+  },
+  {
+    "Title": "Effective Data Exchange with Sockets – Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/real-time-communication-effective-data-exchange-with-sockets/",
+    "Timestamp": "2025-01-13T13:01:50",
+    "Domain": "woodruff.dev",
+    "Description": "Real-time communication is the heartbeat of modern applications, powering everything from video calls to live sports updates. At the core of these dynamic interactions lies the effective exchange of data using sockets. Sockets are the unseen maestros of this symphony, ensuring that data flows seamlessly between clients and servers, even when speed and accuracy are paramount."
+  },
+  {
+    "Title": "Use Scalar to invoke CRUD operations of a Web API | BinaryIntellect Knowledge Base",
+    "Url": "https://www.binaryintellect.net/articles/5d653054-51a8-49b0-aabe-dfeaa685a22a.aspx",
+    "Timestamp": "2025-01-13T13:01:50",
+    "Domain": "www.binaryintellect.net",
+    "Description": "In the previous article we learned to add Swagger and Scalar to a Web API project. I have already explained Swagger integration in more detail here and here. So, it's time to focus on Scalar and learn how to test Web API CRUD operations."
+  },
+  {
+    "Title": "The Problem With Singletons You Need to Avoid",
+    "Url": "https://youtube.com/watch?v=whaHQ1bH8jE",
+    "Timestamp": "2025-01-13T13:01:45",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses on Dometrain: https://dometrain.com\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nBecome a Patreon and get special perks: https://www.patreon.com/nickchapsas\n\nHello, everybody. I'm Nick, and in this video, I will talk about the misconception of how singletons work in programming and explain a trap that you might fall into by using them.\n\nWorkshops: https://bit.ly/nickworkshops\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\nKeep coding merch: https://keepcoding.shop\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "German router maker is latest company to inadvertently clarify the LGPL license",
+    "Url": "https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/",
+    "Timestamp": "2025-01-13T12:01:55",
+    "Domain": "arstechnica.com",
+    "Description": "A recently closed lawsuit in Germany is the latest in a long-running trend of hardware makers using GPL source code, but not fairly providing it back."
+  },
+  {
+    "Title": "GitHub - TabbyML/tabby: Self-hosted AI coding assistant",
+    "Url": "https://github.com/TabbyML/tabby",
+    "Timestamp": "2025-01-13T12:01:50",
+    "Domain": "github.com",
+    "Description": "Self-hosted AI coding assistant. Contribute to TabbyML/tabby development by creating an account on GitHub."
+  },
+  {
+    "Title": "Asylum Square: Retrogames revised.",
+    "Url": "https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts",
+    "Timestamp": "2025-01-13T08:01:45",
+    "Domain": "asylumsquare.com",
+    "Description": "Retrogames revised."
+  },
+  {
+    "Title": "Equipping 3rd party types with debugging capabilities",
+    "Url": "https://steven-giesel.com/blogPost/48d50101-fa20-4f26-9a59-5c1229302460",
+    "Timestamp": "2025-01-13T05:01:58",
+    "Domain": "steven-giesel.com",
+    "Description": "Debugging is important, and it's often useful to be able to inspect the state of objects in the debugger.\nHowever sometimes you're working with 3rd party types that don't have any debugging capabilities, so you can't see their internal state easily. In this blog post we will have a look on how to equip 3rd party types with debugging capabilities.\n"
+  },
+  {
+    "Title": "dotnet test command - .NET CLI",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-test",
+    "Timestamp": "2025-01-13T05:01:57",
+    "Domain": "learn.microsoft.com",
+    "Description": "The dotnet test command is used to execute unit tests in a given project."
+  },
+  {
+    "Title": "The Superior Way To Travel",
+    "Url": "https://kylevallans.bearblog.dev/the-superior-way-to-travel/",
+    "Timestamp": "2025-01-13T02:02:43",
+    "Domain": "kylevallans.bearblog.dev",
+    "Description": "\n\n{{ email-signup }}\n_\n\nFirst time staying in a hostel and it's far superior than hotels/airbnb's. \n\n(some observations from a stay so far at a hostel ..."
+  },
+  {
+    "Title": "My ",
+    "Url": "https://brettterpstra.com/2025/01/12/my-remote-web-development-setup/",
+    "Timestamp": "2025-01-13T02:02:41",
+    "Domain": "brettterpstra.com",
+    "Description": "Recent changes in my health have made it such that some days I’m couch-bound upstairs, while my office (and primary work computer) is in the basement. This has led to some interesting solutions…"
+  },
+  {
+    "Title": "Software sandboxing: The basics",
+    "Url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+    "Timestamp": "2025-01-13T02:02:41",
+    "Domain": "blog.emilua.org",
+    "Description": null
+  },
+  {
+    "Title": "HOW TO TRACK WEBSITE ANALYTICS USING ONLY NGINX AND PURE BASH",
+    "Url": "https://sanixdk.xyz/blogs/how-to-add-website-analytics-using-only-nginx",
+    "Timestamp": "2025-01-13T02:02:41",
+    "Domain": "sanixdk.xyz",
+    "Description": "home • blogs •  about"
+  },
+  {
+    "Title": "Agents",
+    "Url": "https://huyenchip.com/2025/01/07/agents.html",
+    "Timestamp": "2025-01-13T02:02:41",
+    "Domain": "huyenchip.com",
+    "Description": "Intelligent agents are considered by many to be the ultimate goal of AI. The classic book by Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach (Prentice Hall, 1995), defines the field of AI research as “the study and design of rational agents.”"
+  },
+  {
+    "Title": "Why some DVLA digital services don't work at night",
+    "Url": "https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/",
+    "Timestamp": "2025-01-13T02:02:41",
+    "Domain": "dafyddvaughan.uk",
+    "Description": "Every few months or so, somebody asks on social media why a particular DVLA digital service is turned off over night. Rather than answering it every time, I’ve decided to write this post, so I can point people at it in future. It’s a great case study to show why making government services digitally native can be quite complicated."
+  },
+  {
+    "Title": "Parallel processing with Virtual Threads - A comparative analysis",
+    "Url": "https://www.dhaval-shah.com/parallel-processing-virtual-threads-reactor-vs-jdk/",
+    "Timestamp": "2025-01-13T02:02:40",
+    "Domain": "www.dhaval-shah.com",
+    "Description": "Background My previous article focussed on comparing solutions for performing parallel execution using Spring Core Reactor and JDK 21. This article will follow …"
+  },
+  {
+    "Title": "Use of Time in Distributed Databases (part 1)",
+    "Url": "http://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases.html",
+    "Timestamp": "2025-01-13T02:02:40",
+    "Domain": "muratbuffalo.blogspot.com",
+    "Description": "Distributed systems are characterized by nodes executing concurrently with no shared state and no common clock. Coordination between nodes a..."
+  },
+  {
+    "Title": "Implantable SSH credentials | Evan Pratten",
+    "Url": "https://ewpratten.com/blog/implant-backed-ssh",
+    "Timestamp": "2025-01-13T02:02:40",
+    "Domain": "ewpratten.com",
+    "Description": "Using somewhat-sketchy crypto to become a walking private key"
+  },
+  {
+    "Title": "(Right-Nulled) Generalised LR Parsing",
+    "Url": "https://blog.jeffsmits.net/generalised-lr-parsing/",
+    "Timestamp": "2025-01-13T02:02:40",
+    "Domain": "blog.jeffsmits.net",
+    "Description": "A web log. Mostly about computer science-y stuff."
+  },
+  {
+    "Title": "Learning to code with Cursor",
+    "Url": "https://willemevers.com/cursor",
+    "Timestamp": "2025-01-13T02:02:39",
+    "Domain": "willemevers.com",
+    "Description": "Learning to code with Cursor"
+  },
+  {
+    "Title": "How I discovered a hole in the fetch specification",
+    "Url": "https://linolevan.com/blog/fetch_methods",
+    "Timestamp": "2025-01-13T02:02:39",
+    "Domain": "linolevan.com",
+    "Description": "Let me tell you a story about a large company I worked for."
+  },
+  {
+    "Title": "Data Quality in LLMs",
+    "Url": "https://mattrickard.com/data-quality-in-llms",
+    "Timestamp": "2025-01-13T02:02:39",
+    "Domain": "mattrickard.com",
+    "Description": "Good data is the difference between Mistral’s LLMs and Llama, which share similar architectures but different datasets.\n\nTo train LLMs, you need data that is:\n\n"
+  },
+  {
+    "Title": "right to root access",
+    "Url": "https://medhir.com/blog/right-to-root-access",
+    "Timestamp": "2025-01-13T02:02:39",
+    "Domain": "medhir.com",
+    "Description": "right to repair laws should include provisions requiring manufacturers to unlock a device's bootloader (to provide root access) upon consumer request."
+  },
+  {
+    "Title": "Uv has a killer feature you should know about",
+    "Url": "https://valatka.dev/2025/01/12/on-killer-uv-feature.html",
+    "Timestamp": "2025-01-13T02:02:39",
+    "Domain": "valatka.dev",
+    "Description": "In my view, neither performance nor trying to be Python-aligned is what sets uv apart. Don’t get me wrong — try switching from uv to Poetry, and you’ll quickly notice how sluggish it (poetry) feels. uv goes extra miles to adhere to PEPs, and IMHO it’s the go-to package manager for Python these days. But these aren’t the features that surprised me most."
+  },
+  {
+    "Title": "Memorization Is Important In CS",
+    "Url": "https://mintsuku.pages.dev/blog/memorization-is-important-in-cs/",
+    "Timestamp": "2025-01-13T02:02:38",
+    "Domain": "mintsuku.pages.dev",
+    "Description": "Programmer with who can't stop picking new hobbies.."
+  },
+  {
+    "Title": "Backdooring Your Backdoors - Another $20 Domain, More Governments",
+    "Url": "https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/",
+    "Timestamp": "2025-01-13T01:01:45",
+    "Domain": "labs.watchtowr.com",
+    "Description": "After the excitement of our .MOBI research, we were left twiddling our thumbs. As you may recall, in 2024, we demonstrated the impact of an unregistered domain when we subverted the TLS/SSL CA process for verifying domain ownership to give ourselves the ability to issue valid and trusted TLS/"
+  }
+]

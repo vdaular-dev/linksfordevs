@@ -1,0 +1,366 @@
+[
+  {
+    "Title": "Introducing the Keeling Curve",
+    "Url": "https://tywkiwdbi.blogspot.com/2023/07/introducing-keeling-curve.html",
+    "Timestamp": "2023-07-10T22:02:39",
+    "Domain": "tywkiwdbi.blogspot.com",
+    "Description": "If you are like me you will have good friends or colleagues who in all sincerity believe that recent changes in the climate are part of a \"n..."
+  },
+  {
+    "Title": "How and why to properly write copyright statements in your code  - … and probably more than what you ever wanted to know about them ",
+    "Url": "https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code",
+    "Timestamp": "2023-07-10T22:02:22",
+    "Domain": "matija.suklje.name",
+    "Description": "Copyright is automatic, but for compliance and collaboration purposes you should still use copyright statements of good quality. This post explains some copyright myths and inertia, as well as spells out how (and why) to write a copyright/license notice of great quality."
+  },
+  {
+    "Title": "Hacking LangChain For Fun and Profit - I",
+    "Url": "https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/",
+    "Timestamp": "2023-07-10T22:02:20",
+    "Domain": "blog.kevinhu.me",
+    "Description": "1 Overview Recently I’ve looked into the LangChain project and I was surprised by how it could be such a powerful and mature a project built in such short span of time. It covers many essential tools"
+  },
+  {
+    "Title": "Learn C# with CSharpFritz - C# with Visual Studio Code",
+    "Url": "https://youtube.com/watch?v=KTxKqgI2tzQ",
+    "Timestamp": "2023-07-10T22:02:20",
+    "Domain": "youtube.com",
+    "Description": "Fritz is going to show you some of the best tips, tricks, and extensions you can use with Visual Studio Code to make you a more productive C# and .NET develo..."
+  },
+  {
+    "Title": "How to Eat Dirt",
+    "Url": "https://raheeljunaid.com/how-to-eat-dirt",
+    "Timestamp": "2023-07-10T22:02:19",
+    "Domain": "raheeljunaid.com",
+    "Description": "Learn how embracing failure can lead to greater innovation and efficiency in your work and propel your personal growth and professional growth"
+  },
+  {
+    "Title": "Heimdall: making operating Flink deployments a bit easier",
+    "Url": "https://sap1ens.com/blog/2023/07/09/heimdall-making-operating-flink-deployments-a-bit-easier/",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "sap1ens.com",
+    "Description": "I want to introduce Heimdall: a dashboard for operating Flink jobs and deployments. I’ve been working on it for the last several weeks, and we& …"
+  },
+  {
+    "Title": "Blunt/Direct/Assertive communicators, online communication challenges and how to overcome them",
+    "Url": "https://pankajpipada.com/posts/2023-07-10-assertive/",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "pankajpipada.com",
+    "Description": "This blog post explores the challenges faced by blunt or direct communicators, particularly in the context of online communication, and proposes some effective strategies that have proven helpful."
+  },
+  {
+    "Title": "Finding Your Mojo – Mike Innes",
+    "Url": "https://mikeinnes.io/2023/06/06/mojo",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "mikeinnes.io",
+    "Description": "Last month a startup called Modular released a new language called Mojo (not to be confused with the existing indigenous one). Based on Python and designed for ML hardware and models, Mojo’s goals (“the usability of Python with the performance of C”) coincide with those of the Julia language, so I’m interested to compare notes.1"
+  },
+  {
+    "Title": "Technological schadenfreude",
+    "Url": "https://www.johndcook.com/blog/2023/07/06/technological-schadenfreude/",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "www.johndcook.com",
+    "Description": "Technological schadenfreude: taking pleasure in seeing that a technology you intended to learn but haven't has gone away."
+  },
+  {
+    "Title": "Using LiDAR to map tree shadows • Ted Piotrowski",
+    "Url": "https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "tedpiotrowski.svbtle.com",
+    "Description": "tl;dr; I can load LiDAR data to simulate tree shadows for any time of year, but the hardware demands and hosting costs may be prohibitive so I’m only sharing a small demo for now Update: After some HN inspiration I successfully generated the... | Ted Piotrowski | Code to live. Live to spend time outdoors."
+  },
+  {
+    "Title": "Euclidean Algorithm",
+    "Url": "https://joe-ferrara.github.io/2023/07/09/euclidean-algorithm.html",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "joe-ferrara.github.io",
+    "Description": "The Euclidean Algorithm is taught in elementary number theory and discrete math in college. It’s simple enough to teach it to grade school students, where it is taught in number theory summer camps and I’d imagine in fancy grade schools. Even though it’s incredibly simple, the ideas are very deep and get re-used in graduate math courses on number theory and abstract algebra. The importance of the Euclidean algorithm to elementary number theory is the role it plays in proving that an integer can be uniquely factored into prime numbers. In higher math that is usually only learned by people that study math in college, the Euclidean algorithm is used to prove that there exists unique prime factorization in other more complicated arithmetic systems than the integers. The Euclidean algorithm is also used to find multiplicative inverses in modular arithmetic. This has many applications to the real world in computer science and software engineering, where finding multiplicative inverses modulo some modulus is used in RSA and elliptic curve cryptography amongst other things. The Euclidean algorithm starts with the simple intuitive statement of the division algorithm. Division Algorithm: Given positive integers $a,b \\in \\mathbb{N}$, with $b < a$ there exist nonnegative integers $q,r \\in \\mathbb{Z}_{\\geq 0}$ such that [a = bq + r] where $0 \\leq r < b$. The division algorithm says that given two positive integers you can divide the smaller one ($b$) into the larger one ($a$) with a remainder that’s less than the smaller integer. To carry out the division algorithm you take multiples of the smaller integer, $b$, until you get a larger number than $a$, and then $qb$ is the multiple one less than that. The remainder, $r$, is whatever is left over between $a$ and $bq$, i.e. $r = a - bq$. With the division algorithm in hand, we can prove the Euclidean algorithm. Euclidean Algorithm: Let $a,b \\in \\mathbb{N}$, with $b < a$ and let $r$ be the greatest common divisor of $a$ and $b$. Then there exists $x,y \\in \\mathbb{Z}$ such that \\(r = ax + by\\). Strictly speaking, the Euclidean algorithm is the algorithm used to prove the existence of $x$ and $y$ by giving an algorithm, the Euclidean algorithm, that starts with $a$ and $b$ then finds $r$ and then finds $x$ and $y$. In two sentences, the Euclidean algorithm consists of repeatedly applying the division algorithm to determine $r$. Then reversing the repeated division algorithm allows one to express $r$ in terms of $a$ and $b$ giving one an explicit algorithm for determining $x$ and $y$. Proving that the $r$ obtained by the Euclidean algorithm is truly the greatest common divisor of $a$ and $b$ takes a slight diversion in the form of a lemma. Let’s repeat the division algorithm a few times [\\begin{array}{ll} a = bq_0 + r_1 &r_1 < b ​ b = r_1q_1 + r_2 &r_2 < r_1 r_1 = r_2q_2 + r_3 &r_3 < r_2\\end{array}] where each time in the new division algorithm we replace the $b$ with the remainder and replace the $a$ with the $b$. Generally speaking if we repeat this over and over, the pattern of the equations looks like [\\begin{array}{ll} r_{n-2} = r_{n-1}q_{n-1} + r_n &r_n < r_{n-1} \\label{ref1}\\tag{1} r_{n-1} = r_n q_n + r_{n + 1} &r_{n + 1} < r_n \\end{array}] for $n = 1$, when $a = r_{-1}$ and $b = r_0$, until $n$ gets large enough that the sequence of equations terminates. To see why the sequence of equations terminates, note that the sequence of $r_i$’s [a > b > r_1 > r_2 > r_3 \\ldots] is a strictly decreasing sequence of nonnegative integers (remember in the division algorithm that $0 \\leq r < b$). Any strictly decreasing sequence of nonnegative integers must eventually end with 0. In the Euclidean algorithm case, this means eventually we get $r_{N + 1} = 0$ for some $N$. The choice of $N$ here is so that $r_N$ is the last positive remainder. The last two steps of repeatedly applying the division algorithm are [\\begin{array}{ll} r_{N - 2} = r_{N - 1}q_{N - 1} + r_N &r_N < r_{N - 1} \\label{ref2}\\tag{2} \\ r_{N - 1} = r_N q_N \\end{array}] where $r_{N + 1}$ is not written because it’s zero. Before we show that $r_N$ is the greatest common divisor of $a$ and $b$, let’s see how we find $x, y \\in \\mathbb{Z}$ such that $r_N = ax + by$. If we look at the first equation in $(\\ref{ref1})$ and solve for $r_{n+1}$ we get [r_{n+1} = -q_nr_n + r_{n-1},] which writes $r_{n+1}$ as a linear combination of $r_n$ and $r_{n-1}$. We then plug the first equation of ($\\ref{ref1}$) into this equation by isolating $r_n$ in the first equation, giving [r_{n+1} = -q_n(r_{n-2} - r_{n-1}q_{n-1}) +r_{n-1}.] Carrying out the multiplication and rewriting the right hand side in terms of $r_{n-1}$ and $r_{n-2}$ gives \\(r_{n+1} = (1 + q_{n-1}q_n)r_{n-1}-q_nr_{n-2}\\). This shows that we can inductively write $r_{n+1}$ as a linear combination of any $r_{i}$ and $r_{i +1}$ for $i<n$. Applying this to $r_N$ and going all the way to the beginning of the Euclidean algorithm gives $r_N$ as a linear combination of $a$ and $b$ (remember $a = r_{-1}$ and $b=r_0$) for some $x, y \\in \\mathbb{Z}$: \\(r_N = ax + by\\). The $x$ and $y$ are long expressions involving all the of the $q_i$’s. This is the end of the story as far as explaining how to do and use the Euclidean algorithm to find the greatest common divisor, $r$, of $a$ and $b$ and to find $x$ and $y$ such that $r = ax + by$. To finish things up mathematically, we need to show that $r_N$ actually is the greatest common divisor of $a$ and $b$. For this, we also use an inductive argument chaining together the steps of the Euclidean algorithm. We need the following lemma. Lemma: If $a = bq + r$, then the greatest common divisor of $a$ and $b$ is the same as the greatest common divisor of $b$ and $r$. To prove this lemma we show that the set of divisors of $a$ and $b$ is the same as the set of divisors of $b$ and $r$. If these two sets are the same, then greatest number in each of them is the same. To see why these two sets are the same, let $d$ divide $a$ and $b$. Then since $r = a -bq$, then $d$ divides $r$. Similarly if $d$ divides $r$ and $b$ then because $a = bq + r$ then $d$ divides $a$. Back to the Euclidean algorithm. Let $\\gcd(x, y)$ denote the greatest common divisor of two integers $x$ and $y$. The second equation of $(\\ref{ref2})$ says that $r_N$ divides $r_{N-1}$ so $\\gcd(r_N, r_{N-1}) = r_N$. We then apply the lemma in a chain up the equations in the Euclidean algorithm. For example the first equation of $(\\ref{ref2})$ implies by the lemma that $\\gcd(r_N, r_{N-1}) = \\gcd(r_{N-1}, r_{N-2})$. We get a chain of equalities going all the way to $\\gcd(a, b)$: [r_N = \\gcd(r_N, r_{N-1}) = \\gcd(r_{N-1}, r_{N-2}) = \\ldots = \\gcd(r_2, r_1) = \\gcd(r_1, b) = \\gcd(b, a),] which finishes the proof of the Euclidean algorithm. In computer programming running the Euclidean algorithm to get $r$ is an efficient algorithm to find the greatest common divisor of $a$, and $b$. Further, given the equation [1 = ax + by] for $a$ and $b$ with greatest common divisor $1$, doing the Euclidean algorithm and then reversing it is an efficient algorithm to find a solution for $x$ and $y$. Let’s see how this leads to finding multiplicative inverses in modular arithmetic. Let $a$ and $m$ be positive integers such that the greatest common divisor of $a$ and $m$ is $1$. Then by the Euclidean algorithm, there exist integers $x, y$ such that [1 = ax + my.] Rearranging this says that $ax - 1 = my$, which is the equation that says $ax \\equiv 1 \\bmod m$ or that $x$ is the multiplicative inverse of $a$ modulo $m$. Therefore when $a$ and $m$ have greatest common divisor $1$, then the Euclidean algorithm constructs a multiplicative inverse of $a$ modulo $m$. In fact the only integers that have multiplicative inverses modulo $m$ are those that have a greatest common divisor of $1$ with $m$. To quickly prove this, let $d$ be the greatest common divisor of $a$ and $m$ and assume that $a$ has a multiplicative inverse modulo $m$. Then there exists $x,y \\in \\mathbb{Z}$ such that $ax - 1 = my$ or $ax - my = 1$. Since $d$ divides $a$ and $m$, then by the equation $ax - my = 1$, $d$ divides $1$. The only divisor of $1$ is $1$, so $d=1$, saying that the greatest common divisor of $a$ and $m$ is $1$. Therefore, we’ve see that an integer $a$ has a multiplicative inverse modulo $m$ if and only if the greatest common divisor of $a$ and $m$ is $1$, and the Euclidean algorithm explicitly constructs the multiplicative inverse of $a$ modulo $m$."
+  },
+  {
+    "Title": "Feature Flags: Theory vs Reality",
+    "Url": "https://bpapillon.com/post/feature-flags-theory-vs-reality/",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "bpapillon.com",
+    "Description": "A contemplation of how feature management tools might evolve to better support how feature flags are used in practice"
+  },
+  {
+    "Title": "Preempting the Round",
+    "Url": "https://jaredhecht.com/2023/07/09/preempting-the-round/",
+    "Timestamp": "2023-07-10T22:02:18",
+    "Domain": "jaredhecht.com",
+    "Description": "Entertaining offers from VCs to preempt your next round is almost always a waste of time and sometimes dangerous. On three separate occasions at GroupMe and Fundera, I let excellent VCs that were i…"
+  },
+  {
+    "Title": "Cldfire's Blog",
+    "Url": "https://cldfire.dev/blog/when-settimeout-is-blocking/",
+    "Timestamp": "2023-07-10T22:02:17",
+    "Domain": "cldfire.dev",
+    "Description": "July  9, 2023"
+  },
+  {
+    "Title": "The Great Pendulum",
+    "Url": "https://hugotunius.se/2023/07/09/the-great-pendulum.html",
+    "Timestamp": "2023-07-10T22:02:17",
+    "Domain": "hugotunius.se",
+    "Description": "On the great pendulum that hides in the tech industry \n"
+  },
+  {
+    "Title": "Repetition vs. Pushing Hard",
+    "Url": "https://mutahhir.dev/blog/repetition-vs-pushing-hard",
+    "Timestamp": "2023-07-10T22:02:17",
+    "Domain": "mutahhir.dev",
+    "Description": "When working, how much can we improve by constantly pushing our limits? At what point do we start start hurting ourselves, and what does the economic theory, 'The law of diminishing marginal returns' help us understand about ourselves.\n"
+  },
+  {
+    "Title": "Get the most from Visual Studio with Microsoft Dev Box-now generally available - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/get-the-most-from-visual-studio-with-microsoft-dev-box-now-generally-available/",
+    "Timestamp": "2023-07-10T21:02:04",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today, we’re excited to announce that Microsoft Dev Box is now generally available. Below we’ll highlight a few significant features of Dev Box for Visual Studio users. Read the announcement blog to learn more about our journey to Microsoft Dev Box and what the service means for Visual Studio subscribers."
+  },
+  {
+    "Title": "Microsoft Dev Box is now generally available",
+    "Url": "https://azure.microsoft.com/en-us/blog/dev-optimized-cloud-based-workstations-microsoft-dev-box-is-now-generally-available/",
+    "Timestamp": "2023-07-10T20:02:20",
+    "Domain": "azure.microsoft.com",
+    "Description": "We’ve focused on improving developer productivity and satisfaction with the power of the cloud and today, Microsoft Dev Box is generally available. Learn more."
+  },
+  {
+    "Title": "Low Ceremony Vertical Slice Architecture with Wolverine",
+    "Url": "https://jeremydmiller.com/2023/07/10/low-ceremony-vertical-slice-architecture-with-wolverine/",
+    "Timestamp": "2023-07-10T19:01:08",
+    "Domain": "jeremydmiller.com",
+    "Description": "TL;DR: Wolverine can enable you to write testable code and achieve separation of concerns in your server side code with far less code ceremony than typical Clean Architecture type approaches. I&#82…"
+  },
+  {
+    "Title": "Azure Container Apps",
+    "Url": "https://henriquesd.medium.com/azure-container-apps-d3bbd07599f7",
+    "Timestamp": "2023-07-10T18:03:18",
+    "Domain": "henriquesd.medium.com",
+    "Description": "Azure Container Apps (ACA) is a fully managed platform that enables you to run containerized applications leveraging the power of…"
+  },
+  {
+    "Title": "Introducing System.Web Adapters v1.2 with new APIs and scenarios - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/systemweb-adapters-1_2/",
+    "Timestamp": "2023-07-10T18:03:15",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Introducing the release of System.Web adapters v1.2 which introduces new APIs, better Blazor support, A/B testing of migrated endpoints, and more."
+  },
+  {
+    "Title": "Format XAML Files Effortlessly in .NET MAUI",
+    "Url": "https://youtube.com/watch?v=7lL7dzOURWU",
+    "Timestamp": "2023-07-10T17:01:14",
+    "Domain": "youtube.com",
+    "Description": "Hello Devs!In this video, I show you a very useful extension in Visual Studio that will allow you to format your XAML files in a quick and easy way. It can b..."
+  },
+  {
+    "Title": "New Book Release! Rock Your Career: Surviving The Technical Interview – 6th Edition",
+    "Url": "https://dotnettips.wordpress.com/2023/07/10/new-book-release-rock-your-career-surviving-the-technical-interview-6th-edition/",
+    "Timestamp": "2023-07-10T16:01:56",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "“Rock Your Career: Surviving The Technical Interview” is a comprehensive guidebook by an experienced industry insider, offering expert tips and practical advice on excelling in technica…"
+  },
+  {
+    "Title": "Playing the YouTube game with Nick Chapsas",
+    "Url": "https://codingafterwork.com/Episodes/a4fa3ba6-40d9-484b-aedf-e7ee25c42cbd",
+    "Timestamp": "2023-07-10T16:01:55",
+    "Domain": "codingafterwork.com",
+    "Description": "<p>In this episode, Jimmy and Jessica talk to Nick Chapsas.<br /> Nick is a Content Creator focusing on C# & .NET and an Author and Founder of the educational platform Dometrain.<br /> His YouTube channel has reached over 200k subscribers quickly, so we naturally wanted to hear about his secret.</p> <p>&nbsp;</p> <p><a href= \"https://www.11ty.dev/\">https://www.11ty.dev/</a>&nbsp;<br /> <a href= \"https://teachable.com/\">https://teachable.com/</a>&nbsp;<br /> <a href= \"https://dometrain.com/\">https://dometrain.com/</a>&nbsp;</p> <p><a href= \"https://www.youtube.com/@nickchapsas\">https://www.youtube.com/@nickchapsas</a>&nbsp;<br />  <a href= \"https://kit.co/nickchapsas\">https://kit.co/nickchapsas</a></p> <p>We want to thank our sponsor Progress Telerik.<br /> They have amazing Blazor UI controls, so if you need something, chances are they have it.<br /> Check them out at https://bit.ly/blazorui</p> <p>If you want to see, more content check out our YourTube channel or join us on Twitch.<br /> We are on many different social media, and you can find them all at http://codingafterwork.com</p>"
+  },
+  {
+    "Title": "Keeping your software up to date using winget and PowerShell - Gérald Barré",
+    "Url": "https://www.meziantou.net/keeping-your-software-up-to-date-using-winget-and-powershell.htm",
+    "Timestamp": "2023-07-10T15:03:05",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to use winget and PowerShell Core to keep your software up to date on a Windows machine."
+  },
+  {
+    "Title": "How to wait for multiple C++ coroutines to complete before propagating failure, concluding remarks - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230710-00/?p=108405",
+    "Timestamp": "2023-07-10T14:02:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The things that could go wrong before you even start."
+  },
+  {
+    "Title": "xUnit or NUnit? Picking the Right Testing Library",
+    "Url": "https://youtube.com/watch?v=JD2ZMxCPnqc",
+    "Timestamp": "2023-07-10T13:03:08",
+    "Domain": "youtube.com",
+    "Description": "Use code SUMMER23 until the 20th of July for a 15% discount on any bundle at https://dometrain.com/bundlesBecome a Patreon and get source code access: https:..."
+  },
+  {
+    "Title": "The Questionable Engineering of Oceangate",
+    "Url": "https://youtube.com/watch?v=6LcGrLnzYuU",
+    "Timestamp": "2023-07-10T13:03:07",
+    "Domain": "youtube.com",
+    "Description": "Sign up for free career guidance with 80,000 hours: https://www.80000hours.org/realengineeringWatch this video ad free on Nebula: https://nebula.tv/videos/re..."
+  },
+  {
+    "Title": "Toot toot! Mastodon-powered Blog Comments",
+    "Url": "https://cassidyjames.com/blog/fediverse-blog-comments-mastodon/",
+    "Timestamp": "2023-07-10T13:03:04",
+    "Domain": "cassidyjames.com",
+    "Description": "The Fediverse—and Mastodon’s API—is magic for static Jekyll sites"
+  },
+  {
+    "Title": "Upgrading to .NET 8: Part 1 - Why Upgrade?",
+    "Url": "https://blog.martincostello.com/upgrading-to-dotnet-8-part-1-why-upgrade/",
+    "Timestamp": "2023-07-10T13:03:04",
+    "Domain": "blog.martincostello.com",
+    "Description": "Why should you upgrade to .NET 8?"
+  },
+  {
+    "Title": "CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023",
+    "Url": "https://youtube.com/watch?v=Lw04HRF8ies",
+    "Timestamp": "2023-07-10T12:03:21",
+    "Domain": "youtube.com",
+    "Description": "As more developers apply Command/Query Responsibility Segregation to their projects, many find that it INCREASES the complexity of their systems rather than ..."
+  },
+  {
+    "Title": "Implement API Idempotency In 3 Simple Steps #shorts",
+    "Url": "https://youtube.com/watch?v=eXBX9ubqqJg",
+    "Timestamp": "2023-07-10T12:03:21",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicJoin my weekly .NET newsletter:https://www.milanjovanovic.techRead ..."
+  },
+  {
+    "Title": ".NET Systems Programming Learned the Hard Way - Aaron Stannard - NDC Oslo 2023",
+    "Url": "https://youtube.com/watch?v=fi9P3-7VqHo",
+    "Timestamp": "2023-07-10T12:03:20",
+    "Domain": "youtube.com",
+    "Description": "\"What is a thread quantum and why is it different on Windows Desktop and Windows Server? What's the difference between a blocking call and a blocking flow? W..."
+  },
+  {
+    "Title": "WebAssembly and replayable functions",
+    "Url": "https://www.bartoszsypytkowski.com/wasm-replayable-functions/",
+    "Timestamp": "2023-07-10T12:03:18",
+    "Domain": "www.bartoszsypytkowski.com",
+    "Description": "... or how to make a non-deterministic functions deterministic through the power of isolated WASM sandbox. This time we'll go through the problems of unpredictability in code, which execution could be affected by external factors like I/O operations, time etc. Then we'll see what kind of domains would greatly benefit"
+  },
+  {
+    "Title": "Using C# 9 records as strongly-typed ids",
+    "Url": "https://thomaslevesque.com/series/using-c%23-9-records-as-strongly-typed-ids/",
+    "Timestamp": "2023-07-10T12:03:17",
+    "Domain": "thomaslevesque.com",
+    "Description": "Tips, tricks and thoughts about .NET development"
+  },
+  {
+    "Title": "Down",
+    "Url": "https://xkcd.com/2800/",
+    "Timestamp": "2023-07-10T12:03:17",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Troy Hunt (@troyhunt) on Threads",
+    "Url": "https://www.threads.net/@troyhunt",
+    "Timestamp": "2023-07-10T10:01:22",
+    "Domain": "www.threads.net",
+    "Description": "Creator of Have I Been Pwned. Microsoft Regional Director. Pluralsight author. Online security, technology and “The Cloud”. Australian. 450 Followers."
+  },
+  {
+    "Title": "How to Integrate BenchmarkDotNet With Unit Tests - Code Maze",
+    "Url": "https://code-maze.com/how-to-integrate-benchmarkdotnet-with-unit-tests/",
+    "Timestamp": "2023-07-10T09:03:16",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will learn how to integrate BenchmarkDotNet with unit tests by using some advanced BenchmarkDotNet APIs."
+  },
+  {
+    "Title": "366: Developing for visionOS",
+    "Url": "https://www.mergeconflict.fm/366",
+    "Timestamp": "2023-07-10T09:03:15",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "Frank dives into building his first app with visionOS for the Apple Vision Pro headset and he walks through everything you need to know to get setup, interact with the simulator, and actually build an app."
+  },
+  {
+    "Title": "Building a C# enhancing app using Azure OpenAI GPT-4 and Streamlit",
+    "Url": "https://www.mytechramblings.com/posts/building-a-csharp-enhancing-app-using-openai-gpt4-and-streamlit/",
+    "Timestamp": "2023-07-10T09:03:15",
+    "Domain": "www.mytechramblings.com",
+    "Description": "This post demonstrates the simplicity of developing an app that can enhances a C# file using only GenAI's basic skills. By utilizing Azure OpenAI GPT-4 model, the app can effortlessly add or improve XML comments, provide code explanations, suggest enhancements, and generate unit tests for any given C# file."
+  },
+  {
+    "Title": "Developing for visionOS | Merge Conflict ep. 366",
+    "Url": "https://youtube.com/watch?v=prJ8qmlLeMA",
+    "Timestamp": "2023-07-10T08:04:24",
+    "Domain": "youtube.com",
+    "Description": "Frank dives into building his first app with visionOS for the Apple Vision Pro headset and he walks through everything you need to know to get setup, interac..."
+  },
+  {
+    "Title": "ChatGPT Writes Me A Serilog Configuration. Will it work?",
+    "Url": "https://youtube.com/watch?v=Qqm0BrFVDVc",
+    "Timestamp": "2023-07-10T08:04:24",
+    "Domain": "youtube.com",
+    "Description": "Join this channel to get source code access and other perks:https://www.youtube.com/channel/UCyTPru-1gZ7-4qblcKM0TiQ/joinAlso follow me here (especially if y..."
+  },
+  {
+    "Title": "MAUI UI July 2023 - Replicating Wolt app - Andreas Nesheim",
+    "Url": "https://www.andreasnesheim.no/maui-ui-july-2023-replicating-wolt-app/",
+    "Timestamp": "2023-07-10T07:02:29",
+    "Domain": "www.andreasnesheim.no",
+    "Description": "For my last year’s contribution to the .NET MAUI UI July event, I replicated the F1 TV app. This year…"
+  },
+  {
+    "Title": "持續開創C#可能性的專門公司「Cysharp」所放眼的目標 | Cygames Magazine | Cygames",
+    "Url": "https://magazine.cygames.co.jp/tw/archives/2384",
+    "Timestamp": "2023-07-10T07:02:25",
+    "Domain": "magazine.cygames.co.jp",
+    "Description": "「Cysharp」是以程式語言C#為中心進行遊戲技術的開發，並為了向世人推廣C#的優點而成立的Cygames旗下公司。我們請到了「Cysharp」的常務董事，來為大家分享公司的成立經過及今後願景。"
+  },
+  {
+    "Title": "Cysharp Seeks to Open Up the Possibilities of C# | Cygames Magazine | Cygames",
+    "Url": "https://magazine.cygames.co.jp/en/archives/4375",
+    "Timestamp": "2023-07-10T07:02:25",
+    "Domain": "magazine.cygames.co.jp",
+    "Description": "Cysharp develops game technology with C# and communicates the advantages of C# to the world. We interviewed the CEO about the company's founding and its future."
+  },
+  {
+    "Title": "开拓C#可能性的专业公司\"Cysharp\"所追求的目标 | Cygames Magazine | Cygames",
+    "Url": "https://magazine.cygames.co.jp/cn/archives/2807",
+    "Timestamp": "2023-07-10T07:02:25",
+    "Domain": "magazine.cygames.co.jp",
+    "Description": "为了向大众传递C#的优势，Cygames旗下的\"Cysharp\"是以编程语言C#为中心进行游戏技术研发的公司。本次我们请到了\"Cysharp\"的代表董事，来谈一谈\"Cysharp\"成立的过程以及对未来的展望。"
+  },
+  {
+    "Title": "C#의 가능성을 여는 전문회사 'Cysharp'가 지향하는 곳 | Cygames Magazine | Cygames",
+    "Url": "https://magazine.cygames.co.jp/kr/archives/2894",
+    "Timestamp": "2023-07-10T07:02:24",
+    "Domain": "magazine.cygames.co.jp",
+    "Description": "프로그래밍 언어 C#를 중심으로 한 게임 기술 개발을 통해 C#의 매력을 세상에 알려 나가고자 설립된 사이게임즈 그룹사 'Cysharp'의 설립 경위와 앞으로의 전망에 대해 대표이사에게 들어보았습니다."
+  },
+  {
+    "Title": "GitHub - MiloszKrajewski/K4os.Streams: Implementation for pooled in-memory streams for .NET",
+    "Url": "https://github.com/MiloszKrajewski/K4os.Streams",
+    "Timestamp": "2023-07-10T07:02:22",
+    "Domain": "github.com",
+    "Description": "Implementation for pooled in-memory streams for .NET - GitHub - MiloszKrajewski/K4os.Streams: Implementation for pooled in-memory streams for .NET"
+  },
+  {
+    "Title": "Introducing the AWS .NET Distributed Cache Provider for DynamoDB (Preview) | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/developer/introducing-the-aws-net-distributed-cache-provider-for-dynamodb-preview/",
+    "Timestamp": "2023-07-10T06:04:33",
+    "Domain": "aws.amazon.com",
+    "Description": "We are happy to announce the preview release of the AWS .NET Distributed Cache Provider for DynamoDB. This library enables Amazon DynamoDB to be used as the storage for ASP.NET Core’s distributed cache framework. A cache can improve the performance of an application; an external cache allows the data to be shared across application servers […]"
+  },
+  {
+    "Title": "How small is the smallest .NET Hello World binary?",
+    "Url": "https://blog.washi.dev/posts/tinysharp/",
+    "Timestamp": "2023-07-10T06:04:32",
+    "Domain": "blog.washi.dev",
+    "Description": "Here is a dumb question that you probably never asked yourself: What is the minimal amount of bytes we need to store in a .NET executable to have the CLR print the string\"Hello, World!\" to the standard output?"
+  },
+  {
+    "Title": "TypeScript 5.1: declaring JSX element types | johnnyreilly",
+    "Url": "https://johnnyreilly.com/typescript-5-1-declaring-jsx-element-types",
+    "Timestamp": "2023-07-10T06:04:32",
+    "Domain": "johnnyreilly.com",
+    "Description": "With TypeScript 5.1, it becomes possible for libraries to control what types are used for JSX elements. This post looks at why this matters."
+  },
+  {
+    "Title": "Better Application Management with Custom Apps",
+    "Url": "https://www.codingblocks.net/podcast/better-application-management-with-custom-apps/",
+    "Timestamp": "2023-07-10T01:03:42",
+    "Domain": "www.codingblocks.net",
+    "Description": "Podcast: Play in new window | Download"
+  }
+]

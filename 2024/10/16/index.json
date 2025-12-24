@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Writing Arabic in English",
+    "Url": "https://sherifelmetwally.com/writing/writing-arabic-in-english",
+    "Timestamp": "2024-10-16T23:01:59",
+    "Domain": "sherifelmetwally.com",
+    "Description": "Personal Website for Sherif Elmetwally"
+  },
+  {
+    "Title": "Limiting which Syscalls to Trace with Strace",
+    "Url": "https://abstractexpr.com/2024/10/16/limiting-which-syscalls-to-trace-with-strace/",
+    "Timestamp": "2024-10-16T23:01:59",
+    "Domain": "abstractexpr.com",
+    "Description": "Tracing a program with strace generates a lot of output because of the sheer number of syscalls every program calls during its runtime. This can become overwhelming very quickly, making it hard to …"
+  },
+  {
+    "Title": "Nabeel S. Qureshi",
+    "Url": "https://nabeelqu.co/reflections-on-palantir",
+    "Timestamp": "2024-10-16T23:01:58",
+    "Domain": "nabeelqu.co",
+    "Description": "Personal writing and other things by Nabeel Qureshi."
+  },
+  {
+    "Title": "How I failed to make a game",
+    "Url": "https://mcejp.github.io/2024/10/16/gba-raycasting.html",
+    "Timestamp": "2024-10-16T23:01:57",
+    "Domain": "mcejp.github.io",
+    "Description": "Today I am releasing my raycasting tech demo for the GameBoy Advance. Although it falls short of the goals I set out in the beginning – which included releasing a playable game –, I think there are some lessons worth sharing with the world."
+  },
+  {
+    "Title": "Decision-Making Pitfalls for Technical Leaders",
+    "Url": "https://chelseatroy.com/2024/10/16/decision-making-pitfalls-for-technical-leaders/",
+    "Timestamp": "2024-10-16T23:01:57",
+    "Domain": "chelseatroy.com",
+    "Description": "Tech’s favorite party trick is promoting programmers into leadership roles with zero coaching on how to make the transition, or even a briefing on what the role entails. The programmer accept…"
+  },
+  {
+    "Title": "Better TweetDeck, a Post-Mortem, Part 2: A written history and credits",
+    "Url": "https://damien.zone/bettertweetdeck-post-mortem-part-2/",
+    "Timestamp": "2024-10-16T23:01:57",
+    "Domain": "damien.zone",
+    "Description": "Recounting Better TweetDeck's history and crediting people who contributed to it."
+  },
+  {
+    "Title": "Quick and Easy Capacity Planning with Pandas",
+    "Url": "https://john.soban.ski/capacity.html",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "john.soban.ski",
+    "Description": "The discipline of Operations Research (OR) applies analytical methods from math, statistics, economics, and computer science to help..."
+  },
+  {
+    "Title": "Attacking APIs using JSON Injection",
+    "Url": "https://danaepp.com/attacking-apis-using-json-injection",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "danaepp.com",
+    "Description": "Learn how to use JSON injection to manipulate API payloads to control the flow of data and business logic within an API."
+  },
+  {
+    "Title": "OpenAPI for Contract Testing | Ujjwal Ojha",
+    "Url": "https://ujjwalojha.com.np/blog-openapi-contract-testing/",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "ujjwalojha.com.np",
+    "Description": "Using OpenAPI to its full capability can help you achieve contract testing and help improve reliability of your deployments."
+  },
+  {
+    "Title": "Writing a Home Assistant Core Integration: Part 2",
+    "Url": "https://jnsgr.uk/2024/10/writing-a-home-assistant-integration",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "jnsgr.uk",
+    "Description": "Part 2 of a micro-series of blog posts that outlines my\njourney toward authoring a Home Assistant Core integration\nfor the Roth Touchline SL heating system.\nThis post covers the actual build and upstream contribution\nof the Home Assistant Core integration.\n"
+  },
+  {
+    "Title": "My Blog is My Greatest Art",
+    "Url": "https://rishikeshs.com/blog-art/",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "rishikeshs.com",
+    "Description": "A reflection on the joy of personal blogging in an algorithm-driven web and why this evolving blog will be the greatest art I ever create."
+  },
+  {
+    "Title": "Antivirus software considered harmful",
+    "Url": "https://troelsarvin.blogspot.com/2024/10/antivirus-software-considered-harmful.html",
+    "Timestamp": "2024-10-16T23:01:56",
+    "Domain": "troelsarvin.blogspot.com",
+    "Description": "The IT profession needs to confront policies which demand antivirus be installed as a general measure IT professionals still have in fresh m..."
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/2024/why-you-should-not-default-to-positional-parameters",
+    "Timestamp": "2024-10-16T23:01:55",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "My Country Is Cruel to Anyone Outside of a Car",
+    "Url": "https://oliverobscure.xyz/posts/my-country-is-cruel-to-anyone-outside-of-a-car/",
+    "Timestamp": "2024-10-16T23:01:55",
+    "Domain": "oliverobscure.xyz",
+    "Description": "I’m sure you’ve heard about urbanism, the social and political movement that is focussed on reducing car dependency and prioritising space for people over motor vehicles. There are plenty of campaigners and blogs out there discussing practical ways of achievement.\nThis blog post relates to something that happened to me yesterday, and I’m writing after I’ve cooled down from the stress and had a chance to process my feelings. However, it’s still my word salad and I can write how I want to:"
+  },
+  {
+    "Title": "When should I use String vs &str?",
+    "Url": "https://steveklabnik.com/writing/when-should-i-use-string-vs-str/",
+    "Timestamp": "2024-10-16T23:01:55",
+    "Domain": "steveklabnik.com",
+    "Description": "Rust has two main string types: String and &str. Sometimes, people argue\nthat these two types make Rust code difficult to write, because you have to\nthink about which one you should be using in a given situation. My experience\nof writing Rust is that I don’t really think about this very much, and this\npost is about some rules of thumb that you can use to be like me."
+  },
+  {
+    "Title": "On Debugging",
+    "Url": "https://ozorn.in/blog/on-debugging/",
+    "Timestamp": "2024-10-16T23:01:55",
+    "Domain": "ozorn.in",
+    "Description": "The world doesn’t always need more. Sometimes it needs better"
+  },
+  {
+    "Title": "Winamp deletes entire GitHub source code repo after a rocky few weeks",
+    "Url": "https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/",
+    "Timestamp": "2024-10-16T22:01:46",
+    "Domain": "arstechnica.com",
+    "Description": "Winamp released its source code with a license that drew a lot of attention. That’s when other apps’ code was found inside."
+  },
+  {
+    "Title": "Hofstadter on Lisp: Atoms and Lists, re-printed in Metamagical Themas.",
+    "Url": "https://gist.github.com/jackrusher/5139396",
+    "Timestamp": "2024-10-16T22:01:38",
+    "Domain": "gist.github.com",
+    "Description": "Hofstadter on Lisp: Atoms and Lists, re-printed in Metamagical Themas. - gist:5139396"
+  },
+  {
+    "Title": "Traveling with Apple Vision Pro",
+    "Url": "https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/",
+    "Timestamp": "2024-10-16T21:01:34",
+    "Domain": "azadux.blog",
+    "Description": "The Vision Pro has quickly become an essential item that I take onto every flight. It’s a fantastic device to travel with—Be it by train or by plane, it offers an unparalleled opportunity to …"
+  },
+  {
+    "Title": "The Future of ArchiveBox - HedgeDoc",
+    "Url": "https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement",
+    "Timestamp": "2024-10-16T20:01:45",
+    "Domain": "docs.sweeting.me",
+    "Description": "<center>  <img src=\"https://docs.monadical.com/uploads/213b6618-e133-4b6b-a74a-267de68606aa.png\" s"
+  },
+  {
+    "Title": "Bad Map Projection: The United Stralia",
+    "Url": "https://xkcd.com/2999/",
+    "Timestamp": "2024-10-16T19:01:40",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How we build GitHub Copilot into Visual Studio - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/building-github-copilot-into-visual-studio/",
+    "Timestamp": "2024-10-16T18:01:35",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Find out how Visual Studio integrates GitHub Copilot, architectural detail, .NET implementation, and the importance of the indexing service for providing context-aware AI code suggestions."
+  },
+  {
+    "Title": "Federal Trade Commission Announces Final “Click-to-Cancel” Rule Making It Easier for Consumers to End Recurring Subscriptions and Memberships",
+    "Url": "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring",
+    "Timestamp": "2024-10-16T16:01:38",
+    "Domain": "www.ftc.gov",
+    "Description": "The Federal Trade Commission today announced a"
+  },
+  {
+    "Title": "Middleware and Filters in ASP.NET Core",
+    "Url": "https://malshikay.medium.com/middleware-and-filters-in-asp-net-core-16455a84ff2f",
+    "Timestamp": "2024-10-16T16:01:38",
+    "Domain": "malshikay.medium.com",
+    "Description": "A Comprehensive Guide to Middleware and Filters in ASP.NET Core: With Real-World Examples"
+  },
+  {
+    "Title": "Announcing FLOSS/fund: $1M per year for free and open source projects",
+    "Url": "https://floss.fund/blog/announcing-floss-fund/",
+    "Timestamp": "2024-10-16T16:01:37",
+    "Domain": "floss.fund",
+    "Description": ""
+  },
+  {
+    "Title": "macOS sometimes leaks traffic after system updates | Mullvad VPN",
+    "Url": "https://mullvad.net/en/blog/macos-sometimes-leaks-traffic-after-system-updates",
+    "Timestamp": "2024-10-16T15:01:46",
+    "Domain": "mullvad.net",
+    "Description": "We have found that you could be leaking traffic on macOS after system updates. To our current knowledge a reboot resolves it. We are currently investigating this and will follow up with more information."
+  },
+  {
+    "Title": "Serverless functions are a great way to build modern applications, but their scaling behaviour can b",
+    "Url": "https://youtube.com/watch?v=iNxAx-jaTco",
+    "Timestamp": "2024-10-16T13:01:33",
+    "Domain": "youtube.com",
+    "Description": "Serverless functions are a great way to build modern applications, but their scaling behaviour can be challenging when connecting to more traditional databases. Learn how to simplify this with Cloudflare.\n\nhttps://youtu.be/IixJ8kJ3nV0\n\n#serverless #databases #faas #softwarearchitecture #short"
+  },
+  {
+    "Title": "CapibaraZero docs | CapibaraZero",
+    "Url": "https://capibarazero.github.io/docs/",
+    "Timestamp": "2024-10-16T11:01:30",
+    "Domain": "capibarazero.github.io",
+    "Description": "CapibaraZero"
+  },
+  {
+    "Title": "Passwords have problems, but passkeys have more",
+    "Url": "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9",
+    "Timestamp": "2024-10-16T08:01:38",
+    "Domain": "world.hey.com",
+    "Description": "We had originally planned to go all-in on passkeys for ONCE/Campfire, and we built the early authentication system entirely around that. It was not a simple setup! Handling passkeys properly is surprisingly complicated on the backend, but we got it done. Unfortunately, the user experience kinda sucked, so we ended up ripping it all out..."
+  },
+  {
+    "Title": "🚀 Mastering Filters in ASP.NET Core",
+    "Url": "https://dev.to/ahmedshahjr/mastering-filters-in-aspnet-core-5d97",
+    "Timestamp": "2024-10-16T06:01:33",
+    "Domain": "dev.to",
+    "Description": "Mastering Filters in ASP.NET Core.  If you're working with ASP.NET Core, you're likely already..."
+  }
+]

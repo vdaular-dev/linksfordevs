@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Garbage Collection in Ruby - Peter Zhu",
+    "Url": "https://blog.peterzhu.ca/notes-on-ruby-gc/",
+    "Timestamp": "2023-07-04T23:03:22",
+    "Domain": "blog.peterzhu.ca",
+    "Description": "Overview of how Ruby's garbage collector works."
+  },
+  {
+    "Title": "The Tragic Death of Inheritance",
+    "Url": "https://avivcarmi.com/the-tragic-death-of-inheritance/",
+    "Timestamp": "2023-07-04T23:03:22",
+    "Domain": "avivcarmi.com",
+    "Description": "This is a story about how I gradually fell in love with composition"
+  },
+  {
+    "Title": "Anti-Intellectualism in the Restaurant Industry",
+    "Url": "https://www.jennydorsey.co/single-post/anti-intellectualism-in-the-restaurant-industry",
+    "Timestamp": "2023-07-04T23:03:22",
+    "Domain": "www.jennydorsey.co",
+    "Description": "How anti-intellectualism manifests as both an external struggle for control and an internal thought process."
+  },
+  {
+    "Title": "Managing email with Notmuch and Emacs",
+    "Url": "https://michal.sapka.me/2023/notmuch/",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "michal.sapka.me",
+    "Description": "My email based workflow for GitHub Pull Review Requests"
+  },
+  {
+    "Title": "Announcing turmoil | Tokio - An asynchronous Rust runtime",
+    "Url": "https://tokio.rs/blog/2023-01-03-announcing-turmoil",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "tokio.rs",
+    "Description": "Tokio is a runtime for writing reliable asynchronous applications with Rust. It provides async I/O, networking, scheduling, timers, and more."
+  },
+  {
+    "Title": "Exploring how Magic Link works",
+    "Url": "https://blog.jonlu.ca/posts/magic-link",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "blog.jonlu.ca",
+    "Description": "Magic Link is a web3 wallet-as-a-service. They provide an SDK that enables users to have a crypto wallet linked to just their email address, instead of having to install a chrome extension or local wallet."
+  },
+  {
+    "Title": "VerusCoin, Everything that Ethereum Isn’t",
+    "Url": "https://znano.eu.org/blog/posts/veruscoin-everything-that-ethereum_isnt",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "znano.eu.org",
+    "Description": "A few months ago, I accidentally came across a highly underrated cryptocurrency named VerusCoin, and I immediately fell in love with it because of its unique features and the techniques that VerusCoin’s developers used to provide those features."
+  },
+  {
+    "Title": "Improving on Gear Hashing with FastCDC",
+    "Url": "https://joshleeb.com/posts/fastcdc.html",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "joshleeb.com",
+    "Description": "Published on\n2023-07-04\nto joshleeb's blog"
+  },
+  {
+    "Title": "The magic of dependency resolution",
+    "Url": "https://ochagavia.nl/blog/the-magic-of-dependency-resolution/",
+    "Timestamp": "2023-07-04T23:03:21",
+    "Domain": "ochagavia.nl",
+    "Description": "Dependency resolution is something programmers usually take for granted. Be it cargo, npm, or whatever package manager you use, no one is actually surprised when this black-box figures out, all by itself, the specific set of packages that should be installed.\nTo me, though, it is a fascinating feat. It feels magical when a machine solves an abstract problem like that, with minimal input from me as a user! I was, therefore, delighted when the nice folks at Prefix."
+  },
+  {
+    "Title": "Boosting Developer Experience: Algolia Search Powers Uno Platform Docs",
+    "Url": "https://platform.uno/blog/boosting-developer-experience-algolia-search-powers-uno-platform-docs/",
+    "Timestamp": "2023-07-04T21:04:39",
+    "Domain": "platform.uno",
+    "Description": "iscover the enhanced developer experience on Uno Platform's documentation site with Algolia Search. Lightning-fast search results, relevant tutorials, and accurate resources empower .NET developers."
+  },
+  {
+    "Title": "Learn C# with CSharpFritz - C# Tools - Visual Studio",
+    "Url": "https://youtube.com/watch?v=CYFRXOTZLZc",
+    "Timestamp": "2023-07-04T17:05:42",
+    "Domain": "youtube.com",
+    "Description": "In this series, Fritz talks about the various tools available to us as C# developers.  We're starting off with the most well-known developer tool for .NET pr..."
+  },
+  {
+    "Title": "MagicPhysX — A Cross-Platform Physics Engine for .NET",
+    "Url": "https://link.medium.com/1vlA1wLR9Ab",
+    "Timestamp": "2023-07-04T17:05:39",
+    "Domain": "link.medium.com",
+    "Description": "I’m excited to announce the release of a new library, MagicPhysX! It’s a physics engine designed for use with .NET, and as its name…"
+  },
+  {
+    "Title": "What version of .NET are you using for the majority of your prod apps?",
+    "Url": "https://old.reddit.com/r/dotnet/comments/14picbr/what_version_of_net_are_you_using_for_the/jqj3n2w/?context=3",
+    "Timestamp": "2023-07-04T17:05:38",
+    "Domain": "old.reddit.com",
+    "Description": "Posted in r/dotnet by u/davecallan • 52 points and 156 comments"
+  },
+  {
+    "Title": "Subscribe to read | Financial Times",
+    "Url": "https://www.ft.com/content/13c66ea6-df56-4bb1-8b53-c45a7a94429d",
+    "Timestamp": "2023-07-04T17:05:38",
+    "Domain": "www.ft.com",
+    "Description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication"
+  },
+  {
+    "Title": "Café debug - Interview with Oren Eini CEO of RavenDB",
+    "Url": "https://ayende.com/blog/199681-B/cafe-debug-interview-with-oren-eini-ceo-of-ravendb?Key=63392cbd-432b-4e50-b227-16dbf1556a32",
+    "Timestamp": "2023-07-04T15:04:39",
+    "Domain": "ayende.com",
+    "Description": "Inline:"
+  },
+  {
+    "Title": "How to wait for multiple C++ coroutines to complete before propagating failure, memory allocation failure - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230704-00/?p=108389",
+    "Timestamp": "2023-07-04T14:05:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "There's no good way to report the failure, so we just have to give up."
+  },
+  {
+    "Title": "Building Real-Time Applications With SignalR & .NET 7",
+    "Url": "https://youtube.com/watch?v=9_pRk7PwkpY",
+    "Timestamp": "2023-07-04T13:04:38",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicSignalR is probably the most enjoyable library to work with in .NET..."
+  },
+  {
+    "Title": "Deep Dive into xUnit.net Theories",
+    "Url": "https://youtube.com/watch?v=DilcDG3ohIU",
+    "Timestamp": "2023-07-04T13:04:38",
+    "Domain": "youtube.com",
+    "Description": "Deep dive into the essentials of xUnit.net Theories and Parameterized Tests for dotnet developers.💎 Be a Patreon to get the source code: https://patreon.com..."
+  },
+  {
+    "Title": "TimeProvider and ITimer: Writing Unit Tests with Time in .NET 8 Preview 4 ",
+    "Url": "https://www.infoq.com/articles/dotnet-unit-tests-time-timezone/",
+    "Timestamp": "2023-07-04T11:05:03",
+    "Domain": "www.infoq.com",
+    "Description": "The article discusses the challenges of writing unit tests and handling date and time in .NET. TimeProvider and ITimer are new universal time abstractions available in NET 8 Preview 4 for dependency injections and unit testing, offering extensive functionality for managing time-related operations."
+  },
+  {
+    "Title": "How to automatically refresh configurations with Azure App Configuration in .NET",
+    "Url": "https://www.code4it.dev/blog/azure-app-configuration-refresh-config/",
+    "Timestamp": "2023-07-04T09:04:53",
+    "Domain": "www.code4it.dev",
+    "Description": "ASP.NET allows you to poll Azure App Configuration to always get the most updated values without restarting your applications. It’s simple, but you have to think thoroughly."
+  },
+  {
+    "Title": "EI000: Entity Intelligence Project - Kick Off",
+    "Url": "https://youtube.com/watch?v=RebHZ6iCIGg",
+    "Timestamp": "2023-07-04T07:05:11",
+    "Domain": "youtube.com",
+    "Description": "In this live session - we are kicking off a new project for building a .NET library that enables individuals to query their data using natural language.This ..."
+  },
+  {
+    "Title": "40 Years of Computing (Part 1: The First 20 Years)",
+    "Url": "https://weblogs.asp.net/rweigelt/40-years-of-computing-part-1-the-first-20-years",
+    "Timestamp": "2023-07-04T06:05:22",
+    "Domain": "weblogs.asp.net",
+    "Description": "This year, I have hit a major milestone: I have been using computers for 40 years. That makes me feel incredibly old. But, at the same time, I am also grateful because I have been able to witness the&#160;&#8230;"
+  },
+  {
+    "Title": "dotnet pack issue–files without extension",
+    "Url": "https://bartwullems.blogspot.com/2023/07/dotnet-pack-issuefiles-without-extension.html",
+    "Timestamp": "2023-07-04T06:05:20",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "To share components, layout and some general CSS and javascript between ASP.NET Core MVC projects, we are using a Razor Class Library. This ..."
+  },
+  {
+    "Title": "Unit Test Frameworks for C#: The Pros and Cons of the Top 3",
+    "Url": "https://stackify.com/unit-test-frameworks-csharp/",
+    "Timestamp": "2023-07-04T06:05:20",
+    "Domain": "stackify.com",
+    "Description": "Regarding .NET unit test frameworks, there are three you must know. Read our guide to learn how they differ and make an educated decision."
+  },
+  {
+    "Title": "Validating or verifying emails",
+    "Url": "https://blog.ploeh.dk/2023/07/03/validating-or-verifying-emails/",
+    "Timestamp": "2023-07-04T06:05:20",
+    "Domain": "blog.ploeh.dk",
+    "Description": "On separating preconditions from business rules."
+  },
+  {
+    "Title": "Roslyn Compiler and Analyzers in .NET - Introduction",
+    "Url": "https://code-maze.com/dotnet-roslyn-compiler-and-analyzers/",
+    "Timestamp": "2023-07-04T05:05:11",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will introduce Roslyn compiler and analyzers in .NET including code style, code quality and external analyzers."
+  }
+]

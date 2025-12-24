@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "Welcome to Peter's DevLog - Dynamic libraries in Nim",
+    "Url": "https://peterme.net/dynamic-libraries-in-nim.html",
+    "Timestamp": "2023-02-20T23:01:37",
+    "Domain": "peterme.net",
+    "Description": "This is a question which has been asked in various places over the years, and recently on the forum in multiple separate threads. Seeing how I’ve built commercial software with Nim dynamic libraries, I thought I’d chime in with my knowledge. But since there are multiple threads out there and this is a large-ish topic I figured it would be better to do it as a post on here."
+  },
+  {
+    "Title": "Using the “World’s Worst Fuzzer” To Find A Kernel Bug In The FiiO M6",
+    "Url": "https://stigward.github.io/posts/fiio-m6-kernel-bug/",
+    "Timestamp": "2023-02-20T23:01:36",
+    "Domain": "stigward.github.io",
+    "Description": "Overview: A few months ago, I was cleaning off my hardware workbench when I came across my FiiO M6, an Android-based “portable high-resolution lossless music player”. I originally purchased the device to aid in my language learning studies and dabble in the world of “hi-fi” audio. With both those phases of my life well in the past, the device seemed to make a perfect vulnerability research target. Coincidentally, I had also just watched through all of gamozolabs’s Android exploitation livestream, so I was feeling even more inspired to target an Android-based device."
+  },
+  {
+    "Title": "Everything you need to know about Helm",
+    "Url": "https://ruan.dev/posts/everything-you-need-to-know-about-helm/",
+    "Timestamp": "2023-02-20T23:01:36",
+    "Domain": "ruan.dev",
+    "Description": "A blog post has been published on blog.ruanbekker.com\nGetting Started with Helm This post shows you what is helm, why you need it, how to use it with Kubernetes and what value it can add.\nTo read more on the post, view it here:\n https://blog.ruanbekker.com/blog/2023/01/24/everything-you-need-to-know-about-helm/  Thank You Thanks for reading, if you like my content, check out my website, read my newsletter or follow me at @ruanbekker on Twitter."
+  },
+  {
+    "Title": "Getting faster to decisions in A/B tests – part 2: misinterpretations and practical challenges of classical hypothesis testing",
+    "Url": "https://aurimas.eu/blog/2023/02/getting-faster-to-decisions-in-a-b-tests-part-2-misinterpretations-and-practical-challenges-of-classical-hypothesis-testing/",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "aurimas.eu",
+    "Description": "Null hypothesis test of means is the most basic statistical procedure used in A/B testing. But the concepts built into it are not exactly intuitive. I go through 5 practical issues that anyone work…"
+  },
+  {
+    "Title": "Monitoring my weather at home 🌩️",
+    "Url": "https://tylercipriani.com/blog/2023/02/19/weather-station/",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "tylercipriani.com",
+    "Description": "I’ve been sharing my weather data for over a decade now."
+  },
+  {
+    "Title": "How I organize my digital music collection",
+    "Url": "https://felixcrux.com/blog/how-i-organize-my-digital-music-collection",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "felixcrux.com",
+    "Description": "My way of digitizing, encoding, storing, tagging and organizing music. Digressions on tools and choices to be made about complex metadata scenarios."
+  },
+  {
+    "Title": "How I give formal written feedback",
+    "Url": "https://quad.writeas.com/how-i-give-formal-written-feedback",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "quad.writeas.com",
+    "Description": "At least every year, colleagues express surprise and delight at how I give formal written feedback. That is, the kind of feedback that co..."
+  },
+  {
+    "Title": "Fixing performance bottlenecks: Joe’s or Bob’s way",
+    "Url": "https://bojan.tech/performance/stories/json/profiler/flamegraph/2023/02/20/performance-story.html",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "bojan.tech",
+    "Description": "After watching a video lecture by Casey Muratori about Philosophies of Optimization, I recalled a story that happened to me in one of the previous gigs which is, in my eyes, worth sharing. If you haven’t watched the video, I’ll link it at the end of this video."
+  },
+  {
+    "Title": "Hugo via npm? | BryceWray.com",
+    "Url": "https://www.brycewray.com/posts/2023/02/hugo-via-npm/",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "www.brycewray.com",
+    "Description": "Using a Node.js package to install and run Hugo may sound strange at first, but it has clear merits."
+  },
+  {
+    "Title": "Scott Fryxell",
+    "Url": "https://scott-fryxell.github.io/blog/the-ethics-of-cornering-chatGPT/",
+    "Timestamp": "2023-02-20T23:01:35",
+    "Domain": "scott-fryxell.github.io",
+    "Description": "It's ethically fraught to force constraints on a machine that cause it to lash out. I feel like Gruber needs to rethink his position. It's wrong to convict through force that a persona exists; especially if we are gonna assert that it needs to be suppressed or is being suppressed.You deny this machine agency in proving your point."
+  },
+  {
+    "Title": "That Time It Rained for Two Million Years",
+    "Url": "https://youtube.com/watch?v=_1LdMWlNYS4",
+    "Timestamp": "2023-02-20T22:01:51",
+    "Domain": "youtube.com",
+    "Description": "Check out our podcast Eons: Mysteries of Deep Time: http://ow.ly/2J4450Iu69UPBS Member Stations rely on viewers like you. To support your local station, go t..."
+  },
+  {
+    "Title": "Behind GitHub's new authentication token formats | The GitHub Blog",
+    "Url": "https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/",
+    "Timestamp": "2023-02-20T22:01:49",
+    "Domain": "github.blog",
+    "Description": "We’re excited to share a deep dive into how our new authentication token formats are built and how these improvements are keeping your tokens more secure. As we continue to focus on the security of our platform and services across the web, this update shows how big an impact simple changes can have. Many of […]"
+  },
+  {
+    "Title": "Square Packing",
+    "Url": "https://xkcd.com/2740/",
+    "Timestamp": "2023-02-20T22:01:48",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "I am a bad software developer and this is my life",
+    "Url": "https://levelup.gitconnected.com/i-am-a-bad-software-developer-and-this-is-my-life-5c248dc72c2a",
+    "Timestamp": "2023-02-20T16:02:02",
+    "Domain": "levelup.gitconnected.com",
+    "Description": "What is next?"
+  },
+  {
+    "Title": "Refactoring huge C# code base in minutes",
+    "Url": "https://laurentkempe.com/2023/02/20/refactoring-huge-csharp-code-base-in-minutes/",
+    "Timestamp": "2023-02-20T15:01:57",
+    "Domain": "laurentkempe.com",
+    "Description": "With my team, we like to keep our C# code base updated. So, recently we went to .NET 7 and C# 11. At the same time, we were still adopting some of the new capabilities of .NET 6 and C# 10. Our code ba"
+  },
+  {
+    "Title": "The List Best Practice That .NET 8 Makes Possible",
+    "Url": "https://youtube.com/watch?v=xIA3t2Je3uQ",
+    "Timestamp": "2023-02-20T15:01:56",
+    "Domain": "youtube.com",
+    "Description": "Use code REST15 for 15% off the new From Zero to Hero - REST APIs in .NET course: https://bit.ly/restchapsasBecome a Patreon and get source code access: http..."
+  },
+  {
+    "Title": "Tetris - Official Trailer (2023) Taron Egerton, Toby Jones",
+    "Url": "https://youtube.com/watch?v=Hcfbg994fu4",
+    "Timestamp": "2023-02-20T15:01:56",
+    "Domain": "youtube.com",
+    "Description": "The game you couldn’t put down, the story you couldn’t make up. Check out the trailer for Tetris, an upcoming Apple original film starring Taron Egerton. The..."
+  },
+  {
+    "Title": "Creating a custom Main method in a WPF application - Gérald Barré",
+    "Url": "https://www.meziantou.net/creating-a-custom-main-method-in-a-wpf-application.htm",
+    "Timestamp": "2023-02-20T15:01:52",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to create a custom Main method in a .NET WPF application"
+  },
+  {
+    "Title": "The case of the mysterious \"out of bounds\" error from CreateUri and memmove - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230220-00/?p=107848",
+    "Timestamp": "2023-02-20T15:01:52",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Unfolding some COMDATs."
+  },
+  {
+    "Title": "Few lesser known tricks, quirks and features of C",
+    "Url": "https://blog.joren.ga/less-known-c",
+    "Timestamp": "2023-02-20T14:02:19",
+    "Domain": "blog.joren.ga",
+    "Description": "There are some tricks, quirks and features (some quite fundamental to the language!)\nwhich seems to throw even experienced developers off the track. Thus I did a sloppy\njob of gathering some of them in this post (in no particular order) with even sloppier\nshort explanations and/or examples (or quote of thereof)."
+  },
+  {
+    "Title": "JetBrains Releases Rider 2023.1 EAP 4 ",
+    "Url": "https://www.infoq.com/news/2023/02/jetbrains-rider-2023-eap-4/",
+    "Timestamp": "2023-02-20T13:01:53",
+    "Domain": "www.infoq.com",
+    "Description": "JetBrains released Rider 2023.1 EAP 4 on February 12. The latest Early Access Program for Rider contains such features as the ability to debug startup code for WASM .NET applications, support for  Astro tool, full IDE zoom, a feature related to importing Angular templates, and support for TypeScript in Vue template expressions."
+  },
+  {
+    "Title": "How (And Why?) To Wrap External Libraries? - CodeJourney.net",
+    "Url": "https://www.codejourney.net/how-and-why-to-wrap-external-libraries/",
+    "Timestamp": "2023-02-20T11:02:18",
+    "Domain": "www.codejourney.net",
+    "Description": "How to wrap external libraries (like npm or Nuget)? How can wrapping save you and your team dozens of working hours?"
+  },
+  {
+    "Title": "346: Calling .NET Libraries from Rust with Native AOT",
+    "Url": "https://www.mergeconflict.fm/346",
+    "Timestamp": "2023-02-20T09:01:25",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "Native AOT can be used for more than just making super fast apps... you can compile your libraries down to C and use them anywhere!"
+  },
+  {
+    "Title": "Early Access Program (EAP) - ReSharper",
+    "Url": "https://jb.gg/u7detz",
+    "Timestamp": "2023-02-20T09:01:25",
+    "Domain": "jb.gg",
+    "Description": "Productivity and code refactoring plugin for Visual Studio 2019, 2017, 2015, 2013, 2012, and 2010. Supports C#, XAML, ASP.NET, ASP.NET MVC, JavaScript, TypeScript, VB.NET, and build scripts.\n    "
+  },
+  {
+    "Title": "Using Hangfire with ASP.NET Core",
+    "Url": "https://damienbod.com/2023/02/20/using-hangfire-with-asp-net-core/",
+    "Timestamp": "2023-02-20T09:01:24",
+    "Domain": "damienbod.com",
+    "Description": "This article looks at setting up Hangfire with ASP.NET Core and an SQL server. Hangfire provides a solution to run recurring jobs and background jobs with an excellent dashboard to monitor the even…"
+  },
+  {
+    "Title": "ASP.NET Core Razor Pages vs MVC: Which Framework is Best for Web Development in 2023",
+    "Url": "https://jamilhallal.blogspot.com/2023/02/comparing-asp-net-core-razor-pages-and-mvc-2023.html",
+    "Timestamp": "2023-02-20T07:02:35",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "Discover the pros and cons of ASP.NET Core Razor Pages and MVC. Learn which framework is better suited for simple and complex web applications."
+  },
+  {
+    "Title": ".NET MAUI Challenge 4: Telerik DataGrid",
+    "Url": "https://www.telerik.com/blogs/dotnet-maui-challenge-4-telerik-datagrid",
+    "Timestamp": "2023-02-20T06:01:42",
+    "Domain": "www.telerik.com",
+    "Description": "In our fourth .NET MAUI Challenge, we’ll look at the Data Grid from Telerik."
+  },
+  {
+    "Title": "How to create a video and audio recorder in React - LogRocket Blog",
+    "Url": "https://blog.logrocket.com/how-to-create-video-audio-recorder-react/",
+    "Timestamp": "2023-02-20T06:01:42",
+    "Domain": "blog.logrocket.com",
+    "Description": "Learn how to build a custom audio and video recorder in React using the native HTML MediaRecorder API and MediaStream API."
+  },
+  {
+    "Title": "Pair Programming and test-driven development with Visual Studio Live Share and GitHub Copilot",
+    "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/pair-programming-and-test-driven-development-with-visual-studio/ba-p/3738695",
+    "Timestamp": "2023-02-20T06:01:37",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Pair programming is a software development technique in which two developers work together on the same code at the same time, with one typing and the other reviewing and offering suggestions. This technique can increase productivity and promote knowledge sharing, as well as improve code quality thro..."
+  },
+  {
+    "Title": "Writing Javascript without a build system",
+    "Url": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
+    "Timestamp": "2023-02-20T06:01:35",
+    "Domain": "jvns.ca",
+    "Description": "Writing Javascript without a build system"
+  },
+  {
+    "Title": "Designing Data-Intensive Applications – Weak Isolation and Snapshotting",
+    "Url": "https://www.codingblocks.net/podcast/ddia-weak-isolation-and-snapshotting/",
+    "Timestamp": "2023-02-20T03:02:47",
+    "Domain": "www.codingblocks.net",
+    "Description": "Podcast: Play in new window | Download"
+  },
+  {
+    "Title": "ReactJS and ASP.NET: The Dynamic Duo of Web Development",
+    "Url": "https://youtube.com/watch?v=lvVycY2crAk",
+    "Timestamp": "2023-02-20T01:02:48",
+    "Domain": "youtube.com",
+    "Description": "Mixing ReactJS and .NET? Who said that is evil?This live event is run by the Pittsburgh .NET User Group. Join us to see more interesting events like this her..."
+  }
+]

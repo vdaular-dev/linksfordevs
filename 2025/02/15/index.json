@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "My Life in Weeks by Gina Trapani",
+    "Url": "https://weeks.ginatrapani.org/",
+    "Timestamp": "2025-02-15T23:02:06",
+    "Domain": "weeks.ginatrapani.org",
+    "Description": "👋 Hi, I’m Gina. This is a map of my life, where each week I’ve been alive is a little box. Tap a box to see what I was doing where that week."
+  },
+  {
+    "Title": "Why I Dislike PowerPoint (At Least How It's Used in Some Large Companies)",
+    "Url": "https://marincomics.com/dislike-powerpoint.html",
+    "Timestamp": "2025-02-15T23:02:04",
+    "Domain": "marincomics.com",
+    "Description": "PowerPoint is everywhere in corporate life. Meetings begin with it, discussions revolve around it, and after everything is said and done, the slide deck is all that remains. But this is the problem: PowerPoint was never meant to be the presentation, it was meant to support one. In large companies, this tool has been twisted into something it was never designed to be, and that’s why I dislike it. A lot!"
+  },
+  {
+    "Title": "6 ways the new FDA can turbocharge drug development",
+    "Url": "https://www.alexkesin.com/2025/02/6-ways-new-fda-can-turbocharge-drug.html",
+    "Timestamp": "2025-02-15T23:02:04",
+    "Domain": "www.alexkesin.com",
+    "Description": "The website all about a clueless guy named Alex Kesin."
+  },
+  {
+    "Title": "Efficient CSV Parsing - On the Complexity of Simple Things (2024)",
+    "Url": "https://machines.fail/notes/efficient-csv-parsing---on-the-complexity-of-simple-things-2024",
+    "Timestamp": "2025-02-15T23:02:04",
+    "Domain": "machines.fail",
+    "Description": ""
+  },
+  {
+    "Title": "SQLite-on-the-Server Is Misunderstood: Better At Hyper-Scale Than Micro-Scale",
+    "Url": "https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood",
+    "Timestamp": "2025-02-15T23:02:04",
+    "Domain": "rivet.gg",
+    "Description": "We're Rivet, a new open-source, self-hostable serverless platform. We've been in the weeds with SQLite-on-the-server recently and – boy – do we have a lot of thoughts to share. Give us a star on GitHub, we'll be sharing a lot more about SQLite soon!"
+  },
+  {
+    "Title": "Why You Should Not Parse Localized Strings",
+    "Url": "https://blog.sffc.xyz/post/190943794505/why-you-should-not-parse-localized-strings",
+    "Timestamp": "2025-02-15T23:02:04",
+    "Domain": "blog.sffc.xyz",
+    "Description": "As a programmer, it is natural to think of data as a series of one-to-one relationships between string identifiers and objects in a computer.  Many standard libraries in programming languages allow for round-tripping between strings and objects, including JSON, ISO-8601 date strings, and URL encode/decode.  So, if you can create a localized string, such as with .toLocaleString() in ECMA-402, why can’t you parse that string back to an object using a function like .fromLocaleString()?\n\n\n\n The answer comes down to the fact that i18n is fundamentally different from data interchange.  This document lays out why you should not parse localized strings and the best practices for what to do instead.\n\n\n\n \n\n\n\n Parsing Is Not a Science\n\n\n\n What is the number represented by the localized string "
+  },
+  {
+    "Title": "Bridging the Management Disconnect",
+    "Url": "https://yusufaytas.com/bridging-the-management-disconnect/",
+    "Timestamp": "2025-02-15T23:02:03",
+    "Domain": "yusufaytas.com",
+    "Description": "Leadership is more than serving teams. It’s about results. Learn to balance servant leadership, business goals, and executive expectations."
+  },
+  {
+    "Title": "Deterministic signatures are not your friends",
+    "Url": "https://paulmillr.com/posts/deterministic-signatures/",
+    "Timestamp": "2025-02-15T23:02:02",
+    "Domain": "paulmillr.com",
+    "Description": "Paul Miller. I make projects which help developers to build awesome things"
+  },
+  {
+    "Title": "Django in government",
+    "Url": "https://thib.me/django-in-government",
+    "Timestamp": "2025-02-15T23:02:01",
+    "Domain": "thib.me",
+    "Description": "I have this list of 50k Django projects I put together, and thought it might be more interesting to share specific verticals rather than the whole thing. Tod..."
+  },
+  {
+    "Title": "Routine Complications",
+    "Url": "https://thomascountz.com/memo/2025/02/15/routine-complications",
+    "Timestamp": "2025-02-15T23:02:00",
+    "Domain": "thomascountz.com",
+    "Description": "In A Life-Saving Checklist, author Atul Gawande describes a patient suffering from an infection introduced by medical equipment. These “line infections” are so common, they’re said to be a routine complication. In medical practice, a routine complication refers to an adverse event or difficulty that is known to occur with some regularity in association with a particular procedure or treatment. These complications are expected in the sense that they are well-documented and occur with a known frequency, allowing healthcare providers to anticipate and manage them effectively. In other domains, such as software development, it is useful to identify routine complications inherent to various operations, and understand both their potential for happening and their potential negative impacts. As an example, during incident response, if standard operating procedure (SOP) includes restarting a web server, routine complications to be understood include: accidentally restarting a healthy server (misdiagnosis), executing a restart incorrectly (human error), cutting off further observations of the issue before it’s fully understood (state evaporation), and encountering unexpected dependencies that cause cascading failures (hidden coupling). Just because restarting a web server carries with it these potential issues, doesn’t mean we should shy away from the tried-and-true “turn it off and on again” procedure (every operation carries risk after all). Instead, we should manage routine complications by understanding them honestly, preparing for them openly, and being blameless when they happen."
+  },
+  {
+    "Title": "Everyday project isolation for developers on Linux",
+    "Url": "https://evertheylen.eu/p/probox-intro/",
+    "Timestamp": "2025-02-15T23:02:00",
+    "Domain": "evertheylen.eu",
+    "Description": "The problem As a developer, you likely run a lot of code you can’t or don’t have time to verify. Many modern projects have lots of dependencies, and none of the package managers I know provide any isolation from the rest of your system. For example, create-react-app will install 1400 dependencies from 285 authors. Do you trust all of them? More importantly, do you trust their security posture?\nEventually, this will go wrong. Many examples exist (PyPI, NPM, AUR). Even though the lack of isolation is the de facto standard, I think this is borderline irresponsible. Especially as a freelance developer working for multiple clients. Therefore, while I can’t fully prevent supply-chain attacks, I can drastically minimize their potential damage.\n"
+  },
+  {
+    "Title": "Weight sharing is the inverse of MoE.",
+    "Url": "https://samsja.github.io/blogs/moe_is_the_inverse_of_weight_sharing/blog/",
+    "Timestamp": "2025-02-15T23:02:00",
+    "Domain": "samsja.github.io",
+    "Description": "Blog post of Samsja"
+  },
+  {
+    "Title": "High cohesion, low coupling",
+    "Url": "https://haybatov.com/en/blog/high-cohesion/",
+    "Timestamp": "2025-02-15T23:01:59",
+    "Domain": "haybatov.com",
+    "Description": "The terms ‘high cohesion’ and ‘low coupling’ cause quite a bit of confusion among developers. Here is an ELI13 version."
+  },
+  {
+    "Title": "[v0.12.2] Deepseek R1 Distill 8B Q40 on 4 x Raspberry Pi 5 8GB · b4rtaz/distributed-llama · Discussion #162",
+    "Url": "https://github.com/b4rtaz/distributed-llama/discussions/162",
+    "Timestamp": "2025-02-15T23:01:58",
+    "Domain": "github.com",
+    "Description": "Model: deepseek_r1_distill_llama_8b_q40 Version: 0.12.2 Evaluation Prediction 2 x Raspberry Pi 5 8GB 7.70 tok/s 3.54 tok/s 4 x Raspberry Pi 5 8GB 11.68 tok/s 6.43 tok/s 2 x Raspberry Pi 5 8GB ... 🔶..."
+  },
+  {
+    "Title": "Is Small Caps More Difficult?",
+    "Url": "https://thetradersinsight.com/blog/is-small-caps-more-difficult",
+    "Timestamp": "2025-02-15T23:01:58",
+    "Domain": "thetradersinsight.com",
+    "Description": "What we notice from Small Caps Market Sentiment data."
+  },
+  {
+    "Title": "the personal homepage of NT!",
+    "Url": "https://nabraj.com/blog/basketball-solved-sport/",
+    "Timestamp": "2025-02-15T23:01:57",
+    "Domain": "nabraj.com",
+    "Description": "the personal homepage of NT - Nabraj covering tech world, sports, philosophy and random musings."
+  },
+  {
+    "Title": "The Irrational Drive to Create, Suffer, and Persist",
+    "Url": "https://parv.bearblog.dev/will/",
+    "Timestamp": "2025-02-15T23:01:57",
+    "Domain": "parv.bearblog.dev",
+    "Description": "Machines are safe in their passivity; humans aren't."
+  },
+  {
+    "Title": "Lessons on thinking from large language models",
+    "Url": "https://www.seangoedecke.com/learning-from-how-llms-think/",
+    "Timestamp": "2025-02-15T23:01:56",
+    "Domain": "www.seangoedecke.com",
+    "Description": "How LLMs approach problems, and what we can learn from it"
+  },
+  {
+    "Title": "Stop writing code",
+    "Url": "https://creston.blog/stop-writing-code/",
+    "Timestamp": "2025-02-15T23:01:56",
+    "Domain": "creston.blog",
+    "Description": "The best code is code that doesn't need to be written."
+  },
+  {
+    "Title": "Nature loves patterns",
+    "Url": "https://fayziev.com/blog/nature-loves-patterns",
+    "Timestamp": "2025-02-15T23:01:56",
+    "Domain": "fayziev.com",
+    "Description": "February 12, 2025"
+  },
+  {
+    "Title": "No, your GenAI model isn't going to replace me",
+    "Url": "https://marioarias.hashnode.dev/no-your-genai-model-isnt-going-to-replace-me",
+    "Timestamp": "2025-02-15T21:01:53",
+    "Domain": "marioarias.hashnode.dev",
+    "Description": "... Hopefully"
+  },
+  {
+    "Title": "Play Figgie at Jane Street",
+    "Url": "https://www.figgie.com/",
+    "Timestamp": "2025-02-15T19:01:46",
+    "Domain": "www.figgie.com",
+    "Description": "Jane Street's fast-paced Figgie game simulates exciting elements of markets and trading"
+  },
+  {
+    "Title": "Stop Letting External Events Control Your System (Do This Instead)",
+    "Url": "https://youtube.com/watch?v=acH-Ke66F9Q",
+    "Timestamp": "2025-02-15T17:01:55",
+    "Domain": "youtube.com",
+    "Description": "Hi, I'm James. And ordinarily, I don't like dealing in absolutes. With a title like \"you should ALWAYS\", you might struggle to believe that. But it's honestly that important.\n\nIn this video you'll learn the importance of an anti-corruption layer, or at the very least not letting a data structure controlled by an external system drive business logic in your internal system.\n\n00:00 - Introduction\n01:03 - The Problem\n01:54 - What Is An Anti-Corruption Layer?\n03:27 - In-Process Anti-Corruption Layers\n06:40 - As An Independent Service\n09:20 - Summary\n\nGitHub Repo: https://github.com/jeastham1993/PlantBasedPizza"
+  },
+  {
+    "Title": "On Jujutsu and Magit · Antoine Martin",
+    "Url": "https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/",
+    "Timestamp": "2025-02-15T16:01:47",
+    "Domain": "blog.alarsyo.net",
+    "Description": "I’m writing this post after having used Jujutsu1 for\na few weeks. This is some kind of “experience report”, as well as yet another2\nlove letter to Magit."
+  },
+  {
+    "Title": "Temporal Tables in EF Core: Bringing Time Travel to Your Data - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/temporal-tables-in-ef-core-bringing-time-travel-to-your-data/",
+    "Timestamp": "2025-02-15T15:02:00",
+    "Domain": "woodruff.dev",
+    "Description": "What if you could go back in time and see exactly what your database looked like yesterday, last week, or even last year? Sounds like something out of a sci-fi movie, right? Well, Temporal Tables in SQL Server let you do exactly that!"
+  },
+  {
+    "Title": "The 20 year old PSP can now connect to WPA2 Wifi Networks - Wololo.net",
+    "Url": "https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/",
+    "Timestamp": "2025-02-15T13:01:50",
+    "Domain": "wololo.net",
+    "Description": "Acid_Snake and the ARK Development team have released a significant update to the ARK custom Firmware for the Sony PSP. Custom Firmware now allows the Playstation Portable to connect to WPA2 encrypted Wifi networks...."
+  },
+  {
+    "Title": "M: Grab Bag 6 (Category Compilation) #29～#31",
+    "Url": "https://youtube.com/watch?v=xKgd3uF0T7U",
+    "Timestamp": "2025-02-15T11:01:34",
+    "Domain": "youtube.com",
+    "Description": "In Category M: Grab Bag, you never know what you're going to get. Here, we delve into topics that don't quite fit neatly into the other categories—though the conversations still largely revolve around games. Check it out and see what you think!\n\n[Index]\n0:00 Opening\n0:11 M-29 Turning Anything Into a Competitive Game\n2:36 M-30 CRT Displays\n7:27 M-31 Mr. Iwata\n\n[Playlist M: Grab Bag]\nhttps://www.youtube.com/playlist?list=PLgKCjZ2WsVLS1xisCnw_DpTg52sy7upu_"
+  },
+  {
+    "Title": "Impact As A Developer: Visibility To Your Manager - Principal Software Engineering Manager AMA",
+    "Url": "https://youtube.com/watch?v=WbLjANjugsc",
+    "Timestamp": "2025-02-15T07:01:31",
+    "Domain": "youtube.com",
+    "Description": "It's unfortunate, but there's often a rift between developers and their managers.\n\nIs there enough visibility into the impact that's being delivered? How can we improve it? And what if my manager is new?!\n\nAs with all livestreams, I'm looking forward to answering YOUR questions! So join me live and ask in the chat, or you can comment now and I can try to get it answered while I stream.\r\n\r\n----\r\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\r\n\r\n🗣️ Social Media & Links:\r\n- All My Links: https://linktr.ee/devleader\r\n- Vlogs: @DevLeaderBTS @CodeCommute \r\n- Blog: https://www.devleader.ca/\r\n- TikTok: https://www.tiktok.com/@devleader\r\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\r\n- Threads: https://threads.net/@dev.leader\r\n- Twitter: https://twitter.com/DevLeaderCa\r\n- Facebook: https://www.facebook.com/DevLeaderCa\r\n- Instagram: https://www.instagram.com/dev.leader\r\n- GitHub: https://github.com/ncosentino/\r\n- Twitch: https://twitch.tv/devleaderca\r\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\r\n\r\n❤️ Affiliations & Products/Services That I Love:\r\n-  @BrandGhostAI for all of my content creation: https://brandghost.ai\r\n- AI shorts helper @opusclip: https://opus.pro/?via=2f9e97\r\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\r\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\r\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\r\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\r\n----\r\n#ama #askmeanything #softwareengineering #softwareengineer"
+  },
+  {
+    "Title": "Hardwood",
+    "Url": "https://xkcd.com/3051/",
+    "Timestamp": "2025-02-15T05:01:50",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Is the New GitHub Copilot Agent, the Future of Coding?",
+    "Url": "https://favtutor.com/articles/github-copilot-agent/",
+    "Timestamp": "2025-02-15T04:01:43",
+    "Domain": "favtutor.com",
+    "Description": "Let's find out about the new features of GitHub Copilot Agent and how it will transform the AI coding landscape."
+  },
+  {
+    "Title": "We Were Wrong About GPUs",
+    "Url": "https://fly.io/blog/wrong-about-gpu/",
+    "Timestamp": "2025-02-15T02:01:31",
+    "Domain": "fly.io",
+    "Description": "Do my tears surprise you? Strong CEOs also cry."
+  },
+  {
+    "Title": "Understanding Cursor Pagination and Why It's So Fast (Deep Dive)",
+    "Url": "https://www.milanjovanovic.tech/blog/understanding-cursor-pagination-and-why-its-so-fast-deep-dive",
+    "Timestamp": "2025-02-15T01:01:43",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "While offset pagination is widely used, cursor-based pagination offers significant performance advantages - my tests show a 17x speedup when paginating through a million-record dataset in PostgreSQL. Let's take a deep dive into cursor pagination, compare it with offset pagination, and examine the SQL execution plans."
+  }
+]

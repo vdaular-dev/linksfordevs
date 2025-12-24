@@ -1,0 +1,107 @@
+[
+  {
+    "Title": "Terence Tao (@tao@mathstodon.xyz)",
+    "Url": "https://mathstodon.xyz/@tao/113132502735585408",
+    "Timestamp": "2024-09-14T21:01:05",
+    "Domain": "mathstodon.xyz",
+    "Description": "I have played a little bit with OpenAI's new iteration of GPT, GPT-o1, which performs an initial reasoning step before running the LLM.  It is certainly a more capable tool than previous iterations, though still struggling with the most advanced research mathematical tasks.\n\nHere are some concrete experiments (with a prototype version of the model that I was granted access to).  In https://chatgpt.com/share/2ecd7b73-3607-46b3-b855-b29003333b87 I repeated an experiment from https://mathstodon.xyz/@tao/109948249160170335 in which I asked GPT to answer a vaguely worded mathematical query which could be solved by identifying a suitable theorem (Cramer's theorem) from the literature.  Previously, GPT was able to mention some relevant concepts but the details were hallucinated nonsense.  This time around, Cramer's theorem was identified and a perfectly satisfactory answer was given. (1/3)"
+  },
+  {
+    "Title": "How America’s universities became debt factories – Anand Sanwal",
+    "Url": "https://anandsanwal.me/college-student-debt-deception/",
+    "Timestamp": "2024-09-14T21:01:02",
+    "Domain": "anandsanwal.me",
+    "Description": "Here's a puzzle: how do you create a trillion-dollar debt bubble that can't be popped? Answer: make student loans non-dischargeable in bankruptcy.  Now, here's a trickier one: how do you fix this mess when the solution threatens a multibillion-dollar industry? This isn't just a theoretical exercise.  It's the reality we're living in.  The U.S. student…"
+  },
+  {
+    "Title": "R1/beta5 – Release Notes",
+    "Url": "https://www.haiku-os.org/get-haiku/r1beta5/release-notes/",
+    "Timestamp": "2024-09-14T17:01:02",
+    "Domain": "www.haiku-os.org",
+    "Description": "The fifth beta for Haiku R1 over a year and a half of hard work to improve Haiku’s hardware support and its overall stability, and to make lots more software ports available for use. Nearly 350 bugs and enhancement tickets have been resolved for this release."
+  },
+  {
+    "Title": "Creating Right-Click (Context Menu) actions in Linux Mint - Nemo",
+    "Url": "https://ryansouthgate.com/linux-mint-nemo-actions/",
+    "Timestamp": "2024-09-14T16:01:00",
+    "Domain": "ryansouthgate.com",
+    "Description": "How to create right-click (context menu) actions in Linux Mint - Nemo"
+  },
+  {
+    "Title": "GitHub - RyanWelly/lisp-in-rs-macros: A Lisp interpreter written fully in rust macros.",
+    "Url": "https://github.com/RyanWelly/lisp-in-rs-macros",
+    "Timestamp": "2024-09-14T15:01:04",
+    "Domain": "github.com",
+    "Description": "A Lisp interpreter written fully in rust macros. . Contribute to RyanWelly/lisp-in-rs-macros development by creating an account on GitHub."
+  },
+  {
+    "Title": "Safe C++",
+    "Url": "https://safecpp.org/draft.html",
+    "Timestamp": "2024-09-14T14:01:03",
+    "Domain": "safecpp.org",
+    "Description": "Over the past two years, the United States Government has been\nissuing warnings about memory-unsafe programming languages with\nincreasing urgency. Much of the country’s critical infrastructure relies\non software written in C and C++, languages which are very memory\nunsafe, leaving these systems more vulnerable to exploits by\nadversaries."
+  },
+  {
+    "Title": "Who The Hell Wrote This Code? – Dev Leader Weekly 61",
+    "Url": "https://www.devleader.ca/2024/09/14/who-the-hell-wrote-this-code-dev-leader-weekly-61/",
+    "Timestamp": "2024-09-14T13:01:01",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I discuss how to be curious when joining a team and not belittle others."
+  },
+  {
+    "Title": "My 71 TiB ZFS NAS after 10 years and zero drive failures",
+    "Url": "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html",
+    "Timestamp": "2024-09-14T10:01:07",
+    "Domain": "louwrentius.com",
+    "Description": "My 4U 71 TiB ZFS NAS built with twenty-four 4 TB drives is over 10 years old and still going strong."
+  },
+  {
+    "Title": "Wallops - A modern IRC client for classic Mac OS",
+    "Url": "https://jcs.org/wallops",
+    "Timestamp": "2024-09-14T09:00:59",
+    "Domain": "jcs.org",
+    "Description": ""
+  },
+  {
+    "Title": "The Myth of the Lone Wolf Developer: Why Collaboration Skills Matter More Than Coding Skills",
+    "Url": "http://hemaks.org/posts/the-myth-of-the-lone-wolf-developer-why-collaboration-skills-matter-more-than-coding-skills/",
+    "Timestamp": "2024-09-14T01:01:08",
+    "Domain": "hemaks.org",
+    "Description": "Picture this: a dimly lit room, the soft glow of multiple monitors, and a solitary figure hunched over a keyboard, fingers flying as they single-handedly save the world through code. Sounds familiar? If you’re thinking, “Hey, that’s the plot of every hacker movie ever,” you’re not wrong. But here’s the kicker – it’s about as realistic as expecting your computer to make you a sandwich when you hit Ctrl+Alt+Delicious.\nThe Myth of the Coding Hermit\nLet’s face it, we’ve all dreamed of being that lone wolf developer at some point. I know I have – there was a time when I thought I could conquer the coding world armed with nothing but my trusty laptop and an unhealthy amount of caffeine. Spoiler alert: it didn’t end well. My code looked like it had been written by a caffeinated squirrel, and my only collaborator was my increasingly concerned houseplant."
+  },
+  {
+    "Title": "Becoming perceptive",
+    "Url": "https://www.henrikkarlsson.xyz/p/perceptive",
+    "Timestamp": "2024-09-14T01:01:08",
+    "Domain": "www.henrikkarlsson.xyz",
+    "Description": "This is the second part of an essay series that began with “Everything that turned out well in my life followed the same design process.” It can be read on its own."
+  },
+  {
+    "Title": ".NET Aspire: A Game-Changer for Cloud-Native Development?",
+    "Url": "https://www.milanjovanovic.tech/blog/dotnet-aspire-a-game-changer-for-cloud-native-development",
+    "Timestamp": "2024-09-14T01:01:07",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": ".NET Aspire promises to revolutionize cloud-native development for .NET applications, but does it live up to the hype? In this hands-on review, I'll share my experience migrating a real project to Aspire, exploring its strengths, limitations, and potential impact on how we build distributed systems."
+  },
+  {
+    "Title": "The importance of tech docs",
+    "Url": "https://mfbmina.dev/en/posts/tech-docs/",
+    "Timestamp": "2024-09-14T01:01:06",
+    "Domain": "mfbmina.dev",
+    "Description": "When I chose to pursue a career in computer science when I was 15 years old, it was basically on liking math and physics. I want to distance myself from writing posts, essays, etc. Time goes by, and now, one of the things that I value at a mature company or team is the existence of technical documentation.\nDocs help us to gain historical knowledge of our company, reevaluate decisions, and comprehend the trade-offs between all the decisions.\nIt is also beneficial for the newcomers because it tells them a story. The richer in detail it is, the better it is."
+  },
+  {
+    "Title": "One Year of Learning Vim",
+    "Url": "https://aydendiel.dev/posts/2024-09-18_1-Year-of-Learning-Vim",
+    "Timestamp": "2024-09-14T01:01:06",
+    "Domain": "aydendiel.dev",
+    "Description": "kkkjjkjkkk"
+  },
+  {
+    "Title": "Thoughts on OpenAI O1-Preview - Mykel Nahorniak",
+    "Url": "https://www.mykel.org/notes/thoughts-on-o1",
+    "Timestamp": "2024-09-14T01:01:06",
+    "Domain": "www.mykel.org",
+    "Description": "o1-preview is out. GPT-4o is still in."
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "Title": "Optimizing Geospatial Search with PostgreSQL Geospatial Indexing: A Personal Case Study",
+    "Url": "https://thegeekyasian.com/optimizing-query-performance-with-postgresql-geospatial-indexing/",
+    "Timestamp": "2023-02-26T22:01:46",
+    "Domain": "thegeekyasian.com",
+    "Description": "Geospatial Indexing: Improving Location-Based Search in PostgreSQL        Introduction    In today's fast-paced world, people are always on the go and looking for quick and convenient ways to find the perfect restaurant. With the rise of food and location-based"
+  },
+  {
+    "Title": "Build Your Gaming PC - Winter 2023",
+    "Url": "https://cubinskyi.club/2023/02/pc-part-picker-winter-2023-edition/",
+    "Timestamp": "2023-02-26T22:01:45",
+    "Domain": "cubinskyi.club",
+    "Description": "A selection of an entry-level, medium, and progressive configurations, according to your gaming budget."
+  },
+  {
+    "Title": "How to contribute to a project you have no idea about",
+    "Url": "https://grifel.dev/how-to-contribute-without-knowledge/",
+    "Timestamp": "2023-02-26T22:01:43",
+    "Domain": "grifel.dev",
+    "Description": "How I've contributed to Bun, a huge project that is written in a language I don't understand, and does stuff that I've never worked on. And what work framework I use to work on projects like that."
+  },
+  {
+    "Title": "Health Checking",
+    "Url": "https://blog.eightnoteight.dev/p/health-checking",
+    "Timestamp": "2023-02-26T22:01:42",
+    "Domain": "blog.eightnoteight.dev",
+    "Description": "Systems could fail due to several unexpected failures, degraded hardware suddenly showing higher latency, partial network disruption to some specific instances, or network cable cut-off etc.,… Health checking, in principle, handles such unexpected localised failures that happen to particular containers or VMs among the entire cluster by removing them from the workload. This way total error rate in the cluster can be reduced."
+  },
+  {
+    "Title": "MSI's (in)Secure Boot: Part 2",
+    "Url": "https://dawidpotocki.com/en/2023/02/26/msi-insecure-boot-part-2/",
+    "Timestamp": "2023-02-26T22:01:42",
+    "Domain": "dawidpotocki.com",
+    "Description": "posted on 2023-02-26 (UTC)"
+  },
+  {
+    "Title": "Upgrading to Eloquent accessors & mutators from Laravel 9",
+    "Url": "https://blog.genijaho.dev/upgrading-to-eloquent-accessors-and-mutators-from-laravel-9",
+    "Timestamp": "2023-02-26T22:01:42",
+    "Domain": "blog.genijaho.dev",
+    "Description": "Laravel 10 is making the headlines these days. However, many apps are stuck in older versions, or at least still use the syntax and methods of older releases. One of the most significant changes introduced in Laravel 9 is the syntax for accessors and..."
+  },
+  {
+    "Title": "The Courtyard",
+    "Url": "https://cabel.com/2023/02/25/the-courtyard/",
+    "Timestamp": "2023-02-26T22:01:42",
+    "Domain": "cabel.com",
+    "Description": "There was a time when apartment buildings were built with large, spacious courtyards. The idea is so obvious: it’s not comfortable or natural to live in a packed block of living units. Breath…"
+  },
+  {
+    "Title": "Programming Will Always Use Text",
+    "Url": "https://gavinhoward.com/2023/02/programming-will-always-use-text/",
+    "Timestamp": "2023-02-26T22:01:42",
+    "Domain": "gavinhoward.com",
+    "Description": "A Reddit discussion leads to an assertion that programming will always use text. Here's why."
+  },
+  {
+    "Title": "A new series of videos on zero-knowledge proof composition and recursion (part 1)",
+    "Url": "https://cryptologie.net/article/587/a-new-series-of-videos-on-zero-knowledge-proof-composition-and-recursion-part-1/",
+    "Timestamp": "2023-02-26T20:02:58",
+    "Domain": "cryptologie.net",
+    "Description": "I introduced Plonk in a series of 12 videos here. That was almost a year and half ago! So I'm back with more :) \nIn this new series of videos I will explain how proof composition and recursion work with different schemes. Spoiler: we'll talk about Sangria, Nova, PCD, IVC, BCTV14 and Halo (and perhaps more if more comes up as I record these).\nHere's the first one:\n\nyou can access the full playlist  ..."
+  },
+  {
+    "Title": "Uploading Your Xamarin or MAUI iOS app to the App Store Without VS for Mac - Doumer's Blog",
+    "Url": "https://doumer.me/uploading-your-xamarin-or-maui-ios-app-to-the-app-store-without-vs-for-mac/",
+    "Timestamp": "2023-02-26T17:01:36",
+    "Domain": "doumer.me",
+    "Description": "Uploading Your Xamarin or MAUI iOS app to the App Store Without VS for Mac using Apple transporter app. Use this if VS fails"
+  },
+  {
+    "Title": "EmbeddedDisco",
+    "Url": "https://embeddeddisco.com/",
+    "Timestamp": "2023-02-26T16:01:50",
+    "Domain": "embeddeddisco.com",
+    "Description": "EmbeddedDisco is a modern protocol and a cryptographic library in C. It offers different ways of encrypting communications, as well as different cryptographic primitives for all of an application's needs. It targets simplicity and minimalism, with around 1,000 lines-of-code, not a single malloc and a design based solely on the well-accepted SHA-3 and Curve25519 cryptographic primitives."
+  },
+  {
+    "Title": "Disco!",
+    "Url": "https://discocrypto.com/#/",
+    "Timestamp": "2023-02-26T16:01:50",
+    "Domain": "discocrypto.com",
+    "Description": "libdisco is a modern plug-and-play secure protocol and a cryptographic library in Golang. It offers different ways of encrypting communications, as well as different cryptographic primitives for all of an application's needs."
+  },
+  {
+    "Title": "GCC Gets a New Frontend for Rust - Slashdot",
+    "Url": "https://developers.slashdot.org/story/23/02/26/0543203/gcc-gets-a-new-frontend-for-rust",
+    "Timestamp": "2023-02-26T13:01:26",
+    "Domain": "developers.slashdot.org",
+    "Description": "Slashdot reader sleeping cat  shares a recent FOSDEM talk by a compiler engineer on the team building Rust-GCC, \"an alternative compiler implementation for the Rust programming language.\" \n\n\"If gccrs interprets a program differently from rustc, this is considered a bug,\" explains the project's FAQ o..."
+  },
+  {
+    "Title": "Real-World Cryptography, a bit more than a year later",
+    "Url": "https://www.cryptologie.net/article/586/real-world-cryptography-a-bit-more-than-a-year-later/",
+    "Timestamp": "2023-02-26T12:01:45",
+    "Domain": "www.cryptologie.net",
+    "Description": "source: redbubble\n\nThree years ago, in the middle of writing my book Real-World Cryptography, I wrote about Why I'm writing a book on cryptography. I believed there was a market of engineers (and researchers) that was not served by the current offerings. There ought to be something more approachable, with less equations and theory and history, with more diagrams, and including advanced topics li ..."
+  },
+  {
+    "Title": "Anonymous Leaks 128 GB of Data from Russian ISP Convex",
+    "Url": "https://www.hackread.com/anonymous-data-leak-russia-isp-convex/",
+    "Timestamp": "2023-02-26T08:01:26",
+    "Domain": "www.hackread.com",
+    "Description": "Follow us on Twitter @HackRead - Facebook @ /HackRead"
+  },
+  {
+    "Title": "Dave's Forth Talk 2023",
+    "Url": "https://ratfactor.com/forth/forth_talk_2023.html",
+    "Timestamp": "2023-02-26T08:01:25",
+    "Domain": "ratfactor.com",
+    "Description": ""
+  },
+  {
+    "Title": "Where's the FILE? Cloud Files for the Generation Gap - Computer Stuff They Didn't Teach You #23",
+    "Url": "https://youtube.com/watch?v=gDXmTJakpT8",
+    "Timestamp": "2023-02-26T02:02:00",
+    "Domain": "youtube.com",
+    "Description": "They say there's a tech generation gap and that no one knows where their files are any more! People lose their files, family photos disappear, and non-techni..."
+  },
+  {
+    "Title": "GitHub - m31coding/M31.FluentAPI: Generate fluent APIs for your C# classes with ease.",
+    "Url": "https://github.com/m31coding/M31.FluentAPI",
+    "Timestamp": "2023-02-26T00:01:30",
+    "Domain": "github.com",
+    "Description": "Generate fluent APIs for your C# classes with ease. - GitHub - m31coding/M31.FluentAPI: Generate fluent APIs for your C# classes with ease."
+  },
+  {
+    "Title": "ASP.NET Core News - 02/24/2023",
+    "Url": "https://us7.campaign-archive.com/?u=66fdd2122e968863d381a26e1&id=a06a4bd7f1",
+    "Timestamp": "2023-02-26T00:01:30",
+    "Domain": "us7.campaign-archive.com",
+    "Description": "Would you like to advertise with us? Visit the Media Kit for details on how to sponsor this newsletter with thousands of readers every week."
+  }
+]

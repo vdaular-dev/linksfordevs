@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Claude introduces memory for teams at work",
+    "Url": "https://www.anthropic.com/news/memory",
+    "Timestamp": "2025-10-23T22:02:36",
+    "Domain": "www.anthropic.com",
+    "Description": "Claude now remembers your team's projects and preferences across conversations. Memory helps maintain context for complex work, with project-specific boundaries and full user control over what's remembered."
+  },
+  {
+    "Title": "What Happened to Apple's Legendary Attention to Detail?",
+    "Url": "https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html",
+    "Timestamp": "2025-10-23T21:01:58",
+    "Domain": "blog.johnozbay.com",
+    "Description": "A long rant about Apple's design choices."
+  },
+  {
+    "Title": "Solved By Modern CSS: Section Layout",
+    "Url": "https://ishadeed.com/article/modern-css-section-layout/",
+    "Timestamp": "2025-10-23T18:02:03",
+    "Domain": "ishadeed.com",
+    "Description": "Building a typical section design with modern CSS."
+  },
+  {
+    "Title": "Programming With Less Than Nothing",
+    "Url": "https://joshmoody.org/blog/programming-with-less-than-nothing/",
+    "Timestamp": "2025-10-23T16:02:12",
+    "Domain": "joshmoody.org",
+    "Description": "Lambda calculus is for wimps. Real programmers use combinatory logic."
+  },
+  {
+    "Title": "VST 3.8.0 SDK Released - Developer / VST 3 SDK - Steinberg Forums",
+    "Url": "https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988",
+    "Timestamp": "2025-10-23T10:01:56",
+    "Domain": "forums.steinberg.net",
+    "Description": "VST 3.8 SDK Released  Dear VST Developers,  Steinberg Media Technologies today releases the VST SDK 3.8  Here’s a brief overview of changes:   Version 3.8.0 (2025/10/20)   New licensing model for VST 3:   VST 3 is now open source, released under the MIT license.    Interface changes:   Support for MIDI 2.0: new interfaces IMidiLearn2 and IMidiMapping2. These new interfaces replace the previous interfaces IMidiLearn and IMidiMapping. Add missing ControllerNumbers enum for MIDI 1.0 System messages..."
+  },
+  {
+    "Title": "The Body Keeps the Score is Bullshit",
+    "Url": "https://josepheverettwil.substack.com/p/the-body-keeps-the-score-is-bullshit",
+    "Timestamp": "2025-10-23T09:01:56",
+    "Domain": "josepheverettwil.substack.com",
+    "Description": "The popular book from the \"world's most famous living psychiatrist\" is riddled with blatant misrepresentations"
+  },
+  {
+    "Title": "I see a future in jj",
+    "Url": "https://steveklabnik.com/writing/i-see-a-future-in-jj/",
+    "Timestamp": "2025-10-23T05:01:58",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: I see a future in jj by Steve Klabnik"
+  },
+  {
+    "Title": "GitHub - character-ai/Ovi",
+    "Url": "https://github.com/character-ai/Ovi",
+    "Timestamp": "2025-10-23T03:02:22",
+    "Domain": "github.com",
+    "Description": "Contribute to character-ai/Ovi development by creating an account on GitHub."
+  },
+  {
+    "Title": "Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs",
+    "Url": "https://ian.sh/fia",
+    "Timestamp": "2025-10-23T03:02:16",
+    "Domain": "ian.sh",
+    "Description": "We found vulnerabilities in the FIA's Driver Categorisation platform, allowing us to access PII and password hashes of any racing driver with a categorisation rating."
+  },
+  {
+    "Title": "Google flags Immich sites as dangerous | Immich Blog",
+    "Url": "https://immich.app/blog/google-flags-immich-as-dangerous",
+    "Timestamp": "2025-10-23T03:02:13",
+    "Domain": "immich.app",
+    "Description": "How Google actively breaks Immich deployments, an open-source Google Photos alternative"
+  },
+  {
+    "Title": "JMAP for Calendars, Contacts and Files now in Stalwart | Stalwart Labs",
+    "Url": "https://stalw.art/blog/jmap-collaboration/",
+    "Timestamp": "2025-10-23T03:02:10",
+    "Domain": "stalw.art",
+    "Description": "After four years of development, we’re thrilled to announce a major milestone in the evolution of Stalwart — the full implementation of JMAP for Calendars, Contacts, Address Books, File Storage, and Sharing. With this release, Stalwart becomes the first JMAP server to fully support the entire family of JMAP collaboration protocols, marking a new era for open, efficient, and elegant groupware."
+  },
+  {
+    "Title": "Shielding Chart",
+    "Url": "https://xkcd.com/3158/",
+    "Timestamp": "2025-10-23T02:01:57",
+    "Domain": "xkcd.com",
+    "Description": ""
+  }
+]

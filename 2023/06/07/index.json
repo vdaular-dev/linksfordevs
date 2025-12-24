@@ -1,0 +1,380 @@
+[
+  {
+    "Title": "Cruiser Live",
+    "Url": "https://youtube.com/watch?v=1qZocPu5uwQ",
+    "Timestamp": "2023-06-07T23:01:16",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Web Apps on macOS Sonoma 14 Beta",
+    "Url": "https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/",
+    "Timestamp": "2023-06-07T22:03:39",
+    "Domain": "blog.tomayac.com",
+    "Description": "The personal blog of Thomas Steiner"
+  },
+  {
+    "Title": "How I made my web pages load 10x faster",
+    "Url": "https://prahladyeri.github.io/blog/2023/06/how-i-made-my-web-pages-load-10x-faster.html",
+    "Timestamp": "2023-06-07T22:03:38",
+    "Domain": "prahladyeri.github.io",
+    "Description": "The most typical advice you get when it comes to improving site performance these days is purely technical things like using CDNs or other serving optimization, using X hosting mechanism instead of Y, going serverless, cache optimization, etc. I'm not talking about those things, I'm talking about the old school …"
+  },
+  {
+    "Title": "The business information server: generic data checking using PostgreSQL, PostgREST, and Semgrep",
+    "Url": "https://www.fabianzeindl.com/posts/business-information-server",
+    "Timestamp": "2023-06-07T22:03:38",
+    "Domain": "www.fabianzeindl.com",
+    "Description": "The business information server: generic data checking using PostgreSQL, PostgREST, and Semgrep"
+  },
+  {
+    "Title": "Improve Your Prompts for LLMs: Simple and Effective Techniques",
+    "Url": "https://www.dylanpaulus.com/posts/improve-your-prompts-llms/",
+    "Timestamp": "2023-06-07T22:03:38",
+    "Domain": "www.dylanpaulus.com",
+    "Description": "Tools like ChatGPT and Bing have been skyrocketing in popularity.\nChatGPT took five days since launch to .\nGovernments all over the world are trying to  what to do .\nSweet  are showing up everywhere; like this dog I generated using Bing:Though LLMs (Large Language Models) are still in their infancy,..."
+  },
+  {
+    "Title": "Proto-Danksharding: Speeding Up Blobs Verification",
+    "Url": "https://belijzajac.dev/proto-danksharding-speeding-up-blobs-verification/",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "belijzajac.dev",
+    "Description": "belijzajac's personal blog, where he shows off some of his current, past, and future projects as well as shares personal experience of developing projects involving modern C++ and Linux!"
+  },
+  {
+    "Title": "zacksiri.dev",
+    "Url": "https://zacksiri.dev/posts/work-distribution-with-jump-consistent-hashing",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "zacksiri.dev",
+    "Description": "Zack Siri wearing a developer hat."
+  },
+  {
+    "Title": "You need black pixels",
+    "Url": "https://stephanango.com/black-pixels",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "stephanango.com",
+    "Description": "One of my first industrial design jobs was working on a headset that never shipped, for a now defunct startup. It used two micro-OLED displays similar to the..."
+  },
+  {
+    "Title": "Confessions",
+    "Url": "https://www.marginalia.nu/log/81-confessions/",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "www.marginalia.nu",
+    "Description": "I use print debugging all the time\nI know how to use a debugger. I use a debugger sometimes, but most of my debugging is done by print statements that are like\nA B C . . 5 D . D , {true, 30} . , . , 10 E I think Clean Code makes some valid points\nI don’t think it should be your bible or treated as infallable, having seen the sort of code that came before it, yeah, Uncle Bob got some things right."
+  },
+  {
+    "Title": "Thoughts On A More Offline Life",
+    "Url": "https://davidt.co.uk/thoughts-on-a-more-offline-life",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "davidt.co.uk",
+    "Description": "7th June 2023"
+  },
+  {
+    "Title": "Functional programming in MongoDB",
+    "Url": "https://beny23.github.io/posts/functional_mongo_aggregation/",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "beny23.github.io",
+    "Description": "In this post I am looking at using the mongo aggregation pipeline in non-trivial ways. In fact, once I had done what I wanted to do I looked back at the result and discovered that a bit of an idea of functional programming helped me achieve what I wanted to do.\nBut back to the beginning: I was looking at deployment events which we’d captured in a mongo collection:\n{ \"environment\" : \"production\",\t\"serviceName\" : \"platform-status-frontend\",\t\"version\" : \"0."
+  },
+  {
+    "Title": "A bicycle for the senses",
+    "Url": "https://stephanango.com/bicycle-for-the-senses",
+    "Timestamp": "2023-06-07T22:03:37",
+    "Domain": "stephanango.com",
+    "Description": "For the past seven decades, computers have been primarily designed to enhance what your brain can do — think and remember. New kinds of computers will enhanc..."
+  },
+  {
+    "Title": "Suburbian transplant: my experience moving and living in a big city",
+    "Url": "https://qf0.github.io/blog/2023/06/07/Suburbian-transplant-my-experience-moving-and-living-in-a-big-city",
+    "Timestamp": "2023-06-07T22:03:36",
+    "Domain": "qf0.github.io",
+    "Description": "I lived in one of the largest cities in the United States for a year. Prior to relocating, I grew up in a small suburb. Here’s a few pros/cons that I gathered from my experience."
+  },
+  {
+    "Title": "On Object Orientation",
+    "Url": "https://jackrusher.com/journal/on-object-orientation.html",
+    "Timestamp": "2023-06-07T22:03:36",
+    "Domain": "jackrusher.com",
+    "Description": "A different perspective on object orientation."
+  },
+  {
+    "Title": "Deep Dive into System.Web Adapters [18 of 18] Migrating from ASP.NET to ASP.NET Core",
+    "Url": "https://youtube.com/watch?v=zXoGXbB3JDI",
+    "Timestamp": "2023-06-07T20:03:07",
+    "Domain": "youtube.com",
+    "Description": "In this video, Taylor Southwick dives deeper into the System.Web adapters and how they help in ASP.NET to ASP.NET Core upgrade scenarios and how they are use..."
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=6d7c023d-544d-4f11-ba69-5a7c454ebf68",
+    "Timestamp": "2023-06-07T20:03:04",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password must be 12-16 characters long: Royluis@2345"
+  },
+  {
+    "Title": "Faster sorting algorithms discovered using deep reinforcement learning - Nature",
+    "Url": "https://www.nature.com/articles/s41586-023-06004-9",
+    "Timestamp": "2023-06-07T19:02:35",
+    "Domain": "www.nature.com",
+    "Description": "&nbsp;Artificial intelligence goes beyond the current state of the art by discovering unknown, faster sorting algorithms as a single-player game using a deep reinforcement learning agent. These algorithms are now used in the standard C++&nbsp;sort&nbsp;library."
+  },
+  {
+    "Title": ".NET Monthly Roundup - May 2023 - Build, C# 12, .NET 8 Preview 4, and more!",
+    "Url": "https://dev.to/dotnet/net-monthly-roundup-may-2023-build-c-12-net-8-preview-4-and-more-3752",
+    "Timestamp": "2023-06-07T18:02:13",
+    "Domain": "dev.to",
+    "Description": "Welcome to our May .NET Monthly Roundup with Jon Galloway! In just 3 minutes, Jon breaks down the..."
+  },
+  {
+    "Title": "UFO Evidence",
+    "Url": "https://xkcd.com/2786/",
+    "Timestamp": "2023-06-07T18:02:12",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Cloud-native development with .NET 8 | BRK201H",
+    "Url": "https://youtube.com/watch?v=qoNflu8aRaA",
+    "Timestamp": "2023-06-07T17:01:34",
+    "Domain": "youtube.com",
+    "Description": "Join us to learn about .NET for cloud-native development. Discover updates in .NET 8.0 with new libraries for high-performance services on any cloud. Native ..."
+  },
+  {
+    "Title": "Why I Became the .NET Instructor at Zero to Mastery",
+    "Url": "https://youtube.com/watch?v=8OuQUco9eHc",
+    "Timestamp": "2023-06-07T16:03:03",
+    "Domain": "youtube.com",
+    "Description": "🔥 https://www.claudiobernasconi.ch/dotnet-course *Last week I published a video about my .NET Developer Roadmap, including the announcement of my C# and .NE..."
+  },
+  {
+    "Title": "Service Lifetimes Quick Guide",
+    "Url": "https://youtube.com/watch?v=j1-7KI9ScXY",
+    "Timestamp": "2023-06-07T16:03:03",
+    "Domain": "youtube.com",
+    "Description": "Hi there! This is a quick guide about service lifetimes in asp. #csharp #servicelifetimes"
+  },
+  {
+    "Title": "Getting Started with GoDot in C# and Visual Studio",
+    "Url": "https://youtube.com/watch?v=b2JciU37E9o",
+    "Timestamp": "2023-06-07T16:03:03",
+    "Domain": "youtube.com",
+    "Description": "Get quickly up to speed with cross-platform game development in C# using this fantastic free and open-source game engine."
+  },
+  {
+    "Title": "Object Detection with Azure Custom Vision",
+    "Url": "https://youtube.com/watch?v=6WLhUUKCmis",
+    "Timestamp": "2023-06-07T16:03:02",
+    "Domain": "youtube.com",
+    "Description": "Azure Cognitive Services gives us Custom Vision for Object Detection capabilities. This lets us use tagged images you provide to train a deep learning model ..."
+  },
+  {
+    "Title": "Building an app with .NET MAUI and Telerik Components - Part 4 - Exporting to Excel and PDF",
+    "Url": "https://youtube.com/watch?v=37WwLzxfOyo",
+    "Timestamp": "2023-06-07T16:03:02",
+    "Domain": "youtube.com",
+    "Description": "Welcome to the fourth installment of our comprehensive video series with Daniel. In this episode, we focus on creating an engaging app interface using .NET M..."
+  },
+  {
+    "Title": "Interesting links of the week 2023-23 (#75)",
+    "Url": "https://samestuffdifferentday.net/2023/06/05/Interesting-links-of-the-week-2023-23/",
+    "Timestamp": "2023-06-07T16:03:00",
+    "Domain": "samestuffdifferentday.net",
+    "Description": "Here are some interesting articles, blog posts, videos, podcasts, and GitHub repositories I’ve run into over the last week (May 29, 2023 - June 04, 2023)"
+  },
+  {
+    "Title": "Microsoft .NET Code Analysis: The Rijndael and Rijndaelmanaged Types Are Superseded",
+    "Url": "https://dotnettips.wordpress.com/2023/06/06/microsoft-net-code-analysis-the-rijndael-and-rijndaelmanaged-types-are-superseded/",
+    "Timestamp": "2023-06-07T15:02:21",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "The Rijndael and RijndaelManaged types in .NET have been replaced by the more secure and efficient AesManaged type since September 2021. It is advised to use AesManaged instead of RijndaelManaged f…"
+  },
+  {
+    "Title": "WWDC 2023 Recap - Apple Vision Pro & Beyond | Merge Conflict ep. 361",
+    "Url": "https://youtube.com/watch?v=oP5BlaM6-pk",
+    "Timestamp": "2023-06-07T15:02:20",
+    "Domain": "youtube.com",
+    "Description": "WWDC is here and we breakdown everything you need to know from the keynote and developer state of the union! From iOS 17, new watch features, iPadOS, and yes..."
+  },
+  {
+    "Title": "How Can You Make Properties REQUIRED In C#? #shorts",
+    "Url": "https://youtube.com/watch?v=M3n7-dSakPM",
+    "Timestamp": "2023-06-07T15:02:19",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicJoin my weekly .NET newsletter:https://www.milanjovanovic.techRead ..."
+  },
+  {
+    "Title": "Are You Using the DbContext in Background Services PROPERLY?",
+    "Url": "https://youtube.com/watch?v=7lQ1fmR6LLE",
+    "Timestamp": "2023-06-07T15:02:19",
+    "Domain": "youtube.com",
+    "Description": "Using the DbContext in background services is a fairly common task. For instance, we often need to implement cleanup jobs that should run at specific interva..."
+  },
+  {
+    "Title": "Blazor Tutorial: Routing, Parameters, Query Strings and Navigation",
+    "Url": "https://youtube.com/watch?v=qwVO_cLkgd4",
+    "Timestamp": "2023-06-07T15:02:19",
+    "Domain": "youtube.com",
+    "Description": "#dotnet #csharp #.NET #softwaredevelopmentWelcome to my comprehensive tutorial on ASP.NET Blazor routing and navigation! In this must-watch video, I dive dee..."
+  },
+  {
+    "Title": "34 AK Expenses Tracker | Create Transactions DTO and Transaction Fluent Validator | AK Academy",
+    "Url": "https://youtube.com/watch?v=L959j-HYwiA",
+    "Timestamp": "2023-06-07T15:02:19",
+    "Domain": "youtube.com",
+    "Description": "Join our Discord Server https://discord.gg/GPrGJRuXJbSHOW YOUR SUPPORT FOR AK ACADEMY https://www.buymeacoffee.com/akacademy99In this video we will create th..."
+  },
+  {
+    "Title": "Integer compression: Understanding Simd Compression by Lemire",
+    "Url": "https://ayende.com/blog/199490-B/integer-compression-understanding-simd-compression-by-lemire?Key=4e06317b-ebfa-4f3a-bf6d-266063e62272",
+    "Timestamp": "2023-06-07T15:02:17",
+    "Domain": "ayende.com",
+    "Description": "In the previous post, I showed how you can use integer compression using variable-size integers. That is a really straightforward approach for integer compre..."
+  },
+  {
+    "Title": "Learn C# with CSharpFritz - C#, Azure, and Databases",
+    "Url": "https://youtube.com/watch?v=mh6NPG2phwE",
+    "Timestamp": "2023-06-07T14:02:53",
+    "Domain": "youtube.com",
+    "Description": "Let's talk about the various database options for you to use with your C# application and Microsoft Azure.  We'll look at SQL Server, MySQL, Postgres, Cosmos..."
+  },
+  {
+    "Title": "Apple Vision Pro Hands-On Impressions!",
+    "Url": "https://youtube.com/watch?v=f0HBzePUmZ0",
+    "Timestamp": "2023-06-07T14:02:53",
+    "Domain": "youtube.com",
+    "Description": "We go hands-on with Apple's new Vision Pro mixed reality headset, and share our impressions in this deep dive of its features and capabilities. From the disp..."
+  },
+  {
+    "Title": "Pulling sleight of hand tricks in a security vulnerability report, episode 2 - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230607-00/?p=108307",
+    "Timestamp": "2023-06-07T14:02:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "I see what you did there."
+  },
+  {
+    "Title": "The New VS Code C# Extension Has a HUGE Problem",
+    "Url": "https://youtube.com/watch?v=ExxLAdnB9Sk",
+    "Timestamp": "2023-06-07T13:02:02",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://dometrain.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello, everybody, I'm Nick, and in..."
+  },
+  {
+    "Title": "ASP.NET Core Authentication with YARP",
+    "Url": "https://youtube.com/watch?v=9mFNTpugB6E",
+    "Timestamp": "2023-06-07T13:02:02",
+    "Domain": "youtube.com",
+    "Description": "How to re-use asp.net core authentication to protect your components written in other languages in frameworks like python, express or rust. I show ho to use ..."
+  },
+  {
+    "Title": "Dependency Injection C# Tutorial",
+    "Url": "https://youtube.com/watch?v=KAHxOLmvGZo",
+    "Timestamp": "2023-06-07T11:02:29",
+    "Domain": "youtube.com",
+    "Description": "💻Watch the full tutorial: https://youtu.be/bKCzoR01lpE🔥My Free .NET Backend Developer Roadmap: https://go.dotnetmicroservices.com/roadmapDependency injecti..."
+  },
+  {
+    "Title": "Mastering Visual Studio 2022: Essential Tips and Tricks",
+    "Url": "https://www.talkingdotnet.com/visual-studio-2022-tips-and-tricks/",
+    "Timestamp": "2023-06-07T09:02:28",
+    "Domain": "www.talkingdotnet.com",
+    "Description": "Visual Studio 2022 is the latest iteration of Microsoft’s powerful IDE. This post shares valuable tips and tricks to help you make the most out of Visual Studio 2022, enabling you to write code more efficiently and effectively."
+  },
+  {
+    "Title": "How To Set Up SSL Certificate In Visual Studio and .NET CLI",
+    "Url": "https://code-maze.com/enable-ssl-certificate-visual-studio-dotnet-cli/",
+    "Timestamp": "2023-06-07T09:02:27",
+    "Domain": "code-maze.com",
+    "Description": "This article will look at setting up and removing an SSL certificate using Visual Studio and .NET CLI. We'll also cover some common problems. "
+  },
+  {
+    "Title": "An introduction to Shader Art Coding",
+    "Url": "https://youtu.be/f4s1h2YETNY",
+    "Timestamp": "2023-06-07T07:03:07",
+    "Domain": "youtu.be",
+    "Description": "In this tutorial, I explore the fascinating realm of shader art coding and aim to offer helpful insights and guidance to assist you in beginning your own cre..."
+  },
+  {
+    "Title": "Safari 17 Beta: A Game Changer for PWAs on MacOS",
+    "Url": "https://dev.to/this-is-learning/safari-17-beta-a-game-changer-for-pwas-on-macos-ddp",
+    "Timestamp": "2023-06-07T07:03:05",
+    "Domain": "dev.to",
+    "Description": "Safari 17 Beta is the latest version of Apple's web browser, which was released on June 5, 2023. It..."
+  },
+  {
+    "Title": "How to Use 3 Popular React Hooks with React Router",
+    "Url": "https://www.telerik.com/blogs/how-to-use-3-popular-react-hooks-react-router",
+    "Timestamp": "2023-06-07T06:03:51",
+    "Domain": "www.telerik.com",
+    "Description": "A summary of the useNavigation(), useParams() and useLocation() hooks of the popular React Router library."
+  },
+  {
+    "Title": "Enhancing .NET Hot Reload with CreateNewOnMetadataUpdate, MetadataUpdateHandler and MetadataUpdateOriginalType Attributes - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/enhancing-hot-reload/",
+    "Timestamp": "2023-06-07T06:03:50",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "With each update to the .NET SDK and Visual Studio the support for Hot Reload improves. Hot Reload is the ability to make changes to your running application without having to restart and it can dramatically improve developer productivity, when it works. In this post we’re going to look at a simple example of where ... Read more"
+  },
+  {
+    "Title": "New Awesome Experience for Building .NET Apps in Visual Studio Code",
+    "Url": "https://youtube.com/watch?v=-vIFUBOGb9A",
+    "Timestamp": "2023-06-07T06:03:49",
+    "Domain": "youtube.com",
+    "Description": "Are you a .NET developer who builds loves building apps in Visual Studio Code, but you miss some of the solution and project management experiences in Visual..."
+  },
+  {
+    "Title": "Use These 4 Best Practices For Your .NET Project Setup",
+    "Url": "https://youtube.com/watch?v=B9ZUJN1Juhk",
+    "Timestamp": "2023-06-07T06:03:49",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicSetting up a new .NET project can be daunting. Many things to add a..."
+  },
+  {
+    "Title": "Localized Application in Blazor WebAssembly",
+    "Url": "https://www.dotnetcurry.com/aspnet-core/blazor-webassembly-localization",
+    "Timestamp": "2023-06-07T06:03:48",
+    "Domain": "www.dotnetcurry.com",
+    "Description": "This tutorial provides a step-by-step guide on integrating localization into a Blazor WebAssembly application using the Microsoft.Extensions.Localization NuGet package. It outlines creating the project, installing necessary resources, and configuring for dynamic cultural adaptation, thereby enhancing usability for a global audience."
+  },
+  {
+    "Title": "Entity Framework Core 7: Filtering on JSON Arrays",
+    "Url": "https://khalidabuhakmeh.com/entity-framework-core-7-filtering-on-json-arrays",
+    "Timestamp": "2023-06-07T06:03:47",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "JSON support in Entity Framework Core and filtering on JSON collections in Microsoft SQL Server"
+  },
+  {
+    "Title": "Use secrets in unit tests",
+    "Url": "https://markheath.net/post/use-secrets-in-unit-tests",
+    "Timestamp": "2023-06-07T06:03:46",
+    "Domain": "markheath.net",
+    "Description": "Mark Heath's Development Blog"
+  },
+  {
+    "Title": "New array methods in JavaScript bring immutability",
+    "Url": "https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/",
+    "Timestamp": "2023-06-07T06:03:45",
+    "Domain": "christianheilmann.com",
+    "Description": ""
+  },
+  {
+    "Title": "Creating a minimal API with ASP.NET Core that interacts with AWS DynamoDB",
+    "Url": "https://danieldonbavand.com/2023/06/07/creating-a-minimal-api-with-asp-net-core-that-interacts-with-aws-dynamodb/",
+    "Timestamp": "2023-06-07T05:02:40",
+    "Domain": "danieldonbavand.com",
+    "Description": "In this blog post, we will guide you through the process of creating a simple .NET 7 API that interacts with DynamoDB. Additionally, we will integrate our SlackBot console application, which we int…"
+  },
+  {
+    "Title": "Tony Qu - 2023 Board of Directors Elections",
+    "Url": "https://youtube.com/watch?v=Y7gIYrA1M1Y",
+    "Timestamp": "2023-06-07T03:03:26",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "Understanding Event Types in Event Driven Architecture",
+    "Url": "https://youtube.com/watch?v=qSjni3kbQ_k",
+    "Timestamp": "2023-06-07T02:02:01",
+    "Domain": "youtube.com",
+    "Description": "Hi, I'm James! In today's programming world, building efficient and scalable applications is a must. This video provides a deep dive into the different types..."
+  }
+]

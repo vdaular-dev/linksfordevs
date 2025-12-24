@@ -1,0 +1,317 @@
+[
+  {
+    "Title": "No Need to Wait for .NET 8 to Try Experimental WebAssembly Multithreading -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/10/11/blazor-webassembly-net7.aspx",
+    "Timestamp": "2022-10-11T23:03:22",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Multithreading support for client-side Blazor WebAssembly apps is planned for .NET 8 in November 2023, but developers can try it out now for .NET apps thanks to experimental functionality in the brand-new .NET 7 Release Candidate 2."
+  },
+  {
+    "Title": "Announcing NuGet PackageReference support for C++/CLI MSBuild projects targeting .NET Core and .NET 5 or higher",
+    "Url": "https://devblogs.microsoft.com/cppblog/announcing-nuget-packagereference-support-for-c-cli-msbuild-projects-targeting-net-core/",
+    "Timestamp": "2022-10-11T23:03:21",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "One of the new features for C++ developers in Visual Studio 2022 version 17.3 is NuGet PackageReference support for C++/CLI MSBuild projects that target .NET Core and .NET 5 or higher. More specifically, this impacts CLR Class Library (.NET) and CLR Empty Project (.NET) project templates."
+  },
+  {
+    "Title": "Internet.nl adds test for security.txt",
+    "Url": "https://www.digitaltrustcenter.nl/nieuws/internetnl-adds-test-for-securitytxt",
+    "Timestamp": "2022-10-11T22:03:33",
+    "Domain": "www.digitaltrustcenter.nl",
+    "Description": "A new security.txt test component has been added to the Internet.nl website test in collaboration with the Digital Trust Center (DTC)."
+  },
+  {
+    "Title": "My essential guidelines for better Django development — /var/",
+    "Url": "https://www.spapas.net/2022/09/28/django-guidelines/",
+    "Timestamp": "2022-10-11T21:04:04",
+    "Domain": "www.spapas.net",
+    "Description": "In this article I’d like to present a list of guidelines I follow when I develop\nDjango projects, especially projects that are destined to be used in a production\nenvironment for many years. I am using django for more than 10 years as my day to\nday work tool to develop applications for the public sector organization I work for."
+  },
+  {
+    "Title": "Do you need a Strong Leader? - Benji's Blog",
+    "Url": "https://benjiweber.co.uk/blog/2022/10/08/do-you-need-a-strong-leader/",
+    "Timestamp": "2022-10-11T21:04:03",
+    "Domain": "benjiweber.co.uk",
+    "Description": "Helping a team overcome weaknesses requires an appreciation for weakness more than a show of strength. Being the strongest can even be a disadvantage."
+  },
+  {
+    "Title": "Meta Quest Pro: Our Most Advanced New VR Headset | Meta Store",
+    "Url": "https://www.meta.com/quest/quest-pro/",
+    "Timestamp": "2022-10-11T21:04:02",
+    "Domain": "www.meta.com",
+    "Description": "Meta Quest Pro is our newest, most advanced VR system yet. Reimagine what's possible. Meta Quest Pro will transform the way you work, connect, create and play."
+  },
+  {
+    "Title": "One Month to GA: .NET 7 Release Candidate 2 Ships -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/10/11/net-7-rc2.aspx",
+    "Timestamp": "2022-10-11T21:04:02",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "The next stop for .NET 7 is General Availability, one month out, as Microsoft shipped .NET 7 Release Candidate 2."
+  },
+  {
+    "Title": "Announcing .NET MAUI support for Xcode 14 and iOS 16",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-maui-xcode14/",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET MAUI now supports Xcode 14 and iOS 16"
+  },
+  {
+    "Title": "black-box debugging of PDF rendering in printers",
+    "Url": "https://leahneukirchen.org/blog/archive/2022/10/50-blank-pages-or-black-box-debugging-of-pdf-rendering-in-printers.html",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "leahneukirchen.org",
+    "Description": "I was happily typesetting a book with ConTeXt and its new engine LMTX\nwhen I decided to print a few pages to see if I got the sizes right.\nSince I despise printer daemons, I directly print stuff over the network\nusing a little script."
+  },
+  {
+    "Title": "The Rails SaaS Conference",
+    "Url": "https://berry.sh/the-rails-saas-conference/",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "berry.sh",
+    "Description": "A recount of my experience at the Rails SaaS conference, a \"next-generation\" conference dedicated to the intersection of business and software development."
+  },
+  {
+    "Title": "GitHub - chrisnas/Win-pprof: Windows .pprof viewer",
+    "Url": "https://github.com/chrisnas/Win-pprof",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "github.com",
+    "Description": "Windows .pprof viewer. Contribute to chrisnas/Win-pprof development by creating an account on GitHub."
+  },
+  {
+    "Title": "$1 million is how much your company wastes on bad developer experience",
+    "Url": "https://www.andrios.co/million-dollar-interruption/",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "www.andrios.co",
+    "Description": "A 50 engineers company wastes 1 million dollars a year on developer interruption.\n\nEvery time an engineering context switches, it costs the company 50 bucks.\n\nConsider a 100k developer salary:\n\n * USD 100,000 / year\n * USD ~8000 / month\n * USD ~50 / hour\n\nThe 100k/year isn't counting hunting, hiring, onboarding, ramping, and"
+  },
+  {
+    "Title": "Reasons to worry about AGI",
+    "Url": "https://florentcrivello.com/reasons-to-be-worried-about-agi/",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "florentcrivello.com",
+    "Description": "We can't even reason about the problem, because humans are bad at reasoning about exponentials; even if we could, we wouldn't worry about it (and the folks closest to the problem are least likely to worry); and even if we did worry, we probably wouldn't be unable to do anything about it."
+  },
+  {
+    "Title": "Just Say No To Helper Functions",
+    "Url": "https://www.justindfuller.com/2022/10/just-say-no-to-helper-functions/",
+    "Timestamp": "2022-10-11T21:04:00",
+    "Domain": "www.justindfuller.com",
+    "Description": "I wake up in the morning. The sun is bright, the air is warm. The day is Saturday. What do I do? Of course, I settle down with my laptop to write some code.\nI'm just waking up so I need to start simple to get the ol’ synapses firing."
+  },
+  {
+    "Title": "Meta announces Quest Pro, a $1,499 “mixed reality” device coming Oct. 25",
+    "Url": "https://arstechnica.com/gaming/2022/10/meta-announces-quest-pro-a-1499-mixed-reality-device-coming-oct-25/",
+    "Timestamp": "2022-10-11T20:02:13",
+    "Domain": "arstechnica.com",
+    "Description": "\"High-end device\" features thinner design, higher resolution, open peripheral vision."
+  },
+  {
+    "Title": "Azure DevOps Podcast: Rob Richardson: Web Services in .NET 6 - Episode 213",
+    "Url": "http://feed.azuredevops.show/rob-richardson-web-services-in-net-6-episode-213",
+    "Timestamp": "2022-10-11T20:02:05",
+    "Domain": "feed.azuredevops.show",
+    "Description": "Rob Richardson is a software craftsman who is building web properties in , Node, React, and Vue. He’s a software developer, a community leader, a mentor, and the business owner of Richardson &amp; Sons. Additionally, Rob is a Microsoft MVP; a published author; a frequent speaker at conferences, user groups, and community events; and a diligent teacher and student of high-quality software development. &nbsp; Topics of Discussion: [3:25] Rob starts us off with a cool trick to remember how many days of the month there are. [5:25] Rob talks about why he invested in getting really good at unit testing and integration testing. [5:50] What is the big “wow” factor that developers should not miss with .NET6? [8:35] With minimal APIs, is it different capabilities, or have they mapped all of the capabilities of web API down into those extension methods that you can use? [10:25] What is the difference between authorization and authentication? [17:25] What’s Rob’s preferred mechanism for internal private web services? [21:30] Where Raspberry APIs really shine. [22:08] Rob tells us about a very cool talk he has coming up. [27:03] DevContainers is such a magical thing. [28:02] Rob is digging deep into GitHub actions, and he is starting to build out custom GitHub action tasks for interesting things. &nbsp; Mentioned in this Episode:  — New video podcast!   (Sponsor)  — Available on Amazon!   — Follow to stay informed about future events!  programming@palermo.net   &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "Microsoft Previews Azure Firewall Basic for Small-Medium Businesses ",
+    "Url": "https://www.infoq.com/news/2022/10/azure-firewall-basic-preview/",
+    "Timestamp": "2022-10-11T19:05:45",
+    "Domain": "www.infoq.com",
+    "Description": "Microsoft recently released the public preview of Azure Firewall Basic for small-medium businesses (SMBs), providing enterprise-grade security at an affordable price. The company offers the Basic SKU as it sees SMBs as particularly vulnerable to budget constraints and gaps in specialized security skills."
+  },
+  {
+    "Title": "Announcing Entity Framework Core 7 RC2: JSON Columns",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-ef7-release-candidate-2/",
+    "Timestamp": "2022-10-11T19:05:45",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing EF Core 7 (EF7) RC2 featuring JSON column mapping"
+  },
+  {
+    "Title": ".NET Framework October 2022 Security and Quality Rollup",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-framework-october-2022-security-and-quality-rollup/",
+    "Timestamp": "2022-10-11T19:05:44",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "October 2022 Security and Quality Rollup for .NET Framework"
+  },
+  {
+    "Title": "Announcing .NET 7 Release Candidate 2",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-7-rc-2/",
+    "Timestamp": "2022-10-11T19:05:44",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 Release Candidate 2 is the second of two release candidates that developers can now use in production. This post recaps major features included in the fastest .NET version to date."
+  },
+  {
+    "Title": "ASP.NET Core updates in .NET 7 Release Candidate 2",
+    "Url": "https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-7-rc-2/",
+    "Timestamp": "2022-10-11T19:05:44",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 7 Release Candidate 2 is now available! Check out what's new in ASP.NET Core in this update."
+  },
+  {
+    "Title": ".NET October 2022 Updates – .NET 6.0.10 and .NET Core 3.1.30",
+    "Url": "https://devblogs.microsoft.com/dotnet/october-2022-updates/",
+    "Timestamp": "2022-10-11T19:05:44",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Check out October updates for .NET 6.0 and .NET Core 3.1"
+  },
+  {
+    "Title": "Low-level struct improvements in C# 11",
+    "Url": "https://steven-giesel.com/blogPost/2a807220-166a-4fd0-99cc-a56765767fbd",
+    "Timestamp": "2022-10-11T19:05:44",
+    "Domain": "steven-giesel.com",
+    "Description": "C# 11 brings some major improvements for structs. You remember Span<T>, which you couldn't create?\nNow you can. C# 11 allows ref fields in a struct. Why this is a cool thing and what you can do with it, you will see in a minute.\n"
+  },
+  {
+    "Title": "MinimalApis.Extensions 0.9.0-pre.20221011.36",
+    "Url": "https://www.nuget.org/packages/MinimalApis.Extensions/0.9.0-pre.20221011.36",
+    "Timestamp": "2022-10-11T18:03:11",
+    "Domain": "www.nuget.org",
+    "Description": "A set of extensions and helpers for working with ASP.NET Core Minimal APIs."
+  },
+  {
+    "Title": "Amazon.com: Anker USB C Charger, 735 Charger (Nano II 65W), PPS 3-Port Fast Compact Foldable Wall Charger for MacBook Pro/Air, iPad Pro, Galaxy S20/S10, Dell XPS 13, Note 20/10+, iPhone 13/Pro, Pixel, and More : Electronics",
+    "Url": "https://www.amazon.com/Anker-Charger-Compact-Foldable-MacBook/dp/B09C5RG6KV?tag=linksfordevs-20&lfd=202210",
+    "Timestamp": "2022-10-11T15:09:18",
+    "Domain": "www.amazon.com",
+    "Description": "Buy Anker USB C Charger, 735 Charger (Nano II 65W), PPS 3-Port Fast Compact Foldable Wall Charger for MacBook Pro/Air, iPad Pro, Galaxy S20/S10, Dell XPS 13, Note 20/10+, iPhone 13/Pro, Pixel, and More: Chargers & Adapters - Amazon.com ✓ FREE DELIVERY possible on eligible purchases"
+  },
+  {
+    "Title": "Commits Promotion Between GitHub and Azure Databricks",
+    "Url": "https://www.tpeczek.com/2022/10/commits-promotion-between-github-and.html",
+    "Timestamp": "2022-10-11T15:09:12",
+    "Domain": "www.tpeczek.com",
+    "Description": "This post describes how to promote commits from GitHub to Azure Databricks and vice versa (automated where possible)."
+  },
+  {
+    "Title": "On .NET Live - Learning with Intention",
+    "Url": "https://youtube.com/watch?v=P-lObXiDmPM",
+    "Timestamp": "2022-10-11T14:05:05",
+    "Domain": "youtube.com",
+    "Description": "How do you learn new things in .NET and technology? In this week's episode, community member Elahn Danee joins us to discuss exciting updates with .NET Book ..."
+  },
+  {
+    "Title": "Clicking past the warning that you are about to cross the airtight hatchway: Vulnerable file type that you are warned about",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221011-00/?p=107275",
+    "Timestamp": "2022-10-11T14:05:00",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Acknowledging the danger but complaining about it anyway."
+  },
+  {
+    "Title": "5 Tips for Writing BETTER For Loops in JavaScript",
+    "Url": "https://youtube.com/watch?v=QO-3d128l28",
+    "Timestamp": "2022-10-11T13:01:44",
+    "Domain": "youtube.com",
+    "Description": "Let's write better for loops in JavaScript!00:00 - Intro01:25 - Use Code Snippets04:20 - Use the Accumulator Pattern06:55 - Short-Circuit Your JavaScript For..."
+  },
+  {
+    "Title": "yara signatures converted from trufflehog regexes for identifying secrets in text files",
+    "Url": "https://gist.github.com/dustyfresh/614fa3edddfca99b766ba410fcc8ddd6",
+    "Timestamp": "2022-10-11T13:01:41",
+    "Domain": "gist.github.com",
+    "Description": "yara signatures converted from trufflehog regexes for identifying secrets in text files - secrets.yara"
+  },
+  {
+    "Title": "How Wine works 101",
+    "Url": "https://werat.dev/blog/how-wine-works-101/",
+    "Timestamp": "2022-10-11T13:01:41",
+    "Domain": "werat.dev",
+    "Description": "Wine is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD (https://www.winehq.org).\nIf you have been using Linux for some time now, chances are you’ve used Wine at some point. Maybe to run that one very important Windows program that doesn’t have a Linux version or maybe to play World of Warcraft or some other game. Fun fact, Valve’s Steam Deck uses a Wine-based solution to run games (called Proton)."
+  },
+  {
+    "Title": "Clean Code Tip: DRY or not DRY? - Code4IT",
+    "Url": "https://www.code4it.dev/cleancodetips/dry-or-not-dry/",
+    "Timestamp": "2022-10-11T11:01:35",
+    "Domain": "www.code4it.dev",
+    "Description": "DRY is a fundamental principle in software development. Should you apply it blindly?"
+  },
+  {
+    "Title": "Boosting Performance With Sealed Classes in .NET - Code Maze",
+    "Url": "https://code-maze.com/improve-performance-sealed-classes-dotnet/",
+    "Timestamp": "2022-10-11T09:05:22",
+    "Domain": "code-maze.com",
+    "Description": "Classes are one of the core concepts of OOP. Let's see how sealed classes help us in boosting performance in C# projects."
+  },
+  {
+    "Title": "GitHub - clemedon/Makefile_tutor: This project aims to create a crystal clear tutorial on a cryptic looking topic.",
+    "Url": "https://github.com/clemedon/Makefile_tutor",
+    "Timestamp": "2022-10-11T09:05:18",
+    "Domain": "github.com",
+    "Description": "This project aims to create a crystal clear tutorial on a cryptic looking topic. - GitHub - clemedon/Makefile_tutor: This project aims to create a crystal clear tutorial on a cryptic looking topic."
+  },
+  {
+    "Title": "How to generate header images for blogs and ASP.NET Core",
+    "Url": "https://blog.elmah.io/how-to-generate-header-images-for-blogs-and-asp-net-core/",
+    "Timestamp": "2022-10-11T07:03:17",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to generate header images using Bannerbear. The post also highlights how images can be generated using ASP.NET Core middleware."
+  },
+  {
+    "Title": "How to create a custom feature filter in ASP.NET Core - Code Rethinked",
+    "Url": "https://coderethinked.com/how-to-create-a-custom-feature-filter-in-asp-net-core/",
+    "Timestamp": "2022-10-11T06:03:49",
+    "Domain": "coderethinked.com",
+    "Description": "In this post, we will see how to create a custom feature filter for a specific user and also see how to configure custom feature filter."
+  },
+  {
+    "Title": "Sign in to your account",
+    "Url": "https://msauction.microsoft.com/items/DNH4M3",
+    "Timestamp": "2022-10-11T06:03:48",
+    "Domain": "msauction.microsoft.com",
+    "Description": "Can’t access your account?"
+  },
+  {
+    "Title": "Bottleneck #03: Product v Engineering",
+    "Url": "https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html",
+    "Timestamp": "2022-10-11T06:03:48",
+    "Domain": "martinfowler.com",
+    "Description": "Friction Between Product and Engineering; Lack of trust and\n  collaboration slowing down product growth"
+  },
+  {
+    "Title": "Refactoring a saga from the State pattern to the State monad",
+    "Url": "https://blog.ploeh.dk/2022/10/10/refactoring-a-saga-from-the-state-pattern-to-the-state-monad/",
+    "Timestamp": "2022-10-11T06:03:48",
+    "Domain": "blog.ploeh.dk",
+    "Description": "A slightly less unrealistic example in C#."
+  },
+  {
+    "Title": "Windows 95 went the extra mile to ensure compatibility of SimCity, other games",
+    "Url": "https://arstechnica.com/gadgets/2022/10/windows-95-went-the-extra-mile-to-ensure-compatibility-of-simcity-other-games/",
+    "Timestamp": "2022-10-11T03:04:05",
+    "Domain": "arstechnica.com",
+    "Description": "Pickup trucks full of software boxes, Win95VersionLie, and other tricks."
+  },
+  {
+    "Title": "The 4th year of SerenityOS",
+    "Url": "https://serenityos.org/happy/4th/",
+    "Timestamp": "2022-10-11T03:04:02",
+    "Domain": "serenityos.org",
+    "Description": "Well hello friends!\n\n          Today we celebrate the 4th birthday of SerenityOS,\n          counting from the\n          \n            first commit\n          \n          to the repository, on October 10th, 2018."
+  },
+  {
+    "Title": "What is Matter? - Is Home Assistant obsolete?",
+    "Url": "https://youtube.com/watch?v=4yIa4zJ1dD0",
+    "Timestamp": "2022-10-11T02:02:02",
+    "Domain": "youtube.com",
+    "Description": "Matter version 1.0 was released, so what does that mean, and what is it? Matter: https://buildwithmatter.com/Join this channel to get access to perks:https:/..."
+  },
+  {
+    "Title": "Thingiverse - Digital Designs for Physical Objects",
+    "Url": "https://www.thingiverse.com/",
+    "Timestamp": "2022-10-11T02:02:01",
+    "Domain": "www.thingiverse.com",
+    "Description": "Download files and build them with your 3D printer, laser cutter, or CNC. Thingiverse is a universe of things."
+  },
+  {
+    "Title": "Fan Theories",
+    "Url": "https://xkcd.com/2683/",
+    "Timestamp": "2022-10-11T01:03:47",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "GitHub - robconery/troys-book: A repository for feedback on Troy Hunt's book.",
+    "Url": "https://github.com/robconery/troys-book",
+    "Timestamp": "2022-10-11T00:02:08",
+    "Domain": "github.com",
+    "Description": "A repository for feedback on Troy Hunt's book. Contribute to robconery/troys-book development by creating an account on GitHub."
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "Title": "Signals vs Streams, in terms of backpressure (2023)",
+    "Url": "https://www.dustingetz.com/#/page/signals%20vs%20streams%2C%20in%20terms%20of%20backpressure%20(2023)?utm_source=hnblogs.substack.com",
+    "Timestamp": "2023-03-06T22:03:26",
+    "Domain": "www.dustingetz.com",
+    "Description": "Streams (event streams) represent an async sequence of discrete events, like key presses or network packets or financial transactions."
+  },
+  {
+    "Title": "You don't need a modern computer!",
+    "Url": "https://www.tomoliver.net/posts/you-dont-need-a-modern-computer",
+    "Timestamp": "2023-03-06T22:03:23",
+    "Domain": "www.tomoliver.net",
+    "Description": "Using hardware a decade old (2012) as a software developer in 2023"
+  },
+  {
+    "Title": "The serenity prayer and being a senior developer",
+    "Url": "https://andrewpwheeler.com/2023/03/06/the-serenity-prayer-and-being-a-senior-developer/",
+    "Timestamp": "2023-03-06T22:03:22",
+    "Domain": "andrewpwheeler.com",
+    "Description": "The serenity prayer, for those who don’t know it is: God, grant me the serenity to accept the things I cannot change, courage to change the things I can, and wisdom to know the difference. I think …"
+  },
+  {
+    "Title": "Slightly Intelligent Home | Gabriel's Blog",
+    "Url": "https://blog.gabrielsimmer.com/posts/slightly-intelligent-home/",
+    "Timestamp": "2023-03-06T22:03:22",
+    "Domain": "blog.gabrielsimmer.com",
+    "Description": "Generated with the Midjourney bot \"An internet connected house\"  I'm not overly-eager to automate my whole home. Leaving aside security concerns, it's also really, really expensive. However, there are some small quality-of-life things I've added over time or kept over the years that I've found very helpful. It's an evolving thing and there are a few \"smart home\" objects I would never, ever touch (internet connected \"smart\" deadlocks anyone?"
+  },
+  {
+    "Title": "Atomic commits made easy",
+    "Url": "https://www.birkey.co/2023-03-04-atomic-commits-made-easy.html",
+    "Timestamp": "2023-03-06T22:03:22",
+    "Domain": "www.birkey.co",
+    "Description": "04 Mar 2023"
+  },
+  {
+    "Title": "Layoffs, Anxiety and Trust",
+    "Url": "https://www.mikemcbrideonline.com/2023/02/layoffs-anxiety-and-trust/",
+    "Timestamp": "2023-03-06T22:03:21",
+    "Domain": "www.mikemcbrideonline.com",
+    "Description": "Ultimately this is what will define your culture and your employee engagement. Do your actions match your words? It's not enough to say you care about mental health, diversity, or developing the people who work for you. You had better put something behind that. If you've had layoffs recently, don't expect anyone to believe that you care about these things on your words alone. Those layoffs told everyone in the organization that they were expendable. They could be next, and the only thing that truly matters is how much they make for you. If you care about their growth, wellbeing and being a diverse company, you had better show up with something other than words."
+  },
+  {
+    "Title": "Veraport: Inside Korea’s dysfunctional application management",
+    "Url": "https://palant.info/2023/03/06/veraport-inside-koreas-dysfunctional-application-management/",
+    "Timestamp": "2023-03-06T22:03:21",
+    "Domain": "palant.info",
+    "Description": "While Wizvera Veraport is supposed to manage security applications easily, it suffers from a number of design flaws. In the worst case, these can lead to arbitrary websites installing malicious applications without the user noticing."
+  },
+  {
+    "Title": "Moving from numeric ID to UUID in existing app",
+    "Url": "https://ruby.mobidev.biz/posts/moving-from-id-to-uuid-in-existing-app/",
+    "Timestamp": "2023-03-06T22:03:21",
+    "Domain": "ruby.mobidev.biz",
+    "Description": "Why you should migrate to UUIDs?"
+  },
+  {
+    "Title": "Bun vs Node Benchmark - no one cares about speed as much as your CI does",
+    "Url": "https://grifel.dev/bun-dev-experience/",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "grifel.dev",
+    "Description": "Bun is fast. But honestly I almost don't care that much about the fact that it can handle more requests. What matters for me is how much it affects my dev experience. And I'll give you a TLDR; It's amazing! See how Bun performs in a non-typical benchmark."
+  },
+  {
+    "Title": "Startup Mistakes - Navigating Mentor Feedback",
+    "Url": "https://kyleplatt.com/startup-mistakes-navigating-mentor-feedback/",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "kyleplatt.com",
+    "Description": "Having mentors is important in all parts of life. The startup world is no exception as you do not have the luxury of spending time making trivial mistakes or operating aimlessly."
+  },
+  {
+    "Title": "Developer to Security Engineer career pivot",
+    "Url": "https://cspub.net/2023/03/04/career-switches.html",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "cspub.net",
+    "Description": "As I described in the previous post, some events might have a powerful influence on our lives and careers. And today I’d like to share the experience of a ma..."
+  },
+  {
+    "Title": "Azure DevOps Podcast: Christian Wenz: ASP .NET Core Security - Episode 233",
+    "Url": "http://feed.azuredevops.show/christian-wenz-aspnet-core-security-episode-233",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "feed.azuredevops.show",
+    "Description": "Christian Wenz works as a consultant, trainer, and author with a focus on web technologies and is the author or co-author of over 100 computer books. He regularly contributes to various IT magazines and speaks at conferences around the globe. Christian holds a \"Diplom\" (the German equivalent of a master’s degree) in Computer Sciences, and one in Business Informatics. In his day job, he is one of the founders of the web agency Arrabiata Solutions () with offices in Munich, Germany, and in London, UK. He also frequently works with development teams to make their applications better performing, more secure, and more reliable. &nbsp; Topics of Discussion: [2:51] Has Christian really written over 100 computer books? Christian talks about the books and the high points of technology that he has worked in. [7:16] What is the OWASP (Open Web Application Security Project) Top 10 list? [10:33] You always have to be aware that something may go wrong, and have a security mindset. [12:05] Again and again, make sure that you understand the fundamentals of web app security, because eventually, you will make a mistake in your code. [12:30] What is insecure design? [13:43] Christian talks about the enumeration scheme CWE: common weakness enumeration, which basically assigns a number to each risk or attack. [17:00] How should people be logging into their web sessions now with .NET7? [18:31] The major mistake you can make these days is to write your own authentication mechanism. [23:57] What is Christian’s favorite mechanism today for securing HTTP web services? [31:05] What are some of the tools Christian always reaches for, and how do we differentiate between static auditing and dynamically auditing an application? &nbsp; Mentioned in this Episode:     — New Video Podcast! Email us work  (Sponsor)  — Available on Amazon!  — Follow to stay informed about future events!  — Video podcast!          &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "Ergomake | Environments-as-a-Service",
+    "Url": "https://ergomake.dev/blog/building-cli-first/",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "ergomake.dev",
+    "Description": "Deploy previews from a docker-compose.yml for every pull-request. Spin-up remote development environments from the terminal."
+  },
+  {
+    "Title": "Finally published to the Terraform Cloud public registry",
+    "Url": "https://jq1.io/posts/finally_published_to_public_registry/",
+    "Timestamp": "2023-03-06T22:03:20",
+    "Domain": "jq1.io",
+    "Description": "Hey everyone,\nGreat news! The modules that power the TNT Architecture and Super Router projects for scaling VPCs and TGWs in AWS have been published to the Terraform Cloud public registry at v1.0.0, like FINALLY!\nTiered VPC-NG Centralized Router (includes Generate Routes to Other VPCs) Super Router Intra VPC Security Group Rule Super Intra VPC Security Group Rules The modules are mostly the same as what’s in my Terraform development repo at v1."
+  },
+  {
+    "Title": "I Have Been Doing CDN Caching Wrong",
+    "Url": "https://mattrighetti.com/2023/03/05/i-have-been-doing-cdn-caching-wrong.html",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "mattrighetti.com",
+    "Description": "One of the nice things that reaching the HN frontpage gives you is that your website,or content in general, will get flooded by requests by the community. Th..."
+  },
+  {
+    "Title": "If I died tomorrow, how long would my webapp keep running?",
+    "Url": "https://casparwre.de/blog/webapp-afterlife/",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "casparwre.de",
+    "Description": "How long could my app continue to function completely on its own?"
+  },
+  {
+    "Title": "The Page with No Code - Chris Coyier",
+    "Url": "https://chriscoyier.net/2023/02/22/the-page-with-no-code/",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "chriscoyier.net",
+    "Description": "Dan Q’s demo is pretty fun. You’ll see a white page in anything but Firefox. But in Firefox you’ll see a webpage-looking webpage only if you View Source you’ll see nothing at all. This is a classic CSS trick that relies on the fact that Firefox lets you apply CSS to a page by including […]"
+  },
+  {
+    "Title": "A Guide to Reclaim Our Attention",
+    "Url": "https://josem.co/a-guide-to-reclaim-our-attention/",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "josem.co",
+    "Description": "We’re losing our capacity to focus.\nWhen Apple introduced the iPhone in 2007, little we knew how much that would change the world, it was the first step towards the ubiquity of smartphones. There was a premonitory phrase from Steve Jobs: “iPhone is like having your life in your pocket”.[1]\niPhone presentation in 2007\nAnd we loved it.\nWe’ve embraced smartphones to the point where it’s hard to find someone who doesn’t own one, but we have yet to consider the consequences."
+  },
+  {
+    "Title": "Nix Quickstart",
+    "Url": "https://brianv.li/2023/03/06/nix-quickstart",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "brianv.li",
+    "Description": "Nix seems to stump a lot of newcomers. I had a few failed starts at trying at Nix myself, but I now find myself at a happy amount of knowledge where Nix is more helpful than hurtful."
+  },
+  {
+    "Title": "52 Factorial",
+    "Url": "https://czep.net/weblog/52cards.html",
+    "Timestamp": "2023-03-06T22:03:19",
+    "Domain": "czep.net",
+    "Description": "They seem harmless enough, 52 thin slices of laminated cardboard with colorful designs printed on their sides.  Yet, as another illustration of the mantra that complexity begins from the most simple systems, the number of variations that these 52 cards can produce is virtually endless.  The richness of most playing card games owes itself to this fact."
+  },
+  {
+    "Title": "Software Engineering Report Ranks TypeScript Among Top Skills to Learn/Know -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/03/06/software-engineer-report.aspx",
+    "Timestamp": "2023-03-06T21:01:49",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "  TypeScript ranked fourth on the survey-based report when respondents were asked 'What are the top 3 skills software engineers should learn/know right now in your opinion?'\n"
+  },
+  {
+    "Title": "csharplang/primary-constructors.md at main · dotnet/csharplang",
+    "Url": "https://github.com/dotnet/csharplang/blob/main/proposals/primary-constructors.md",
+    "Timestamp": "2023-03-06T20:03:28",
+    "Domain": "github.com",
+    "Description": "The official repo for the design of the C# programming language - csharplang/primary-constructors.md at main · dotnet/csharplang"
+  },
+  {
+    "Title": "The Reliable Web App Pattern for .NET: Reliability (Part 2)",
+    "Url": "https://youtube.com/watch?v=2IzmZ6DWOz4",
+    "Timestamp": "2023-03-06T19:01:33",
+    "Domain": "youtube.com",
+    "Description": "Welcome to the Enterprise App Pattern - Reliable Web Apps series of videos where you'll learn best practices and gain prescriptive guidance on how to build b..."
+  },
+  {
+    "Title": "Write a First Person Game in 2KB With Rust",
+    "Url": "https://grantshandy.github.io/posts/raycasting/",
+    "Timestamp": "2023-03-06T17:04:09",
+    "Domain": "grantshandy.github.io",
+    "Description": "Learn about ray casting and discover some fun math by creating a tiny 2KB game with Rust."
+  },
+  {
+    "Title": "I made JSON.parse() 2x faster",
+    "Url": "https://radex.io/react-native/json-parse/",
+    "Timestamp": "2023-03-06T17:04:08",
+    "Domain": "radex.io",
+    "Description": "Adventures in hacking Hermes VM’s C++ internals for fun and profit"
+  },
+  {
+    "Title": "Caveat Implementor! Key Recovery Attacks on MEGA",
+    "Url": "https://mega-caveat.github.io/",
+    "Timestamp": "2023-03-06T17:04:07",
+    "Domain": "mega-caveat.github.io",
+    "Description": "MEGA is a large-scale cloud storage and communication platform that aims to provide end-to-end encryption for stored data. \n                Recent work by Backendal, Haller and Paterson invalidated these security claims by showing practical attacks against MEGA that could be mounted by the MEGA service provider. \n                In response, the MEGA developers added lightweight sanity checks on the user RSA private keys used in MEGA, sufficient to prevent the previous attacks.\n                We analysed these new sanity checks and show how they themselves could be exploited to mount novel attacks on MEGA that recover a target user's RSA private key with only slightly higher attack complexity than the original attacks."
+  },
+  {
+    "Title": "I can create a read-only page, but why not a write-only page? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230306-00/?p=107902",
+    "Timestamp": "2023-03-06T16:03:38",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "At the end of the day, it comes down to processor support."
+  },
+  {
+    "Title": "The Awesome New Queue of .NET 6 That You Skipped",
+    "Url": "https://youtube.com/watch?v=4XSSC6uPFNA",
+    "Timestamp": "2023-03-06T15:03:02",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello everybody I'm Nick and in ..."
+  },
+  {
+    "Title": "Testing Roslyn Incremental Source Generators - Gérald Barré",
+    "Url": "https://www.meziantou.net/testing-roslyn-incremental-source-generators.htm",
+    "Timestamp": "2023-03-06T15:03:00",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to write a test to ensure a Roslyn Incremental Source Generator is working as expected."
+  },
+  {
+    "Title": "TimeSpan in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-timespan/",
+    "Timestamp": "2023-03-06T13:03:39",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we take a look at the TimeSpan value type in C#. We explore the fields, properties, and methods that it has to offer us."
+  },
+  {
+    "Title": "Return Multiple Values to a Method Caller In C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-return-multiple-values-to-a-method-caller/",
+    "Timestamp": "2023-03-06T09:03:31",
+    "Domain": "code-maze.com",
+    "Description": "This article covers how to return multiple values to a method caller in C# with five different scenarios and implementations."
+  },
+  {
+    "Title": "348: ChatGPT Comes to the Command Line",
+    "Url": "https://www.mergeconflict.fm/348",
+    "Timestamp": "2023-03-06T09:03:25",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "Frank builds a command line interface for ChatGTP with .NET!"
+  },
+  {
+    "Title": "Auto sign-out using ASP.NET Core Razor Pages with Azure AD B2C",
+    "Url": "https://damienbod.com/2023/03/06/auto-sign-out-using-asp-net-core-razor-pages-with-azure-ad-b2c/",
+    "Timestamp": "2023-03-06T09:03:25",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how an ASP.NET Core Razor Page application could implement an automatic sign-out when a user does not use the application for n-minutes. The application is secured using Azure AD…"
+  },
+  {
+    "Title": "Guaranteed fraud protection for ecommerce merchants",
+    "Url": "https://eye4fraud.com/.well-known/security.txt",
+    "Timestamp": "2023-03-06T07:03:26",
+    "Domain": "eye4fraud.com",
+    "Description": "See how it works"
+  },
+  {
+    "Title": "Eye4Fraud",
+    "Url": "https://eye4fraud.com/customers",
+    "Timestamp": "2023-03-06T07:03:26",
+    "Domain": "eye4fraud.com",
+    "Description": "You can too"
+  },
+  {
+    "Title": ".NET MAUI: Top 5 New Features for Powerful Desktop App Development ",
+    "Url": "https://www.infoq.com/news/2023/03/dotnet-maui-desktop-features/",
+    "Timestamp": "2023-03-06T07:03:25",
+    "Domain": "www.infoq.com",
+    "Description": "Discover the top 5 .NET MAUI features for desktop apps: multi-window support, top-level menu bar, context menus, tooltips, and pointer gestures. Transform your app development with these essential features, enhancing user experience and device capabilities. Maximize your app's potential and deliver stunning apps with .NET MAUI."
+  },
+  {
+    "Title": "Eye 4 Fraud Protection",
+    "Url": "https://eye4fraud.com/admin/auth/resetpasswordlink",
+    "Timestamp": "2023-03-06T07:03:25",
+    "Domain": "eye4fraud.com",
+    "Description": "Enter the email you used as login to the admin panel.  A password reset link will be sent to you by email."
+  },
+  {
+    "Title": "Word-As-Image for Semantic Typography",
+    "Url": "https://wordasimage.github.io/Word-As-Image-Page/",
+    "Timestamp": "2023-03-06T07:03:24",
+    "Domain": "wordasimage.github.io",
+    "Description": "Our word-as-image illustrations concentrate on changing only the geometry of the letters to\n                convey the meaning.\n                We deliberately do not change color or texture and do not use embellishments.\n                This allows simple, concise, black-and-white designs that convey the semantics clearly.\n\n                We rely on the prior of a pretrained Stable Diffusion model to connect between text and images, and utilize\n                the Score Distillation Sampling approach to encourage the appearance of the letter to reflect the\n                provided textual concept.\n\n                Given an input word, our method is applied separately for each letter.\n\n                We represent each letter as a closed vectorized shape."
+  },
+  {
+    "Title": "Word-As-Image for Semantic Typography",
+    "Url": "https://arxiv.org/abs/2303.01818",
+    "Timestamp": "2023-03-06T07:03:24",
+    "Domain": "arxiv.org",
+    "Description": "A word-as-image is a semantic typography technique where a word illustration\npresents a visualization of the meaning of the word, while also preserving its\nreadability. We present a method to create word-as-image illustrations\nautomatically. This task is highly challenging as it requires semantic\nunderstanding of the word and a creative idea of where and how to depict these\nsemantics in a visually pleasing and legible manner. We rely on the remarkable\nability of recent large pretrained language-vision models to distill textual\nconcepts visually. We target simple, concise, black-and-white designs that\nconvey the semantics clearly. We deliberately do not change the color or\ntexture of the letters and do not use embellishments. Our method optimizes the\noutline of each letter to convey the desired concept, guided by a pretrained\nStable Diffusion model. We incorporate additional loss terms to ensure the\nlegibility of the text and the preservation of the style of the font. We show\nhigh quality and engaging results on numerous examples and compare to\nalternative techniques."
+  },
+  {
+    "Title": "Imperative code is simpler than functional code! No, not at all, but you are more used to it. – planetgeek.ch",
+    "Url": "https://www.planetgeek.ch/2023/03/01/myths-about-f-imperative-code-is-simpler-than-functional-code-no-not-at-all-but-you-are-more-used-to-it/",
+    "Timestamp": "2023-03-06T06:01:37",
+    "Domain": "www.planetgeek.ch",
+    "Description": "A myth about F# that I hear repeatedly is that imperative code (e.g. loops) is simpler than functional code (e.g. folds). On one hand, simplicity is very subjective. On the other hand, simplicity is mostly determined by familiarity."
+  },
+  {
+    "Title": "Akka.NET v1.5 is Now Available",
+    "Url": "https://petabridge.com/blog/akkadotnet-v1.5-release/",
+    "Timestamp": "2023-03-06T06:01:37",
+    "Domain": "petabridge.com",
+    "Description": "As of today, Akka.NET v1.5 is now available as a stable release package on NuGet for both .NET Standard 2.0 and NET 6.0. This is a big release aimed at addressing pain points for current Akka.NET users."
+  },
+  {
+    "Title": "Simple HTTPS with Caddy Ingress on AKS",
+    "Url": "https://markheath.net/post/simple-aks-https-with-caddy",
+    "Timestamp": "2023-03-06T06:01:36",
+    "Domain": "markheath.net",
+    "Description": "Mark Heath's Development Blog"
+  },
+  {
+    "Title": "ChatGPT and the Future of Everything",
+    "Url": "https://www.codingblocks.net/podcast/chatgpt-and-the-future-of-everything/",
+    "Timestamp": "2023-03-06T03:01:43",
+    "Domain": "www.codingblocks.net",
+    "Description": "Podcast: Play in new window | Download"
+  }
+]

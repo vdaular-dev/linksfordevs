@@ -1,0 +1,303 @@
+[
+  {
+    "Title": "I switched to Cloudflare Tunnel and ditched Ngrok",
+    "Url": "https://aien.me/i-switched-to-cloudflare-tunnel/",
+    "Timestamp": "2024-03-10T22:03:51",
+    "Domain": "aien.me",
+    "Description": "Tired of Ngrok's limitations?  Discover how Cloudflare Tunnels can help you securely share your local development projects with the internet without deployments."
+  },
+  {
+    "Title": "Getting Started Programming Spaceships",
+    "Url": "https://staffordwilliams.com/blog/2024/03/09/getting-started-programming-spaceships/",
+    "Timestamp": "2024-03-10T22:03:50",
+    "Domain": "staffordwilliams.com",
+    "Description": "Getting started programming spaceships with typescript and spacetraders.io"
+  },
+  {
+    "Title": "Regex character “$” doesn't mean “end-of-string”",
+    "Url": "https://sethmlarson.dev/regex-%24-matches-end-of-string-or-newline?date=2024-03-09",
+    "Timestamp": "2024-03-10T22:03:50",
+    "Domain": "sethmlarson.dev",
+    "Description": "This article is about a bit of surprising behavior I recently discovered\nusing Python's regex module (re) while developing SBOM tooling for CPython.\n\nFolks who've worked with regular expressions be..."
+  },
+  {
+    "Title": "Why Can't Programmers Agree on Anything?",
+    "Url": "https://jesseduffield.com/Programmer-Disagreement/",
+    "Timestamp": "2024-03-10T22:03:49",
+    "Domain": "jesseduffield.com",
+    "Description": "The more you read up on software engineering topics online, the more you appreciate just how little agreement there is within the profession.\n\n"
+  },
+  {
+    "Title": "Read it never...",
+    "Url": "https://prertik.com/read-it-never",
+    "Timestamp": "2024-03-10T22:03:48",
+    "Domain": "prertik.com",
+    "Description": "I believe I’m a huge consumer of information just like every other people with the internet. The internet has blessed us with access to i..."
+  },
+  {
+    "Title": "LSTM Autoencoder for Anomaly Detection in Python with Keras – Minimatech",
+    "Url": "https://minimatech.org/lstm-autoencoder-for-anomaly-detection-in-python-with-keras/",
+    "Timestamp": "2024-03-10T22:03:48",
+    "Domain": "minimatech.org",
+    "Description": "Using LSTM Autoencoder to Detect Anomalies and Classify Rare Events"
+  },
+  {
+    "Title": "Perf is not enough",
+    "Url": "https://motherduck.com/blog/perf-is-not-enough/",
+    "Timestamp": "2024-03-10T22:03:48",
+    "Domain": "motherduck.com",
+    "Description": "Are database benchmarks still relevant ? Let's understand why it's a poor way to choose a database."
+  },
+  {
+    "Title": "The Browser Company feels gross to me right now",
+    "Url": "https://birchtree.me/blog/the-browser-company-feels-gross-to-me-right-now/",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "birchtree.me",
+    "Description": "John Voorhees writing about Arc’s latest escapades in MacStories Weekly: Issue 408\n\nIt’s that intermediate layer that makes me suspicious of Arc’s motives. The company is starting to feel like a wolf in sheep’s clothing, a browser with an interesting, playful design on the surface and"
+  },
+  {
+    "Title": "Notes from a data witch - A foundation in Julia",
+    "Url": "https://blog.djnavarro.net/posts/2024-03-01_julia-foundation/",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "blog.djnavarro.net",
+    "Description": "Part one of a three-part series in which I swear I was going to keep it brief but ended up writing a staggeringly long set of notes on learning a bit of Julia"
+  },
+  {
+    "Title": "LLM with Ollama and similarity search with Qdrant, vector database - Vincent Composieux - Tech Lead Full Stack / DevOps & Architect over Go, PHP Symfony, NodeJS, Cloud (AWS, GCP) and much more",
+    "Url": "https://vincent.composieux.fr/article/llm-with-ollama-and-similarity-search-with-qdrant-vector-database",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "vincent.composieux.fr",
+    "Description": "I have been interested in vector databases. Unlike a relational database, where data is organized into tables with rows and columns, in a vector database, data is represented as vectors in a high-dimensional space."
+  },
+  {
+    "Title": "eBPF Documentary",
+    "Url": "https://www.brendangregg.com/blog/2024-03-10/ebpf-documentary.html",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "www.brendangregg.com",
+    "Description": "eBPF Documentary"
+  },
+  {
+    "Title": "What do Norway and Namibia have in common? – Ian's notes",
+    "Url": "https://ivdl.co.za/2024/02/12/what-do-norway-and-namibia-have-in-common/",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "ivdl.co.za",
+    "Description": "Established in 2020, this site serves as a memory bank of notes and guides for me to reference again down the line, made public with the knowledge that others are likely to encounter simillar situations, especially in niche environments."
+  },
+  {
+    "Title": "Preparing to Attend KubeCon Europe 2024",
+    "Url": "https://davidgomes.com/preparing-to-attend-kubecon-europe-2024/",
+    "Timestamp": "2024-03-10T22:03:47",
+    "Domain": "davidgomes.com",
+    "Description": "As we’re one week away from KubeCon + CloudNativeCon Europe 2024, I figured I’d prepare in public and write about it here. If this sounds weird, keep in mind that the event lasts 4 days, and 223 talks will take place. Besides the talks, there’s workshops, unconferences, poster"
+  },
+  {
+    "Title": "Sorting with CUDA (SIMD) shuffling",
+    "Url": "https://winwang.blog/posts/bitonic-sort/",
+    "Timestamp": "2024-03-10T22:03:46",
+    "Domain": "winwang.blog",
+    "Description": "Full code on Github: https://github.com/wiwa/blog-code/blog-bitonic\nHacker News: https://news.ycombinator.com/item?id=39662618\nHi Link to heading Recently, I finished a batch at the Recurse Center… is what I would have said if this post were written when I intended to write it (i.e. 3 months ago). My project there focused on a questionable application of CUDA (mostly irrelevant to this post), but it got me thinking more about other GPU-friendly algorithms.\nInstead of my Recurse project (which I hope to write about in a later post), I want to simply begin writing about technical stuff I’ve played around with."
+  },
+  {
+    "Title": "We need to be the historians of our own software",
+    "Url": "https://offbyone.us/posts/history/",
+    "Timestamp": "2024-03-10T22:03:46",
+    "Domain": "offbyone.us",
+    "Description": "If we want to shape the future of our codebases, we need to understand the past and the people who made the choices that got us here."
+  },
+  {
+    "Title": "vorant94 | Divide and conquer: right concerns to separate",
+    "Url": "https://www.vorant94.io/posts/divide-and-conquer-right-concerns-to-separate",
+    "Timestamp": "2024-03-10T22:03:46",
+    "Domain": "www.vorant94.io",
+    "Description": "One of the core programming principles is separation of concerns. It guides programmers to separate applications into smaller units with distinct boundaries. My view on it went over a couple of iterations and I'd like to share with you what it means for me now"
+  },
+  {
+    "Title": "How modern camera shutters work - the last word",
+    "Url": "https://blog.kasson.com/the-last-word/how-modern-camera-shutters-work/",
+    "Timestamp": "2024-03-10T22:03:46",
+    "Domain": "blog.kasson.com",
+    "Description": "There seems to be quite a bit of confusion on the issue of how modern camera shutters work. I'm going to try to clear some of that up in this post. Some caveats: There are variations among camera manufacturers that I'm going to gloss over. This applies to CMOS sensors that employ at least one"
+  },
+  {
+    "Title": "Why Browsers Get Built - Infrequently Noted",
+    "Url": "https://infrequently.org/2024/03/why-browsers-get-built/",
+    "Timestamp": "2024-03-10T22:03:45",
+    "Domain": "infrequently.org",
+    "Description": "There are only two-and-a-half reasons to build a browser, and they couldn't be more different in intent and outcome, even when they look superficially similar."
+  },
+  {
+    "Title": "Double Space Court Case",
+    "Url": "https://azeemba.com/posts/double-space-court-case.html",
+    "Timestamp": "2024-03-10T22:03:45",
+    "Domain": "azeemba.com",
+    "Description": "A court case spends a few weeks arguing about the meaning of double space formatting."
+  },
+  {
+    "Title": "Context-switching - one of the worst productivity killers in the engineering industry",
+    "Url": "https://newsletter.eng-leadership.com/p/context-switching-one-of-the-worst",
+    "Timestamp": "2024-03-10T19:02:28",
+    "Domain": "newsletter.eng-leadership.com",
+    "Description": "Nothing gets done at the end of the day 🤯 Don't worry, we got you covered!"
+  },
+  {
+    "Title": "Revisited - let‘s publish a WinUI 3 app as a single exe",
+    "Url": "https://johnnys.news/2024/03/Revisited-WinUI-publishing-a-single-exe/",
+    "Timestamp": "2024-03-10T19:02:26",
+    "Domain": "johnnys.news",
+    "Description": "In this post, I will revisit the topic of publishing a single exe for a WinUI application. I tried to do this in the past and it was quite a challenge - that’s an understatement, it was impossible. Yo"
+  },
+  {
+    "Title": "S3 is files, but not a filesystem",
+    "Url": "https://calpaterson.com/s3.html",
+    "Timestamp": "2024-03-10T15:03:19",
+    "Domain": "calpaterson.com",
+    "Description": "\"Deep\" modules, mismatched interfaces - and why SAP is so painful"
+  },
+  {
+    "Title": "1BRC merykitty’s Magic SWAR: 8 Lines of Code Explained in 3,000 Words",
+    "Url": "https://questdb.io/blog/1brc-merykittys-magic-swar/",
+    "Timestamp": "2024-03-10T09:02:28",
+    "Domain": "questdb.io",
+    "Description": "Explore the ingenious method behind the One Billion Row Challenge's fastest temperature parsing technique, featuring a deep dive into Quân Anh Mai's (@merykitty) optimization code without loops or if statements, leveraging bitwise operations and ALU magic for unparalleled efficiency."
+  },
+  {
+    "Title": "Secure by Design: Google’s Perspective on Memory Safety",
+    "Url": "https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html",
+    "Timestamp": "2024-03-10T07:03:13",
+    "Domain": "security.googleblog.com",
+    "Description": "Alex Rebert, Software Engineer, Christoph Kern, Principal Engineer, Security Foundations Google’s Project Zero reports  that memory safety v..."
+  },
+  {
+    "Title": "Episode 314: Succinct's Platform, Prover Network and SP1 - ZK Podcast",
+    "Url": "https://zeroknowledge.fm/314-2/",
+    "Timestamp": "2024-03-10T01:03:53",
+    "Domain": "zeroknowledge.fm",
+    "Description": "Zero Knowledge Podcast is a show about zk proofs and other blockchain tech. Learn about the latest in zero knowledge research, cryptography-enabled privacy tech."
+  },
+  {
+    "Title": "ZK Taipei #5: ZK Day · Luma",
+    "Url": "https://lu.ma/6o5nwv3i",
+    "Timestamp": "2024-03-10T01:03:50",
+    "Domain": "lu.ma",
+    "Description": "🎉 Excited ZK Day? You should be! We've got a morning packed with talks & a hands-on workshop. The real party starts in the afternoon with our Demo Day. 🚀 Our hackers have been coding up a storm..."
+  },
+  {
+    "Title": "devsakura",
+    "Url": "https://devsakura.com/",
+    "Timestamp": "2024-03-10T01:03:49",
+    "Domain": "devsakura.com",
+    "Description": "devsakura"
+  },
+  {
+    "Title": "The Case Against Embed Links",
+    "Url": "https://jackfaller.xyz/post/the-case-against-embed-links",
+    "Timestamp": "2024-03-10T00:03:30",
+    "Domain": "jackfaller.xyz",
+    "Description": "8th March 2024"
+  },
+  {
+    "Title": "Should You Eliminate These 5 Things In The Gym? — Dr. Nick Golinvaux",
+    "Url": "https://www.nickgolinvauxmd.com/learn/what-to-eliminate-in-the-gym",
+    "Timestamp": "2024-03-10T00:03:29",
+    "Domain": "www.nickgolinvauxmd.com",
+    "Description": "⌚️  read time:  5 minutes"
+  },
+  {
+    "Title": "How to migrate data off Planetscale to another freely-hosted MySQL database in 5 minutes",
+    "Url": "https://blog.vikrantbhat.com/how-to-migrate-data-off-planetscale-to-another-freely-hosted-mysql-database-in-5-minutes",
+    "Timestamp": "2024-03-10T00:03:29",
+    "Domain": "blog.vikrantbhat.com",
+    "Description": "Introduction\nPlanetscale has sunset its much beloved free tier (hobby plan), as it was announced by its CEO a couple of days back in their blog post.\nOver the last 2-3 years, a lot of developers and even early-stage companies have managed to use Plan..."
+  },
+  {
+    "Title": "Don’t waste time thinking you have time",
+    "Url": "https://nightoftheknight.com/2024/01/26/dont-waste-time-thinking-you-have-time/",
+    "Timestamp": "2024-03-10T00:03:27",
+    "Domain": "nightoftheknight.com",
+    "Description": "I wasted time when I was younger. After high school, around 2005, I decided to make a massive website because I saw people making millions and knew I could be o"
+  },
+  {
+    "Title": "The AI Dilemma: When Large Language Model Training Reaches A Dead End",
+    "Url": "https://medium.com/@jankammerath/the-ai-dilemma-when-large-language-model-training-reaches-a-dead-end-e2cf1de4a2ad?sk=476dbf6daa9d254204f6e1ed04d0927f",
+    "Timestamp": "2024-03-10T00:03:27",
+    "Domain": "medium.com",
+    "Description": "AI is set out to replace hundreds of thousands of jobs not just in software engineering, but also in various other fields such as…"
+  },
+  {
+    "Title": "My 4-monitor computer setup (16-inches + 49-inches + 34-inches + 24-inches) - Alexey Guzey",
+    "Url": "https://guzey.com/my-computer-setup/",
+    "Timestamp": "2024-03-10T00:03:26",
+    "Domain": "guzey.com",
+    "Description": "Also see: Tools / Gear\n I use more monitors than any of my friends, the reasoning being approximately: if things fall out of my head when I don’t see them, why not just see all of them?\nHere’s a video that goes into the detail of my setup and explains how exactly I use every monitor:\n\n\nVideo’s table of contents:\nIntroduction\n0.1. 0:00 overview\n0.2. 0:25 Worker League phone app (coded by Misha Yagudin)\n0.3. 1:08 my standing desk that destroyed my roof\n1:48 a 16-inch laptop …"
+  },
+  {
+    "Title": "The Case For College – Zdziarski",
+    "Url": "https://www.zdziarski.com/blog/?p=12669",
+    "Timestamp": "2024-03-10T00:03:26",
+    "Domain": "www.zdziarski.com",
+    "Description": "Essays . Opinion"
+  },
+  {
+    "Title": "Stylized image binning algorithm | Benjamin Dicken",
+    "Url": "https://benjdd.com/posts/stylized-image-binning-algorithm/",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "benjdd.com",
+    "Description": "Check out my process for building a stylized image binning algorithm, for the web."
+  },
+  {
+    "Title": "Single Purpose Robots",
+    "Url": "https://www.samhillier.co/single-purpose-robots/",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "www.samhillier.co",
+    "Description": "The greatest single purpose robot of all time is probably the dishwasher. I think not having a dishwasher is the source of a lot of stress, breakups and house tension. It saves you time and having to deal with the filth of eating. It's more water and energy efficient. Literally"
+  },
+  {
+    "Title": "Open Source desires",
+    "Url": "https://bunkum.us/2024/03/08/open-source-desires.html",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "bunkum.us",
+    "Description": "Why do people do this open source anyway?"
+  },
+  {
+    "Title": "Regex character “$” doesn't mean “end-of-string”",
+    "Url": "https://sethmlarson.dev/regex-%24-matches-end-of-string-or-newline",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "sethmlarson.dev",
+    "Description": "This article is about a bit of surprising behavior I recently discovered\nusing Python's regex module (re) while developing SBOM tooling for CPython.\n\nFolks who've worked with regular expressions be..."
+  },
+  {
+    "Title": "Built to Last | Standard Notes End-To-End Encrypted Notes App",
+    "Url": "https://standardnotes.com/longevity",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "standardnotes.com",
+    "Description": "We follow principles that maximize longevity, not growth, period. Learn why Standard Notes is your notes app for good."
+  },
+  {
+    "Title": "2024-03-09 the purple streetscape",
+    "Url": "https://computer.rip/2024-03-09-the-purple-streetscape.html",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "computer.rip",
+    "Description": "Across the United States, streets are taking on a strange hue at night. Purple."
+  },
+  {
+    "Title": "Why Continuous Improvement Rarely Works",
+    "Url": "https://thinkingsideways.net/processes/continuous-improvement.html",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "thinkingsideways.net",
+    "Description": "Continuous improvement rarely works because many problems are caused by underlying systemic reasons. Things will only improve when these reasons are addressed."
+  },
+  {
+    "Title": "Humans As An Api",
+    "Url": "https://rushabhnagda11.github.io/2024/03/09/humans-as-an-API.html",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "rushabhnagda11.github.io",
+    "Description": "We’re born to serve Humans have always been a service. Almost always to other humans. So have SaaS companies. (with service literally being in their name)"
+  },
+  {
+    "Title": "Shutting down my Startup",
+    "Url": "https://suraj.sh/shutting-down-my-startup",
+    "Timestamp": "2024-03-10T00:03:25",
+    "Domain": "suraj.sh",
+    "Description": "Why I'm shutting down my startup."
+  }
+]

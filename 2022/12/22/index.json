@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Azure Static Web Apps: dynamic redirects with Azure Functions | I CAN MAKE THIS WORK",
+    "Url": "https://blog.johnnyreilly.com/2022/12/22/azure-static-web-apps-dynamic-redirects-azure-functions",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "blog.johnnyreilly.com",
+    "Description": "Azure Static Web Apps can perform URL redirects using the routes section in the staticwebapp.config.json. However it is limited. This post will demonstrate dynamic redirects with Azure Functions."
+  },
+  {
+    "Title": "Searching a data breach with ElasticSearch",
+    "Url": "https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "adamfallon.com",
+    "Description": "Intoduction"
+  },
+  {
+    "Title": "picoSYNTH by Johan Peitz",
+    "Url": "https://johanpeitz.itch.io/picosynth",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "johanpeitz.itch.io",
+    "Description": "A playful tool to make short beats and loops"
+  },
+  {
+    "Title": "Password requirements: myths and madness",
+    "Url": "https://www.franzoni.eu/password-requirements-myths-madness/",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "www.franzoni.eu",
+    "Description": "Password requirements are weird. It seems impossible to set a new password in many websites. Why?"
+  },
+  {
+    "Title": "2022 - The year English became a programming language",
+    "Url": "https://idogawa.dev/p/2022/12/2022-the-year-english-became-a-programming-language.html",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "idogawa.dev",
+    "Description": "Making a ruby powered sticky notes app by typing a few sentences using ChatGPT."
+  },
+  {
+    "Title": " Best of Metadata in 2022 ",
+    "Url": "http://muratbuffalo.blogspot.com/2022/12/best-of-metadata-in-2022.html",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "muratbuffalo.blogspot.com",
+    "Description": "It is time to reflect back on the year. Here are some selected papers I covered in 2022. Production systems Amazon Aurora: Design Considerat..."
+  },
+  {
+    "Title": "Cats, Pi, and Machine Learning",
+    "Url": "https://blog.aawadia.dev/2022/12/20/cats-pi-and-machine-learning/",
+    "Timestamp": "2022-12-22T22:04:27",
+    "Domain": "blog.aawadia.dev",
+    "Description": "IntroductionThere is a cat that wanders around my neighbourhood. I wanted to build something that would notify me whenever it came to my backyard. I thought to myself, if I can get a picture of my bac"
+  },
+  {
+    "Title": "State of OpenID Connect Providers",
+    "Url": "https://blog.m5e.de/post/state-of-openid-connect-providers/",
+    "Timestamp": "2022-12-22T22:04:26",
+    "Domain": "blog.m5e.de",
+    "Description": "In the last days I tried to integrate multiple OpenID Connect Providers into my Applications (currently mostly Alphalerts and some dev projects)\nSo far, I only got Google to work, and even this is currently limited to 100 Users. In this blog post, I want to explain why the integration of OpenID Connect Providers is such a struggle by showing multiple examples.\nBut before I show the examples, you should know that there are not so many big OpenID Connect Providers compared to the big OAuth2 Providers."
+  },
+  {
+    "Title": "How to visualize your system architecture using the C4 model?",
+    "Url": "https://jorzel.github.io/how-to-visualize-your-system-architecture-using-the-c4-model/",
+    "Timestamp": "2022-12-22T22:04:26",
+    "Domain": "jorzel.github.io",
+    "Description": "As a software developer or system architect you often have a task to visualize your existing or potential application architecture for other people. Your audience can be software developers, but also business stakeholders (Customers, Product Owners, CEO, etc.). The architecture diagram should take on a distinctive look depending on whatever group you choose to present for your work. In this article, I’d want to give an illustration of how the C4 model might be used to easily target the various audiences mentioned above.\n\n"
+  },
+  {
+    "Title": "Trading with BDDs",
+    "Url": "https://taeric.github.io/trading-with-bdds.html",
+    "Timestamp": "2022-12-22T22:04:26",
+    "Domain": "taeric.github.io",
+    "Description": "At work, we had a fun \"hackathon\" where we looked at finding the \"best\"\nbuy/sell strategy in a stock history.  Not shockingly, finding the single\nbest option was easy.  Extending to find the best  trades expectedly\nslowed down everyone.  I know that I am terrible at dynamic programming\ntechniques, so I mostly sat that one out.  I did give it a try later, but\ndidn't come up with anything of note.  (And I was shown a leetcode writeup\non the normal methods for doing this.)"
+  },
+  {
+    "Title": "Not Getting Hacked",
+    "Url": "https://www.jefftk.com/p/not-getting-hacked",
+    "Timestamp": "2022-12-22T22:04:26",
+    "Domain": "www.jefftk.com",
+    "Description": "A lot of people get hacked or phished, and being completely secure is somewhere between difficult and impossible, especially if someone trying hard to hack you in particular. But there are several simple things you can do that decrease your risk a lot:     Use a password manager that fills in fields automatically.  Configure 2FA with security keys.  Read \"sign in with provider\" (oAuth) screens car"
+  },
+  {
+    "Title": "Personal backups and file archival",
+    "Url": "https://joshmock.com/post/backups-and-archival/",
+    "Timestamp": "2022-12-22T22:04:26",
+    "Domain": "joshmock.com",
+    "Description": "How to organize terabytes of personal data, for fun and definitely not profit!"
+  },
+  {
+    "Title": "Implementing the MySQL server protocol for fun and profit",
+    "Url": "https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/",
+    "Timestamp": "2022-12-22T22:04:25",
+    "Domain": "ochagavia.nl",
+    "Description": "In December 2021, a company from San Francisco asked me to port a Rust library to Java. The task seemed simple, but it ended up requiring a from-scratch implementation of the MySQL protocol and even fixing a bug in the main Rust MySQL client! Below follows an account of the adventure.\nThe task Originally, the idea was to port the msql-srv library from Rust to Java. For context, msql-srv makes it possible to create a fake MySQL/MariaDB server, which accepts MySQL connections and handles them with custom logic (instead of having a real database behind it)."
+  },
+  {
+    "Title": "Alone",
+    "Url": "https://youtube.com/watch?v=VW5qXJY1wsA",
+    "Timestamp": "2022-12-22T20:01:40",
+    "Domain": "youtube.com",
+    "Description": "Provided to YouTube by Reservoir Media Management, Inc.Alone · Fun Boy ThreeFun Boy Three℗ Chrysalis Records LimitedReleased on: 1982-03-20Artist: Fun Boy Th..."
+  },
+  {
+    "Title": "Textual - A year of building for the terminal",
+    "Url": "https://textual.textualize.io/blog/2022/12/20/a-year-of-building-for-the-terminal/",
+    "Timestamp": "2022-12-22T20:01:39",
+    "Domain": "textual.textualize.io",
+    "Description": "Textual is a TUI framework for Python, inspired by modern web development."
+  },
+  {
+    "Title": "Azure DevOps Podcast: David Pine: NET Content Development - Episode 223",
+    "Url": "http://feed.azuredevops.show/david-pine-net-content-development-episode-223",
+    "Timestamp": "2022-12-22T20:01:39",
+    "Domain": "feed.azuredevops.show",
+    "Description": "David Pine works in Developer Relations at Microsoft, focusing on .NET and Azure developer content. He is recognized as a Google Developer Expert in Web Technologies and is a Twilio Champion. David focuses on the developer community, actively seeking opportunities to share knowledge through speaking engagements around the world. David advocates for open-source, the .NET Foundation, C#, TypeScript, SignalR, Reactive Extensions, Azure, and .NET. He's a founding member and co-host of the On .NET Live show. Follow David on Twitter at @davidpine7. &nbsp; Topics of Discussion: [2:41] What were the high points along David’s career that steered him in the direction of Microsoft, and how has that evolved? [4:46] Jeffrey’s background in music and how he got into it. [8:20] Does David believe that the age of the JavaScript SPA front end for .NET developers is over? [10:32] David discusses his role as a technical writer, with more on the content developer side. [11:36] David’s show On .NET Live celebrates .NET developers from all over the world. [12:40] Microsoft has been doing a lot of work recently with GitHub actions. How do we monitor their different versions and use them to the best of our abilities? [21:17] What level of maturity is Microsoft’s Orleans, and why does David like using it? [27:10] What are some new samples coming out? [30:05] What exactly is “globbing”? &nbsp; Mentioned in this Episode:  — New video podcast!   (Sponsor)  — Available on Amazon!   — Follow to stay informed about future events!  programming@palermo.network         &nbsp;   Learning Blazor (davidpine.net)  &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "O9d.AspNet.FluentValidation 0.1.1",
+    "Url": "https://www.nuget.org/packages/O9d.AspNet.FluentValidation",
+    "Timestamp": "2022-12-22T19:01:54",
+    "Domain": "www.nuget.org",
+    "Description": "Fluent Validation extensions for ASP.NET Core Minimal APIs"
+  },
+  {
+    "Title": "GitHub - benfoster/o9d-aspnet: Extensions for ASP.NET Core",
+    "Url": "https://github.com/benfoster/o9d-aspnet",
+    "Timestamp": "2022-12-22T19:01:54",
+    "Domain": "github.com",
+    "Description": "Extensions for ASP.NET Core. Contribute to benfoster/o9d-aspnet development by creating an account on GitHub."
+  },
+  {
+    "Title": "Fallout, Fallout 2 and Fallout Tactics all free from the Epic Games Store",
+    "Url": "https://www.eurogamer.net/fallout-fallout-2-and-fallout-tactics-all-free-from-the-epic-games-store",
+    "Timestamp": "2022-12-22T18:02:38",
+    "Domain": "www.eurogamer.net",
+    "Description": "Fallout, Fallout 2 and Fallout Tactics are free from the Epic Games Store. The old-school isometric role-playing games …"
+  },
+  {
+    "Title": "Thank you to our maintainers | The GitHub Blog",
+    "Url": "https://github.blog/2022-06-24-thank-you-to-our-maintainers/",
+    "Timestamp": "2022-12-22T17:03:31",
+    "Domain": "github.blog",
+    "Description": "To celebrate Maintainer Month, GitHub has invested an additional $500,000 to help sponsor the open source projects that it depends on."
+  },
+  {
+    "Title": "Settling the Biggest Await Async Debate in .NET",
+    "Url": "https://youtube.com/watch?v=aaC16Fv2zes",
+    "Timestamp": "2022-12-22T15:02:11",
+    "Domain": "youtube.com",
+    "Description": "Join the NDC Conferences Giveaway: https://mailchi.mp/nickchapsas/ndcCheck out my courses: https://nickchapsas.comBecome a Patreon and get source code access..."
+  },
+  {
+    "Title": "Is there a fixed virtual address that the system promises never to use for anything, so I can use it?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221222-00/?p=107609",
+    "Timestamp": "2022-12-22T15:02:09",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Everything is up for grabs."
+  },
+  {
+    "Title": "IEnumerable in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-ienumerable/",
+    "Timestamp": "2022-12-22T11:04:20",
+    "Domain": "code-maze.com",
+    "Description": "The IEnumerable interface is the base for all the non-generic collections that can be enumerated. It helps us iterate through a collection"
+  },
+  {
+    "Title": "Energy Geek Out 2022",
+    "Url": "https://www.spreaker.com/user/16677006/dotnetrocks-1825-energy-geek-out-2022",
+    "Timestamp": "2022-12-22T07:03:00",
+    "Domain": "www.spreaker.com",
+    "Description": "End of the year, time for a geek out on energy! Richard chats with Carl about the usual modern power generation sources, including solar and wind, and a breakthrough in the drilling method for geothermal energy. The conversation dives into small modular reactors (SMR) and the commitment in Canada to build the first SMR! Molten Salt Reactors have made some progress in 2022, but the extensive conversation is about fusion power. From the NIF announcement to Commonwealth Fusion and others - there's lots to talk"
+  },
+  {
+    "Title": "7 Tips for Building a Good Web API",
+    "Url": "https://www.telerik.com/blogs/7-tips-building-good-web-api",
+    "Timestamp": "2022-12-22T06:02:41",
+    "Domain": "www.telerik.com",
+    "Description": "Creating a good API requires some extra care. Check out in this blog post 7 tips that will help you create a good API in ASP.NET Core."
+  },
+  {
+    "Title": "The problem with XAML",
+    "Url": "https://www.mrlacey.com/2022/12/the-problem-with-xaml.html",
+    "Timestamp": "2022-12-22T06:02:40",
+    "Domain": "www.mrlacey.com",
+    "Description": "Regardless of how you feel about XAML, you'll have a very hard job convincing me it's the best it can be. What do I mean? There's not a lot ..."
+  },
+  {
+    "Title": "Introduction to the Node.js reference architecture, part 11: Typical development workflows | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2022/12/21/typical-development-workflows",
+    "Timestamp": "2022-12-22T06:02:40",
+    "Domain": "developers.redhat.com",
+    "Description": "When discussing architecture, consider that developers use various environments and workflows. We describe 5 typical workflows in part 11 of the Node.js"
+  },
+  {
+    "Title": "I want to be wrong about XAML!",
+    "Url": "https://www.mrlacey.com/2022/12/i-want-to-be-wrong-about-xaml.html",
+    "Timestamp": "2022-12-22T06:02:39",
+    "Domain": "www.mrlacey.com",
+    "Description": "I've been rethinking how XAML looks and is written. It's not controversial to say that XAML has its criticisms. There are lots of things tha..."
+  },
+  {
+    "Title": "Challenging algorithms and data structures every programmer should try",
+    "Url": "https://austinhenley.com/blog/challengingalgorithms.html",
+    "Timestamp": "2022-12-22T04:03:56",
+    "Domain": "austinhenley.com",
+    "Description": "Bored of algorithms? Here are my recommendations that are exciting, understandable, and sometimes even useful!"
+  },
+  {
+    "Title": "From RESTful HTTP API to gRPC | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=o7MHxvcjFm4",
+    "Timestamp": "2022-12-22T00:03:31",
+    "Domain": "youtube.com",
+    "Description": "With an increasing need for scalability and performance dictated by the modern web, it becomes harder and harder to choose an API paradigm for inter-service ..."
+  }
+]

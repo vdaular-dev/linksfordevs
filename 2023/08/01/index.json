@@ -1,0 +1,415 @@
+[
+  {
+    "Title": "Explicitly Route Messages with Wolverine",
+    "Url": "https://jeremydmiller.com/2023/08/01/explicitly-route-messages-with-wolverine/",
+    "Timestamp": "2023-08-01T23:02:58",
+    "Domain": "jeremydmiller.com",
+    "Description": "TL;DR: Wolverine message handler signatures can lead to easier unit testing code than comparable “IHandler of T” frameworks. Most of the time I think you can just allow Wolverine to han…"
+  },
+  {
+    "Title": "Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate",
+    "Url": "https://www.nature.com/articles/d41586-023-02444-5",
+    "Timestamp": "2023-08-01T23:02:57",
+    "Domain": "www.nature.com",
+    "Description": "A European agency is considering sweeping restrictions on fluorinated chemicals used in jet engines, electric cars, refrigeration systems, semiconductors and many consumer products."
+  },
+  {
+    "Title": "The best UUID type for a database Primary Key - Vlad Mihalcea",
+    "Url": "https://vladmihalcea.com/uuid-database-primary-key/",
+    "Timestamp": "2023-08-01T23:02:50",
+    "Domain": "vladmihalcea.com",
+    "Description": "Learn what UUID type works best for a database Primary Key column and why a time-sorted TSID is more effective than the standard UUID."
+  },
+  {
+    "Title": "Common wire-to-board, wire-to-wire connectors, and crimp tools – Matt's Tech Pages",
+    "Url": "https://www.mattmillman.com/info/crimpconnectors/",
+    "Timestamp": "2023-08-01T23:02:50",
+    "Domain": "www.mattmillman.com",
+    "Description": "As someone who builds a lot of electrical things, one of the perhaps most unexciting yet fundamental subject areas is connectors. The range of connectors available and in-use today is trully astonishing. Big sellers like Digi-key/Farnell/Mouser literally have tens of thousands of product lines in their connectors category!"
+  },
+  {
+    "Title": "A Whirlwind Tour of Games Color Management",
+    "Url": "https://fusha.moe/blog/posts/whirlwind-games-color/",
+    "Timestamp": "2023-08-01T23:02:49",
+    "Domain": "fusha.moe",
+    "Description": "A coworker recently asked me this question during a discussion about color management and encoding. I wrote the original version of this…"
+  },
+  {
+    "Title": "An Indie Hacker’s Idea Sieve",
+    "Url": "https://shubhamjain.co/2023/08/01/indie-hackers-idea-sieve/",
+    "Timestamp": "2023-08-01T23:02:49",
+    "Domain": "shubhamjain.co",
+    "Description": "I believe it's critical to know what you like working on. What can, ultimately, provide long-term satisfaction for yourself? In the context of side projects, the perk of knowing it loud and clear is that it creates a mental filter to weed out bad ideas. All my projects, so far, have had the same trajectory: get excited about the idea, ship it, enjoy some attention, and soon enough, get bored with it. After the peak, the loss of excitement is so much that I find it painful to work on it again. "
+  },
+  {
+    "Title": "Skill, Luck, and Imitation [Did Elon Musk get lucky?] - Luca Dellanna",
+    "Url": "https://luca-dellanna.com/musk-luck/",
+    "Timestamp": "2023-08-01T23:02:49",
+    "Domain": "luca-dellanna.com",
+    "Description": "Is Elon Musk's wealth mostly due to skill or luck? And what can we learn out of it? How does it inform our strategies?"
+  },
+  {
+    "Title": "dAppling Network: A Simple Solution for Hosting Censorship-Resistant Web3 Frontends",
+    "Url": "https://www.yuricunha.xyz/blog/dAppling",
+    "Timestamp": "2023-08-01T23:02:49",
+    "Domain": "www.yuricunha.xyz",
+    "Description": "dAppling Network is a new web hosting service that is built specifically for Web3 protocols. It uses the InterPlanetary File System (IPFS) to store and serve frontend code, which makes it censorship-resistant and decentralized. dAppling also provides a number of other features that make it a valuable tool for Web3 developers, including verifiable deployments, smart contract-controlled frontends, and performance."
+  },
+  {
+    "Title": "Pixar, Adobe, Apple, Autodesk, and NVIDIA form Alliance for OpenUSD",
+    "Url": "https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/",
+    "Timestamp": "2023-08-01T23:02:49",
+    "Domain": "www.apple.com",
+    "Description": "Pixar, Adobe, Apple, Autodesk, and NVIDIA today announced the Alliance for OpenUSD to promote the standardization of Universal Scene Description."
+  },
+  {
+    "Title": "How to cut down your reddit usage",
+    "Url": "https://gavinong.com/posts/reddit",
+    "Timestamp": "2023-08-01T23:02:48",
+    "Domain": "gavinong.com",
+    "Description": "Find yourself endless scrolling reddit? Want to quit or cut down on usage?\nFollow this simple 2 step plan:"
+  },
+  {
+    "Title": "The web is imploding",
+    "Url": "https://anihil.com/the-web-is-imploding",
+    "Timestamp": "2023-08-01T23:02:48",
+    "Domain": "anihil.com",
+    "Description": "Reddit's API changes have left a lot of subreddits in the dark, the long-term users in fury and have broken Google search. Elon's mood ..."
+  },
+  {
+    "Title": "Dan Stroot · ChatGPT-4 is More Creative than You",
+    "Url": "https://www.danstroot.com/posts/2023-08-01-chatgpt-4-is-more-creative-than-you",
+    "Timestamp": "2023-08-01T23:02:48",
+    "Domain": "www.danstroot.com",
+    "Description": "We think that generative AI creativity is limited by its training data and algorithms, and therefore can produce technically proficient content, but not truly novel and innovative content. We like to believe that our own creativity and innovation, rooted in personal experience, knowledge, and human emotions results in intentionality and emotional depth that cannot be replicated by AI. Current research contradicts that view."
+  },
+  {
+    "Title": "Throw away your first draft of your code",
+    "Url": "https://ntietz.com/blog/throw-away-your-first-draft/",
+    "Timestamp": "2023-08-01T23:02:48",
+    "Domain": "ntietz.com",
+    "Description": "Monday, July 31, 2023"
+  },
+  {
+    "Title": "User Feedback",
+    "Url": "https://blog.jim-nielsen.com/2023/user-feedback/",
+    "Timestamp": "2023-08-01T23:02:48",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web."
+  },
+  {
+    "Title": "Stopping at 90%",
+    "Url": "https://austinhenley.com/blog/90percent.html",
+    "Timestamp": "2023-08-01T23:02:47",
+    "Domain": "austinhenley.com",
+    "Description": "A common pattern is to stop short of the real finish line for your project. A little evangelism, documentation, and polish can go a long way."
+  },
+  {
+    "Title": "YouTube",
+    "Url": "https://youtube.com/watch?v=shorts/9THhYkKdDKg",
+    "Timestamp": "2023-08-01T22:02:29",
+    "Domain": "youtube.com",
+    "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube."
+  },
+  {
+    "Title": "Never Be The 2nd Option #dakotajohnson #howtobesingle #breakup",
+    "Url": "https://youtube.com/watch?v=9THhYkKdDKg",
+    "Timestamp": "2023-08-01T21:03:19",
+    "Domain": "youtube.com",
+    "Description": "Never Be The 2nd Option #dakotajohnson #howtobesingle #breakupWoman says she wants to take a break to explore other options and after that fails attempts to ..."
+  },
+  {
+    "Title": "Demystifying the Options Pattern in .NET",
+    "Url": "https://youtube.com/watch?v=TVC8hGQ2Jwg",
+    "Timestamp": "2023-08-01T21:03:19",
+    "Domain": "youtube.com",
+    "Description": "In this video, we explore a powerful technique in .NET called the options pattern. We'll cover the different interfaces available, compare using options to m..."
+  },
+  {
+    "Title": "Let's Learn .NET - AI",
+    "Url": "https://youtube.com/watch?v=ZpBkrrYWPTE",
+    "Timestamp": "2023-08-01T20:02:14",
+    "Domain": "youtube.com",
+    "Description": "Learn about AI, how to get started, and using ChatGPT to improve text completions. Come to learn something new and leave with something that we all built, to..."
+  },
+  {
+    "Title": "How Leaders Will Use AI to Unleash Creativity",
+    "Url": "https://www.microsoft.com/en-us/worklab/podcast/how-leaders-will-use-ai-to-unleash-creativity/",
+    "Timestamp": "2023-08-01T20:02:12",
+    "Domain": "www.microsoft.com",
+    "Description": "Microsoft Vice President of Design and AI John Maeda on the promise and potential of artificial intelligence"
+  },
+  {
+    "Title": "Coffee and Open Source Conversation - Alyssa Miller",
+    "Url": "https://youtube.com/watch?v=_auQk58t6xI",
+    "Timestamp": "2023-08-01T19:02:28",
+    "Domain": "youtube.com",
+    "Description": "Alyssa Miller is a hacker who, in her pre-teens, bought her first computer and hacked her way into a paid dial-up community platform. She grew up in hacker c..."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=sdOk6E8p0Hg",
+    "Timestamp": "2023-08-01T19:02:28",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "Linear Ridge Regression Using C# -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/08/01/llr-using-csharp.aspx",
+    "Timestamp": "2023-08-01T19:02:28",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Implementing LRR from scratch is harder than using a library like scikit-learn, but it helps you customize your code, makes it easier to integrate with other systems, and gives you a complete understanding of how LRR works."
+  },
+  {
+    "Title": "A Room-Temperature Superconductor? New Developments",
+    "Url": "https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments",
+    "Timestamp": "2023-08-01T18:02:24",
+    "Domain": "www.science.org",
+    "Description": ""
+  },
+  {
+    "Title": ".NET Conf 2023 - Celebrating the Release of .NET 8! - Save the Date! - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2023-celebrating-the-release-of-dotnet-8-save-the-date/",
+    "Timestamp": "2023-08-01T18:02:22",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing .NET Conf 2023 - a free, three-day virtual developer event that celebrates the release of .NET 8."
+  },
+  {
+    "Title": ".NET R&D Digest (July, 2023)",
+    "Url": "https://olegkarasik.wordpress.com/2023/08/01/net-rd-digest-july-2023/",
+    "Timestamp": "2023-08-01T18:02:22",
+    "Domain": "olegkarasik.wordpress.com",
+    "Description": "This issue includes bits of AI, architecture, software development, testing, low-level optimisations, patterns, operating systems, performance and of course, a lot of .NET."
+  },
+  {
+    "Title": "MassTransit Bus Stop - SQL Transport Update",
+    "Url": "https://youtube.com/watch?v=F0lQUYSvSh8",
+    "Timestamp": "2023-08-01T17:03:45",
+    "Domain": "youtube.com",
+    "Description": "So much progress on the SQL transport since it was first announced. The SQL Database Transport for MassTransit is a game-changing addition that will transfor..."
+  },
+  {
+    "Title": "Introduction to IoT with .NET and Meadow",
+    "Url": "https://youtube.com/watch?v=0eUQcD295tY",
+    "Timestamp": "2023-08-01T17:03:45",
+    "Domain": "youtube.com",
+    "Description": "James is joined Bryan from Wilderness Labs to talk about what products and frameworks they offer for .NET developers to build IoT solutions with .NET. Bryan ..."
+  },
+  {
+    "Title": "Insidious implicit statistical assumptions | Andrey Akinshin",
+    "Url": "https://aakinshin.net/posts/insidious-assumptions/",
+    "Timestamp": "2023-08-01T17:03:43",
+    "Domain": "aakinshin.net",
+    "Description": "Recently, I was rereading &ldquo;Robust Statistics: The Approach Based on Influence Functions&rdquo; by Frank Hampel et al. and I found this quote about the difference between robust and nonparametric statistics (page 9):\nRobust statistics considers the eff..."
+  },
+  {
+    "Title": "Nim v2.0 released",
+    "Url": "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html",
+    "Timestamp": "2023-08-01T16:02:26",
+    "Domain": "nim-lang.org",
+    "Description": "The Nim team is proud and happy to announce Nim version 2.0."
+  },
+  {
+    "Title": "Azure DevOps Podcast: Giorgi Dalakishvili: Beyond Relational Data with Entity Framework - Episode 255",
+    "Url": "http://feed.azuredevops.show/giorgi-dalakishvili-beyond-relational-data-with-entity-framework-episode-255",
+    "Timestamp": "2023-08-01T15:02:44",
+    "Domain": "feed.azuredevops.show",
+    "Description": "Giorgi Dalakishvili is a software developer with more than a decade of experience. He works mainly with C#,  MVC/ Core, REST, WCF, Xamarin, Android, iOS, Entity Framework, Azure, SQL Server, and Oracle. &nbsp; Giorgi is an open-source author and contributor on GitHub and a member of the .NET Foundation and InfoQ Editor. &nbsp; Topics of Discussion: [3:33] Giorgi has worked with all the frameworks and libraries that Microsoft has come out with over the past 10‒15 years. He discusses using Entity Framework and starting his small speaking engagements. [5:12]  is a website where you can put out some different topics that you’d be willing to speak on, and just reach out to different user groups to take the plunge and do some public speaking for the first time. [6:03] Other types of data with Entity Framework beyond relational data, such as hierarchical data type from SQL Server. [8:49] How it simplifies your life. [9:28] What about JSON? Are there any limitations on the back-end database? [13:00] Is the support in EF Core 7.0 good enough to give a try if you’re going against SQL Server? [14:09] What other types of data are interesting to work with with Entity Framework? [14:36] Using geospatial data. What does it even look like? [18:30] Full text search, and how it’s different from a regular text search. [23:20] There are a lot of features to uncover in relational databases that we aren’t even aware of yet. [26:22] There are some problems and some tasks that are better solved with non-relational databases, but the majority can overlap between the two systems. &nbsp; Mentioned in this Episodes:     — New Video Podcast! Email us   (Sponsor)  — Available on Amazon!  — Follow to stay informed about future events!  — Video podcast!    &nbsp; Want to Learn More? Visit  for show notes and additional episodes. "
+  },
+  {
+    "Title": "Inside STL: The pair and the compressed pair - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230801-00/?p=108509",
+    "Timestamp": "2023-08-01T14:02:57",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Two fields in one object, how hard can it be?"
+  },
+  {
+    "Title": "Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit",
+    "Url": "https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/",
+    "Timestamp": "2023-08-01T13:03:32",
+    "Domain": "www.code4it.dev",
+    "Description": "Integration Tests are incredibly useful: a few Integration Tests are often more useful than lots of Unit Tests. Let’s learn some advanced capabilities of WebApplicationFactory."
+  },
+  {
+    "Title": "Form Validation and More with Data Triggers - .NET MAUI 101",
+    "Url": "https://youtube.com/watch?v=K9jDlt0_5Us",
+    "Timestamp": "2023-08-01T13:03:32",
+    "Domain": "youtube.com",
+    "Description": "Using data binding and no code at all, you can still disable controls and change their appearance! That is exactly what we'll see in this video! Curious abou..."
+  },
+  {
+    "Title": "The BEST Design Pattern for Maintainable Tests",
+    "Url": "https://youtube.com/watch?v=pwj_sw31mfw",
+    "Timestamp": "2023-08-01T13:03:31",
+    "Domain": "youtube.com",
+    "Description": "What is the Builder Design Pattern and how to use it to build better and maintainable tests?💎 Be a Patreon to get the source code: https://patreon.com/gsfer..."
+  },
+  {
+    "Title": "The Worst API Ever Made",
+    "Url": "https://caseymuratori.com/blog_0025",
+    "Timestamp": "2023-08-01T13:03:29",
+    "Domain": "caseymuratori.com",
+    "Description": "A call-by-call look at context switch logging with the Event Tracing for Windows API."
+  },
+  {
+    "Title": "Where To Place Your Validation Code In Clean Architecture",
+    "Url": "https://youtube.com/watch?v=OhQA4PDdp0Q",
+    "Timestamp": "2023-08-01T12:03:11",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicValidation is critical for a secure and maintainable application. S..."
+  },
+  {
+    "Title": "DevOps Practices for Azure Infrastructure - Continuous Operations & Continuous Monitoring",
+    "Url": "https://www.tpeczek.com/2023/08/devops-practices-for-azure.html",
+    "Timestamp": "2023-08-01T12:03:10",
+    "Domain": "www.tpeczek.com",
+    "Description": "This the last post in my series on implementing DevOps practices for Azure infrastructure where I complete the operations side of the loop."
+  },
+  {
+    "Title": "Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_{6O}$ showing levitation at room temperature and atmospheric pressure and mechanism",
+    "Url": "https://arxiv.org/abs/2307.12037",
+    "Timestamp": "2023-08-01T12:03:09",
+    "Domain": "arxiv.org",
+    "Description": "A material called LK-99, a modified-lead apatite crystal structure with the\ncomposition Pb$_{10-x}$Cu$_x$(PO$_4$)$_{6O}$ ($0.9<x<1.1$), has been\nsynthesized using the solid-state method. The material exhibits the Ohmic metal\ncharacteristic of Pb(6s1) above its superconducting critical temperature,\n$T_c$, and the levitation phenomenon as Meissner effect of a superconductor at\nroom temperature and atmospheric pressure below $T_c$. A LK-99 sample shows\n$T_c$ above 126.85$^\trc$C (400 K). We analyze that the possibility of\nroom-temperature superconductivity in this material is attributed to two\nfactors: the first being the volume contraction resulting from an\ninsulator-metal transition achieved by substituting Pb with Cu, and the second\nbeing on-site repulsive Coulomb interaction enhanced by the structural\ndeformation in the one-dimensional(D) chain (Pb2-O$_{1/2}$-Pb2 along the\nc-axis) structure owing to superconducting condensation at $T_c$. The mechanism\nof the room-temperature $T_c$ is discussed by 1-D BR-BCS theory."
+  },
+  {
+    "Title": "Introduction to Bicep - The Evolution of ARM Templates",
+    "Url": "https://www.claudiobernasconi.ch/2023/08/01/introduction-to-bicep-the-evolution-of-arm-templates/",
+    "Timestamp": "2023-08-01T11:02:40",
+    "Domain": "www.claudiobernasconi.ch",
+    "Description": "Bicep is a transpiler that transforms domain-specific language into ARM templates. It's the next generation of Microsoft's infrastructure as code tooling."
+  },
+  {
+    "Title": "How to get ChatGPT to Stop Apologizing?",
+    "Url": "https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing",
+    "Timestamp": "2023-08-01T11:02:38",
+    "Domain": "genai.stackexchange.com",
+    "Description": "Is there a way to stop ChatGPT from excessively apologizing, when challenged, even when ChatGPT is correct in its reply?\nChatGPT will start apologizing and start the replies with sentences like:\n\nI "
+  },
+  {
+    "Title": "icanhazip: How a simple IP address tool survived a deluge of users | APNIC Blog",
+    "Url": "https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/",
+    "Timestamp": "2023-08-01T10:04:28",
+    "Domain": "blog.apnic.net",
+    "Description": "Major Hayden made a simple and free tool to check the public-facing IP address of infrastructure. Its popularity nearly killed it."
+  },
+  {
+    "Title": "Coding Faster with dotNetTips.com Spargine 6: Aug 2023 Release",
+    "Url": "https://dotnettips.wordpress.com/2023/08/01/coding-faster-with-dotnettips-com-spargine-6-aug-2023-release/",
+    "Timestamp": "2023-08-01T09:03:34",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "Spargine 6 (v2023.6.8.1) is now available, an open-source project offering NuGet packages for .NET 6 & 7 with new classes, methods, and significant speed improvements. The release introduces a …"
+  },
+  {
+    "Title": "Effective Mocking With NSubstitute in .NET - Code Maze",
+    "Url": "https://code-maze.com/csharp-effective-mocking-with-nsubstitute/",
+    "Timestamp": "2023-08-01T09:03:31",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will delve into the world of mocking with NSubstitute in .NET and explore how it can help us create comprehensive tests."
+  },
+  {
+    "Title": "Introducing IDisposableOf<T>: A New Design Pattern",
+    "Url": "https://itnext.io/introducing-idisposableof-t-a-new-design-pattern-e62aa4b2d7b0?source=rss-6d96c8d6335b------2",
+    "Timestamp": "2023-08-01T08:03:18",
+    "Domain": "itnext.io",
+    "Description": "In the dynamic world of software development, innovation is the name of the game. Developers constantly seek to create tools and practices…"
+  },
+  {
+    "Title": "Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite",
+    "Url": "https://arxiv.org/abs/2307.16892",
+    "Timestamp": "2023-08-01T07:03:11",
+    "Domain": "arxiv.org",
+    "Description": "A recent report of room temperature superconductivity at ambient pressure in\nCu-substituted apatite (`LK99') has invigorated interest in the understanding\nof what materials and mechanisms can allow for high-temperature\nsuperconductivity. Here I perform density functional theory calculations on\nCu-substituted lead phosphate apatite, identifying correlated isolated flat\nbands at the Fermi level, a common signature of high transition temperatures in\nalready established families of superconductors. I elucidate the origins of\nthese isolated bands as arising from a structural distortion induced by the Cu\nions and a chiral charge density wave from the Pb lone pairs. These results\nsuggest that a minimal two-band model can encompass much of the low-energy\nphysics in this system. Finally, I discuss the implications of my results on\npossible superconductivity in Cu-doped apatite"
+  },
+  {
+    "Title": "Semiconducting transport in Pb10-xCux(PO4)6O sintered from Pb2SO5 and Cu3P",
+    "Url": "https://arxiv.org/abs/2307.16802",
+    "Timestamp": "2023-08-01T07:03:11",
+    "Domain": "arxiv.org",
+    "Description": "The very recent claim on the discovery of ambient-pressure room-temperature\nsuperconductivity in modified lead-apatite has immediately excited sensational\nattention in the entire society, which is fabricated by sintering lanarkite\n(Pb2SO5) and copper(I) phosphide (Cu3P). To verify this exciting claim, we have\nsuccessfully synthesized Pb2SO5, Cu3P, and finally the modified lead-apatite\nPb10-xCux(PO4)6O. Detailed electrical transport and magnetic properties of\nthese compounds were systematically analyzed. It turns out that Pb2SO5 is a\nhighly insulating diamagnet with a room-temperature resistivity of ~7.18x10^9\nOhm.cm and Cu3P is a paramagnetic metal with a room-temperature resistivity of\n~5.22x10^-4 Ohm.cm. In contrast to the claimed superconductivity, the resulting\nPb10-xCux(PO4)6O compound sintered from Pb2SO5 and Cu3P exhibits\nsemiconductor-like transport behavior with a large room-temperature resistivity\nof ~1.94x10^4 Ohm.cm although our compound shows greatly consistent x-ray\ndiffraction spectrum with the previously reported structure data. In addition,\nwhen a pressed Pb10-xCux(PO4)6O pellet is located on top of a commercial\nNd2Fe14B magnet at room temperature, no repulsion could be felt and no magnetic\nlevitation was observed either. These results imply that the claim of a\nroom-temperature superconductor in modified lead-apatite may need more careful\nre-examination, especially for the electrical transport properties."
+  },
+  {
+    "Title": "Help the Library of Congress Create Video Games that Improve Public Knowledge of Civics | In Custodia Legis",
+    "Url": "https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/",
+    "Timestamp": "2023-08-01T07:03:11",
+    "Domain": "blogs.loc.gov",
+    "Description": "The Friends of the Library of Congress are sponsoring a challenge to help improve public knowledge of civics–that is, the rights and responsibilities of citizens-by asking video games developers to create fun, lightweight video games related to civics that incorporate Library of Congress resources."
+  },
+  {
+    "Title": "Joshua Jesper Krægpøth Ryder – The Future Is Here! WebAssembly for .NET Developers – Recording Available | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2023/07/31/joshua-jesper-kraegpoth-ryder-the-future-is-here-webassembly-for-dotnet-developers-recording-available/",
+    "Timestamp": "2023-08-01T06:02:50",
+    "Domain": "blog.jetbrains.com",
+    "Description": "This is a recording of a live JetBrains webinar about WebAssembly explained to the .NET audience and why it's important."
+  },
+  {
+    "Title": "How to handle transactions in Node.js reference architecture | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/07/31/how-handle-transactions-nodejs-reference-architecture",
+    "Timestamp": "2023-08-01T06:02:49",
+    "Domain": "developers.redhat.com",
+    "Description": "This installment of our Node.js reference architecture series covers integrating transactions into your application. (Part 15)"
+  },
+  {
+    "Title": "Using C# source generation for enhanced logging - Bruno Sonnino",
+    "Url": "https://blog.revolution.com.br/2023/07/29/using-c-source-generation-for-enhanced-logging/",
+    "Timestamp": "2023-08-01T06:02:49",
+    "Domain": "blog.revolution.com.br",
+    "Description": "In the last article, I wrote about logging in C# and how to use log formatters to suit your needs. Once you start adding logs to your applications, you start to notice there is too much info that you must add to every message: the event id, level, scopes, besides the message (which you can"
+  },
+  {
+    "Title": "Top React Testing Libraries in 2023: A Comprehensive Review",
+    "Url": "https://www.sitepoint.com/top-react-testing-libraries-in-2023/",
+    "Timestamp": "2023-08-01T06:02:48",
+    "Domain": "www.sitepoint.com",
+    "Description": "In this article, we will explore some of the top React testing libraries. We'll examine their features, and look at the pros and cons."
+  },
+  {
+    "Title": "Help! I accidently enabled HSTS–on localhost",
+    "Url": "https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html",
+    "Timestamp": "2023-08-01T06:02:48",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "I ran into an issue after accidently enabling HSTS for a website on localhost. This was not an issue for the original website that was runni..."
+  },
+  {
+    "Title": "The unit test that you should try not to write",
+    "Url": "https://medium.com/@csharpwriter/the-unit-test-that-you-should-try-not-to-write-c68dab266903",
+    "Timestamp": "2023-08-01T05:04:50",
+    "Domain": "medium.com",
+    "Description": "Unit testing is an essential part of software development, and it involves testing small, isolated pieces of code, known as units, to…"
+  },
+  {
+    "Title": "EI012: AI Processing Service (Part 6)",
+    "Url": "https://youtube.com/watch?v=Qj8dBTzmb-g",
+    "Timestamp": "2023-08-01T05:04:47",
+    "Domain": "youtube.com",
+    "Description": "In this session, we will be continuing to develop validation logic for a list of inputs for AI Processing Services."
+  },
+  {
+    "Title": "Understanding Python String Data Type | Pro Code Guide",
+    "Url": "https://procodeguide.com/python-tutorials/understanding-python-string/",
+    "Timestamp": "2023-08-01T05:04:47",
+    "Domain": "procodeguide.com",
+    "Description": "In this article, we will learn about Python string data types. We will explore how to assign text or multiple-line text to a string in Python programming"
+  },
+  {
+    "Title": "Claims of Room Temperature and Ambient Pressure Superconductor",
+    "Url": "https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-11?post=94266395#post-94266395",
+    "Timestamp": "2023-08-01T05:04:46",
+    "Domain": "forums.spacebattles.com",
+    "Description": "Compilation of all Claims/Reports of Replication Efforts underway that I know of (all Reliability of Claim classifications are based on my personal judgement, do not take them at face value, read the details and judge for yourself) :\n\nOfficial/Professional/Institutional\n\n\n\nGroup\nCountry..."
+  },
+  {
+    "Title": "The Fall of Stack Overflow, Explained",
+    "Url": "https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained?r=1nwcx",
+    "Timestamp": "2023-08-01T03:03:17",
+    "Domain": "newsletter.devmoh.co",
+    "Description": "Stack Overflow's decline is partly self-imposed, but also somewhat out if its control."
+  },
+  {
+    "Title": "Bing Preview Release Notes: Dark Mode",
+    "Url": "https://blogs.bing.com/search/july-2023/Bing-Preview-Release-Notes-Dark-Mode",
+    "Timestamp": "2023-08-01T00:03:16",
+    "Domain": "blogs.bing.com",
+    "Description": "This week, browsing the web just got easier on your eyes and better for your laptop battery—we released dark mode for Bing Chat! This feature now works in both Bing Chat and Bing Chat Enterprise in your desktop browser, and it’s already available in the Bing mobile app. Dark mode also changes the appearance of the search page on Bing.com. \n"
+  }
+]

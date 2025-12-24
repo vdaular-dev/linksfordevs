@@ -1,0 +1,310 @@
+[
+  {
+    "Title": "basysKom GmbH | How To Use Modern QML Tooling in Practice",
+    "Url": "https://www.basyskom.de/2024/how-to-use-modern-qml-tooling-in-practice/",
+    "Timestamp": "2024-04-29T22:01:31",
+    "Domain": "www.basyskom.de",
+    "Description": "Qt 5.15 introduced “Automatic Type Registration”. With it, a C++ class can be marked as “QML_ELEMENT” to be automatically registered to the QML engine. Qt 6 takes this to the next level and builds all of its tooling around the so-called QML Modules. Let’s talk about what this new infrastructure means to your application in practice and how to benefit from it in an existing project."
+  },
+  {
+    "Title": "Five ways to pass parameters to Apache APISIX",
+    "Url": "https://blog.frankel.ch/pass-parameters-apisix/",
+    "Timestamp": "2024-04-29T22:01:29",
+    "Domain": "blog.frankel.ch",
+    "Description": "I recently read 6 Ways To Pass Parameters to Spring REST API. Though the title is a bit misleading, as it’s unrelated to REST, it does an excellent job listing all ways to send parameters to a Spring application. I want to do the same for Apache APISIX; it’s beneficial when you write a custom plugin.   General setup   The general setup uses Docker Compose and static configuration. I’ll have one plugin per way to pass parameters.   docker-compose.yml  services:   httpbin:     ima"
+  },
+  {
+    "Title": "How to use LLMs: Summarize long documents",
+    "Url": "https://www.ruxu.dev/articles/ai/summarize-long-documents/",
+    "Timestamp": "2024-04-29T22:01:28",
+    "Domain": "www.ruxu.dev",
+    "Description": ""
+  },
+  {
+    "Title": "Ryan Bigg - One year with the Ergodox EZ",
+    "Url": "https://ryanbigg.com/2024/04/one-year-with-the-ergodox-ez",
+    "Timestamp": "2024-04-29T22:01:28",
+    "Domain": "ryanbigg.com",
+    "Description": "One year with the Ergodox EZ"
+  },
+  {
+    "Title": "Calendar types in Watches",
+    "Url": "https://arslan.io/2024/04/29/calendar-types-in-watches/",
+    "Timestamp": "2024-04-29T22:01:28",
+    "Domain": "arslan.io",
+    "Description": "Mechanical watches that can show a date correctly are pretty rare, and the ones that do are very expensive (starting at $10k). But why? Let me explain."
+  },
+  {
+    "Title": "Home Run Modeling Part 1: Base Model",
+    "Url": "https://lucaspauker.com/articles/home-run-modeling-part-1/",
+    "Timestamp": "2024-04-29T22:01:27",
+    "Domain": "lucaspauker.com",
+    "Description": "Why home runs? Some of the best moments in baseball games are home runs. Something about hitting the ball out of the park is satisfying. Since baseball season just started, I wanted to model a part of the game. I decided to model home runs since they are pretty rare events but should still be able to be accurately predicted. When I say accurately predicted, I mean that we can accurately predict the probability of a player hitting a home run."
+  },
+  {
+    "Title": "Navigating the Path to Management: Tips for Software Engineers - Zeitvice",
+    "Url": "https://blog.zeitvice.com/posts/navigating-the-path-to-management-tips-for-software-engineers/",
+    "Timestamp": "2024-04-29T22:01:27",
+    "Domain": "blog.zeitvice.com",
+    "Description": "Explore key strategies for software engineers transitioning to management roles. Learn about leveraging technical skills, understanding business objectives, and enhancing leadership capabilities."
+  },
+  {
+    "Title": "4 takeaways from my first year at a software company | Mikołaj Biernat",
+    "Url": "https://mikolajbiernat.com/blog/4-takeaways-from-my-first-year-at-a-software-company",
+    "Timestamp": "2024-04-29T22:01:27",
+    "Domain": "mikolajbiernat.com",
+    "Description": "An agency designer discovers a new world."
+  },
+  {
+    "Title": "The Internet Archive's last-ditch effort to save itself",
+    "Url": "https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself",
+    "Timestamp": "2024-04-29T22:01:26",
+    "Domain": "lunduke.locals.com",
+    "Description": "Connect with Lunduke and other members of Lunduke community"
+  },
+  {
+    "Title": "The case for API-driven Design 🦄",
+    "Url": "https://blog.hardlyoverthought.com/p/the-case-for-api-driven-design",
+    "Timestamp": "2024-04-29T22:01:25",
+    "Domain": "blog.hardlyoverthought.com",
+    "Description": "While they come from the software industry, we can use APIs as a mental model to bake better design into our products right from the start."
+  },
+  {
+    "Title": "Want to Use Your Iphone for Many Years? Learn How to Maintain Your Battery’s Health  - Pqrmedia",
+    "Url": "https://pqrmedia.com/2024/04/08/want-to-use-your-iphone-for-many-years-learn-how-to-maintain-your-batterys-health/",
+    "Timestamp": "2024-04-29T22:01:25",
+    "Domain": "pqrmedia.com",
+    "Description": "Learn everything you need to know about iPhone battery life, including tips on how to make your battery last longer. Find answers to common questions and optimize your device's performance"
+  },
+  {
+    "Title": "Product-Market Fit Framework for B2B Startups",
+    "Url": "http://www.ofbizian.com/2024/04/product-market-fit-framework-for-b2b.html",
+    "Timestamp": "2024-04-29T22:01:24",
+    "Domain": "www.ofbizian.com",
+    "Description": "Finding product-market fit (PMF) is arguably the most critical challenge faced by startups. Navigating the path to PMF can often feel like m..."
+  },
+  {
+    "Title": "What is zinc good for? — LongevityLab Blog",
+    "Url": "https://longevitylab.app/zink",
+    "Timestamp": "2024-04-29T22:01:24",
+    "Domain": "longevitylab.app",
+    "Description": "Measure how different foods, supplements and behaviors affect your sleep & physical health."
+  },
+  {
+    "Title": "Can we RAG the whole web?",
+    "Url": "https://philippeoger.com/pages/can-we-rag-the-whole-web/",
+    "Timestamp": "2024-04-29T22:01:24",
+    "Domain": "philippeoger.com",
+    "Description": "RAG, or Retrieval-Augmented Generation, is a method where a language model such as ChatGPT first searches for useful information in a large database and then uses this information to improve its responses."
+  },
+  {
+    "Title": "What Computers Cannot Do: The Consequences of Turing-Completeness",
+    "Url": "https://gavinhoward.com/2024/03/what-computers-cannot-do-the-consequences-of-turing-completeness/",
+    "Timestamp": "2024-04-29T22:01:24",
+    "Domain": "gavinhoward.com",
+    "Description": "I have found a lot of programmers that do not understand the Halting Problem and its implications, so here is my attempt to fix that."
+  },
+  {
+    "Title": "1000x the telemetry at 0.01x the cost",
+    "Url": "https://mattklein123.dev/2024/04/17/1000x-the-telemetry/",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "mattklein123.dev",
+    "Description": "This is my third post in a series on a different take on modern observability. In my first post I talked about why modern observability is so expensive. In my second post I talked about whether we rea"
+  },
+  {
+    "Title": "Answering Every Question You Have About IMEI Numbers",
+    "Url": "https://tedium.co/2024/04/27/mobile-phone-imei-number-history/",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "tedium.co",
+    "Description": "Where did the IMEI number come from, why is it so freaking long, and why does your phone need it? If you’ve ever wondered, we’ve got you covered."
+  },
+  {
+    "Title": "the Stabilizer Problem",
+    "Url": "https://ryan.norbauer.com/journal/the-stabilizer-problem/",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "ryan.norbauer.com",
+    "Description": "Stabilizers have long been the great unsolved problem in the world of keyboards. Their function is straightforward; they prevent longer keys (such as the spacebar) from seesawing upward at one end when the opposite end is pressed down. Current solutions serve that purpose well enough, but the issue is: they"
+  },
+  {
+    "Title": "Power of Libraries",
+    "Url": "https://levelupeduc.wordpress.com/2024/04/29/power-of-libraries/",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "levelupeduc.wordpress.com",
+    "Description": "The Home Doctor – Practical Medicine for Every Household – is a 304 page doctor written and approved guide on how to manage most health situations when help is not on the way. The …"
+  },
+  {
+    "Title": "Cressi Nepto for Subsurface – ",
+    "Url": "https://sjaeckel.github.io/2024/04/23/Cressi-Nepto-for-Subsurface.html",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "sjaeckel.github.io",
+    "Description": "embedded software and other interesting stuff\n"
+  },
+  {
+    "Title": "The Metaverse is Dead",
+    "Url": "https://brianchristner.io/the-metaverse-is-dead/",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "brianchristner.io",
+    "Description": "The Metaverse trend has declined due to practical issues, while AI continues to grow in significant areas such as enterprise software, demonstrating its broader utility and long-term viability."
+  },
+  {
+    "Title": "Language is a Bottleneck for Thought",
+    "Url": "https://aethermug.com/posts/language-is-a-bottleneck-for-thought",
+    "Timestamp": "2024-04-29T22:01:23",
+    "Domain": "aethermug.com",
+    "Description": "The definitive case in favor of headjacks?"
+  },
+  {
+    "Title": "ryjo.codes - Forgoing Implicity and Using Abstractions",
+    "Url": "https://ryjo.codes/articles/forgoing-implicity-using-the-algorithm-clips.html",
+    "Timestamp": "2024-04-29T22:01:22",
+    "Domain": "ryjo.codes",
+    "Description": "This article describes the term higher level programming languages and explores what makes CLIPS one."
+  },
+  {
+    "Title": "No Web Without Women",
+    "Url": "https://nowebwithoutwomen.com/",
+    "Timestamp": "2024-04-29T21:01:04",
+    "Domain": "nowebwithoutwomen.com",
+    "Description": "An educational website featuring a collection of innovations by women in the fields of computer science and technology."
+  },
+  {
+    "Title": "The Journey to Accessible Apps: Keyboard Accessibility and .NET MAUI - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/the-journey-to-accessible-apps-keyboard-accessible/",
+    "Timestamp": "2024-04-29T20:01:04",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Are your apps keyboard accessible? Learn more about keyboard traps and find out how you can ensure your .NET MAUI apps are keyboard accessible."
+  },
+  {
+    "Title": "Webb captures iconic Horsehead Nebula in unprecedented detail",
+    "Url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_captures_iconic_Horsehead_Nebula_in_unprecedented_detail",
+    "Timestamp": "2024-04-29T19:01:07",
+    "Domain": "www.esa.int",
+    "Description": "The NASA/ESA/CSA James Webb Space Telescope has captured the sharpest infrared images to date of one of the most distinctive objects in our skies, the Horsehead Nebula. These observations show a part of the iconic nebula in a whole new light, capturing its complexity with unprecedented spatial resolution."
+  },
+  {
+    "Title": "Doppler Effect",
+    "Url": "https://xkcd.com/2926/",
+    "Timestamp": "2024-04-29T18:03:21",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Memory Management Every Programmer Should Know",
+    "Url": "https://zacharylee.substack.com/p/memory-management-every-programmer?r=1g2tj4&triedRedirect=true",
+    "Timestamp": "2024-04-29T16:01:00",
+    "Domain": "zacharylee.substack.com",
+    "Description": "What data is put on the stack and what data is put on the heap?"
+  },
+  {
+    "Title": "Awaiting a set of handles in C++/WinRT - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240429-00/?p=109707",
+    "Timestamp": "2024-04-29T16:01:00",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It's easier thank you think."
+  },
+  {
+    "Title": "Atomic Nucleus Excited with Laser: A Breakthrough after Decades",
+    "Url": "https://www.tuwien.at/en/tu-wien/news/news-articles/news/lange-erhoffter-durchbruch-erstmals-atomkern-mit-laser-angeregt",
+    "Timestamp": "2024-04-29T13:01:06",
+    "Domain": "www.tuwien.at",
+    "Description": "The \"thorium transition\", which physicists have been looking for for decades, has now been excited for the first time with lasers. This paves the way for revolutionary high precision technologies, including nuclear clocks."
+  },
+  {
+    "Title": "Collection Performance: Detecting Items in a ConcurrentBag<>",
+    "Url": "https://dotnettips.wordpress.com/2024/04/29/collection-performance-detecting-items-in-a-concurrentbag/",
+    "Timestamp": "2024-04-29T10:01:01",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "The comparison between using the Count property and the IsEmpty() method in a ConcurrentBag reveals that IsEmpty() is 2.95 times more efficient based on benchmark results. This indicates a signific…"
+  },
+  {
+    "Title": " How does a List know that you changed it while enumerating it?",
+    "Url": "https://steven-giesel.com/blogPost/6c39fcc6-2218-44b9-8280-deadb995aac2",
+    "Timestamp": "2024-04-29T07:01:00",
+    "Domain": "steven-giesel.com",
+    "Description": "Everyone falls for that and tries to change a list while enumerating it greated by the System.InvalidOperationException: Collection was modified; enumeration operation may not execute. message. But how does the List know that you changed it? Let's find out.\n"
+  },
+  {
+    "Title": "Announcing TypeScript 5.5 Beta - TypeScript",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/",
+    "Timestamp": "2024-04-29T06:01:21",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today we are excited to announce the availability of TypeScript 5.5 Beta. To get started using the beta, you can get it through NuGet, or through npm with the following command: npm install -D typescript@beta  Here’s a quick list of what’s new in TypeScript 5.5!"
+  },
+  {
+    "Title": "React 19 Beta Released! ",
+    "Url": "https://www.telerik.com/blogs/react-19-beta-released",
+    "Timestamp": "2024-04-29T06:01:16",
+    "Domain": "www.telerik.com",
+    "Description": "Exciting news: React 19 Beta is now available! It’s been on the horizon for quite some time now, so it’s thrilling to finally get our hands on it."
+  },
+  {
+    "Title": "Blazor Basics: Localization Using Resource Files",
+    "Url": "https://www.telerik.com/blogs/blazor-basics-localization-using-resource-files",
+    "Timestamp": "2024-04-29T06:01:14",
+    "Domain": "www.telerik.com",
+    "Description": "In this article, we will learn how to localize Blazor applications using resource files."
+  },
+  {
+    "Title": "Measuring Performance with the JavaScript Performance API",
+    "Url": "https://www.telerik.com/blogs/measuring-performance-javascript-performance-api",
+    "Timestamp": "2024-04-29T06:01:14",
+    "Domain": "www.telerik.com",
+    "Description": "The JavaScript Performance API, a helpful tool designed to provide us with a set of standards we can use to measure the performance of web applications."
+  },
+  {
+    "Title": "Google hates this one weird trick for having NO bugs!",
+    "Url": "https://www.compositional-it.com/news-blog/google-hates-this-one-weird-trick-for-having-no-bugs/",
+    "Timestamp": "2024-04-29T06:01:13",
+    "Domain": "www.compositional-it.com",
+    "Description": "Every once in a while Google For Developers pops up on my Instagram feed. They often present small programming-related challenges. This one jumped out to me in particular: View this post on Instagram A post shared by Google for Developers (@googlefordevs) The video focusses on this block of code*: for (var i = 0; i…"
+  },
+  {
+    "Title": "Unleashing GitHub Copilot for Infrastructure as Code",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/unleashing-github-copilot-for-infrastructure-as-code/ba-p/4124031",
+    "Timestamp": "2024-04-29T06:01:13",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": " \nIntroduction\nIn the ever-evolving landscape of infrastructure management, the demand for efficient, scalable, and reliable solutions has never been higher..."
+  },
+  {
+    "Title": "Adventures serializing absolutely everything in C# – isadora",
+    "Url": "https://isadorasophia.com/articles/serialization/",
+    "Timestamp": "2024-04-29T06:01:12",
+    "Domain": "isadorasophia.com",
+    "Description": "![](/images/html/me.png)"
+  },
+  {
+    "Title": "Open sourcing MS-DOS 4.0  - Microsoft Open Source Blog",
+    "Url": "https://cloudblogs.microsoft.com/opensource/2024/04/25/open-sourcing-ms-dos-4-0/",
+    "Timestamp": "2024-04-29T06:01:12",
+    "Domain": "cloudblogs.microsoft.com",
+    "Description": "In partnership with IBM, Microsoft is releasing the source code to MS-DOS 4.00 under the MIT license. Learn more."
+  },
+  {
+    "Title": "Switch expression for void methods",
+    "Url": "https://bartwullems.blogspot.com/2024/04/switch-expression-for-void-methods.html",
+    "Timestamp": "2024-04-29T06:01:12",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "While preparing yesterday’s post, I was wondering if I could rewrite the following switch statement to use the new .NET 8 switch expression ..."
+  },
+  {
+    "Title": "Stop Using Regex for Connection Strings",
+    "Url": "https://adamstorr.co.uk/blog/stop-using-regex-for-updating-connection-strings/",
+    "Timestamp": "2024-04-29T06:01:11",
+    "Domain": "adamstorr.co.uk",
+    "Description": "Ever had to update a connection string in code? Used a regex to replace the database name? There is a better way!"
+  },
+  {
+    "Title": "Phi-3-mini in 30 lines of C# with ONNX Runtime GenAI",
+    "Url": "https://nietras.com/2024/04/28/phi-3-mini-csharp-ortgenai/",
+    "Timestamp": "2024-04-29T06:01:11",
+    "Domain": "nietras.com",
+    "Description": "As part of the Phi-3\nlaunch\nMicrosoft has released optimized ONNX models as detailed in ONNX Runtime\nsupports Phi-3 mini models across platforms and\ndevices and published the\nmodels on HuggingFace 🤗 at Phi-3 Mini-4K-Instruct ONNX\nmodels for\nconsumption in for example the ONNX Runtime\nGenAI. This makes it very easy\nto run this model locally in just a few lines of C# as I’ll show in this blog\npost.\n\n"
+  },
+  {
+    "Title": "R. Bradley Lathe - made in a POW Camp",
+    "Url": "http://www.lathes.co.uk/bradley-pow-lathe/",
+    "Timestamp": "2024-04-29T00:01:25",
+    "Domain": "www.lathes.co.uk",
+    "Description": "The R. Bradley Lathe<br>-  Home-made in a Prisoner of War Camp -"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "Title": "Everything About Bitflags",
+    "Url": "https://neg4n.dev/blog/everything-about-bitflags",
+    "Timestamp": "2025-09-02T23:03:36",
+    "Domain": "neg4n.dev",
+    "Description": "Comprehensive walkthrough bitflags - how to store up to 32 booleans in one value? Including visualizations, database considerations, code examples and benchmarks."
+  },
+  {
+    "Title": "Automating configuration updates with rcl patch",
+    "Url": "https://ruudvanasseldonk.com/2025/automating-configuration-updates",
+    "Timestamp": "2025-09-02T23:03:33",
+    "Domain": "ruudvanasseldonk.com",
+    "Description": "Configuration formats that humans can read and maintain, are hard for scripts to edit safely. With the new patch feature, RCL now has a principled way to enable safe, automated edits."
+  },
+  {
+    "Title": "How My Hobby Project Got a Cease and Desist",
+    "Url": "https://opista.com/posts/my-hobby-project-cease-and-desist",
+    "Timestamp": "2025-09-02T23:03:29",
+    "Domain": "opista.com",
+    "Description": "How a side project to earn myself free flights became a legal headache with Avios."
+  },
+  {
+    "Title": "Scale-to-Zero: Wake VMs in 200ms with Light Sleep, eBPF, and Snapshots - Koyeb",
+    "Url": "https://www.koyeb.com/blog/scale-to-zero-wake-vms-in-200-ms-with-light-sleep-ebpf-and-snapshots",
+    "Timestamp": "2025-09-02T23:03:26",
+    "Domain": "www.koyeb.com",
+    "Description": "Discover how we built Scale-to-Zero to automatically wake VMs in 200ms with eBPF, light sleep, and snapshots."
+  },
+  {
+    "Title": "Building Spectre: A CLI Coding Agent",
+    "Url": "https://gavin.wtf/blog/agents-for-stock-prediction/",
+    "Timestamp": "2025-09-02T23:03:23",
+    "Domain": "gavin.wtf",
+    "Description": "← Back"
+  },
+  {
+    "Title": "Accurate text lengths with `Intl.Segmenter` API",
+    "Url": "https://blog.sangeeth.dev/posts/accurate-text-lengths-with-intl-segmenter-api/",
+    "Timestamp": "2025-09-02T23:03:20",
+    "Domain": "blog.sangeeth.dev",
+    "Description": "How many characters is 👨‍👩‍👧‍👦?"
+  },
+  {
+    "Title": "C tooling",
+    "Url": "https://tomscheers.github.io/2025/09/02/C-tools.html",
+    "Timestamp": "2025-09-02T23:03:15",
+    "Domain": "tomscheers.github.io",
+    "Description": "One of my favorite past-time activities I’ve been getting into lately is looking into various tools I can use to make my C development experience better on the daily. This ranges from formatters to memory leak detection to debuggers. This blog isn’t a tutorial; I’m not explaining to you how to use these tools effectively, more so I want to make you aware of what’s possible and how large your toolkit can actually be!"
+  },
+  {
+    "Title": "make cool stuff",
+    "Url": "https://sarthak2143.bearblog.dev/make_cool_stuff/",
+    "Timestamp": "2025-09-02T23:03:12",
+    "Domain": "sarthak2143.bearblog.dev",
+    "Description": "this article focuses on breaking free from repetitive programming projects, but its ideas can be applied to any creative field, like film making, music, or a..."
+  },
+  {
+    "Title": "Casual Productivity with LLMs - k-hole",
+    "Url": "https://kylekukshtel.com/casual-productivity-llms-claude-gamedev",
+    "Timestamp": "2025-09-02T23:03:08",
+    "Domain": "kylekukshtel.com",
+    "Description": "Using LLMs to implement workflow enhancements you wouldn't have attempted otherwise"
+  },
+  {
+    "Title": "Configuration vs Composition",
+    "Url": "https://makers.getmagical.com/configuration-vs-composition-2cf5c56eb5c7",
+    "Timestamp": "2025-09-02T23:03:03",
+    "Domain": "makers.getmagical.com",
+    "Description": "Remember that one time you were building a frontend with MUI, and the designer requested a design refresh? How much did you have to…"
+  },
+  {
+    "Title": "perfectionism is a form of shame",
+    "Url": "https://tala.bearblog.dev/perfectionism-is-a-form-of-shame/",
+    "Timestamp": "2025-09-02T23:02:57",
+    "Domain": "tala.bearblog.dev",
+    "Description": "Perfectionism often wears the mask of , ,  It parades itself as virtue, a propriety. In reality, it is rarely about the pursuit of excellence but the terror ..."
+  },
+  {
+    "Title": "You're Not Interviewing for the Job. You're Auditioning for the Job Title",
+    "Url": "https://idiallo.com/blog/performing-for-the-job-title",
+    "Timestamp": "2025-09-02T23:02:53",
+    "Domain": "idiallo.com",
+    "Description": "I once had a job interview for a backend position. Their stack was Node.js, MySQL, nothing exotic. The interviewer asked: \"If you have an array containing a million entries, how would you sort the dat"
+  },
+  {
+    "Title": "‘Labs’ teams, Skunkworks, and Special Projects: Beware",
+    "Url": "https://chaoticgood.management/labs-teams-skunkworks-and-special-projects-beware/",
+    "Timestamp": "2025-09-02T23:02:50",
+    "Domain": "chaoticgood.management",
+    "Description": "In a previous post, I talked about balancing ‘creating work’ and ‘destroying work’ such that the backlog does not become a huge mental burden on everyone to the point that it gives the impression that “the dev team is slow” or “we’re not making enough progress”. These are common"
+  },
+  {
+    "Title": "Is It Bias or Noise – Breakout Baseline #6",
+    "Url": "https://theprincipledagent.com/2025/09/02/is-it-bias-or-noise-breakout-baseline-6/",
+    "Timestamp": "2025-09-02T23:02:46",
+    "Domain": "theprincipledagent.com",
+    "Description": "Ladies and gentlemen… today you’ll see the matchup of a lifetime. All the way from RL Canon, you know it, you love it. It’s entropy bonus!!! If you let them, they’ll make yo…"
+  },
+  {
+    "Title": "Gregor Riegler · Augmented Coding",
+    "Url": "https://gregorriegler.com/2025/07/12/augmented-coding-pattern-language.html",
+    "Timestamp": "2025-09-02T23:02:43",
+    "Domain": "gregorriegler.com",
+    "Description": "Gregor Riegler, Software Development Coach."
+  },
+  {
+    "Title": "Superman Is Less • Ninjas and Robots",
+    "Url": "https://ninjasandrobots.com/superman-is-less",
+    "Timestamp": "2025-09-02T23:02:39",
+    "Domain": "ninjasandrobots.com",
+    "Description": "I’ve written about this before. Who hasn’t. But sometimes it just feels like everything’s already been done. How can I possibly make another thing about… anything? It took me 45 minutes, but I finally got my phone streaming to the TV at the Airbnb... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft"
+  },
+  {
+    "Title": "How big are our embeddings now and why?",
+    "Url": "https://vickiboykis.com/2025/09/01/how-big-are-our-embeddings-now-and-why/",
+    "Timestamp": "2025-09-02T23:02:35",
+    "Domain": "vickiboykis.com",
+    "Description": "Embedding sizes and architectures have changed remarkably over the past 5 years"
+  },
+  {
+    "Title": "Choosing the Right Path : dylanbeattie.net",
+    "Url": "https://dylanbeattie.net/2025/09/02/choosing-the-right-path.html",
+    "Timestamp": "2025-09-02T23:02:32",
+    "Domain": "dylanbeattie.net",
+    "Description": "An article from dylanbeattie.net"
+  },
+  {
+    "Title": "A Reader’s Guide to Economic Headlines",
+    "Url": "https://www.nominalnews.com/p/reading-economic-headlines-three-questions",
+    "Timestamp": "2025-09-02T23:02:28",
+    "Domain": "www.nominalnews.com",
+    "Description": "With the media posting sensational economic stats daily, filtering out the noise becomes crucial."
+  },
+  {
+    "Title": "Why Are You Telling Me This?",
+    "Url": "https://jacobbrazeal.wordpress.com/2025/09/02/why-are-you-telling-me-this/",
+    "Timestamp": "2025-09-02T23:02:24",
+    "Domain": "jacobbrazeal.wordpress.com",
+    "Description": "I. I have always depended rather heavily on conversational scripts. For me, this is not a specific list of things to say in a conversation, but rather a thematic approach to the interaction. The th…"
+  },
+  {
+    "Title": "Microlearning is the new way to learn",
+    "Url": "https://www.alexarvanitidis.dev/blog/microlearning-is-the-new-learning",
+    "Timestamp": "2025-09-02T23:02:20",
+    "Domain": "www.alexarvanitidis.dev",
+    "Description": "How I use microlearning to keep up with fast-moving tech trends through short, daily doses of content across social media and YouTube."
+  },
+  {
+    "Title": "Anthropic raises $13B Series F at $183B post-money valuation",
+    "Url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "Timestamp": "2025-09-02T19:02:19",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ. This financing values Anthropic at $183 billion post-money. Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners. The investment reflects Anthropic’s continued momentum and reinforces our position as the leading intelligence platform for enterprises, developers, and power users. "
+  },
+  {
+    "Title": "HomeGrown at Gamescom Part 1 - The Final Preparations",
+    "Url": "https://youtube.com/watch?v=TM0u77Wsz1M",
+    "Timestamp": "2025-09-02T18:02:06",
+    "Domain": "youtube.com",
+    "Description": "Wishlist HomeGrown on Steam: https://store.steampowered.com/app/1894560/HomeGrown/\n\nSupport the channel on Patreon and get access to the game & code for Homegrown, the city-builder, and Equilinox:\nhttps://www.patreon.com/thinmatrix\n\nPlay my previous game \"Equilinox\":\nhttps://store.steampowered.com/app/853550/Equilinox/\n\nFollow the game's progress on my social media:\nInstagram: https://www.instagram.com/thinmatrix/\nTwitter: https://twitter.com/ThinMatrix\nBluesky: https://bsky.app/profile/thinmatrix.bsky.social\nTrello: https://trello.com/b/W3zkIJTM/farm\nEmail: thinmatrix@gmail.com\n\nBackground music by Jamal Green:\nhttps://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt?si=Z-xfUXEXQCuGdGRy7qf9Ug&dl_branch=1\n\n#devlog #HomeGrown"
+  },
+  {
+    "Title": "No, you don't want to hire \"the best engineers\" - Otherbranch",
+    "Url": "https://www.otherbranch.com/shared/blog/no-you-dont-want-to-hire-the-best-engineers",
+    "Timestamp": "2025-09-02T17:02:00",
+    "Domain": "www.otherbranch.com",
+    "Description": "I think this might be the meanest thing I've ever written."
+  },
+  {
+    "Title": "GitHub - woheller69/FreeDroidWarn",
+    "Url": "https://github.com/woheller69/FreeDroidWarn",
+    "Timestamp": "2025-09-02T10:01:57",
+    "Domain": "github.com",
+    "Description": "Contribute to woheller69/FreeDroidWarn development by creating an account on GitHub."
+  },
+  {
+    "Title": "Beware clever devs, says Laravel inventor Taylor Otwell",
+    "Url": "https://www.theregister.com/2025/09/01/laravel_inventor_clever_devs/",
+    "Timestamp": "2025-09-02T08:01:55",
+    "Domain": "www.theregister.com",
+    "Description": ": Taylor Otwell says skip the clever code, keep it simple"
+  },
+  {
+    "Title": "Pull",
+    "Url": "https://xkcd.com/3136/",
+    "Timestamp": "2025-09-02T05:02:01",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How to Speak",
+    "Url": "https://youtube.com/watch?v=Unzc731iCUY",
+    "Timestamp": "2025-09-02T04:02:07",
+    "Domain": "youtube.com",
+    "Description": "MIT How to Speak, IAP 2018\nInstructor: Patrick Winston\nView the complete course: https://ocw.mit.edu/how_to_speak\n\nPatrick Winston's How to Speak talk has been an MIT tradition for over 40 years. Offered every January, the talk is intended to improve your public speaking ability in critical situations by teaching you a few heuristic rules.\n\n0:16 Introduction\n3:11 Rules of Engagement\n4:15 How to Start\n5:38 Four Sample Heuristics\n10:17 The Tools: Time and Place\n13:24 The Tools: Boards, Props, and Slides\n36:30 Informing: Promise, Inspiration, How To Think\n41:30 Persuading: Oral Exams, Job Talks, Getting Famous\n53:06 How to Stop: Final Slide, Final Words\n56:35 Final Words: Joke, Thank You, Examples\n\nThis video has been dubbed using an artificial voice via https://aloud.area120.google.com to increase accessibility.\n\nThe traditional Chinese captions courtesy of 高嘉宏. Used with permission. The captions are reviewed and edited by MIT OpenCourseWare. The simplified Chinese captions are by MIT OpenCourseWare.\n\nLicense: Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu"
+  },
+  {
+    "Title": "Two PCs, One Stereo: How to connect multiple PCs to a single audio source",
+    "Url": "https://youtube.com/watch?v=qnRC0i93nwI",
+    "Timestamp": "2025-09-02T01:02:01",
+    "Domain": "youtube.com",
+    "Description": "Dave explains a range of options for connecting mulitple computers to a single audio system.   Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nCheck out my new merch store at: http://davesgaragemerch.com/\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl\n\nApollo Twin X Duo: https://amzn.to/4p33jpK\nUSB to SPDIF: https://amzn.to/4g4ic7o\nStereo Audio Mixer: https://amzn.to/47oQHTE\nUSB SPDIF Input: https://amzn.to/4mJ8uda\nSuper Cheap DAC: https://amzn.to/465damB"
+  },
+  {
+    "Title": "Trapped in the Infinite Honey Pot",
+    "Url": "https://brianschrader.com/archive/trapped-in-the-infinite-honey-pot/",
+    "Timestamp": "2025-09-02T00:02:58",
+    "Domain": "brianschrader.com",
+    "Description": "Posted on Mon, 01 Sep 2025 at 10:23 PM"
+  },
+  {
+    "Title": "Vibe doodling – Jimmy's blog",
+    "Url": "https://www.jimmysastra.com/blog/2025/08/23/vibe-doodling/",
+    "Timestamp": "2025-09-02T00:02:54",
+    "Domain": "www.jimmysastra.com",
+    "Description": "As a kid, I spent a lot of time doodling in my notebooks. I imagine myself scribbling away in class when I should have been taking notes. This may seem frivolous, but I recently made the connection between these squiggles and the Dutch notion of niksen, which translates to doing nothing."
+  },
+  {
+    "Title": "A Brief Look at the Mathematics of Structure Packing",
+    "Url": "https://sayansivakumaran.com/posts/2025/9/math-struct-packing/",
+    "Timestamp": "2025-09-02T00:02:47",
+    "Domain": "sayansivakumaran.com",
+    "Description": "Mathematically analyzing when structures in programming languages (such as C or Rust) have their size minimized."
+  },
+  {
+    "Title": "The Barbell of Software Value | Mehmet",
+    "Url": "https://mehmetmhy.com/posts/barbell_theory/",
+    "Timestamp": "2025-09-02T00:02:43",
+    "Domain": "mehmetmhy.com",
+    "Description": "Why platforms and private leverage are the future of software, while generic SaaS gets squeezed."
+  },
+  {
+    "Title": "Where are all the trillion dollar biotechs? — lada nuzhna",
+    "Url": "https://www.ladanuzhna.xyz/writing/trillion-dollar-biotechs",
+    "Timestamp": "2025-09-02T00:02:39",
+    "Domain": "www.ladanuzhna.xyz",
+    "Description": "Of the many trends people chase in biotech, the only one that proves sure and consistent is declining returns. Even after adjusting for inflation, the number of new drugs approved per $1 billion of R&amp;D spending has halved approximately every nine years since 1950. Deloitte’s forecast R&a"
+  },
+  {
+    "Title": "I Should Have Loved Electrical Engineering · Tony Tong",
+    "Url": "https://blog.tdhttt.com/post/love-ee/",
+    "Timestamp": "2025-09-02T00:02:35",
+    "Domain": "blog.tdhttt.com",
+    "Description": ""
+  },
+  {
+    "Title": "Sorry, We Deprecated Your Friend",
+    "Url": "https://blog.j11y.io/2025-08-30_openai_gpt5_reckless/",
+    "Timestamp": "2025-09-02T00:02:32",
+    "Domain": "blog.j11y.io",
+    "Description": "With the release of GPT-5, OpenAI killed off a bunch of older models being used by millions of people around the globe. They did this while sneaking in a new underlying model and routing system into every existing ChatGPT conversation thread."
+  },
+  {
+    "Title": "The quiet software tooling renaissance • pdx.su",
+    "Url": "https://pdx.su/blog/2025-08-13-the-quiet-software-tooling-renaissance/",
+    "Timestamp": "2025-09-02T00:02:25",
+    "Domain": "pdx.su",
+    "Description": "A quiet renaissance has been happening in software tooling. New projects are cropping up that do things far better than the tools they replace, and in many ways, they carry the ideals of older unix tools into the 21st century…"
+  },
+  {
+    "Title": "Tripping around REPL",
+    "Url": "https://vlaaad.github.io/tripping-around-repl",
+    "Timestamp": "2025-09-02T00:02:22",
+    "Domain": "vlaaad.github.io",
+    "Description": "In which I’m talking round-tripping, syntax highlighting, and even switching namespaces"
+  },
+  {
+    "Title": "Keyboard-First Outlining | Andreas Flakstad",
+    "Url": "https://andreasflakstad.no/posts/keyboard-first-outlining/",
+    "Timestamp": "2025-09-02T00:02:18",
+    "Domain": "andreasflakstad.no",
+    "Description": "For as long as I’ve had to manage projects, I’ve disliked the tools built for the job.\nNotion, Asana, Trello, Jira, ..all powerful, but also bloated, complicated, and designed around the mouse. Basecamp is a nice breath of fresh air with it’s relative simplicity and focus on communication, but still falls short of the fluid keyboard-driven workflow I’ve always wanted."
+  },
+  {
+    "Title": "Money Mistakes You Didn’t Know You’re Making",
+    "Url": "https://jasuja.us/2025/06/money-mistakes-you-didnt-know-youre-making/",
+    "Timestamp": "2025-09-02T00:02:14",
+    "Domain": "jasuja.us",
+    "Description": "Here is a list of money mistakes I have made at some point in my life. I’m pretty sure you’re making some of them too."
+  },
+  {
+    "Title": "The Immutable Linux Paradox",
+    "Url": "https://jnsgr.uk/2025/09/immutable-linux-paradox",
+    "Timestamp": "2025-09-02T00:02:11",
+    "Domain": "jnsgr.uk",
+    "Description": "Immutable Linux distributions are gaining popularity due to their resilience and security, with mainstream operating systems adopting similar principles.\nThis post explores how different Linux distributions achieve immutability, the trade-offs, and why you should give it a try!"
+  }
+]

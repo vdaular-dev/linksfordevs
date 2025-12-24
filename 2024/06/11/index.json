@@ -1,0 +1,275 @@
+[
+  {
+    "Title": "Random and fixed routes with Apache APISIX",
+    "Url": "https://blog.frankel.ch/fixed-routes-apisix/",
+    "Timestamp": "2024-06-11T21:01:34",
+    "Domain": "blog.frankel.ch",
+    "Description": "My ideas for blog posts inevitably start to dry up after over two years at Apache APISIX. Hence, I did some triage on the APISIX repo. I stumbled upon this one question:     We have a requirement to use a plugin, where we need to route the traffic on percentage basis. I’ll give an example for better understanding.   We have an URL https://xyz.com/ca/fr/index.html where ca is country (canada) and fr is french language. Now the traffic needs to routed 10% to https://xyz.com/ca/en/index.html a"
+  },
+  {
+    "Title": "Why today's phones are so boooooring?",
+    "Url": "https://andreyor.st/posts/2024-06-11-why-todays-phones-are-so-boooooring/",
+    "Timestamp": "2024-06-11T21:01:32",
+    "Domain": "andreyor.st",
+    "Description": "So, here’s a question - when were you last excited for a new phone? Well, I mean really excited?\nHere’s the thing. Phones are so boring today that most retail stores show you the backside of the phone. Because from the front they all look exactly the same."
+  },
+  {
+    "Title": "Borges on Chaos Theory",
+    "Url": "https://aethermug.com/posts/borges-on-chaos-theory",
+    "Timestamp": "2024-06-11T21:01:32",
+    "Domain": "aethermug.com",
+    "Description": "About a weird, lovely short story."
+  },
+  {
+    "Title": "Supplement Research and Comparison Website",
+    "Url": "https://pillser.com/engineering/2024-06-10-website-without-404s",
+    "Timestamp": "2024-06-11T21:01:32",
+    "Domain": "pillser.com",
+    "Description": "How Pillser uses fuzzy matching to avoid preventable 404s on its website."
+  },
+  {
+    "Title": "The Acme of Software",
+    "Url": "https://taylor.town/acme-software",
+    "Timestamp": "2024-06-11T21:01:32",
+    "Domain": "taylor.town",
+    "Description": "a brief history of architecture"
+  },
+  {
+    "Title": "Logical Replication Guardrails",
+    "Url": "https://matt.blwt.io/post/logical-replication-guardrails/",
+    "Timestamp": "2024-06-11T21:01:32",
+    "Domain": "matt.blwt.io",
+    "Description": "A short post on implementing some guardrails for logical replication in PostgreSQL."
+  },
+  {
+    "Title": "Why Search is not a solved problem yet",
+    "Url": "https://anilturaga.github.io/posts/search_ux/",
+    "Timestamp": "2024-06-11T21:01:31",
+    "Domain": "anilturaga.github.io",
+    "Description": "Nearly 35 years has passed from the advent of search engines.\nWith 90% of the market share, Google search’s user experience has been relatively stagnant for a long time barring the recent AI Overviews feature. Most of the alternatives till a couple of years ago were still mimicking Google search experience but with more privacy guarantees and better control over ranking.\nWith the recent breakthrough in Generative AI and some new solutions gaining traction, Search offerings now can be broadly bifurcated into two types:"
+  },
+  {
+    "Title": "Perspective-Correct Interpolation",
+    "Url": "https://andrewkchan.dev/posts/perspective-interpolation.html",
+    "Timestamp": "2024-06-11T21:01:30",
+    "Domain": "andrewkchan.dev",
+    "Description": "No description."
+  },
+  {
+    "Title": "You're doing state wrong | Nabil Tharwat",
+    "Url": "https://nabiltharwat.com/blog/2024-06-08-youre-doing-state-wrong",
+    "Timestamp": "2024-06-11T21:01:29",
+    "Domain": "nabiltharwat.com",
+    "Description": "Boolean state variables are not always the answer. A platform-agnostic article about structuring UI state."
+  },
+  {
+    "Title": "Don't be afraid of Rebasing",
+    "Url": "https://legionth.de/blog/dont-be-afraid-of-rebasing",
+    "Timestamp": "2024-06-11T21:01:29",
+    "Domain": "legionth.de",
+    "Description": "Don't be afraid of Rebasing"
+  },
+  {
+    "Title": "Train RLHF Models with Dagster and Modal: Step-by-Step Guide",
+    "Url": "https://kyrylai.com/2024/06/10/rlhf-with-dagster-and-modal/",
+    "Timestamp": "2024-06-11T21:01:28",
+    "Domain": "kyrylai.com",
+    "Description": "Learn to train RLHF models using Dagster and Modal. This guide covers Docker setup, data management, and model evaluation. Streamline your ML workflows"
+  },
+  {
+    "Title": "My very first production bug",
+    "Url": "https://robinverschueren.com/2024/06/08/my-very-first-production-bug/",
+    "Timestamp": "2024-06-11T21:01:28",
+    "Domain": "robinverschueren.com",
+    "Description": "The year was 2013 and I was smack in the middle of my master’s degree. Coding-wise, we were taught Fortran95 and not much else. To get some hands-on experience, I decided to take up a summer internshi"
+  },
+  {
+    "Title": "Scan HTML faster with SIMD instructions: Chrome edition – Daniel Lemire's blog",
+    "Url": "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/",
+    "Timestamp": "2024-06-11T21:01:28",
+    "Domain": "lemire.me",
+    "Description": "Modern processors have instructions to process several bytes at once. Effectively all processors have the capability of processing 16 bytes one once. These instructions are called SIMD, for single instruction, multiple data."
+  },
+  {
+    "Title": "the how and the why",
+    "Url": "https://sarahendren.com/2024/06/10/the-how-and-the-why/",
+    "Timestamp": "2024-06-11T21:01:28",
+    "Domain": "sarahendren.com",
+    "Description": "This is likely to be the first in a series of meditations on the college decision-making process. My two younger kids are embarking on the process now, so I’m thinking about the subject personally; my job as a professor means I’m thinking about it in my workplace, too. And I hardly need to say that the big questions are in the zeitgeist after this academic year: What kind of four-year experiences are worth paying for? What’s available in that developmental window that can be nurtured and drawn out in young people? For people who go to college, that period is one of the hinge moments to adulthood that can be life-changing in lasting ways. How should a parent think about it?"
+  },
+  {
+    "Title": "Security Research | mr.d0x",
+    "Url": "https://mrd0x.com/progressive-web-apps-pwa-phishing/",
+    "Timestamp": "2024-06-11T21:01:27",
+    "Domain": "mrd0x.com",
+    "Description": "Security Research | C:\\Users\\mr.d0x>"
+  },
+  {
+    "Title": "BCC to libbpf conversion guide",
+    "Url": "https://nakryiko.com/posts/bcc-to-libbpf-howto-guide/",
+    "Timestamp": "2024-06-11T21:01:27",
+    "Domain": "nakryiko.com",
+    "Description": "A practical guide to converting your BCC-based BPF application to libbpf and\nBPF CO-RE (Compile Once – Run Everywhere)."
+  },
+  {
+    "Title": "Solene'% : OpenBSD extreme privacy setup",
+    "Url": "https://dataswamp.org/~solene/2024-06-08-openbsd-privacy-setup.html",
+    "Timestamp": "2024-06-11T21:01:27",
+    "Domain": "dataswamp.org",
+    "Description": "In this article, you will learn how to install and configure OpenBSD to reduce its network activity over clearnet"
+  },
+  {
+    "Title": "What is Idempotency? - AsyncMonolith Docs",
+    "Url": "https://timmoth.github.io/AsyncMonolith/posts/idempotency/",
+    "Timestamp": "2024-06-11T21:01:26",
+    "Domain": "timmoth.github.io",
+    "Description": "Idempotency refers to the ability of an operation to be performed multiple times whilst still yielding the same outcome. It is a critical property of handlers in an event driven system, since events can be reprocessed due to retries, network issues, or other failures. Without idempotency, reprocessing the same event could lead to inconsistent states, duplicate entries, or other unintended side effects."
+  },
+  {
+    "Title": "Solving Probabilistic Tic-Tac-Toe",
+    "Url": "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe",
+    "Timestamp": "2024-06-11T21:01:26",
+    "Domain": "louisabraham.github.io",
+    "Description": "This morning, I came accross Cameron Sun’s Probabilistic Tic-Tac-Toe on HN. However, the comments were disappointing, with people proposing probabilistic models, linear programming, minimax algorithms, and heuristic evaluations to develop AI approaches for the game. In this post, I’ll present an exact solution."
+  },
+  {
+    "Title": "Affirmations for bloggers | nicole@web",
+    "Url": "https://www.ntietz.com/blog/blogging-affirmations/",
+    "Timestamp": "2024-06-11T21:01:26",
+    "Domain": "www.ntietz.com",
+    "Description": "Every software engineer can have a great blog, if they want to.\nMany of us start blogs, but most of those blogs lie abandoned or sporadically updated.\nIt's okay if you start blogging and figure out it's not really for you.\nBut there are also some common issues that block people who want to write a blog for fun or to improve as a writer1."
+  },
+  {
+    "Title": "Search Engine's Blindspot: Continuity and Context",
+    "Url": "https://anilturaga.github.io/posts/search/",
+    "Timestamp": "2024-06-11T21:01:26",
+    "Domain": "anilturaga.github.io",
+    "Description": "Nearly 35 years has passed from the advent of search engines.\nWith 90% of the market share, Google search’s user experience has been relatively stagnant for a long time barring the recent AI Overviews feature. Most of the alternatives till a couple of years ago were still mimicking Google search experience but with more privacy guarantees and better control over ranking.\nWith the recent breakthrough in Generative AI and some new solutions gaining traction, Search offerings now can be broadly bifurcated into two types:"
+  },
+  {
+    "Title": "phineas jensen",
+    "Url": "https://phinjensen.com/blog/2024/wrong-map-of-europe/",
+    "Timestamp": "2024-06-11T21:01:26",
+    "Domain": "phinjensen.com",
+    "Description": "I recently came across this map of Europe in a Discord memes channel:"
+  },
+  {
+    "Title": "Algorithms — Binary Search",
+    "Url": "https://henriquesd.medium.com/algorithms-binary-search-60003f4e2bc1",
+    "Timestamp": "2024-06-11T19:01:09",
+    "Domain": "henriquesd.medium.com",
+    "Description": "Binary Search is a highly efficient algorithm used to find an element in a sorted collection. It uses the divide and conquer approach…"
+  },
+  {
+    "Title": "Building Generative AI apps with .NET 8 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/",
+    "Timestamp": "2024-06-11T19:01:07",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Learn the latest news and announcements about the state of generative AI development with .NET 8."
+  },
+  {
+    "Title": "Nina Kalinina (@nina_kali_nina@tech.lgbt)",
+    "Url": "https://tech.lgbt/@nina_kali_nina/112594910070716090",
+    "Timestamp": "2024-06-11T18:01:06",
+    "Domain": "tech.lgbt",
+    "Description": "Attached: 1 image\n\nIt has a little ads window on the side, and has Pay To Win or Watch Ad to continue. It also takes 235 MB of disk, full CPU core and 500 MB of RAM. Darn, Minesweeper for Windows 3.0 running on 8088 IBM PC didn't take all CPU  resources."
+  },
+  {
+    "Title": "I really like the RP2040",
+    "Url": "https://dgroshev.com/blog/rp2040/",
+    "Timestamp": "2024-06-11T18:01:04",
+    "Domain": "dgroshev.com",
+    "Description": ""
+  },
+  {
+    "Title": "The origin story of the Windows 3D Pipes screen saver - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240611-00/?p=109881",
+    "Timestamp": "2024-06-11T16:01:04",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Looking for a place to show off."
+  },
+  {
+    "Title": "Stopping Using Exception Use Result Monad Instead",
+    "Url": "https://goatreview.com/stopping_using_exception_use_monad/",
+    "Timestamp": "2024-06-11T12:01:09",
+    "Domain": "goatreview.com",
+    "Description": "Introduction\n\n\nError handling is an inevitable part of software development. Traditionally, exceptions are the primary method for signaling that something has gone awry. However, the exception mechanism is fraught with issues: unpredictable control flow, performance bottlenecks, and challenges in debugging. Imagine a world where error handling is graceful, predictable, and"
+  },
+  {
+    "Title": "The Great Deterioration of Local Community And The Loss of The Play-Based Childhood",
+    "Url": "https://www.afterbabel.com/p/community-based-childhood",
+    "Timestamp": "2024-06-11T08:02:28",
+    "Domain": "www.afterbabel.com",
+    "Description": "Kids growing up in close-knit communities where the social ties are thick are more protected from the harms of the phone-based childhood."
+  },
+  {
+    "Title": "What's a Navigation Region in Windows and Uno Platform Applications? - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/uno-extensions-navigators/",
+    "Timestamp": "2024-06-11T07:01:22",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "In all but the simplest single page application, the layout of an application has to be dynamicaly changed in order to display information, or capture input from the user. Most application frameworks provide a variety of components to make this easy. For example in a WinUI / Windows App SDK application can use a Frame ... Read more"
+  },
+  {
+    "Title": "Sneak Peek of Strong Typed Identifiers in Marten",
+    "Url": "https://jeremydmiller.com/2024/06/10/sneak-peek-of-strong-typed-identifiers-in-marten/",
+    "Timestamp": "2024-06-11T06:01:06",
+    "Domain": "jeremydmiller.com",
+    "Description": "If you really need to have strong typed identifier support in Marten right now, here’s the long standing workaround. Some kind of support for “strong typed identifiers” has long b…"
+  },
+  {
+    "Title": "Visual Studio Code AI Toolkit: Run LLMs locally",
+    "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/visual-studio-code-ai-toolkit-run-llms-locally/ba-p/4163192",
+    "Timestamp": "2024-06-11T06:01:06",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "AI Toolkit  is here\nGetting the LLMs/ SLMs on our local machines. This toolkit lets us easily download the models on our local machine. Evaluation of the.."
+  },
+  {
+    "Title": "MPS 2023.2.1, 2023.3.1, and 2024.1 EAP2 Released With Platform Updates | The MPS Blog",
+    "Url": "https://blog.jetbrains.com/mps/2024/06/important-mps-security-update/",
+    "Timestamp": "2024-06-11T06:01:05",
+    "Domain": "blog.jetbrains.com",
+    "Description": "To incorporate critical security updates, we have just released three essential bug-fix releases – MPS 2023.2.1, 2023.3.1, and 2024.1 EAP2. We urge you to read the security blog post describing the r"
+  },
+  {
+    "Title": "The Most Popular Build Tools for React Developers in 2024",
+    "Url": "https://www.telerik.com/blogs/most-popular-build-tools-react-developers-2024",
+    "Timestamp": "2024-06-11T06:01:04",
+    "Domain": "www.telerik.com",
+    "Description": "This blog post gives you a roundup of the most popular React build tools in use and what to look out for in 2024. "
+  },
+  {
+    "Title": "Now that I can write React Native, what should I test?",
+    "Url": "https://thoughtbot.com/blog/now-that-i-can-write-react-native-what-should-i-test",
+    "Timestamp": "2024-06-11T06:01:04",
+    "Domain": "thoughtbot.com",
+    "Description": "Rev up the leaf blower on React Native testing weeds – focus your testing where it truly matters!"
+  },
+  {
+    "Title": "Sharing the Renovate configuration across multiple projects - Gérald Barré",
+    "Url": "https://www.meziantou.net/sharing-the-renovate-configuration-across-multiple-projects.htm",
+    "Timestamp": "2024-06-11T06:01:03",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to share the Renovate configuration across multiple projects."
+  },
+  {
+    "Title": "Blog - Private Cloud Compute: A new frontier for AI privacy in the cloud - Apple Security Research",
+    "Url": "https://security.apple.com/blog/private-cloud-compute/",
+    "Timestamp": "2024-06-11T04:01:00",
+    "Domain": "security.apple.com",
+    "Description": "Secure and private AI processing in the cloud poses a formidable new challenge. To support advanced features of Apple Intelligence with larger foundation models, we created Private Cloud Compute (PCC), a groundbreaking cloud intelligence system designed specifically for private AI processing. Built with custom Apple silicon and a hardened operating system, Private Cloud Compute extends the industry-leading security and privacy of Apple devices into the cloud, making sure that personal user data sent to PCC isn’t accessible to anyone other than the user — not even to Apple. We believe Private Cloud Compute is the most advanced security architecture ever deployed for cloud AI compute at scale."
+  },
+  {
+    "Title": "macOS Sequoia Preview",
+    "Url": "https://www.apple.com/macos/macos-sequoia-preview/",
+    "Timestamp": "2024-06-11T02:00:59",
+    "Domain": "www.apple.com",
+    "Description": "macOS Sequoia brings effortless window tiling, web browsing with fewer distractions, new iPhone Mirroring, and support for Apple Intelligence."
+  },
+  {
+    "Title": "Introducing Apple’s On-Device and Server Foundation Models",
+    "Url": "https://machinelearning.apple.com/research/introducing-apple-foundation-models",
+    "Timestamp": "2024-06-11T01:01:03",
+    "Domain": "machinelearning.apple.com",
+    "Description": "At the 2024 Worldwide Developers Conference, we introduced Apple Intelligence, a personal intelligence system integrated deeply into…"
+  }
+]

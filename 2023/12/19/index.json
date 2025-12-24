@@ -1,0 +1,408 @@
+[
+  {
+    "Title": "Simulating Fluids, Fire, and Smoke in Real-Time",
+    "Url": "https://andrewkchan.dev/posts/fire.html",
+    "Timestamp": "2023-12-19T23:02:30",
+    "Domain": "andrewkchan.dev",
+    "Description": "Notes on the math, algorithms, and methods involved in simulating fluids like fire and smoke in real-time."
+  },
+  {
+    "Title": "@stevekrouse.compress_response",
+    "Url": "https://www.val.town/v/stevekrouse/compress_response",
+    "Timestamp": "2023-12-19T23:02:27",
+    "Domain": "www.val.town",
+    "Description": "Compress Response Isn't it cool that browsers can natively decompress stuff? There are a couple of supported compression algorithms:  gzip  (used below),  compress ,  deflate ,  br . Learn more: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Encoding If you don't add the content-encoding header, the gzip result looks like: \u001f�\b������\u0003��\u0001\n��\f\u0002�.���\u0005\u001e�\f�\u0001����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������Y\u000eDA��\"�\u0007� Which is incredibly short for a 500kb string! (Which shouldn't be surprising because it's just \"hi\" 250k times)"
+  },
+  {
+    "Title": "Discovering copy-on-write in R",
+    "Url": "https://franklin.dyer.me/post/213",
+    "Timestamp": "2023-12-19T23:02:27",
+    "Domain": "franklin.dyer.me",
+    "Description": "This is the story of how I wrote an absurdly inefficient algorithm  to solve a cool problem in R, learned about copy-on-write semantics, and then came up with something much faster. This debacle has definitely made me a better R programmer."
+  },
+  {
+    "Title": "Security and Crashing with Modal Logic",
+    "Url": "https://ryanbrewer.dev/posts/security-crashing-modal-logic.html",
+    "Timestamp": "2023-12-19T23:02:26",
+    "Domain": "ryanbrewer.dev",
+    "Description": "Modal logic is a beautiful field of logic that can be applied to computer science in a few ways, one of which we explore in this post. It can elucidate security concepts and how and why to crash software."
+  },
+  {
+    "Title": "The Systemic Racism of the Electoral College, Revisited",
+    "Url": "https://www.charlespetzold.com/blog/2023/12/The-Systemic-Racism-of-the-Electoral-College-Revisited.html",
+    "Timestamp": "2023-12-19T23:02:26",
+    "Domain": "www.charlespetzold.com",
+    "Description": "The concept of one-person-one-vote is central to democracy. No person’s vote should have more power or influence than anyone else’s. In a 1964 case Wesberry v. Sanders, the Supreme Court stated this explicitly: “As nearly as practicable, one man’s vote in a Congressional election is to be worth as much as another’s.” In Reynolds v. Sims the concept was extended to state legislatures. In 1964, Chief Justice Earl Warren wrote “People, not land or trees or pastures, vote.” (These quotes are from a 1986 New York Times article “One Man, One Vote: Decades of Court Decisions”.)"
+  },
+  {
+    "Title": "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/12/19/semantic-kernel-v1.aspx",
+    "Timestamp": "2023-12-19T23:02:24",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
+  },
+  {
+    "Title": "My failed attempt at using a closet as an office",
+    "Url": "http://blog.pamelafox.org/2023/12/my-failed-attempt-at-using-closet-as.html",
+    "Timestamp": "2023-12-19T23:02:24",
+    "Domain": "blog.pamelafox.org",
+    "Description": "My partner and I both work from home. I'm very thankful for that as we have two young children and a commute would take up the same time we ..."
+  },
+  {
+    "Title": "Build your own RAG and run it locally: Langchain + Ollama + Streamlit",
+    "Url": "https://blog.duy-huynh.com/build-your-own-rag-and-run-them-locally/",
+    "Timestamp": "2023-12-19T23:02:24",
+    "Domain": "blog.duy-huynh.com",
+    "Description": "Let's simplify RAG and LLM application development. This post guides you on how to build your own RAG-enabled LLM application and run it locally with a super easy tech stack."
+  },
+  {
+    "Title": "Fsync and k8s pvc snapshots",
+    "Url": "https://blog.aawadia.dev/2023/12/18/fsync-and-k8s-snapshots/",
+    "Timestamp": "2023-12-19T23:02:24",
+    "Domain": "blog.aawadia.dev",
+    "Description": "IntroductionMy last post was about waiting for k8s to finish taking the PVC snapshot before using it for restoration. Well, like most things in software development, the restore didn’t work. Why?Why n"
+  },
+  {
+    "Title": "SVD Image Compression",
+    "Url": "https://dmicz.github.io/machine-learning/svd-image-compression/",
+    "Timestamp": "2023-12-19T23:02:23",
+    "Domain": "dmicz.github.io",
+    "Description": "Singular Value Decomposition (SVD) is a fundamental concept in linear algebra, and it is particularly important in the field of machine learning for tasks such as dimensionality reduction, data compression, and noise reduction."
+  },
+  {
+    "Title": "s/acc: Safe Accelerationism Manifesto",
+    "Url": "https://lorenzopieri.com/s_acc/",
+    "Timestamp": "2023-12-19T23:02:23",
+    "Domain": "lorenzopieri.com",
+    "Description": "Accelerate. Fast, Safe and Fair.  Technology has been a transformative force for our civilisation and it is poised to play an increasing role going forward. Recent progress in Artificial Intelligence spurred discussions about how we should approach the development of the next generation of AI applications, potentially leading to human-level performances on a wide range of tasks and ultimately to the last invention humanity will need to do.  Two polar views have gained prominence recently. The first ideology is about slowing down AI progress, stopping it altogether, centralising development. The second ideology is about acceleration at all costs. Both fail to be sensible, in very different ways.  Slowing down progress in a world full of problems and still subject to existential risk is not safe. And is not fair to who is worse off today. Accelerating recklessly can be self-destructing and can lead to a centralised dystopia.  This manifesto is about the sober middle ground: accelerate, but stay safe and stay fair.  Safe Accelerationism core principles: Fast, Safe and Fair     Fast: Immense benefit will come from AI development and any delay has huge opportunity cost. Accelerate AI and robotic development as fast as possible.   Safe: Development must be as incremental as possible, without any single party taking a monopolistic share of the benefits. Develop in the open, spread capabilities to as many actors as possible.   Fair: AI benefits should be widely distributed, leading to a post-work-to-survive society. Advocate and implement economic policies to provide higher standards of living for all, supported by AI productivity gains.   Fast. This is the easy one: technological progress is a net positive, let’s make more of it in the shortest possible amount of time. Going fast is a gift to the next generations, making sure that they live in the best possible world. Going fast is a gift to the current generation, maximising the share of the population who get to live better and longer.  Safe. Yes, AI can and will get powerful. We can make it safe if we learn how to deal with it as it gets progressively better, as with any other dangerous technology. We need to avoid large jumps in capabilities and surprises, we need as much time as possible to study the effect on society. We need unbiased capabilities estimation from as many parties as possible. The state of the art should be well known at any given time.  Fair. Power is nothing without control. And technology is a means to an end. So any accelerationist should really ask: “accelerating towards what?”. AI and robots are going to equip us with everything we need to make all of us better off, we should make sure this is the future we get. This means proactively preparing for a future without mandatory struggle for the basics and softening the blows of automation. If we don’t, the rightful reaction from who is crudely displaced is to fight back, overall delaying progress. Taking the time to get redistribution of gains right should not be seen as decelerating; on the contrary, it is about accelerating smartly and in a sustainable way.  Please:  Don’t     Delay, Pause, Stop, Censor AI development.   Centralise development, close development to a selected expert panel.   Create bullshit jobs, adapt AI to the old framework of jobs, artificially inflate automation costs with AI/Robot taxes.   Do     Develop in open-source. Share information freely. No paywalls, copyright, restricting licences.   Automate jobs.   Educate the public on the upcoming transition to post-work. Prepare for accelerated growth.   Accelerate, stay safe, stay fair."
+  },
+  {
+    "Title": "Making God · EmilyGorcenski.com",
+    "Url": "https://emilygorcenski.com/post/making-god/",
+    "Timestamp": "2023-12-19T23:02:23",
+    "Domain": "emilygorcenski.com",
+    "Description": "The millenarianism and manifest destiny of AI and techno-futurism."
+  },
+  {
+    "Title": "A Better Mastodon Client - Tim Kellogg",
+    "Url": "https://timkellogg.me/blog/2023/12/19/fossil",
+    "Timestamp": "2023-12-19T23:02:22",
+    "Domain": "timkellogg.me",
+    "Description": "Tue December 19, 2023"
+  },
+  {
+    "Title": "Chart.js + Turbo Stimulus in Rails 7",
+    "Url": "https://alvincrespo.com/blog/chartjs-and-rails/",
+    "Timestamp": "2023-12-19T23:02:22",
+    "Domain": "alvincrespo.com",
+    "Description": "Add Chart.js to your Rails 7 application"
+  },
+  {
+    "Title": "Improving Emacs isearch Usability with Transient",
+    "Url": "http://yummymelon.com/devnull/improving-emacs-isearch-usability-with-transient.html",
+    "Timestamp": "2023-12-19T23:02:22",
+    "Domain": "yummymelon.com",
+    "Description": "Emacs incremental search (isearch) has an embarrassingly rich feature set. That said, I rarely use isearch beyond its basics for the twofold reasons: There are many isearch commands that are..."
+  },
+  {
+    "Title": "Building a custom Shopify storefront",
+    "Url": "https://www.rauschermate.com/articles/building-custom-shopify-storefront",
+    "Timestamp": "2023-12-19T23:02:22",
+    "Domain": "www.rauschermate.com",
+    "Description": "I rebuilt my wife's Shopify store and wanted to share what I've learned during the process."
+  },
+  {
+    "Title": "Maybe We Don’t Need UUIDv7 After All",
+    "Url": "https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/",
+    "Timestamp": "2023-12-19T23:02:22",
+    "Domain": "lu.sagebl.eu",
+    "Description": "In the last weeks, the topic of interest seemed to be UUIDv7 identifiers and how\nthey solve DB index problems caused by random identifiers such as UUIDv4 IDs."
+  },
+  {
+    "Title": "What's New in C# 12 | .NET Conf 2023",
+    "Url": "https://youtube.com/watch?v=by-GL-SjHdc&list=PLdo4fOcmZ0oULyHSPBx-tQzePOYlhvrAU&index=6",
+    "Timestamp": "2023-12-19T22:02:34",
+    "Domain": "youtube.com",
+    "Description": "A new .NET means a new C#! Dustin and Mads will take you through the new features in C# 12, including collection expressions and primary constructors.Chapter..."
+  },
+  {
+    "Title": "Coffee and Open Source Conversation - Jim Bennett",
+    "Url": "https://youtube.com/watch?v=NFumJv3f2JY",
+    "Timestamp": "2023-12-19T22:02:32",
+    "Domain": "youtube.com",
+    "Description": "Jim is a Principal Developer Advocate at liblab focusing on skilling and inspiring developers, especially helping API developers deliver high-quality SDKs. H..."
+  },
+  {
+    "Title": "Coffee and Open Source Conversation - Jim Bennett",
+    "Url": "https://youtube.com/watch?v=OZ8koxYBxTg",
+    "Timestamp": "2023-12-19T20:03:00",
+    "Domain": "youtube.com",
+    "Description": "Jim is a Principal Developer Advocate at liblab focusing on skilling and inspiring developers, especially helping API developers deliver high-quality SDKs. H..."
+  },
+  {
+    "Title": "Using Meadow and .NET to send log IoT events to Meadow.Cloud",
+    "Url": "https://youtube.com/watch?v=8EtYs2TCh-A",
+    "Timestamp": "2023-12-19T18:02:48",
+    "Domain": "youtube.com",
+    "Description": "Jorge shows us how easily you can integrate Meadow.Cloud in your Meadow projects and send sensor data with event logs with a few lines of code.Chapters:00:00..."
+  },
+  {
+    "Title": "My cat water fountain comes with a spicy USB power adapter",
+    "Url": "https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/",
+    "Timestamp": "2023-12-19T18:02:47",
+    "Domain": "ounapuu.ee",
+    "Description": "It turns out that you can't trust any USB type A power adapter to be within spec."
+  },
+  {
+    "Title": "9 UI Frameworks for .NET Desktop App Development [2024]",
+    "Url": "https://youtube.com/watch?v=ze8o-Qa3v7Y",
+    "Timestamp": "2023-12-19T17:02:43",
+    "Domain": "youtube.com",
+    "Description": "The landscape of different user interface frameworks for .NET desktop development offers many choices.What's great for the ecosystem and experienced develope..."
+  },
+  {
+    "Title": "NASA's Webb Rings in the Holidays with the Ringed Planet Uranus",
+    "Url": "https://webbtelescope.org/contents/news-releases/2023/news-2023-150",
+    "Timestamp": "2023-12-19T17:02:42",
+    "Domain": "webbtelescope.org",
+    "Description": ""
+  },
+  {
+    "Title": "Microspeak: Locked and loaded - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20231219-00/?p=109170",
+    "Timestamp": "2023-12-19T17:02:42",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Armed and ready, with the suggestion that no further changes will be needed (or accepted)."
+  },
+  {
+    "Title": "Migrating an application from Razor Pages to Blazor",
+    "Url": "https://youtube.com/watch?v=LyZAvWFGstU",
+    "Timestamp": "2023-12-19T16:02:09",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.ioFritz works on the TagzApp open source application.  You can find it at https://github.com/FritzAndFriends/TagzApp"
+  },
+  {
+    "Title": "No More Magic String Navigation in .NET MAUI Shell with this Plugin!",
+    "Url": "https://youtube.com/watch?v=XNLKyEPWqws",
+    "Timestamp": "2023-12-19T16:02:07",
+    "Domain": "youtube.com",
+    "Description": "When you're using Shell in .NET MAUI, you're probably familiar with the URL navigation. What if I told you that this plugin can make things a lot easier? I g..."
+  },
+  {
+    "Title": "Finite-sample Gaussian efficiency: Shamos vs. Rousseeuw-Croux Qn scale estimators",
+    "Url": "https://aakinshin.net/posts/shamos-vs-qn/",
+    "Timestamp": "2023-12-19T16:02:06",
+    "Domain": "aakinshin.net",
+    "Description": "Previously, we compared the finite-sample Gaussian efficiency of the Rousseeuw-Croux scale estimators and the QAD estimator. In this post, we compare the finite-sample Gaussian efficiency of the Shamos scale estimator and the Rousseeuw-Croux (Q_n) scale e..."
+  },
+  {
+    "Title": "Querying MongoDB With ObjectId in C# - Code Maze",
+    "Url": "https://code-maze.com/querying-mongodb-objectid-csharp/",
+    "Timestamp": "2023-12-19T15:04:32",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we took a deep dive into the various ways in which we can query MongoDB with ObjectId in C#"
+  },
+  {
+    "Title": "I Handled All Exceptions in 5 min! 💙 .NET 8",
+    "Url": "https://youtube.com/watch?v=Jq_JU4NnTH0",
+    "Timestamp": "2023-12-19T14:02:48",
+    "Domain": "youtube.com",
+    "Description": "Watch as I show you how to catch all of your exceptions in .NET 8.💎 Be a Patreon to get the source code: https://patreon.com/gsferreira🚨 KEY LINKS🤝 Suppor..."
+  },
+  {
+    "Title": "Chefette Restaurants Limited",
+    "Url": "https://www.chefette.com/",
+    "Timestamp": "2023-12-19T14:02:47",
+    "Domain": "www.chefette.com",
+    "Description": ""
+  },
+  {
+    "Title": "Release dotnet-1.0.1 · microsoft/semantic-kernel",
+    "Url": "https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.0.1",
+    "Timestamp": "2023-12-19T14:02:46",
+    "Domain": "github.com",
+    "Description": "Changes:\n\ne560c3c .Net: Upgrade to v1.0.1 (#4311)\n95a621a .Net: BugFix Serializing and Deserializing ChatHistory with ToolCalling details Update OpenAI Connector to use FunctionToolCallsProperty an..."
+  },
+  {
+    "Title": "Introducing Route Generator for .NET",
+    "Url": "https://blog.ewers-peters.de/introducing-route-generator-for-net",
+    "Timestamp": "2023-12-19T12:04:08",
+    "Domain": "blog.ewers-peters.de",
+    "Description": "Learn to avoid navigation hell by having Routes auto-generated for you in your .NET frontend application"
+  },
+  {
+    "Title": "Validating appsettings becomes much faster with .NET 8",
+    "Url": "https://www.roundthecode.com/dotnet-tutorials/validating-appsettings-faster-dotnet-8",
+    "Timestamp": "2023-12-19T11:02:43",
+    "Domain": "www.roundthecode.com",
+    "Description": ".NET 8 allows for a faster way to validate the option values in appsettings.json in an ASP.NET Core Web API using data annotations."
+  },
+  {
+    "Title": "Top 6 Performance Tips when dealing with strings in C# 12 and .NET 8",
+    "Url": "https://www.code4it.dev/blog/top-6-string-performance-tips/",
+    "Timestamp": "2023-12-19T11:02:41",
+    "Domain": "www.code4it.dev",
+    "Description": "Small changes sometimes make a huge difference. Learn these 6 tips to improve the performance of your application just by handling strings correctly."
+  },
+  {
+    "Title": "Validate NuGet packages before publishing from GitHub Actions",
+    "Url": "https://blog.elmah.io/validate-nuget-packages-before-publishing-from-github-actions/",
+    "Timestamp": "2023-12-19T10:03:56",
+    "Domain": "blog.elmah.io",
+    "Description": "Using a couple of available tools you can validate NuGet packages before publishing to nuget.org. Learn how to set it up on GitHub Actions."
+  },
+  {
+    "Title": "I Love Ruby",
+    "Url": "https://eliseshaffer.com/2023/12/18/i-love-ruby/",
+    "Timestamp": "2023-12-19T08:03:27",
+    "Domain": "eliseshaffer.com",
+    "Description": "I've done a lot in my career. From working on business support software to big backend systems and even robotics. If there's been a consistent through-line to my career, it's the Ruby programming language."
+  },
+  {
+    "Title": "Christmas Countdown: #5 Sure, our servers are locked up tight in the basement!",
+    "Url": "https://www.codeart.dk/blog/2023/12/christmas-countdown-5-sure-our-servers-are-locked-up-tight-in-the-basement/",
+    "Timestamp": "2023-12-19T07:03:26",
+    "Domain": "www.codeart.dk",
+    "Description": "Securing your website is as important a topic as it is large and complex. In this post I will not go into too many details, but highlight a few problems I often see in Optimizely/EPiServer CMS implementations."
+  },
+  {
+    "Title": "Providing HTML Content Using Htmx",
+    "Url": "https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html",
+    "Timestamp": "2023-12-19T07:03:22",
+    "Domain": "postgrest.org",
+    "Description": "author, Laurence Isla,. This how-to shows a way to return HTML content and use the htmx library to handle the AJAX requests. Htmx expects an HTML response and uses it to replace an element inside the DOM (see the htmx introduction in the docs). Preparatory Configuration: We will make a to-do app ..."
+  },
+  {
+    "Title": "3Blue1Brown",
+    "Url": "https://www.3blue1brown.com/topics/calculus",
+    "Timestamp": "2023-12-19T07:03:21",
+    "Domain": "www.3blue1brown.com",
+    "Description": "Mathematics with a distinct visual perspective. Linear algebra, calculus, neural networks, topology, and more."
+  },
+  {
+    "Title": "Dynamic Trainer- MX1161EX",
+    "Url": "https://bodykore.com/product/mx1161ex-dynamic-trainer-multi-use-dual-adjustable-cable-system?doing_wp_cron=1653630834.9122259616851806640625",
+    "Timestamp": "2023-12-19T06:04:37",
+    "Domain": "bodykore.com",
+    "Description": "L"
+  },
+  {
+    "Title": "Ardalis is Steve Smith - ardalis",
+    "Url": "https://ardalis.com/",
+    "Timestamp": "2023-12-19T06:04:29",
+    "Domain": "ardalis.com",
+    "Description": "Steve is an experienced software architect and trainer, focusing currently on ASP.NET Core and Domain-Driven Design."
+  },
+  {
+    "Title": "How to Use Async/Await in JavaScript – Explained with Code Examples",
+    "Url": "https://www.freecodecamp.org/news/javascript-async-await/",
+    "Timestamp": "2023-12-19T06:04:26",
+    "Domain": "www.freecodecamp.org",
+    "Description": "Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to"
+  },
+  {
+    "Title": "Functional Programming With C# - Scan and FindIndex",
+    "Url": "https://www.thecodepainter.co.uk/blog/20231216/scanandindexof",
+    "Timestamp": "2023-12-19T06:04:26",
+    "Domain": "www.thecodepainter.co.uk",
+    "Description": "A simple technique to"
+  },
+  {
+    "Title": "Naming Made Easy: AI-Powered Rename Suggestions - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/ai-powered-rename-suggestions/",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Ever struggled to name a variable, method, or class—finding that perfect balance between expressiveness and conciseness? You’re not alone. We’ve tackled this universal challenge in the latest Visual Studio Preview via our GitHub Copilot Chat extension (subscription required). Introducing: AI-powered rename suggestions."
+  },
+  {
+    "Title": "People in Space! (2023 .NET Advent)",
+    "Url": "https://samestuffdifferentday.net/2023/12/18/space/",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "samestuffdifferentday.net",
+    "Description": "My entry for the 2023 .NET Advent - Finding out who is in space with C# with Spectre.Console with a special shout-out to The Muppet Show!"
+  },
+  {
+    "Title": "Azure Static Web Apps – VS Code extension",
+    "Url": "https://bartwullems.blogspot.com/2023/12/azure-static-web-apps-vs-code-extension.html",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "As a follow-up on the presentation I did at CloudBrew  about Azure Static Web Apps I want to write a series of blog posts.   In this first p..."
+  },
+  {
+    "Title": "Discriminated Unions in C#",
+    "Url": "https://ijrussell.github.io/posts/csharp-discriminated-union/",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "ijrussell.github.io",
+    "Description": "This blog post is a very gentle introduction to how you can simulate Discriminated Unions today in C# whilst you wait for them to be added to the C# Language. We'll look at one of the less popular reasons for wanting their introduction: Domain Modelling."
+  },
+  {
+    "Title": "Tim Heuer - Contact me",
+    "Url": "https://timheuer.com/contact",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "timheuer.com",
+    "Description": "Contact information for Tim Heuer"
+  },
+  {
+    "Title": "React-Native Push Notifications with Firebase Cloud Messaging",
+    "Url": "https://thoughtbot.com/blog/react-native-push-notifications-with-firebase-cloud-messaging",
+    "Timestamp": "2023-12-19T06:04:25",
+    "Domain": "thoughtbot.com",
+    "Description": "Dive into React Native push notifications with Firebase Cloud Messaging and Notifee. From setup nuances to advanced features, this guide equips developers to engage users effectively."
+  },
+  {
+    "Title": "Serializing restaurant tables in F#",
+    "Url": "https://blog.ploeh.dk/2023/12/18/serializing-restaurant-tables-in-f/",
+    "Timestamp": "2023-12-19T06:04:24",
+    "Domain": "blog.ploeh.dk",
+    "Description": "Using System.Text.Json, with and without Reflection."
+  },
+  {
+    "Title": "Unbricking my MacBook took an email to Tim Cook",
+    "Url": "https://www.tokyodev.com/articles/unbricking-my-macbook-took-an-email-to-tim-cook",
+    "Timestamp": "2023-12-19T05:04:29",
+    "Domain": "www.tokyodev.com",
+    "Description": "After my lost MacBook was returned to me with an Activation Lock on it, Apple refused to unlock it. Only after emailing Tim Cook could I get it unlocked."
+  },
+  {
+    "Title": "Flipboard Steps Back from Tweeting",
+    "Url": "https://flipboard.medium.com/flipboard-steps-back-from-tweeting-b0f4af1f4ffc",
+    "Timestamp": "2023-12-19T04:03:35",
+    "Domain": "flipboard.medium.com",
+    "Description": "We have decided to suspend our activity on Twitter/X. While we’ve enjoyed connecting with many of our community members there, we believe…"
+  },
+  {
+    "Title": "Subscribe to Techmeme's Daily Newsletter",
+    "Url": "https://techmeme.com/newsletter?from=itweet",
+    "Timestamp": "2023-12-19T04:03:33",
+    "Domain": "techmeme.com",
+    "Description": "Sign up for Techmeme's Daily Newsletter, and never miss a story."
+  },
+  {
+    "Title": "Building planet scale .NET apps with Azure Cosmos DB | .NET Conf 2023",
+    "Url": "https://youtube.com/watch?v=i1X8J2ge0Wo",
+    "Timestamp": "2023-12-19T01:04:24",
+    "Domain": "youtube.com",
+    "Description": "Building planet scale applications requires a database that can remain highly performant while seamlessly scaling as your needs grow. Azure Cosmos DB is a fu..."
+  },
+  {
+    "Title": "Spectral Data Clustering from Scratch Using C# -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/12/18/spectral-data-clustering.aspx",
+    "Timestamp": "2023-12-19T01:04:23",
+    "Domain": "visualstudiomagazine.com",
+    "Description": " Spectral clustering is quite complex, but it can reveal patterns in data that aren't revealed by other clustering techniques."
+  },
+  {
+    "Title": "Progress toward a GCC-based Rust compiler",
+    "Url": "https://lwn.net/SubscriberLink/954787/41470c731eda02a4/",
+    "Timestamp": "2023-12-19T01:04:22",
+    "Domain": "lwn.net",
+    "Description": "The gccrs project is an ambitious\neffort started in 2014 to implement a Rust compiler within The GNU Compiler\nCollection (GCC).  Even though the task is far from complete, progress has\nbeen made since LWN's previous coverage,\naccording to reports from the project.  Meanwhile, another hybrid and more\nmature approach to GCC Rust code generation is available in rustc_codegen_gcc."
+  },
+  {
+    "Title": "NDepend 2023.2 - This Time On Mac!",
+    "Url": "https://www.paraesthesia.com/archive/2023/12/18/ndepend-2023-2-this-time-on-mac/",
+    "Timestamp": "2023-12-19T01:04:22",
+    "Domain": "www.paraesthesia.com",
+    "Description": "It's been a while since I checked in on new NDepend features, and I've never looked from the Mac perspective, so it's time to do a refresher!"
+  }
+]

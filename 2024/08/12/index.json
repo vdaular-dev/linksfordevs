@@ -1,0 +1,93 @@
+[
+  {
+    "Title": "Streaming",
+    "Url": "https://push.cx/stream",
+    "Timestamp": "2024-08-12T23:01:08",
+    "Domain": "push.cx",
+    "Description": "Mostly this is Lobsters development and office hours (eg for queries).\nSee the announcement for more info."
+  },
+  {
+    "Title": "Repair and Remain",
+    "Url": "https://comment.org/repair-and-remain/",
+    "Timestamp": "2024-08-12T21:01:07",
+    "Domain": "comment.org",
+    "Description": "Escaping our problems, whether in our homes, our marriages, our careers, or elsewhere, is easier than remaining where we are and doing the hard work of repair."
+  },
+  {
+    "Title": "Apple’s requirements to hit creators and fans on Patreon",
+    "Url": "https://news.patreon.com/articles/understanding-apple-requirements-for-patreon",
+    "Timestamp": "2024-08-12T21:01:06",
+    "Domain": "news.patreon.com",
+    "Description": "Apple requires that Patreon switch to their iOS in-app purchase system, or risk being removed from the App Store. Here’s what’s creators need to know."
+  },
+  {
+    "Title": "PGlite",
+    "Url": "https://pglite.dev/",
+    "Timestamp": "2024-08-12T18:01:01",
+    "Domain": "pglite.dev",
+    "Description": "Lightweight WASM Postgres"
+  },
+  {
+    "Title": "There Is No Antimemetics Division",
+    "Url": "https://qntm.org/scp",
+    "Timestamp": "2024-08-12T18:01:01",
+    "Domain": "qntm.org",
+    "Description": "An antimeme is an idea with self-censoring properties; an idea which, by its intrinsic nature, discourages or prevents people from spreading it.\n\nAntimemes are real. Think of any piece of information which you wouldn't share with anybody, like passwords, taboos and dirty secr..."
+  },
+  {
+    "Title": "Okay, I really like WezTerm",
+    "Url": "https://alexplescan.com/posts/2024/08/10/wezterm/",
+    "Timestamp": "2024-08-12T17:01:03",
+    "Domain": "alexplescan.com",
+    "Description": "A guide to configuring WezTerm using its Lua API. Focuses on appearance, keybindings, multiplexing, workspace navigation, and status bar (powerline) setup."
+  },
+  {
+    "Title": "Embracing the power of the empty set in API design (and applying this principle to selectors and filters) - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240812-00/?p=110121",
+    "Timestamp": "2024-08-12T16:01:02",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "You got plenty of nothing."
+  },
+  {
+    "Title": "Passing Arguments to VS Code when Debugging in C# and .NET | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/08/passing-arguments-to-vs-code-when-debugging-in-c-and-net/",
+    "Timestamp": "2024-08-12T16:01:02",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "It used to be easier to pass arguments to an application being debugged in VS Code, but in some one of the updates this changed. Here's how to get it working again."
+  },
+  {
+    "Title": "Passing Arguments to VS Code when Debugging | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2024/08/passing-arguments-to-vs-code-when-debugging/",
+    "Timestamp": "2024-08-12T15:01:05",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "It used to be easier to pass arguments to an application being debugged in VS Code, but in some one of the updates this changed. Here's how to get it working again."
+  },
+  {
+    "Title": "GitHub - DioxusLabs/blitz: High performance HTML and CSS renderer powered by WGPU",
+    "Url": "https://github.com/DioxusLabs/blitz",
+    "Timestamp": "2024-08-12T13:01:17",
+    "Domain": "github.com",
+    "Description": "High performance HTML and CSS renderer powered by WGPU - DioxusLabs/blitz"
+  },
+  {
+    "Title": "How to avoid losing items? Holding pens.",
+    "Url": "https://blog.alexwendland.com/2024-07-07-holding-pens/",
+    "Timestamp": "2024-08-12T13:01:16",
+    "Domain": "blog.alexwendland.com",
+    "Description": "I put it in a safe spot."
+  },
+  {
+    "Title": "Server Mono",
+    "Url": "https://servermono.com/",
+    "Timestamp": "2024-08-12T08:01:03",
+    "Domain": "servermono.com",
+    "Description": "Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools."
+  },
+  {
+    "Title": "async2 - The .NET Runtime Async experiment concludes",
+    "Url": "https://steven-giesel.com/blogPost/59752c38-9c99-4641-9853-9cfa97bb2d29",
+    "Timestamp": "2024-08-12T07:01:04",
+    "Domain": "steven-giesel.com",
+    "Description": "The .NET team has been working on a new experiment called async2, which is a new implementation of the async/await pattern that is designed to be more efficient and more flexible than the current implementation. It started with green threads and ended with an experiment that moves async and await to the runtime. This post will cover the journey of async2 and the conclusion of the experiment.\n"
+  }
+]

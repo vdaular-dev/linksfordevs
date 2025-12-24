@@ -1,0 +1,310 @@
+[
+  {
+    "Title": "The Atom of Intelligence",
+    "Url": "https://blog.piekniewski.info/2023/04/16/the-atom-of-intelligence/",
+    "Timestamp": "2023-04-17T23:02:00",
+    "Domain": "blog.piekniewski.info",
+    "Description": "A short story of how intelligence evolved from the very first single celled organisms and how common patterns reappear on various scales. A story in search of an atom of intelligence. "
+  },
+  {
+    "Title": "How I use social media mindfully",
+    "Url": "https://kasra.io/posts/using-social-media/",
+    "Timestamp": "2023-04-17T23:01:54",
+    "Domain": "kasra.io",
+    "Description": "browser extensions are your friend"
+  },
+  {
+    "Title": "Welcome to Peter's DevLog - Wrapping C libraries in Nim",
+    "Url": "https://peterme.net/wrapping-c-libraries-in-nim.html",
+    "Timestamp": "2023-04-17T23:01:52",
+    "Domain": "peterme.net",
+    "Description": "As we discovered in my last article, Nim will by default generate C code and then call on a C compiler to actually produce a binary. This might seem like an odd choice, especially in the age of LLVM. However it’s actually not uncommon for languages to compile or transpile into another language. Initially the choice to not use LLVM was simply because it wasn’t as mature back when Nim was created. Though going through C has some quite substantial benefits. For example you’re able to run Nim anywhere you can run C, which means you can run it pretty much anywhere. From the tiniest micro-controllers, to mobile apps, to normal desktop/server targets1. There is another benefit though which this article focuses on, namely the ability to super easily interface with C libraries or programs. This is what’s called a foreign function interface or FFI and just means we’re calling functions from another language, in this case Nim from C, or C from Nim. Of course the Nim language has quite a few extra features and systems compared to C, so when using a library written in C we often want to do a little bit of translation work in order to make the interface a bit more familiar to Nim users2. Especially when it comes to things like memory management, and things like async. In this article I’ll outline how this works in practice, and show some examples from wrapping the Constrained Application Protocol (CoAP) library in Nim."
+  },
+  {
+    "Title": "Build things that surprise you",
+    "Url": "https://theaimaze.com/p/build-things-that-surprise-you",
+    "Timestamp": "2023-04-17T23:01:52",
+    "Domain": "theaimaze.com",
+    "Description": "From an early age, I have been captivated by surprises. The thrill of a well-crafted plot twist in a novel or an unforeseen turn in a game made me feel invigorated. As I matured, I realized that \"Building Things That Surprise You\" became the core principle guiding my work, connecting my various pursuits in life."
+  },
+  {
+    "Title": "UserModeScheduling in Windows",
+    "Url": "https://olshansky.me/posts/ums/",
+    "Timestamp": "2023-04-17T23:01:52",
+    "Domain": "olshansky.me",
+    "Description": "User mode schuduling in Windows is such a hot topic that there is about 3 total post about it on the internet. The stakes are high! First things first - I already described its mode of operation at DConf 2018.\nSo here I’ll just show some working code from implemenation of project Photon.\nFirst here is how we spawn UserModeScheduled thread:\npublic void spawn(void delegate() func) { ubyte[128] buf = void; size_t size = buf."
+  },
+  {
+    "Title": "The 10X vs. 0.1X Mindset: Balancing Growth and Sustainability for Success",
+    "Url": "https://jyotirgamya.org/opinion/point-one-x-manifesto/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "jyotirgamya.org",
+    "Description": "Discover the 10X and 0.1X mindsets and their potential drawbacks and benefits. Learn how to balance growth with sustainability, set achievable goals, and embrace mindful living for long-term success and happiness."
+  },
+  {
+    "Title": "Notes about Technical Debt",
+    "Url": "https://mikezornek.com/posts/2023/4/technical-debt/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "mikezornek.com",
+    "Description": "Sharing life and geek notes from Philadelphia."
+  },
+  {
+    "Title": "Forex Trading for Fun and Luckily Profit",
+    "Url": "https://www.dannyguo.com/blog/forex-trading-for-fun-and-luckily-profit",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "www.dannyguo.com",
+    "Description": "In college, my first programming side project involved writing foreign\nexchange (forex) trading\nprograms. This is an introduction to forex trading and the story of my brief\nstint as an amateur currency trader."
+  },
+  {
+    "Title": "Self-Modifying Prompts",
+    "Url": "https://natanyellin.com/posts/self-modifying-prompts/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "natanyellin.com",
+    "Description": "In some sense, LLMs have long-term and short-term memory. Long-term memory is the model itself and short-term memory is the current input.\nWhen using chat.openai.com, the model only remembers the last 4K tokens. To bypass this limitation, I prompted ChatGPT to identify important information throughout our conversation and propogate it forward using a self-modifying prompt.\nMy original goal was to bypass limits on prompt length, but I discovered another benefit. You can reduce the amount of prompt-engineering and get ChatGPT to fine-tune itself."
+  },
+  {
+    "Title": "Delete Your Dev Environment Regularly",
+    "Url": "https://alex.party/posts/2023-03-23-delete-your-dev-environment-regularly/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "alex.party",
+    "Description": "I have recently had the opportunity to muse about process and how we maintain a system. One of the things in particular that I have been thinking about the most is onboarding new people into your project."
+  },
+  {
+    "Title": "Recapping a wild few months for llms",
+    "Url": "https://andys.page/posts/llm_recap/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "andys.page",
+    "Description": ""
+  },
+  {
+    "Title": "Speculations about Transformers and Compositionality",
+    "Url": "https://dstrohmaier.com/transformer-speculations/",
+    "Timestamp": "2023-04-17T23:01:51",
+    "Domain": "dstrohmaier.com",
+    "Description": "Warning: Speculative Content. Expect that parts of it will be proven wrong."
+  },
+  {
+    "Title": "Technology and Moral Responsibility - Christopher Butler",
+    "Url": "https://www.chrbutler.com/2023-04-16",
+    "Timestamp": "2023-04-17T23:01:50",
+    "Domain": "www.chrbutler.com",
+    "Description": "As I’ve been cleaning up my site, I’ll occasionally read back over something I wrote many years ago. Yesterday, I re-read a series of posts I wrote"
+  },
+  {
+    "Title": "Make It Memory Safe: Adapting curl to use Rustls",
+    "Url": "https://insufficient.coffee/2023/03/30/opensource-crypto-workshop-rustls-ffi/",
+    "Timestamp": "2023-04-17T23:01:50",
+    "Domain": "insufficient.coffee",
+    "Description": "As I mentioned in my post about attending Real World Crypto 2023 and the Open Source Cryptography Workshop, I’ve given a talk discussing Rustls-FFI and the work to allow curl and libcurl to use the Rust-based, memory-safe Rustls TLS library in a talk called Make It Memory Safe: Adapting Curl to use Rustls.\n"
+  },
+  {
+    "Title": "Data Driven Detection Engineering",
+    "Url": "http://jvehent.org/2023/04/16/Data-Driven-Detection-Engineering.html",
+    "Timestamp": "2023-04-17T23:01:50",
+    "Domain": "jvehent.org",
+    "Description": "In which I argue for stronger software engineering skills in cybersecurity, and a focus on data engineering. My initial foray in the world of detection & response occurred in the mid-2000s, when the field of cybersecurity was still nascent and white hats were figuring out how to industrialize defensive techniques. Back then, the job of a security engineer was to deploy intrusion detection systems across the network and write simple rules that would typically match on IP address or signature hashes. alert udp $EXTERNAL_NET 53 -> $HOME_NET any ( msg:\"DNS SPOOF query response PTR with TTL of 1 min. and no authority\"; content:\"|85 80 00 01 00 01 00 00 00 00|\"; content:\"|C0 0C 00 0C 00 01 00 00 00|<|00 0F|\"; classtype:bad-unknown; sid:253; rev:4; ) an example of snort rule that alerts on suspicious DNS traffic Security engineers focused primarily on network infrastructure and threat intelligence. Aggregating IOCs, applying rules to well-placed sensors and investigating alerts was an analyst’s primary focus. You’d place tripwires all over the place, and wait for an attacker to trigger an alert. This seems to have served us well for a long time. We refined it over the years, with more sophisticated alert languages, frameworks like MITRE ATT&CK that helped organize threats, log aggregation systems like Splunk, etc. And judging by the content of most BSides conferences, it is still the go-to approach for a lot of teams out there. However, my observation over the past five years, first building the threat detection pipeline at Mozilla, then running the Cloud Detection team at Google, is that detection & response has shifted to focus on data driven detection engineering. The future of D&R leverages complex data models using sophisticated pipelines to detect threats in anomalous behaviors. And, as an industry, we’re not ready for it."
+  },
+  {
+    "Title": ".NET Migration Overview [1 of 18] Migrating from ASP.NET to ASP.NET Core",
+    "Url": "https://youtube.com/watch?v=zHgYDZK3MrA",
+    "Timestamp": "2023-04-17T22:01:30",
+    "Domain": "youtube.com",
+    "Description": "In this video, Mike introduces the ASP.NET to ASP.NET Core migration series that will walk through the process of migrating an ASP.NET .NET Framework app to ..."
+  },
+  {
+    "Title": "Preventing iOS Textbox Auto Zooming and ViewPort Sizing",
+    "Url": "https://weblog.west-wind.com/posts/2023/Apr/17/Preventing-iOS-Safari-Textbox-Zooming",
+    "Timestamp": "2023-04-17T21:03:06",
+    "Domain": "weblog.west-wind.com",
+    "Description": "If you've build mobile Web applications that need to run on iOS Safari and on an iPhone you might have run into the problem of input fields 'auto-zooming' the display when the input field and popup keyboard get focus. The view zooms and doesn't return back to the unzoomed even after exiting the input field. In this post I describe why this happens in some scenarios, and a couple of ways you can work around this annoying iOS Web browser behavior."
+  },
+  {
+    "Title": "Microsoft Intros Native AOT for ASP.NET Core -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/04/17/aot-aspnet-core.aspx",
+    "Timestamp": "2023-04-17T21:03:04",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "  In the new .NET 8 Preview 3, Microsoft introduced initial support for native Ahead-of-Time (AOT) compilation in the framework's web-dev component, ASP.NET Core.\n"
+  },
+  {
+    "Title": "Require user consent before sending any telemetry · Issue #176269 · microsoft/vscode",
+    "Url": "https://github.com/microsoft/vscode/issues/176269",
+    "Timestamp": "2023-04-17T20:02:27",
+    "Domain": "github.com",
+    "Description": "VSCode doesn't ask for consent from the user when sending telemetry, it's an opt out. Even if you disable telemetry after installing VSCode, some data will already have leaked out, which is inconve..."
+  },
+  {
+    "Title": "Running non-root .NET containers with Kubernetes - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/running-nonroot-kubernetes-with-dotnet/",
+    "Timestamp": "2023-04-17T19:02:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Learn how to run .NET containers in Kubernetes as a non-root user."
+  },
+  {
+    "Title": "Multinomial Naive Bayes Classification Using the scikit Library -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/04/17/multinomial-naive-bayes.aspx",
+    "Timestamp": "2023-04-17T17:02:15",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "A full-code demo from Dr. James McCaffrey of Microsoft Research shows how to predict the type of a college course by analyzing grade counts for each type of course.\n"
+  },
+  {
+    "Title": "mjg59 | Booting modern Intel CPUs",
+    "Url": "https://mjg59.dreamwidth.org/66109.html",
+    "Timestamp": "2023-04-17T17:02:13",
+    "Domain": "mjg59.dreamwidth.org",
+    "Description": "CPUs can't do anything without being told what to do, which leaves the obvious problem of how do you tell a CPU to do something in the first place. On many CPUs this is handled in the form of a reset vector - an address the CPU is hardcoded to start reading instructions from when power is applied. The address the reset vector points to will typically be some form of ROM or flash that can be read by the CPU even if no other hardware has been configured yet. This allows the system vendor to ship code that will be executed immediately after poweron, configuring the rest of the hardware and eventually getting the system into a state where it can run user-supplied code."
+  },
+  {
+    "Title": "Looking into Corax’s posting lists: Part III",
+    "Url": "https://ayende.com/blog/199268-A/looking-into-coraxs-posting-lists-part-iii?Key=632f3344-32af-489b-b7aa-c3c3f707042c",
+    "Timestamp": "2023-04-17T15:01:43",
+    "Domain": "ayende.com",
+    "Description": "We looked into the internal of Corax&rsquo;s posting list and in the last post I mentioned that we have a problem with the Baseline of the page.\nWe are by n..."
+  },
+  {
+    "Title": "Detecting Dark and Light themes in a WPF application - Gérald Barré",
+    "Url": "https://www.meziantou.net/detecting-dark-and-light-themes-in-a-wpf-application.htm",
+    "Timestamp": "2023-04-17T15:01:43",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to detect if a WPF application should use the light or dark theme."
+  },
+  {
+    "Title": "Why Upgrade to .NET? [2 of 18] Migrating from ASP.NET to ASP.NET Core",
+    "Url": "https://youtube.com/watch?v=Fb6PsBW2ekg",
+    "Timestamp": "2023-04-17T14:03:30",
+    "Domain": "youtube.com",
+    "Description": "In this video, .NET program manager Olia Gavrysh explains why you might want to upgrade to .NET 7. What benefits does .NET provide? When does it make sense t..."
+  },
+  {
+    "Title": "How can I find the invalid class when C++/WinRT tells me that the class may not be final? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230417-00/?p=108057",
+    "Timestamp": "2023-04-17T14:03:28",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "It's in the error details."
+  },
+  {
+    "Title": "Getting Started With MediatR and Vertical Slices in .NET",
+    "Url": "https://youtube.com/watch?v=Ve__md8LeDY",
+    "Timestamp": "2023-04-17T13:02:45",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello, everybody, I'm Nick, and ..."
+  },
+  {
+    "Title": "[patch 00/37] cpu/hotplug, x86: Reworked parallel CPU bringup",
+    "Url": "https://lore.kernel.org/lkml/20230414225551.858160935@linutronix.de/",
+    "Timestamp": "2023-04-17T13:02:42",
+    "Domain": "lore.kernel.org",
+    "Description": null
+  },
+  {
+    "Title": "Topics for a Senior Developer to Become a .NET Solution Architect",
+    "Url": "https://jamilhallal.blogspot.com/2023/04/topics-for-a-senior-developer-to-become-a-net-solution-architect.html",
+    "Timestamp": "2023-04-17T11:02:27",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "Topics that a senior developer can study to become a .NET solution architect."
+  },
+  {
+    "Title": "Resource-Based Authorization in ASP.NET Core - Code Maze",
+    "Url": "https://code-maze.com/aspnetcore-resource-based-authorization/",
+    "Timestamp": "2023-04-17T09:03:29",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we discuss use cases and methods to achieve resource-based authorization of requests in ASP.NET Core."
+  },
+  {
+    "Title": "A Journey through Color Space with FFmpeg",
+    "Url": "https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05",
+    "Timestamp": "2023-04-17T09:03:29",
+    "Domain": "canvatechblog.com",
+    "Description": "For those who want to understand color spaces, transform videos from one color space to another, or read how I almost went crazy working…"
+  },
+  {
+    "Title": ".NET MAUI 8 Preview 3: UI improvements, Memory Management, and NuGet Versioning ",
+    "Url": "https://www.infoq.com/news/2023/04/dotnet-maui-8-preview-3/",
+    "Timestamp": "2023-04-17T09:03:28",
+    "Domain": "www.infoq.com",
+    "Description": "Microsoft has recently released the third preview of the .NET MAUI framework in .NET 8. This latest release includes UI improvements, focusing on memory management also. In addition, Preview 3 also brings support for NuGet package versions of the app. This means that developers will now have the ability to preview future builds and lock their applications to a specific version of .NET MAUI."
+  },
+  {
+    "Title": "354: .NET Native AOT Apps Fit on a Floppy Disk!",
+    "Url": "https://www.mergeconflict.fm/354",
+    "Timestamp": "2023-04-17T09:03:27",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "With Microsoft Build and .NET 8 right around the corner, the team is hard at work optimizing the runtime to fit full Native AOT apps down under 1.44MB! That is right, it fits fully on a floppy disk! We discuss all things AOT and what you need to know."
+  },
+  {
+    "Title": "Covariance and Contravariance in C#",
+    "Url": "https://steven-giesel.com/blogPost/cda93276-c9ab-42c3-8288-a9b3e5c8aa5c",
+    "Timestamp": "2023-04-17T09:03:27",
+    "Domain": "steven-giesel.com",
+    "Description": "Let's talk about Contravariance and Covariance in C# using .NET Framework examples!\nContravariance and covariance are essential concepts in C# when dealing with generics, enabling us to have more flexibility when assigning generic types. So let's have examples straight from the framework itself!\nAlso, we will go a bit deeper and talk what some differences between generic constraints and things like Contravariance are.\n"
+  },
+  {
+    "Title": "What do Solution Architects do?",
+    "Url": "https://jamilhallal.blogspot.com/2023/04/what-do-solution-architects-do.html",
+    "Timestamp": "2023-04-17T07:02:33",
+    "Domain": "jamilhallal.blogspot.com",
+    "Description": "What solution architects do, what skills they need, and how they work with other professionals to create successful solutions."
+  },
+  {
+    "Title": "Privacy Awareness Week 2023 (1 – 7 May)",
+    "Url": "https://www.oic.qld.gov.au/training-and-events/privacy-awareness-week",
+    "Timestamp": "2023-04-17T07:02:32",
+    "Domain": "www.oic.qld.gov.au",
+    "Description": "Privacy Awareness Week is held annually in May and is a great reminder about the importance of protecting and respecting personal information."
+  },
+  {
+    "Title": "Provision Azure IoT Hub devices using DPS and X.509 certificates in ASP.NET Core",
+    "Url": "https://damienbod.com/2023/04/17/provision-azure-iot-hub-devices-using-dps-and-x-509-certificates-in-asp-net-core/",
+    "Timestamp": "2023-04-17T07:02:31",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to provision Azure IoT hub devices using Azure IoT hub device provisioning services (DPS) and ASP.NET Core. The devices are setup using chained certificates created using .NE…"
+  },
+  {
+    "Title": "Mastering Azure AI: #30DaysOfAzureAI Week Two Recap",
+    "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/mastering-azure-ai-30daysofazureai-week-two-recap/ba-p/3794739",
+    "Timestamp": "2023-04-17T06:02:39",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Looking Back: Week 2 Recap​ Week two is complete and thank you for joining us on this journey. We hope you've enjoyed the second week of #30DaysOfAzureAI and have learned a lot about building intelligent apps. Here's a recap of week two.      Here are the highlights, if you missed the articles, then..."
+  },
+  {
+    "Title": "New Azure Extensions in VSCode.dev!",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/new-azure-extensions-in-vscode-dev/ba-p/3795806",
+    "Timestamp": "2023-04-17T06:02:37",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "We are excited to announce the release of 3 Azure Extensions to vscode.dev! These extensions are Azure Static Web Apps, Azure Container Apps, and Azure Resource Groups.   vscode.dev is a development tool that is a lightweight version of VSCode that runs fully in the browser. You can open a folder on..."
+  },
+  {
+    "Title": "Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/",
+    "Timestamp": "2023-04-17T06:02:31",
+    "Domain": "aws.amazon.com",
+    "Description": "Today, Amazon CodeWhisperer, a real-time AI coding companion, is generally available and also includes a CodeWhisperer Individual tier that’s free to use for all developers. Originally launched in preview last year, CodeWhisperer keeps developers in the zone and productive, helping them write code quickly and securely and without needing to break their flow by leaving […]"
+  },
+  {
+    "Title": "Testing a periodic worker",
+    "Url": "https://blog.cellfish.se/2023/04/testing-periodic-worker.html",
+    "Timestamp": "2023-04-17T06:02:30",
+    "Domain": "blog.cellfish.se",
+    "Description": "I came across somebody that was asking about how to test their code. They had a function that would do certain work at short intervals and t..."
+  },
+  {
+    "Title": "(The Futility of) Keeping Secrets from Yourself",
+    "Url": "https://textslashplain.com/2023/04/14/the-futility-of-keeping-secrets-from-yourself/",
+    "Timestamp": "2023-04-17T06:02:30",
+    "Domain": "textslashplain.com",
+    "Description": "Many interesting problems in software design boil down to “I need my client application to know a secret, but I don’t want the user of that application (or malware) to be able to learn …"
+  },
+  {
+    "Title": "GitHub - DolphyWind/Electra-Lang: Electra is an esolang where you code like an electrician.",
+    "Url": "https://github.com/DolphyWind/Electra-Lang",
+    "Timestamp": "2023-04-17T04:02:29",
+    "Domain": "github.com",
+    "Description": "Electra is an esolang where you code like an electrician. - GitHub - DolphyWind/Electra-Lang: Electra is an esolang where you code like an electrician."
+  },
+  {
+    "Title": "Water Cooler GPT",
+    "Url": "https://www.codingblocks.net/podcast/water-cooler-gpt/",
+    "Timestamp": "2023-04-17T01:01:51",
+    "Domain": "www.codingblocks.net",
+    "Description": "Michael Outlaw is a father, husband, and software developer based out of Atlanta, GA. A fan of gadgets and all things technology, when he isn't found behind the clickety clack of his favorite mechanical keyboard he's usually found on a bicycle or tennis court. A father of two boys, Michael often spends his free time teaching his boys how to lose with dignity as they destroy him in game franchises like Overwatch, Halo, and Call of Duty. When not sharing his love of Git, C#, and unit testing, he can be found spending his \"study time\" studying the mysteries of machine learning."
+  }
+]

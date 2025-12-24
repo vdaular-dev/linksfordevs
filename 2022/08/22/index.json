@@ -1,0 +1,422 @@
+[
+  {
+    "Title": "Vulnerability in Linux containers – investigation and mitigation",
+    "Url": "https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/",
+    "Timestamp": "2022-08-22T22:01:54",
+    "Domain": "www.benthamsgaze.org",
+    "Description": "Operating system access controls, that constrain which programs can open which files, have existed for almost as long as computers themselves. Access controls are still widely used and are more flexible and efficient when compared to cryptographically protecting files. Despite the long history, ther"
+  },
+  {
+    "Title": "Bootstrapping LTE Physical channels",
+    "Url": "https://xphosnet.blogspot.com/2022/08/bootstrapping-lte-physical-channels.html",
+    "Timestamp": "2022-08-22T22:01:53",
+    "Domain": "xphosnet.blogspot.com",
+    "Description": "      Demystifying the LTE Physical Downlink Control Channels  Xphos Note to the reader:  This was a paper I wrote in latex and converted to..."
+  },
+  {
+    "Title": "Is COUNT(*) slow in MySQL? - Aaron Francis",
+    "Url": "https://aaronfrancis.com/2022/mysql-count-star-slow",
+    "Timestamp": "2022-08-22T22:01:53",
+    "Domain": "aaronfrancis.com",
+    "Description": "When to use COUNT(*) vs COUNT(id) in MySQL."
+  },
+  {
+    "Title": "Why I still take notes on paper",
+    "Url": "https://lengrand.fr/why-i-still-take-notes-on-paper/",
+    "Timestamp": "2022-08-22T22:01:53",
+    "Domain": "lengrand.fr",
+    "Description": "Why I still take notes on paper every day. Let's dive a bit into why it works for me, in no particular order."
+  },
+  {
+    "Title": "What Is The Curve Behind An Iterative Lerp?",
+    "Url": "https://marcospereira.me/2022/08/22/lerp/",
+    "Timestamp": "2022-08-22T22:01:53",
+    "Domain": "marcospereira.me",
+    "Description": "An investigation into lerping a value over multiple frames, and which curve it represents. The answer: an exponential!"
+  },
+  {
+    "Title": "How much customer service is too much? - Joydeep's Corner",
+    "Url": "https://jsensarma.com/how-much-customer-service-is-too-much/",
+    "Timestamp": "2022-08-22T22:01:52",
+    "Domain": "jsensarma.com",
+    "Description": "Can a founder be guilty of doing too much customer service? I couldn’t help but think of this recently as I watched Amod’s recent interview with Clearfeed. It made me reflect again on the long journey at Qubole. As with any journey that doesn’t go quite as planned – it […]"
+  },
+  {
+    "Title": "Designing the Tampa Devs Logo",
+    "Url": "https://www.vincentntang.com/designing-the-tampa-devs-logo/",
+    "Timestamp": "2022-08-22T22:01:52",
+    "Domain": "www.vincentntang.com",
+    "Description": "When I first set out to design the Tampa Devs logo, I wanted to build it for the long term Scaling long term meant getting branding right…"
+  },
+  {
+    "Title": "A Fresh Look at HLS Value - FPGA'er",
+    "Url": "https://fpgaer.tech/?p=84",
+    "Timestamp": "2022-08-22T22:01:52",
+    "Domain": "fpgaer.tech",
+    "Description": "by Bernard Murphy I’ve written several articles on High-Level Synthesis (HLS), designing in C, C++, or SystemC, then synthesizing to RTL. There is an unquestionable appeal to the concept. A higher level of abstraction enables a function to be described in fewer lines of code (LOC). Which immediately offers higher productivity and implies fewer bugs […]"
+  },
+  {
+    "Title": "The Solution Space",
+    "Url": "https://sethkim.me/l/thesolutionspace/?postnum=5",
+    "Timestamp": "2022-08-22T22:01:52",
+    "Domain": "sethkim.me",
+    "Description": "My grandfather was an expert wood carver, metalworker, machinist, pilot, and angler - as well as a teacher and school principal. When I began to tinker with engines and electronics as a kid, he would stress the importance of using the right tools. He had a saying along the lines of “you’re only as good as the tools you use.” As any arrogant kid would, I largely blew this off and didn’t think much of it at the time. At least, I certainly didn’t think about it at the individual, organizational, and societal scale that I do now."
+  },
+  {
+    "Title": "Employee vs freelancer - when to hire whom from the company’s perspective | By Anna Leijon",
+    "Url": "https://annaleijon.se/employee-vs-freelancer-when-to-hire.html",
+    "Timestamp": "2022-08-22T22:01:52",
+    "Domain": "annaleijon.se",
+    "Description": "If a company needs human resources to perform a task, what are the pros and cons from the company’s perspective to choose to contract a freelancer compared to hiring an employee? Previously, I have mostly written about this from the individual’s perspective (the worker’s perspective), but the company’s perspective is interesting to summarize, analyze and understand too."
+  },
+  {
+    "Title": "My cookbook for data creation · Chris Swart",
+    "Url": "https://useml.net/posts/2022/08/22/my-cookbook-for-data-creation.html",
+    "Timestamp": "2022-08-22T22:01:51",
+    "Domain": "useml.net",
+    "Description": "Last Friday I had the pleasure of speaking with Alexey Georgev on DataTalks.club about Dataset creation.\nI am sharing my data creation process here,\nso you don’t need to watch me talk for an hour."
+  },
+  {
+    "Title": "Option protocols in DeFi",
+    "Url": "https://rnikhil.com/2022/08/15/defi-derivatives.html",
+    "Timestamp": "2022-08-22T22:01:51",
+    "Domain": "rnikhil.com",
+    "Description": "This post is a summary of all the options products available in the DeFi space. I embarked on doing a bit of research after I wanted to hedge my LP positions given the current volatile market and the impending merge."
+  },
+  {
+    "Title": "(Shamelessly) Stealing my own games",
+    "Url": "https://maxbize.com/2022/08/22/stealing.html",
+    "Timestamp": "2022-08-22T22:01:51",
+    "Domain": "maxbize.com",
+    "Description": "(Shamelessly) Stealing My Own Games"
+  },
+  {
+    "Title": "Simulating memory load with fio",
+    "Url": "https://randthoughts.github.io/simulating-memory-load-with-fio/",
+    "Timestamp": "2022-08-22T22:01:51",
+    "Domain": "randthoughts.github.io",
+    "Description": "A few thoughts you're free to ignore"
+  },
+  {
+    "Title": "Physics Safety Tip",
+    "Url": "https://xkcd.com/2662/",
+    "Timestamp": "2022-08-22T22:01:51",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "[Last Week in .NET #97] – Swimming in Microsoft® Irony for Life Preview 7 Extensions Core (CTP)",
+    "Url": "https://georgestocker.com/2022/08/22/last-week-in-net-97-swimming-in-microsoft-irony-for-life-preview-7-extensions-core-ctp/",
+    "Timestamp": "2022-08-22T21:01:40",
+    "Domain": "georgestocker.com",
+    "Description": "Not too many releases this week but we are swimming in irony. Let’s get into why. Miguel de Icaza details what it’d take to get Microsoft based X-Plat UIs back into the fight, and it do…"
+  },
+  {
+    "Title": "GitHub - surrealdb/surrealdb: A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "Url": "https://github.com/surrealdb/surrealdb",
+    "Timestamp": "2022-08-22T21:01:40",
+    "Domain": "github.com",
+    "Description": "A scalable, distributed, collaborative, document-graph database, for the realtime web - GitHub - surrealdb/surrealdb: A scalable, distributed, collaborative, document-graph database, for the realti..."
+  },
+  {
+    "Title": "Application submitted for US molten salt research reactor : New Nuclear",
+    "Url": "https://www.world-nuclear-news.org/Articles/Application-submitted-for-US-molten-salt-research",
+    "Timestamp": "2022-08-22T21:01:40",
+    "Domain": "www.world-nuclear-news.org",
+    "Description": "Abilene Christian University has applied to the US Nuclear Regulatory Commission for a construction licence for a molten salt research reactor, to be built on its campus in Abilene, Texas, as part of the Nuclear Energy eXperimental Testing laboratory. ​ACU plans for the MSRR to achieve criticality by December 2025."
+  },
+  {
+    "Title": "Why is Snowflake so expensive?",
+    "Url": "https://blog.devgenius.io/why-is-snowflake-so-expensive-92b67203945",
+    "Timestamp": "2022-08-22T20:01:50",
+    "Domain": "blog.devgenius.io",
+    "Description": "Snowflake has an unsustainable pricing model"
+  },
+  {
+    "Title": "Stable Diffusion Public Release — Stability.Ai",
+    "Url": "https://stability.ai/blog/stable-diffusion-public-release",
+    "Timestamp": "2022-08-22T20:01:48",
+    "Domain": "stability.ai",
+    "Description": "Over the last few weeks we all have been overwhelmed by the response and have been working hard to ensure a safe and ethical release, incorporating data from our beta model tests and community for the developers to act on."
+  },
+  {
+    "Title": "GitHub - kingyoPiyo/Pico-10BASE-T: 10BASE-T from Raspberry Pi Pico",
+    "Url": "https://github.com/kingyoPiyo/Pico-10BASE-T",
+    "Timestamp": "2022-08-22T19:01:46",
+    "Domain": "github.com",
+    "Description": "10BASE-T from Raspberry Pi Pico. Contribute to kingyoPiyo/Pico-10BASE-T development by creating an account on GitHub."
+  },
+  {
+    "Title": "What's Next for .NET MAUI? Roadmap & Xamarin Sunset Unveiled -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/08/22/net-maui-roadmap.aspx",
+    "Timestamp": "2022-08-22T19:01:41",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "  .NET MAUI, which evolves Xamarin.Forms by adding desktop app support, has arrived in .NET 6 and Visual Studio 2022, but what's coming up?\n"
+  },
+  {
+    "Title": "C# 11 preview: generic math, required members, and more",
+    "Url": "https://devblogs.microsoft.com/dotnet/csharp-11-preview-august-update/",
+    "Timestamp": "2022-08-22T19:01:39",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Most of the C# 11 features are available for you to try. Learn about the latest updates shipping with Visual Studio 17.3, try them out, and give us feedback."
+  },
+  {
+    "Title": "Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor",
+    "Url": "https://www.modzero.com/modlog/archives/2022/08/22/ridiculous_vulnerability_disclosure_process_with_crowdstrike_falcon_sensor/index.html",
+    "Timestamp": "2022-08-22T19:01:39",
+    "Domain": "www.modzero.com",
+    "Description": "We found a security related issue in most recent CrowdStrike Falcon Sensor. The bug itself is not worth a blogpost, as the severity is pretty low. However, we'd like to shed some light on a vulnerability submission and disclosure process with CrowdStrike: It was pretty weird."
+  },
+  {
+    "Title": "7 Colour E-Ink Display For Raspberry Pi | Inky Impression 5.7",
+    "Url": "https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/",
+    "Timestamp": "2022-08-22T18:01:29",
+    "Domain": "core-electronics.com.au",
+    "Description": " It has finally happened, they figured it out! The new frontier of Colour Electronic Paper is here and I'm very impressed. People have been demanding this ever since the first E-Paper readers hit the market in the noughties. That black and white just wasn't cutting it, we wanted colours and technology has finally caught up! All thanks to Pimoroni. \nPlus right now I'd be so bold as to call this a hidden gem. These screens have all the benefits of an electronic paper device, including excellent battery life and perfect visibility in sunlight, but finally in full colour! Once you display an image to the screen it will stay there for ages, up to weeks, completely unpowered. To be clear these screens can produce seven-block colours; Blue, Green, Red, White, Yellow, Orange, and Black. In combination with dithering, the method used by computers to approximate a colour from a mixture of other colours when the required colour is not available, this Electronic Ink display can produce basically all the colours!This will be a guide specifically on the Inky Impression 5.7\" (7 Colour ePaper/eInk HAT, 600x448 Pixels) by Pimoroni. Pimoroni has a little brother version too, an Inky Impression 4\" (7 Colour ePaper/eInk HAT, 600x400 pixels). Everything explained here will be applicable for both these screens. See the contents of this guide below.\n-          Colourful Picture Examples and Technology Overview-          What You Need-          Hardware Set-Up-          Installing Software to Raspberry Pi OS-          Displaying Images and Clearing Using Example Scripts-          Displaying a Webpage-          Where to Now (Putting in Photograph Frame, Auto Random Image on Boot Up, and using a Raspberry Pi Zero)-          Downloads and a Note on Colour Accuracy\nThere is a caveat, however, as the Colour E-Ink technology is currently set up to do full-screen refreshes each time the image changes (no partial refreshes yet, but a little bit of clever software that could be overcome). This means that screen flashing when images changes happen, as well as a long refresh time, is to be expected. All E-Ink displays have this limitation but with more colours comes a longer refresh time. This particular 5.7\" screen takes around 15 seconds to do a full refresh. To have an E-Ink Display that is faster at updating and has effective partial refreshing you are better off using a Black and White version. For a behemoth of an E-Ink Display check out the Waveshare 10.3\" Black and White E-Ink Display. Nevertheless, just check out some examples of what these 7-Colour E-Ink displays can do below. \n\nMulticolour E-Ink displays are commonly used for signage purposes (like shelf labels that don’t require updates very often). Electronic Paper has never been great as a user interfaces (UI) display where it would need to refresh quickly. Nevertheless, in the right application, E-Ink is really sweet technology, especially now that we have all the colour under the rainbow to play with. As always if you have any questions, queries, or things you'd like me to display on this screen, please let us know your thoughts!Colourful Picture Examples and Technology OverviewThe best introduction to this 7 colour E-Ink Display is a collage of colourful images exhibited by this display. This will also let you see how dithering alters images to get the full range of colours. It will also provide an inclination as to what types of images this screen replicates the best. From my preliminary experiments with this display hand-drawn art looks fantastic. Old film photographs have increased dithering when compared to digitally captured photographs. Watercoloured painting and old posters look fantastic, along with most styles of paintings. Also, if you have a specific image you’d like me to try out with this screen, write up a forum post or the comments below. I'll set it up and show you. These images were all taken with the Pimoroni Board attached on top of a Raspberry Pi 4 Model B placed flat on the table just like the image below. An iPhone SE was used to take photos of the E-Ink display in a well-lit office room. The display is exhibiting a panel from a spiderman comic. \n\nI will include all the images here in the download section below so you can see the original if you desire. The software resizes the images so pixel size is not so important. If the desired image is not the same ratio as the 600x448 display it will resize the desired image to fit the screen. The current Pimoroni example software which displayed all these images will format them to the exact pixel size as the screen. This can lead to weirdly stretched images if not managed.\nBelow shows a hand-drawn image and a watercolour painting. In the first image of this article has a hand-drawn kitten picture, an old Monoco Race Poster, an Analogue colour photo of the 1969 Tour De France, a Digital image of Jonathan Rea racing his 2019 Kawasaki Race bike and a digitally created skyscape are shown. Hopefully, this is a wide enough selection so you can get a feel for what images this screen excels at reproducing. Right-click any image and open it into a new window to see it at full size.\n\nThe technology inside these is remarkable. Not only are they very pretty displays they are also very power-efficient displays. If you send an image to it, it will stay there for ages. Up to weeks unpowered with very little deterioration in quality. This all has to do with the technology making these screens operate and how very different they are from LCD displays. To get a grasp on what is going on inside E-Ink Paper, imagine 1000s of tiny oil-filled bubbles all pushed (crammed) together and lined up on a flat surface. These tiny oil-filled bubbles have inside them many positively or negatively charged tiny particles which each have colours. Then depending on the current flowing above or below these oil filled bubbles certain particles are drawn up or down. When the particles are drawn to the top of the oil filled bubble we can then see their colour displayed on the E-INK screen. Cut all power to the screen and those bubbles are going to keep displaying the same colour as the particle won’t move. It takes some serious vibrations to have any degradation to the desired picture. In the image below is the evolution of these oil bubbles, from simple Black and white, three colours, higher resolution/contrast black and white, to the 7 Colour E-Ink technology, the ACeP oil bubbles.\n \nNow more colours mean longer refresh time with more full-screen flashes when images are changed. This is what needs to happen to get all those different coloured particles in the correct place. That is the only considerable drawback of these screens and this is just how it is with the current multiple coloured E-Ink technology. For those curious as to what the screen looks like really close up, check the below image, as it will provide you with an idea of the top of the oil capsules all pushed up together with their colourful particles showing.\nWhat You NeedBelow is everything you need to set up your Raspberry Pi 4 Model B with the Pimoroni Inky Impression 5.7\" (7 Colour ePaper/eInk) HAT. A HAT is an anagram for Hardware Attached on Top, it refers to boards that easily plug directly on top of and improve the capabilities of the target board.\n- A Raspberry Pi Palm-Sized Computer (in my case I have used a Raspberry Pi 4 Model B 2GB but this display is perfect for an earlier lower-spec Pi like the Raspberry Pi 3 or Raspberry Pi Zero)- Inky Impression 5.7\" (7 colour ePaper/eInk HAT)- Micro SD Card flashed with Raspberry Pi OS - 2x20 Socket Riser Header for Raspberry Pi HATs and Bonnets- Power Supply- Mouse and KeyboardHardware Set-UpThis is all about putting the two boards together. During the installation process, I would recommend keeping the screen protector that comes in stock with the screen on the Pimoroni 7Ink display screen. The front panel is glass. It can get scratched and bumps can crack it. The E-Ink Panel comes pre-assembled with female connections for any board with the standard 2x20 GPIO pin footprint like the Raspberry Pi, Google Coral, and NVIDIA Jetson. If your board does not have male 2x20 GPIO pins it will require GPIO Pins to be soldered or Hammer Headered onto the board.\nAlso, Raspberry Pi Zeros won't require stand-offs or any extra header tomfoolery. This is particularly desirable if you are going for a height that is as sleek as possible). If you are using a Raspberry Pi 4 Model B you will need to add an Extended GPIO 2x20 Socket Riser Header. Otherwise, because the USB and Ethernet connectors are too tall, you won't be able to connect to the GPIO pins. Use the screw-down standoffs and fasten the back of the board onto the standoffs with screws (that are all supplied with the Pimoroni Screen). Doing so will create a very stable package that doesn't rely on the GPIO for mechanical strength. If you are just temporarily putting the board in place for some testing you can forgo the fasteners as you can see I have in the build image below. When you are pushing the boards together do so carefully and by pressing evenly on all corners of the board. The front of the screen is glass do be careful.\n\nWith the above complete, take the time to insert the micro-SD card and, Baddaboom, you are good to go. Just connect up your Raspberry Pi as a desktop computer and you’ll be done with hardware assembly. See this happening in the image below, also if that is too fast a jump for you check out this guide here where I dive deep into the process of connecting up a Raspberry Pi as a desktop computer.\nInstalling\nsoftware to Raspberry Pi OSTo make your life with this screen the best possible let's download the software that is already built by Pimoroni to support it. As you have set up the hardware to run as a desktop computer with power to the system you should be welcomed by the Raspberry Pi Desktop. Open up the Terminal window by clicking on the black button on the top left of the screen, you can see exactly where that location is in the image below. Once here type and enter the below, if prompted press Y and Enter on your keyboard to further install all the packages and example scripts.\ncurl https://get.pimoroni.com/inky | bash\n\nOnce complete this script will have enabled SPI (the connection method this E-Ink screen connects to the Raspberry Pi Board), installed all the drivers for Pimoroni E-Paper boards, and downloaded some very useful examples scripts. From here on out we can run these Example scripts through terminal commands. For all the Examples scripts we will use Terminal Command to activate and run them.\nTroubleshooting. If you are unable to run that single terminal command because it returns an error like | curl failed to verify the legitimacy of the server and therefore could not establish a secure connection to it | I have the fix. You will need to go through this installation process by installing the Inky packages directly from Pimoroni’s Github page. This happened to me the second time because the Pimoroni Curl Servers were down. Open up a new terminal window exactly the same. Type and enter the following three lines into it, one by one, doing this will look a lot like the image below.\ngit clone https://github.com/pimoroni/inkycd inkysudo ./install.sh\n\nYou will also need to enable I2C and SPI (these are communication methods used by circuit boards, you can learn a lot more about these in this and linked guides). To change these settings you can find them in the Raspberry Pi Configuration Menu. This can be accessed by clicking on the top left Raspberry Pi symbol and hovering over the | Preferences | options. See this process occurring in the image below. You can also access this Menu directly using a new terminal window by typing and entering the following into it | sudo raspi-config |.\nDisplaying\nImages and Clearing Using the Example ScriptsHere is how to display a simple image with file name | Art.jpeg |. Open up the Terminal window by clicking on the black button on the top left of the screen. With that open make sure you have an image called | Art.jpeg | in the folder | /home/pi/Pimoroni/inky/examples/7color |. This is the folder that images will be searched for, if you only have the image saved to the desktop, the picture won't be found, and the following won't work. Type and enter the below two lines. The first line focuses the Terminal onto the download location of the | image.py | example python script. The second line will run that python script with the Python Programming Language and select the image named | Art.jpeg |. Note that different file formats or names will work too, just alter the second line appropriately. \ncd /home/pi/Pimoroni/inky/examples/7colorpython3 image.py Art.jpg\n\nAs soon as you type enter on the above terminal command you will notice your screen go through a number of total page refreshes to get all the coloured particles where they need to be. You can see this in the image below. This will take up to 15 seconds to complete.\n\nWorth noting is also how to clear that image. If you don’t clear the image and instead keep telling it to do new images, over and over again, you can have serious ghosting problems. This will look like a faint remnant of the previously displayed image. Keep doing it and you will end up with a permanent ghosted image on the display. It is good practice to run a clean between each image refresh. Pimoroni has kindly created an example script that will do just that. Type and enter the two lines below, one by one, into a new terminal window. Doing so will run the clear the display of any images. \ncd home/pi/Pimoroni/inky/examples/7colorpython3 clear.py\n\nYou can alter the Saturation from 0 to 1. Making it higher saturation will make the colours pop better. To alter the saturation file open up the Python Script | image.py | with Thonny IDE by right-clicking the script's icon. Having done that scroll down just a little until you see the variable named saturation. Adjust to your heart's content, the default is 0.5 and you can adjust that value from | 0 to 1 |. Play around with the saturation levels to get exactly what you want for your specific image.                                                                \n\nBelow are some examples of the same image being exhibited with different levels of saturation. Those images provide a good understanding. The actual driver doing the colour changes for this 7 Colour E-Ink display is called Inky UC8159. You will be able to see it in the folder structure as it was downloaded with the Pimoroni Package that we installed. Dive in there to edit it if you want.\nDisplaying a Webpage ExampleThere are other great Pimoroni examples like the one for displaying a webpage. It can be run in very similar ways as before and found in a similar location, just one folder deeper. Run the script by typing and entering the below. This script will then take a screenshot of the target website and then display it onto the electronic ink display. Type and enter the following to do just this.\ncd /home/pi/Pimoroni/inky/examples/7color/html./html.sh hello-world.html\n\nAs soon as it runs it will save what it sees on the HTML page | hello-world.html | as a screenshot image and then displays that image onto your Electronic Paper display. Literally, if you can make a webpage out of your project then you can show it on a 7-colour Electronic Paper Display. It is that easy.Where to Now (Putting in Photograph Frame, Auto Random Image on Boot Up, and using a Raspberry Pi Zero)Below is an image of how I have set up the Pimoroni Display inside a pretty picture frame. I can control what image goes to it hands-free and remotely, as I have provided the local network details and enabled SSH and VNC. If I want to add more images to the folder in the Raspberry Pi I can do it via my phone, using the RaspController App - Link to Guide. Then through SSH, I can order the Raspberry Pi to run the | image.py | script focusing it on my desired picture. I have set up a script using CronTAB (linked is a guide all about this) so that it will run a particular python script every time the system boots up. This python script tells the system to pick and display a random image (more than 10 choices currently) that I have saved inside the same folder as the previous scripts.\n\nOnce I have all the images I want to be displayed, I then just turn on or off the Raspberry PI (which I have set to Read-Only Mode so that way I cannot corrupt the SD card from sudden power removal - Link to Guide). And it will flick on and off once a day using a Vintage Click 24 Hour Mechanical Timer I picked up at a garage sale. A new, beautiful, full color electronic ink image to be surprised by every day! Below is an image showing exactly what is written in the Randomizer Python Script as well as exactly how to make it Run on Boot every time, if I was being nitpicky I would add a | clear.py | cycle before running the display next image. If any text is too small right-click the image and open it with a new tab, that way you can zoom right in. As this is the Where to Now section I won't go ultra-deep into this but everything you need is down below. \n \nTo make this screen fit really well, I 3D Printed a frame mount out of Black Ultimaker PLA. I have the STL for the frame mount that I used in the download section below. I purchased the frame from the local antique store, if you searching for a frame find one with a big back area so that way you can cram in the electronics. This system could be made using a battery but due to the power-hungry nature of Raspberry Pi single-board computers, I simply have a stealthy USB cord coming out of the frame in one of the corners. Keep in mind you can always remove the cord or hide it in the case once the picture has changed. For this use case, I wanted a smaller form factor of all the electronics. To achieve this I used a Raspberry Pi Zero instead of the Raspberry Pi 4 Model B. I directly connected the Pi Zero into the screen, without stand-offs and just swapped the Micro-SD (which I had added the above code and images into it) across, see the internals below. This is a literal brain transplant but without any gross-ness.\n\nI would also like to take advantage of those four buttons that are attached to the screen. Simply setting it up so I can press a button on the screen that will run the randomizer script or make a particular image be selected (if you are not in the mood for a particular picture) would be a breeze to set up. In fact, attached in the download section below is a script called | Randomizer.py |. Whenever that script is running if you press any of the buttons on the back of the screen it will change the displayed image to a randomly selected one. Also please note here my inability to accept color as the correct spelling of colour. In the future, I will change the downloaded folder name to be more easily readable but out of respect to the amazing team at Pimoroni, I have kept it the same for this tutorial.\nNow I'm using this screen mainly as an Art piece display however you could definitely use it for more important, schedule keeping purposes. Just check out the above video to see the setup displaying the Weekly Tasks to do scheduler. I truly cannot wait to get a screen exactly like this but poster-sized. It would just be magic.Downloads and a Note on Colour AccuracyNow I haven't run into any issues with the colour representation however if you live in a particularly hot or cold climate this is worth knowing. As oil has different viscosity depending on the temperature. Thus the colour fidelity of the screen will become muted when refreshed at low temperatures. The team at Pimoroni got the best results from this display when refreshing it at an ambient room temperature, if the screen is very cold you might find that the colours are less vibrant.\nThe STL file for the screen mount is in the link below. This will be useful as an inspiration tool but you will likely need to modify it for your particular frame. If printing it make sure the side facing outwards from the frame is printed directly onto the build platform. The way the surface finish will be nicer. Also when 3D slicing the file, sink the model lower in the Z-axis so only two layers are actually printed. That way the result is effectively seamless between the screen and the mount.\n \nDownload all Scripts and STL Files using the Link Here"
+  },
+  {
+    "Title": "The downfall of smart TVs: From promises of seamless viewing to ad tool on steroids",
+    "Url": "https://adguard.com/en/blog/smart-tv-ad-blocking.html",
+    "Timestamp": "2022-08-22T18:01:28",
+    "Domain": "adguard.com",
+    "Description": "Before we start talking about smart TV technology, let's take a short trip down memory lane and recall what television was like without it: it's the early 2000s, your favorite show is on, the action builds to a climax, you're on the edge of your seat.... and there it is, the dreaded commercial break."
+  },
+  {
+    "Title": "Daily links from Cory Doctorow",
+    "Url": "https://pluralistic.net/2022/08/21/great-taylors-ghost/#solidarity-or-bust",
+    "Timestamp": "2022-08-22T18:01:27",
+    "Domain": "pluralistic.net",
+    "Description": ""
+  },
+  {
+    "Title": "Applying a rule from Pixar with a camera from 1961",
+    "Url": "https://news.gregjeanneau.com/pixar-camera-1961/",
+    "Timestamp": "2022-08-22T18:01:27",
+    "Domain": "news.gregjeanneau.com",
+    "Description": "While visiting Tokyo's fabulous vintage camera stores, I discovered the Olympus Pen ee3. This camera has an interesting origin story..."
+  },
+  {
+    "Title": "Apple expands Self Service Repair to Mac notebooks ",
+    "Url": "https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/",
+    "Timestamp": "2022-08-22T17:01:48",
+    "Domain": "www.apple.com",
+    "Description": "Genuine Apple parts and tools can be purchased by US customers on August 23."
+  },
+  {
+    "Title": "6 Event-Driven Architecture Patterns — Part 1",
+    "Url": "https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47",
+    "Timestamp": "2022-08-22T15:01:20",
+    "Domain": "medium.com",
+    "Description": "Event-driven Patterns that are used at Wix Backend that comprises 1400 microservices"
+  },
+  {
+    "Title": "Regex with IgnoreCase option may match more characters than expected - Gérald Barré",
+    "Url": "https://www.meziantou.net/regex-with-ignorecase-option-may-match-more-characters-than-expected.htm",
+    "Timestamp": "2022-08-22T15:01:18",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe why the IgnoreCase regex option in .NET may match more characters than expected."
+  },
+  {
+    "Title": "This Program is Illegally Packaged in 14 Distributions",
+    "Url": "https://artemis.sh/2022/08/21/this-program-is-illegally-packaged-in-14-distributions.html",
+    "Timestamp": "2022-08-22T15:01:18",
+    "Domain": "artemis.sh",
+    "Description": "I am not a lawyer. Today I wanted to package the tea command line utility, which is a CLI frontend for the gitea git forge. Gentoo’s guidelines for Go helpfully states: “Since Go programs are statically linked, it is important that your ebuild’s LICENSE= setting includes the licenses of all statically linked dependencies. So please make sure it is accurate”. Naturally, I’m happy to oblige. So you know, I go looking at the licenses for tea’s dependencies, and it turns out one of those dependencies doesn’t have a license at all! I’m no expert, but this may violate the GNU Free System Distribution Guidelines that distributions like parabola strive to adhere to. Oh fun."
+  },
+  {
+    "Title": "The AArch64 processor (aka arm64), part 19: Miscellaneous instructions",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20220822-00/?p=107032",
+    "Timestamp": "2022-08-22T14:01:30",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Sweeping up the crumbs."
+  },
+  {
+    "Title": "Getting started with Pub/Sub Messaging in .NET",
+    "Url": "https://youtube.com/watch?v=IDJv0S9yf7Q",
+    "Timestamp": "2022-08-22T12:01:22",
+    "Domain": "youtube.com",
+    "Description": "Get $50 free AWS Credit by adding \"AWS CREDIT #NICK\" in the \"Tell us about your project\" area: https://bit.ly/nickawsGet the source code: https://github.com/..."
+  },
+  {
+    "Title": "I tried to recreate a comic book using DALL-E and Alan Moore’s script",
+    "Url": "https://rubikscode.net/2022/08/22/i-tried-to-recreate-a-comic-book-using-dall-e-and-alan-moores-script/",
+    "Timestamp": "2022-08-22T09:01:16",
+    "Domain": "rubikscode.net",
+    "Description": "In this article, I wanted to see how this OpenAI’s Dall-E would handle creating images from the comic book script, namely Killing Joke by Anal Moore."
+  },
+  {
+    "Title": "Different Ways to Add Values to a C# Array - Code Maze",
+    "Url": "https://code-maze.com/add-values-to-csharp-array/",
+    "Timestamp": "2022-08-22T09:01:15",
+    "Domain": "code-maze.com",
+    "Description": "How do we add values to an array in C#? There are a few ways we can do it and then we'll do a benchmark to see which one is the fastest."
+  },
+  {
+    "Title": "320: All the .NETs",
+    "Url": "https://www.mergeconflict.fm/320",
+    "Timestamp": "2022-08-22T09:01:15",
+    "Domain": "www.mergeconflict.fm",
+    "Description": ""
+  },
+  {
+    "Title": "New Video: Coding Shorts - Output Caching in ASP.NET Core 7\n",
+    "Url": "https://wildermuth.com/2022/08/10/coding-shorts-output-caching-asp-net-core/",
+    "Timestamp": "2022-08-22T06:02:07",
+    "Domain": "wildermuth.com",
+    "Description": "In continuing my discussion of middleware in my Coding Shorts videos, I have a new one that talks about a change to .NET 7 that brings back Output Caching.\n"
+  },
+  {
+    "Title": "Armchair Architects: The role of Simplicity in Architecture",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-architecture-blog/armchair-architects-the-role-of-simplicity-in-architecture/ba-p/3596633",
+    "Timestamp": "2022-08-22T06:02:02",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "What are the tradeoffs between robust functionality, flexibility, simplicity, and ease of operation? How do our Armchair Architects design solutions that start as high as they want and go as low as they need? Uli, Eric, and David discuss these questions and more in a recent episode of the Azure Enab..."
+  },
+  {
+    "Title": "Build a data serving API",
+    "Url": "https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/build-a-data-serving-api/ba-p/3569365",
+    "Timestamp": "2022-08-22T06:02:02",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Overview Data is an important asset to all organizations big and small. As these organizations mature, building an end-to-end data platform to enable BI and AI at scale has become part of that journey. Some organizations, have the requirement to expose modelled data in a data warehouse or data lake ..."
+  },
+  {
+    "Title": "Fun With Custom Interpolated String Handlers",
+    "Url": "https://khalidabuhakmeh.com/fun-with-custom-interpolated-string-handlers",
+    "Timestamp": "2022-08-22T06:02:01",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Using C# and .NET InterpolatedStringHandler to write custom string interpolation handlers."
+  },
+  {
+    "Title": "Introducing the Markdown Language Server",
+    "Url": "https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server",
+    "Timestamp": "2022-08-22T06:02:01",
+    "Domain": "code.visualstudio.com",
+    "Description": "Why we decided to build a language server for working with Markdown"
+  },
+  {
+    "Title": "Announcing TypeScript 4.8 RC",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-8-rc/",
+    "Timestamp": "2022-08-22T06:02:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today we’re excited to announce our Release Candidate (RC) of TypeScript 4.8. Between now and the stable release of TypeScript 4.8, we expect no further changes apart from critical bug fixes. To get started using the RC, you can get it through NuGet,"
+  },
+  {
+    "Title": "Refactoring Minimal APIs with Carter - Code Rethinked",
+    "Url": "https://coderethinked.com/refactoring-minimal-apis-with-carter/",
+    "Timestamp": "2022-08-22T06:02:00",
+    "Domain": "coderethinked.com",
+    "Description": "In this post, we will refactor minimal APIs with Carter framework. We'll also see how to install, setup and write modules with Carter framework"
+  },
+  {
+    "Title": "Using TypeScript With React and KendoReact Components",
+    "Url": "https://www.telerik.com/blogs/using-typescript-with-react-kendoreact-components",
+    "Timestamp": "2022-08-22T06:01:59",
+    "Domain": "www.telerik.com",
+    "Description": "KendoReact is a feature-rich UI component library written with TypeScript. Using the DatePicker as an example, we’ll see how TS can simplify development."
+  },
+  {
+    "Title": "Exciting new release of SynapseML",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/exciting-new-release-of-synapseml/ba-p/3589606",
+    "Timestamp": "2022-08-22T06:01:58",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "     Today we’re excited to announce another great release of SynapseML v0.10.0 (Previously MMLSpark), an open-source library that aims to simplify the creation of massively scalable machine learning pipelines. This is great news for all our SynapseML fans out there and this blog post covers the lat..."
+  },
+  {
+    "Title": "Azure Migrate now supports large-scale migration of ASP.NET web apps to Azure App Service",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/azure-migrate-now-supports-large-scale-migration-of-asp-net-web/ba-p/3596510",
+    "Timestamp": "2022-08-22T06:01:58",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Azure is excited to announce the public preview of another key capability in Azure Migrate: unified, at-scale, agentless migration for ASP.NET web apps to Azure App Service. This scenario is in keeping with our vision of Azure Migrate to simplify and accelerate migration and modernization with best-..."
+  },
+  {
+    "Title": "Why Isolating Your Unit Tests Matters",
+    "Url": "https://www.telerik.com/blogs/why-isolating-your-unit-tests-matters",
+    "Timestamp": "2022-08-22T06:01:58",
+    "Domain": "www.telerik.com",
+    "Description": "If you do a good job of isolating your code, you may never hear the words “Well, it worked in test” again."
+  },
+  {
+    "Title": "Interim guidance on 2022 time zone updates for Chile",
+    "Url": "https://techcommunity.microsoft.com/t5/daylight-saving-time-time-zone/interim-guidance-on-2022-time-zone-updates-for-chile/ba-p/3598290",
+    "Timestamp": "2022-08-22T06:01:58",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "On August 8, 2022, the Chilean government made an official announcement about a Daylight Saving Time (DST) time zone change. Starting at 12:00 a.m. Saturday, September 10, 2022 until 12:00 a.m. Saturday, April 1, 2023, the official time will advance 60 minutes. The impacts of this change are as foll..."
+  },
+  {
+    "Title": "Announcing Entity Framework 7 Preview 7: Interceptors!",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-ef7-preview7-entity-framework/",
+    "Timestamp": "2022-08-22T06:01:58",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing EF7 Preview 7 with new and improved interceptors, and so much more!"
+  },
+  {
+    "Title": "Learn web development using .NET and Visual Studio",
+    "Url": "https://dev.to/dotnet/learn-web-development-using-net-and-visual-studio-5b6j",
+    "Timestamp": "2022-08-22T06:01:56",
+    "Domain": "dev.to",
+    "Description": "Have you ever wanted to try out web development with .NET, but are not sure where to get started?..."
+  },
+  {
+    "Title": "Pragmatic Event Sourcing in .NET With Marten – Webinar Recording | The .NET Tools Blog",
+    "Url": "https://blog.jetbrains.com/dotnet/2022/08/18/pragmatic-event-sourcing-in-net-with-marten-webinar-recording/",
+    "Timestamp": "2022-08-22T06:01:56",
+    "Domain": "blog.jetbrains.com",
+    "Description": "The recording for our live stream Pragmatic Event Sourcing in .NET With Marten with Developer, Educator, and Event Sourcerer Oskar Dudycz, is now available. Subscribe to our community newsletter to re"
+  },
+  {
+    "Title": "Mocking Best Practices",
+    "Url": "https://www.telerik.com/blogs/mocking-best-practices",
+    "Timestamp": "2022-08-22T06:01:56",
+    "Domain": "www.telerik.com",
+    "Description": "Best practices in using mocking tools ensure that all your mocks add value to your testing without adding additional costs."
+  },
+  {
+    "Title": "DevOps 101: The role of automation in Database DevOps",
+    "Url": "https://www.red-gate.com/blog/database-devops/devops-101-the-role-of-automation-in-database-devops",
+    "Timestamp": "2022-08-22T06:01:56",
+    "Domain": "www.red-gate.com",
+    "Description": "In the fifth part of the DevOps 101 series, Grant Fritchey talks about what you need to automate to adopt Database DevOps, and why."
+  },
+  {
+    "Title": "Emergent Leader",
+    "Url": "https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html",
+    "Timestamp": "2022-08-22T06:01:55",
+    "Domain": "martinfowler.com",
+    "Description": "Order cluster nodes based on their age whithin the cluster to allow\n            nodes to select a leader without running an explicit election.\n    "
+  },
+  {
+    "Title": "8 elements of securing Node.js applications | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2022/08/09/8-elements-securing-nodejs-applications",
+    "Timestamp": "2022-08-22T06:01:55",
+    "Domain": "developers.redhat.com",
+    "Description": "Discover key elements of building security into your software development process such as managing access in part 9 of the Node.js reference architecture series."
+  },
+  {
+    "Title": "Clock-Bound Wait",
+    "Url": "https://martinfowler.com/articles/patterns-of-distributed-systems/clock-bound.html",
+    "Timestamp": "2022-08-22T06:01:55",
+    "Domain": "martinfowler.com",
+    "Description": "Wait to cover the uncertainty in time across cluster nodes before \n          reading and writing values so values \n          can be correctly ordered across cluster nodes.\n  "
+  },
+  {
+    "Title": "Micro Frontends in Action With ASP.NET Core - Composition via Blazor WebAssembly Based Web Components",
+    "Url": "https://www.tpeczek.com/2022/08/micro-frontends-in-action-with-aspnet.html",
+    "Timestamp": "2022-08-22T06:01:55",
+    "Domain": "www.tpeczek.com",
+    "Description": "This post describes implementation of client-side composition for micro frontends via Blazor WebAssembly based Web Components."
+  },
+  {
+    "Title": "LibGen's Bloat Problem",
+    "Url": "https://liberalgeneral.neocities.org/libgens-bloat-problem/",
+    "Timestamp": "2022-08-22T03:01:15",
+    "Domain": "liberalgeneral.neocities.org",
+    "Description": "2022-08-21"
+  },
+  {
+    "Title": "GitHub - bootdotdev/curriculum: A roadmap for Boot.dev's CS curriculum for backend developers",
+    "Url": "https://github.com/bootdotdev/curriculum",
+    "Timestamp": "2022-08-22T01:01:40",
+    "Domain": "github.com",
+    "Description": "A roadmap for Boot.dev's CS curriculum for backend developers - GitHub - bootdotdev/curriculum: A roadmap for Boot.dev's CS curriculum for backend developers"
+  }
+]

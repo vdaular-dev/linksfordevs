@@ -1,0 +1,268 @@
+[
+  {
+    "Title": "v0.25 - Introducing use expressions! – Gleam",
+    "Url": "https://gleam.run/news/v0.25-introducing-use-expressions/",
+    "Timestamp": "2022-11-25T23:02:01",
+    "Domain": "gleam.run",
+    "Description": "The Gleam programming language"
+  },
+  {
+    "Title": "Journeying to the Irish Otherworld...",
+    "Url": "https://www.mikeguarneri.com/p/journeying-to-the-irish-otherworld",
+    "Timestamp": "2022-11-25T22:05:23",
+    "Domain": "www.mikeguarneri.com",
+    "Description": "“Meditation is cultivating the potential to transcend your limited self, limited beliefs and limited existence. It is stepping into the exciting territory of limitlessness.” ― Banani Ray"
+  },
+  {
+    "Title": "Can We Build Safe Countries That Fund Themselves?",
+    "Url": "https://www.zaneausten.com/p/cities-that-pay-your-rent",
+    "Timestamp": "2022-11-25T22:05:23",
+    "Domain": "www.zaneausten.com",
+    "Description": "Providing safety and safety nets via network states."
+  },
+  {
+    "Title": "Figuring out round, floor and ceil with integer division",
+    "Url": "http://blog.pkh.me/p/36-figuring-out-round%2C-floor-and-ceil-with-integer-division.html",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "blog.pkh.me",
+    "Description": "Lately I've been transforming a float based algorithm to integers in order to\nmake it bit-exact. Preserving the precision as best as possible was way more\nchallenging than I initially though, which forced me to go deep down the rabbit\nhole. During the process I realized I had many wrong assumptions about integer\ndivisions, and also discovered some remarkably useful mathematical properties."
+  },
+  {
+    "Title": "Release Damselfly v4.0.0 · Webreaper/Damselfly",
+    "Url": "https://github.com/Webreaper/Damselfly/releases/tag/4.0.0",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "github.com",
+    "Description": "Five months in the making, with tens of thousands of code-changes, this is\nalmost a complete rewrite of the application from the ground up, to convert\nfrom Blazor Server to Blazor WebAssembly.\nThis..."
+  },
+  {
+    "Title": "From Ubuntu to NixOS the story of a mastodon migration",
+    "Url": "https://gianarb.it/blog/from-ubuntu-to-nixos-history-of-a-mastodon-migration",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "gianarb.it",
+    "Description": "Twitter is not at its best. Developers are looking for an alternative as many others. Mastodon with its decentralized and feel of ownership is raising in popularity. I started with a hands crafted self hosted Ubuntu server because I felt the pressure about joining as early as possible but the end goal was to use NixOS for that. This is the story of how I moved my Mastodon instance to NixOS"
+  },
+  {
+    "Title": "Ask What, Not How: Why you should write declarative code",
+    "Url": "https://yusufbirader.com/blog/content/ask-what-not-how/",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "yusufbirader.com",
+    "Description": "It is a well-known fact that code is read far more than it is written. Maintaining code readability is a key object for every writer of software.\nAnd so any approach which allows us to achieve this should be adopted with fervour.\nIn the early days of structured programming, most code was written using an imperative approach.\nImperative code describes how a problem should be solved. In other words, imperative code specifies each step to be taken by the computer to transform input to output."
+  },
+  {
+    "Title": "Sync podcasts to iPod | Peter Cammeraat",
+    "Url": "https://petercammeraat.net/journal/2022/sync-podcast-to-ipod/",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "petercammeraat.net",
+    "Description": "Sync podcasts to iPod"
+  },
+  {
+    "Title": "A No Nonsense Guide to Unicode",
+    "Url": "https://yusufbirader.com/blog/content/a-no-nonsense-guide-to-unicode/",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "yusufbirader.com",
+    "Description": "“Software is eating the world”, Marc Andreessen famously declared in 2011.\nThe ability to represent text in any of the world’s languages is crucial to modern applications.\nThe Unicode standard provides this capability, improving upon early character sets such as ASCII, which ignore the 94% of the world’s non-English speaking inhabitants.\nUnderstanding Unicode is key to working with text in modern digital systems.\nThe Basics of Character Encodings Let’s start from the beginning."
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/the-phyrric-victory-a-lesson-in-product-management",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "The exhaustive TODO List",
+    "Url": "http://andersource.dev/2022/11/25/the-exhaustive-todo-list.html",
+    "Timestamp": "2022-11-25T22:05:22",
+    "Domain": "andersource.dev",
+    "Description": "Or: How I approach tasks I absolutely abhor"
+  },
+  {
+    "Title": "How to Create and Publish a NuGet Package with dotnet CLI",
+    "Url": "https://dotnetthoughts.net/how-to-create-and-publish-a-nuget-package-with-dotnet-cli/",
+    "Timestamp": "2022-11-25T21:03:04",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about how to Create and Publish a NuGet Package with dotnet CLI. We will also look into how to publish the nuget package to nuget.org."
+  },
+  {
+    "Title": "Added JWT issuing endpoint · davidfowl/TodoApi@f7235f9",
+    "Url": "https://github.com/davidfowl/TodoApi/commit/f7235f9e5348a9690775b3ea253cff9a293c2064",
+    "Timestamp": "2022-11-25T21:02:41",
+    "Domain": "github.com",
+    "Description": "- Added ability to exchange username and password for a token\n- Added ITokenService that can be used from tests and from this new endpoint to generate JWT tokens"
+  },
+  {
+    "Title": "Paper Title",
+    "Url": "https://xkcd.com/2703/",
+    "Timestamp": "2022-11-25T19:01:43",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Azure Container Apps with .NET | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=Blhk-F_m0LU",
+    "Timestamp": "2022-11-25T15:01:42",
+    "Domain": "youtube.com",
+    "Description": "Azure Container Apps enables you to run microservices and containerized applications on a serverless platform. See how you can take your .NET 7 apps and leve..."
+  },
+  {
+    "Title": "RavenDB Index Cleanup feature",
+    "Url": "https://ayende.com/blog/198529-C/ravendb-index-cleanup-feature?Key=8fc4f287-5666-4249-a00d-a2de7d428278",
+    "Timestamp": "2022-11-25T15:01:41",
+    "Domain": "ayende.com",
+    "Description": "A database indexing strategy is a core part of achieve good performance. About 99.9% of all developers have a story where adding an index to a particular que..."
+  },
+  {
+    "Title": "How do I pass a raw pointer to a Windows Runtime function?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20221125-00/?p=107450",
+    "Timestamp": "2022-11-25T15:01:40",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Raw pointers don't exist in the Windows Runtime, so you'll have to re-express it in terms of something that does."
+  },
+  {
+    "Title": "Episode 111 - RavenDB with Oren Eini",
+    "Url": "https://dotnetcore.show/episode-111-ravendb-with-oren-eini/",
+    "Timestamp": "2022-11-25T09:02:51",
+    "Domain": "dotnetcore.show",
+    "Description": "In this episode Oren Eini joined us to talk about RavenDB, the inspiration for it, how he wrote it to solve a number of problems that he was having with real projects, and the fact that he built it using the pre-release versions of .NET Core"
+  },
+  {
+    "Title": "Added validation · davidfowl/TodoApi@8a9f88e",
+    "Url": "https://github.com/davidfowl/TodoApi/commit/8a9f88e3bcc14d95d3d139dc26db1431a28a67f2",
+    "Timestamp": "2022-11-25T09:02:50",
+    "Domain": "github.com",
+    "Description": "- Added minimalapis.extensions for the parameter validation filter."
+  },
+  {
+    "Title": "Discontinuing Bibliogram - cadence's blog",
+    "Url": "https://bibliogram.art/robexplosm/",
+    "Timestamp": "2022-11-25T08:01:31",
+    "Domain": "bibliogram.art",
+    "Description": "Before we start: If Bibliogram has been helpful to you, please consider making a donation! Donations help me pay for servers on my current and future projects, not to mention the time I put into writing code."
+  },
+  {
+    "Title": "Four Cornerstones of CPU Performance.",
+    "Url": "https://easyperf.net/blog/2022/10/17/Four-Cornerstones-of-CPU-Performance",
+    "Timestamp": "2022-11-25T06:02:55",
+    "Domain": "easyperf.net",
+    "Description": ""
+  },
+  {
+    "Title": "Faster iteration experience for AWS SAM applications in the AWS Toolkits for JetBrains and VS Code | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/developer/faster-iteration-experience-for-sam-applications-in-the-aws-toolkit-for-jetbrains-and-vs-code/",
+    "Timestamp": "2022-11-25T06:02:54",
+    "Domain": "aws.amazon.com",
+    "Description": "Today, the AWS Toolkits for JetBrains and VS Code released a faster code iteration experience for developing AWS SAM applications. The AWS Toolkits are open source plugins for JetBrains and VS Code IDEs that provide an integrated experience for developing Serverless applications, including assistance for getting started and local step-through debugging capabilities for Serverless applications. […]"
+  },
+  {
+    "Title": "A Software Tester Guide to Effective Bug Reporting",
+    "Url": "https://www.methodsandtools.com/archive/bugreport.php",
+    "Timestamp": "2022-11-25T06:02:52",
+    "Domain": "www.methodsandtools.com",
+    "Description": "This article provides tips to software testers on how to improve their software bug reports during the software testing phase of software development projects."
+  },
+  {
+    "Title": "How Web Apps Became Decoys To Get  You To Install Native Apps",
+    "Url": "https://itnext.io/how-web-apps-became-decoys-to-get-you-to-install-native-apps-31cc5a9c4462?source=friends_link",
+    "Timestamp": "2022-11-25T04:03:14",
+    "Domain": "itnext.io",
+    "Description": "The web is now an irrelevant alternative and we must do better"
+  },
+  {
+    "Title": "Joseph Woodward | Software Engineer &amp; Go lover based in Somerset, England",
+    "Url": "https://josephwoodward.co.uk/2022/11/slog-structured-logging-proposal",
+    "Timestamp": "2022-11-25T03:01:29",
+    "Domain": "josephwoodward.co.uk",
+    "Description": "For a while now I’ve been keeping a close eye on the structure logging proposal making its way through Go’s language proposal process. Last month an experimental version of the proposal was released under the golang.org/x/exp package (see documentation here) and I decided to experiment with it and decided to summarise my learnings in a blog for others to learn more about this proposed addition to the Go standard library."
+  },
+  {
+    "Title": "Drones to protect civilians and Communication equipment",
+    "Url": "https://www.paypal.com/pools/c/8PhNmqIerc",
+    "Timestamp": "2022-11-25T02:03:36",
+    "Domain": "www.paypal.com",
+    "Description": "These funds will purchase thermal vision drones for the Ukrainian 92nd brigade.\n- 5 Thermal vision DJI Mavic 2 Enterprise Advanced drones\n- 5 DJI Mavic 3 FMC drones\n- Motorola SLR5500 VHF repeater\n\nThe brigade protects the civilian population and liberates villages around Svatove.\n\nWe will also purchase a radio repeater for better coordination between the Ukrainian Liberators"
+  },
+  {
+    "Title": "PublishAotCompressed 1.0.0",
+    "Url": "https://www.nuget.org/packages/PublishAotCompressed/1.0.0",
+    "Timestamp": "2022-11-25T02:03:35",
+    "Domain": "www.nuget.org",
+    "Description": "MSBuild targets to compress outputs of PublishAot with UPX. Simply add reference to this package and publish with PublishAot as usual."
+  },
+  {
+    "Title": "Diátaxis",
+    "Url": "https://diataxis.fr/",
+    "Timestamp": "2022-11-25T01:01:22",
+    "Domain": "diataxis.fr",
+    "Description": "The Diátaxis framework solves the problem of structure in technical documentation, making it easier to create, maintain and use."
+  },
+  {
+    "Title": "My Overemployment Story - Overemployee",
+    "Url": "https://overemployee.blog/my-overemployment-story/",
+    "Timestamp": "2022-11-25T00:01:58",
+    "Domain": "overemployee.blog",
+    "Description": "The story of my journey into starting overemployment. How I went from working one in person job to doing three remote jobs at the same time."
+  },
+  {
+    "Title": "Being Grateful",
+    "Url": "https://www.jimmyhooker.com/blog/being-grateful/",
+    "Timestamp": "2022-11-25T00:01:58",
+    "Domain": "www.jimmyhooker.com",
+    "Description": "Jimmy Hooker's inane ramblings"
+  },
+  {
+    "Title": "How I built currency conversion tooltips",
+    "Url": "https://nicolasbouliane.com/blog/currency-tooltips",
+    "Timestamp": "2022-11-25T00:01:58",
+    "Domain": "nicolasbouliane.com",
+    "Description": "This is how I made euro amounts a little easier to understand on All About Berlin."
+  },
+  {
+    "Title": "Pi Cluster vs Ampere Altra Max 128-core ARM CPU",
+    "Url": "https://www.jeffgeerling.com/blog/2022/pi-cluster-vs-ampere-altra-max-128-core-arm-cpu",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "www.jeffgeerling.com",
+    "Description": ""
+  },
+  {
+    "Title": "surprise! you want what you want",
+    "Url": "https://carado.moe/surprise-you-want.html",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "carado.moe",
+    "Description": "let's say you're building an aligned superintelligence, and you are about to determine what values it should be aligned to. should it be the value of you? everyone? should they be locked in right now, or should they be able to evolve across time?"
+  },
+  {
+    "Title": "Pie-Stop for Pi-Hole | planetkris",
+    "Url": "https://planetkris.com/2022/11/pie-stop-for-pi-hole/",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "planetkris.com",
+    "Description": "Just setup a pi-hole for DNS filtering. I subscribed to a bunch of block lists and then subsequently prevented Christine from loading a site on her work laptop. Seeing as how the network admin is not always home to take care of issues like this, I wanted a way for anyone in the house to disable filtering for ~5 min. There are many, many, many IoT button tutorials out there, with lots of different hardware, so this post will cover light details, please use it for inspiration."
+  },
+  {
+    "Title": "Be Above Average - Emir Ribic",
+    "Url": "https://www.ribice.ba/above-average/",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "www.ribice.ba",
+    "Description": "Never strive for being average (amongst the general populace)"
+  },
+  {
+    "Title": "Underrated reasons to be thankful",
+    "Url": "https://dynomight.net/thanks-2/",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "dynomight.net",
+    "Description": "More of them"
+  },
+  {
+    "Title": "Building conscious design systems by Amy Hupe, content designer.",
+    "Url": "https://amyhupe.co.uk/articles/building-conscious-design-systems/",
+    "Timestamp": "2022-11-25T00:01:57",
+    "Domain": "amyhupe.co.uk",
+    "Description": "How can we focus less on artefacts in design systems, and work consciously to build inclusive design systems that put people at their heart?"
+  },
+  {
+    "Title": "Do You Trust Your Tax Preparer?",
+    "Url": "https://blog.nawaz.org/posts/2022/Nov/do-you-trust-your-tax-preparer/",
+    "Timestamp": "2022-11-25T00:01:56",
+    "Domain": "blog.nawaz.org",
+    "Description": "For most of my life, I’ve done my own taxes - using paper and pen. If\nyou have the standard W-2 income, it’s fairly easy."
+  }
+]

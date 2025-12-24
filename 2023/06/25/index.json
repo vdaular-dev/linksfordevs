@@ -1,0 +1,135 @@
+[
+  {
+    "Title": "XML is the future",
+    "Url": "https://www.bitecode.dev/p/hype-cycles",
+    "Timestamp": "2023-06-25T23:01:19",
+    "Domain": "www.bitecode.dev",
+    "Description": "Okay, campers, rise and shine..."
+  },
+  {
+    "Title": "You don’t need a vision — Austin Kleon",
+    "Url": "https://austinkleon.com/2023/06/21/you-dont-need-a-vision/",
+    "Timestamp": "2023-06-25T22:02:57",
+    "Domain": "austinkleon.com",
+    "Description": "The trouble with visualization."
+  },
+  {
+    "Title": "My journey into Microsoft – Unstructed.tech",
+    "Url": "https://unstructed.tech/2023/06/25/my-journey-into-microsoft/",
+    "Timestamp": "2023-06-25T22:02:57",
+    "Domain": "unstructed.tech",
+    "Description": "Ever since Dr. Milan Milanovic published the interview, I kept being asked for additional details on how I got a gig in Microsoft. And I think it all stemmed from the fact that my path was rather unconventional and that it breaks the stigma of most what is known. I’m happy that’s the case. And […]"
+  },
+  {
+    "Title": "An Introduction to Parser Combinators",
+    "Url": "https://blog.varunramesh.net/posts/intro-parser-combinators/",
+    "Timestamp": "2023-06-25T22:02:57",
+    "Domain": "blog.varunramesh.net",
+    "Description": "This post introduces parser combinators, a technique for building complex parsers through the composition of simple components."
+  },
+  {
+    "Title": "Dashboards are often not worth the effort",
+    "Url": "https://andrewpwheeler.com/2023/06/01/dashboards-are-often-not-worth-the-effort/",
+    "Timestamp": "2023-06-25T22:02:57",
+    "Domain": "andrewpwheeler.com",
+    "Description": "When end users see dashboards, they often think “this is really whiz-bang cool, lets do that for our data”. There are two issues though I commonly see with dashboards. One is the nature of the task…"
+  },
+  {
+    "Title": "5 Tips for Speaking at Conferences as a Regular Person | Timo Zander",
+    "Url": "https://timozander.de/blog/tips-for-speaking-at-conferences/",
+    "Timestamp": "2023-06-25T22:02:56",
+    "Domain": "timozander.de",
+    "Description": "Talking at a conference is hard, especially if this is not your main job. Here are my tips for having a successful talk as a normal person."
+  },
+  {
+    "Title": "FastAPI - Structured JSON Logging",
+    "Url": "https://www.sheshbabu.com/posts/fastapi-structured-json-logging/",
+    "Timestamp": "2023-06-25T22:02:56",
+    "Domain": "www.sheshbabu.com",
+    "Description": "Let’s start with a simple FastAPI example:"
+  },
+  {
+    "Title": "Problem Solving",
+    "Url": "https://jorin.me/problem-solving/",
+    "Timestamp": "2023-06-25T22:02:56",
+    "Domain": "jorin.me",
+    "Description": "Software creates value by solving problems. But effectively solving problems is hard. How can we get better at it?"
+  },
+  {
+    "Title": "Godot - Automated screenshots - Simon Dalvai",
+    "Url": "https://simondalvai.com/blog/godot-automated-screenshots/",
+    "Timestamp": "2023-06-25T22:02:56",
+    "Domain": "simondalvai.com",
+    "Description": "Automatically take screenshots of you Godot game for all possible devices with a tiny script"
+  },
+  {
+    "Title": "Yarp.Telemetry.Consumption 2.0.1",
+    "Url": "https://www.nuget.org/packages/Yarp.Telemetry.Consumption",
+    "Timestamp": "2023-06-25T21:03:03",
+    "Domain": "www.nuget.org",
+    "Description": "Yarp.ReverseProxy extension package for in-process telemetry consumption"
+  },
+  {
+    "Title": "Using Yarp.Telemetry.Consumption to track outbound network events (this package isn't tied to YARP)",
+    "Url": "https://gist.github.com/davidfowl/54a9e8b98de8a50eb017b64dd70b379a",
+    "Timestamp": "2023-06-25T21:03:00",
+    "Domain": "gist.github.com",
+    "Description": "Using Yarp.Telemetry.Consumption to track outbound network events (this package isn't tied to YARP) - TimeHttpEvents.cs"
+  },
+  {
+    "Title": "Comparing MVVM and MVUX for building a Multi-Platform Application using .NET, C# and XAML with the Uno Platform - Nick's .NET Travels",
+    "Url": "https://nicksnettravels.builttoroam.com/mvvm-versus-mvux/",
+    "Timestamp": "2023-06-25T18:03:27",
+    "Domain": "nicksnettravels.builttoroam.com",
+    "Description": "The purpose of this post is two fold, firstly to provide an introduction to Model-View-Update-eXtended (MVUX), as developed by the Uno Platform, and secondly to provide a comparison to the more traditional Model-View-ViewModel (MVVM) approach to building XAML-based applications. In order to do this, we’ll first walk through building a simple MVVM based application where ... Read more"
+  },
+  {
+    "Title": "Error Handling & Message Re-drive in Event Driven Systems",
+    "Url": "https://youtube.com/watch?v=LfcErd5x_wY",
+    "Timestamp": "2023-06-25T18:03:24",
+    "Domain": "youtube.com",
+    "Description": "Hi, I'm James! In today's programming world, building efficient and scalable applications is a must. This video provides a deep dive into handling errors whe..."
+  },
+  {
+    "Title": "37 AK Expenses Tracker | Implement the Insert Transaction Azure Function With Cosmos DB",
+    "Url": "https://youtube.com/watch?v=seb4oziGADA",
+    "Timestamp": "2023-06-25T14:02:31",
+    "Domain": "youtube.com",
+    "Description": "JOIN OUR Discord Server https://discord.gg/GPrGJRuXJbSHOW YOUR SUPPORT FOR AK ACADEMY https://www.buymeacoffee.com/akacademy99In this video, we are going to ..."
+  },
+  {
+    "Title": "Custom Json Parser from Scratch in C#",
+    "Url": "https://youtube.com/watch?v=uPEbhT0FYNg",
+    "Timestamp": "2023-06-25T13:03:47",
+    "Domain": "youtube.com",
+    "Description": "How to build a json parser in c# from scratch with a procedural programming approach. Support my Work  🤝 https://www.patreon.com/raw_codingBuy my Courses   ..."
+  },
+  {
+    "Title": "Delete a Record In Just One Query Using EF Core #shorts",
+    "Url": "https://youtube.com/watch?v=0DFVCB93Oww",
+    "Timestamp": "2023-06-25T12:02:26",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicJoin my weekly .NET newsletter:https://www.milanjovanovic.techRead ..."
+  },
+  {
+    "Title": "ArrayList in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-arraylist/",
+    "Timestamp": "2023-06-25T09:05:01",
+    "Domain": "code-maze.com",
+    "Description": "In C#, an ArrayList is a dynamic array that we can use to store and manipulate a collection of objects of any type."
+  },
+  {
+    "Title": "Data Breach at New BreachForums: 4,000 members' data leaked",
+    "Url": "https://www.hackread.com/breachforums-data-breach-members-data-leak/",
+    "Timestamp": "2023-06-25T07:01:25",
+    "Domain": "www.hackread.com",
+    "Description": "Follow us on Twitter @Hackread - Facebook @ /Hackread"
+  },
+  {
+    "Title": "Missing Stack trace when eliding the await keyword",
+    "Url": "https://steven-giesel.com/blogPost/aa63a951-e619-4a31-9baf-5a15eb802b93",
+    "Timestamp": "2023-06-25T06:03:09",
+    "Domain": "steven-giesel.com",
+    "Description": "You may have heard that when you elide the await keyword in a method that returns a Task or Task<T>, you lose the stack trace. Buy why does that happen? Let's find out!\n"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "Title": "Kite Incident",
+    "Url": "https://xkcd.com/3121/",
+    "Timestamp": "2025-07-28T22:03:00",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Terence Tao (@tao@mathstodon.xyz)",
+    "Url": "https://mathstodon.xyz/@tao/114915604830689046",
+    "Timestamp": "2025-07-28T19:02:31",
+    "Domain": "mathstodon.xyz",
+    "Description": "In the field of cybersecurity, a distinction is made between the \"blue team\" task of building a secure system, and the \"red team\" task of locating vulnerabilities in such systems.  The blue team is more obviously necessary to create the desired product; but the red team is just as essential, given the damage that can result from deploying insecure systems.\n\nThe nature of these teams mirror each other; mathematicians would call them \"dual\".  The output of a blue team is only as strong as its weakest link: a security system that consists of a strong component and a weak component (e.g., a house with a securely locked door, but an open window) will be insecure (and in fact worse, because the strong component may convey a false sense of security).  Dually, the contributions to a red team can often be additive: a red team report that contains both a serious vulnerability and a more trivial one is more useful than a report that only contains the serious issue, as it is valuable to have the blue team address both vulnerabilities. (But excessive low-quality reports can dilute attention from critical issues.) \n\nBecause of this, unreliable contributors may be more useful in the \"red team\" side of a project than the \"blue team\" side, though the blue team can still accommodate such contributors provided that the red team is competent enough to catch almost all of the errors that the contributor to the blue team might make.  Also, unreliable red team contributions only add value if they _augment_ the output of more reliable members of that team, rather than _replace_ that output, and if their output can be effectively filtered or triaged by more experienced red team members. (1/3)"
+  },
+  {
+    "Title": "GitHub - 9001/copyparty: Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "Url": "https://github.com/9001/copyparty",
+    "Timestamp": "2025-07-28T19:02:28",
+    "Domain": "github.com",
+    "Description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps - 9001/copyparty"
+  },
+  {
+    "Title": "LLM Embeddings Explained: A Visual and Intuitive Guide - a Hugging Face Space by hesamation",
+    "Url": "https://huggingface.co/spaces/hesamation/primer-llm-embedding",
+    "Timestamp": "2025-07-28T15:02:41",
+    "Domain": "huggingface.co",
+    "Description": "This app explains how language models transform text into meaningful representations through embeddings. It provides a visual guide to help you understand traditional and modern language model tech..."
+  },
+  {
+    "Title": "VPN use surges in UK as new online safety rules kick in",
+    "Url": "https://www.ft.com/content/356674b0-9f1d-4f95-b1d5-f27570379a9b",
+    "Timestamp": "2025-07-28T15:02:41",
+    "Domain": "www.ft.com",
+    "Description": "Jump in apps disguising internet users’ location threatens to undermine government efforts to protect children"
+  },
+  {
+    "Title": "Allianz Life says 'majority' of customers' personal data stolen in cyberattack | TechCrunch",
+    "Url": "https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/",
+    "Timestamp": "2025-07-28T11:02:32",
+    "Domain": "techcrunch.com",
+    "Description": "Exclusive: Allianz Life said the \"majority\" of its customers and employees had data stolen in the July cyberattack. The company said it has notified the FBI."
+  },
+  {
+    "Title": "How I hacked my washing machine - Nex's Blog",
+    "Url": "https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/",
+    "Timestamp": "2025-07-28T11:02:31",
+    "Domain": "nexy.blog",
+    "Description": "I ran out of characters for microblogging so this is where the big words go"
+  },
+  {
+    "Title": "Using Architecture Tests for CancellationTokens and sealed classes",
+    "Url": "https://steven-giesel.com/blogPost/feac44f3-2c6e-4994-80c3-e2a17efbb8f3",
+    "Timestamp": "2025-07-28T06:02:32",
+    "Domain": "steven-giesel.com",
+    "Description": "Architectural Unit tests are nice to constraint your system (like which parts of your application can access other parts of your application). This blog post is not about that - that is covered a lot in the internet. No, I want to show what I did in a recent project: Checking if all controllers do use CancellationToken and some other entities are sealed.\n"
+  },
+  {
+    "Title": "Enough AI copilots! We need AI HUDs",
+    "Url": "https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds",
+    "Timestamp": "2025-07-28T06:02:31",
+    "Domain": "www.geoffreylitt.com",
+    "Description": ""
+  },
+  {
+    "Title": "EU age verification app to ban any Android system not licensed by Google",
+    "Url": "https://old.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/",
+    "Timestamp": "2025-07-28T02:02:24",
+    "Domain": "old.reddit.com",
+    "Description": "*The following post was made on [r/BuyFromEU](https://www.reddit.com/r/BuyFromEU), this seems relevant for all of us degooglers living in an EU..."
+  },
+  {
+    "Title": "The challenge of deleting old online accounts",
+    "Url": "https://loudwhisper.me/blog/deleting-accounts/",
+    "Timestamp": "2025-07-28T00:05:31",
+    "Domain": "loudwhisper.me",
+    "Description": "A few days ago I decided to continue working on a project I am planning (and\nbarely executing) for quite a while: my “Digital Resiliency Plan.” I am planning\nto write about this here eventually, but essentially it’s just a nice\nway to say “get my stuff in order” when it comes to digital data, especially\nin terms of safety of the data (e.g., backups) and the ability to maintain access\nto it in most circumstances."
+  },
+  {
+    "Title": "The Next Next Job, a framework for making big career decisions at andrewchen",
+    "Url": "https://andrewchen.com/the-next-next-job/",
+    "Timestamp": "2025-07-28T00:02:39",
+    "Domain": "andrewchen.com",
+    "Description": ""
+  },
+  {
+    "Title": "Produce more than you consume - Byte Tank",
+    "Url": "https://lopespm.com/notes/2025/07/27/produce_more_than_you_consume.html",
+    "Timestamp": "2025-07-28T00:02:37",
+    "Domain": "lopespm.com",
+    "Description": "Going from passive consumption to the production of value, and its consequences"
+  },
+  {
+    "Title": "denismaciel.com",
+    "Url": "https://denismaciel.com/blog/karpathy-inspired-note-taking",
+    "Timestamp": "2025-07-28T00:02:36",
+    "Domain": "denismaciel.com",
+    "Description": "Denis Maciel's personal website"
+  },
+  {
+    "Title": "I made Xcode's tests 60 times faster",
+    "Url": "https://justin.searls.co/posts/i-made-xcodes-tests-60-times-faster/",
+    "Timestamp": "2025-07-28T00:02:36",
+    "Domain": "justin.searls.co",
+    "Description": "Time is our most precious resource, as both humans and programmers.\nAn 8-hour workday contains 480 minutes. Out of the box, running a new iOS app's test suite…"
+  },
+  {
+    "Title": "denismaciel.com",
+    "Url": "https://denismaciel.com/blog/put-yourself-out-there",
+    "Timestamp": "2025-07-28T00:02:36",
+    "Domain": "denismaciel.com",
+    "Description": "Denis Maciel's personal website"
+  },
+  {
+    "Title": "placing functions",
+    "Url": "https://blog.yoshuawuyts.com/placing-functions/",
+    "Timestamp": "2025-07-28T00:02:36",
+    "Domain": "blog.yoshuawuyts.com",
+    "Description": "About a year ago I observed that in-place construction seems surprisingly\nsimple.\nBy separating the creating of the place in memory from writing the value to\nmemory, it’s not that hard to see how we can turn that into a language feature.\nSo about six months ago, that’s what I went ahead and did and created the placing crate: a proc-macro-based prototype for “placing functions”."
+  },
+  {
+    "Title": "Fuck microsoft",
+    "Url": "https://studium.dev/tech/fuck-microsoft",
+    "Timestamp": "2025-07-28T00:02:36",
+    "Domain": "studium.dev",
+    "Description": "I really hate microsoft, I wanted to work on my OSINTBuddy plugin system this morning that’s built in Python however I thought I’d try to update the Pylance extension to something more recent since I’m running a version from 2023."
+  },
+  {
+    "Title": "Why Cursor is a great company",
+    "Url": "https://zandrey.com/cursor-is-great/",
+    "Timestamp": "2025-07-28T00:02:35",
+    "Domain": "zandrey.com",
+    "Description": "In this post, I will not discuss what Cursor is and how it works (assuming you know this already) and will just share some of my thoughts about why I think i..."
+  },
+  {
+    "Title": "Client Challenge",
+    "Url": "https://lerner.co.il/2025/07/27/how-to-conference/",
+    "Timestamp": "2025-07-28T00:02:35",
+    "Domain": "lerner.co.il",
+    "Description": "A required part of this site couldn’t load. This may be due to a browser\n      extension, network issues, or browser settings. Please check your\n      connection, disable any ad blockers, or try using a different browser."
+  },
+  {
+    "Title": "Three HTTP versions later, forms are still a mess",
+    "Url": "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/",
+    "Timestamp": "2025-07-28T00:02:35",
+    "Domain": "yorickpeterse.com",
+    "Description": "The last few weeks I've been working on adding an HTTP 1.1 stack to the standard\nlibrary of Inko as part of this pull\nrequest. The work is still ongoing\nbut the initial set of changes will include an HTTP 1.1 server, client, basic\ncookie handling, generating and parsing of forms, and a request router. This\nwork is based on the following RFCs:"
+  },
+  {
+    "Title": "I’ve returned to Linux but I miss PowerShell",
+    "Url": "http://chrisfun.xyz/PowerShell/",
+    "Timestamp": "2025-07-28T00:02:35",
+    "Domain": "chrisfun.xyz",
+    "Description": "At my previous job, we all used Windows. At first I insisted on doing everything in Windows Subsystem for Linux (WSL) or Linux-based Docker containers, but eventually I gave in and went native."
+  }
+]

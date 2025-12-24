@@ -1,0 +1,156 @@
+[
+  {
+    "Title": "How to fix your fear of deployments with Charity Majors | Aviator",
+    "Url": "https://www.aviator.co/podcast/charity-majors-fearless-deployments",
+    "Timestamp": "2025-06-26T23:02:48",
+    "Domain": "www.aviator.co",
+    "Description": "Shipping software is the heartbeat of every engineering organization, and fear of deployments is the number one source of tech debt."
+  },
+  {
+    "Title": "How I Vibe Coding?",
+    "Url": "https://xuanwo.io/2025/03-how-i-vibe-coding/",
+    "Timestamp": "2025-06-26T23:02:46",
+    "Domain": "xuanwo.io",
+    "Description": "Achieving Data Freedom Through Open Source and Rust"
+  },
+  {
+    "Title": "Gemini CLI's Polarizing Release on Hacker News – A Visual Analysis",
+    "Url": "https://kian.prose.sh/hackernews_discussion_gemini_cli_release",
+    "Timestamp": "2025-06-26T23:02:46",
+    "Domain": "kian.prose.sh",
+    "Description": "Gemini released a new developer oriented CLI tool. This tool has a relatively generous free tier of 60 requests per minute, 1000 requests per day. When large language models (LLMs) were initially released, there was a lot of fear that it would automate many white collar jobs: however, their unreliability and risk for off-the-rails behavior in tasks without easy verification or ground truths. Developer oriented tooling seems to be a better fit for a productivity tool that depends on validation."
+  },
+  {
+    "Title": "A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder | Hold The Robot",
+    "Url": "https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/",
+    "Timestamp": "2025-06-26T23:02:45",
+    "Domain": "holdtherobot.com",
+    "Description": "Put that script inside a folder, share the folder with someone via Syncthing or Dropbox or whatever,"
+  },
+  {
+    "Title": "Social anxiety isn't about being liked",
+    "Url": "https://chrislakin.blog/p/social-anxiety",
+    "Timestamp": "2025-06-26T23:02:45",
+    "Domain": "chrislakin.blog",
+    "Description": "There's this popular idea that socially anxious folks are just dying to be liked."
+  },
+  {
+    "Title": "There’s no way that Starcloud can put a data centre in space at $8.2 million in one Starship",
+    "Url": "https://angadh.com/space-data-centers-1",
+    "Timestamp": "2025-06-26T23:02:44",
+    "Domain": "angadh.com",
+    "Description": "Abstract"
+  },
+  {
+    "Title": "Daniel's Blog · Agent Lineage Evolution: A Novel Framework for Managing LLM Agent Degradation",
+    "Url": "https://danieltan.weblog.lol/2025/06/agent-lineage-evolution-a-novel-framework-for-managing-llm-agent-degradation",
+    "Timestamp": "2025-06-26T23:02:43",
+    "Domain": "danieltan.weblog.lol",
+    "Description": "Agent Lineage Evolution (ALE) is a novel framework that addresses the dual challenge of LLM agent degradation and manual prompt engineering bottlenecks. As LLMs inevitably degrade over extended usage, requiring frequent context restarts, current approaches force humans to manually re-engineer prompts with learned optimizations for each restart. ALE eliminates this scaling limitation by enabling agents to automatically generate successor prompts with embedded behavioral knowledge, transforming inevitable degradation cycles into opportunities for automated prompt evolution."
+  },
+  {
+    "Title": "Taking a Semi-Truck to Buy Salad: My Manifesto for Simple Computing | MyNotes",
+    "Url": "https://my-notes.dragas.net/2025/06/23/taking-a-semi-truck-to-buy-salad-my-manifesto-for-simple-computing/",
+    "Timestamp": "2025-06-26T23:02:42",
+    "Domain": "my-notes.dragas.net",
+    "Description": "A manifesto for simple computing. While other fields embraced minimalism, tech became bloated. Why do we use complex, oversized systems for simple jobs? It's like taking a semi-truck to buy salad. This post explores a return to efficient, low-cost, and minimalist computing."
+  },
+  {
+    "Title": "On Large Language Models",
+    "Url": "https://blog.jsbarretto.com/post/on-llms",
+    "Timestamp": "2025-06-26T23:02:42",
+    "Domain": "blog.jsbarretto.com",
+    "Description": "Resist the siren song of your local tech oligarchy"
+  },
+  {
+    "Title": "How to Fix Your Context",
+    "Url": "https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html",
+    "Timestamp": "2025-06-26T23:02:42",
+    "Domain": "www.dbreunig.com",
+    "Description": "6 tactics for fixing your context and shipping better agents. As Karpathy says, building LLM-powered apps means learning to ‘pack the context windows just right’—smartly deploying tools, managing information, and maintaining context hygiene."
+  },
+  {
+    "Title": "\"Let",
+    "Url": "https://huijzer.xyz/posts/94",
+    "Timestamp": "2025-06-26T23:02:41",
+    "Domain": "huijzer.xyz",
+    "Description": "Great talk by Greg Lukianoff on TED.\nThe presentation is only 12 minutes, which I can recommend anyone to watch."
+  },
+  {
+    "Title": "Why every developer should have a side project: My 10-year journey of failings",
+    "Url": "https://bohdanl.com/blog/side-projects-personal-learning",
+    "Timestamp": "2025-06-26T23:02:41",
+    "Domain": "bohdanl.com",
+    "Description": "In this article, I share my personal journey with side projects: my failures and successes for the past 10 years. I talk about how working on side projects pushed me to learn new skills and has helped me grow beyond coding, as well as showcase my many attempts to build a business. You will learn how to find ideas, approach development and manage time, deal with burnout, and learn from my mistakes.In the end of the article, I also showcase my latest side project betterlingo.app and talk why I decided to build another project after a big break. I hope my experiences and advice will help you on your own path."
+  },
+  {
+    "Title": "You're Overthinking Web Components | Sanford Tech",
+    "Url": "https://www.sanfordtech.xyz/posts/youre-overthinking-web-components/",
+    "Timestamp": "2025-06-26T23:02:40",
+    "Domain": "www.sanfordtech.xyz",
+    "Description": "Learn how Web Components excel at progressively enhancing server-rendered HTML without worrying about additional dependencies, shadow DOM, or going full SPA."
+  },
+  {
+    "Title": "plo.ug - Infrequent musings",
+    "Url": "http://plo.ug/llms,/typescript,/testing/2025/06/26/LLMs-for-testing.html",
+    "Timestamp": "2025-06-26T23:02:39",
+    "Domain": "plo.ug",
+    "Description": "Infrequent musings"
+  },
+  {
+    "Title": "AlphaGenome: AI for better understanding the genome",
+    "Url": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/",
+    "Timestamp": "2025-06-26T22:02:19",
+    "Domain": "deepmind.google",
+    "Description": "Introducing a new, unifying DNA sequence model that advances regulatory variant-effect prediction and promises to shed new light on genome function — now available via API."
+  },
+  {
+    "Title": "Simpler XAML in .NET MAUI 10 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/simpler-xaml-in-dotnet-maui-10/",
+    "Timestamp": "2025-06-26T21:02:31",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Make your .NET MAUI XAML more consistent and easier to read with global and implicit XML namespaces."
+  },
+  {
+    "Title": "Programming as Theory Building: Why Senior Developers Are More Valuable Than Ever",
+    "Url": "https://cekrem.github.io/posts/programming-as-theory-building-naur/",
+    "Timestamp": "2025-06-26T18:02:11",
+    "Domain": "cekrem.github.io",
+    "Description": "Peter Naur's 1985 theory of programming explains why experience matters more in the age of AI-generated code"
+  },
+  {
+    "Title": "Libxml2's 'no security embargoes' policy",
+    "Url": "https://lwn.net/SubscriberLink/1025971/73f269ad3695186d/",
+    "Timestamp": "2025-06-26T12:02:07",
+    "Domain": "lwn.net",
+    "Description": "Libxml2, an XML parser and toolkit, is an almost perfect example of the successes and failures  [...]"
+  },
+  {
+    "Title": "Folklore.org: -2000 Lines Of Code",
+    "Url": "https://www.folklore.org/Negative_2000_Lines_Of_Code.html",
+    "Timestamp": "2025-06-26T06:02:15",
+    "Domain": "www.folklore.org",
+    "Description": "In early 1982, the Lisa software team was trying to buckle down for the big push to ship the software within the next six months.  Some of the managers decided that it would be a good idea to track the progress of each individual engineer in terms of the amount of code that they wrote from week to week.  They devised a form that each engineer was required to submit every Friday, which included a field for the number of lines of code that were written that week."
+  },
+  {
+    "Title": "Games run faster on SteamOS than Windows 11, Ars testing finds",
+    "Url": "https://arstechnica.com/gaming/2025/06/games-run-faster-on-steamos-than-windows-11-ars-testing-finds/",
+    "Timestamp": "2025-06-26T05:02:13",
+    "Domain": "arstechnica.com",
+    "Description": "Lenovo Legion Go S gets better frame rates running Valve’s free operating system."
+  },
+  {
+    "Title": "docs: define policy forbidding use of AI code generators · qemu/qemu@3d40db0",
+    "Url": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+    "Timestamp": "2025-06-26T04:02:15",
+    "Domain": "github.com",
+    "Description": "There has been an explosion of interest in so called AI code\ngenerators. Thus far though, this is has not been matched by a broadly\naccepted legal interpretation of the licensing implications for c..."
+  },
+  {
+    "Title": "A New Pyramid-Like Shape Always Lands the Same Side Up | Quanta Magazine",
+    "Url": "https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/",
+    "Timestamp": "2025-06-26T02:02:19",
+    "Domain": "www.quantamagazine.org",
+    "Description": "A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture."
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "Title": "Swimming in the Sydney CBD – Marrinawi Cove - Jake Coppinger",
+    "Url": "https://jakecoppinger.com/2023/01/swimming-in-the-sydney-cbd-marrinawi-cove/",
+    "Timestamp": "2023-01-10T23:07:00",
+    "Domain": "jakecoppinger.com",
+    "Description": "Today Marrinawi Cove at Barangaroo opened for legal swimming after one final check of the shark net integrity. Sydney Morning Herald broke the story and the ABC wrote shortly after. According to the NSW state government it is the first new harbour swimming spot to open west of the Sydney Harbour Bridge in more than 50 years!"
+  },
+  {
+    "Title": "How to build your OCI images using Buildpacks",
+    "Url": "https://www.adaltas.com/en/2023/01/09/how-to-build-your-oci-images-using-buildpacks/",
+    "Timestamp": "2023-01-10T23:06:59",
+    "Domain": "www.adaltas.com",
+    "Description": "Docker has become the new standard for building your application. In a Docker image we place our source code, its dependencies, some configurations and our application is almost ready to be deployed…"
+  },
+  {
+    "Title": "Argon ONE NVMe Board Slower than SATA - Martin Rowan",
+    "Url": "https://www.martinrowan.co.uk/2023/01/argon-one-nvme-board-slower-than-sata/",
+    "Timestamp": "2023-01-10T23:06:59",
+    "Domain": "www.martinrowan.co.uk",
+    "Description": "The Argon ONE NVMe expansion board should provide high speed storage to your Rasperry Pi 4, however it's performance is lower than expected"
+  },
+  {
+    "Title": "Community engagement is so 2022. Here are 10 things you should obsess over instead.",
+    "Url": "https://rosie.land/posts/dont-obsess-over-community-engagement/",
+    "Timestamp": "2023-01-10T23:06:58",
+    "Domain": "rosie.land",
+    "Description": "☀️ Hey everyone! It’s time to encourage some better community habits!\n\nI recently asked what was “so 2022 in community building” and one answer that poked its head through was engagement.\n\nEngagement.\n\n— Carlos Saba (@kungfucarlos) January 2, 2023\n\n\n\nIt’s not that community engagement within itself is bad, but the"
+  },
+  {
+    "Title": "Microservices are a Big Ball of Mud",
+    "Url": "https://code-held.com/2022/07/28/microservices/",
+    "Timestamp": "2023-01-10T23:06:58",
+    "Domain": "code-held.com",
+    "Description": "Over the past years I attended hundreds of interviews. Many candidates proudly told tales on how they develop their projects with a microservice architecture. Often (I don’t want to say “always”, but from my memory I think it actually is “always”) it does not require many questions to see that they used a rocket launcher to kill a mouse. Microservices are hard. Everyone who experienced the pain of operating such an architecture can relate to it. The complexity kills you at one point or the other. You already had to do multiple refactorings of your architecture - because your domains didn’t work out. I wonder - why is this architecture so appealing to developers? And then I remember what I found them appealing 10 years ago."
+  },
+  {
+    "Title": "Learning Spanish as a Software Developer - Week 1 thoughts",
+    "Url": "https://www.vincentntang.com/learning-spanish-software-developer/",
+    "Timestamp": "2023-01-10T23:06:58",
+    "Domain": "www.vincentntang.com",
+    "Description": "One goal I have this year is learning Spanish It's my first week going down this rabbithole, here's my thoughts regarding learning it and…"
+  },
+  {
+    "Title": "How I hacked Gumroad and broke a bunch of After Effects tools",
+    "Url": "https://aescreens.com/blog/gumroad-hack",
+    "Timestamp": "2023-01-10T23:06:57",
+    "Domain": "aescreens.com",
+    "Description": "Learn how I hacked Gumroad’s API and broke a bunch of tools."
+  },
+  {
+    "Title": "Easy to Overlook Way to Break Eager Loading in Rails Apps ",
+    "Url": "https://pawelurbanek.com/rails-eager-ordered",
+    "Timestamp": "2023-01-10T23:06:57",
+    "Domain": "pawelurbanek.com",
+    "Description": "In theory, configuring eager loading to avoid N+1 issues is straightforward. Chaining includes method is usually enough to ensure that all the relations data is fetched efficiently. However, this rule breaks for some easy-to-overlook edge cases. In this blog post, I'll describe how to eager load ActiveRecord relations using custom SQL ORDER BY sorting."
+  },
+  {
+    "Title": "How I went from 0 to Hacking in SF as a high-schooler",
+    "Url": "https://buildspace.so/notes/zero-to-hacking-in-sf",
+    "Timestamp": "2023-01-10T23:06:57",
+    "Domain": "buildspace.so",
+    "Description": "Hey! I'm Dylan – a highschooler who found a way to juggle school and my passion to build cool products. This is my story!"
+  },
+  {
+    "Title": "Setting up ActiveStorage with Cloudflare R2",
+    "Url": "https://kirillplatonov.com/posts/activestorage-cloudflare-r2/",
+    "Timestamp": "2023-01-10T23:06:57",
+    "Domain": "kirillplatonov.com",
+    "Description": "Cloudflare R2 is a new object storage that has been launched in 2022. It offers S3-compatible storage with built-in CDN. The pricing is much simpler and affordable compared to the combination of AWS S3 + Cloudfront which are commonly used for the same goal. Another benefit is that you don’t have to pay for data transfer between AWS regions."
+  },
+  {
+    "Title": "I wish JSON5 was more popular",
+    "Url": "https://evertpot.com/json5/",
+    "Timestamp": "2023-01-10T23:06:56",
+    "Domain": "evertpot.com",
+    "Description": "As developers we write a lot of code, but we also deal with a lot of\nconfiguration files."
+  },
+  {
+    "Title": "Makefiles for Web Work – Ross Zurowski",
+    "Url": "https://rosszurowski.com/log/2022/makefiles",
+    "Timestamp": "2023-01-10T23:06:56",
+    "Domain": "rosszurowski.com",
+    "Description": "A set of recipes for using Makefiles for web development."
+  },
+  {
+    "Title": "Is it worth encrypting? | Matthew Linkous",
+    "Url": "https://www.matthewlinkous.com/p/encryption-worthy",
+    "Timestamp": "2023-01-10T23:06:56",
+    "Domain": "www.matthewlinkous.com",
+    "Description": "Today, nearly all of our data is backed up to the cloud. Often times our only copy of our important information will live on some far away server outside of our control. This comes with clear privacy risks. If our data is on someone else’s machine, in their hands, they are free to peek into that data without us consenting or even knowing. It’s even the business model of many of the biggest companies in the world to read private data to better target advertisements. This is a problem that is often met with a simple solution: encrypt your data."
+  },
+  {
+    "Title": "Effective Jugaad: An Ideology for Navigating Complexity and Uncertainty in the 21st Century",
+    "Url": "https://mostwrong.github.io/2023/01/10/E-Jugaad.html",
+    "Timestamp": "2023-01-10T23:06:56",
+    "Domain": "mostwrong.github.io",
+    "Description": "(thanks to shauseth and cto_junior for inputs)"
+  },
+  {
+    "Title": "General Petraeus: Give Ukraine counter drones to beat Russia",
+    "Url": "https://youtu.be/9PjCij1NBxM",
+    "Timestamp": "2023-01-10T22:05:09",
+    "Domain": "youtu.be",
+    "Description": "\"Maintaining the US tanks is very, very challenging, the consumption of fuel is just staggering.\"Providing Ukrainians with cutting-edge counter drones could ..."
+  },
+  {
+    "Title": "The forgotten mistake that killed Japan's software industry - Disrupting Japan",
+    "Url": "https://www.disruptingjapan.com/the-forgotten-mistake-that-killed-japans-software-industry/",
+    "Timestamp": "2023-01-10T22:05:08",
+    "Domain": "www.disruptingjapan.com",
+    "Description": "For our 200th episode, I'm going to explain exactly what went wrong in the Japanese software industry.  I'll lay out the whole story, and also pinpoint the specific moment Japan lost its way. And by the end you'll also understand why everything might be about to change.  You see, the story of Japanese software is not really the story of software. It's the story of Japanese innovation itself. "
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=9NVOGevsa6A",
+    "Timestamp": "2023-01-10T21:04:50",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": ".NET GUI Applications for Embedded Linux Using Containers | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=PnmYTYx8a2Y",
+    "Timestamp": "2023-01-10T21:04:50",
+    "Domain": "youtube.com",
+    "Description": "The development of graphical user interface applications for IoT using embedded Linux is a challenge. In this talk I want to show the solutions we have withi..."
+  },
+  {
+    "Title": "Visual Studio Live! Flashback: Microsoft's Top 3 Goals for .NET (and .NET 7) -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/10/microsoft-top-3-goals-for-net.aspx",
+    "Timestamp": "2023-01-10T19:02:27",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "To hear Microsoft say it, the developer ecosystem around .NET is more vibrant than ever, especially since the launch of .NET 7 in November."
+  },
+  {
+    "Title": ".NET January 2023 Updates – .NET 7.0.2, .NET 6.0.13",
+    "Url": "https://devblogs.microsoft.com/dotnet/january-2023-updates/",
+    "Timestamp": "2023-01-10T19:02:26",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Check out January 2023 updates for .NET 7.0. and .NET 6.0"
+  },
+  {
+    "Title": "General Petraeus: Give Ukraine counter drones to beat Russia",
+    "Url": "https://youtube.com/watch?v=9PjCij1NBxM",
+    "Timestamp": "2023-01-10T16:04:51",
+    "Domain": "youtube.com",
+    "Description": "\"Maintaining the US tanks is very, very challenging, the consumption of fuel is just staggering.\"Providing Ukrainians with cutting-edge counter drones could ..."
+  },
+  {
+    "Title": "Implementing Authentication in Azure Static Web Apps - Part 1",
+    "Url": "https://dotnetthoughts.net/implementing-authentication-in-static-web-apps-part1/",
+    "Timestamp": "2023-01-10T15:05:25",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about implementing authentication in Azure Static Web Apps. Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. Similar to Azure App Service, Azure Static Web App offers authentication out of the box. The service offers five authentication providers - Azure AD, Twitter, GitHub, Google, and Facebook, out of the five, two of them, Google and Facebook are in preview mode. In this post we will explore the Static web app running on Free Plan. For Standard plan we need to configure the social provider client Id, client secret and callback URIs. For Free plan there is no configuration required."
+  },
+  {
+    "Title": "ASP.NET Community Standup - Exploring new and experimental features in Blazor",
+    "Url": "https://youtube.com/watch?v=fQ1Bg-u_YLw",
+    "Timestamp": "2023-01-10T15:05:18",
+    "Domain": "youtube.com",
+    "Description": "Join us as we show what it's like to build a .NET 7 Blazor app using both new and currently experimental features.Community Links: https://www.theurlist.com/..."
+  },
+  {
+    "Title": "It rather involved being on the other side of this airtight hatchway: Administrator attacking a domain account on the local system",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230110-00/?p=107688",
+    "Timestamp": "2023-01-10T15:05:16",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "You don't gain control over any other systems."
+  },
+  {
+    "Title": "Announcing the Authorized Partner Service Delivery Track for Cloudflare One",
+    "Url": "https://blog.cloudflare.com/cloudflare-one-authorized-services-delivery-partner-track/",
+    "Timestamp": "2023-01-10T14:09:30",
+    "Domain": "blog.cloudflare.com",
+    "Description": "This week we’re announcing the Authorized Services Delivery Partner Track (ASDP) designed to validate partners that want to deliver services around Cloudflare One"
+  },
+  {
+    "Title": "Microsoft eyes $10 billion bet on ChatGPT | Semafor",
+    "Url": "https://www.semafor.com/article/01/09/2023/microsoft-eyes-10-billion-bet-on-chatgpt",
+    "Timestamp": "2023-01-10T14:09:29",
+    "Domain": "www.semafor.com",
+    "Description": "The tech giant has been in talks on deal to effectively own almost half of OpenAI, maker of the addictive, humanoid, AI-powered chatbot."
+  },
+  {
+    "Title": "Using client side encrypted fields in RavenDB",
+    "Url": "https://ayende.com/blog/198753-A/using-client-side-encrypted-fields-in-ravendb?Key=be944d87-705d-4bf9-b34e-39c3c552aaa6",
+    "Timestamp": "2023-01-10T13:11:38",
+    "Domain": "ayende.com",
+    "Description": "Sometimes, you need to hold on to data that you really don’t want to have access to. A great example may be that your user will provide you with their theme ..."
+  },
+  {
+    "Title": "LINQ for beginners: pick the right methods! - Code4IT",
+    "Url": "https://www.code4it.dev/blog/linq-differences/",
+    "Timestamp": "2023-01-10T11:11:51",
+    "Domain": "www.code4it.dev",
+    "Description": "LINQ is a set of methods that help developers perform operations on sets of items. There are tons of methods - do you know which is the one for you?"
+  },
+  {
+    "Title": "Rebus in .NET - Service Bus Implementation - Code Maze",
+    "Url": "https://code-maze.com/rebus-dotnet/",
+    "Timestamp": "2023-01-10T09:03:17",
+    "Domain": "code-maze.com",
+    "Description": "Rebus is a lightweight service bus library for .NET. In this article, we explore the key components and implement them in a .NET application."
+  },
+  {
+    "Title": "Executing async operations onchange in Blazor",
+    "Url": "https://www.mikesdotnetting.com/article/365/executing-async-operations-onchange-in-blazor",
+    "Timestamp": "2023-01-10T09:03:13",
+    "Domain": "www.mikesdotnetting.com",
+    "Description": "Blazor's two-way databinding model is extremely powerful, but sometimes \n\t\tit can get in the way of what you want to do. For example, you might \n\t\twant to execute an asynchronous operation such as remote validation when a value changes in a \n\t\ttextbox. Perhaps you want to check instantaneously that the value - a username maybe - \n\t\tdoesn't already exist in a database before you accept a new \n\t\tregistration. You cannot add an onchange event handler if \n\t\tyou already have a value bound to the element, so what can you do? In this \n\t\tarticle, I look at solutions for both HTML elements and EditForm input \n\t\tvalidation components up to an including .NET 7, and a new \n\t\tfeature released in .NET 7.0.1."
+  },
+  {
+    "Title": "Armchair Architects: Architects vs. The Ivory Tower",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-architecture-blog/armchair-architects-architects-vs-the-ivory-tower/ba-p/3711703",
+    "Timestamp": "2023-01-10T06:03:31",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Welcome back to another episode of Armchair Architects. Have you ever heard people say that it’s like architects are in the ivory tower?   This may seem a bit controversial, but we’re going to talk about the roles and the relationships of architects themselves to the rest of the organization. People..."
+  },
+  {
+    "Title": "Upcoming Developer & Technical Events in the UK - Updated for 2023",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-developer-community-blog/upcoming-developer-amp-technical-events-in-the-uk-updated-for/ba-p/3711599",
+    "Timestamp": "2023-01-10T06:03:30",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Hello from the Microsoft Developer UK team! Here's a list of upcoming events taking place in the UK in 2023 - we hope to see you virtually or in-person!   Don't forget to visit our Microsoft UK Developer site at https://aka.ms/ukdeveloper. There you can find a wide array of tech resources and links ..."
+  },
+  {
+    "Title": "How a single developer dropped AWS costs by 90%, then disappeared.",
+    "Url": "https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a",
+    "Timestamp": "2023-01-10T06:03:29",
+    "Domain": "bootcamp.uxdesign.cc",
+    "Description": "NB: source (https://twitter.com/xanf_ua/status/1608121311078776832)"
+  },
+  {
+    "Title": "Advanced Unit Testing in React with Jest: Hooks and Promises | 8th Light",
+    "Url": "https://8thlight.com/insights/advanced-unit-testing-in-react-with-jest-hooks-and-promises",
+    "Timestamp": "2023-01-10T06:03:29",
+    "Domain": "8thlight.com",
+    "Description": ""
+  },
+  {
+    "Title": "MassTransit–Using RabbitMQ Virtual Hosts",
+    "Url": "https://bartwullems.blogspot.com/2023/01/masstransitusing-rabbitmq-virtual-hosts.html",
+    "Timestamp": "2023-01-10T06:03:28",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "Today I want to talk about a specific feature in RabbitMQ and how we can use this feature with my favorite messaging library MassTransit.   ..."
+  },
+  {
+    "Title": "Entity Framework - Select Multiple Tables",
+    "Url": "https://pmichaels.net/select-multiple-tables-in-entity-framework/select-multiple-tables-in-entity-framework/",
+    "Timestamp": "2023-01-10T06:03:28",
+    "Domain": "pmichaels.net",
+    "Description": "I’ve recently been playing with Entity Framework again.  When using EF in the past, I’ve always managed to keep the queries relatively simple, or used something…"
+  },
+  {
+    "Title": "Squashing EF Core Migrations Safely",
+    "Url": "https://www.mitchelsellers.com/blog/article/squashing-ef-core-migrations-safely",
+    "Timestamp": "2023-01-10T06:03:28",
+    "Domain": "www.mitchelsellers.com",
+    "Description": "Projects can evolve over time, and the history of granular migrations within Entity Framework can result in a bloated change history. Additionally, changes can occur within Entity Framework tooling that may result in code warnings or other similar concerns. Resetting your migrations to squash the history can be a very helpful process, however it requires precision and care."
+  },
+  {
+    "Title": "When Your DbContext Has The Wrong Scope",
+    "Url": "https://haacked.com/archive/2023/01/09/scoping-db-context/",
+    "Timestamp": "2023-01-10T06:03:28",
+    "Domain": "haacked.com",
+    "Description": "In this post, we look at a scenario when creating a new DbContext in its own scope is the right call."
+  },
+  {
+    "Title": "C# Advent 2022 Awards | Cross Cutting Concerns",
+    "Url": "https://crosscuttingconcerns.com/C-Advent-2022-Awards",
+    "Timestamp": "2023-01-10T06:03:28",
+    "Domain": "crosscuttingconcerns.com",
+    "Description": "C# Advent 2022 round-up and awards"
+  },
+  {
+    "Title": "Tips and tricks on platform-code implementation in .NET MAUI | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=qgYcF5YZu-M",
+    "Timestamp": "2023-01-10T01:02:17",
+    "Domain": "youtube.com",
+    "Description": ".NET MAUI allows developers to integrate native code to extend the look and feel of mobile applications. On the one hand, you can customize a cross-platform ..."
+  },
+  {
+    "Title": "Enable throw helper analyzers by JamesNK · Pull Request #45954 · dotnet/aspnetcore",
+    "Url": "https://github.com/dotnet/aspnetcore/pull/45954",
+    "Timestamp": "2023-01-10T01:02:16",
+    "Domain": "github.com",
+    "Description": "Fixes #43482\nFixes #43503\nEnable analyzers for validating null and argument ranges, object disposed, etc.\nThese helpers aren't available on older frameworks. Complications from projects that target..."
+  },
+  {
+    "Title": "GitHub - mjbommar/gpt-takes-the-bar-exam: GPT Takes the Bar Exam",
+    "Url": "https://github.com/mjbommar/gpt-takes-the-bar-exam",
+    "Timestamp": "2023-01-10T01:02:15",
+    "Domain": "github.com",
+    "Description": "GPT Takes the Bar Exam. Contribute to mjbommar/gpt-takes-the-bar-exam development by creating an account on GitHub."
+  },
+  {
+    "Title": "CSS Art Polariod Camera",
+    "Url": "https://codepen.io/kassandrasanch/pen/WNxJZyz",
+    "Timestamp": "2023-01-10T00:02:51",
+    "Domain": "codepen.io",
+    "Description": "..."
+  }
+]

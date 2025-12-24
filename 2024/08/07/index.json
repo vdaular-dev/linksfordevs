@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "Making Linux C++ Crashes Less Chaotic",
+    "Url": "https://www.robopenguins.com/less-crashy-crashes/",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "www.robopenguins.com",
+    "Description": "Fear the dreaded “Segmentation fault (core dumped)”? Here’s how I stopped worrying and learned to love the crash. "
+  },
+  {
+    "Title": "Who is the fastest? Node.js, Bun.js, or Deno.js | Trevor Indrek Lasn",
+    "Url": "https://trevorlasn.com/blog/benchmarks-for-node-bun-deno/",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "trevorlasn.com",
+    "Description": "A detailed comparison of Node.js, Bun.js, and Deno.js runtime performance"
+  },
+  {
+    "Title": "A Few Thoughts On the Selloff",
+    "Url": "https://www.theirrelevantinvestor.com/p/thoughts-selloff",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "www.theirrelevantinvestor.com",
+    "Description": "Everybody Be Cool "
+  },
+  {
+    "Title": "Announcing Official Puppeteer Support for Firefox – Mozilla Hacks - the Web developer blog",
+    "Url": "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "hacks.mozilla.org",
+    "Description": "Puppeteer 23 now supports Firefox, simplifying browser automation and testing across both Chrome and Firefox."
+  },
+  {
+    "Title": "Dual-Boot NetBSD And Archlinux",
+    "Url": "https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "vsis.online",
+    "Description": "This is the method I use to dual-boot Archlinux and NetBSD in my laptop.\nI’ve written this with a virtual machine, to reproduce and test every step.\nBut, at least in theory, it should work in any UEFI AMD64 machine."
+  },
+  {
+    "Title": "I made a worse search engine than Elasticsearch",
+    "Url": "https://softwaredoug.com/blog/2024/08/06/i-made-search-worse-elasticsearch",
+    "Timestamp": "2024-08-07T23:01:14",
+    "Domain": "softwaredoug.com",
+    "Description": "Integrating my BM25 pandas search library, SearchArray, into BEIR, in order to embarass myself in public."
+  },
+  {
+    "Title": "Demystifying Postgres Schema Migrations: Building it from Scratch",
+    "Url": "https://www.sheshbabu.com/posts/demystifying-postgres-schema-migrations/",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "www.sheshbabu.com",
+    "Description": "Database schema migrations are rarely taught in universities, and if you’re a self-taught developer, migrations are not something you would naturally pick up."
+  },
+  {
+    "Title": "“Why aren’t the designers and engineers sitting together?” — featherless software design",
+    "Url": "https://jeffverkoeyen.com/blog/2024/08/01/sit-together/",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "jeffverkoeyen.com",
+    "Description": "Aug 1, 2024"
+  },
+  {
+    "Title": "From Simple to Ornate and Back Again",
+    "Url": "https://josem.co/simple-to-ornate-and-back-again/",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "josem.co",
+    "Description": "Art history shows us that we tend to move between adding “unnecessary” elaborate decorations to clean styles and back again. It’s almost an endless cycle repeated over and over.\nThis cycle happens in the different arts and other fields where design is involved, like software. Let’s trace it in architecture first.\nHere is the Abbey Church of St James in Hungary (1206), a clear example of the Romanesque style. By its side, Notre Dame, completed in 1345."
+  },
+  {
+    "Title": "First impressions of Gleam: lots of joys and some rough edges",
+    "Url": "https://www.ntietz.com/blog/first-impressions-of-gleam/",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "www.ntietz.com",
+    "Description": "My friend Erika is a big fan of Gleam, and her enthusiasm (and explicit encouragement) finally got me to learn the language.\nIt's a functional programming language which targets both the BEAM (Erlang's VM) and JavaScript.\nThis makes it appealing as a language that can target both frontend and backend applications easily, can benefit from the large Erlang/Elixir and JavaScript ecosystems, and lets you use Erlang's fantastic scalability resiliency."
+  },
+  {
+    "Title": "An update on our general capability evaluations",
+    "Url": "https://metr.org/blog/2024-08-06-update-on-evaluations/",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "metr.org",
+    "Description": "Since releasing our autonomy evaluation resources, METR has primarily focused on developing better measures of AI capabilities. We are currently developing evaluations for AI R&D capabilities that may serve as “red lines”,1 as well as a continuous measure of autonomous capabilities in general. In this update, we’ll talk about our recent efforts on developing evaluations for general autonomous capabilities – we plan on providing an update on our AI R&D evaluations in the near future. Note that this post provides an intermediate research update for those interested in our work and includes preliminary results that should not be considered definitive."
+  },
+  {
+    "Title": "Part Assholes are Awesome",
+    "Url": "https://breckyunits.com/assholes.html",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "breckyunits.com",
+    "Description": ""
+  },
+  {
+    "Title": "Examples of left and right inverses",
+    "Url": "https://blog.plover.com/2024/08/05/#inverses?utm_source=hnblogs.substack.com",
+    "Timestamp": "2024-08-07T23:01:13",
+    "Domain": "blog.plover.com",
+    "Description": "From the highly eclectic blog of Mark Dominus"
+  },
+  {
+    "Title": "Tony Hawk's Pro Strcpy",
+    "Url": "https://icode4.coffee/?p=954",
+    "Timestamp": "2024-08-07T21:01:02",
+    "Domain": "icode4.coffee",
+    "Description": "Tony Hawk's Pro Strcpy: A game save and RCE exploit for the Tony Hawk game series that can be used to hack Xbox, Playstation 2, Gamecube, and Xbox 360 consoles."
+  },
+  {
+    "Title": "Adding .NET Aspire to your existing .NET apps - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/",
+    "Timestamp": "2024-08-07T19:01:06",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET Aspire can really simplify local development for your existing apps, large or small. In this post, we'll look at how easy it is to make your current solutions better with just a few lines of code."
+  },
+  {
+    "Title": "How do I know when the user has finished interacting with the Accounts­Settings­Pane? - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240807-00/?p=110108",
+    "Timestamp": "2024-08-07T18:00:59",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "You can use the version that runs an asynchronous operation."
+  },
+  {
+    "Title": "Vice President First Names",
+    "Url": "https://xkcd.com/2969/",
+    "Timestamp": "2024-08-07T13:01:03",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Full Text Search over Postgres: Elasticsearch vs. Alternatives - ParadeDB",
+    "Url": "https://blog.paradedb.com/pages/elasticsearch_vs_postgres",
+    "Timestamp": "2024-08-07T10:01:02",
+    "Domain": "blog.paradedb.com",
+    "Description": "Written by Ming Ying on July 31, 2024"
+  },
+  {
+    "Title": "The Actual Wolf of Wall Street Sales Script",
+    "Url": "https://www.jointhefollowup.com/p/the-actual-wolf-of-wall-street-sales-script",
+    "Timestamp": "2024-08-07T07:01:13",
+    "Domain": "www.jointhefollowup.com",
+    "Description": "If you can look past the $200M they defrauded from 1,500 investors… they were actually a pretty successful sales team. "
+  },
+  {
+    "Title": "EP–1320 medieval",
+    "Url": "https://teenage.engineering/products/ep-1320",
+    "Timestamp": "2024-08-07T07:01:00",
+    "Domain": "teenage.engineering",
+    "Description": "hurdy gurdys, lutes, gregorian chants, thundering drums andpercussive foley fx, all at the press of a button. the EP–1320 is the first of its kind:featuring a large library of phrases, play ready instruments and one-shot samplesfrom the darkest of ages, the instrumentalis electronicum is the ultimate,and only, medieval beat machine."
+  },
+  {
+    "Title": "Tracking supermarket prices with playwright",
+    "Url": "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/",
+    "Timestamp": "2024-08-07T07:00:59",
+    "Domain": "www.sakisv.net",
+    "Description": "Back in Dec 2022, when inflation was running high, I built a\nwebsite for tracking price changes in the three largest\nsupermarkets of my home country, Greece."
+  },
+  {
+    "Title": "Y'all are sleeping on HTTP/3",
+    "Url": "https://kmcd.dev/posts/yall-are-sleeping-on-http3/",
+    "Timestamp": "2024-08-07T06:01:00",
+    "Domain": "kmcd.dev",
+    "Description": "Wake up call This post is about HTTP/3 and QUIC. If you don’t know what that is, there are many, many, many, many, many, many, many good resources that will get you up to speed. I’m writing this post to enlighten people on what has been happening in the last few years.\nAll major browsers support HTTP/3 now.\nMost major cloud providers support HTTP/3 now.\nMost major load balancers support HTTP/3 now."
+  },
+  {
+    "Title": "1fps.video - Hassle-free Screen Sharing",
+    "Url": "https://1fps.video/",
+    "Timestamp": "2024-08-07T04:01:03",
+    "Domain": "1fps.video",
+    "Description": "You need Golang installed for this command to work. If you don't have Golang, you can install it using one of these methods:"
+  },
+  {
+    "Title": "kubernetes/pkg/controller/volume/persistentvolume/pv_controller.go at 60c4c2b2521fb454ce69dee737e3eb91a25e0535 · kubernetes/kubernetes",
+    "Url": "https://github.com/kubernetes/kubernetes/blob/60c4c2b2521fb454ce69dee737e3eb91a25e0535/pkg/controller/volume/persistentvolume/pv_controller.go",
+    "Timestamp": "2024-08-07T02:01:13",
+    "Domain": "github.com",
+    "Description": "Production-Grade Container Scheduling and Management - kubernetes/kubernetes"
+  },
+  {
+    "Title": "Submitting conference abstracts that get accepted",
+    "Url": "https://newdevsguide.com/2024/08/06/submitting-conference-talks/",
+    "Timestamp": "2024-08-07T02:01:09",
+    "Domain": "newdevsguide.com",
+    "Description": "Let's talk about the conference CFP process and how to write an abstract that represents your ideas well and just might get accepted."
+  }
+]

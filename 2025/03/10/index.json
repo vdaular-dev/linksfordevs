@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "ƎXCLUSIVE ARCHITECTURE",
+    "Url": "https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html",
+    "Timestamp": "2025-03-10T19:02:12",
+    "Domain": "exclusivearchitecture.com",
+    "Description": "The introduction of automatically focusing lenses has changed photography in numerous ways. Autofocus systems have significantly improved the reliability and accuracy with which fast moving objects can be shot. Round four decades ago, the new level of convenience offered by autofocus lenses has made photography more accessible to the masses. Since their first release of an autofocus lens in 1981, Canon has constantly developed their lens technology using different approaches. Over time, Canon has introduced seven different autofocus motor technologies that will be presented here."
+  },
+  {
+    "Title": "uBlock Origin - Chrome Web Store",
+    "Url": "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en",
+    "Timestamp": "2025-03-10T19:02:06",
+    "Domain": "chromewebstore.google.com",
+    "Description": "Finally, an efficient blocker. Easy on CPU and memory."
+  },
+  {
+    "Title": "Homegrown Devlog - Finishing the Town Area!",
+    "Url": "https://youtube.com/watch?v=WbP8hM8J9L4",
+    "Timestamp": "2025-03-10T19:02:03",
+    "Domain": "youtube.com",
+    "Description": "Devlog video about \"Homegrown\", the casual farming game I'm creating using my own engine.\n\nSupport the channel on Patreon and get access to the game & code for Homegrown, the city-builder, and Equilinox:\nhttps://www.patreon.com/thinmatrix\n\nPlay my previous game \"Equilinox\":\nhttps://store.steampowered.com/app/853550/Equilinox/\n\nFollow the game's progress on my social media:\nInstagram: https://www.instagram.com/thinmatrix/\nTwitter: https://twitter.com/ThinMatrix\nBluesky: https://bsky.app/profile/thinmatrix.bsky.social\nTrello: https://trello.com/b/W3zkIJTM/farm\nEmail: thinmatrix@gmail.com\n\nBackground music by Jamal Green:\nhttps://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt?si=Z-xfUXEXQCuGdGRy7qf9Ug&dl_branch=1\n\nEquipment (Amazon Affiliate Links):\nKeyboard: https://amzn.to/4fX0hOf\nMouse: https://amzn.to/40dyvXX\nCamera: https://amzn.to/491ayFZ\nDesk Microphone: https://amzn.to/40jOELk\nCamera Mic: https://amzn.to/48ZcRcE\n\n#devlog #Homegrown"
+  },
+  {
+    "Title": "When to use IsReadOnly or IsEnabled? – AskXammy",
+    "Url": "https://askxammy.com/when-to-use-isreadonly-or-isenabled/",
+    "Timestamp": "2025-03-10T18:02:02",
+    "Domain": "askxammy.com",
+    "Description": "Sometimes, when implementing forms in our applications, there are certain sensitive data fields that are displayed only for informational purposes and should not be modified by the user.For example, in some applications, once a user is created, certain data, such as the username, cannot be changed, while other fields, like the address or email, can still be modified."
+  },
+  {
+    "Title": "A Quick Look At BitFaster Caching in C#",
+    "Url": "https://youtube.com/watch?v=aL58HDnATjQ",
+    "Timestamp": "2025-03-10T18:01:55",
+    "Domain": "youtube.com",
+    "Description": "A dictionary in C# is one simple way to add caching functionality but... it doesn't handle some situations we probably really care about in a real application.\n\nThread safety? Not so fast. But there is a ConcurrentDictionary we can use!\n\nEviction strategy for cached items in the collection? Not out of the box.\n\nWhat about entry expiration? Nope -- not without rolling your own.\n\nBut that's exactly why I have relied on BitFaster Caching for these use cases. Simple. Easy to use. Gets the job done.\n\nLearn more about it and more in the caching for beginner's video:\nhttps://www.youtube.com/watch?v=yM5mxZdqeGc"
+  },
+  {
+    "Title": "HTTP Demystified: The Secret Sauce of the Web - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/http-demystified-the-secret-sauce-of-the-web/",
+    "Timestamp": "2025-03-10T17:01:51",
+    "Domain": "woodruff.dev",
+    "Description": "The internet—our beloved realm of cat videos, memes, and, occasionally, productivity—wouldn’t be the same without HTTP. It’s the invisible magic behind every website you visit. But what exactly is it, and how does it work? Buckle up because we’re about to take a joyride through the world of HTTP!"
+  },
+  {
+    "Title": "GitHub - jamesnolanverran/dmap: Dmap is a zero-friction hashmap for C.",
+    "Url": "https://github.com/jamesnolanverran/dmap",
+    "Timestamp": "2025-03-10T16:02:01",
+    "Domain": "github.com",
+    "Description": "Dmap is a zero-friction hashmap for C. Contribute to jamesnolanverran/dmap development by creating an account on GitHub."
+  },
+  {
+    "Title": "EF Core: Repository Pattern and IMemoryCache Tutorial",
+    "Url": "https://youtube.com/watch?v=2yt4bOtEzME",
+    "Timestamp": "2025-03-10T14:01:54",
+    "Domain": "youtube.com",
+    "Description": "In a previous video, we managed to add caching to our repository pattern. But... we had to essentially duplicate all of the code. Can we do better than that?\n\nYes! Let's see the decorator pattern in action.\n\n----\nTimestamps:\n\n0:00 - Intro\n1:10 - Recap On Code\n2:28 - The Decorator Pattern Intro\n4:44 - The Decorator Class\n7:11 - Refactoring Course\n7:38 - Continuing\n9:10 - Design Considerations\n10:18 - Dependency Injection\n14:35 - Try It Out!\n15:40 - Summary\n----\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\n\n🗣️ Social Media & Links:\n- All My Links: https://linktr.ee/devleader\n- Vlogs:  @DevLeaderBTS @CodeCommute \n- Blog: https://www.devleader.ca/\n- TikTok: https://www.tiktok.com/@devleader\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\n- Threads: https://threads.net/@dev.leader\n- Twitter: https://twitter.com/DevLeaderCa\n- Facebook: https://www.facebook.com/DevLeaderCa\n- Instagram: https://www.instagram.com/dev.leader\n- GitHub: https://github.com/ncosentino/\n- Twitch: https://twitch.tv/devleaderca\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\n\n❤️ Affiliations & Products/Services That I Love:\n- @BrandGhostAI for all of my content creation: https://brandghost.ai\n- AI shorts helper Opus Clip: https://opus.pro/?via=2f9e97\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\n----\n\n#softwareengineering #softwaredeveloper #softwareengineer"
+  },
+  {
+    "Title": "Why should I care about the CAP Theorem?",
+    "Url": "https://youtube.com/watch?v=rBgDo840BNE",
+    "Timestamp": "2025-03-10T14:01:54",
+    "Domain": "youtube.com",
+    "Description": "💌 More Insights like this directly to your inbox: https://guiferreira.me/newsletter\n\n#softwaredevelopment    #coding"
+  },
+  {
+    "Title": "Interesting links of the week 2025-11",
+    "Url": "https://samestuffdifferentday.net/2025/03/10/Interesting-links-of-the-week-2025-11/",
+    "Timestamp": "2025-03-10T13:01:49",
+    "Domain": "samestuffdifferentday.net",
+    "Description": "Here are the best and most interesting articles, blog posts, videos, podcasts, and GitHub repositories I’ve run into over the last week (March 3, 2024 - March 9, 2025). Enjoy!"
+  },
+  {
+    "Title": "Performance of the Python 3.14 tail-call interpreter",
+    "Url": "https://blog.nelhage.com/post/cpython-tail-call/",
+    "Timestamp": "2025-03-10T13:01:49",
+    "Domain": "blog.nelhage.com",
+    "Description": "A deep dive into the performance of Python 3.14's tail-call interpreter: How the performance results were confounded by an LLVM regression, the surprising complexity of compiling interpreter loops, and some reflections on performance work, software engineering, and optimizing compilers."
+  },
+  {
+    "Title": "Buy European Made",
+    "Url": "https://www.goeuropean.org/",
+    "Timestamp": "2025-03-10T12:02:00",
+    "Domain": "www.goeuropean.org",
+    "Description": "A directory of EU-made alternatives. From software and electronics to everyday products - all made in Europe"
+  },
+  {
+    "Title": "Bispecific antibodies targeting the N-terminal and receptor binding domains potently neutralize SARS-CoV-2 variants of concern",
+    "Url": "https://www.science.org/doi/10.1126/scitranslmed.adq5720",
+    "Timestamp": "2025-03-10T12:01:58",
+    "Domain": "www.science.org",
+    "Description": "Bispecific antibodies incorporating a cross-reactive NTD-specific antibody are resilient to SARS-CoV-2 variants of concern."
+  },
+  {
+    "Title": "We’re teaming up with Qwant to build a European search index",
+    "Url": "https://blog.ecosia.org/eusp/",
+    "Timestamp": "2025-03-10T10:01:40",
+    "Domain": "blog.ecosia.org",
+    "Description": "We are proud to share the next step in our journey towards tech independence: building our very own search index!"
+  },
+  {
+    "Title": "What's cooking on SourceHut? Q1 2025",
+    "Url": "https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/",
+    "Timestamp": "2025-03-10T08:01:48",
+    "Domain": "sourcehut.org",
+    "Description": "sourcehut is a network of useful open source tools for software project maintainers and collaborators, including git repos, bug tracking, continuous integration, and mailing lists."
+  },
+  {
+    "Title": "System.Linq.Async is part of .NET 10 - LINQ for IAsyncEnumerable",
+    "Url": "https://steven-giesel.com/blogPost/e40aaedc-9e56-491f-9fe5-3bb0b162ae94",
+    "Timestamp": "2025-03-10T06:01:48",
+    "Domain": "steven-giesel.com",
+    "Description": "IAsyncEnumerable is a type that was introduced in netcoreapp3.1 times. While somewhat an enumerable (even though async in nature), it never had the capabilities as its synchronous counterpart. Until dotnet 10! Now we have some feature-parity between those two.\n"
+  },
+  {
+    "Title": "Hello echo! Hello git! - Gleam",
+    "Url": "https://gleam.run/news/hello-echo-hello-git/",
+    "Timestamp": "2025-03-10T02:01:43",
+    "Domain": "gleam.run",
+    "Description": "The Gleam programming language"
+  }
+]

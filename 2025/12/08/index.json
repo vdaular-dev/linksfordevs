@@ -1,0 +1,170 @@
+[
+  {
+    "Title": "IBM to Acquire Confluent",
+    "Url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+    "Timestamp": "2025-12-08T21:02:22",
+    "Domain": "www.confluent.io",
+    "Description": "IBM to Acquire Confluent"
+  },
+  {
+    "Title": "Microsoft has a problem: nobody wants its poor AI products",
+    "Url": "https://www.windowscentral.com/artificial-intelligence/microsoft-has-a-problem-nobody-wants-to-buy-or-use-its-shoddy-ai",
+    "Timestamp": "2025-12-08T20:02:07",
+    "Domain": "www.windowscentral.com",
+    "Description": "A new report details how Microsoft has cut some internal goals for AI sales, why? Nobody wants to use its weak products."
+  },
+  {
+    "Title": "Better Tile Breakup - Terrain Shaders - Episode 7",
+    "Url": "https://youtube.com/watch?v=z3f1bE41daI",
+    "Timestamp": "2025-12-08T17:02:10",
+    "Domain": "youtube.com",
+    "Description": "In this tutorial, I show a better method for breaking up tiling artifacts so terrain looks more organic and less repetitive. I show how to create the technique in both Unreal and Unity.\n\nHere's the original technique demonstrated by Inigo Quilez on ShaderToy:\nhttps://www.shadertoy.com/view/Xtl3zf\n\nHere's the playlist for the whole series:\nhttps://www.youtube.com/playlist?list=PL78XDi0TS4lHI72hWFQHpDJpL87LiQPgC\n\n\nShader Book Recommendations\nhttps://www.bencloward.com/resources_books.shtml\n\n------------------------------\n\nTheme Music\nPeace in the Circuitry - Glitch Hop\nhttp://teknoaxe.com/Link_Code_3.php?q=1526\n\nBackground Music\nSpeo - The Little Things\nhttps://www.youtube.com/watch?v=kvCYuyyLgC0\n\n#UnrealEngine #shadergraph #Unity"
+  },
+  {
+    "Title": "New GPU Profiler and RHI Submission Pipeline | Unreal Fest Stockholm 2025",
+    "Url": "https://youtube.com/watch?v=vnbARZHccpQ",
+    "Timestamp": "2025-12-08T17:02:09",
+    "Domain": "youtube.com",
+    "Description": "In this session recorded at Unreal Fest Stockholm, we take a look at the new features of the improved GPU profiler that shipped with UE 5.6, and how the extra information it provides can help when profiling titles for both CPU and GPU performance. \n\nWe also take a deep dive on our modern RHI submission pipeline design. This system is responsible for the threading of renderer work on the CPU, and feeding that work to the GPU. \n\nWatch to learn about the modern Unreal Engine renderer threading design, which is valuable when analysing Unreal Insights traces for rendering related performance issues.\n\nLearn more about Unreal Engine here: unrealengine.com\n\n#GPUProfiler, #RHISubmissionPipeline, #UnrealInsights, #UnrealEngine, #UE5.6, #UnrealFestStockholm"
+  },
+  {
+    "Title": "Why Text in Vampire Survivors Used to Look Like This",
+    "Url": "https://jslegenddev.substack.com/p/why-text-in-vampire-survivors-used",
+    "Timestamp": "2025-12-08T16:02:16",
+    "Domain": "jslegenddev.substack.com",
+    "Description": "In 2022, Vampire Survivors, a game where you destroy hordes of enemies by just moving around, released."
+  },
+  {
+    "Title": "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+    "Url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+    "Timestamp": "2025-12-08T16:02:09",
+    "Domain": "nesbitt.io",
+    "Description": "GitHub Actions has a package manager that ignores decades of supply chain security best practices: no lockfile, no integrity verification, no transitive pinning"
+  },
+  {
+    "Title": "The f*** off contact page - Nic Chan",
+    "Url": "https://www.nicchan.me/blog/the-f-off-contact-page/",
+    "Timestamp": "2025-12-08T13:02:04",
+    "Domain": "www.nicchan.me",
+    "Description": "How to get people to NOT contact you"
+  },
+  {
+    "Title": "Why Fighter Jets Ban 90% of C++ Features",
+    "Url": "https://youtube.com/watch?v=Gv4sDL9Ljww",
+    "Timestamp": "2025-12-08T09:01:56",
+    "Domain": "youtube.com",
+    "Description": "A single unhandled exception destroyed a $500 million rocket in seconds.\n\nThe F-35 wasn't going to make the same mistake.\n\nBy carefully slicing C++, engineers created one of the strictest coding standards ever written.\n\nThis...is Programming Like a Fighter Pilot.\n\nIn this video, we dive into the history of software in aircraft, the (thousands!) of programming languages the Pentagon had to deal with, and perhaps the wildest of all, the JSF (F-35) C++ standard.\n\n---\n\nTimestamps:\n00:00 History of Software in Flight\n08:27 The Pentagon and C++\n12:56 Flying (Simulated) F-35s\n17:58 No Exceptions?\n23:47 Recursion + Cyclomatic Complexity\n26:26 Memory (Pre)allocation\n30:51 Future of Safety Critical Software\n\n---\n\nCheck out my X account for cool Computer Science stuff!\nhttps://x.com/lauriewired\n\n---\n\nMy GitHub of all example code:\nhttps://github.com/LaurieWired/XplaneFlightData\n\n---\n\nYou can check out the REAL F-35 C++ Coding standard here (it's public!):\nhttps://www.stroustrup.com/JSF-AV-rules.pdf"
+  },
+  {
+    "Title": "Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT & SSO",
+    "Url": "https://javarevisited.substack.com/p/system-design-basics-authentication",
+    "Timestamp": "2025-12-08T08:02:06",
+    "Domain": "javarevisited.substack.com",
+    "Description": "Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT & SSO"
+  },
+  {
+    "Title": "I failed to recreate the 1996 Space Jam Website with Claude | j0nah.com",
+    "Url": "https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/",
+    "Timestamp": "2025-12-08T01:01:59",
+    "Domain": "j0nah.com",
+    "Description": "Can Claude Recreate the 1996 Space Jam Website? No. Or at least not with my prompting skills."
+  },
+  {
+    "Title": "How I block all online ads",
+    "Url": "https://troubled.engineer/posts/no-ads/",
+    "Timestamp": "2025-12-08T00:03:27",
+    "Domain": "troubled.engineer",
+    "Description": "A couple of years ago, I decided I'd had enough of ads. Not just the occasional banner or a quick pre-roll video — I mean all of them. They have to go."
+  },
+  {
+    "Title": "Learn CUTLASS the hard way!",
+    "Url": "http://www.kapilsharma.dev/posts/learn-cutlass-the-hard-way/",
+    "Timestamp": "2025-12-08T00:03:23",
+    "Domain": "www.kapilsharma.dev",
+    "Description": "Walkthrough of optimization techniques for GEMMs from a naive fp32 kernel to CUTLASS bf16 kernel"
+  },
+  {
+    "Title": "A series of tricks and techniques I learned doing tiny GLSL demos",
+    "Url": "https://blog.pkh.me/p/48-a-series-of-tricks-and-techniques-i-learned-doing-tiny-glsl-demos.html",
+    "Timestamp": "2025-12-08T00:03:18",
+    "Domain": "blog.pkh.me",
+    "Description": "In the past two months or so, I spent some time making tiny GLSL demos. I wrote\nan article about the first one, Red Alp. There, I went into details about the\nwhole process, so I recommend to check it out first if you're not familiar with\nthe field."
+  },
+  {
+    "Title": "Moving Off of Netlify",
+    "Url": "https://broderic.blog/post/moving-away-from-netlify/",
+    "Timestamp": "2025-12-08T00:03:13",
+    "Domain": "broderic.blog",
+    "Description": "Ever since I started this blog 3 years ago back in 2022 I’ve hosted it on Netlify. Here is my first post whining about how difficult it was for me to set that up.. Looking back after having a better understanding of both Hugo and Netlify, my complaints are pretty dumb. I’ve learned from certain mistakes like using GitHub submodules unnecessarily and being able to read docs better.\nMy newest complaint however is a bit more valid. I’ve been reading more and more regarding AI scrapers and was curious what kind of bot traffic my blog was receiving. So I go on Netlify and look around for logs. Can’t find any kind of access logs. Find out that Netlify does offer logs, however they are on their paid plan, and they do not provide really the level of detail compared to logs from like nginx. Since I already self host a VM running nginx, I decided I might as well throw that on it too. I’ve also starting building up monitoring for everything in my home lab. Lots of messing around with SNMP (I hate it) and Grafana’s LGTM stack. My overall plan is to eventually create some kind of primitive NOC & SOC."
+  },
+  {
+    "Title": "The New Cigarette",
+    "Url": "https://www.whitenoise.email/p/the-new-cigarette",
+    "Timestamp": "2025-12-08T00:03:09",
+    "Domain": "www.whitenoise.email",
+    "Description": "Between Smoke and Ash"
+  },
+  {
+    "Title": "OSCAR Live Coding Environment",
+    "Url": "https://adam.zeloof.xyz/2025/11/07/oscar-live-coding-environment/",
+    "Timestamp": "2025-12-08T00:03:05",
+    "Domain": "adam.zeloof.xyz",
+    "Description": "OSCAR (clumsily backronym’ed to OScilloscope Code And Renderer) is a live coding environment designed for vector visual performances. It lets the artist create visuals using sound waves, whic…"
+  },
+  {
+    "Title": "How prompt caching works - Paged Attention and Automatic Prefix Caching plus practical tips",
+    "Url": "https://sankalp.bearblog.dev/how-prompt-caching-works/",
+    "Timestamp": "2025-12-08T00:02:57",
+    "Domain": "sankalp.bearblog.dev",
+    "Description": "A deep dive into prompt caching - practical tips to improve cache hits and how vLLM's paged attention enables KV-cache reuse across requests via automatic prefix-caching"
+  },
+  {
+    "Title": "Privacy-First Home Security Camera System | Joe IQ",
+    "Url": "https://joeiq.com/blog/privacy-first-home-security-camera-system/",
+    "Timestamp": "2025-12-08T00:02:54",
+    "Domain": "joeiq.com",
+    "Description": "I wanted home security cameras. Nothing fancy—just a way to keep an eye on my front door and backyard while I was away."
+  },
+  {
+    "Title": "Using LLMs for Breadcrumbs, Not Code Generation",
+    "Url": "https://bonniesimon.in/blog/breadcrumbs-approach-to-learning-with-llms",
+    "Timestamp": "2025-12-08T00:02:50",
+    "Domain": "bonniesimon.in",
+    "Description": "How to learn using LLMs without outsourcing your thinking"
+  },
+  {
+    "Title": "Steering the Vibe: Commits",
+    "Url": "https://staffordwilliams.com/blog/2025/12/07/steering-the-vibe-commits/",
+    "Timestamp": "2025-12-08T00:02:46",
+    "Domain": "staffordwilliams.com",
+    "Description": "Use deterministic scripts to enforce commit message rules that prompts alone can't guarantee, reducing cognitive load when working across multiple projects."
+  },
+  {
+    "Title": "Choosing Vim over VSCode",
+    "Url": "https://alexsci.com/blog/vim-over-vscode/",
+    "Timestamp": "2025-12-08T00:02:43",
+    "Domain": "alexsci.com",
+    "Description": "Why I keep coming back to Vim"
+  },
+  {
+    "Title": "Working Thoughts",
+    "Url": "https://www.bramadams.dev/working-thoughts/",
+    "Timestamp": "2025-12-08T00:02:39",
+    "Domain": "www.bramadams.dev",
+    "Description": "These are a collection of my most salient contributions to the thought space of humanity. They update as I learn more about life, of course."
+  },
+  {
+    "Title": "The impossible hot spot",
+    "Url": "https://heckmeck.de/blog/the-impossible-hot-spot/",
+    "Timestamp": "2025-12-08T00:02:36",
+    "Domain": "heckmeck.de",
+    "Description": "The “hot spot” determines where your mouse cursor is pointing, i. e. the exact pixel that is considered the active\npixel. This isn’t necessarily the top left edge:"
+  },
+  {
+    "Title": "Why I forked instead of taking the easy way out | Andros Fenollosa",
+    "Url": "https://en.andros.dev/blog/7134f59f/why-i-forked-instead-of-taking-the-easy-way-out/",
+    "Timestamp": "2025-12-08T00:02:22",
+    "Domain": "en.andros.dev",
+    "Description": "I wanted to add a small real-time visitor counter to my website. In other words, to openly display how many people are viewing my site at the exact mo"
+  }
+]

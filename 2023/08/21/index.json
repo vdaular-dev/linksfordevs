@@ -1,0 +1,576 @@
+[
+  {
+    "Title": "Roadmap to learn .NET in 2023",
+    "Url": "https://medium.com/net-tips/roadmap-to-learn-net-in-2023-f155a769fd58",
+    "Timestamp": "2023-08-21T23:02:32",
+    "Domain": "medium.com",
+    "Description": "Looking for a proven path to success in .NET development?"
+  },
+  {
+    "Title": "Do I really want AI to help debug my code?",
+    "Url": "https://youtube.com/watch?v=mWQcFhdlChE",
+    "Timestamp": "2023-08-21T23:02:31",
+    "Domain": "youtube.com",
+    "Description": "Do I really want AI to help me debug my code? John Maeda shares his thoughts in today's #OneDevQuestion.Learn more: https://msft.it/605498E80"
+  },
+  {
+    "Title": "On .NET Live - Finding joy in minimal APIs",
+    "Url": "https://youtube.com/watch?v=L0NmrmZyEFI",
+    "Timestamp": "2023-08-21T22:02:34",
+    "Domain": "youtube.com",
+    "Description": "Have you discovered the ease of simplicity of minimal APIs in ASP.NET Core? In this week's episode, community member John Alexander shows he learned minimal ..."
+  },
+  {
+    "Title": "Enjoying the Internet again with the Fediverse and IndieWeb",
+    "Url": "https://blog.kovah.de/en/2023/enjoying-internet-again-with-fediverse-indieweb/",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "blog.kovah.de",
+    "Description": ""
+  },
+  {
+    "Title": "The Ugly Truth About Sleep",
+    "Url": "https://www.okdoomer.io/the-ugly-truth-about-sleep/",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "www.okdoomer.io",
+    "Description": "Sleep has turned into a form of class privilege.\n\n\nIt’s also a weapon in class warfare.\n\n\nI’m guessing you don’t need yet another life coach or wellness grifter selling you on the concept of sleep. You’ve probably spent a lot of time and money on it"
+  },
+  {
+    "Title": "Concise explanations accelerate progress",
+    "Url": "https://stephanango.com/concise",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "stephanango.com",
+    "Description": "If you want to progress faster, write concise explanations. Explain ideas in simple terms, strongly and clearly, so that they can be rebutted, remixed, rewor..."
+  },
+  {
+    "Title": "What’s a Website",
+    "Url": "https://joe-ferrara.github.io/2023/08/20/whats-a-website.html",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "joe-ferrara.github.io",
+    "Description": "This post is about what a website1 is from the perspective of how the internet works. For a long time I thought a webpage was an html file, and a website a collection of html files in a directory structure. I had never considered further what’s going on when one visits a website. Now I know that when I visits a website, the website is running (aka hosted) on a computer that I’m connecting to through the internet. On the computer that is hosting the website, a program is running which renders that html file for my viewing pleasure. That’s a high level description, and I’ll get into a little more detail. But first a story about where my thinking that a website is nothing more than a rendered html files came from. It was my first time meeting the other post docs in the math department at UC San Diego, and I had just set up my personal website at math.ucsd.edu/~jferrara2. When you’re associated with a University in a teaching or research role you’re given a website, usually at a domain like department.university.edu/~email_address. To set up your website, you get a login and password to ssh into a server that’s run by the university. When you ssh in, there’s some standard directory structure that I forget, where one of the directories corresponds to your webpage. Throw some html into that directory, in particular index.hrml in the top level, and that html is rendered at the domain associated with your email address. I had just made my website by typing up this html file <!DOCTYPE html> <html> <head> <title>Joe Ferrara's Web Page</title> <style> a:link {color:#0000FF;text-decoration:none;} /* unvisited link */ a:visited {color:#0000FF;text-decoration:none;} /* visited link */ a:hover {color:#0000FF;text-decoration:underline;} </style> </head> <body> <div id=\"content\" style=\"font-size:30px; width:800px; margin:0px auto;\">Joe Ferrara</div> <div id=\"content\" style=\"width:800px; margin:0px auto;\"> Postdoctoral Fellow <br/> Department of Mathematics <br/> UC San Diego <br/> <br/> <b>email: </b>jferrara (at) ucsd (dot) edu <br/> <b>office: </b>AP&M 6321 <br/> </div> <br/> <div id=\"content\" style=\"font-size:20px; width:800px; margin:0px auto;\"><b>Research</b></div> <br> <div id=\"content\" style=\"width:800px; margin:0px auto;\">I'm interested in special value formulas for L-functions with an emphasis on Stark's conjectures. I completed my PhD under the supervision of Professor Samit Dasgupta at UC Santa Cruz in Spring 2018. </div> <br/> <div id=\"content\" style=\"font-size:20px; width:800px; margin:0px auto;\"><b>Papers</b></div> <div id=\"content\" style=\"width:800px; margin:0px auto;\"> <ul> <li><i>A p-adic Stark conjecture in the rank one setting</i>, accepted to appear in Acta Arithmetica (<a href=\"pAdicStarkRankOne.pdf\">pdf</a>, <a href= \"https://arxiv.org/abs/1904.10561#\">arXiv</a>) </li> <br> <li><i>Stark's Conjectures for p-adic L-functions</i>, PhD Thesis, UC Santa Cruz (<a href=\"Thesis.pdf\">pdf</a>) </li> </div> <div id=\"content\" style=\"font-size:20px; width:800px; margin:0px auto;\"><b>Code</b></div> <div id=\"content\" style=\"width:800px; margin:0px auto;\"> <ul> <li>The code used to compute the examples in my thesis and in <i>A p-adic Stark conjecture in the rank one setting</i> can be found on GitHub: <a href=\"https://github.com/Joe-Ferrara/p-adicStarkExamples\">https://github.com/Joe-Ferrara/p-adicStarkExamples</a>. </li> </div> <div id=\"content\" style=\"width:800px; margin:0px auto; font-size:20px;\"><b>Teaching</b></div> </div> <div id=\"content\" style=\"width:800px; margin:0px auto;\"> Summer 2017 (at UC Santa Cruz): <a href=\"111ASum17/\">Math 111A</a> </div> </body> </html> I was very proud of myself having figured out how to write this html. While I was standing with the other postdocs in the entryway to the math department building waiting for a few other people to go to lunch, I told a few of the postdocs that I’d set up my personal website and asked if they had done the same. When they replied yes, I asked “Did you learn how to code html?”3 I wanted to brag about my new found html skills and that I knew how to ssh into the UCSD server to set up my website. One of the other postdocs looked at my like I was a fool, and replied “What do you mean, learned how to code in html? I made a couple html files for website, but I wouldn’t call that coding in html.” Myself, super embarrassed, as people usually are when they want to brag about something they learned and someone else trivializes it, laughed it off and changed the subject.4 I was obviously naïve, thinking that a website is just a bunch of html files. Of course a website can be just a bunch of html files, which was the case for the website I had made, but there can also be much more going on at a website. I still have the full set up files for my UCSD website, which I’ve put in this github repo https://github.com/Joe-Ferrara/my-ucsd-website. If you download the files in that repository then in the file explorer on your computer, you can click on the index.html file in the top level folder. Usually what will happen if you do that is that your web browser will open up and render the html file. You can then click around and that html file along with others in the folder will make it seem as if you’re interacting with a real website. When you visit a real website though there is more going on - a program is running on the computer that is hosting the website. To host my UCSD website on your computer, you can run the command python -m http.server in the top level of the repository. This will work if Python 3 is installed on your system and the python command corresponds to Python 3. Running this command starts a program that hosts the website on port 8000 of your computer.5 To see the website, visit http://localhost:8000/ in a web browser. The word localhost means it’s being hosted on your computer. Just like when you clicked the index.html file from your file explorer, you can interact with the website. If you interact with the website by clicking around the pages via links, you can see in the logs in the terminal where python -m http.server is running that showing that every time you click a link to go to a new page, the program does something to show that page in the web browser. Even though in this case you are hosting the website on your computer, other people cannot actually visit the website. This has something to do with the fact that you’re hosting the website on a personal computer that’s accessing the internet through your internet service provider. There are built in guardrails in place that prevent other random people from connecting to your computer and viewing things hosted on your computer. I don’t fully understand what the deal is to be honest. It has been a confusing point to me that on the one hand a website is just a program running on a computer that you can access through the internet, while at the same time, it’s difficult (or at least non-trivial) for me to host a website on my computer that others could access. Let’s say we wanted to make a website though that everyone could access. We’d need: The html files for the website, which we can use my UCSD html files as a source for. A computer to run python -m http.server on. A domain for people to visit. The proper set up such that people can actually connect to the computer that’s running python -m http.server and view the website. As I said before I do not really understand the details of 4., but I can say a bit more about 1., 2., and 3. A standard way to do this is to get an AWS account and turn on a cheap ec2 instance to host the website. An ec2 instance is just a computer - it’s a computer you can use to host your website. We’d turn on the ec2 instance, ssh into it, get the files for the website onto the ec2 instance, by cloning the UCSD website repo for instance, and then run python -m http.server in the correct folder of the ec2 instance. Then we do some magic to allow any person to connect to the ec2 instance. The way people connect to the ec2 instance to see the website is by using the ec2 instance’s IP address. Every computer connected to the internet has an IP address. An IP address is a string of numbers 4 numbers with dots between them, which looks like x.x.x.x. If you do the magic to make the ec2 instance accessible to anyone over the internet, then that means that people can visit a website hosted by the ec2 instance by visiting the instance’s public IP address. For example, if you’re running python m http.server, then people could view the hosted website by visiting http://x.x.x.x:8000/ where x.x.x.x is the IP address of the ec2 instance. People do not want to remember some random IP address for your website though, so you by a domain name like mycoolwebsite.com to host your website and there’s a standard process for pointing the domain name mycoolwebsite.com to the IP address and port where you are running your website. Interestingly, we can almost see what’s going on with the UCSD math department websites. The domain that hosted my UCSD website still actually works (as of 8/20/2023). If you go to https://math.ucsd.edu/~jferrara then it redirects to the website https://mathweb.ucsd.edu/~jferrara/, so you’re really viewing the website https://mathweb.ucsd.edu/~jferrara/. If you then go to the website https://mathweb.ucsd.edu, you get sent to a weird page that people probably are not supposed to visit with the source html: <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\"> <html> <head> <title>Index of /</title> </head> <body> <h1>Index of /</h1> <table> <tr><th valign=\"top\"><img src=\"/icons/blank.gif\" alt=\"[ICO]\"></th><th><a href=\"?C=N;O=D\">Name</a></th><th><a href=\"?C=M;O=A\">Last modified</a></th><th><a href=\"?C=S;O=A\">Size</a></th><th><a href=\"?C=D;O=A\">Description</a></th></tr> <tr><th colspan=\"5\"><hr></th></tr> <tr><th colspan=\"5\"><hr></th></tr> </table> <address>Apache/2.4.54 (Ubuntu) Server at mathweb.ucsd.edu Port 443</address> </body></html> The interesting thing about this website is that the website says “Apache/2.4.54 (Ubuntu) Server at mathweb.ucsd.edu Port 443”, which seems to indicate that the mathweb.ucsd.edu website is being hosted on port 443 of a server (i.e. a computer) that has the Ubuntu operating system. 1 More accurately this post is about what a static website is, but I do not want to get into the difference between a static website and a non-static website, so whenever I say website in this post, you could say that I am technically referring to a static website more than a general website. 2 Surprisingly, at the time of writing this, that url still shows my old website (after a redirect to mathweb.ucsd.edu/~jferrara/) even though I have not been associated with UC San Diego since June 2020. 3 Cringe. 4 The story also illustrates a point of programming or computer stuff in general - that you can do stuff and have no idea what you’re doing. I could ssh into he UCSD server and set up a static website of html files without having any understanding of what it means to ssh into a server or any understanding of how a website actually works. 5 I’d like to, but can’t really get into what a port is. I can google it or you can google it to understand what it is better. The extent to which I think about what a port is, is that in the address http://localhost:8000, the localhost part specifies the computer running the program and the :8000 part specifies where specifically on the computer the program hosting the website is running. This allows one to isolate exactly what’s running the program and illustrates that a computer can do different things at once. While hosting a website on one port it can also be doing other things."
+  },
+  {
+    "Title": "E-ink is so Retropunk",
+    "Url": "https://rmkit.dev/eink-is-so-retropunk/",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "rmkit.dev",
+    "Description": "I’ve long been struggling to describe why e-ink is so much fun for me, but Ithink I’ve finally realized what it is: e-ink is just so so so retropunk."
+  },
+  {
+    "Title": "Algolia + NextJS for Ecommerce",
+    "Url": "https://www.avikaminetzky.dev/posts/algolia-ecommerce-nextjs",
+    "Timestamp": "2023-08-21T21:02:58",
+    "Domain": "www.avikaminetzky.dev",
+    "Description": "Notes on implementing Algolia with NextJS"
+  },
+  {
+    "Title": "Why LFI is a tough sell",
+    "Url": "https://surfingcomplexity.blog/2023/08/20/why-lfi-is-a-tough-sell/",
+    "Timestamp": "2023-08-21T21:02:57",
+    "Domain": "surfingcomplexity.blog",
+    "Description": "There are two approaches to doing post-incident analysis: the (traditional) root cause analysis (RCA) perspective the (more recent) learning from incidents (LFI) perspective In the RCA perspective,…"
+  },
+  {
+    "Title": "Declarative package management with a Brewfile",
+    "Url": "https://matthiasportzel.com/brewfile/",
+    "Timestamp": "2023-08-21T21:02:57",
+    "Domain": "matthiasportzel.com",
+    "Description": "I love macOS and Brew, but I have one gripe. Learn how I solved it by using an unusual Brew feature."
+  },
+  {
+    "Title": "We don't need to \"degrow\" the economy",
+    "Url": "https://www.elysian.press/p/we-dont-need-degrowth-for-the-environment",
+    "Timestamp": "2023-08-21T21:02:56",
+    "Domain": "www.elysian.press",
+    "Description": "To save the environment."
+  },
+  {
+    "Title": "DIY Deliberate Practice  — Lynette Bye Coaching",
+    "Url": "https://lynettebye.com/blog/2023/7/27/diy-deliberate-practice",
+    "Timestamp": "2023-08-21T21:02:56",
+    "Domain": "lynettebye.com",
+    "Description": "In the spirit of growth and self-improvement, I recently attempted to apply Ericsson’s principles of deliberate practice to my own growth goal: speeding up my writing. If you're unfamiliar with the minutia of Ericsson's methods, don't worry, I was in the same boat — and hence my initial goal had sub"
+  },
+  {
+    "Title": "Brenton Cleeland - Website Best Practices",
+    "Url": "https://brntn.me/blog/website-best-practices/",
+    "Timestamp": "2023-08-21T21:02:55",
+    "Domain": "brntn.me",
+    "Description": "Personal site of Brenton Cleeland"
+  },
+  {
+    "Title": "Storing passkeys in password managers is okay, actually",
+    "Url": "https://cendyne.dev/posts/2023-08-21-passkeys-in-password-managers-is-okay.html",
+    "Timestamp": "2023-08-21T21:02:55",
+    "Domain": "cendyne.dev",
+    "Description": "Third-party password managers fix the cross-platform issue with passkeys. Platforms won't share key material. It is safe to use passkeys with password managers."
+  },
+  {
+    "Title": "The Problem with Friendly C – Embedded in Academia",
+    "Url": "https://blog.regehr.org/archives/1287",
+    "Timestamp": "2023-08-21T21:02:55",
+    "Domain": "blog.regehr.org",
+    "Description": "I’ll assume you’re familiar with the Proposal for Friendly C and perhaps also Dan Bernstein’s recent call for a Boring C compiler. Both proposals are reactions to creeping exploitation of undefined behaviors as C/C++ compilers get better optimizers. In contrast, we want old code to just keep working, with latent bugs remaining latent."
+  },
+  {
+    "Title": "Don't Fire Your Illustrator",
+    "Url": "https://sambleckley.com/writing/dont-fire-your-illustrator.html",
+    "Timestamp": "2023-08-21T21:02:55",
+    "Domain": "sambleckley.com",
+    "Description": "Understanding (and Art Directing) AI image generators"
+  },
+  {
+    "Title": "JSON Sort CLI and Pre-Commit Hook",
+    "Url": "https://www.paraesthesia.com/archive/2023/08/21/json-sort-cli-pre-commit/",
+    "Timestamp": "2023-08-21T21:02:55",
+    "Domain": "www.paraesthesia.com",
+    "Description": "I made a command-line interface to json-stable-stringify that obeys .editorconfig and you can use it as a pre-commit hook."
+  },
+  {
+    "Title": "Listen to non-users!",
+    "Url": "https://kodare.net/2023/08/21/listen-to-non-users.html",
+    "Timestamp": "2023-08-21T21:02:54",
+    "Domain": "kodare.net",
+    "Description": "One of the most important things about a program, framework, library, or programming language is how easy it is to get started using it. Unfortunately, the first impressions authors get from users is after the users have already surmounted some initial obstacles. In effect we are only seeing the second or third worst problem with the system we built. The really bad problems, the ones that make some proportion of potential users give up before telling us anything, those problems are hidden from us."
+  },
+  {
+    "Title": "A Process for Building LLM Classifiers",
+    "Url": "https://blog.kasperjunge.com/a-process-for-building-llm-classifiers",
+    "Timestamp": "2023-08-21T21:02:54",
+    "Domain": "blog.kasperjunge.com",
+    "Description": "Large language models (LLMs) can be prompt-engineered to solve a wide variety of tasks. While many consider chat as the primary use case, LLMs can also be used to train traditional..."
+  },
+  {
+    "Title": "Reliable communication allows for simpler interfaces - Max's Notes",
+    "Url": "https://notes.max.engineer/reliable-communication-allows-for-simpler-interfaces",
+    "Timestamp": "2023-08-21T21:02:54",
+    "Domain": "notes.max.engineer",
+    "Description": "The less reliable and performant communication is, the more elaborate producer interface should be to provide exactly what the consumer requires"
+  },
+  {
+    "Title": "The Future of Data Engineering in the Warehouse",
+    "Url": "https://chrisreuter.me/2023-08-21-future-of-data-engineering/",
+    "Timestamp": "2023-08-21T21:02:54",
+    "Domain": "chrisreuter.me",
+    "Description": "Can an in-warehouse strategy work?"
+  },
+  {
+    "Title": "The Broad Set of Computer Science Problems Faced at Cloud Database Companies",
+    "Url": "https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/",
+    "Timestamp": "2023-08-21T21:02:53",
+    "Domain": "davidgomes.com",
+    "Description": "A couple of weeks ago, I was in an internal meeting where our CTO (Adam Prout) was giving a talk to our summer interns. The talk was about the current state of database companies, and how different providers are competing on different facets of their products. As the talk was"
+  },
+  {
+    "Title": "Backing Up Personal Files with rclone",
+    "Url": "https://vineeth.io/posts/2023/rclone-backups/",
+    "Timestamp": "2023-08-21T21:02:53",
+    "Domain": "vineeth.io",
+    "Description": "The process I'm using to backup my files."
+  },
+  {
+    "Title": "Metaphors for thinking about LLMs",
+    "Url": "https://vivekhaldar.com/articles/metaphors-for-thinking-about-llms/",
+    "Timestamp": "2023-08-21T21:02:53",
+    "Domain": "vivekhaldar.com",
+    "Description": "Not so long ago, I suggested that when it comes to using LLMs for programming, a useful metaphor is to think of them as compilers. I recently came across a couple of papers which are exploring that line of thinking deeper.\nIn their most general sense, compilers are translators from one language to another. We usually narrow that meaning to only allow translators that output low-level executable machine code, but a program (like an LLM!"
+  },
+  {
+    "Title": "What's New in Blazor for .NET 8",
+    "Url": "https://youtube.com/watch?v=QD2-DwuOfKM",
+    "Timestamp": "2023-08-21T19:02:28",
+    "Domain": "youtube.com",
+    "Description": "Come find out about the future of Blazor in .NET 8! We'll explore all the upcoming features and improvements, including our effort to create a unified full s..."
+  },
+  {
+    "Title": "VS Code Tool for Microsoft Teams Sports New Chat Bot App Template -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/08/21/vs-code-teams.aspx",
+    "Timestamp": "2023-08-21T19:02:28",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Because AI hasn't quite been infused into every single Microsoft product and service yet, the company today announced a new AI chat bot template for its Teams Toolkit for Visual Studio Code."
+  },
+  {
+    "Title": "Installing Terraform on Windows",
+    "Url": "https://youtube.com/watch?v=eWSv7zJ9K6M",
+    "Timestamp": "2023-08-21T17:02:38",
+    "Domain": "youtube.com",
+    "Description": "In this video, which is part of the Terraform Course, you will learn how to install Terraform on Windows."
+  },
+  {
+    "Title": "GrapeCity Updates Components for WinUI, .NET MAUI, WinForms -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/08/21/grapecity-v2.aspx",
+    "Timestamp": "2023-08-21T17:02:38",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "GrapeCity, a third-party development tool maker for .NET UI controls for mobile, web and desktop, shipped its flagship ComponentOne 2023 v2 suite with updates for WinUI, .NET MAUI, WinForms and other Microsoft-centric controls."
+  },
+  {
+    "Title": "New in Visual Studio: Compare Files with Solution Explorer - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/new-in-visual-studio-compare-files-with-solution-explorer/",
+    "Timestamp": "2023-08-21T17:02:37",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Comparing code in different files is a common need for developers, yet it often disrupts the flow of your work. We’ve heard your feedback and are excited to introduce a new compare feature in Visual Studio. This feature enables you to compare code files directly within the Solution Explorer,"
+  },
+  {
+    "Title": "Why Do You Have to Return \"Task\" Whenever You \"await\" Something in a Method in C#?",
+    "Url": "https://jeremybytes.blogspot.com/2023/08/why-do-you-have-to-return-task-whenever.html",
+    "Timestamp": "2023-08-21T17:02:36",
+    "Domain": "jeremybytes.blogspot.com",
+    "Description": "There is something that has always bothered me in C#: Whenever you \"await\" something in a method, the return value must be wrapped in a Task..."
+  },
+  {
+    "Title": "Saving data locally with SQLite for Meadow IoT Devices",
+    "Url": "https://youtube.com/watch?v=6ur6pt-jd9w",
+    "Timestamp": "2023-08-21T16:02:52",
+    "Domain": "youtube.com",
+    "Description": "Adrian joins James to walk through how easy it is to start storing data locally with everyone's favorite database ORM, SQLite! He walks through a short demo ..."
+  },
+  {
+    "Title": "GNU Parallel, where have you been all my life?",
+    "Url": "https://alexplescan.com/posts/2023/08/20/gnu-parallel/",
+    "Timestamp": "2023-08-21T15:03:40",
+    "Domain": "alexplescan.com",
+    "Description": "How to use GNU Parallel to gather stats on long-running flaky tests by running them many times and capturing their results."
+  },
+  {
+    "Title": "Build Your First Plugin for .NET MAUI with this FREE Template!",
+    "Url": "https://youtube.com/watch?v=ZCQrlGT7MhI",
+    "Timestamp": "2023-08-21T14:02:24",
+    "Domain": "youtube.com",
+    "Description": "Have you been thinking about building your own plugin for .NET MAUI? Turn your dreams into reality! With this template, starting your plugin is super-easy! L..."
+  },
+  {
+    "Title": "Automating Service Registration with Reflection",
+    "Url": "https://youtube.com/watch?v=hVZZVrnRKxo",
+    "Timestamp": "2023-08-21T14:02:23",
+    "Domain": "youtube.com",
+    "Description": "Hi there. Today we are going to see how to automatically register generic interfaces with their implementations to the DI container, using reflection, so tha..."
+  },
+  {
+    "Title": "Balancing Learning with Practical Application in Programming: A Deep Dive - Dev Leader",
+    "Url": "https://www.devleader.ca/2023/08/21/balancing-learning-with-practical-application-in-programming-a-deep-dive/",
+    "Timestamp": "2023-08-21T14:02:19",
+    "Domain": "www.devleader.ca",
+    "Description": "In programming, this struggle is real: How to balance learning theory with building things? How do you actively learn and balance it with practical application?"
+  },
+  {
+    "Title": "Inside STL: The different types of shared pointer control blocks - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230821-00/?p=108626",
+    "Timestamp": "2023-08-21T14:02:18",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Well, some of them, at least."
+  },
+  {
+    "Title": "Background Tasks Are Finally Fixed in .NET 8",
+    "Url": "https://youtube.com/watch?v=XA_3CZmD9y0",
+    "Timestamp": "2023-08-21T13:03:09",
+    "Domain": "youtube.com",
+    "Description": "Use code ARCH15 and get 15% off the brand new Solution Architecture course on Dometrain: https://dometrain.com/course/getting-started-solution-architectureBe..."
+  },
+  {
+    "Title": "Delegating Handler - It's Like Middleware But For HttpClient #shorts",
+    "Url": "https://youtube.com/watch?v=9CoxcYHE-BA",
+    "Timestamp": "2023-08-21T12:03:07",
+    "Domain": "youtube.com",
+    "Description": "📌 Check out my Pragmatic Clean Architecture course: https://www.milanjovanovic.tech/pragmatic-clean-architecture🚀 Join 770+ engineers in my  Patreon commun..."
+  },
+  {
+    "Title": "Anxious individuals shift emotion control from lateral frontal pole to dorsolateral prefrontal cortex - Nature Communications",
+    "Url": "https://www.nature.com/articles/s41467-023-40666-3",
+    "Timestamp": "2023-08-21T12:03:06",
+    "Domain": "www.nature.com",
+    "Description": "Why anxious individuals fail to control emotional behaviour is not well understood. Here, the authors show that highly anxious individuals have a more excitable lateral frontopolar cortex, and fail to recruit this region during emotional action control."
+  },
+  {
+    "Title": "Three ways to implement an accordion control",
+    "Url": "https://blog.ewers-peters.de/three-ways-to-implement-an-accordion-control",
+    "Timestamp": "2023-08-21T12:03:05",
+    "Domain": "blog.ewers-peters.de",
+    "Description": "Learn three ways to enhance the user experience of your .NET MAUI app using expanders and accordion controls."
+  },
+  {
+    "Title": "NuGet 6.7 Announced With Enhanced Security Features ",
+    "Url": "https://www.infoq.com/news/2023/08/nuget-6-7/",
+    "Timestamp": "2023-08-21T11:02:26",
+    "Domain": "www.infoq.com",
+    "Description": "The NuGet team announced NuGet 6.7, an update that introduces a set of advanced security features. These enhancements span from updated package source mapping to the integration of vulnerability APIs, updated package version dropdowns, and the addition of warning messages to tackle trust chain issues."
+  },
+  {
+    "Title": "Expression-bodied members in properties",
+    "Url": "https://steven-giesel.com/blogPost/a15563a2-257d-469a-a359-830debfba4ce",
+    "Timestamp": "2023-08-21T11:02:25",
+    "Domain": "steven-giesel.com",
+    "Description": "Are these two expressions the same?\npublic class MyClass\n{\n    public int A { get; } = Random.Shared.Next(1000);\n    public int B = Random.Shared.Next(1000);\n}\n"
+  },
+  {
+    "Title": "Building a Q&A app capable of answering questions related to your enterprise documents using AWS Bedrock, AWS Kendra, AWS S3 and Streamlit",
+    "Url": "https://www.mytechramblings.com/posts/building-qa-app-with-aws-bedrock-kendra-s3-and-streamlit/",
+    "Timestamp": "2023-08-21T11:02:25",
+    "Domain": "www.mytechramblings.com",
+    "Description": "The purpose of this post is to demonstrate how easy is to build a basic Q&A app capable of answering questions about your company's internal documents. This time, we will use only AWS services to build it (plus Streamlit for the user interface)."
+  },
+  {
+    "Title": "“We’re All Just Temporarily Abled”",
+    "Url": "https://blog.jim-nielsen.com/2023/temporarily-abled/",
+    "Timestamp": "2023-08-21T10:03:05",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web."
+  },
+  {
+    "Title": "Rockin’ the Code World: Special Guest Bob Reselman",
+    "Url": "https://dotnettips.wordpress.com/2023/08/21/rockin-the-code-world-special-guest-bob-reselman/",
+    "Timestamp": "2023-08-21T09:03:26",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "Join me on Saturday, September 9th, 2023, at 10:00 PST on C# Corner TV for show #87 where, for the second time, my special guest will be Bob Reselman, Independent Consultant. Don’t miss this …"
+  },
+  {
+    "Title": "How to Mock IOptions in ASP.NET Core",
+    "Url": "https://code-maze.com/csharp-mock-ioptions/",
+    "Timestamp": "2023-08-21T09:03:24",
+    "Domain": "code-maze.com",
+    "Description": "In this guide, we explore a straightforward approach to mock IOptions, keeping tests thorough and independent of real-world configurations."
+  },
+  {
+    "Title": "ASP.NET Core Logging using Serilog and Azure",
+    "Url": "https://damienbod.com/2023/08/21/asp-net-core-logging-using-serilog-and-azure/",
+    "Timestamp": "2023-08-21T09:03:23",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to implement logging in an ASP.NET Core application using Serilog and Azure as a hosting environment. Code: Priority logging use cases Two types of default logging use cases …"
+  },
+  {
+    "Title": "372: Buying a Nintendo Switch in 2023",
+    "Url": "https://www.mergeconflict.fm/372",
+    "Timestamp": "2023-08-21T09:03:23",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "Frank is interested in buying a Nintendo Switch... a 6+ year old device.... when is it too late to buy a piece of technology? We discuss. "
+  },
+  {
+    "Title": "Getting Started with Blazor REPL",
+    "Url": "https://www.telerik.com/blogs/getting-started-blazor-repl",
+    "Timestamp": "2023-08-21T06:03:29",
+    "Domain": "www.telerik.com",
+    "Description": "How to get started writing, running and sharing Blazor examples with Telerik REPL for Blazor."
+  },
+  {
+    "Title": "ASP.NET Core Basics: Tag Helpers",
+    "Url": "https://www.telerik.com/blogs/aspnet-core-basics-tag-helpers",
+    "Timestamp": "2023-08-21T06:03:27",
+    "Domain": "www.telerik.com",
+    "Description": "Tag Helpers are a great feature of ASP.NET Core and provide an easier and more intuitive way to add dynamic behavior to webpages."
+  },
+  {
+    "Title": "ASP.NET Core Basics: Globalizing a Web Application",
+    "Url": "https://www.telerik.com/blogs/aspnet-core-basics-globalizing-web-application",
+    "Timestamp": "2023-08-21T06:03:27",
+    "Domain": "www.telerik.com",
+    "Description": "Learn how to globalize an app in ASP.NET Core to handle the internationalization and localization, making it more accessible to a broader audience."
+  },
+  {
+    "Title": "React Basics: Best Practices for Updating React",
+    "Url": "https://www.telerik.com/blogs/react-basics-best-practices-updating-react",
+    "Timestamp": "2023-08-21T06:03:27",
+    "Domain": "www.telerik.com",
+    "Description": "Learn the importance of staying current with React updates and best practices for how to do so, plus some common issues and how to resolve them."
+  },
+  {
+    "Title": "Speed up Visual Studio load times with Microsoft Dev Box",
+    "Url": "https://techcommunity.microsoft.com/t5/azure-developer-community-blog/speed-up-visual-studio-load-times-with-microsoft-dev-box/ba-p/3895978",
+    "Timestamp": "2023-08-21T06:03:26",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Now with Visual Studio 17.7, you can try out pre-caching for Microsoft Dev Box, one of the many integrations that make using Visual Studio on Microsoft Dev Box.."
+  },
+  {
+    "Title": "All the Possible Ways to Debug Node.js",
+    "Url": "https://michaelscodingspot.com/debug-nodejs/",
+    "Timestamp": "2023-08-21T06:03:22",
+    "Domain": "michaelscodingspot.com",
+    "Description": "We all know the value of debugging. Inspecting the values of variables, seeing the call stack, and moving step-by-step are all features that are priceless for developers. But it’s not always simple to get a debugging session going in real-world scenarios. Sometimes, you can’t get the debugger working. Or you’re starting the program from the command line and want to debug from the very start. Perhaps there’s a crash as soon as the app starts."
+  },
+  {
+    "Title": "Introduction to NuVerify",
+    "Url": "https://youtube.com/watch?v=S6pw8VXccHU",
+    "Timestamp": "2023-08-21T06:03:20",
+    "Domain": "youtube.com",
+    "Description": "In this session, I'm going to walk you through a proposal and a POC that leverages AI to verify the integrity and security of open source nuget packages. Her..."
+  },
+  {
+    "Title": ".NET 8 Interceptors",
+    "Url": "https://khalidabuhakmeh.com/dotnet-8-interceptors",
+    "Timestamp": "2023-08-21T06:03:17",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": ".NET 8 preview 6 introduces a preview feature of interceptors"
+  },
+  {
+    "Title": "Discover 3 advantages of Podman over Docker | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/08/03/3-advantages-docker-podman",
+    "Timestamp": "2023-08-21T06:03:15",
+    "Domain": "developers.redhat.com",
+    "Description": "Discover 3 advantages of Podman over Docker, such as security and Linux features, extensions, and developer tools."
+  },
+  {
+    "Title": "Implementing clean architecture solutions: A practical example | Red Hat Developer",
+    "Url": "https://developers.redhat.com/articles/2023/08/08/implementing-clean-architecture-solutions-practical-example",
+    "Timestamp": "2023-08-21T06:03:15",
+    "Domain": "developers.redhat.com",
+    "Description": "Clean architecture enables you to build more robust, adaptable software. This example showcases key concepts and patterns involved in implementation."
+  },
+  {
+    "Title": "AWS Step Functions in C# - Simple Talk",
+    "Url": "https://www.red-gate.com/simple-talk/development/dotnet-development/aws-step-functions-in-c/",
+    "Timestamp": "2023-08-21T06:03:14",
+    "Domain": "www.red-gate.com",
+    "Description": "Step functions allow complex solutions to process data in the background. This frees users from having to wait on the results while it is running. Imagine"
+  },
+  {
+    "Title": "Exploring Blazor Changes in .NET 8 - Interactive Components using Blazor WASM",
+    "Url": "https://jonhilton.net/blazor-interactive-wasm/",
+    "Timestamp": "2023-08-21T06:03:14",
+    "Domain": "jonhilton.net",
+    "Description": "Islands of interactivity in your Blazor app?"
+  },
+  {
+    "Title": "Announcing TypeScript 5.2 RC - TypeScript",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-rc/",
+    "Timestamp": "2023-08-21T06:03:13",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today we’re excited to announce our Release Candidate of TypeScript 5.2! Between now and the stable release of TypeScript 5.2, we expect no further changes apart from critical bug fixes. To get started using the RC, you can get it through NuGet,"
+  },
+  {
+    "Title": "Sisk - An Alternative .NET HTTP Server",
+    "Url": "https://khalidabuhakmeh.com/sisk-an-alternative-dotnet-http-server",
+    "Timestamp": "2023-08-21T06:03:12",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Sisk is an alternative HTTP server for the .NET ecosystem, separate from ASP.NET Core."
+  },
+  {
+    "Title": "Exploring Generative AI",
+    "Url": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-05",
+    "Timestamp": "2023-08-21T06:03:11",
+    "Domain": "martinfowler.com",
+    "Description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery"
+  },
+  {
+    "Title": "Antifragile systems",
+    "Url": "https://bartwullems.blogspot.com/2023/08/antifragile-systems.html",
+    "Timestamp": "2023-08-21T06:03:11",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "Yesterday  I talked about Mean time between failures(MTBF) and Mean time to repair(MTTR) and their importance in building robustness and rec..."
+  },
+  {
+    "Title": "Exploring Generative AI",
+    "Url": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-06",
+    "Timestamp": "2023-08-21T06:03:11",
+    "Domain": "martinfowler.com",
+    "Description": "Notes from my Thoughtworks colleagues on AI-assisted software delivery"
+  },
+  {
+    "Title": "GitHub - lordfeck/no-wei: No-WEI Banner: Show a banner to Chrome users warning them of the dangers of WEI.",
+    "Url": "https://github.com/lordfeck/no-wei",
+    "Timestamp": "2023-08-21T05:02:26",
+    "Domain": "github.com",
+    "Description": "No-WEI Banner: Show a banner to Chrome users warning them of the dangers of WEI. - GitHub - lordfeck/no-wei: No-WEI Banner: Show a banner to Chrome users warning them of the dangers of WEI."
+  },
+  {
+    "Title": "SuppressGCTransition",
+    "Url": "https://minidump.net/suppressgctransition-b9a8a774edbd",
+    "Timestamp": "2023-08-21T04:02:47",
+    "Domain": "minidump.net",
+    "Description": "Deep-dive into the SuppressGCTransition attribute introduced in .NET 5."
+  },
+  {
+    "Title": "Cyber incident update | auDA",
+    "Url": "https://www.auda.org.au/statement/cyber-incident-update",
+    "Timestamp": "2023-08-21T04:02:47",
+    "Domain": "www.auda.org.au",
+    "Description": "Update on a claim that cyber criminals accessed auDA data."
+  },
+  {
+    "Title": "Jazz² Resurrection",
+    "Url": "http://deat.tk/jazz2/",
+    "Timestamp": "2023-08-21T03:02:31",
+    "Domain": "deat.tk",
+    "Description": "Open-source Jazz Jackrabbit 2 reimplementation for Windows, Linux, macOS and Android"
+  },
+  {
+    "Title": "Empowering Grit in Software Engineering with David Fowler 🇧🇧 by Latinx In Power",
+    "Url": "https://podcasters.spotify.com/pod/show/latinxinpower/episodes/Empowering-Grit-in-Software-Engineering-with-David-Fowler-e24pbfj",
+    "Timestamp": "2023-08-21T02:03:18",
+    "Domain": "podcasters.spotify.com",
+    "Description": "David Fowler (he/him) is a passionate software engineer who loves diving into new things and cranking out lines of code. He's making waves as a Distinguished Engineer at Microsoft, leading the pack with his exceptional skills. David holds a Bachelor of Science degree in Computer Science from the Florida Institute of Technology.\n\nIn that episode, David took us on a journey through his career. He dove into the crucial role of collaboration and teamwork in software engineering, while also providing valuable insights into the future of the industry. Prepare to be inspired as we gained a deeper understanding of David's career path and discovered key skills for software engineers.\n\nAdditional Reading Mentioned in the Interview: medium.com/latinxinpower\n\nOur website is LatinxInPower.com. Send me a message on Instagram @Latinx_in_Power or Twitter @LatinxInPower. Check out our new episodes every first Tuesday of the month.  \n\nNote: We recorded this exclusive podcast episode at the #MSBuild event venue. The opinions expressed throughout this episode belong to Thaisa Fernandes and David Fowler, and do not necessarily represent the official positions of Microsoft. "
+  },
+  {
+    "Title": "The Urlist - Share the internet",
+    "Url": "https://www.theurlist.com/",
+    "Timestamp": "2023-08-21T02:03:12",
+    "Domain": "www.theurlist.com",
+    "Description": "Group links together in a list and get a custom URL to share them. Edit your lists at any time."
+  },
+  {
+    "Title": ".NET Monthly Roundup - July 2023 - .NET 8 Preview 6, C# 12, MAUI for VS Code, .NET Conf announcement",
+    "Url": "https://youtube.com/watch?v=Q2lea-O8dWs",
+    "Timestamp": "2023-08-21T02:03:10",
+    "Domain": "youtube.com",
+    "Description": "📆Welcome to our July .NET Monthly Roundup with Jon Galloway! In just 3 minutes, Jon breaks down the latest news from the month of July 2023 that .NET develo..."
+  },
+  {
+    "Title": "News from the dotnet/fsharp repository | fsharpConf 2023",
+    "Url": "https://youtube.com/watch?v=AqxzG9zo2jg",
+    "Timestamp": "2023-08-21T02:03:10",
+    "Domain": "youtube.com",
+    "Description": "In this session, our team will share our thoughts on F# development from the maintainers' perspective. We're also setting aside time for a Q&A segment to add..."
+  },
+  {
+    "Title": "How To Upgrade Bootstrap in ASP.NET Core Web Applications - Blazor, MVC, Razor Pages, etc.",
+    "Url": "https://youtube.com/watch?v=h5KG5MY_-9k",
+    "Timestamp": "2023-08-21T02:03:10",
+    "Domain": "youtube.com",
+    "Description": "All ASP.NET Core web apps come with Bootstrap 5 built-in. However, it is not set up to upgrade using npm or NuGet. So let's look at how to upgrade to the lat..."
+  },
+  {
+    "Title": "Azure Functions for .NET Developers – Everything You Need To Know",
+    "Url": "https://youtube.com/watch?v=82QnxMp8PRY",
+    "Timestamp": "2023-08-21T02:03:10",
+    "Domain": "youtube.com",
+    "Description": "The latest updates to Azure Functions make it easier than ever to build scalable, event-driven, serverless applications in .NET! In this session, the Azure F..."
+  },
+  {
+    "Title": "City as a Function | fsharpConf 2023",
+    "Url": "https://youtube.com/watch?v=hpWNqDeIHkQ",
+    "Timestamp": "2023-08-21T02:03:10",
+    "Domain": "youtube.com",
+    "Description": "Paweł Stadnicki shows how everyday residents can use F# to model and understand the connections between places and people in their city or neighborhood.Resou..."
+  },
+  {
+    "Title": "Will AI make me less creative as a developer? One Dev Question",
+    "Url": "https://youtube.com/watch?v=XiHIcsxxrFQ",
+    "Timestamp": "2023-08-21T02:03:09",
+    "Domain": "youtube.com",
+    "Description": "John Maeda explains how AI enhances the abilities of developers, so they spend less time on rote tasks and more time on solving problems.Learn more about usi..."
+  },
+  {
+    "Title": "New Teams Toolkit for Visual Studio release with exciting features for .NET developers - Microsoft 365 Developer Blog",
+    "Url": "https://devblogs.microsoft.com/microsoft365dev/new-teams-toolkit-for-visual-studio-release-with-exciting-features-for-net-developers/?ocid=M365_202308_Organic&Channel=Twitter&Product=Teams&Intent=Announcement&Audience=Developer",
+    "Timestamp": "2023-08-21T02:03:09",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Learn about the newest capabilities for .NET developers in the latest version of Teams Toolkit for Visual Studio."
+  },
+  {
+    "Title": "About GitHub Copilot for Individuals - GitHub Docs",
+    "Url": "https://docs.github.com/en/copilot/overview-of-github-copilot/about-github-copilot-for-individuals",
+    "Timestamp": "2023-08-21T02:03:06",
+    "Domain": "docs.github.com",
+    "Description": "GitHub Copilot can help you code by offering autocomplete-style suggestions. You can learn how GitHub Copilot works, and what to consider while using GitHub Copilot."
+  },
+  {
+    "Title": "What is OpenTelemetry?",
+    "Url": "https://www.codingblocks.net/podcast/what-is-opentelemetry/",
+    "Timestamp": "2023-08-21T01:02:30",
+    "Domain": "www.codingblocks.net",
+    "Description": "Michael Outlaw is a father, husband, and software developer based out of Atlanta, GA. A fan of gadgets and all things technology, when he isn’t found behind the clickety clack of his favorite mechanical keyboard he’s usually found riding a bicycle on his favorite road or trail systems. A father of two boys, Michael often spends his free time teaching his boys how to lose with dignity as they destroy him in game franchises like Overwatch, Halo, and Call of Duty. When not sharing his love of Git, C#, and unit testing, he can be found spending his “study time” studying the sounds of guitar and music theory."
+  },
+  {
+    "Title": "Beyond Caching: Building an ASP.NET Core 7 Blazor App with Redis for Real-Time Updates",
+    "Url": "https://danieldonbavand.com/2023/08/21/beyond-caching-building-an-asp-net-core-7-blazor-app-with-redis-for-real-time-updates/",
+    "Timestamp": "2023-08-21T01:02:26",
+    "Domain": "danieldonbavand.com",
+    "Description": "Introduction Recently, I’ve been exploring AWS Redis and its potential beyond merely being a cache service. In this post, I’ll show you how to use AWS Redis as a fast and scalable data …"
+  }
+]

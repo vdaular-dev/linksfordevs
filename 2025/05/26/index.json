@@ -1,0 +1,149 @@
+[
+  {
+    "Title": "Announcing Uno Chefs: Our Flagship Reference Application!",
+    "Url": "https://platform.uno/blog/uno-chefs-flagship-reference-app/",
+    "Timestamp": "2025-05-26T23:02:30",
+    "Domain": "platform.uno",
+    "Description": "Discover Uno Chefs, a full-featured reference app built with Uno Platform 6.0. Explore real-world scenarios like MVUX state management, responsive design, navigation, theming, and more—all in one production-grade .NET sample project."
+  },
+  {
+    "Title": "Next Frontier for LLM is Quality Long Context",
+    "Url": "https://www.yacinemahdid.com/p/next-frontier-for-llm-is-quality",
+    "Timestamp": "2025-05-26T23:02:30",
+    "Domain": "www.yacinemahdid.com",
+    "Description": "Which is much harder than you think."
+  },
+  {
+    "Title": "An Easy Way to Copy Human Reasoning",
+    "Url": "https://luozhu.io/2025/05/26/reasoning.html",
+    "Timestamp": "2025-05-26T23:02:28",
+    "Domain": "luozhu.io",
+    "Description": "Big thanks to Lilian Weng’s blog for sparking many ideas here."
+  },
+  {
+    "Title": "I Think It's Time to Give Nix a Chance | Chinmay D. Pai",
+    "Url": "https://maych.in/blog/its-time-to-give-nix-a-chance/",
+    "Timestamp": "2025-05-26T23:02:28",
+    "Domain": "maych.in",
+    "Description": "An honest look at why Nix's complex but powerful approach to package management and reproducible environments is worth considering."
+  },
+  {
+    "Title": "My 10-Year Bullet Journal Journey as a mechanical engineer",
+    "Url": "https://mechitworks.com/posts/my-bullet-journal-system-10-years-later/",
+    "Timestamp": "2025-05-26T23:02:28",
+    "Domain": "mechitworks.com",
+    "Description": "A look back at 10 years of evolving note-taking habits as a mechanical engineer. From ring binders to bullet journals to digital notebooks—what worked, what didn’t, and why I’m still figuring it out."
+  },
+  {
+    "Title": "Deep Learning is no Intelligence",
+    "Url": "https://cullmann.dev/posts/deep-learning-is-no-intelligence/",
+    "Timestamp": "2025-05-26T23:02:28",
+    "Domain": "cullmann.dev",
+    "Description": "Here we are in the year 2025 and every company that wants to grab your money now peddles AI.\nEven most search engines will now start with some “AI powered” summary."
+  },
+  {
+    "Title": "Single process, multiple interpreters, no GIL contention - pre-Python3.12",
+    "Url": "https://basisrobotics.tech/2025/05/26/python/",
+    "Timestamp": "2025-05-26T23:02:27",
+    "Domain": "basisrobotics.tech",
+    "Description": "First off…"
+  },
+  {
+    "Title": "Unlocking Ractors: class instance variables",
+    "Url": "https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html",
+    "Timestamp": "2025-05-26T23:02:27",
+    "Domain": "byroot.github.io",
+    "Description": "In a previous post about ractors, I explained why I think it’s really unlikely you’d ever be able to run an entire application inside a ractor, but that they could still be situationally very useful to move CPU-bound work out of the main thread, and to unlock some parallel algorithm."
+  },
+  {
+    "Title": "Non-Negotiables",
+    "Url": "https://bastiangruber.ca/posts/non-negotiables/",
+    "Timestamp": "2025-05-26T23:02:27",
+    "Domain": "bastiangruber.ca",
+    "Description": "These are the principles I want to follow every day in my professional career"
+  },
+  {
+    "Title": "Introducing Bingo-o-matic: Your Ultimate Bingo Management App",
+    "Url": "https://montemagno.com/introducing-bingo-o-matic-your-ultimate-bingo-management-app/",
+    "Timestamp": "2025-05-26T22:02:10",
+    "Domain": "montemagno.com",
+    "Description": "Introducing Bingo-o-matic a comprehensive bingo management application designed to make hosting and playing bingo games easier and more enjoyable than ever before."
+  },
+  {
+    "Title": "Duolingo CEO tries to walk back AI-first comments, fails - Hypertext",
+    "Url": "https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/",
+    "Timestamp": "2025-05-26T21:02:26",
+    "Domain": "htxt.co.za",
+    "Description": "Duolingo CEO Luis von Ahn keeps putting his foot in it when it comes to conversations about AI."
+  },
+  {
+    "Title": "Train AI Models Offline on Your Own Machine",
+    "Url": "https://youtube.com/watch?v=FQr7VrK5RRQ",
+    "Timestamp": "2025-05-26T21:02:21",
+    "Domain": "youtube.com",
+    "Description": "Want to train AI models without relying on the cloud? In this video, I’ll show you how to fine-tune open-source models like TinyLlama completely offline — right on your own machine.\n\n✅ No internet required after setup\n✅ Full data privacy\n✅ Works with low-cost hardware\n✅ Perfect for secure or isolated environments\n\n🚀 What You'll Learn:\n0/ Intro to TinyLlama\n1/ Downloading the base model\n2/ Preparing your training data\n3/ Fine-tuning offline\n4/ Merging and testing your model\n5/ Generating GGUF file and running it with llama-cli\n\nWhether you're a developer, researcher, or just curious about AI on the edge — this is your path to independent AI training.\n\n🖥️ Code + scripts:\nhttps://github.com/hassanhabib/AI.Llama.Traing.Offline\n\n💬 Questions? Drop them in the comments — I respond!\n\n#OfflineAI #TinyLlama #LocalAI #AIFinetuning #PrivateAI #AITraining"
+  },
+  {
+    "Title": "Hacker News now runs on top of Common Lisp - Lisp journey",
+    "Url": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
+    "Timestamp": "2025-05-26T20:02:18",
+    "Domain": "lisp-journey.gitlab.io",
+    "Description": "Hacker News was written in the Arc lisp dialect, a dialect created by Paul Graham. Arc was implemented on top of Racket, but that has now changed. HN runs on top of SBCL since a few months.But why? For performance reasons. I recently noticed that Hacker News no longer uses paging for long threads. In the past, when a discussion grew large, we had to click &ldquo;More&rdquo; to load the next page of comments, and dang would occasionally post helpful tips to remind us about this feature."
+  },
+  {
+    "Title": "Lieferando.de has captured 5.7% of restaurant related domain names",
+    "Url": "https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/",
+    "Timestamp": "2025-05-26T14:02:38",
+    "Domain": "mondaybits.com",
+    "Description": "I recently decided to compile a very large list of domain names for the German country code top-level domain .de. I did this with the help of the Common Crawl project which provides a free, open repository of web crawl data and web graphs for the last years.\n\nA few"
+  },
+  {
+    "Title": "Contractor Goes FULL TIME - What Level Software Engineer Will They Be?",
+    "Url": "https://youtube.com/watch?v=E67izJfKLK8",
+    "Timestamp": "2025-05-26T14:02:34",
+    "Domain": "youtube.com",
+    "Description": "A web developer contractor is hoping to move into more traditional opportunities where they're hired on full time to an organization. How should they structure their resume, and what level should they be expecting to come in at?\n\nLet's check out their resume in this resume review!\n\n----\nWant a chance to have your resume reviewed? Submit it to resumes [at] devleader [dot] ca!\n----\n🔑 Membership & Subscriptions:\n- 📨 Weekly Newsletter: https://weekly.devleader.ca\n- 🏘️ Private Discord Community: https://sidestack.io/devleader\n\n🧠 Courses:\n- All Courses: https://www.devleader.ca/courses\n- Get Promoted As A Software Engineer: https://dometrain.com/course/career-getting-promoted-as-a-software-engineer/?ref=nick-cosentino\n- Nailing The Behavioral Interview: https://dometrain.com/course/career-nailing-the-behavioral-interview/?ref=nick-cosentino\n- Getting Started with C#: https://dometrain.com/course/getting-started-csharp?ref=nick-cosentino\n- Deep dive C#: https://dometrain.com/course/deep-dive-csharp?ref=nick-cosentino\n- C# Zero to Hero BUNDLE: https://dometrain.com/bundle/from-zero-to-hero-csharp/?ref=nick-cosentino\n- Reflection in .NET: https://dometrain.com/course/from-zero-to-hero-reflection-in-dotnet/?ref=nick-cosentino\n- Refactoring For C# Devs: https://dometrain.com/course/from-zero-to-hero-refactoring-for-csharp-developers?ref=nick-cosentino\n- [FREE] Intro to Software Development: https://www.youtube.com/playlist?list=PLzATctVhnsggb3lj53T8fJSK6LJQFUyKS\n\n🗣️ Social Media & Links:\n- All My Links: https://linktr.ee/devleader\n- Vlogs:  @DevLeaderBTS @CodeCommute \n- Blog: https://www.devleader.ca/\n- TikTok: https://www.tiktok.com/@devleader\n- LinkedIn: https://www.linkedin.com/in/nickcosentino\n- Threads: https://threads.net/@dev.leader\n- Twitter: https://twitter.com/DevLeaderCa\n- Facebook: https://www.facebook.com/DevLeaderCa\n- Instagram: https://www.instagram.com/dev.leader\n- GitHub: https://github.com/ncosentino/\n- Twitch: https://twitch.tv/devleaderca\n- YouTube: https://youtube.com/@DevLeader?sub_confirmation=1\n\n❤️ Affiliations & Products/Services That I Love:\n- @BrandGhostAI for all of my content creation: https://brandghost.ai\n- AI shorts helper Opus Clip: https://opus.pro/?via=2f9e97\n- VPS hosting from RackNerd: https://my.racknerd.com/aff.php?aff=9013\n- VPS hosting from Contabo: https://www.jdoqocy.com/click-101028632-12454592\n- Newsletter platform ConvertKit: https://convertkit.com/?lmref=c5X7KQ\n- Newsletter referral system SparkLoop: https://dash.sparkloop.app/signup?aff=9fe76c8b\n----\n\n#softwareengineering #softwaredeveloper #softwareengineer"
+  },
+  {
+    "Title": "Redis bets big on an open source return",
+    "Url": "https://www.infoworld.com/article/3975620/redis-bets-big-on-an-open-source-return.html",
+    "Timestamp": "2025-05-26T12:02:12",
+    "Domain": "www.infoworld.com",
+    "Description": "The company is hopeful that changing its license will allow it to better compete with the Valkey fork."
+  },
+  {
+    "Title": "csproj is GONE! 'dotnet run app.cs' is Here",
+    "Url": "https://youtube.com/watch?v=j4tLg4bMZK4",
+    "Timestamp": "2025-05-26T11:02:06",
+    "Domain": "youtube.com",
+    "Description": "Get 20% off TypeScript on Dometrain: https://dometrain.com/course/deep-dive-typescript/?coupon_code=TYPESCRIPT20&ref=nick-chapsas&promo=youtube\nSubscribe to my weekly newsletter: https://nickchapsas.com\n\nHello, everybody. I'm Nick, and in this video, I will show you how Microsoft is planning to fundamentally change how .NET Projects run and simplify the experience to be something similar to Python and NodeJS.\n\nWorkshops: https://bit.ly/nickworkshops\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "The Pulse #134: Stack overflow is almost dead",
+    "Url": "https://newsletter.pragmaticengineer.com/p/the-pulse-134",
+    "Timestamp": "2025-05-26T10:02:08",
+    "Domain": "newsletter.pragmaticengineer.com",
+    "Description": "Also: large job cuts at Microsoft, high performers get more bonus at Google while low performers get less, notes on rolling out Cursor and Claude Code, and more"
+  },
+  {
+    "Title": "Google Shared My Phone Number!",
+    "Url": "https://danq.me/2025/05/21/google-shared-my-phone-number/",
+    "Timestamp": "2025-05-26T09:03:04",
+    "Domain": "danq.me",
+    "Description": "When people started calling my personal mobile number with questions about a voluntary organisation I'm involved with, I was confused: we weren't sharing that number. It turns out that Google had decided to take the number I used to verify my identity for Google Business some years prior and start putting it in Google Search results. WTF, Google?"
+  },
+  {
+    "Title": "Avoiding reflection in C# in way unsafer ways!",
+    "Url": "https://steven-giesel.com/blogPost/53691229-fbb1-48cf-95e5-f586f9800ee1",
+    "Timestamp": "2025-05-26T04:02:17",
+    "Domain": "steven-giesel.com",
+    "Description": "For good reasons, many folks don't want to use reflection. Since .NET 8, we have a better way of dealing with this in most of the cases (when known in advance). But we can go the opposite: Make it even unsafer for a tiny bit performance!\n"
+  },
+  {
+    "Title": "Home",
+    "Url": "https://lottie.github.io/",
+    "Timestamp": "2025-05-26T02:02:14",
+    "Domain": "lottie.github.io",
+    "Description": "The official website for Lottie Animation Community"
+  }
+]

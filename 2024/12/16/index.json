@@ -1,0 +1,317 @@
+[
+  {
+    "Title": "Loog Piano: My review",
+    "Url": "https://joeblu.com/blog/2024_12_loog/",
+    "Timestamp": "2024-12-16T23:02:54",
+    "Domain": "joeblu.com",
+    "Description": "I bought two of the original Loog guitars, little 3-string acoustic guitars intended for new learners and especially children. There’s a lot to like about them: they’re inexpensive, cute, and have surprisingly good sound and volume. The larger one gives a tenor guitar sort of sound that’s pleasant, and the smaller one is ukulele-ish. The kids are getting old enough to be into them, and I love having them around."
+  },
+  {
+    "Title": "The Unreasonable Effectiveness of SKIP LOCKED in PostgreSQL",
+    "Url": "https://www.inferable.ai/blog/posts/postgres-skip-locked",
+    "Timestamp": "2024-12-16T23:02:53",
+    "Domain": "www.inferable.ai",
+    "Description": "Using SKIP LOCKED to distribute work across machines in a distributed system is a popular pattern. We explore why, the alternatives, and a real world example from our own codebase."
+  },
+  {
+    "Title": "Why I over-engineered this blog?",
+    "Url": "https://mbeaudru.com/posts/why-i-overengineered-this-blog",
+    "Timestamp": "2024-12-16T23:02:53",
+    "Domain": "mbeaudru.com",
+    "Description": "Exploring the benefits of doing your own blog from scratch"
+  },
+  {
+    "Title": "Crashing rockets and recovering data from damaged flash chips",
+    "Url": "https://dontvacuum.me/rocketflashrecovery/index.html",
+    "Timestamp": "2024-12-16T23:02:52",
+    "Domain": "dontvacuum.me",
+    "Description": "In Spring 2020, during IAP, the MIT Rocket team launched multiple rockets at the FAR site in the Mojave desert in California."
+  },
+  {
+    "Title": "Why we need seven bins",
+    "Url": "https://takes.jamesomalley.co.uk/p/why-we-need-seven-bins",
+    "Timestamp": "2024-12-16T23:02:51",
+    "Domain": "takes.jamesomalley.co.uk",
+    "Description": "It's time for some #binchat"
+  },
+  {
+    "Title": "An invitation into Droste's Lair",
+    "Url": "https://vezwork.github.io/drostes-lair-post/",
+    "Timestamp": "2024-12-16T23:02:49",
+    "Domain": "vezwork.github.io",
+    "Description": "A swords-and-sorcery programming environment for building and counting mathematical structures"
+  },
+  {
+    "Title": "‘Dictate a Note’ is my new favorite shortcut (and that’s saying something)",
+    "Url": "https://heydingus.net/blog/2024/12/dictate-a-note-is-my-new-favorite-shortcut-and-thats-saying-something",
+    "Timestamp": "2024-12-16T23:02:49",
+    "Domain": "heydingus.net",
+    "Description": "Imagine this: You’re driving down the road when a Very Good Idea springs to mind. You need to capture it quickly without fumbling through screens or"
+  },
+  {
+    "Title": "LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)",
+    "Url": "https://www.lfgss.com/conversations/401475/",
+    "Timestamp": "2024-12-16T23:02:49",
+    "Domain": "www.lfgss.com",
+    "Description": "Why\n\nReading https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/ and we&#39;re done... we fall firmly into scope, and I have no way to dodge it. The act is too broad, and it doesn&#39;t matter that there&#39;s never been an instance of any of the proclaimed things that this act protects adults, children and vulnerable people from... the very broad language and the fact that I&#39;m based in the UK means we&#39;re covered.\n\nThe act simply does not care that this site and platform is run by an individual, and that I do so philanthropically without any profit motive (typically losing money), nor that the site exists to reduce social loneliness, reduce suicide rates, help build meaningful communities that enrich life.\n\nThe act only cares that is it &#34;linked to the UK&#34; (by me being involved as a UK native and resident, by you being a UK based user), and that users can talk to other users... that&#39;s it, that&#39;s the scope.\n\nI can&#39;t afford what is likely tens of thousand to go through all the legal hoops here over a prolonged period of time, the site itself barely gets a few hundred in donations each month and costs a little more to run... this is not a venture that can afford compliance costs... and if we did, what remains is a disproportionately high personal liability for me, and one that could easily be weaponised by disgruntled people who are banned for their egregious behaviour (in the years running fora I&#39;ve been signed up to porn sites, stalked IRL and online, subject to death threats, had fake copyright takedown notices, an attempt to delete the domain name with ICANN... all from those whom I&#39;ve moderated to protect community members)... I do not see an alternative to shuttering it.\n\nThe conclusion I have to make is that we&#39;re done... Microcosm, LFGSS, the many other communities running on this platform... the risk to me personally is too high, and so I will need to shutter them all.\n\nWhat and When\n\nSo here&#39;s the statement...\n\nOn Sunday 16th March 2025 (the last day prior to the Act taking effect) I will delete the virtual servers hosting LFGSS and other communities, and effectively immediately end the approximately 300 small communities that I run, and the few large communities such as LFGSS.\n\nIt&#39;s been a good run, I&#39;ve administered internet forums since 1996 having first written my own in Perl to help fans of music bands to connect with each other, and I then contributed to PHP forum software like vBulletin, Vanilla, and phpBB, before finally writing a platform in Go that made it cost efficient enough to bring interest based communities to so many others, and expand the social good that comes from people being connected to people.\n\nApproximately 28 years and 9 months of providing almost 500 forums in total to what is likely a half a million people in that time frame... the impact that these forums have had on the lives of so many cannot be understated.\n\nThe peak of the forums has been the last 5 years, we&#39;ve plateaued around 275k monthly users across the almost 300 websites on multiple instances of the platform that is Microcosm, though LFGSS as a single community probably peaked in the 2013-2018 time period when it alone was hitting numbers in excess of 50k monthly users.\n\nThe forums have delivered marriages, births, support for those who have passed (cancer being the biggest reason), people reunited with stolen bikes, travel support, work support, so much joy and happiness and memorable experiences... but it&#39;s also been directly cited by many as being the reason that they are here today, the reason they didn&#39;t commit suicide or self-harm. It&#39;s help people get through awful relationship breakups, and helped people overcome incredible challenges with their health.\n\nIt&#39;s devastating to just... turn it off... but this is what the Act forces a sole individual running so many social websites for a public good to do.\n\nI don&#39;t know where to recommend... I know lots of people have moved small groups to places like Signal and WhatsApp, and that some people are on the fediverse, and some are in other websites and groups.\n\nThere is no central place that could take us all and preserve the very special thing we had... so it&#39;s done.\n\nThis is a really special place... the people are special... I guess the next 3 months will be a time of sharing what it meant, and of groups figuring out where they want to go next.\n\nLove you all forever, it&#39;s been amazing to be a part of it all, I never thought I&#39;d touch the lives of so many people by running websites, and in turn to give so much reason to my own life. In the end, the person I save most was likely myself.\n\nDee"
+  },
+  {
+    "Title": "A color for every day",
+    "Url": "https://notes.npilk.com/daily-colors",
+    "Timestamp": "2024-12-16T23:02:49",
+    "Domain": "notes.npilk.com",
+    "Description": "To make daily updates feel different from one day to the next, I generated a unique color combination for every day of the year."
+  },
+  {
+    "Title": "The problem with User-Agent strings – Hello my name is Niels Leenheer",
+    "Url": "https://nielsleenheer.com/articles/2024/the-problem-with-user-agent-strings/",
+    "Timestamp": "2024-12-16T23:02:48",
+    "Domain": "nielsleenheer.com",
+    "Description": "If you regularly check your website’s analytics, you may have noticed something weird in the past year or two. None of your visitors use Windows 11, and nobody upgraded their computer past macOS 10.15 Catalina. That can’t be right. So what is going on?"
+  },
+  {
+    "Title": "Terraform Rules of Thumb",
+    "Url": "https://meadon.net/blog/terraform-rules-of-thumb/",
+    "Timestamp": "2024-12-16T23:02:48",
+    "Domain": "meadon.net",
+    "Description": ""
+  },
+  {
+    "Title": "I'm a FIRST Mentor Again",
+    "Url": "https://hardfault.life/p/frc",
+    "Timestamp": "2024-12-16T23:02:48",
+    "Domain": "hardfault.life",
+    "Description": "It was only a matter of time."
+  },
+  {
+    "Title": "Advanced Essay",
+    "Url": "https://what.yuri.is/advanced-essay/",
+    "Timestamp": "2024-12-16T23:02:47",
+    "Domain": "what.yuri.is",
+    "Description": "What might essays look like in the age of AI? (🌱 First draft.)\nIn the 1970s, decades before computers began to compete at the highest levels of chess, a new variant of the game was invented, called Advanced Chess. The idea was that instead of a human player competing against a computer, the human and machine would play together on the same side.\n"
+  },
+  {
+    "Title": "The power of prototyping",
+    "Url": "https://dzidas.com/datascience/2024/12/16/the-power-of-prototyping/",
+    "Timestamp": "2024-12-16T23:02:47",
+    "Domain": "dzidas.com",
+    "Description": "Learn practical strategies for innovation, prototyping, and creating data-driven products from AWS experience. Explore the Working Backwards framework and real-world examples of successful prototyping."
+  },
+  {
+    "Title": "On OpenTelemetry and the value of Standards | Jeremy Morrell",
+    "Url": "https://jeremymorrell.dev/blog/opentelemetry-and-the-value-of-standards/",
+    "Timestamp": "2024-12-16T23:02:46",
+    "Domain": "jeremymorrell.dev",
+    "Description": "OpenTelemetry is not perfect, but the value of having one shared standard for instrumentation and telemetry is huge"
+  },
+  {
+    "Title": "The Complexity Dynamics of Grokking",
+    "Url": "https://brantondemoss.com/research/grokking/",
+    "Timestamp": "2024-12-16T23:02:46",
+    "Domain": "brantondemoss.com",
+    "Description": "In grokking experiments, the\nunregularized network’s complexity rises and remains high as it\nmemorizes the training data, never generalizing. The regularized\nnetwork’s complexity similarly rises, but as it groks and generalization\noccurs, the complexity falls."
+  },
+  {
+    "Title": "The Right Way to Split a Bill – betterchurn.com",
+    "Url": "https://betterchurn.com/?p=18",
+    "Timestamp": "2024-12-16T23:02:46",
+    "Domain": "betterchurn.com",
+    "Description": "You’re at dinner with your friends. The bill arrives. You’ve been there. Everyone got something different, and the restaurant cant split by seat. What do you do? Its simple. Use this app I made."
+  },
+  {
+    "Title": "Care about the domain, not about implementing all the patterns and principles under the sun",
+    "Url": "https://blog.codingmilitia.com/2024/12/16/care-about-the-domain-not-about-implementing-all-the-patterns-and-principles-under-the-sun/",
+    "Timestamp": "2024-12-16T21:02:32",
+    "Domain": "blog.codingmilitia.com",
+    "Description": "Time again for a rant adjacent post, on this occasion, about building applications following some domain-driven design ideas."
+  },
+  {
+    "Title": "Exploring Microsoft.Extensions.VectorData with Qdrant and Azure AI Search - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/vector-data-qdrant-ai-search-dotnet/",
+    "Timestamp": "2024-12-16T20:02:28",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Discover how to use Microsoft.Extensions.VectorData to implement semantic search using Qdrant and Azure AI Search"
+  },
+  {
+    "Title": "25 years of Dillo",
+    "Url": "https://dillo-browser.github.io/25-years/",
+    "Timestamp": "2024-12-16T20:02:27",
+    "Domain": "dillo-browser.github.io",
+    "Description": "Back in 1999, a group of developers lead by Jorge Arellano Cid forked the\nGzilla/Armadillo code originally\ndeveloped by Raph Levien, and began working on what is now known as the Dillo\nweb browser."
+  },
+  {
+    "Title": "GitHub - XiaoMi/ha_xiaomi_home: Xiaomi Home Integration for Home Assistant",
+    "Url": "https://github.com/XiaoMi/ha_xiaomi_home",
+    "Timestamp": "2024-12-16T19:02:38",
+    "Domain": "github.com",
+    "Description": "Xiaomi Home Integration for Home Assistant. Contribute to XiaoMi/ha_xiaomi_home development by creating an account on GitHub."
+  },
+  {
+    "Title": "Javascript Rant",
+    "Url": "https://youtube.com/watch?v=xhR6lNht0j8",
+    "Timestamp": "2024-12-16T19:02:33",
+    "Domain": "youtube.com",
+    "Description": "In this edition of #tech on ice, I deliver a little #javascript rant. Why is it so hard? I really need to know :)\n#technology #developer #programming #coldplunge"
+  },
+  {
+    "Title": "Most iPhone owners see little to no value in Apple Intelligence so far",
+    "Url": "https://9to5mac.com/2024/12/16/most-iphone-owners-see-little-to-no-value-in-apple-intelligence-so-far/",
+    "Timestamp": "2024-12-16T17:02:26",
+    "Domain": "9to5mac.com",
+    "Description": "A new survey suggests that Apple Intelligence matters to iPhone buyers, but the majority say that the initial features add..."
+  },
+  {
+    "Title": "Phase Change",
+    "Url": "https://xkcd.com/3025/",
+    "Timestamp": "2024-12-16T17:02:25",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "C#, Web Dev, Accessibility and reviewing YOUR contributions!",
+    "Url": "https://youtube.com/watch?v=YOE9lRLcwg0",
+    "Timestamp": "2024-12-16T16:02:36",
+    "Domain": "youtube.com",
+    "Description": "Turn your videos into live streams with https://restream.io\n\nFritz is working on adding a plugin system to SharpSite https://github.com/FritzAndFriends/SharpSite"
+  },
+  {
+    "Title": "Alexxcon's Software Development Blog",
+    "Url": "https://alexxcons.github.io/blogpost_14.html",
+    "Timestamp": "2024-12-16T15:02:25",
+    "Domain": "alexxcons.github.io",
+    "Description": "After almost two years of work, we are happy to announce the release of Xfce 4.20."
+  },
+  {
+    "Title": "WireMock With Testcontainers",
+    "Url": "https://youtube.com/watch?v=l39pTG31VmA",
+    "Timestamp": "2024-12-16T15:02:21",
+    "Domain": "youtube.com",
+    "Description": "Hi there! Today we are going to see how we can use WireMock with Testcontainers for our Integration Tests.\n\n#csharp #dotnet #wiremock"
+  },
+  {
+    "Title": "IdentityServer In Docker Containers – Handle Logout (Part 4)",
+    "Url": "https://nestenius.se/net/identityserver-in-docker-containers-part-4/",
+    "Timestamp": "2024-12-16T09:02:22",
+    "Domain": "nestenius.se",
+    "Description": "Final part in the series on containerizing IdentityServer, fixing logout challenges, and finalizing the IdentityServer setup."
+  },
+  {
+    "Title": "OpenERV",
+    "Url": "https://www.openerv.ca/",
+    "Timestamp": "2024-12-16T09:02:22",
+    "Domain": "www.openerv.ca",
+    "Description": "Fresh outdoor air all year round.\n"
+  },
+  {
+    "Title": "[Monkey Conf 2024] De Figma a .NET MAUI: Transforma tus diseños en código XAML en segundos",
+    "Url": "https://youtube.com/watch?v=S3K9L9DDaeI",
+    "Timestamp": "2024-12-16T09:02:13",
+    "Domain": "youtube.com",
+    "Description": "En esta sesión, compartiré mi experiencia desarrollando una herramienta llamada Xamlify, que me permite convertir diseños de Figma en código XAML para .NET MAUI en solo unos segundos, reduciendo el tiempo dedicado a la creación de interfaces gráficas entre un 80% y un 90%. Logré esto utilizando Blazor, una gran cantidad de código en C# y Azure OpenAI.\n\nCon Héctor Uriel Pérez Rojas\n\nBecome a channel member to enjoy benefits and access more content.\nhttps://www.youtube.com/channel/UCKnuLHRlK_zhrpaTWvNOdMA/join"
+  },
+  {
+    "Title": "Why Dumb TVs Deserve a Comeback",
+    "Url": "https://www.makeuseof.com/reasons-why-dumb-tvs-deserve-a-comeback/",
+    "Timestamp": "2024-12-16T07:02:20",
+    "Domain": "www.makeuseof.com",
+    "Description": "Smart TVs are great, but dumb TVs have even more going for them."
+  },
+  {
+    "Title": "GitHub - anvaka/map-of-github: Inspirational Mapping",
+    "Url": "https://github.com/anvaka/map-of-github",
+    "Timestamp": "2024-12-16T04:01:41",
+    "Domain": "github.com",
+    "Description": "Inspirational Mapping. Contribute to anvaka/map-of-github development by creating an account on GitHub."
+  },
+  {
+    "Title": "Dealing with Failure",
+    "Url": "https://long.sweet.pub/dealing-with-failure-05233636b743?source=rss-c77187421577------2",
+    "Timestamp": "2024-12-16T03:01:48",
+    "Domain": "long.sweet.pub",
+    "Description": "Simple Steps to Bounce Back"
+  },
+  {
+    "Title": "Over 20 years of bug squashing",
+    "Url": "https://cullmann.io/posts/over-20-years-of-bug-squashing/",
+    "Timestamp": "2024-12-16T02:01:54",
+    "Domain": "cullmann.io",
+    "Description": "The open source project I work on for the longest time is KDE and there more specific Kate.\nThis means I look at user bug reports for over 20 years now."
+  },
+  {
+    "Title": "We’ve Been Here Before",
+    "Url": "https://terriblesoftware.org/2024/12/14/weve-been-here-before/",
+    "Timestamp": "2024-12-16T02:01:54",
+    "Domain": "terriblesoftware.org",
+    "Description": "Technological advancements have empowered engineers to focus on creativity and strategy. AI will similarly elevate human insight, generating growth and innovation."
+  },
+  {
+    "Title": "Post-Architecture: An Open Approach to Software Engineering",
+    "Url": "https://arendjr.nl/blog/2024/06/post-architecture/",
+    "Timestamp": "2024-12-16T02:01:54",
+    "Domain": "arendjr.nl",
+    "Description": "On the implications of defining the architecture after you build the product"
+  },
+  {
+    "Title": "What's happening with founders over 40",
+    "Url": "https://justinjackson.ca/over-40",
+    "Timestamp": "2024-12-16T02:01:54",
+    "Domain": "justinjackson.ca",
+    "Description": "Building a company in your 40s hits different. Older bootstrapped SaaS founders are evaluating their energy, and reevaluating their priorities."
+  },
+  {
+    "Title": "Don't write clean code, write CRISP code — Bitfield Consulting",
+    "Url": "https://bitfieldconsulting.com/posts/crisp-code",
+    "Timestamp": "2024-12-16T02:01:54",
+    "Domain": "bitfieldconsulting.com",
+    "Description": "“Clean code” is  so  over: all the cool kids are switching to  CRISP code . I’ll show you how to achieve it in five catchy, T-shirt-friendly slogans."
+  },
+  {
+    "Title": "Maximum Likelihood Estimation and Loss Functions",
+    "Url": "https://rish-01.github.io/blog/posts/ml_estimation/",
+    "Timestamp": "2024-12-16T02:01:53",
+    "Domain": "rish-01.github.io",
+    "Description": "When I started learning about loss functions, I could always understand the intuition behind them. For example, the mean squared error (MSE) for regression seemed logical—penalizing large deviations from the ground-truth makes sense. But one thing always bothered me: I could never come up with those loss functions on my own. Where did they come from? Why do we use these specific formulas and not something else?\nThis frustration led me to dig deeper into the mathematical and probabilistic foundations of loss functions."
+  },
+  {
+    "Title": "ARM needs to become more mainstream",
+    "Url": "https://feldspaten.org/2024/12/15/ARM-needs-to-become-more-mainstream/",
+    "Timestamp": "2024-12-16T02:01:53",
+    "Domain": "feldspaten.org",
+    "Description": "… or at least more upstream. Recently I tried to migrate our home NAS from our good old (TM) Intel Celeron N3150 to a more modern Radxa Rock 5 ITX. The new board fits perfectly to the needs of our home: Small, enough peripherals for what I need, low-power yet strong enough to host our home services on it for the next years to come. And it doesn’t cost an arm and a leg, although it’s not cheap either."
+  },
+  {
+    "Title": "Hacking Car Cameras Through The Cloud",
+    "Url": "https://www.00xbyte.com/posts/hacking-dash-cams/",
+    "Timestamp": "2024-12-16T02:01:53",
+    "Domain": "www.00xbyte.com",
+    "Description": "Hacking cars through the cloud to steal footage from YOUR car and even track your location! Critical vulnerability found in popular smart car apps. Learn how to protect yourself NOW."
+  },
+  {
+    "Title": "Soylent Green is people",
+    "Url": "https://xeiaso.net/blog/2024/soylent-green-people/",
+    "Timestamp": "2024-12-16T02:01:53",
+    "Domain": "xeiaso.net",
+    "Description": "Nuance about AI and the 'danger' of datasets"
+  },
+  {
+    "Title": "VC will be the best way finance learning",
+    "Url": "https://www.karthikuppu.com/vc-learning",
+    "Timestamp": "2024-12-16T02:01:52",
+    "Domain": "www.karthikuppu.com",
+    "Description": "Inside the mind of Karthik Uppu."
+  },
+  {
+    "Title": "phillip england",
+    "Url": "https://phillip-england.com/post/how-i-generate-this-site",
+    "Timestamp": "2024-12-16T02:01:52",
+    "Domain": "phillip-england.com",
+    "Description": "check out my tool, flint"
+  },
+  {
+    "Title": "Can LLMs actually represent meaning? / Getting over the impenetrable wall",
+    "Url": "https://killerstorm.github.io/2024/12/15/meaning.html",
+    "Timestamp": "2024-12-16T02:01:51",
+    "Domain": "killerstorm.github.io",
+    "Description": "A discussion of AI and LLM often hits an impenetrable wall: “But it’s just a statistical model, and thus it cannot really …”. The variations of the “stochastic parrot” arguments assert that being trained on a language, LLM can capture only the surface aspects of the language (e.g. that word X often follows a sequence (W1, W2, W3)), but not the underlying meaning."
+  }
+]

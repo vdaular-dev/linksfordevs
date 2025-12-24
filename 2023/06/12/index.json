@@ -1,0 +1,282 @@
+[
+  {
+    "Title": "ASP.NET Community Standup - Featured community project: Blazor Studio",
+    "Url": "https://youtube.com/watch?v=tOHihL9Lf7Y",
+    "Timestamp": "2023-06-12T23:03:41",
+    "Domain": "youtube.com",
+    "Description": "Join us as we chat about Blazor Studio, this month's featured Blazor community project.Community Links: https://aka.ms/AAl2w0lFeaturing: Hunter Freeman, Jon ..."
+  },
+  {
+    "Title": "Introducing Redis and Azure Cognitive Search to Improve API Performance",
+    "Url": "https://www.andybutland.dev/2023/06/introducing-redis-and-azure-cognitive-search.html",
+    "Timestamp": "2023-06-12T23:03:39",
+    "Domain": "www.andybutland.dev",
+    "Description": "Cross-posting a couple of articles written for the Umbraco blog on the introduction of Redis Distributed Cache and Azure Cognitive Search to..."
+  },
+  {
+    "Title": "Musical Scales",
+    "Url": "https://xkcd.com/2788/",
+    "Timestamp": "2023-06-12T22:02:53",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Process huge log files – Madhur Ahuja",
+    "Url": "https://www.madhur.co.in/blog/2023/06/10/processing-huge-log-files.html",
+    "Timestamp": "2023-06-12T21:04:51",
+    "Domain": "www.madhur.co.in",
+    "Description": "Process huge log files"
+  },
+  {
+    "Title": "ASP.NET Community Standup - Featured community project: Blazor Studio",
+    "Url": "https://youtu.be/tOHihL9Lf7Y",
+    "Timestamp": "2023-06-12T21:04:49",
+    "Domain": "youtu.be",
+    "Description": "Join us as we chat about Blazor Studio, this month's featured Blazor community project.Community Links: https://aka.ms/AAl2w0lFeaturing: Hunter Freeman, Jon ..."
+  },
+  {
+    "Title": "Kickstart your .NET modernization journey with the RWA pattern | BRK202H",
+    "Url": "https://youtube.com/watch?v=r7T-j-c1bj4",
+    "Timestamp": "2023-06-12T21:04:49",
+    "Domain": "youtube.com",
+    "Description": "The reliable web app (RWA) pattern helps migrate web apps to the cloud with high performance, security, reliability, and operations. Based on the Azure Well-..."
+  },
+  {
+    "Title": "Blogging Has Just Changed Forever and No One Is Talking About It",
+    "Url": "https://www.bramadams.dev/202306052325/",
+    "Timestamp": "2023-06-12T21:04:48",
+    "Domain": "www.bramadams.dev",
+    "Description": "Blogging has recieved a major upgrade, from an unexpected place."
+  },
+  {
+    "Title": "Talk to people.",
+    "Url": "https://jakobgreenfeld.com/talk-to-people",
+    "Timestamp": "2023-06-12T21:04:47",
+    "Domain": "jakobgreenfeld.com",
+    "Description": "Yes, I know this is not what you want to hear."
+  },
+  {
+    "Title": "Web of the People",
+    "Url": "https://blog.erlend.sh/web-of-the-people",
+    "Timestamp": "2023-06-12T21:04:47",
+    "Domain": "blog.erlend.sh",
+    "Description": "Whether you think of web3 as the advent of peer-to-peer protocols, coin-operated blockchains or autocomplete-AI synthesizers, change is c..."
+  },
+  {
+    "Title": "Confidence, Competence, & Gravity",
+    "Url": "https://fritzjohnson.dev/confidence-competence-gravity/",
+    "Timestamp": "2023-06-12T21:04:47",
+    "Domain": "fritzjohnson.dev",
+    "Description": "Sharing three thoughts I had this morning on the topics of blind confidence, stacking competence, and the seriousness of fundraising."
+  },
+  {
+    "Title": "Human Immortality Using LLMs",
+    "Url": "https://danielmiessler.com/p/human-immortality-using-llms",
+    "Timestamp": "2023-06-12T21:04:47",
+    "Domain": "danielmiessler.com",
+    "Description": "Using LLMs and Memory to back ourselves up before we die"
+  },
+  {
+    "Title": "Optimize sprint points to get nowhere fast",
+    "Url": "https://ntietz.com/blog/optimize-sprint-points-to-go-slow/",
+    "Timestamp": "2023-06-12T21:04:47",
+    "Domain": "ntietz.com",
+    "Description": "Monday, June 12, 2023"
+  },
+  {
+    "Title": "What is WASI?",
+    "Url": "https://blog.yoshuawuyts.com/what-is-wasi/",
+    "Timestamp": "2023-06-12T21:04:46",
+    "Domain": "blog.yoshuawuyts.com",
+    "Description": "Now that the final touches are being put on the second version of\nWASI (WASI Preview 2), I figured now might be a good time to\nwrite a few words on WASI, WebAssembly, and how to think about them.\nIn recent months I've been driving the WASI Preview 2 work in the Rust compiler.\nSo in order to do that I've had to familiarize where things are currently, where\nthings are headed, and how build a mental model for myself. Because while Wasm\nand WASI have been around for a while, WASI especially has undergone a lot of\nchanges. Enough so that I figured it might be helpful to write a little about."
+  },
+  {
+    "Title": "A note on Metal shader converter",
+    "Url": "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html",
+    "Timestamp": "2023-06-12T21:04:46",
+    "Domain": "raphlinus.github.io",
+    "Description": "At WWDC, Apple introduced Metal shader converter, a tool for converting shaders from DXIL (the main compilation target of HLSL in DirectX12) to Metal. While it is no doubt useful for reducing the cost of porting games from DirectX to Metal, I feel it does not move us any closer to a world of robust GPU infrastructure, and in many ways just adds more underspecified layers of complexity."
+  },
+  {
+    "Title": "Add or Enable Serilog in ASP.NET Core 7.0",
+    "Url": "https://www.talkingdotnet.com/add-or-enable-serilog-in-asp-net-core-7-0/",
+    "Timestamp": "2023-06-12T19:04:37",
+    "Domain": "www.talkingdotnet.com",
+    "Description": "Find out in this very short post, how to add or Enable Serilog in ASP.NET Core 7.0 application in simple and easy steps."
+  },
+  {
+    "Title": "The Microsoft Teams Global Hack - Week 1 Recap and What’s Coming - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/hacktogether-recap-week1/",
+    "Timestamp": "2023-06-12T19:04:35",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Last week we launched HackTogether the Microsoft Teams Global Hack – a virtual hackathon all about building apps for Microsoft Teams. Here’s what happened last week and what’s still to come."
+  },
+  {
+    "Title": "ABP Helper Methods",
+    "Url": "https://engincanv.github.io/abp/2023/06/10/abp-helper-methods.html",
+    "Timestamp": "2023-06-12T19:04:34",
+    "Domain": "engincanv.github.io",
+    "Description": "While coding we use extension methods and helper methods frequently. They help us to achieve common operations in a declarative way. We use them to split a text into lines, query a collection by conditions, cast from one type to another, and for many other purposes…"
+  },
+  {
+    "Title": "GitHub - samwho/spacer: CLI tool to insert spacers in command output to provide visual markers of when things happened",
+    "Url": "https://github.com/samwho/spacer",
+    "Timestamp": "2023-06-12T17:02:28",
+    "Domain": "github.com",
+    "Description": "CLI tool to insert spacers in command output to provide visual markers of when things happened - GitHub - samwho/spacer: CLI tool to insert spacers in command output to provide visual markers of wh..."
+  },
+  {
+    "Title": "On .NET Live - Blazing Accessibility Basics",
+    "Url": "https://youtube.com/watch?v=K-yB-vNwtwY",
+    "Timestamp": "2023-06-12T15:03:08",
+    "Domain": "youtube.com",
+    "Description": "It's important to make sure your apps are accessible to as many people as possible. In this week's episode, community MVP Dennie Declercq visits us to show u..."
+  },
+  {
+    "Title": ".NET Hot Reload Adds Support for Modifying Generics ",
+    "Url": "https://www.infoq.com/news/2023/06/dotnet-hot-reload-generics/",
+    "Timestamp": "2023-06-12T15:03:07",
+    "Domain": "www.infoq.com",
+    "Description": "In the .NET 8 Preview 4 release, .NET Hot Reload implements support for modifying generic methods, reducing the number of changes that require restarting for the change to take effect."
+  },
+  {
+    "Title": "Integer compression: SIMD bit packing and unusual usages",
+    "Url": "https://ayende.com/blog/199522-C/integer-compression-simd-bit-packing-and-unusual-usages?Key=c9640921-c37c-45df-b096-e3ec52a72bee",
+    "Timestamp": "2023-06-12T15:03:07",
+    "Domain": "ayende.com",
+    "Description": "I talked a bit before about the nature of bit packing and how the simdcomp library isn&rsquo;t actually doing compression. Why do I care about that, then?\nB..."
+  },
+  {
+    "Title": "Clean Code Sucks?",
+    "Url": "https://youtube.com/watch?v=vTV7n-_Z8bM",
+    "Timestamp": "2023-06-12T14:02:53",
+    "Domain": "youtube.com",
+    "Description": "Prime's tweet: https://twitter.com/ThePrimeagen/status/1664604585401491457?s=20Let's answer the burning question: Why are thousands of people agreeing that c..."
+  },
+  {
+    "Title": "The move constructor that you have to declare, even though you don't want anyone to actually call it - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230612-00/?p=108329",
+    "Timestamp": "2023-06-12T14:02:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Forcing named return value optimization."
+  },
+  {
+    "Title": "The Right Way to Check for Null in C#",
+    "Url": "https://youtube.com/watch?v=wqDYj0be_og",
+    "Timestamp": "2023-06-12T13:05:59",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://dometrain.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello, everybody, I'm Nick, and in..."
+  },
+  {
+    "Title": "Programming using Laravel and JavaScript in CodeLobster IDE - Coding Sonata",
+    "Url": "https://codingsonata.com/programming-using-laravel-and-javascript-in-codelobster-ide/",
+    "Timestamp": "2023-06-12T13:05:58",
+    "Domain": "codingsonata.com",
+    "Description": "Using CodeLobster IDE with Laravel and JavaScript, developers can benefit from an all-in-one platform that simplifies coding tasks with syntax highlighting, code completion, debugging tools."
+  },
+  {
+    "Title": "Testing Chiseled Ubuntu container images with .NET",
+    "Url": "https://www.mytechramblings.com/posts/testing-chiseled-ubuntu-containers-with-dotnet/",
+    "Timestamp": "2023-06-12T11:03:35",
+    "Domain": "www.mytechramblings.com",
+    "Description": "The objective of this post is to test Ubuntu Chiseled images in combination with .NET, evaluating whether it is truly worthwhile to migrate our .NET apps to utilize these base images or not."
+  },
+  {
+    "Title": "Introduction to Firebase in .NET - Code Maze",
+    "Url": "https://code-maze.com/dotnet-firebase/",
+    "Timestamp": "2023-06-12T09:02:44",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we introduce the Firebase application development platform from Google and how to interact with it using the .NET libraries."
+  },
+  {
+    "Title": "Latest Updates for Azure App Service Presented at Microsoft Build 2023 ",
+    "Url": "https://www.infoq.com/news/2023/06/app-service-build-2023/",
+    "Timestamp": "2023-06-12T09:02:43",
+    "Domain": "www.infoq.com",
+    "Description": "The Microsoft Build 2023 event showcased the latest updates and additions to the Azure App Service. The event, held in person in Seattle, included some group sessions, demonstrations and Q&A sessions on Azure App Service with such topics as changes within PremiumV3, Automatic Scaling or memory optimisation for ASEv3."
+  },
+  {
+    "Title": "362: Developer Productivity - C# 12, Dev Tunnels, C# Dev Kit",
+    "Url": "https://www.mergeconflict.fm/362",
+    "Timestamp": "2023-06-12T09:02:42",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "It is follow up week on some topics we touched on earlier. We first break down our thoughts on C# 12's new Collection Literals, Apple Vision Pro + iCircuit, iOS 17, and some great developer productivity feature for .NET."
+  },
+  {
+    "Title": "Reset user account passwords using Microsoft Graph and application permissions in ASP.NET Core",
+    "Url": "https://damienbod.com/2023/06/12/reset-user-account-passwords-using-microsoft-graph-and-application-permissions/",
+    "Timestamp": "2023-06-12T09:02:42",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how to reset a password for tenant members using a Microsoft Graph application client in ASP.NET Core. An Azure App registration is used to define the application permission for …"
+  },
+  {
+    "Title": "ASP.NET Core Basics: Best Practices—Creating a New Project",
+    "Url": "https://www.telerik.com/blogs/aspnet-core-basics-best-practices-creating-new-projects",
+    "Timestamp": "2023-06-12T06:01:40",
+    "Domain": "www.telerik.com",
+    "Description": "Check out this blog post from the ASP.NET Core Basics series for a collection of best practices for when you start a new web project."
+  },
+  {
+    "Title": "Blazor Highlights from the Early .NET 8 Preview Releases",
+    "Url": "https://www.telerik.com/blogs/blazor-highlights-early-net-8-preview-releases",
+    "Timestamp": "2023-06-12T06:01:39",
+    "Domain": "www.telerik.com",
+    "Description": "Server-side rendering and streaming rendering are among the big changes coming for Blazor in .NET 8, plus some smaller changes will make a big difference."
+  },
+  {
+    "Title": "Grounding LLMs",
+    "Url": "https://techcommunity.microsoft.com/t5/fasttrack-for-azure/grounding-llms/ba-p/3843857",
+    "Timestamp": "2023-06-12T06:01:38",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "What is Grounding? Grounding is the process of using large language models (LLMs) with information that is use-case specific, relevant, and not available as part of the LLM's trained knowledge. It is crucial for ensuring the quality, accuracy, and relevance of the generated output. While LLMs come w..."
+  },
+  {
+    "Title": "Released: Microsoft.Data.SqlClient 5.2 Preview 2",
+    "Url": "https://techcommunity.microsoft.com/t5/sql-server-blog/released-microsoft-data-sqlclient-5-2-preview-2/ba-p/3843643",
+    "Timestamp": "2023-06-12T06:01:38",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Microsoft.Data.SqlClient 5.2 Preview 2 has been released. This release contains improvements and updates to the Microsoft.Data.SqlClient data provider for SQL Server. Our plan is to provide GA releases twice a year with two or three preview releases in between. This cadence should provide time for f..."
+  },
+  {
+    "Title": "GitHub Copilot Fundamentals Learning Path - Your New AI programming friend!",
+    "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/github-copilot-fundamentals-learning-path-your-new-ai/ba-p/3844000",
+    "Timestamp": "2023-06-12T06:01:38",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Hi! Ready to meet your new best friend? Say hello to GitHub Copilot, the AI pair programmer that's about to change the way you code. It's like having a super-smart friend who's always ready to help. No matter the scenario, writing code, fixing bugs, or just trying to remember that one command you al..."
+  },
+  {
+    "Title": "Debug any server application locally with Dev Tunnels!",
+    "Url": "https://youtube.com/watch?v=nS5iPp2ve7k",
+    "Timestamp": "2023-06-12T06:01:36",
+    "Domain": "youtube.com",
+    "Description": "Visual Studio Dev Tunnels are great for connecting clients to your localhost, check this out!More details on Dev Tunnels? https://www.youtube.com/watch?v=azu..."
+  },
+  {
+    "Title": "Azure Container Apps, Easy Auth and .NET authentication | johnnyreilly",
+    "Url": "https://johnnyreilly.com/azure-container-apps-easy-auth-and-dotnet-authentication",
+    "Timestamp": "2023-06-12T06:01:34",
+    "Domain": "johnnyreilly.com",
+    "Description": "Azure Container Apps support Easy Auth. However, .NET applications run in ACAs do not recognise Easy Auth authentication. This post explains the issue and solves it."
+  },
+  {
+    "Title": "I Built the World's Largest Translated Cuneiform Corpus using AI",
+    "Url": "https://praeclarum.org/2023/06/09/cuneiform.html",
+    "Timestamp": "2023-06-12T06:01:33",
+    "Domain": "praeclarum.org",
+    "Description": "TL;DR I used a custom-trained Large Language Model (T5) to\ncreate the world’s largest online corpus of translated cuneiform\ntexts. It’s called the AICC (AI Cuneiform Corpus) and contains\n130,000 AI translated texts from the CDLI\nand ORACC projects.\n\n"
+  },
+  {
+    "Title": "About that dozen programmer must-haves",
+    "Url": "https://jesseliberty.com/2023/06/11/about-that-dozen-programmer-must-haves/",
+    "Timestamp": "2023-06-12T05:03:54",
+    "Domain": "jesseliberty.com",
+    "Description": "I wrote this blog post in September of last year, and looking at it today I realized that I don’t use a couple of these anymore:1) Resharper: the overhead was borderline too much and most of …"
+  },
+  {
+    "Title": "Easy and Cheap AI for Developers, Reddit API Changes and Sherlocking",
+    "Url": "https://www.codingblocks.net/podcast/easy-and-cheap-ai-for-developers-reddit-api-changes-and-sherlocking/",
+    "Timestamp": "2023-06-12T01:03:25",
+    "Domain": "www.codingblocks.net",
+    "Description": "June 11, 2023 By Allen Underwood Leave a Comment"
+  }
+]

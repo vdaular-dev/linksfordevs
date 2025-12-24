@@ -1,0 +1,275 @@
+[
+  {
+    "Title": "230315 Fitzpatrick Affidavit",
+    "Url": "https://www.documentcloud.org/documents/23722120-230315-fitzpatrick-affidavit#document/p22/a2232508",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "www.documentcloud.org",
+    "Description": ""
+  },
+  {
+    "Title": "When a date breaks booting the kernel — Store Halfword Byte-Reverse Indexed",
+    "Url": "https://sthbrx.github.io/blog/2023/03/24/dumb-bugs-when-a-date-breaks-booting-the-kernel/",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "sthbrx.github.io",
+    "Description": "I've recently been working on internal CI infrastructure for testing kernels before sending them to the mailing list. As part of this effort, I became interested in reproducible builds. Minimising the changing parts outside of the source tree itself could improve consistency and ccache hits, which is great for trying to make the CI faster and more reproducible across different machines. This means removing 'external' factors like timestamps from the build process, because the time changes every build and means the results between builds of the same tree are no longer identical binaries. This also prevents using previously cached results, potentially slowing down builds (though it turns out the kernel does a good job of limiting the scope of where timestamps appear in the build)."
+  },
+  {
+    "Title": "ChatGPT + Code Interpreter = Magic",
+    "Url": "https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "andrewmayneblog.wordpress.com",
+    "Description": "tl;dr: OpenAI is testing the ability to run code and use third-party plugins in ChatGPT. OpenAI has announced that we’re developing plugins for ChatGPT that will extend its capabilities. [Link] Plu…"
+  },
+  {
+    "Title": "No more custom domains in Microsoft Outlook?",
+    "Url": "https://tutanota.com/blog/posts/microsoft-outlook-create-custom-domain-email-address",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "tutanota.com",
+    "Description": "Microsoft will phase out custom email domains in Outlook.com: A perfect time to create an address with Tutanota!"
+  },
+  {
+    "Title": "Health Benefits of Browser Diversity - Web Performance Consulting",
+    "Url": "https://timkadlec.com/remembers/2023-03-22-safari-and-a-healthier-web/",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "timkadlec.com",
+    "Description": "There are increasingly loud rumblings that Apple will be allowing other browser engines to be used on iOS, and all I can say is it’s about time."
+  },
+  {
+    "Title": "My Theme Song (8 bit version)",
+    "Url": "https://danverbraganza.com/writings/my-theme-song-8-bit-version",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "danverbraganza.com",
+    "Description": "I composed an 8-bit version of my own theme song and put it on the Internet"
+  },
+  {
+    "Title": "Responsability: The Price We Must Pay for Competency – Michael Bastos",
+    "Url": "https://michaelbastos.com/blog/responsability-is-the-price-of-competency",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "michaelbastos.com",
+    "Description": "Ecclesiastes, a book of wisdom literature in the Bible, is known for its perplexing and thought-provoking passages. One such passage is Chapter 10, verses 5 through 7, which discusses the evilness of an incompetent man in a position of authority. The passage reads: “There is an evil which I have seen under the sun, as an error which proceedeth from the ruler: Folly is set in great dignity, and the rich sit in low place. I have seen servants upon horses, and princes walking as servants upon the earth.”\n"
+  },
+  {
+    "Title": "Software Engineering Company from Stuttgart, Germany",
+    "Url": "https://benchkram.de/blog/dev/ultimate-config-for-golang-apps",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "benchkram.de",
+    "Description": "Challenging Complexityand Driving Innovation"
+  },
+  {
+    "Title": "mjg59 | We need better support for SSH host certificates",
+    "Url": "https://mjg59.dreamwidth.org/65874.html",
+    "Timestamp": "2023-03-24T22:03:17",
+    "Domain": "mjg59.dreamwidth.org",
+    "Description": "Github accidentally committed their SSH RSA private key to a repository, and now a bunch of people's infrastructure is broken because it needs to be updated to trust the new key. This is obviously bad, but what's frustrating is that there's no inherent need for it to be - almost all the technological components needed to both reduce the initial risk and to make the transition seamless already exist."
+  },
+  {
+    "Title": "Multi-Cloud Deployment for Elixir & Phoenix with MRSK",
+    "Url": "https://www.richardtaylor.dev/articles/multi-cloud-deployment-elixir-phoenix-mrsk",
+    "Timestamp": "2023-03-24T22:03:16",
+    "Domain": "www.richardtaylor.dev",
+    "Description": "The second part of my multi-cloud journey for Elixir. This post demonstrates how to deploy a Phoenix application to multiple clouds, cluster together and securely connect to a database instance."
+  },
+  {
+    "Title": "Script Watch",
+    "Url": "https://report-uri.com/products/script_watch",
+    "Timestamp": "2023-03-24T22:03:16",
+    "Domain": "report-uri.com",
+    "Description": "Monitor JavaScript dependencies in real-time."
+  },
+  {
+    "Title": "ForkFS: make changes to your file system without consequence",
+    "Url": "https://alexsaveau.dev/blog/projects/performance/files/forkfs/forkfs",
+    "Timestamp": "2023-03-24T22:03:16",
+    "Domain": "alexsaveau.dev",
+    "Description": "ForkFS is a CLI app that redirects a process’s file operations to a sandbox."
+  },
+  {
+    "Title": "How to add a Clojure REPL to a web page",
+    "Url": "https://www.scotto.me/blog/how-to-add-clojure-repl-to-webpage/",
+    "Timestamp": "2023-03-24T22:03:16",
+    "Domain": "www.scotto.me",
+    "Description": "How I created TryClojure.org"
+  },
+  {
+    "Title": "Adventures in Time: Debugging a Daylight Saving Bug",
+    "Url": "https://alextaylor.ca/read/adventures-in-time-debugging-a-daylight-saving-bug/",
+    "Timestamp": "2023-03-24T22:03:16",
+    "Domain": "alextaylor.ca",
+    "Description": "What’s more fun than bugs? Bugs involving time! And none are so fascinating as bugs involving daylight saving time.\n\nWith Daylight saving time almost upon us again, I thought it would be fun to rev..."
+  },
+  {
+    "Title": "Microsoft Offers Private Preview for GitHub Copilot Chat for Visual Studio 2022 -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/03/24/visual-studio-chat.aspx",
+    "Timestamp": "2023-03-24T21:01:57",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Developers can now sign up for a private preview of enhanced chat capabilities coming to GitHub Copilot, the 'AI pair programmer' that works in the Visual Studio 2022 IDE and in Visual Studio Code."
+  },
+  {
+    "Title": "Building a new PC LIVE from parts with Damian Edwards",
+    "Url": "https://youtube.com/watch?v=Lv4eiMajw2M",
+    "Timestamp": "2023-03-24T20:32:58",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.ioBuilding a new PC LIVE from parts with Damian Edwards"
+  },
+  {
+    "Title": "DamianEdwards - Saved Part Lists - PCPartPicker",
+    "Url": "https://pcpartpicker.com/user/DamianEdwards/saved/#view=444DwP",
+    "Timestamp": "2023-03-24T20:32:54",
+    "Domain": "pcpartpicker.com",
+    "Description": "Saved Part Lists"
+  },
+  {
+    "Title": "Goblin Plonk Recursion Book - HackMD",
+    "Url": "https://hackmd.io/@aztec-network/BkGNaHUJn/%2FGfNR5SE5ShyXXmLxNCsg3g",
+    "Timestamp": "2023-03-24T17:02:28",
+    "Domain": "hackmd.io",
+    "Description": "recursive proof composition for the lazy bastards"
+  },
+  {
+    "Title": "Government Rejection of Key Senate Bill C-11 Amendment Reveals Its True Intent: Retain Power to Regulate User Content - Michael Geist",
+    "Url": "https://www.michaelgeist.ca/2023/03/government-response-to-senate-bill-c-11-amendments-reveals-its-true-intent-retain-power-and-flexibility-to-regulate-user-content/",
+    "Timestamp": "2023-03-24T17:02:27",
+    "Domain": "www.michaelgeist.ca",
+    "Description": "For more than a year, Canadian Heritage Minister Pablo Rodriguez has clung to the Bill C-11 mantra of “platforms in, users out”. When presented with clear evidence from thousands of digital creators, the former chair of the CRTC, and numerous experts that that wasn't true, the Senate passed compromise language to ensure that platforms such as Youtube would be caught by the legislation consistent with the government's stated objective, but that user content would not. Last night, Rodriguez rejected the compromise amendment, turning his back on digital creators and a Senate process lauded as one of the most comprehensive ever. In doing so, he has left no doubt about the government’s true intent with Bill C-11: retain power and flexibility to regulate user content."
+  },
+  {
+    "Title": "Do you dream of living in the United States?",
+    "Url": "https://old.reddit.com/r/AskFrance/comments/120lj24/do_you_dream_of_living_in_the_united_states/",
+    "Timestamp": "2023-03-24T17:02:26",
+    "Domain": "old.reddit.com",
+    "Description": "The US has so many great cities and opportunities"
+  },
+  {
+    "Title": "Build your first website without installing anything!",
+    "Url": "https://youtube.com/watch?v=1Vg7bNjJY-0",
+    "Timestamp": "2023-03-24T17:02:25",
+    "Domain": "youtube.com",
+    "Description": "Build your first Portfolio Website using .NET and GitHub Codespaces. No installs required! Katie shows you how to set up your first Codespace to start buildi..."
+  },
+  {
+    "Title": "Technical documentation",
+    "Url": "https://learn.microsoft.com/en-us/docs/",
+    "Timestamp": "2023-03-24T17:02:23",
+    "Domain": "learn.microsoft.com",
+    "Description": "Documentation"
+  },
+  {
+    "Title": "75% Of Us Think Software Developers Would Do Better Work In Small Partnerships",
+    "Url": "https://levelup.gitconnected.com/75-of-us-think-software-developers-would-do-better-work-in-small-partnerships-58820407f771",
+    "Timestamp": "2023-03-24T16:01:57",
+    "Domain": "levelup.gitconnected.com",
+    "Description": "How software developers can arrange themselves to perform their optimal performance."
+  },
+  {
+    "Title": "Adventures in application compatibility: The case of the jump into the middle of an instruction from nowhere - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966",
+    "Timestamp": "2023-03-24T16:01:56",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Another rogue patcher."
+  },
+  {
+    "Title": "Entity Framework Core vs Dapper Performance in 2023",
+    "Url": "https://youtube.com/watch?v=Q4LtKa_HTHU",
+    "Timestamp": "2023-03-24T15:01:41",
+    "Domain": "youtube.com",
+    "Description": "Check out my courses: https://nickchapsas.comBecome a Patreon and get source code access: https://www.patreon.com/nickchapsasHello everybody I'm Nick and in ..."
+  },
+  {
+    "Title": "We updated our RSA SSH host key | The GitHub Blog",
+    "Url": "https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/",
+    "Timestamp": "2023-03-24T15:01:39",
+    "Domain": "github.blog",
+    "Description": "At approximately 05:00 UTC on March 24, out of an abundance of caution, we replaced our RSA SSH host key used to secure Git operations for GitHub.com."
+  },
+  {
+    "Title": "GitHub - jsuarezruiz/awesome-dotnet-maui: A curated list of awesome .NET MAUI libraries and resources.",
+    "Url": "https://github.com/jsuarezruiz/awesome-dotnet-maui",
+    "Timestamp": "2023-03-24T14:04:13",
+    "Domain": "github.com",
+    "Description": "A curated list of awesome .NET MAUI libraries and resources. - GitHub - jsuarezruiz/awesome-dotnet-maui: A curated list of awesome .NET MAUI libraries and resources."
+  },
+  {
+    "Title": "Explore the Latest Updates to WinForms Visual Basic Application Framework ",
+    "Url": "https://www.infoq.com/news/2023/03/winforms-visual-basic-updates/",
+    "Timestamp": "2023-03-24T13:02:33",
+    "Domain": "www.infoq.com",
+    "Description": "Recent updates to the WinForms Visual Basic Application Framework, including the ability to convert older .NET Framework-based apps to .NET 6, 7, or 8+ and new features like the Windows Forms Out-of-Process Designer. Upgrading to newer frameworks creates opportunities to support modern technologies like EF Core and many more valuable updates."
+  },
+  {
+    "Title": "How to Create a Custom JsonConverter in Json.NET - Code Maze",
+    "Url": "https://code-maze.com/json-dotnet-create-custom-jsonconverter/",
+    "Timestamp": "2023-03-24T09:01:56",
+    "Domain": "code-maze.com",
+    "Description": "A step by step explanation of how to create a custom JsonConverter with practical examples as well as complex use cases."
+  },
+  {
+    "Title": "Leverage 'is not' Operator for Exception Filtering!",
+    "Url": "https://steven-giesel.com/blogPost/d3b295a1-45d0-4399-8486-c3b67d5bc9e4",
+    "Timestamp": "2023-03-24T09:01:55",
+    "Domain": "steven-giesel.com",
+    "Description": "Did you know you can use the 'is not' operator with exception filtering to simplify and improve your error handling in C#?\nIn this short blog post, I will show you how to use it.\n"
+  },
+  {
+    "Title": "Weekly Update 340",
+    "Url": "https://youtube.com/watch?v=d4Ptn7wqptI",
+    "Timestamp": "2023-03-24T08:02:54",
+    "Domain": "youtube.com",
+    "Description": "I’m Coming to Prague; The HIBP Email Address Extractor; TheGradCafe Data Breach; I Ran Out of IP Addresses; Garage & Kitchen Rebuilds; Sponsored by Kolide"
+  },
+  {
+    "Title": "Techniques for Testing Mobile Apps vs. Web Apps",
+    "Url": "https://www.telerik.com/blogs/techniques-testing-mobile-apps-web-apps",
+    "Timestamp": "2023-03-24T06:03:25",
+    "Domain": "www.telerik.com",
+    "Description": "This guide describes the differences between testing mobile and web applications, the reasons to test each, and common defects when testing both platforms."
+  },
+  {
+    "Title": "Building Static Web Apps with database connections: Best Practices",
+    "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/building-static-web-apps-with-database-connections-best/ba-p/3777155",
+    "Timestamp": "2023-03-24T06:03:24",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Today, many web applications depend on custom API backends to have access to databases. This approach allows you to have full flexibility over your database calls but building out such a backend can be tedious and complex, especially when considering the edge cases of a data-access backend such as a..."
+  },
+  {
+    "Title": "Azure Functions - Part 2 - Unit and Integration Testing",
+    "Url": "https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-functions-part-2-unit-and-integration-testing/ba-p/3769764",
+    "Timestamp": "2023-03-24T06:03:23",
+    "Domain": "techcommunity.microsoft.com",
+    "Description": "Unit Testing  Introduction   A unit test usually involves writing code to test a specific function or method, using input data and expected output data. The test code then executes the function or method with the input data, compares the resulting output to the expected output, and reports any discr..."
+  },
+  {
+    "Title": "Akka.NET v1.5: No Hocon, No Lighthouse, No Problem",
+    "Url": "https://petabridge.com/blog/akkadotnet-1.5-no-hocon-no-lighthouse-no-problem/",
+    "Timestamp": "2023-03-24T06:03:23",
+    "Domain": "petabridge.com",
+    "Description": "Exploring Akka.Hosting, Akka.HealthCheck, and Akka.Management"
+  },
+  {
+    "Title": " A Demo On Clean Architecture | MediatR CQRS Pattern | .NET7 Web API",
+    "Url": "https://www.learmoreseekmore.com/2023/03/demo-on-clean-architecture-mediatr-cqrs-pattern-dotnet7-web-api.html",
+    "Timestamp": "2023-03-24T06:03:20",
+    "Domain": "www.learmoreseekmore.com",
+    "Description": "In this article, we will learn about 'Clean Architecture', 'CQRS Pattern With MediatR' by implementing in .NET7 Web API. Clean Architecture:..."
+  },
+  {
+    "Title": ".NET 8 Preview 2 Unveiled: 5 New Features You Need to Know💜",
+    "Url": "https://dev.to/bytehide/net-8-preview-2-unveiled-5-new-features-you-need-to-know-2cof",
+    "Timestamp": "2023-03-24T06:03:13",
+    "Domain": "dev.to",
+    "Description": "Microsoft has just launched the .NET 8 Preview 2, introducing a host of new features that are sure to..."
+  },
+  {
+    "Title": "Buy vs Build... Over Time",
+    "Url": "http://blogs.newardassociates.com/blog/2023/buy-vs-build-over-time.html",
+    "Timestamp": "2023-03-24T06:03:12",
+    "Domain": "blogs.newardassociates.com",
+    "Description": "What to think when you realize you chose wrong."
+  },
+  {
+    "Title": "Bill Gates on AI and the rapidly evolving future of computing",
+    "Url": "https://youtube.com/watch?v=bHb_eG46v2c",
+    "Timestamp": "2023-03-24T05:03:40",
+    "Domain": "youtube.com",
+    "Description": "Today, we have a special guest joining us on the podcast—Bill Gates! With the rapidly evolving AI landscape, including the release of products like OpenAI’s ..."
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "Title": "Scaling One Million Checkboxes to 650,000,000 checks",
+    "Url": "https://eieio.games/essays/scaling-one-million-checkboxes/",
+    "Timestamp": "2024-07-27T23:01:02",
+    "Domain": "eieio.games",
+    "Description": "Dealing with unexpected popularity"
+  },
+  {
+    "Title": "Enhanced Data | cybernetic.dev",
+    "Url": "https://cybernetic.dev/grid",
+    "Timestamp": "2024-07-27T22:01:10",
+    "Domain": "cybernetic.dev",
+    "Description": "An experiment in adaptive and adjustable UI density to fit as much data as possible on one screen. Pagination is used only when absolutely necessary."
+  },
+  {
+    "Title": "Bril: An Intermediate Language for Teaching Compilers",
+    "Url": "https://www.cs.cornell.edu/~asampson/blog/bril.html",
+    "Timestamp": "2024-07-27T18:01:04",
+    "Domain": "www.cs.cornell.edu",
+    "Description": "I created a new intermediate language, called Bril, for teaching my funky open-source, hands-on compilers course. Because it’s for education, Bril prioritizes simplicity and regularity over more typical compiler priorities like performance and concision. This is an overview of Bril’s design, its quirks, and the ecosystem that has grown up around it since 2019.  "
+  },
+  {
+    "Title": "Plugin Architectures in DotNet – Dev Leader Weekly 54",
+    "Url": "https://www.devleader.ca/2024/07/27/plugin-architectures-in-dotnet-dev-leader-weekly-54/",
+    "Timestamp": "2024-07-27T14:01:01",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I plugin architecture in DotNet based on a presentation I did in Dallas!"
+  },
+  {
+    "Title": "35% Faster Than The Filesystem",
+    "Url": "https://sqlite.org/fasterthanfs.html",
+    "Timestamp": "2024-07-27T13:01:01",
+    "Domain": "sqlite.org",
+    "Description": "35% Faster Than The Filesystem"
+  },
+  {
+    "Title": "The New Internet",
+    "Url": "https://tailscale.com/blog/new-internet",
+    "Timestamp": "2024-07-27T12:01:04",
+    "Domain": "tailscale.com",
+    "Description": "We don’t talk a lot in public about the big vision for Tailscale, why we’re really here. Usually I prefer to focus on what exists right now, and what we’re going to do in the next few months. But let’s look at the biggest of big pictures for a change."
+  },
+  {
+    "Title": "Olympic Sports",
+    "Url": "https://xkcd.com/2964/",
+    "Timestamp": "2024-07-27T12:01:03",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Europe Is in Danger of Regulating Its Tech Market Out of Existence",
+    "Url": "https://foreignpolicy.com/2024/07/26/europe-tech-regulation-apple-meta-google-competition/",
+    "Timestamp": "2024-07-27T07:01:08",
+    "Domain": "foreignpolicy.com",
+    "Description": "Poorly designed laws are forcing global firms to leave."
+  },
+  {
+    "Title": "Simple Messaging in .NET With Redis Pub/Sub",
+    "Url": "https://www.milanjovanovic.tech/blog/simple-messaging-in-dotnet-with-redis-pubsub",
+    "Timestamp": "2024-07-27T00:01:05",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "Redis is a popular choice for caching data, but its capabilities go far beyond that. One of its lesser-known features is Pub/Sub support. Redis channels offer an interesting approach for implementing real-time messaging in your .NET applications."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Zig Reproduced Without Binaries - Motiejus Jakštys Public Record",
+    "Url": "https://jakstys.lt/2024/zig-reproduced-without-binaries/",
+    "Timestamp": "2024-11-13T21:01:41",
+    "Domain": "jakstys.lt",
+    "Description": "Motiejus Jakštys personal space"
+  },
+  {
+    "Title": "Why I love .NET",
+    "Url": "https://youtube.com/watch?v=UYA0v6KbQIU",
+    "Timestamp": "2024-11-13T18:01:29",
+    "Domain": "youtube.com",
+    "Description": "In this edition of #tech on ice, I talk about something near and dear to my heart, and that is why I love .NET. Here is a hint.. it's the people :)\n#technology #programming #developer #coldplunge #dotnet"
+  },
+  {
+    "Title": ".NET Aspire - Why You Need It Now!",
+    "Url": "https://youtube.com/watch?v=Ek4a24hz-sg",
+    "Timestamp": "2024-11-13T15:01:42",
+    "Domain": "youtube.com",
+    "Description": "Today, the .NET 9 SDK was released, and I couldn't wait, and immediately upgraded one of my production applications from .NET 8 to .NET 9.\n\nI will take things further in this video by adding .NET Aspire to an existing ASP.NET Core WebAPI project.\n\nI will show you powerful .NET Aspire features you can take advantage of even when working on single-project solutions.\n\n00:00 Introduction\n00:52 Adding .NET Aspire Orchestration Support\n03:23 The .NET Aspire Dashboard\n05:16 How does the .NET Aspire Dashboard Work?\n07:34 Conclusion\n\n🔥 C#/.NET Bootcamp: Full-Stack Web Development with ASP.NET Core and Blazor (Code FRIENDS10 for 10% OFF)*\nhttps://claudiobernasconi.ch/dotnet-course\n\n📌 .NET Developer Roadmap\nhttps://claudiobernasconi.ch/learn-dotnet\n\n📌 .NET Aspire Overview:\nhttps://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview\n\n📌 YouTube Playlists:\nThe FREE Blazor Crash Course: https://www.youtube.com/watch?v=89Klc6WHElw&list=PLwISgxnkpZGL_LhTQCWwp-WCzupv7lcp0\nBlazor: https://www.youtube.com/playlist?list=PLwISgxnkpZGITT6pELfCeQ6qK0G3ujldZ\n\n✅ SUBSCRIBE FOR MORE VIDEOS \nSubscribe: 🔔 https://claudiobernasconi.ch/Subscribe\n\n🚀 CONNECT & SUPPORT\nWebsite & Blog: https://claudiobernasconi.ch\nNewsletter: https://claudiobernasconi.ch/newsletter\nTwitter: https://twitter.com/CHBernasconiC\nBluesky: https://bsky.app/profile/bernasconi.bsky.social\nMastodon: https://dotnet.social/@bernasconi\n\n* Affiliate Link: I earn a small commission at no additional cost"
+  },
+  {
+    "Title": "Europa Clipper",
+    "Url": "https://xkcd.com/3011/",
+    "Timestamp": "2024-11-13T13:01:52",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": ".NET MAUI – Enable Debugger-Detached XAML Live Preview in Visual Studio 2022",
+    "Url": "https://egvijayanand.in/2024/11/13/dotnet-maui-enable-debugger-detached-xaml-live-preview-in-visual-studio-2022/",
+    "Timestamp": "2024-11-13T12:01:30",
+    "Domain": "egvijayanand.in",
+    "Description": "Not confined to .NET MAUI, the XAML Live Preview functions as an invaluable tool for inspecting the UI and its associated properties in XAML apps overall. However, it is imperative that the app be …"
+  },
+  {
+    "Title": "Transit | No GPS required: our app can now locate underground trains",
+    "Url": "https://blog.transitapp.com/go-underground/",
+    "Timestamp": "2024-11-13T11:01:32",
+    "Domain": "blog.transitapp.com",
+    "Description": "Bad service in the subway? Transit's offline motion detection shows where you are between stations, and reminds you when your stop’s up next"
+  },
+  {
+    "Title": "Jelly: The best way to jam on email as a team",
+    "Url": "https://letsjelly.com/",
+    "Timestamp": "2024-11-13T10:01:43",
+    "Domain": "letsjelly.com",
+    "Description": "Jelly is a new shared inbox for your team’s shared email addresses. It’s simple, intuitive, and actually affordable. From the good people at Good Enough."
+  },
+  {
+    "Title": "Jujutsu: A Haven for Mercurial Users at Mozilla",
+    "Url": "https://ahal.ca/blog/2024/jujutsu-mercurial-haven/",
+    "Timestamp": "2024-11-13T10:01:43",
+    "Domain": "ahal.ca",
+    "Description": "One of the pleasures of working at Mozilla, has been learning and using the\nMercurial version control system. Over the past decade, I’ve spent countless\nhours tinkering my worfklow to be just so. Reading docs and articles,\nmeticulously tweaking settings and even writing an extension.\nI used to be very passionate about Mercurial. But as time went on, the\nculture at Mozilla started changing. More and more repos were created in\nGithub, and more and more developers started using git-cinnabar to work on\nmozilla-central. Then my role changed and I found that 90% of my work was\nhappening outside of mozilla-central and the Mercurial garden I had created\nfor myself.\nSo it was with a sense of resigned inevitability that I took the news that\nMozilla would be migrating mozilla-central to Git. The fire in me was all but\nextinguished, I was resigned to my fate. And what’s more, I had to agree. The\ntime had come for Mozilla to officially make the switch.\nGlandium wrote an excellent post outlining some of the history of the\ndecisions made around version control, putting them into the context of the\ntime. In that post, he offers some compelling wisdom to Mercurial holdouts like\nmyself:\n\nI’ll swim against the current here, and say this: the earlier you can switch\nto git, the earlier you’ll find out what works and what doesn’t work for you,\nwhether you already know Git or not.\n\nWhen I read that, I had to agree. But, I just couldn’t bring myself to do it.\nNo, if I was going to have to give up my revsets and changeset obsolesence and\nmy carefully curated workflows, then so be it. But damnit! I was going to\ncontinue using them for as long as possible.\nAnd I’m glad I didn’t switch because then I stumbled upon Jujutsu."
+  },
+  {
+    "Title": "Bypassing regulatory locks, Faraday cages and upgrading your hearing",
+    "Url": "https://lagrangepoint.substack.com/p/airpods-hearing-aid-hacking",
+    "Timestamp": "2024-11-13T02:01:41",
+    "Domain": "lagrangepoint.substack.com",
+    "Description": "How we bypassed Apple's regulatory restrictions, built a Faraday cage and enabled georestricted features on the Airpods Pro 2 for our grandparents."
+  },
+  {
+    "Title": "Fidelity’s New Active Trader Pro: Powered by .NET MAUI for Cross-Platform Excellence",
+    "Url": "https://youtube.com/watch?v=WOEU9tupQPw",
+    "Timestamp": "2024-11-13T02:01:37",
+    "Domain": "youtube.com",
+    "Description": "Discover Fidelity's latest innovation in trading technology with Active Trader Pro, built on Microsoft's .NET MAUI platform. This powerful, cross-platform trading solution brings seamless performance to both Windows and Mac users, backed by real-time data streaming, advanced tools, and Microsoft’s support. Join Fidelity’s SVP Mark Burns as he shares how .NET MAUI enables Fidelity to deliver a fast, reliable, and scalable experience for active traders everywhere. Watch now to learn more!\n\n#dotnetmaui #dotnet"
+  },
+  {
+    "Title": "M4 Mac mini's efficiency is incredible",
+    "Url": "https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible",
+    "Timestamp": "2024-11-13T01:01:48",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "I had to pause some of my work getting a current-gen AMD graphics card running on the Pi 5 and testing a 192-core AmpereOne server to quickly post on the M4's efficiency."
+  },
+  {
+    "Title": "Windows:  Under the Covers - From Hello World to Kernel Mode by a Windows Developer",
+    "Url": "https://youtube.com/watch?v=Gf-dwrwVcMs",
+    "Timestamp": "2024-11-13T00:01:39",
+    "Domain": "youtube.com",
+    "Description": "Retired Windows developer Dave takes you the journey of how a simple printf() ultimately puts pixels on the screen.  See Windows at a new level of detail.   Free Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nDave's Attic - Friday 4PM Podcast - https://www.youtube.com/@UCtb6a_CnmGbSns9G8W2Ny0w \n\nFollow me for updates!  \nTwitter:   @davepl1968 davepl1968\nFacebook: fb.com/davepl"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "Title": "How to enumerate through a StringBuilder",
+    "Url": "https://steven-giesel.com/blogPost/5161909a-a223-4312-b939-996a0f97bf75",
+    "Timestamp": "2022-12-03T23:02:34",
+    "Domain": "steven-giesel.com",
+    "Description": "Did you ever wonder how we can iterate through a StringBuilder? I mean, of course, we can just call ToString and use the returned string, but that means we materialize the whole thing without good reason.\nWe can also use a normal for-loop. But we can also find a completely different and probably dumber way!  And if you wonder: No, this is not something you do in your daily life, but by doing so, I can show some cool stuff C# and .NET offer.\n"
+  },
+  {
+    "Title": "Introducing Mona Sans and Hubot Sans | The GitHub Blog",
+    "Url": "https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/",
+    "Timestamp": "2022-12-03T18:04:28",
+    "Domain": "github.blog",
+    "Description": "Learn how to use and express yourself with GitHub’s open source variable fonts, Mona Sans and Hubot Sans."
+  },
+  {
+    "Title": "Why Startups Suck at Security w/ Vanta's Head of Engineering, Matt Spitz",
+    "Url": "https://devinterrupted.substack.com/p/why-startups-suck-at-security-w-vantas",
+    "Timestamp": "2022-12-03T10:04:37",
+    "Domain": "devinterrupted.substack.com",
+    "Description": "When your startup is struggling to find its product-market fit, security is the last thing on your mind - and according to security expert Matt Spitz, that’s perfectly fine! Matt is Vanta's Head of Engineering and he joins this week's episode of Dev Interrupted to explain everything you ever wanted to know about startups and security."
+  },
+  {
+    "Title": "Discontinuing Bibliogram - cadence's blog",
+    "Url": "https://bibliogram.art/p/ClrKl6voCPf/?igshid=MDJmNzVkMjY%3D",
+    "Timestamp": "2022-12-03T09:06:37",
+    "Domain": "bibliogram.art",
+    "Description": "Before we start: If Bibliogram has been helpful to you, please consider making a donation! Donations help me pay for servers on my current and future projects, not to mention the time I put into writing code."
+  },
+  {
+    "Title": "Automated versioning and package publishing using GitHub Actions",
+    "Url": "https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/",
+    "Timestamp": "2022-12-03T07:06:29",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about implementing versioning and publishing docker images and nuget packages using GitHub Actions. I am not explaining about semantic versioning. There is already a lot of content explaining about these things."
+  },
+  {
+    "Title": "Automate Posting to Mastodon via Web Requests",
+    "Url": "https://montemagno.com/automate-posting-to-mastodon-via-web-requests/",
+    "Timestamp": "2022-12-03T07:06:28",
+    "Domain": "montemagno.com",
+    "Description": "Super simple way to automating posting statuses to Mastodon via web requests using the Mastodon API for services such as IFTTT."
+  },
+  {
+    "Title": "GitHub - aspnet-contrib/AspNet.Security.OAuth.Providers: OAuth 2.0 social authentication providers for ASP.NET Core",
+    "Url": "https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers#providers",
+    "Timestamp": "2022-12-03T06:06:57",
+    "Domain": "github.com",
+    "Description": "OAuth 2.0 social authentication providers for ASP.NET Core - GitHub - aspnet-contrib/AspNet.Security.OAuth.Providers: OAuth 2.0 social authentication providers for ASP.NET Core"
+  },
+  {
+    "Title": "LeadDev StaffPlus & LeadingEng New York 2023 Engineering conferences",
+    "Url": "https://leaddev.com/leaddev-new-york#Echobox=1669902410-8",
+    "Timestamp": "2022-12-03T06:06:55",
+    "Domain": "leaddev.com",
+    "Description": "LeadDev New York is bigger and better than before! Three conferences in four days, from 14-16 March 2023"
+  },
+  {
+    "Title": "StaffPlus New York 2023 | Conference event dedicated to staff engineers",
+    "Url": "https://leaddev.com/staffplus-new-york23",
+    "Timestamp": "2022-12-03T06:06:55",
+    "Domain": "leaddev.com",
+    "Description": "The technical leadership event for staff engineers and up"
+  },
+  {
+    "Title": "Add support for social authentication by davidfowl · Pull Request #45 · davidfowl/TodoApi",
+    "Url": "https://github.com/davidfowl/TodoApi/pull/45",
+    "Timestamp": "2022-12-03T06:06:53",
+    "Domain": "github.com",
+    "Description": "This change adds support for creating users from social accounts. Those accounts are registered with the backend API in exchange for a JWT token. That token can then be used to make further API cal..."
+  },
+  {
+    "Title": "Bendy",
+    "Url": "https://xkcd.com/2706/",
+    "Timestamp": "2022-12-03T02:06:12",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Google frees nifty ML image-compression model... but it's for JPEG-XL",
+    "Url": "https://www.theregister.com/AMP/2022/12/02/ml_attention_center_model_freed/",
+    "Timestamp": "2022-12-03T01:03:57",
+    "Domain": "www.theregister.com",
+    "Description": "Yep. The very same JPEG-XL that's just been axed from Chromium"
+  },
+  {
+    "Title": "The Whirlwind Tour of Building .NET Apps in Azure | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=45gTMoqSYHg",
+    "Timestamp": "2022-12-03T00:01:49",
+    "Domain": "youtube.com",
+    "Description": "Building an app with .NET is one thing - but where does Azure come in? What Azure services do you need to use to scale your app up to keep it responsive? Mak..."
+  }
+]

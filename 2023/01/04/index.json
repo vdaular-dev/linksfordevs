@@ -1,0 +1,205 @@
+[
+  {
+    "Title": "Chris's Wiki :: blog/python/DebianNoMorePython2",
+    "Url": "https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2",
+    "Timestamp": "2023-01-04T23:01:28",
+    "Domain": "utcc.utoronto.ca",
+    "Description": "January  2, 2023"
+  },
+  {
+    "Title": "Biology vs Robotics",
+    "Url": "https://xkcd.com/2720/",
+    "Timestamp": "2023-01-04T23:01:27",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How Cursor is Rendered",
+    "Url": "https://blog.vladzahorodnii.com/2023/01/03/how-cursor-is-rendered/",
+    "Timestamp": "2023-01-04T22:02:54",
+    "Domain": "blog.vladzahorodnii.com",
+    "Description": "Wayland has a unique way to let clients specify the contents of the cursor. After receiving a wl_pointer.enter event, the client must call wl_pointer.set_cursor request <request name=”set_…"
+  },
+  {
+    "Title": "My 2022 Self Published Tech Book Earnings",
+    "Url": "https://on-systems.tech/blog/130-2022-self-published-book-earnings/",
+    "Timestamp": "2023-01-04T22:02:54",
+    "Domain": "on-systems.tech",
+    "Description": "My 2022 Self published tech book earnings for - Site Reliability Engineering Tidbits."
+  },
+  {
+    "Title": "Automator's Hole | Justin Poehnelt",
+    "Url": "https://justin.poehnelt.com/posts/automators-hole/",
+    "Timestamp": "2023-01-04T22:02:54",
+    "Domain": "justin.poehnelt.com",
+    "Description": "There is a point between manual tasks and automation where nothing gets done."
+  },
+  {
+    "Title": "Humane Technology - Technology and art",
+    "Url": "https://boris-marinov.github.io/humane-tech/06-art/",
+    "Timestamp": "2023-01-04T22:02:54",
+    "Domain": "boris-marinov.github.io",
+    "Description": "We all like draw as children, but when we reach a certain age, we understand that our creative undergoings are not really valid, that being creative above a certain age is just a waste of our time, according to the adults. Some would outright tell us to stop doing it, others would take a more nuanced view and say that it’s all good if we continue, but only from time to time and only if we constantly remind ourselves that what we create is not real art. Real art, you see, is done with special type of paints, and by a special type of people - artists. Artists are very imaginative very smart and funny and most of them are very beautiful. They all have grown up under a very specific set of circumstances, studied in very special schools, had very special friends. In short, they are nothing like us."
+  },
+  {
+    "Title": "Chunking strings in Elixir: how difficult can it be?",
+    "Url": "https://ochagavia.nl/blog/chunking-strings-in-elixir-how-difficult-can-it-be/",
+    "Timestamp": "2023-01-04T22:02:53",
+    "Domain": "ochagavia.nl",
+    "Description": "This week I finished my contract for Seamly1, where I spent 7 months developing a SaaS messaging platform for customer service in Elixir. The project was incredibly interesting, so in our last conversation I asked if they would mind me sharing a “war story” with the world. They gladly agreed, so here goes an account of my dealings with unicode, performance tuning and Rust-based NIFs. Enjoy!\n1 - The problem From a pure technical point of view, we needed a way to split strings in chunks up to a maximum length in a user-friendly way."
+  },
+  {
+    "Title": "Password Purgatory - Making Life Hell for Spammers",
+    "Url": "https://passwordpurgatory.com/get-hell?kvKey=660f5280-0372-457b-9bfd-4ed0d0efff6e",
+    "Timestamp": "2023-01-04T21:03:29",
+    "Domain": "passwordpurgatory.com",
+    "Description": "Password length must be odd: Redwinesummer23"
+  },
+  {
+    "Title": "What's New for Java in Microsoft Dev Tooling -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/04/java-updates.aspx",
+    "Timestamp": "2023-01-04T19:05:00",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "  Microsoft is continuing to push its Java tooling across its properties, with two main targets being Visual Studio Code and the Azure cloud.\n"
+  },
+  {
+    "Title": "DNF Summit January 2023",
+    "Url": "https://youtube.com/watch?v=8mHc6xQJRAU",
+    "Timestamp": "2023-01-04T17:03:03",
+    "Domain": "youtube.com",
+    "Description": "Tuesday, January  17th  202310am Eastern – Kick-off Welcome (ED, Pres, VP)Board Member introduction and updatesCommittee Updates, (Katie, Education Committee..."
+  },
+  {
+    "Title": "StaffPlus New York 2023 | Conference event dedicated to staff engineers",
+    "Url": "https://leaddev.com/staffplus-new-york23#Echobox=1672763645-2",
+    "Timestamp": "2023-01-04T17:03:02",
+    "Domain": "leaddev.com",
+    "Description": "The technical leadership event for staff engineers and up"
+  },
+  {
+    "Title": "StaffPlus New York 2023 | Conference event dedicated to staff engineers",
+    "Url": "https://leaddev.com/staffplus-new-york23#Echobox=1672763645-3",
+    "Timestamp": "2023-01-04T17:03:02",
+    "Domain": "leaddev.com",
+    "Description": "The technical leadership event for staff engineers and up"
+  },
+  {
+    "Title": "P² quantile estimator initialization strategy",
+    "Url": "https://aakinshin.net/posts/p2-quantile-estimator-initialization/",
+    "Timestamp": "2023-01-04T17:03:01",
+    "Domain": "aakinshin.net",
+    "Description": "Update: the estimator accuracy could be improved using a bunch of patches.\nThe P² quantile estimator is a sequential estimator that uses (O(1)) memory. T..."
+  },
+  {
+    "Title": "What are the fastest growing programming languages on GitHub?",
+    "Url": "https://youtube.com/watch?v=pdtOm-j8Dg4",
+    "Timestamp": "2023-01-04T16:02:12",
+    "Domain": "youtube.com",
+    "Description": "Watch full episode: https://youtu.be/N00DbFymh7UMartin Woodward and Damian Brady take us through the key trends that came up in this year's Octoverse report ..."
+  },
+  {
+    "Title": "Challenge: what does this code print?",
+    "Url": "https://ayende.com/blog/198721-A/challenge-what-does-this-code-print?Key=1872d7ef-392d-44db-b7ef-eabf515e32d5",
+    "Timestamp": "2023-01-04T15:02:02",
+    "Domain": "ayende.com",
+    "Description": "Given the following code:Can you guess what it will do? Can you explain why?I love that this snippet is under 20 lines of code, but being able to explain it ..."
+  },
+  {
+    "Title": "Using perfect (and imperfect) forwarding to simplify C++ wrapper classes",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230104-00/?p=107668",
+    "Timestamp": "2023-01-04T15:02:01",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Just call that other thing the same way you called this thing."
+  },
+  {
+    "Title": "ConcurrentBag in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-concurrentbag/",
+    "Timestamp": "2023-01-04T09:02:01",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to learn more about ConcurrentBag in C# that represents an unordered collection of objects"
+  },
+  {
+    "Title": "LeadDev London 2023 | Conference for engineering managers",
+    "Url": "https://leaddev.com/leaddev-london#Echobox=1672769089-2",
+    "Timestamp": "2023-01-04T08:02:17",
+    "Domain": "leaddev.com",
+    "Description": "The flagship event for engineering managers"
+  },
+  {
+    "Title": "Modern C# on Game Consoles — Viridian Software",
+    "Url": "https://viridiansoftware.com/blog/csharp-on-game-consoles",
+    "Timestamp": "2023-01-04T07:01:47",
+    "Domain": "viridiansoftware.com",
+    "Description": "C# has long been a popular language for developing video games. With some recent announcements, it’s use on game consoles is further solidified."
+  },
+  {
+    "Title": "Lexxman",
+    "Url": "https://www.lexx.gr/blog/post/ok-cloudflare-i-am-leaving",
+    "Timestamp": "2023-01-04T07:01:47",
+    "Domain": "www.lexx.gr",
+    "Description": "Music and blogging"
+  },
+  {
+    "Title": "Joseph Woodward | Software Engineer &amp; Go lover based in Somerset, England",
+    "Url": "https://josephwoodward.co.uk/2023/01/context-cancellation-cause-with-cancel-cause",
+    "Timestamp": "2023-01-04T07:01:47",
+    "Domain": "josephwoodward.co.uk",
+    "Description": "Having been experimenting with some of the changes making their way into Go 1.20, there was one change I felt was worthy of its own post. This change is the addition of APIs for writing and reading cancellation causes in the standard library’s context package. Let’s have a look…"
+  },
+  {
+    "Title": "flibitPlan",
+    "Url": "https://icculus.org/finger/flibitijibibo",
+    "Timestamp": "2023-01-04T07:01:46",
+    "Domain": "icculus.org",
+    "Description": "A dead horse that must be beaten"
+  },
+  {
+    "Title": "Testing ASP.NET Core FastEndpoints",
+    "Url": "https://khalidabuhakmeh.com/testing-aspnet-core-fastendpoints",
+    "Timestamp": "2023-01-04T06:02:39",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Writing unit tests for the ASP.NET Core web framework FastEndpoints using XUnit"
+  },
+  {
+    "Title": "Adding NuGet packages when offline",
+    "Url": "https://blog.ploeh.dk/2023/01/02/adding-nuget-packages-when-offline/",
+    "Timestamp": "2023-01-04T06:02:38",
+    "Domain": "blog.ploeh.dk",
+    "Description": "A fairly trivial technical detective story."
+  },
+  {
+    "Title": "You Want Modules, Not Microservices",
+    "Url": "http://blogs.newardassociates.com/blog/2023/you-want-modules-not-microservices.html",
+    "Timestamp": "2023-01-04T06:02:38",
+    "Domain": "blogs.newardassociates.com",
+    "Description": "Dissecting why everybody keeps talking about microservices."
+  },
+  {
+    "Title": "Transition from Software developer to manager",
+    "Url": "https://levelup-edu.com/transition-from-software-developer-to-manager/",
+    "Timestamp": "2023-01-04T05:02:23",
+    "Domain": "levelup-edu.com",
+    "Description": "There comes a time in every developer's career when you will have to make a decision about your own progression. Do you stay as a developer"
+  },
+  {
+    "Title": "Burnout | LINQ to Fail",
+    "Url": "https://www.aaron-powell.com/posts/2023-01-03-burnout/",
+    "Timestamp": "2023-01-04T01:03:04",
+    "Domain": "www.aaron-powell.com",
+    "Description": "2022 was a tough year"
+  },
+  {
+    "Title": "Support checking for required members in minimal APIs (#45084) · dotnet/aspnetcore@1099d06",
+    "Url": "https://github.com/dotnet/aspnetcore/commit/1099d06157bc9752a812ba47b9cfacf39734efbb",
+    "Timestamp": "2023-01-04T01:03:04",
+    "Domain": "github.com",
+    "Description": "* Support checking for required members in minimal APIs\n\n* Address feedback from peer review"
+  },
+  {
+    "Title": "100R — weathering software winter",
+    "Url": "https://100r.co/site/weathering_software_winter.html",
+    "Timestamp": "2023-01-04T00:02:50",
+    "Domain": "100r.co",
+    "Description": "This is a blog post based on a transcript of a talk Devine gave at Handmade Seattle on November 26th 2022. Watch the video version. The slideshow presentation was made using adelie."
+  }
+]

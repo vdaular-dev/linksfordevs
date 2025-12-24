@@ -1,0 +1,317 @@
+[
+  {
+    "Title": "Logless Raft",
+    "Url": "https://will62794.github.io/distributed-systems/consensus/2025/08/25/logless-raft.html",
+    "Timestamp": "2025-08-28T23:03:26",
+    "Domain": "will62794.github.io",
+    "Description": "The standard use of Raft is for implementing a fault tolerant, replicated state machine by means of a replicated log, maintained at each server within a replication group. Depending on the nature of the state we want to replicate, we can employ a simpler variant of Raft that achieves the same essential correctness properties. We can call this logless Raft and it can be useful when we are only replicating a single, small piece of state (e.g. configuration, metadata, etc.) between servers."
+  },
+  {
+    "Title": "Vibing options for whoever you are",
+    "Url": "https://seroter.com/2025/08/28/vibing-options-for-whoever-you-are/",
+    "Timestamp": "2025-08-28T23:03:22",
+    "Domain": "seroter.com",
+    "Description": "My favorite movie is Tommy Boy. I apologize for nothing. You won’t find this flick listed on the top 100 movies of all time, and some people think it’s a dumb movie. That’s ok. Lo…"
+  },
+  {
+    "Title": "Only Experts Can Write Good Prompts",
+    "Url": "https://www.vincentschmalbach.com/only-experts-can-write-good-prompts/",
+    "Timestamp": "2025-08-28T23:03:19",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "Everyone talks about prompt engineering as if memorizing templates and adding \"think step by step\" will suddenly get you amazing AI results. That’s not how it works. Writing good prompts isn’t about…"
+  },
+  {
+    "Title": "A Review of Nim 2: The Good & Bad with Example Code",
+    "Url": "https://miguel-martin.com/blog/nim2-review",
+    "Timestamp": "2025-08-28T23:03:14",
+    "Domain": "miguel-martin.com",
+    "Description": "I've been using Nim for about 1-2 years now, and I believe the language is undervalued. It's not perfect, of course, but it's pleasant to write and read. My personal website uses Nim."
+  },
+  {
+    "Title": "I'll only buy devices with GrapheneOS",
+    "Url": "https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/",
+    "Timestamp": "2025-08-28T23:03:10",
+    "Domain": "www.jonashietala.se",
+    "Description": "Cops say criminals use a Google Pixel with GrapheneOS — I say that’s freedom"
+  },
+  {
+    "Title": "Solving NYT Pips with SMT",
+    "Url": "https://kerrigan.dev/blog/nyt-pips",
+    "Timestamp": "2025-08-28T23:03:00",
+    "Domain": "kerrigan.dev",
+    "Description": "SMT solvers are neat and friendly."
+  },
+  {
+    "Title": "ChatGPT and ADHD",
+    "Url": "https://blueteaming.blogspot.com/2025/08/chatgpt-and-adhd.html",
+    "Timestamp": "2025-08-28T23:02:57",
+    "Domain": "blueteaming.blogspot.com",
+    "Description": "ChatGPT has mainly learned from people with ADHD, people whom are so tuned to scattered minds, people addicted to their smartphones, people ..."
+  },
+  {
+    "Title": "Rupert’s Property",
+    "Url": "https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/",
+    "Timestamp": "2025-08-28T23:02:53",
+    "Domain": "johncarlosbaez.wordpress.com",
+    "Description": "You can cut a hole in a cube that’s big enough to slide an identical cube through that hole! Think about that for a minute—it’s kind of weird. Amazingly, nobody could prove any co…"
+  },
+  {
+    "Title": "The vulnerability might be in the proof-of-concept",
+    "Url": "https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept",
+    "Timestamp": "2025-08-28T23:02:49",
+    "Domain": "sethmlarson.dev",
+    "Description": "\n  \n    The Security Developer-in-Residence role at the Python Software Foundation is funded by Alpha-Omega. Thanks to Alpha-Omega for sponsoring security in the Python ecosystem.\n  \n\n\n\n\nI'm on the..."
+  },
+  {
+    "Title": "Simple Measures to Make Axios and Express Production Ready",
+    "Url": "https://rozumem.xyz/posts/5",
+    "Timestamp": "2025-08-28T23:02:45",
+    "Domain": "rozumem.xyz",
+    "Description": "On August 21, 2025 PagerDuty alerted me that my Node server is taking way too long to respond."
+  },
+  {
+    "Title": "The Four Styles of Confidence on a Team",
+    "Url": "https://adamsmith.cc/the-four-styles-of-confidence-on-a-team/",
+    "Timestamp": "2025-08-28T23:02:41",
+    "Domain": "adamsmith.cc",
+    "Description": "August 28, 2025"
+  },
+  {
+    "Title": "diamond geezer",
+    "Url": "https://diamondgeezer.blogspot.com/2025/08/the-longest-possible-gap-between-bank-holidays.html",
+    "Timestamp": "2025-08-28T23:02:36",
+    "Domain": "diamondgeezer.blogspot.com",
+    "Description": "And that means we're about to enter the longest possible gap between bank holidays.\nLet's prove that."
+  },
+  {
+    "Title": "Order In Chaos At An Airport",
+    "Url": "https://sivunq.github.io/blog/Order-In-Chaos-At-An-Airport/",
+    "Timestamp": "2025-08-28T23:02:32",
+    "Domain": "sivunq.github.io",
+    "Description": "3 min read · A collection of raw, funny, and emotional observations while people-watching at an airport."
+  },
+  {
+    "Title": "Ultra Instinct",
+    "Url": "https://evjang.com/2025/07/27/ultra-instinct.html",
+    "Timestamp": "2025-08-28T23:02:28",
+    "Domain": "evjang.com",
+    "Description": "Visible light occupies a small sliver of the electromagnetic spectrum, which spans radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays."
+  },
+  {
+    "Title": "Bazel Knowledge: dive into unused_deps",
+    "Url": "https://fzakaria.com/2025/08/27/bazel-knowledge-dive-into-unused-deps",
+    "Timestamp": "2025-08-28T23:02:25",
+    "Domain": "fzakaria.com",
+    "Description": "The Java language implementation for Bazel has a great feature called strict dependencies – the feature enforces that all directly used classes are loaded from jars provided by a target’s direct dependencies."
+  },
+  {
+    "Title": "Big endian and little endian",
+    "Url": "https://www.ntietz.com/blog/endianness/",
+    "Timestamp": "2025-08-28T23:02:22",
+    "Domain": "www.ntietz.com",
+    "Description": "Every time I run into endianness, I have to look it up.\nWhich way do the bytes go, and what does that mean?\nSomething about it breaks my brain, and makes me feel like I can't tell which way is up and down, left and right."
+  },
+  {
+    "Title": "You're probably using uv wrong",
+    "Url": "https://lerner.co.il/2025/08/28/youre-probably-using-uv-wrong/",
+    "Timestamp": "2025-08-28T23:02:18",
+    "Domain": "lerner.co.il",
+    "Description": "This is adapted from my \"Better developers\" newsletter: https://BetterDevelopersWeekly.com. Like many others in the Python world, I've adopted \"uv\", the do-everything, lightning-fast package manager written in Rust. uv does it all: For people who just"
+  },
+  {
+    "Title": "Are OpenAI and Anthropic Really Losing Money on Inference?",
+    "Url": "https://martinalderson.com/posts/are-openai-and-anthropic-really-losing-money-on-inference/",
+    "Timestamp": "2025-08-28T18:02:14",
+    "Domain": "martinalderson.com",
+    "Description": "I keep hearing what a cash incinerator AI is, especially around inference. While it seems reasonable on the surface, I've often been wary of these kind of claims, so I decided to do some digging."
+  },
+  {
+    "Title": "Rendering a Game in Real-Time with AI",
+    "Url": "https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai",
+    "Timestamp": "2025-08-28T16:02:14",
+    "Domain": "blog.jeffschomay.com",
+    "Description": "Discover the process of transforming an ASCII game into real-time AI-rendered graphics with fal.ai"
+  },
+  {
+    "Title": "How to Slow Down a Program? And Why it Can Be Useful.",
+    "Url": "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/",
+    "Timestamp": "2025-08-28T15:02:05",
+    "Domain": "stefan-marr.de",
+    "Description": "Making programs slower can be useful to find..."
+  },
+  {
+    "Title": "How to prepare for the Bitnami Changes coming soon",
+    "Url": "https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon",
+    "Timestamp": "2025-08-28T13:02:05",
+    "Domain": "community.broadcom.com",
+    "Description": "After evaluating the impact and community feedback, the Bitnami team has postponed the deletion of the Bitnami public catalog (docker.io/bitnami) until September 29th to give users more time to adapt to the upcoming changes."
+  },
+  {
+    "Title": "Yamanotes",
+    "Url": "https://yamanot.es/",
+    "Timestamp": "2025-08-28T11:01:56",
+    "Domain": "yamanot.es",
+    "Description": "Yamanotes (/jamanoʊts/) is a web-based music box for playing the departure melodies of each station on the JR Yamanote Line/山手線!"
+  },
+  {
+    "Title": "The Basics of Anchor Positioning",
+    "Url": "https://ishadeed.com/article/anchor-positioning/",
+    "Timestamp": "2025-08-28T08:02:01",
+    "Domain": "ishadeed.com",
+    "Description": "Learn the basics of Anchor Positioning in CSS"
+  },
+  {
+    "Title": "Neurobiological substrates of altered states of consciousness induced by high ventilation breathwork accompanied by music",
+    "Url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329411",
+    "Timestamp": "2025-08-28T07:02:06",
+    "Domain": "journals.plos.org",
+    "Description": "The popularity of breathwork as a therapeutic tool for psychological distress is rapidly expanding. Breathwork practices that increase ventilatory rate or depth, facilitated by music, can evoke subjective experiential states analogous to altered states of consciousness (ASCs) evoked by psychedelic substances. These states include components such as euphoria, bliss, and perceptual differences. However, the neurobiological mechanisms underlying the profound subjective effects of high ventilation breathwork (HVB) remain largely unknown and unexplored. In this study, we investigated the neurobiological substrates of ASCs induced by HVB in experienced practitioners. We demonstrate that the intensity of ASCs evoked by HVB was proportional to cardiovascular sympathetic activation and to haemodynamic alterations in cerebral perfusion within clusters spanning the left operculum/posterior insula and right amygdala/anterior hippocampus; regions implicated in respiratory interoceptive representation and the processing of emotional memories, respectively. These observed regional cerebral effects may underlie pivotal mental experiences that mediate positive therapeutic outcomes of HVB."
+  },
+  {
+    "Title": "Why I'm declining your AI generated MR",
+    "Url": "https://blog.stuartspence.ca/2025-08-declining-ai-slop-mr.html",
+    "Timestamp": "2025-08-28T06:02:01",
+    "Domain": "blog.stuartspence.ca",
+    "Description": ""
+  },
+  {
+    "Title": "Wavefunction Collapse",
+    "Url": "https://xkcd.com/3134/",
+    "Timestamp": "2025-08-28T02:02:05",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How the TI-99/4A Home Computer Worked",
+    "Url": "https://youtube.com/watch?v=-0Jtv8hvau4",
+    "Timestamp": "2025-08-28T02:02:01",
+    "Domain": "youtube.com",
+    "Description": "Support The 8-Bit Guy on Patreon:\nhttps://www.patreon.com/8BitGuy1\n\nVisit my website:\nhttp://www.the8bitguy.com/"
+  },
+  {
+    "Title": "The unexpected productivity boost of Rust",
+    "Url": "https://lubeno.dev/blog/rusts-productivity-curve",
+    "Timestamp": "2025-08-28T01:02:07",
+    "Domain": "lubeno.dev",
+    "Description": "Rust is known for having a steep learning curve, but in this post we will be looking at another curve, the one showing developer productivity in relation to the project size."
+  },
+  {
+    "Title": "Thrashing | blarg",
+    "Url": "https://exple.tive.org/blarg/2025/08/26/thrashing/",
+    "Timestamp": "2025-08-28T00:03:31",
+    "Domain": "exple.tive.org",
+    "Description": "August 26, 2025"
+  },
+  {
+    "Title": "My Own WTF, or How to Not Handle URL Redirects",
+    "Url": "https://deanebarker.net/tech/blog/404-wtf/",
+    "Timestamp": "2025-08-28T00:03:27",
+    "Domain": "deanebarker.net",
+    "Description": "The story of a stupid thing I did once."
+  },
+  {
+    "Title": "Enterprise Sales = The Opposite of “Learn by Doing” – PREDATORIALISM.com",
+    "Url": "https://predatorialism.com/enterprise-sales-the-opposite-of-learn-by-doing/",
+    "Timestamp": "2025-08-28T00:03:24",
+    "Domain": "predatorialism.com",
+    "Description": "Startups are motion. Instinct. Compulsion. The ADHD-drive to leap first, discover later. Truth by friction, not by committee. The “plan” is the doing. The feedback loop is the only scripture worth reading."
+  },
+  {
+    "Title": "\nThinking in space\n",
+    "Url": "https://ggirelli.info/blog/2025/08/27/thinking",
+    "Timestamp": "2025-08-28T00:03:20",
+    "Domain": "ggirelli.info",
+    "Description": "Where do you get your ideas?I am not asking where the ideas come from, when they get to you.I am rather wondering where you are when ideas, especially bright..."
+  },
+  {
+    "Title": "A year later, a bug fix",
+    "Url": "https://www.justus.pw/posts/2025-08-27-hugo-bug-fixed.html",
+    "Timestamp": "2025-08-28T00:03:16",
+    "Domain": "www.justus.pw",
+    "Description": "Published: August 27, 2025, updated: August 27, 2025"
+  },
+  {
+    "Title": "Why Relying on LLMs for Code Can Be a Security Nightmare",
+    "Url": "https://blog.himanshuanand.com/posts/2025-08-22-llm-vibe-coding-security-nightmare/",
+    "Timestamp": "2025-08-28T00:03:13",
+    "Domain": "blog.himanshuanand.com",
+    "Description": "LLM generated code can ships demo logic with security issues not defenses. Here is a real world example and how it could be abused."
+  },
+  {
+    "Title": "HOW TO RUN LATEST VEGAS PRO 22 IN WINDOWS 7 NO MATTER WHAT ► █▓▒░ Unlisted Retrograde Holdout",
+    "Url": "https://trackerninja.codeberg.page/post/how-to-run-latest-vegas-pro-22-in-windows-7-no-matter-what/",
+    "Timestamp": "2025-08-28T00:03:09",
+    "Domain": "trackerninja.codeberg.page",
+    "Description": "You know that it is already became some kind of sport for me or maybe a “bad practice” obsession.\n\nBut i just can’t stop doin’ it, anyway, let’s get on with another dirty-hack."
+  },
+  {
+    "Title": "Run As The Root Account",
+    "Url": "https://www.garyshood.com/root/",
+    "Timestamp": "2025-08-28T00:02:49",
+    "Domain": "www.garyshood.com",
+    "Description": "It's time to start being a man."
+  },
+  {
+    "Title": "Dependency Management with uv in Kubeflow Pipelines – Fabrizio Damicelli",
+    "Url": "https://fabridamicelli.github.io/posts/kubeflow-uv.html",
+    "Timestamp": "2025-08-28T00:02:45",
+    "Domain": "fabridamicelli.github.io",
+    "Description": "A simple workflow to manage dependencies of Python Kubeflow components"
+  },
+  {
+    "Title": "What does will-change in CSS actually do?",
+    "Url": "https://jakub.kr/components/will-change-in-css",
+    "Timestamp": "2025-08-28T00:02:41",
+    "Domain": "jakub.kr",
+    "Description": "What does will-change in CSS actually do?"
+  },
+  {
+    "Title": "Vibe Coding from my Smartphone",
+    "Url": "https://marcolabarile.me/my%20projects/2025/08/27/vibe-coding-from-my-smartphone/",
+    "Timestamp": "2025-08-28T00:02:38",
+    "Domain": "marcolabarile.me",
+    "Description": "How I built Collatz Lottery from my smartphone during my holidays."
+  },
+  {
+    "Title": "Can Multisensory Input Hack Your Memory?",
+    "Url": "https://lucaspauker.com/articles/multisense-memory-experiment/",
+    "Timestamp": "2025-08-28T00:02:35",
+    "Domain": "lucaspauker.com",
+    "Description": "How to learn I did competitive gymnastics growing up, and the training was chaos…in a good way. You had to be comfortable flying through the air, twisting, flipping, and hanging upside down. Even one skill, like a giant (spinning in full circles around the bar), had a hundred little steps. You first learn it with your hands strapped to the bar, feeling the motion through your body. Then a coach talks you through it while spotting you, combining physical touch with verbal cues."
+  },
+  {
+    "Title": "Why I Built My Own EPUB Media Overlay Editor - André Klein Dot Net",
+    "Url": "https://andreklein.net/why-i-built-my-own-epub-media-overlay-editor/",
+    "Timestamp": "2025-08-28T00:02:31",
+    "Domain": "andreklein.net",
+    "Description": "Take an ebook. Take an audiobook. Smash the two together and you get a “TalkingBook”: synchronized text and audio that highlights what’s being spoken and lets you click phrases to trigger their audio content. In principle, it’s a simple idea. In fact, when I show it to people, it seems so intuitive: of course this... Continue reading →"
+  },
+  {
+    "Title": "How to design a DBMS for Telco requirements",
+    "Url": "http://mikaelronstrom.blogspot.com/2025/08/how-to-design-dbms-for-telco.html",
+    "Timestamp": "2025-08-28T00:02:27",
+    "Domain": "mikaelronstrom.blogspot.com",
+    "Description": " My colleague Zhao Song  presented a walkthrough of the evolution of the DBMSs and how it relates to Google Spanner, Aurora, PolarDB and MyS..."
+  },
+  {
+    "Title": "Did Gemini 2.5 accidentally leak its prompt to me?",
+    "Url": "https://thatshubham.com/blog/gemini",
+    "Timestamp": "2025-08-28T00:02:22",
+    "Domain": "thatshubham.com",
+    "Description": ""
+  },
+  {
+    "Title": "A retrospective about blogging for a decade",
+    "Url": "https://midzer.de/a-retrospective-about-blogging-for-a-decade",
+    "Timestamp": "2025-08-28T00:02:18",
+    "Domain": "midzer.de",
+    "Description": "Retro Blog von midzer: Entdecke spannende Beiträge zu DJ Sets, Alltagsphilosophie, einfachen Rezepten, nerdigen Tutorials und inspirierenden Zitaten."
+  },
+  {
+    "Title": "PCI Vendor ID rabbit-hole musings",
+    "Url": "https://kubatyszko.com/2025/08/28/pci-vendor-id-rabbit-hole-musings/",
+    "Timestamp": "2025-08-28T00:02:13",
+    "Domain": "kubatyszko.com",
+    "Description": "I was recently investigating driver issues on my home firewall with Intel network cards, and noticed something that spiked my attention. Intel’s PCI Vendor ID is 0x8086 – which is a nice homage to their glory days."
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "Title": "About - Advent of Code 2025",
+    "Url": "https://adventofcode.com/2025/about#faq_num_days",
+    "Timestamp": "2025-10-26T19:01:58",
+    "Domain": "adventofcode.com",
+    "Description": "Hi!  I'm Eric Wastl. I make Advent of Code.  I hope you like it!  I also make lots of other things.  I'm on Bluesky, Mastodon, and GitHub."
+  },
+  {
+    "Title": "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
+    "Url": "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html",
+    "Timestamp": "2025-10-26T18:02:03",
+    "Domain": "mail-index.netbsd.org",
+    "Description": "As 2025 draws to a close, I are reaching out to community with a request for helping The NetBSD Foundation."
+  },
+  {
+    "Title": "You already have a git server: (Maurycy's blog)",
+    "Url": "https://maurycyz.com/misc/easy_git/",
+    "Timestamp": "2025-10-26T18:01:59",
+    "Domain": "maurycyz.com",
+    "Description": "If you have a git repository on a server with ssh access, you can just clone it:"
+  },
+  {
+    "Title": "That Time Ken Thompson Wrote a Backdoor into the C Compiler",
+    "Url": "https://micahkepe.com/blog/thompson-trojan-horse/",
+    "Timestamp": "2025-10-26T17:01:59",
+    "Domain": "micahkepe.com",
+    "Description": "When Ken Thompson won the Turing Award jointly with Dennis Ritchie for their\nwork in UNIX, he was expected like other Turing winners to write a paper that\nwould be published in the ACM Computer Journal. What he ended up submitting was\na paper about \"the cutest program [he] ever wrote\"-- a sneaky undetectable\nself-reproducing \"Trojan horse\" backdoor in the C compiler that would allow him\nto log into affected machines as any user."
+  },
+  {
+    "Title": "The Journey Before main() | Amit's Blog",
+    "Url": "https://amit.prasad.me/blog/before-main",
+    "Timestamp": "2025-10-26T15:02:11",
+    "Domain": "amit.prasad.me",
+    "Description": "A while back, I worked on a RISC-V-based userspace simulator for fun. In doing so, taught myself a lot more than I wanted to know about what happens in-between when the Kernel is asked to run a program, and when the first line of our program’s main function is actually executed. Here’s a summary of that rabbit hole."
+  },
+  {
+    "Title": "The good advice",
+    "Url": "https://libera.chat/news/advised",
+    "Timestamp": "2025-10-26T13:02:05",
+    "Domain": "libera.chat",
+    "Description": "First of all, a massive thank you to everyone who donated since our last post. Our income on Liberapay has roughly quadrupled from what it was before the post. We have also had people reach out to us for large one-time monetary and hardware donations. Your support is truly appreciated!"
+  },
+  {
+    "Title": "GitHub - apple/pico-banana-400k",
+    "Url": "https://github.com/apple/pico-banana-400k",
+    "Timestamp": "2025-10-26T13:02:02",
+    "Domain": "github.com",
+    "Description": "Contribute to apple/pico-banana-400k development by creating an account on GitHub."
+  },
+  {
+    "Title": "Event Notification Report for October 22, 2025",
+    "Url": "https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2025/20251022en?brid=vscAjql9kZL1FfGE7TYHVw#en57996:~:text=TRANSPORT%20OF%20CONTAMINATED%20PERSON%20OFFSITE",
+    "Timestamp": "2025-10-26T06:01:59",
+    "Domain": "www.nrc.gov",
+    "Description": "U.S. Nuclear Regulatory CommissionOperations Center"
+  },
+  {
+    "Title": "I’m drowning in AI features I never asked for and I absolutely hate it",
+    "Url": "https://www.makeuseof.com/ai-features-being-rammed-down-our-throats/",
+    "Timestamp": "2025-10-26T06:01:55",
+    "Domain": "www.makeuseof.com",
+    "Description": "The AI bubble is real."
+  },
+  {
+    "Title": "The Linux Boot Process: From Power Button to Kernel",
+    "Url": "https://www.0xkato.xyz/linux-boot/",
+    "Timestamp": "2025-10-26T01:03:44",
+    "Domain": "www.0xkato.xyz",
+    "Description": "A detailed walkthrough of the Linux boot process from power button to kernel initialization"
+  },
+  {
+    "Title": "I translated my book for $7 using openai",
+    "Url": "https://andrewpwheeler.com/2025/10/25/i-translated-my-book-for-7-using-openai/",
+    "Timestamp": "2025-10-26T01:03:40",
+    "Domain": "andrewpwheeler.com",
+    "Description": "The other day an officer from the French Gendarmerie commented that they use my python for crime analysis book. I asked that individual, and he stated they all speak English. But given my book is w…"
+  },
+  {
+    "Title": "The Last Day of Nest 2nd Gen Support",
+    "Url": "https://sett.homes/blogs/updates/the-last-day-of-nest-2nd-gen-support",
+    "Timestamp": "2025-10-26T01:03:31",
+    "Domain": "sett.homes",
+    "Description": "Sett is officially on the clock to ship - as of today I won't be able to remotely change the thermostat settings at my house because today is the final day that Google will allow users of the 2nd gen Nest thermostat to use the Nest and Google Home apps with their thermostat. In a matter of hours, this expensive early p"
+  },
+  {
+    "Title": "I'm not a 'Vibe Coder', but when I am, this is my set up (Blog Post)",
+    "Url": "https://www.appsoftware.com/blog/im-not-a-vibe-coder-but-when-i-am-this-is-my-set-up",
+    "Timestamp": "2025-10-26T01:03:27",
+    "Domain": "www.appsoftware.com",
+    "Description": "VS Code with Copilot is what I keep coming back to, and it's been improving all the time that I've been using it. Inline code completions is not particularly useful in my opinion (at worst, it's a distraction), but the Agentic AI chat has been very impressive when paired with Anthropic's Claude models."
+  },
+  {
+    "Title": "Dumb Cursor is the best Cursor",
+    "Url": "https://kix.dev/dumb-cursor-is-the-best-cursor/",
+    "Timestamp": "2025-10-26T01:03:20",
+    "Domain": "kix.dev",
+    "Description": "Agent mode but without any tools"
+  },
+  {
+    "Title": "Alex's Blog",
+    "Url": "https://blog.alexboden.ca/toronto-bike-share-status/",
+    "Timestamp": "2025-10-26T01:03:17",
+    "Domain": "blog.alexboden.ca",
+    "Description": "Alex Boden - Computer Science Student at University of Waterloo"
+  },
+  {
+    "Title": "Haiku 4.5: The Model Nobody Expected to Care About",
+    "Url": "https://barazany.dev/blog/haiku-45-the-model-nobody-expected-to-care-about",
+    "Timestamp": "2025-10-26T01:03:13",
+    "Domain": "barazany.dev",
+    "Description": "A small, fast, affordable model that matches Sonnet 4-level capabilities. The gap between what we think we need and what actually gets the job done is closing faster than most people realize."
+  },
+  {
+    "Title": "Cursor to Codex CLI: Migrating Rules to AGENTS.md",
+    "Url": "https://www.adithyan.io/blog/migrating-cursor-rules-to-agents",
+    "Timestamp": "2025-10-26T01:03:10",
+    "Domain": "www.adithyan.io",
+    "Description": "I migrated from Cursor to Codex CLI and wrote a Python script to bring my custom Cursor Rules with me. This post has the script, how it works, and why it's a critical step."
+  },
+  {
+    "Title": "Using Tailscale to Get Around Network Restrictions - jack's blog",
+    "Url": "https://blog.j4ck.xyz/3m3wofcsxf22s?auth_completed=true",
+    "Timestamp": "2025-10-26T01:03:07",
+    "Domain": "blog.j4ck.xyz",
+    "Description": "Setting up a self-hosted VPN that actually works on restrictive networks"
+  },
+  {
+    "Title": "Thoughts on the Leica M EV1",
+    "Url": "https://arslan.io/2025/10/25/thoughts-on-the-leica-m-ev1/",
+    "Timestamp": "2025-10-26T01:03:02",
+    "Domain": "arslan.io",
+    "Description": "As a Leica M11 owner with three lenses (21 SEM, 35 LUX, and 50 LUX), here are some of my opinions regarding the newly released Leica M EV1."
+  },
+  {
+    "Title": "CLAUDE.md to AGENTS.md Migration Guide",
+    "Url": "https://solmaz.io/log/2025/09/08/claude-md-agents-md-migration-guide/",
+    "Timestamp": "2025-10-26T01:02:59",
+    "Domain": "solmaz.io",
+    "Description": "This post will age like sour milk, because Anthropic will eventually adopt the company-agnostic AGENTS.md standard."
+  },
+  {
+    "Title": "Writing Wednesdays: Tk Ths Job N Shove It",
+    "Url": "https://stevenpressfield.com/2025/10/tk-ths-job-n-shove-it-2/",
+    "Timestamp": "2025-10-26T01:02:55",
+    "Domain": "stevenpressfield.com",
+    "Description": "When you and I worked on the assembly line at Ford Motor Company in Dearborn, Michigan, we had to worry about our production quotas, our standards of workmanship, and our supervisor’s evaluation of us. What we didn’t have to worry about was the structure of our day. That structure was defined for us and imposed upon us"
+  },
+  {
+    "Title": "AlphaAgents: Multi-Agent A2A Implementation for Collaborative Financial Analysis",
+    "Url": "https://c-daniele.github.io/en/posts/2025-08-31-alphaagents-a2a/",
+    "Timestamp": "2025-10-26T01:02:29",
+    "Domain": "c-daniele.github.io",
+    "Description": "1. Introduction The quantity of frameworks emerging for GenAI application development is incredible and, in my opinion, is becoming excessive. Every time a new framework appears, it seems to do more or less the same things as the previous one. Perhaps some have better modularization capabilities or more robust design against long-term obsolescence, but they all seem pretty much the same to me and, although I enjoy experimenting, the study of new miraculous and promising GenAI frameworks is becoming less and less appealing."
+  },
+  {
+    "Title": "The Essence of Prompt Engineering is the Art of Asking Questions",
+    "Url": "https://ramsayleung.github.io/en/post/2025/the-essence-of-prompt-engineering-is-the-art-of-asking-questions/",
+    "Timestamp": "2025-10-26T01:02:24",
+    "Domain": "ramsayleung.github.io",
+    "Description": "1 Introduction In today’s AI-driven world, “Prompt Engineer” has become a buzzword.\nAI enthusiasts are eager to share prompts, study token control, and tweak temperature parameters.\nThe classic meme from Linux founder Linus Torvalds\nTalk is cheap. Show me the code.\nhas evolved into:\nCode is cheap. Show me the prompts.\nOriginal tweet: https://x.com/tunguz/status/1856045530951917763?lang=en\nBut the core of effective AI interaction isn’t about technical jargon—it’s about how to ask questions effectively."
+  },
+  {
+    "Title": "Parsing webpages with a Large Language Model (LLM) revisited – Hans Dembinski’s blog",
+    "Url": "https://hdembinski.github.io/posts/parsing_webpages_with_llm_revisited.html",
+    "Timestamp": "2025-10-26T01:02:20",
+    "Domain": "hdembinski.github.io",
+    "Description": ""
+  },
+  {
+    "Title": "Proof of Prompt",
+    "Url": "https://cjauvin.github.io/posts/proof-of-prompt/",
+    "Timestamp": "2025-10-26T01:02:16",
+    "Domain": "cjauvin.github.io",
+    "Description": "When I’m doing freelance software development projects and I’m asked how much time things will take, it’s always very hard to answer. It’s a very high dimensional problem, and you have many degrees of freedom: how much should you charge, should you do it per hour or not, if you use AI how should it be factored in the efforts and time you report, what is the separation between the stuff that you charge and the stuff for which you don’t charge, does asking questions to your client to better understand the problem, on Slack in the weekend, count as time or not? Facing these doubts, and if they forgo the route of charging by the hour (which can be logistically quite painful, and can lead to its own kind of bad outcomes) I guess that most people are quite happy to fudge a rough number for a flat rate, do a couple of rounds of negotiation, reach an agreement, and call it a day. They implicitly accept that the outcome of this process can go both ways: either you estimated too low, and this way you will lose something, or the contrary. And you hope that in the grand scheme of things, things should average out in a reasonable way: either your loss, or their loss, who cares in the end? But is is really working this way?"
+  },
+  {
+    "Title": "Code Completion With CAPS-LOCK (not Tab!)",
+    "Url": "https://ae1020.github.io/code-completion-with-caps-lock/",
+    "Timestamp": "2025-10-26T01:02:13",
+    "Domain": "ae1020.github.io",
+    "Description": "The overloading of the Tab key to mean “indent” and “complete code” has always been pretty horrible. Now it’s intolerable: suggestions from AI come out of th..."
+  },
+  {
+    "Title": "Who wants a browser?",
+    "Url": "https://www.chrismdp.com/who-wants-a-browser/",
+    "Timestamp": "2025-10-26T01:02:09",
+    "Domain": "www.chrismdp.com",
+    "Description": "I watched the Apple keynote live in 2007 with baited breath, not sure what was coming. I clearly remember Steve Jobs’ crushing disdain for an entire generati..."
+  }
+]

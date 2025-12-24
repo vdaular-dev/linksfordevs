@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "Diffusion Models for Video Generation",
+    "Url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
+    "Timestamp": "2024-04-17T23:01:13",
+    "Domain": "lilianweng.github.io",
+    "Description": "Diffusion models have demonstrated strong results on image synthesis in past years. Now the research community has started working on a harder task—using it for video generation. The task itself is a superset of the image case, since an image is a video of 1 frame, and it is much more challenging because:\nIt has extra requirements on temporal consistency across frames in time, which naturally demands more world knowledge to be encoded into the model."
+  },
+  {
+    "Title": "Luca Baldesi's website",
+    "Url": "https://baldesi.ovh/llm/ai/2024/04/14/a-week-in-llm-aps.html",
+    "Timestamp": "2024-04-17T23:01:13",
+    "Domain": "baldesi.ovh",
+    "Description": "April 14, 2024"
+  },
+  {
+    "Title": "I launched a new startup and shut it down in two weeks - Andrew Miracle",
+    "Url": "https://andrewmiracle.com/2024/04/14/i-launched-a-new-startup-and-shut-it-down-in-two-weeks/",
+    "Timestamp": "2024-04-17T23:01:13",
+    "Domain": "andrewmiracle.com",
+    "Description": "Andrew Miracle I launched a new startup and shut it down in two weeks - 🍀 Essays"
+  },
+  {
+    "Title": "✂️ Use Cases for Merging and Splitting Partitions With Minimal Locking in PostgreSQL 17",
+    "Url": "http://andyatkinson.com/blog/2024/04/16/postgresql-17-merge-split-partitions",
+    "Timestamp": "2024-04-17T23:01:12",
+    "Domain": "andyatkinson.com",
+    "Description": "This post looks at some interesting new capabilities managing Partitioned Tables coming in PostgreSQL 17, expected for release Fall 2024. The current major version is 16."
+  },
+  {
+    "Title": "Introducing AltStore PAL",
+    "Url": "http://rileytestut.com/blog/2024/04/17/introducing-altstore-pal/",
+    "Timestamp": "2024-04-17T23:01:12",
+    "Domain": "rileytestut.com",
+    "Description": "This is a day I’ve been looking forward to for over 10 years."
+  },
+  {
+    "Title": "Feedback Loop, Singularity and Ethics",
+    "Url": "https://emberswrit.ing/feedback-loop-singularity-and-ethics",
+    "Timestamp": "2024-04-17T23:01:11",
+    "Domain": "emberswrit.ing",
+    "Description": "Trying to justify my use of ChatGPT, I thought it would be funny to use it to problematise itself.  Previous attempts to get it to tell m..."
+  },
+  {
+    "Title": "Big Integer in Zig",
+    "Url": "https://nivethan.dev/devlog/big-integer-in-zig.html",
+    "Timestamp": "2024-04-17T23:01:11",
+    "Domain": "nivethan.dev",
+    "Description": "Previously on Dragon Ball Z, ahem, I mean in my quest to start working on ScarletDME with Zig I wanted to port my BigInt/BigNum/BigWhatever logic to use the zig standard library."
+  },
+  {
+    "Title": "tiktokify: A Hackathon winning product | Akshat Sharma",
+    "Url": "https://akshatsharma.xyz/posts/blog/experience_mongo_gen_ai_hackathon/",
+    "Timestamp": "2024-04-17T23:01:11",
+    "Domain": "akshatsharma.xyz",
+    "Description": "A post detailing my experience at the MongoDB Gen AI Hackathon and the product me and my team built over the span of 8 hours."
+  },
+  {
+    "Title": "Self-help",
+    "Url": "https://ajkprojects.com/self-help",
+    "Timestamp": "2024-04-17T23:01:11",
+    "Domain": "ajkprojects.com",
+    "Description": "Home"
+  },
+  {
+    "Title": "Transitioning from Engineers to Founders -- How YC Shaped our journey",
+    "Url": "https://blog.skyvern.com/how-has-yc-transformed-our-trajectory/",
+    "Timestamp": "2024-04-17T23:01:11",
+    "Domain": "blog.skyvern.com",
+    "Description": "As some of you may know, Skyvern is actually our third attempt at building a startup, and we’ve made every mistake under the sun in our path to get to where we are. I’m happy to say that applying to YC was not one of them, as YC"
+  },
+  {
+    "Title": "Gleam version v1.1 – Gleam",
+    "Url": "https://gleam.run/news/gleam-v1.1/",
+    "Timestamp": "2024-04-17T23:01:10",
+    "Domain": "gleam.run",
+    "Description": "The Gleam programming language"
+  },
+  {
+    "Title": "Azure API Management: Replace Backend Service URLs in Response Body",
+    "Url": "https://jaliyaudagedara.blogspot.com/2024/04/azure-api-management-replace-backend.html",
+    "Timestamp": "2024-04-17T22:01:23",
+    "Domain": "jaliyaudagedara.blogspot.com",
+    "Description": ".NET, .NET Core, ASP.NET, ASP.NET Core, Visual Studio, Jaliya Udagedara"
+  },
+  {
+    "Title": "Embeddings are a good starting point for the AI curious app developer",
+    "Url": "https://bawolf.substack.com/p/embeddings-are-a-good-starting-point",
+    "Timestamp": "2024-04-17T22:01:04",
+    "Domain": "bawolf.substack.com",
+    "Description": "Vector embeddings have been an Overton window shifting experience for me, not because they’re sufficiently advanced technology indistinguishable from magic, but the opposite. Once I started using them, it felt obvious that this was what the search experience was always supposed to be: less “How did you do that?” and more mundanely, “Why isn’t this everywhere?”"
+  },
+  {
+    "Title": "An Electric New Era for Atlas | Boston Dynamics",
+    "Url": "https://bostondynamics.com/blog/electric-new-era-for-atlas/",
+    "Timestamp": "2024-04-17T21:01:08",
+    "Domain": "bostondynamics.com",
+    "Description": "Our electric Atlas robot is here. With decades of robotics R&D and practical expertise, Boston Dynamics is tackling the next commercial frontier."
+  },
+  {
+    "Title": "Building a scalable gateway with .NET for Microsoft AI - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/building-a-scalable-gateway-for-microsoft-ai/",
+    "Timestamp": "2024-04-17T18:01:00",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Microsoft AI - our journey to building a scalable gateway with YARP on .NET8"
+  },
+  {
+    "Title": "How many bathrooms have Neanderthals in the tile?",
+    "Url": "https://johnhawks.net/weblog/how-many-bathrooms-have-neandertals-in-the-tile/",
+    "Timestamp": "2024-04-17T18:01:00",
+    "Domain": "johnhawks.net",
+    "Description": "A Reddit poster finds an ancient jaw in his parents' new travertine. It may be more common than most people imagine."
+  },
+  {
+    "Title": "Adding state to the update notification pattern, part 1 - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240417-00/?p=109679",
+    "Timestamp": "2024-04-17T17:02:48",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Where each notification depends on some state information."
+  },
+  {
+    "Title": "Thinking About The In-between Design Cases",
+    "Url": "https://ishadeed.com/article/in-between/",
+    "Timestamp": "2024-04-17T17:02:16",
+    "Domain": "ishadeed.com",
+    "Description": "Often times, we forget about the in-between design variation, and we end up with a component or section being too wide or narrow."
+  },
+  {
+    "Title": "Cheaper, Better, Faster, Stronger",
+    "Url": "https://mistral.ai/news/mixtral-8x22b/",
+    "Timestamp": "2024-04-17T17:01:44",
+    "Domain": "mistral.ai",
+    "Description": "Continuing to push the frontier of AI and making it accessible to all."
+  },
+  {
+    "Title": "#ChatControl: EU ministers want to exempt themselves",
+    "Url": "https://european-pirateparty.eu/chatcontrol-eu-ministers-want-to-exempt-themselves/",
+    "Timestamp": "2024-04-17T14:01:05",
+    "Domain": "european-pirateparty.eu",
+    "Description": "According to the latest draft text of the controversial EU Child Sexual Abuse Regulation proposal leaked by the French news organization Contexte, which the EU member states discussed, the EU interior ministers want to exempt professional accounts of staff of intelligence agencies, police and military from the envisaged scanning of chats and messages (Article 1"
+  },
+  {
+    "Title": "This Service Descriptor Is keyed Your Service Provider May Not Support Keyed Services - Mark Oliver's World",
+    "Url": "https://blog.markoliver.website/This-Service-Descriptor-Is-keyed-Your-Service-Provider-May-Not-Support-Keyed-Services",
+    "Timestamp": "2024-04-17T12:00:30",
+    "Domain": "blog.markoliver.website",
+    "Description": "Posted: 17/04/2024"
+  },
+  {
+    "Title": "Stop Acting Like You're Famous",
+    "Url": "https://ajkprojects.com/stopactinglikeyourefamous",
+    "Timestamp": "2024-04-17T11:01:03",
+    "Domain": "ajkprojects.com",
+    "Description": "Home"
+  },
+  {
+    "Title": "String Performance: Appending a Character using the StringBuilder",
+    "Url": "https://dotnettips.wordpress.com/2024/04/17/string-performance-appending-a-character-using-the-stringbuilder/",
+    "Timestamp": "2024-04-17T10:01:00",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "The use of a single character with a StringBuilder from an ObjectPool can improve performance. Benchmark results show similar overall performance, but without an ObjectPool, using a character becom…"
+  },
+  {
+    "Title": "[HOWTO] Create Azure DevOps Service Connections with authentication method Workload Identity Federation using Terraform",
+    "Url": "https://blog.rufer.be/2024/04/17/howto-create-azure-devops-service-connections-with-authentication-method-workload-identity-federation-using-terraform/",
+    "Timestamp": "2024-04-17T09:01:05",
+    "Domain": "blog.rufer.be",
+    "Description": "Since fall 2023, Workload Identity Federation for Azure service connections has been available, allowing short-lived credential-free authentication to Azure. This post explains its benefits, its li…"
+  },
+  {
+    "Title": "Building Something Real in your spare time",
+    "Url": "https://www.blobstreaming.org/building-something-real-in-your-spare-time/",
+    "Timestamp": "2024-04-17T08:01:05",
+    "Domain": "www.blobstreaming.org",
+    "Description": "Starting a new pet project is easy. But finishing it? That's a different story.\n\nMany programmers love to tinker with side projects. I'll argue that most of the decent ones do, anyway. Learning new tools makes us want to build things. Innovative technologies, cool product ideas. Unfortunately, the result is"
+  },
+  {
+    "Title": "How to Use HttpOnly Cookie in .NET Core for Authentication and Refresh Token Actions",
+    "Url": "https://code-maze.com/how-to-use-httponly-cookie-in-net-core-for-authentication-and-refresh-token-actions/",
+    "Timestamp": "2024-04-17T06:01:21",
+    "Domain": "code-maze.com",
+    "Description": "Want to build great APIs? Or become even better at it? Check our Ultimate ASP.NET Core Web API program and learn how to create a full production-ready ASP.NET Core API using only the latest .NET technologies. Bonus materials (Security book, Docker book, and other bonus files) are included in the Premium package! In this article, […]"
+  },
+  {
+    "Title": "Blazor Basics: Handling Images Dynamically",
+    "Url": "https://www.telerik.com/blogs/blazor-basics-handling-images-dynamically",
+    "Timestamp": "2024-04-17T06:01:14",
+    "Domain": "www.telerik.com",
+    "Description": "We will learn how to render static and dynamically rendered images in Blazor applications."
+  },
+  {
+    "Title": "How to use GitHub Copilot Chat in Visual Studio - Visual Studio Blog",
+    "Url": "https://devblogs.microsoft.com/visualstudio/how-to-use-github-copilot-chat-in-visual-studio/",
+    "Timestamp": "2024-04-17T06:01:13",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Maximize your coding efficiency with our step-by-step guide on using GitHub Copilot Chat in Visual Studio. Discover AI-powered coding assistance that transforms your development workflow."
+  },
+  {
+    "Title": "Event Queues and Buffering Functions with JavaScript",
+    "Url": "https://khalidabuhakmeh.com/event-queues-and-buffering-functions-with-javascript",
+    "Timestamp": "2024-04-17T06:01:12",
+    "Domain": "khalidabuhakmeh.com",
+    "Description": "Using JavaScript, an event queue that executes functions on a timed interval"
+  },
+  {
+    "Title": "Visual Studio Code Day 2024",
+    "Url": "https://code.visualstudio.com/blogs/2024/04/15/vscode-day",
+    "Timestamp": "2024-04-17T06:01:11",
+    "Domain": "code.visualstudio.com",
+    "Description": "Learn about the latest Visual Studio Code features and extensions during VS Code Day 2024 on April 24, 2024"
+  },
+  {
+    "Title": "ASP.NET Core–Cannot resolve <Service> from root provider because it requires scoped service",
+    "Url": "https://bartwullems.blogspot.com/2024/04/aspnet-corecannot-resolve-from-root.html",
+    "Timestamp": "2024-04-17T06:01:11",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "A colleague contacted me with the following problem; when running his ASP.NET Core application it failed with the following error message:  ..."
+  },
+  {
+    "Title": "We Need To Rewild The Internet  | NOEMA",
+    "Url": "https://www.noemamag.com/we-need-to-rewild-the-internet/",
+    "Timestamp": "2024-04-17T01:01:01",
+    "Domain": "www.noemamag.com",
+    "Description": "The internet has become an extractive and fragile monoculture. But we can revitalize it using lessons learned by ecologists."
+  }
+]

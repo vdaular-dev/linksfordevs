@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Stop Coding. Start Writing.",
+    "Url": "https://rgoldfinger.com/blog/2025-09-01-stop-coding-start-writing/",
+    "Timestamp": "2025-09-13T23:03:09",
+    "Domain": "rgoldfinger.com",
+    "Description": "Writing + LLMs = engineering productivity"
+  },
+  {
+    "Title": "Ditch those words!",
+    "Url": "https://robinrendle.com/notes/ditch-those-words/",
+    "Timestamp": "2025-09-13T23:03:05",
+    "Domain": "robinrendle.com",
+    "Description": "Ramblings about words in interfaces."
+  },
+  {
+    "Title": "Wayland breaks the tools I use to make a living",
+    "Url": "https://rykarn.se/2025/01/26/wayland",
+    "Timestamp": "2025-09-13T23:03:02",
+    "Domain": "rykarn.se",
+    "Description": "Major distros are soon switching to versions of desktop environments that use Wayland instead of X11. This is a bad state of affairs for accessibility."
+  },
+  {
+    "Title": "Derail - Regaining control of your attention with Large Language Models",
+    "Url": "https://www.garyzhuge.com/writings/regaining-control.html",
+    "Timestamp": "2025-09-13T23:02:59",
+    "Domain": "www.garyzhuge.com",
+    "Description": "The internet has become adversarial. A chrome extension to help you fight back against the attention economy."
+  },
+  {
+    "Title": "Trusting builds with Bazel remote execution",
+    "Url": "https://jmmv.dev/2025/09/bazel-remote-execution.html",
+    "Timestamp": "2025-09-13T23:02:56",
+    "Domain": "jmmv.dev",
+    "Description": "Understanding how the architecture of a remote build system for Bazel helps implement verifiable action execution and end-to-end builds"
+  },
+  {
+    "Title": "My (speculative) master plan for immortality",
+    "Url": "https://maxwellnye.com/plan/",
+    "Timestamp": "2025-09-13T23:02:51",
+    "Domain": "maxwellnye.com",
+    "Description": "This is my master plan for immortality (as of 2025).Lots of this has been developed with Augustus Odena.The standard Eisenhower disclaimer about planning applies here: “Plans are worthless, but planning is everything.”"
+  },
+  {
+    "Title": "CubeSats are fascinating learning tools for space",
+    "Url": "https://www.jeffgeerling.com/blog/2025/cubesats-are-fascinating-learning-tools-space",
+    "Timestamp": "2025-09-13T23:02:48",
+    "Domain": "www.jeffgeerling.com",
+    "Description": ""
+  },
+  {
+    "Title": "The dark forest of political communication | ",
+    "Url": "https://andrew-quinn.me/the-dark-forest-of-political-communication/",
+    "Timestamp": "2025-09-13T23:02:44",
+    "Domain": "andrew-quinn.me",
+    "Description": "I have no views I care to vocalize about the current political situation in the United States, or anywhere else you may associate me with. I am personally …"
+  },
+  {
+    "Title": "Energy-Based Transformers are Scalable Learners and Thinkers",
+    "Url": "https://alexiglad.github.io/blog/2025/ebt/",
+    "Timestamp": "2025-09-13T23:02:40",
+    "Domain": "alexiglad.github.io",
+    "Description": "What are Energy-Based Transformers and why should I care about them?"
+  },
+  {
+    "Title": "Migrating to TanStack Start",
+    "Url": "https://catalins.tech/migrating-to-tanstack-start/",
+    "Timestamp": "2025-09-13T23:02:35",
+    "Domain": "catalins.tech",
+    "Description": "A while ago, I decided to move away from full-stack React frameworks and use a client-server setup. That is, separate the backend and the frontend, each being a standalone app.\n\nSo, here’s the stack I ended up choosing:\n\n * Backend: Hono + Bun + PostgreSQL + Zod + Prisma + TypeScript + Better Auth\n * Frontend: React"
+  },
+  {
+    "Title": "Link Graveyard: A snapshot of my abandoned browser tabs",
+    "Url": "https://timkellogg.me/blog/2025/09/13/link-graveyard",
+    "Timestamp": "2025-09-13T23:02:30",
+    "Domain": "timkellogg.me",
+    "Description": "A dump of all my browser tabs on my phone, briefly annotated"
+  },
+  {
+    "Title": "Living in a tiny electric van for three years",
+    "Url": "https://philsturgeon.com/living-in-a-tiny-electric-van-for-three-years/",
+    "Timestamp": "2025-09-13T23:02:26",
+    "Domain": "philsturgeon.com",
+    "Description": "In October 2022 I bought a small electric van, a Nissan E-NV200, that became affectionately known as the Struggle Bus.\n\nGetting a campervan was an upgrade from living entirely on a bicycle for a few years, which was a life changing experience. I was free-range hauling ass around Europe for"
+  },
+  {
+    "Title": "I Vibe Coded an R Package",
+    "Url": "https://jcarroll.com.au/2025/09/13/i-vibe-coded-an-r-package/",
+    "Timestamp": "2025-09-13T23:02:23",
+    "Domain": "jcarroll.com.au",
+    "Description": "and it ... actually works?!?"
+  },
+  {
+    "Title": "Improving My Dotfiles Posture",
+    "Url": "https://benprisby.com/blog/improving-my-dotfiles-posture/",
+    "Timestamp": "2025-09-13T23:02:19",
+    "Domain": "benprisby.com",
+    "Description": "An important part of my design philosophy for software scalability is minimizing machine-to-machine differences wherever possible. This allows me to focus more on what I’m delivering rather than where, with any changes to common pieces benefitting all downstream machines. By worrying less about each machine being a unicorn, I have more mental bandwidth for the functional parts of the system, which is where I’d rather spend my time. And, running the same software on every machine possible maximizes the testing of it, contributing to higher-quality software."
+  },
+  {
+    "Title": "Unaccountable systems",
+    "Url": "https://whynothugo.nl/journal/2025/09/12/unaccountable-systems/",
+    "Timestamp": "2025-09-13T23:02:15",
+    "Domain": "whynothugo.nl",
+    "Description": "My mum visited not long ago. I paid for her flight and a few other expenses and\nshe refunded me for that in US dollars in cash. I needed to convert these into\nEuros before I could use them. Today I went to the currency exchange, “GWK\nTravelex”, to exchange these dollars into Euros."
+  },
+  {
+    "Title": "What Engineers Taught Me About Selling",
+    "Url": "https://aishwaryagoel.com/what-engineers-taught-me-about-selling/",
+    "Timestamp": "2025-09-13T23:02:10",
+    "Domain": "aishwaryagoel.com",
+    "Description": "Stop manipulating buyers. Learn honest sales tactics that build trust with engineers and experts."
+  },
+  {
+    "Title": "Clear Specific Cookies in Chrome, Edge, Brave, and Other Chromium-Based Browsers | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/09/clear-specific-cookies-in-chrome-edge-brave-and-other-chromium-based-browsers/",
+    "Timestamp": "2025-09-13T19:02:05",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Chromium based browsers like Chrome, Edge, and Brave make it very difficult to clear cookies for specific sites. Here is the easy way to do it."
+  },
+  {
+    "Title": "The Last Days Of Social Media | NOEMA",
+    "Url": "https://www.noemamag.com/the-last-days-of-social-media/",
+    "Timestamp": "2025-09-13T17:02:03",
+    "Domain": "www.noemamag.com",
+    "Description": "Social media promised connection, but it has delivered exhaustion."
+  },
+  {
+    "Title": "Gallery",
+    "Url": "https://ffglitch.org/gallery/",
+    "Timestamp": "2025-09-13T16:02:19",
+    "Domain": "ffglitch.org",
+    "Description": "There are some artists out there doing some amazing work using FFglitch."
+  },
+  {
+    "Title": "AI Coding",
+    "Url": "https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html",
+    "Timestamp": "2025-09-13T16:02:12",
+    "Domain": "geohot.github.io",
+    "Description": "In my old age I’ve mostly given up trying to convince anyone of anything. Most people do not care to find the truth, they care about what pumps their bags. Some people go as far as to believe that perception is reality and that truth is a construction. I hope there’s a special place in hell for those people."
+  },
+  {
+    "Title": "Anycrap 🛒 The Store of Infinite Products",
+    "Url": "https://anycrap.shop/",
+    "Timestamp": "2025-09-13T16:02:09",
+    "Domain": "anycrap.shop",
+    "Description": "Create any absurd product with AI and pretend to buy it. Because why not?"
+  },
+  {
+    "Title": "Collections: Life, Work, Death and the Peasant, Part IVc: Rent and Extraction",
+    "Url": "https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/",
+    "Timestamp": "2025-09-13T15:02:29",
+    "Domain": "acoup.blog",
+    "Description": "This is the third piece of the fourth part of our series (I, II, IIIa, IIIb, IVa, IVb) looking at the lives of pre-modern peasant farmers – a majority of all of the humans who have ever lived. Last…"
+  },
+  {
+    "Title": "Another Pig Quest - The Last Pig - Piggy18 Team is working on another C64 game, and it looks good!",
+    "Url": "https://www.indieretronews.com/2025/09/another-pig-quest-last-pig-piggy18-team.html",
+    "Timestamp": "2025-09-13T14:02:19",
+    "Domain": "www.indieretronews.com",
+    "Description": "Another Pig Quest - The Last Pig - Piggy18 Team is working on another C64 game, and it looks good!"
+  },
+  {
+    "Title": "skiftOS",
+    "Url": "https://skiftos.org/",
+    "Timestamp": "2025-09-13T14:02:14",
+    "Domain": "skiftos.org",
+    "Description": "skiftOS is a hobby operating system built for learning and for fun targeting the x86 platform. It features a kernel named hjert, a graphical user interface with a compositing window manager, and familiar UNIX utilities."
+  },
+  {
+    "Title": "3D Modeling with Paper",
+    "Url": "https://www.arvinpoddar.com/blog/3d-modeling-with-paper",
+    "Timestamp": "2025-09-13T03:02:01",
+    "Domain": "www.arvinpoddar.com",
+    "Description": "Exploring the process of designing and assembling 3D models from paper."
+  },
+  {
+    "Title": "The productivity paradox of AI coding assistants",
+    "Url": "https://www.cerbos.dev/blog/productivity-paradox-of-ai-coding-assistants",
+    "Timestamp": "2025-09-13T03:01:57",
+    "Domain": "www.cerbos.dev",
+    "Description": "AI coding assistants promise speed, but do they deliver? Explore data, developer insights, and security risks showing why AI feels faster but often slows production. Learn where tools like Cursor and Claude Code help, and where they fail."
+  }
+]

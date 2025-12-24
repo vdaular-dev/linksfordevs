@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Treat your morning ritual like an opening chess move - Herbert Lui",
+    "Url": "https://herbertlui.net/treat-your-morning-ritual-like-an-opening-chess-move/",
+    "Timestamp": "2025-10-18T23:02:31",
+    "Domain": "herbertlui.net",
+    "Description": "Life throws curveballs at you. A problem might come up in the evening that needs to wait until the next morning. An evening of sleep might be interrupted, or you might wake up earlier than you’d expected and not be able to fall asleep. Perhaps you want to get some fresh air in the morning. […]"
+  },
+  {
+    "Title": "A non-technical CFO is shipping better code than the agencies he hired",
+    "Url": "https://martinalderson.com/posts/non-technical-cfo-shipping-better-code-than-agencies/",
+    "Timestamp": "2025-10-18T23:02:27",
+    "Domain": "martinalderson.com",
+    "Description": "A non-technical CFO built a production operations dashboard with Claude Code that had failed with low-code tools and agencies. This shift in who can build software is going to change everything."
+  },
+  {
+    "Title": "Yohei Yamasaki (yayoi)",
+    "Url": "https://yayo1.com/en/blog/tiny-truetype-renderer/",
+    "Timestamp": "2025-10-18T23:02:24",
+    "Domain": "yayo1.com",
+    "Description": "I am a software engineer and a computer science student based in Germany with a keen interest in the intersection of web technology and 2D graphics."
+  },
+  {
+    "Title": "My most popular application",
+    "Url": "https://blog.6nok.org/my-most-popular-application/",
+    "Timestamp": "2025-10-18T23:02:20",
+    "Domain": "blog.6nok.org",
+    "Description": "A post about the tracker app I built for my girlfriend"
+  },
+  {
+    "Title": "The Hidden Cost of URL Design",
+    "Url": "https://alfy.blog/2025/10/16/hidden-cost-of-url-design.html",
+    "Timestamp": "2025-10-18T23:02:17",
+    "Domain": "alfy.blog",
+    "Description": "URL design impacts application architecture, performance, and costs. Case study: how flat URLs caused 2x backend load and how we optimized it."
+  },
+  {
+    "Title": "On dealing with GPT results, or, Pots, Kettles And Hallucinations",
+    "Url": "https://ebellani.github.io/blog/2025/on-dealing-with-gpt-results-or-pots-kettles-and-hallucinations/",
+    "Timestamp": "2025-10-18T23:02:12",
+    "Domain": "ebellani.github.io",
+    "Description": ".org-center { margin-left: auto; margin-right: auto; text-align: center; } Hallucinations in GPTs can lead to the dissemination of false information, creating harmful outcomes in applications of critical decision making or leading to mistrust in AI. In a viral instance, The New York Times published an article about a lawyer who used ChatGPT to produce case citations without realizing they were fictional, or hallucinated. This incident highlights the danger of hallucinations in LLM-based queries; often the hallucinations are subtle and go easily unnoticed."
+  },
+  {
+    "Title": "What Engineers Can Learn from Sales",
+    "Url": "https://togetherlondon.com/insights/what-engineers-can-learn-from-sales",
+    "Timestamp": "2025-10-18T23:02:09",
+    "Domain": "togetherlondon.com",
+    "Description": "If you can’t sell your ideas, they won’t get adopted."
+  },
+  {
+    "Title": "Polars vs Pandas – Quantile Method",
+    "Url": "https://wedgworth.dev/polars-vs-pandas-quantile-method/",
+    "Timestamp": "2025-10-18T23:02:06",
+    "Domain": "wedgworth.dev",
+    "Description": "You can save some memory by moving to Polars from Pandas but watch out for a subtle difference in the quantile's different default interpolation methods."
+  },
+  {
+    "Title": "Optimizing Text Offset Calculations",
+    "Url": "https://beeb.li/blog/optimizing-text-offset-calculation",
+    "Timestamp": "2025-10-18T23:02:02",
+    "Domain": "beeb.li",
+    "Description": "A tale of optimization for an algorithm that turns byte offsets into line and column numbers, and UTF-16 offsets. The final implementation leverages SIMD and fixes several inefficiencies in the original solution.\n"
+  },
+  {
+    "Title": "Copilot Inline Suggestions Are Like TikTok",
+    "Url": "https://remy.duthu.org/2025/10/18/copilot-inline-suggestions-are-like-tik-tok.html",
+    "Timestamp": "2025-10-18T23:01:58",
+    "Domain": "remy.duthu.org",
+    "Description": "I’ve spent the last few months using GitHub Copilot without inline suggestions.\nSince the feature came out, I’ve been uneasy about it.\nIt feels to me like the TikTok vs. YouTube debate: do I want to choose the content I consume or let an algorithm feed me what it thinks I want?"
+  },
+  {
+    "Title": "Fast calculation of the distance to cubic Bezier curves on the GPU",
+    "Url": "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html",
+    "Timestamp": "2025-10-18T22:01:56",
+    "Domain": "blog.pkh.me",
+    "Description": "Bézier curves are a core building block of text and 2D shapes rendering.\nThere are several approaches to rendering them, but one especially challenging\nproblem, both mathematically and technically, is computing the distance to\na Bézier curve. For quadratic curves (one control point), this is fairly\naccessible, but for cubic (two control points) we're going to see why it is\nso hard."
+  },
+  {
+    "Title": "Release 15.0.0 · BurntSushi/ripgrep",
+    "Url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
+    "Timestamp": "2025-10-18T21:02:01",
+    "Domain": "github.com",
+    "Description": "Sponsorship is appreciated!\nripgrep 15 is a new major version release of ripgrep that mostly has bug fixes,\nsome minor performance improvements and minor new features.\n\nIn case you haven't heard of..."
+  },
+  {
+    "Title": "./watch",
+    "Url": "https://dotslashwatch.com/",
+    "Timestamp": "2025-10-18T20:01:56",
+    "Domain": "dotslashwatch.com",
+    "Description": "Many quartz watches do their best to hide away any electronic components from view.  The design concept for this watch was to embrace those digital components instead, taking inspiration from command-line interfaces and computer hardware."
+  },
+  {
+    "Title": "The pivot - Charlie's Diary",
+    "Url": "https://www.antipope.org/charlie/blog-static/2025/10/the-pivot-1.html",
+    "Timestamp": "2025-10-18T06:02:03",
+    "Domain": "www.antipope.org",
+    "Description": "It's pretty clear now that a lot of the unrest we're seeing—and the insecurity-induced radicalization—is due to an unprecedented civilizational energy transition that looks to be more or less irreversible at this point."
+  },
+  {
+    "Title": "Saving $4000+/month with self-hosted runners — featherless software design",
+    "Url": "https://jeffverkoeyen.com/blog/2025/10/17/SelfHostingMacMinis/",
+    "Timestamp": "2025-10-18T01:02:51",
+    "Domain": "jeffverkoeyen.com",
+    "Description": "Published: Oct 17, 2025"
+  },
+  {
+    "Title": "Confident Loving and Kind",
+    "Url": "https://cauldron.life/blog/confident-loving-kind/",
+    "Timestamp": "2025-10-18T01:02:48",
+    "Domain": "cauldron.life",
+    "Description": "There are days in our life which we look back at - often. They hold a special place in our psyche because they make us what we have aspired to be. It’s a day which is complete in itself. It doesn’t need the past or the future. This is a distilled version of one such day in my life. How raw can I be? We will have to see but it will be one I will look back at often."
+  },
+  {
+    "Title": "The Ofcom Files",
+    "Url": "https://prestonbyrne.com/2025/10/16/the-ofcom-files/",
+    "Timestamp": "2025-10-18T01:02:45",
+    "Domain": "prestonbyrne.com",
+    "Description": "Below is relevant enforcement correspondence sent by the UK Office of Communications, known by the Orwellian portmanteau “Ofcom,” to my client, 4chan, in relation to its Online Safety A…"
+  },
+  {
+    "Title": "The bottleneck cascade",
+    "Url": "https://www.davidlpeterson.com/the-bottleneck-cascade/",
+    "Timestamp": "2025-10-18T01:02:41",
+    "Domain": "www.davidlpeterson.com",
+    "Description": "In April 2024, Mark Zuckerberg told Dwarkesh Patel that Meta’s biggest constraint in developing AI wasn’t GPUs. It was power. Even with unlimited capital, the lead time on new energy generation was years.\n\nTyler Cowen made a similar point. When asked why the AI-takeoff may be slower than"
+  },
+  {
+    "Title": "Agents 2.0: From Shallow Loops to Deep Agents",
+    "Url": "https://www.philschmid.de/agents-2.0-deep-agents",
+    "Timestamp": "2025-10-18T01:02:37",
+    "Domain": "www.philschmid.de",
+    "Description": "An overview of the architectural shift from Shallow Agents (Agent 1.0) to Deep Agents (Agent 2.0) and how to build complex AI agents that can handle multi-step tasks over extended periods."
+  },
+  {
+    "Title": "Lukas Werner - Why Software Quality Disappeared: Culture",
+    "Url": "https://lukaswerner.com/post/2025-10-14@swe-qc-culture",
+    "Timestamp": "2025-10-18T01:02:34",
+    "Domain": "lukaswerner.com",
+    "Description": "In response to The Great Software Quality Collapse: How We Normalized Catastrophe:"
+  },
+  {
+    "Title": "My perfect Music app doesn’t exist - Hicks.design",
+    "Url": "https://hicks.design/journal/my-perfect-music-app-doesnt-exist",
+    "Timestamp": "2025-10-18T01:02:30",
+    "Domain": "hicks.design",
+    "Description": "A long dive into the features that make my ideal music app, and why nothing currently fulfils the brief."
+  },
+  {
+    "Title": "I Reinstated My Guestbook After 20 Years!",
+    "Url": "https://susam.net/reinstated-guestbook.html",
+    "Timestamp": "2025-10-18T01:02:24",
+    "Domain": "susam.net",
+    "Description": "By Susam Pal on 03 Oct 2025"
+  },
+  {
+    "Title": "Claude Skills is context management for code execution",
+    "Url": "https://www.noahlebovic.com/claude-skills-is-context-management-for-code-execution/",
+    "Timestamp": "2025-10-18T01:02:20",
+    "Domain": "www.noahlebovic.com",
+    "Description": "Claude Skills was released earlier today by Anthropic. It’s effectively an extension of the Code Execution server-side tool paired with context on how Claude should operate on files in a container. The quirk is that Skills have three progressive layers of context exposure:\n\n 1. Metadata, which is added to"
+  },
+  {
+    "Title": "How to build an agent",
+    "Url": "https://samdobson.uk/posts/how-to-build-an-agent/",
+    "Timestamp": "2025-10-18T01:02:16",
+    "Domain": "samdobson.uk",
+    "Description": "Building a fully functioning coding agent is not nearly as hard as you might think.\nWhen you watch an agent autonomously editing files, running commands, recovering from errors, and adapting its strategy on the fly, it feels like magic. Like there must be some secret sauce you’re missing.\nBut there isn’t. The core of an agent is surprisingly simple: an LLM, a loop, and enough context. Everything else is just good engineering."
+  },
+  {
+    "Title": "Penrose II",
+    "Url": "https://fanyangxyz.github.io/penrose-ii/",
+    "Timestamp": "2025-10-18T01:02:12",
+    "Domain": "fanyangxyz.github.io",
+    "Description": "machine learning and generative art"
+  },
+  {
+    "Title": "Automated Email Spam Detection Using N8N",
+    "Url": "https://prakhargurunani.com/blog/detecting-spam-emails-using-n8n/",
+    "Timestamp": "2025-10-18T01:02:09",
+    "Domain": "prakhargurunani.com",
+    "Description": ""
+  },
+  {
+    "Title": "High-precision date/time in C",
+    "Url": "https://antonz.org/vaqt/",
+    "Timestamp": "2025-10-18T01:02:05",
+    "Domain": "antonz.org",
+    "Description": "Unix time, calendar time, time comparison, arithmetic, rounding, and marshaling."
+  },
+  {
+    "Title": "The lonely bot",
+    "Url": "https://nry.me/posts/2025-07-11/missed-connections-markov-chain/",
+    "Timestamp": "2025-10-18T01:02:02",
+    "Domain": "nry.me",
+    "Description": "Missed connections and Markov chains"
+  },
+  {
+    "Title": "Meeting Or Deleting Constraints",
+    "Url": "https://www.jasonthorsness.com/33",
+    "Timestamp": "2025-10-18T01:01:58",
+    "Domain": "www.jasonthorsness.com",
+    "Description": "Meeting Or Deleting Constraints"
+  },
+  {
+    "Title": "Intercellular communication in the brain through a dendritic nanotubular network",
+    "Url": "https://www.science.org/doi/10.1126/science.adr7403",
+    "Timestamp": "2025-10-18T00:01:53",
+    "Domain": "www.science.org",
+    "Description": "Intercellular nanotubular networks mediate material exchange, but their existence in neurons remains to be explored in detail. We identified long, thin dendritic filopodia forming direct dendrite–dendrite nanotubes (DNTs) in mammalian cortex. Super-..."
+  }
+]

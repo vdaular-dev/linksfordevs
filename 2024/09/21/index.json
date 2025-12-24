@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "How Discord Reduced Websocket Traffic by 40%",
+    "Url": "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent",
+    "Timestamp": "2024-09-21T23:01:05",
+    "Domain": "discord.com",
+    "Description": "How we rolled out zstandard and other improvements across our gateway cluster to reduce the amount of bandwidth that’s used by our clients."
+  },
+  {
+    "Title": "Scaling founder obsession (the F+1 problem)",
+    "Url": "https://www.dylancollins.com/p/scaling-founder-obsession-the-f1",
+    "Timestamp": "2024-09-21T22:01:06",
+    "Domain": "www.dylancollins.com",
+    "Description": "Thinking about the events behind Paul Graham's post and MrBeast's onboarding materials."
+  },
+  {
+    "Title": "Bottom-up vs top-down product management",
+    "Url": "https://ernest.oppet.it/2024/09/20/bottom-up-vs-top-down-product-management/",
+    "Timestamp": "2024-09-21T22:01:05",
+    "Domain": "ernest.oppet.it",
+    "Description": "By Robert Leighton in the New Yorker I like this definition of product management from Lenny’s newsletter: Your job as a PM is to deliver business impact by marshaling the resources of your t…"
+  },
+  {
+    "Title": "Trying out Solid Queue and Mission Control with PostgreSQL",
+    "Url": "https://andyatkinson.com/solid-queue-mission-control-rails-postgresql",
+    "Timestamp": "2024-09-21T22:01:04",
+    "Domain": "andyatkinson.com",
+    "Description": "Why Solid Queue? Background jobs are commonly used in Ruby on Rails apps to perform any work possible outside of an HTTP request. A classic example is sending an email notification. Sending email from a background job places the latency there, outside of processing the request."
+  },
+  {
+    "Title": "A note on estimated reading times",
+    "Url": "https://www.baldurbjarnason.com/2024/on-reading-time/",
+    "Timestamp": "2024-09-21T22:01:04",
+    "Domain": "www.baldurbjarnason.com",
+    "Description": "People have been writing a bit about “estimated reading time”, the feature where a link to something is accompanied by an estimate of how long it will take you to read it."
+  },
+  {
+    "Title": "The Age of Software Artisans",
+    "Url": "https://jairojair.com/articles/the-age-of-software-artisans/",
+    "Timestamp": "2024-09-21T22:01:04",
+    "Domain": "jairojair.com",
+    "Description": "In this post, we explore the idea of software artisans and how the future of coding might resemble a return to a more hands-on, creative approach. Is writing software dead?."
+  },
+  {
+    "Title": "On Power Tools",
+    "Url": "https://numi.st/post/2024/the-power-tool-era-of-software/",
+    "Timestamp": "2024-09-21T22:01:04",
+    "Domain": "numi.st",
+    "Description": "Using the history of woodworking as a metaphor for the present (and future?) of software development."
+  },
+  {
+    "Title": "Netflix Job Analysis · AR",
+    "Url": "https://allcentury.github.io/2024/09/21/netflix-job-analysis/",
+    "Timestamp": "2024-09-21T22:01:04",
+    "Domain": "allcentury.github.io",
+    "Description": "21 Sep 2024"
+  },
+  {
+    "Title": "zb: An Early-Stage Build System",
+    "Url": "https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/",
+    "Timestamp": "2024-09-21T21:01:00",
+    "Domain": "www.zombiezen.com",
+    "Description": "Reproducible builds configured in Lua"
+  },
+  {
+    "Title": "Forget ChatGPT: why researchers now run small AIs on their laptops",
+    "Url": "https://www.nature.com/articles/d41586-024-02998-y",
+    "Timestamp": "2024-09-21T19:01:08",
+    "Domain": "www.nature.com",
+    "Description": "Artificial-intelligence models are typically used online, but a host of openly available tools is changing that. Here’s how to get started with local AIs."
+  },
+  {
+    "Title": "Always use an enum for your status field",
+    "Url": "https://jmduke.com/posts/post/enums/",
+    "Timestamp": "2024-09-21T18:01:01",
+    "Domain": "jmduke.com",
+    "Description": "When I was first starting my career at Amazon — even more bright-eyed and rosy-cheeked than I am now — I was thrilled by the concept of an \"architecture review\", and by extension the concept of a \"Principal Engineer\" (Amazon's term for a staff-level engineer, someone beyond career level) who was always treated with some level of mystique and reverence."
+  },
+  {
+    "Title": "Ultra high-resolution image of The Night Watch",
+    "Url": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch",
+    "Timestamp": "2024-09-21T16:01:05",
+    "Domain": "www.rijksmuseum.nl",
+    "Description": ""
+  },
+  {
+    "Title": "So, You Failed Your Interview… – Dev Leader Weekly 62",
+    "Url": "https://www.devleader.ca/2024/09/21/so-you-failed-your-interview-dev-leader-weekly-62/",
+    "Timestamp": "2024-09-21T13:01:06",
+    "Domain": "www.devleader.ca",
+    "Description": "Welcome to another issue of Dev Leader Weekly! In this issue, I discuss how to try and improve from failed interview experiences as software engineers."
+  },
+  {
+    "Title": "Experimenting With Video Editing - M.O.W.",
+    "Url": "https://blog.markoliver.website/Experimenting-With-Video-Editing",
+    "Timestamp": "2024-09-21T13:01:04",
+    "Domain": "blog.markoliver.website",
+    "Description": "A post covering: capcut, kdenlive, streaming, tools, video, video editing, vlogging... I have recently got into video editing as my wife has started a YouTube channel.\nPreviously I have used a tool called [ShotCut](https://shotcut.org/) which is a great multi-platform open source tool!\n\nBUT it relies on your ingenuity for additional things to make your content stand out, such as close..."
+  },
+  {
+    "Title": "I Like Makefiles",
+    "Url": "https://switowski.com/blog/i-like-makefiles/",
+    "Timestamp": "2024-09-21T10:01:01",
+    "Domain": "switowski.com",
+    "Description": "Fancy new build tools come and go, but I think I will stick with using makefiles to orchestrate everyday tasks in my projects."
+  },
+  {
+    "Title": "AnySkin: Plug-and-play Skin Sensing for Robotic Touch",
+    "Url": "https://any-skin.github.io/",
+    "Timestamp": "2024-09-21T06:01:02",
+    "Domain": "any-skin.github.io",
+    "Description": "AnySkin: Plug-and-play Skin Sensing for Robotic Touch"
+  },
+  {
+    "Title": "Container Desktop",
+    "Url": "https://container-desktop.com/",
+    "Timestamp": "2024-09-21T02:01:00",
+    "Domain": "container-desktop.com",
+    "Description": "Container Desktop works on Windows, Mac and Linux providing the same graphical interface."
+  },
+  {
+    "Title": "How I Implemented Full-Text Search On My Website",
+    "Url": "https://www.milanjovanovic.tech/blog/how-i-implemented-full-text-search-on-my-website",
+    "Timestamp": "2024-09-21T01:00:40",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "This article walks you through how I used Lunr.js to add powerful search capabilities to a Next.js static site, dealing with challenges like client-side processing and optimizing for performance along the way."
+  },
+  {
+    "Title": "Daniel Frost - Write. Push. Publish. Separating the concerns.",
+    "Url": "https://danielfrost.dk/write-push-public-separating-concerns.html",
+    "Timestamp": "2024-09-21T01:00:40",
+    "Domain": "danielfrost.dk",
+    "Description": "tirsdag den 17. september 2024"
+  },
+  {
+    "Title": "Best Practices for Tuning TensorRT-LLM for Optimal Serving with BentoML",
+    "Url": "https://www.bentoml.com/blog/tuning-tensor-rt-llm-for-optimal-serving-with-bentoml",
+    "Timestamp": "2024-09-21T01:00:40",
+    "Domain": "www.bentoml.com",
+    "Description": "Best practices for tuning TensorRT-LLM inference configurations to improve the serving performance of LLMs with BentoML."
+  },
+  {
+    "Title": "Optimizing Guile Scheme — dthompson",
+    "Url": "https://dthompson.us/posts/optimizing-guile-scheme.html",
+    "Timestamp": "2024-09-21T01:00:39",
+    "Domain": "dthompson.us",
+    "Description": "Guile is a rather niche language\nthat I love dearly.  Guile is a Scheme dialect that features an\nadvanced optimizing bytecode compiler, a JIT compiler, and a modest\nset of developer tools for inspecting and debugging.  Through my time\nspent developing Chickadee, a game\nprogramming library, I have gotten quite familiar with how to get the\nmost out of Guile in terms of performance.  Every now and then I share\na tip or two with someone on IRC or the fediverse and think “I should\nblog about this” so now I’m finally doing that.  These tips are quite\nsimple and apply to optimizing any dynamic language.  The only\ndifference is that there isn’t much in the way of helpful examples\nspecifically for Guile… until now."
+  },
+  {
+    "Title": "Cryptographic Innuendos - Dhole Moments",
+    "Url": "https://soatok.blog/2024/09/20/cryptographic-innuendos/",
+    "Timestamp": "2024-09-21T01:00:39",
+    "Domain": "soatok.blog",
+    "Description": "Neil Madden recently wrote a blog post titled, Digital Signatures and How to Avoid Them. One of the major points he raised is: Another way that signatures cause issues is that they are too pow…"
+  },
+  {
+    "Title": "The Observability CAP Theorem",
+    "Url": "https://phillipcarter.dev/2024/09/14/the-observability-cap-theorem/",
+    "Timestamp": "2024-09-21T01:00:39",
+    "Domain": "phillipcarter.dev",
+    "Description": "Observability is a pretty wild field. Almost everyone has their own definition of it. I won’t get into that nonsense. Instead, I’ll elaborate a bit on what I believe to be a fundamental…"
+  },
+  {
+    "Title": "Connies Club",
+    "Url": "https://connies.club/blog/stop-bullying-llms",
+    "Timestamp": "2024-09-21T01:00:39",
+    "Domain": "connies.club",
+    "Description": "Find the perfect conditions"
+  },
+  {
+    "Title": "The Middle-Manager Rotation: A Modest Proposal, Or Possibly A DevOps Parable",
+    "Url": "https://pifke.org/posts/middle-manager-rotation/",
+    "Timestamp": "2024-09-21T01:00:38",
+    "Domain": "pifke.org",
+    "Description": "(This is almost-verbatim a memo I recently sent to company leadership.)\nIf we think the on-call rotation is working well and is an efficient use of personnel, I’d like to propose we fire all the middle-managers and replace the current management structure with an analogous “middle-manager rotation.”\nMy team’s developers spend—on average—about one day each month on-call for our products, and have about a month between their on-call shifts. We don’t currently have any full-time SREs assigned to respond to incidents for the product we’re building, work on observability, follow up on post-mortems, or other operational tasks."
+  },
+  {
+    "Title": "Letter To A Junior Programmer",
+    "Url": "http://shaw.wtf/Letter-To-A-Junior-Programmer/",
+    "Timestamp": "2024-09-21T01:00:38",
+    "Domain": "shaw.wtf",
+    "Description": "I’ve been doing this a long time, and I’ve learned some stuff. A lot of the reasoning for why is simply learned experience, and to give you that experience I’d have to tell you long boring stories. Here are some notes which have been bouncing around my head which may be useful to you and, should you heed them, may save you a great deal of pain and time.\n\n"
+  }
+]

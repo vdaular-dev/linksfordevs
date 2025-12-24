@@ -1,0 +1,303 @@
+[
+  {
+    "Title": "Creating an API and Web UI for my District Heating System - Dangl.Blog();",
+    "Url": "https://blog.dangl.me/archive/creating-an-api-and-web-ui-for-my-district-heating-system/",
+    "Timestamp": "2023-07-13T23:04:42",
+    "Domain": "blog.dangl.me",
+    "Description": "Some months ago, we've got a new heating system installed. We're now using a district heating system, and naturally, I wanted to get information out of it, log and extract data and integrate it in a smart home environment."
+  },
+  {
+    "Title": "Announcing dynamic JSON in the Azure Core library for .NET",
+    "Url": "https://devblogs.microsoft.com/azure-sdk/dynamic-json-in-azure-core/",
+    "Timestamp": "2023-07-13T23:04:41",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "A new dynamic type in Azure.Core lets you treat raw JSON like a strongly typed model."
+  },
+  {
+    "Title": "What we talk about when we talk about System Design",
+    "Url": "https://maheshba.bitbucket.io/blog/2023/07/12/Design.html",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "maheshba.bitbucket.io",
+    "Description": "Early in my research career, I had a chance to work with some of the best system researchers1 in the world on a number of really interesting system designs. One of the enjoyable aspects of research was the particular process used by researchers (particularly in the SOSP/OSDI community) to come up with novel yet practical designs. This design process can be characterized as “fighting complexity with abstraction”: in any complex environment, how do you corral that complexity into cleanly defined boxes (or more technically, abstractions) and then divide functionality across these boxes? This sounds like hyperbole, but I’ve been quite lucky when it comes to mentors; put together, my advisors at Cornell and colleagues at the now-defunct MSR Silicon Valley lab were responsible for inventing much of modern distributed computing over a span of five decades, but that’s a topic for another post. ↩"
+  },
+  {
+    "Title": "The effects of the HN 'personal blogs' thread on my RSS feed",
+    "Url": "https://www.alexghr.me/blog/effects-of-hn-personal-blogs-thread/",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "www.alexghr.me",
+    "Description": "A recent trend in the HN community has been to share personal websites. In this article I look at the RSS traffic I got after posting this site."
+  },
+  {
+    "Title": "Patching GCC to build Actually Portable Executables",
+    "Url": "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "ahgamut.github.io",
+    "Description": "Gautham's Blog"
+  },
+  {
+    "Title": "Django: Clean up unused code with Vulture - Adam Johnson",
+    "Url": "https://adamj.eu/tech/2023/07/12/django-clean-up-unused-code-vulture/",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "adamj.eu",
+    "Description": "As projects evolve, old functionality gets removed. Often such deletions are incomplete, leaving in their wake unused functions, classes, and other code objects. Unused code is clutter that brings no joy: it hinders comprehension, taxes codebase-wide quality improvements, and can sometimes lead to errors if later used."
+  },
+  {
+    "Title": "Fearless Tinkering with Nix",
+    "Url": "https://www.heneli.dev/blog/fearless-tinkering-nix",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "www.heneli.dev",
+    "Description": "Move fast and save things with Nix: A purely functional DevOps ecosystem."
+  },
+  {
+    "Title": "Advice for Operating a Public-Facing API",
+    "Url": "https://jcs.org/2023/07/12/api",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "jcs.org",
+    "Description": "posted on wednesday, july 12th, 2023"
+  },
+  {
+    "Title": "Sane Uses for fiber - http://blog.cerowrt.org/",
+    "Url": "https://blog.cerowrt.org/post/towards_better_broadband/",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "blog.cerowrt.org",
+    "Description": "Backhaul, interconnects, long distances"
+  },
+  {
+    "Title": "How to Sideload on an Onn",
+    "Url": "https://qf0.github.io/blog/2023/07/12/How-to-Sideload-an-APK-on-an-Onn",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "qf0.github.io",
+    "Description": "I recently purchased an Onn streaming device, before the Prime day Fire Stick 4k sale. After a few Google searches, and looking on Reddit, I wasn’t able to find an answer if sideloading on an Onn is possible. \nHowever, after successfully sideloading myself I found the answer and thought I’d make a blog post showing how I did it for uhh educational purposes."
+  },
+  {
+    "Title": "Thoughts on MNT Reform after a couple months",
+    "Url": "https://artemis.sh/2023/07/06/thoughts-on-mnt-reform.html",
+    "Timestamp": "2023-07-13T22:03:32",
+    "Domain": "artemis.sh",
+    "Description": "So we got ahold of one of these used from someone who found it didn’t do what they needed it to. New, these things are like 1200 euros. We got one for $420 (lmao). though we had to buy a different keycap set to get key legends (prev owner had blank caps), and we had to replace the battery boards with a newer version since this was like one of the first Reform versions made and the battery boards had a problem. the thing is that if you look purely at the CPU performance and ram, and you compare that to the price, this thing is currently really bad value. maybe that changes when they finish designing the RK3588 module but right now that’s how it is. but it’s increasingly clear that the value is there now, it’s just not in compute, it’s everything else."
+  },
+  {
+    "Title": "Bananas",
+    "Url": "https://www.paritybits.me/bananas/",
+    "Timestamp": "2023-07-13T22:03:31",
+    "Domain": "www.paritybits.me",
+    "Description": "Take a monkey, Jeff. Train Jeff to do some task rewarded with a banana. Jeff is pretty content - he does his work, gets his banana, calls it a day.\nGive Jeff..."
+  },
+  {
+    "Title": "All the Container Improvements in .NET 8",
+    "Url": "https://youtube.com/watch?v=i9elWvtKPq8",
+    "Timestamp": "2023-07-13T20:01:33",
+    "Domain": "youtube.com",
+    "Description": "Are you a .NET developer and are curious about or are already building your apps in containers? If so, did you know there are a ton of improvements coming to..."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=dgd2OmOCJPc",
+    "Timestamp": "2023-07-13T19:01:49",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "Silverlight Just Won't Die: 'XAML for Blazor' Arrives -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/07/13/xaml-blazor.aspx",
+    "Timestamp": "2023-07-13T19:01:48",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Userware is using vestiges of the long-gone and sorely missed Microsoft Silverlight web-dev platform to power its new 'XAML for Blazor' offering, which lets .NET developers use markup language within client-side Blazor applications."
+  },
+  {
+    "Title": "Figma to XAML: View Hierarchy, UniformGridLayout and Background Images",
+    "Url": "https://platform.uno/blog/figma-to-xaml-view-hierarchy-uniformgridlayout-and-background-images/",
+    "Timestamp": "2023-07-13T17:03:38",
+    "Domain": "platform.uno",
+    "Description": "Preview 6 of Uno for Figma plugin, includes hierarchical views, nested user controls, background images, and improved layout options."
+  },
+  {
+    "Title": "Disney CEO Bob Iger Says Writers and Actors Are Not Being ‘Realistic’ With Strikes: ‘It’s Very Disturbing to Me’",
+    "Url": "https://variety.com/2023/tv/news/bob-iger-writers-actors-strike-disney-ceo-1235669169/",
+    "Timestamp": "2023-07-13T16:03:33",
+    "Domain": "variety.com",
+    "Description": "During an appearance on CNBC’s “Squawk Box” on Thursday morning, Disney CEO Bob Iger said that the writers and actors unions going on strike in Hollywood are not being “real…"
+  },
+  {
+    "Title": "Convert ANY Event into a Command in Xamarin Forms",
+    "Url": "https://youtube.com/watch?v=7cIjmzgVsQU",
+    "Timestamp": "2023-07-13T16:03:13",
+    "Domain": "youtube.com",
+    "Description": "In this video, I show you how you can convert any event of any control into a command in Xamarin Forms."
+  },
+  {
+    "Title": "Focusing on \"Entities\" leads nowhere good.",
+    "Url": "https://youtube.com/watch?v=v5Fss4fCl8c",
+    "Timestamp": "2023-07-13T15:05:16",
+    "Domain": "youtube.com",
+    "Description": "Focusing on data or \"entities\" can lead you to develop a system that is hard to change and, over time, littered with technical complexity.  I'm going to cove..."
+  },
+  {
+    "Title": "New AWS .NET Distributed Cache Provider for DynamoDB in Preview ",
+    "Url": "https://www.infoq.com/news/2023/07/aws-net-distributed-cache-dynamo/",
+    "Timestamp": "2023-07-13T15:05:16",
+    "Domain": "www.infoq.com",
+    "Description": "Recently AWS announced the preview release of the AWS .NET Distributed Cache Provider for DynamoDB. This library enables Amazon DynamoDB to be used as the storage for ASP.NET Core’s distributed cache framework."
+  },
+  {
+    "Title": "AI Assistant Comes to ReSharper ",
+    "Url": "https://www.infoq.com/news/2023/07/ai-assistant-resharper/",
+    "Timestamp": "2023-07-13T15:05:15",
+    "Domain": "www.infoq.com",
+    "Description": "JetBrains released an AI-powered version of ReSharper, its developer productivity extension for Microsoft Visual Studio. The new version, ReSharper 2023.2, is the first that will come with AI-powered development assistance."
+  },
+  {
+    "Title": "duck tape for your unix pipes",
+    "Url": "https://dt.plumbing/",
+    "Timestamp": "2023-07-13T15:05:14",
+    "Domain": "dt.plumbing",
+    "Description": "Hi Lobsters\n            and friends! dt is very new (1.0 as of July 11th) and I'm still\n            fleshing out docs. Follow along, send an issue, or star the repository\n            if you're interested. Thanks! -- J.R."
+  },
+  {
+    "Title": "How to clone a Windows Runtime vector in the face of possible concurrent modification, part 2 - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230713-00/?p=108446",
+    "Timestamp": "2023-07-13T14:03:59",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Trying to make a generic solution."
+  },
+  {
+    "Title": "DLP Exact Data Match beta now available",
+    "Url": "https://blog.cloudflare.com/edm-beta/",
+    "Timestamp": "2023-07-13T13:02:35",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare One now supports exact data match for Data Loss Prevention"
+  },
+  {
+    "Title": "Collections Just Changed in C# 12 and That’s Good",
+    "Url": "https://youtube.com/watch?v=4w5_AX3ma54",
+    "Timestamp": "2023-07-13T13:02:35",
+    "Domain": "youtube.com",
+    "Description": "Use code SUMMER23 until the 20th of July for a 15% discount on any bundle at https://dometrain.com/bundlesBecome a Patreon and get source code access: https:..."
+  },
+  {
+    "Title": "EntityFramework Core vs Dapper",
+    "Url": "https://code-maze.com/entityframeworkcore-vs-dapper/",
+    "Timestamp": "2023-07-13T13:02:34",
+    "Domain": "code-maze.com",
+    "Description": "Discover the differences between EntityFramework Core and Dapper, and the use cases to choose the right tool for our data access needs."
+  },
+  {
+    "Title": "How To Rate Limit a Specific User In .NET #shorts",
+    "Url": "https://youtube.com/watch?v=-tizbs4QhEU",
+    "Timestamp": "2023-07-13T12:04:15",
+    "Domain": "youtube.com",
+    "Description": "🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanjovanovicJoin my weekly .NET newsletter:https://www.milanjovanovic.techRead ..."
+  },
+  {
+    "Title": "How to Program C# in Visual Studio Code",
+    "Url": "https://www.claudiobernasconi.ch/2023/07/13/how-to-program-csharp-in-visual-studio-code/",
+    "Timestamp": "2023-07-13T10:03:18",
+    "Domain": "www.claudiobernasconi.ch",
+    "Description": "Developing C# in Visual Studio Code is simple, doesn't cost anything, and offers a great cross-platform developer experience."
+  },
+  {
+    "Title": "BenQ ScreenBar Halo LED Monitor Light/Lamp with Wireless Controller/Adjustable Brightness and Colour Temperature/Eye-Care/No Screen Glare/Space Saving/Curved Monitors/USB-A Powered : Amazon.co.uk: Lighting",
+    "Url": "https://www.amazon.co.uk/BenQ-ScreenBar-Halo-Controller-Temperature/dp/B08WT889V3?tag=linksfordevs-20&lfd=202307",
+    "Timestamp": "2023-07-13T09:04:58",
+    "Domain": "www.amazon.co.uk",
+    "Description": "BenQ ScreenBar Halo LED Monitor Light/Lamp with Wireless Controller/Adjustable Brightness and Colour Temperature/Eye-Care/No Screen Glare/Space Saving/Curved Monitors/USB-A Powered : Amazon.co.uk: Lighting"
+  },
+  {
+    "Title": "17 misconceptions about SNARKs (and why they hold us back)",
+    "Url": "https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/",
+    "Timestamp": "2023-07-13T07:04:00",
+    "Domain": "a16zcrypto.com",
+    "Description": "Clearing up 17 misconceptions about SNARKs to help create a shared, more accurate understanding of the design space"
+  },
+  {
+    "Title": "Cycles of curves: what are they and do we need them?",
+    "Url": "https://blog.icme.io/can-we-avoid-cycles-of-curves/",
+    "Timestamp": "2023-07-13T07:03:59",
+    "Domain": "blog.icme.io",
+    "Description": "The term 'cycles of elliptic curves' has been garnering significant attention recently. This surge in interest is largely due to their application in 'incremental verifiable computation', the folding scheme, and more broadly, SNARK recursion. Often, when a SNARK needs to self-verify, it is typically implemented as a cycle of elliptic"
+  },
+  {
+    "Title": "Contact Merge",
+    "Url": "https://xkcd.com/2801/",
+    "Timestamp": "2023-07-13T07:03:59",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "What Are HTTP Headers? | Postman Blog",
+    "Url": "https://blog.postman.com/what-are-http-headers/",
+    "Timestamp": "2023-07-13T06:03:09",
+    "Domain": "blog.postman.com",
+    "Description": "Learn what HTTP headers are, how they are used, and how they help the API client and server communicate more effectively."
+  },
+  {
+    "Title": "EI004: AI Foundation Services (Exceptions)",
+    "Url": "https://youtube.com/watch?v=Rw7qcaG3d7U",
+    "Timestamp": "2023-07-13T06:03:09",
+    "Domain": "youtube.com",
+    "Description": ""
+  },
+  {
+    "Title": "GitHub - royalapplications/beyondnet: A toolset that makes it possible to call .NET code from other programming languages, including C and Swift.",
+    "Url": "https://github.com/royalapplications/beyondnet",
+    "Timestamp": "2023-07-13T06:03:08",
+    "Domain": "github.com",
+    "Description": "A toolset that makes it possible to call .NET code from other programming languages, including C and Swift. - GitHub - royalapplications/beyondnet: A toolset that makes it possible to call .NET cod..."
+  },
+  {
+    "Title": "Three tricks with Dictionary",
+    "Url": "https://steven-giesel.com/blogPost/53090b7c-d594-4b55-b513-60bcc7b36f35",
+    "Timestamp": "2023-07-13T06:03:07",
+    "Domain": "steven-giesel.com",
+    "Description": "In this short blog post, I want to showcase two nice tricks you can do with everybody's favorite data type: the dictionary."
+  },
+  {
+    "Title": ".NET Rocks! Fluent Assertions with Dennis Doomen",
+    "Url": "https://www.dotnetrocks.com/details/1854",
+    "Timestamp": "2023-07-13T05:05:43",
+    "Domain": "www.dotnetrocks.com",
+    "Description": "What can we do to make testing easier? Carl and Richard talk to Dennis Doomen about Fluent Assertions, an open-source set of extension methods to help write better tests. Dennis talks about working on Fluent Assertions for over a decade and the great team of folks that have helped it grow. With tens of millions of downloads, you should check it out! The conversation also digs into how these types of open-source projects don't make money, even though they help many people. Could we fix that?"
+  },
+  {
+    "Title": "David Fowler (@davidfowl) on Threads",
+    "Url": "https://www.threads.net/t/Cunz9w0Nt2_/?igshid=MzRlODBiNWFlZA%3D%3D",
+    "Timestamp": "2023-07-13T04:03:02",
+    "Domain": "www.threads.net",
+    "Description": "Here's some code that is on the hot path on your application and you want to optimize it. This is what a typical C# developer would write (actually copilot wrote this). It's pretty clear, but..."
+  },
+  {
+    "Title": "Warehouse Sample Review",
+    "Url": "https://youtube.com/watch?v=L2ICUaxvYI0",
+    "Timestamp": "2023-07-13T03:03:09",
+    "Domain": "youtube.com",
+    "Description": "🔔 Subscribe: https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw?sub_confirmation=1💥 Join this channel to get access to a private Discord Server and a..."
+  },
+  {
+    "Title": ".NET MAUI on .NET 8 Preview 6 – Android build issue",
+    "Url": "https://egvijayanand.in/2023/07/13/dotnet-maui-on-dotnet-8-preview-6-android-build-issue/",
+    "Timestamp": "2023-07-13T02:04:30",
+    "Domain": "egvijayanand.in",
+    "Description": ".NET 8 is the next LTS release and is currently in preview. .NET, .NET MAUI, and Visual Studio 2022 release a public preview every month for quite some time. On Tue, Jul 11, another preview version…"
+  },
+  {
+    "Title": "PowerShell Profile & oh-my-posh theme",
+    "Url": "https://gist.github.com/DamianEdwards/6b6522fe9acb575e606ea4688d600425#file-craver-vs-omp-json",
+    "Timestamp": "2023-07-13T02:04:29",
+    "Domain": "gist.github.com",
+    "Description": "PowerShell Profile & oh-my-posh theme. GitHub Gist: instantly share code, notes, and snippets."
+  },
+  {
+    "Title": "MSBuild Editor - Visual Studio Marketplace",
+    "Url": "https://marketplace.visualstudio.com/items?itemName=mhutch.MSBuildEditor",
+    "Timestamp": "2023-07-13T00:04:01",
+    "Domain": "marketplace.visualstudio.com",
+    "Description": "Extension for Visual Studio - Editor for MSBuild files that supports IntelliSense, quick info, navigation, analyzers and refactorings."
+  },
+  {
+    "Title": "Base64 Class (System.Buffers.Text)",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/api/system.buffers.text.base64?view=net-7.0",
+    "Timestamp": "2023-07-13T00:03:57",
+    "Domain": "learn.microsoft.com",
+    "Description": "Converts between binary data and UTF-8 encoded text that is represented in base 64. "
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "Title": "Here's Why Housing Is Unaffordable for the Bottom 90%",
+    "Url": "http://charleshughsmith.blogspot.com/2023/09/heres-why-housing-is-unaffordable-for.html",
+    "Timestamp": "2023-09-12T23:02:34",
+    "Domain": "charleshughsmith.blogspot.com",
+    "Description": "This is the direct consequence of the Federal Reserve's decades of unprecedented stimulus: extremes of wealth and income inequality that gav..."
+  },
+  {
+    "Title": "How to Improve Rails Caching with Brotli Compression ",
+    "Url": "https://pawelurbanek.com/rails-brotli-cache",
+    "Timestamp": "2023-09-12T23:02:18",
+    "Domain": "pawelurbanek.com",
+    "Description": "Caching is an effective way to speed up the performance of Rails applications. However, the costs of an in-memory cache database could become significant for larger-scale projects. In this blog post, I'll describe optimizing the Rails caching mechanism using the Brotli compression algorithm instead of the default Gzip. I'll also discuss a more advanced technique of using in-memory cache for extreme performance bottlenecks."
+  },
+  {
+    "Title": "Quick insights using sqlelf",
+    "Url": "https://fzakaria.com/2023/09/11/quick-insights-using-sqlelf.html",
+    "Timestamp": "2023-09-12T23:02:16",
+    "Domain": "fzakaria.com",
+    "Description": "Please checkout the sqlelf repository and give me your feedback. I wrote in my earlier post about releasing sqlelf. I had the hunch that the existing tooling we have to interface with our object formats, such as ELF, are antiquated and ill specified. Declarative languages, such as SQL, are such a wonderful abstraction to articulate over data layouts and let you reason about what you want rather than how to get it. Since continuing to noodle 👨‍💻 on the project, I’ve been pleasantly surprised at some of the introspection, specifically with respect to symbols, I’ve been able to accomplish with SQL that would have been a pain using traditional tools."
+  },
+  {
+    "Title": "What's New in First Release Candidates for .NET 8, .NET MAUI, ASP.NET Core and EF8 -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/09/12/net-8-rcs.aspx",
+    "Timestamp": "2023-09-12T23:02:16",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Microsoft shipped the first release candidates for its .NET 8 offerings, including the main framework, the .NET MAUI evolution of Xamarin.Forms and the ASP.NET Core web-dev components, not to mention Entity Framework (EF8) for data devs."
+  },
+  {
+    "Title": "You and Your Startup",
+    "Url": "https://blog.dscottphoenix.com/p/you-and-your-startup",
+    "Timestamp": "2023-09-12T23:02:16",
+    "Domain": "blog.dscottphoenix.com",
+    "Description": "Richard Hamming worked on the Manhattan Project, led Bell Labs at its peak, and invented a ton of important technologies. He always took new researchers at Bell Labs out to lunch and asked the same series of questions: What are you working on? What are the most important questions in your field?"
+  },
+  {
+    "Title": "Statistical Significance on a Shoestring Budget",
+    "Url": "https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html",
+    "Timestamp": "2023-09-12T23:02:15",
+    "Domain": "alexeymk.com",
+    "Description": "Many startups experience a chicken-and-egg problem with growth: they want to run experiments to gain more volume, but lack the volume for experiments to be practical."
+  },
+  {
+    "Title": "Want to save your nation? Get rid of poor people!",
+    "Url": "https://www.leteyski.com/want-to-save-your-nation-get-rid-of-poor-people",
+    "Timestamp": "2023-09-12T23:02:15",
+    "Domain": "www.leteyski.com",
+    "Description": "I’ve been building websites since I was 10 years old and I’ve started multiple companies along the way. I write about Startups, Shopify, and the entrepreneurship journey."
+  },
+  {
+    "Title": "Michael Tsai - Blog - App Store Continues to Host Scammy Apps",
+    "Url": "https://mjtsai.com/blog/2023/09/11/app-store-continues-to-host-scammy-apps/",
+    "Timestamp": "2023-09-12T23:02:15",
+    "Domain": "mjtsai.com",
+    "Description": "Joshua Long:"
+  },
+  {
+    "Title": "What is pubspec.lock for",
+    "Url": "https://blog.andrelademann.de/what-is-pubspeclock-for",
+    "Timestamp": "2023-09-12T23:02:14",
+    "Domain": "blog.andrelademann.de",
+    "Description": "and why you should include it in your repository"
+  },
+  {
+    "Title": "Build a Typeahead Component Using RxJS",
+    "Url": "https://techtext.dev/posts/build-a-typeahead-component-using-rxjs/",
+    "Timestamp": "2023-09-12T23:02:14",
+    "Domain": "techtext.dev",
+    "Description": "Learn how to build a typeahead component using RxJS. Improve the user experience and performance of your application."
+  },
+  {
+    "Title": "How I review code challenges for recruitment",
+    "Url": "https://www.marcopolita.me/blog/2023/09/12/How-I-review-code-challenges.html",
+    "Timestamp": "2023-09-12T23:02:14",
+    "Domain": "www.marcopolita.me",
+    "Description": "I did a fair amount of technical assessments to decide if a hiring candidate was technically prepared to join a dev team, sometimes my own, sometimes another."
+  },
+  {
+    "Title": "Localhost will inevitably die",
+    "Url": "https://lucasfcosta.com/2023/09/11/localhost-will-die.html",
+    "Timestamp": "2023-09-12T23:02:14",
+    "Domain": "lucasfcosta.com",
+    "Description": "Localhost is the inevitable victim of every software’s commercial success."
+  },
+  {
+    "Title": "Some notes on Local-First Development",
+    "Url": "https://bricolage.io/some-notes-on-local-first-development/",
+    "Timestamp": "2023-09-12T23:02:14",
+    "Domain": "bricolage.io",
+    "Description": "A few months ago in June, I attended a local-first meetup in Berlin organized by Johannes Schickling, formerly the founder of Prisma. An…"
+  },
+  {
+    "Title": "Burnout is a depression",
+    "Url": "https://sometechblog.com/posts/burnout-is-a-depression/",
+    "Timestamp": "2023-09-12T23:02:13",
+    "Domain": "sometechblog.com",
+    "Description": "Burnout is a modern euphemism for exhaustion depression. Burnout happens after prolonged periods of extensive work and the symptoms are similar to those of a classical depression:\n social withdrawal meaninglessness sadness lethargy  People with burnout need months to recover. Recovery is spent alone without doing anything and retracted from social life. This is all well depicted but how come some people burnout and others don&rsquo;t?\nTo burnout long periods of extensive work isn&rsquo;t enough."
+  },
+  {
+    "Title": "Why My Startup Needs Just Two Users",
+    "Url": "https://www.alvropena.com/why-my-startup-needs-just-two-users",
+    "Timestamp": "2023-09-12T23:02:13",
+    "Domain": "www.alvropena.com",
+    "Description": "Bio, projects, and essays."
+  },
+  {
+    "Title": "What I learned from 1 year of building startups and products",
+    "Url": "https://www.karimrc.com/blog/WhatILearned.html",
+    "Timestamp": "2023-09-12T23:02:13",
+    "Domain": "www.karimrc.com",
+    "Description": ""
+  },
+  {
+    "Title": "Three years of Bevy",
+    "Url": "https://trent.kiwi/bevy-three-years",
+    "Timestamp": "2023-09-12T23:02:13",
+    "Domain": "trent.kiwi",
+    "Description": "Bevy released 3 years ago at version 0.1 and reinvigorated Rust game engine development."
+  },
+  {
+    "Title": "[Spanish] Let's Learn .NET - IA Generativa",
+    "Url": "https://youtube.com/watch?v=_vnynXgBTG4",
+    "Timestamp": "2023-09-12T21:03:34",
+    "Domain": "youtube.com",
+    "Description": "Aprende sobre IA, cómo empezar, y cómo usar ChatGPT para mejorar las completaciones de texto. ¡Ven a aprender algo nuevo y sal con algo que todos hemos const..."
+  },
+  {
+    "Title": ".NET Framework September 2023 Security and Quality Rollup Updates - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/dotnet-framework-september-2023-security-and-quality-rollup-updates/",
+    "Timestamp": "2023-09-12T21:03:32",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "September 2023 Security and Quality Rollup Updates for .NET Framework."
+  },
+  {
+    "Title": "Apple debuts iPhone 15 and iPhone 15 Plus",
+    "Url": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/",
+    "Timestamp": "2023-09-12T20:02:41",
+    "Domain": "www.apple.com",
+    "Description": "Apple today announced iPhone 15 and iPhone 15 Plus, featuring an industry-first color-infused back glass with a stunning, textured matte finish."
+  },
+  {
+    "Title": "I know how to mitigate \"The Fall of Stack Overflow\"",
+    "Url": "https://meta.stackoverflow.com/questions/426406/i-know-how-to-mitigate-the-fall-of-stack-overflow",
+    "Timestamp": "2023-09-12T20:02:41",
+    "Domain": "meta.stackoverflow.com",
+    "Description": "The site should be made newbie-friendly\nOr, rather, question-friendly.\nI realize that such a blunt suggestion is likely to be met with immediate backlash, from all sides.\nBut please hear me out.\n\nP..."
+  },
+  {
+    "Title": "Unity plan pricing and packaging updates | Unity Blog",
+    "Url": "https://blog.unity.com/news/plan-pricing-and-packaging-updates",
+    "Timestamp": "2023-09-12T20:02:40",
+    "Domain": "blog.unity.com",
+    "Description": "In January 2024, Unity will introduce a new Unity Runtime Fee based on game installs. Prior to this, Unity subscription plans will add cloud-based asset storage, Unity DevOps tools, and AI at runtime at no additional cost."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=4qydcdkQbYc",
+    "Timestamp": "2023-09-12T19:03:09",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "LinkedIn",
+    "Url": "https://lnkd.in/g8MePGvq",
+    "Timestamp": "2023-09-12T19:03:09",
+    "Domain": "lnkd.in",
+    "Description": "This link will take you to a page that’s not on LinkedIn"
+  },
+  {
+    "Title": "EF Core 8 RC1: Complex types as value objects - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-ef8-rc1/",
+    "Timestamp": "2023-09-12T19:03:08",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Announcing Entity Framework Core 8 (EF8) RC 1 with support for complex types used as value objects"
+  },
+  {
+    "Title": "We built the fastest CI in the world. It failed. Here’s what we learned",
+    "Url": "https://earthly.dev/blog/shutting-down-earthly-ci/",
+    "Timestamp": "2023-09-12T19:03:08",
+    "Domain": "earthly.dev",
+    "Description": "Imagine you live in a world where no part of the build has to repeat unless the changes actually impacted it. A world in which all builds happened ..."
+  },
+  {
+    "Title": "ASP.NET Core updates in .NET 8 Release Candidate 1 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-dotnet-8-rc-1/",
+    "Timestamp": "2023-09-12T19:03:08",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 8 Release Candidate 1 is now available! Check out what's new in ASP.NET Core in this update."
+  },
+  {
+    "Title": "Announcing .NET MAUI in .NET 8 Release Candidate 1: Quality - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-in-dotnet-8-rc-1/",
+    "Timestamp": "2023-09-12T19:03:08",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET MAUI in .NET 8 RC1 has more quality improvements for developers, and introduces the first step to supporting Xcode 15 beta and Apple SDKs."
+  },
+  {
+    "Title": "Tales from the .NET Migration Trenches - Shared Library",
+    "Url": "https://www.jimmybogard.com/tales-from-the-net-migration-trenches-shared-library/",
+    "Timestamp": "2023-09-12T19:03:08",
+    "Domain": "www.jimmybogard.com",
+    "Description": "Posts in this series:\n\n\n * Intro\n * Cataloging\n * Empty Proxy\n * Shared Library\n\n\nIn the previous post, we established a beachhead with a completely empty proxy application to prepare for migrating controllers incrementally all the way to production.\n\n\nThere's still one more step we need to take care of before we migrate controllers,"
+  },
+  {
+    "Title": ".NET September 2023 Updates – .NET 7.0.11, .NET 6.0.22 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/september-2023-updates/",
+    "Timestamp": "2023-09-12T19:03:07",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Check out latest September 2023 updates for .NET 7.0 and .NET 6.0"
+  },
+  {
+    "Title": "Coffee and Open Source Conversation - Tim Banks",
+    "Url": "https://youtube.com/watch?v=-BIO3t2AF-E",
+    "Timestamp": "2023-09-12T18:02:28",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.ioTim's tech career spans over 25 years through various sectors. Tim's initial journey into tech started in avionics in ..."
+  },
+  {
+    "Title": "Announcing .NET 8 RC1 - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8-rc1/",
+    "Timestamp": "2023-09-12T18:02:26",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET 8 RC1 is now available with improvements to System.Text.Json, a new AOT mode for Android and WASM, Azure Managed Identity support for containers, and more!"
+  },
+  {
+    "Title": "DNF Summit - September 2023 Edition",
+    "Url": "https://youtube.com/watch?v=VYi7GggFyxc",
+    "Timestamp": "2023-09-12T17:02:59",
+    "Domain": "youtube.com",
+    "Description": "Welcome and Kickoff11:30 (ET) | 15:30 (UTC)Introduction by Board PresidentDotVVM12:15 (ET) | 16:15 (UTC)DotVVM: Modernize your Web Forms applications todayOq..."
+  },
+  {
+    "Title": "ASP.NET Community Standup - Full Stack Blazor Tips and Updates",
+    "Url": "https://youtube.com/watch?v=47CZqb53nCM",
+    "Timestamp": "2023-09-12T17:02:59",
+    "Domain": "youtube.com",
+    "Description": "Discover how full stack Blazor apps work and how they differ from traditional Blazor Server and WebAssembly apps. We'll also explore some of the new full sta..."
+  },
+  {
+    "Title": "Hodges-Lehmann Gaussian efficiency: location shift vs. shift of locations",
+    "Url": "https://aakinshin.net/posts/hl-loc-shift-vs-shift-loc/",
+    "Timestamp": "2023-09-12T17:02:57",
+    "Domain": "aakinshin.net",
+    "Description": "Let us consider two samples \\(\\mathbf{x} = (x_1, x_2, \\ldots, x_n)\\) and \\(\\mathbf{y} = (y_1, y_2, \\ldots, y_m)\\). The one-sample Hodges-Lehman location estimator is defined as the median of the Walsh (pairwise) averages:\n\\[\\operatorname{HL}(\\mathbf{x}) = \\..."
+  },
+  {
+    "Title": "Filtering negative numbers, fast: Unroll",
+    "Url": "https://ayende.com/blog/200101-C/filtering-negative-numbers-fast-unroll?Key=617ce0ba-58e7-4460-9268-6f584c90c4cd",
+    "Timestamp": "2023-09-12T15:03:34",
+    "Domain": "ayende.com",
+    "Description": "In the previous post, we looked into what it would take to reduce the cost of filtering negative numbers. We got into the assembly and analyzed exactly what ..."
+  },
+  {
+    "Title": "The odd cadence of narrative engineering design documents - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230912-47/?p=108754",
+    "Timestamp": "2023-09-12T14:03:42",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Following the rubric off a cliff."
+  },
+  {
+    "Title": "GitHub - TryQuiet/quiet: A private, p2p alternative to Slack and Discord built on Tor & IPFS",
+    "Url": "https://github.com/TryQuiet/quiet",
+    "Timestamp": "2023-09-12T14:03:42",
+    "Domain": "github.com",
+    "Description": "A private, p2p alternative to Slack and Discord built on Tor & IPFS - GitHub - TryQuiet/quiet: A private, p2p alternative to Slack and Discord built on Tor & IPFS"
+  },
+  {
+    "Title": "Are You Covering All Scenarios With Your Tests?",
+    "Url": "https://youtube.com/watch?v=D_qb9yklgJE",
+    "Timestamp": "2023-09-12T13:03:41",
+    "Domain": "youtube.com",
+    "Description": "In this video, I share with you a checklist to spark ideas on what unit tests you are still missing.💎 Be a Patreon to get the source code: https://patreon.c..."
+  },
+  {
+    "Title": "462 GB of data from strategically important company Bureau van Dijk hacked and stolen",
+    "Url": "https://cooltechzone.com/leaks/462-gb-data-strategically-important-company-bureau-van-dijk-hacked-and-stolen",
+    "Timestamp": "2023-09-12T13:03:40",
+    "Domain": "cooltechzone.com",
+    "Description": "The breaking news is that over 400GB of data of the strategically important Bureau van Dijk company is up for sale on DarkNet. We found out how serious the consequences of hacking are and what to do if you find yourself amon"
+  },
+  {
+    "Title": "Feature Flags In .NET + How I Use Them For A/B Testing",
+    "Url": "https://youtube.com/watch?v=QVEUgIC7Wpo",
+    "Timestamp": "2023-09-12T12:02:42",
+    "Domain": "youtube.com",
+    "Description": "📌 Check out my Pragmatic Clean Architecture course: https://bit.ly/3PupkOJ🚀 Support me on Patreon to access the source code: https://www.patreon.com/milanj..."
+  },
+  {
+    "Title": "Upgraded Plans & Extra Features",
+    "Url": "https://www.tradingview.com/gopro/?source=header_go_pro_button&feature=start_free_trial",
+    "Timestamp": "2023-09-12T12:02:40",
+    "Domain": "www.tradingview.com",
+    "Description": "Additional features and capabilities of upgraded accounts on TradingView. Enhanced functionality to improve your trading."
+  },
+  {
+    "Title": "Davide's Code and Architecture Notes - CAP Theorem: it's not just «Pick two»",
+    "Url": "https://www.code4it.dev/architecture-notes/cap-theorem/",
+    "Timestamp": "2023-09-12T11:02:25",
+    "Domain": "www.code4it.dev",
+    "Description": "«Consistency, Availability, and Partition tolerance. Pick two». Is it really THAT simple? Let’s learn a bit more about the CAP theorem."
+  },
+  {
+    "Title": "How to Authenticate a Blazor Server App with Azure AD - Claudio Bernasconi",
+    "Url": "https://www.claudiobernasconi.ch/2023/09/12/how-to-authenticate-a-blazor-server-app-with-azure-ad/",
+    "Timestamp": "2023-09-12T10:03:22",
+    "Domain": "www.claudiobernasconi.ch",
+    "Description": "Do you want to create a new Blazor Server application and authenticate it using Azure AD? What sounds simple cost me a whole day to figure out. In this video, I will show you how I made it work. Create a new Blazor Server Application First of all, in Visual Studio 2022, we create a […]"
+  },
+  {
+    "Title": "How to Use Stopwatch in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-stopwatch/",
+    "Timestamp": "2023-09-12T09:03:24",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we will learn how we can use the Stopwatch class in C# to measure time and analyze intervals."
+  },
+  {
+    "Title": "Why isn’t dotnet core popular among startups?",
+    "Url": "https://old.reddit.com/r/dotnet/comments/16fu7o0/why_isnt_dotnet_core_popular_among_startups/?share_id=m43b3lhRz0cwGG0GLrSew&rdt=52409",
+    "Timestamp": "2023-09-12T08:03:04",
+    "Domain": "old.reddit.com",
+    "Description": "Is there any specific reason why startups, at least here in India, don’t tend to use dotnet for backend especially now dotnet is also open..."
+  },
+  {
+    "Title": "Kees van der Leun (@Sustainable2050@mastodon.energy)",
+    "Url": "https://mastodon.energy/@Sustainable2050/111039159882536261",
+    "Timestamp": "2023-09-12T08:03:02",
+    "Domain": "mastodon.energy",
+    "Description": "In the German state of Bavaria, dozens of people are in 'preventive detention' because they might otherwise engage in climate protests, specifically around the car industry exposition IAA in Munich. \nApparently possible for a month there...\nhttps://www.zeit.de/gesellschaft/zeitgeschehen/2023-09/letzte-generation-bayern-praeventivhaft-gewahrsam"
+  },
+  {
+    "Title": "Creating custom debug visualizers for Visual Studio 2022",
+    "Url": "https://blog.elmah.io/creating-custom-debug-visualizers-for-visual-studio-2022/",
+    "Timestamp": "2023-09-12T08:03:02",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to create a debug visualizer for Visual Studio. In this post, I'll develop a visualizer of email addresses to help you get started."
+  },
+  {
+    "Title": "WebGL Gaussian Splat Viewer",
+    "Url": "https://antimatter15.com/splat/",
+    "Timestamp": "2023-09-12T07:04:03",
+    "Domain": "antimatter15.com",
+    "Description": "Use mouse or arrow keys to navigate."
+  },
+  {
+    "Title": ".NET Observability with OpenTelemetry - .NET",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel",
+    "Timestamp": "2023-09-12T07:03:38",
+    "Domain": "learn.microsoft.com",
+    "Description": "An introduction to observing .NET apps with OpenTelemetry"
+  },
+  {
+    "Title": ".NET cloud applications | Build and consume cloud services",
+    "Url": "https://dotnet.microsoft.com/en-us/apps/cloud",
+    "Timestamp": "2023-09-12T07:03:34",
+    "Domain": "dotnet.microsoft.com",
+    "Description": "Use .NET and C# to create modern, scalable cloud apps, including web apps and serverless. Deploy to, and consume cloud services from, all major cloud platforms."
+  },
+  {
+    "Title": "Implementing Desktop Apps with Windows 11 on Arm64 and .NET",
+    "Url": "https://www.codeproject.com/Articles/5368162/Implementing-Desktop-Apps-with-Windows-11-on-Arm64",
+    "Timestamp": "2023-09-12T06:04:20",
+    "Domain": "www.codeproject.com",
+    "Description": "This article demonstrates how to use WPF with .NET 8.0 to implement a desktop application that runs on Arm64."
+  },
+  {
+    "Title": "GitHub - StereoDB/StereoDB: Ultrafast and lightweight in-process memory database written in F# that supports: transactions, secondary indexes, persistence, and data size larger than RAM.",
+    "Url": "https://github.com/StereoDB/StereoDB",
+    "Timestamp": "2023-09-12T06:04:19",
+    "Domain": "github.com",
+    "Description": "Ultrafast and lightweight in-process memory database written in F# that supports: transactions, secondary indexes, persistence, and data size larger than RAM. - GitHub - StereoDB/StereoDB: Ultrafas..."
+  },
+  {
+    "Title": "Entity Framework Core - No database provider has been configured",
+    "Url": "https://bartwullems.blogspot.com/2023/09/entity-framework-core-no-database.html",
+    "Timestamp": "2023-09-12T06:04:18",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "Last week I had the pleasure to work with a team that started using Entity Framework Core for the first time. They had a lot of experience u..."
+  },
+  {
+    "Title": "A first stab at the Brainfuck kata",
+    "Url": "https://blog.ploeh.dk/2023/09/11/a-first-stab-at-the-brainfuck-kata/",
+    "Timestamp": "2023-09-12T06:04:18",
+    "Domain": "blog.ploeh.dk",
+    "Description": "I almost gave up, but persevered and managed to produce something that works."
+  },
+  {
+    "Title": "Ukrainian IT sector stagnation: reasons and forecasts",
+    "Url": "https://english.nv.ua/opinion/ukrainian-it-sector-stagnation-reasons-and-forecasts-opinion-50352748.html",
+    "Timestamp": "2023-09-12T04:03:13",
+    "Domain": "english.nv.ua",
+    "Description": "With Ukraine going\nthrough one of the most challenging periods in its history, problems in\nindustries, particularly IT, may seem insignificant against the background of\ngeneral challenges. "
+  },
+  {
+    "Title": "antimirov",
+    "Url": "http://phylactery.org/antimirov/",
+    "Timestamp": "2023-09-12T03:02:27",
+    "Domain": "phylactery.org",
+    "Description": "g\n\n\n\nstart\n\n\n\nn0\n\n\nα₀\n\n\n\nstart->n0"
+  },
+  {
+    "Title": "LLM Benchmark",
+    "Url": "https://benchmarks.llmonitor.com/sally",
+    "Timestamp": "2023-09-12T03:02:27",
+    "Domain": "benchmarks.llmonitor.com",
+    "Description": "Asking models: Sally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have?"
+  },
+  {
+    "Title": "Dotnet Tool Component not found on the Mac",
+    "Url": "https://weblog.west-wind.com/posts/2023/Sep/11/Dotnet-Tool-Component-not-found-on-the-Mac",
+    "Timestamp": "2023-09-12T01:02:53",
+    "Domain": "weblog.west-wind.com",
+    "Description": "I've run into this problem a few times: I install a new Mac OS and then install the .NET SDK. A bit later I install a dotnet tool using `dotnet tool install -g` and then try to run it, only to find out that the SDK is not able find it. This post is a note to self on how to fix the pathing for .NET tools to be found correctly and to be able to run your dotnet tools."
+  },
+  {
+    "Title": "Advanced Dev Tunnels Features | OD122",
+    "Url": "https://youtube.com/watch?v=yCYLurylgj8",
+    "Timestamp": "2023-09-12T01:02:51",
+    "Domain": "youtube.com",
+    "Description": "*Session Information:*This video is one of many sessions delivered for the Microsoft Build 2023 event. View the full session schedule and learn more about Mi..."
+  },
+  {
+    "Title": "ASP.NET Community Standup - Full Stack Blazor Tips and Updates",
+    "Url": "https://youtu.be/47CZqb53nCM",
+    "Timestamp": "2023-09-12T00:03:50",
+    "Domain": "youtu.be",
+    "Description": "Discover how full stack Blazor apps work and how they differ from traditional Blazor Server and WebAssembly apps. We'll also explore some of the new full sta..."
+  },
+  {
+    "Title": "7 simple habits of the top 1% of engineers",
+    "Url": "https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers",
+    "Timestamp": "2023-09-12T00:03:48",
+    "Domain": "engineercodex.substack.com",
+    "Description": "How elite coders outperform the rest"
+  }
+]

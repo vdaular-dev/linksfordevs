@@ -1,0 +1,191 @@
+[
+  {
+    "Title": ".NET R&D Digest (January, 2023)",
+    "Url": "https://olegkarasik.wordpress.com/2023/01/31/net-rd-digest-january-2023/",
+    "Timestamp": "2023-01-31T22:02:39",
+    "Domain": "olegkarasik.wordpress.com",
+    "Description": "This issue includes bits of C#, diagnostics, performance, operating systems, clouds a few stories and of course .NET and .NET Internals."
+  },
+  {
+    "Title": "VS Toolbox: MAUI App Accelerator to Jump-Start .NET MAUI Scaffolding -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/31/maui-app-accelerator.aspx",
+    "Timestamp": "2023-01-31T21:01:48",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Upon wizard completion, the tool wires everything up, basically abstracting the coding drudgery of manually grabbing NuGet packages and implementing Dependency Injection, Inversion of Control, constructor injections  and so on."
+  },
+  {
+    "Title": "Replicating a Cruise Travel App UI in .NET MAUI",
+    "Url": "https://dev.to/syncfusion/replicating-a-cruise-travel-app-ui-in-net-maui-c9d",
+    "Timestamp": "2023-01-31T21:01:47",
+    "Domain": "dev.to",
+    "Description": "Howdy! In this blog, we’ll replicate a cruise travel application UI in .NET MAUI. It is a design..."
+  },
+  {
+    "Title": "GitHub Quick Reviews",
+    "Url": "https://youtube.com/watch?v=dEynVhV0wJU",
+    "Timestamp": "2023-01-31T19:01:45",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.io"
+  },
+  {
+    "Title": "Play Audio and Video in .NET MAUI apps with the new MediaElement",
+    "Url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-maui-communitytoolkit-mediaelement/",
+    "Timestamp": "2023-01-31T17:02:24",
+    "Domain": "devblogs.microsoft.com",
+    "Description": ".NET MAUI Community Toolkit MediaElement v1.0 is now available! Check out how to get started with playing audio and (live) video in your .NET MAUI app."
+  },
+  {
+    "Title": "Rewrite it in Rust by ridiculousfish · Pull Request #9512 · fish-shell/fish-shell",
+    "Url": "https://github.com/fish-shell/fish-shell/pull/9512",
+    "Timestamp": "2023-01-31T16:02:23",
+    "Domain": "github.com",
+    "Description": "(Sorry for the meme; also this is obligatory.)\nI think we should transition to Rust and aim to have it done by the next major release:\n\nNobody really likes C++ or CMake, and there's no clear path f..."
+  },
+  {
+    "Title": "Google blew it with open source layoffs",
+    "Url": "https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html",
+    "Timestamp": "2023-01-31T16:02:21",
+    "Domain": "www.infoworld.com",
+    "Description": "The decision to cut people who built the foundation that supports Google’s open source and cloud successes seems incredibly shortsighted."
+  },
+  {
+    "Title": "How to Implement Checkbox List in ASP.NET Core - Code Maze",
+    "Url": "https://code-maze.com/implement-checkbox-list-aspnetcore/",
+    "Timestamp": "2023-01-31T15:02:40",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we look at how to implement a checkbox list in ASP.NET Core, using the existing Checkbox functionality."
+  },
+  {
+    "Title": "C# Tip: do NOT use nameof to give constants a value - Code4IT",
+    "Url": "https://www.code4it.dev/csharptips/do-not-use-nameof-for-constants/",
+    "Timestamp": "2023-01-31T15:02:40",
+    "Domain": "www.code4it.dev",
+    "Description": "In C#, nameof can be quite useful. But it has some drawbacks, if used the wrong way."
+  },
+  {
+    "Title": "Inside C++/WinRT: Apartment switching: Error reporting",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20230131-00/?p=107770",
+    "Timestamp": "2023-01-31T15:02:39",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "If you can't get back to where you started, who you gonna call?"
+  },
+  {
+    "Title": "Uno Platform 4.7 Update Brings Simpler Solution and Performance Improvements ",
+    "Url": "https://www.infoq.com/news/2023/01/uno-platform-47-update/",
+    "Timestamp": "2023-01-31T13:01:21",
+    "Domain": "www.infoq.com",
+    "Description": "The open-source UI framework for cross-platform C# and XAML applications, Uno, has been updated to version 4.7. It brings a simplified solution experience in Visual Studio, performance updates on different platforms and other minor updates."
+  },
+  {
+    "Title": "WUG Days 2023.1 | tabs ↹ over ␣ ␣ ␣ spaces by Jiří {x2} Činčura",
+    "Url": "https://www.tabsoverspaces.com/233916-wug-days-2023-1",
+    "Timestamp": "2023-01-31T13:01:20",
+    "Domain": "www.tabsoverspaces.com",
+    "Description": "Jiří Činčura is .NET, C# and Firebird expert. He focuses on data and business layers, language constructs, parallelism, databases and performance. For almost two decades he contributes to open-source, i.e. FirebirdClient. He works as a software engineer for Microsoft. Frequent speaker and blogger at www.tabsoverspaces.com."
+  },
+  {
+    "Title": "The Company Intro Cinematic Universe is Bad",
+    "Url": "https://youtu.be/XRhjLKe1EkQ",
+    "Timestamp": "2023-01-31T11:01:46",
+    "Domain": "youtu.be",
+    "Description": "Marvel came up with a really neat corporate logo splash!  And then people started ripping it off..."
+  },
+  {
+    "Title": "Tracking Application Health With OpenTelemetry Metrics in .NET",
+    "Url": "https://code-maze.com/tracking-dotnet-opentelemetry-metrics/",
+    "Timestamp": "2023-01-31T11:01:46",
+    "Domain": "code-maze.com",
+    "Description": "We'll take a look at OpenTelemetry metrics in .NET apps, starting with the auto-instrumentation libraries and then custom metrics."
+  },
+  {
+    "Title": "Intel oneDAL Available in ML.NET ",
+    "Url": "https://www.infoq.com/news/2023/01/intel-onedal-ml-net/",
+    "Timestamp": "2023-01-31T09:01:23",
+    "Domain": "www.infoq.com",
+    "Description": "The first preview release of ML.NET 3.0, available since December, contains the integration with Intel oneAPI Data Analytics Library that leverages SIMD extensions on 64-bit architectures, which are available on Intel and AMD processors."
+  },
+  {
+    "Title": "Creating and downloading zip files with ASP.NET Core",
+    "Url": "https://blog.elmah.io/creating-and-downloading-zip-files-with-asp-net-core/",
+    "Timestamp": "2023-01-31T09:01:22",
+    "Domain": "blog.elmah.io",
+    "Description": "Learn how to zip a list of files and download it from an ASP.NET Core website. The post also digs down into a couple of best practices."
+  },
+  {
+    "Title": "Generating Sample Data with Bogus\n",
+    "Url": "https://wildermuth.com/2023/01/29/generating-sample-data-with-bogus/",
+    "Timestamp": "2023-01-31T07:03:50",
+    "Domain": "wildermuth.com",
+    "Description": "Most of my job these days is creating tutorials or examples. This means I often start from scratch with a new type of project. I usually just cruft up some sample data for my project to start. While investigating some alternatives to Automapper (video and blog coming soon), I wanted to be able to create a bunch of sample data. I, luckily, ran into a tool that I was surprised I'd never heard of: Bogus.\n"
+  },
+  {
+    "Title": "Checksum mismatches on .tar.gz files · Discussion #45830 · community",
+    "Url": "https://github.com/orgs/community/discussions/45830",
+    "Timestamp": "2023-01-31T07:03:43",
+    "Domain": "github.com",
+    "Description": "Select Topic Area Bug Body Our builds are breaking because sha256sums of downloaded .tar.gz files have changed. This happened sometime over the weekend or this morning (2023-01-30). Did something c..."
+  },
+  {
+    "Title": "My experience with migrating my app from Xamarin.Forms to .NET MAUI - Andreas Nesheim",
+    "Url": "https://www.andreasnesheim.no/my-experience-with-migrating-my-app-from-xamarin-forms-to-net-maui/",
+    "Timestamp": "2023-01-31T07:03:43",
+    "Domain": "www.andreasnesheim.no",
+    "Description": "I’ve been eager to rewrite some of my personal apps from Xamarin.Forms to .NET MAUI, but since all of them…"
+  },
+  {
+    "Title": "Central Package Management - warning NU1507: There are 2 package sources defined in your configuration.",
+    "Url": "https://bartwullems.blogspot.com/2023/01/central-package-management-warning.html",
+    "Timestamp": "2023-01-31T07:03:42",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "A few weeks ago, I talked about a new NuGet feature, Central Package Management . This allows you to manage your dependencies at the solutio..."
+  },
+  {
+    "Title": "async void – How to Tame the Asynchronous Nightmare - Dev Leader",
+    "Url": "https://www.devleader.ca/2023/01/27/async-void-how-to-tame-the-asynchronous-nightmare/",
+    "Timestamp": "2023-01-31T07:03:42",
+    "Domain": "www.devleader.ca",
+    "Description": "Most intermediate dotnet developers writing async await code in C# will come across async void at some point. Here's a creative solution for avoiding the headaches, especially with EventHandlers!"
+  },
+  {
+    "Title": "Built-in alternatives to applicative assertions",
+    "Url": "https://blog.ploeh.dk/2023/01/30/built-in-alternatives-to-applicative-assertions/",
+    "Timestamp": "2023-01-31T07:03:42",
+    "Domain": "blog.ploeh.dk",
+    "Description": "Why make things so complicated?"
+  },
+  {
+    "Title": "Windows I/O completion - One little trick · James Sturtevant",
+    "Url": "https://www.jamessturtevant.com/posts/windows-io-completion/",
+    "Timestamp": "2023-01-31T07:03:42",
+    "Domain": "www.jamessturtevant.com",
+    "Description": "I’ve been learning how to deal with I/O Completion ports for my latest project and found a few libraries that manage it all for me but I was getting strange behavior, So I ended up having to dig deep enough to understand what was happening. I didn’t find a really clear post so here is my attempt."
+  },
+  {
+    "Title": "CI/CD: Automating Tests and Deployments the Fun Way",
+    "Url": "https://thoughtbot.com/blog/ci-cd-automating-tests-and-deployments-the-fun-way",
+    "Timestamp": "2023-01-31T07:03:41",
+    "Domain": "thoughtbot.com",
+    "Description": "Running tests and managing deployments can be a tediously manual process or overwhelming to automate with all the available platforms and tools to choose from. We at Mission Control want to share how our process has made CI/CD simple and enjoyable."
+  },
+  {
+    "Title": "The Company Intro Cinematic Universe is Bad",
+    "Url": "https://youtube.com/watch?v=XRhjLKe1EkQ",
+    "Timestamp": "2023-01-31T04:01:27",
+    "Domain": "youtube.com",
+    "Description": "Marvel came up with a really neat corporate logo splash!  And then people started ripping it off..."
+  },
+  {
+    "Title": "Episode 261: Proofs, Arguments, and ZKPs with Justin Thaler - ZK Podcast",
+    "Url": "https://zeroknowledge.fm/261-2/",
+    "Timestamp": "2023-01-31T02:01:49",
+    "Domain": "zeroknowledge.fm",
+    "Description": "Zero Knowledge Podcast is a show about zk proofs and other blockchain tech. Learn about the latest in zero knowledge research, cryptography-enabled privacy tech."
+  },
+  {
+    "Title": "Uno Platform 4.7 Sports New Project Template -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2023/01/30/uno-platform-4-7.aspx",
+    "Timestamp": "2023-01-31T01:01:47",
+    "Domain": "visualstudiomagazine.com",
+    "Description": " 'In this updated solution template, the 'Shared Project' is replaced by a regular cross-platform library containing all user code files.' "
+  }
+]

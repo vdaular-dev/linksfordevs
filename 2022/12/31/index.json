@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Large-Scale Vehicle Classification – Pickled ML",
+    "Url": "https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "blog.aqnichol.com",
+    "Description": "As a hobby project over the past few weeks, I’ve been training neural networks to predict the prices of cars in photographs. Anybody with some experience in ML can probably guess what I did, at least on a high level: I scraped terabytes of data from the internet and trained a neural network on it. However, I ended up learning more than I expected to along this journey. For example, this was the first time I’ve observed clear and somewhat surprising positive transfer across prediction tasks. In particular, I found that predicting additional details about each car (e.g. make and model) improved the accuracy of price predictions. Additionally, I learned a few things about file systems, specifically EXT4, that threw me off guard. And finally, I used AI-powered image editing to uncover some interesting behaviors of my trained classifier."
+  },
+  {
+    "Title": "10 Tips for Optimizing MySQL Queries",
+    "Url": "https://www.qubitsize.com/10-tips-for-optimizing-mysql-queries",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "www.qubitsize.com",
+    "Description": "Learn how to optimize your MySQL queries for better performance and faster results."
+  },
+  {
+    "Title": "Improving color quantization heuristics",
+    "Url": "http://blog.pkh.me/p/39-improving-color-quantization-heuristics.html",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "blog.pkh.me",
+    "Description": "In 2015, I wrote an article about how the palette color quantization was\nimproved in FFmpeg in order to make nice animated GIF files. For some\nreason, to this day this is one of my most popular article."
+  },
+  {
+    "Title": "First Impressions of Tailscale",
+    "Url": "https://maxniederman.com/posts/tailscale-impressions/",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "maxniederman.com",
+    "Description": "My first impressions using Tailscale for my self-hosted services."
+  },
+  {
+    "Title": "Raspberry Pi security alarm — the basics",
+    "Url": "https://blog.cavelab.dev/2022/12/rpi-security-alarm/",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "blog.cavelab.dev",
+    "Description": "In November last year — I started building a DIY security alarm system, using a Raspberry Pi as the controller. My plan was to make a self-sustained system, using proper alarm hardware — like PIR sensors and sirens.\nIntegration with Home Assistant would be an add-on, not a requirement. I wanted the system to be as redundant and fault-tolerant as I could make it.\nThis is a pretty long story, with some twists and turns — let’s get into it 👇"
+  },
+  {
+    "Title": "CSS blocky people making waves",
+    "Url": "https://muffinman.io/blog/css-blocky-people-making-waves/",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "muffinman.io",
+    "Description": "Stadium waves in CSS, just in time for the World Cup!"
+  },
+  {
+    "Title": "Part of the wrong 1% — Ostomy surgery, part 2",
+    "Url": "https://www.jeffgeerling.com/blog/2022/part-of-the-wrong-1-perecent-ostomy-surgery-part-2",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "About 1 percent of Americans have diagnosed Inflammatory Bowel Disease (IBD) like Crohn's Disease or Ulcerative Colitis. And about 1 in 500 Americans (0.2%) have ostomies—small openings called stomas that help when their bowels get really screwed up (whether through disease, cancer, or trauma)."
+  },
+  {
+    "Title": "Satisficing: The Time-Saving Decision-Making Strategy - Sean Bolton",
+    "Url": "https://seanbolton.dev/2022/12/31/satisficing-the-time-saving-decision-making-strategy/",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "seanbolton.dev",
+    "Description": "Learn about satisficing, the time-saving decision-making strategy that involves finding a good enough solution."
+  },
+  {
+    "Title": "Degenerate Matter: How Reality Deals With Uncertainty",
+    "Url": "https://azeemba.com/posts/degenerate-matter.html",
+    "Timestamp": "2022-12-31T23:03:00",
+    "Domain": "azeemba.com",
+    "Description": "Casual introduction to the uncertainty principle from quantum mechanics and how it leads to neutron stars and superfluids"
+  },
+  {
+    "Title": "I was fired from HubSpot in 2016",
+    "Url": "https://www.moderndescartes.com/essays/getting_fired/",
+    "Timestamp": "2022-12-31T23:02:59",
+    "Domain": "www.moderndescartes.com",
+    "Description": "Originally posted 2022-12-30"
+  },
+  {
+    "Title": "Effective Error Handling",
+    "Url": "https://alex-jacobs.com/posts/errorhandling/",
+    "Timestamp": "2022-12-31T23:02:59",
+    "Domain": "alex-jacobs.com",
+    "Description": "A simple an effective approach for handling end users who struggle with errors"
+  },
+  {
+    "Title": "Make Your Types Smaller",
+    "Url": "https://jezenthomas.com/2022/12/make-your-types-smaller/",
+    "Timestamp": "2022-12-31T23:02:59",
+    "Domain": "jezenthomas.com",
+    "Description": "Persistent models tend to be where primitive obsession creeps in. Make your types more specific so you avoid paying the cost of having to sprinkle validation code throughout your system."
+  },
+  {
+    "Title": "Why and how to write things on the Internet",
+    "Url": "https://www.benkuhn.net/writing/",
+    "Timestamp": "2022-12-31T23:02:59",
+    "Domain": "www.benkuhn.net",
+    "Description": "because you’ll have more awesome friendships • be consistent • suggested post ideas • setup advice • getting initial readers"
+  },
+  {
+    "Title": "2022 Sucked",
+    "Url": "https://scottscheper.com/letter/53/",
+    "Timestamp": "2022-12-31T23:02:59",
+    "Domain": "scottscheper.com",
+    "Description": "The Website of Scott P. Scheper of San Diego, California."
+  },
+  {
+    "Title": "Ivan on Containers, Kubernetes, and Backend Development",
+    "Url": "https://iximiuz.ck.page/posts/ivan-on-containers-kubernetes-and-backend-development-15",
+    "Timestamp": "2022-12-31T19:03:12",
+    "Domain": "iximiuz.ck.page",
+    "Description": "Hello friends! Ivan's here - this time not with a traditional monthly round-up but with a full-blown annual recap of the posts, streams, projects, and anything else that can help you master Kubernetes, containers, and the server-side craft. Let's begin! Kubernetes The year started with a series..."
+  },
+  {
+    "Title": "Keycloak as Authorization Server in .NET",
+    "Url": "https://dev.to/nikiforovall/keycloak-as-authorization-server-in-net-91m",
+    "Timestamp": "2022-12-31T18:01:30",
+    "Domain": "dev.to",
+    "Description": "TL;DR Introduction  Example Overview   Configure Keycloak Authorization based on ASP.NET Core..."
+  },
+  {
+    "Title": "ASP.NET Community Standup - Blazor in .NET 7",
+    "Url": "https://youtube.com/watch?v=mDKvgpD8YM0",
+    "Timestamp": "2022-12-31T17:03:02",
+    "Domain": "youtube.com",
+    "Description": "Description: Learn more about the great new features coming to Blazor in .NET 7.Community Links: https://www.theurlist.com/blazor_community_standup_august_20..."
+  },
+  {
+    "Title": "Developers Should Celebrate Software Development Being Hard",
+    "Url": "https://medium.com/codex/developers-should-celebrate-software-development-being-hard-c2e84d503cf",
+    "Timestamp": "2022-12-31T14:01:31",
+    "Domain": "medium.com",
+    "Description": "What doesn’t kill you in software development often makes you complain….alot"
+  },
+  {
+    "Title": "Rian Johnson Breaks Down the \"Arrival\" Scene from 'Glass Onion: A Knives Out Mystery' | Vanity Fair",
+    "Url": "https://youtube.com/watch?v=9IM1AEbnGX4",
+    "Timestamp": "2022-12-31T13:04:06",
+    "Domain": "youtube.com",
+    "Description": "'Glass Onion: A Knives Out Mystery' director Rian Johnson breaks down the arrival scene from his new film.GLASS ONION: A KNIVES OUT MYSTERY is available on N..."
+  },
+  {
+    "Title": "Washington Updates Guidance On 2023 Pay Transparency Requirements",
+    "Url": "https://www.wageandhourlawupdate.com/2022/10/articles/states/washington/washington-updates-guidance-on-2023-pay-transparency-requirements/",
+    "Timestamp": "2022-12-31T09:01:49",
+    "Domain": "www.wageandhourlawupdate.com",
+    "Description": "Washington State’s Department of Labor and Industries recently released a draft administrative policy with updated guidance on the modified pay"
+  },
+  {
+    "Title": "HTTPS explained with carrier pigeons",
+    "Url": "https://baida.dev/articles/https-explained-with-carrier-pigeons",
+    "Timestamp": "2022-12-31T08:02:58",
+    "Domain": "baida.dev",
+    "Description": "Personal website of Andrea Zanin"
+  },
+  {
+    "Title": "TriviaR/Game.cs at 92b5f943a8e73fabaff993431fa114134dfc8179 · davidfowl/TriviaR",
+    "Url": "https://github.com/davidfowl/TriviaR/blob/92b5f943a8e73fabaff993431fa114134dfc8179/TriviaR/Game.cs#L112",
+    "Timestamp": "2022-12-31T03:04:09",
+    "Domain": "github.com",
+    "Description": "A multiplayer trivia game using SignalR and .NET 7 - TriviaR/Game.cs at 92b5f943a8e73fabaff993431fa114134dfc8179 · davidfowl/TriviaR"
+  },
+  {
+    "Title": "sup",
+    "Url": "https://drew.shoes/posts/sup/",
+    "Timestamp": "2022-12-31T03:04:08",
+    "Domain": "drew.shoes",
+    "Description": "When I was in junior high, my friends and I discovered that a Command Prompt command called net send was enabled on our school network. AIM and similar services were blocked, but if we wanted to send messages to each other we could open up the Command Prompt and type something like:\nnet send lab2126-24 test and get an alert that looked like: The computer names were predictable, something like lab + room number + computer number, and the computer numbers were physically written on the machines themselves."
+  },
+  {
+    "Title": "RE: False Rumors on API Leaks or Exposure of our Database",
+    "Url": "https://3commas.io/blog/response-to-false-rumors-api-leaks",
+    "Timestamp": "2022-12-31T01:03:20",
+    "Domain": "3commas.io",
+    "Description": "Blog post addressing rumors that 3Commas suffered fromo API Leaks"
+  },
+  {
+    "Title": "Lessons Learned using DevContainers & the Azure Developer Cli to code apps anytime. | .NET Conf 2022",
+    "Url": "https://youtube.com/watch?v=W6gdGkvMk10",
+    "Timestamp": "2022-12-31T01:03:20",
+    "Domain": "youtube.com",
+    "Description": "My best moment of harmony is when I take a shower. I'm not even thinking, then suddenly BAM! The solution hits me! In the past, I had rushed to my laptop, po..."
+  },
+  {
+    "Title": "Notice on API data disclosure incident",
+    "Url": "https://3commas.io/blog/notice-on-api-data-disclosure-incident",
+    "Timestamp": "2022-12-31T01:03:20",
+    "Domain": "3commas.io",
+    "Description": "Notice on API data disclosure incident"
+  }
+]

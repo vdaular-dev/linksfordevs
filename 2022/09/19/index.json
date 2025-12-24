@@ -1,0 +1,373 @@
+[
+  {
+    "Title": "10 Good Daily Habits That Will Make Your Life Suck Less",
+    "Url": "https://durmonski.com/self-improvement/good-daily-habits/",
+    "Timestamp": "2022-09-19T23:03:46",
+    "Domain": "durmonski.com",
+    "Description": "Life shouldn't suck. If you want progress, you need repetition. Here's a list of 10 good daily habits that will help you improve your life."
+  },
+  {
+    "Title": "How to build a Twitter and Instagram bot with no code",
+    "Url": "https://johnson.fm/blogs/how-to-build-a-twitter-and-instagram-bot-with-no-code",
+    "Timestamp": "2022-09-19T23:03:46",
+    "Domain": "johnson.fm",
+    "Description": "Whether you're a UI-UX designer, developer, content creator, artists or photographer. Ethan is best suited for you to showcase your work or projects around the world."
+  },
+  {
+    "Title": "Game Theory and Winning at ponziFarm",
+    "Url": "https://blog.ponzifarm.com/blog/game-theory/",
+    "Timestamp": "2022-09-19T23:03:45",
+    "Domain": "blog.ponzifarm.com",
+    "Description": "A poker player who never bluffs will not be a poker player for long. And while playing nice is absolutely a valid ponziFarm strategy, it is not the ONLY one."
+  },
+  {
+    "Title": "The Case for reducing your digital clutter. | Kole McRae",
+    "Url": "https://kolemcrae.com/notebook/digitalclutter.html",
+    "Timestamp": "2022-09-19T23:03:45",
+    "Domain": "kolemcrae.com",
+    "Description": "I have a new email address. It's using a service called ProtonMail.  The service itself has a lot of great reasons for switching but mine was  probably not something they would expect."
+  },
+  {
+    "Title": "How To Implement Test Automation For Your Embedded Product? » Test Automation",
+    "Url": "https://pallavaggarwal.in/2022/09/17/embedded-hardware-test-automation/",
+    "Timestamp": "2022-09-19T23:03:44",
+    "Domain": "pallavaggarwal.in",
+    "Description": "Improve your product reliability by adopting test automation solutions for validation and functional testing in the production."
+  },
+  {
+    "Title": "Hybrid Web Frameworks Q&A with Allen Conway: Reach Android/iOS with JavaScript, HTML and CSS -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/09/19/hybrid-web-frameworks.aspx",
+    "Timestamp": "2022-09-19T23:03:44",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "Learn how offerings like Ionic, Cordova and others provide an alternative to straight web-dev, Progressive Web Applications (PWAs), native development and other cross-platform dev frameworks like Xamarin (now .NET MAUI), Flutter, React Native and so on."
+  },
+  {
+    "Title": "What happens when you amend a commit?",
+    "Url": "https://hanki.dev/git-amend-under-the-hood/",
+    "Timestamp": "2022-09-19T23:03:43",
+    "Domain": "hanki.dev",
+    "Description": "It's common knowledge that you can change your last commit with git commit --amend. It opens an editor to change the commit message, and if you have staged a..."
+  },
+  {
+    "Title": "Fast, Branchless Ray/Bounding Box Intersections, Part 3: Boundaries",
+    "Url": "https://tavianator.com/2022/ray_box_boundary.html",
+    "Timestamp": "2022-09-19T23:03:43",
+    "Domain": "tavianator.com",
+    "Description": "2022-07-27\n Tavian Barnes\n GitHub"
+  },
+  {
+    "Title": "Emoji language is the most compact",
+    "Url": "http://joaomacp.github.io/2022/09/17/emoji-language-is-the-most-compact.html",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "joaomacp.github.io",
+    "Description": "A few hours before playing in the 2022 US Open final, tennis player Carlos Alcaraz tweeted this 🧠❤️🥚🥚— Carlos Alcaraz (@carlosalcaraz) September 11, 2022 Eggs (“huevos”) in spanish means the equivalent of “balls” in english. In such a short length Carlos was able to convey the requirements for a successful final match: brains, heart, and… uuh… courage! His grandfather used to tell him that, so it must be an ancient formula. The tweet was shown on the live broadcast. Upon seeing it I was surprised at the efficiency in the length of the message vs. the intended meaning. Here is the UTF-8 encoding: 🧠 F0 9F A7 A0 ❤️ EE 80 A2 🥚 F0 9F A5 9A 🥚 F0 9F A5 9A"
+  },
+  {
+    "Title": "A few thoughts about Uber&#39;s breach",
+    "Url": "https://cendyne.dev/posts/2022-09-19-a-few-thoughts-about-ubers-breach.html",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "cendyne.dev",
+    "Description": "Uber had a data breach, but besides saying use WebAuthn, what could they do better? Also a reflection on what changes the industry should consider."
+  },
+  {
+    "Title": "Content based change detection with Make",
+    "Url": "https://andydote.co.uk/2022/09/19/make-content-hash/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "andydote.co.uk",
+    "Description": "On several occasions when building complex projects, I have been tempted to set up Bazel to help speed up the build process; after all, it has a lot to offer: only building what has changed, caching built artifacts, and sharing that cache between machines for even more speed.\nTLDR We can use Make and a couple of short shell scripts to implement file content-based caching and read/write that cache to remote storage, such as S3."
+  },
+  {
+    "Title": "How I manage my passwords",
+    "Url": "https://bitspook.in/blog/how-i-manage-my-passwords/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "bitspook.in",
+    "Description": ""
+  },
+  {
+    "Title": "Implementing a Terraform state backend on Cloudflare Workers",
+    "Url": "https://mirio.dev/2022/09/18/implementing-a-terraform-state-backend/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "mirio.dev",
+    "Description": "Preface If you are just hearing about Terraform for the first time, the introduction to this post attempts to outline all the necessary information to get up to speed. For the already initiated, feel free to skim through the introduction before diving into the details of creating your own HTTP Terraform Backend on Cloudflare Workers.\nIntroduction to Terraform Terraform is a popular open-source tool for defining infrastructure-as-code and is primarily developed by HashiCorp."
+  },
+  {
+    "Title": "Building a Sequencer and a Level Editor for Vectron",
+    "Url": "http://nicktasios.nl/posts/building-a-sequencer-and-a-lever-editor-for-vectron.html",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "nicktasios.nl",
+    "Description": "Vectron is unique in the way audio, graphics, and gameplay are intertwined. This feature of Vectron meant I had to build a special audio sequencer that also worked as a level editor.\n\nThe central conc"
+  },
+  {
+    "Title": "How you can help the Linux Mobile ecosystem",
+    "Url": "https://connolly.tech/posts/2022_09_16-how-to-help-linux-mobile/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "connolly.tech",
+    "Description": "The Linux Mobile ecosystem is really blossoming now as we enter the last quarter\nof 2022. More and more people are getting involved, and I’m starting to be asked\none question in particular a lot more: “I’m just a user, how can I help?”."
+  },
+  {
+    "Title": "Loss, Grief, Sadness · Jerry Liu",
+    "Url": "https://www.personjerry.com/posts/loss-grief-sadness/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "www.personjerry.com",
+    "Description": "Monday September 19, 2022 [blog, repost]"
+  },
+  {
+    "Title": "Why I don’t enjoy RSpec all that much",
+    "Url": "https://nts.strzibny.name/why-not-rspec/",
+    "Timestamp": "2022-09-19T23:03:42",
+    "Domain": "nts.strzibny.name",
+    "Description": "One of the reasons I prefer testing with Minitest is the dissatisfaction with my everyday RSpec work. Here are things I don’t like about typical RSpec test suites and how to fix them."
+  },
+  {
+    "Title": "An extremely opinionated guide on making friends for people who are exactly like me",
+    "Url": "https://blog.aadilali.com/posts/friends.html",
+    "Timestamp": "2022-09-19T23:03:41",
+    "Domain": "blog.aadilali.com",
+    "Description": "Most friends during your childhood are going to be circumstantial. You didn’t really choose where you went to school K-8 because you didn’t really choose the town you lived in or the area your parents moved to. You maybe went to the gifted program in elementary or the IB program in high school and you maybe did clubs relevant to your interests. But, for the most part, the friends you made just happened to be the people you saw everyday and you guys weren’t bonded by much more than circumstance."
+  },
+  {
+    "Title": "Rachit Nigam | PhD Candidate, Cornell University",
+    "Url": "https://rachitnigam.com/post/why-study-programming-languages/",
+    "Timestamp": "2022-09-19T23:03:41",
+    "Domain": "rachitnigam.com",
+    "Description": "This class is about the study of programming languages. Before we start, I want to perform two activities with folks here. First, I want us to answer two dumb questions:"
+  },
+  {
+    "Title": "Unique 2-in-1 calculator app adds up to surprise hit for retired engineer in Japan - The Mainichi",
+    "Url": "https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c",
+    "Timestamp": "2022-09-19T22:02:03",
+    "Domain": "mainichi.jp",
+    "Description": "TOKYO -- A 63-year-old man in Japan who is an avid iPhone user has dedicated some of his post-retirement years to developing a popular, unique app tha"
+  },
+  {
+    "Title": "How I’m a Productive Programmer With a Memory of a Fruit Fly",
+    "Url": "https://hynek.me/articles/productive-fruit-fly-programmer/",
+    "Timestamp": "2022-09-19T22:02:01",
+    "Domain": "hynek.me",
+    "Description": "A love letter to tools that changed everything for me."
+  },
+  {
+    "Title": "I Resurrected \"Ugly Sonic\" with Stable Diffusion Textual Inversion | Max Woolf's Blog",
+    "Url": "https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/",
+    "Timestamp": "2022-09-19T20:02:09",
+    "Domain": "minimaxir.com",
+    "Description": "The true dystopia of AI is that it can make Ugly Sonic look cool."
+  },
+  {
+    "Title": "WebAssembly Users a Mix of Backend and Full Stack Developers",
+    "Url": "https://thenewstack.io/webassembly-users-a-mix-of-backend-and-full-stack-developers/",
+    "Timestamp": "2022-09-19T20:02:09",
+    "Domain": "thenewstack.io",
+    "Description": "WebAssembly is cultivating a diverse user-base, with backend devs using WASM for cloud native work, and full-stack devs deploying it for Web development."
+  },
+  {
+    "Title": "Visual Studio Devs Can Now Roll Back Problematic Updates -- Visual Studio Magazine",
+    "Url": "https://visualstudiomagazine.com/articles/2022/09/19/vs-17-4-p2.aspx",
+    "Timestamp": "2022-09-19T19:02:19",
+    "Domain": "visualstudiomagazine.com",
+    "Description": "  Addressing a longstanding (nearly 4 years) developer request, Microsoft has made it easier to roll back problematic IDE updates in the new Visual Studio 2022 17.4 Preview 2."
+  },
+  {
+    "Title": "Return to Monkey Island | Available Now!",
+    "Url": "https://returntomonkeyisland.com/?abc=",
+    "Timestamp": "2022-09-19T19:02:16",
+    "Domain": "returntomonkeyisland.com",
+    "Description": "Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games The Secret of Monkey Island and Monkey Island 2: LeChuck’s Revenge developed in collaboration with Lucasfilm Games."
+  },
+  {
+    "Title": "csharplang/file-local-types.md at main · dotnet/csharplang",
+    "Url": "https://github.com/dotnet/csharplang/blob/main/proposals/file-local-types.md",
+    "Timestamp": "2022-09-19T19:02:15",
+    "Domain": "github.com",
+    "Description": "The official repo for the design of the C# programming language - csharplang/file-local-types.md at main · dotnet/csharplang"
+  },
+  {
+    "Title": "Announcing the Launch of the Chrome Root Program",
+    "Url": "https://blog.chromium.org/2022/09/announcing-launch-of-chrome-root-program.html",
+    "Timestamp": "2022-09-19T19:02:15",
+    "Domain": "blog.chromium.org",
+    "Description": "In 2020, we announced  we were in the early phases of establishing the Chrome Root Program and launching the Chrome Root Store.  The Chrome ..."
+  },
+  {
+    "Title": "The iPhone 14 Feature Apple Didn’t Tell You About | iFixit News",
+    "Url": "https://www.ifixit.com/News/64865/iphone-14-teardown",
+    "Timestamp": "2022-09-19T17:02:12",
+    "Domain": "www.ifixit.com",
+    "Description": "The best feature of the iPhone 14 is one that Apple didn’t tell you about. Turns out this isn’t the iPhone 13S reviewers have been panning—take a look!"
+  },
+  {
+    "Title": "@jost0101/dotnet-content-creators",
+    "Url": "https://twt.funami.tech/i/lists/1567240908059430912",
+    "Timestamp": "2022-09-19T17:02:12",
+    "Domain": "twt.funami.tech",
+    "Description": ""
+  },
+  {
+    "Title": "Microsoft Learn: Build skills that open doors in your career",
+    "Url": "https://learn.microsoft.com/en-us/",
+    "Timestamp": "2022-09-19T17:02:11",
+    "Domain": "learn.microsoft.com",
+    "Description": "Gain technical skills through documentation and training, earn certifications and connect with the community"
+  },
+  {
+    "Title": "Aleksandr Sorokin Smashes 24-Hour World Record With 198.6 Mile/319.6 Kilometer Run",
+    "Url": "https://www.irunfar.com/aleksandr-sorokin-smashes-24-hour-world-record-with-198-6-mile-319-6-kilometer-run",
+    "Timestamp": "2022-09-19T16:01:48",
+    "Domain": "www.irunfar.com",
+    "Description": "Lithuania's Aleksandr Sorokin sets a new 24-hour world record of 198.6 miles (319.6 kilometers) on September 17-18, 2022 in Verona, Italy, at the IAU 24-Hour European Championships."
+  },
+  {
+    "Title": "Why load fs:[0x18] into a register and then dereference that, instead of just going for fs:[n] directly?",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20220919-00/?p=107195",
+    "Timestamp": "2022-09-19T15:02:47",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Simplifying the compiler."
+  },
+  {
+    "Title": "Using multiple JSON serialization settings in ASP.NET Core",
+    "Url": "https://thomaslevesque.com/2022/09/19/using-multiple-json-serialization-settings-in-aspnet-core/",
+    "Timestamp": "2022-09-19T15:02:47",
+    "Domain": "thomaslevesque.com",
+    "Description": "My blog has been a bit quiet in the last 18 months or so, because, well, life happened… In that time span I became a father, changed jobs twice, and relocated to Canada with my family, so free time has been scarce. Anyway, I recently ran into a problem that I found worthy of a blog post, and I have a bit of time to write!\nHeterogenous JSON formats Let’s say we’re building an ASP."
+  },
+  {
+    "Title": "Writing unsafe .NET code without the unsafe keyword - Gérald Barré",
+    "Url": "https://www.meziantou.net/writing-unsafe-dotnet-code-without-the-unsafe-keyword.htm",
+    "Timestamp": "2022-09-19T15:02:47",
+    "Domain": "www.meziantou.net",
+    "Description": "In this post, I describe how to write unsafe code without the unsafe keyword in a C# application."
+  },
+  {
+    "Title": "Start using EF Core with your existing Azure SQL Database in 5 minutes | Data Exposed: MVP Edition",
+    "Url": "https://youtube.com/watch?v=1g79ZbeEeL8",
+    "Timestamp": "2022-09-19T14:01:44",
+    "Domain": "youtube.com",
+    "Description": "Come learn how to start using your existing Azure SQL Database using Entity Framework Core and EF Core Power Tools in this episode of Data Exposed: MVP Editi..."
+  },
+  {
+    "Title": "Community Tuesday",
+    "Url": "https://app.checkin.no/event/47762",
+    "Timestamp": "2022-09-19T13:01:46",
+    "Domain": "app.checkin.no",
+    "Description": ""
+  },
+  {
+    "Title": "Cloudforce One is now generally available: empower your security team with threat data, tooling, and access to industry experts",
+    "Url": "https://blog.cloudflare.com/cloudforce-one-is-now-ga/",
+    "Timestamp": "2022-09-19T13:01:44",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Cloudflare’s threat operations and research team, Cloudforce One, is now open for business and has begun conducting threat briefings. Join our webinar on “YackingYeti: How a Russian threat group targets Ukraine—and the world”, scheduled for October 12, to learn more"
+  },
+  {
+    "Title": "Figma: A Random Walk in Palo Alto",
+    "Url": "https://adamnash.blog/2022/09/16/figma-a-random-walk-in-palo-alto/",
+    "Timestamp": "2022-09-19T13:01:43",
+    "Domain": "adamnash.blog",
+    "Description": "Figma’s first conference, Config 2020. On June 25, 2013, Dylan Field, one of my favorite interns from LinkedIn dropped by Wealthfront headquarters in Palo Alto to catch up and get some advice…"
+  },
+  {
+    "Title": "The CORRECT way to implement Retries in .NET",
+    "Url": "https://youtube.com/watch?v=nJH0PC2Pubs",
+    "Timestamp": "2022-09-19T12:02:13",
+    "Domain": "youtube.com",
+    "Description": "Get started with Octopus Deploy: https://oc.to/nickchapsasJoin Octopus Deploy's free Slack community:  https://oc.to/SlackCommunityCheck out my courses: http..."
+  },
+  {
+    "Title": "Hacker News",
+    "Url": "https://hackertosh.org/",
+    "Timestamp": "2022-09-19T12:02:12",
+    "Domain": "hackertosh.org",
+    "Description": null
+  },
+  {
+    "Title": "Tickets Techorama 2022 | Techorama",
+    "Url": "https://techorama.nl/tickets/",
+    "Timestamp": "2022-09-19T10:01:51",
+    "Domain": "techorama.nl",
+    "Description": "Buy your tickets for our fabulous Vegas edition October 10-12 in Utrecht, 2022"
+  },
+  {
+    "Title": "Google removed our website from search because it uses youtube-dl",
+    "Url": "https://www.kapwing.com/blog/google-erased-our-website/",
+    "Timestamp": "2022-09-19T10:01:50",
+    "Domain": "www.kapwing.com",
+    "Description": "A week ago, we received an email that every website owner dreads - a notification of a DMCA takedown request that has resulted in our website being removed from Google Search. In this email, Google summarized the takedown request (which can be viewed here) which accuses our company, Kapwing, of"
+  },
+  {
+    "Title": "FileSystemWatcher in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-filesystemwatcher/",
+    "Timestamp": "2022-09-19T09:02:16",
+    "Domain": "code-maze.com",
+    "Description": "In this article, we are going to learn about FileSystemWatcher in C# and how we can use it to monitor file system changes."
+  },
+  {
+    "Title": "SOLID principles in C# used in object-oriented design (OOD)",
+    "Url": "https://www.roundthecode.com/dotnet/solid-principles-c-sharp-object-oriented-design",
+    "Timestamp": "2022-09-19T09:02:15",
+    "Domain": "www.roundthecode.com",
+    "Description": "SOLID principles in C#, looking at design principles and examples for using object-oriented design (OOD) in your software"
+  },
+  {
+    "Title": "324: Revisiting GitHub Copilot",
+    "Url": "https://www.mergeconflict.fm/324",
+    "Timestamp": "2022-09-19T09:02:13",
+    "Domain": "www.mergeconflict.fm",
+    "Description": "It has been several months since we last talked about GitHub Copilot, the automated AI coding friend inside of Visual Studio & Visual Studio Code. Let's revisit and give our hands on thoughts of what we think of this new technology."
+  },
+  {
+    "Title": "GitHub - nviennot/core-to-core-latency: Measures the latency between CPU cores",
+    "Url": "https://github.com/nviennot/core-to-core-latency",
+    "Timestamp": "2022-09-19T09:02:12",
+    "Domain": "github.com",
+    "Description": "Measures the latency between CPU cores. Contribute to nviennot/core-to-core-latency development by creating an account on GitHub."
+  },
+  {
+    "Title": "C# 11 - Top 5 Features in the new C# Version | Rubik's Code",
+    "Url": "https://rubikscode.net/2022/09/19/c-11-top-5-features-in-the-new-c-version/",
+    "Timestamp": "2022-09-19T09:02:12",
+    "Domain": "rubikscode.net",
+    "Description": "In this article, we explore 5 new features that will be available in the new version of C# 11."
+  },
+  {
+    "Title": "An X11 Apologist Tries Wayland",
+    "Url": "https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html",
+    "Timestamp": "2022-09-19T09:02:11",
+    "Domain": "artemis.sh",
+    "Description": "I think it’s only fair to call me an X apologist. I get incredibly frustrated when people talk about dropping support for X11. I fight back against the notion that some day X11 will be dead and unmaintained, a curiosity of a time before. I’ve spoken to people in my circles at-length about the accessibility tools that Wayland simply hasn’t been capable of supporting that X11 has. A lot of times, I’ve ended this conversation with “Maybe 5 years from now it’ll be good”. Well it’s 5 years in since I first said those words, and you know what, I’m actually pleasantly surprised."
+  },
+  {
+    "Title": "Location independent jobs in Programming, Marketing, Sales, Design, and more.",
+    "Url": "https://www.realworkfromanywhere.com/",
+    "Timestamp": "2022-09-19T08:01:57",
+    "Domain": "www.realworkfromanywhere.com",
+    "Description": "Looking for a job as a digital nomad? Real Work from Anywhere is the world's first location independent remote job board for jobs as a Developer, Designer, Copywriter, Customer Support Rep, Sales Professional, Project Manager and more! Travel the world while you work."
+  },
+  {
+    "Title": "Implementing Google Web Risk API in ASPNET Core",
+    "Url": "https://dotnetthoughts.net/implementing-google-webrisk-aspi-in-aspnetcore/",
+    "Timestamp": "2022-09-19T07:02:06",
+    "Domain": "dotnetthoughts.net",
+    "Description": "This post is about how to implement Google Web Risk API in ASP.NET Core with C#. Google Web Risk is a Google Cloud service that lets client applications check URLs against Google’s constantly updated lists of unsafe web resources. It is an enterprize version of the Google Safe Browsing API. When I tried to implement this API in our application. Unfortunately I couldn’t find in C# or .NET Sample. The documentation site contains only Java sample. So I thought of posting it."
+  },
+  {
+    "Title": "ASP.NET Core Api Auth with multiple Identity Providers",
+    "Url": "https://damienbod.com/2022/09/19/asp-net-core-api-auth-with-multiple-identity-providers/",
+    "Timestamp": "2022-09-19T06:02:02",
+    "Domain": "damienbod.com",
+    "Description": "This article shows how an ASP.NET Core API can be secured using multiple access tokens from different identity providers. ASP.NET Core schemes and policies can be used to set this up. Code: The ASP…"
+  },
+  {
+    "Title": "Trianglify.io · Low Poly Pattern Generator",
+    "Url": "https://trianglify.io/",
+    "Timestamp": "2022-09-19T05:02:12",
+    "Domain": "trianglify.io",
+    "Description": "Create colorful low poly triangle patterns that can be used as wallpapers and website assets."
+  },
+  {
+    "Title": "Finding the “Second Bug” in glibc’s Condition Variable",
+    "Url": "https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/",
+    "Timestamp": "2022-09-19T00:01:47",
+    "Domain": "probablydance.com",
+    "Description": "I continue to have no time for big programming projects, so here is a short blog post. Two years ago I looked into a bug in the glibc implementation of condition variables: Sometimes pthread_cond_s…"
+  }
+]

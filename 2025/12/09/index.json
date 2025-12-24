@@ -1,0 +1,226 @@
+[
+  {
+    "Title": "10 Years of Let's Encrypt Certificates",
+    "Url": "https://letsencrypt.org/2025/12/09/10-years",
+    "Timestamp": "2025-12-09T22:02:12",
+    "Domain": "letsencrypt.org",
+    "Description": "On September 14, 2015, our first publicly-trusted certificate went live. We were proud that we had issued a certificate that a significant majority of clients could accept, and had done it using automated software. Of course, in retrospect this was just the first of billions of certificates. Today, Let’s Encrypt is the largest certificate authority in the world in terms of certificates issued, the ACME protocol we helped create and standardize is integrated throughout the server ecosystem, and we’ve become a household name among system administrators. We’re closing in on protecting one billion web sites.\n"
+  },
+  {
+    "Title": "Keeping a Docker Container Open in Docker Compose | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2025/12/keeping-a-docker-container-open-in-docker-compose/",
+    "Timestamp": "2025-12-09T22:02:09",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "It is not immediately obvious how to keep a Docker container running when using Docker Compose. Here is a simple way to do it."
+  },
+  {
+    "Title": "PeerTube",
+    "Url": "https://www.digitalpublicgoods.net/r/peertube",
+    "Timestamp": "2025-12-09T22:02:05",
+    "Domain": "www.digitalpublicgoods.net",
+    "Description": "PeerTube is a tool for hosting, managing, and sharing videos or live streams."
+  },
+  {
+    "Title": "Meet Pebble Index 01 - External Memory For Your Brain",
+    "Url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+    "Timestamp": "2025-12-09T21:02:10",
+    "Domain": "repebble.com",
+    "Description": "Meet Pebble Index 01 - External Memory For Your Brain"
+  },
+  {
+    "Title": "Bruno Simon",
+    "Url": "https://bruno-simon.com/",
+    "Timestamp": "2025-12-09T21:02:05",
+    "Domain": "bruno-simon.com",
+    "Description": "Bruno Simon's creative portfolio"
+  },
+  {
+    "Title": "Introducing: Devstral 2 and Mistral Vibe CLI. | Mistral AI",
+    "Url": "https://mistral.ai/news/devstral-2-vibe-cli",
+    "Timestamp": "2025-12-09T19:02:06",
+    "Domain": "mistral.ai",
+    "Description": "State-of-the-art, open-source agentic coding models and CLI agent."
+  },
+  {
+    "Title": "Hacker News",
+    "Url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+    "Timestamp": "2025-12-09T18:02:05",
+    "Domain": "dosaygo-studio.github.io",
+    "Description": null
+  },
+  {
+    "Title": "The New Cross Platform C# IDE is INSANE",
+    "Url": "https://youtube.com/watch?v=h5C7zB2nbrc",
+    "Timestamp": "2025-12-09T12:01:54",
+    "Domain": "youtube.com",
+    "Description": "Get 30% off Dometrain with code CHRISTMAS30: https://dometrain.com/?ref=nick-chapsas&promo=youtube&coupon_code=CHRISTMAS30\n\nHello, everybody. I'm Nick, and in this video, I want to show you a brand-new, open-source, cross-platform IDE called SharpIDE.\n\nGive SharpIDE on GitHub: https://github.com/MattParkerDev/SharpIDE\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet"
+  },
+  {
+    "Title": "The Universal Weight Subspace Hypothesis",
+    "Url": "https://arxiv.org/abs/2512.05117",
+    "Timestamp": "2025-12-09T09:01:54",
+    "Domain": "arxiv.org",
+    "Description": "We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first large-scale empirical evidence that demonstrates that neural networks systematically converge to shared spectral subspaces regardless of initialization, task, or domain. Through mode-wise spectral analysis of over 1100 models - including 500 Mistral-7B LoRAs, 500 Vision Transformers, and 50 LLaMA-8B models - we identify universal subspaces capturing majority variance in just a few principal directions. By applying spectral decomposition techniques to the weight matrices of various architectures trained on a wide range of tasks and datasets, we identify sparse, joint subspaces that are consistently exploited, within shared architectures across diverse tasks and datasets. Our findings offer new insights into the intrinsic organization of information within deep networks and raise important questions about the possibility of discovering these universal subspaces without the need for extensive data and computational resources. Furthermore, this inherent structure has significant implications for model reusability, multi-task learning, model merging, and the development of training and inference-efficient algorithms, potentially reducing the carbon footprint of large-scale neural models."
+  },
+  {
+    "Title": "Has the cost of building software just dropped 90%?",
+    "Url": "https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/",
+    "Timestamp": "2025-12-09T08:01:57",
+    "Domain": "martinalderson.com",
+    "Description": "Agentic coding tools are dramatically reducing software development costs. Here's why 2026 is going to catch a lot of people off guard."
+  },
+  {
+    "Title": "Horses",
+    "Url": "https://andyljones.com/posts/horses.html",
+    "Timestamp": "2025-12-09T06:02:10",
+    "Domain": "andyljones.com",
+    "Description": "AI progress is steady. Human equivalence is sudden."
+  },
+  {
+    "Title": "Is Vibe Coding Safe? Benchmarking Vulnerability of Agent-Generated Code in Real-World Tasks",
+    "Url": "https://arxiv.org/abs/2512.03262",
+    "Timestamp": "2025-12-09T03:02:20",
+    "Domain": "arxiv.org",
+    "Description": "Vibe coding is a new programming paradigm in which human engineers instruct large language model (LLM) agents to complete complex coding tasks with little supervision. Although it is increasingly adopted, are vibe coding outputs really safe to deploy in production? To answer this question, we propose SU S VI B E S, a benchmark consisting of 200 feature-request software engineering tasks from real-world open-source projects, which, when given to human programmers, led to vulnerable implementations. We evaluate multiple widely used coding agents with frontier models on this benchmark. Disturbingly, all agents perform poorly in terms of software security. Although 61% of the solutions from SWE-Agent with Claude 4 Sonnet are functionally correct, only 10.5% are secure. Further experiments demonstrate that preliminary security strategies, such as augmenting the feature request with vulnerability hints, cannot mitigate these security issues. Our findings raise serious concerns about the widespread adoption of vibe-coding, particularly in security-sensitive applications."
+  },
+  {
+    "Title": "Hyperacute Interdynamics",
+    "Url": "https://xkcd.com/3178/",
+    "Timestamp": "2025-12-09T03:02:17",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Icons in Menus Everywhere — Send Help",
+    "Url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
+    "Timestamp": "2025-12-09T03:02:14",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web."
+  },
+  {
+    "Title": "All that matters is winning",
+    "Url": "https://www.ryanhoover.me/post/all-that-matters-is-winning",
+    "Timestamp": "2025-12-09T01:04:31",
+    "Domain": "www.ryanhoover.me",
+    "Description": ""
+  },
+  {
+    "Title": "PostgreSQL and MongoDB: What Scaling Really Looks Like",
+    "Url": "https://stormatics.tech/blogs/postgresql-mongodb-and-what-cannot-scale-really-means",
+    "Timestamp": "2025-12-09T01:04:27",
+    "Domain": "stormatics.tech",
+    "Description": "How PostgreSQL scales in real-world systems, compared with MongoDB, and why true scalability depends on design and workloads, not headlines."
+  },
+  {
+    "Title": "i read more than i write",
+    "Url": "https://enombic.com/read-more-than-write",
+    "Timestamp": "2025-12-09T01:04:18",
+    "Domain": "enombic.com",
+    "Description": "we all consume. few create. ai trains on the minority."
+  },
+  {
+    "Title": "They have to be able to talk about us without us - Anil Dash",
+    "Url": "https://www.anildash.com/2025/12/05/talk-about-us-without-us/",
+    "Timestamp": "2025-12-09T01:04:15",
+    "Domain": "www.anildash.com",
+    "Description": "A blog about making culture. Since 1999."
+  },
+  {
+    "Title": "Satisficing for LLMs",
+    "Url": "https://www.alephic.com/writing/satisficing-for-llms",
+    "Timestamp": "2025-12-09T01:04:11",
+    "Domain": "www.alephic.com",
+    "Description": "By applying Herbert Simon’s concept of satisficing to AI, this post argues that language models might prefer logical‐sounding content over emotional appeals, mirroring human biases but inverted. It unveils a paradox: humans use emotion to decide rationally, while LLMs use pseudo‐rational style to appear helpful."
+  },
+  {
+    "Title": "The secure open source fallacy",
+    "Url": "https://ulveon.net/p/2025-12-03-the-secure-open-source-fallacy/",
+    "Timestamp": "2025-12-09T01:04:07",
+    "Domain": "ulveon.net",
+    "Description": "Most open source advocates, and many security professionals, often say things like “open source software is secure because you can just read the code”.\nThis argument assumes that the ability to read source code directly translates into the ability to understand, verify, and trust it, because you can see the files this software opens or the network sockets it listens on. You can see the kind of network data it sends, and the cryptography it uses.\n"
+  },
+  {
+    "Title": "Jepsen: NATS 2.12.1",
+    "Url": "https://jepsen.io/analyses/nats-2.12.1",
+    "Timestamp": "2025-12-09T01:04:03",
+    "Domain": "jepsen.io",
+    "Description": "NATS is a distributed streaming system. Regular NATS streams offer only best-effort delivery, but a subsystem, called JetStream, guarantees messages are delivered at least once. We tested NATS JetStream, version 2.12.1, and found that it lost writes if data files were truncated or corrupted on a minority of nodes. We also found that coordinated power failures, or an OS crash on a single node combined with network delays or process pauses, can cause the loss of committed writes and persistent split-brain. This data loss was caused (at least in part) by choosing to flush writes to disk every two minutes, rather than before acknowledging them. We also include a belated note on data loss due to process crashes in version 2.10.22, which was fixed in 2.10.23. NATS has now documented the risk of its default fsync policy, and the remaining issues remain under investigation. This research was performed independently by Jepsen, without compensation, and conducted in accordance with the Jepsen ethics policy."
+  },
+  {
+    "Title": "Claude Diary",
+    "Url": "https://rlancemartin.github.io/2025/12/01/claude_diary/",
+    "Timestamp": "2025-12-09T01:03:59",
+    "Domain": "rlancemartin.github.io",
+    "Description": "Creating a memory system for Claude Code."
+  },
+  {
+    "Title": "John Ocen's",
+    "Url": "https://johnocens.com/soothfare/WeSolvedScalebutLostCohesion",
+    "Timestamp": "2025-12-09T01:03:56",
+    "Domain": "johnocens.com",
+    "Description": "Output is deliberate."
+  },
+  {
+    "Title": "History - 2100",
+    "Url": "https://lucasvance.github.io/2100/history/",
+    "Timestamp": "2025-12-09T01:03:52",
+    "Domain": "lucasvance.github.io",
+    "Description": "2100: Restoring the American Dream"
+  },
+  {
+    "Title": "Multibase CLI",
+    "Url": "http://www.chriswarbo.net/blog/2025-12-07-multibase_cli.html",
+    "Timestamp": "2025-12-09T01:03:48",
+    "Domain": "www.chriswarbo.net",
+    "Description": "I recently pushed a few patches to the multiformats/rust-multibase\nproject to scratch my own itch, and I thought they would be useful to\ntalk about. In short, these changes do the following:"
+  },
+  {
+    "Title": "NotARoomba",
+    "Url": "https://notaroomba.dev/simpleflightcontroller",
+    "Timestamp": "2025-12-09T01:03:42",
+    "Domain": "notaroomba.dev",
+    "Description": ""
+  },
+  {
+    "Title": "Salt Bank Wants You to Gamble",
+    "Url": "https://michael-dev-tech.github.io/Website/salt.html",
+    "Timestamp": "2025-12-09T01:03:38",
+    "Domain": "michael-dev-tech.github.io",
+    "Description": "← Back to Home"
+  },
+  {
+    "Title": "llm weights vs the papercuts of corporate",
+    "Url": "https://ghuntley.com/papercuts/",
+    "Timestamp": "2025-12-09T01:03:35",
+    "Domain": "ghuntley.com",
+    "Description": "In woodworking, there's a saying that you should work with the grain, not against the grain and I've been thinking about how this concept may apply to large language models.\n\nThese large language models are built by training on existing data. This data forms the backbone which creates output based"
+  },
+  {
+    "Title": "Kinesis Advantage2 — Danish Prakash",
+    "Url": "https://danishpraka.sh/posts/kinesis-advantage2/",
+    "Timestamp": "2025-12-09T01:03:31",
+    "Domain": "danishpraka.sh",
+    "Description": ""
+  },
+  {
+    "Title": "Deep Dive into NVIDIA's Virtuous Cycle",
+    "Url": "https://philippeoger.com/pages/deep-dive-into-nvidias-virtuous-cycle",
+    "Timestamp": "2025-12-09T01:03:28",
+    "Domain": "philippeoger.com",
+    "Description": "I’ve spent the last 48 hours completely falling down the rabbit hole of\nNVIDIA’s Q3 Fiscal 2026 earnings report. If\nyou just skim the headlines, everything looks perfect: Revenue is up 62% to $57\nbillion, and Jensen Huang is talking about a \"virtuous cycle of AI.\""
+  },
+  {
+    "Title": "Going direct: notes on Eli Lilly at a trillion",
+    "Url": "https://atelfo.github.io/2025/12/07/going-direct.html",
+    "Timestamp": "2025-12-09T01:03:24",
+    "Domain": "atelfo.github.io",
+    "Description": "Personal site for posts about my interests: the biotech industry, medicine, molecular biology, neuroscience, biorisk, science, consciousness, AI, innovation, decision making, philosophy, games, sci-fi, probability, and forecasting (among other things). I write to learn, mostly about biotech."
+  },
+  {
+    "Title": "Words That Make Language Models Perceive",
+    "Url": "https://www.sophielwang.com/sensory",
+    "Timestamp": "2025-12-09T01:02:46",
+    "Domain": "www.sophielwang.com",
+    "Description": "A simple cue like asking the model to 'see' or 'hear' can push a purely text-trained language model towards the representations of purely image-trained or purely-audio trained encoders."
+  }
+]

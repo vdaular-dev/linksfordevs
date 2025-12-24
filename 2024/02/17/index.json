@@ -1,0 +1,149 @@
+[
+  {
+    "Title": "So Long, and Thanks for All the Bytes",
+    "Url": "https://chethaase.medium.com/so-long-and-thanks-for-all-the-bytes-02a4ef972f65",
+    "Timestamp": "2024-02-17T23:03:30",
+    "Domain": "chethaase.medium.com",
+    "Description": "Goodbye Tech, Hello Future"
+  },
+  {
+    "Title": "We Have to Start Over: From Atom to Zed - Zed Blog",
+    "Url": "https://zed.dev/blog/we-have-to-start-over",
+    "Timestamp": "2024-02-17T22:04:27",
+    "Domain": "zed.dev",
+    "Description": "Thorsten interviews co-founders Nathan, Max, Antonio in about the vision and the technological choices behind Zed, how they went from Atom and Electron to Rust and GPUs with Zed."
+  },
+  {
+    "Title": "Forgot that connection string? Get it here!",
+    "Url": "https://www.connectionstrings.com/",
+    "Timestamp": "2024-02-17T21:03:10",
+    "Domain": "www.connectionstrings.com",
+    "Description": "All connection strings in one place. Find the syntax for your database connection using ADO.NET, ADO, ODBC, OLEDB, C#, VB, VB.NET, ASP.NET and more."
+  },
+  {
+    "Title": "From engineer to manager: what I love, what I hate",
+    "Url": "https://thoughtspile.github.io/2024/02/16/eng-to-em/",
+    "Timestamp": "2024-02-17T21:03:07",
+    "Domain": "thoughtspile.github.io",
+    "Description": "It's been almost 2 years since I moved to a team lead role, then to a full-time engineering management position after the expansion of our team. I've been a front-end developer for 7 years before that, and initially I took the \"advanced individual contributor\" career track before doing the management turnaround. How's it been? Bumpy, but fun. In this article, I'll share the things I love and hate about my current job."
+  },
+  {
+    "Title": "Automated Unit Test Improvement using Large Language Models at Meta",
+    "Url": "https://arxiv.org/abs/2402.09171",
+    "Timestamp": "2024-02-17T18:04:13",
+    "Domain": "arxiv.org",
+    "Description": "This paper describes Meta's TestGen-LLM tool, which uses LLMs to automatically improve existing human-written tests. TestGen-LLM verifies that its generated test classes successfully clear a set of filters that assure measurable improvement over the original test suite, thereby eliminating problems due to LLM hallucination. We describe the deployment of TestGen-LLM at Meta test-a-thons for the Instagram and Facebook platforms. In an evaluation on Reels and Stories products for Instagram, 75% of TestGen-LLM's test cases built correctly, 57% passed reliably, and 25% increased coverage. During Meta's Instagram and Facebook test-a-thons, it improved 11.5% of all classes to which it was applied, with 73% of its recommendations being accepted for production deployment by Meta software engineers. We believe this is the first report on industrial scale deployment of LLM-generated code backed by such assurances of code improvement."
+  },
+  {
+    "Title": "REST002: Standardized Provider Abstraction Spikes",
+    "Url": "https://youtube.com/watch?v=gCDo24dJ5Fg",
+    "Timestamp": "2024-02-17T17:03:59",
+    "Domain": "youtube.com",
+    "Description": "In this session, we will review some of the work The Standard Community has been doing to implement SPAL (Standardized Providers Abstraction Library) for RES..."
+  },
+  {
+    "Title": "Add AWS CDK support by vlesierse · Pull Request #2225 · dotnet/aspire",
+    "Url": "https://github.com/dotnet/aspire/pull/2225",
+    "Timestamp": "2024-02-17T17:03:57",
+    "Domain": "github.com",
+    "Description": "This pull request is intended to gather feedback for supporting AWS CDK with Aspire. It is build upon the work @normj is doing for general AWS with CloudFormation support (#1905 Add AWS CloudFormat..."
+  },
+  {
+    "Title": "8 things you didn’t know you could do with GitHub Copilot",
+    "Url": "https://github.blog/2022-09-14-8-things-you-didnt-know-you-could-do-with-github-copilot/",
+    "Timestamp": "2024-02-17T17:03:57",
+    "Domain": "github.blog",
+    "Description": "Developers all over the world are using GitHub Copilot to help speed up their development and increase developer productivity. With GitHub Copilot available to developers everywhere, we’ve found some fun and useful examples of how developers can use GitHub Copilot for things you may not be thinking about."
+  },
+  {
+    "Title": ".NET Aspire Apache Kafka component - .NET Aspire",
+    "Url": "https://learn.microsoft.com/en-us/dotnet/aspire/messaging/kafka-component",
+    "Timestamp": "2024-02-17T17:03:57",
+    "Domain": "learn.microsoft.com",
+    "Description": "Learn how to use the .NET Aspire Apache Kafka client message-broker component."
+  },
+  {
+    "Title": "Considerations for a long-running Raspberry Pi # Chris Dzombak",
+    "Url": "https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html",
+    "Timestamp": "2024-02-17T16:03:33",
+    "Domain": "www.dzombak.com",
+    "Description": "Keeping a Raspberry Pi online and working with zero intervention for weeks, months, or years is somewhat of an art form. Several classes of things can go wrong, and you need to consider how your Pi will recover from each of them."
+  },
+  {
+    "Title": "Vision Pro - Exploring Spatial Computing",
+    "Url": "https://willem.com/blog/2024-02-16_vision-pro/",
+    "Timestamp": "2024-02-17T12:04:31",
+    "Domain": "willem.com",
+    "Description": "My thoughts on using Vision Pro to get some real work done, exploring what Spatial Computing means and how it can be useful. "
+  },
+  {
+    "Title": "How to Check if a String Contains Only Letters in C# - Code Maze",
+    "Url": "https://code-maze.com/csharp-check-if-a-string-contains-only-letters/",
+    "Timestamp": "2024-02-17T09:03:07",
+    "Domain": "code-maze.com",
+    "Description": "We will meet different alternatives to check if a string contains only letters and, also, discuss their benefits and drawbacks."
+  },
+  {
+    "Title": "Alexeï Navalny, l’homme qui dérangeait Vladimir Poutine, est mort",
+    "Url": "https://youtube.com/watch?v=Rs46A0gQgPc",
+    "Timestamp": "2024-02-17T05:04:19",
+    "Domain": "youtube.com",
+    "Description": "Alexeï Navalny, connu pour avoir dénoncé le régime politique et la corruption du gouvernement russe, est mort dans sa colonie pénitentiaire de l’Arctique rus..."
+  },
+  {
+    "Title": "Code to Cloud with .NET Aspire",
+    "Url": "https://speakerdeck.com/davidfowl/code-to-cloud-with-net-aspire",
+    "Timestamp": "2024-02-17T05:04:18",
+    "Domain": "speakerdeck.com",
+    "Description": "In this session, Distinguished Engineer David Fowler and .NET Product Architect Damian Edwards will talk about how .NET 8 makes building cloud-native apps easier than ever, with powerful new features to turbocharge the development experience."
+  },
+  {
+    "Title": "Treasure Chests",
+    "Url": "https://xkcd.com/2895/",
+    "Timestamp": "2024-02-17T05:04:15",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Introducing project Kiota a client generator for OpenAPI | .NET Conf 2023",
+    "Url": "https://youtube.com/watch?v=sQ9Pv-rQ1s8",
+    "Timestamp": "2024-02-17T03:04:19",
+    "Domain": "youtube.com",
+    "Description": "Integrating your application with APIs by manually implementing authentication, authorization, serialization, error handling and building requests represents..."
+  },
+  {
+    "Title": "Popular git config options",
+    "Url": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+    "Timestamp": "2024-02-17T03:04:18",
+    "Domain": "jvns.ca",
+    "Description": "Popular git config options"
+  },
+  {
+    "Title": "Paying people to work on open source is good actually - Jacob Kaplan-Moss",
+    "Url": "https://jacobian.org/2024/feb/16/paying-maintainers-is-good/",
+    "Timestamp": "2024-02-17T02:03:54",
+    "Domain": "jacobian.org",
+    "Description": "If you have a problem with maintainers getting paid then you have a problem with me and I suggest you let that one marinate."
+  },
+  {
+    "Title": "Using Scoped Services From Singletons in ASP.NET Core",
+    "Url": "https://www.milanjovanovic.tech/blog/using-scoped-services-from-singletons-in-aspnetcore",
+    "Timestamp": "2024-02-17T01:04:36",
+    "Domain": "www.milanjovanovic.tech",
+    "Description": "Did you ever need to inject a scoped service into a singleton service? I'll explain how you can solve this problem and safely use scoped services from within singletons in ASP.NET Core."
+  },
+  {
+    "Title": "Forgejo forks its own path forward",
+    "Url": "https://forgejo.org/2024-02-forking-forward/",
+    "Timestamp": "2024-02-17T01:04:36",
+    "Domain": "forgejo.org",
+    "Description": "Since its inception, Forgejo (a self-hosted git forge, like GitHub) has been a soft fork of Gitea. Upgrading to it was - and for the time being, remains to be - as simple as changing the URL from which the release is downloaded. Over time, the way Forgejo is governed and developed evolved. To be able to provide stable, secure, reliable releases, Forgejo requires a reasonable effort made at writing tests for each change that goes into the code. This has worked out remarkably well, as it caught both regressions in imported code, and mistakes in proposed changes. Furthermore, Forgejo has accepted features and other changes that are not available in Gitea, and has diverged in other ways already."
+  },
+  {
+    "Title": ".NET Continuous Profiler: CPU and Wall Time Profiling",
+    "Url": "https://www.datadoghq.com/blog/engineering/dotnet-continuous-profiler-part-2/",
+    "Timestamp": "2024-02-17T00:04:40",
+    "Domain": "www.datadoghq.com",
+    "Description": "How we implemented CPU and wall time profiling in our .NET continuous profiler."
+  }
+]

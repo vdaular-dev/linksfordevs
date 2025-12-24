@@ -1,0 +1,324 @@
+[
+  {
+    "Title": "CSS Animation with offset-path",
+    "Url": "https://yuanchuan.dev/css-animation-with-offset-path",
+    "Timestamp": "2025-03-20T23:02:27",
+    "Domain": "yuanchuan.dev",
+    "Description": "This is from last year when I tried to recreate Rach Smith's P5.js animation using CSS.\n    The animation seemed like it could be implemented in a breeze, but there's an illusion of simplicity.\n    The process of manually updating the positions and directions of each box was\n    a bit tricky."
+  },
+  {
+    "Title": "On Product-Market Fit",
+    "Url": "https://cra.mr/on-product-market-fit/",
+    "Timestamp": "2025-03-20T23:02:26",
+    "Domain": "cra.mr",
+    "Description": "One of the most difficult challenges I've faced in my career is figuring out product-market fit. I'd wager most of us have gotten there through sheer dumb luck. What do we do if we're not lucky, if we don't strike gold on our first try? I don't know if I have the answer. What I can do is try to break down what worked for Sentry's error monitoring - a reverse engineering of sorts - and reason about how we'd apply that to new products."
+  },
+  {
+    "Title": "Structure And Meaning",
+    "Url": "https://shrsv.github.io/p/structure-and-meaning/",
+    "Timestamp": "2025-03-20T23:02:26",
+    "Domain": "shrsv.github.io",
+    "Description": "“Up, down, up, down, up, down, …”\nWhat comes next?\nYou know the answer - it is “Up”\nHow did you know it?\nYour mind inferred some sort of structure, and made a guess\nI mean - we do not know - what truly will come next.\nBut we are pretty sure - due to the repetition - and we expect it to be “up”.\nThere could be a breakage of pattern, but the fact that we expected an outcome - that hints at underlying structure.\n"
+  },
+  {
+    "Title": "Why Large Orgs Struggle with Design",
+    "Url": "https://hvpandya.com/large-orgs-fail-design",
+    "Timestamp": "2025-03-20T23:02:24",
+    "Domain": "hvpandya.com",
+    "Description": "A critical look at why large companies fail to produce design excellence."
+  },
+  {
+    "Title": "We should own the economy",
+    "Url": "https://www.elysian.press/p/we-should-own-the-economy",
+    "Timestamp": "2025-03-20T23:02:24",
+    "Domain": "www.elysian.press",
+    "Description": "A new book about the future of capitalism and an invitation to participate in it."
+  },
+  {
+    "Title": "4-wheel Spinner Suitcases are a Nightmare on Uneven Surfaces",
+    "Url": "https://www.cheapestdestinationsblog.com/2025/03/03/spinner-suitcases-are-terrible/",
+    "Timestamp": "2025-03-20T23:02:23",
+    "Domain": "www.cheapestdestinationsblog.com",
+    "Description": "Those 4-wheel spinner suitcases look pretty and they're fine for smooth surfaces. But they're terrible for cobblestones, pavers, and bad sidewalks."
+  },
+  {
+    "Title": "OCaml’s Standard Library (Stdlib)",
+    "Url": "https://batsov.com/articles/2025/03/14/ocaml-s-standard-library/",
+    "Timestamp": "2025-03-20T23:02:23",
+    "Domain": "batsov.com",
+    "Description": "Every programming language comes with some “batteries” included - mostly in the form of its standard library. That’s typically all of the functionality that’s available out-of-the-box, without the need to install additional libraries. (although the definition varies from language to language) Usually standard libraries are pretty similar, but I think that OCaml’s a bit “weird” and slightly surprising in some regards, so I decided to write down a few thoughts on it and how to make the best of it."
+  },
+  {
+    "Title": "How I force LLMs to generate correct code",
+    "Url": "https://claudio.uk/posts/unvibe-how-I-force-llms-to-generate-correct-code.html",
+    "Timestamp": "2025-03-20T23:02:22",
+    "Domain": "claudio.uk",
+    "Description": "Unvibe: A Python Test-Runner that generates correct code"
+  },
+  {
+    "Title": "Scaling Postgres for Dynamic Schema Search on Billions of Rows",
+    "Url": "https://blog.jakesaunders.dev/schemaless-search-in-postgres/",
+    "Timestamp": "2025-03-20T23:02:22",
+    "Domain": "blog.jakesaunders.dev",
+    "Description": "Creating a schemaless search system in Postgres"
+  },
+  {
+    "Title": "How I Built a DIY Transcription Service ",
+    "Url": "https://videotobe.com/blog/how-i-built-and-ran-a-diy-transcription-service-from-my-home",
+    "Timestamp": "2025-03-20T23:02:22",
+    "Domain": "videotobe.com",
+    "Description": " I've been running VideoToBe.com, a simple transcription service using a single machine hosted in my house. My DIY setup is small, yet functional. "
+  },
+  {
+    "Title": "keyboard design contest #00 results",
+    "Url": "https://chrischrislolo.github.io/orthoLabLogs/keyboard-design-contest-00.html",
+    "Timestamp": "2025-03-20T23:02:22",
+    "Domain": "chrischrislolo.github.io",
+    "Description": "Overview The results are in! Thank you to everyone who has participated in the contest! I am floored by all of the creativity and thought put into the entries!! I'd like to list out the entries, what I like about each one, and finally outline…"
+  },
+  {
+    "Title": "erenon.hu",
+    "Url": "https://erenon.hu/posts/2025-03-18-multimake/",
+    "Timestamp": "2025-03-20T23:02:21",
+    "Domain": "erenon.hu",
+    "Description": "Short thoughts on C++, Unix and in general, technology"
+  },
+  {
+    "Title": "JFK-RAG Adventures: Playing Detective Using Some Python | Hacky Experiments Blog",
+    "Url": "https://www.hackyexperiments.com/blog/jfk-rag-adventures",
+    "Timestamp": "2025-03-20T23:02:21",
+    "Domain": "www.hackyexperiments.com",
+    "Description": "Diving into Python to scrape, parse, and index the newly released JFK files into a searchable database."
+  },
+  {
+    "Title": "not quite vibing yet",
+    "Url": "https://medhir.com/blog/not-quite-vibing-yet",
+    "Timestamp": "2025-03-20T23:02:20",
+    "Domain": "medhir.com",
+    "Description": "reflections on using LLMs in my own programming workflow"
+  },
+  {
+    "Title": "How To Validate Email Addresses in C#? - Oli De Bastiani",
+    "Url": "https://debastiani.net/Blog/how-to-validate-email-addresses-in-csharp",
+    "Timestamp": "2025-03-20T23:02:19",
+    "Domain": "debastiani.net",
+    "Description": "Numerous applications rely on email addresses to recognize users. Since email addresses are unique, they serve as a reliable way of verifying the authenticity of a user. However, sending emails to incorrect addresses can result in errors. This is why the format of an email address is typically checked after it is entered. While some developers utilize RegEx for this purpose, is it truly the best practice?"
+  },
+  {
+    "Title": "The future of software development in the cloud",
+    "Url": "https://blog.stelvio.dev/the-future-of-the-cloud/",
+    "Timestamp": "2025-03-20T23:02:19",
+    "Domain": "blog.stelvio.dev",
+    "Description": "I think the future of the cloud is bright. I explain why and what can be improved."
+  },
+  {
+    "Title": "Engineers should state the obvious",
+    "Url": "https://www.seangoedecke.com/saying-the-obvious/",
+    "Timestamp": "2025-03-20T23:02:19",
+    "Domain": "www.seangoedecke.com",
+    "Description": "--"
+  },
+  {
+    "Title": "Unionize.fyi",
+    "Url": "https://unionize.fyi/",
+    "Timestamp": "2025-03-20T22:01:53",
+    "Domain": "unionize.fyi",
+    "Description": "It's time to escape the Burnout Machine."
+  },
+  {
+    "Title": "OpenAI.fm",
+    "Url": "https://www.openai.fm/",
+    "Timestamp": "2025-03-20T21:01:53",
+    "Domain": "www.openai.fm",
+    "Description": "An interactive demo for developers to try the new text-to-speech model in the OpenAI API"
+  },
+  {
+    "Title": "Claude can now search the web",
+    "Url": "https://www.anthropic.com/news/web-search",
+    "Timestamp": "2025-03-20T19:01:58",
+    "Domain": "www.anthropic.com",
+    "Description": "You can now use Claude to search the internet to provide more up-to-date and relevant responses."
+  },
+  {
+    "Title": "Does unsafe undermine Rust's guarantees?",
+    "Url": "https://steveklabnik.com/writing/does-unsafe-undermine-rusts-guarantees/",
+    "Timestamp": "2025-03-20T18:01:50",
+    "Domain": "steveklabnik.com",
+    "Description": "When people first hear about unsafe in Rust, they often have questions. A very\nnormal thing to ask is, “wait a minute, doesn’t this defeat the purpose?” And while\nit’s a perfectly reasonable question, the answer is both straightforward and has a\nlot of nuance. So let’s talk about it."
+  },
+  {
+    "Title": "GNOME Release Notes",
+    "Url": "https://release.gnome.org/48/",
+    "Timestamp": "2025-03-20T16:01:51",
+    "Domain": "release.gnome.org",
+    "Description": "Discover what's new in GNOME, the distraction-free computing platform."
+  },
+  {
+    "Title": "How are you using AI in your day-to-day .NET MAUI development?",
+    "Url": "https://youtube.com/watch?v=fI4jZM5RKKc",
+    "Timestamp": "2025-03-20T16:01:48",
+    "Domain": "youtube.com",
+    "Description": "When it comes to .NET MAUI development, GitHub Copilot is Rachel Kang's go-to sidekick. In this One Dev Question, Rachel shares how she uses AI in her day-to-day, from helping improve C# and XAML code to writing blog posts and docs.\n\nhttps://msft.it/6057qZnLb"
+  },
+  {
+    "Title": ".NET Aspire for Mobile Apps?!",
+    "Url": "https://youtube.com/watch?v=RCIM6qagZ-U",
+    "Timestamp": "2025-03-20T15:01:58",
+    "Domain": "youtube.com",
+    "Description": "You probably know about .NET Aspire by now and how great it is for web applications, containers and cloud apps. What if I told you that it can also be VERY useful for mobile app development? Insights in metrics, tracing those HTTP requests and no more fumbling with endpoint addresses? All possible with .NET Aspire!\n\nIn this video I will show you how to get started with .NET MAUI and .NET Aspire and how that can make your life a lot easier. I'd love to hear from you if this is something you would want to see supported and if and how its working for you if you decide to try it.\n\n💝 Join this channel to get access to perks:\nhttps://www.youtube.com/channel/GeraldVersluis/join\n\nDisclaimer: this channel is done on personal title, in my free time, and not officially affiliated with or endorsed by Microsoft (my employer) in any way. Opinions and views are my own.\n\n🛑  Don't forget to subscribe to my channel for more great .NET content: https://www.youtube.com/GeraldVersluis/?sub_confirmation=1\n\n🐦 Follow me on Bluesky: https://bsky.app/profile/jfversluis.dev\n👾 Follow me on GitHub: https://github.com/jfversluis\n🤝 Join my Discord server: https://discord.gg/2cAyTGNHBD \n\n🔗 Links\nSample code repo: https://github.com/jfversluis/MauiAspire\n\n⏱ Timestamps\n0:00 - .NET MAUI ❤️ .NET Aspire\n00:15 - I Need Your Help!\n02:05 - MAUI + Aspire Sample Repository\n03:33 - MAUI + Aspire Project Structure\n07:07 - Aspire ServiceDefaults\n07:52 - Enable Aspire in .NET MAUI Project\n11:49 - Service Discovery\n13:11 - .NET MAUI Service Defaults\n15:30 - Using Dev Tunnels\n21:19 - Select MAUI Startup Platform in Visual Studio\n22:04 - Aspire Dashboard Demo\n24:09 - Setup Dev Tunnel Automatically with Aspire\n26:48 - Demo Dev Tunnels in Aspire Dashboard\n28:06 - Do You Want This? Do You Like It?\n\n🎥 Video edited with Camtasia (ref): https://techsmith.z6rjha.net/AJoeD\n\n🙋‍♂️ Also find my...\nBlog: https://blog.verslu.is\nTwitch: https://twitch.tv/jfversluis\nAll the rest: https://jfversluis.dev"
+  },
+  {
+    "Title": "Open Source C#, Health Checks, and .NET Aspire",
+    "Url": "https://youtube.com/watch?v=R_YM8eSFW_k",
+    "Timestamp": "2025-03-20T15:01:58",
+    "Domain": "youtube.com",
+    "Description": "Turn your videos into live streams with https://restream.io\n\nFritz is working on the open source CMS SharpSite.  Learn more and get the source at https://sharpsite.org"
+  },
+  {
+    "Title": "FOSS infrastructure is under attack by AI companies",
+    "Url": "https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/",
+    "Timestamp": "2025-03-20T14:01:53",
+    "Domain": "thelibre.news",
+    "Description": "LLM scrapers are taking down FOSS projects' infrastructure, and it's getting worse."
+  },
+  {
+    "Title": "REST Constraint #2: Why Client-Server Separation is a Game Changer - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/rest-constraint-2-why-client-server-separation-is-a-game-changer/",
+    "Timestamp": "2025-03-20T13:01:51",
+    "Domain": "woodruff.dev",
+    "Description": "The internet as we know it thrives on separation—specifically, the separation of clients and servers. It’s a fundamental principle of REST and a key factor in building scalable, maintainable, and flexible applications. But what exactly does this separation mean, and why does it matter? Let’s dive into the Client-Server constraint, one of REST’s six core architectural principles."
+  },
+  {
+    "Title": "The Pain That is Github Actions",
+    "Url": "https://www.feldera.com/blog/the-pain-that-is-github-actions",
+    "Timestamp": "2025-03-20T10:01:35",
+    "Domain": "www.feldera.com",
+    "Description": "Developing a complex CI pipeline with github actions is full of gotchas."
+  },
+  {
+    "Title": "No Longer My Favorite Git Commit",
+    "Url": "https://mtlynch.io/no-longer-my-favorite-git-commit/",
+    "Timestamp": "2025-03-20T03:01:51",
+    "Domain": "mtlynch.io",
+    "Description": "\n    Revisiting David Thompson's \"My favourite Git commit\"\n  "
+  },
+  {
+    "Title": "Ruby, Ractors, and Lock-Free Data Structures",
+    "Url": "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "iliabylich.github.io",
+    "Description": "This story is about concurrent data structures in the context of Ruby. The goal here is to demonstrate how true parallelism can be achieved with global mutable state (which at the time of writing, is not supported by built-in Ruby primitives)."
+  },
+  {
+    "Title": "We need better assholes.",
+    "Url": "https://brilliantcrank.com/we-need-better-assholes/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "brilliantcrank.com",
+    "Description": "The way I see it, there are two dominant leadership styles in business and government today. On one side, we have the ruthless and ambitious—but destructive—narcissists. These are the Elon Musks, Jeff Bezoses, Donald Trumps, and Peter Thiels of the world. They are relentless in their pursuit of"
+  },
+  {
+    "Title": "4 Learnings From Load Testing LLMs",
+    "Url": "https://blog.christianposta.com/ai/learnings-from-load-testing-llms/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "blog.christianposta.com",
+    "Description": "The way LLMs run in Kubernetes is quite a bit different than running web apps or APIs. Recently I was digging into the benefits of the Inference Extensions for the Kubernetes Gateway API and I needed to generate some load for the backend LLMs I deployed (Llama, Qwen, etc). I ended up building an LLM load generation tool because I thought my use case needed some specific controls over how the test was run. In the end, I think about 90% of what I built was fairly generic for an LLM load test tool and I probably could have just tweaked the last 10% with an existing load tool to do what I needed. Nevertheless there were a few important things I learned about generating load against an LLM. Follow me (@christianposta /in/ceposta) for more thoughts on LLM perf as I will reslease some benchmarking results of running LLM inference workloads on GPUs in Kubernetes.\n\n"
+  },
+  {
+    "Title": "Sharepoint + RLAMA Pro",
+    "Url": "https://rlama.dev/blog/integrating-sharepoint",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "rlama.dev",
+    "Description": "RAG Integration with SharePoint: Leverage Your Enterprise Documents with rlama Pro"
+  },
+  {
+    "Title": "Programmer Junk Food",
+    "Url": "https://krishna.github.io/posts/programmer-junk-food/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "krishna.github.io",
+    "Description": "Thoughts about Software and Building Software"
+  },
+  {
+    "Title": "Pushing side projects forward with almost no free time",
+    "Url": "https://rafaelcamargo.com/blog/pushing-side-projects-forward-with-almost-no-free-time/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "rafaelcamargo.com",
+    "Description": "I once heard a programmer call GitHub a graveyard for side projects. Felt kinda unfair to all the folks out there grinding away, making progress day in and day out. But I get it. Getting a project off the ground takes the ability to push forward with something that never seems to fit into your free time. In this post, I share the strategy I have been using to push my side projects forward."
+  },
+  {
+    "Title": "Preparing for the Japan trip",
+    "Url": "https://duggan.ie/posts/preparing-for-the-japan-trip",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "duggan.ie",
+    "Description": "As I wrote about in February, Ash and I are traveling to Japan for three months (May → August). It's a trip I've always wanted to take, and since I'm between work engagements I've been taking some time to prepare.    Three months is a long time to spend in a country you've never visited, and I'm going to go over a few ways we've been preparing."
+  },
+  {
+    "Title": "Scoping a Local-First Image Archive",
+    "Url": "https://www.scottishstoater.com/2025/03/scoping-a-local-first-image-archive/",
+    "Timestamp": "2025-03-20T01:02:05",
+    "Domain": "www.scottishstoater.com",
+    "Description": "For years, I’ve been thinking about how we store and access our digital files, especially photos."
+  },
+  {
+    "Title": "Comptime Zig ORM",
+    "Url": "https://matklad.github.io/2025/03/19/comptime-zig-orm.html",
+    "Timestamp": "2025-03-20T01:02:04",
+    "Domain": "matklad.github.io",
+    "Description": "This post can be considered an advanced Zig tutorial. I will be covering some of the more unique\naspects of the language, but won't be explaining the easy part. If you haven't read the Zig\nLanguage Reference, you might start there. Additionally,\nwe will also learn the foundational trick for implementing relational model."
+  },
+  {
+    "Title": "Bad People Do The Thing You Love",
+    "Url": "https://adrianhoward.com/posts/bad-people-do-the-thing-you-love/",
+    "Timestamp": "2025-03-20T01:02:04",
+    "Domain": "adrianhoward.com",
+    "Description": "TL;DR: If you think My Discipline is Good, and Other Discipline is Bad then you are fooling yourself — and avoiding the work that needs to be done to make things better."
+  },
+  {
+    "Title": "Don’t Mistake Ridehailing for AV Ridehailing",
+    "Url": "https://reillybrennan.com/dont-mistake-ridehailing-for-av-ridehailing",
+    "Timestamp": "2025-03-20T01:02:04",
+    "Domain": "reillybrennan.com",
+    "Description": "When Uber introduced surge pricing in 2011, many condemned it as merely a price gouging tactic. But consumers eventually realized its primary"
+  },
+  {
+    "Title": "George Munguia",
+    "Url": "https://georgeliam.com/thoughts/next-100b-company",
+    "Timestamp": "2025-03-20T01:02:03",
+    "Domain": "georgeliam.com",
+    "Description": "Building the future. Founder, entrepreneur, and startup advisor."
+  },
+  {
+    "Title": "Deliberate Practice for Developers",
+    "Url": "https://alexalejandre.com/programming/deliberate-practice-for-developers/",
+    "Timestamp": "2025-03-20T01:02:03",
+    "Domain": "alexalejandre.com",
+    "Description": "Alex's Blog"
+  },
+  {
+    "Title": "The append-and-review note",
+    "Url": "https://karpathy.bearblog.dev/the-append-and-review-note/",
+    "Timestamp": "2025-03-20T01:02:02",
+    "Domain": "karpathy.bearblog.dev",
+    "Description": "A simple but powerful approach to note taking"
+  },
+  {
+    "Title": "BEATCS interview - a3nm's blog",
+    "Url": "https://a3nm.net/blog/beatcs_interview.html",
+    "Timestamp": "2025-03-20T01:02:02",
+    "Domain": "a3nm.net",
+    "Description": "I tend to write a lot about my opinions about academia in my area (theoretical\ncomputer science), e.g., about open access,\nabout general problems with academia, etc. If you are\ninterested in this topic, I just contributed an interview to the latest\nBulletin of the EATCS, the European scholarly\nassociation for theoretical computer science (of which I am now a\nvice-president)."
+  },
+  {
+    "Title": "REST Constraint #1: The Power of a Uniform Interface - Chris Woody Woodruff",
+    "Url": "https://woodruff.dev/rest-constraint-1-the-power-of-a-uniform-interface/",
+    "Timestamp": "2025-03-20T00:01:52",
+    "Domain": "woodruff.dev",
+    "Description": "A well-designed REST API isn’t just a random collection of endpoints—it follows a set of principles that make it predictable, scalable, and easy to use. One of the core constraints of REST is the Uniform Interface. This principle ensures that APIs are structured consistently, reducing complexity for both developers and systems interacting with them."
+  },
+  {
+    "Title": "AI Blindspots",
+    "Url": "https://ezyang.github.io/ai-blindspots/",
+    "Timestamp": "2025-03-20T00:01:50",
+    "Domain": "ezyang.github.io",
+    "Description": "Blindspots in LLMs I’ve noticed while AI coding. Sonnet family emphasis. Maybe I will eventually suggest Cursor rules for these problems."
+  }
+]

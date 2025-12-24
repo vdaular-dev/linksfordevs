@@ -1,0 +1,149 @@
+[
+  {
+    "Title": "Generalizing Secret Santa with integer programming in Julia",
+    "Url": "https://paulbutler.org/2022/generalizing-secret-santa-with-integer-programming-in-julia/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "paulbutler.org",
+    "Description": "You might know Secret Santa as the gifting game where each person in a group is assigned another person in the group to give a gift to."
+  },
+  {
+    "Title": "Get Rid of Your Old Database Migrations",
+    "Url": "https://andrealeopardi.com/posts/get-rid-of-your-old-database-migrations/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "andrealeopardi.com",
+    "Description": "Are database migrations good? Probably, but are we using them in the right way? In this post, I write about how I think about migrations and what I'm doing to mitigate some of their shortcomings."
+  },
+  {
+    "Title": "Browsing the Fediverse",
+    "Url": "https://blog.jonudell.net/2022/12/10/browsing-the-fediverse/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "blog.jonudell.net",
+    "Description": "A month ago, when the Great Discontinuity happened, I started working on a Steampipe plugin to enable SQL queries against the Mastodon API, along with a companion Steampipe “mod” (suite…"
+  },
+  {
+    "Title": "Earthbound in ChatGPT",
+    "Url": "https://blev.dev/articles/earthbound-in-chatgpt/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "blev.dev",
+    "Description": "I just played a surprisingly fun Earthbound-style text adventure in ChatGPT. After this, I’m convinced that we are not very far away from (simple) custom games tailor-made to your tastes. It’s also quite easy to imagine playing an AI-generated Dungeons and Dragons campaign.\nPrompt: I am playing a text adventure game whose theme is Earthbound, the SNES game. You present me with specific commands to look around my environment and keep track of my inventory."
+  },
+  {
+    "Title": "At Least Assert Your Serialisation Roundtrips",
+    "Url": "https://jezenthomas.com/at-least-roundtrip-serialisation/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "jezenthomas.com",
+    "Description": "How to use property-based testing with Hedgehog and Hspec to ensure that the values in your system can be serialised and deserialised symmetrically."
+  },
+  {
+    "Title": "The limited utility of the phrase “GNU/Linux”",
+    "Url": "https://seirdy.one/posts/2022/12/09/limited-utility-gnu-linux/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "seirdy.one",
+    "Description": "“GNU/Linux” distinguishes Linux distributions primarily by the presence of GNU software, which is seldom the most meaningful or practical distinction."
+  },
+  {
+    "Title": "RC Week 12: What's Next, and Speedrunning Crafting Interpreters",
+    "Url": "https://ntietz.com/blog/rc-week-12-recap/",
+    "Timestamp": "2022-12-10T22:03:18",
+    "Domain": "ntietz.com",
+    "Description": "Saturday, December 10, 2022"
+  },
+  {
+    "Title": "Screen recording in Snipping Tool begins rolling out to Windows Insiders",
+    "Url": "https://blogs.windows.com/windows-insider/2022/12/08/screen-recording-in-snipping-tool-begins-rolling-out-to-windows-insiders/",
+    "Timestamp": "2022-12-10T19:01:42",
+    "Domain": "blogs.windows.com",
+    "Description": "Hello Windows Insiders, today we are beginning to roll out an update to the Snipping Tool app (version 11.2211.35.0) for Windows 11 to Windows Insiders in the Dev Channel. We are just beginning the roll out now so not all Insiders in the Dev"
+  },
+  {
+    "Title": "Playing with ActivityPub",
+    "Url": "https://macwright.com/2022/12/09/activitypub.html",
+    "Timestamp": "2022-12-10T19:01:42",
+    "Domain": "macwright.com",
+    "Description": "Can a website play with a mastodon?"
+  },
+  {
+    "Title": ".NET 7 and beyond with Damian Edwards | Keep Coding Podcast E1",
+    "Url": "https://youtube.com/watch?v=RtwYJOpma7s",
+    "Timestamp": "2022-12-10T18:05:16",
+    "Domain": "youtube.com",
+    "Description": "Hello everybody I'm Nick Chapsas (@nickchapsas) and in this video I will have a chat with Damian Edwards, Principal PM Architect for Microsoft.Keep coding me..."
+  },
+  {
+    "Title": "Rockin’ the Code World: Special Guest Shay Rojansky",
+    "Url": "https://dotnettips.wordpress.com/2022/12/05/rockin-the-code-world-special-guest-shay-rojansky/",
+    "Timestamp": "2022-12-10T18:05:15",
+    "Domain": "dotnettips.wordpress.com",
+    "Description": "Join me on Saturday, December 10th, 2022 at 10:00 PST on C# Corner for show #70 where my special guest will be Shay Rojansky, Principal Software Engineer at Microsoft. Don’t miss this episode…"
+  },
+  {
+    "Title": "OSS Spotlight - Build websites with a modern ASP.NET Core CMS – Orchard Core",
+    "Url": "https://youtube.com/watch?v=cKhAVWm845o",
+    "Timestamp": "2022-12-10T17:03:35",
+    "Domain": "youtube.com",
+    "Description": "Are you developing .NET web apps and are tired of reinventing the wheel with every project? Use a modern foundation to build on instead! In this session, we'..."
+  },
+  {
+    "Title": "GitHub - davidfowl/SmartLoadBalancer: Sticky sessions without sticky sessions",
+    "Url": "https://github.com/davidfowl/SmartLoadBalancer/",
+    "Timestamp": "2022-12-10T17:03:34",
+    "Domain": "github.com",
+    "Description": "Sticky sessions without sticky sessions. Contribute to davidfowl/SmartLoadBalancer development by creating an account on GitHub."
+  },
+  {
+    "Title": "Why posting GPT and ChatGPT generated answers is not currently acceptable - Help Center",
+    "Url": "https://stackoverflow.com/help/gpt-policy",
+    "Timestamp": "2022-12-10T14:04:49",
+    "Domain": "stackoverflow.com",
+    "Description": "Stack Overflow | The World’s Largest Online Community for Developers"
+  },
+  {
+    "Title": "Delete a record without prior loading in Entity Framework",
+    "Url": "https://steven-giesel.com/blogPost/5f58e2a2-2b50-4e0c-8062-09d003c729a9",
+    "Timestamp": "2022-12-10T13:01:51",
+    "Domain": "steven-giesel.com",
+    "Description": "Sometimes you have an Id of an object and want to delete the underlying thing from the database. But it doesn't make sense to load the whole object from the database to memory first. So how can we achieve this quickly?\n"
+  },
+  {
+    "Title": "Original ICQ Song !",
+    "Url": "https://youtube.com/watch?v=va8dnGF3Xyw",
+    "Timestamp": "2022-12-10T07:01:40",
+    "Domain": "youtube.com",
+    "Description": "Der Originale ICQ Song."
+  },
+  {
+    "Title": "Scrum Has Failed the Developers",
+    "Url": "https://ageling.substack.com/p/scrum-has-failed-the-developers-547dfe09cc53?r=18ih73",
+    "Timestamp": "2022-12-10T07:01:39",
+    "Domain": "ageling.substack.com",
+    "Description": "But there’s a way out of the misery"
+  },
+  {
+    "Title": "Solar System Model",
+    "Url": "https://xkcd.com/2709/",
+    "Timestamp": "2022-12-10T06:02:24",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": ".NET Conf Recap",
+    "Url": "https://www.dotnetmauipodcast.com/116",
+    "Timestamp": "2022-12-10T05:03:48",
+    "Domain": "www.dotnetmauipodcast.com",
+    "Description": ".NET Conf happened - it was amazing - and David, James & Matt will get you up to date."
+  },
+  {
+    "Title": "dev-wasm",
+    "Url": "https://github.com/dev-wasm",
+    "Timestamp": "2022-12-10T04:03:54",
+    "Domain": "github.com",
+    "Description": "dev-wasm has 8 repositories available. Follow their code on GitHub."
+  },
+  {
+    "Title": ".NET API Catalog",
+    "Url": "https://apisof.net/upgrade-planner",
+    "Timestamp": "2022-12-10T02:04:04",
+    "Domain": "apisof.net",
+    "Description": "Understand your dependencies and plan your upgrades"
+  }
+]

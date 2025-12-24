@@ -1,0 +1,345 @@
+[
+  {
+    "Title": "r-wos.org - gti",
+    "Url": "https://r-wos.org/hacks/gti",
+    "Timestamp": "2024-03-07T23:03:03",
+    "Domain": "r-wos.org",
+    "Description": "I've finally implemented the command I keep typing all day: gti. It's a program that displays a badly made ASCII-art animation to punish you for your typing error - and after that magically launches the command you meant to launch. The code is available under an MIT-like license on github - though of course anybody…"
+  },
+  {
+    "Title": "Getting things done",
+    "Url": "https://mindaslab.github.io/2024/03/07/getting-things-done.html",
+    "Timestamp": "2024-03-07T23:02:58",
+    "Domain": "mindaslab.github.io",
+    "Description": "So you want to Ace stuff?"
+  },
+  {
+    "Title": "Interview Feedback to an Upcoming Computer Science Student",
+    "Url": "https://andrewrondeau.com/blog/2024/03/interview-feedback-to-an-upcoming-computer-science-student",
+    "Timestamp": "2024-03-07T23:02:58",
+    "Domain": "andrewrondeau.com",
+    "Description": "Recently, I helped a friend screen a candidate for a software engineering role. The candidate was an undergraduate computer science student, expecting to graduate in a few months. Here is the feedback I sent them after the interview."
+  },
+  {
+    "Title": "Show Your Working: Making Powerline Ethernet faster",
+    "Url": "https://moral.net.au/writing/2024/02/25/powerether/",
+    "Timestamp": "2024-03-07T23:02:57",
+    "Domain": "moral.net.au",
+    "Description": "Having wired networking is nice! The current iterations of Wi-Fi are admittedly very fast, but I feel a bit iffy trusting that the signal will always work at a good latency, when there's rogue slabs of concrete and surprise microwave sources to deal with. My house has fiber internet which terminates at the wireless router I keep under my TV. To enable mission-critical house activities (e.g. streaming from my studio to Twitch/Diode Zone, using Steam Link from the couch), I have some Powerline Ethernet adapters which link the router to my studio PC upstairs. And for the past several years, they have been indistinguishable from magic; somehow they turn 1970s home electrical wiring into Cat 5e! Until the rubber finally met the road; I tried to watch a Blu-Ray on my Home Theatre PC, streamed from my Studio PC, and it had big buffering pauses every 60 seconds. An early speed test I did showed the link speed for streaming the Blu-Ray was only 24 Mbps! But for some reason, downloading things from the studio PC was absolutely fine! At this point I realised I knew very little about how the magic boxes worked, or how I would go about isolating the problem."
+  },
+  {
+    "Title": "Prompt engineering is not dead",
+    "Url": "https://umarbutler.com/prompt-engineering-is-not-dead/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "umarbutler.com",
+    "Description": "In my view, prompt engineering is now more about developing end-to-end generative AI systems than it is about editing prompts."
+  },
+  {
+    "Title": "No more forever projects — Diana Kimball Berlin",
+    "Url": "https://dianaberlin.com/posts/no-more-forever-projects",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "dianaberlin.com",
+    "Description": "It took me a long time to see past forever projects.  I told myself that making promises gave beginnings gravity. I labeled  my newsletter &nbsp;a “lifelong project” not long after I started it. I called  /mentoring  a “movement” the day I announced it. Commitment marked a project as something w"
+  },
+  {
+    "Title": "Dynamic Printf Debugging with GDB",
+    "Url": "https://abstractexpr.com/2024/03/03/dynamic-printf-debugging-with-gdb/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "abstractexpr.com",
+    "Description": "When we debug a program with printf() we have to recompile it whenever we add new printf() statements! Right!? Wrong! With gdb we can add printf() statements without recompiling a program and even …"
+  },
+  {
+    "Title": "Structured Output for Open Source and Local LLMS - Instructor",
+    "Url": "https://jxnl.github.io/instructor/blog/2024/03/07/open-source-local-structured-output-pydantic-json-openai/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "jxnl.github.io",
+    "Description": "A lightweight library for structured outputs with LLMs."
+  },
+  {
+    "Title": "Solving the Nerd-Sniping Problem: When Electronics meets Heat! - Pravesh Koirala",
+    "Url": "https://praveshkoirala.com/2024/03/07/solving-the-nerd-sniping-problem-when-electronics-meets-heat/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "praveshkoirala.com",
+    "Description": "I recently stumbled upon this exciting problem from XKCD, aptly named as the Nerd-Sniping Problem: True to its name, it successfully managed to derail me from whatever it was that I was doing. The problem itself is quite curious, we have to find resistance between two points in an infinite lattice of ideal 1-ohm resistors."
+  },
+  {
+    "Title": "Going Full-Time on Instapaper",
+    "Url": "https://bthdonohue.com/2024/03/06/going-fulltime-on-instapaper.html",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "bthdonohue.com",
+    "Description": "After almost 8 years in big tech engineering leadership1, I’m taking the leap to go full-time on Instapaper (again!)"
+  },
+  {
+    "Title": "More on Handwriting &amp; Cursive",
+    "Url": "https://brianschrader.com/archive/more-on-handwriting-amp-cursive/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "brianschrader.com",
+    "Description": "My last post seemed to garner a fair amount of interest and so I figured it would be good to cover some of the unspecified particulars that I left out of the previous post."
+  },
+  {
+    "Title": "Optimizing Rabin-Karp Hashing · Pardon the Interrupt",
+    "Url": "https://mattsills.github.io/2024/03/02/rabin-karp/",
+    "Timestamp": "2024-03-07T23:02:56",
+    "Domain": "mattsills.github.io",
+    "Description": "02 Mar 2024"
+  },
+  {
+    "Title": "Proverbs",
+    "Url": "https://liampulles.com/proverbs.html",
+    "Timestamp": "2024-03-07T23:02:55",
+    "Domain": "liampulles.com",
+    "Description": "SEODescription"
+  },
+  {
+    "Title": "On picking side-projects",
+    "Url": "https://www.florianbellmann.com/blog/on-picking-sideprojects",
+    "Timestamp": "2024-03-07T23:02:55",
+    "Domain": "www.florianbellmann.com",
+    "Description": "Food for thought on how to pick the right side projects and how to manage them effectively."
+  },
+  {
+    "Title": "HTTP response status codes explained",
+    "Url": "https://ronaldsvilcins.com/2024/03/07/http-response-status-codes-explained/",
+    "Timestamp": "2024-03-07T23:02:55",
+    "Domain": "ronaldsvilcins.com",
+    "Description": "Explore the meanings of HTTP status codes, from 1XX informational to 5XX server errors, in our concise guide."
+  },
+  {
+    "Title": "Reasons why Windows is terrible",
+    "Url": "http://www.willghatch.net/blog/misc/windows-is-terrible.html",
+    "Timestamp": "2024-03-07T23:02:55",
+    "Domain": "www.willghatch.net",
+    "Description": "Reasons why Windows is terrible: People often wonder why I discourage the use of, poke fun at, say bad things about, or otherwise disparage Microsoft Windows. At any moment I usually can't come up with a big list of reasons, or I can't explain them well. ..."
+  },
+  {
+    "Title": "Sight-reading a Software Project",
+    "Url": "https://blog.charliemeyer.co/sight-reading-a-software-project/",
+    "Timestamp": "2024-03-07T23:02:55",
+    "Domain": "blog.charliemeyer.co",
+    "Description": "A musician sight-reads a piece when they play it from the sheet music for the first time. Depending on their experience level and the difficulty of the piece..."
+  },
+  {
+    "Title": "The Pile",
+    "Url": "https://pile.eleuther.ai/",
+    "Timestamp": "2024-03-07T22:03:15",
+    "Domain": "pile.eleuther.ai",
+    "Description": "The Pile is a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together."
+  },
+  {
+    "Title": "\"Java is here to stay\": Popular programming language to remain on business hit lists in 2024",
+    "Url": "https://www.itpro.com/software/development/java-is-here-to-stay-popular-programming-language-to-remain-on-business-hit-lists-in-2024",
+    "Timestamp": "2024-03-07T20:03:51",
+    "Domain": "www.itpro.com",
+    "Description": "Java developer recruitment will accelerate in 2024 as firms target greater efficiency and broader toolkits for teams"
+  },
+  {
+    "Title": "C++ Meet Up Application Form",
+    "Url": "https://docs.google.com/forms/d/e/1FAIpQLScFvdj_wIyzoJ6BI_SI1p_Ho1PXW86GzxBS2nEhl6XKZZQYMA/viewform?usp=send_form",
+    "Timestamp": "2024-03-07T20:03:28",
+    "Domain": "docs.google.com",
+    "Description": "Please answer to the following questions.\n以下の質問にお答えください。\n\nPlease read our privacy policy (https://woven.toyota/en/privacy-notice/) carefully before submitting a form.\nご応募される前に、当社のプライバシーポリシー（https://woven.toyota/jp/privacy-notice/）をよくお読みください。\n\n<Event Summary> *Live event - no online\nTheme: Reflection for C++26, a reality?\nTime: Thursday, March 21, 2024 6:30PM-8:30PM JST\nLocation: Woven by Toyota, Inc. Nihonbashi Muromachi Mitsui Tower 19F\nContext: Panel discussion with QA and networking\nLanguage: English (Simultaneous Japanese interpretation available)\n*We expect significant interest in this event, please register early to ensure a seat before we reach capacity.  \n\nWe will inform you of the information on the day of the event by e-mail on Friday, March 15 .\n\n\n【イベント概要】*リアル開催 - オンラインでの実施はございません。\n・テーマ：Reflection for C++26, a reality?\n・時間：2024年3月21日(木) 18:30-20:30 JST\n・場所：株式会社ウーブン・バイ・トヨタ\n　　　　日本橋室町三井タワー 19F\n・内容：パネルディスカッション＆QA、懇親会\n・言語：英語 (日本語同時通訳あり）\n*定員に達し次第締め切らせていただきます。お早めにお申し込みください。\n\n3月15日（金）に、改めてメールで当日のご案内についてお知らせいたします。\n\ncppmeetup@woven.toyota\n"
+  },
+  {
+    "Title": "Build a .NET MAUI Blazor Hybrid app",
+    "Url": "https://learn.microsoft.com/en-us/aspnet/core/blazor/hybrid/tutorials/maui?view=aspnetcore-8.0",
+    "Timestamp": "2024-03-07T20:03:28",
+    "Domain": "learn.microsoft.com",
+    "Description": "Build a .NET MAUI Blazor Hybrid app step-by-step."
+  },
+  {
+    "Title": ".NET MAUI Community Toolkit Maps in WinUI 3 App",
+    "Url": "https://egvijayanand.in/2024/03/07/dotnet-maui-community-toolkit-maps-in-winui-3-app/",
+    "Timestamp": "2024-03-07T19:02:51",
+    "Domain": "egvijayanand.in",
+    "Description": "This article provides a comprehensive guide on leveraging the Maps feature from the .NET MAUI Community Toolkit in a WinUI 3 App through the robust Embedding feature. The CommunityToolkit.Maui…"
+  },
+  {
+    "Title": "Building AI Bots, Extending Copilot for Microsoft 365, and more with .NET and Teams Toolkit - .NET Blog",
+    "Url": "https://devblogs.microsoft.com/dotnet/teams-toolkit-for-visual-studio-release-updates/",
+    "Timestamp": "2024-03-07T19:02:51",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Teams Toolkit for is packed with the new exciting capabilities for .NET developers including new AI Bot templates, CodeLens integration, and new Copilot preview templates."
+  },
+  {
+    "Title": "I'm a programmer and I'm stupid",
+    "Url": "https://antonz.org/stupid/",
+    "Timestamp": "2024-03-07T19:02:51",
+    "Domain": "antonz.org",
+    "Description": "But it kind of works."
+  },
+  {
+    "Title": "Sweden is a NATO member",
+    "Url": "https://www.government.se/press-releases/2024/03/sweden-is-a-nato-member/",
+    "Timestamp": "2024-03-07T18:03:16",
+    "Domain": "www.government.se",
+    "Description": "Just before 17.30 CET, Sweden’s instrument of accession was deposited with the United States Government, as depositary of the North Atlantic Treaty..."
+  },
+  {
+    "Title": "In C++/WinRT, you shouldn't destroy an object while you're co_awaiting it - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20240307-00/?p=109490",
+    "Timestamp": "2024-03-07T17:04:15",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "A generalization of the ground rules of programming."
+  },
+  {
+    "Title": "Minimal March - .NET and Blazor Coding at the Command-Line",
+    "Url": "https://youtube.com/watch?v=tVVhaxc3wOc",
+    "Timestamp": "2024-03-07T16:03:36",
+    "Domain": "youtube.com",
+    "Description": "Powered by Restream https://restream.ioMinimal March.. on Linux.. no IDEs allowed.Source at:  https://github.com/FritzAndFriends/TagzApp"
+  },
+  {
+    "Title": "async void Methods In C# – The Dangers That You Need to Know",
+    "Url": "https://www.devleader.ca/2024/03/07/async-void-methods-in-c-the-dangers-that-you-need-to-know/",
+    "Timestamp": "2024-03-07T14:02:54",
+    "Domain": "www.devleader.ca",
+    "Description": "Learn why async void methods in C# can be dangerous with clear code examples. A perfect for beginner software engineers wanting to understand the risks."
+  },
+  {
+    "Title": "Nikon to Acquire US Cinema Camera Manufacturer RED.com, LLC | News",
+    "Url": "https://www.nikon.com/company/news/2024/0307_01.html",
+    "Timestamp": "2024-03-07T13:03:50",
+    "Domain": "www.nikon.com",
+    "Description": "TOKYO - Nikon Corporation (Nikon) hereby announces its entry into an agreement to acquire 100% of the outstanding membership interests of RED.com, LLC (RED) whereby RED will become a wholly-owned subsidiary of Nikon, pursuant to a Membership Interest Purchase Agreement with Mr. James Jannard, its founder, and Mr. Jarred Land, its current President, subject to the satisfaction of certain closing conditions thereunder."
+  },
+  {
+    "Title": "Leadership Is A Hell Of A Drug — Ludicity",
+    "Url": "https://ludic.mataroa.blog/blog/leadership-is-a-hell-of-a-drug/",
+    "Timestamp": "2024-03-07T11:04:12",
+    "Domain": "ludic.mataroa.blog",
+    "Description": "Last week, I received the following invitation to a compulsory on-site meeting, following management's repeated engagements with some sort of Agile shaman."
+  },
+  {
+    "Title": "Experimental C# Interceptors: AOT & Performance for free | .NET Conf 2023",
+    "Url": "https://youtube.com/watch?v=wadfRRrEOh4",
+    "Timestamp": "2024-03-07T10:04:09",
+    "Domain": "youtube.com",
+    "Description": "C# 12.0 - shipped with .NET 8.0 - brings us a new experimental language feature: Interceptors. An interceptor is basically the inverse of a goto statement th..."
+  },
+  {
+    "Title": "What's new for the Microsoft Fluent UI Blazor libraries 3.6 and 4.5",
+    "Url": "https://baaijte.net/blog/microsoft-fluentui-aspnetcore.components-4.5/",
+    "Timestamp": "2024-03-07T10:04:08",
+    "Domain": "baaijte.net",
+    "Description": "We have new releases for all supported .NET versions! Version 3.6 is here for .NET 6 and 7 and version 4.5 for .NET 8. Let's dive into the details..."
+  },
+  {
+    "Title": "How I use git worktrees",
+    "Url": "https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html",
+    "Timestamp": "2024-03-07T10:04:07",
+    "Domain": "notes.billmill.org",
+    "Description": "Mar 05, 2024"
+  },
+  {
+    "Title": "The 2038 Problem",
+    "Url": "https://www.codereliant.io/the-2038-problem/",
+    "Timestamp": "2024-03-07T10:04:07",
+    "Domain": "www.codereliant.io",
+    "Description": "Learn how \"The 2038 problem\" could impact software, hardware, and more - and what can be done to prepare."
+  },
+  {
+    "Title": "GitHub - NilsIrl/dockerc: container image to single executable compiler",
+    "Url": "https://github.com/NilsIrl/dockerc",
+    "Timestamp": "2024-03-07T07:03:22",
+    "Domain": "github.com",
+    "Description": "container image to single executable compiler. Contribute to NilsIrl/dockerc development by creating an account on GitHub."
+  },
+  {
+    "Title": "OpenTTD | News | Happy 20th birthday OpenTTD!",
+    "Url": "https://www.openttd.org/news/2024/03/06/happy-birthday",
+    "Timestamp": "2024-03-07T07:03:21",
+    "Domain": "www.openttd.org",
+    "Description": "An open source simulator based on the classic game Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features."
+  },
+  {
+    "Title": "Marten 7 makes “Write Model” Projections Super",
+    "Url": "https://jeremydmiller.com/2024/03/05/marten-7-makes-write-model-projections-super/",
+    "Timestamp": "2024-03-07T06:03:18",
+    "Domain": "jeremydmiller.com",
+    "Description": "Marten 7.0 was released this week with a bevy of improvements and some important new features. One important area of concentration was a series of changes sponsored by a JasperFx Software client to…"
+  },
+  {
+    "Title": "Announcing end-of-support for AWS SDK for JavaScript v2 effective September 8, 2025 | Amazon Web Services",
+    "Url": "https://aws.amazon.com/blogs/developer/announcing-end-of-support-for-aws-sdk-for-javascript-v2/",
+    "Timestamp": "2024-03-07T06:03:17",
+    "Domain": "aws.amazon.com",
+    "Description": "In alignment with our SDKs and Tools Maintenance Policy, AWS SDK for JavaScript v2 will enter maintenance mode on September 8, 2024 and reach end-of-support on September 8, 2025. Existing applications that use AWS SDK for JavaScript v2 will continue to function as intended, unless there is a fundamental change to how an AWS service […]"
+  },
+  {
+    "Title": "Announcing TypeScript 5.4 - TypeScript",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/",
+    "Timestamp": "2024-03-07T06:03:17",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today we’re excited to announce the release of TypeScript 5.4! If you’re not familiar with TypeScript, it’s a language that builds on top of JavaScript by making it possible to declare and describe types. Writing types in our code allows us to explain intent and have other tools check our code to catch mistakes like typos,"
+  },
+  {
+    "Title": "Blazor Basics: Validating Form Data with Blazor",
+    "Url": "https://www.telerik.com/blogs/blazor-basics-validating-form-data",
+    "Timestamp": "2024-03-07T06:03:16",
+    "Domain": "www.telerik.com",
+    "Description": "We will learn how to validate user input through HTML forms and provide visual feedback in case of a validation error."
+  },
+  {
+    "Title": "get pwned by chromebook breachers",
+    "Url": "https://web.archive.org/web/20240303062156/http://forum.wotlabs.net/",
+    "Timestamp": "2024-03-07T06:03:16",
+    "Domain": "web.archive.org",
+    "Description": "The Wayback Machine - https://web.archive.org/web/20240303062156/https://forum.wotlabs.net/"
+  },
+  {
+    "Title": "The quickest way to integrate PayPal checkout with Blazor SSR in .NET 8",
+    "Url": "https://jonhilton.net/paypal-net8-ssr/",
+    "Timestamp": "2024-03-07T06:03:16",
+    "Domain": "jonhilton.net",
+    "Description": "JavaScript Interop works differently with Blazor Server-side rendering"
+  },
+  {
+    "Title": "What if we rotate pairs every day?",
+    "Url": "https://martinfowler.com/articles/rotate-pairs-experiment.html",
+    "Timestamp": "2024-03-07T06:03:16",
+    "Domain": "martinfowler.com",
+    "Description": "An experiment highlights benefits of frequent pair rotation"
+  },
+  {
+    "Title": "Performance test your ASP.NET Core app using Bombardier",
+    "Url": "https://bartwullems.blogspot.com/2024/03/performance-test-your-aspnet-core-app.html",
+    "Timestamp": "2024-03-07T06:03:16",
+    "Domain": "bartwullems.blogspot.com",
+    "Description": "In the past I’ve always used Apache Bench , Fiddler or Visual Studio Load Testing to test the performance of my ASP.NET (Core) applications ..."
+  },
+  {
+    "Title": "The thing they say they’re mad at never actually matters",
+    "Url": "https://noescapevg.com/the-thing-they-say-theyre-mad-at-never-actually-matters/",
+    "Timestamp": "2024-03-07T06:03:15",
+    "Domain": "noescapevg.com",
+    "Description": "Ten years ago, a bunch of bigoted fascist assholes used false pretenses to terrorize women, queer people and people of color in the video game industry, in games media, and even in academic games s…"
+  },
+  {
+    "Title": "Dapr v1.13 is now available",
+    "Url": "https://blog.dapr.io/posts/2024/03/05/dapr-v1.13-is-now-available/",
+    "Timestamp": "2024-03-07T04:03:01",
+    "Domain": "blog.dapr.io",
+    "Description": "We’re happy to announce the release of Dapr 1.13.0! 🚀 🎉 🎈\nWe would like to extend our thanks to all the new and existing contributors who helped make this release happen.\nIf you’re new to Dapr, visit the getting started page and familiarize yourself with Dapr.\nDocs have been updated with all the new features and changes of this release. To get started with new capabilities introduced in this release, go to the Concepts and the Developing applications."
+  },
+  {
+    "Title": "The most important goal in designing software is understandability",
+    "Url": "https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/",
+    "Timestamp": "2024-03-07T03:04:15",
+    "Domain": "ntietz.com",
+    "Description": "When you're designing a piece of software, the single most important thing to design for is understandability.\nSecurity, performance, and correctness are all important, but they come after understandability."
+  },
+  {
+    "Title": "Lasso-based SNARK for non-uniform computation",
+    "Url": "https://eprint.iacr.org/2023/1799",
+    "Timestamp": "2024-03-07T01:04:25",
+    "Domain": "eprint.iacr.org",
+    "Description": "Justin Thaler, a16 crypto research and Georgetown University"
+  },
+  {
+    "Title": ".NET Aspire & Dapr - Robin Konrad",
+    "Url": "https://youtu.be/GnNoP4lzpGs",
+    "Timestamp": "2024-03-07T00:03:20",
+    "Domain": "youtu.be",
+    "Description": ".NET Aspire & Dapr - Robin KonradDapr, an establish framework for building secure & reliable microservices, and .Net Aspire, the new kid on the block, can be..."
+  }
+]
