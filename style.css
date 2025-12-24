@@ -27,6 +27,7 @@ header {
     header h1 {
         font-size: 6rem;
         font-weight: 300;
+        color: var(--accent);
     }
 
         header h1 a {
