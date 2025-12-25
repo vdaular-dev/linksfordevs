@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The C10K problem</title>
+      <link>https://www.kegel.com/c10k.html</link>
+      <description>It's time for web servers to handle ten thousand clients simultaneously,
+don't you think?  After all, the web is a big place now.</description>
+      <category>conference</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://www.kegel.com/c10k.html</guid>
+      <pubDate>Thu, 25 Dec 2025 17:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Ruby 4.0.0 Released | Ruby</title>
       <link>https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/</link>
       <description>We are pleased to announce the release of Ruby 4.0.0.Ruby 4.0 introduces “Ruby Box” and “ZJIT”, and adds many improvements.</description>
@@ -155,159 +167,6 @@
       <category>ai</category>
       <guid>https://lucumr.pocoo.org/2025/12/23/advent-of-slop/</guid>
       <pubDate>Thu, 25 Dec 2025 00:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Architecture of Resistance</title>
-      <link>https://aneeshsathe.com/2025/12/22/the-architecture-of-resistance/</link>
-      <description>The seventeenth-century Hague, the mid-twentieth-century Levant, and the digital terraforming of 2025 have a shared preoccupation with the “Average.” Whether it is the theologian’s way …</description>
-      <category>ai</category>
-      <guid>https://aneeshsathe.com/2025/12/22/the-architecture-of-resistance/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP caching, a refresher · Dan Cătălin Burzo</title>
-      <link>https://danburzo.ro/http-caching-refresher/</link>
-      <description>Let’s relearn web caching together.</description>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://danburzo.ro/http-caching-refresher/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Classic Home Computers | Commodore, Atari, Apple, TI &amp; Tandy</title>
-      <link>https://youtube.com/watch?v=G3aDPtL4_cE</link>
-      <description>Before consoles dominated the living room and before personal computers became household appliances, owning a computer at home felt like stepping into the future.
-
-In the late 1970s through the 1980s and early 1990s, classic home computers began appearing on desks, kitchen tables, and bedrooms around the world. These machines weren’t just for games, they were tools for learning, experimenting, programming, and discovering how technology really worked.
-
-This video explores some of the most influential classic home computer platforms, including systems from Commodore, Atari, Apple, Texas Instruments, Tandy, and others that helped define early home computing.
-
-This is not an exhaustive list, the home computer market was massive and constantly evolving, but it is a look at the machines that mattered most, the ones many of us grew up with, learned on, and still remember today.
-
-From cassette tapes and floppy disks to command lines and BASIC programming, these computers laid the groundwork for the digital world we now take for granted.
-
-If you enjoy retro tech, classic computing, and gaming history, consider liking, commenting, and subscribing to help keep this history alive.
-
-🖥️ RetroGamer Gen X- documenting the technology we grew up with.
-
-💬 Tell me in the comments: Which Computer you liked the best? 
-👉 Love retro gaming? Don’t forget to subscribe for more!  
-👍 Hit the like button if you want more video game history.  
-💬 Share your retro computer memories in the comments below!  
-💖 Support the channel directly with a Super Thanks (the heart icon).  
-🕹️ Consider supporting us by becoming a member for early access to videos likes this, and more...
-
-Thank you for your support!
-
-📖📖📖 Chapters 📖📖📖 
-0:00:00 Intro
-0:01:20 Commodore 8-Bit Computers
-0:13:05 Amiga Computers
-0:26:41 Atari 8-Bit Computers
-0:44:49 Atari ST Computers
-0:53:41 Apple 8-Bit Computers
-1:29:13 Texas Instruments TI-99/4 and TI-99/4A
-1:37:19 Radio Shack/Tandy Computers
-
-🎶🎶🎶 Music Credits 🎶🎶🎶
-Produced by HAAL Electronica https://haalelectronica.bandcamp.com
-Used with permission from HAAL Electronica
-Check out his youtube channel:   https://www.youtube.com/@HaalElectronica   
-
-Produced by Nebulous https://www.blitter.com/~nebulous/synthetica.html
-Used with permission from Nebulous
-Check out his youtube channel: https://www.youtube.com/@neb6
-
-YouTube Creator Music:
-Funky Disco by Biz Baz Studio
-
-#ClassicComputers #RetroComputing #VintageComputers 
-#Commodore #Amiga #AtariComputers 
-#AppleII #TI99 #TRS80 
-#HomeComputers #RetroTech 
-#ComputerHistory #RetroGamerGenX</description>
-      <author> (Retrogamer Gen X)</author>
-      <category>gaming</category>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://youtube.com/watch?v=G3aDPtL4_cE</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bad Questions</title>
-      <link>https://imjosh.dev/blog/bad-questions</link>
-      <description>An article by Josh</description>
-      <guid>https://imjosh.dev/blog/bad-questions</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Document search using Claude and an inverted index.</title>
-      <link>https://annanay.dev/claude-inverted-index-search/</link>
-      <description>Soooo vector databases are pretty popular right now for document search, but it has some drawbacks: choosing the right embedding models, finding the right chunk size, indexing into high dimensional embeddings and managing specialized infrastructure.
-
-</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://annanay.dev/claude-inverted-index-search/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running Claude Code from my phone via SSH with Tailscale and tmux</title>
-      <link>https://www.qu8n.com/posts/running-claude-code-from-my-phone</link>
-      <description>A guide to controlling Claude Code running on your laptop from your phone over SSH using Termius, Tailscale, and tmux.</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://www.qu8n.com/posts/running-claude-code-from-my-phone</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adaptec RAID cards are junk</title>
-      <link>https://nickh.org/warstories/adaptec.html</link>
-      <description>From time to time, people would complain about this deleted driver and
-argue that other OSs were superior because they supported this bad
-hardware (usually without the fixes in the drivers that were needed).
-This story was originally posted on one of the OpenBSD mail lists in
-three installments -- it wasn't intended to be three installments, but
-the story kept getting better/worse as time went on.</description>
-      <category>linux</category>
-      <guid>https://nickh.org/warstories/adaptec.html</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bottom-Up Parser Example | ErrorCode0</title>
-      <link>https://www.errorcodezero.dev/blog/bottom-up-parser-example/</link>
-      <description>Showcasing how a simple  bottom up parser might function given a string and context-free grammar.</description>
-      <category>encryption</category>
-      <guid>https://www.errorcodezero.dev/blog/bottom-up-parser-example/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>davidbau.com In Defense of Curiosity</title>
-      <link>https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html</link>
-      <description>At the NeurIPS Mechanistic Interpretability Workshop, I was asked to give an opinion on Neel Nanda's recent blog post on "pragmatic interpretability."  I chose to respond by recounting the story of Venetian glassmaking.</description>
-      <category>ai</category>
-      <guid>https://davidbau.com/archives/2025/12/09/in_defense_of_curiosity.html</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Custom Evals Matter for Production LLMs</title>
-      <link>https://www.randalolson.com/2025/12/22/why-custom-evals-matter-for-production-llms/</link>
-      <description>Generic benchmarks measure breadth across many tasks. Your application needs depth on one specific task. This is why custom evals matter for production LLMs.</description>
-      <author> (Dr. Randal S. Olson)</author>
-      <category>ai</category>
-      <guid>https://www.randalolson.com/2025/12/22/why-custom-evals-matter-for-production-llms/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lua 5.5 Reference Manual - contents</title>
-      <link>https://www.lua.org/manual/5.5/</link>
-      <description>The reference manual is the official definition of the Lua language.
-
-For a complete introduction to Lua programming, see the book
-Programming in Lua.</description>
-      <guid>https://www.lua.org/manual/5.5/</guid>
-      <pubDate>Wed, 24 Dec 2025 16:08:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
