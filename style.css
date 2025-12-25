@@ -77,6 +77,11 @@ article {
         color: var(--accent);
     }
 
+        article h3 span.favicon {
+            display: inline-block;
+            height: 1rem;
+        }
+
 /* Tag styling: small pill-like badge */
 .tag {
     display: inline-block;
