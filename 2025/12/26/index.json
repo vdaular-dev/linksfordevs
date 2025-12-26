@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "Title": "rob pike (@robpike.io)",
+    "Url": "https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s",
+    "Timestamp": "2025-12-26T02:03:05",
+    "Domain": "bsky.app",
+    "Description": "This post requires authentication to view."
+  },
+  {
+    "Title": "Bachelor Thesis: Extended Abstract",
+    "Url": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+    "Timestamp": "2025-12-26T02:03:00",
+    "Domain": "0l.de",
+    "Description": "Thoughts, stories and ideas about of a code poet, bit juggler & logic wizard."
+  },
+  {
+    "Title": "Incremental backups of Gmail takeouts",
+    "Url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
+    "Timestamp": "2025-12-26T02:02:56",
+    "Domain": "baecher.dev",
+    "Description": "Discusses the problem of Gmail takeouts as a single giant file and provides detailed background on the gmail-mbox-codec app that allows efficient incremental backups of said file."
+  },
+  {
+    "Title": "The Owl, The Scientific Method, and Claude Code: A Debugging Story | Vsevolod Solovyov",
+    "Url": "https://vsevolod.net/claude-debug/",
+    "Timestamp": "2025-12-26T02:02:53",
+    "Domain": "vsevolod.net",
+    "Description": "Vsevolod Solovyov's blog"
+  },
+  {
+    "Title": "The Birth of a New Platform",
+    "Url": "https://vivekhaldar.com/articles/birth-of-a-new-platform/",
+    "Timestamp": "2025-12-26T02:02:49",
+    "Domain": "vivekhaldar.com",
+    "Description": "It’s not often that we see the birth of a new platform. We’re seeing one right now, with an app store for the AI age being built from scratch right before our eyes. OpenAI recently announced that developers can now submit apps to ChatGPT.\nWhen that happens, it’s worth understanding the mechanics of it. With that in mind, I went through building a very simple app and getting it to run and render inside ChatGPT:"
+  },
+  {
+    "Title": "How Claude Code is helping me as an open source maintainer",
+    "Url": "https://stanislas.blog/2025/12/claude-code-opus-open-source-maintenance/",
+    "Timestamp": "2025-12-26T02:02:45",
+    "Domain": "stanislas.blog",
+    "Description": "Clearing my 150+ issue backlog with Claude Code."
+  },
+  {
+    "Title": "Package Managers: What Do They Do, Really?",
+    "Url": "https://tudorr.ro/blog/2025-12-23-package-managers/",
+    "Timestamp": "2025-12-26T02:02:41",
+    "Domain": "tudorr.ro",
+    "Description": "Discussing the natural evolution of OS package managers."
+  },
+  {
+    "Title": "serde's borrowing can be treacherous",
+    "Url": "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/",
+    "Timestamp": "2025-12-26T02:02:36",
+    "Domain": "yossarian.net",
+    "Description": "(This is not super surprising when you think about it, but it bit me\nrecently so I figured I'd write it up.)"
+  },
+  {
+    "Title": "Diary of a Vibe Coder",
+    "Url": "https://www.vibediary.dev/essays/chatGPT",
+    "Timestamp": "2025-12-26T02:02:33",
+    "Domain": "www.vibediary.dev",
+    "Description": "A collection of projects and essays on building with AI."
+  },
+  {
+    "Title": "The Compiler Is Your Best Friend, Stop Lying to It - Daniel Beskin's Blog",
+    "Url": "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it",
+    "Timestamp": "2025-12-26T02:02:29",
+    "Domain": "blog.daniel-beskin.com",
+    "Description": "The compiler is a powerful tool, yet many developers have a painful relationship with it. Can we do better?"
+  },
+  {
+    "Title": "Claude Code changed my life",
+    "Url": "https://spader.zone/xmas/",
+    "Timestamp": "2025-12-26T02:02:25",
+    "Domain": "spader.zone",
+    "Description": "2025/12/25"
+  },
+  {
+    "Title": "Tariq - Portfolio",
+    "Url": "https://www.tareqrafed.com/how-to-spot-bureaucrat",
+    "Timestamp": "2025-12-26T02:02:22",
+    "Domain": "www.tareqrafed.com",
+    "Description": "Tariq's Personal Portfolio, Software Engineer/Student based in Cologne, Germany."
+  },
+  {
+    "Title": "the context window ate your instructions",
+    "Url": "https://laulau.land/context-window-ate-your-instructions/",
+    "Timestamp": "2025-12-26T02:02:18",
+    "Domain": "laulau.land",
+    "Description": "CLAUDE.md is frustrating to work with."
+  },
+  {
+    "Title": "Precomputing Transparency Order in 3D",
+    "Url": "https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d",
+    "Timestamp": "2025-12-26T02:02:15",
+    "Domain": "jacobdoescode.com",
+    "Description": "Transparency — or more precisely, translucency — remains a problem when rendering in 3D. When you have translucent shapes, the order in which they get rendered is very important. Consider what happens if this is done incorrectly."
+  }
+]

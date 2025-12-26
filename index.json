@@ -1,5 +1,117 @@
 [
   {
+    "Title": "rob pike (@robpike.io)",
+    "Url": "https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s",
+    "Timestamp": "2025-12-26T02:03:05",
+    "Domain": "bsky.app",
+    "Description": "This post requires authentication to view.",
+    "Confidence": 0.8344525
+  },
+  {
+    "Title": "Bachelor Thesis: Extended Abstract",
+    "Url": "https://0l.de/blog/2015/01/bachelor-thesis-abstract/",
+    "Timestamp": "2025-12-26T02:03:00",
+    "Domain": "0l.de",
+    "Description": "Thoughts, stories and ideas about of a code poet, bit juggler & logic wizard.",
+    "Confidence": 0.99057263
+  },
+  {
+    "Title": "Incremental backups of Gmail takeouts",
+    "Url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
+    "Timestamp": "2025-12-26T02:02:56",
+    "Domain": "baecher.dev",
+    "Description": "Discusses the problem of Gmail takeouts as a single giant file and provides detailed background on the gmail-mbox-codec app that allows efficient incremental backups of said file.",
+    "Confidence": 0.96110046
+  },
+  {
+    "Title": "The Owl, The Scientific Method, and Claude Code: A Debugging Story | Vsevolod Solovyov",
+    "Url": "https://vsevolod.net/claude-debug/",
+    "Timestamp": "2025-12-26T02:02:53",
+    "Domain": "vsevolod.net",
+    "Description": "Vsevolod Solovyov's blog",
+    "Confidence": 0.9500407
+  },
+  {
+    "Title": "The Birth of a New Platform",
+    "Url": "https://vivekhaldar.com/articles/birth-of-a-new-platform/",
+    "Timestamp": "2025-12-26T02:02:49",
+    "Domain": "vivekhaldar.com",
+    "Description": "It’s not often that we see the birth of a new platform. We’re seeing one right now, with an app store for the AI age being built from scratch right before our eyes. OpenAI recently announced that developers can now submit apps to ChatGPT.\nWhen that happens, it’s worth understanding the mechanics of it. With that in mind, I went through building a very simple app and getting it to run and render inside ChatGPT:",
+    "Confidence": 0.9966966
+  },
+  {
+    "Title": "How Claude Code is helping me as an open source maintainer",
+    "Url": "https://stanislas.blog/2025/12/claude-code-opus-open-source-maintenance/",
+    "Timestamp": "2025-12-26T02:02:45",
+    "Domain": "stanislas.blog",
+    "Description": "Clearing my 150+ issue backlog with Claude Code.",
+    "Confidence": 0.99529976
+  },
+  {
+    "Title": "Package Managers: What Do They Do, Really?",
+    "Url": "https://tudorr.ro/blog/2025-12-23-package-managers/",
+    "Timestamp": "2025-12-26T02:02:41",
+    "Domain": "tudorr.ro",
+    "Description": "Discussing the natural evolution of OS package managers.",
+    "Confidence": 0.9975388
+  },
+  {
+    "Title": "serde's borrowing can be treacherous",
+    "Url": "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/",
+    "Timestamp": "2025-12-26T02:02:36",
+    "Domain": "yossarian.net",
+    "Description": "(This is not super surprising when you think about it, but it bit me\nrecently so I figured I'd write it up.)",
+    "Confidence": 0.9803251
+  },
+  {
+    "Title": "Diary of a Vibe Coder",
+    "Url": "https://www.vibediary.dev/essays/chatGPT",
+    "Timestamp": "2025-12-26T02:02:33",
+    "Domain": "www.vibediary.dev",
+    "Description": "A collection of projects and essays on building with AI.",
+    "Confidence": 0.9620434
+  },
+  {
+    "Title": "The Compiler Is Your Best Friend, Stop Lying to It - Daniel Beskin's Blog",
+    "Url": "https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it",
+    "Timestamp": "2025-12-26T02:02:29",
+    "Domain": "blog.daniel-beskin.com",
+    "Description": "The compiler is a powerful tool, yet many developers have a painful relationship with it. Can we do better?",
+    "Confidence": 0.9949143
+  },
+  {
+    "Title": "Claude Code changed my life",
+    "Url": "https://spader.zone/xmas/",
+    "Timestamp": "2025-12-26T02:02:25",
+    "Domain": "spader.zone",
+    "Description": "2025/12/25",
+    "Confidence": 0.9845723
+  },
+  {
+    "Title": "Tariq - Portfolio",
+    "Url": "https://www.tareqrafed.com/how-to-spot-bureaucrat",
+    "Timestamp": "2025-12-26T02:02:22",
+    "Domain": "www.tareqrafed.com",
+    "Description": "Tariq's Personal Portfolio, Software Engineer/Student based in Cologne, Germany.",
+    "Confidence": 0.94520885
+  },
+  {
+    "Title": "the context window ate your instructions",
+    "Url": "https://laulau.land/context-window-ate-your-instructions/",
+    "Timestamp": "2025-12-26T02:02:18",
+    "Domain": "laulau.land",
+    "Description": "CLAUDE.md is frustrating to work with.",
+    "Confidence": 0.9981405
+  },
+  {
+    "Title": "Precomputing Transparency Order in 3D",
+    "Url": "https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d",
+    "Timestamp": "2025-12-26T02:02:15",
+    "Domain": "jacobdoescode.com",
+    "Description": "Transparency — or more precisely, translucency — remains a problem when rendering in 3D. When you have translucent shapes, the order in which they get rendered is very important. Consider what happens if this is done incorrectly.",
+    "Confidence": 0.99211836
+  },
+  {
     "Title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
     "Url": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
     "Timestamp": "2025-12-25T22:02:04",
@@ -62,21 +174,5 @@
     "Domain": "www.timeextension.com",
     "Description": "Paves the way for native ports to other platforms",
     "Confidence": 0.8367523
-  },
-  {
-    "Title": "Sauropods",
-    "Url": "https://xkcd.com/3185/",
-    "Timestamp": "2025-12-25T02:02:00",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Lua 5.5 Released With Declarations For Global Variables, Garbage Collection Improvements",
-    "Url": "https://www.phoronix.com/news/Lua-5.5-Released",
-    "Timestamp": "2025-12-25T02:01:57",
-    "Domain": "www.phoronix.com",
-    "Description": "Five years after releasing Lua 5.4, Lua 5.5 debuted today as the newest version of this lightweight and embeddable scripting language.",
-    "Confidence": 0.97328
   }
 ]
