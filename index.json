@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Maybe the Default Settings Are Too High",
+    "Url": "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/",
+    "Timestamp": "2025-12-26T04:02:27",
+    "Domain": "www.raptitude.com",
+    "Description": "I’ve been reading Lord of the Rings for two months and I’m just at the end of the first part. It’s not because I’m not enjoying it. It’s one of the most ...",
+    "Confidence": 0.9310628
+  },
+  {
     "Title": "rob pike (@robpike.io)",
     "Url": "https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s",
     "Timestamp": "2025-12-26T02:03:05",
@@ -150,21 +158,5 @@
     "Domain": "github.com",
     "Description": "Browser automation for AI agents and humans. Contribute to VibiumDev/vibium development by creating an account on GitHub.",
     "Confidence": 0.97957927
-  },
-  {
-    "Title": "A modern X server written from scratch in Zig",
-    "Url": "https://git.dec05eba.com/phoenix/about/",
-    "Timestamp": "2025-12-25T04:02:14",
-    "Domain": "git.dec05eba.com",
-    "Description": "Phoenix is a new X server, written from scratch in Zig (not a fork of Xorg server). This X server is designed to be a modern alternative to the Xorg server.",
-    "Confidence": 0.9965394
-  },
-  {
-    "Title": "GitHub - antonmedv/textarea: A notes webapp",
-    "Url": "https://github.com/antonmedv/textarea",
-    "Timestamp": "2025-12-25T04:02:09",
-    "Domain": "github.com",
-    "Description": "A notes webapp. Contribute to antonmedv/textarea development by creating an account on GitHub.",
-    "Confidence": 0.9990099
   }
 ]
