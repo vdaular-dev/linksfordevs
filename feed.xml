@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Continuous Glucose Monitors</title>
+      <link>https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/</link>
+      <description>I wrote
+    last month about my diabetes diagnosis this year and my
+  difficult choice to wear a proprietary device (called a
+  CGM) on my arm 24/7
+  to continuously monitor my glucose levels. Like my friend and colleague,
+  Karen M. Sandler — who previously made a much higher-stakes choice to
+  receive a proprietary implanted defibrillator to keep her safe given her
+  genetic heart condition — I reluctantly chose to attach proprietary
+  hardware and software to my body.</description>
+      <category>android</category>
+      <guid>https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/</guid>
+      <pubDate>Fri, 26 Dec 2025 10:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Maybe the Default Settings Are Too High</title>
       <link>https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/</link>
       <description>I’ve been reading Lord of the Rings for two months and I’m just at the end of the first part. It’s not because I’m not enjoying it. It’s one of the most ...</description>
@@ -177,17 +193,6 @@ don't you think?  After all, the web is a big place now.</description>
       <category>web</category>
       <guid>https://www.kegel.com/c10k.html</guid>
       <pubDate>Thu, 25 Dec 2025 17:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby 4.0.0 Released | Ruby</title>
-      <link>https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/</link>
-      <description>We are pleased to announce the release of Ruby 4.0.0.Ruby 4.0 introduces “Ruby Box” and “ZJIT”, and adds many improvements.</description>
-      <category>ruby</category>
-      <category>rust</category>
-      <category>visualstudio</category>
-      <category>git</category>
-      <guid>https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/</guid>
-      <pubDate>Thu, 25 Dec 2025 10:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
