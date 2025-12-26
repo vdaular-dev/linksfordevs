@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How uv got so fast</title>
+      <link>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</link>
+      <description>uv’s speed comes from engineering decisions, not just Rust. Static metadata, dropping legacy formats, and standards that didn’t exist five years ago.</description>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</guid>
+      <pubDate>Fri, 26 Dec 2025 23:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>I'm a laptop weirdo and that's why I like my new Framework 13</title>
       <link>https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/</link>
       <description>It turns out I've always done weird things to my laptops.</description>
