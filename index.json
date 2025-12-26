@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I'm a laptop weirdo and that's why I like my new Framework 13",
+    "Url": "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/",
+    "Timestamp": "2025-12-26T22:02:06",
+    "Domain": "blog.matthewbrunelle.com",
+    "Description": "It turns out I've always done weird things to my laptops.",
+    "Confidence": 0.974916
+  },
+  {
     "Title": "Package managers keep using git as a database, it never works out",
     "Url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
     "Timestamp": "2025-12-26T17:02:14",
@@ -174,13 +182,5 @@
     "Domain": "jacobdoescode.com",
     "Description": "Transparency — or more precisely, translucency — remains a problem when rendering in 3D. When you have translucent shapes, the order in which they get rendered is very important. Consider what happens if this is done incorrectly.",
     "Confidence": 0.99211836
-  },
-  {
-    "Title": "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster",
-    "Url": "https://fidget-spinner.github.io/posts/no-longer-sorry.html",
-    "Timestamp": "2025-12-25T22:02:04",
-    "Domain": "fidget-spinner.github.io",
-    "Description": "My personal blog",
-    "Confidence": 0.9909886
   }
 ]

@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I'm a laptop weirdo and that's why I like my new Framework 13</title>
+      <link>https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/</link>
+      <description>It turns out I've always done weird things to my laptops.</description>
+      <category>linux</category>
+      <guid>https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/</guid>
+      <pubDate>Fri, 26 Dec 2025 22:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Package managers keep using git as a database, it never works out</title>
       <link>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</link>
       <description>Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.</description>
@@ -239,16 +247,6 @@ recently so I figured I'd write it up.)</description>
       <description>Transparency — or more precisely, translucency — remains a problem when rendering in 3D. When you have translucent shapes, the order in which they get rendered is very important. Consider what happens if this is done incorrectly.</description>
       <guid>https://jacobdoescode.com/2025/05/18/precomputing-transparency-order-in-3d</guid>
       <pubDate>Fri, 26 Dec 2025 02:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster</title>
-      <link>https://fidget-spinner.github.io/posts/no-longer-sorry.html</link>
-      <description>My personal blog</description>
-      <category>visualstudio</category>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://fidget-spinner.github.io/posts/no-longer-sorry.html</guid>
-      <pubDate>Thu, 25 Dec 2025 22:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
