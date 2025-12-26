@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Package managers keep using git as a database, it never works out",
+    "Url": "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html",
+    "Timestamp": "2025-12-26T17:02:14",
+    "Domain": "nesbitt.io",
+    "Description": "Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.",
+    "Confidence": 0.98722756
+  },
+  {
+    "Title": "Truly Universal Outlet",
+    "Url": "https://xkcd.com/3186/",
+    "Timestamp": "2025-12-26T17:02:11",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "A BlueSky thread by rob pike on Skyview",
     "Url": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
     "Timestamp": "2025-12-26T16:02:09",
@@ -174,13 +190,5 @@
     "Domain": "www.deepsouthventures.com",
     "Description": "Vidalia Onions to be exact. They’re classified as a sweet onion, and because of their mild flavor (they don’t make your eyes tear up), some folks can eat them like an apple. Most of my customers do. During a phone order one season – 2018 I believe – a customer shared this story where he ... Read more",
     "Confidence": 0.9333063
-  },
-  {
-    "Title": "The C10K problem",
-    "Url": "https://www.kegel.com/c10k.html",
-    "Timestamp": "2025-12-25T17:02:00",
-    "Domain": "www.kegel.com",
-    "Description": "It's time for web servers to handle ten thousand clients simultaneously,\ndon't you think?  After all, the web is a big place now.",
-    "Confidence": 0.98834026
   }
 ]

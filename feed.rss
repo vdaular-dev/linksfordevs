@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Package managers keep using git as a database, it never works out</title>
+      <link>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</link>
+      <description>Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.</description>
+      <category>rust</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>apple</category>
+      <guid>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</guid>
+      <pubDate>Fri, 26 Dec 2025 17:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Truly Universal Outlet</title>
+      <link>https://xkcd.com/3186/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3186/</guid>
+      <pubDate>Fri, 26 Dec 2025 17:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>A BlueSky thread by rob pike on Skyview</title>
       <link>https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;viewtype=tree</link>
       <description>Fuck you people. Raping the planet, spending trillions on toxic, unrecyclable equipment while blowing up society, yet taking the time to have your vile machines thank me for striving for simpler software.
@@ -236,18 +256,6 @@ recently so I figured I'd write it up.)</description>
       <description>Vidalia Onions to be exact. They’re classified as a sweet onion, and because of their mild flavor (they don’t make your eyes tear up), some folks can eat them like an apple. Most of my customers do. During a phone order one season – 2018 I believe – a customer shared this story where he ... Read more</description>
       <guid>https://www.deepsouthventures.com/i-sell-onions-on-the-internet/</guid>
       <pubDate>Thu, 25 Dec 2025 21:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The C10K problem</title>
-      <link>https://www.kegel.com/c10k.html</link>
-      <description>It's time for web servers to handle ten thousand clients simultaneously,
-don't you think?  After all, the web is a big place now.</description>
-      <category>conference</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <category>web</category>
-      <guid>https://www.kegel.com/c10k.html</guid>
-      <pubDate>Thu, 25 Dec 2025 17:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
