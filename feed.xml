@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ezff</title>
+      <link>https://www.npmjs.com/package/ezff</link>
+      <description>Plain English wrapper for ffmpeg. Stop Googling ffmpeg commands.. Latest version: 0.1.1, last published: a day ago. Start using ezff in your project by running `npm i ezff`. There are no other projects in the npm registry using ezff.</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://www.npmjs.com/package/ezff</guid>
+      <pubDate>Sat, 27 Dec 2025 17:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Toys with the highest play-time and lowest clean-up-time </title>
       <link>https://joannabregan.substack.com/p/toys-with-the-highest-play-time-and</link>
       <description>The worst toy is one with many pieces that my kids dump on the ground and then play with for only 2 minutes.</description>
@@ -220,26 +231,6 @@
       <category>linux</category>
       <guid>https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/</guid>
       <pubDate>Fri, 26 Dec 2025 22:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Package managers keep using git as a database, it never works out</title>
-      <link>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</link>
-      <description>Git repositories seem like an elegant solution for package registry data. Pull requests for governance, version history for free, distributed by design. But as registries grow, the cracks appear.</description>
-      <category>rust</category>
-      <category>git</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>apple</category>
-      <guid>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</guid>
-      <pubDate>Fri, 26 Dec 2025 17:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truly Universal Outlet</title>
-      <link>https://xkcd.com/3186/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3186/</guid>
-      <pubDate>Fri, 26 Dec 2025 17:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
