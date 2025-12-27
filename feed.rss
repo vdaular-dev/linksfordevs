@@ -7,6 +7,172 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The API Tooling Crisis: Why developers are abandoning Postman and its clones?</title>
+      <link>https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/</link>
+      <description>I’ve been a Postman user for my entire developer career. I remember when it was just a simple Chrome extension that made pentesting APIs slightly less painful. Those were simpler times. Today, I find myself joining the growing exodus of developers abandoning these tools because they sell out.</description>
+      <category>git</category>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doing my cloud exit (kind of)</title>
+      <link>https://stanislas.blog/2025/06/cloud-exit/</link>
+      <description>Why I moved back to a dedicated server.</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <guid>https://stanislas.blog/2025/06/cloud-exit/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Depth on Demand</title>
+      <link>https://solmaz.io/depth-on-demand</link>
+      <description>I gave Codex a task of porting an OpenCV tracking algorithm (CSRT) from C++ to Rust, so that I can directly use it in my project without having to cross-compile</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://solmaz.io/depth-on-demand</guid>
+      <pubDate>Sat, 27 Dec 2025 00:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Radicalization of my Father</title>
+      <link>https://vomtag.com/entry/The-Radicalization-of-my-Father</link>
+      <description>Essays from the sharp edge of modernity.</description>
+      <guid>https://vomtag.com/entry/The-Radicalization-of-my-Father</guid>
+      <pubDate>Sat, 27 Dec 2025 00:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resolve merge conflicts with Claude Code</title>
+      <link>https://raine.dev/blog/resolve-conflicts-with-claude/</link>
+      <description>Streamline your git rebases with a custom Claude Code command</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://raine.dev/blog/resolve-conflicts-with-claude/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joining Jane Street</title>
+      <link>https://www.moderndescartes.com/essays/2025_job_search/</link>
+      <description>2025-12-23</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://www.moderndescartes.com/essays/2025_job_search/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Home Assistant as Personal Device Tracker – nuxx.net</title>
+      <link>https://nuxx.net/blog/2025/12/26/home-assistant-as-personal-device-tracker/</link>
+      <description>Part of our Home Assistant (HA) setup uses the Companion Mobile App for easy remote control and to collect data from our devices. The main tracked item is the phone’s location, so HA can tell if we’re home or not, and currently I only use it to change how some lighting automations work.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://nuxx.net/blog/2025/12/26/home-assistant-as-personal-device-tracker/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don’t Get Hacked: How to self-host Coolify on Hetzner</title>
+      <link>https://blog.jakesaunders.dev/self-host-coolify-on-hetzner/</link>
+      <description>A tutorial explaining step-by-step how to set up Coolify on a Hetzner server with security best practices.”</description>
+      <category>encryption</category>
+      <category>containers</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <guid>https://blog.jakesaunders.dev/self-host-coolify-on-hetzner/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Future of Software Engineering: Efficiency, Learning Velocity, Small Teams, and Reasoning Under Change</title>
+      <link>https://blog.rastrian.dev/post/the-future-of-software-engineering-efficiency-learning-velocity-small-teams-and-reasoning-under-change</link>
+      <description>The conversation about AI and the future of software engineering is often framed incorrectly. It usually oscillates between two extremes (total replacement or total irrelevance). Both are intellectually lazy. A better framing is simpler (and more uncomfortable): &gt;AI will not replace software engineers. &gt;It will replace inefficiency. And paradoxically, when inefficiency is removed from a profession, the profession often expands. Work does not disappear. It migrates upward (toward harder problems, sharper con...</description>
+      <author> (Luis Vaz (Rastrian))</author>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://blog.rastrian.dev/post/the-future-of-software-engineering-efficiency-learning-velocity-small-teams-and-reasoning-under-change</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The device that controls my insulin pump uses the Linux kernel. It also violates the GPL.</title>
+      <link>https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/</link>
+      <description>I just need to vent about this here, and maybe talking about it here will get some change. I am type 1 diabetic and depend on insulin to survive,...</description>
+      <category>android</category>
+      <category>linux</category>
+      <guid>https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simplifying the build process for vst3-rs — Micah Johnston</title>
+      <link>https://micahrj.github.io/posts/vst3/</link>
+      <description>VST 3 is an audio plugin interface which is developed by Steinberg and supported by a large number of host applications and plugins. The VST 3 API comprises a set of C++ header files which contain definitions for structs, constants, and abstract base classes (used in a similar way to COM). I maintain a set of Rust bindings for VST 3 which are automatically generated from the original C++ headers using libclang.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://micahrj.github.io/posts/vst3/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Line scan camera image processing</title>
+      <link>https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/</link>
+      <description>I use my line scan camera to take cool pictures of trains and other stuff.</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capture the Why</title>
+      <link>https://www.sanju.sh/writings/capture-the-why</link>
+      <description>We capture what happened everywhere. But ask 'why did we do that?' six months later and everyone's scrambling. The solution is embarrassingly simple.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.sanju.sh/writings/capture-the-why</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Did I Just Ask For A Demotion?</title>
+      <link>https://andrew.grahamyooll.com/blog/Did-I-Just-Ask-For-A-Demotion/</link>
+      <description>Published on 2025-12-26 by Andrew Graham-Yooll</description>
+      <category>gaming</category>
+      <guid>https://andrew.grahamyooll.com/blog/Did-I-Just-Ask-For-A-Demotion/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything is a Number - Francesco Carlucci</title>
+      <link>https://francescocarlucci.com/blog/everything-is-a-number</link>
+      <description>When complexity reduces to simple numbers, what is truly complex?</description>
+      <category>encryption</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://francescocarlucci.com/blog/everything-is-a-number</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tommaso Gagliardoni's Homepage</title>
+      <link>https://gagliardoni.net/#20251227_nofeedback?utm_source=hnblogs.substack.com</link>
+      <description>I've been in this field for so long, and yet I never managed to take a picture with you before, thank you so much!</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>cloud</category>
+      <category>conference</category>
+      <guid>https://gagliardoni.net/#20251227_nofeedback?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>My role as a founder CTO: Year Eight</title>
+      <link>https://miguelcarranza.es/cto-year-8</link>
+      <description>2025. What a year it has been. If a normal year as a startup founder already feels like four or five regular years, this one felt closer to a full decade. Th...</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>apple</category>
+      <guid>https://miguelcarranza.es/cto-year-8</guid>
+      <pubDate>Sat, 27 Dec 2025 00:03:07 GMT</pubDate>
+    </item>
+    <item>
       <title>How uv got so fast</title>
       <link>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</link>
       <description>uv’s speed comes from engineering decisions, not just Rust. Static metadata, dropping legacy formats, and standards that didn’t exist five years ago.</description>
