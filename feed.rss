@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nvidia's $20B Antitrust Loophole</title>
+      <link>https://ossa-ma.github.io/blog/groq</link>
+      <description>The Groq deal that dodged regulators, enriched Chamath, sidestepped Saudi entanglements and a whole bunch more</description>
+      <category>ai</category>
+      <guid>https://ossa-ma.github.io/blog/groq</guid>
+      <pubDate>Sat, 27 Dec 2025 23:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - apple/ml-sharp: Sharp Monocular View Synthesis in Less Than a Second</title>
       <link>https://github.com/apple/ml-sharp</link>
       <description>Sharp Monocular View Synthesis in Less Than a Second - apple/ml-sharp</description>
@@ -220,17 +228,6 @@
       <category>apple</category>
       <guid>https://miguelcarranza.es/cto-year-8</guid>
       <pubDate>Sat, 27 Dec 2025 00:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>How uv got so fast</title>
-      <link>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</link>
-      <description>uv’s speed comes from engineering decisions, not just Rust. Static metadata, dropping legacy formats, and standards that didn’t exist five years ago.</description>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</guid>
-      <pubDate>Fri, 26 Dec 2025 23:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

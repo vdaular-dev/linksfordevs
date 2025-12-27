@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Nvidia's $20B Antitrust Loophole",
+    "Url": "https://ossa-ma.github.io/blog/groq",
+    "Timestamp": "2025-12-27T23:02:09",
+    "Domain": "ossa-ma.github.io",
+    "Description": "The Groq deal that dodged regulators, enriched Chamath, sidestepped Saudi entanglements and a whole bunch more",
+    "Confidence": 0.93700796
+  },
+  {
     "Title": "GitHub - apple/ml-sharp: Sharp Monocular View Synthesis in Less Than a Second",
     "Url": "https://github.com/apple/ml-sharp",
     "Timestamp": "2025-12-27T18:02:04",
@@ -174,13 +182,5 @@
     "Domain": "miguelcarranza.es",
     "Description": "2025. What a year it has been. If a normal year as a startup founder already feels like four or five regular years, this one felt closer to a full decade. Th...",
     "Confidence": 0.96584755
-  },
-  {
-    "Title": "How uv got so fast",
-    "Url": "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html",
-    "Timestamp": "2025-12-26T23:02:05",
-    "Domain": "nesbitt.io",
-    "Description": "uv’s speed comes from engineering decisions, not just Rust. Static metadata, dropping legacy formats, and standards that didn’t exist five years ago.",
-    "Confidence": 0.99465597
   }
 ]
