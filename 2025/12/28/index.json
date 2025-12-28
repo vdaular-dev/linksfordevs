@@ -1,5 +1,96 @@
 [
   {
+    "Title": "DHH is immortal, and costs $200/m",
+    "Url": "https://danieltenner.com/dhh-is-immortal-and-costs-200-m/",
+    "Timestamp": "2025-12-28T01:03:13",
+    "Domain": "danieltenner.com",
+    "Description": "With this technique, as a 3-decades-experience developer, I am writing better code with AI's help than I could by myself."
+  },
+  {
+    "Title": "Building for the future",
+    "Url": "https://anirudh.fi/future",
+    "Timestamp": "2025-12-28T01:03:07",
+    "Domain": "anirudh.fi",
+    "Description": "On Tangled's existence and direction"
+  },
+  {
+    "Title": "Reading has nothing to do with paper | Samuele Amato",
+    "Url": "https://samueleamato.xyz/2025/12/27/reading-has-nothing-to-do-with-paper",
+    "Timestamp": "2025-12-28T01:03:04",
+    "Domain": "samueleamato.xyz",
+    "Description": "Reading has nothing to do with paper"
+  },
+  {
+    "Title": "Why Reliability Demands Functional Programming: ADTs, Safety, and Critical Infrastructure",
+    "Url": "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure",
+    "Timestamp": "2025-12-28T01:02:58",
+    "Domain": "blog.rastrian.dev",
+    "Description": "> In banking, telecom, and payments, reliability is not a nice to have. It is table stakes. The most reliable systems I have worked on reduce entire classes of bugs before the code even runs. Functional programming and Algebraic Data Types (ADTs) let you push correctness into the type system, so illegal states cannot be constructed in the first place. **What you will learn** - How invalid states show up in real systems and why they cause costly incidents - How ADTs encode business rules so the compiler enfo..."
+  },
+  {
+    "Title": "My journey to a NixOS Router",
+    "Url": "https://chrisdell.info/my-journey-to-a-nixos-router/",
+    "Timestamp": "2025-12-28T01:02:52",
+    "Domain": "chrisdell.info",
+    "Description": "About two years ago, I bought my first N100 Mini PC for little more than £100. At the time, the N100 was a brand-new chip - quad-core, all “E” (efficiency) cores borrowed from Intel’s Alder Lake architecture, with a mere 6W TDP. It competed with Raspberry Pis but delivered"
+  },
+  {
+    "Title": "Why I Write (And You Should Too!)",
+    "Url": "https://www.dbreunig.com/2025/12/27/why-i-write.html",
+    "Timestamp": "2025-12-28T01:02:47",
+    "Domain": "www.dbreunig.com",
+    "Description": "Publicly writing is one of the most valuable things you can do. It improves your thinking, ability to communicate, and connects you to interesting people."
+  },
+  {
+    "Title": "We Lost the Thread on the Data Lake",
+    "Url": "https://blog.matterbeam.com/we-lost-the-thread-on-the-data-lake/",
+    "Timestamp": "2025-12-28T01:02:44",
+    "Domain": "blog.matterbeam.com",
+    "Description": "In 2014, my last startup was acquired. We joined a fast growing organization with a top-notch data team. They had invested heavily in data infrastructure. Data was strategic. They had \"the hub,\" a Hadoop cluster built on HDFS. I thought: here's a company doing things right.\n\nThen I tried to"
+  },
+  {
+    "Title": "motion and machine – The Homebound Symphony",
+    "Url": "https://blog.ayjay.org/motion-and-machine/",
+    "Timestamp": "2025-12-28T01:02:41",
+    "Domain": "blog.ayjay.org",
+    "Description": ""
+  },
+  {
+    "Title": "2025-12-26 - Verdichtung",
+    "Url": "https://alexeygy.github.io/blog/verdichtung/",
+    "Timestamp": "2025-12-28T01:02:35",
+    "Domain": "alexeygy.github.io",
+    "Description": "Verdichtung is German word that loosely means \"densification\". It represents an alternative to urban sprawl⁰ that is prevalent in US cities and has been the dominant strategy for Zurich's expansion."
+  },
+  {
+    "Title": "Realtime Raytracing in Bevy 0.18 (Solari)",
+    "Url": "https://jms55.github.io/posts/2025-12-27-solari-bevy-0-18/",
+    "Timestamp": "2025-12-28T01:02:31",
+    "Domain": "jms55.github.io",
+    "Description": "Bevy, Rust, Graphics, etc"
+  },
+  {
+    "Title": "Not Everything Should Be Easy",
+    "Url": "https://blog.rastrian.dev/post/not-everything-should-be-easy",
+    "Timestamp": "2025-12-28T01:02:25",
+    "Domain": "blog.rastrian.dev",
+    "Description": "I think it’s great that we’re in the age of AI, but I also feel we’re leaving something behind. These tools let someone with technical skill produce more in many scenarios (they clear out repetitive and even boring tasks), yet maybe that piece we are removing is fundamental to the puzzle. We’ve never had a time so practical and capable for building things, with free or low-cost tools, easy access, and robust documentation. Still, maybe the true integrity of value lived in the difficulty of access an..."
+  },
+  {
+    "Title": "VS Code Local Extensions",
+    "Url": "https://hubelbauer.net/vscode-local-extensions/",
+    "Timestamp": "2025-12-28T01:02:21",
+    "Domain": "hubelbauer.net",
+    "Description": "My personal website"
+  },
+  {
+    "Title": "1Password Dependency Breaks Syntax Highlighting",
+    "Url": "https://borretti.me/article/1password-dependency-breaks-syntax-highlighting",
+    "Timestamp": "2025-12-28T01:02:18",
+    "Domain": "borretti.me",
+    "Description": "Why does a password manager need a syntax highlighter?"
+  },
+  {
     "Title": "Slides, pocs and patches soon!",
     "Url": "https://gpg.fail/",
     "Timestamp": "2025-12-28T00:02:16",
