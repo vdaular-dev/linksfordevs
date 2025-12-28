@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Slides, pocs and patches soon!",
+    "Url": "https://gpg.fail/",
+    "Timestamp": "2025-12-28T00:02:16",
+    "Domain": "gpg.fail",
+    "Description": "\"in the hurry of leaving i forgot the sites src at home, sorry, had to rewrite the whole thing. expect a nicer site by tomorrow. im patching as we speak.\"  -  crackticker (<- to blame)",
+    "Confidence": 0.95059806
+  },
+  {
+    "Title": "1980s Internet: An Ancient PDP-11 Goes Live on the Web",
+    "Url": "https://youtube.com/watch?v=5TX37gGYK7g",
+    "Timestamp": "2025-12-28T00:02:10",
+    "Domain": "youtube.com",
+    "Description": "Dave adds virtual networking to the Ubibone project, enabling a 1980s PDP-11/44 to connect to the Internet for the first time in 40 years!",
+    "Confidence": 0.9557054
+  },
+  {
+    "Title": "White House pushes to dismantle leading climate and weather research center",
+    "Url": "https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center",
+    "Timestamp": "2025-12-28T00:02:09",
+    "Domain": "www.pbs.org",
+    "Description": "The Trump administration says it plans to dismantle the National Center for Atmospheric Research in Colorado, which is the nation’s premier atmospheric science center. The center was founded in 1960 and has facilitated generations of breakthroughs in climate and weather science. William Brangham discussed the move with climate scientist Kim Cobb and meteorologist Matthew Cappucci.",
+    "Confidence": 0.75368154
+  },
+  {
     "Title": "Nvidia's $20B Antitrust Loophole",
     "Url": "https://ossa-ma.github.io/blog/groq",
     "Timestamp": "2025-12-27T23:02:09",
@@ -46,141 +70,5 @@
     "Domain": "simonwillison.net",
     "Description": "Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. …",
     "Confidence": 0.9481202
-  },
-  {
-    "Title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
-    "Url": "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/",
-    "Timestamp": "2025-12-27T00:04:16",
-    "Domain": "efpasia.github.io",
-    "Description": "I’ve been a Postman user for my entire developer career. I remember when it was just a simple Chrome extension that made pentesting APIs slightly less painful. Those were simpler times. Today, I find myself joining the growing exodus of developers abandoning these tools because they sell out.",
-    "Confidence": 0.9708138
-  },
-  {
-    "Title": "Doing my cloud exit (kind of)",
-    "Url": "https://stanislas.blog/2025/06/cloud-exit/",
-    "Timestamp": "2025-12-27T00:04:13",
-    "Domain": "stanislas.blog",
-    "Description": "Why I moved back to a dedicated server.",
-    "Confidence": 0.9813994
-  },
-  {
-    "Title": "Depth on Demand",
-    "Url": "https://solmaz.io/depth-on-demand",
-    "Timestamp": "2025-12-27T00:04:09",
-    "Domain": "solmaz.io",
-    "Description": "I gave Codex a task of porting an OpenCV tracking algorithm (CSRT) from C++ to Rust, so that I can directly use it in my project without having to cross-compile",
-    "Confidence": 0.97306424
-  },
-  {
-    "Title": "The Radicalization of my Father",
-    "Url": "https://vomtag.com/entry/The-Radicalization-of-my-Father",
-    "Timestamp": "2025-12-27T00:04:06",
-    "Domain": "vomtag.com",
-    "Description": "Essays from the sharp edge of modernity.",
-    "Confidence": 0.75867873
-  },
-  {
-    "Title": "Resolve merge conflicts with Claude Code",
-    "Url": "https://raine.dev/blog/resolve-conflicts-with-claude/",
-    "Timestamp": "2025-12-27T00:04:01",
-    "Domain": "raine.dev",
-    "Description": "Streamline your git rebases with a custom Claude Code command",
-    "Confidence": 0.99349046
-  },
-  {
-    "Title": "Joining Jane Street",
-    "Url": "https://www.moderndescartes.com/essays/2025_job_search/",
-    "Timestamp": "2025-12-27T00:03:57",
-    "Domain": "www.moderndescartes.com",
-    "Description": "2025-12-23",
-    "Confidence": 0.89188355
-  },
-  {
-    "Title": "Home Assistant as Personal Device Tracker – nuxx.net",
-    "Url": "https://nuxx.net/blog/2025/12/26/home-assistant-as-personal-device-tracker/",
-    "Timestamp": "2025-12-27T00:03:53",
-    "Domain": "nuxx.net",
-    "Description": "Part of our Home Assistant (HA) setup uses the Companion Mobile App for easy remote control and to collect data from our devices. The main tracked item is the phone’s location, so HA can tell if we’re home or not, and currently I only use it to change how some lighting automations work.",
-    "Confidence": 0.9530712
-  },
-  {
-    "Title": "Don’t Get Hacked: How to self-host Coolify on Hetzner",
-    "Url": "https://blog.jakesaunders.dev/self-host-coolify-on-hetzner/",
-    "Timestamp": "2025-12-27T00:03:49",
-    "Domain": "blog.jakesaunders.dev",
-    "Description": "A tutorial explaining step-by-step how to set up Coolify on a Hetzner server with security best practices.”",
-    "Confidence": 0.9974823
-  },
-  {
-    "Title": "The Future of Software Engineering: Efficiency, Learning Velocity, Small Teams, and Reasoning Under Change",
-    "Url": "https://blog.rastrian.dev/post/the-future-of-software-engineering-efficiency-learning-velocity-small-teams-and-reasoning-under-change",
-    "Timestamp": "2025-12-27T00:03:45",
-    "Domain": "blog.rastrian.dev",
-    "Description": "The conversation about AI and the future of software engineering is often framed incorrectly. It usually oscillates between two extremes (total replacement or total irrelevance). Both are intellectually lazy. A better framing is simpler (and more uncomfortable): >AI will not replace software engineers. >It will replace inefficiency. And paradoxically, when inefficiency is removed from a profession, the profession often expands. Work does not disappear. It migrates upward (toward harder problems, sharper con...",
-    "Confidence": 0.9945269
-  },
-  {
-    "Title": "The device that controls my insulin pump uses the Linux kernel. It also violates the GPL.",
-    "Url": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
-    "Timestamp": "2025-12-27T00:03:39",
-    "Domain": "old.reddit.com",
-    "Description": "I just need to vent about this here, and maybe talking about it here will get some change. I am type 1 diabetic and depend on insulin to survive,...",
-    "Confidence": 0.90660495
-  },
-  {
-    "Title": "Simplifying the build process for vst3-rs — Micah Johnston",
-    "Url": "https://micahrj.github.io/posts/vst3/",
-    "Timestamp": "2025-12-27T00:03:31",
-    "Domain": "micahrj.github.io",
-    "Description": "VST 3 is an audio plugin interface which is developed by Steinberg and supported by a large number of host applications and plugins. The VST 3 API comprises a set of C++ header files which contain definitions for structs, constants, and abstract base classes (used in a similar way to COM). I maintain a set of Rust bindings for VST 3 which are automatically generated from the original C++ headers using libclang.",
-    "Confidence": 0.9861058
-  },
-  {
-    "Title": "Line scan camera image processing",
-    "Url": "https://daniel.lawrence.lu/blog/2025-09-21-line-scan-camera-image-processing/",
-    "Timestamp": "2025-12-27T00:03:27",
-    "Domain": "daniel.lawrence.lu",
-    "Description": "I use my line scan camera to take cool pictures of trains and other stuff.",
-    "Confidence": 0.97741497
-  },
-  {
-    "Title": "Capture the Why",
-    "Url": "https://www.sanju.sh/writings/capture-the-why",
-    "Timestamp": "2025-12-27T00:03:23",
-    "Domain": "www.sanju.sh",
-    "Description": "We capture what happened everywhere. But ask 'why did we do that?' six months later and everyone's scrambling. The solution is embarrassingly simple.",
-    "Confidence": 0.98539114
-  },
-  {
-    "Title": "Did I Just Ask For A Demotion?",
-    "Url": "https://andrew.grahamyooll.com/blog/Did-I-Just-Ask-For-A-Demotion/",
-    "Timestamp": "2025-12-27T00:03:20",
-    "Domain": "andrew.grahamyooll.com",
-    "Description": "Published on 2025-12-26 by Andrew Graham-Yooll",
-    "Confidence": 0.9833576
-  },
-  {
-    "Title": "Everything is a Number - Francesco Carlucci",
-    "Url": "https://francescocarlucci.com/blog/everything-is-a-number",
-    "Timestamp": "2025-12-27T00:03:17",
-    "Domain": "francescocarlucci.com",
-    "Description": "When complexity reduces to simple numbers, what is truly complex?",
-    "Confidence": 0.9949313
-  },
-  {
-    "Title": "Tommaso Gagliardoni's Homepage",
-    "Url": "https://gagliardoni.net/#20251227_nofeedback?utm_source=hnblogs.substack.com",
-    "Timestamp": "2025-12-27T00:03:13",
-    "Domain": "gagliardoni.net",
-    "Description": "I've been in this field for so long, and yet I never managed to take a picture with you before, thank you so much!",
-    "Confidence": 0.9871332
-  },
-  {
-    "Title": "My role as a founder CTO: Year Eight",
-    "Url": "https://miguelcarranza.es/cto-year-8",
-    "Timestamp": "2025-12-27T00:03:07",
-    "Domain": "miguelcarranza.es",
-    "Description": "2025. What a year it has been. If a normal year as a startup founder already feels like four or five regular years, this one felt closer to a full decade. Th...",
-    "Confidence": 0.96584755
   }
 ]
