@@ -405,7 +405,11 @@ footer {
         }
 
 .secret {
-    visibility: hidden;
+    color: transparent;
+}
+
+.secret a {
+    color: transparent;
 }
 
 .text-center {
