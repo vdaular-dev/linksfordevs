@@ -1,5 +1,181 @@
 [
   {
+    "Title": "First Steps with Gleam: Building a Simple Web App (Rest API with PostgreSQL database)",
+    "Url": "https://blog.andreyfadeev.com/p/gleam-web-application-development-tutorial",
+    "Timestamp": "2025-12-29T00:03:48",
+    "Domain": "blog.andreyfadeev.com",
+    "Description": "A beginner-friendly walkthrough of creating a web app with Gleam, REST APIs, and PostgreSQL.",
+    "Confidence": 0.99890006
+  },
+  {
+    "Title": "A Modern Recommender Model Architecture",
+    "Url": "https://cprimozic.net/blog/anime-recommender-model-architecture/",
+    "Timestamp": "2025-12-29T00:03:43",
+    "Domain": "cprimozic.net",
+    "Description": "This post provides a detailed rundown of the architecture of a recommender model I recently developed.  It gives details about all of the main design decisions and unique features that were added as well as how and why they were implemented.",
+    "Confidence": 0.9857906
+  },
+  {
+    "Title": "DOOM in Django: testing the limits of LiveView at 600.000 divs/segundo | Andros Fenollosa",
+    "Url": "https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/",
+    "Timestamp": "2025-12-29T00:03:40",
+    "Domain": "en.andros.dev",
+    "Description": "Based on the latest tests I've published, Django LiveView appears to be the fastest dynamic frontend (I'm sure more variables can be measured).\n\nOK...",
+    "Confidence": 0.9701834
+  },
+  {
+    "Title": "John Ocen's",
+    "Url": "https://johnocens.com/soothfare/changehowexpensive",
+    "Timestamp": "2025-12-29T00:03:29",
+    "Domain": "johnocens.com",
+    "Description": "Output is deliberate.",
+    "Confidence": 0.65720963
+  },
+  {
+    "Title": "Federation Over Embeddings: Let AI Agents Query Data Where It Lives",
+    "Url": "https://www.gnanaguru.com/p/federation-over-embeddings-let-ai",
+    "Timestamp": "2025-12-29T00:03:25",
+    "Domain": "www.gnanaguru.com",
+    "Description": "Before building vector infrastructure, consider federation: AI agents with tool access to your existing systems. For most enterprise use cases, that's all you need.",
+    "Confidence": 0.9847075
+  },
+  {
+    "Title": "Fail Faster on your Ideas",
+    "Url": "https://martianlantern.github.io/2025/12/fail-faster-on-your-ideas/",
+    "Timestamp": "2025-12-29T00:03:20",
+    "Domain": "martianlantern.github.io",
+    "Description": "Fail Faster on your Ideas",
+    "Confidence": 0.893661
+  },
+  {
+    "Title": "You should still bother to learn to actually program - Jeff Morhous",
+    "Url": "https://jeffmorhous.com/learn-to-program-with-ai/",
+    "Timestamp": "2025-12-29T00:03:17",
+    "Domain": "jeffmorhous.com",
+    "Description": "AI has changed software engineering. Many are wondering if they should bother to learn to actually program or if they can just use AI to program. Yes, you should still bother to actually learn...",
+    "Confidence": 0.9971214
+  },
+  {
+    "Title": "Using The Corne Split Keyboard For Half A Year",
+    "Url": "https://rugu.dev/en/blog/corne/",
+    "Timestamp": "2025-12-29T00:03:13",
+    "Domain": "rugu.dev",
+    "Description": "I built my own Corne keyboard around six months ago, in July. I have been using it ever since. I have been using it ever since July. Although I am no expert on split keyboards, I accumulated a fair amount of observations during this whole process. I thought that if I wrote down my experiences, they might still be of interest to people who are considering whether to try a split keyboard. Or, if they are already using one, maybe they can also benefit from some of the tricks that helped me a lot. So, here it is: a blog post about how and why I built my own Corne keyboard, the things I learned and applied to improve my ergonomics over the last 6 months.",
+    "Confidence": 0.96290904
+  },
+  {
+    "Title": "Robots Are Just Microservices with Wheels - Bridging the Gap Between Web Software and Robotics",
+    "Url": "https://thomasthelliez.com/blog/robots-are-just-microservices-with-wheels/",
+    "Timestamp": "2025-12-29T00:03:09",
+    "Domain": "thomasthelliez.com",
+    "Description": "If you are a web developer or a cloud architect, the world of robotics often feels like a foreign land. We imagine humanoid machines and low-level C code that looks more like math than software. Bu",
+    "Confidence": 0.9856761
+  },
+  {
+    "Title": "Scripts Stats",
+    "Url": "https://vermaden.wordpress.com/2025/12/28/scripts-stats/",
+    "Timestamp": "2025-12-29T00:03:06",
+    "Domain": "vermaden.wordpress.com",
+    "Description": "I have grown many scripts in my UNIX life – close to 500 that I still use daily and even more then 700 in my 18 years time at various jobs … and also often for personal daily reasons. %…",
+    "Confidence": 0.9788613
+  },
+  {
+    "Title": "Antti Harju's personal website",
+    "Url": "https://anttiharju.dev/a/1#pre-commit-hooks-are-useful?utm_source=hnblogs.substack.com",
+    "Timestamp": "2025-12-29T00:03:03",
+    "Domain": "anttiharju.dev",
+    "Description": "Personal website",
+    "Confidence": 0.9920156
+  },
+  {
+    "Title": "on programmatic tool calling",
+    "Url": "https://www.guillemus.com/on-programmatic-tool-calling/",
+    "Timestamp": "2025-12-29T00:02:59",
+    "Domain": "www.guillemus.com",
+    "Description": "Building agents with code execution instead of JSON tool calls.",
+    "Confidence": 0.99765164
+  },
+  {
+    "Title": "Parsing Advances",
+    "Url": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+    "Timestamp": "2025-12-29T00:02:56",
+    "Domain": "matklad.github.io",
+    "Description": "I find myself writing yet another toy parser, as one does during a Christmas break. It roughly follows\nResilient LL Parsing Tutorial.\nNot because I need resilience, but mostly because I find producing a syntax tree and a collection of\ndiagnostics a more natural fit for the problem than bailing out on the first error.",
+    "Confidence": 0.99820524
+  },
+  {
+    "Title": "Recreating The Bell Labs Switch Experiment With Agents",
+    "Url": "https://cianfrani.dev/posts/12-switches/",
+    "Timestamp": "2025-12-29T00:02:53",
+    "Domain": "cianfrani.dev",
+    "Description": "The one where I recreate the 12 switch experiment from TADSE",
+    "Confidence": 0.9080814
+  },
+  {
+    "Title": "Good if make prior after data instead of before",
+    "Url": "https://dynomight.net/prior/",
+    "Timestamp": "2025-12-29T00:02:50",
+    "Domain": "dynomight.net",
+    "Description": "because truth is many",
+    "Confidence": 0.983864
+  },
+  {
+    "Title": "Why I Disappeared",
+    "Url": "https://www.kenklippenstein.com/p/why-i-disappeared",
+    "Timestamp": "2025-12-29T00:02:46",
+    "Domain": "www.kenklippenstein.com",
+    "Description": "My week with minimal internet in a remote island chain",
+    "Confidence": 0.58032924
+  },
+  {
+    "Title": "how i learned to code",
+    "Url": "https://nicholaschen.me/blogs/how-i-learned-to-code",
+    "Timestamp": "2025-12-29T00:02:42",
+    "Domain": "nicholaschen.me",
+    "Description": "small learnings that taught me to code from start (top) to end (bottom)",
+    "Confidence": 0.9927143
+  },
+  {
+    "Title": "Bypassing a clever CD-check",
+    "Url": "https://www.davidschlachter.com/misc/no-cd-patch",
+    "Timestamp": "2025-12-29T00:02:35",
+    "Domain": "www.davidschlachter.com",
+    "Description": "Decompiling to understand how a CD-check was implemented in an old program.",
+    "Confidence": 0.98334205
+  },
+  {
+    "Title": "How Costo makes money",
+    "Url": "https://mannhowie.com/how-costo-makes-money",
+    "Timestamp": "2025-12-29T00:02:31",
+    "Domain": "mannhowie.com",
+    "Description": "Learn how businesses make money from understanding annual reports. ",
+    "Confidence": 0.9292449
+  },
+  {
+    "Title": "Dear Mozilla, I don't want an “Al kill switch”, I want a more responsible approach for all",
+    "Url": "https://hidde.blog/mozilla-ai-kill-switch/",
+    "Timestamp": "2025-12-29T00:02:28",
+    "Domain": "hidde.blog",
+    "Description": "My concern is that Mozilla is _too_ excited about a technology that has inherent downsides and ethical problems, and I would like to see better defaults and clearer risk mitigations.",
+    "Confidence": 0.9414648
+  },
+  {
+    "Title": "Parsing IP addresses quickly (portably, without SIMD magic)",
+    "Url": "https://lemire.me/blog/2025/12/27/parsing-ip-addresses-quickly-portably-without-simd-magic/",
+    "Timestamp": "2025-12-29T00:02:23",
+    "Domain": "lemire.me",
+    "Description": "Most programmers are familiar with IP addresses. They take the form of four numbers between 0 and 255 separated by dots: 192.168.0.1. In some sense, it is a convoluted way to represent a 32-bit integer. The modern version of an IP address is IPv6 which is usually surrounded by square brackets. It is less common … Continue reading Parsing IP addresses quickly (portably, without SIMD magic)",
+    "Confidence": 0.9977819
+  },
+  {
+    "Title": "Meetings With No Agenda Are a Waste of Time",
+    "Url": "https://arpitbhayani.me/blogs/meetings-with-no-agenda-are-a-waste-of-time/",
+    "Timestamp": "2025-12-29T00:02:19",
+    "Domain": "arpitbhayani.me",
+    "Description": "We've all been in meetings where no one really knows why they're there or what's about to happen. Always attach an agenda doc or at least a clear description when you schedule a meeting.",
+    "Confidence": 0.92611563
+  },
+  {
     "Title": "Last Year on My Mac: Look back in disbelief",
     "Url": "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/",
     "Timestamp": "2025-12-28T19:02:12",
@@ -158,29 +334,5 @@
     "Domain": "borretti.me",
     "Description": "Why does a password manager need a syntax highlighter?",
     "Confidence": 0.93363047
-  },
-  {
-    "Title": "Slides, pocs and patches soon!",
-    "Url": "https://gpg.fail/",
-    "Timestamp": "2025-12-28T00:02:16",
-    "Domain": "gpg.fail",
-    "Description": "\"in the hurry of leaving i forgot the sites src at home, sorry, had to rewrite the whole thing. expect a nicer site by tomorrow. im patching as we speak.\"  -  crackticker (<- to blame)",
-    "Confidence": 0.95059806
-  },
-  {
-    "Title": "1980s Internet: An Ancient PDP-11 Goes Live on the Web",
-    "Url": "https://youtube.com/watch?v=5TX37gGYK7g",
-    "Timestamp": "2025-12-28T00:02:10",
-    "Domain": "youtube.com",
-    "Description": "Dave adds virtual networking to the Ubibone project, enabling a 1980s PDP-11/44 to connect to the Internet for the first time in 40 years!",
-    "Confidence": 0.9557054
-  },
-  {
-    "Title": "White House pushes to dismantle leading climate and weather research center",
-    "Url": "https://www.pbs.org/newshour/show/white-house-pushes-to-dismantle-leading-climate-and-weather-research-center",
-    "Timestamp": "2025-12-28T00:02:09",
-    "Domain": "www.pbs.org",
-    "Description": "The Trump administration says it plans to dismantle the National Center for Atmospheric Research in Colorado, which is the nation’s premier atmospheric science center. The center was founded in 1960 and has facilitated generations of breakthroughs in climate and weather science. William Brangham discussed the move with climate scientist Kim Cobb and meteorologist Matthew Cappucci.",
-    "Confidence": 0.75368154
   }
 ]
