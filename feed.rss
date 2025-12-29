@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What an unprocessed photo looks like: (Maurycy's blog)</title>
+      <link>https://maurycyz.com/misc/raw_photo/</link>
+      <description>Here’s a photo of a Christmas tree, as my camera’s sensor sees it:</description>
+      <guid>https://maurycyz.com/misc/raw_photo/</guid>
+      <pubDate>Mon, 29 Dec 2025 01:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>First Steps with Gleam: Building a Simple Web App (Rest API with PostgreSQL database)</title>
       <link>https://blog.andreyfadeev.com/p/gleam-web-application-development-tutorial</link>
       <description>A beginner-friendly walkthrough of creating a web app with Gleam, REST APIs, and PostgreSQL.</description>
@@ -268,132 +275,6 @@ diagnostics a more natural fit for the problem than bailing out on the first err
       <description>How We Lost Communication to Entertainment par Ploum - Lionel Dricot.</description>
       <guid>https://ploum.net/2025-12-15-communication-entertainment.html</guid>
       <pubDate>Sun, 28 Dec 2025 02:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>DHH is immortal, and costs $200/m</title>
-      <link>https://danieltenner.com/dhh-is-immortal-and-costs-200-m/</link>
-      <description>With this technique, as a 3-decades-experience developer, I am writing better code with AI's help than I could by myself.</description>
-      <category>ruby</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://danieltenner.com/dhh-is-immortal-and-costs-200-m/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building for the future</title>
-      <link>https://anirudh.fi/future</link>
-      <description>On Tangled's existence and direction</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://anirudh.fi/future</guid>
-      <pubDate>Sun, 28 Dec 2025 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reading has nothing to do with paper | Samuele Amato</title>
-      <link>https://samueleamato.xyz/2025/12/27/reading-has-nothing-to-do-with-paper</link>
-      <description>Reading has nothing to do with paper</description>
-      <guid>https://samueleamato.xyz/2025/12/27/reading-has-nothing-to-do-with-paper</guid>
-      <pubDate>Sun, 28 Dec 2025 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Reliability Demands Functional Programming: ADTs, Safety, and Critical Infrastructure</title>
-      <link>https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure</link>
-      <description>&gt; In banking, telecom, and payments, reliability is not a nice to have. It is table stakes. The most reliable systems I have worked on reduce entire classes of bugs before the code even runs. Functional programming and Algebraic Data Types (ADTs) let you push correctness into the type system, so illegal states cannot be constructed in the first place. **What you will learn** - How invalid states show up in real systems and why they cause costly incidents - How ADTs encode business rules so the compiler enfo...</description>
-      <author> (Luis Vaz (Rastrian))</author>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>My journey to a NixOS Router</title>
-      <link>https://chrisdell.info/my-journey-to-a-nixos-router/</link>
-      <description>About two years ago, I bought my first N100 Mini PC for little more than £100. At the time, the N100 was a brand-new chip - quad-core, all “E” (efficiency) cores borrowed from Intel’s Alder Lake architecture, with a mere 6W TDP. It competed with Raspberry Pis but delivered</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>python</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://chrisdell.info/my-journey-to-a-nixos-router/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Write (And You Should Too!)</title>
-      <link>https://www.dbreunig.com/2025/12/27/why-i-write.html</link>
-      <description>Publicly writing is one of the most valuable things you can do. It improves your thinking, ability to communicate, and connects you to interesting people.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://www.dbreunig.com/2025/12/27/why-i-write.html</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Lost the Thread on the Data Lake</title>
-      <link>https://blog.matterbeam.com/we-lost-the-thread-on-the-data-lake/</link>
-      <description>In 2014, my last startup was acquired. We joined a fast growing organization with a top-notch data team. They had invested heavily in data infrastructure. Data was strategic. They had "the hub," a Hadoop cluster built on HDFS. I thought: here's a company doing things right.
-
-Then I tried to</description>
-      <category>sql</category>
-      <guid>https://blog.matterbeam.com/we-lost-the-thread-on-the-data-lake/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>motion and machine – The Homebound Symphony</title>
-      <link>https://blog.ayjay.org/motion-and-machine/</link>
-      <description></description>
-      <guid>https://blog.ayjay.org/motion-and-machine/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025-12-26 - Verdichtung</title>
-      <link>https://alexeygy.github.io/blog/verdichtung/</link>
-      <description>Verdichtung is German word that loosely means "densification". It represents an alternative to urban sprawl⁰ that is prevalent in US cities and has been the dominant strategy for Zurich's expansion.</description>
-      <guid>https://alexeygy.github.io/blog/verdichtung/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Realtime Raytracing in Bevy 0.18 (Solari)</title>
-      <link>https://jms55.github.io/posts/2025-12-27-solari-bevy-0-18/</link>
-      <description>Bevy, Rust, Graphics, etc</description>
-      <category>cloud</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://jms55.github.io/posts/2025-12-27-solari-bevy-0-18/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Not Everything Should Be Easy</title>
-      <link>https://blog.rastrian.dev/post/not-everything-should-be-easy</link>
-      <description>I think it’s great that we’re in the age of AI, but I also feel we’re leaving something behind. These tools let someone with technical skill produce more in many scenarios (they clear out repetitive and even boring tasks), yet maybe that piece we are removing is fundamental to the puzzle. We’ve never had a time so practical and capable for building things, with free or low-cost tools, easy access, and robust documentation. Still, maybe the true integrity of value lived in the difficulty of access an...</description>
-      <author> (Luis Vaz (Rastrian))</author>
-      <category>ai</category>
-      <guid>https://blog.rastrian.dev/post/not-everything-should-be-easy</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS Code Local Extensions</title>
-      <link>https://hubelbauer.net/vscode-local-extensions/</link>
-      <description>My personal website</description>
-      <category>vscode</category>
-      <category>typescript</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://hubelbauer.net/vscode-local-extensions/</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>1Password Dependency Breaks Syntax Highlighting</title>
-      <link>https://borretti.me/article/1password-dependency-breaks-syntax-highlighting</link>
-      <description>Why does a password manager need a syntax highlighter?</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://borretti.me/article/1password-dependency-breaks-syntax-highlighting</guid>
-      <pubDate>Sun, 28 Dec 2025 01:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
