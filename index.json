@@ -1,5 +1,13 @@
 [
   {
+    "Title": "MongoBleed explained simply",
+    "Url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
+    "Timestamp": "2025-12-29T02:02:00",
+    "Domain": "bigdata.2minutestreaming.com",
+    "Description": "CVE-2025-14847 allows attackers to read any arbitrary data from the database's heap memory. It affects all MongoDB versions since 2017, here's a simple explanation:",
+    "Confidence": 0.99069506
+  },
+  {
     "Title": "What an unprocessed photo looks like: (Maurycy's blog)",
     "Url": "https://maurycyz.com/misc/raw_photo/",
     "Timestamp": "2025-12-29T01:02:03",
@@ -222,21 +230,5 @@
     "Domain": "www.htmhell.dev",
     "Description": "A collection of bad practices in HTML, copied from real websites.",
     "Confidence": 0.9880028
-  },
-  {
-    "Title": "Simple: Observability | Pure Krome",
-    "Url": "https://www.world-domination.com.au/posts/simple-observability/",
-    "Timestamp": "2025-12-28T02:02:13",
-    "Domain": "www.world-domination.com.au",
-    "Description": "A simple application to monitor your applications/microservices.",
-    "Confidence": 0.99559176
-  },
-  {
-    "Title": "How We Lost Communication to Entertainment",
-    "Url": "https://ploum.net/2025-12-15-communication-entertainment.html",
-    "Timestamp": "2025-12-28T02:02:09",
-    "Domain": "ploum.net",
-    "Description": "How We Lost Communication to Entertainment par Ploum - Lionel Dricot.",
-    "Confidence": 0.97314006
   }
 ]

@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MongoBleed explained simply</title>
+      <link>https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply</link>
+      <description>CVE-2025-14847 allows attackers to read any arbitrary data from the database's heap memory. It affects all MongoDB versions since 2017, here's a simple explanation:</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply</guid>
+      <pubDate>Mon, 29 Dec 2025 02:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What an unprocessed photo looks like: (Maurycy's blog)</title>
       <link>https://maurycyz.com/misc/raw_photo/</link>
       <description>Here’s a photo of a Christmas tree, as my camera’s sensor sees it:</description>
@@ -258,23 +267,6 @@ diagnostics a more natural fit for the problem than bailing out on the first err
       <category>javascript</category>
       <guid>https://www.htmhell.dev/adventcalendar/2025/27/</guid>
       <pubDate>Sun, 28 Dec 2025 07:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simple: Observability | Pure Krome</title>
-      <link>https://www.world-domination.com.au/posts/simple-observability/</link>
-      <description>A simple application to monitor your applications/microservices.</description>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://www.world-domination.com.au/posts/simple-observability/</guid>
-      <pubDate>Sun, 28 Dec 2025 02:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>How We Lost Communication to Entertainment</title>
-      <link>https://ploum.net/2025-12-15-communication-entertainment.html</link>
-      <description>How We Lost Communication to Entertainment par Ploum - Lionel Dricot.</description>
-      <guid>https://ploum.net/2025-12-15-communication-entertainment.html</guid>
-      <pubDate>Sun, 28 Dec 2025 02:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
