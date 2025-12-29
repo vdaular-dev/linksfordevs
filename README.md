@@ -22,5 +22,3 @@ These people have been great with suggestions, debugging, libraries, and especia
 * [johan alkstal](https://twitter.com/johanalkstal)
 * roy haddad
 * [xt0rted](https://github.com/xt0rted/)
-
-shallow test
