@@ -1,5 +1,181 @@
 [
   {
+    "Title": "A Small Experiment in Making Math Click",
+    "Url": "https://farhadg.com/blog/seeing-math-differently/",
+    "Timestamp": "2025-12-30T01:03:31",
+    "Domain": "farhadg.com",
+    "Description": "Sunday Persian family gathering. Conversations from all directions, plates clattering, someone getting advice on home renovations. I escape to see my two cousins: Aria and Ryan.",
+    "Confidence": 0.9767983
+  },
+  {
+    "Title": "Everything That Can Be Deterministic, Should Be: My Claude Code Setup",
+    "Url": "https://vexjoy.com/posts/everything-that-can-be-deterministic-should-be-my-claude-code-setup/",
+    "Timestamp": "2025-12-30T01:03:27",
+    "Domain": "vexjoy.com",
+    "Description": "The alien tool came with no manual. Here’s how I learned to hold it.",
+    "Confidence": 0.99293846
+  },
+  {
+    "Title": "Why I'm building my own CLIs for agents",
+    "Url": "https://martinalderson.com/posts/why-im-building-my-own-clis-for-agents/",
+    "Timestamp": "2025-12-30T01:03:23",
+    "Domain": "martinalderson.com",
+    "Description": "MCP tools eat thousands of tokens. A simple CLI with instructions in your CLAUDE.md file uses 71 tokens and works brilliantly.",
+    "Confidence": 0.99153644
+  },
+  {
+    "Title": "Why concepts aren't objects",
+    "Url": "https://essenceofsoftware.com/posts/concepts-and-oop/",
+    "Timestamp": "2025-12-30T01:03:20",
+    "Domain": "essenceofsoftware.com",
+    "Description": "Object oriented modeling and its pitfalls.",
+    "Confidence": 0.9912879
+  },
+  {
+    "Title": "Huge binaries: I thunk therefore I am",
+    "Url": "https://fzakaria.com/2025/12/29/huge-binaries-i-thunk-therefore-i-am",
+    "Timestamp": "2025-12-30T01:03:17",
+    "Domain": "fzakaria.com",
+    "Description": "In my previous post, we looked at the “sound barrier” of x86_64 linking: the 32-bit relative CALL instruction and how it can result in relocation overflows. Changing the code-model to -mcmodel=large fixes the issue but at the cost of “instruction bloat” and likely a performance penalty although I had failed to demonstrate it via a benchmark 🥲.",
+    "Confidence": 0.96536535
+  },
+  {
+    "Title": "Three Lessons I've Learned at Manus",
+    "Url": "https://ivanleo.com/blog/three-lessons-manus",
+    "Timestamp": "2025-12-30T01:03:13",
+    "Domain": "ivanleo.com",
+    "Description": "Lessons learnt from going from zero to $100M ARR in 8 months",
+    "Confidence": 0.9678657
+  },
+  {
+    "Title": "Self-Hosting a Photo Server the Whole Family Can Use",
+    "Url": "https://bertwagner.com/posts/self-hosting-a-photo-server-the-whole-family-can-use/",
+    "Timestamp": "2025-12-30T01:03:10",
+    "Domain": "bertwagner.com",
+    "Description": "Until recently, my family's 90,000+ photos have been hidden away in the depths of my gaming PC's hard drives. Many of the more recent photos were...",
+    "Confidence": 0.9874968
+  },
+  {
+    "Title": "Going Paperless | Julian Falk",
+    "Url": "https://www.julianfalk.dev/blog/going-paperless",
+    "Timestamp": "2025-12-30T01:03:06",
+    "Domain": "www.julianfalk.dev",
+    "Description": "Last week I spent 20 minutes looking for an insurance document I knew I had somewhere. I remembered holding it. I remembered thinking \"I should put this so...",
+    "Confidence": 0.97059214
+  },
+  {
+    "Title": "Not 1% better every day",
+    "Url": "https://jaylol.com/2025/10/09/one-percent-every-day/",
+    "Timestamp": "2025-12-30T01:03:01",
+    "Domain": "jaylol.com",
+    "Description": "a complaint about LinkedIn math",
+    "Confidence": 0.9716064
+  },
+  {
+    "Title": "On LLMs in programming",
+    "Url": "https://blog.danieljanus.pl/2025/12/27/llms/",
+    "Timestamp": "2025-12-30T01:02:58",
+    "Domain": "blog.danieljanus.pl",
+    "Description": "’Tis the year’s midnight, and it is the day’s.",
+    "Confidence": 0.9055348
+  },
+  {
+    "Title": "Behind the Scenes of OSS Vulnerability Response",
+    "Url": "https://www.utam0k.jp/en/blog/2025/12/29/oss-vuln-response/",
+    "Timestamp": "2025-12-30T01:02:54",
+    "Domain": "www.utam0k.jp",
+    "Description": "An introduction to the behind-the-scenes effort maintainers put into OSS vulnerability response.",
+    "Confidence": 0.95644426
+  },
+  {
+    "Title": "Are We Ready to Be Governed by Artificial Intelligence?",
+    "Url": "https://www.merionwest.com/are-we-ready-to-be-governed-by-arti/",
+    "Timestamp": "2025-12-30T01:02:50",
+    "Domain": "www.merionwest.com",
+    "Description": "Experts Bruce Schneier and Nathan Sanders explore how Artificial Intelligence is already shaping the executive, judicial, and legislative branches, showing that we are already, at least in part, governed by AI—with more likely to come.",
+    "Confidence": 0.7562985
+  },
+  {
+    "Title": "How to stop AI agents from littering your codebase with Markdown files",
+    "Url": "https://solmaz.io/agent-doc-workflow",
+    "Timestamp": "2025-12-30T01:02:47",
+    "Domain": "solmaz.io",
+    "Description": "A simple documentation workflow for AI agents. For setup instructions, skip to the How to setup SimpleDoc in your repo section.",
+    "Confidence": 0.99603397
+  },
+  {
+    "Title": "Running Cloud LLMs Inside LM Studio",
+    "Url": "https://blog.gdmka.me/running-cloud-llms-inside-lm-studio/",
+    "Timestamp": "2025-12-30T01:02:43",
+    "Domain": "blog.gdmka.me",
+    "Description": "Recently, I’ve been relying heavily on LM Studio in my daily workflow, primarily for local embedding model inference. Agentic AI assistants use embedding models together with a vector database to perform semantic search over a project’s code.\nThis setup is similar to what projects like DeepWiki1 do, but it runs entirely on local hardware. After indexing the codebase and storing the embedding vectors in Qdrant, I can start talking to the code in natural language.",
+    "Confidence": 0.990804
+  },
+  {
+    "Title": "A Journey Through M-Sets |",
+    "Url": "https://burakemir.ch/post/from-operations-to-effects/",
+    "Timestamp": "2025-12-30T01:02:40",
+    "Domain": "burakemir.ch",
+    "Description": "From Operations to Effects: A Journey Through M-Sets",
+    "Confidence": 0.99575025
+  },
+  {
+    "Title": "Bloom Filters",
+    "Url": "https://arpitbhayani.me/blogs/bloom-filters/",
+    "Timestamp": "2025-12-30T01:02:37",
+    "Domain": "arpitbhayani.me",
+    "Description": "A Bloom filter is a probabilistic data structure that answers a very specific question - have I seen this thing before? - while using almost no memory.",
+    "Confidence": 0.9970402
+  },
+  {
+    "Title": "How Writes Work in Apache Cassandra",
+    "Url": "https://arpitbhayani.me/blogs/cassandra-writes/",
+    "Timestamp": "2025-12-30T01:02:32",
+    "Domain": "arpitbhayani.me",
+    "Description": "Apache Cassandra is a distributed database designed for high availability and horizontal scalability. This write-up explores the complete write path in Cassandra, from the moment a client sends a write request to how data gets replicated across nodes in the cluster.",
+    "Confidence": 0.9987846
+  },
+  {
+    "Title": "Love Letters to Writers and LLMs · Tony Tong",
+    "Url": "https://blog.tdhttt.com/post/love-letters-to-writers-and-llms/",
+    "Timestamp": "2025-12-30T01:02:27",
+    "Domain": "blog.tdhttt.com",
+    "Description": "",
+    "Confidence": 0.9854741
+  },
+  {
+    "Title": "I Fixed My Coworker’s Alignment Problem",
+    "Url": "https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/",
+    "Timestamp": "2025-12-30T01:02:23",
+    "Domain": "hallofdreams.org",
+    "Description": "A repository of code, fiction, nonfiction, and poetry.",
+    "Confidence": 0.93872035
+  },
+  {
+    "Title": "Notes on agentic programming - Valentin's musings",
+    "Url": "https://blog.valentin.sh/llm-coding/",
+    "Timestamp": "2025-12-30T01:02:19",
+    "Domain": "blog.valentin.sh",
+    "Description": "2025 apparently was the \"year of agents\". After spending a fair share of the year programming with LLMs both for my personal side-projects and at work, I wanted to reflect on my impressions.",
+    "Confidence": 0.99483836
+  },
+  {
+    "Title": "Lesson Learned: The Silent Danger of Hydration Fallbacks",
+    "Url": "https://mohammedeabdelaziz.github.io/articles/lesson-learned-form-security",
+    "Timestamp": "2025-12-30T01:02:15",
+    "Domain": "mohammedeabdelaziz.github.io",
+    "Description": "How a missing HTML attribute can leak plain-text credentials during network throttling, and why Progressive Enhancement still matters in 2025.",
+    "Confidence": 0.9947724
+  },
+  {
+    "Title": "Life is not a Simulation but a Thought Experiment",
+    "Url": "https://chfritz.github.io/writing/life-is-a-thought-experiment/",
+    "Timestamp": "2025-12-30T01:02:11",
+    "Domain": "chfritz.github.io",
+    "Description": "Arguing why a simulation is not required to explain live, and that logic itself is sufficient.",
+    "Confidence": 0.97471386
+  },
+  {
     "Title": "High Altitude Cooking Instructions",
     "Url": "https://xkcd.com/3187/",
     "Timestamp": "2025-12-30T00:02:00",
@@ -70,13 +246,5 @@
     "Domain": "bigdata.2minutestreaming.com",
     "Description": "CVE-2025-14847 allows attackers to read any arbitrary data from the database's heap memory. It affects all MongoDB versions since 2017, here's a simple explanation:",
     "Confidence": 0.99069506
-  },
-  {
-    "Title": "What an unprocessed photo looks like: (Maurycy's blog)",
-    "Url": "https://maurycyz.com/misc/raw_photo/",
-    "Timestamp": "2025-12-29T01:02:03",
-    "Domain": "maurycyz.com",
-    "Description": "Here’s a photo of a Christmas tree, as my camera’s sensor sees it:",
-    "Confidence": 0.7816256
   }
 ]

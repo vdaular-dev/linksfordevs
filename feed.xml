@@ -7,6 +7,209 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Small Experiment in Making Math Click</title>
+      <link>https://farhadg.com/blog/seeing-math-differently/</link>
+      <description>Sunday Persian family gathering. Conversations from all directions, plates clattering, someone getting advice on home renovations. I escape to see my two cousins: Aria and Ryan.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://farhadg.com/blog/seeing-math-differently/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything That Can Be Deterministic, Should Be: My Claude Code Setup</title>
+      <link>https://vexjoy.com/posts/everything-that-can-be-deterministic-should-be-my-claude-code-setup/</link>
+      <description>The alien tool came with no manual. Here’s how I learned to hold it.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://vexjoy.com/posts/everything-that-can-be-deterministic-should-be-my-claude-code-setup/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I'm building my own CLIs for agents</title>
+      <link>https://martinalderson.com/posts/why-im-building-my-own-clis-for-agents/</link>
+      <description>MCP tools eat thousands of tokens. A simple CLI with instructions in your CLAUDE.md file uses 71 tokens and works brilliantly.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <guid>https://martinalderson.com/posts/why-im-building-my-own-clis-for-agents/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why concepts aren't objects</title>
+      <link>https://essenceofsoftware.com/posts/concepts-and-oop/</link>
+      <description>Object oriented modeling and its pitfalls.</description>
+      <category>encryption</category>
+      <guid>https://essenceofsoftware.com/posts/concepts-and-oop/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Huge binaries: I thunk therefore I am</title>
+      <link>https://fzakaria.com/2025/12/29/huge-binaries-i-thunk-therefore-i-am</link>
+      <description>In my previous post, we looked at the “sound barrier” of x86_64 linking: the 32-bit relative CALL instruction and how it can result in relocation overflows. Changing the code-model to -mcmodel=large fixes the issue but at the cost of “instruction bloat” and likely a performance penalty although I had failed to demonstrate it via a benchmark 🥲.</description>
+      <category>linux</category>
+      <guid>https://fzakaria.com/2025/12/29/huge-binaries-i-thunk-therefore-i-am</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Lessons I've Learned at Manus</title>
+      <link>https://ivanleo.com/blog/three-lessons-manus</link>
+      <description>Lessons learnt from going from zero to $100M ARR in 8 months</description>
+      <author> (ivanleomk)</author>
+      <category>ai</category>
+      <guid>https://ivanleo.com/blog/three-lessons-manus</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-Hosting a Photo Server the Whole Family Can Use</title>
+      <link>https://bertwagner.com/posts/self-hosting-a-photo-server-the-whole-family-can-use/</link>
+      <description>Until recently, my family's 90,000+ photos have been hidden away in the depths of my gaming PC's hard drives. Many of the more recent photos were...</description>
+      <category>gaming</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>sql</category>
+      <guid>https://bertwagner.com/posts/self-hosting-a-photo-server-the-whole-family-can-use/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Going Paperless | Julian Falk</title>
+      <link>https://www.julianfalk.dev/blog/going-paperless</link>
+      <description>Last week I spent 20 minutes looking for an insurance document I knew I had somewhere. I remembered holding it. I remembered thinking "I should put this so...</description>
+      <category>containers</category>
+      <category>apple</category>
+      <category>encryption</category>
+      <category>python</category>
+      <guid>https://www.julianfalk.dev/blog/going-paperless</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Not 1% better every day</title>
+      <link>https://jaylol.com/2025/10/09/one-percent-every-day/</link>
+      <description>a complaint about LinkedIn math</description>
+      <category>encryption</category>
+      <guid>https://jaylol.com/2025/10/09/one-percent-every-day/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>On LLMs in programming</title>
+      <link>https://blog.danieljanus.pl/2025/12/27/llms/</link>
+      <description>’Tis the year’s midnight, and it is the day’s.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://blog.danieljanus.pl/2025/12/27/llms/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Behind the Scenes of OSS Vulnerability Response</title>
+      <link>https://www.utam0k.jp/en/blog/2025/12/29/oss-vuln-response/</link>
+      <description>An introduction to the behind-the-scenes effort maintainers put into OSS vulnerability response.</description>
+      <category>git</category>
+      <guid>https://www.utam0k.jp/en/blog/2025/12/29/oss-vuln-response/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are We Ready to Be Governed by Artificial Intelligence?</title>
+      <link>https://www.merionwest.com/are-we-ready-to-be-governed-by-arti/</link>
+      <description>Experts Bruce Schneier and Nathan Sanders explore how Artificial Intelligence is already shaping the executive, judicial, and legislative branches, showing that we are already, at least in part, governed by AI—with more likely to come.</description>
+      <category>ai</category>
+      <guid>https://www.merionwest.com/are-we-ready-to-be-governed-by-arti/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to stop AI agents from littering your codebase with Markdown files</title>
+      <link>https://solmaz.io/agent-doc-workflow</link>
+      <description>A simple documentation workflow for AI agents. For setup instructions, skip to the How to setup SimpleDoc in your repo section.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://solmaz.io/agent-doc-workflow</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running Cloud LLMs Inside LM Studio</title>
+      <link>https://blog.gdmka.me/running-cloud-llms-inside-lm-studio/</link>
+      <description>Recently, I’ve been relying heavily on LM Studio in my daily workflow, primarily for local embedding model inference. Agentic AI assistants use embedding models together with a vector database to perform semantic search over a project’s code.
+This setup is similar to what projects like DeepWiki1 do, but it runs entirely on local hardware. After indexing the codebase and storing the embedding vectors in Qdrant, I can start talking to the code in natural language.</description>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://blog.gdmka.me/running-cloud-llms-inside-lm-studio/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Journey Through M-Sets |</title>
+      <link>https://burakemir.ch/post/from-operations-to-effects/</link>
+      <description>From Operations to Effects: A Journey Through M-Sets</description>
+      <guid>https://burakemir.ch/post/from-operations-to-effects/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bloom Filters</title>
+      <link>https://arpitbhayani.me/blogs/bloom-filters/</link>
+      <description>A Bloom filter is a probabilistic data structure that answers a very specific question - have I seen this thing before? - while using almost no memory.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://arpitbhayani.me/blogs/bloom-filters/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Writes Work in Apache Cassandra</title>
+      <link>https://arpitbhayani.me/blogs/cassandra-writes/</link>
+      <description>Apache Cassandra is a distributed database designed for high availability and horizontal scalability. This write-up explores the complete write path in Cassandra, from the moment a client sends a write request to how data gets replicated across nodes in the cluster.</description>
+      <category>nodejs</category>
+      <guid>https://arpitbhayani.me/blogs/cassandra-writes/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Love Letters to Writers and LLMs · Tony Tong</title>
+      <link>https://blog.tdhttt.com/post/love-letters-to-writers-and-llms/</link>
+      <description></description>
+      <category>ai</category>
+      <guid>https://blog.tdhttt.com/post/love-letters-to-writers-and-llms/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Fixed My Coworker’s Alignment Problem</title>
+      <link>https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/</link>
+      <description>A repository of code, fiction, nonfiction, and poetry.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://hallofdreams.org/posts/i-fixed-my-coworkers-alignment-problem/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notes on agentic programming - Valentin's musings</title>
+      <link>https://blog.valentin.sh/llm-coding/</link>
+      <description>2025 apparently was the "year of agents". After spending a fair share of the year programming with LLMs both for my personal side-projects and at work, I wanted to reflect on my impressions.</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://blog.valentin.sh/llm-coding/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lesson Learned: The Silent Danger of Hydration Fallbacks</title>
+      <link>https://mohammedeabdelaziz.github.io/articles/lesson-learned-form-security</link>
+      <description>How a missing HTML attribute can leak plain-text credentials during network throttling, and why Progressive Enhancement still matters in 2025.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://mohammedeabdelaziz.github.io/articles/lesson-learned-form-security</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Life is not a Simulation but a Thought Experiment</title>
+      <link>https://chfritz.github.io/writing/life-is-a-thought-experiment/</link>
+      <description>Arguing why a simulation is not required to explain live, and that logic itself is sufficient.</description>
+      <category>aspnet</category>
+      <guid>https://chfritz.github.io/writing/life-is-a-thought-experiment/</guid>
+      <pubDate>Tue, 30 Dec 2025 01:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>High Altitude Cooking Instructions</title>
       <link>https://xkcd.com/3187/</link>
       <description></description>
@@ -84,13 +287,6 @@
       <category>sql</category>
       <guid>https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply</guid>
       <pubDate>Mon, 29 Dec 2025 02:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What an unprocessed photo looks like: (Maurycy's blog)</title>
-      <link>https://maurycyz.com/misc/raw_photo/</link>
-      <description>Here’s a photo of a Christmas tree, as my camera’s sensor sees it:</description>
-      <guid>https://maurycyz.com/misc/raw_photo/</guid>
-      <pubDate>Mon, 29 Dec 2025 01:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
