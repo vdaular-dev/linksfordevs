@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Simple Made Easy </title>
+      <link>https://www.infoq.com/presentations/Simple-Made-Easy/</link>
+      <description>Rich Hickey emphasizes simplicity’s virtues over easiness’, showing that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.</description>
+      <category>dotnet</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.infoq.com/presentations/Simple-Made-Easy/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>NON-ZERO-SUM GAMES</title>
       <link>https://nonzerosum.games/</link>
       <description>~ a world-help site ~</description>
@@ -295,23 +306,6 @@ This setup is similar to what projects like DeepWiki1 do, but it runs entirely o
       <description>Die CUII Liste zeigt dir, welche Domains von der CUII gesperrt sind und wie du die Zensur umgehen kannst.</description>
       <guid>https://cuiiliste.de/domains</guid>
       <pubDate>Tue, 30 Dec 2025 00:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Global Illumination &amp; The Switch To DirectX 11</title>
-      <link>https://lotusspring.substack.com/p/global-illumination-and-the-switch</link>
-      <description>A progress update.</description>
-      <category>gaming</category>
-      <guid>https://lotusspring.substack.com/p/global-illumination-and-the-switch</guid>
-      <pubDate>Mon, 29 Dec 2025 22:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Helps Kafka Scale</title>
-      <link>https://shbhmrzd.github.io/2025/11/21/what-helps-kafka-scale.html</link>
-      <description>How does Kafka scale for log processing?</description>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://shbhmrzd.github.io/2025/11/21/what-helps-kafka-scale.html</guid>
-      <pubDate>Mon, 29 Dec 2025 22:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
