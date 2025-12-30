@@ -279,14 +279,5 @@ This setup is similar to what projects like DeepWiki1 do, but it runs entirely o
       <guid>https://maurycyz.com/misc/make-up-tags/</guid>
       <pubDate>Mon, 29 Dec 2025 11:02:20 GMT</pubDate>
     </item>
-    <item>
-      <title>MongoBleed explained simply</title>
-      <link>https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply</link>
-      <description>CVE-2025-14847 allows attackers to read any arbitrary data from the database's heap memory. It affects all MongoDB versions since 2017, here's a simple explanation:</description>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply</guid>
-      <pubDate>Mon, 29 Dec 2025 02:02:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>

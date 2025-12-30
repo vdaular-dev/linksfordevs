@@ -238,13 +238,5 @@
     "Domain": "maurycyz.com",
     "Description": "Instead of writing HTML like this:",
     "Confidence": 0.9268841
-  },
-  {
-    "Title": "MongoBleed explained simply",
-    "Url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-    "Timestamp": "2025-12-29T02:02:00",
-    "Domain": "bigdata.2minutestreaming.com",
-    "Description": "CVE-2025-14847 allows attackers to read any arbitrary data from the database's heap memory. It affects all MongoDB versions since 2017, here's a simple explanation:",
-    "Confidence": 0.99069506
   }
 ]
