@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands</title>
+      <link>https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/</link>
+      <description>How a simple idea turned into an international weather service on the Fediverse.</description>
+      <category>python</category>
+      <guid>https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/</guid>
+      <pubDate>Wed, 31 Dec 2025 06:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>A faster heart for F-Droid. Our new server is here! | F-Droid - Free and Open Source Android App Repository</title>
       <link>https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html</link>
       <description>Donations are a key part of what keeps F-Droid independent and reliable and our latest hardware update is a direct result of your support. Thanks to donation...</description>
@@ -269,17 +277,6 @@ At Netflix, we are always exploring ways to make our content look and sound even
       <category>cloud</category>
       <guid>https://www.zeitgeistofbytes.com/p/bye-bye-big-tech-how-i-migrated-to</guid>
       <pubDate>Tue, 30 Dec 2025 12:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let AI Classify Your Transactions</title>
-      <link>https://tallyai.money/</link>
-      <description>tally</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>vscode</category>
-      <category>sql</category>
-      <guid>https://tallyai.money/</guid>
-      <pubDate>Tue, 30 Dec 2025 06:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
