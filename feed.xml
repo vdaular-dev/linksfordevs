@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A vulnerability in libsodium</title>
+      <link>https://00f.net/2025/12/30/libsodium-vulnerability/</link>
+      <description>Libsodium is now 13 years old!</description>
+      <author> (Frank Denis (Jedi/Sector One))</author>
+      <category>encryption</category>
+      <category>visualstudio</category>
+      <category>rust</category>
+      <category>android</category>
+      <category>dotnet</category>
+      <guid>https://00f.net/2025/12/30/libsodium-vulnerability/</guid>
+      <pubDate>Wed, 31 Dec 2025 07:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands</title>
       <link>https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/</link>
       <description>How a simple idea turned into an international weather service on the Fediverse.</description>
