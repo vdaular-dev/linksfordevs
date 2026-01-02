@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>TIL: Parental controls aren't for parents</title>
+      <link>https://beasthacker.com/til/parental-controls-arent-for-parents.html</link>
+      <description>I found a stranger texting my 12-year-old on a 'kid-safe' Gabb phone. Parental controls are broken.</description>
+      <category>gaming</category>
+      <guid>https://beasthacker.com/til/parental-controls-arent-for-parents.html</guid>
+      <pubDate>Fri, 02 Jan 2026 21:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>39C3: Power Cycles - media.ccc.de</title>
       <link>https://media.ccc.de/b/congress/2025</link>
       <description>Video Streaming Portal des Chaos Computer Clubs</description>
@@ -286,16 +294,6 @@ In this post, we will explore variational autoencoders (VAE). We will go over th
       <category>apple</category>
       <guid>https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/</guid>
       <pubDate>Thu, 01 Jan 2026 23:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using alternative browser engines in Japan - Support</title>
-      <link>https://developer.apple.com/support/alternative-browser-engines-jp/</link>
-      <description>iOS 26.2 introduces new capabilities that let iOS apps use alternative browser engines — browser engines other than WebKit — for dedicated browser apps and apps providing in-app browsing experiences in Japan.</description>
-      <category>cloud</category>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://developer.apple.com/support/alternative-browser-engines-jp/</guid>
-      <pubDate>Thu, 01 Jan 2026 21:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

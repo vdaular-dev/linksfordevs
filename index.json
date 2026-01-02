@@ -1,5 +1,13 @@
 [
   {
+    "Title": "TIL: Parental controls aren't for parents",
+    "Url": "https://beasthacker.com/til/parental-controls-arent-for-parents.html",
+    "Timestamp": "2026-01-02T21:02:20",
+    "Domain": "beasthacker.com",
+    "Description": "I found a stranger texting my 12-year-old on a 'kid-safe' Gabb phone. Parental controls are broken.",
+    "Confidence": 0.9613411
+  },
+  {
     "Title": "39C3: Power Cycles - media.ccc.de",
     "Url": "https://media.ccc.de/b/congress/2025",
     "Timestamp": "2026-01-02T19:02:20",
@@ -230,13 +238,5 @@
     "Domain": "www.pcgamer.com",
     "Description": "Now if you don't mind I'm going to delete the root folder and see what happens.",
     "Confidence": 0.967807
-  },
-  {
-    "Title": "Using alternative browser engines in Japan - Support",
-    "Url": "https://developer.apple.com/support/alternative-browser-engines-jp/",
-    "Timestamp": "2026-01-01T21:02:10",
-    "Domain": "developer.apple.com",
-    "Description": "iOS 26.2 introduces new capabilities that let iOS apps use alternative browser engines — browser engines other than WebKit — for dedicated browser apps and apps providing in-app browsing experiences in Japan.",
-    "Confidence": 0.9839917
   }
 ]
