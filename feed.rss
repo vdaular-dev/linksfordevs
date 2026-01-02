@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can Bundler Be as Fast as uv?</title>
+      <link>https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/</link>
+      <description>At RailsWorld earlier this year, I got nerd sniped by someone. They asked “why can’t Bundler be as fast as uv?” Immediately my inner voice said “YA, WHY CAN’T IT BE AS FAST AS UV????”
+My inner voice likes to shout at me, especially when someone asks a question so obvious I should have thought of it myself. Since then I’ve been thinking about and investigating this problem, going so far as to give a presentation at XO Ruby Portland about Bundler performance. I firmly believe the answer is “Bundler can be as fast as uv” (where “as fast” has a margin of error lol).</description>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/</guid>
+      <pubDate>Fri, 02 Jan 2026 10:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>I’m a developer for a major food delivery app. The 'Priority Fee' and 'Driver Benefit Fee' go 100% to the company. The driver sees $0 of it.</title>
       <link>https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/</link>
       <description>I’m posting this from a library Wi-Fi on a burner laptop because I am technically under a massive NDA. I don’t care anymore. I put in my two...</description>
