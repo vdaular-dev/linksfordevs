@@ -1,5 +1,13 @@
 [
   {
+    "Title": "39C3: Power Cycles - media.ccc.de",
+    "Url": "https://media.ccc.de/b/congress/2025",
+    "Timestamp": "2026-01-02T19:02:20",
+    "Domain": "media.ccc.de",
+    "Description": "Video Streaming Portal des Chaos Computer Clubs",
+    "Confidence": 0.97720873
+  },
+  {
     "Title": "Public Domain Day 2026 in Literature - Blog",
     "Url": "https://standardebooks.org/blog/public-domain-day-2026",
     "Timestamp": "2026-01-02T18:02:08",
@@ -246,13 +254,5 @@
     "Domain": "openworkers.com",
     "Description": "Self-hosted Cloudflare Workers in Rust",
     "Confidence": 0.974755
-  },
-  {
-    "Title": "ACM is Now Fully Open Access!",
-    "Url": "https://www.acm.org/articles/bulletins/2026/january/acm-open-access",
-    "Timestamp": "2026-01-01T19:02:03",
-    "Domain": "www.acm.org",
-    "Description": "As of January 1, 2026, all ACM publications and related artifacts in the ACM Digital Library are now open access. This change reflects the long-standing and growing call across the global computing community for research to be more accessible, discoverable, and reusable.",
-    "Confidence": 0.9363517
   }
 ]
