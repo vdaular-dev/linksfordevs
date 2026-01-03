@@ -1,5 +1,165 @@
 [
   {
+    "Title": "The RAM Shortage Comes for Us All",
+    "Url": "https://www.jeffgeerling.com/blog/2025/ram-shortage-comes-us-all/",
+    "Timestamp": "2026-01-03T20:03:28",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Memory price inflation comes for us all, and if you're not affected yet, just wait.\nI was building a new PC last month using some parts I had bought earlier this year. The 64 Gigabyte T-Create DDR5 memory kit I used cost $209 then. Today? The same kit costs $650!\nJust in the past week, we found out Raspberry Pi's increasing their single board computer prices. Micron's killing the Crucial brand of RAM and storage devices completely, meaning there's gonna be one fewer consumer memory manufacturer. Samsung can't even buy RAM from themselves to build their own Smartphones, and small vendors like Libre Computer and Mono are seeing RAM prices double, triple, or even worse, and they're not even buying the latest RAM tech!",
+    "Confidence": 0.89488876
+  },
+  {
+    "Title": "Minisforum stuffs an entire Arm Homelab in the MS-R1",
+    "Url": "https://www.jeffgeerling.com/blog/2025/minisforum-stuffs-entire-arm-homelab-ms-r1/",
+    "Timestamp": "2026-01-03T20:03:25",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "The Minisforum MS-R1 uses the same Cix CD8180 Arm SoC as the Orion O6 I reviewed earlier this year. But everything else about this thing is different.\nWhat this thing should be, is a box that runs Linux and can compete with at least an Apple M1 Mac mini, or a mid-range Mini PC. But what we got... is something different.\nVideo Hate reading? I also published a video on the MS-R1 on my YouTube channel. Watch it here, or scroll on past.",
+    "Confidence": 0.9534148
+  },
+  {
+    "Title": "JeffGeerling.com has been Migrated to Hugo",
+    "Url": "https://www.jeffgeerling.com/blog/2026/migrated-to-hugo/",
+    "Timestamp": "2026-01-03T20:03:21",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Since 2009, this website has run on Drupal. Starting with Drupal 6, and progressing through major site upgrades and migrations to 7, 8, 9, and 10, I used the site as a way to dogfood the same CMS (Content Management System) I used in my day job for over a decade.\nBut as time progressed—especially after completing a grueling upgrade from Drupal 7 to 8—my enthusiasm for maintaining what's now a more enterprise-focused Digital Experience Platform or 'DXP' for a personal blog has waned.",
+    "Confidence": 0.9788328
+  },
+  {
+    "Title": "1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5",
+    "Url": "https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5/",
+    "Timestamp": "2026-01-03T20:03:18",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Apple gave me access to this Mac Studio cluster to test RDMA over Thunderbolt, a new feature in macOS 26.2. The easiest way to test it is with Exo 1.0, an open source private AI clustering tool. RDMA lets the Macs all act like they have one giant pool of RAM, which speeds up things like massive AI models.\nThe stack of Macs I tested, with 1.5 TB of unified memory, costs just shy of $40,000, and if you're wondering, no I cannot justify spending that much money for this. Apple loaned the Mac Studios for testing. I also have to thank DeskPi for sending over the 4-post mini rack containing the cluster.",
+    "Confidence": 0.9685649
+  },
+  {
+    "Title": "How to silence the fan on a CM5 after shutdown",
+    "Url": "https://www.jeffgeerling.com/blog/2025/how-silence-fan-on-cm5-after-shutdown/",
+    "Timestamp": "2026-01-03T20:03:14",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Out of the box, if you buy a Raspberry Pi Compute Module 5, install it on the official CM5 IO Board, and install a fan on it (e.g. my current favorite, the EDAtec CM5 Active Cooler), you'll notice the fan ramps up to 100% speed after you shut down the Pi.\nThat's not fun, since at least for a couple of my CM5s, they are more often powered down than running, creating a slight cacophany!",
+    "Confidence": 0.9763127
+  },
+  {
+    "Title": "All Intel GPUs run on Raspberry Pi and RISC-V",
+    "Url": "https://www.jeffgeerling.com/blog/2025/all-intel-gpus-run-on-raspberry-pi-and-risc-v/",
+    "Timestamp": "2026-01-03T20:03:11",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "We finally have Intel Arc GPUs working on the Pi somewhat stably—it required overcoming many small hurdles, but it looks like support could land in Raspberry Pi OS if we can get a simple patch upstreamed1. If that happens, all you'd need to do to use an Intel card on a Pi is install a firmware package.\nThe cards I've spent the most time with so far are:",
+    "Confidence": 0.98660654
+  },
+  {
+    "Title": "It's not that hard to stop a Trane",
+    "Url": "https://www.jeffgeerling.com/blog/2025/its-not-hard-stop-trane/",
+    "Timestamp": "2026-01-03T20:03:07",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Six years ago, I replaced the old HVAC system that came with our house, a central forced air system installed in 19951.\nThe new system is a Trane XR AC paired with an S9V2 96% efficiency forced-air gas furnace. And it ran great! Better efficiency, quieter, multiple fan speeds so I can circulate air and prevent stale air in some parts of the house... what's not to love?\nWell, apparently the engineering:",
+    "Confidence": 0.85248804
+  },
+  {
+    "Title": "Testing the Mono Gateway, a custom-built 10 Gbps Router",
+    "Url": "https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router/",
+    "Timestamp": "2026-01-03T20:03:04",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Last month, the stars aligned for me to bring the Mono Gateway (a 10 Gbps router that YouTuber Tomaž Zaman and his team at Mono built from scratch) on a trip to Phoenix, and test it with one of the most OP network test boxes I've ever seen, at the ServeTheHome HQ.\nIn this video, Patrick (from STH) and I put Gateway through a real-world torture test using CyPerf:\nMono Gateway The Gateway is a small (1U/desktop) router with features like a 4-core Arm CPU, 8GB of ECC LPDDR RAM, and decent expansion options for a compact router.",
+    "Confidence": 0.9358352
+  },
+  {
+    "Title": "Converting hot dog plasma video to sound with OpenCV",
+    "Url": "https://www.jeffgeerling.com/blog/2025/converting-hot-dog-plasma-video-sound-opencv/",
+    "Timestamp": "2026-01-03T20:03:00",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "When you ground a hot dog to an AM radio tower, it generates plasma.\nYour browser does not support the video tag.\nWhile the hot dog's flesh is getting vaporized, a tiny plasma arc moves the air around it back and forth. And because this tower is an AM tower, it uses Amplitude Modulation, where a transmitter changes the amplitude of a carrier wave up and down. Just like a speaker cone moving up and down, the plasma arc from the hot dog turns that modulation into audible sound.",
+    "Confidence": 0.85551125
+  },
+  {
+    "Title": "NIST was 5 μs off UTC after last week's power cut",
+    "Url": "https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut/",
+    "Timestamp": "2026-01-03T20:02:56",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "If you were 5 microseconds late today, blame it on NIST.\nTheir facility in Boulder Colorado just had its power cut for multiple days. After a backup generator failed, their main ensemble clock lost track of UTC, or Universal Time Coordinated.\nBut even if you used the NTP timing servers they run, they were never off by more than 5 microseconds.\n5 μs might seem insignificant. But it is significant for scientists and universities who rely on NIST's more specialized timing signals.",
+    "Confidence": 0.84290564
+  },
+  {
+    "Title": "CM0 - a new Raspberry Pi you can't buy",
+    "Url": "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy/",
+    "Timestamp": "2026-01-03T20:02:53",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "This little postage stamp is actually a full Raspberry Pi Zero 2, complete with eMMC storage and WiFi.\nBut you can't get one. Well, not unless you buy the CM0NANO development board from EDAtec, or you live in China.\nThis little guy doesn't have an HDMI port, Ethernet, or even USB. It's a special version of the 'Compute Module' line of boards. Little Raspberry Pi 'System on Modules' (SoMs), they're called.",
+    "Confidence": 0.98776704
+  },
+  {
+    "Title": "The DC-ROMA II is the fastest RISC-V laptop and is odd",
+    "Url": "https://www.jeffgeerling.com/blog/2025/dc-roma-ii-fastest-risc-v-laptop-and-odd/",
+    "Timestamp": "2026-01-03T20:02:49",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Inside this Framework 13 laptop is a special mainboard developed by DeepComputing in collaboration with Framework. It has an 8-core RISC-V processor, the ESWIN 7702X—not your typical AMD, Intel, or even Arm SoC. The full laptop version I tested costs $1119 and gets you about the performance of a Raspberry Pi.\nA Pi 4—the one that came out in 2019.\nBut unlike the Pi 4, this eats up 25 watts of power at idle, meaning the poor battery only lasts 2-3 hours.",
+    "Confidence": 0.985589
+  },
+  {
+    "Title": "The Arduino Uno Q is a weird hybrid SBC",
+    "Url": "https://www.jeffgeerling.com/blog/2025/arduino-uno-q-weird-hybrid-sbc/",
+    "Timestamp": "2026-01-03T20:02:45",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "The Arduino Uno Q is... a weird board. It's the first product born out of Qualcomm's buyout of Arduino.\nIt's like if you married an Intel CPU, and a Raspberry Pi RP2040 microcontroller—oh wait, Radxa's X4 did that.\nArduino even tried it before with their old Yún board, which had Linux running on a MIPS CPU, married to an ATmega microcontroller.\nThe Uno Q isn't quite a Raspberry Pi, but it looks like one when you squint at it. And it's not quite an Uno, but it does a pretty good job masquerading as that, too.",
+    "Confidence": 0.9648284
+  },
+  {
+    "Title": "Air Lab is the Flipper Zero of air quality monitors",
+    "Url": "https://www.jeffgeerling.com/blog/2025/air-lab-flipper-zero-air-quality-monitors/",
+    "Timestamp": "2026-01-03T20:02:42",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "This air quality monitor costs $250. It's called the Air Lab, and I've been using it to measure the air in my car, home, studio, and a few events over the past few months. And in using it over the course of a road trip I learned to not run recirculate in my car quite as often—more on that later.\nNetworked Artifacts built in some personality:",
+    "Confidence": 0.961623
+  },
+  {
+    "Title": "Why doesn't Apple make a standalone Touch ID?",
+    "Url": "https://www.jeffgeerling.com/blog/2025/why-doesnt-apple-make-standalone-touch-id/",
+    "Timestamp": "2026-01-03T20:02:38",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "I finally upgraded to a mechanical keyboard. But because Apple's so protective of their Touch ID hardware, there aren't any mechanical keyboards with that feature built in.\nBut there is a way to hack it. It's incredibly wasteful, and takes a bit more patience than I think most people have, but you basically take an Apple Magic Keyboard with Touch ID, rip out the Touch ID, and install it in a 3D printed box, along with the keyboard's logic board.",
+    "Confidence": 0.9627555
+  },
+  {
+    "Title": "Using AMD GPUs on Raspberry Pi without recompiling Linux",
+    "Url": "https://www.jeffgeerling.com/blog/2025/using-amd-gpus-on-raspberry-pi-without-recompiling-linux/",
+    "Timestamp": "2026-01-03T20:02:34",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "I'm working on a more in-depth test of some newer AMD GPUs on the Raspberry Pi, now that the 15 line kernel patch is (IMO) nearly ready for upstreaming.\nBut this blog post shows how to quickly get almost any modern AMD GPU running on a Raspberry Pi 5, CM5, or Pi 500+, thanks to this patch on the Pi Linux fork.\nNote: This patch actually enables AMD and Intel. I wrote about how to get Intel Arc GPUs running on the Pi yesterday.",
+    "Confidence": 0.9903195
+  },
+  {
+    "Title": "Dell's version of the DGX Spark fixes pain points",
+    "Url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points/",
+    "Timestamp": "2026-01-03T20:02:31",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Dell sent me two of their GB10 mini workstations to test:\nIn this blog post, I'll cover the base system, just one of the two nodes. Cluster testing is ongoing, and I'll cover things like AI model training and networking more in depth next year, likely with comparisons to the Framework Desktop cluster and Mac Studio cluster I've also been testing.\nBut many of the same caveats of the DGX Spark (namely, price to performance is not great if you just want to run LLMs on a small desktop) apply to Dell's GB10 box as well.",
+    "Confidence": 0.9781263
+  },
+  {
+    "Title": "Nvidia Graphics Cards work on Pi 5 and Rockchip",
+    "Url": "https://www.jeffgeerling.com/blog/2025/nvidia-graphics-cards-work-on-pi-5-and-rockchip/",
+    "Timestamp": "2026-01-03T20:02:27",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "A few months ago, GitHub user @yanghaku dropped a 15 line patch to fix GPU support for practically all AMD GPUs on the Raspberry Pi (and demoed a 3080 running on the Pi with a separate, unreleased patch). This week, GitHub user @mariobalanica dropped this (larger) patch which does the same for Nvidia GPUs!\nI have a Raspberry Pi and an Nvidia graphics card—and I'm easily distracted. So I put down my testing of a GB10 system for a bit, and compiled mariobalanica's branch.",
+    "Confidence": 0.9811257
+  },
+  {
+    "Title": "Big GPUs don't need big PCs",
+    "Url": "https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs/",
+    "Timestamp": "2026-01-03T20:02:24",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Ever since I got AMD, Intel, and Nvidia graphics cards to run on a Raspberry Pi, I had a nagging question:\nWhat's the point?\nThe Raspberry Pi only has 1 lane of PCIe Gen 3 bandwidth available for a connection to an eGPU. That's not much. Especially considering a modern desktop has at least one slot with 16 lanes of PCIe Gen 5 bandwidth. That's 8 GT/s versus 512 GT/s. Not a fair fight.",
+    "Confidence": 0.9656749
+  },
+  {
+    "Title": "Benchmarking NVENC video transcoding on the Pi",
+    "Url": "https://www.jeffgeerling.com/blog/2025/benchmarking-nvenc-video-transcoding-on-pi/",
+    "Timestamp": "2026-01-03T20:02:20",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Now that Nvidia GPUs run on the Raspberry Pi, I've been putting all the ones I own through their paces.\nMany people have an older Nvidia card (like a 3060) laying around from an upgrade. So could a Pi be suitable for GPU-accelerated video transcoding, either standalone for conversion, or running something like Jellyfin for video library management and streaming?\nThat's what I set out to do, and the first step, besides getting the drivers and CUDA going (see blog post linked above), was to find a way to get a repeatable benchmark going.",
+    "Confidence": 0.98487145
+  },
+  {
     "Title": "What is \"good taste\" in software engineering?",
     "Url": "https://www.seangoedecke.com/taste/",
     "Timestamp": "2026-01-03T18:06:22",
