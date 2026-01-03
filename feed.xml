@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>POSSE</title>
+      <link>https://indieweb.org/POSSE</link>
+      <description>POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.</description>
+      <category>conference</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://indieweb.org/POSSE</guid>
+      <pubDate>Sat, 03 Jan 2026 00:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>We Should Call Them Macroservices</title>
       <link>https://idiallo.com/blog/whe-should-call-them-macroservices?src=feed</link>
       <description>I love the idea of microservices. When there's a problem on your website, you don't need to fix and redeploy your entire codebase. If the issue only affects your authentication service, you can deploy</description>
@@ -360,17 +370,6 @@ In this post, we will explore variational autoencoders (VAE). We will go over th
       <category>git</category>
       <guid>https://subramanya.ai/2026/01/01/what-are-context-graphs-really/</guid>
       <pubDate>Fri, 02 Jan 2026 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python Numbers Every Programmer Should Know</title>
-      <link>https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/</link>
-      <description>A cheat sheet of real-world timing and memory numbers to guide performance-sensitive decisions.</description>
-      <category>sql</category>
-      <category>python</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/</guid>
-      <pubDate>Fri, 02 Jan 2026 00:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

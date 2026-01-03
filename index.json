@@ -1,5 +1,13 @@
 [
   {
+    "Title": "POSSE",
+    "Url": "https://indieweb.org/POSSE",
+    "Timestamp": "2026-01-03T00:02:17",
+    "Domain": "indieweb.org",
+    "Description": "POSSE is an abbreviation for Publish (on your) Own Site, Syndicate Elsewhere, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like social media silos) with original post links to provide viewers a path to directly interacting with your content.",
+    "Confidence": 0.98926675
+  },
+  {
     "Title": "We Should Call Them Macroservices",
     "Url": "https://idiallo.com/blog/whe-should-call-them-macroservices?src=feed",
     "Timestamp": "2026-01-02T23:02:59",
@@ -302,13 +310,5 @@
     "Domain": "subramanya.ai",
     "Description": "The conversation around context graphs has exploded, but the term itself has become a Rorschach test. This is not about adding memory to your agent—it's abou...",
     "Confidence": 0.97389376
-  },
-  {
-    "Title": "Python Numbers Every Programmer Should Know",
-    "Url": "https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/",
-    "Timestamp": "2026-01-02T00:02:07",
-    "Domain": "mkennedy.codes",
-    "Description": "A cheat sheet of real-world timing and memory numbers to guide performance-sensitive decisions.",
-    "Confidence": 0.9883999
   }
 ]
