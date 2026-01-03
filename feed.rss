@@ -7,6 +7,455 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What is "good taste" in software engineering?</title>
+      <link>https://www.seangoedecke.com/taste/</link>
+      <description>--</description>
+      <category>cloud</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://www.seangoedecke.com/taste/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unification across Microsoft Platforms</title>
+      <link>https://davepermen.net/blog/general-development/unification-across-microsoft-platforms</link>
+      <description>'Unification across Microsoft Platforms' written by davepermen</description>
+      <guid>https://davepermen.net/blog/general-development/unification-across-microsoft-platforms</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Autoscaling Web</title>
+      <link>https://davepermen.net/blog/web-dev/the-autoscaling-web</link>
+      <description>'The Autoscaling Web' written by davepermen</description>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://davepermen.net/blog/web-dev/the-autoscaling-web</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is it worrying that 95% of AI enterprise projects fail?</title>
+      <link>https://www.seangoedecke.com/why-do-ai-enterprise-projects-fail/</link>
+      <description>In July of this year, MIT NANDA released a report called The GenAI Divide: State of AI in Business 2025. The report spends most of its time giving advice about…</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.seangoedecke.com/why-do-ai-enterprise-projects-fail/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Run Cleanup Tasks in Windows</title>
+      <link>https://davepermen.net/blog/computer-knowledge/run-cleanup-tasks-in-windows</link>
+      <description>'Run Cleanup Tasks in Windows' written by davepermen</description>
+      <guid>https://davepermen.net/blog/computer-knowledge/run-cleanup-tasks-in-windows</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I provide technical clarity to non-technical leaders</title>
+      <link>https://www.seangoedecke.com/clarity/</link>
+      <description>My mission as a staff engineer is to provide technical clarity to the organization. Of course, I do other stuff too. I run projects, I ship code, I review PRs…</description>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/clarity/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Testing the Mono Gateway, a custom-built 10 Gbps Router</title>
+      <link>https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router</link>
+      <description></description>
+      <category>conference</category>
+      <category>apple</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/testing-mono-gateway-custom-built-10-gbps-router</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>We are in the "gentleman scientist" era of AI research</title>
+      <link>https://www.seangoedecke.com/ai-and-informal-science/</link>
+      <description>Many scientific discoveries used to be made by amateurs. William Herschel, who discovered Uranus, was a composer and an organist. Antoine Lavoisier, who laid…</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.seangoedecke.com/ai-and-informal-science/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woohoo! Wireless LAN!</title>
+      <link>https://davepermen.net/blog/ancient-posts/woohoo-wireless-lan</link>
+      <description>'Woohoo! Wireless LAN!' written by davepermen</description>
+      <guid>https://davepermen.net/blog/ancient-posts/woohoo-wireless-lan</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 was an excellent year for this blog</title>
+      <link>https://www.seangoedecke.com/2025-wrapup/</link>
+      <description>--</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/2025-wrapup/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell's version of the DGX Spark fixes pain points</title>
+      <link>https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points</link>
+      <description>Dell sent me two of their GB10 mini workstations to test:</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why it takes months to tell if new AI models are good</title>
+      <link>https://www.seangoedecke.com/are-new-models-good/</link>
+      <description>--</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>python</category>
+      <guid>https://www.seangoedecke.com/are-new-models-good/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nobody knows how large software products work</title>
+      <link>https://www.seangoedecke.com/nobody-knows-how-software-products-work/</link>
+      <description>--</description>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://www.seangoedecke.com/nobody-knows-how-software-products-work/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Endless AI-generated Wikipedia</title>
+      <link>https://www.seangoedecke.com/endless-wiki/</link>
+      <description>--</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/endless-wiki/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Post from the cellphone</title>
+      <link>https://davepermen.net/blog/ancient-posts/post-from-the-cellphone</link>
+      <description>'Post from the cellphone' written by davepermen</description>
+      <guid>https://davepermen.net/blog/ancient-posts/post-from-the-cellphone</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>The DC-ROMA II is the fastest RISC-V laptop and is odd</title>
+      <link>https://www.jeffgeerling.com/blog/2025/dc-roma-ii-fastest-risc-v-laptop-and-odd</link>
+      <description></description>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/dc-roma-ii-fastest-risc-v-laptop-and-odd</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI coding agents rely too much on fallbacks</title>
+      <link>https://www.seangoedecke.com/agents-and-fallbacks/</link>
+      <description>--</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/agents-and-fallbacks/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 10 UAP Extend Titlebar</title>
+      <link>https://davepermen.net/blog/dotnet/windows-10-uap-extend-titlebar</link>
+      <description>'Windows 10 UAP Extend Titlebar' written by davepermen</description>
+      <category>dotnet</category>
+      <guid>https://davepermen.net/blog/dotnet/windows-10-uap-extend-titlebar</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Becoming unblockable</title>
+      <link>https://www.seangoedecke.com/unblockable/</link>
+      <description>With enough careful effort, it’s possible to become unblockable. In other words, you can put yourself in a position where you’re always able to make forward…</description>
+      <category>vscode</category>
+      <category>conference</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.seangoedecke.com/unblockable/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>An unofficial FAQ for Stripe's new "Tempo" blockchain</title>
+      <link>https://www.seangoedecke.com/tempo-faq/</link>
+      <description>Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <guid>https://www.seangoedecke.com/tempo-faq/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>NIST was 5 μs off UTC after last week's power cut</title>
+      <link>https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut</link>
+      <description>If you were 5 microseconds late today, blame it on NIST.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/nist-was-5-%CE%BCs-utc-after-last-weeks-power-cut</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple Immutable POCO Types in C#</title>
+      <link>https://davepermen.net/blog/dotnet/simple-immutable-poco-types-in-csharp</link>
+      <description>'Simple Immutable POCO Types in C#' written by davepermen</description>
+      <category>gaming</category>
+      <category>dotnet</category>
+      <guid>https://davepermen.net/blog/dotnet/simple-immutable-poco-types-in-csharp</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>MVVM in XAML — Binding of Commands to Root Element</title>
+      <link>https://davepermen.net/blog/dotnet/mvvm-in-xaml--binding-of-commands-to-root-element</link>
+      <description>'MVVM in XAML — Binding of Commands to Root Element' written by davepermen</description>
+      <category>dotnet</category>
+      <guid>https://davepermen.net/blog/dotnet/mvvm-in-xaml--binding-of-commands-to-root-element</guid>
+      <pubDate>Sat, 03 Jan 2026 18:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>What have we learned about building agentic AI tools?</title>
+      <link>https://www.seangoedecke.com/ideas-in-agentic-ai-tooling/</link>
+      <description>In the middle of 2025, agentic coding finally became a thing: first with the release of Claude Sonnet 4, the first “smart enough to be useful” agentic model…</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/ideas-in-agentic-ai-tooling/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I learned building an AI-driven spaced repetition app</title>
+      <link>https://www.seangoedecke.com/autodeck/</link>
+      <description>--</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <guid>https://www.seangoedecke.com/autodeck/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CM0 - a new Raspberry Pi you can't buy</title>
+      <link>https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</link>
+      <description></description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software engineers should be a little bit cynical</title>
+      <link>https://www.seangoedecke.com/a-little-bit-cynical/</link>
+      <description>--</description>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/a-little-bit-cynical/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I use (12013 HE)</title>
+      <link>https://davepermen.net/blog/computer-knowledge/what-i-use-12013-he</link>
+      <description>'What I use (12013 HE)' written by davepermen</description>
+      <category>visualstudio</category>
+      <category>youtube</category>
+      <guid>https://davepermen.net/blog/computer-knowledge/what-i-use-12013-he</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should LLMs just treat text content as an image?</title>
+      <link>https://www.seangoedecke.com/text-tokens-as-image-tokens/</link>
+      <description>Several days ago, DeepSeek released a new OCR paper. OCR, or “optical character recognition”, is the process of converting an image of text - say, a scanned…</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/text-tokens-as-image-tokens/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I use (12025 HE)</title>
+      <link>https://davepermen.net/blog/computer-knowledge/what-i-use-12025-he</link>
+      <description>'What I use (12025 HE)' written by davepermen</description>
+      <category>gaming</category>
+      <category>visualstudio</category>
+      <category>android</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://davepermen.net/blog/computer-knowledge/what-i-use-12025-he</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why doesn't Apple make a standalone Touch ID?</title>
+      <link>https://www.jeffgeerling.com/blog/2025/why-doesnt-apple-make-standalone-touch-id</link>
+      <description>I finally upgraded to a mechanical keyboard. But because Apple's so protective of their Touch ID hardware, there aren't any mechanical keyboards with that feature built in.</description>
+      <guid>https://www.jeffgeerling.com/blog/2025/why-doesnt-apple-make-standalone-touch-id</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can't design software you don't work on</title>
+      <link>https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</link>
+      <description>--</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/you-cant-design-software-you-dont-work-on/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI is good news for Australian and European software engineers</title>
+      <link>https://www.seangoedecke.com/ai-is-good-news-for-australian-engineers/</link>
+      <description>Right now the dominant programing model is something like “centaur chess”, where a skilled human is paired with a computer assistant. Together, they produce…</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-is-good-news-for-australian-engineers/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistakes I see engineers making in their code reviews</title>
+      <link>https://www.seangoedecke.com/good-code-reviews/</link>
+      <description>In the last two years, code review has gotten much more important. Code is now easy to generate using LLMs, but it’s still just as hard to review. Many software…</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.seangoedecke.com/good-code-reviews/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Only three kinds of AI products actually work</title>
+      <link>https://www.seangoedecke.com/ai-products/</link>
+      <description>--</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-products/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>'Make invalid states unrepresentable' considered harmful</title>
+      <link>https://www.seangoedecke.com/invalid-states/</link>
+      <description>One of the most controversial things I believe about good software design is that your code should be more flexible than your domain model. This is in direct…</description>
+      <category>sql</category>
+      <guid>https://www.seangoedecke.com/invalid-states/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big GPUs don't need big PCs</title>
+      <link>https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs</link>
+      <description></description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/big-gpus-dont-need-big-pcs</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Energy Lie</title>
+      <link>https://davepermen.net/blog/energy-transition/the-energy-lie</link>
+      <description>'The Energy Lie' written by davepermen</description>
+      <category>gaming</category>
+      <guid>https://davepermen.net/blog/energy-transition/the-energy-lie</guid>
+      <pubDate>Sat, 03 Jan 2026 18:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do AI models use so many em-dashes?</title>
+      <link>https://www.seangoedecke.com/em-dashes/</link>
+      <description>If you asked most people to name a defining feature of AI-generated writing, they’d probably say the em-dash — like this. Language models use em-dashes so much…</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/em-dashes/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>UWP App for Kiosk Mode</title>
+      <link>https://davepermen.net/blog/dotnet/uwp-app-for-kiosk-mode</link>
+      <description>'UWP App for Kiosk Mode' written by davepermen</description>
+      <category>dotnet</category>
+      <guid>https://davepermen.net/blog/dotnet/uwp-app-for-kiosk-mode</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netzwerk Reset auf Windows 8</title>
+      <link>https://davepermen.net/blog/computer-knowledge/netzwerk-reset-auf-windows-8</link>
+      <description>'Netzwerk Reset auf Windows 8' written by davepermen</description>
+      <guid>https://davepermen.net/blog/computer-knowledge/netzwerk-reset-auf-windows-8</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI detection tools cannot prove that text is AI-generated</title>
+      <link>https://www.seangoedecke.com/ai-detection/</link>
+      <description>--</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-detection/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing for AIs is a good way to reach more humans</title>
+      <link>https://www.seangoedecke.com/writing-for-ais/</link>
+      <description>There’s an idea going around right now about “writing for AIs”: writing as if your primary audience is not human readers, but the language models that will be…</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.seangoedecke.com/writing-for-ais/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>If you are good at code review, you will be good at using AI agents</title>
+      <link>https://www.seangoedecke.com/ai-agents-and-code-review/</link>
+      <description>Using AI agents correctly is a process of reviewing code. If you’re good at reviewing code, you’ll be good at using tools like Claude Code, Codex, or the…</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/ai-agents-and-code-review/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The whole point of OpenAI's Responses API is to help them hide reasoning traces</title>
+      <link>https://www.seangoedecke.com/responses-api/</link>
+      <description>About six months ago, OpenAI released their Responses API, which replaced their previous /chat/completions API for inference. The old API was very simple: you…</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://www.seangoedecke.com/responses-api/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiny Game Engine Stuff</title>
+      <link>https://davepermen.net/blog/dotnet/tiny-game-engine-stuff</link>
+      <description>'Tiny Game Engine Stuff' written by davepermen</description>
+      <category>gaming</category>
+      <category>dotnet</category>
+      <guid>https://davepermen.net/blog/dotnet/tiny-game-engine-stuff</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok is enabling mass sexual harassment on Twitter</title>
+      <link>https://www.seangoedecke.com/grok-deepfakes/</link>
+      <description>Grok, xAI’s flagship image model, is now being widely used to generate nonconsensual lewd images of women on the internet. When a woman posts an innocuous…</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.seangoedecke.com/grok-deepfakes/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>To get better at technical writing, lower your expectations</title>
+      <link>https://www.seangoedecke.com/technical-communication/</link>
+      <description>Technical writing is a big part of a software engineer’s job. This is more true the more senior you get. In the limit case, a principal or distinguished…</description>
+      <category>encryption</category>
+      <category>sql</category>
+      <guid>https://www.seangoedecke.com/technical-communication/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5-Codex is a better AI researcher than me</title>
+      <link>https://www.seangoedecke.com/ai-research-with-codex/</link>
+      <description>--</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-research-with-codex/</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking NVENC video transcoding on the Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2025/benchmarking-nvenc-video-transcoding-on-pi</link>
+      <description></description>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://www.jeffgeerling.com/blog/2025/benchmarking-nvenc-video-transcoding-on-pi</guid>
+      <pubDate>Sat, 03 Jan 2026 18:03:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Thompson tells how he developed the Go language at Google.</title>
       <link>https://youtube.com/watch?v=NTrAISNdf70</link>
       <description>Kenneth Lane Thompson, winner of the Association for Computing Machinery's A.M. Turing Award, discusses development of the Go programming language at Google in the early 2000s, its relationship the company’s cloud computing platform, and its eventual success as an open source project thanks to its robust standard libraries. This clip is taken from an interview conducted with Thompson by David Brock for the ACM and Computer History Museum on March 6, 2024 which is distributed here by permission of the Computer History Museum. Video of the full interview is available as part of Thompson’s ACM profile at https://amturing.acm.org/interviews/thompson_4588371.cfm.</description>
@@ -409,13 +858,6 @@ Most people have probably heard of the Billion Dollar Mistake before, which was 
       <description>Video Streaming Portal des Chaos Computer Clubs</description>
       <guid>https://media.ccc.de/b/congress/2025</guid>
       <pubDate>Fri, 02 Jan 2026 19:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Public Domain Day 2026 in Literature - Blog</title>
-      <link>https://standardebooks.org/blog/public-domain-day-2026</link>
-      <description>Read about the new ebooks Standard Ebooks is releasing for Public Domain Day 2026!</description>
-      <guid>https://standardebooks.org/blog/public-domain-day-2026</guid>
-      <pubDate>Fri, 02 Jan 2026 18:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
