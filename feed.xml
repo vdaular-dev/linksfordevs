@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Application Development - Swift for Android</title>
+      <link>https://docs.swifdroid.com/app/</link>
+      <description>SwifDroid documentation (Android framework for Swift).</description>
+      <category>android</category>
+      <guid>https://docs.swifdroid.com/app/</guid>
+      <pubDate>Sun, 04 Jan 2026 16:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Neural Networks: Zero To Hero</title>
       <link>https://karpathy.ai/zero-to-hero.html</link>
       <description>A course by Andrej Karpathy on building neural networks, from scratch, in code.</description>
