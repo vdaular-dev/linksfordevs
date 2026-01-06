@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>65% of Hacker News Posts Have Negative Sentiment, and They Outperform</title>
+      <link>https://philippdubach.com/standalone/hn-sentiment/</link>
+      <description>Analysis of 32,000 HN posts and 340K comments reveals negativity bias correlates with higher engagement. Data, methodology, and full paper available.</description>
+      <category>ai</category>
+      <guid>https://philippdubach.com/standalone/hn-sentiment/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Is SQLite Coded In C</title>
+      <link>https://sqlite.org/whyc.html</link>
+      <description>Why Is SQLite Coded In C</description>
+      <category>sql</category>
+      <category>rust</category>
+      <category>android</category>
+      <category>apple</category>
+      <guid>https://sqlite.org/whyc.html</guid>
+      <pubDate>Tue, 06 Jan 2026 17:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Last Battle early C64 screens - Games That Weren't</title>
       <link>https://www.gamesthatwerent.com/2026/01/last-battle-early-c64-screens/</link>
       <description>Short post to highlight and early development screen for Elite's Last Battle on the Commodore 64 thanks to Martin Inter. This was found on the back of the cover and has a character block for Alyssa strangely used for the boss section.</description>
@@ -348,15 +367,6 @@ When watching the situation in Venezuela unfold, the phrase "It was dark, the li
       <category>youtube</category>
       <guid>https://idiallo.com/blog/all-ai-videos-are-harmful</guid>
       <pubDate>Mon, 05 Jan 2026 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>» Homeworld The Digital Antiquarian</title>
-      <link>https://www.filfre.net/2026/01/homeworld/</link>
-      <description></description>
-      <category>gaming</category>
-      <category>visualstudio</category>
-      <guid>https://www.filfre.net/2026/01/homeworld/</guid>
-      <pubDate>Mon, 05 Jan 2026 17:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
