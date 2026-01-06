@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>VW's New Year's Resolution Is to Bring Back Physical Buttons, Including a Volume Knob</title>
+      <link>https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/</link>
+      <description>The new ID. Polo's interior is full of buttons on the steering wheel and dash, previewing a return to physical switchgear for future Volkswagens.</description>
+      <guid>https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/</guid>
+      <pubDate>Tue, 06 Jan 2026 23:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Why is the Gmail app 700 MB?</title>
       <link>https://akr.am/blog/posts/why-is-the-gmail-app-700-mb</link>
       <description>The current state of app bloat.</description>
@@ -348,35 +355,6 @@ I also wrote about ...</description>
       <category>aspnet</category>
       <guid>https://www.robinsloan.com/winter-garden/agi-is-here/</guid>
       <pubDate>Tue, 06 Jan 2026 01:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi is cheaper than a Mini PC again (that's not good)</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-cheaper-than-mini-pc/</link>
-      <description>Almost a year ago, I found that N100 Mini PCs were cheaper than a decked-out Raspberry Pi 5. So comparing systems with:
-16GB of RAM 512GB NVMe SSD Including case, cooler, and power adapter Back in March last year, a GMKtec Mini PC was $159, and a similar-spec Pi 5 was $208.
-Today? The same GMKtec Mini PC is $246.99, and the same Pi 5 is $246.95:
-Today, because of the wonderful RAM shortages1, the Mini PC is the same price as a fully kitted-out Raspberry Pi 5.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-cheaper-than-mini-pc/</guid>
-      <pubDate>Mon, 05 Jan 2026 23:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Radar #16: Week of 01/05/2026</title>
-      <link>https://loworbitsecurity.com/radar/radar16/</link>
-      <description>The Low Orbit Security Radar is a weekly security newsletter from an offensive practitioner's perspective. One idea, curated news, and links worth your time.
-
-
-News: There Were BGP Anomalies During The Venezuela Blackout
-
-When watching the situation in Venezuela unfold, the phrase "It was dark, the lights of Caracas were</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>containers</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://loworbitsecurity.com/radar/radar16/</guid>
-      <pubDate>Mon, 05 Jan 2026 23:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
