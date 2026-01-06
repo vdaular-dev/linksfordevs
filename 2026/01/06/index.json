@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "Title": "2026 is the Year of Self-hosting",
+    "Url": "https://fulghum.io/self-hosting",
+    "Timestamp": "2026-01-06T01:03:30",
+    "Domain": "fulghum.io",
+    "Description": "CLI agents like Claude Code make self-hosting dramatically easier and actually fun. This is the first time I would recommend it to normal software-literate people."
+  },
+  {
+    "Title": "Agent Orchestration is Not the Future",
+    "Url": "https://moridinamael.github.io/agent-orchestration/",
+    "Timestamp": "2026-01-06T01:03:27",
+    "Domain": "moridinamael.github.io",
+    "Description": "My personal GitHub page."
+  },
+  {
+    "Title": "How I program without syntax highlighting",
+    "Url": "https://hakon.gylterud.net/opinion/syntax-highlighting.html",
+    "Timestamp": "2026-01-06T01:03:24",
+    "Domain": "hakon.gylterud.net",
+    "Description": "For more than a year I have been without syntax highlighting. My\neditor of choice, acme, simply does not have it and I actually prefer it\nthat way. Some would explain this as an instance of the Stockholm\nsyndrome, or some strange form of hipsterism. However, I think there are\nsome valid advantages to not colouring our texts, and so I will put them\nforth."
+  },
+  {
+    "Title": "There Is No New Aesthetics",
+    "Url": "https://borretti.me/article/there-is-no-new-aesthetics",
+    "Timestamp": "2026-01-06T01:03:19",
+    "Domain": "borretti.me",
+    "Description": "On the exhaustion of man."
+  },
+  {
+    "Title": "Why Are Experiences Of Vibe Coding So Polarised?",
+    "Url": "http://www.stephen-cresswell.com/2026/01/01/Why-Are-Experiences-Of-Vibe-Coding-So-Polarised.html",
+    "Timestamp": "2026-01-06T01:03:16",
+    "Domain": "www.stephen-cresswell.com",
+    "Description": "A controlled experiment reveals why developers report vastly different experiences with AI coding tools - and what it takes to achieve reliable, high-quality results."
+  },
+  {
+    "Title": "3 months of using Neovim",
+    "Url": "https://martianlantern.github.io/2026/01/3-months-of-using-neovim/",
+    "Timestamp": "2026-01-06T01:03:13",
+    "Domain": "martianlantern.github.io",
+    "Description": "I have been using neovim for the past 3 months not because I wanted to switch to a new IDE but because my org has a very bureaucratic process to open VS Code or Cursor over SSH, so instead what I usually do is spin up an SSH terminal over http and access it from my personal machine and use neovim as my editor. I will first try to introduce you to neovim and the real juice of it the plugin manager lazy.nvim and then list down my frustrations with it. If you want to learn neovim, I would recommend to start with neovim :Tutor"
+  },
+  {
+    "Title": "Choosing the Right Node.js Job Queue",
+    "Url": "https://judoscale.com/blog/node-task-queues",
+    "Timestamp": "2026-01-06T01:03:09",
+    "Domain": "judoscale.com",
+    "Description": "So you've got a Node.js app, and you know what needs to be passed off to a job queue. But do you know what job queuing system to use? Learn how to choose the right one for your needs.."
+  },
+  {
+    "Title": "What Stress Feels Like After Leaving a Salaried Job",
+    "Url": "https://vinitvr.pages.dev/personal-blog/pb-post10/",
+    "Timestamp": "2026-01-06T01:03:06",
+    "Domain": "vinitvr.pages.dev",
+    "Description": "One of the first questions people ask me after hearing that I have quit my corporate job, is almost always the same:\n“How do you handle the stress?”\n“How do you sleep at night knowing there’s no guaranteed paycheck at the end of the month?”\nIt’s a fair question. We’ve been conditioned to believe that a regular salary is the ultimate safety net, and that stepping away from it automatically means living in a constant state of anxiety. But after spending some time on the other side, I’ve realized something important about stress and it’s something that doesn’t get talked about enough."
+  },
+  {
+    "Title": "On Getting Hacked",
+    "Url": "https://ahmeto.com/post/on-getting-hacked",
+    "Timestamp": "2026-01-06T01:03:03",
+    "Domain": "ahmeto.com",
+    "Description": "On Getting Hacked"
+  },
+  {
+    "Title": " Denied At The Door Of My Own System | KRPTN ",
+    "Url": "https://armandoahir.github.io/2026/Denied-at-the-door-of-My-own-system/",
+    "Timestamp": "2026-01-06T01:02:59",
+    "Domain": "armandoahir.github.io",
+    "Description": " Personal blog. "
+  },
+  {
+    "Title": "My minimalist AI development setup",
+    "Url": "https://pablomarino.com/research_blog/2026/01/05/research4.html",
+    "Timestamp": "2026-01-06T01:02:55",
+    "Domain": "pablomarino.com",
+    "Description": "Why I came back from Cursor to VS Code"
+  },
+  {
+    "Title": "Rosetta | Yield infrastructure for Hyperliquid",
+    "Url": "https://www.rosetta.sh/blog/how-defi-vaults-actually-earn-yield",
+    "Timestamp": "2026-01-06T01:02:51",
+    "Domain": "www.rosetta.sh",
+    "Description": "Rosetta delivers automated block-level yield routing for Hyperliquid accounts."
+  },
+  {
+    "Title": "Building Privacy Preserving RAG with Homomorphic Encryption",
+    "Url": "https://www.subhashdasyam.com/2025/11/building-privacy-preserving-rag-with.html",
+    "Timestamp": "2026-01-06T01:02:48",
+    "Domain": "www.subhashdasyam.com",
+    "Description": "A technical blog dedicated to AI Security, RAG architectures, and Container Security. Deep dives into securing Agentic AI and Large Language Models."
+  },
+  {
+    "Title": "Observability's Past, Present, and Future",
+    "Url": "https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/",
+    "Timestamp": "2026-01-06T01:02:43",
+    "Domain": "blog.sherwoodcallaway.com",
+    "Description": "In my last post, , I wrote about my career, my passion for dev tools, and my decision to start a new company focused on observability.\n\nI also wrote about ..."
+  },
+  {
+    "Title": "Eval Testing LLMs in PHPUnit",
+    "Url": "https://joshhornby.com/eval-testing-llms-in-phpunit",
+    "Timestamp": "2026-01-06T01:02:40",
+    "Domain": "joshhornby.com",
+    "Description": "Prompts break silently. Here’s how to catch regressions with PHPUnit evals before your users do."
+  },
+  {
+    "Title": "How I Use Claude Code with NeoVim",
+    "Url": "https://www.laktek.com/using-claude-code-with-neovim",
+    "Timestamp": "2026-01-06T01:02:37",
+    "Domain": "www.laktek.com",
+    "Description": "I created an MCP which allows Claude Code to see my NeoVim context and reflect changes."
+  },
+  {
+    "Title": "Thoughts on Claude Code - Slava Akhmechet",
+    "Url": "https://www.spakhm.com/claude-code",
+    "Timestamp": "2026-01-06T01:02:33",
+    "Domain": "www.spakhm.com",
+    "Description": "Many programmers complain AI is good for quickly throwing up some CRUD apps but not much else. When someone points out this isn’t true, everyone (rightly) asks for examples. There aren’t many posts with detailed examples online, so I thought I’ll offer some from a project I wrote this Christmas."
+  },
+  {
+    "Title": "The Next Two Years of Software Engineering",
+    "Url": "https://addyosmani.com/blog/next-two-years/",
+    "Timestamp": "2026-01-06T01:02:30",
+    "Domain": "addyosmani.com",
+    "Description": "Exploring five critical questions shaping software engineering through 2026, with contrasting scenarios for each. These lenses help prepare for the evolving ..."
+  },
+  {
+    "Title": "Your README.md is obsolete | Prashant Barahi",
+    "Url": "https://prashantbarahi.com.np/blog/your-readme-md-is-obsolete",
+    "Timestamp": "2026-01-06T01:02:26",
+    "Domain": "prashantbarahi.com.np",
+    "Description": "README.md is that one file in every project that gets the princess treatment from GitHub, GitLab, and other source code hosting platforms."
+  },
+  {
+    "Title": "A Bite of the Forbidden Fruit",
+    "Url": "https://shreyanjain.net/2026/01/01/a-bite-of-the-forbidden.html",
+    "Timestamp": "2026-01-06T01:02:23",
+    "Domain": "shreyanjain.net",
+    "Description": "Where did we leave off last time? In talking about macOS, we discovered many different little things signifying a wider rot. Through that exploration, a few consistent themes emerged."
+  },
+  {
+    "Title": "App Store Slop is Coming :: Pablart",
+    "Url": "https://pablart.com/posts/app-store-slop/",
+    "Timestamp": "2026-01-06T01:02:19",
+    "Domain": "pablart.com",
+    "Description": "AI slop has hit inboxes, search results, and social feeds. Mobile apps are next."
+  },
+  {
+    "Title": "Statistics made simple",
+    "Url": "https://tonsky.me/blog/clj-simple-stats/",
+    "Timestamp": "2026-01-06T01:02:16",
+    "Domain": "tonsky.me",
+    "Description": "Announcing a simple statistics library for Clojure web servers"
+  },
+  {
+    "Title": "AGI is here (and I feel fine)",
+    "Url": "https://www.robinsloan.com/winter-garden/agi-is-here/",
+    "Timestamp": "2026-01-06T01:02:11",
+    "Domain": "www.robinsloan.com",
+    "Description": "I propose to begin this year with an acknowledgment that is strategic but/and also sincere."
+  }
+]

@@ -7,6 +7,243 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>2026 is the Year of Self-hosting</title>
+      <link>https://fulghum.io/self-hosting</link>
+      <description>CLI agents like Claude Code make self-hosting dramatically easier and actually fun. This is the first time I would recommend it to normal software-literate people.</description>
+      <author> (Jordan Fulghum)</author>
+      <category>ai</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>apple</category>
+      <guid>https://fulghum.io/self-hosting</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent Orchestration is Not the Future</title>
+      <link>https://moridinamael.github.io/agent-orchestration/</link>
+      <description>My personal GitHub page.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://moridinamael.github.io/agent-orchestration/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I program without syntax highlighting</title>
+      <link>https://hakon.gylterud.net/opinion/syntax-highlighting.html</link>
+      <description>For more than a year I have been without syntax highlighting. My
+editor of choice, acme, simply does not have it and I actually prefer it
+that way. Some would explain this as an instance of the Stockholm
+syndrome, or some strange form of hipsterism. However, I think there are
+some valid advantages to not colouring our texts, and so I will put them
+forth.</description>
+      <category>web</category>
+      <guid>https://hakon.gylterud.net/opinion/syntax-highlighting.html</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>There Is No New Aesthetics</title>
+      <link>https://borretti.me/article/there-is-no-new-aesthetics</link>
+      <description>On the exhaustion of man.</description>
+      <category>gaming</category>
+      <guid>https://borretti.me/article/there-is-no-new-aesthetics</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Are Experiences Of Vibe Coding So Polarised?</title>
+      <link>http://www.stephen-cresswell.com/2026/01/01/Why-Are-Experiences-Of-Vibe-Coding-So-Polarised.html</link>
+      <description>A controlled experiment reveals why developers report vastly different experiences with AI coding tools - and what it takes to achieve reliable, high-quality results.</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>http://www.stephen-cresswell.com/2026/01/01/Why-Are-Experiences-Of-Vibe-Coding-So-Polarised.html</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 months of using Neovim</title>
+      <link>https://martianlantern.github.io/2026/01/3-months-of-using-neovim/</link>
+      <description>I have been using neovim for the past 3 months not because I wanted to switch to a new IDE but because my org has a very bureaucratic process to open VS Code or Cursor over SSH, so instead what I usually do is spin up an SSH terminal over http and access it from my personal machine and use neovim as my editor. I will first try to introduce you to neovim and the real juice of it the plugin manager lazy.nvim and then list down my frustrations with it. If you want to learn neovim, I would recommend to start with neovim :Tutor</description>
+      <category>vscode</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://martianlantern.github.io/2026/01/3-months-of-using-neovim/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Choosing the Right Node.js Job Queue</title>
+      <link>https://judoscale.com/blog/node-task-queues</link>
+      <description>So you've got a Node.js app, and you know what needs to be passed off to a job queue. But do you know what job queuing system to use? Learn how to choose the right one for your needs..</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ruby</category>
+      <category>typescript</category>
+      <category>cloud</category>
+      <guid>https://judoscale.com/blog/node-task-queues</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Stress Feels Like After Leaving a Salaried Job</title>
+      <link>https://vinitvr.pages.dev/personal-blog/pb-post10/</link>
+      <description>One of the first questions people ask me after hearing that I have quit my corporate job, is almost always the same:
+“How do you handle the stress?”
+“How do you sleep at night knowing there’s no guaranteed paycheck at the end of the month?”
+It’s a fair question. We’ve been conditioned to believe that a regular salary is the ultimate safety net, and that stepping away from it automatically means living in a constant state of anxiety. But after spending some time on the other side, I’ve realized something important about stress and it’s something that doesn’t get talked about enough.</description>
+      <guid>https://vinitvr.pages.dev/personal-blog/pb-post10/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Getting Hacked</title>
+      <link>https://ahmeto.com/post/on-getting-hacked</link>
+      <description>On Getting Hacked</description>
+      <guid>https://ahmeto.com/post/on-getting-hacked</guid>
+      <pubDate>Tue, 06 Jan 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title> Denied At The Door Of My Own System | KRPTN </title>
+      <link>https://armandoahir.github.io/2026/Denied-at-the-door-of-My-own-system/</link>
+      <description> Personal blog. </description>
+      <author> (Armando Ahir)</author>
+      <guid>https://armandoahir.github.io/2026/Denied-at-the-door-of-My-own-system/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>My minimalist AI development setup</title>
+      <link>https://pablomarino.com/research_blog/2026/01/05/research4.html</link>
+      <description>Why I came back from Cursor to VS Code</description>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://pablomarino.com/research_blog/2026/01/05/research4.html</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rosetta | Yield infrastructure for Hyperliquid</title>
+      <link>https://www.rosetta.sh/blog/how-defi-vaults-actually-earn-yield</link>
+      <description>Rosetta delivers automated block-level yield routing for Hyperliquid accounts.</description>
+      <guid>https://www.rosetta.sh/blog/how-defi-vaults-actually-earn-yield</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Privacy Preserving RAG with Homomorphic Encryption</title>
+      <link>https://www.subhashdasyam.com/2025/11/building-privacy-preserving-rag-with.html</link>
+      <description>A technical blog dedicated to AI Security, RAG architectures, and Container Security. Deep dives into securing Agentic AI and Large Language Models.</description>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://www.subhashdasyam.com/2025/11/building-privacy-preserving-rag-with.html</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Observability's Past, Present, and Future</title>
+      <link>https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/</link>
+      <description>In my last post, , I wrote about my career, my passion for dev tools, and my decision to start a new company focused on observability.
+
+I also wrote about ...</description>
+      <category>ai</category>
+      <guid>https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eval Testing LLMs in PHPUnit</title>
+      <link>https://joshhornby.com/eval-testing-llms-in-phpunit</link>
+      <description>Prompts break silently. Here’s how to catch regressions with PHPUnit evals before your users do.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://joshhornby.com/eval-testing-llms-in-phpunit</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Use Claude Code with NeoVim</title>
+      <link>https://www.laktek.com/using-claude-code-with-neovim</link>
+      <description>I created an MCP which allows Claude Code to see my NeoVim context and reflect changes.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://www.laktek.com/using-claude-code-with-neovim</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on Claude Code - Slava Akhmechet</title>
+      <link>https://www.spakhm.com/claude-code</link>
+      <description>Many programmers complain AI is good for quickly throwing up some CRUD apps but not much else. When someone points out this isn’t true, everyone (rightly) asks for examples. There aren’t many posts with detailed examples online, so I thought I’ll offer some from a project I wrote this Christmas.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>typescript</category>
+      <guid>https://www.spakhm.com/claude-code</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Next Two Years of Software Engineering</title>
+      <link>https://addyosmani.com/blog/next-two-years/</link>
+      <description>Exploring five critical questions shaping software engineering through 2026, with contrasting scenarios for each. These lenses help prepare for the evolving ...</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <guid>https://addyosmani.com/blog/next-two-years/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your README.md is obsolete | Prashant Barahi</title>
+      <link>https://prashantbarahi.com.np/blog/your-readme-md-is-obsolete</link>
+      <description>README.md is that one file in every project that gets the princess treatment from GitHub, GitLab, and other source code hosting platforms.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://prashantbarahi.com.np/blog/your-readme-md-is-obsolete</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Bite of the Forbidden Fruit</title>
+      <link>https://shreyanjain.net/2026/01/01/a-bite-of-the-forbidden.html</link>
+      <description>Where did we leave off last time? In talking about macOS, we discovered many different little things signifying a wider rot. Through that exploration, a few consistent themes emerged.</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>android</category>
+      <guid>https://shreyanjain.net/2026/01/01/a-bite-of-the-forbidden.html</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>App Store Slop is Coming :: Pablart</title>
+      <link>https://pablart.com/posts/app-store-slop/</link>
+      <description>AI slop has hit inboxes, search results, and social feeds. Mobile apps are next.</description>
+      <category>ai</category>
+      <guid>https://pablart.com/posts/app-store-slop/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statistics made simple</title>
+      <link>https://tonsky.me/blog/clj-simple-stats/</link>
+      <description>Announcing a simple statistics library for Clojure web servers</description>
+      <author> (https://www.facebook.com/nikitonsky)</author>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://tonsky.me/blog/clj-simple-stats/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI is here (and I feel fine)</title>
+      <link>https://www.robinsloan.com/winter-garden/agi-is-here/</link>
+      <description>I propose to begin this year with an acknowledgment that is strategic but/and also sincere.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>aspnet</category>
+      <guid>https://www.robinsloan.com/winter-garden/agi-is-here/</guid>
+      <pubDate>Tue, 06 Jan 2026 01:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Raspberry Pi is cheaper than a Mini PC again (that's not good)</title>
       <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-cheaper-than-mini-pc/</link>
       <description>Almost a year ago, I found that N100 Mini PCs were cheaper than a decked-out Raspberry Pi 5. So comparing systems with:
@@ -131,195 +368,6 @@ When watching the situation in Venezuela unfold, the phrase "It was dark, the li
       <category>containers</category>
       <guid>https://github.com/huseyinbabal/taws</guid>
       <pubDate>Mon, 05 Jan 2026 06:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can just do stuff</title>
-      <link>https://ivie.codes/posts/just-do-stuff/</link>
-      <description>Answering the most popular question in the Hack Club Community</description>
-      <guid>https://ivie.codes/posts/just-do-stuff/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some thoughts after intensive use of opencode + oh-my-opencode</title>
-      <link>https://me.0xffff.me/opencode.html</link>
-      <description>Last modification on  2026-01-04</description>
-      <category>sql</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://me.0xffff.me/opencode.html</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Hive Mind · Jacques Mattheij</title>
-      <link>https://jacquesmattheij.com/the-hive-mind/</link>
-      <description>For the last couple of years, my colleagues and myself have been playing around with AI. I can’t speak for them but from the perspective of a casual user I am very much impressed by the capabilities on display. If you dedicate some time to it you can get a lot of mileage out of AI, it can help you in the way a highly interactive book would help, with vast amounts of knowledge at the tips of your fingers. As long as you are wary of the inevitable hallucinations and the AI’s tendency to get stuck in loops. Because the one thing that we have not yet managed to program in there is the ability to be humble: to realize that no matter how much knowledge you’ve got you don’t know everything. So “I don’t know” is not on the menu. It is not the kind of thing I have seen as output from the various AI offerings.</description>
-      <category>ai</category>
-      <guid>https://jacquesmattheij.com/the-hive-mind/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Low-tech for kids manifesto - Michał Ćwiok</title>
-      <link>https://cwiok.pl/index.php/en/2026/01/04/low-tech-for-kids-manifesto/</link>
-      <description>Raising your kid without ever showing it a cartoon and limiting the screen time to zero is for sure possible, but carries a risk of it being an outcast. If we like it or not, kids will talk about shows, characters and recent trends and I feel that to some extent it is important to expose your kids to that. At the same time I want to make sure my kid avoids the never-ending recommendation feed that will keep it hooked. To get that I reached back to somewhat forgotten tech that still works and can be given to kids without any risk. Low-tech can give kids agency, without all the overhead of psyop doomscroll brainrot algorithm manipulation overhead.</description>
-      <category>apple</category>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>youtube</category>
-      <category>ai</category>
-      <guid>https://cwiok.pl/index.php/en/2026/01/04/low-tech-for-kids-manifesto/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Hardest Part of My Side Project Isn't the Code</title>
-      <link>https://threekindwords.com/blog/the-hardest-part-of-my-side-project-isnt-the-code/</link>
-      <description>When I kicked off this project at the beginning of the year, I set a goal for myself: send 300 kind words by the end of 2025. I’m happy to report that I hit that milestone on December 2nd. The 100th order was for the words “Dreams come true,” which kinda feels like a testament to what I’m trying to do here. Seeing that made me smile.</description>
-      <category>typescript</category>
-      <category>ai</category>
-      <guid>https://threekindwords.com/blog/the-hardest-part-of-my-side-project-isnt-the-code/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Education after ChatGPT</title>
-      <link>https://loukidelis.com/2026/01/04/education-and-ai.html</link>
-      <description>A few times now, I have heard people bring up Socrates' suspicion of writing in the context of the impact of AI on learning. As a defense of AI, the point is that people (even wise people like Socrates) have long been concerned about the impact of technologies on the human mind, and in hindsight these concerns usually look silly. AI fears may be partly a moral panic. Still, AI is having an impact on learning in specific and undeniable ways. ChatGPT can write an essay better than many high school and university students, it seems, and many students are all too happy to outsource their essay writing–and critical thinking–to it. Teachers are struggling to prove that essays have been written by AI, and so the value of the whole rigmarole of essay writing and grading seems to be in question. Socrates thought that dialogue was superior to reading and writing for the development of the mind. In 2026, when everything is being thrown into question, this old idea might have fresh salience. In the same way that calculators made mental math (somewhat) obsolete, maybe LLMs, essentially information regurgitation machines, have made this standard part of education obsolete also. Should classrooms return to the Socratic method of education? I have to admit I love to imagine it, and I probably would have liked for my own education to have included more open-ended dialogue and less information regurgitation. I can’t say exactly how this would work and scale. One benefit of written essays is that they can be graded en masse. Maybe traditional grading systems will also have to be reworked in response to the AI disruption. What I do believe strongly is that nothing should be off the table.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://loukidelis.com/2026/01/04/education-and-ai.html</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Democracy Will Not Survive the Age of Consumption</title>
-      <link>https://kasurian.com/p/democracy-will-not-survive-consumption</link>
-      <description>The productive minority sustains democracy, which increasingly favours the consumptive majority. Only one can win.</description>
-      <guid>https://kasurian.com/p/democracy-will-not-survive-consumption</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Who Owns the Memory? Part 2: Who Calls Free? | Luca Lombardo</title>
-      <link>https://lukefleed.xyz/posts/who-owns-the-memory-pt2/</link>
-      <description>Destructors, RAII, and the ownership question.</description>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://lukefleed.xyz/posts/who-owns-the-memory-pt2/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>I don't use the term technical debt</title>
-      <link>https://charemza.name/blog/posts/software/communication/I-dont-use-the-term-technical-debt-and-neither-should-you/</link>
-      <description>And neither should you</description>
-      <guid>https://charemza.name/blog/posts/software/communication/I-dont-use-the-term-technical-debt-and-neither-should-you/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLSL Web CRT Shader  ⌘I  Get Info</title>
-      <link>https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/</link>
-      <description>I’m releasing my GLSL Web CRT Shader as open source.</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <guid>https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distinguishing yourself early in your career as a developer</title>
-      <link>https://notes.eatonphil.com/2026-01-03-distinguishing-yourself.html</link>
-      <description>Distinguishing yourself early in your career as a developer</description>
-      <category>containers</category>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://notes.eatonphil.com/2026-01-03-distinguishing-yourself.html</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sven Malvik - Portfolio</title>
-      <link>https://malvik.de/blog/claude-code-skills</link>
-      <description>Personal portfolio of Sven Malvik. Building Vissper AI meeting companion and Malfi personal finance app.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://malvik.de/blog/claude-code-skills</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Small Time Review of Clickhouse</title>
-      <link>https://www.wkrp.xyz/a-small-time-review-of-clickhouse/</link>
-      <description>How Small Time?
-
-Clickhouse powers the back-end for Old School Snitch, a plugin for the game Old School Runescape which tracks individual XP gains, item drops, and in-game character locations for roughly 100 users. Old School Snitch is a hobby project of mine, so I live with minor downtime during</description>
-      <category>gaming</category>
-      <category>sql</category>
-      <guid>https://www.wkrp.xyz/a-small-time-review-of-clickhouse/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snakes &amp; ladders: a short statistical analysis - Emir's blog</title>
-      <link>https://emiruz.com/post/2026-01-04-snakes-and-ladders/</link>
-      <description>Snakes &amp; ladders is a
-classic board game, originally imported into the United Kingdom from India
-circa 1890 according to Wikipedia. Its a square grid numbered row wise from
-1-100, with some of the cells connected together either by a snake or a ladder.
-Players roll a dice and then advance that many steps. If a player lands on the
-head of a snake or the foot of a ladder they are transported to the respective
-other end. The objective is to get to or (past) the last cell.</description>
-      <category>gaming</category>
-      <guid>https://emiruz.com/post/2026-01-04-snakes-and-ladders/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moving to Linux after 10 years of Mac — by Adrian Unger</title>
-      <link>https://staydecent.ca/blog/moving-to-linux-after-10-years-of-mac/</link>
-      <description>January 4, 2026</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://staydecent.ca/blog/moving-to-linux-after-10-years-of-mac/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Taking Your Startup Failures Personally</title>
-      <link>https://gilad.is/posts/dont-take-personally</link>
-      <description>It’s business, not personal.</description>
-      <guid>https://gilad.is/posts/dont-take-personally</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>The real-time event tracker I want | Telesink</title>
-      <link>https://telesink.com/blog/the-real-time-event-tracker-i-want</link>
-      <description>Why existing tools fall short for a simple real-time view of key product events, and the vision for a dedicated solution.</description>
-      <guid>https://telesink.com/blog/the-real-time-event-tracker-i-want</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Built a Transcription App Over Christmas PTO</title>
-      <link>https://alexmason.me/blog/2026-01-04-i-built-a-transcription-app-over-christmas-pto/</link>
-      <description>A deep dive into my experience building a transcription app from idea conception to realizing that it had potential.</description>
-      <category>nodejs</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://alexmason.me/blog/2026-01-04-i-built-a-transcription-app-over-christmas-pto/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web development is fun again</title>
-      <link>https://ma.ttias.be/web-development-is-fun-again/</link>
-      <description>AI tools brought me back to levels of productivity I haven't felt in years. Web development is fun again.</description>
-      <author> (https://www.facebook.com/www.ma.ttias.be/)</author>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://ma.ttias.be/web-development-is-fun-again/</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's Build Rad Shit Together</title>
-      <link>https://trond.ai/p/lets-build-rad-shit-together</link>
-      <description>The real magic happens at the intersection of building to learn and solving problems that matter. Let's talk about what it means to build products people love in an AI world.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://trond.ai/p/lets-build-rad-shit-together</guid>
-      <pubDate>Mon, 05 Jan 2026 01:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,189 @@
 [
   {
+    "Title": "2026 is the Year of Self-hosting",
+    "Url": "https://fulghum.io/self-hosting",
+    "Timestamp": "2026-01-06T01:03:30",
+    "Domain": "fulghum.io",
+    "Description": "CLI agents like Claude Code make self-hosting dramatically easier and actually fun. This is the first time I would recommend it to normal software-literate people.",
+    "Confidence": 0.98420364
+  },
+  {
+    "Title": "Agent Orchestration is Not the Future",
+    "Url": "https://moridinamael.github.io/agent-orchestration/",
+    "Timestamp": "2026-01-06T01:03:27",
+    "Domain": "moridinamael.github.io",
+    "Description": "My personal GitHub page.",
+    "Confidence": 0.96184725
+  },
+  {
+    "Title": "How I program without syntax highlighting",
+    "Url": "https://hakon.gylterud.net/opinion/syntax-highlighting.html",
+    "Timestamp": "2026-01-06T01:03:24",
+    "Domain": "hakon.gylterud.net",
+    "Description": "For more than a year I have been without syntax highlighting. My\neditor of choice, acme, simply does not have it and I actually prefer it\nthat way. Some would explain this as an instance of the Stockholm\nsyndrome, or some strange form of hipsterism. However, I think there are\nsome valid advantages to not colouring our texts, and so I will put them\nforth.",
+    "Confidence": 0.94337595
+  },
+  {
+    "Title": "There Is No New Aesthetics",
+    "Url": "https://borretti.me/article/there-is-no-new-aesthetics",
+    "Timestamp": "2026-01-06T01:03:19",
+    "Domain": "borretti.me",
+    "Description": "On the exhaustion of man.",
+    "Confidence": 0.7507691
+  },
+  {
+    "Title": "Why Are Experiences Of Vibe Coding So Polarised?",
+    "Url": "http://www.stephen-cresswell.com/2026/01/01/Why-Are-Experiences-Of-Vibe-Coding-So-Polarised.html",
+    "Timestamp": "2026-01-06T01:03:16",
+    "Domain": "www.stephen-cresswell.com",
+    "Description": "A controlled experiment reveals why developers report vastly different experiences with AI coding tools - and what it takes to achieve reliable, high-quality results.",
+    "Confidence": 0.9756157
+  },
+  {
+    "Title": "3 months of using Neovim",
+    "Url": "https://martianlantern.github.io/2026/01/3-months-of-using-neovim/",
+    "Timestamp": "2026-01-06T01:03:13",
+    "Domain": "martianlantern.github.io",
+    "Description": "I have been using neovim for the past 3 months not because I wanted to switch to a new IDE but because my org has a very bureaucratic process to open VS Code or Cursor over SSH, so instead what I usually do is spin up an SSH terminal over http and access it from my personal machine and use neovim as my editor. I will first try to introduce you to neovim and the real juice of it the plugin manager lazy.nvim and then list down my frustrations with it. If you want to learn neovim, I would recommend to start with neovim :Tutor",
+    "Confidence": 0.997622
+  },
+  {
+    "Title": "Choosing the Right Node.js Job Queue",
+    "Url": "https://judoscale.com/blog/node-task-queues",
+    "Timestamp": "2026-01-06T01:03:09",
+    "Domain": "judoscale.com",
+    "Description": "So you've got a Node.js app, and you know what needs to be passed off to a job queue. But do you know what job queuing system to use? Learn how to choose the right one for your needs..",
+    "Confidence": 0.9979599
+  },
+  {
+    "Title": "What Stress Feels Like After Leaving a Salaried Job",
+    "Url": "https://vinitvr.pages.dev/personal-blog/pb-post10/",
+    "Timestamp": "2026-01-06T01:03:06",
+    "Domain": "vinitvr.pages.dev",
+    "Description": "One of the first questions people ask me after hearing that I have quit my corporate job, is almost always the same:\n“How do you handle the stress?”\n“How do you sleep at night knowing there’s no guaranteed paycheck at the end of the month?”\nIt’s a fair question. We’ve been conditioned to believe that a regular salary is the ultimate safety net, and that stepping away from it automatically means living in a constant state of anxiety. But after spending some time on the other side, I’ve realized something important about stress and it’s something that doesn’t get talked about enough.",
+    "Confidence": 0.8816625
+  },
+  {
+    "Title": "On Getting Hacked",
+    "Url": "https://ahmeto.com/post/on-getting-hacked",
+    "Timestamp": "2026-01-06T01:03:03",
+    "Domain": "ahmeto.com",
+    "Description": "On Getting Hacked",
+    "Confidence": 0.90069807
+  },
+  {
+    "Title": " Denied At The Door Of My Own System | KRPTN ",
+    "Url": "https://armandoahir.github.io/2026/Denied-at-the-door-of-My-own-system/",
+    "Timestamp": "2026-01-06T01:02:59",
+    "Domain": "armandoahir.github.io",
+    "Description": " Personal blog. ",
+    "Confidence": 0.97172457
+  },
+  {
+    "Title": "My minimalist AI development setup",
+    "Url": "https://pablomarino.com/research_blog/2026/01/05/research4.html",
+    "Timestamp": "2026-01-06T01:02:55",
+    "Domain": "pablomarino.com",
+    "Description": "Why I came back from Cursor to VS Code",
+    "Confidence": 0.9985114
+  },
+  {
+    "Title": "Rosetta | Yield infrastructure for Hyperliquid",
+    "Url": "https://www.rosetta.sh/blog/how-defi-vaults-actually-earn-yield",
+    "Timestamp": "2026-01-06T01:02:51",
+    "Domain": "www.rosetta.sh",
+    "Description": "Rosetta delivers automated block-level yield routing for Hyperliquid accounts.",
+    "Confidence": 0.86331785
+  },
+  {
+    "Title": "Building Privacy Preserving RAG with Homomorphic Encryption",
+    "Url": "https://www.subhashdasyam.com/2025/11/building-privacy-preserving-rag-with.html",
+    "Timestamp": "2026-01-06T01:02:48",
+    "Domain": "www.subhashdasyam.com",
+    "Description": "A technical blog dedicated to AI Security, RAG architectures, and Container Security. Deep dives into securing Agentic AI and Large Language Models.",
+    "Confidence": 0.9971449
+  },
+  {
+    "Title": "Observability's Past, Present, and Future",
+    "Url": "https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/",
+    "Timestamp": "2026-01-06T01:02:43",
+    "Domain": "blog.sherwoodcallaway.com",
+    "Description": "In my last post, , I wrote about my career, my passion for dev tools, and my decision to start a new company focused on observability.\n\nI also wrote about ...",
+    "Confidence": 0.98202705
+  },
+  {
+    "Title": "Eval Testing LLMs in PHPUnit",
+    "Url": "https://joshhornby.com/eval-testing-llms-in-phpunit",
+    "Timestamp": "2026-01-06T01:02:40",
+    "Domain": "joshhornby.com",
+    "Description": "Prompts break silently. Here’s how to catch regressions with PHPUnit evals before your users do.",
+    "Confidence": 0.9910091
+  },
+  {
+    "Title": "How I Use Claude Code with NeoVim",
+    "Url": "https://www.laktek.com/using-claude-code-with-neovim",
+    "Timestamp": "2026-01-06T01:02:37",
+    "Domain": "www.laktek.com",
+    "Description": "I created an MCP which allows Claude Code to see my NeoVim context and reflect changes.",
+    "Confidence": 0.9922026
+  },
+  {
+    "Title": "Thoughts on Claude Code - Slava Akhmechet",
+    "Url": "https://www.spakhm.com/claude-code",
+    "Timestamp": "2026-01-06T01:02:33",
+    "Domain": "www.spakhm.com",
+    "Description": "Many programmers complain AI is good for quickly throwing up some CRUD apps but not much else. When someone points out this isn’t true, everyone (rightly) asks for examples. There aren’t many posts with detailed examples online, so I thought I’ll offer some from a project I wrote this Christmas.",
+    "Confidence": 0.9936746
+  },
+  {
+    "Title": "The Next Two Years of Software Engineering",
+    "Url": "https://addyosmani.com/blog/next-two-years/",
+    "Timestamp": "2026-01-06T01:02:30",
+    "Domain": "addyosmani.com",
+    "Description": "Exploring five critical questions shaping software engineering through 2026, with contrasting scenarios for each. These lenses help prepare for the evolving ...",
+    "Confidence": 0.9865074
+  },
+  {
+    "Title": "Your README.md is obsolete | Prashant Barahi",
+    "Url": "https://prashantbarahi.com.np/blog/your-readme-md-is-obsolete",
+    "Timestamp": "2026-01-06T01:02:26",
+    "Domain": "prashantbarahi.com.np",
+    "Description": "README.md is that one file in every project that gets the princess treatment from GitHub, GitLab, and other source code hosting platforms.",
+    "Confidence": 0.946145
+  },
+  {
+    "Title": "A Bite of the Forbidden Fruit",
+    "Url": "https://shreyanjain.net/2026/01/01/a-bite-of-the-forbidden.html",
+    "Timestamp": "2026-01-06T01:02:23",
+    "Domain": "shreyanjain.net",
+    "Description": "Where did we leave off last time? In talking about macOS, we discovered many different little things signifying a wider rot. Through that exploration, a few consistent themes emerged.",
+    "Confidence": 0.984959
+  },
+  {
+    "Title": "App Store Slop is Coming :: Pablart",
+    "Url": "https://pablart.com/posts/app-store-slop/",
+    "Timestamp": "2026-01-06T01:02:19",
+    "Domain": "pablart.com",
+    "Description": "AI slop has hit inboxes, search results, and social feeds. Mobile apps are next.",
+    "Confidence": 0.99629843
+  },
+  {
+    "Title": "Statistics made simple",
+    "Url": "https://tonsky.me/blog/clj-simple-stats/",
+    "Timestamp": "2026-01-06T01:02:16",
+    "Domain": "tonsky.me",
+    "Description": "Announcing a simple statistics library for Clojure web servers",
+    "Confidence": 0.9797907
+  },
+  {
+    "Title": "AGI is here (and I feel fine)",
+    "Url": "https://www.robinsloan.com/winter-garden/agi-is-here/",
+    "Timestamp": "2026-01-06T01:02:11",
+    "Domain": "www.robinsloan.com",
+    "Description": "I propose to begin this year with an acknowledgment that is strategic but/and also sincere.",
+    "Confidence": 0.90443
+  },
+  {
     "Title": "Raspberry Pi is cheaper than a Mini PC again (that's not good)",
     "Url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-cheaper-than-mini-pc/",
     "Timestamp": "2026-01-05T23:02:14",
@@ -94,165 +278,5 @@
     "Domain": "github.com",
     "Description": "Terminal UI for AWS (taws) - A terminal-based AWS resource viewer and manager - huseyinbabal/taws",
     "Confidence": 0.9983443
-  },
-  {
-    "Title": "You can just do stuff",
-    "Url": "https://ivie.codes/posts/just-do-stuff/",
-    "Timestamp": "2026-01-05T01:03:41",
-    "Domain": "ivie.codes",
-    "Description": "Answering the most popular question in the Hack Club Community",
-    "Confidence": 0.8971517
-  },
-  {
-    "Title": "Some thoughts after intensive use of opencode + oh-my-opencode",
-    "Url": "https://me.0xffff.me/opencode.html",
-    "Timestamp": "2026-01-05T01:03:37",
-    "Domain": "me.0xffff.me",
-    "Description": "Last modification on  2026-01-04",
-    "Confidence": 0.9960439
-  },
-  {
-    "Title": "The Hive Mind · Jacques Mattheij",
-    "Url": "https://jacquesmattheij.com/the-hive-mind/",
-    "Timestamp": "2026-01-05T01:03:34",
-    "Domain": "jacquesmattheij.com",
-    "Description": "For the last couple of years, my colleagues and myself have been playing around with AI. I can’t speak for them but from the perspective of a casual user I am very much impressed by the capabilities on display. If you dedicate some time to it you can get a lot of mileage out of AI, it can help you in the way a highly interactive book would help, with vast amounts of knowledge at the tips of your fingers. As long as you are wary of the inevitable hallucinations and the AI’s tendency to get stuck in loops. Because the one thing that we have not yet managed to program in there is the ability to be humble: to realize that no matter how much knowledge you’ve got you don’t know everything. So “I don’t know” is not on the menu. It is not the kind of thing I have seen as output from the various AI offerings.",
-    "Confidence": 0.9756119
-  },
-  {
-    "Title": "Low-tech for kids manifesto - Michał Ćwiok",
-    "Url": "https://cwiok.pl/index.php/en/2026/01/04/low-tech-for-kids-manifesto/",
-    "Timestamp": "2026-01-05T01:03:29",
-    "Domain": "cwiok.pl",
-    "Description": "Raising your kid without ever showing it a cartoon and limiting the screen time to zero is for sure possible, but carries a risk of it being an outcast. If we like it or not, kids will talk about shows, characters and recent trends and I feel that to some extent it is important to expose your kids to that. At the same time I want to make sure my kid avoids the never-ending recommendation feed that will keep it hooked. To get that I reached back to somewhat forgotten tech that still works and can be given to kids without any risk. Low-tech can give kids agency, without all the overhead of psyop doomscroll brainrot algorithm manipulation overhead.",
-    "Confidence": 0.948501
-  },
-  {
-    "Title": "The Hardest Part of My Side Project Isn't the Code",
-    "Url": "https://threekindwords.com/blog/the-hardest-part-of-my-side-project-isnt-the-code/",
-    "Timestamp": "2026-01-05T01:03:24",
-    "Domain": "threekindwords.com",
-    "Description": "When I kicked off this project at the beginning of the year, I set a goal for myself: send 300 kind words by the end of 2025. I’m happy to report that I hit that milestone on December 2nd. The 100th order was for the words “Dreams come true,” which kinda feels like a testament to what I’m trying to do here. Seeing that made me smile.",
-    "Confidence": 0.9214812
-  },
-  {
-    "Title": "Education after ChatGPT",
-    "Url": "https://loukidelis.com/2026/01/04/education-and-ai.html",
-    "Timestamp": "2026-01-05T01:03:20",
-    "Domain": "loukidelis.com",
-    "Description": "A few times now, I have heard people bring up Socrates' suspicion of writing in the context of the impact of AI on learning. As a defense of AI, the point is that people (even wise people like Socrates) have long been concerned about the impact of technologies on the human mind, and in hindsight these concerns usually look silly. AI fears may be partly a moral panic. Still, AI is having an impact on learning in specific and undeniable ways. ChatGPT can write an essay better than many high school and university students, it seems, and many students are all too happy to outsource their essay writing–and critical thinking–to it. Teachers are struggling to prove that essays have been written by AI, and so the value of the whole rigmarole of essay writing and grading seems to be in question. Socrates thought that dialogue was superior to reading and writing for the development of the mind. In 2026, when everything is being thrown into question, this old idea might have fresh salience. In the same way that calculators made mental math (somewhat) obsolete, maybe LLMs, essentially information regurgitation machines, have made this standard part of education obsolete also. Should classrooms return to the Socratic method of education? I have to admit I love to imagine it, and I probably would have liked for my own education to have included more open-ended dialogue and less information regurgitation. I can’t say exactly how this would work and scale. One benefit of written essays is that they can be graded en masse. Maybe traditional grading systems will also have to be reworked in response to the AI disruption. What I do believe strongly is that nothing should be off the table.",
-    "Confidence": 0.8842689
-  },
-  {
-    "Title": "Democracy Will Not Survive the Age of Consumption",
-    "Url": "https://kasurian.com/p/democracy-will-not-survive-consumption",
-    "Timestamp": "2026-01-05T01:03:17",
-    "Domain": "kasurian.com",
-    "Description": "The productive minority sustains democracy, which increasingly favours the consumptive majority. Only one can win.",
-    "Confidence": 0.8521947
-  },
-  {
-    "Title": "Who Owns the Memory? Part 2: Who Calls Free? | Luca Lombardo",
-    "Url": "https://lukefleed.xyz/posts/who-owns-the-memory-pt2/",
-    "Timestamp": "2026-01-05T01:03:07",
-    "Domain": "lukefleed.xyz",
-    "Description": "Destructors, RAII, and the ownership question.",
-    "Confidence": 0.9969133
-  },
-  {
-    "Title": "I don't use the term technical debt",
-    "Url": "https://charemza.name/blog/posts/software/communication/I-dont-use-the-term-technical-debt-and-neither-should-you/",
-    "Timestamp": "2026-01-05T01:02:56",
-    "Domain": "charemza.name",
-    "Description": "And neither should you",
-    "Confidence": 0.93399835
-  },
-  {
-    "Title": "GLSL Web CRT Shader  ⌘I  Get Info",
-    "Url": "https://blog.gingerbeardman.com/2026/01/04/glsl-web-crt-shader/",
-    "Timestamp": "2026-01-05T01:02:53",
-    "Domain": "blog.gingerbeardman.com",
-    "Description": "I’m releasing my GLSL Web CRT Shader as open source.",
-    "Confidence": 0.89587504
-  },
-  {
-    "Title": "Distinguishing yourself early in your career as a developer",
-    "Url": "https://notes.eatonphil.com/2026-01-03-distinguishing-yourself.html",
-    "Timestamp": "2026-01-05T01:02:49",
-    "Domain": "notes.eatonphil.com",
-    "Description": "Distinguishing yourself early in your career as a developer",
-    "Confidence": 0.99507356
-  },
-  {
-    "Title": "Sven Malvik - Portfolio",
-    "Url": "https://malvik.de/blog/claude-code-skills",
-    "Timestamp": "2026-01-05T01:02:45",
-    "Domain": "malvik.de",
-    "Description": "Personal portfolio of Sven Malvik. Building Vissper AI meeting companion and Malfi personal finance app.",
-    "Confidence": 0.9769175
-  },
-  {
-    "Title": "A Small Time Review of Clickhouse",
-    "Url": "https://www.wkrp.xyz/a-small-time-review-of-clickhouse/",
-    "Timestamp": "2026-01-05T01:02:42",
-    "Domain": "www.wkrp.xyz",
-    "Description": "How Small Time?\n\nClickhouse powers the back-end for Old School Snitch, a plugin for the game Old School Runescape which tracks individual XP gains, item drops, and in-game character locations for roughly 100 users. Old School Snitch is a hobby project of mine, so I live with minor downtime during",
-    "Confidence": 0.99547964
-  },
-  {
-    "Title": "Snakes & ladders: a short statistical analysis - Emir's blog",
-    "Url": "https://emiruz.com/post/2026-01-04-snakes-and-ladders/",
-    "Timestamp": "2026-01-05T01:02:38",
-    "Domain": "emiruz.com",
-    "Description": "Snakes & ladders is a\nclassic board game, originally imported into the United Kingdom from India\ncirca 1890 according to Wikipedia. Its a square grid numbered row wise from\n1-100, with some of the cells connected together either by a snake or a ladder.\nPlayers roll a dice and then advance that many steps. If a player lands on the\nhead of a snake or the foot of a ladder they are transported to the respective\nother end. The objective is to get to or (past) the last cell.",
-    "Confidence": 0.9654649
-  },
-  {
-    "Title": "Moving to Linux after 10 years of Mac — by Adrian Unger",
-    "Url": "https://staydecent.ca/blog/moving-to-linux-after-10-years-of-mac/",
-    "Timestamp": "2026-01-05T01:02:35",
-    "Domain": "staydecent.ca",
-    "Description": "January 4, 2026",
-    "Confidence": 0.96909815
-  },
-  {
-    "Title": "Stop Taking Your Startup Failures Personally",
-    "Url": "https://gilad.is/posts/dont-take-personally",
-    "Timestamp": "2026-01-05T01:02:31",
-    "Domain": "gilad.is",
-    "Description": "It’s business, not personal.",
-    "Confidence": 0.9715551
-  },
-  {
-    "Title": "The real-time event tracker I want | Telesink",
-    "Url": "https://telesink.com/blog/the-real-time-event-tracker-i-want",
-    "Timestamp": "2026-01-05T01:02:28",
-    "Domain": "telesink.com",
-    "Description": "Why existing tools fall short for a simple real-time view of key product events, and the vision for a dedicated solution.",
-    "Confidence": 0.9497442
-  },
-  {
-    "Title": "I Built a Transcription App Over Christmas PTO",
-    "Url": "https://alexmason.me/blog/2026-01-04-i-built-a-transcription-app-over-christmas-pto/",
-    "Timestamp": "2026-01-05T01:02:24",
-    "Domain": "alexmason.me",
-    "Description": "A deep dive into my experience building a transcription app from idea conception to realizing that it had potential.",
-    "Confidence": 0.9850903
-  },
-  {
-    "Title": "Web development is fun again",
-    "Url": "https://ma.ttias.be/web-development-is-fun-again/",
-    "Timestamp": "2026-01-05T01:02:20",
-    "Domain": "ma.ttias.be",
-    "Description": "AI tools brought me back to levels of productivity I haven't felt in years. Web development is fun again.",
-    "Confidence": 0.9969075
-  },
-  {
-    "Title": "Let's Build Rad Shit Together",
-    "Url": "https://trond.ai/p/lets-build-rad-shit-together",
-    "Timestamp": "2026-01-05T01:02:17",
-    "Domain": "trond.ai",
-    "Description": "The real magic happens at the intersection of building to learn and solving problems that matter. Let's talk about what it means to build products people love in an AI world.",
-    "Confidence": 0.96934974
   }
 ]
