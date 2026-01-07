@@ -7,6 +7,72 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.</title>
+      <link>https://github.com/rberg27/doom-coding</link>
+      <description>A guide for how to use your smartphone to code anywhere at anytime.  - GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.</description>
+      <category>sql</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://github.com/rberg27/doom-coding</guid>
+      <pubDate>Wed, 07 Jan 2026 02:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Indirect Rendering // Vulkan For Beginners #27</title>
+      <link>https://youtube.com/watch?v=f0aT0ifRo-k</link>
+      <description>In this video we learn how to implement Indirect Rendering in Vulkan. This implementation is based on Descriptor Indexing from the previous video.
+
+🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).
+
+📚 Timecodes 📚
+0:00 Intro 
+0:36 Background
+0:58 Recap on asset loading
+3:40 Indirect Rendering
+4:47 Vertex/Index/Uniform buffer offsets
+7:07 New pipeline class
+8:45 Indirect buffer
+11:02 vkCmdDrawIndirect
+12:09 Enabling Indirect Rendering
+12:31 Outro
+
+Make sure to watch all the previous tutorials in the "Vulkan For Beginners" playlist at https://www.youtube.com/playlist?list=PLA0dXqQjCx0RntJy1pqje9uHRF1Z5vZgA
+
+Please visit https://ogldev.org to see more of my tutorials on modern OpenGL.
+
+🔥Link to source: 
+https://github.com/emeiri/ogldev/tree/master/Vulkan/Tutorial27
+If you want to get the same version of the code that was used in the video checkout the tag 'VULKAN_27'
+
+Feel free to comment below.
+
+🔗Contacts:
+🔹Email: ogldev1@gmail.com
+🔹Instagram: @ogldev1
+🔹Github: https://github.com/emeiri/ogldev.git
+🔹TikTok - https://www.tiktok.com/@ogldev
+🔹Twitter: @ogldev
+🔹Discord: https://discord.gg/CZdVwZgTYk
+🔹One time donations (Paypal): https://ogldev.org/donate.html
+🔹Patreon: https://www.patreon.com/ogldev
+
+🙏Credits:
+🔹Blackboard image from https://Pixabay.com
+🔹"Tropic Fuse" by French Fuse - Youtube Audio Library
+
+Enjoy,
+
+Etay Meiri
+
+#vulkan</description>
+      <author> (OGLDEV)</author>
+      <category>git</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://youtube.com/watch?v=f0aT0ifRo-k</guid>
+      <pubDate>Wed, 07 Jan 2026 02:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Making Money From What You Care About</title>
       <link>https://www.vincentschmalbach.com/making-money-from-what-you-care-about/</link>
       <description>There’s this idea floating around that if you’re top 1% at anything, you’ll make money. It sounds nice but it’s not quite true. What is true: being exceptional creates options. It doesn’t guarantee…</description>
@@ -360,13 +426,6 @@ If things go our way, YouTube’s notorious unskippable ads might be a thing of 
       <category>javascript</category>
       <guid>https://xkcd.com/3190/</guid>
       <pubDate>Tue, 06 Jan 2026 04:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Broke My Heart | Perishable Press</title>
-      <link>https://perishablepress.com/google-broke-my-heart/</link>
-      <description>For years, I thought of Google as a trustworthy helper on the Web. Especially where it mattered most, removing pirated copies of my books from Google...</description>
-      <guid>https://perishablepress.com/google-broke-my-heart/</guid>
-      <pubDate>Tue, 06 Jan 2026 02:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
