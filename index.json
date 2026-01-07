@@ -1,5 +1,229 @@
 [
   {
+    "Title": "Making Money From What You Care About",
+    "Url": "https://www.vincentschmalbach.com/making-money-from-what-you-care-about/",
+    "Timestamp": "2026-01-07T01:04:31",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "There’s this idea floating around that if you’re top 1% at anything, you’ll make money. It sounds nice but it’s not quite true. What is true: being exceptional creates options. It doesn’t guarantee…",
+    "Confidence": 0.9801547
+  },
+  {
+    "Title": "ASI Is a Risk to Our Digital Way of Life, Not Human Survival",
+    "Url": "https://www.hgarrett.me/p/asi-is-a-risk-to-our-digital-way-of-life-not-human-survival",
+    "Timestamp": "2026-01-07T01:04:26",
+    "Domain": "www.hgarrett.me",
+    "Description": "The current media narrative pushes AI advancement as potentially human civilization ending. However, it's much more likely that it is digital civilization ending.",
+    "Confidence": 0.9583607
+  },
+  {
+    "Title": "The AI Pushback Problem - When Skepticism Becomes Sabotage",
+    "Url": "https://andreyandrade.com/static/ai-pushback/",
+    "Timestamp": "2026-01-07T01:04:22",
+    "Domain": "andreyandrade.com",
+    "Description": "AI companies are training models to disagree with users. But there's a difference between being helpful and being a pedantic contrarian.",
+    "Confidence": 0.9901209
+  },
+  {
+    "Title": "Take care of yourself first",
+    "Url": "https://jonpauluritis.com/articles/take-care-of-yourself-first/",
+    "Timestamp": "2026-01-07T01:04:18",
+    "Domain": "jonpauluritis.com",
+    "Description": "Life's most important moments, the ones who shape us and determine our success or failure by our own definitions largely occur when individuals are under pressure and stress",
+    "Confidence": 0.97721493
+  },
+  {
+    "Title": "Opus 4.5 is going to change everything",
+    "Url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "Timestamp": "2026-01-07T01:04:15",
+    "Domain": "burkeholland.github.io",
+    "Description": "Three months ago I would have dismissed claims that AI could replace developers. Today, after using Claude Opus 4.5, I believe AI coding agents can absolutely replace developers.",
+    "Confidence": 0.9929104
+  },
+  {
+    "Title": "Customize your fedora with a Dockerfile",
+    "Url": "https://blog.piaseczny.dev/posts/bootc/",
+    "Timestamp": "2026-01-07T01:04:11",
+    "Domain": "blog.piaseczny.dev",
+    "Description": "A gentle introduction to bootable containers",
+    "Confidence": 0.9958706
+  },
+  {
+    "Title": "Deep Agents at Scale: The Three Problems You Can’t Ignore",
+    "Url": "https://www.bolshchikov.com/p/deep-agents-at-scale",
+    "Timestamp": "2026-01-07T01:04:06",
+    "Domain": "www.bolshchikov.com",
+    "Description": "Why context size alone doesn’t solve production agents — and how real systems handle unbounded data, parallel reasoning, and reliable output.",
+    "Confidence": 0.9861552
+  },
+  {
+    "Title": "The Influentists",
+    "Url": "https://carette.xyz/posts/influentists/",
+    "Timestamp": "2026-01-07T01:04:02",
+    "Domain": "carette.xyz",
+    "Description": "Why we are losing technical rigor to social hype",
+    "Confidence": 0.88789886
+  },
+  {
+    "Title": "Sven Malvik - Portfolio",
+    "Url": "https://malvik.de/blog/vissper-oss",
+    "Timestamp": "2026-01-07T01:03:56",
+    "Domain": "malvik.de",
+    "Description": "Personal portfolio of Sven Malvik. Building Vissper AI meeting companion and Malfi personal finance app.",
+    "Confidence": 0.9826043
+  },
+  {
+    "Title": "Growing Engineering Managers | Gergely Nemeth",
+    "Url": "https://nemethgergely.com/blog/growing-engineering-managers",
+    "Timestamp": "2026-01-07T01:03:52",
+    "Domain": "nemethgergely.com",
+    "Description": "Growing engineering managers takes months (if not years) of intentional work—career conversations, shared reading, real apprenticeship—before they're ready for the role.",
+    "Confidence": 0.97374195
+  },
+  {
+    "Title": "Nineteen Septillion Addresses - Setting up an ASN, obtaining IP addresses, and finding my way around the internet",
+    "Url": "https://alastairbarber.com/Setting-Up-ASN-IPv6-Routing-BIRD-Teltonika-Router-Wireguard/",
+    "Timestamp": "2026-01-07T01:03:49",
+    "Domain": "alastairbarber.com",
+    "Description": "Here’s the story of AS202858.",
+    "Confidence": 0.990742
+  },
+  {
+    "Title": "Wait, You Can Unpack That with Structured Bindings?? | JJ Marr",
+    "Url": "https://jjmarr.com/blog/structured-bindings-structs/",
+    "Timestamp": "2026-01-07T01:03:46",
+    "Domain": "jjmarr.com",
+    "Description": "Most C++ devs know structured bindings from std::pair. But you can use them on plain structs, arrays, and more. Here's what you're missing.",
+    "Confidence": 0.9695518
+  },
+  {
+    "Title": "Surprise! A derivation of entropy",
+    "Url": "https://iahmed.me/post/surprise-derivation-entropy/",
+    "Timestamp": "2026-01-07T01:03:42",
+    "Domain": "iahmed.me",
+    "Description": "In this post, I will derive entropy from first principles. This requires no more than a high school-level understanding of mathematics. This derivation is based on Shannon’s original seminal paper, A mathematical theory of communication.\nA derivation\nThe conditions\nWe want a function, $H(n)$, which measures the uncertainty in a system in which we chose one of $n$ events that can occur. We would want it to exhibit the following three properties:",
+    "Confidence": 0.9888862
+  },
+  {
+    "Title": "A Letter of Feedback To Anyone Who Makes Software I Use",
+    "Url": "https://blog.jim-nielsen.com/2026/feedback-for-those-who-make-software/",
+    "Timestamp": "2026-01-07T01:03:37",
+    "Domain": "blog.jim-nielsen.com",
+    "Description": "Writing about the big beautiful mess that is making things for the world wide web.",
+    "Confidence": 0.982017
+  },
+  {
+    "Title": "Mobile development with opencode | Yoav Shai",
+    "Url": "https://yoav.hasha.men/blog/mobile-cc/",
+    "Timestamp": "2026-01-07T01:03:34",
+    "Domain": "yoav.hasha.men",
+    "Description": "(of the kind that allows you to develop on your phone; not for it)",
+    "Confidence": 0.9983659
+  },
+  {
+    "Title": "The End of Something",
+    "Url": "https://www.nurbaysal.com/the-end-of-something/",
+    "Timestamp": "2026-01-07T01:03:29",
+    "Domain": "www.nurbaysal.com",
+    "Description": "As I sit here in Cyprus, having just moved to a new country for the fourth time in my adult life, I find myself thinking about who I was at 19 - a nerdy, scholarly girl in Germany reading Mises, Rothbard, Hayek. Until I was 17 or 18, I didn't",
+    "Confidence": 0.62363076
+  },
+  {
+    "Title": "Dashboards are bad (and you should feel bad)",
+    "Url": "https://dogdogfish.com/blog/2026/01/06/dashboards-are-bad/",
+    "Timestamp": "2026-01-07T01:03:26",
+    "Domain": "dogdogfish.com",
+    "Description": "For years and years I’ve been referencing a particularly excellent blog post - The laws of shitty dashboards - and I’ve finally decided to write something myself about why dashboards are bad, and why you should feel bad about either asking for them, or, God forbid, actually making them.",
+    "Confidence": 0.99223256
+  },
+  {
+    "Title": "LLM's shouldn't always land the plane.",
+    "Url": "https://blog.jakesaunders.dev/llms-shouldnt-always-land-the-plane./",
+    "Timestamp": "2026-01-07T01:03:23",
+    "Domain": "blog.jakesaunders.dev",
+    "Description": "Pilot's have already learned that we can't delegate all the routine work to computers. Do software engineers need to learn the same lesson?",
+    "Confidence": 0.96385527
+  },
+  {
+    "Title": "Jay Sahnan",
+    "Url": "https://jaysahnan.com/blog/how-do-llms-generate-text",
+    "Timestamp": "2026-01-07T01:03:18",
+    "Domain": "jaysahnan.com",
+    "Description": "Made with Love by Jay Sahnan",
+    "Confidence": 0.95375246
+  },
+  {
+    "Title": "Backporting Liquid Glass",
+    "Url": "https://jamesrandolph.me/tg-contest-2025",
+    "Timestamp": "2026-01-07T01:03:15",
+    "Domain": "jamesrandolph.me",
+    "Description": "I backported Liquid Glass for a Telegram Contest. Here’s how I did it.",
+    "Confidence": 0.9834513
+  },
+  {
+    "Title": "thegeez blog - A bird video poker game with PicoLisp prototype for the Sensor Watch",
+    "Url": "https://thegeez.net/2026/01/05/watch_bird_poker_picolisp.html",
+    "Timestamp": "2026-01-07T01:03:12",
+    "Domain": "thegeez.net",
+    "Description": "05 Jan 2026",
+    "Confidence": 0.9882395
+  },
+  {
+    "Title": "January 2026: Synthesis is the new bottleneck",
+    "Url": "https://writing.kunle.app/p/synthesis-is-a-new-bottleneck",
+    "Timestamp": "2026-01-07T01:03:08",
+    "Domain": "writing.kunle.app",
+    "Description": "We’re in a time where you can produce far faster than you can understand",
+    "Confidence": 0.97661793
+  },
+  {
+    "Title": "ESP32 as a Controller for UART Consoles & Remote Power-On/Off Events - Mark McBride",
+    "Url": "https://markmcb.com/hardware/esp32-uart-console-power-controller/",
+    "Timestamp": "2026-01-07T01:03:04",
+    "Domain": "markmcb.com",
+    "Description": "How to wire up a PoE-powered ESP32 device and program it to control access to UART consoles and power events like reboots.",
+    "Confidence": 0.9975244
+  },
+  {
+    "Title": "Brendon A. Kay - Slow is Smooth, Smooth is Fast",
+    "Url": "https://brendonakay.github.io/posts/2025-12-02-slow-is-steady.html",
+    "Timestamp": "2026-01-07T01:02:58",
+    "Domain": "brendonakay.github.io",
+    "Description": "Software Engineer specializing in backend systems and functional programming.",
+    "Confidence": 0.9613435
+  },
+  {
+    "Title": "Revisiting Manager READMEs",
+    "Url": "https://www.elidedbranches.com/2025/11/revisiting-manager-readmes.html",
+    "Timestamp": "2026-01-07T01:02:54",
+    "Domain": "www.elidedbranches.com",
+    "Description": "Technology, startups, programming, technical management and software architecture",
+    "Confidence": 0.9769011
+  },
+  {
+    "Title": "Improving the Flatpak Graphics Drivers Situation",
+    "Url": "https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/",
+    "Timestamp": "2026-01-07T01:02:51",
+    "Domain": "blog.sebastianwick.net",
+    "Description": "Graphics drivers in Flatpak have been a bit of a pain point. The drivers have to be built against the runtime to work in the runtime. This usually isn’t much of an issue but it breaks down in two cases:\nIf the driver depends on a specific kernel version If the runtime is end-of-life (EOL) The first issue is what the proprietary Nvidia drivers exhibit. A specific user space driver requires a specific kernel driver. For drivers in Mesa, this isn’t an issue. In the medium term, we might get lucky here and the Mesa-provided Nova driver might become competitive with the proprietary driver. Not all hardware will be supported though, and some people might need CUDA or other proprietary features, so this problem likely won’t go away completely.",
+    "Confidence": 0.9969357
+  },
+  {
+    "Title": "So You Didn't Buy a Raspberry Pi: Step 1",
+    "Url": "https://interfacinglinux.com/2026/01/05/so-you-didnt-buy-a-raspberry-pi-step-1/",
+    "Timestamp": "2026-01-07T01:02:46",
+    "Domain": "interfacinglinux.com",
+    "Description": "If you buy a Raspberry Pi, the order of operations is simple. But what if you buy a NotRaspberryPi™?",
+    "Confidence": 0.973449
+  },
+  {
+    "Title": "Visual regression tests for my website",
+    "Url": "https://marending.dev/notes/visual-testing/",
+    "Timestamp": "2026-01-07T01:02:41",
+    "Domain": "marending.dev",
+    "Description": "Gaining confidence in refactorings",
+    "Confidence": 0.9962988
+  },
+  {
     "Title": "VW's New Year's Resolution Is to Bring Back Physical Buttons, Including a Volume Knob",
     "Url": "https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/",
     "Timestamp": "2026-01-06T23:02:13",
@@ -102,189 +326,5 @@
     "Domain": "perishablepress.com",
     "Description": "For years, I thought of Google as a trustworthy helper on the Web. Especially where it mattered most, removing pirated copies of my books from Google...",
     "Confidence": 0.95292336
-  },
-  {
-    "Title": "2026 is the Year of Self-hosting",
-    "Url": "https://fulghum.io/self-hosting",
-    "Timestamp": "2026-01-06T01:03:30",
-    "Domain": "fulghum.io",
-    "Description": "CLI agents like Claude Code make self-hosting dramatically easier and actually fun. This is the first time I would recommend it to normal software-literate people.",
-    "Confidence": 0.98420364
-  },
-  {
-    "Title": "Agent Orchestration is Not the Future",
-    "Url": "https://moridinamael.github.io/agent-orchestration/",
-    "Timestamp": "2026-01-06T01:03:27",
-    "Domain": "moridinamael.github.io",
-    "Description": "My personal GitHub page.",
-    "Confidence": 0.96184725
-  },
-  {
-    "Title": "How I program without syntax highlighting",
-    "Url": "https://hakon.gylterud.net/opinion/syntax-highlighting.html",
-    "Timestamp": "2026-01-06T01:03:24",
-    "Domain": "hakon.gylterud.net",
-    "Description": "For more than a year I have been without syntax highlighting. My\neditor of choice, acme, simply does not have it and I actually prefer it\nthat way. Some would explain this as an instance of the Stockholm\nsyndrome, or some strange form of hipsterism. However, I think there are\nsome valid advantages to not colouring our texts, and so I will put them\nforth.",
-    "Confidence": 0.94337595
-  },
-  {
-    "Title": "There Is No New Aesthetics",
-    "Url": "https://borretti.me/article/there-is-no-new-aesthetics",
-    "Timestamp": "2026-01-06T01:03:19",
-    "Domain": "borretti.me",
-    "Description": "On the exhaustion of man.",
-    "Confidence": 0.7507691
-  },
-  {
-    "Title": "Why Are Experiences Of Vibe Coding So Polarised?",
-    "Url": "http://www.stephen-cresswell.com/2026/01/01/Why-Are-Experiences-Of-Vibe-Coding-So-Polarised.html",
-    "Timestamp": "2026-01-06T01:03:16",
-    "Domain": "www.stephen-cresswell.com",
-    "Description": "A controlled experiment reveals why developers report vastly different experiences with AI coding tools - and what it takes to achieve reliable, high-quality results.",
-    "Confidence": 0.9756157
-  },
-  {
-    "Title": "3 months of using Neovim",
-    "Url": "https://martianlantern.github.io/2026/01/3-months-of-using-neovim/",
-    "Timestamp": "2026-01-06T01:03:13",
-    "Domain": "martianlantern.github.io",
-    "Description": "I have been using neovim for the past 3 months not because I wanted to switch to a new IDE but because my org has a very bureaucratic process to open VS Code or Cursor over SSH, so instead what I usually do is spin up an SSH terminal over http and access it from my personal machine and use neovim as my editor. I will first try to introduce you to neovim and the real juice of it the plugin manager lazy.nvim and then list down my frustrations with it. If you want to learn neovim, I would recommend to start with neovim :Tutor",
-    "Confidence": 0.997622
-  },
-  {
-    "Title": "Choosing the Right Node.js Job Queue",
-    "Url": "https://judoscale.com/blog/node-task-queues",
-    "Timestamp": "2026-01-06T01:03:09",
-    "Domain": "judoscale.com",
-    "Description": "So you've got a Node.js app, and you know what needs to be passed off to a job queue. But do you know what job queuing system to use? Learn how to choose the right one for your needs..",
-    "Confidence": 0.9979599
-  },
-  {
-    "Title": "What Stress Feels Like After Leaving a Salaried Job",
-    "Url": "https://vinitvr.pages.dev/personal-blog/pb-post10/",
-    "Timestamp": "2026-01-06T01:03:06",
-    "Domain": "vinitvr.pages.dev",
-    "Description": "One of the first questions people ask me after hearing that I have quit my corporate job, is almost always the same:\n“How do you handle the stress?”\n“How do you sleep at night knowing there’s no guaranteed paycheck at the end of the month?”\nIt’s a fair question. We’ve been conditioned to believe that a regular salary is the ultimate safety net, and that stepping away from it automatically means living in a constant state of anxiety. But after spending some time on the other side, I’ve realized something important about stress and it’s something that doesn’t get talked about enough.",
-    "Confidence": 0.8816625
-  },
-  {
-    "Title": "On Getting Hacked",
-    "Url": "https://ahmeto.com/post/on-getting-hacked",
-    "Timestamp": "2026-01-06T01:03:03",
-    "Domain": "ahmeto.com",
-    "Description": "On Getting Hacked",
-    "Confidence": 0.90069807
-  },
-  {
-    "Title": " Denied At The Door Of My Own System | KRPTN ",
-    "Url": "https://armandoahir.github.io/2026/Denied-at-the-door-of-My-own-system/",
-    "Timestamp": "2026-01-06T01:02:59",
-    "Domain": "armandoahir.github.io",
-    "Description": " Personal blog. ",
-    "Confidence": 0.97172457
-  },
-  {
-    "Title": "My minimalist AI development setup",
-    "Url": "https://pablomarino.com/research_blog/2026/01/05/research4.html",
-    "Timestamp": "2026-01-06T01:02:55",
-    "Domain": "pablomarino.com",
-    "Description": "Why I came back from Cursor to VS Code",
-    "Confidence": 0.9985114
-  },
-  {
-    "Title": "Rosetta | Yield infrastructure for Hyperliquid",
-    "Url": "https://www.rosetta.sh/blog/how-defi-vaults-actually-earn-yield",
-    "Timestamp": "2026-01-06T01:02:51",
-    "Domain": "www.rosetta.sh",
-    "Description": "Rosetta delivers automated block-level yield routing for Hyperliquid accounts.",
-    "Confidence": 0.86331785
-  },
-  {
-    "Title": "Building Privacy Preserving RAG with Homomorphic Encryption",
-    "Url": "https://www.subhashdasyam.com/2025/11/building-privacy-preserving-rag-with.html",
-    "Timestamp": "2026-01-06T01:02:48",
-    "Domain": "www.subhashdasyam.com",
-    "Description": "A technical blog dedicated to AI Security, RAG architectures, and Container Security. Deep dives into securing Agentic AI and Large Language Models.",
-    "Confidence": 0.9971449
-  },
-  {
-    "Title": "Observability's Past, Present, and Future",
-    "Url": "https://blog.sherwoodcallaway.com/observability-s-past-present-and-future/",
-    "Timestamp": "2026-01-06T01:02:43",
-    "Domain": "blog.sherwoodcallaway.com",
-    "Description": "In my last post, , I wrote about my career, my passion for dev tools, and my decision to start a new company focused on observability.\n\nI also wrote about ...",
-    "Confidence": 0.98202705
-  },
-  {
-    "Title": "Eval Testing LLMs in PHPUnit",
-    "Url": "https://joshhornby.com/eval-testing-llms-in-phpunit",
-    "Timestamp": "2026-01-06T01:02:40",
-    "Domain": "joshhornby.com",
-    "Description": "Prompts break silently. Here’s how to catch regressions with PHPUnit evals before your users do.",
-    "Confidence": 0.9910091
-  },
-  {
-    "Title": "How I Use Claude Code with NeoVim",
-    "Url": "https://www.laktek.com/using-claude-code-with-neovim",
-    "Timestamp": "2026-01-06T01:02:37",
-    "Domain": "www.laktek.com",
-    "Description": "I created an MCP which allows Claude Code to see my NeoVim context and reflect changes.",
-    "Confidence": 0.9922026
-  },
-  {
-    "Title": "Thoughts on Claude Code - Slava Akhmechet",
-    "Url": "https://www.spakhm.com/claude-code",
-    "Timestamp": "2026-01-06T01:02:33",
-    "Domain": "www.spakhm.com",
-    "Description": "Many programmers complain AI is good for quickly throwing up some CRUD apps but not much else. When someone points out this isn’t true, everyone (rightly) asks for examples. There aren’t many posts with detailed examples online, so I thought I’ll offer some from a project I wrote this Christmas.",
-    "Confidence": 0.9936746
-  },
-  {
-    "Title": "The Next Two Years of Software Engineering",
-    "Url": "https://addyosmani.com/blog/next-two-years/",
-    "Timestamp": "2026-01-06T01:02:30",
-    "Domain": "addyosmani.com",
-    "Description": "Exploring five critical questions shaping software engineering through 2026, with contrasting scenarios for each. These lenses help prepare for the evolving ...",
-    "Confidence": 0.9865074
-  },
-  {
-    "Title": "Your README.md is obsolete | Prashant Barahi",
-    "Url": "https://prashantbarahi.com.np/blog/your-readme-md-is-obsolete",
-    "Timestamp": "2026-01-06T01:02:26",
-    "Domain": "prashantbarahi.com.np",
-    "Description": "README.md is that one file in every project that gets the princess treatment from GitHub, GitLab, and other source code hosting platforms.",
-    "Confidence": 0.946145
-  },
-  {
-    "Title": "A Bite of the Forbidden Fruit",
-    "Url": "https://shreyanjain.net/2026/01/01/a-bite-of-the-forbidden.html",
-    "Timestamp": "2026-01-06T01:02:23",
-    "Domain": "shreyanjain.net",
-    "Description": "Where did we leave off last time? In talking about macOS, we discovered many different little things signifying a wider rot. Through that exploration, a few consistent themes emerged.",
-    "Confidence": 0.984959
-  },
-  {
-    "Title": "App Store Slop is Coming :: Pablart",
-    "Url": "https://pablart.com/posts/app-store-slop/",
-    "Timestamp": "2026-01-06T01:02:19",
-    "Domain": "pablart.com",
-    "Description": "AI slop has hit inboxes, search results, and social feeds. Mobile apps are next.",
-    "Confidence": 0.99629843
-  },
-  {
-    "Title": "Statistics made simple",
-    "Url": "https://tonsky.me/blog/clj-simple-stats/",
-    "Timestamp": "2026-01-06T01:02:16",
-    "Domain": "tonsky.me",
-    "Description": "Announcing a simple statistics library for Clojure web servers",
-    "Confidence": 0.9797907
-  },
-  {
-    "Title": "AGI is here (and I feel fine)",
-    "Url": "https://www.robinsloan.com/winter-garden/agi-is-here/",
-    "Timestamp": "2026-01-06T01:02:11",
-    "Domain": "www.robinsloan.com",
-    "Description": "I propose to begin this year with an acknowledgment that is strategic but/and also sincere.",
-    "Confidence": 0.90443
   }
 ]
