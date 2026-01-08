@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tailscale</title>
+      <link>https://tailscale.com/changelog</link>
+      <description>View changes to the Tailscale client and service.</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>android</category>
+      <category>conference</category>
+      <guid>https://tailscale.com/changelog</guid>
+      <pubDate>Thu, 08 Jan 2026 06:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>The Q, K, V Matrices</title>
       <link>https://arpitbhayani.me/blogs/qkv-matrices/</link>
       <description>At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.</description>
