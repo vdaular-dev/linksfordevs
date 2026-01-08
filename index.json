@@ -190,13 +190,5 @@
     "Domain": "github.com",
     "Description": "Add /llms.txt endpoint that serves a concatenated, text-only version of all Tailwind CSS documentation pages optimized for Large Language Model consumption.\n\nExtract text from MDX files, removing J...",
     "Confidence": 0.985581
-  },
-  {
-    "Title": "GitHub - sadopc/unified-db: What if your database didn't need to copy data to the GPU? Exploring Apple Silicon's unified memory architecture for GPU-accelerated SQLite queries.",
-    "Url": "https://github.com/sadopc/unified-db",
-    "Timestamp": "2026-01-07T16:02:14",
-    "Domain": "github.com",
-    "Description": "What if your database didn't need to copy data to the GPU? Exploring Apple Silicon's unified memory architecture for GPU-accelerated SQLite queries. - sadopc/unified-db",
-    "Confidence": 0.98632693
   }
 ]
