@@ -158,29 +158,5 @@
     "Domain": "idiallo.com",
     "Description": "How fast is a horse? I was kinda baffled when I got the answer. For the average horse, one grazing in nature or on a ranch, they can go between 20 to 30 miles per hour. Doesn't that feel slow? What ab",
     "Confidence": 0.9558034
-  },
-  {
-    "Title": "Alex Tardif: Graphics Programmer",
-    "Url": "https://alextardif.com/BindlessProgramming.html",
-    "Timestamp": "2026-01-07T08:02:30",
-    "Domain": "alextardif.com",
-    "Description": "",
-    "Confidence": 0.98816776
-  },
-  {
-    "Title": "State of GPU Hardware (End of Year 2025)",
-    "Url": "https://asawicki.info/articles/state_of_gpu_hardware_2025.php",
-    "Timestamp": "2026-01-07T08:02:26",
-    "Domain": "asawicki.info",
-    "Description": "This is a guest article by Dmytro “Boolka” Bulatov.",
-    "Confidence": 0.9936268
-  },
-  {
-    "Title": "OpenPBR: Novel Features and Implementation Details",
-    "Url": "https://arxiv.org/abs/2512.23696",
-    "Timestamp": "2026-01-07T08:02:21",
-    "Domain": "arxiv.org",
-    "Description": "OpenPBR is a physically based, standardized uber-shader developed for interoperable material authoring and rendering across VFX, animation, and design visualization workflows. This document serves as a companion to the official specification, offering deeper insight into the model's development and more detailed implementation guidance, including code examples and mathematical derivations.\n  We begin with a description of the model's formal structure and theoretical foundations - covering slab-based layering, statistical mixing, and microfacet theory - before turning to its physical components. These include metallic, dielectric, subsurface, and glossy-diffuse base substrates, followed by thin-film iridescence, coat, and fuzz layers. A special-case mode for rendering thin-walled objects is also described.\n  Additional sections explore technical topics in greater depth, such as the decoupling of specular reflectivity from transmission, the choice of parameterization for subsurface scattering, and the detailed physics of coat darkening and thin-film interference. We also discuss planned extensions, including hazy specular reflection and retroreflection.",
-    "Confidence": 0.9742747
   }
 ]
