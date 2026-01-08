@@ -1,1 +1,93 @@
-[]
+[
+  {
+    "Title": "The Q, K, V Matrices",
+    "Url": "https://arpitbhayani.me/blogs/qkv-matrices/",
+    "Timestamp": "2026-01-08T02:03:11",
+    "Domain": "arpitbhayani.me",
+    "Description": "At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up."
+  },
+  {
+    "Title": "Writing an LLM from scratch, part 29 -- using DistributedDataParallel to train a base model from scratch in the cloud",
+    "Url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
+    "Timestamp": "2026-01-08T02:03:05",
+    "Domain": "www.gilesthomas.com",
+    "Description": "Having trained a base model from scratch on my own machine over 48 hours, I wanted to make it faster by training with multiple GPUs in the cloud."
+  },
+  {
+    "Title": "Claude vs Codex in the Messy Middle",
+    "Url": "https://benr.build/blog/claude-vs-codex-messy-middle",
+    "Timestamp": "2026-01-08T02:02:59",
+    "Domain": "benr.build",
+    "Description": "I ran Claude and Codex head-to-head on real work and learned the combo catches what either misses."
+  },
+  {
+    "Title": "The Taste of OpenBSD",
+    "Url": "https://para.bearblog.dev/the-taste-of-openbsd/",
+    "Timestamp": "2026-01-08T02:02:56",
+    "Domain": "para.bearblog.dev",
+    "Description": "I started using OpenBSD last year. I discovered that it has excellent taste. This taste exists because there is no commercial pollution. The system is strict..."
+  },
+  {
+    "Title": "How I Handle My Finances Without a Monthly Salary",
+    "Url": "https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/",
+    "Timestamp": "2026-01-08T02:02:50",
+    "Domain": "vinitvr.pages.dev",
+    "Description": "In my previous post, I talked about learning to deal with stress after walking away from a steady paycheck. This one is less philosophical and more practical. Think of it as me sharing how am I handling things in practice, the nuts and bolts, as I find my footing and explore the path of solopreneurship.\nThe Habit That Changed Everything More than a year before I quit my job at Microsoft, I picked up one habit that turned out to be a lifesaver: tracking my finances."
+  },
+  {
+    "Title": "Is BDD Dying?",
+    "Url": "https://automationpanda.com/2025/03/06/is-bdd-dying/",
+    "Timestamp": "2026-01-08T02:02:46",
+    "Domain": "automationpanda.com",
+    "Description": "People keep asking me if BDD is dead. It’s not, but I sincerely believe that it needs to evolve. Let’s explore what that could look like."
+  },
+  {
+    "Title": "Interesting Articles I've Read in 2025",
+    "Url": "https://bcmullins.github.io/interesting-articles-2025/",
+    "Timestamp": "2026-01-08T02:02:42",
+    "Domain": "bcmullins.github.io",
+    "Description": "Below are some interesting articles I’ve read in 2025. They fall into a few categories: the mathematics of data privacy, popular mathematics, politics, and nineteenth century philosophy. For data privacy, we look at how technical details may be hindering adoption of differential privacy as well as scaling laws for differentially private language models. Next, we look at excellent popular math articles introducing the Collatz conjecture and the Busy Beaver numbers. In politics, we explore paranoid eighteenth century political rhetoric as well as John Maynard Keynes’ reflections on the Liberal party after a disastrous election in 1924. Finally, we look at two philosophical movements in mid-nineteenth century America and an 1875 article on the relation between the verifiability and discoverability of truths.\n\n"
+  },
+  {
+    "Title": "Designing a High-Performance OLTP Database from First Principles",
+    "Url": "https://shubhamrasal.com/writing/tigerbeetle-oltp-design",
+    "Timestamp": "2026-01-08T02:02:39",
+    "Domain": "shubhamrasal.com",
+    "Description": "Shubham Rasal"
+  },
+  {
+    "Title": "With SQLite, INSERT OR IGNORE Is Often Not What You Want",
+    "Url": "https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want",
+    "Timestamp": "2026-01-08T02:02:35",
+    "Domain": "hoelz.ro",
+    "Description": "tl;dr - INSERT OR IGNORE will silently fail if any constraint is violated (even a NOT NULL on a column type!).  If you want to express \"insert this row unless it already exists\", use ON CONFLICT instead."
+  },
+  {
+    "Title": "Building Startups that Last (Part 2 of 5): The Two NECESSARY Company Traits to Win",
+    "Url": "https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/",
+    "Timestamp": "2026-01-08T02:02:31",
+    "Domain": "www.sachinkamdar.com",
+    "Description": "Luck is a huge factor in startup success. But you can't capture luck if you're not around to grab it. Persistence is what keeps you in the game long enough for luck to find you. Intelligence is commoditized in this industry. Persistence is rare."
+  },
+  {
+    "Title": "Devaluation of work",
+    "Url": "https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html",
+    "Timestamp": "2026-01-08T02:02:28",
+    "Domain": "assertfail.gewalli.se",
+    "Description": "I have talked to multiple developers that have told me about getting LLM-generated pull requests. The pain is that we have a situation where you ignore the act of getting code to work and instead focusing on the optics of good enough looking code."
+  },
+  {
+    "Title": "“Bullshit” — The New Way Health Giants Hide Billions",
+    "Url": "https://hntrbrk.com/pbmgpo/",
+    "Timestamp": "2026-01-08T02:02:24",
+    "Domain": "hntrbrk.com",
+    "Description": "Three mysterious entities. Tens of billions in revenue. CVS, UnitedHealth, and Cigna created \"PBM GPO\" subsidiaries to divert billions of dollars."
+  },
+  {
+    "Title": "TurboJSON : JSON basics.",
+    "Url": "https://raphaelouthier.github.io/art/jsn_0_intro/",
+    "Timestamp": "2026-01-08T02:02:18",
+    "Domain": "raphaelouthier.github.io",
+    "Description": "Bases on JSON and how to parse it semi-efficiently."
+  }
+]

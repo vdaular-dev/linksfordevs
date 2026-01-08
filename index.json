@@ -1,5 +1,109 @@
 [
   {
+    "Title": "The Q, K, V Matrices",
+    "Url": "https://arpitbhayani.me/blogs/qkv-matrices/",
+    "Timestamp": "2026-01-08T02:03:11",
+    "Domain": "arpitbhayani.me",
+    "Description": "At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.",
+    "Confidence": 0.99503833
+  },
+  {
+    "Title": "Writing an LLM from scratch, part 29 -- using DistributedDataParallel to train a base model from scratch in the cloud",
+    "Url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
+    "Timestamp": "2026-01-08T02:03:05",
+    "Domain": "www.gilesthomas.com",
+    "Description": "Having trained a base model from scratch on my own machine over 48 hours, I wanted to make it faster by training with multiple GPUs in the cloud.",
+    "Confidence": 0.9857849
+  },
+  {
+    "Title": "Claude vs Codex in the Messy Middle",
+    "Url": "https://benr.build/blog/claude-vs-codex-messy-middle",
+    "Timestamp": "2026-01-08T02:02:59",
+    "Domain": "benr.build",
+    "Description": "I ran Claude and Codex head-to-head on real work and learned the combo catches what either misses.",
+    "Confidence": 0.99212384
+  },
+  {
+    "Title": "The Taste of OpenBSD",
+    "Url": "https://para.bearblog.dev/the-taste-of-openbsd/",
+    "Timestamp": "2026-01-08T02:02:56",
+    "Domain": "para.bearblog.dev",
+    "Description": "I started using OpenBSD last year. I discovered that it has excellent taste. This taste exists because there is no commercial pollution. The system is strict...",
+    "Confidence": 0.9440818
+  },
+  {
+    "Title": "How I Handle My Finances Without a Monthly Salary",
+    "Url": "https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/",
+    "Timestamp": "2026-01-08T02:02:50",
+    "Domain": "vinitvr.pages.dev",
+    "Description": "In my previous post, I talked about learning to deal with stress after walking away from a steady paycheck. This one is less philosophical and more practical. Think of it as me sharing how am I handling things in practice, the nuts and bolts, as I find my footing and explore the path of solopreneurship.\nThe Habit That Changed Everything More than a year before I quit my job at Microsoft, I picked up one habit that turned out to be a lifesaver: tracking my finances.",
+    "Confidence": 0.93250406
+  },
+  {
+    "Title": "Is BDD Dying?",
+    "Url": "https://automationpanda.com/2025/03/06/is-bdd-dying/",
+    "Timestamp": "2026-01-08T02:02:46",
+    "Domain": "automationpanda.com",
+    "Description": "People keep asking me if BDD is dead. It’s not, but I sincerely believe that it needs to evolve. Let’s explore what that could look like.",
+    "Confidence": 0.9900505
+  },
+  {
+    "Title": "Interesting Articles I've Read in 2025",
+    "Url": "https://bcmullins.github.io/interesting-articles-2025/",
+    "Timestamp": "2026-01-08T02:02:42",
+    "Domain": "bcmullins.github.io",
+    "Description": "Below are some interesting articles I’ve read in 2025. They fall into a few categories: the mathematics of data privacy, popular mathematics, politics, and nineteenth century philosophy. For data privacy, we look at how technical details may be hindering adoption of differential privacy as well as scaling laws for differentially private language models. Next, we look at excellent popular math articles introducing the Collatz conjecture and the Busy Beaver numbers. In politics, we explore paranoid eighteenth century political rhetoric as well as John Maynard Keynes’ reflections on the Liberal party after a disastrous election in 1924. Finally, we look at two philosophical movements in mid-nineteenth century America and an 1875 article on the relation between the verifiability and discoverability of truths.\n\n",
+    "Confidence": 0.9331351
+  },
+  {
+    "Title": "Designing a High-Performance OLTP Database from First Principles",
+    "Url": "https://shubhamrasal.com/writing/tigerbeetle-oltp-design",
+    "Timestamp": "2026-01-08T02:02:39",
+    "Domain": "shubhamrasal.com",
+    "Description": "Shubham Rasal",
+    "Confidence": 0.97058886
+  },
+  {
+    "Title": "With SQLite, INSERT OR IGNORE Is Often Not What You Want",
+    "Url": "https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want",
+    "Timestamp": "2026-01-08T02:02:35",
+    "Domain": "hoelz.ro",
+    "Description": "tl;dr - INSERT OR IGNORE will silently fail if any constraint is violated (even a NOT NULL on a column type!).  If you want to express \"insert this row unless it already exists\", use ON CONFLICT instead.",
+    "Confidence": 0.9730213
+  },
+  {
+    "Title": "Building Startups that Last (Part 2 of 5): The Two NECESSARY Company Traits to Win",
+    "Url": "https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/",
+    "Timestamp": "2026-01-08T02:02:31",
+    "Domain": "www.sachinkamdar.com",
+    "Description": "Luck is a huge factor in startup success. But you can't capture luck if you're not around to grab it. Persistence is what keeps you in the game long enough for luck to find you. Intelligence is commoditized in this industry. Persistence is rare.",
+    "Confidence": 0.97876775
+  },
+  {
+    "Title": "Devaluation of work",
+    "Url": "https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html",
+    "Timestamp": "2026-01-08T02:02:28",
+    "Domain": "assertfail.gewalli.se",
+    "Description": "I have talked to multiple developers that have told me about getting LLM-generated pull requests. The pain is that we have a situation where you ignore the act of getting code to work and instead focusing on the optics of good enough looking code.",
+    "Confidence": 0.9891543
+  },
+  {
+    "Title": "“Bullshit” — The New Way Health Giants Hide Billions",
+    "Url": "https://hntrbrk.com/pbmgpo/",
+    "Timestamp": "2026-01-08T02:02:24",
+    "Domain": "hntrbrk.com",
+    "Description": "Three mysterious entities. Tens of billions in revenue. CVS, UnitedHealth, and Cigna created \"PBM GPO\" subsidiaries to divert billions of dollars.",
+    "Confidence": 0.53011566
+  },
+  {
+    "Title": "TurboJSON : JSON basics.",
+    "Url": "https://raphaelouthier.github.io/art/jsn_0_intro/",
+    "Timestamp": "2026-01-08T02:02:18",
+    "Domain": "raphaelouthier.github.io",
+    "Description": "Bases on JSON and how to parse it semi-efficiently.",
+    "Confidence": 0.9949682
+  },
+  {
     "Title": "Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer | Fortune",
     "Url": "https://fortune.com/article/does-ai-increase-workplace-productivity-experiment-software-developers-task-took-longer/",
     "Timestamp": "2026-01-07T21:02:20",
@@ -70,21 +174,5 @@
     "Domain": "arxiv.org",
     "Description": "OpenPBR is a physically based, standardized uber-shader developed for interoperable material authoring and rendering across VFX, animation, and design visualization workflows. This document serves as a companion to the official specification, offering deeper insight into the model's development and more detailed implementation guidance, including code examples and mathematical derivations.\n  We begin with a description of the model's formal structure and theoretical foundations - covering slab-based layering, statistical mixing, and microfacet theory - before turning to its physical components. These include metallic, dielectric, subsurface, and glossy-diffuse base substrates, followed by thin-film iridescence, coat, and fuzz layers. A special-case mode for rendering thin-walled objects is also described.\n  Additional sections explore technical topics in greater depth, such as the decoupling of specular reflectivity from transmission, the choice of parameterization for subsurface scattering, and the detailed physics of coat darkening and thin-film interference. We also discuss planned extensions, including hazy specular reflection and retroreflection.",
     "Confidence": 0.9742747
-  },
-  {
-    "Title": "GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.",
-    "Url": "https://github.com/rberg27/doom-coding",
-    "Timestamp": "2026-01-07T02:02:12",
-    "Domain": "github.com",
-    "Description": "A guide for how to use your smartphone to code anywhere at anytime.  - GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.",
-    "Confidence": 0.9978409
-  },
-  {
-    "Title": "Indirect Rendering // Vulkan For Beginners #27",
-    "Url": "https://youtube.com/watch?v=f0aT0ifRo-k",
-    "Timestamp": "2026-01-07T02:02:06",
-    "Domain": "youtube.com",
-    "Description": "In this video we learn how to implement Indirect Rendering in Vulkan. This implementation is based on Descriptor Indexing from the previous video.\n\n🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).\n\n📚 Timecodes 📚\n0:00 Intro \n0:36 Background\n0:58 Recap on asset loading\n3:40 Indirect Rendering\n4:47 Vertex/Index/Uniform buffer offsets\n7:07 New pipeline class\n8:45 Indirect buffer\n11:02 vkCmdDrawIndirect\n12:09 Enabling Indirect Rendering\n12:31 Outro\n\nMake sure to watch all the previous tutorials in the \"Vulkan For Beginners\" playlist at https://www.youtube.com/playlist?list=PLA0dXqQjCx0RntJy1pqje9uHRF1Z5vZgA\n\nPlease visit https://ogldev.org to see more of my tutorials on modern OpenGL.\n\n🔥Link to source: \nhttps://github.com/emeiri/ogldev/tree/master/Vulkan/Tutorial27\nIf you want to get the same version of the code that was used in the video checkout the tag 'VULKAN_27'\n\nFeel free to comment below.\n\n🔗Contacts:\n🔹Email: ogldev1@gmail.com\n🔹Instagram: @ogldev1\n🔹Github: https://github.com/emeiri/ogldev.git\n🔹TikTok - https://www.tiktok.com/@ogldev\n🔹Twitter: @ogldev\n🔹Discord: https://discord.gg/CZdVwZgTYk\n🔹One time donations (Paypal): https://ogldev.org/donate.html\n🔹Patreon: https://www.patreon.com/ogldev\n\n🙏Credits:\n🔹Blackboard image from https://Pixabay.com\n🔹\"Tropic Fuse\" by French Fuse - Youtube Audio Library\n\nEnjoy,\n\nEtay Meiri\n\n#vulkan",
-    "Confidence": 0.99800575
   }
 ]

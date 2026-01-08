@@ -7,6 +7,137 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Q, K, V Matrices</title>
+      <link>https://arpitbhayani.me/blogs/qkv-matrices/</link>
+      <description>At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.</description>
+      <category>python</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://arpitbhayani.me/blogs/qkv-matrices/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 29 -- using DistributedDataParallel to train a base model from scratch in the cloud</title>
+      <link>https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud</link>
+      <description>Having trained a base model from scratch on my own machine over 48 hours, I wanted to make it faster by training with multiple GPUs in the cloud.</description>
+      <author> (Giles Thomas)</author>
+      <category>linux</category>
+      <category>ai</category>
+      <category>conference</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud</guid>
+      <pubDate>Thu, 08 Jan 2026 02:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude vs Codex in the Messy Middle</title>
+      <link>https://benr.build/blog/claude-vs-codex-messy-middle</link>
+      <description>I ran Claude and Codex head-to-head on real work and learned the combo catches what either misses.</description>
+      <author> (Ben Redmond)</author>
+      <category>sql</category>
+      <category>typescript</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://benr.build/blog/claude-vs-codex-messy-middle</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Taste of OpenBSD</title>
+      <link>https://para.bearblog.dev/the-taste-of-openbsd/</link>
+      <description>I started using OpenBSD last year. I discovered that it has excellent taste. This taste exists because there is no commercial pollution. The system is strict...</description>
+      <guid>https://para.bearblog.dev/the-taste-of-openbsd/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Handle My Finances Without a Monthly Salary</title>
+      <link>https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/</link>
+      <description>In my previous post, I talked about learning to deal with stress after walking away from a steady paycheck. This one is less philosophical and more practical. Think of it as me sharing how am I handling things in practice, the nuts and bolts, as I find my footing and explore the path of solopreneurship.
+The Habit That Changed Everything More than a year before I quit my job at Microsoft, I picked up one habit that turned out to be a lifesaver: tracking my finances.</description>
+      <category>gaming</category>
+      <guid>https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is BDD Dying?</title>
+      <link>https://automationpanda.com/2025/03/06/is-bdd-dying/</link>
+      <description>People keep asking me if BDD is dead. It’s not, but I sincerely believe that it needs to evolve. Let’s explore what that could look like.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://automationpanda.com/2025/03/06/is-bdd-dying/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interesting Articles I've Read in 2025</title>
+      <link>https://bcmullins.github.io/interesting-articles-2025/</link>
+      <description>Below are some interesting articles I’ve read in 2025. They fall into a few categories: the mathematics of data privacy, popular mathematics, politics, and nineteenth century philosophy. For data privacy, we look at how technical details may be hindering adoption of differential privacy as well as scaling laws for differentially private language models. Next, we look at excellent popular math articles introducing the Collatz conjecture and the Busy Beaver numbers. In politics, we explore paranoid eighteenth century political rhetoric as well as John Maynard Keynes’ reflections on the Liberal party after a disastrous election in 1924. Finally, we look at two philosophical movements in mid-nineteenth century America and an 1875 article on the relation between the verifiability and discoverability of truths.
+
+</description>
+      <category>ai</category>
+      <guid>https://bcmullins.github.io/interesting-articles-2025/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Designing a High-Performance OLTP Database from First Principles</title>
+      <link>https://shubhamrasal.com/writing/tigerbeetle-oltp-design</link>
+      <description>Shubham Rasal</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://shubhamrasal.com/writing/tigerbeetle-oltp-design</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>With SQLite, INSERT OR IGNORE Is Often Not What You Want</title>
+      <link>https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want</link>
+      <description>tl;dr - INSERT OR IGNORE will silently fail if any constraint is violated (even a NOT NULL on a column type!).  If you want to express "insert this row unless it already exists", use ON CONFLICT instead.</description>
+      <category>sql</category>
+      <category>containers</category>
+      <guid>https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Startups that Last (Part 2 of 5): The Two NECESSARY Company Traits to Win</title>
+      <link>https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/</link>
+      <description>Luck is a huge factor in startup success. But you can't capture luck if you're not around to grab it. Persistence is what keeps you in the game long enough for luck to find you. Intelligence is commoditized in this industry. Persistence is rare.</description>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Devaluation of work</title>
+      <link>https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html</link>
+      <description>I have talked to multiple developers that have told me about getting LLM-generated pull requests. The pain is that we have a situation where you ignore the act of getting code to work and instead focusing on the optics of good enough looking code.</description>
+      <category>typescript</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Bullshit” — The New Way Health Giants Hide Billions</title>
+      <link>https://hntrbrk.com/pbmgpo/</link>
+      <description>Three mysterious entities. Tens of billions in revenue. CVS, UnitedHealth, and Cigna created "PBM GPO" subsidiaries to divert billions of dollars.</description>
+      <guid>https://hntrbrk.com/pbmgpo/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>TurboJSON : JSON basics.</title>
+      <link>https://raphaelouthier.github.io/art/jsn_0_intro/</link>
+      <description>Bases on JSON and how to parse it semi-efficiently.</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://raphaelouthier.github.io/art/jsn_0_intro/</guid>
+      <pubDate>Thu, 08 Jan 2026 02:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Experienced software developers assumed AI would save them a chunk of time. But in one experiment, their tasks took 20% longer | Fortune</title>
       <link>https://fortune.com/article/does-ai-increase-workplace-productivity-experiment-software-developers-task-took-longer/</link>
       <description>As more workers use AI, a recent study adds to growing evidence the tech doesn’t always deliver on promises of boosted productivity.</description>
@@ -86,72 +217,6 @@ Extract text from MDX files, removing J...</description>
       <category>web</category>
       <guid>https://arxiv.org/abs/2512.23696</guid>
       <pubDate>Wed, 07 Jan 2026 08:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.</title>
-      <link>https://github.com/rberg27/doom-coding</link>
-      <description>A guide for how to use your smartphone to code anywhere at anytime.  - GitHub - rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.</description>
-      <category>sql</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://github.com/rberg27/doom-coding</guid>
-      <pubDate>Wed, 07 Jan 2026 02:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Indirect Rendering // Vulkan For Beginners #27</title>
-      <link>https://youtube.com/watch?v=f0aT0ifRo-k</link>
-      <description>In this video we learn how to implement Indirect Rendering in Vulkan. This implementation is based on Descriptor Indexing from the previous video.
-
-🔥 See the list of the books that I'm using as background information for my tutorials: https://ogldev.org/books.html. I highly recommend them for learning more about OpenGL and Vulkan. These are affiliate links so if you use them to buy any of the books the price is the same for you and I will get a small commission (thank-you!).
-
-📚 Timecodes 📚
-0:00 Intro 
-0:36 Background
-0:58 Recap on asset loading
-3:40 Indirect Rendering
-4:47 Vertex/Index/Uniform buffer offsets
-7:07 New pipeline class
-8:45 Indirect buffer
-11:02 vkCmdDrawIndirect
-12:09 Enabling Indirect Rendering
-12:31 Outro
-
-Make sure to watch all the previous tutorials in the "Vulkan For Beginners" playlist at https://www.youtube.com/playlist?list=PLA0dXqQjCx0RntJy1pqje9uHRF1Z5vZgA
-
-Please visit https://ogldev.org to see more of my tutorials on modern OpenGL.
-
-🔥Link to source: 
-https://github.com/emeiri/ogldev/tree/master/Vulkan/Tutorial27
-If you want to get the same version of the code that was used in the video checkout the tag 'VULKAN_27'
-
-Feel free to comment below.
-
-🔗Contacts:
-🔹Email: ogldev1@gmail.com
-🔹Instagram: @ogldev1
-🔹Github: https://github.com/emeiri/ogldev.git
-🔹TikTok - https://www.tiktok.com/@ogldev
-🔹Twitter: @ogldev
-🔹Discord: https://discord.gg/CZdVwZgTYk
-🔹One time donations (Paypal): https://ogldev.org/donate.html
-🔹Patreon: https://www.patreon.com/ogldev
-
-🙏Credits:
-🔹Blackboard image from https://Pixabay.com
-🔹"Tropic Fuse" by French Fuse - Youtube Audio Library
-
-Enjoy,
-
-Etay Meiri
-
-#vulkan</description>
-      <author> (OGLDEV)</author>
-      <category>git</category>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://youtube.com/watch?v=f0aT0ifRo-k</guid>
-      <pubDate>Wed, 07 Jan 2026 02:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
