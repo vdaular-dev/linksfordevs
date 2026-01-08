@@ -1,5 +1,13 @@
 [
   {
+    "Title": "feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/tailwindcss.com",
+    "Url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957",
+    "Timestamp": "2026-01-08T18:02:16",
+    "Domain": "github.com",
+    "Description": "Add /llms.txt endpoint that serves a concatenated, text-only version of all Tailwind CSS documentation pages optimized for Large Language Model consumption.\n\nExtract text from MDX files, removing J...",
+    "Confidence": 0.985581
+  },
+  {
     "Title": "The Phaser Game Framework in 5 Minutes",
     "Url": "https://jslegenddev.substack.com/p/the-phaser-game-framework-in-5-minutes",
     "Timestamp": "2026-01-08T17:02:09",
@@ -190,13 +198,5 @@
     "Domain": "tiespetersen.substack.com",
     "Description": "An experiment involving sweeping floors, simulated annealing, and why algorithms that optimize for the wrong thing ruin your life.",
     "Confidence": 0.9940372
-  },
-  {
-    "Title": "feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/tailwindcss.com",
-    "Url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-    "Timestamp": "2026-01-07T18:02:18",
-    "Domain": "github.com",
-    "Description": "Add /llms.txt endpoint that serves a concatenated, text-only version of all Tailwind CSS documentation pages optimized for Large Language Model consumption.\n\nExtract text from MDX files, removing J...",
-    "Confidence": 0.985581
   }
 ]

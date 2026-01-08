@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/tailwindcss.com</title>
+      <link>https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957</link>
+      <description>Add /llms.txt endpoint that serves a concatenated, text-only version of all Tailwind CSS documentation pages optimized for Large Language Model consumption.
+
+Extract text from MDX files, removing J...</description>
+      <category>ai</category>
+      <guid>https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957</guid>
+      <pubDate>Thu, 08 Jan 2026 18:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>The Phaser Game Framework in 5 Minutes</title>
       <link>https://jslegenddev.substack.com/p/the-phaser-game-framework-in-5-minutes</link>
       <description>Phaser is the most popular JavaScript/TypeScript framework for making 2D games.</description>
@@ -235,16 +245,6 @@ The Habit That Changed Everything More than a year before I quit my job at Micro
       <category>ai</category>
       <guid>https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve?triedRedirect=true</guid>
       <pubDate>Wed, 07 Jan 2026 19:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>feat: add llms.txt endpoint for LLM-optimized documentation by quantizor · Pull Request #2388 · tailwindlabs/tailwindcss.com</title>
-      <link>https://github.com/tailwindlabs/tailwindcss.com/pull/2388</link>
-      <description>Add /llms.txt endpoint that serves a concatenated, text-only version of all Tailwind CSS documentation pages optimized for Large Language Model consumption.
-
-Extract text from MDX files, removing J...</description>
-      <category>ai</category>
-      <guid>https://github.com/tailwindlabs/tailwindcss.com/pull/2388</guid>
-      <pubDate>Wed, 07 Jan 2026 18:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
