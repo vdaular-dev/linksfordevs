@@ -7,6 +7,137 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Getting started with Claude for software development</title>
+      <link>https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/</link>
+      <description>Blog post: Getting started with Claude for software development by Steve Klabnik</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Duplicate Finder for Text: Algorithm</title>
+      <link>https://flounder.dev/posts/duplicate-finder-implementation/</link>
+      <description>A walkthrough of the trigram-based algorithm for finding duplicate and similar text fragments</description>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://flounder.dev/posts/duplicate-finder-implementation/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Package Management Landscape</title>
+      <link>https://nesbitt.io/2026/01/03/the-package-management-landscape.html</link>
+      <description>A directory of tools, systems, and services that relate to package management.</description>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>dotnet</category>
+      <category>vscode</category>
+      <category>python</category>
+      <guid>https://nesbitt.io/2026/01/03/the-package-management-landscape.html</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I actually like TPMs</title>
+      <link>https://heinonen.co/blog/2026/why-i-actually-like-tpms/</link>
+      <description>I agrue why TPMs are good thing for most people</description>
+      <category>encryption</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>android</category>
+      <guid>https://heinonen.co/blog/2026/why-i-actually-like-tpms/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Staging is a wasteful lie: the case for the mono-environment</title>
+      <link>https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/</link>
+      <description>Staging doesn't catch bugs, slows delivery, and makes developers miserable. Ship straight to production instead.</description>
+      <category>sql</category>
+      <category>containers</category>
+      <guid>https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Being a scrapy engineer</title>
+      <link>https://patys.dev/being-a-sc/</link>
+      <description>I put a lot of links to the videos that are related and important for me. Watching them might help you understand my point of view, but you don't have to. (But it is really fun to watch all of them)
+
+The world is evolving into more and more premium</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://patys.dev/being-a-sc/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raising Kids After Knowledge Became a Commodity</title>
+      <link>https://liorz.github.io/blog/posts/fallacy-education-for-academic-excellence/</link>
+      <description>Growing up, I was relentlessly encouraged to excel. From my first steps into the “academic realm” - if one can even grace first grade with such a title—I was conditioned to equate my worth with my report card. Being a naturally curious child, I succeeded, though likely less due to innate brilliance and more because of a deep-seated thirst for achievement.
+My parents were the children of immigrants who had been stripped of their own educational opportunities. One grandparent survived the horrors of Auschwitz; the others endured similarly harrowing circumstances during the war. In their homes, education wasn’t a luxury—it was an impossibility. Consequently, my parents grew up with little academic guidance, eventually finding themselves in blue-collar roles that left them feeling financially precarious.</description>
+      <category>ai</category>
+      <guid>https://liorz.github.io/blog/posts/fallacy-education-for-academic-excellence/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statistics is hard</title>
+      <link>https://misfra.me/2026/statistics-is-hard/</link>
+      <description>I’ve been thinking about how statistics and probability are really non-intuitive. When you’re programming, if you’re wrong, it’s obvious. Your code won’t compile, or when you run it, the output is clearly broken. With statistics, you can be doing it completely wrong and have no idea.</description>
+      <guid>https://misfra.me/2026/statistics-is-hard/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Did My Taxes - by Vladimir Klimontovich</title>
+      <link>https://klmn.sh/essays/claude-code-for-taxes</link>
+      <description>3 returns (Federal, NYS, NYC), joint filing, 2 Schedule Cs, LLC consulting income, SEP IRA optimization, HSA, Child Care Credit, foreign accounts, W-2 + 1099. 2 hours, 5 attempts.</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://klmn.sh/essays/claude-code-for-taxes</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sub-50ms Analytics: How We Scaled Reporting for Billions of Records</title>
+      <link>https://manuel.friger.io/blog/sub-50ms-analytics-how-we-scaled-reporting-for-billions-of-records/</link>
+      <description>Once your app hits a certain scale—hundreds of millions or even billions of records—handling analytics and reporting becomes a completely different beast.
+
+We felt this acutely last year at SparkLoop. Our platform had grown to store hundreds of millions of events just as we introduced an "Advanced Reports"</description>
+      <category>sql</category>
+      <guid>https://manuel.friger.io/blog/sub-50ms-analytics-how-we-scaled-reporting-for-billions-of-records/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Which programming languages are most token-efficient?</title>
+      <link>https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/</link>
+      <description>Comparing token efficiency across 19 popular programming languages using RosettaCode data - from Clojure to C, there's a 2.6x difference.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>We are the Boomers Now</title>
+      <link>https://svenning.io/we-are-the-boomers-now</link>
+      <description>Why Millennial Devs Need to Stop Hating on Gen Z Using GenAI</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://svenning.io/we-are-the-boomers-now</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAPI isn't Enough</title>
+      <link>https://alexstephen.me/writing/openapi-isnt-enough/</link>
+      <description>OpenAPI isn't Enough</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://alexstephen.me/writing/openapi-isnt-enough/</guid>
+      <pubDate>Fri, 09 Jan 2026 02:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code</title>
       <link>https://www.mihaileric.com/The-Emperor-Has-No-Clothes/</link>
       <description>The core of tools like Claude Code, Cursor, and Warp isn't magic. It's about 200 lines of straightforward Python. Let's build one from scratch.</description>
@@ -116,137 +247,6 @@ Extract text from MDX files, removing J...</description>
       <category>conference</category>
       <guid>https://tailscale.com/changelog</guid>
       <pubDate>Thu, 08 Jan 2026 06:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Q, K, V Matrices</title>
-      <link>https://arpitbhayani.me/blogs/qkv-matrices/</link>
-      <description>At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.</description>
-      <category>python</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://arpitbhayani.me/blogs/qkv-matrices/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 29 -- using DistributedDataParallel to train a base model from scratch in the cloud</title>
-      <link>https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud</link>
-      <description>Having trained a base model from scratch on my own machine over 48 hours, I wanted to make it faster by training with multiple GPUs in the cloud.</description>
-      <author> (Giles Thomas)</author>
-      <category>linux</category>
-      <category>ai</category>
-      <category>conference</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud</guid>
-      <pubDate>Thu, 08 Jan 2026 02:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude vs Codex in the Messy Middle</title>
-      <link>https://benr.build/blog/claude-vs-codex-messy-middle</link>
-      <description>I ran Claude and Codex head-to-head on real work and learned the combo catches what either misses.</description>
-      <author> (Ben Redmond)</author>
-      <category>sql</category>
-      <category>typescript</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://benr.build/blog/claude-vs-codex-messy-middle</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Taste of OpenBSD</title>
-      <link>https://para.bearblog.dev/the-taste-of-openbsd/</link>
-      <description>I started using OpenBSD last year. I discovered that it has excellent taste. This taste exists because there is no commercial pollution. The system is strict...</description>
-      <guid>https://para.bearblog.dev/the-taste-of-openbsd/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Handle My Finances Without a Monthly Salary</title>
-      <link>https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/</link>
-      <description>In my previous post, I talked about learning to deal with stress after walking away from a steady paycheck. This one is less philosophical and more practical. Think of it as me sharing how am I handling things in practice, the nuts and bolts, as I find my footing and explore the path of solopreneurship.
-The Habit That Changed Everything More than a year before I quit my job at Microsoft, I picked up one habit that turned out to be a lifesaver: tracking my finances.</description>
-      <category>gaming</category>
-      <guid>https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is BDD Dying?</title>
-      <link>https://automationpanda.com/2025/03/06/is-bdd-dying/</link>
-      <description>People keep asking me if BDD is dead. It’s not, but I sincerely believe that it needs to evolve. Let’s explore what that could look like.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://automationpanda.com/2025/03/06/is-bdd-dying/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Interesting Articles I've Read in 2025</title>
-      <link>https://bcmullins.github.io/interesting-articles-2025/</link>
-      <description>Below are some interesting articles I’ve read in 2025. They fall into a few categories: the mathematics of data privacy, popular mathematics, politics, and nineteenth century philosophy. For data privacy, we look at how technical details may be hindering adoption of differential privacy as well as scaling laws for differentially private language models. Next, we look at excellent popular math articles introducing the Collatz conjecture and the Busy Beaver numbers. In politics, we explore paranoid eighteenth century political rhetoric as well as John Maynard Keynes’ reflections on the Liberal party after a disastrous election in 1924. Finally, we look at two philosophical movements in mid-nineteenth century America and an 1875 article on the relation between the verifiability and discoverability of truths.
-
-</description>
-      <category>ai</category>
-      <guid>https://bcmullins.github.io/interesting-articles-2025/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Designing a High-Performance OLTP Database from First Principles</title>
-      <link>https://shubhamrasal.com/writing/tigerbeetle-oltp-design</link>
-      <description>Shubham Rasal</description>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://shubhamrasal.com/writing/tigerbeetle-oltp-design</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>With SQLite, INSERT OR IGNORE Is Often Not What You Want</title>
-      <link>https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want</link>
-      <description>tl;dr - INSERT OR IGNORE will silently fail if any constraint is violated (even a NOT NULL on a column type!).  If you want to express "insert this row unless it already exists", use ON CONFLICT instead.</description>
-      <category>sql</category>
-      <category>containers</category>
-      <guid>https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building Startups that Last (Part 2 of 5): The Two NECESSARY Company Traits to Win</title>
-      <link>https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/</link>
-      <description>Luck is a huge factor in startup success. But you can't capture luck if you're not around to grab it. Persistence is what keeps you in the game long enough for luck to find you. Intelligence is commoditized in this industry. Persistence is rare.</description>
-      <category>rust</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devaluation of work</title>
-      <link>https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html</link>
-      <description>I have talked to multiple developers that have told me about getting LLM-generated pull requests. The pain is that we have a situation where you ignore the act of getting code to work and instead focusing on the optics of good enough looking code.</description>
-      <category>typescript</category>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Bullshit” — The New Way Health Giants Hide Billions</title>
-      <link>https://hntrbrk.com/pbmgpo/</link>
-      <description>Three mysterious entities. Tens of billions in revenue. CVS, UnitedHealth, and Cigna created "PBM GPO" subsidiaries to divert billions of dollars.</description>
-      <guid>https://hntrbrk.com/pbmgpo/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>TurboJSON : JSON basics.</title>
-      <link>https://raphaelouthier.github.io/art/jsn_0_intro/</link>
-      <description>Bases on JSON and how to parse it semi-efficiently.</description>
-      <category>javascript</category>
-      <category>python</category>
-      <category>cloud</category>
-      <category>sql</category>
-      <guid>https://raphaelouthier.github.io/art/jsn_0_intro/</guid>
-      <pubDate>Thu, 08 Jan 2026 02:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

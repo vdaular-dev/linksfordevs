@@ -1,5 +1,96 @@
 [
   {
+    "Title": "Getting started with Claude for software development",
+    "Url": "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/",
+    "Timestamp": "2026-01-09T02:03:21",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: Getting started with Claude for software development by Steve Klabnik"
+  },
+  {
+    "Title": "Duplicate Finder for Text: Algorithm",
+    "Url": "https://flounder.dev/posts/duplicate-finder-implementation/",
+    "Timestamp": "2026-01-09T02:03:17",
+    "Domain": "flounder.dev",
+    "Description": "A walkthrough of the trigram-based algorithm for finding duplicate and similar text fragments"
+  },
+  {
+    "Title": "The Package Management Landscape",
+    "Url": "https://nesbitt.io/2026/01/03/the-package-management-landscape.html",
+    "Timestamp": "2026-01-09T02:03:13",
+    "Domain": "nesbitt.io",
+    "Description": "A directory of tools, systems, and services that relate to package management."
+  },
+  {
+    "Title": "Why I actually like TPMs",
+    "Url": "https://heinonen.co/blog/2026/why-i-actually-like-tpms/",
+    "Timestamp": "2026-01-09T02:03:09",
+    "Domain": "heinonen.co",
+    "Description": "I agrue why TPMs are good thing for most people"
+  },
+  {
+    "Title": "Staging is a wasteful lie: the case for the mono-environment",
+    "Url": "https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/",
+    "Timestamp": "2026-01-09T02:03:06",
+    "Domain": "www.tomwphillips.co.uk",
+    "Description": "Staging doesn't catch bugs, slows delivery, and makes developers miserable. Ship straight to production instead."
+  },
+  {
+    "Title": "Being a scrapy engineer",
+    "Url": "https://patys.dev/being-a-sc/",
+    "Timestamp": "2026-01-09T02:03:03",
+    "Domain": "patys.dev",
+    "Description": "I put a lot of links to the videos that are related and important for me. Watching them might help you understand my point of view, but you don't have to. (But it is really fun to watch all of them)\n\nThe world is evolving into more and more premium"
+  },
+  {
+    "Title": "Raising Kids After Knowledge Became a Commodity",
+    "Url": "https://liorz.github.io/blog/posts/fallacy-education-for-academic-excellence/",
+    "Timestamp": "2026-01-09T02:02:51",
+    "Domain": "liorz.github.io",
+    "Description": "Growing up, I was relentlessly encouraged to excel. From my first steps into the “academic realm” - if one can even grace first grade with such a title—I was conditioned to equate my worth with my report card. Being a naturally curious child, I succeeded, though likely less due to innate brilliance and more because of a deep-seated thirst for achievement.\nMy parents were the children of immigrants who had been stripped of their own educational opportunities. One grandparent survived the horrors of Auschwitz; the others endured similarly harrowing circumstances during the war. In their homes, education wasn’t a luxury—it was an impossibility. Consequently, my parents grew up with little academic guidance, eventually finding themselves in blue-collar roles that left them feeling financially precarious."
+  },
+  {
+    "Title": "Statistics is hard",
+    "Url": "https://misfra.me/2026/statistics-is-hard/",
+    "Timestamp": "2026-01-09T02:02:47",
+    "Domain": "misfra.me",
+    "Description": "I’ve been thinking about how statistics and probability are really non-intuitive. When you’re programming, if you’re wrong, it’s obvious. Your code won’t compile, or when you run it, the output is clearly broken. With statistics, you can be doing it completely wrong and have no idea."
+  },
+  {
+    "Title": "Claude Code Did My Taxes - by Vladimir Klimontovich",
+    "Url": "https://klmn.sh/essays/claude-code-for-taxes",
+    "Timestamp": "2026-01-09T02:02:44",
+    "Domain": "klmn.sh",
+    "Description": "3 returns (Federal, NYS, NYC), joint filing, 2 Schedule Cs, LLC consulting income, SEP IRA optimization, HSA, Child Care Credit, foreign accounts, W-2 + 1099. 2 hours, 5 attempts."
+  },
+  {
+    "Title": "Sub-50ms Analytics: How We Scaled Reporting for Billions of Records",
+    "Url": "https://manuel.friger.io/blog/sub-50ms-analytics-how-we-scaled-reporting-for-billions-of-records/",
+    "Timestamp": "2026-01-09T02:02:41",
+    "Domain": "manuel.friger.io",
+    "Description": "Once your app hits a certain scale—hundreds of millions or even billions of records—handling analytics and reporting becomes a completely different beast.\n\nWe felt this acutely last year at SparkLoop. Our platform had grown to store hundreds of millions of events just as we introduced an \"Advanced Reports\""
+  },
+  {
+    "Title": "Which programming languages are most token-efficient?",
+    "Url": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+    "Timestamp": "2026-01-09T02:02:33",
+    "Domain": "martinalderson.com",
+    "Description": "Comparing token efficiency across 19 popular programming languages using RosettaCode data - from Clojure to C, there's a 2.6x difference."
+  },
+  {
+    "Title": "We are the Boomers Now",
+    "Url": "https://svenning.io/we-are-the-boomers-now",
+    "Timestamp": "2026-01-09T02:02:30",
+    "Domain": "svenning.io",
+    "Description": "Why Millennial Devs Need to Stop Hating on Gen Z Using GenAI"
+  },
+  {
+    "Title": "OpenAPI isn't Enough",
+    "Url": "https://alexstephen.me/writing/openapi-isnt-enough/",
+    "Timestamp": "2026-01-09T02:02:26",
+    "Domain": "alexstephen.me",
+    "Description": "OpenAPI isn't Enough"
+  },
+  {
     "Title": "The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code",
     "Url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
     "Timestamp": "2026-01-09T01:02:15",

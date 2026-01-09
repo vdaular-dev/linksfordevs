@@ -1,5 +1,109 @@
 [
   {
+    "Title": "Getting started with Claude for software development",
+    "Url": "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/",
+    "Timestamp": "2026-01-09T02:03:21",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: Getting started with Claude for software development by Steve Klabnik",
+    "Confidence": 0.99533564
+  },
+  {
+    "Title": "Duplicate Finder for Text: Algorithm",
+    "Url": "https://flounder.dev/posts/duplicate-finder-implementation/",
+    "Timestamp": "2026-01-09T02:03:17",
+    "Domain": "flounder.dev",
+    "Description": "A walkthrough of the trigram-based algorithm for finding duplicate and similar text fragments",
+    "Confidence": 0.9960773
+  },
+  {
+    "Title": "The Package Management Landscape",
+    "Url": "https://nesbitt.io/2026/01/03/the-package-management-landscape.html",
+    "Timestamp": "2026-01-09T02:03:13",
+    "Domain": "nesbitt.io",
+    "Description": "A directory of tools, systems, and services that relate to package management.",
+    "Confidence": 0.99023956
+  },
+  {
+    "Title": "Why I actually like TPMs",
+    "Url": "https://heinonen.co/blog/2026/why-i-actually-like-tpms/",
+    "Timestamp": "2026-01-09T02:03:09",
+    "Domain": "heinonen.co",
+    "Description": "I agrue why TPMs are good thing for most people",
+    "Confidence": 0.9949224
+  },
+  {
+    "Title": "Staging is a wasteful lie: the case for the mono-environment",
+    "Url": "https://www.tomwphillips.co.uk/2026/01/staging-is-a-wasteful-lie-the-case-for-the-mono-environment/",
+    "Timestamp": "2026-01-09T02:03:06",
+    "Domain": "www.tomwphillips.co.uk",
+    "Description": "Staging doesn't catch bugs, slows delivery, and makes developers miserable. Ship straight to production instead.",
+    "Confidence": 0.99514085
+  },
+  {
+    "Title": "Being a scrapy engineer",
+    "Url": "https://patys.dev/being-a-sc/",
+    "Timestamp": "2026-01-09T02:03:03",
+    "Domain": "patys.dev",
+    "Description": "I put a lot of links to the videos that are related and important for me. Watching them might help you understand my point of view, but you don't have to. (But it is really fun to watch all of them)\n\nThe world is evolving into more and more premium",
+    "Confidence": 0.9811388
+  },
+  {
+    "Title": "Raising Kids After Knowledge Became a Commodity",
+    "Url": "https://liorz.github.io/blog/posts/fallacy-education-for-academic-excellence/",
+    "Timestamp": "2026-01-09T02:02:51",
+    "Domain": "liorz.github.io",
+    "Description": "Growing up, I was relentlessly encouraged to excel. From my first steps into the “academic realm” - if one can even grace first grade with such a title—I was conditioned to equate my worth with my report card. Being a naturally curious child, I succeeded, though likely less due to innate brilliance and more because of a deep-seated thirst for achievement.\nMy parents were the children of immigrants who had been stripped of their own educational opportunities. One grandparent survived the horrors of Auschwitz; the others endured similarly harrowing circumstances during the war. In their homes, education wasn’t a luxury—it was an impossibility. Consequently, my parents grew up with little academic guidance, eventually finding themselves in blue-collar roles that left them feeling financially precarious.",
+    "Confidence": 0.53799623
+  },
+  {
+    "Title": "Statistics is hard",
+    "Url": "https://misfra.me/2026/statistics-is-hard/",
+    "Timestamp": "2026-01-09T02:02:47",
+    "Domain": "misfra.me",
+    "Description": "I’ve been thinking about how statistics and probability are really non-intuitive. When you’re programming, if you’re wrong, it’s obvious. Your code won’t compile, or when you run it, the output is clearly broken. With statistics, you can be doing it completely wrong and have no idea.",
+    "Confidence": 0.98478836
+  },
+  {
+    "Title": "Claude Code Did My Taxes - by Vladimir Klimontovich",
+    "Url": "https://klmn.sh/essays/claude-code-for-taxes",
+    "Timestamp": "2026-01-09T02:02:44",
+    "Domain": "klmn.sh",
+    "Description": "3 returns (Federal, NYS, NYC), joint filing, 2 Schedule Cs, LLC consulting income, SEP IRA optimization, HSA, Child Care Credit, foreign accounts, W-2 + 1099. 2 hours, 5 attempts.",
+    "Confidence": 0.9891503
+  },
+  {
+    "Title": "Sub-50ms Analytics: How We Scaled Reporting for Billions of Records",
+    "Url": "https://manuel.friger.io/blog/sub-50ms-analytics-how-we-scaled-reporting-for-billions-of-records/",
+    "Timestamp": "2026-01-09T02:02:41",
+    "Domain": "manuel.friger.io",
+    "Description": "Once your app hits a certain scale—hundreds of millions or even billions of records—handling analytics and reporting becomes a completely different beast.\n\nWe felt this acutely last year at SparkLoop. Our platform had grown to store hundreds of millions of events just as we introduced an \"Advanced Reports\"",
+    "Confidence": 0.9875601
+  },
+  {
+    "Title": "Which programming languages are most token-efficient?",
+    "Url": "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/",
+    "Timestamp": "2026-01-09T02:02:33",
+    "Domain": "martinalderson.com",
+    "Description": "Comparing token efficiency across 19 popular programming languages using RosettaCode data - from Clojure to C, there's a 2.6x difference.",
+    "Confidence": 0.982408
+  },
+  {
+    "Title": "We are the Boomers Now",
+    "Url": "https://svenning.io/we-are-the-boomers-now",
+    "Timestamp": "2026-01-09T02:02:30",
+    "Domain": "svenning.io",
+    "Description": "Why Millennial Devs Need to Stop Hating on Gen Z Using GenAI",
+    "Confidence": 0.78614676
+  },
+  {
+    "Title": "OpenAPI isn't Enough",
+    "Url": "https://alexstephen.me/writing/openapi-isnt-enough/",
+    "Timestamp": "2026-01-09T02:02:26",
+    "Domain": "alexstephen.me",
+    "Description": "OpenAPI isn't Enough",
+    "Confidence": 0.994205
+  },
+  {
     "Title": "The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code",
     "Url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
     "Timestamp": "2026-01-09T01:02:15",
@@ -94,109 +198,5 @@
     "Domain": "tailscale.com",
     "Description": "View changes to the Tailscale client and service.",
     "Confidence": 0.9935316
-  },
-  {
-    "Title": "The Q, K, V Matrices",
-    "Url": "https://arpitbhayani.me/blogs/qkv-matrices/",
-    "Timestamp": "2026-01-08T02:03:11",
-    "Domain": "arpitbhayani.me",
-    "Description": "At the core of the attention mechanism in LLMs are three matrices: Query, Key, and Value. These matrices are how transformers actually pay attention to different parts of the input. In this write-up, we will go through the construction of these matrices from the ground up.",
-    "Confidence": 0.99503833
-  },
-  {
-    "Title": "Writing an LLM from scratch, part 29 -- using DistributedDataParallel to train a base model from scratch in the cloud",
-    "Url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
-    "Timestamp": "2026-01-08T02:03:05",
-    "Domain": "www.gilesthomas.com",
-    "Description": "Having trained a base model from scratch on my own machine over 48 hours, I wanted to make it faster by training with multiple GPUs in the cloud.",
-    "Confidence": 0.9857849
-  },
-  {
-    "Title": "Claude vs Codex in the Messy Middle",
-    "Url": "https://benr.build/blog/claude-vs-codex-messy-middle",
-    "Timestamp": "2026-01-08T02:02:59",
-    "Domain": "benr.build",
-    "Description": "I ran Claude and Codex head-to-head on real work and learned the combo catches what either misses.",
-    "Confidence": 0.99212384
-  },
-  {
-    "Title": "The Taste of OpenBSD",
-    "Url": "https://para.bearblog.dev/the-taste-of-openbsd/",
-    "Timestamp": "2026-01-08T02:02:56",
-    "Domain": "para.bearblog.dev",
-    "Description": "I started using OpenBSD last year. I discovered that it has excellent taste. This taste exists because there is no commercial pollution. The system is strict...",
-    "Confidence": 0.9440818
-  },
-  {
-    "Title": "How I Handle My Finances Without a Monthly Salary",
-    "Url": "https://vinitvr.pages.dev/personal-blog/finance-tracking-without-salary/",
-    "Timestamp": "2026-01-08T02:02:50",
-    "Domain": "vinitvr.pages.dev",
-    "Description": "In my previous post, I talked about learning to deal with stress after walking away from a steady paycheck. This one is less philosophical and more practical. Think of it as me sharing how am I handling things in practice, the nuts and bolts, as I find my footing and explore the path of solopreneurship.\nThe Habit That Changed Everything More than a year before I quit my job at Microsoft, I picked up one habit that turned out to be a lifesaver: tracking my finances.",
-    "Confidence": 0.93250406
-  },
-  {
-    "Title": "Is BDD Dying?",
-    "Url": "https://automationpanda.com/2025/03/06/is-bdd-dying/",
-    "Timestamp": "2026-01-08T02:02:46",
-    "Domain": "automationpanda.com",
-    "Description": "People keep asking me if BDD is dead. It’s not, but I sincerely believe that it needs to evolve. Let’s explore what that could look like.",
-    "Confidence": 0.9900505
-  },
-  {
-    "Title": "Interesting Articles I've Read in 2025",
-    "Url": "https://bcmullins.github.io/interesting-articles-2025/",
-    "Timestamp": "2026-01-08T02:02:42",
-    "Domain": "bcmullins.github.io",
-    "Description": "Below are some interesting articles I’ve read in 2025. They fall into a few categories: the mathematics of data privacy, popular mathematics, politics, and nineteenth century philosophy. For data privacy, we look at how technical details may be hindering adoption of differential privacy as well as scaling laws for differentially private language models. Next, we look at excellent popular math articles introducing the Collatz conjecture and the Busy Beaver numbers. In politics, we explore paranoid eighteenth century political rhetoric as well as John Maynard Keynes’ reflections on the Liberal party after a disastrous election in 1924. Finally, we look at two philosophical movements in mid-nineteenth century America and an 1875 article on the relation between the verifiability and discoverability of truths.\n\n",
-    "Confidence": 0.9331351
-  },
-  {
-    "Title": "Designing a High-Performance OLTP Database from First Principles",
-    "Url": "https://shubhamrasal.com/writing/tigerbeetle-oltp-design",
-    "Timestamp": "2026-01-08T02:02:39",
-    "Domain": "shubhamrasal.com",
-    "Description": "Shubham Rasal",
-    "Confidence": 0.97058886
-  },
-  {
-    "Title": "With SQLite, INSERT OR IGNORE Is Often Not What You Want",
-    "Url": "https://hoelz.ro/blog/with-sqlite-insert-or-ignore-is-often-not-what-you-want",
-    "Timestamp": "2026-01-08T02:02:35",
-    "Domain": "hoelz.ro",
-    "Description": "tl;dr - INSERT OR IGNORE will silently fail if any constraint is violated (even a NOT NULL on a column type!).  If you want to express \"insert this row unless it already exists\", use ON CONFLICT instead.",
-    "Confidence": 0.9730213
-  },
-  {
-    "Title": "Building Startups that Last (Part 2 of 5): The Two NECESSARY Company Traits to Win",
-    "Url": "https://www.sachinkamdar.com/building-startups-that-last-part-2-of-5-the-two-necessary-company-traits-to-win/",
-    "Timestamp": "2026-01-08T02:02:31",
-    "Domain": "www.sachinkamdar.com",
-    "Description": "Luck is a huge factor in startup success. But you can't capture luck if you're not around to grab it. Persistence is what keeps you in the game long enough for luck to find you. Intelligence is commoditized in this industry. Persistence is rare.",
-    "Confidence": 0.97876775
-  },
-  {
-    "Title": "Devaluation of work",
-    "Url": "https://assertfail.gewalli.se/2026/01/06/Devaluation-of-work.html",
-    "Timestamp": "2026-01-08T02:02:28",
-    "Domain": "assertfail.gewalli.se",
-    "Description": "I have talked to multiple developers that have told me about getting LLM-generated pull requests. The pain is that we have a situation where you ignore the act of getting code to work and instead focusing on the optics of good enough looking code.",
-    "Confidence": 0.9891543
-  },
-  {
-    "Title": "“Bullshit” — The New Way Health Giants Hide Billions",
-    "Url": "https://hntrbrk.com/pbmgpo/",
-    "Timestamp": "2026-01-08T02:02:24",
-    "Domain": "hntrbrk.com",
-    "Description": "Three mysterious entities. Tens of billions in revenue. CVS, UnitedHealth, and Cigna created \"PBM GPO\" subsidiaries to divert billions of dollars.",
-    "Confidence": 0.53011566
-  },
-  {
-    "Title": "TurboJSON : JSON basics.",
-    "Url": "https://raphaelouthier.github.io/art/jsn_0_intro/",
-    "Timestamp": "2026-01-08T02:02:18",
-    "Domain": "raphaelouthier.github.io",
-    "Description": "Bases on JSON and how to parse it semi-efficiently.",
-    "Confidence": 0.9949682
   }
 ]
