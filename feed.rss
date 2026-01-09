@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What Happened To WebAssembly</title>
+      <link>https://emnudge.dev/blog/what-happened-to-webassembly/</link>
+      <description>Where are they now? You won't believe her new look!</description>
+      <category>web</category>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://emnudge.dev/blog/what-happened-to-webassembly/</guid>
+      <pubDate>Fri, 09 Jan 2026 17:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Slopes in AABB collision systems</title>
       <link>https://andreyor.st/posts/2026-01-09-slopes-in-aabb-collision-systems/</link>
       <description>Recently (again, bored on a vacation), I started working on a game I’ve planned for a long time. I wasn’t satisfied with my existing implementations of a player controller1, so I started working on a new one. After a bit of fiddling around, I came to something I’m satisfied with, for now, at least, but while working on it, I wanted to add something I haven’t done in any of my projects yet - I decided to add slopes to my game.</description>
@@ -218,18 +230,6 @@ Extract text from MDX files, removing J...</description>
       <category>ai</category>
       <guid>https://github.com/tailwindlabs/tailwindcss.com/pull/2388#issuecomment-3717222957</guid>
       <pubDate>Thu, 08 Jan 2026 18:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Phaser Game Framework in 5 Minutes</title>
-      <link>https://jslegenddev.substack.com/p/the-phaser-game-framework-in-5-minutes</link>
-      <description>Phaser is the most popular JavaScript/TypeScript framework for making 2D games.</description>
-      <category>gaming</category>
-      <category>typescript</category>
-      <category>apple</category>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://jslegenddev.substack.com/p/the-phaser-game-framework-in-5-minutes</guid>
-      <pubDate>Thu, 08 Jan 2026 17:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
