@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Slopes in AABB collision systems</title>
+      <link>https://andreyor.st/posts/2026-01-09-slopes-in-aabb-collision-systems/</link>
+      <description>Recently (again, bored on a vacation), I started working on a game I’ve planned for a long time. I wasn’t satisfied with my existing implementations of a player controller1, so I started working on a new one. After a bit of fiddling around, I came to something I’m satisfied with, for now, at least, but while working on it, I wanted to add something I haven’t done in any of my projects yet - I decided to add slopes to my game.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://andreyor.st/posts/2026-01-09-slopes-in-aabb-collision-systems/</guid>
+      <pubDate>Fri, 09 Jan 2026 14:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>European Commission issues call for evidence on open source</title>
+      <link>https://lwn.net/Articles/1053107/</link>
+      <description>The European Commission has opened a 'call for evidence' to help shape its European Open Digita [...]</description>
+      <guid>https://lwn.net/Articles/1053107/</guid>
+      <pubDate>Fri, 09 Jan 2026 14:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What should you write about on your blog?</title>
       <link>https://idiallo.com/blog/what-should-i-write-about?src=feed</link>
       <description>Whenever I hear someone express a thought really well, like they make a sharp observation, tell a funny story, or just have a moment of clarity, I ask the same question: "Why don't you have a blog?"
@@ -247,15 +263,6 @@ Extract text from MDX files, removing J...</description>
       <category>linux</category>
       <guid>https://www.phoronix.com/news/Torvalds-Linux-Kernel-AI-Slop</guid>
       <pubDate>Thu, 08 Jan 2026 15:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simple: Test Containers (for xUnit v3) | Pure Krome</title>
-      <link>https://www.world-domination.com.au/posts/2026/simple-test-containers/</link>
-      <description>⚡ Making it simple to run integration tests in true integration isolation, quickly! ⚡</description>
-      <category>containers</category>
-      <category>sql</category>
-      <guid>https://www.world-domination.com.au/posts/2026/simple-test-containers/</guid>
-      <pubDate>Thu, 08 Jan 2026 14:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

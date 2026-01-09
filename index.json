@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Slopes in AABB collision systems",
+    "Url": "https://andreyor.st/posts/2026-01-09-slopes-in-aabb-collision-systems/",
+    "Timestamp": "2026-01-09T14:02:05",
+    "Domain": "andreyor.st",
+    "Description": "Recently (again, bored on a vacation), I started working on a game I’ve planned for a long time. I wasn’t satisfied with my existing implementations of a player controller1, so I started working on a new one. After a bit of fiddling around, I came to something I’m satisfied with, for now, at least, but while working on it, I wanted to add something I haven’t done in any of my projects yet - I decided to add slopes to my game.",
+    "Confidence": 0.9962504
+  },
+  {
+    "Title": "European Commission issues call for evidence on open source",
+    "Url": "https://lwn.net/Articles/1053107/",
+    "Timestamp": "2026-01-09T14:02:00",
+    "Domain": "lwn.net",
+    "Description": "The European Commission has opened a 'call for evidence' to help shape its European Open Digita [...]",
+    "Confidence": 0.77695906
+  },
+  {
     "Title": "What should you write about on your blog?",
     "Url": "https://idiallo.com/blog/what-should-i-write-about?src=feed",
     "Timestamp": "2026-01-09T12:01:59",
@@ -198,13 +214,5 @@
     "Domain": "www.phoronix.com",
     "Description": "The Linux kernel developers for months now have been debating proposed guidelines for tool-generated submissions to the Linux kernel",
     "Confidence": 0.9068439
-  },
-  {
-    "Title": "Simple: Test Containers (for xUnit v3) | Pure Krome",
-    "Url": "https://www.world-domination.com.au/posts/2026/simple-test-containers/",
-    "Timestamp": "2026-01-08T14:02:08",
-    "Domain": "www.world-domination.com.au",
-    "Description": "⚡ Making it simple to run integration tests in true integration isolation, quickly! ⚡",
-    "Confidence": 0.9974595
   }
 ]
