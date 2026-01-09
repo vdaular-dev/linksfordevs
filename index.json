@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Local Email Debugging with Mailpit",
+    "Url": "https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/",
+    "Timestamp": "2026-01-09T04:02:16",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "For the past decade, I've used Mailhog for local email debugging. Besides working on web applications that deal with email, I've long used email as the primary notification system for comments on the blog.\nI built an Ansible role for Mailhog, and it was one of the main features of Drupal VM, a popular local development environment for Drupal I sunset 3 years ago.\nUnfortunately, barring any future updates from the maintainers, it seems like Mailhog has not been maintained for four years now. It still works, but something as complex as an email debugging environment needs ongoing maintenance to stay relevant.",
+    "Confidence": 0.99519116
+  },
+  {
     "Title": "We might have been slower to abandon Stack Overflow if it wasn't a toxic hellhole",
     "Url": "https://www.pcloadletter.dev/blog/abandoning-stackoverflow/",
     "Timestamp": "2026-01-09T03:02:12",
