@@ -7,6 +7,163 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The future of Stack Overflow</title>
+      <link>https://waspdev.com/articles/2026-01-09/the-future-of-stack-overflow</link>
+      <description>Stack Overflow, once the cornerstone developer communities, is fading away. What is the future of Stack Overflow considering its recent declining popularity?</description>
+      <author> (https://waspdev.com/about)</author>
+      <category>ai</category>
+      <guid>https://waspdev.com/articles/2026-01-09/the-future-of-stack-overflow</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Please stop building scroll-driven websites</title>
+      <link>https://adamhl.dev/blog/stop-building-scroll-driven-websites</link>
+      <description>Does it look cool? Yes. Is it distracting and annoying? Also yes.</description>
+      <guid>https://adamhl.dev/blog/stop-building-scroll-driven-websites</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Claude Code feels different</title>
+      <link>https://www.nvegater.com/blog/ClaudeCodeAdvantage</link>
+      <description>Claude Code shows me an unusual ability across massive and complex codebases, while others struggle despite using the same base models.
+I use many coding tools daily: Claude Code, Cursor, Jetbrains AI, Antigravity, Zed, and Warp. I won't go into detail about each one of the use cases, but across all of them, Claude Code is consistently better.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.nvegater.com/blog/ClaudeCodeAdvantage</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stored Procedures Considered Harmful</title>
+      <link>https://pouyamiri.com/blog/stored-procedures-considered-harmful</link>
+      <description>Having used stored procedures extensively in the past year, I have come to the conclusion that they bring more pain than good in a modern .NET web application.</description>
+      <category>dotnet</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>aspnet</category>
+      <category>javascript</category>
+      <guid>https://pouyamiri.com/blog/stored-procedures-considered-harmful</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiny TPU in a Week · Shri</title>
+      <link>https://5iri.me/blog/tiny-tpu-week</link>
+      <description>2026-01-09</description>
+      <category>python</category>
+      <guid>https://5iri.me/blog/tiny-tpu-week</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code sessions should be encrypted</title>
+      <link>https://yoav.blog/2026/01/09/claude-code-sessions-should-be-encrypted/</link>
+      <description>Claude Code is exploding in popularity right now, and people are using it for much more than writing code.
+Everyone should be using Claude Code more
+PMs, marketers, designers, founders, parents. Everyone.
+The trick is to forget that it’s called Claude Code and instead think of it as Claude Local or Claude Agent. It’s essentially a super-intelligent AI running locally, able to do… pic.twitter.com/F6iDwYPMRY
+— Lenny Rachitsky (@lennysan) October 14, 2025 Whether it’s to manage your email, write peer performance feedback, or even be your Chief of Staff—people are putting sensitive, personal information into Claude Code. And the more we use it for non-coding work, the more the session files are valuable and private1.</description>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://yoav.blog/2026/01/09/claude-code-sessions-should-be-encrypted/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 1000 commits problem | Dave Kiss</title>
+      <link>https://davekiss.com/blog/the-1000-commits-problem</link>
+      <description>Software is moving faster than humans can manage. The old ways don't scale to AI-assisted velocity.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://davekiss.com/blog/the-1000-commits-problem</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>We are still the OS | Gwendall</title>
+      <link>https://www.gwendall.com/notes/we-are-still-the-os</link>
+      <description>The brain is like a computer with limited RAM. 
+
+When you have too many thoughts / cognitive tasks going on in parallel, you can get slower and burn out. 
+
+AI a</description>
+      <category>ai</category>
+      <guid>https://www.gwendall.com/notes/we-are-still-the-os</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>53 Times Flock Safety Hardcoded the Password for America's Surveillance Infrastructure</title>
+      <link>https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure</link>
+      <description>A responsible disclosure documenting an organization-wide ArcGIS API key exposed across 53 public-facing assets, granting access to the mapping infrastructure underlying approximately 12,000 law enforcement, community, and private sector deployments.</description>
+      <category>encryption</category>
+      <category>javascript</category>
+      <guid>https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Life Happens at 1x Speed</title>
+      <link>https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/</link>
+      <description>Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to everything.</description>
+      <category>youtube</category>
+      <guid>https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Garbage collection is contrarian · Nova</title>
+      <link>https://trynova.dev/blog/garbage-collection-is-contrarian</link>
+      <description>Modeling unrooted handles to garbage collected data using contravariant lifetimes.</description>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://trynova.dev/blog/garbage-collection-is-contrarian</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avoiding TanStack Form Pitfalls</title>
+      <link>https://matthuggins.com/blog/posts/avoiding-tanstack-form-pitfalls</link>
+      <description>While integrating TanStack Form with schema validation libraries like Zod, I ran into a subtle type system gap that caused validation errors to silently fail. Here's how I diagnosed the issue and built a type-safe wrapper to prevent it from happening again.</description>
+      <category>typescript</category>
+      <guid>https://matthuggins.com/blog/posts/avoiding-tanstack-form-pitfalls</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tom Silver | Prompt Fiddling Considered Harmful</title>
+      <link>https://tomsilver.github.io/blog/2026/prompt-fiddling/</link>
+      <description>Tom Silver's academic website. </description>
+      <category>ai</category>
+      <guid>https://tomsilver.github.io/blog/2026/prompt-fiddling/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everyone Codes Isn't About Coding</title>
+      <link>https://cameronwestland.com/everyone-codes-isnt-about-coding/</link>
+      <description>I watched our CEO and a senior technical leader debate “everyone ships code” in a Slack thread this week. The technical leader is exactly the kind …</description>
+      <category>ai</category>
+      <guid>https://cameronwestland.com/everyone-codes-isnt-about-coding/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>PACER Isn't Just Expensive — It Forces You to Pay Before You Understand Anything</title>
+      <link>https://asklexi.com/blog/pacer-forces-you-to-pay-before-you-understand</link>
+      <description>PACER's per-page pricing turns curiosity into cost. The real problem isn't $0.10 per page—it's downloading everything just to understand anything.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://asklexi.com/blog/pacer-forces-you-to-pay-before-you-understand</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Non-Traditional Profiling — Matthew Gaudet</title>
+      <link>https://www.mgaudet.ca/technical/2026/1/8/non-traditional-profiling</link>
+      <description>Edited to Add:  I should mention this code is nowhere. Given I don’t entirely know how actionable this ends up being, and the code quality is subpar, I haven’t even pushed this code. Think of this as an inspiration, not a feature announcement.</description>
+      <guid>https://www.mgaudet.ca/technical/2026/1/8/non-traditional-profiling</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude code and the shift</title>
+      <link>https://pikseladam.com/10-01-2026-claude-code-and-the-shift/</link>
+      <description>how ai coding assistants are changing everything faster than we expected</description>
+      <category>ai</category>
+      <guid>https://pikseladam.com/10-01-2026-claude-code-and-the-shift/</guid>
+      <pubDate>Sat, 10 Jan 2026 03:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Lend Me Your Ears</title>
       <link>https://lend-me-your-ears.specr.net/</link>
       <description>A Simon-style musical ear training game. Listen to melodies and play them back on piano. Practice mode with sheet music notation or play-by-ear mode. MIDI keyboard support.</description>
@@ -79,14 +236,6 @@ Unfortunately, barring any future updates from the maintainers, it seems like Ma
       <category>web</category>
       <guid>https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/</guid>
       <pubDate>Fri, 09 Jan 2026 04:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>We might have been slower to abandon Stack Overflow if it wasn't a toxic hellhole</title>
-      <link>https://www.pcloadletter.dev/blog/abandoning-stackoverflow/</link>
-      <description>What the **** does that mean?</description>
-      <category>ai</category>
-      <guid>https://www.pcloadletter.dev/blog/abandoning-stackoverflow/</guid>
-      <pubDate>Fri, 09 Jan 2026 03:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

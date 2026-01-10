@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "Title": "The future of Stack Overflow",
+    "Url": "https://waspdev.com/articles/2026-01-09/the-future-of-stack-overflow",
+    "Timestamp": "2026-01-10T03:03:19",
+    "Domain": "waspdev.com",
+    "Description": "Stack Overflow, once the cornerstone developer communities, is fading away. What is the future of Stack Overflow considering its recent declining popularity?"
+  },
+  {
+    "Title": "Please stop building scroll-driven websites",
+    "Url": "https://adamhl.dev/blog/stop-building-scroll-driven-websites",
+    "Timestamp": "2026-01-10T03:03:15",
+    "Domain": "adamhl.dev",
+    "Description": "Does it look cool? Yes. Is it distracting and annoying? Also yes."
+  },
+  {
+    "Title": "Why Claude Code feels different",
+    "Url": "https://www.nvegater.com/blog/ClaudeCodeAdvantage",
+    "Timestamp": "2026-01-10T03:03:12",
+    "Domain": "www.nvegater.com",
+    "Description": "Claude Code shows me an unusual ability across massive and complex codebases, while others struggle despite using the same base models.\nI use many coding tools daily: Claude Code, Cursor, Jetbrains AI, Antigravity, Zed, and Warp. I won't go into detail about each one of the use cases, but across all of them, Claude Code is consistently better."
+  },
+  {
+    "Title": "Stored Procedures Considered Harmful",
+    "Url": "https://pouyamiri.com/blog/stored-procedures-considered-harmful",
+    "Timestamp": "2026-01-10T03:03:09",
+    "Domain": "pouyamiri.com",
+    "Description": "Having used stored procedures extensively in the past year, I have come to the conclusion that they bring more pain than good in a modern .NET web application."
+  },
+  {
+    "Title": "Tiny TPU in a Week · Shri",
+    "Url": "https://5iri.me/blog/tiny-tpu-week",
+    "Timestamp": "2026-01-10T03:03:05",
+    "Domain": "5iri.me",
+    "Description": "2026-01-09"
+  },
+  {
+    "Title": "Claude Code sessions should be encrypted",
+    "Url": "https://yoav.blog/2026/01/09/claude-code-sessions-should-be-encrypted/",
+    "Timestamp": "2026-01-10T03:03:02",
+    "Domain": "yoav.blog",
+    "Description": "Claude Code is exploding in popularity right now, and people are using it for much more than writing code.\nEveryone should be using Claude Code more\nPMs, marketers, designers, founders, parents. Everyone.\nThe trick is to forget that it’s called Claude Code and instead think of it as Claude Local or Claude Agent. It’s essentially a super-intelligent AI running locally, able to do… pic.twitter.com/F6iDwYPMRY\n— Lenny Rachitsky (@lennysan) October 14, 2025 Whether it’s to manage your email, write peer performance feedback, or even be your Chief of Staff—people are putting sensitive, personal information into Claude Code. And the more we use it for non-coding work, the more the session files are valuable and private1."
+  },
+  {
+    "Title": "The 1000 commits problem | Dave Kiss",
+    "Url": "https://davekiss.com/blog/the-1000-commits-problem",
+    "Timestamp": "2026-01-10T03:02:58",
+    "Domain": "davekiss.com",
+    "Description": "Software is moving faster than humans can manage. The old ways don't scale to AI-assisted velocity."
+  },
+  {
+    "Title": "We are still the OS | Gwendall",
+    "Url": "https://www.gwendall.com/notes/we-are-still-the-os",
+    "Timestamp": "2026-01-10T03:02:54",
+    "Domain": "www.gwendall.com",
+    "Description": "The brain is like a computer with limited RAM. \n\nWhen you have too many thoughts / cognitive tasks going on in parallel, you can get slower and burn out. \n\nAI a"
+  },
+  {
+    "Title": "53 Times Flock Safety Hardcoded the Password for America's Surveillance Infrastructure",
+    "Url": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+    "Timestamp": "2026-01-10T03:02:51",
+    "Domain": "nexanet.ai",
+    "Description": "A responsible disclosure documenting an organization-wide ArcGIS API key exposed across 53 public-facing assets, granting access to the mapping infrastructure underlying approximately 12,000 law enforcement, community, and private sector deployments."
+  },
+  {
+    "Title": "Life Happens at 1x Speed",
+    "Url": "https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/",
+    "Timestamp": "2026-01-10T03:02:48",
+    "Domain": "terriblesoftware.org",
+    "Description": "Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to everything."
+  },
+  {
+    "Title": "Garbage collection is contrarian · Nova",
+    "Url": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+    "Timestamp": "2026-01-10T03:02:44",
+    "Domain": "trynova.dev",
+    "Description": "Modeling unrooted handles to garbage collected data using contravariant lifetimes."
+  },
+  {
+    "Title": "Avoiding TanStack Form Pitfalls",
+    "Url": "https://matthuggins.com/blog/posts/avoiding-tanstack-form-pitfalls",
+    "Timestamp": "2026-01-10T03:02:41",
+    "Domain": "matthuggins.com",
+    "Description": "While integrating TanStack Form with schema validation libraries like Zod, I ran into a subtle type system gap that caused validation errors to silently fail. Here's how I diagnosed the issue and built a type-safe wrapper to prevent it from happening again."
+  },
+  {
+    "Title": "Tom Silver | Prompt Fiddling Considered Harmful",
+    "Url": "https://tomsilver.github.io/blog/2026/prompt-fiddling/",
+    "Timestamp": "2026-01-10T03:02:37",
+    "Domain": "tomsilver.github.io",
+    "Description": "Tom Silver's academic website. "
+  },
+  {
+    "Title": "Everyone Codes Isn't About Coding",
+    "Url": "https://cameronwestland.com/everyone-codes-isnt-about-coding/",
+    "Timestamp": "2026-01-10T03:02:33",
+    "Domain": "cameronwestland.com",
+    "Description": "I watched our CEO and a senior technical leader debate “everyone ships code” in a Slack thread this week. The technical leader is exactly the kind …"
+  },
+  {
+    "Title": "PACER Isn't Just Expensive — It Forces You to Pay Before You Understand Anything",
+    "Url": "https://asklexi.com/blog/pacer-forces-you-to-pay-before-you-understand",
+    "Timestamp": "2026-01-10T03:02:30",
+    "Domain": "asklexi.com",
+    "Description": "PACER's per-page pricing turns curiosity into cost. The real problem isn't $0.10 per page—it's downloading everything just to understand anything."
+  },
+  {
+    "Title": "Non-Traditional Profiling — Matthew Gaudet",
+    "Url": "https://www.mgaudet.ca/technical/2026/1/8/non-traditional-profiling",
+    "Timestamp": "2026-01-10T03:02:26",
+    "Domain": "www.mgaudet.ca",
+    "Description": "Edited to Add:  I should mention this code is nowhere. Given I don’t entirely know how actionable this ends up being, and the code quality is subpar, I haven’t even pushed this code. Think of this as an inspiration, not a feature announcement."
+  },
+  {
+    "Title": "claude code and the shift",
+    "Url": "https://pikseladam.com/10-01-2026-claude-code-and-the-shift/",
+    "Timestamp": "2026-01-10T03:02:22",
+    "Domain": "pikseladam.com",
+    "Description": "how ai coding assistants are changing everything faster than we expected"
+  }
+]

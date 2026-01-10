@@ -1,5 +1,141 @@
 [
   {
+    "Title": "The future of Stack Overflow",
+    "Url": "https://waspdev.com/articles/2026-01-09/the-future-of-stack-overflow",
+    "Timestamp": "2026-01-10T03:03:19",
+    "Domain": "waspdev.com",
+    "Description": "Stack Overflow, once the cornerstone developer communities, is fading away. What is the future of Stack Overflow considering its recent declining popularity?",
+    "Confidence": 0.88085043
+  },
+  {
+    "Title": "Please stop building scroll-driven websites",
+    "Url": "https://adamhl.dev/blog/stop-building-scroll-driven-websites",
+    "Timestamp": "2026-01-10T03:03:15",
+    "Domain": "adamhl.dev",
+    "Description": "Does it look cool? Yes. Is it distracting and annoying? Also yes.",
+    "Confidence": 0.9883452
+  },
+  {
+    "Title": "Why Claude Code feels different",
+    "Url": "https://www.nvegater.com/blog/ClaudeCodeAdvantage",
+    "Timestamp": "2026-01-10T03:03:12",
+    "Domain": "www.nvegater.com",
+    "Description": "Claude Code shows me an unusual ability across massive and complex codebases, while others struggle despite using the same base models.\nI use many coding tools daily: Claude Code, Cursor, Jetbrains AI, Antigravity, Zed, and Warp. I won't go into detail about each one of the use cases, but across all of them, Claude Code is consistently better.",
+    "Confidence": 0.9848719
+  },
+  {
+    "Title": "Stored Procedures Considered Harmful",
+    "Url": "https://pouyamiri.com/blog/stored-procedures-considered-harmful",
+    "Timestamp": "2026-01-10T03:03:09",
+    "Domain": "pouyamiri.com",
+    "Description": "Having used stored procedures extensively in the past year, I have come to the conclusion that they bring more pain than good in a modern .NET web application.",
+    "Confidence": 0.99507695
+  },
+  {
+    "Title": "Tiny TPU in a Week · Shri",
+    "Url": "https://5iri.me/blog/tiny-tpu-week",
+    "Timestamp": "2026-01-10T03:03:05",
+    "Domain": "5iri.me",
+    "Description": "2026-01-09",
+    "Confidence": 0.8065744
+  },
+  {
+    "Title": "Claude Code sessions should be encrypted",
+    "Url": "https://yoav.blog/2026/01/09/claude-code-sessions-should-be-encrypted/",
+    "Timestamp": "2026-01-10T03:03:02",
+    "Domain": "yoav.blog",
+    "Description": "Claude Code is exploding in popularity right now, and people are using it for much more than writing code.\nEveryone should be using Claude Code more\nPMs, marketers, designers, founders, parents. Everyone.\nThe trick is to forget that it’s called Claude Code and instead think of it as Claude Local or Claude Agent. It’s essentially a super-intelligent AI running locally, able to do… pic.twitter.com/F6iDwYPMRY\n— Lenny Rachitsky (@lennysan) October 14, 2025 Whether it’s to manage your email, write peer performance feedback, or even be your Chief of Staff—people are putting sensitive, personal information into Claude Code. And the more we use it for non-coding work, the more the session files are valuable and private1.",
+    "Confidence": 0.9981
+  },
+  {
+    "Title": "The 1000 commits problem | Dave Kiss",
+    "Url": "https://davekiss.com/blog/the-1000-commits-problem",
+    "Timestamp": "2026-01-10T03:02:58",
+    "Domain": "davekiss.com",
+    "Description": "Software is moving faster than humans can manage. The old ways don't scale to AI-assisted velocity.",
+    "Confidence": 0.98006713
+  },
+  {
+    "Title": "We are still the OS | Gwendall",
+    "Url": "https://www.gwendall.com/notes/we-are-still-the-os",
+    "Timestamp": "2026-01-10T03:02:54",
+    "Domain": "www.gwendall.com",
+    "Description": "The brain is like a computer with limited RAM. \n\nWhen you have too many thoughts / cognitive tasks going on in parallel, you can get slower and burn out. \n\nAI a",
+    "Confidence": 0.9306571
+  },
+  {
+    "Title": "53 Times Flock Safety Hardcoded the Password for America's Surveillance Infrastructure",
+    "Url": "https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure",
+    "Timestamp": "2026-01-10T03:02:51",
+    "Domain": "nexanet.ai",
+    "Description": "A responsible disclosure documenting an organization-wide ArcGIS API key exposed across 53 public-facing assets, granting access to the mapping infrastructure underlying approximately 12,000 law enforcement, community, and private sector deployments.",
+    "Confidence": 0.8150999
+  },
+  {
+    "Title": "Life Happens at 1x Speed",
+    "Url": "https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/",
+    "Timestamp": "2026-01-10T03:02:48",
+    "Domain": "terriblesoftware.org",
+    "Description": "Why I stopped consuming content at 2x speed, and the simple rule that changed how I listen to everything.",
+    "Confidence": 0.97737396
+  },
+  {
+    "Title": "Garbage collection is contrarian · Nova",
+    "Url": "https://trynova.dev/blog/garbage-collection-is-contrarian",
+    "Timestamp": "2026-01-10T03:02:44",
+    "Domain": "trynova.dev",
+    "Description": "Modeling unrooted handles to garbage collected data using contravariant lifetimes.",
+    "Confidence": 0.9920909
+  },
+  {
+    "Title": "Avoiding TanStack Form Pitfalls",
+    "Url": "https://matthuggins.com/blog/posts/avoiding-tanstack-form-pitfalls",
+    "Timestamp": "2026-01-10T03:02:41",
+    "Domain": "matthuggins.com",
+    "Description": "While integrating TanStack Form with schema validation libraries like Zod, I ran into a subtle type system gap that caused validation errors to silently fail. Here's how I diagnosed the issue and built a type-safe wrapper to prevent it from happening again.",
+    "Confidence": 0.98499715
+  },
+  {
+    "Title": "Tom Silver | Prompt Fiddling Considered Harmful",
+    "Url": "https://tomsilver.github.io/blog/2026/prompt-fiddling/",
+    "Timestamp": "2026-01-10T03:02:37",
+    "Domain": "tomsilver.github.io",
+    "Description": "Tom Silver's academic website. ",
+    "Confidence": 0.9650496
+  },
+  {
+    "Title": "Everyone Codes Isn't About Coding",
+    "Url": "https://cameronwestland.com/everyone-codes-isnt-about-coding/",
+    "Timestamp": "2026-01-10T03:02:33",
+    "Domain": "cameronwestland.com",
+    "Description": "I watched our CEO and a senior technical leader debate “everyone ships code” in a Slack thread this week. The technical leader is exactly the kind …",
+    "Confidence": 0.89687216
+  },
+  {
+    "Title": "PACER Isn't Just Expensive — It Forces You to Pay Before You Understand Anything",
+    "Url": "https://asklexi.com/blog/pacer-forces-you-to-pay-before-you-understand",
+    "Timestamp": "2026-01-10T03:02:30",
+    "Domain": "asklexi.com",
+    "Description": "PACER's per-page pricing turns curiosity into cost. The real problem isn't $0.10 per page—it's downloading everything just to understand anything.",
+    "Confidence": 0.9389764
+  },
+  {
+    "Title": "Non-Traditional Profiling — Matthew Gaudet",
+    "Url": "https://www.mgaudet.ca/technical/2026/1/8/non-traditional-profiling",
+    "Timestamp": "2026-01-10T03:02:26",
+    "Domain": "www.mgaudet.ca",
+    "Description": "Edited to Add:  I should mention this code is nowhere. Given I don’t entirely know how actionable this ends up being, and the code quality is subpar, I haven’t even pushed this code. Think of this as an inspiration, not a feature announcement.",
+    "Confidence": 0.9927868
+  },
+  {
+    "Title": "claude code and the shift",
+    "Url": "https://pikseladam.com/10-01-2026-claude-code-and-the-shift/",
+    "Timestamp": "2026-01-10T03:02:22",
+    "Domain": "pikseladam.com",
+    "Description": "how ai coding assistants are changing everything faster than we expected",
+    "Confidence": 0.98075634
+  },
+  {
     "Title": "Lend Me Your Ears",
     "Url": "https://lend-me-your-ears.specr.net/",
     "Timestamp": "2026-01-09T22:02:17",
@@ -62,13 +198,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "For the past decade, I've used Mailhog for local email debugging. Besides working on web applications that deal with email, I've long used email as the primary notification system for comments on the blog.\nI built an Ansible role for Mailhog, and it was one of the main features of Drupal VM, a popular local development environment for Drupal I sunset 3 years ago.\nUnfortunately, barring any future updates from the maintainers, it seems like Mailhog has not been maintained for four years now. It still works, but something as complex as an email debugging environment needs ongoing maintenance to stay relevant.",
     "Confidence": 0.99519116
-  },
-  {
-    "Title": "We might have been slower to abandon Stack Overflow if it wasn't a toxic hellhole",
-    "Url": "https://www.pcloadletter.dev/blog/abandoning-stackoverflow/",
-    "Timestamp": "2026-01-09T03:02:12",
-    "Domain": "www.pcloadletter.dev",
-    "Description": "What the **** does that mean?",
-    "Confidence": 0.9810089
   }
 ]
