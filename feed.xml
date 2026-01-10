@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Terence Tao (@tao@mathstodon.xyz)</title>
+      <link>https://mathstodon.xyz/@tao/115855840223258103</link>
+      <description>Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).
+
+This is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)</description>
+      <category>ai</category>
+      <guid>https://mathstodon.xyz/@tao/115855840223258103</guid>
+      <pubDate>Sat, 10 Jan 2026 04:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>You probably don't need Oh My Zsh</title>
+      <link>https://rushter.com/blog/zsh-shell/</link>
+      <description>Why you might not need Oh My Zsh for your Zsh configuration.</description>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://rushter.com/blog/zsh-shell/</guid>
+      <pubDate>Sat, 10 Jan 2026 04:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>The future of Stack Overflow</title>
       <link>https://waspdev.com/articles/2026-01-09/the-future-of-stack-overflow</link>
       <description>Stack Overflow, once the cornerstone developer communities, is fading away. What is the future of Stack Overflow considering its recent declining popularity?</description>
@@ -224,18 +245,6 @@ AI a</description>
 </description>
       <guid>https://idiallo.com/blog/what-should-i-write-about?src=feed</guid>
       <pubDate>Fri, 09 Jan 2026 12:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Local Email Debugging with Mailpit</title>
-      <link>https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/</link>
-      <description>For the past decade, I've used Mailhog for local email debugging. Besides working on web applications that deal with email, I've long used email as the primary notification system for comments on the blog.
-I built an Ansible role for Mailhog, and it was one of the main features of Drupal VM, a popular local development environment for Drupal I sunset 3 years ago.
-Unfortunately, barring any future updates from the maintainers, it seems like Mailhog has not been maintained for four years now. It still works, but something as complex as an email debugging environment needs ongoing maintenance to stay relevant.</description>
-      <category>containers</category>
-      <category>sql</category>
-      <category>web</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/mailpit-local-email-debugging/</guid>
-      <pubDate>Fri, 09 Jan 2026 04:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
