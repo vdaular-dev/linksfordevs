@@ -198,21 +198,5 @@
     "Domain": "youtu.be",
     "Description": "My motivation when starting this project was to build an engine that enables high fidelity modifications to world geometry during gameplay. In most games, the game world is relatively static. In the games where geometry is dynamic - like Minecraft or No Man's Sky - modifications to the world are usually relatively crude and low-fidelity. \n\nMy engine supports detailed changes to world geometry - adding and removing matter both smoothly or with sharp edges. It also supports non-destructive changes like moving a hole around, or creating a tunnel and walking through it - and then seeing it disappear behind you. I'm excited about these non-destructive changes in particular as they enable a lot of interesting gameplay mechanics.\n\nI've started building a game with this engine, which I will be saying more about as I make more progress.\n\nI post frequent updates on Twitter: https://x.com/miketuritzin\nAnd also on Bluesky: https://bsky.app/profile/miketuritzin.bsky.social\n\nResources:\n\nVideo intro to SDFs and ray-marching by Sebastian Lague: https://www.youtube.com/watch?v=Cp5WWtMoeKg\nInigo Quilez's articles (many on SDFs): https://iquilezles.org/articles/\n\"SDF Tracing Visualization\" Shadertoy (paniq): https://www.shadertoy.com/view/lslXD8\n\"Improved Alpha-Tested Magnification for Vector Textures and Special Effects\" (Chris Green (Valve), 2007): https://steamcdn-a.akamaihd.net/apps/valve/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf\n\"Ray Tracing of Signed Distance Function Grids\" (Söderlund et al (NVIDIA), 2022): https://jcgt.org/published/0011/03/06/paper-lowres.pdf\n\"Geometry Clipmaps: Terrain Rendering Using Nested Regular Grids\" (Losasso & Hoppe, 2004): https://hhoppe.com/geomclipmap.pdf\nJolt Physics: https://github.com/jrouwe/JoltPhysics\n\nChapters:\n\n0:00 - Intro reel and motivation\n1:03 - Short intro to SDFs\n1:56 - Ray-marching perf problems\n2:32 - Inspiration: Dreams on PS4\n3:09 - Background on my approach\n4:15 - Caching SDF distances\n5:33 - Interpolating cached values\n7:49 - Memory usage woes\n8:43 - Caching distances sparsely\n9:16 - Brick-map and brick atlas\n10:34 - Why not a triangle mesh\n11:09 - Supporting vast spaces\n11:44 - Geometry clipmaps\n12:34 - Dramatic memory reductions\n12:58 - Fast incremental updates\n14:29 - Physics and collision\n15:40 - Terrain (also an SDF!)\n16:20 - More examples of cool stuff\n18:33 - Making a game, and wrap up\n\nAsset credits:\n\nMusic: Blinking Lights by Alexander Nakarada (https://www.creatorchords.com)\nLicensed under Creative Commons BY Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/\n\nMusic: Transcendence by Alexander Nakarada (https://www.creatorchords.com)\nLicensed under Creative Commons BY Attribution 4.0 License\nhttps://creativecommons.org/licenses/by/4.0/",
     "Confidence": 0.9401475
-  },
-  {
-    "Title": "The Rise of Computer Games, Part I: Adventure",
-    "Url": "https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/",
-    "Timestamp": "2026-01-10T08:02:04",
-    "Domain": "technicshistory.com",
-    "Description": "Author’s note: I originally intended for this post to cover adventure games, computer role-playing games, wargames and other simulations, a brief look at the home video game market, and final…",
-    "Confidence": 0.81546015
-  },
-  {
-    "Title": "RFC 5737 IPs: Reserved for Documentation and Examples | Pure Krome",
-    "Url": "https://www.world-domination.com.au/posts/2026/rfc-5737-ips/",
-    "Timestamp": "2026-01-10T08:02:00",
-    "Domain": "www.world-domination.com.au",
-    "Description": "📚 Understanding RFC 5737 IP address ranges reserved for documentation and examples.",
-    "Confidence": 0.98493737
   }
 ]
