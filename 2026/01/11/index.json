@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Finding and Fixing Ghostty's Largest Memory Leak",
+    "Url": "https://mitchellh.com/writing/ghostty-memory-leak-fix",
+    "Timestamp": "2026-01-11T03:02:14",
+    "Domain": "mitchellh.com",
+    "Description": "A few months ago, users started reporting that Ghostty was consuming absurd\namounts of memory, with one user reporting 37 GB after 10 days of uptime.\nToday, I'm happy to say the fix has been found and merged.\nThis post is an overview of what caused the leak, a look at some of\nGhostty's internals, and some brief descriptions of how we tracked it down.1"
+  },
+  {
     "Title": "Techrastination",
     "Url": "https://ckardaris.github.io/blog/2026/01/10/techrastination.html",
     "Timestamp": "2026-01-11T01:03:16",
