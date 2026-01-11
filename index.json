@@ -214,21 +214,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Terence Tao (@tao@mathstodon.xyz)",
-    "Url": "https://mathstodon.xyz/@tao/115855840223258103",
-    "Timestamp": "2026-01-10T04:02:27",
-    "Domain": "mathstodon.xyz",
-    "Description": "Recently, the application of AI tools to Erdos problems passed a milestone: an Erdos problem (#728 https://www.erdosproblems.com/728) was solved more or less autonomously by AI (after some feedback from an initial attempt), in the spirit of the problem (as reconstructed by the Erdos problem website community), with the result (to the best of our knowledge) not replicated in existing literature (although similar results proven by similar methods were located).\n\nThis is a demonstration of the genuine increase in capability of these tools in recent months, and is largely consistent with other recent demonstrations of AI using existing methods to resolve Erdos problems, although in most previous cases a solution to these problems was later located in the literature, as discussed in https://mathstodon.xyz/deck/@tao/115788262274999408 .  This particular case was unusual in that the problem as stated by Erdos was misformulated, with a reconstruction of the problem in the intended spirit only obtained in the last few months, which helps explain the lack of prior literature on the problem.  However, I would like to talk here about another aspect of the story which I find more interesting than the solution itself, which is the emerging AI-powered capability to rapidly write and rewrite expositions of the solution.  (1/5)",
-    "Confidence": 0.83874375
-  },
-  {
-    "Title": "You probably don't need Oh My Zsh",
-    "Url": "https://rushter.com/blog/zsh-shell/",
-    "Timestamp": "2026-01-10T04:02:21",
-    "Domain": "rushter.com",
-    "Description": "Why you might not need Oh My Zsh for your Zsh configuration.",
-    "Confidence": 0.99808294
   }
 ]
