@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Trails</title>
+      <link>https://trails.pieterma.es/</link>
+      <description>Thematic links across books, automatically discovered by Claude.</description>
+      <guid>https://trails.pieterma.es/</guid>
+      <pubDate>Sun, 11 Jan 2026 05:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Finding and Fixing Ghostty's Largest Memory Leak</title>
       <link>https://mitchellh.com/writing/ghostty-memory-leak-fix</link>
       <description>A few months ago, users started reporting that Ghostty was consuming absurd
