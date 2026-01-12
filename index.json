@@ -1,5 +1,13 @@
 [
   {
+    "Title": "YAML? That’s Norway problem",
+    "Url": "https://lab174.com/blog/202601-yaml-norway/",
+    "Timestamp": "2026-01-12T23:02:17",
+    "Domain": "lab174.com",
+    "Description": "Yaml is a well-known data\nserialization language designed for human readability. It’s a popular\nchoice for configuration files and metadata. Here’s a simple\nexample:",
+    "Confidence": 0.9900819
+  },
+  {
     "Title": "Introducing Cowork | Claude  | Claude",
     "Url": "https://claude.com/blog/cowork-research-preview",
     "Timestamp": "2026-01-12T22:02:14",
@@ -198,13 +206,5 @@
     "Domain": "github.com",
     "Description": "A command-line tool to download photos from iCloud - icloud-photos-downloader/icloud_photos_downloader",
     "Confidence": 0.9995219
-  },
-  {
-    "Title": "The struggle of resizing windows on macOS Tahoe – no.heger",
-    "Url": "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/",
-    "Timestamp": "2026-01-11T23:02:16",
-    "Domain": "noheger.at",
-    "Description": "A lot has already been said about the absurdly large corner radius of windows on macOS Tahoe. People are calling the way it looks comical, like a child’s toy, or downright insane.",
-    "Confidence": 0.8888009
   }
 ]
