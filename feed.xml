@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Statement from Federal Reserve Chair Jerome H. Powell</title>
+      <link>https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm</link>
+      <description> Good evening.  On Friday, the Department of Justice served the Federal Reserve with grand jury subpoenas, threatening a criminal indictment related to my testi</description>
+      <guid>https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm</guid>
+      <pubDate>Mon, 12 Jan 2026 03:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Statement by Federal Reserve Chair Jerome H. Powell</title>
       <link>https://youtube.com/watch?v=KckGHaBLSn4</link>
       <description>https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
@@ -213,18 +220,6 @@ Null pointer dereferences are empirically the easiest class of invalid memory ad
       <description>Thematic links across books, automatically discovered by Claude.</description>
       <guid>https://trails.pieterma.es/</guid>
       <pubDate>Sun, 11 Jan 2026 05:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finding and Fixing Ghostty's Largest Memory Leak</title>
-      <link>https://mitchellh.com/writing/ghostty-memory-leak-fix</link>
-      <description>A few months ago, users started reporting that Ghostty was consuming absurd
-amounts of memory, with one user reporting 37 GB after 10 days of uptime.
-Today, I'm happy to say the fix has been found and merged.
-This post is an overview of what caused the leak, a look at some of
-Ghostty's internals, and some brief descriptions of how we tracked it down.1</description>
-      <category>ai</category>
-      <guid>https://mitchellh.com/writing/ghostty-memory-leak-fix</guid>
-      <pubDate>Sun, 11 Jan 2026 03:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
