@@ -1,5 +1,101 @@
 [
   {
+    "Title": "The Agent Fallacy",
+    "Url": "https://noemititarenco.com/blog/the-agent-fallacy-prompt-orchestration/",
+    "Timestamp": "2026-01-12T01:02:50",
+    "Domain": "noemititarenco.com",
+    "Description": "The Agent Fallacy",
+    "Confidence": 0.9915031
+  },
+  {
+    "Title": "My Attempt at Independence from Big-Tech",
+    "Url": "https://blog.antonlydike.de/My%20Attempt%20at%20Independence%20from%20Big-Tech.html",
+    "Timestamp": "2026-01-12T01:02:47",
+    "Domain": "blog.antonlydike.de",
+    "Description": "I've been trying to stay ahead of the great enshittifcation. During which I thought a lot about the incentives involved, created some rules of thumb and discovered some cool services, which I wanted to talk about in this post.",
+    "Confidence": 0.9511203
+  },
+  {
+    "Title": "Axioms of Polity",
+    "Url": "https://colinsteele.org/blog/axioms_of_polity/",
+    "Timestamp": "2026-01-12T01:02:42",
+    "Domain": "colinsteele.org",
+    "Description": "A manifesto for human/machine polity charting civispace. Neither as apex mind. A forest.",
+    "Confidence": 0.95699346
+  },
+  {
+    "Title": "Culture Isn't Stagnating, You Guys Are Just Old",
+    "Url": "https://www.jenn.site/culture-isnt-stagnating-you-guys-are-just-old/",
+    "Timestamp": "2026-01-12T01:02:39",
+    "Domain": "www.jenn.site",
+    "Description": "People who talk about how culture is stagnating[^1] all point to around the same arguments: movies are all sequels, books and music are getting simpler, Netf...",
+    "Confidence": 0.877551
+  },
+  {
+    "Title": "Always Already Betas",
+    "Url": "https://disjunctionsmag.com/articles/always-already-betas/",
+    "Timestamp": "2026-01-12T01:02:36",
+    "Domain": "disjunctionsmag.com",
+    "Description": "The user subject and the GPT grindset",
+    "Confidence": 0.7814004
+  },
+  {
+    "Title": "Sophisticated Simplicity of Modern SQLite",
+    "Url": "https://shivekkhurana.com/blog/sqlite-in-production/",
+    "Timestamp": "2026-01-12T01:02:32",
+    "Domain": "shivekkhurana.com",
+    "Description": "A benchmark-driven guide to tuning SQLite for production workloads",
+    "Confidence": 0.9924285
+  },
+  {
+    "Title": "Writing a work log",
+    "Url": "https://fredrikmeyer.net/2026/01/11/work-log.html",
+    "Timestamp": "2026-01-12T01:02:28",
+    "Domain": "fredrikmeyer.net",
+    "Description": "About a year ago I started writing a “work diary”. The process is simple: at the end of the day, I write a few sentences of what I did that day at work.",
+    "Confidence": 0.9585245
+  },
+  {
+    "Title": "Weird DNS behavior on Alpine Linux - .local and mDNS",
+    "Url": "https://ozelot.fyi/blog/weird-dns-behavior-on-alpine-linux/",
+    "Timestamp": "2026-01-12T01:02:25",
+    "Domain": "ozelot.fyi",
+    "Description": "Learn why .local name resolution behaves differently on Alpine Linux and minimal environments.",
+    "Confidence": 0.96927464
+  },
+  {
+    "Title": "Diagnosing performance issues in .NET applications with dotnet-trace and Perfetto",
+    "Url": "https://dfamonteiro.com/posts/using-dotnet-trace-with-perfetto/",
+    "Timestamp": "2026-01-12T01:02:22",
+    "Domain": "dfamonteiro.com",
+    "Description": "As the software industry transitioned towards more cloud-centric environments, programming languages have had to focus on treating virtualized Linux environments as first-class citizens or risk getting left behind. C# was no exception and for this language to maintain its popularity, Microsoft had to perform a complete overhaul of the .NET runtime to make it cloud-ready.\nAs part of this initiative to make .NET platform-agnostic, a supporting cast of CLI diagnostic tools was developed from scratch with the goal of uniformizing the developer experience of diagnosing C# applications across operating systems. One of these tools is dotnet-trace: a tool that can be hooked into a running .NET application to collect tracing data which can then be analysed with trace viewers.",
+    "Confidence": 0.988436
+  },
+  {
+    "Title": "FUSE is All You Need - Giving agents access to anything via filesystems",
+    "Url": "https://jakobemmerling.de/posts/fuse-is-all-you-need/",
+    "Timestamp": "2026-01-12T01:02:18",
+    "Domain": "jakobemmerling.de",
+    "Description": "Giving agents access to a sandboxed environment with a shell and a filesystem has been the latest hype when it comes to agentic harnesses. Recent examples of this include:\nTurso’s AgentFS Anthropic’s Agent SDK, which brings Claude Code’s harness to non-coding domains Vercel rebuilding their text-to-SQL agent on top of a sandbox Anthropic’s Agent Skills for filesystem-based progressive disclosure The argument for why this is good goes something like this:\nThe big labs are doing heavy RL for coding tasks in these kinds of environments. Aligning more closely with such a harness brings free gains from the coding domain to other problem spaces.",
+    "Confidence": 0.99593985
+  },
+  {
+    "Title": "Mitigating the Billion Dollar Mistake",
+    "Url": "https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/",
+    "Timestamp": "2026-01-12T01:02:15",
+    "Domain": "www.gingerbill.org",
+    "Description": "This article is continuation to: Was it really a Billion Dollar Mistake?.\nAfter reading a lot of the comments on numerous social media sites on the original article, I think I need to clarify a lot more.\nThe main points I wanted to clarify:\nNull pointer dereferences are empirically the easiest class of invalid memory addresses to catch at runtime, and are the least common kind of invalid memory addresses that happen in memory unsafe languages. I do think it was a costly mistake but the “obvious solutions” to the problem are probably just as costly, if not more so, but in very subtle ways which most people neglected to understand in the article1. I think that even if Tony Hoare didn’t “invent” NULL pointers, within a couple years someone else would have. I don’t think it’s a “mistake” the programming world was ever going to avoid. I am talking about languages that run on modern systems with virtual memory, not embedded systems where you interact with physical memory directly. Those platforms in my opinion need much different kinds of languages which unfortunately do not exist yet. I was also talking about languages akin to C and Odin, not languages that run on a VM or have “everything be a reference”. Languages where Everything is a Pointer A lot of commentors based their complaints in their experience with languages like Java/C#/Python/etc, and the issues with null-pointer-exceptions (NPEs) in them. What I think a lot of people seemed to forget is that in those languages, virtually everything is a pointer, unlike in a language like C/Go/Odin which has explicit pointers. When everything is a pointer, it is exponentially more likely that you will hit a pointer that is invalid. And in the case of a managed (garbage collected) language, that invalid pointer will most definitely be a null pointer. This is why I can understand the problem of having null pointers in such languages.",
+    "Confidence": 0.9917564
+  },
+  {
+    "Title": "Impressed by Synology Support",
+    "Url": "https://blog.notmyhostna.me/posts/impressed-by-synology-support",
+    "Timestamp": "2026-01-12T01:02:12",
+    "Domain": "blog.notmyhostna.me",
+    "Description": "I've recently written about an issue that I have been experiencing with Synology Drive on macOS for many months. These days when you are running into …",
+    "Confidence": 0.9571038
+  },
+  {
     "Title": "GitHub - icloud-photos-downloader/icloud_photos_downloader: A command-line tool to download photos from iCloud",
     "Url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "Timestamp": "2026-01-12T00:02:11",
@@ -62,125 +158,5 @@
     "Domain": "mitchellh.com",
     "Description": "A few months ago, users started reporting that Ghostty was consuming absurd\namounts of memory, with one user reporting 37 GB after 10 days of uptime.\nToday, I'm happy to say the fix has been found and merged.\nThis post is an overview of what caused the leak, a look at some of\nGhostty's internals, and some brief descriptions of how we tracked it down.1",
     "Confidence": 0.96863705
-  },
-  {
-    "Title": "Techrastination",
-    "Url": "https://ckardaris.github.io/blog/2026/01/10/techrastination.html",
-    "Timestamp": "2026-01-11T01:03:16",
-    "Domain": "ckardaris.github.io",
-    "Description": "When hacking meets procrastination",
-    "Confidence": 0.9841293
-  },
-  {
-    "Title": "Another Round, Another Agent | Stephen Bochinski",
-    "Url": "https://stephen.bochinski.dev/blog/2026/01/10/another-round-another-agent/",
-    "Timestamp": "2026-01-11T01:03:12",
-    "Domain": "stephen.bochinski.dev",
-    "Description": "Another Round follows teachers who experiment with drinking to see if it makes them better at their jobs, chasing a kind of Balmer Peak effect. It works for ...",
-    "Confidence": 0.8746035
-  },
-  {
-    "Title": "Common misunderstandings about large software companies – Vallified",
-    "Url": "https://philipotoole.com/common-misunderstandings-about-large-software-companies/",
-    "Timestamp": "2026-01-11T01:03:09",
-    "Domain": "philipotoole.com",
-    "Description": "I sometimes read commentary about large software companies and notice a recurring pattern. People correctly identify real characteristics of large organizations, criticize them, but show little appreciation for why those characteristics exist in the first place. This is not an abstract topic for me. I have worked at very large firms - Nortel and Google,…",
-    "Confidence": 0.98413795
-  },
-  {
-    "Title": "Code Is Cheap Now. Software Isn’t.",
-    "Url": "https://www.chrisgregori.dev/opinion/code-is-cheap-now-software-isnt",
-    "Timestamp": "2026-01-11T01:03:06",
-    "Domain": "www.chrisgregori.dev",
-    "Description": "The barrier to entry for building software has collapsed. The barrier to building something that matters hasn’t moved an inch.",
-    "Confidence": 0.98631144
-  },
-  {
-    "Title": "How the hell are you supposed to have a career in tech in 2026? - Anil Dash",
-    "Url": "https://www.anildash.com/2026/01/05/a-tech-career-in-2026/",
-    "Timestamp": "2026-01-11T01:03:03",
-    "Domain": "www.anildash.com",
-    "Description": "A blog about making culture. Since 1999.",
-    "Confidence": 0.9110183
-  },
-  {
-    "Title": "Rationality, Reward, and Sleep Training",
-    "Url": "https://dogdogfish.com/blog/2026/01/10/rationality-psychology-sleep-training/",
-    "Timestamp": "2026-01-11T01:03:00",
-    "Domain": "dogdogfish.com",
-    "Description": "Let us assume that babies are rational economic creatures who act in their own interests. It therefore follows that…",
-    "Confidence": 0.89691186
-  },
-  {
-    "Title": "The Code-Only Agent",
-    "Url": "https://rijnard.com/blog/the-code-only-agent",
-    "Timestamp": "2026-01-11T01:02:56",
-    "Domain": "rijnard.com",
-    "Description": "When code execution really is all you need. Exploring what happens when an AI agent can only write and run code.",
-    "Confidence": 0.9973906
-  },
-  {
-    "Title": "I Tried to Find REAL Uses for Dell's GB10 — And It Passed",
-    "Url": "https://youtube.com/watch?v=TLp1v2GsOHA",
-    "Timestamp": "2026-01-11T01:02:53",
-    "Domain": "youtube.com",
-    "Description": "An Edge Supercomputer... So I did what I always do: I tried to make one actually earn its keep.\n\nOn the bench today is Dell’s GB10 — a compact Grace-Blackwell system that claims petaflop-class AI performance without a datacenter, a cloud bill, or a breaker panel upgrade. Specs are easy. Real usefulness is harder.\n\nFree Sample of my Book on the Spectrum: https://amzn.to/3zBinWM\n\nFor the Slate 7 Router: https://amzn.to/4pJfZ4Q\nFor the Slate AX 1800: https://amzn.to/49hKPt2\n\nCheck out ShopTalk, our weekly podcast, every Friday!\nhttps://www.youtube.com/@davepl\n\nImage Credit: Serve The Home!\n\nCar Detection Code: https://github.com/davepl/ObjectDetect",
-    "Confidence": 0.9988887
-  },
-  {
-    "Title": "Pointer latency",
-    "Url": "https://rsms.me/projects/pointer-latency/",
-    "Timestamp": "2026-01-11T01:02:52",
-    "Domain": "rsms.me",
-    "Description": "This tests the delay of pointermove events in this web browser as well as demonstrates the\nusefulness (or perhaps the uselessness) of pointer prediction.",
-    "Confidence": 0.98085636
-  },
-  {
-    "Title": "High Agency Engineering",
-    "Url": "https://edtw.in/high-agency-engineering/",
-    "Timestamp": "2026-01-11T01:02:48",
-    "Domain": "edtw.in",
-    "Description": "High Agency Engineering As artists adapt to generative AI, software engineering has to evolve too. This is the path I am adopting.\nPlenty of engineers are struggling with their identity in this new age. Anxiety shows up even among the best of us, and anger isn’t far behind. I know both emotions. I pride myself on being a software craftsman, yet I am also the co-founder and CTO of an AI startup that keeps getting run over by paradigm shifts and better-funded startups (story for another day).",
-    "Confidence": 0.9769561
-  },
-  {
-    "Title": "Code is Clay",
-    "Url": "https://campedersen.com/code-is-clay",
-    "Timestamp": "2026-01-11T01:02:34",
-    "Domain": "campedersen.com",
-    "Description": "import { Hypercube, PotteryWheel, BreakingVase, ConveyorBelt, OneAmongMany } from './hypercube'; import Image from 'next/image'; import hypercubeClay from './hy",
-    "Confidence": 0.9889176
-  },
-  {
-    "Title": "I am Tired of Praise of Byproduct",
-    "Url": "https://win-vector.com/2026/01/10/i-am-tired-of-praise-of-byproduct/",
-    "Timestamp": "2026-01-11T01:02:28",
-    "Domain": "win-vector.com",
-    "Description": "I’ve been worrying a bit over the philosophy of creation and dissemination in the era of LLMs (large language models). I feel we are overly impressed with the byproduct or even the bycatch. L…",
-    "Confidence": 0.9363828
-  },
-  {
-    "Title": "My best tricks from 13 years of losing weight",
-    "Url": "https://blinry.org/weight-loss/",
-    "Timestamp": "2026-01-11T01:02:25",
-    "Domain": "blinry.org",
-    "Description": "Over the years, I tried many techniques and tricks that helped me lose weight. In this article, I want to share the best of them! Maybe some of them can be useful for you, as well.",
-    "Confidence": 0.937574
-  },
-  {
-    "Title": "What Claude Code Actually Sends to the Cloud",
-    "Url": "https://rastrigin.systems/blog/claude-code-part-1-requests/",
-    "Timestamp": "2026-01-11T01:02:20",
-    "Domain": "rastrigin.systems",
-    "Description": "An inspection of Claude Code's network requests, system prompt, and context handling by intercepting real traffic.",
-    "Confidence": 0.99816275
-  },
-  {
-    "Title": "Don't believe \"software never fails\"",
-    "Url": "https://www.slater.dev/2026/01/dont-believe-software-never-fails/",
-    "Timestamp": "2026-01-11T01:02:16",
-    "Domain": "www.slater.dev",
-    "Description": "Don't believe \"software never fails\"",
-    "Confidence": 0.9246259
   }
 ]
