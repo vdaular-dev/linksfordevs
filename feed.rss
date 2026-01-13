@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Lessons learned in the first 24h</title>
+      <link>https://davepermen.net/blog/moving-to-linux/lessons-learned-in-the-first-24h</link>
+      <description>'Lessons learned in the first 24h' written by davepermen</description>
+      <category>web</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://davepermen.net/blog/moving-to-linux/lessons-learned-in-the-first-24h</guid>
+      <pubDate>Tue, 13 Jan 2026 22:02:44 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Generated Music on Bandcamp</title>
       <link>https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</link>
       <description>Happy New Year, r/bandcamp! Hope you all enjoyed the Holiday Guide ([bandcamp.com/2025](http://bandcamp.com/2025)) and your 2025 Bandcamp...</description>
@@ -300,23 +310,6 @@ example:</description>
       <category>containers</category>
       <guid>https://lab174.com/blog/202601-yaml-norway/</guid>
       <pubDate>Mon, 12 Jan 2026 23:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing Cowork | Claude  | Claude</title>
-      <link>https://claude.com/blog/cowork-research-preview</link>
-      <description>Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.</description>
-      <category>ai</category>
-      <guid>https://claude.com/blog/cowork-research-preview</guid>
-      <pubDate>Mon, 12 Jan 2026 22:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Date is out, Temporal is in </title>
-      <link>https://piccalil.li/blog/date-is-out-and-temporal-is-in/</link>
-      <description>Temporal is the Date system we always wanted in JavaScript. It's extremely close to being available so Mat Marquis thought it would be a good idea to explain exactly what is better about this new JavaScript date system.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://piccalil.li/blog/date-is-out-and-temporal-is-in/</guid>
-      <pubDate>Mon, 12 Jan 2026 22:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

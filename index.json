@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Lessons learned in the first 24h",
+    "Url": "https://davepermen.net/blog/moving-to-linux/lessons-learned-in-the-first-24h",
+    "Timestamp": "2026-01-13T22:02:44",
+    "Domain": "davepermen.net",
+    "Description": "'Lessons learned in the first 24h' written by davepermen",
+    "Confidence": 0.98867404
+  },
+  {
     "Title": "AI Generated Music on Bandcamp",
     "Url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
     "Timestamp": "2026-01-13T21:02:28",
@@ -230,21 +238,5 @@
     "Domain": "lab174.com",
     "Description": "Yaml is a well-known data\nserialization language designed for human readability. It’s a popular\nchoice for configuration files and metadata. Here’s a simple\nexample:",
     "Confidence": 0.9900819
-  },
-  {
-    "Title": "Introducing Cowork | Claude  | Claude",
-    "Url": "https://claude.com/blog/cowork-research-preview",
-    "Timestamp": "2026-01-12T22:02:14",
-    "Domain": "claude.com",
-    "Description": "Claude Code's agentic capabilities, now for everyone. Give Claude access to your files and let it organize, create, and edit documents while you focus on what matters.",
-    "Confidence": 0.99116915
-  },
-  {
-    "Title": "Date is out, Temporal is in ",
-    "Url": "https://piccalil.li/blog/date-is-out-and-temporal-is-in/",
-    "Timestamp": "2026-01-12T22:02:09",
-    "Domain": "piccalil.li",
-    "Description": "Temporal is the Date system we always wanted in JavaScript. It's extremely close to being available so Mat Marquis thought it would be a good idea to explain exactly what is better about this new JavaScript date system.",
-    "Confidence": 0.9708623
   }
 ]
