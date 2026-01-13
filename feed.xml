@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Iran Internet Shutdown Report | Whisper</title>
+      <link>https://state-of-iranblackout.whisper.security/</link>
+      <description>Forensic analysis of Iran's coordinated internet shutdown with real-time BGP and censorship data.</description>
+      <guid>https://state-of-iranblackout.whisper.security/</guid>
+      <pubDate>Tue, 13 Jan 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Lessons learned in the first 24h</title>
       <link>https://davepermen.net/blog/moving-to-linux/lessons-learned-in-the-first-24h</link>
       <description>'Lessons learned in the first 24h' written by davepermen</description>
@@ -295,21 +302,6 @@ Timestamps
       <description>The tricky thing about my MPhil project is that I am researching a moving target. I am attempting to take current political affairs, which are unfolding very very fast, and translate them into normative legal shapes. This requires keeping an eye on many issues, as they unfold, to see whether they evolve into main characters or wither into side quests.</description>
       <guid>https://heatherburns.tech/2026/01/12/the-worst-fucking-app-idea-ever/</guid>
       <pubDate>Tue, 13 Jan 2026 01:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>YAML? That’s Norway problem</title>
-      <link>https://lab174.com/blog/202601-yaml-norway/</link>
-      <description>Yaml is a well-known data
-serialization language designed for human readability. It’s a popular
-choice for configuration files and metadata. Here’s a simple
-example:</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>ruby</category>
-      <category>python</category>
-      <category>containers</category>
-      <guid>https://lab174.com/blog/202601-yaml-norway/</guid>
-      <pubDate>Mon, 12 Jan 2026 23:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

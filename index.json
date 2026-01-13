@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Iran Internet Shutdown Report | Whisper",
+    "Url": "https://state-of-iranblackout.whisper.security/",
+    "Timestamp": "2026-01-13T23:02:37",
+    "Domain": "state-of-iranblackout.whisper.security",
+    "Description": "Forensic analysis of Iran's coordinated internet shutdown with real-time BGP and censorship data.",
+    "Confidence": 0.8502475
+  },
+  {
     "Title": "Lessons learned in the first 24h",
     "Url": "https://davepermen.net/blog/moving-to-linux/lessons-learned-in-the-first-24h",
     "Timestamp": "2026-01-13T22:02:44",
@@ -230,13 +238,5 @@
     "Domain": "heatherburns.tech",
     "Description": "The tricky thing about my MPhil project is that I am researching a moving target. I am attempting to take current political affairs, which are unfolding very very fast, and translate them into normative legal shapes. This requires keeping an eye on many issues, as they unfold, to see whether they evolve into main characters or wither into side quests.",
     "Confidence": 0.81057054
-  },
-  {
-    "Title": "YAML? That’s Norway problem",
-    "Url": "https://lab174.com/blog/202601-yaml-norway/",
-    "Timestamp": "2026-01-12T23:02:17",
-    "Domain": "lab174.com",
-    "Description": "Yaml is a well-known data\nserialization language designed for human readability. It’s a popular\nchoice for configuration files and metadata. Here’s a simple\nexample:",
-    "Confidence": 0.9900819
   }
 ]
