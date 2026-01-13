@@ -7,6 +7,197 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How alone do you feel?</title>
+      <link>https://chicagosignguy.com/blog/how-alone-do-you-feel.html</link>
+      <description>Written on January 12, 2026</description>
+      <guid>https://chicagosignguy.com/blog/how-alone-do-you-feel.html</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clipboard Images in Claude Code CLI</title>
+      <link>https://www.woodcp.com/2026/01/clipboard-images-in-claude-code-cli/</link>
+      <description>Anyone using Claude Code CLI in a terminal has probably hit the friction of sharing an image with it to see a problem. I would have to take a screenshot, save it somewhere, get the file path, and tell Claude in the prompt to look at it.</description>
+      <category>ai</category>
+      <guid>https://www.woodcp.com/2026/01/clipboard-images-in-claude-code-cli/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>A polyfill for the HTML switch element</title>
+      <link>https://blog.tomayac.com/2026/01/12/a-polyfill-for-the-html-switch-element/</link>
+      <description>The personal blog of Thomas Steiner</description>
+      <category>apple</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://blog.tomayac.com/2026/01/12/a-polyfill-for-the-html-switch-element/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>fhur</title>
+      <link>https://fhur.me/posts/2026/maybe-the-database-got-it-right</link>
+      <description>fhur's blog</description>
+      <category>python</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://fhur.me/posts/2026/maybe-the-database-got-it-right</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs Are Tools, Not Replacements – Roberto Selbach</title>
+      <link>https://rselbach.com/llms-are-tools-not-replacements/</link>
+      <description>I’ve been meaning to write this post for a bit, but never found the right time. I guess this is it. Until sometime last year, I was more or less an AI-skeptic. I say more or less because I was always very interested in the technology. I built my own LLM to learn about it and I thought then, as I do now, that the technology is incredible.</description>
+      <category>ai</category>
+      <guid>https://rselbach.com/llms-are-tools-not-replacements/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Build a Habit</title>
+      <link>https://dogdogfish.com/blog/2026/01/12/building-a-habit/</link>
+      <description>I’m doing my DPhil on digital habits and have therefore spent a whole bunch of time reading as much habit research as I can get my hands on. I’m also a legit real boy who lives in the real world. With those two things in mind, let me tell you what I know about building habits.</description>
+      <category>ai</category>
+      <guid>https://dogdogfish.com/blog/2026/01/12/building-a-habit/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>There's a ridiculous amount of tech in a disposable vape</title>
+      <link>https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html</link>
+      <description>So, I'm walking through a park when I see this thing lying on the ground: It's a disposable vape that someone has discarded because it's emp...</description>
+      <category>web</category>
+      <guid>https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Designed a Custom Protocol for My App</title>
+      <link>https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app</link>
+      <description>Rast is my new experimental project—it is a web app for detecting orthographical errors in texts written in the Central Kurdish language. Here’s how I designed a binary protocol for it.</description>
+      <guid>https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>La Civilisation comme Fruit Inévitable de la Puissance Organisée</title>
+      <link>https://elimbi.com/fr/journal/civilization-organized-power/</link>
+      <description>Une réflexion sur l'évolution des civilisations, la hiérarchie et la logique historique qui gouverne les sociétés humaines</description>
+      <category>ai</category>
+      <guid>https://elimbi.com/fr/journal/civilization-organized-power/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop turning everything into arrays (and do less work instead) - Matt Smith</title>
+      <link>https://allthingssmitty.com/2026/01/12/stop-turning-everything-into-arrays-and-do-less-work-instead/</link>
+      <description>Do less work in JavaScript: lazy data pipelines with iterator helpers instead of arrays.</description>
+      <author> (https://allthingssmitty.com/about/)</author>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://allthingssmitty.com/2026/01/12/stop-turning-everything-into-arrays-and-do-less-work-instead/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎄Advent of EIP Day 10: Process Manager</title>
+      <link>https://james-carr.org/posts/2026-01-05-advent-of-eip-day-10-process-manager/</link>
+      <description>The central coordinator that orchestrates complex, long-running workflows and tracks state</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://james-carr.org/posts/2026-01-05-advent-of-eip-day-10-process-manager/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beating BERT? Small LLMs vs Fine-Tuned Encoders for Classification | Alex Jacobs</title>
+      <link>https://alex-jacobs.com/posts/beatingbert/</link>
+      <description>I ran 32 experiments comparing small LLMs to BERT on classification tasks. Turns out 2018-era BERT is still really good at what it does.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://alex-jacobs.com/posts/beatingbert/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a No-Tracking Newsletter from Markdown to Distribution</title>
+      <link>https://philippdubach.com/posts/building-a-no-tracking-newsletter-from-markdown-to-distribution/</link>
+      <description>Building a privacy-focused newsletter from Markdown to HTML with Cloudflare Workers, KV storage, and Resend API.</description>
+      <author> (Philipp D. Dubach)</author>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>cloud</category>
+      <guid>https://philippdubach.com/posts/building-a-no-tracking-newsletter-from-markdown-to-distribution/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 5 levels of optimization - EDM115 blog</title>
+      <link>https://edm115.dev/blog/2025/12/22/the-5-levels-of-optimization</link>
+      <description>A journey through the 5 stages of optimization I went through while optimizing a CLI tool I made, because apparently I love to over-engineer things.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>git</category>
+      <guid>https://edm115.dev/blog/2025/12/22/the-5-levels-of-optimization</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sven Malvik - Portfolio</title>
+      <link>https://malvik.de/blog/mbrain</link>
+      <description>Personal portfolio of Sven Malvik. Building Vissper AI meeting companion and Malfi personal finance app.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://malvik.de/blog/mbrain</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>What if ASI Leads to Stasis?</title>
+      <link>https://thinking.luhar.org/2026/01/what-if-asi-leads-to-stasis/</link>
+      <description>I recently read and reviewed Nick Harkaway’s Titanium Noir, a noir detective novel set in a world ruled by Titans, humans made immortal and superhuman through a drug called T7. Harkaway sets …</description>
+      <category>ai</category>
+      <guid>https://thinking.luhar.org/2026/01/what-if-asi-leads-to-stasis/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ideas are cheap, execution is cheaper | Dave Kiss</title>
+      <link>https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/</link>
+      <description>In a world where ideas are cheap and software is cheaper, what truly matters now?</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Taught Myself to Code on a Cracked Android Phone. Now I Can't Get Hired</title>
+      <link>https://www.rly0nheart.com/posts/life/i-taught-myself-to-code-on-a-cracked-android-phone-now-i-cant-get-hired/</link>
+      <description>Ritchie Mwewa</description>
+      <category>python</category>
+      <category>android</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://www.rly0nheart.com/posts/life/i-taught-myself-to-code-on-a-cracked-android-phone-now-i-cant-get-hired/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diplomacy RL Part 1 | Blog</title>
+      <link>https://www.benglickenhaus.com/blog/diplomacy_rl_part_1</link>
+      <description>Scaling RL infra on Modal to train an LLM to play Diplomacy from scratch</description>
+      <author> (Ben Glickenhaus)</author>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>encryption</category>
+      <guid>https://www.benglickenhaus.com/blog/diplomacy_rl_part_1</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The worst fucking app idea ever – Hi, I'm Heather Burns</title>
+      <link>https://heatherburns.tech/2026/01/12/the-worst-fucking-app-idea-ever/</link>
+      <description>The tricky thing about my MPhil project is that I am researching a moving target. I am attempting to take current political affairs, which are unfolding very very fast, and translate them into normative legal shapes. This requires keeping an eye on many issues, as they unfold, to see whether they evolve into main characters or wither into side quests.</description>
+      <guid>https://heatherburns.tech/2026/01/12/the-worst-fucking-app-idea-ever/</guid>
+      <pubDate>Tue, 13 Jan 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>YAML? That’s Norway problem</title>
       <link>https://lab174.com/blog/202601-yaml-norway/</link>
       <description>Yaml is a well-known data
@@ -183,132 +374,6 @@ Visit the Federal Reserve’s website at www.federalreserve.gov for more informa
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=KckGHaBLSn4</guid>
       <pubDate>Mon, 12 Jan 2026 02:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Agent Fallacy</title>
-      <link>https://noemititarenco.com/blog/the-agent-fallacy-prompt-orchestration/</link>
-      <description>The Agent Fallacy</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://noemititarenco.com/blog/the-agent-fallacy-prompt-orchestration/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Attempt at Independence from Big-Tech</title>
-      <link>https://blog.antonlydike.de/My%20Attempt%20at%20Independence%20from%20Big-Tech.html</link>
-      <description>I've been trying to stay ahead of the great enshittifcation. During which I thought a lot about the incentives involved, created some rules of thumb and discovered some cool services, which I wanted to talk about in this post.</description>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://blog.antonlydike.de/My%20Attempt%20at%20Independence%20from%20Big-Tech.html</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Axioms of Polity</title>
-      <link>https://colinsteele.org/blog/axioms_of_polity/</link>
-      <description>A manifesto for human/machine polity charting civispace. Neither as apex mind. A forest.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://colinsteele.org/blog/axioms_of_polity/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Culture Isn't Stagnating, You Guys Are Just Old</title>
-      <link>https://www.jenn.site/culture-isnt-stagnating-you-guys-are-just-old/</link>
-      <description>People who talk about how culture is stagnating[^1] all point to around the same arguments: movies are all sequels, books and music are getting simpler, Netf...</description>
-      <category>youtube</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.jenn.site/culture-isnt-stagnating-you-guys-are-just-old/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Always Already Betas</title>
-      <link>https://disjunctionsmag.com/articles/always-already-betas/</link>
-      <description>The user subject and the GPT grindset</description>
-      <category>ai</category>
-      <guid>https://disjunctionsmag.com/articles/always-already-betas/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sophisticated Simplicity of Modern SQLite</title>
-      <link>https://shivekkhurana.com/blog/sqlite-in-production/</link>
-      <description>A benchmark-driven guide to tuning SQLite for production workloads</description>
-      <author> (Shivek Khurana)</author>
-      <category>sql</category>
-      <category>vscode</category>
-      <category>cloud</category>
-      <category>nodejs</category>
-      <guid>https://shivekkhurana.com/blog/sqlite-in-production/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing a work log</title>
-      <link>https://fredrikmeyer.net/2026/01/11/work-log.html</link>
-      <description>About a year ago I started writing a “work diary”. The process is simple: at the end of the day, I write a few sentences of what I did that day at work.</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://fredrikmeyer.net/2026/01/11/work-log.html</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weird DNS behavior on Alpine Linux - .local and mDNS</title>
-      <link>https://ozelot.fyi/blog/weird-dns-behavior-on-alpine-linux/</link>
-      <description>Learn why .local name resolution behaves differently on Alpine Linux and minimal environments.</description>
-      <category>linux</category>
-      <category>containers</category>
-      <guid>https://ozelot.fyi/blog/weird-dns-behavior-on-alpine-linux/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Diagnosing performance issues in .NET applications with dotnet-trace and Perfetto</title>
-      <link>https://dfamonteiro.com/posts/using-dotnet-trace-with-perfetto/</link>
-      <description>As the software industry transitioned towards more cloud-centric environments, programming languages have had to focus on treating virtualized Linux environments as first-class citizens or risk getting left behind. C# was no exception and for this language to maintain its popularity, Microsoft had to perform a complete overhaul of the .NET runtime to make it cloud-ready.
-As part of this initiative to make .NET platform-agnostic, a supporting cast of CLI diagnostic tools was developed from scratch with the goal of uniformizing the developer experience of diagnosing C# applications across operating systems. One of these tools is dotnet-trace: a tool that can be hooked into a running .NET application to collect tracing data which can then be analysed with trace viewers.</description>
-      <category>sql</category>
-      <category>containers</category>
-      <category>aspnet</category>
-      <category>dotnet</category>
-      <category>javascript</category>
-      <guid>https://dfamonteiro.com/posts/using-dotnet-trace-with-perfetto/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>FUSE is All You Need - Giving agents access to anything via filesystems</title>
-      <link>https://jakobemmerling.de/posts/fuse-is-all-you-need/</link>
-      <description>Giving agents access to a sandboxed environment with a shell and a filesystem has been the latest hype when it comes to agentic harnesses. Recent examples of this include:
-Turso’s AgentFS Anthropic’s Agent SDK, which brings Claude Code’s harness to non-coding domains Vercel rebuilding their text-to-SQL agent on top of a sandbox Anthropic’s Agent Skills for filesystem-based progressive disclosure The argument for why this is good goes something like this:
-The big labs are doing heavy RL for coding tasks in these kinds of environments. Aligning more closely with such a harness brings free gains from the coding domain to other problem spaces.</description>
-      <category>containers</category>
-      <category>sql</category>
-      <category>typescript</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://jakobemmerling.de/posts/fuse-is-all-you-need/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mitigating the Billion Dollar Mistake</title>
-      <link>https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/</link>
-      <description>This article is continuation to: Was it really a Billion Dollar Mistake?.
-After reading a lot of the comments on numerous social media sites on the original article, I think I need to clarify a lot more.
-The main points I wanted to clarify:
-Null pointer dereferences are empirically the easiest class of invalid memory addresses to catch at runtime, and are the least common kind of invalid memory addresses that happen in memory unsafe languages. I do think it was a costly mistake but the “obvious solutions” to the problem are probably just as costly, if not more so, but in very subtle ways which most people neglected to understand in the article1. I think that even if Tony Hoare didn’t “invent” NULL pointers, within a couple years someone else would have. I don’t think it’s a “mistake” the programming world was ever going to avoid. I am talking about languages that run on modern systems with virtual memory, not embedded systems where you interact with physical memory directly. Those platforms in my opinion need much different kinds of languages which unfortunately do not exist yet. I was also talking about languages akin to C and Odin, not languages that run on a VM or have “everything be a reference”. Languages where Everything is a Pointer A lot of commentors based their complaints in their experience with languages like Java/C#/Python/etc, and the issues with null-pointer-exceptions (NPEs) in them. What I think a lot of people seemed to forget is that in those languages, virtually everything is a pointer, unlike in a language like C/Go/Odin which has explicit pointers. When everything is a pointer, it is exponentially more likely that you will hit a pointer that is invalid. And in the case of a managed (garbage collected) language, that invalid pointer will most definitely be a null pointer. This is why I can understand the problem of having null pointers in such languages.</description>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Impressed by Synology Support</title>
-      <link>https://blog.notmyhostna.me/posts/impressed-by-synology-support</link>
-      <description>I've recently written about an issue that I have been experiencing with Synology Drive on macOS for many months. These days when you are running into …</description>
-      <category>apple</category>
-      <guid>https://blog.notmyhostna.me/posts/impressed-by-synology-support</guid>
-      <pubDate>Mon, 12 Jan 2026 01:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

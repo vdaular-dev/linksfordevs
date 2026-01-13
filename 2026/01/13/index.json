@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "Title": "How alone do you feel?",
+    "Url": "https://chicagosignguy.com/blog/how-alone-do-you-feel.html",
+    "Timestamp": "2026-01-13T01:03:43",
+    "Domain": "chicagosignguy.com",
+    "Description": "Written on January 12, 2026"
+  },
+  {
+    "Title": "Clipboard Images in Claude Code CLI",
+    "Url": "https://www.woodcp.com/2026/01/clipboard-images-in-claude-code-cli/",
+    "Timestamp": "2026-01-13T01:03:40",
+    "Domain": "www.woodcp.com",
+    "Description": "Anyone using Claude Code CLI in a terminal has probably hit the friction of sharing an image with it to see a problem. I would have to take a screenshot, save it somewhere, get the file path, and tell Claude in the prompt to look at it."
+  },
+  {
+    "Title": "A polyfill for the HTML switch element",
+    "Url": "https://blog.tomayac.com/2026/01/12/a-polyfill-for-the-html-switch-element/",
+    "Timestamp": "2026-01-13T01:03:37",
+    "Domain": "blog.tomayac.com",
+    "Description": "The personal blog of Thomas Steiner"
+  },
+  {
+    "Title": "fhur",
+    "Url": "https://fhur.me/posts/2026/maybe-the-database-got-it-right",
+    "Timestamp": "2026-01-13T01:03:32",
+    "Domain": "fhur.me",
+    "Description": "fhur's blog"
+  },
+  {
+    "Title": "LLMs Are Tools, Not Replacements – Roberto Selbach",
+    "Url": "https://rselbach.com/llms-are-tools-not-replacements/",
+    "Timestamp": "2026-01-13T01:03:29",
+    "Domain": "rselbach.com",
+    "Description": "I’ve been meaning to write this post for a bit, but never found the right time. I guess this is it. Until sometime last year, I was more or less an AI-skeptic. I say more or less because I was always very interested in the technology. I built my own LLM to learn about it and I thought then, as I do now, that the technology is incredible."
+  },
+  {
+    "Title": "How to Build a Habit",
+    "Url": "https://dogdogfish.com/blog/2026/01/12/building-a-habit/",
+    "Timestamp": "2026-01-13T01:03:26",
+    "Domain": "dogdogfish.com",
+    "Description": "I’m doing my DPhil on digital habits and have therefore spent a whole bunch of time reading as much habit research as I can get my hands on. I’m also a legit real boy who lives in the real world. With those two things in mind, let me tell you what I know about building habits."
+  },
+  {
+    "Title": "There's a ridiculous amount of tech in a disposable vape",
+    "Url": "https://blog.jgc.org/2026/01/theres-ridiculous-amount-of-tech-in.html",
+    "Timestamp": "2026-01-13T01:03:22",
+    "Domain": "blog.jgc.org",
+    "Description": "So, I'm walking through a park when I see this thing lying on the ground: It's a disposable vape that someone has discarded because it's emp..."
+  },
+  {
+    "Title": "How I Designed a Custom Protocol for My App",
+    "Url": "https://blog.roj.dev/how-i-designed-a-custom-protocol-for-my-app",
+    "Timestamp": "2026-01-13T01:03:16",
+    "Domain": "blog.roj.dev",
+    "Description": "Rast is my new experimental project—it is a web app for detecting orthographical errors in texts written in the Central Kurdish language. Here’s how I designed a binary protocol for it."
+  },
+  {
+    "Title": "La Civilisation comme Fruit Inévitable de la Puissance Organisée",
+    "Url": "https://elimbi.com/fr/journal/civilization-organized-power/",
+    "Timestamp": "2026-01-13T01:03:12",
+    "Domain": "elimbi.com",
+    "Description": "Une réflexion sur l'évolution des civilisations, la hiérarchie et la logique historique qui gouverne les sociétés humaines"
+  },
+  {
+    "Title": "Stop turning everything into arrays (and do less work instead) - Matt Smith",
+    "Url": "https://allthingssmitty.com/2026/01/12/stop-turning-everything-into-arrays-and-do-less-work-instead/",
+    "Timestamp": "2026-01-13T01:03:09",
+    "Domain": "allthingssmitty.com",
+    "Description": "Do less work in JavaScript: lazy data pipelines with iterator helpers instead of arrays."
+  },
+  {
+    "Title": "🎄Advent of EIP Day 10: Process Manager",
+    "Url": "https://james-carr.org/posts/2026-01-05-advent-of-eip-day-10-process-manager/",
+    "Timestamp": "2026-01-13T01:03:05",
+    "Domain": "james-carr.org",
+    "Description": "The central coordinator that orchestrates complex, long-running workflows and tracks state"
+  },
+  {
+    "Title": "Beating BERT? Small LLMs vs Fine-Tuned Encoders for Classification | Alex Jacobs",
+    "Url": "https://alex-jacobs.com/posts/beatingbert/",
+    "Timestamp": "2026-01-13T01:03:00",
+    "Domain": "alex-jacobs.com",
+    "Description": "I ran 32 experiments comparing small LLMs to BERT on classification tasks. Turns out 2018-era BERT is still really good at what it does."
+  },
+  {
+    "Title": "Building a No-Tracking Newsletter from Markdown to Distribution",
+    "Url": "https://philippdubach.com/posts/building-a-no-tracking-newsletter-from-markdown-to-distribution/",
+    "Timestamp": "2026-01-13T01:02:57",
+    "Domain": "philippdubach.com",
+    "Description": "Building a privacy-focused newsletter from Markdown to HTML with Cloudflare Workers, KV storage, and Resend API."
+  },
+  {
+    "Title": "The 5 levels of optimization - EDM115 blog",
+    "Url": "https://edm115.dev/blog/2025/12/22/the-5-levels-of-optimization",
+    "Timestamp": "2026-01-13T01:02:54",
+    "Domain": "edm115.dev",
+    "Description": "A journey through the 5 stages of optimization I went through while optimizing a CLI tool I made, because apparently I love to over-engineer things."
+  },
+  {
+    "Title": "Sven Malvik - Portfolio",
+    "Url": "https://malvik.de/blog/mbrain",
+    "Timestamp": "2026-01-13T01:02:49",
+    "Domain": "malvik.de",
+    "Description": "Personal portfolio of Sven Malvik. Building Vissper AI meeting companion and Malfi personal finance app."
+  },
+  {
+    "Title": "What if ASI Leads to Stasis?",
+    "Url": "https://thinking.luhar.org/2026/01/what-if-asi-leads-to-stasis/",
+    "Timestamp": "2026-01-13T01:02:46",
+    "Domain": "thinking.luhar.org",
+    "Description": "I recently read and reviewed Nick Harkaway’s Titanium Noir, a noir detective novel set in a world ruled by Titans, humans made immortal and superhuman through a drug called T7. Harkaway sets …"
+  },
+  {
+    "Title": "Ideas are cheap, execution is cheaper | Dave Kiss",
+    "Url": "https://davekiss.com/blog/ideas-are-cheap-execution-is-cheaper/",
+    "Timestamp": "2026-01-13T01:02:41",
+    "Domain": "davekiss.com",
+    "Description": "In a world where ideas are cheap and software is cheaper, what truly matters now?"
+  },
+  {
+    "Title": "I Taught Myself to Code on a Cracked Android Phone. Now I Can't Get Hired",
+    "Url": "https://www.rly0nheart.com/posts/life/i-taught-myself-to-code-on-a-cracked-android-phone-now-i-cant-get-hired/",
+    "Timestamp": "2026-01-13T01:02:38",
+    "Domain": "www.rly0nheart.com",
+    "Description": "Ritchie Mwewa"
+  },
+  {
+    "Title": "Diplomacy RL Part 1 | Blog",
+    "Url": "https://www.benglickenhaus.com/blog/diplomacy_rl_part_1",
+    "Timestamp": "2026-01-13T01:02:34",
+    "Domain": "www.benglickenhaus.com",
+    "Description": "Scaling RL infra on Modal to train an LLM to play Diplomacy from scratch"
+  },
+  {
+    "Title": "The worst fucking app idea ever – Hi, I'm Heather Burns",
+    "Url": "https://heatherburns.tech/2026/01/12/the-worst-fucking-app-idea-ever/",
+    "Timestamp": "2026-01-13T01:02:30",
+    "Domain": "heatherburns.tech",
+    "Description": "The tricky thing about my MPhil project is that I am researching a moving target. I am attempting to take current political affairs, which are unfolding very very fast, and translate them into normative legal shapes. This requires keeping an eye on many issues, as they unfold, to see whether they evolve into main characters or wither into side quests."
+  }
+]
