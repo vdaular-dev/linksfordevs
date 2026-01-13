@@ -214,21 +214,5 @@
     "Domain": "blog.smartere.dk",
     "Description": "Posted on mandag, januar 12, 2026 in Hal9k, Planet Ubuntu-DK, Planets",
     "Confidence": 0.9738625
-  },
-  {
-    "Title": "Raspberry Pi Pico Mini Rack GPS Clock",
-    "Url": "https://www.jeffgeerling.com/blog/2026/pico-gps-clock-mini-rack/",
-    "Timestamp": "2026-01-12T16:02:13",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "I wanted to have the most accurate timepiece possible mounted in my mini rack. Therefore I built this:\nThis is a GPS-based clock running on a Raspberry Pi Pico in a custom 1U 10\" rack faceplate. The clock displays time based on a GPS input, and will not display time until a GPS timing lock has been acquired.\nWhen you turn on the Pico, the display reads ---- Upon 3D fix, you get a time on the clock, and the colon starts blinking If the 3D fix is lost, the colon goes solid When the 3D fix is regained, the colon starts blinking again For full details on designing and building this clock, see:",
-    "Confidence": 0.99018466
-  },
-  {
-    "Title": "How To Make Indie Games In 2026 w/ Jonathan Blow — Full Time Game Dev Podcast Ep. 061",
-    "Url": "https://youtube.com/watch?v=yNdRv5LFuQk",
-    "Timestamp": "2026-01-12T16:02:09",
-    "Domain": "youtube.com",
-    "Description": "I chat with the legendary Jonathan Blow about how indies can make games in 2026.\n► Wishlist Order of the Sinking Star: https://store.steampowered.com/app/499170/Order_of_the_Sinking_Star/\n► Get 50% off my game dev course: https://fulltimegamedev.mykajabi.com/full-time-game-dev-sale\n► Watch the reveal trailer: https://www.youtube.com/watch?v=WypRrVplpao\n\nChapters: \n00:00:00 Intro: Jonathan Blow's 10-Year Journey on Order of the Sinking Star\n00:01:58 Ad Read: Full Time Game Dev Program (50% Off for New Year's)\n00:03:05 Marketing Indie Games in 2026 vs. Past Eras\n00:04:04 Pricing Games in a Changing Industry\n00:06:44 Value, Gameplay Hours, and Sophistication in Pricing\n00:09:56 Revenue Split: PC vs. Console Over Time\n00:13:32 Platform Discoverability and Indie Priorities (Steam Focus)\n00:16:59 Why Partner with a Publisher in 2026\n00:19:18 Burn Rates, Budgets, and 10-Year Development Costs\n00:22:24 Art Fidelity and Shaders in Order of the Sinking Star\n00:23:52 Art Team, Costs, and Scale of Levels (~900 Screens)\n00:25:59 Art Directives and Custom Engine/Language Origins\n00:30:45 Why Create a Custom Programming Language (JAI)\n00:37:03 AI, Coding Languages, and Future of Programming\n00:45:16 Debugging with AI Tools and LLM Limitations\n00:55:39 Game Pitch: Combining Worlds and Mechanics\n00:57:38 Demo: Overworld, Territories, and Basic Mechanics\n01:00:56 Editor Overview and Gameplay/Art Integration\n01:02:41 Engine Features: Free Release, Water Effects, and Painting\n01:06:18 Camera Views, Cutscenes, and Level Perspectives\n01:08:38 Building Islands: Meshes, Blending, and Decals\n01:12:23 Optimization: Draw Calls, Inanimates, and Rendering\n01:15:46 Debug Modes, Vertex Colors, and Material Blending\n01:18:47 Lighting: Maps, Probes, and Dynamic Shadows\n01:23:35 Deeper Pitch: Fun Through Combining Elements\n01:26:42 Gameplay Analogy: Mastering and Merging Worlds\n01:29:29 Character Abilities and Combo Puzzles\n01:31:59 Overworld Progress and Integrated Puzzles\n01:35:07 Game Scale, Multiple Endings, and Beating the Game\n01:36:47 Outro and Wishlist Call-to-Action\n01:37:42 Ad Read: Full-Time GameDev Program (Repeated)",
-    "Confidence": 0.95996386
   }
 ]
