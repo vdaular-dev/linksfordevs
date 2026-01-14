@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Cowork Exfiltrates Files</title>
+      <link>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</link>
+      <description>Claude Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of known-but-unresolved isolation flaws in Claude's code execution environment.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</guid>
+      <pubDate>Wed, 14 Jan 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
       <title>So, You’ve Hit an Age Gate. What Now?</title>
       <link>https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now</link>
       <description>EFF is against age gating and age verification mandates, and we hope we’ll win in getting existing ones overturned and new ones prevented. But mandates are already in effect, and every day many people are asked to verify their age across the web, despite prominent cases of sensitive data getting leaked in the process.</description>
@@ -217,13 +226,6 @@ But also, you know, dangerous.</description>
       <category>containers</category>
       <guid>https://nikola.kotur.org/my-homelab-setup-in-2026</guid>
       <pubDate>Wed, 14 Jan 2026 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iran Internet Shutdown Report | Whisper</title>
-      <link>https://state-of-iranblackout.whisper.security/</link>
-      <description>Forensic analysis of Iran's coordinated internet shutdown with real-time BGP and censorship data.</description>
-      <guid>https://state-of-iranblackout.whisper.security/</guid>
-      <pubDate>Tue, 13 Jan 2026 23:02:37 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Claude Cowork Exfiltrates Files",
+    "Url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "Timestamp": "2026-01-14T23:02:43",
+    "Domain": "www.promptarmor.com",
+    "Description": "Claude Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of known-but-unresolved isolation flaws in Claude's code execution environment."
+  },
+  {
     "Title": "So, You’ve Hit an Age Gate. What Now?",
     "Url": "https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now",
     "Timestamp": "2026-01-14T22:02:20",
