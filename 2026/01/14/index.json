@@ -1,0 +1,79 @@
+[
+  {
+    "Title": "Lessons from Search | Altertable",
+    "Url": "https://altertable.ai/blog/2026-01-13-lessons-from-search",
+    "Timestamp": "2026-01-14T00:03:05",
+    "Domain": "altertable.ai",
+    "Description": "Real-time analytics systems face the same small-file problem that search engines solved decades ago. DuckLake's new tiered compaction primitives bring battle-tested merge strategies to streaming analytics, making low-latency ingestion sustainable."
+  },
+  {
+    "Title": "The hidden cost of PostgreSQL arrays",
+    "Url": "https://boringsql.com/posts/good-bad-arrays/",
+    "Timestamp": "2026-01-14T00:03:00",
+    "Domain": "boringsql.com",
+    "Description": "Deep dive into PostgreSQL arrays: why they're document storage in disguise, the TOAST performance trap, GIN vs B-tree indexing, the dangerous ANY() operator, and when junction tables beat arrays."
+  },
+  {
+    "Title": "The System Prompt",
+    "Url": "https://rastrigin.systems/blog/claude-code-part-2-system-prompt/",
+    "Timestamp": "2026-01-14T00:02:55",
+    "Domain": "rastrigin.systems",
+    "Description": "What Claude Code is told before you type a single word—the complete instructions that shape every response."
+  },
+  {
+    "Title": "Aliasing alias / Jordan Eldredge",
+    "Url": "https://jordaneldredge.com/aliasing-alias/",
+    "Timestamp": "2026-01-14T00:02:50",
+    "Domain": "jordaneldredge.com",
+    "Description": "The time I accidentally aliased the command alias and fork bombed myself"
+  },
+  {
+    "Title": "You are a Senior Engineer, Mastering Communication & Influence (Part 3)",
+    "Url": "https://platformtoolsmith.com/blog/senior-engineer-part-3/",
+    "Timestamp": "2026-01-14T00:02:47",
+    "Domain": "platformtoolsmith.com",
+    "Description": "Great code doesn't matter if you can't sell it. Let's talk about the 'soft' skills that actually drive your career: influence, communication, and leading when you're not the boss."
+  },
+  {
+    "Title": "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
+    "Url": "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/",
+    "Timestamp": "2026-01-14T00:02:44",
+    "Domain": "modulovalue.com",
+    "Description": "Archiving 104K files into tar.gz reduced I/O time by 43x and total processing time by 2.3x. The bottleneck was not disk speed, it was syscall overhead."
+  },
+  {
+    "Title": "What I'd do if I were 18 again today with no existing resources (as of 2026)",
+    "Url": "https://www.aadillpickle.com/blog/18-again",
+    "Timestamp": "2026-01-14T00:02:40",
+    "Domain": "www.aadillpickle.com",
+    "Description": "aadil pickle's internet home"
+  },
+  {
+    "Title": "Running Claude Code dangerously (safely)",
+    "Url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
+    "Timestamp": "2026-01-14T00:02:37",
+    "Domain": "blog.emilburzo.com",
+    "Description": "Background I’ve been using Claude Code more and more recently. At some point I realized that rather than do something else until it finishes, I would constantly check on it to see if it was asking for yet another permission, which felt like it was missing the point of having an agent do stuff. So I wanted to use Claude Code with the --dangerously-skip-permissions flag.\nIf you haven’t used it, this flag does exactly what it says: it lets Claude Code do whatever it wants without asking permission first. No more “May I install this package?”, “Should I modify this config?”, “Can I delete these files?”\nIt just… does it.\nWhich is great for flow since I don’t have to worry that it stopped doing stuff just to ask a permission question.\nBut also, you know, dangerous."
+  },
+  {
+    "Title": "SFTP still delivers the goods - Folio ",
+    "Url": "https://folio.co/blog/sftp-still-delivers-the-goods",
+    "Timestamp": "2026-01-14T00:02:31",
+    "Domain": "folio.co",
+    "Description": ""
+  },
+  {
+    "Title": "OPA Policies Without Breaking the Bank",
+    "Url": "https://danielfm.me/posts/opa-policies-without-breaking-the-bank/",
+    "Timestamp": "2026-01-14T00:02:27",
+    "Domain": "danielfm.me",
+    "Description": "Using OPA and Atlantis to enforce Terraform best practices on a budget."
+  },
+  {
+    "Title": "My Homelab Setup in 2026",
+    "Url": "https://nikola.kotur.org/my-homelab-setup-in-2026",
+    "Timestamp": "2026-01-14T00:02:20",
+    "Domain": "nikola.kotur.org",
+    "Description": "I enjoy reading what other people are doing with their homelab setups, and inspired by recent blog I decided to sit down and write about ..."
+  }
+]
