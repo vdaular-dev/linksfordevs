@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>We can’t have nice things… because of AI scrapers – MetaBrainz Blog</title>
+      <link>https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/</link>
+      <description>In the past few months the MetaBrainz team has been fighting a battle against unscrupulous AI companies ignoring common courtesies (such as robots.txt) and scraping the Internet in order to build up their AI models. Rather than downloading our dataset in one complete download, they insist on loading all of MusicBrainz one page at a time. This of course would take hundreds of years to complete and is utterly pointless. In doing so, they are overloading our servers and preventing legitimate users from accessing our site.</description>
+      <category>ai</category>
+      <guid>https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/</guid>
+      <pubDate>Wed, 14 Jan 2026 09:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a 40-Line Fix Eliminated a 400x Performance Gap | QuestDB</title>
+      <link>https://questdb.com/blog/jvm-current-thread-user-time/</link>
+      <description>A deep dive into an OpenJDK commit that replaced slow /proc file parsing with a single syscall, revealing obscure Linux kernel internals and a 20-year-old optimization opportunity.</description>
+      <category>linux</category>
+      <guid>https://questdb.com/blog/jvm-current-thread-user-time/</guid>
+      <pubDate>Wed, 14 Jan 2026 09:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>EOL</title>
       <link>https://www.marcia.no/words/eol</link>
       <description>Blog post by Marciano Planque: EOL</description>
