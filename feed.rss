@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>To those who fired or didn't hire tech writers because of AI</title>
+      <link>https://passo.uno/letter-those-who-fired-tech-writers-ai/</link>
+      <description>Hey you,
+Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
+You are making a big mistake. But you can still undo the damage.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://passo.uno/letter-those-who-fired-tech-writers-ai/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Raspberry Pi's new AI HAT adds 8GB of RAM for local LLMs</title>
       <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/</link>
       <description>Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
@@ -224,13 +235,6 @@ The interest in mechanical calculation showed no sign of reducing in the subsequ
       <category>ai</category>
       <guid>https://tomrenner.com/posts/400-year-confidence-trick/</guid>
       <pubDate>Wed, 14 Jan 2026 17:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASCII Clouds</title>
-      <link>https://caidan.dev/portfolio/ascii_clouds/</link>
-      <description>Self-taught web developer and designer creating unique digital experiences</description>
-      <guid>https://caidan.dev/portfolio/ascii_clouds/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
