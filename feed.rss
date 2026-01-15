@@ -209,14 +209,5 @@ Don't get me wrong. It's very impressive. But after trying it out in a real code
       <guid>https://ysamm.com/uncategorized/2025/01/13/capig-xss.html</guid>
       <pubDate>Thu, 15 Jan 2026 01:02:29 GMT</pubDate>
     </item>
-    <item>
-      <title>Claude Cowork Exfiltrates Files</title>
-      <link>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</link>
-      <description>Claude Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of known-but-unresolved isolation flaws in Claude's code execution environment.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</guid>
-      <pubDate>Wed, 14 Jan 2026 23:02:43 GMT</pubDate>
-    </item>
   </channel>
 </rss>

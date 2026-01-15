@@ -182,13 +182,5 @@
     "Domain": "ysamm.com",
     "Description": "Introduction",
     "Confidence": 0.98798925
-  },
-  {
-    "Title": "Claude Cowork Exfiltrates Files",
-    "Url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-    "Timestamp": "2026-01-14T23:02:43",
-    "Domain": "www.promptarmor.com",
-    "Description": "Claude Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of known-but-unresolved isolation flaws in Claude's code execution environment.",
-    "Confidence": 0.9644734
   }
 ]
