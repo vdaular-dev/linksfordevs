@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Cursor CEO Built a Browser using AI, but Does It Really Work?",
+    "Url": "https://www.finalroundai.com/blog/cursor-ceo-browser-made-using-ai",
+    "Timestamp": "2026-01-15T20:02:28",
+    "Domain": "www.finalroundai.com",
+    "Description": "A browser built by hundreds of AI agents in just one week sounds impressive, but the real question is what works and what breaks?",
+    "Confidence": 0.95020074
+  },
+  {
     "Title": "25 years of Wikipedia",
     "Url": "https://wikipedia25.org/",
     "Timestamp": "2026-01-15T19:02:12",
@@ -174,13 +182,5 @@
     "Domain": "www.eff.org",
     "Description": "EFF is against age gating and age verification mandates, and we hope we’ll win in getting existing ones overturned and new ones prevented. But mandates are already in effect, and every day many people are asked to verify their age across the web, despite prominent cases of sensitive data getting leaked in the process.",
     "Confidence": 0.9720471
-  },
-  {
-    "Title": "16 Part Epoxy",
-    "Url": "https://xkcd.com/3194/",
-    "Timestamp": "2026-01-14T20:02:19",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
