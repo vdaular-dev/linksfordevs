@@ -7,6 +7,136 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>My website was down; because I didn't pay the server bill</title>
+      <link>https://jeena.net/website-down</link>
+      <description>I'd like to keep it online for a long time</description>
+      <guid>https://jeena.net/website-down</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reflecting on 2025</title>
+      <link>https://rolando.is/typing/2025/reflecting_on_2025/</link>
+      <description>Not quite sure what happened this year but I definitely feel like it was momentous.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://rolando.is/typing/2025/reflecting_on_2025/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Poking holes into bytecode with peephole optimisations</title>
+      <link>https://xnacly.me/posts/2026/purple-garden-first-optimisations/</link>
+      <description>First optimizations I made while redesigning and semi-porting the purple-garden runtime from C to Rust</description>
+      <author> (xnacly)</author>
+      <category>rust</category>
+      <guid>https://xnacly.me/posts/2026/purple-garden-first-optimisations/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>good use of postgres</title>
+      <link>https://vivekn.dev/blog/good-use-of-postgres/</link>
+      <description>viveknathani - blog</description>
+      <category>sql</category>
+      <guid>https://vivekn.dev/blog/good-use-of-postgres/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Invisible Work</title>
+      <link>https://hvpandya.com/invisible-work</link>
+      <description>The coordination work that holds projects together disappears the moment it works. On the unfairness of recognition and finding leaders who see it anyway.</description>
+      <guid>https://hvpandya.com/invisible-work</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dr. Darjan Salaj</title>
+      <link>https://dsalaj.com/2026/01/14/audio-album</link>
+      <description>Personal Website of Darjan Salaj, a student at TUG (Graz University of Technology).</description>
+      <category>ai</category>
+      <guid>https://dsalaj.com/2026/01/14/audio-album</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Power Law, The Grind and The Ugly | Silvestre Perret</title>
+      <link>https://silvestreperret.com/posts/power-laws/</link>
+      <description>Power Laws Break Our Intuition</description>
+      <category>gaming</category>
+      <guid>https://silvestreperret.com/posts/power-laws/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Parenting “Screen Time” Philosophy</title>
+      <link>https://mikemcquaid.com/my-parenting-screen-time-philosophy/</link>
+      <description>Raising kids in an addictive internet without losing your mind (or theirs)</description>
+      <author> (https://mikemcquaid.com)</author>
+      <category>gaming</category>
+      <category>apple</category>
+      <guid>https://mikemcquaid.com/my-parenting-screen-time-philosophy/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>~fpereiro</title>
+      <link>https://federicopereiro.com/progress-formula/</link>
+      <description>Ray Dalio has the following formula:</description>
+      <guid>https://federicopereiro.com/progress-formula/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learning Creative Coding – Stig Møller Hansen</title>
+      <link>https://stigmollerhansen.dk/resume/learning-creative-coding/</link>
+      <description>So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.</description>
+      <guid>https://stigmollerhansen.dk/resume/learning-creative-coding/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude is not a senior engineer (yet)</title>
+      <link>https://www.approachwithalacrity.com/claude-ne/</link>
+      <description>Opus 4.5 is out and people cannot stop raving about it. AGI is nigh! It's a step-change in capabilities!
+
+Don't get me wrong. It's very impressive. But after trying it out in a real codebase for a few weeks, I think that view is overly simplistic. Claude is now</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>linux</category>
+      <guid>https://www.approachwithalacrity.com/claude-ne/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Type 1 Diabetes Genomic Analysis Report | Daniel Diaz's Website</title>
+      <link>https://www.dddiaz.com/post/t1d-genome-analysis-report/</link>
+      <description>I built a workflow to leverage Illumina Dragen to interpret known T1D genetic risk factors, including HLA and 25 validated variants, and output an easy to understand report.</description>
+      <category>git</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://www.dddiaz.com/post/t1d-genome-analysis-report/</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dangerous Mode is all you need.</title>
+      <link>https://schappi.com/blog/dangerous-mode-is-all-you-need</link>
+      <description>This morning someone asked in our WhatsApp group if there was any off-the-shelf software that could detect a face in an image and crop it to a fixed size whi...</description>
+      <author> (Marcus Schappi)</author>
+      <category>ai</category>
+      <guid>https://schappi.com/blog/dangerous-mode-is-all-you-need</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding is Dead | Koen van Gilst</title>
+      <link>https://koenvangilst.nl/lab/coding-is-dead</link>
+      <description>From typing over starfield code as a kid to letting AI agents build features - reflecting on how coding is changing and what it means for software engineers.</description>
+      <category>ai</category>
+      <guid>https://koenvangilst.nl/lab/coding-is-dead</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multiple XSS in Meta Conversion API Gateway Leading to Zero-Click Account Takeover</title>
+      <link>https://ysamm.com/uncategorized/2025/01/13/capig-xss.html</link>
+      <description>Introduction</description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>android</category>
+      <guid>https://ysamm.com/uncategorized/2025/01/13/capig-xss.html</guid>
+      <pubDate>Thu, 15 Jan 2026 01:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Cowork Exfiltrates Files</title>
       <link>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</link>
       <description>Claude Cowork is vulnerable to file exfiltration attacks via indirect prompt injection as a result of known-but-unresolved isolation flaws in Claude's code execution environment.</description>

@@ -1,5 +1,125 @@
 [
   {
+    "Title": "My website was down; because I didn't pay the server bill",
+    "Url": "https://jeena.net/website-down",
+    "Timestamp": "2026-01-15T01:03:37",
+    "Domain": "jeena.net",
+    "Description": "I'd like to keep it online for a long time",
+    "Confidence": 0.78567845
+  },
+  {
+    "Title": "Reflecting on 2025",
+    "Url": "https://rolando.is/typing/2025/reflecting_on_2025/",
+    "Timestamp": "2026-01-15T01:03:28",
+    "Domain": "rolando.is",
+    "Description": "Not quite sure what happened this year but I definitely feel like it was momentous.",
+    "Confidence": 0.7091215
+  },
+  {
+    "Title": "Poking holes into bytecode with peephole optimisations",
+    "Url": "https://xnacly.me/posts/2026/purple-garden-first-optimisations/",
+    "Timestamp": "2026-01-15T01:03:23",
+    "Domain": "xnacly.me",
+    "Description": "First optimizations I made while redesigning and semi-porting the purple-garden runtime from C to Rust",
+    "Confidence": 0.98219055
+  },
+  {
+    "Title": "good use of postgres",
+    "Url": "https://vivekn.dev/blog/good-use-of-postgres/",
+    "Timestamp": "2026-01-15T01:03:19",
+    "Domain": "vivekn.dev",
+    "Description": "viveknathani - blog",
+    "Confidence": 0.99630004
+  },
+  {
+    "Title": "The Invisible Work",
+    "Url": "https://hvpandya.com/invisible-work",
+    "Timestamp": "2026-01-15T01:03:16",
+    "Domain": "hvpandya.com",
+    "Description": "The coordination work that holds projects together disappears the moment it works. On the unfairness of recognition and finding leaders who see it anyway.",
+    "Confidence": 0.98154914
+  },
+  {
+    "Title": "Dr. Darjan Salaj",
+    "Url": "https://dsalaj.com/2026/01/14/audio-album",
+    "Timestamp": "2026-01-15T01:03:12",
+    "Domain": "dsalaj.com",
+    "Description": "Personal Website of Darjan Salaj, a student at TUG (Graz University of Technology).",
+    "Confidence": 0.86976314
+  },
+  {
+    "Title": "The Power Law, The Grind and The Ugly | Silvestre Perret",
+    "Url": "https://silvestreperret.com/posts/power-laws/",
+    "Timestamp": "2026-01-15T01:03:08",
+    "Domain": "silvestreperret.com",
+    "Description": "Power Laws Break Our Intuition",
+    "Confidence": 0.9941407
+  },
+  {
+    "Title": "My Parenting “Screen Time” Philosophy",
+    "Url": "https://mikemcquaid.com/my-parenting-screen-time-philosophy/",
+    "Timestamp": "2026-01-15T01:03:04",
+    "Domain": "mikemcquaid.com",
+    "Description": "Raising kids in an addictive internet without losing your mind (or theirs)",
+    "Confidence": 0.95138377
+  },
+  {
+    "Title": "~fpereiro",
+    "Url": "https://federicopereiro.com/progress-formula/",
+    "Timestamp": "2026-01-15T01:03:00",
+    "Domain": "federicopereiro.com",
+    "Description": "Ray Dalio has the following formula:",
+    "Confidence": 0.9797931
+  },
+  {
+    "Title": "Learning Creative Coding – Stig Møller Hansen",
+    "Url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+    "Timestamp": "2026-01-15T01:02:55",
+    "Domain": "stigmollerhansen.dk",
+    "Description": "So you’ve decided to learn creative coding—smart move. Just know the road isn’t perfectly paved. As you progress, you’ll get stuck, feel confused, and question if this was really a good idea. But don’t worry! This free book will get you unstuck, back on track, and help you reach your destination.",
+    "Confidence": 0.974352
+  },
+  {
+    "Title": "Claude is not a senior engineer (yet)",
+    "Url": "https://www.approachwithalacrity.com/claude-ne/",
+    "Timestamp": "2026-01-15T01:02:49",
+    "Domain": "www.approachwithalacrity.com",
+    "Description": "Opus 4.5 is out and people cannot stop raving about it. AGI is nigh! It's a step-change in capabilities!\n\nDon't get me wrong. It's very impressive. But after trying it out in a real codebase for a few weeks, I think that view is overly simplistic. Claude is now",
+    "Confidence": 0.98580664
+  },
+  {
+    "Title": "My Type 1 Diabetes Genomic Analysis Report | Daniel Diaz's Website",
+    "Url": "https://www.dddiaz.com/post/t1d-genome-analysis-report/",
+    "Timestamp": "2026-01-15T01:02:45",
+    "Domain": "www.dddiaz.com",
+    "Description": "I built a workflow to leverage Illumina Dragen to interpret known T1D genetic risk factors, including HLA and 25 validated variants, and output an easy to understand report.",
+    "Confidence": 0.905895
+  },
+  {
+    "Title": "Dangerous Mode is all you need.",
+    "Url": "https://schappi.com/blog/dangerous-mode-is-all-you-need",
+    "Timestamp": "2026-01-15T01:02:40",
+    "Domain": "schappi.com",
+    "Description": "This morning someone asked in our WhatsApp group if there was any off-the-shelf software that could detect a face in an image and crop it to a fixed size whi...",
+    "Confidence": 0.98922026
+  },
+  {
+    "Title": "Coding is Dead | Koen van Gilst",
+    "Url": "https://koenvangilst.nl/lab/coding-is-dead",
+    "Timestamp": "2026-01-15T01:02:37",
+    "Domain": "koenvangilst.nl",
+    "Description": "From typing over starfield code as a kid to letting AI agents build features - reflecting on how coding is changing and what it means for software engineers.",
+    "Confidence": 0.98266613
+  },
+  {
+    "Title": "Multiple XSS in Meta Conversion API Gateway Leading to Zero-Click Account Takeover",
+    "Url": "https://ysamm.com/uncategorized/2025/01/13/capig-xss.html",
+    "Timestamp": "2026-01-15T01:02:29",
+    "Domain": "ysamm.com",
+    "Description": "Introduction",
+    "Confidence": 0.98798925
+  },
+  {
     "Title": "Claude Cowork Exfiltrates Files",
     "Url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
     "Timestamp": "2026-01-14T23:02:43",
