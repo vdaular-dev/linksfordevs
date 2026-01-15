@@ -197,44 +197,5 @@ Don't get me wrong. It's very impressive. But after trying it out in a real code
       <guid>https://xkcd.com/3194/</guid>
       <pubDate>Wed, 14 Jan 2026 20:02:19 GMT</pubDate>
     </item>
-    <item>
-      <title>I Hate Github Actions with Passion</title>
-      <link>https://xlii.space/eng/i-hate-github-actions-with-passion/</link>
-      <description>I can’t overstate how much I hate GitHub Actions. I don’t even remember hating any other piece of technology I used. Sure, I still make fun of PHP that I remember from times of PHP41, but even then I didn’t hate it. Merely I found it subpar technology to other emerging at the time (like Ruby on Rails or Django). And yet I hate GitHub Actions.
-With Passion2.
-
-
-
-
-
-    
-  
-
-
-Road to Hell
-Day before writing these words I was implementing build.rs for my tmplr project. To save you a click - it is a file/project scaffold tool with human readable (and craftable) template files. I (personally) use it very often, given how easy it is to craft new templates, by hand or with aid of the tool, so check it out if you need a similar tool.</description>
-      <category>python</category>
-      <category>ruby</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://xlii.space/eng/i-hate-github-actions-with-passion/</guid>
-      <pubDate>Wed, 14 Jan 2026 18:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Official Response - SparkFun Electronics</title>
-      <link>https://www.sparkfun.com/official-response</link>
-      <description>SparkFun Electronics is an online retail store that sells the bits and pieces to make your electronics projects possible.</description>
-      <guid>https://www.sparkfun.com/official-response</guid>
-      <pubDate>Wed, 14 Jan 2026 17:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs are a 400-year-long confidence trick</title>
-      <link>https://tomrenner.com/posts/400-year-confidence-trick/</link>
-      <description>In 1623 the German Wilhelm Schickard produced the first known designs for a mechanical calculator. Twenty years later Blaise Pascal produced a machine of an improved design, aiming to help with the large amount of tedious arithmetic required in his role as a tax collector.
-The interest in mechanical calculation showed no sign of reducing in the subsequent centuries, as generations of people worldwide followed in Pascal and Wilhelm’s footsteps, subscribing to their view that offloading mental energy to a machine would be a relief.</description>
-      <category>ai</category>
-      <guid>https://tomrenner.com/posts/400-year-confidence-trick/</guid>
-      <pubDate>Wed, 14 Jan 2026 17:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
