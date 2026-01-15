@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Other Father of MP3",
+    "Url": "https://substack.com/home/post/p-184599371",
+    "Timestamp": "2026-01-15T07:02:25",
+    "Domain": "substack.com",
+    "Description": "James D. Johnston spent 26 years at Bell Labs building the technology that became MP3. Then history forgot him.",
+    "Confidence": 0.8316521
+  },
+  {
     "Title": "My website was down; because I didn't pay the server bill",
     "Url": "https://jeena.net/website-down",
     "Timestamp": "2026-01-15T01:03:37",
@@ -198,13 +206,5 @@
     "Domain": "questdb.com",
     "Description": "A deep dive into an OpenJDK commit that replaced slow /proc file parsing with a single syscall, revealing obscure Linux kernel internals and a 20-year-old optimization opportunity.",
     "Confidence": 0.99818766
-  },
-  {
-    "Title": "EOL",
-    "Url": "https://www.marcia.no/words/eol",
-    "Timestamp": "2026-01-14T07:02:12",
-    "Domain": "www.marcia.no",
-    "Description": "Blog post by Marciano Planque: EOL",
-    "Confidence": 0.9658546
   }
 ]
