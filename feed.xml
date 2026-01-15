@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Transforms 101</title>
+      <link>https://www.slembcke.net/blog/Transforms/</link>
+      <description>Demystifying transform matrices - Have you ever seen a transform gizmo in a 3D program? If so, you already intuitively know what all of the numbers in a transform matrix are! This blog post will prove it to you with a bunch of interactive diagrams, and pictures. All you need to know is how to multiply and add numbers.</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://www.slembcke.net/blog/Transforms/</guid>
+      <pubDate>Thu, 15 Jan 2026 22:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>‘ELITE’: The Palantir App ICE Uses to Find Neighborhoods to Raid</title>
+      <link>https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/</link>
+      <description>"Internal ICE material and testimony from an official obtained by 404 Media provides the clearest link yet between the technological infrastructure Palantir is building for ICE and the agency’s activities on the ground."</description>
+      <category>cloud</category>
+      <guid>https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/</guid>
+      <pubDate>Thu, 15 Jan 2026 22:02:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Cursor CEO Built a Browser using AI, but Does It Really Work?</title>
       <link>https://www.finalroundai.com/blog/cursor-ceo-browser-made-using-ai</link>
       <description>A browser built by hundreds of AI agents in just one week sounds impressive, but the real question is what works and what breaks?</description>
@@ -199,15 +217,6 @@ Don't get me wrong. It's very impressive. But after trying it out in a real code
       <category>apple</category>
       <guid>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</guid>
       <pubDate>Wed, 14 Jan 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>So, You’ve Hit an Age Gate. What Now?</title>
-      <link>https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now</link>
-      <description>EFF is against age gating and age verification mandates, and we hope we’ll win in getting existing ones overturned and new ones prevented. But mandates are already in effect, and every day many people are asked to verify their age across the web, despite prominent cases of sensitive data getting leaked in the process.</description>
-      <category>youtube</category>
-      <category>encryption</category>
-      <guid>https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now</guid>
-      <pubDate>Wed, 14 Jan 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
