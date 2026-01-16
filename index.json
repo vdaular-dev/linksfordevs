@@ -1,5 +1,21 @@
 [
   {
+    "Title": "6-day and IP Address Certificates are Generally Available",
+    "Url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+    "Timestamp": "2026-01-16T22:02:35",
+    "Domain": "letsencrypt.org",
+    "Description": "Short-lived and IP address certificates are now generally available from Let’s Encrypt. These certificates are valid for 160 hours, just over six days. In order to get a short-lived certificate subscribers simply need to select the ‘shortlived’ certificate profile in their ACME client.\nShort-lived certificates improve security by requiring more frequent validation and reducing reliance on unreliable revocation mechanisms. If a certificate’s private key is exposed or compromised, revocation has historically been the way to mitigate damage prior to the certificate’s expiration. Unfortunately, revocation is an unreliable system so many relying parties continue to be vulnerable until the certificate expires, a period as long as 90 days. With short-lived certificates that vulnerability window is greatly reduced.\n",
+    "Confidence": 0.9427167
+  },
+  {
+    "Title": "Cursor Implied Success Without Evidence",
+    "Url": "https://embedding-shapes.github.io/cursor-implied-success-without-evidence/",
+    "Timestamp": "2026-01-16T22:02:31",
+    "Domain": "embedding-shapes.github.io",
+    "Description": "2026-01-16",
+    "Confidence": 0.96537113
+  },
+  {
     "Title": "GitHub - Pankajtanwarbanna/stfu: stfu",
     "Url": "https://github.com/Pankajtanwarbanna/stfu",
     "Timestamp": "2026-01-16T20:02:47",
@@ -206,21 +222,5 @@
     "Domain": "blog.kaplich.me",
     "Description": "Vibe coding has become genuinely useful for engineers who understand the underlying systems. We can move faster, prototype quicker, and automate the tedious stuff while still knowing exactly what's happening under the hood.",
     "Confidence": 0.9685172
-  },
-  {
-    "Title": "Transforms 101",
-    "Url": "https://www.slembcke.net/blog/Transforms/",
-    "Timestamp": "2026-01-15T22:02:51",
-    "Domain": "www.slembcke.net",
-    "Description": "Demystifying transform matrices - Have you ever seen a transform gizmo in a 3D program? If so, you already intuitively know what all of the numbers in a transform matrix are! This blog post will prove it to you with a bunch of interactive diagrams, and pictures. All you need to know is how to multiply and add numbers.",
-    "Confidence": 0.99327683
-  },
-  {
-    "Title": "‘ELITE’: The Palantir App ICE Uses to Find Neighborhoods to Raid",
-    "Url": "https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/",
-    "Timestamp": "2026-01-15T22:02:41",
-    "Domain": "werd.io",
-    "Description": "\"Internal ICE material and testimony from an official obtained by 404 Media provides the clearest link yet between the technological infrastructure Palantir is building for ICE and the agency’s activities on the ground.\"",
-    "Confidence": 0.9446944
   }
 ]

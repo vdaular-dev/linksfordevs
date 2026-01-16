@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>6-day and IP Address Certificates are Generally Available</title>
+      <link>https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability</link>
+      <description>Short-lived and IP address certificates are now generally available from Let’s Encrypt. These certificates are valid for 160 hours, just over six days. In order to get a short-lived certificate subscribers simply need to select the ‘shortlived’ certificate profile in their ACME client.
+Short-lived certificates improve security by requiring more frequent validation and reducing reliance on unreliable revocation mechanisms. If a certificate’s private key is exposed or compromised, revocation has historically been the way to mitigate damage prior to the certificate’s expiration. Unfortunately, revocation is an unreliable system so many relying parties continue to be vulnerable until the certificate expires, a period as long as 90 days. With short-lived certificates that vulnerability window is greatly reduced.
+</description>
+      <guid>https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability</guid>
+      <pubDate>Fri, 16 Jan 2026 22:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor Implied Success Without Evidence</title>
+      <link>https://embedding-shapes.github.io/cursor-implied-success-without-evidence/</link>
+      <description>2026-01-16</description>
+      <category>git</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://embedding-shapes.github.io/cursor-implied-success-without-evidence/</guid>
+      <pubDate>Fri, 16 Jan 2026 22:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - Pankajtanwarbanna/stfu: stfu</title>
       <link>https://github.com/Pankajtanwarbanna/stfu</link>
       <description>stfu. Contribute to Pankajtanwarbanna/stfu development by creating an account on GitHub.</description>
@@ -235,24 +254,6 @@ from the raising my family dept.</description>
       <category>sql</category>
       <guid>https://blog.kaplich.me/vibe-coding-paradox/</guid>
       <pubDate>Fri, 16 Jan 2026 02:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transforms 101</title>
-      <link>https://www.slembcke.net/blog/Transforms/</link>
-      <description>Demystifying transform matrices - Have you ever seen a transform gizmo in a 3D program? If so, you already intuitively know what all of the numbers in a transform matrix are! This blog post will prove it to you with a bunch of interactive diagrams, and pictures. All you need to know is how to multiply and add numbers.</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>web</category>
-      <guid>https://www.slembcke.net/blog/Transforms/</guid>
-      <pubDate>Thu, 15 Jan 2026 22:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘ELITE’: The Palantir App ICE Uses to Find Neighborhoods to Raid</title>
-      <link>https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/</link>
-      <description>"Internal ICE material and testimony from an official obtained by 404 Media provides the clearest link yet between the technological infrastructure Palantir is building for ICE and the agency’s activities on the ground."</description>
-      <category>cloud</category>
-      <guid>https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/</guid>
-      <pubDate>Thu, 15 Jan 2026 22:02:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
