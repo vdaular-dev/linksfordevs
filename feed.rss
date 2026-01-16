@@ -215,14 +215,5 @@ You are making a big mistake. But you can still undo the damage.</description>
       <guid>https://passo.uno/letter-those-who-fired-tech-writers-ai/</guid>
       <pubDate>Thu, 15 Jan 2026 15:02:14 GMT</pubDate>
     </item>
-    <item>
-      <title>Raspberry Pi's new AI HAT adds 8GB of RAM for local LLMs</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/</link>
-      <description>Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.
-With that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.</description>
-      <category>ai</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/</guid>
-      <pubDate>Thu, 15 Jan 2026 09:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>

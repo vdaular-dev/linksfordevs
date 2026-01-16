@@ -182,13 +182,5 @@
     "Domain": "passo.uno",
     "Description": "Hey you,\nYes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.\nYou are making a big mistake. But you can still undo the damage.",
     "Confidence": 0.95508313
-  },
-  {
-    "Title": "Raspberry Pi's new AI HAT adds 8GB of RAM for local LLMs",
-    "Url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ai-hat-2/",
-    "Timestamp": "2026-01-15T09:02:07",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Today Raspberry Pi launched their new $130 AI HAT+ 2 which includes a Hailo 10H and 8 GB of LPDDR4X RAM.\nWith that, the Hailo 10H is capable of running LLMs entirely standalone, freeing the Pi's CPU and system RAM for other tasks. The chip runs at a maximum of 3W, with 40 TOPS of INT8 NPU inference performance in addition to the equivalent 26 TOPS INT4 machine vision performance on the earlier AI HAT with Hailo 8.",
-    "Confidence": 0.97252005
   }
 ]
