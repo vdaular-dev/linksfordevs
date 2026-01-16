@@ -7,6 +7,49 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building a Quake PC: VQuake</title>
+      <link>https://fabiensanglard.net/quake_pc/vquake/index.html</link>
+      <description>Building a Quake PC: VQuake</description>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://fabiensanglard.net/quake_pc/vquake/index.html</guid>
+      <pubDate>Fri, 16 Jan 2026 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is QSpy still cool? Let's play QuakeWorld!</title>
+      <link>https://fabiensanglard.net/quakeworld/index.html</link>
+      <description>Jan 16, 2026</description>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://fabiensanglard.net/quakeworld/index.html</guid>
+      <pubDate>Fri, 16 Jan 2026 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Quake PC: Benchmarking Quake</title>
+      <link>https://fabiensanglard.net/quake_pc/quake/index.html</link>
+      <description>Building a Quake PC: Benchmarking Quake</description>
+      <category>vscode</category>
+      <guid>https://fabiensanglard.net/quake_pc/quake/index.html</guid>
+      <pubDate>Fri, 16 Jan 2026 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Quake PC</title>
+      <link>https://fabiensanglard.net/quake_pc/index.html</link>
+      <description>After I finished restoring the IBM 2168 486 DX2-66MHz (my childhood dream DOOM PC), there was another box that I wanted to check.</description>
+      <category>aspnet</category>
+      <category>gaming</category>
+      <guid>https://fabiensanglard.net/quake_pc/index.html</guid>
+      <pubDate>Fri, 16 Jan 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Quake PC: GLQuake</title>
+      <link>https://fabiensanglard.net/quake_pc/glquake/index.html</link>
+      <description>Building a Quake PC: GLQuake</description>
+      <category>gaming</category>
+      <guid>https://fabiensanglard.net/quake_pc/glquake/index.html</guid>
+      <pubDate>Fri, 16 Jan 2026 23:02:39 GMT</pubDate>
+    </item>
+    <item>
       <title>6-day and IP Address Certificates are Generally Available</title>
       <link>https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability</link>
       <description>Short-lived and IP address certificates are now generally available from Let’s Encrypt. These certificates are valid for 160 hours, just over six days. In order to get a short-lived certificate subscribers simply need to select the ‘shortlived’ certificate profile in their ACME client.
