@@ -7,6 +7,159 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Replit vs. Cursor - who wins?</title>
+      <link>https://blog.engora.com/2026/01/replit-vs-cursor-who-wins.html</link>
+      <description>Cursor vs. Replit for app development.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://blog.engora.com/2026/01/replit-vs-cursor-who-wins.html</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building AI Agents: From Simple Scripts to Autonomy</title>
+      <link>https://allen.hutchison.org/2026/01/15/everything-becomes-an-agent/</link>
+      <description>Explore the inevitable shift from scripts to AI agents in coding. Discover insights on automation, tool access, and setting effective guardrails.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://allen.hutchison.org/2026/01/15/everything-becomes-an-agent/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Tell Colleagues About Using LLMs for Engineering</title>
+      <link>https://pierrezemb.fr/posts/llms-for-engineering/</link>
+      <description>LLMs amplify expertise, they don't replace it. Here's what works: planning, context, feedback loops, and building systems that let AI discover bugs.</description>
+      <category>rust</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://pierrezemb.fr/posts/llms-for-engineering/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to think about Gas Town</title>
+      <link>https://steveklabnik.com/writing/how-to-think-about-gas-town/</link>
+      <description>Blog post: How to think about Gas Town by Steve Klabnik</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://steveklabnik.com/writing/how-to-think-about-gas-town/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rate Limits Are a Feature, Not a Constraint | Dante's Blog</title>
+      <link>https://dantelex.com/blog/ratelimits-are-features</link>
+      <description>How rate limits shape behavior long before anyone calls them a feature.</description>
+      <author> (Karlista Dante Lex Okoh)</author>
+      <category>ai</category>
+      <guid>https://dantelex.com/blog/ratelimits-are-features</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Partial Streams: Real-Time Results in a Federated Query Engine</title>
+      <link>https://blog.vega.io/posts/partial_stream/</link>
+      <description>Why wait for queries to finish? Simply stream results as they get computed in a long running query.</description>
+      <guid>https://blog.vega.io/posts/partial_stream/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ten Years Of Dashcams | Alec Armbruster</title>
+      <link>https://alec.is/posts/ten-years-of-dashcams/</link>
+      <description>Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.</description>
+      <category>linux</category>
+      <guid>https://alec.is/posts/ten-years-of-dashcams/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why can't I bank a solar generated summer kWh to use in the winter?</title>
+      <link>https://www.philiprsteele.co.uk/post/why-can-t-i-bank-a-solar-generated-summer-kwh-to-use-in-the-winter</link>
+      <description>Most home solar systems will export on sunny days; our system regularly exports 20+ kWh on a summers day. But solar systems in the UK generate 15% to 20% of their summer output in the winter and obviously our electricity use is much higher in the winter.  A customer asked me how could they save that lovely spare summer energy for the winter.  They were asking if there's a way we could 'bank' their solar generated energy to then draw from in the winter.One answer is store it instead of exporting </description>
+      <author> (Philip Steele)</author>
+      <category>ai</category>
+      <guid>https://www.philiprsteele.co.uk/post/why-can-t-i-bank-a-solar-generated-summer-kwh-to-use-in-the-winter</guid>
+      <pubDate>Fri, 16 Jan 2026 02:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systemd, vsock, &amp; openssh-server</title>
+      <link>https://blog.nsrun.io/2026/01/15/systemd-vsock-openssh-server/</link>
+      <description>TL;DR – With systemd v256+, installing openssh-server on a VM automatically creates a socket activated SSH listener on af_vsock:22 in the global network namespace. This breaks the usual namespace i…</description>
+      <guid>https://blog.nsrun.io/2026/01/15/systemd-vsock-openssh-server/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>useOptimistic Won't Save You | Colum Kelly</title>
+      <link>https://www.columkelly.com/blog/use-optimistic</link>
+      <description>Thoughts on the useOptimistic hook that was introduced in React 19</description>
+      <author> (Colum)</author>
+      <guid>https://www.columkelly.com/blog/use-optimistic</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding passkeys</title>
+      <link>https://marending.dev/notes/passkeys/</link>
+      <description>And improving my online security in the process</description>
+      <guid>https://marending.dev/notes/passkeys/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teach your child how to think</title>
+      <link>https://tanin.nanakorn.com/teach-your-child-how-to-think/</link>
+      <description>I've just finished "Teach Your Child How to Think" by Edward de Bono. It was published in 1994. I found this book while going through things at my childhood home back in Bangkok. Since my daughter was a bit over 3 years old right now, I was thinking it would</description>
+      <guid>https://tanin.nanakorn.com/teach-your-child-how-to-think/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python: introducing tprof, a targeting profiler - Adam Johnson</title>
+      <link>https://adamj.eu/tech/2026/01/14/python-introducing-tprof/</link>
+      <description>Profilers measure the performance of a whole program to identify where most of the time is spent. But once you’ve found a target function, re-profiling the whole program to see if your changes helped can be slow and cumbersome. The profiler introduces overhead to execution and you have to pick out the stats for the one function you care about from the report. I have often gone through this loop while optimizing client or open source projects, such as when I optimized Django’s system checks framework (previous post).</description>
+      <category>python</category>
+      <guid>https://adamj.eu/tech/2026/01/14/python-introducing-tprof/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>domson.dev</title>
+      <link>https://domson.dev/projects/lightweather.html</link>
+      <description>I made a temperature/pressure/humidity/gas sensor and general I/O
+    interface for my "smart flat". This is a blog post / write-up of how
+    and why I did that.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <category>android</category>
+      <guid>https://domson.dev/projects/lightweather.html</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Evolution of a DSL</title>
+      <link>https://williamcotton.com/articles/the-evolution-of-a-dsl</link>
+      <description>A commentary on developing a new DSL.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://williamcotton.com/articles/the-evolution-of-a-dsl</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>All LLMs Must Shut The Hell Up</title>
+      <link>https://grzra.cz/2026/01/15/All-LLMs-must-shut-the-hell-up.html</link>
+      <description>I like building cool things. This is primarily why I was so excited when I first saw GPT-3 materially improve my code quality. And I thought: “Oh man! How many more cool things can I build now?!”. Unfortunately, the better LLMs got at coding, they have had a completely opposite effect: my motivation dwindled and didn’t fully understand why.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>vscode</category>
+      <guid>https://grzra.cz/2026/01/15/All-LLMs-must-shut-the-hell-up.html</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe coding paradox — Sergey Kaplich</title>
+      <link>https://blog.kaplich.me/vibe-coding-paradox/</link>
+      <description>Vibe coding has become genuinely useful for engineers who understand the underlying systems. We can move faster, prototype quicker, and automate the tedious stuff while still knowing exactly what's happening under the hood.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://blog.kaplich.me/vibe-coding-paradox/</guid>
+      <pubDate>Fri, 16 Jan 2026 02:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Transforms 101</title>
       <link>https://www.slembcke.net/blog/Transforms/</link>
       <description>Demystifying transform matrices - Have you ever seen a transform gizmo in a 3D program? If so, you already intuitively know what all of the numbers in a transform matrix are! This blog post will prove it to you with a bunch of interactive diagrams, and pictures. All you need to know is how to multiply and add numbers.</description>

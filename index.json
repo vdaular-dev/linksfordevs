@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Replit vs. Cursor - who wins?",
+    "Url": "https://blog.engora.com/2026/01/replit-vs-cursor-who-wins.html",
+    "Timestamp": "2026-01-16T02:03:33",
+    "Domain": "blog.engora.com",
+    "Description": "Cursor vs. Replit for app development.",
+    "Confidence": 0.99504787
+  },
+  {
+    "Title": "Building AI Agents: From Simple Scripts to Autonomy",
+    "Url": "https://allen.hutchison.org/2026/01/15/everything-becomes-an-agent/",
+    "Timestamp": "2026-01-16T02:03:30",
+    "Domain": "allen.hutchison.org",
+    "Description": "Explore the inevitable shift from scripts to AI agents in coding. Discover insights on automation, tool access, and setting effective guardrails.",
+    "Confidence": 0.99120057
+  },
+  {
+    "Title": "What I Tell Colleagues About Using LLMs for Engineering",
+    "Url": "https://pierrezemb.fr/posts/llms-for-engineering/",
+    "Timestamp": "2026-01-16T02:03:26",
+    "Domain": "pierrezemb.fr",
+    "Description": "LLMs amplify expertise, they don't replace it. Here's what works: planning, context, feedback loops, and building systems that let AI discover bugs.",
+    "Confidence": 0.9946723
+  },
+  {
+    "Title": "How to think about Gas Town",
+    "Url": "https://steveklabnik.com/writing/how-to-think-about-gas-town/",
+    "Timestamp": "2026-01-16T02:03:22",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: How to think about Gas Town by Steve Klabnik",
+    "Confidence": 0.9778657
+  },
+  {
+    "Title": "Rate Limits Are a Feature, Not a Constraint | Dante's Blog",
+    "Url": "https://dantelex.com/blog/ratelimits-are-features",
+    "Timestamp": "2026-01-16T02:03:19",
+    "Domain": "dantelex.com",
+    "Description": "How rate limits shape behavior long before anyone calls them a feature.",
+    "Confidence": 0.96477765
+  },
+  {
+    "Title": "Partial Streams: Real-Time Results in a Federated Query Engine",
+    "Url": "https://blog.vega.io/posts/partial_stream/",
+    "Timestamp": "2026-01-16T02:03:11",
+    "Domain": "blog.vega.io",
+    "Description": "Why wait for queries to finish? Simply stream results as they get computed in a long running query.",
+    "Confidence": 0.9945723
+  },
+  {
+    "Title": "Ten Years Of Dashcams | Alec Armbruster",
+    "Url": "https://alec.is/posts/ten-years-of-dashcams/",
+    "Timestamp": "2026-01-16T02:03:08",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.",
+    "Confidence": 0.53541607
+  },
+  {
+    "Title": "Why can't I bank a solar generated summer kWh to use in the winter?",
+    "Url": "https://www.philiprsteele.co.uk/post/why-can-t-i-bank-a-solar-generated-summer-kwh-to-use-in-the-winter",
+    "Timestamp": "2026-01-16T02:03:02",
+    "Domain": "www.philiprsteele.co.uk",
+    "Description": "Most home solar systems will export on sunny days; our system regularly exports 20+ kWh on a summers day. But solar systems in the UK generate 15% to 20% of their summer output in the winter and obviously our electricity use is much higher in the winter.  A customer asked me how could they save that lovely spare summer energy for the winter.  They were asking if there's a way we could 'bank' their solar generated energy to then draw from in the winter.One answer is store it instead of exporting ",
+    "Confidence": 0.81158596
+  },
+  {
+    "Title": "Systemd, vsock, & openssh-server",
+    "Url": "https://blog.nsrun.io/2026/01/15/systemd-vsock-openssh-server/",
+    "Timestamp": "2026-01-16T02:02:59",
+    "Domain": "blog.nsrun.io",
+    "Description": "TL;DR – With systemd v256+, installing openssh-server on a VM automatically creates a socket activated SSH listener on af_vsock:22 in the global network namespace. This breaks the usual namespace i…",
+    "Confidence": 0.9931915
+  },
+  {
+    "Title": "useOptimistic Won't Save You | Colum Kelly",
+    "Url": "https://www.columkelly.com/blog/use-optimistic",
+    "Timestamp": "2026-01-16T02:02:55",
+    "Domain": "www.columkelly.com",
+    "Description": "Thoughts on the useOptimistic hook that was introduced in React 19",
+    "Confidence": 0.9915202
+  },
+  {
+    "Title": "Understanding passkeys",
+    "Url": "https://marending.dev/notes/passkeys/",
+    "Timestamp": "2026-01-16T02:02:52",
+    "Domain": "marending.dev",
+    "Description": "And improving my online security in the process",
+    "Confidence": 0.9924497
+  },
+  {
+    "Title": "Teach your child how to think",
+    "Url": "https://tanin.nanakorn.com/teach-your-child-how-to-think/",
+    "Timestamp": "2026-01-16T02:02:48",
+    "Domain": "tanin.nanakorn.com",
+    "Description": "I've just finished \"Teach Your Child How to Think\" by Edward de Bono. It was published in 1994. I found this book while going through things at my childhood home back in Bangkok. Since my daughter was a bit over 3 years old right now, I was thinking it would",
+    "Confidence": 0.6722788
+  },
+  {
+    "Title": "Python: introducing tprof, a targeting profiler - Adam Johnson",
+    "Url": "https://adamj.eu/tech/2026/01/14/python-introducing-tprof/",
+    "Timestamp": "2026-01-16T02:02:44",
+    "Domain": "adamj.eu",
+    "Description": "Profilers measure the performance of a whole program to identify where most of the time is spent. But once you’ve found a target function, re-profiling the whole program to see if your changes helped can be slow and cumbersome. The profiler introduces overhead to execution and you have to pick out the stats for the one function you care about from the report. I have often gone through this loop while optimizing client or open source projects, such as when I optimized Django’s system checks framework (previous post).",
+    "Confidence": 0.99168545
+  },
+  {
+    "Title": "domson.dev",
+    "Url": "https://domson.dev/projects/lightweather.html",
+    "Timestamp": "2026-01-16T02:02:41",
+    "Domain": "domson.dev",
+    "Description": "I made a temperature/pressure/humidity/gas sensor and general I/O\n    interface for my \"smart flat\". This is a blog post / write-up of how\n    and why I did that.",
+    "Confidence": 0.93518424
+  },
+  {
+    "Title": "The Evolution of a DSL",
+    "Url": "https://williamcotton.com/articles/the-evolution-of-a-dsl",
+    "Timestamp": "2026-01-16T02:02:35",
+    "Domain": "williamcotton.com",
+    "Description": "A commentary on developing a new DSL.",
+    "Confidence": 0.9864739
+  },
+  {
+    "Title": "All LLMs Must Shut The Hell Up",
+    "Url": "https://grzra.cz/2026/01/15/All-LLMs-must-shut-the-hell-up.html",
+    "Timestamp": "2026-01-16T02:02:31",
+    "Domain": "grzra.cz",
+    "Description": "I like building cool things. This is primarily why I was so excited when I first saw GPT-3 materially improve my code quality. And I thought: “Oh man! How many more cool things can I build now?!”. Unfortunately, the better LLMs got at coding, they have had a completely opposite effect: my motivation dwindled and didn’t fully understand why.",
+    "Confidence": 0.99368227
+  },
+  {
+    "Title": "Vibe coding paradox — Sergey Kaplich",
+    "Url": "https://blog.kaplich.me/vibe-coding-paradox/",
+    "Timestamp": "2026-01-16T02:02:28",
+    "Domain": "blog.kaplich.me",
+    "Description": "Vibe coding has become genuinely useful for engineers who understand the underlying systems. We can move faster, prototype quicker, and automate the tedious stuff while still knowing exactly what's happening under the hood.",
+    "Confidence": 0.9685172
+  },
+  {
     "Title": "Transforms 101",
     "Url": "https://www.slembcke.net/blog/Transforms/",
     "Timestamp": "2026-01-15T22:02:51",
