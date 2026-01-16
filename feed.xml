@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>International Station</title>
+      <link>https://xkcd.com/3195/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3195/</guid>
+      <pubDate>Fri, 16 Jan 2026 15:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>We Were Never Good Programmers</title>
       <link>https://idiallo.com/blog/we-were-never-good-programmers?src=feed</link>
       <description>OK, that may be a little mean-spirited, but I don't just mean you. I mean a whole lot of us. A couple weeks ago, a graph made the rounds showing the decline of Stack Overflow. At its peak, there were </description>
@@ -221,17 +229,6 @@ from the raising my family dept.</description>
       <category>android</category>
       <guid>https://wikipedia25.org/</guid>
       <pubDate>Thu, 15 Jan 2026 19:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>To those who fired or didn't hire tech writers because of AI</title>
-      <link>https://passo.uno/letter-those-who-fired-tech-writers-ai/</link>
-      <description>Hey you,
-Yes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.
-You are making a big mistake. But you can still undo the damage.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://passo.uno/letter-those-who-fired-tech-writers-ai/</guid>
-      <pubDate>Thu, 15 Jan 2026 15:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

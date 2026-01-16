@@ -1,5 +1,13 @@
 [
   {
+    "Title": "International Station",
+    "Url": "https://xkcd.com/3195/",
+    "Timestamp": "2026-01-16T15:02:20",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "We Were Never Good Programmers",
     "Url": "https://idiallo.com/blog/we-were-never-good-programmers?src=feed",
     "Timestamp": "2026-01-16T12:02:20",
@@ -190,13 +198,5 @@
     "Domain": "wikipedia25.org",
     "Description": "Journey through Wikipedia's history and take a quiz to discover which future you belong to.",
     "Confidence": 0.8688687
-  },
-  {
-    "Title": "To those who fired or didn't hire tech writers because of AI",
-    "Url": "https://passo.uno/letter-those-who-fired-tech-writers-ai/",
-    "Timestamp": "2026-01-15T15:02:14",
-    "Domain": "passo.uno",
-    "Description": "Hey you,\nYes, you, who are thinking about not hiring a technical writer this year or, worse, erased one or more technical writing positions last year because of AI. You, who are buying into the promise of docs entirely authored by LLMs without expert oversight or guidance. You, who unloaded the weight of docs on your devs’ shoulders, as if it was a trivial chore.\nYou are making a big mistake. But you can still undo the damage.",
-    "Confidence": 0.95508313
   }
 ]
