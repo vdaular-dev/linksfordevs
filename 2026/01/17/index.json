@@ -1,5 +1,131 @@
 [
   {
+    "Title": "Stop Pulling Yourself Down",
+    "Url": "https://buanasalf.com/blog/stop-pulling-yourself-down/",
+    "Timestamp": "2026-01-17T03:03:28",
+    "Domain": "buanasalf.com",
+    "Description": "A tidbit on Procrastination and delay of results with a long period of time"
+  },
+  {
+    "Title": "Why Creativity Just Became the Most Practical Skill",
+    "Url": "https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html",
+    "Timestamp": "2026-01-17T03:03:25",
+    "Domain": "www.cesarsotovalero.net",
+    "Description": "In an AI-saturated world where execution is cheap, the scarce resource is original framing. This blog post explores how to treat creativity as a practical, trainable skill and how to build it with simple daily habits."
+  },
+  {
+    "Title": "How ClickHouse handles strings",
+    "Url": "https://rushter.com/blog/clickhouse-strings/",
+    "Timestamp": "2026-01-17T03:03:20",
+    "Domain": "rushter.com",
+    "Description": "An overview of how ClickHouse handles strings internally."
+  },
+  {
+    "Title": "Ruby IO buffering",
+    "Url": "https://zhisme.com/articles/ruby-io-buffering/",
+    "Timestamp": "2026-01-17T03:03:17",
+    "Domain": "zhisme.com",
+    "Description": "Understanding why Ruby/Rails logs are delayed in Docker containers but instant on localhost. Dive into TTY detection, libc buffering and Ruby IO buffering layers in detail."
+  },
+  {
+    "Title": "My take on LLM coding",
+    "Url": "https://www.hermandaniel.com/blog/20260116-my-take-on-LLM-coding/",
+    "Timestamp": "2026-01-17T03:03:12",
+    "Domain": "www.hermandaniel.com",
+    "Description": "My advice is that you should adapt to it as soon as possible"
+  },
+  {
+    "Title": "How to Cut LLM Token Usage by 80% Using Recursive Document Analysis",
+    "Url": "https://yogthos.net/posts/2026-01-16-lattice-mcp.html",
+    "Timestamp": "2026-01-17T03:03:09",
+    "Domain": "yogthos.net",
+    "Description": "When you employ AI agents such as Claude, there’s a significant volume problem for document study. Reading one file of 1000 lines consumes about 10,000 tokens. Token consumption incurs costs and time penalties. Codebases with dozens or hundreds of files, a common case for real world projects, can easily exceed 100,000 tokens in size when the whole thing must be considered. The agent must read and comprehend, and be able to determine the interrelationships among these files. And, particularly, when the task requires multiple passes over the same documents, perhaps one pass to divine the structure and one to mine the details, costs multiply rapidly."
+  },
+  {
+    "Title": "Using a local DNS namespace for local service discovery",
+    "Url": "https://tech.stonecharioteer.com/posts/2026/homelab-dns/",
+    "Timestamp": "2026-01-17T03:03:05",
+    "Domain": "tech.stonecharioteer.com",
+    "Description": "I wanted to stop using IP addresses to access my homelab services, and I spent a Friday evening fixing that."
+  },
+  {
+    "Title": "25 years of Drupal: what I've learned",
+    "Url": "https://dri.es/25-years-of-drupal-what-i-have-learned",
+    "Timestamp": "2026-01-17T03:03:02",
+    "Domain": "dri.es",
+    "Description": "Dries is the Founder and Project Lead of Drupal and the Co-founder and Executive Chair of Acquia."
+  },
+  {
+    "Title": "I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0.",
+    "Url": "https://blog.silennai.com/claude-code",
+    "Timestamp": "2026-01-17T03:02:59",
+    "Domain": "blog.silennai.com",
+    "Description": "A comprehensive guide to Claude Code from someone who's been using coding AI since 2021. Learn the 5 pillars of agentic coding, custom commands, and advanced workflows."
+  },
+  {
+    "Title": "Dinosaurs Eat Everybody :: Fine, I'll Do It Myself",
+    "Url": "https://dinosaurseateverybody.com/blog/fine-ill-do-it-myself",
+    "Timestamp": "2026-01-17T03:02:54",
+    "Domain": "dinosaurseateverybody.com",
+    "Description": "I recently moved all my small project sites over to a self-hosted solution using Coolify. It was pretty easy and really rewarding!"
+  },
+  {
+    "Title": "Crypto grifters are recruiting open-source AI developers",
+    "Url": "https://www.seangoedecke.com/gas-and-ralph/",
+    "Timestamp": "2026-01-17T03:02:51",
+    "Domain": "www.seangoedecke.com",
+    "Description": "--"
+  },
+  {
+    "Title": "Why Politics Appear in Organizations",
+    "Url": "https://yusufaytas.com/why-politics-appear/",
+    "Timestamp": "2026-01-17T03:02:48",
+    "Domain": "yusufaytas.com",
+    "Description": "When clarity collapses, politics becomes survival. A blunt look at how uncertainty rewires workplaces, incentives, and trust."
+  },
+  {
+    "Title": "What I learned porting JustHTML to PHP with GPT 5.2 Codex",
+    "Url": "https://jasuja.us/2026/01/porting-justhtml-to-php-with-gpt-5-2-codex/",
+    "Timestamp": "2026-01-17T03:02:42",
+    "Domain": "jasuja.us",
+    "Description": "How I ported Emil Stenström’s JustHTML library from Python to PHP using a coding agent (GPT 5.2 Codex, via Codex CLI), and what I learned in the process."
+  },
+  {
+    "Title": "The fashion industry that is tech",
+    "Url": "https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/",
+    "Timestamp": "2026-01-17T03:02:39",
+    "Domain": "www.baldurbjarnason.com",
+    "Description": "Writing at the end of the world, from Hveragerði, Iceland"
+  },
+  {
+    "Title": "The Myth of the ThinkPad",
+    "Url": "https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/",
+    "Timestamp": "2026-01-17T03:02:34",
+    "Domain": "innovintageblog.wordpress.com",
+    "Description": "Lenovo does not care about you.IBM did not care about you.Thinkpads do not exist for your benefit. There are a lot of videos and blogs seeking to answer the question “why are ThinkPads so popular” …"
+  },
+  {
+    "Title": "My Projects in 2025 | Simon Hartcher",
+    "Url": "https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025/",
+    "Timestamp": "2026-01-17T03:02:31",
+    "Domain": "simonhartcher.com",
+    "Description": "A look back at my product, tool and game development projects from 2025, plus reflections on freelancing and personal growth."
+  },
+  {
+    "Title": "I’m not a good enough engineer to code with LLMs – Kian.WTF",
+    "Url": "https://kian.wtf/posts/ai_coding_thoughts",
+    "Timestamp": "2026-01-17T03:02:27",
+    "Domain": "kian.wtf",
+    "Description": "I experimented with LLM coding for a bit but quickly scaled back my usage to only niche use cases. I started by using it for data visualization and it one-shot converted my descriptions to the exact visuals in my mind. I then was dealing with a chunking edge case and it also solved it perfectly."
+  },
+  {
+    "Title": "Before I forget how I got here...",
+    "Url": "https://richhaase.com/blog/2026-01-14-before-i-forget-how-i-got-here/",
+    "Timestamp": "2026-01-17T03:02:24",
+    "Domain": "richhaase.com",
+    "Description": "Lessons learned and tools used in my first year of vibe coding"
+  },
+  {
     "Title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants. – Jose Zarazua",
     "Url": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
     "Timestamp": "2026-01-17T01:02:16",

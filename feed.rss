@@ -7,6 +7,183 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stop Pulling Yourself Down</title>
+      <link>https://buanasalf.com/blog/stop-pulling-yourself-down/</link>
+      <description>A tidbit on Procrastination and delay of results with a long period of time</description>
+      <category>ai</category>
+      <guid>https://buanasalf.com/blog/stop-pulling-yourself-down/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Creativity Just Became the Most Practical Skill</title>
+      <link>https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html</link>
+      <description>In an AI-saturated world where execution is cheap, the scarce resource is original framing. This blog post explores how to treat creativity as a practical, trainable skill and how to build it with simple daily habits.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://www.cesarsotovalero.net/blog/creativity-just-became-the-most-practical-skill.html</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>How ClickHouse handles strings</title>
+      <link>https://rushter.com/blog/clickhouse-strings/</link>
+      <description>An overview of how ClickHouse handles strings internally.</description>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://rushter.com/blog/clickhouse-strings/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ruby IO buffering</title>
+      <link>https://zhisme.com/articles/ruby-io-buffering/</link>
+      <description>Understanding why Ruby/Rails logs are delayed in Docker containers but instant on localhost. Dive into TTY detection, libc buffering and Ruby IO buffering layers in detail.</description>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://zhisme.com/articles/ruby-io-buffering/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>My take on LLM coding</title>
+      <link>https://www.hermandaniel.com/blog/20260116-my-take-on-LLM-coding/</link>
+      <description>My advice is that you should adapt to it as soon as possible</description>
+      <author> (Daniel Herman)</author>
+      <category>ai</category>
+      <category>python</category>
+      <category>cloud</category>
+      <guid>https://www.hermandaniel.com/blog/20260116-my-take-on-LLM-coding/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Cut LLM Token Usage by 80% Using Recursive Document Analysis</title>
+      <link>https://yogthos.net/posts/2026-01-16-lattice-mcp.html</link>
+      <description>When you employ AI agents such as Claude, there’s a significant volume problem for document study. Reading one file of 1000 lines consumes about 10,000 tokens. Token consumption incurs costs and time penalties. Codebases with dozens or hundreds of files, a common case for real world projects, can easily exceed 100,000 tokens in size when the whole thing must be considered. The agent must read and comprehend, and be able to determine the interrelationships among these files. And, particularly, when the task requires multiple passes over the same documents, perhaps one pass to divine the structure and one to mine the details, costs multiply rapidly.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://yogthos.net/posts/2026-01-16-lattice-mcp.html</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using a local DNS namespace for local service discovery</title>
+      <link>https://tech.stonecharioteer.com/posts/2026/homelab-dns/</link>
+      <description>I wanted to stop using IP addresses to access my homelab services, and I spent a Friday evening fixing that.</description>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://tech.stonecharioteer.com/posts/2026/homelab-dns/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>25 years of Drupal: what I've learned</title>
+      <link>https://dri.es/25-years-of-drupal-what-i-have-learned</link>
+      <description>Dries is the Founder and Project Lead of Drupal and the Co-founder and Executive Chair of Acquia.</description>
+      <author> (Dries Buytaert)</author>
+      <category>nodejs</category>
+      <guid>https://dri.es/25-years-of-drupal-what-i-have-learned</guid>
+      <pubDate>Sat, 17 Jan 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0.</title>
+      <link>https://blog.silennai.com/claude-code</link>
+      <description>A comprehensive guide to Claude Code from someone who's been using coding AI since 2021. Learn the 5 pillars of agentic coding, custom commands, and advanced workflows.</description>
+      <author> (Silen Naihin)</author>
+      <category>android</category>
+      <category>ai</category>
+      <category>conference</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://blog.silennai.com/claude-code</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dinosaurs Eat Everybody :: Fine, I'll Do It Myself</title>
+      <link>https://dinosaurseateverybody.com/blog/fine-ill-do-it-myself</link>
+      <description>I recently moved all my small project sites over to a self-hosted solution using Coolify. It was pretty easy and really rewarding!</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>linux</category>
+      <guid>https://dinosaurseateverybody.com/blog/fine-ill-do-it-myself</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crypto grifters are recruiting open-source AI developers</title>
+      <link>https://www.seangoedecke.com/gas-and-ralph/</link>
+      <description>--</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/gas-and-ralph/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Politics Appear in Organizations</title>
+      <link>https://yusufaytas.com/why-politics-appear/</link>
+      <description>When clarity collapses, politics becomes survival. A blunt look at how uncertainty rewires workplaces, incentives, and trust.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <category>nodejs</category>
+      <guid>https://yusufaytas.com/why-politics-appear/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I learned porting JustHTML to PHP with GPT 5.2 Codex</title>
+      <link>https://jasuja.us/2026/01/porting-justhtml-to-php-with-gpt-5-2-codex/</link>
+      <description>How I ported Emil Stenström’s JustHTML library from Python to PHP using a coding agent (GPT 5.2 Codex, via Codex CLI), and what I learned in the process.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://jasuja.us/2026/01/porting-justhtml-to-php-with-gpt-5-2-codex/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The fashion industry that is tech</title>
+      <link>https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/</link>
+      <description>Writing at the end of the world, from Hveragerði, Iceland</description>
+      <category>ai</category>
+      <guid>https://www.baldurbjarnason.com/2025/the-fashion-that-is-tech/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Myth of the ThinkPad</title>
+      <link>https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/</link>
+      <description>Lenovo does not care about you.IBM did not care about you.Thinkpads do not exist for your benefit. There are a lot of videos and blogs seeking to answer the question “why are ThinkPads so popular” …</description>
+      <guid>https://innovintageblog.wordpress.com/2026/01/08/the-myth-of-the-thinkpad/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Projects in 2025 | Simon Hartcher</title>
+      <link>https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025/</link>
+      <description>A look back at my product, tool and game development projects from 2025, plus reflections on freelancing and personal growth.</description>
+      <category>ruby</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>I’m not a good enough engineer to code with LLMs – Kian.WTF</title>
+      <link>https://kian.wtf/posts/ai_coding_thoughts</link>
+      <description>I experimented with LLM coding for a bit but quickly scaled back my usage to only niche use cases. I started by using it for data visualization and it one-shot converted my descriptions to the exact visuals in my mind. I then was dealing with a chunking edge case and it also solved it perfectly.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://kian.wtf/posts/ai_coding_thoughts</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Before I forget how I got here...</title>
+      <link>https://richhaase.com/blog/2026-01-14-before-i-forget-how-i-got-here/</link>
+      <description>Lessons learned and tools used in my first year of vibe coding</description>
+      <author> (Rich)</author>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://richhaase.com/blog/2026-01-14-before-i-forget-how-i-got-here/</guid>
+      <pubDate>Sat, 17 Jan 2026 03:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants. – Jose Zarazua</title>
       <link>https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/</link>
       <description>If you have a remote position open, your challenge is not attracting the correct candidate, it’s filtering out the bad ones, because you’ll have hundreds or thousands of them.</description>
@@ -164,159 +341,6 @@ from the raising my family dept.</description>
       <description>Briar یک برنامه پیام رسان می باشد که برای فعالان، روزنامه نگاران و هر کسی که نیازمند یک راه امن، راحت و پیشرفته برای ارتباط با دیگران است می باشد. برخلاف برنامه‌ های پیام‌رسان‌ مرسوم، Briar به سرور متمرکز اتکا ندارد - پیام ها به صورت مستقیم بین دستگاه کاربران همگام می شود. اگر اینترنت کار نکند، Briar می‌تواند از طریق بلوتوث یا وای‌-فای همگام سازی کرده، جریان اطلاعات را در زمان بحران نگه دارد. اگر اینترنت کار کند، Briar می‌تواند برای محافظت کاربران و وابط آن ها از از شنود، از طریق شبکه تور همگام سازی کند.</description>
       <guid>https://briarproject.org/manual/fa/</guid>
       <pubDate>Fri, 16 Jan 2026 07:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Replit vs. Cursor - who wins?</title>
-      <link>https://blog.engora.com/2026/01/replit-vs-cursor-who-wins.html</link>
-      <description>Cursor vs. Replit for app development.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://blog.engora.com/2026/01/replit-vs-cursor-who-wins.html</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building AI Agents: From Simple Scripts to Autonomy</title>
-      <link>https://allen.hutchison.org/2026/01/15/everything-becomes-an-agent/</link>
-      <description>Explore the inevitable shift from scripts to AI agents in coding. Discover insights on automation, tool access, and setting effective guardrails.</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://allen.hutchison.org/2026/01/15/everything-becomes-an-agent/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>What I Tell Colleagues About Using LLMs for Engineering</title>
-      <link>https://pierrezemb.fr/posts/llms-for-engineering/</link>
-      <description>LLMs amplify expertise, they don't replace it. Here's what works: planning, context, feedback loops, and building systems that let AI discover bugs.</description>
-      <category>rust</category>
-      <category>sql</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://pierrezemb.fr/posts/llms-for-engineering/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to think about Gas Town</title>
-      <link>https://steveklabnik.com/writing/how-to-think-about-gas-town/</link>
-      <description>Blog post: How to think about Gas Town by Steve Klabnik</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://steveklabnik.com/writing/how-to-think-about-gas-town/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rate Limits Are a Feature, Not a Constraint | Dante's Blog</title>
-      <link>https://dantelex.com/blog/ratelimits-are-features</link>
-      <description>How rate limits shape behavior long before anyone calls them a feature.</description>
-      <author> (Karlista Dante Lex Okoh)</author>
-      <category>ai</category>
-      <guid>https://dantelex.com/blog/ratelimits-are-features</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Partial Streams: Real-Time Results in a Federated Query Engine</title>
-      <link>https://blog.vega.io/posts/partial_stream/</link>
-      <description>Why wait for queries to finish? Simply stream results as they get computed in a long running query.</description>
-      <guid>https://blog.vega.io/posts/partial_stream/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ten Years Of Dashcams | Alec Armbruster</title>
-      <link>https://alec.is/posts/ten-years-of-dashcams/</link>
-      <description>Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.</description>
-      <category>linux</category>
-      <guid>https://alec.is/posts/ten-years-of-dashcams/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why can't I bank a solar generated summer kWh to use in the winter?</title>
-      <link>https://www.philiprsteele.co.uk/post/why-can-t-i-bank-a-solar-generated-summer-kwh-to-use-in-the-winter</link>
-      <description>Most home solar systems will export on sunny days; our system regularly exports 20+ kWh on a summers day. But solar systems in the UK generate 15% to 20% of their summer output in the winter and obviously our electricity use is much higher in the winter.  A customer asked me how could they save that lovely spare summer energy for the winter.  They were asking if there's a way we could 'bank' their solar generated energy to then draw from in the winter.One answer is store it instead of exporting </description>
-      <author> (Philip Steele)</author>
-      <category>ai</category>
-      <guid>https://www.philiprsteele.co.uk/post/why-can-t-i-bank-a-solar-generated-summer-kwh-to-use-in-the-winter</guid>
-      <pubDate>Fri, 16 Jan 2026 02:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Systemd, vsock, &amp; openssh-server</title>
-      <link>https://blog.nsrun.io/2026/01/15/systemd-vsock-openssh-server/</link>
-      <description>TL;DR – With systemd v256+, installing openssh-server on a VM automatically creates a socket activated SSH listener on af_vsock:22 in the global network namespace. This breaks the usual namespace i…</description>
-      <guid>https://blog.nsrun.io/2026/01/15/systemd-vsock-openssh-server/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>useOptimistic Won't Save You | Colum Kelly</title>
-      <link>https://www.columkelly.com/blog/use-optimistic</link>
-      <description>Thoughts on the useOptimistic hook that was introduced in React 19</description>
-      <author> (Colum)</author>
-      <guid>https://www.columkelly.com/blog/use-optimistic</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Understanding passkeys</title>
-      <link>https://marending.dev/notes/passkeys/</link>
-      <description>And improving my online security in the process</description>
-      <guid>https://marending.dev/notes/passkeys/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teach your child how to think</title>
-      <link>https://tanin.nanakorn.com/teach-your-child-how-to-think/</link>
-      <description>I've just finished "Teach Your Child How to Think" by Edward de Bono. It was published in 1994. I found this book while going through things at my childhood home back in Bangkok. Since my daughter was a bit over 3 years old right now, I was thinking it would</description>
-      <guid>https://tanin.nanakorn.com/teach-your-child-how-to-think/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python: introducing tprof, a targeting profiler - Adam Johnson</title>
-      <link>https://adamj.eu/tech/2026/01/14/python-introducing-tprof/</link>
-      <description>Profilers measure the performance of a whole program to identify where most of the time is spent. But once you’ve found a target function, re-profiling the whole program to see if your changes helped can be slow and cumbersome. The profiler introduces overhead to execution and you have to pick out the stats for the one function you care about from the report. I have often gone through this loop while optimizing client or open source projects, such as when I optimized Django’s system checks framework (previous post).</description>
-      <category>python</category>
-      <guid>https://adamj.eu/tech/2026/01/14/python-introducing-tprof/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>domson.dev</title>
-      <link>https://domson.dev/projects/lightweather.html</link>
-      <description>I made a temperature/pressure/humidity/gas sensor and general I/O
-    interface for my "smart flat". This is a blog post / write-up of how
-    and why I did that.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>python</category>
-      <category>nodejs</category>
-      <category>android</category>
-      <guid>https://domson.dev/projects/lightweather.html</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Evolution of a DSL</title>
-      <link>https://williamcotton.com/articles/the-evolution-of-a-dsl</link>
-      <description>A commentary on developing a new DSL.</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://williamcotton.com/articles/the-evolution-of-a-dsl</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>All LLMs Must Shut The Hell Up</title>
-      <link>https://grzra.cz/2026/01/15/All-LLMs-must-shut-the-hell-up.html</link>
-      <description>I like building cool things. This is primarily why I was so excited when I first saw GPT-3 materially improve my code quality. And I thought: “Oh man! How many more cool things can I build now?!”. Unfortunately, the better LLMs got at coding, they have had a completely opposite effect: my motivation dwindled and didn’t fully understand why.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>vscode</category>
-      <guid>https://grzra.cz/2026/01/15/All-LLMs-must-shut-the-hell-up.html</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe coding paradox — Sergey Kaplich</title>
-      <link>https://blog.kaplich.me/vibe-coding-paradox/</link>
-      <description>Vibe coding has become genuinely useful for engineers who understand the underlying systems. We can move faster, prototype quicker, and automate the tedious stuff while still knowing exactly what's happening under the hood.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://blog.kaplich.me/vibe-coding-paradox/</guid>
-      <pubDate>Fri, 16 Jan 2026 02:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
