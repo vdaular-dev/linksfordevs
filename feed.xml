@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Too Far for WiFi? The Ultimate 600ft PoE Camera Setup!</title>
+      <link>https://youtube.com/watch?v=EpEX9IWol18</link>
+      <description>Curious how to run ethernet more than 100 yards? Find out!</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=EpEX9IWol18</guid>
+      <pubDate>Sat, 17 Jan 2026 22:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Tech Promised Everything. Did it deliver? | Scott Hanselman | TEDxPortland</title>
       <link>https://youtube.com/watch?v=dVG8W-0p6vg</link>
       <description>The technology industry promised us connection, convenience, and creativity. Has it delivered, or offered false promises that may never be fully realized? Scott Hanselman offers a candid look at what’s really happening beneath the surface of AI and innovation and how we must make conscious, informed decisions about the tools shaping our future.
@@ -274,25 +283,6 @@ We could not do this without community support. With special thanks to the Unive
       <category>gaming</category>
       <guid>https://fabiensanglard.net/quake_pc/glquake/index.html</guid>
       <pubDate>Fri, 16 Jan 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>6-day and IP Address Certificates are Generally Available</title>
-      <link>https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability</link>
-      <description>Short-lived and IP address certificates are now generally available from Let’s Encrypt. These certificates are valid for 160 hours, just over six days. In order to get a short-lived certificate subscribers simply need to select the ‘shortlived’ certificate profile in their ACME client.
-Short-lived certificates improve security by requiring more frequent validation and reducing reliance on unreliable revocation mechanisms. If a certificate’s private key is exposed or compromised, revocation has historically been the way to mitigate damage prior to the certificate’s expiration. Unfortunately, revocation is an unreliable system so many relying parties continue to be vulnerable until the certificate expires, a period as long as 90 days. With short-lived certificates that vulnerability window is greatly reduced.
-</description>
-      <guid>https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability</guid>
-      <pubDate>Fri, 16 Jan 2026 22:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor Implied Success Without Evidence</title>
-      <link>https://embedding-shapes.github.io/cursor-implied-success-without-evidence/</link>
-      <description>2026-01-16</description>
-      <category>git</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://embedding-shapes.github.io/cursor-implied-success-without-evidence/</guid>
-      <pubDate>Fri, 16 Jan 2026 22:02:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
