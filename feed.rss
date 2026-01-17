@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ASCII characters are not pixels: a deep dive into ASCII rendering</title>
+      <link>https://alexharri.com/blog/ascii-rendering</link>
+      <description>A look at how I used shape vectors to achieve sharp, high-quality ASCII rendering.</description>
+      <category>apple</category>
+      <guid>https://alexharri.com/blog/ascii-rendering</guid>
+      <pubDate>Sat, 17 Jan 2026 16:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Slop is Everywhere For Those With Eyes to See</title>
       <link>https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/</link>
       <description>How mindless consumption is making our FYPs worse.</description>
@@ -290,32 +298,6 @@ Short-lived certificates improve security by requiring more frequent validation 
       <category>ai</category>
       <guid>https://astro.build/blog/joining-cloudflare/</guid>
       <pubDate>Fri, 16 Jan 2026 17:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Just the Browser - Just the Browser</title>
-      <link>https://justthebrowser.com/</link>
-      <description>Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://justthebrowser.com/</guid>
-      <pubDate>Fri, 16 Jan 2026 16:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on No Graphics API</title>
-      <link>https://www.corsix.org/content/thoughts-on-no-graphics-api</link>
-      <description>Sebastian Aaltonen recently wrote an excellent piece titled No Graphics API, which you should read if you're interested in the mechanics of GPUs and APIs for talking to them. You should especially read it if you're an ambitious young engineer at Microsoft who would like to make your mark on the world by designing and championing DirectX 13. If you're instead a hardware engineer designing a new GPU (or something GPU-adjacent), you should again read it and ensure that your hardware design is amenable to what is described.</description>
-      <guid>https://www.corsix.org/content/thoughts-on-no-graphics-api</guid>
-      <pubDate>Fri, 16 Jan 2026 16:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>tinygrad-tutos/tutos/gpu_memory.md at main · cverrier/tinygrad-tutos</title>
-      <link>https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md</link>
-      <description>Tutorials about tinygrad, an end-to-end deep learning stack - cverrier/tinygrad-tutos</description>
-      <category>vscode</category>
-      <guid>https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md</guid>
-      <pubDate>Fri, 16 Jan 2026 16:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

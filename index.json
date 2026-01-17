@@ -1,5 +1,13 @@
 [
   {
+    "Title": "ASCII characters are not pixels: a deep dive into ASCII rendering",
+    "Url": "https://alexharri.com/blog/ascii-rendering",
+    "Timestamp": "2026-01-17T16:02:20",
+    "Domain": "alexharri.com",
+    "Description": "A look at how I used shape vectors to achieve sharp, high-quality ASCII rendering.",
+    "Confidence": 0.99368584
+  },
+  {
     "Title": "Slop is Everywhere For Those With Eyes to See",
     "Url": "https://www.fromjason.xyz/p/notebook/slop-is-everywhere-for-those-with-eyes-to-see/",
     "Timestamp": "2026-01-17T09:02:06",
@@ -238,29 +246,5 @@
     "Domain": "astro.build",
     "Description": "The Astro Technology Company is joining Cloudflare! Astro remains open-source, MIT-licensed, and platform-agnostic. With Cloudflare's support, we're focusing 100% on building the best framework for content-driven websites. Astro 6 beta is available now.\n",
     "Confidence": 0.9585345
-  },
-  {
-    "Title": "Just the Browser - Just the Browser",
-    "Url": "https://justthebrowser.com/",
-    "Timestamp": "2026-01-16T16:02:42",
-    "Domain": "justthebrowser.com",
-    "Description": "Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers.",
-    "Confidence": 0.99641705
-  },
-  {
-    "Title": "Thoughts on No Graphics API",
-    "Url": "https://www.corsix.org/content/thoughts-on-no-graphics-api",
-    "Timestamp": "2026-01-16T16:02:38",
-    "Domain": "www.corsix.org",
-    "Description": "Sebastian Aaltonen recently wrote an excellent piece titled No Graphics API, which you should read if you're interested in the mechanics of GPUs and APIs for talking to them. You should especially read it if you're an ambitious young engineer at Microsoft who would like to make your mark on the world by designing and championing DirectX 13. If you're instead a hardware engineer designing a new GPU (or something GPU-adjacent), you should again read it and ensure that your hardware design is amenable to what is described.",
-    "Confidence": 0.9952372
-  },
-  {
-    "Title": "tinygrad-tutos/tutos/gpu_memory.md at main · cverrier/tinygrad-tutos",
-    "Url": "https://github.com/cverrier/tinygrad-tutos/blob/main/tutos/gpu_memory.md",
-    "Timestamp": "2026-01-16T16:02:35",
-    "Domain": "github.com",
-    "Description": "Tutorials about tinygrad, an end-to-end deep learning stack - cverrier/tinygrad-tutos",
-    "Confidence": 0.995898
   }
 ]
