@@ -1,5 +1,173 @@
 [
   {
+    "Title": "TTY and Buffering",
+    "Url": "https://mattrighetti.com/2026/01/12/tty-and-buffering",
+    "Timestamp": "2026-01-18T01:03:39",
+    "Domain": "mattrighetti.com",
+    "Description": "Every developer has at least once in their career stumbled upon the scenariowhere a program would not print something as they initially thought. A fewyears a...",
+    "Confidence": 0.9972318
+  },
+  {
+    "Title": "The thing that brought me joy",
+    "Url": "https://www.stephenlewis.me/blog/the-thing-that-brought-me-joy/",
+    "Timestamp": "2026-01-18T01:03:35",
+    "Domain": "www.stephenlewis.me",
+    "Description": "The code is not the point, but what if it’s the reason?",
+    "Confidence": 0.9295097
+  },
+  {
+    "Title": "Don’t be a human alarm clock",
+    "Url": "https://mannhowie.com/human-alarm-clock",
+    "Timestamp": "2026-01-18T01:03:32",
+    "Domain": "mannhowie.com",
+    "Description": "How to avoid being left behind by technology.",
+    "Confidence": 0.57766056
+  },
+  {
+    "Title": "Don't waste your back pressure ·",
+    "Url": "https://banay.me/dont-waste-your-backpressure/",
+    "Timestamp": "2026-01-18T01:03:28",
+    "Domain": "banay.me",
+    "Description": "Back pressure for agents\nYou might notice a pattern in the most successful applications of agents over the last year. Projects that are able to\nsetup structure around the agent itself, to provide it with automated feedback on quality and correctness, have been able\nto push them to work on longer horizon tasks.\nThis back pressure helps the agent identify mistakes as it progresses and models are now good enough that this feedback\ncan keep them aligned to a task for much longer. As an engineer, this means you can increase your leverage by delegating\nprogressively more complex tasks to agents, while increasing trust that when completed they are at a satisfactory standard.",
+    "Confidence": 0.9912181
+  },
+  {
+    "Title": "My first year in sales as a technical founder",
+    "Url": "https://www.fabiandietrich.com/blog/first-year-in-sales.html",
+    "Timestamp": "2026-01-18T01:03:25",
+    "Domain": "www.fabiandietrich.com",
+    "Description": "[11-2025 / English / 1917 words]",
+    "Confidence": 0.9909628
+  },
+  {
+    "Title": "Hardware for local coding models is still affordable. For how long?",
+    "Url": "https://mitjamartini.com/posts/2026/01/hardware-for-local-coding-models-still-affordable/",
+    "Timestamp": "2026-01-18T01:03:21",
+    "Domain": "mitjamartini.com",
+    "Description": "The recent RAM price hikes have pushed GPU prices up as well. The only systems that have not yet been affected to the same extent are Macs and high-end GPUs (RTX 6000 Pro and above). However, I would already classify GPUs as out of reach: running coding models with sufficiently large context windows would require one or two RTX 6000 Pro cards, or three to six RTX 5090s.\nLet’s take a look at Macs instead.\nPrice Mem Bandwidth CPU RAM NVMe CPU GPU Model Price/Bandwidth Price/Memory 2.500 EUR 273 GB/s M4 Pro 64 GB 1 TB 12C 16C Mac Mini 9,15 EUR/GB/s 39,06 EUR/GB 4.027 EUR 546 GB/s M4 Max 128 GB 1 TB 16C 40C Mac Studio 7,14 EUR/GB/s 31,43 EUR/GB 4.200 EUR 800 GB/s M3 Ultra 96 GB 1 TB 28C 60C Mac Studio 5,52 EUR/GB/s 43,75 EUR/GB 6.720 EUR 800 GB/s M3 Ultra 256 GB 2 TB 28C 60C Mac Studio 8,40 EUR/GB/s 26,25 EUR/GB 11.900 EUR 800 GB/s M3 Ultra 512 GB 4 TB 32C 80C Mac Studio 14,87 EUR/GB/s 23,24 EUR/GB Mac Studios with the M3 Ultra currently offer the best overall value. The 96 GB version is fast, and its RAM capacity is sufficient to run many general-purpose models using quantization. The 256 GB version can handle coding models at reasonable quantization levels with 64k context, which is just about sufficient for running coding agents 1. The 512 GB model, however, exceeds the €10k, which I consider a hard upper limit for what can reasonably be called an “affordable” system.\nThe price difference between the 96 GB and 256 GB Mac Studio models is surprisingly close to current RAM market prices. For comparison, 256 GB of DDR5-6000 RAM currently costs around €3,430, or €13.39 per GB. The price delta between the 96 GB and 256 GB Mac Studio, and between the 256 GB and 512 GB versions, is approximately €12.88 per GB and €18.50 per GB, respectively. If Apple were to return to its usual memory pricing premiums, the 256 GB configuration would likely end up much closer to €10,000.\nHosted inference is both cheaper and more capable, but it cannot be used in all scenarios. In particular, freelancers and small companies are often required to rely on local systems when working for larger clients. The M3 Ultra, launched in March 2025, together with improved models, quantization techniques, and REAP, has effectively kicked off an era of affordable local coding models. That era may now enter a pause: RAM prices are expected to rise through 2026 and are likely to remain elevated until 2027 or 2028 2.\nBased on benchmark results shared on r/localllama ↩︎\nBased on an analysis from December 2025 on wccftech ↩︎",
+    "Confidence": 0.9255927
+  },
+  {
+    "Title": "Artisanal Code - Sunny Amrat-Nath",
+    "Url": "https://sunnyamrat.com/posts/2026-01-17-artisanal-code/",
+    "Timestamp": "2026-01-18T01:03:17",
+    "Domain": "sunnyamrat.com",
+    "Description": "> Our single-origin, small-batch code is traceable through its commit history to artisanal programmers and traditional foundries. Incorporating a confluence of different cultures and languages, our code is hand-crafted, wrought through pull requests, processed on baremetal and roasted to perfection in a cast-iron CI/CD pipeline - giving you a bold, full-bodied, rich shot of open-source goodness. The perfect start to your day.",
+    "Confidence": 0.98835015
+  },
+  {
+    "Title": "The year everything changed",
+    "Url": "https://networkgames.fyi/the-year-everything-changed",
+    "Timestamp": "2026-01-18T01:03:14",
+    "Domain": "networkgames.fyi",
+    "Description": "Far from my best years being behind me, it feels as though everything in my life has been leading to this moment: building a completely new category of product where the most useful lessons come not from GitHub repos, but from the science fiction novels I’ve been obsessed with since I was a kid.",
+    "Confidence": 0.9879815
+  },
+  {
+    "Title": "Musings on \"The Internet After YouTube\" | Scott Larson",
+    "Url": "https://www.scottrlarson.com/updates/update-response-internet-after-youtube/",
+    "Timestamp": "2026-01-18T01:03:07",
+    "Domain": "www.scottrlarson.com",
+    "Description": "",
+    "Confidence": 0.93367934
+  },
+  {
+    "Title": "Using the M1 MacBook Air in 2026",
+    "Url": "https://mahadk.com/posts/m1-mba",
+    "Timestamp": "2026-01-18T01:03:00",
+    "Domain": "mahadk.com",
+    "Description": "It's surprisingly capable more than five years later — as long as you temper your expectations.",
+    "Confidence": 0.99616235
+  },
+  {
+    "Title": "How Computers Work",
+    "Url": "https://www.aweineverything.com/how-computers-work/",
+    "Timestamp": "2026-01-18T01:02:56",
+    "Domain": "www.aweineverything.com",
+    "Description": "A deep dive into how computers work.",
+    "Confidence": 0.98736805
+  },
+  {
+    "Title": "Counterfactual Evaluation for Recommendation Systems",
+    "Url": "https://eugeneyan.com/writing/counterfactual-evaluation/",
+    "Timestamp": "2026-01-18T01:02:52",
+    "Domain": "eugeneyan.com",
+    "Description": "Thinking about recsys as interventional vs. observational, and inverse propensity scoring.",
+    "Confidence": 0.9921171
+  },
+  {
+    "Title": "Backpressure in Client-Server Applications | Travis Haagen's Blog",
+    "Url": "https://travishaagen.github.io/posts/backpressure-in-client-server-applications/",
+    "Timestamp": "2026-01-18T01:02:49",
+    "Domain": "travishaagen.github.io",
+    "Description": "Backpressure, in client-server applications, is accomplished when a client adjusts its transmission of messages in response to a server that has slowed its processing of messages.",
+    "Confidence": 0.9887605
+  },
+  {
+    "Title": "We Don't Build the Machines Anymore",
+    "Url": "https://blog.mariusvach.com/posts/designing-not-building",
+    "Timestamp": "2026-01-18T01:02:45",
+    "Domain": "blog.mariusvach.com",
+    "Description": "We design the machines. We don't build them anymore. I'm still not sure how I feel about that.",
+    "Confidence": 0.98855436
+  },
+  {
+    "Title": "The Death of Software Development",
+    "Url": "https://mike.tech/blog/death-of-software-development",
+    "Timestamp": "2026-01-18T01:02:42",
+    "Domain": "mike.tech",
+    "Description": "The job of software developer is dead. You might still be coding, but the profession as you knew it is gone.",
+    "Confidence": 0.9733505
+  },
+  {
+    "Title": "From Desired State to Negotiated State",
+    "Url": "https://jlmr.dev/posts/from-desired-state-to-negotiated-state/",
+    "Timestamp": "2026-01-18T01:02:38",
+    "Domain": "jlmr.dev",
+    "Description": "Software Engineer writing about infrastructure, Kubernetes, and Go",
+    "Confidence": 0.9844008
+  },
+  {
+    "Title": "Architecture for Disposable Systems",
+    "Url": "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/",
+    "Timestamp": "2026-01-18T01:02:35",
+    "Domain": "tuananh.net",
+    "Description": "As coding agents make software cheaper and lower quality, we're moving toward disposable software, and that changes everything about how we architect systems.",
+    "Confidence": 0.9977757
+  },
+  {
+    "Title": "Why I Stopped Reading Fiction and How I Found It Again",
+    "Url": "https://leroy.works/articles/why-i-stopped-reading-fiction-and-how-i-found-it-again/",
+    "Timestamp": "2026-01-18T01:02:32",
+    "Domain": "leroy.works",
+    "Description": "For some reason that I don't understand I've always been searching for something. This need to search has always been present within me but I can't quite put into words what it is that I'm searching for, whether I will ever find it, or if the search will ever finish. Well, I can always find words to describe it but they do a poor job and never capture the depth of what I want to find, if it's even possible to find: I'm always searching for the connection of how my humanity relates to the mystery of all the different lives that have ever lived.",
+    "Confidence": 0.8271295
+  },
+  {
+    "Title": "Why We've Tried to Replace Developers Every Decade Since 1969",
+    "Url": "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html",
+    "Timestamp": "2026-01-18T01:02:28",
+    "Domain": "www.caimito.net",
+    "Description": "Every decade brings new promises: this time, we'll finally make software development simple enough that we won't need so many developers. From COBOL to AI, the pattern repeats. Business leaders gro...",
+    "Confidence": 0.9885036
+  },
+  {
+    "Title": "Why Is Password Hygiene Important? – hnst1",
+    "Url": "https://hnst1.com/why-is-password-hygiene-important/",
+    "Timestamp": "2026-01-18T01:02:25",
+    "Domain": "hnst1.com",
+    "Description": "Introduction: In an era where our bank accounts, family photos, and work identities live behind a login screen, the phrase “it won’t happen to me” is no longer a security strategy. With billions of data points leaked every year, your digital safety isn’t determined by if your information will be exposed, but by how well you’ve prepared for when it happens. This article explores the common pitfalls of password management and introduces the one tool that makes “impossible” security easy for everyone: the Password Manager.",
+    "Confidence": 0.96879023
+  },
+  {
+    "Title": "I'll build this later",
+    "Url": "https://cnicodeme.com/ill-build-this-later",
+    "Timestamp": "2026-01-18T01:02:21",
+    "Domain": "cnicodeme.com",
+    "Description": "Your roadmap is a cat-and-mouse game between new ideas/features/bugs that are added to it versus what you and your team can tackle. Ideally, it should go down, but it’s often the contrary that happens.\nAnd then, you get a customer asking you for some...",
+    "Confidence": 0.9918786
+  },
+  {
     "Title": "Too Far for WiFi? The Ultimate 600ft PoE Camera Setup!",
     "Url": "https://youtube.com/watch?v=EpEX9IWol18",
     "Timestamp": "2026-01-17T22:02:11",
@@ -174,21 +342,5 @@
     "Domain": "richhaase.com",
     "Description": "Lessons learned and tools used in my first year of vibe coding",
     "Confidence": 0.96912724
-  },
-  {
-    "Title": "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants. – Jose Zarazua",
-    "Url": "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/",
-    "Timestamp": "2026-01-17T01:02:16",
-    "Domain": "josezarazua.com",
-    "Description": "If you have a remote position open, your challenge is not attracting the correct candidate, it’s filtering out the bad ones, because you’ll have hundreds or thousands of them.",
-    "Confidence": 0.9639522
-  },
-  {
-    "Title": "GitHub - electronicarts/ShaderToHuman: HLSL/GLSL library for debugging shaders",
-    "Url": "https://github.com/electronicarts/ShaderToHuman",
-    "Timestamp": "2026-01-17T01:02:12",
-    "Domain": "github.com",
-    "Description": "HLSL/GLSL library for debugging shaders. Contribute to electronicarts/ShaderToHuman development by creating an account on GitHub.",
-    "Confidence": 0.9967422
   }
 ]
