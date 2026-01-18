@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building a Quake PC</title>
+      <link>https://fabiensanglard.net/quake_pc/</link>
+      <description>After I finished restoring the IBM 2168 486 DX2-66MHz (my childhood dream DOOM PC), there was another box that I wanted to check.</description>
+      <category>aspnet</category>
+      <category>gaming</category>
+      <guid>https://fabiensanglard.net/quake_pc/</guid>
+      <pubDate>Sun, 18 Jan 2026 22:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>A$AP Rocky Releases Helicopter Music Video featuring Gaussian Splatting - Radiance Fields</title>
+      <link>https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting</link>
+      <description>This is actually not the first time A$AP has used Radiance Fields in a music video.</description>
+      <category>ai</category>
+      <guid>https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting</guid>
+      <pubDate>Sun, 18 Jan 2026 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>HomeGrown Devlog - Preparing for Gamescom!</title>
       <link>https://youtube.com/watch?v=2XY5Vn-VD_E</link>
       <description>Devlog video about "HomeGrown", the casual farming game I'm creating using my own engine.
@@ -318,15 +335,6 @@ And then, you get a customer asking you for some...</description>
       <category>gaming</category>
       <guid>https://cnicodeme.com/ill-build-this-later</guid>
       <pubDate>Sun, 18 Jan 2026 01:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Too Far for WiFi? The Ultimate 600ft PoE Camera Setup!</title>
-      <link>https://youtube.com/watch?v=EpEX9IWol18</link>
-      <description>Curious how to run ethernet more than 100 yards? Find out!</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=EpEX9IWol18</guid>
-      <pubDate>Sat, 17 Jan 2026 22:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
