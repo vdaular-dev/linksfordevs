@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The A in AGI stands for Ads</title>
+      <link>https://ossa-ma.github.io/blog/openads</link>
+      <description>Had to crunch the ad revenue projection numbers for OpenAI real quick, had enough of the fearmongering and nonsense takes. AGI... now funded by 5x60 second unskippable ads!</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://ossa-ma.github.io/blog/openads</guid>
+      <pubDate>Sun, 18 Jan 2026 17:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Stop using MySQL in 2026, it is not true open source</title>
       <link>https://optimizedbyotto.com/post/reasons-to-stop-using-mysql/</link>
       <description>If you care about supporting open source software, and still use MySQL in 2026, you should switch to MariaDB like so many others have already done.
