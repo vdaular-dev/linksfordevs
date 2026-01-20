@@ -7,6 +7,272 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Don't send customer-generated content</title>
+      <link>https://www.wordtothewise.com/2026/01/dont-send-customer-generated-content/</link>
+      <description>I just got this email:
+SPF is valid. It passes DKIM for zoom.us.
+</description>
+      <category>web</category>
+      <guid>https://www.wordtothewise.com/2026/01/dont-send-customer-generated-content/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Types of Vibe Coders</title>
+      <link>https://r.rich/blog/vibe-coders</link>
+      <description>I despise the term “vibe coding”. It infantilizes the activity and encourages people to remain uneducated and uninformed about what they are doing. However, that’s the term people are sticking with, and so I want to describe the spectrum of vibe coding, because not all vibe coders are created equal</description>
+      <category>ai</category>
+      <guid>https://r.rich/blog/vibe-coders</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Engineering in 2026.1 - me.0xffff.me</title>
+      <link>https://me.0xffff.me/vibe_engineering_202601.html</link>
+      <description>Some random comment about vibe coding in 2026.1</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>rust</category>
+      <category>sql</category>
+      <guid>https://me.0xffff.me/vibe_engineering_202601.html</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Know What's Worth Learning</title>
+      <link>https://joshfonseca.com/blogs/how-to-know-whats-worth-learning</link>
+      <description>In a world drowning in information, how do we distinguish signal from noise? The answer isn't choosing between classics and cutting-edge—it's recognizing what compounds versus what decays.</description>
+      <category>ai</category>
+      <guid>https://joshfonseca.com/blogs/how-to-know-whats-worth-learning</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Seamless Claude Code Handoff: SSH From Your Phone With tmux</title>
+      <link>https://elliotbonneville.com/phone-to-mac-persistent-terminal/</link>
+      <description>How I set up Tailscale and tmux for true device handoff - attach to running Claude Code sessions from anywhere</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>encryption</category>
+      <category>containers</category>
+      <category>vscode</category>
+      <guid>https://elliotbonneville.com/phone-to-mac-persistent-terminal/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Search Button Powers my Smart Home - Tom Casavant</title>
+      <link>https://tomcasavant.com/your-search-button-powers-my-smart-home/</link>
+      <description>Blog about things</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>python</category>
+      <guid>https://tomcasavant.com/your-search-button-powers-my-smart-home/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to design a new language that can be spoken, written, and read. — Dilettante Habits Blog — dkrajzew</title>
+      <link>https://www.krajzewicz.de/blog/language-generation.php</link>
+      <description>Abstract: Some others did it — they designed a completely new language. I did as well. Here's how.</description>
+      <guid>https://www.krajzewicz.de/blog/language-generation.php</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>On the Coming Industrialisation of Exploit Generation with LLMs</title>
+      <link>https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/</link>
+      <description>Recently I ran an experiment where I built agents on top of Opus 4.5 and GPT-5.2 and then challenged them to write exploits for a zeroday vulnerability in the QuickJS Javascript interpreter. I adde…</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Be an Ola - A Guide to Integrity for Developers</title>
+      <link>https://idrank.vodka/ola</link>
+      <description>A guide to integrity for developers, highlighting the pitfalls of prioritizing appearance over reality in the tech industry.</description>
+      <guid>https://idrank.vodka/ola</guid>
+      <pubDate>Tue, 20 Jan 2026 01:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paying attention to Attention</title>
+      <link>https://suyogdahal.com.np/posts/paying-attention-to-attention/</link>
+      <description>Context I recently came across a three-part YouTube series that explains the Attention mechanism in a refreshingly clear way. The creator breaks things down so well that it made me pause, rewind, and actually understand what’s happening under the hood.
+After finishing the series, I felt the need to write this down, partly so I don’t forget it, and partly because I think explaining something is the best way to truly learn it.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://suyogdahal.com.np/posts/paying-attention-to-attention/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>User Agency as a First-Class Requirement in Scalable Systems</title>
+      <link>https://traulmen.blogspot.com/2026/01/user-agency-as-first-class-requirement.html</link>
+      <description>Recent high-engagement posts on Hacker News — from peer-to-peer Bluetooth messengers and Fairphone adoption, to AI cleanup efforts on Wikipe...</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://traulmen.blogspot.com/2026/01/user-agency-as-first-class-requirement.html</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title> Demystifying Docker Base Images: Why Ubuntu in a Container Isn't Really Ubuntu</title>
+      <link>https://oneuptime.com/blog/post/2026-01-19-how-os-base-images-work-in-docker/view</link>
+      <description> A deep dive into how OS base images like Ubuntu work in Docker containers. Learn why containers share the host kernel, how they differ from VMs, why they're so efficient, and how many you can theoretically run on a single machine.</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://oneuptime.com/blog/post/2026-01-19-how-os-base-images-work-in-docker/view</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>What came first- the CNAME or the A record</title>
+      <link>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</link>
+      <description>A recent change to 1.1.1.1 accidentally altered the order of CNAME records in DNS responses, breaking resolution for some clients. This post explores the technical root cause, examines the source code of affected resolvers, and dives into the inherent ambiguities of the DNS RFCs.</description>
+      <category>ai</category>
+      <guid>https://blog.cloudflare.com/cname-a-record-order-dns-standards/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's the economy , stupid</title>
+      <link>https://www.writervivek.com/2025/04/its-economy-stupid.html?m=1</link>
+      <description></description>
+      <category>web</category>
+      <guid>https://www.writervivek.com/2025/04/its-economy-stupid.html?m=1</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The strange case of the underestimated Merge Join node</title>
+      <link>https://blog.dalibo.com/2026/01/12/under-estimated-mergejoin.html</link>
+      <description>Brest, France, 12 January 2026</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <guid>https://blog.dalibo.com/2026/01/12/under-estimated-mergejoin.html</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Stopped Using nbdev – Hamel’s Blog - Hamel Husain</title>
+      <link>https://hamel.dev/blog/posts/ai-stack/</link>
+      <description>What I learned about choosing tools in the age of AI.</description>
+      <category>ruby</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://hamel.dev/blog/posts/ai-stack/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>On the way to step functions: it is actually a DAG</title>
+      <link>https://blog.julik.nl/2026/01/on-the-way-to-step-functions-part-2</link>
+      <description>This is the next article in the series On the Way to Step Functions — you can find the first article in the series here. Previously, I have outlined the ambient desire in the field (marshalable stacks) and described why that is largely unachievable. But if imperative invocations can’t bid us consolation, what could? DAGs, in fact. If you are impatient (and a Rails user) - just head to the geneva_drive repo for the grand reveal.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <guid>https://blog.julik.nl/2026/01/on-the-way-to-step-functions-part-2</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling long-running autonomous coding</title>
+      <link>https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</link>
+      <description>Wilson Lin at Cursor has been doing some experiments to see how far you can push a large fleet of "autonomous" coding agents: This post describes what we've learned from …</description>
+      <category>git</category>
+      <category>rust</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>On coding with LLMs — Aba Search &amp; Replace</title>
+      <link>https://www.abareplace.com/blog/ai/</link>
+      <description>18 Jan 2026</description>
+      <category>ai</category>
+      <guid>https://www.abareplace.com/blog/ai/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The complete map of project anatomies</title>
+      <link>https://andreipfeiffer.dev/blog/2026/project-anatomies</link>
+      <description>In this blog post we'll analyse hospitals distribution at different scales and see that software projects follow a similar evolution regarding their files and folders anatomy.</description>
+      <category>encryption</category>
+      <guid>https://andreipfeiffer.dev/blog/2026/project-anatomies</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your developer productivity metrics are measuring you, not your team</title>
+      <link>https://dougrathbone.com/blog/2026/01/19/your-developer-productivity-metrics-are-measuring-you-not-your-team</link>
+      <description>Leadership musings and hackery from the Perl generation</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://dougrathbone.com/blog/2026/01/19/your-developer-productivity-metrics-are-measuring-you-not-your-team</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Tale of UDP tracking: Hytale server auto stop and start with systemd</title>
+      <link>https://nwildner.com/posts/2026-01-19-hytale/</link>
+      <description>Tracking UDP connections to auto-stop services is not that easy, but doable</description>
+      <category>gaming</category>
+      <guid>https://nwildner.com/posts/2026-01-19-hytale/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Explainable unsupervised query tagging - Emir's blog</title>
+      <link>https://emiruz.com/post/2026-01-17-qu-tagger/</link>
+      <description>Implementation code is available here.
+Its just North of 200 lines of Python code, so after getting the gist from
+this post, its straightforward to read the code directly for details.</description>
+      <category>python</category>
+      <guid>https://emiruz.com/post/2026-01-17-qu-tagger/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding in the Future - Will Leeney</title>
+      <link>https://willleeney.com/blog/coding-in-the-future/</link>
+      <description>My thoughts on where the evolution of coding in the world of LLMs.</description>
+      <category>ai</category>
+      <guid>https://willleeney.com/blog/coding-in-the-future/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building robust helm charts</title>
+      <link>https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html</link>
+      <description>Building robust helm charts</description>
+      <category>containers</category>
+      <category>web</category>
+      <guid>https://www.willmunn.xyz/devops/helm/kubernetes/2026/01/17/building-robust-helm-charts.html</guid>
+      <pubDate>Tue, 20 Jan 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Only Two Markup Languages</title>
+      <link>https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/</link>
+      <description>There are only two families of proper arbitrary markup languages: TeX and SGML   I would normally link to official thing as reference but it’s behind the “wonderful” ISO paywall: ISO 8879:1986.. By arbitrary, I mean the grammar specifically, and how it can be used mark arbitrary plain text with information. And by proper, I mean the ability to have standalone nodes, user-definable nodes, nodes with attributes, and the wrapping of plain text. Everything else either lacks one of the these capabilities, or is a derivative or syntactic-makeover of TeX...</description>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <guid>https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why file systems are here to stay</title>
+      <link>https://archil.com/post/why-file-systems-are-here-to-stay</link>
+      <description>The industry has discovered that the file system is a surprisingly effective interface to give AI access to data. Here's why file systems are becoming the universal context layer for AI agents.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://archil.com/post/why-file-systems-are-here-to-stay</guid>
+      <pubDate>Tue, 20 Jan 2026 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>My PHP Wishlist</title>
+      <link>https://www.einenlum.com/articles/my-php-wishlist/</link>
+      <description>My personal take on what would make me like PHP even more.</description>
+      <author> (Einenlum)</author>
+      <category>python</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://www.einenlum.com/articles/my-php-wishlist/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple testing new App Store design that blurs the line between ads and search results - 9to5Mac</title>
       <link>https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/</link>
       <description>Apple is testing a new design for App Store search ads on iPhone. Some users on iOS 26.3 are noticing...</description>
