@@ -278,13 +278,5 @@
     "Domain": "paulmakeswebsites.com",
     "Description": "Radio buttons are built into web browsers. Why are we using a UI library that wraps another UI library that rebuilds radio buttons from scratch? Why does rendering a radio button require multiple dependencies and several kilobytes of JavaScript? How did we make a built-in browser control so complicated?",
     "Confidence": 0.9975927
-  },
-  {
-    "Title": "Porsche delivers 279,449 sports cars to customers in 2025",
-    "Url": "https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html",
-    "Timestamp": "2026-01-20T08:02:21",
-    "Domain": "newsroom.porsche.com",
-    "Description": "With a balanced sales structure across individual markets, Dr. Ing. h.c. F. Porsche AG, Stuttgart, delivered a total of 279,449 cars to customers around the world in 2025. ",
-    "Confidence": 0.56619155
   }
 ]
