@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Migrating 13,000 Comments from Drupal to Hugo</title>
+      <link>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</link>
+      <description>After 16 years on the LAMP stack, I finished migrating this website from Drupal to Hugo a few weeks ago.
+What's old is new, as this blog was originally built with Thingamablog, a Java-based Static Site Generator (SSG) I ran on my Mac to generate HTML and FTP it up to my first webserver (over 20 years ago!).
+The main reason I moved from an SSG to Drupal was to add comments. I wanted my blog to have the same level of interactivity I had pre-Thingamablog, when I was (briefly) on Xanga.com.</description>
+      <category>containers</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code Won't Fix Your Life</title>
       <link>https://www.joanwestenberg.com/claude-code-wont-fix-your-life/</link>
       <description>Claude Code can now read and write to local file systems. You can point it at your Obsidian vault and suddenly you have an AI that “knows” everything you’ve ever written. Noah Brier runs it on a home server and connects via VPN from his phone. Bloggers have documented</description>
@@ -356,14 +370,6 @@ I believe the owner also changed. It's no longer Branch, but something called In
       <description>With a balanced sales structure across individual markets, Dr. Ing. h.c. F. Porsche AG, Stuttgart, delivered a total of 279,449 cars to customers around the world in 2025. </description>
       <guid>https://newsroom.porsche.com/en/2026/company/porsche-deliveries-2025-41516.html</guid>
       <pubDate>Tue, 20 Jan 2026 08:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aurora Coolness</title>
-      <link>https://xkcd.com/3196/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3196/</guid>
-      <pubDate>Tue, 20 Jan 2026 03:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
