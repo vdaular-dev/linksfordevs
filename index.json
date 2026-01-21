@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How AI Destroys Institutions",
+    "Url": "https://cyberlaw.stanford.edu/publications/how-ai-destroys-institutions/",
+    "Timestamp": "2026-01-21T16:02:34",
+    "Domain": "cyberlaw.stanford.edu",
+    "Description": "Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy",
+    "Confidence": 0.89937663
+  },
+  {
     "Title": "Why Senior Engineers Let Bad Projects Fail",
     "Url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
     "Timestamp": "2026-01-21T15:02:15",
@@ -286,13 +294,5 @@
     "Domain": "firehound.covertlabs.io",
     "Description": "Industrial management platform for Firehound-Go scans.",
     "Confidence": 0.9362985
-  },
-  {
-    "Title": "I decided to make a worse UUID for the pettiest of reasons.",
-    "Url": "https://gitpush--force.com/commits/2026/01/meet-smolid/",
-    "Timestamp": "2026-01-20T16:02:30",
-    "Domain": "gitpush--force.com",
-    "Description": "Mono Font",
-    "Confidence": 0.9941198
   }
 ]
