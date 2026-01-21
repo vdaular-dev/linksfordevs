@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Linux From Scratch",
+    "Url": "https://www.linuxfromscratch.org/lfs/view/stable/",
+    "Timestamp": "2026-01-21T22:02:30",
+    "Domain": "www.linuxfromscratch.org",
+    "Description": "Version 12.4",
+    "Confidence": 0.66825867
+  },
+  {
     "Title": "GitHub - ChartGPU/ChartGPU: Beautiful, open source, WebGPU-based charting library",
     "Url": "https://github.com/ChartGPU/ChartGPU",
     "Timestamp": "2026-01-21T20:02:16",
@@ -286,13 +294,5 @@
     "Domain": "jamielinux.com",
     "Description": "Jamie Nguyen’s personal blog",
     "Confidence": 0.9957098
-  },
-  {
-    "Title": "Nvidia Stock Crash Prediction",
-    "Url": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
-    "Timestamp": "2026-01-20T22:02:22",
-    "Domain": "entropicthoughts.com",
-    "Description": "",
-    "Confidence": 0.9926733
   }
 ]

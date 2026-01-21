@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Linux From Scratch</title>
+      <link>https://www.linuxfromscratch.org/lfs/view/stable/</link>
+      <description>Version 12.4</description>
+      <category>linux</category>
+      <guid>https://www.linuxfromscratch.org/lfs/view/stable/</guid>
+      <pubDate>Wed, 21 Jan 2026 22:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - ChartGPU/ChartGPU: Beautiful, open source, WebGPU-based charting library</title>
       <link>https://github.com/ChartGPU/ChartGPU</link>
       <description>Beautiful, open source, WebGPU-based charting library - ChartGPU/ChartGPU</description>
@@ -364,14 +372,6 @@ The US, after being the world police for 75 years, have decided to demand territ
       <category>javascript</category>
       <guid>https://jamielinux.com/blog/curious-things-i-discovered-about-ansible-in-advent-of-code/</guid>
       <pubDate>Wed, 21 Jan 2026 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Stock Crash Prediction</title>
-      <link>https://entropicthoughts.com/nvidia-stock-crash-prediction</link>
-      <description></description>
-      <category>nodejs</category>
-      <guid>https://entropicthoughts.com/nvidia-stock-crash-prediction</guid>
-      <pubDate>Tue, 20 Jan 2026 22:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
