@@ -262,29 +262,5 @@
     "Domain": "github.com",
     "Description": "The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between. - markqvist/Reticulum",
     "Confidence": 0.9894006
-  },
-  {
-    "Title": "I'm addicted to being useful",
-    "Url": "https://www.seangoedecke.com/addicted-to-being-useful/",
-    "Timestamp": "2026-01-20T11:02:08",
-    "Domain": "www.seangoedecke.com",
-    "Description": "When I get together with my friends in the industry, I feel a little guilty about how much I love my job. This is a tough time to be a software engineer. The job was less stressful in the late 2010s than it is now, and I sympathize with anyone who is upset about the change. There are a lot of objective reasons to feel bad about work. But despite all that, I’m still having a blast. I enjoy pulling together projects, figuring out difficult bugs, and writing code in general. I like spending time with computers. But what I really love is being useful.",
-    "Confidence": 0.98884153
-  },
-  {
-    "Title": "PSA: Nova Launcher added Facebook and Google Ads tracking",
-    "Url": "https://lemdro.id/post/lemdro.id/35049920",
-    "Timestamp": "2026-01-20T11:02:05",
-    "Domain": "lemdro.id",
-    "Description": "The latest update for the popular Nova Launcher app includes Facebook Ads and Google AdMob.\n\nCompare 8.2.4: https://reports.exodus-privacy.eu.org/en/reports/698198/\n\nWith 8.1.6: https://reports.exodus-privacy.eu.org/en/reports/673643/\n\nFrom 2 trackers to 6 trackers. From 30 permissions to 36. And two of the \"trackers\" are for ad stuff, like Facebook Ads.\n\nI believe the owner also changed. It's no longer Branch, but something called Instabridge Sweden.",
-    "Confidence": 0.9501711
-  },
-  {
-    "Title": "The Incredible Overcomplexity of the Shadcn Radio Button",
-    "Url": "https://paulmakeswebsites.com/writing/shadcn-radio-button/",
-    "Timestamp": "2026-01-20T11:02:02",
-    "Domain": "paulmakeswebsites.com",
-    "Description": "Radio buttons are built into web browsers. Why are we using a UI library that wraps another UI library that rebuilds radio buttons from scratch? Why does rendering a radio button require multiple dependencies and several kilobytes of JavaScript? How did we make a built-in browser control so complicated?",
-    "Confidence": 0.9975927
   }
 ]
