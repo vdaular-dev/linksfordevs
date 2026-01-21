@@ -1,5 +1,221 @@
 [
   {
+    "Title": "Claude Code Won't Fix Your Life",
+    "Url": "https://www.joanwestenberg.com/claude-code-wont-fix-your-life/",
+    "Timestamp": "2026-01-21T00:04:26",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "Claude Code can now read and write to local file systems. You can point it at your Obsidian vault and suddenly you have an AI that “knows” everything you’ve ever written. Noah Brier runs it on a home server and connects via VPN from his phone. Bloggers have documented",
+    "Confidence": 0.97149
+  },
+  {
+    "Title": "Solving the Pendulum Problem",
+    "Url": "https://ethansteere.net/blog/solving-the-pendulum-problem/",
+    "Timestamp": "2026-01-21T00:04:22",
+    "Domain": "ethansteere.net",
+    "Description": "Derive the equations of motion for a the \"simple\" pendulum without the common small angle approximation.",
+    "Confidence": 0.99102366
+  },
+  {
+    "Title": "The Good Hallucinations | Vibe Software Engineering",
+    "Url": "https://chris-hartwig.com/blog/you-want-hallucinated-code/",
+    "Timestamp": "2026-01-21T00:04:19",
+    "Domain": "chris-hartwig.com",
+    "Description": "You can't avoid AI hallucinations. Learn to love them: they force better engineering, documentation, types, and tests. Build systems that catch bad ones automatically.",
+    "Confidence": 0.9989461
+  },
+  {
+    "Title": "Alex Mackenzie",
+    "Url": "https://mack.work/blog/antithesis",
+    "Timestamp": "2026-01-21T00:04:16",
+    "Domain": "mack.work",
+    "Description": "A collection of thoughts, primers and investments",
+    "Confidence": 0.98211896
+  },
+  {
+    "Title": "Import AI 441: My agents are working. Are yours?",
+    "Url": "https://jack-clark.net/2026/01/19/import-ai-441-my-agents-are-working-are-yours/",
+    "Timestamp": "2026-01-21T00:04:13",
+    "Domain": "jack-clark.net",
+    "Description": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import A-IdeaAn occasional es…",
+    "Confidence": 0.8186845
+  },
+  {
+    "Title": "urllib3 entered the \"Billion-a-Month\" club in 2025",
+    "Url": "https://volochii.dev/blog/urllib3-in-2025/",
+    "Timestamp": "2026-01-21T00:04:09",
+    "Domain": "volochii.dev",
+    "Description": "\n    \n      Welcome to the 2025 annual report for urllib3.\nI’m Illia, and this is my first time writing this update for the second most downloaded Python package. Long-time readers will recognize these reports from Seth Larson or Quentin Pradet, but this year I’m taking the baton to share what we’ve been up to.\n2025 was a busy year defined by security hardening and future-proofing. We released 5 versions and merged over 100 pull requests, working to secure the library and prepare it for Python 3.14. For the first time ever, urllib3 was installed over 1 billion times per month consistently throughout the last quarter, signaling new levels of adoption for both the Python language and foundational open source libraries like urllib3.\n    \n  ",
+    "Confidence": 0.9228241
+  },
+  {
+    "Title": "Stitcher.io",
+    "Url": "https://stitcher.io/blog/processing-11-million-rows",
+    "Timestamp": "2026-01-21T00:04:06",
+    "Domain": "stitcher.io",
+    "Description": "A blog about modern PHP, the web, and programming in general. Follow my newsletter and YouTube channel as well.",
+    "Confidence": 0.9914449
+  },
+  {
+    "Title": "Software engineering when machine writes the code",
+    "Url": "https://www.shayon.dev/post/2026/19/software-engineering-when-the-machine-writes-code/",
+    "Timestamp": "2026-01-21T00:03:57",
+    "Domain": "www.shayon.dev",
+    "Description": "The machines have become powerful enough to write code for us. What does this mean for those of us who love understanding how things work? And how do we keep learning when AI does the heavy lifting?",
+    "Confidence": 0.99216187
+  },
+  {
+    "Title": "Stopped Creating package.json Scripts",
+    "Url": "https://benhouston3d.com/blog/stopped-creating-package-json-scripts",
+    "Timestamp": "2026-01-21T00:03:53",
+    "Domain": "benhouston3d.com",
+    "Description": "Over the past year, I've dramatically reduced the number of scripts in my package.json files. What started as a gradual shift has become a deliberate practice: minimize abstractions, maximize clarity. This post explores why direct CLI usage beats script wrappers for transparency, flexibility, and AI-friendliness.",
+    "Confidence": 0.99476975
+  },
+  {
+    "Title": "Understanding AI Agents",
+    "Url": "https://pradyumnachippigiri.dev/blogs/understanding-ai-agents",
+    "Timestamp": "2026-01-21T00:03:49",
+    "Domain": "pradyumnachippigiri.dev",
+    "Description": "A practical guide to AI agents, covering Agentic Patterns, Multi-agentic patterns, and Memory in Agents.",
+    "Confidence": 0.9955422
+  },
+  {
+    "Title": "8 Things I Learned at the Claude Code NYC Meetup",
+    "Url": "https://benr.build/blog/claude-code-nyc-meetup",
+    "Timestamp": "2026-01-21T00:03:46",
+    "Domain": "benr.build",
+    "Description": "House party for Claude Code enjoyers. Salespeople who now ship code. Designers who don't wait for engineers. A guy with 10 apps. The usual Claude Code degenerates.",
+    "Confidence": 0.9889601
+  },
+  {
+    "Title": "LLMs and your career | notes.eatonphil.com",
+    "Url": "https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html",
+    "Timestamp": "2026-01-21T00:03:43",
+    "Domain": "notes.eatonphil.com",
+    "Description": "LLMs and your career",
+    "Confidence": 0.9994519
+  },
+  {
+    "Title": "The 26,000-Year Astronomical Monument Hidden in Plain Sight",
+    "Url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+    "Timestamp": "2026-01-21T00:03:35",
+    "Domain": "longnow.org",
+    "Description": "The western flank of the Hoover Dam holds a celestial map that marks the time of the dam’s creation based on the 25,772-year axial precession of the earth.",
+    "Confidence": 0.9139836
+  },
+  {
+    "Title": "Dependency Inversion Principle: The Architect’s Superpower",
+    "Url": "https://ihoka.me/blog/2026/01/20/dependency-inversion-principle-architectural-power.html",
+    "Timestamp": "2026-01-21T00:03:32",
+    "Domain": "ihoka.me",
+    "Description": "Why DIP is Special",
+    "Confidence": 0.9990896
+  },
+  {
+    "Title": "I'm a Happy engineer now",
+    "Url": "https://blog.denv.it/posts/im-happy-engineer-now/",
+    "Timestamp": "2026-01-21T00:03:29",
+    "Domain": "blog.denv.it",
+    "Description": "I’m now officially a Happy engineer!",
+    "Confidence": 0.9984001
+  },
+  {
+    "Title": "Django 6.0 Tasks: a framework without a worker",
+    "Url": "https://www.loopwerk.io/articles/2026/django-tasks-review/",
+    "Timestamp": "2026-01-21T00:03:25",
+    "Domain": "www.loopwerk.io",
+    "Description": "Background tasks have always been essential in Django projects. Django 6.0 finally acknowledges that fact, but its new Tasks framework stops short of what real applications need.",
+    "Confidence": 0.97917897
+  },
+  {
+    "Title": "Ralph, too, needs a test train split",
+    "Url": "https://softwaredoug.com/blog/2026/01/17/ai-coding-needs-test-train-splits",
+    "Timestamp": "2026-01-21T00:03:21",
+    "Domain": "softwaredoug.com",
+    "Description": "When we think of AI coding as ML modeling, we enable AI to solve deeper, more difficult, and less black and white problems.",
+    "Confidence": 0.9910238
+  },
+  {
+    "Title": "Coding Agents are Good First-Time User Testers",
+    "Url": "https://simedw.com/2026/01/18/agent-user-testing/",
+    "Timestamp": "2026-01-21T00:03:17",
+    "Domain": "simedw.com",
+    "Description": "Using coding agents as first-time user testers for CLIs and web apps.",
+    "Confidence": 0.9828662
+  },
+  {
+    "Title": "The Catcher in the Prompt: Day 60",
+    "Url": "https://blog.pytoshka.me/post/the-catcher-in-the-prompt/",
+    "Timestamp": "2026-01-21T00:03:11",
+    "Domain": "blog.pytoshka.me",
+    "Description": "Holden Claudefield is 17 and surrounded by phonies. Two months post-LLM collapse, cults wage prompt injection wars. Tech satire inspired by Salinger.",
+    "Confidence": 0.9397657
+  },
+  {
+    "Title": "Why the \"For You\" tab sucks — Sergey Kaplich",
+    "Url": "https://blog.kaplich.me/why-the-for-you-tab-sucks/",
+    "Timestamp": "2026-01-21T00:03:08",
+    "Domain": "blog.kaplich.me",
+    "Description": "Your timeline should serve you. Not the other way around.",
+    "Confidence": 0.95736355
+  },
+  {
+    "Title": "John Maguire",
+    "Url": "https://www.johnmaguire.me/blog/ipv6-is-not-insecure-because-it-lacks-nat/",
+    "Timestamp": "2026-01-21T00:03:04",
+    "Domain": "www.johnmaguire.me",
+    "Description": "",
+    "Confidence": 0.9514886
+  },
+  {
+    "Title": "How to brick your phone (on purpose)",
+    "Url": "https://bfeldman.me/posts/ios-app-blocker/",
+    "Timestamp": "2026-01-21T00:03:01",
+    "Domain": "bfeldman.me",
+    "Description": "Lately, I have been getting a ton of ads for a device called Brick, which is a physical device that temporarily removes distracting apps & their notifications from your phone. The way it works is simple: the only way to unlock your apps is to scan the NFC tag inside your Brick. This means that you need to physically move towards your Brick to be able to doomscroll, and hopefully abandon that idea.",
+    "Confidence": 0.9984907
+  },
+  {
+    "Title": "Automatic uptime checks from my phone",
+    "Url": "https://www.jeantinland.com/blog/automatic-uptime-checks-from-my-phone/",
+    "Timestamp": "2026-01-21T00:02:57",
+    "Domain": "www.jeantinland.com",
+    "Description": "A simple method to monitor the uptime of my apps using Vercel's free plan and my iPhone.",
+    "Confidence": 0.95573545
+  },
+  {
+    "Title": "You Didn't Vote for Him, but You Helped Him Win",
+    "Url": "https://eurodivergent.bearblog.dev/you-didnt-vote-for-him-but-you-helped-him-win/",
+    "Timestamp": "2026-01-21T00:02:52",
+    "Domain": "eurodivergent.bearblog.dev",
+    "Description": "The geopolitical situation right now is absurd.\n\nThe US, after being the world police for 75 years, have decided to demand territory from their allies on t...",
+    "Confidence": 0.65012825
+  },
+  {
+    "Title": "vibe coding has a 12x cost problem. maintainers are done. | romanking",
+    "Url": "https://webmatrices.com/post/vibe-coding-has-a-12x-cost-problem-maintainers-are-done",
+    "Timestamp": "2026-01-21T00:02:48",
+    "Domain": "webmatrices.com",
+    "Description": "25-35% of new code in large organizations is now AI-assisted. github copilot writes ~20% of a developer's daily output. cursor and windsurf are rewriting entire architectures.everyone's shipping faster.but someone has to review that code. someone has to maintain it. someone has to debug it at 3am.and those people are burning out.i spent two weeks talking to open source maintainers, digging through github discussions, and reading security research.here's what's actually happening.the 12x problemi tracked the time breakdown on a typical AI-generated pull request that got rejected:whoactiontimecontributorgenerate PR with AI25 minmaintainerread and understand PR25 minmaintainerwrite feedback, request changes15 mincontributorregenerate entire PR (ignore feedback)3 minmaintainerre-review (weird wording) completely different code30 minmaintainerclose PR, write explanation15 min(this obvi is a hypothesis)contributor total: 7 minutesmaintainer total: 85 minutesratio: 12xthis is Brandolini's Law weaponized: \"The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.\"one maintainer told me he's stopped reviewing PRs entirely:\"i can't tell anymore which ones are real contributions and which are someone farming github activity for their linkedin.\"the patternthe same sequence keeps appearing:contributor submits AI-generated PRmaintainer reviews, requests specific changescontributor feeds feedback to AI, gets completely rewritten codemaintainer has to review from scratchrepeat until maintainer gives upa maintainer on a popular obsidian plugin described it:\"the PR ignored the API docs, broke the contribution guidelines, and rewrote parts of the codebase for no reason. robust documentation leverage the secure methodology to enable secure scalabilityJoin to see!gged about reliable performanceunder five minutes.\"the contributor got a linkedin post. the maintainer got nothing.the resume laundering pipelinethis is what's actually happening:generate PR in 5 minutesscreenshot the \"Open\" statuspost on linkedin: \"Just contributed to [popular project]! #opensource #AI\"PR gets rejecteddoesn't matter — screenshot already postedadd \"open source contributor\" to resumecost: a few dollars in API tokens, 7 minutes, 1 linkedin postreward: credibility badge, hiring signalwho pays: the maintainer. always the maintainer.one contractor shared this:\"we just pruned 100k lines out of a 220k line codebase after firing someone who was vibe coding everything. they seemed switched on in meetings. turned out they were running live conversations through LLMs.\"that's 45% of the codebase. removed.the new dunning-krugera comment from one of the reddit threads nailed it:\"It's a new kind of dunning-kruger. People use their ability in the thing to judge the AI's ability in the thing. But they don't know the thing well at all, so they think the AI did the thing well.\"before AI: you had to know enough to write bad codeafter AI: you don't even have to know enough to recognize bad codethe contributors submitting these PRs genuinely believe they're helping. they can't tell the difference between \"code that compiles\" and \"code that belongs in this project.\"it gets worse: synthetic vulnerabilitiesthe maintainer burnout problem is bad. the security problem is worse.radware's threat intelligence team analyzed over 500,000 code samples and coined a term: \"synthetic vulnerabilities\" — security flaws that only appear in AI-generated code.here's what they found:1. AI errors are different from human errorshuman mistakes tend to be low-to-medium severity — typos, minor logic flaws, a missing null check. messy but catchable.AI mistakes are disproportionately high-severity: injection flaws, authentication bypasses, catastrophic failure modes. the code is syntactically perfect and passes the eye test. but it fails catastrophically on adversarial inputs.2. the hallucinated abstraction problemthis is the scariest part.LLMs don't just write bad code. they invent entirely new \"mini-frameworks\" that look sophisticated but are fundamentally broken.example from the study: an LLM asked to help filter database records generated a clean, PEP-8 compliant \"SQL builder\" function. modern f-strings. clear variable names. looked professional.it was a textbook SQL injection vulnerability. no escaping. no prepared statements. no validation.the developer accepted it because it worked functionally. they didn't realize the AI had replaced a battle-tested library with a fragile, hallucinated utility.radware calls this the \"abstraction hallucination multiplier\" — the AI invents helper functions that simply don't exist or are non-functional placeholders. traditional security tools don't catch it because the function call is valid syntax, even if the implementation is broken.3. the ouroboros effectLLMs learn from code published online. more and more of that code is now AI-generated. so:AI generates flawed codeflawed code gets published to github/stackoverflownext-generation LLMs train on that flawed codemodels become experts at reproducing their own statistical flawsthe security baseline of all generated code is permanently declining. radware calls it \"poisoning the well.\"4. attackers are already exploiting thisthe study found attackers are using \"AI-fingerprinting\" — hunting for unique code signatures that only LLMs produce.when thousands of developers use the same prompt, they get the same vulnerable boilerplate. one exploit works on thousands of unrelated systems.even worse: \"slopsquatting.\" attackers monitor LLM output for hallucinated package names (packages that don't exist). then they register those names on npm/pypi with malicious payloads.developer gets a dependency error. runs npm install hallucinated-package. installs the attacker's payload.this is happening now.linus can vibe code. you probably can't.when linus torvalds uses AI to help with linux kernel development, that's not \"vibe coding.\" that's 30+ years of context, taste, and architecture sense — amplified.AI multiplies what you already know.10 years of experience × AI = 10x output0 years of experience × AI = 10x slopthe modular algorithm initialize the comprehensive compatibility using robust algorithm through modularJoin to see! it.or review it.or debug it at 3am.or defend it against an attacker who knows exactly what the LLM got wrong.what this means for your SaaSif you're building a product, this matters more than you think.1. your dependencies are maintained by volunteersthose volunteers are burning out. AI-generated PRs are accelerating it.when left-pad disappeared in 2016, it broke thousands of builds. the next left-pad won't disappear because someone unpublished it. it'll disappear because the maintainer quietly walked away after reviewing their 50th slop PR.2. your AI-assisted hires might be hollowthat \"open source contributor\" on the resume? might be rejected PRs and linkedin screenshots.that impressive take-home project? might be AI-generated slop they can't explain.new interview question: \"walk me through a bug you personally debugged in this code.\"3. your codebase is already accumulating debtthe contractor story — 100k lines pruned — is happening everywhere. quietly. the code works today. the debt compounds tomorrow.cory doctorow called it: \"Tech Debt at Scale.\"4. your security surface just expandedif your team is using AI to write code, you now have synthetic vulnerabilities. the question is how many, and whether your security tools can even detect them.traditional SAST tools miss hallucinated abstractions. they see valid function calls, not broken implementations.radware's conclusion: \"we must stop acting as passive consumers of AI-generated code and transition into security auditors.\"what actually workstalked to maintainers and engineering leads who haven't burned out yet.for open source maintainers:disclosure checkbox: \"Was this PR generated with AI assistance? If yes, describe what you personally reviewed and tested.\"issue-first policy: no PR without a linked issue that was discussed first. kills drive-by \"improvements.\"close faster: stop explaining. if it looks like slop, close immediately. your time is worth more than their feelings.for hiring managers:debug interviews: give them their own submitted code with a bug injected. watch them find it.explain-the-trade-off: \"why did you use X instead of Y here?\" vibe coders can't answer this.check the PRs: if they claim open source contributions, look at whether they were merged.for founders:audit your AI-written code: not whether it works. whether someone else can maintain it. whether it has synthetic vulnerabilities.watch for the pattern: fast output, can't explain decisions, every review comment triggers a complete rewrite.build review culture: the cost of catching slop early is 10x cheaper than pruning 100k lines later.update your security tooling: if you're not scanning for hallucinated abstractions, you're not scanning for AI vulnerabilities.the uncomfortable truthAI-assisted coding works great for:personal projectsprototypeslearningthrowaway scriptsexperienced developers who can review what they generateAI-assisted coding destroys:collaborative codebases (when contributors can't review their own output)open source projects (when maintainers bear the review cost)anything someone else has to debuganything that needs to be securethe problem isn't AI. the problem is the 12x cost asymmetry.you save 7 minutes. the maintainer loses 85.the bottom linethe developers who thrive won't be the ones who generate the most code. they'll be the ones who can tell the difference between code that compiles and code that belongs.taste scales. slop doesn't.sources:radware threat intelligence: synthetic vulnerabilitiescory doctorow on \"tech debt at scale\"maintainer interviews and reddit/HN discussionswhat are you seeing? maintainers — how are you handling the review load? founders — have you caught AI-generated slop in your codebase?irony, adding an ai-gen image myself:#CaseStudy #VibeCoding",
+    "Confidence": 0.9742272
+  },
+  {
+    "Title": "Why Over-Engineering Happens",
+    "Url": "https://yusufaytas.com/why-over-engineering-happens/",
+    "Timestamp": "2026-01-21T00:02:43",
+    "Domain": "yusufaytas.com",
+    "Description": "Over-engineering slows delivery, raises costs, and kills products. Learn why it happens—and how to build simpler, stronger software.",
+    "Confidence": 0.98306626
+  },
+  {
+    "Title": "Curious things I discovered about Ansible in Advent of Code",
+    "Url": "https://jamielinux.com/blog/curious-things-i-discovered-about-ansible-in-advent-of-code/",
+    "Timestamp": "2026-01-21T00:02:39",
+    "Domain": "jamielinux.com",
+    "Description": "Jamie Nguyen’s personal blog",
+    "Confidence": 0.9957098
+  },
+  {
     "Title": "Nvidia Stock Crash Prediction",
     "Url": "https://entropicthoughts.com/nvidia-stock-crash-prediction",
     "Timestamp": "2026-01-20T22:02:22",
