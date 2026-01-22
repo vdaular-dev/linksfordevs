@@ -286,21 +286,5 @@
     "Domain": "cyberlaw.stanford.edu",
     "Description": "Civic institutions—the rule of law, universities, and a free press—are the backbone of democratic life. They are the mechanisms through which complex societies encourage cooperation and stability, while also adapting to changing circumstances. The real superpower of institutions is their ability to evolve and adapt within a hierarchy",
     "Confidence": 0.89937663
-  },
-  {
-    "Title": "Why Senior Engineers Let Bad Projects Fail",
-    "Url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-    "Timestamp": "2026-01-21T15:02:15",
-    "Domain": "lalitm.com",
-    "Description": "When I was a junior engineer, my manager would occasionally confide his frustrations to me in our weekly 1:1s. He would point out a project another team was working on and say, “I don’t believe that project will go anywhere, they’re solving the wrong problem.” I used to wonder, “But you are very senior, why don’t you just go and speak to them about your concerns?” It felt like a waste of his influence to not say anything.\nSo it’s quite ironic that I found myself last week explaining to a mentee why I thought a sister team’s project would have to pivot because they’d made a poor early design choice. And he rightfully asked me the same question I had years ago: “why don’t you just tell them your opinion?” It’s been on my mind ever since because I realized I’d changed my stance on it a lot over the years.",
-    "Confidence": 0.96710026
-  },
-  {
-    "Title": "LLVM Adopts \"Human In The Loop\" Policy For AI/Tool-Assisted Contributions",
-    "Url": "https://www.phoronix.com/news/LLVM-Human-In-The-Loop",
-    "Timestamp": "2026-01-21T15:02:11",
-    "Domain": "www.phoronix.com",
-    "Description": "Following recent discussions over AI contributions to the LLVM open-source compiler project, they have come to an agreement on allowing AI/tool-assisted contributions but that there must be a human involved that is first looking over the code before opening any pull request and similar",
-    "Confidence": 0.91128963
   }
 ]
