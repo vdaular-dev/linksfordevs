@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation!",
+    "Url": "https://qwen.ai/blog?id=qwen3tts-0115",
+    "Timestamp": "2026-01-22T19:02:10",
+    "Domain": "qwen.ai",
+    "Description": "Github HuggingFace Huggingface Demo ModelScope Demo Paper\nQwen3-TTS is a series of powerful speech generation capabilities developed by Qwen, offering comprehensive support for voice clone, voice design, ultra-high-quality human-like speech generation, and natural language-based voice control. It provides developers and users with the most extensive set of speech generation features available. Powered by the innovative Qwen3-TTS-Tokenizer-12Hz multi-codebook speech encoder, Qwen3-TTS achieves efficient compression and robust representation of speech signals. This not only fully preserves paralinguistic information and acoustic environmental features but also enables high-speed, high-fidelity speech reconstruction via a lightweight non-DiT architecture.",
+    "Confidence": 0.9564434
+  },
+  {
     "Title": "GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers",
     "Url": "https://gptzero.me/news/neurips/",
     "Timestamp": "2026-01-22T18:02:34",
