@@ -347,19 +347,5 @@ So it’s quite ironic that I found myself last week explaining to a mentee why 
       <guid>https://github.com/anthropics/original_performance_takehome</guid>
       <pubDate>Wed, 21 Jan 2026 09:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>Migrating 13,000 Comments from Drupal to Hugo</title>
-      <link>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</link>
-      <description>After 16 years on the LAMP stack, I finished migrating this website from Drupal to Hugo a few weeks ago.
-What's old is new, as this blog was originally built with Thingamablog, a Java-based Static Site Generator (SSG) I ran on my Mac to generate HTML and FTP it up to my first webserver (over 20 years ago!).
-The main reason I moved from an SSG to Drupal was to add comments. I wanted my blog to have the same level of interactivity I had pre-Thingamablog, when I was (briefly) on Xanga.com.</description>
-      <category>containers</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>sql</category>
-      <category>web</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</guid>
-      <pubDate>Wed, 21 Jan 2026 03:02:19 GMT</pubDate>
-    </item>
   </channel>
 </rss>

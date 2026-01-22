@@ -294,13 +294,5 @@
     "Domain": "github.com",
     "Description": "Anthropic's original performance take-home, now open for you to try! - anthropics/original_performance_takehome",
     "Confidence": 0.99395883
-  },
-  {
-    "Title": "Migrating 13,000 Comments from Drupal to Hugo",
-    "Url": "https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/",
-    "Timestamp": "2026-01-21T03:02:19",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "After 16 years on the LAMP stack, I finished migrating this website from Drupal to Hugo a few weeks ago.\nWhat's old is new, as this blog was originally built with Thingamablog, a Java-based Static Site Generator (SSG) I ran on my Mac to generate HTML and FTP it up to my first webserver (over 20 years ago!).\nThe main reason I moved from an SSG to Drupal was to add comments. I wanted my blog to have the same level of interactivity I had pre-Thingamablog, when I was (briefly) on Xanga.com.",
-    "Confidence": 0.9968533
   }
 ]
