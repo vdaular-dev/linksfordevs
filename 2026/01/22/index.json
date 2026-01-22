@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Mental Models for Debugging Hard Problems",
+    "Url": "https://leomax.fyi/blog/mental-models-for-debugging-hard-problems/",
+    "Timestamp": "2026-01-22T00:03:57",
+    "Domain": "leomax.fyi",
+    "Description": "Master debugging with proven mental models: First Principles Thinking, Scientific Method, and Four Stages of Competence."
+  },
+  {
+    "Title": "Human Debt | Sanjay Nair",
+    "Url": "https://sanjaynair.me/blog/2026-01-20-human-debt/",
+    "Timestamp": "2026-01-22T00:03:53",
+    "Domain": "sanjaynair.me",
+    "Description": "Software engineering leader based in Atlanta, Georgia, sharing insights on leadership, technology, and software development."
+  },
+  {
+    "Title": "Learning to Program in 2026",
+    "Url": "https://www.jakeworth.com/posts/learning-to-program-in-2026/",
+    "Timestamp": "2026-01-22T00:03:50",
+    "Domain": "www.jakeworth.com",
+    "Description": "If I had to start over as a person who wanted to become a professional programmer, in 2026, what would I do?"
+  },
+  {
+    "Title": "I don't like Klipy",
+    "Url": "https://yhvr.me/blog/klipy/",
+    "Timestamp": "2026-01-22T00:03:47",
+    "Domain": "yhvr.me",
+    "Description": "I get bad vibes from the company that Discord is going to replace Tenor with."
+  },
+  {
+    "Title": "I finally got my sway layout to autostart just the way I like it",
+    "Url": "https://hugues.betakappaphi.com/2026/01/19/sway-layout/",
+    "Timestamp": "2026-01-22T00:03:42",
+    "Domain": "hugues.betakappaphi.com",
+    "Description": "I have been using sway as my default window manager on my laptop for a few years. One of the things that I’ve found most annoying about it, after over a decade of using KDE, was the lack of automated save and restore of running applications. There is a way to auto-start applications, but not to specify the way the resulting windows will be laid out."
+  },
+  {
+    "Title": "My 2025 Bug Bounty Stories",
+    "Url": "https://joshua.hu/2025-bug-bounty-stories-fail",
+    "Timestamp": "2026-01-22T00:03:39",
+    "Domain": "joshua.hu",
+    "Description": "A recap of my 2025 bug bounty experiences, featuring failures and stories from Google Cloud, GitHub, Vercel, Opera, and others."
+  },
+  {
+    "Title": "Pull requests with LLM attribution are predatory behavior",
+    "Url": "https://127001.me/post/llm-attribution-predatory/",
+    "Timestamp": "2026-01-22T00:03:36",
+    "Domain": "127001.me",
+    "Description": "If there’s a predator[1], there must be prey. Here, the prey is time — first, the time of a person who reviews the PR; second, the time of a maintainer who will be maintaining the code after it lands in master."
+  },
+  {
+    "Title": "Claude's new constitution",
+    "Url": "https://www.anthropic.com/news/claude-new-constitution",
+    "Timestamp": "2026-01-22T00:03:31",
+    "Domain": "www.anthropic.com",
+    "Description": "A new approach to a foundational document that expresses and shapes who Claude is"
+  },
+  {
+    "Title": "Your Prod Code Should Have Bugs",
+    "Url": "https://lucaspauker.com/articles/your-prod-code-should-have-bugs/",
+    "Timestamp": "2026-01-22T00:03:27",
+    "Domain": "lucaspauker.com",
+    "Description": "Debugging prod after shipping on Friday\nYour job as a software engineer Every line of production code is a bet on speed, safety, and correctness. When you ship software, you are balancing:\nGetting it done fast -> shipping faster means the feature appears earlier for customers and ultimately the business makes more money Not introducing bugs -> bugs can cause outages or other errors that lead to losses The problem is that anyone that has worked with software knows that no matter what, you cannot guarantee that your shipped software will not have bugs."
+  },
+  {
+    "Title": "Everything MoE",
+    "Url": "https://ianbarber.blog/2026/01/20/everything-moe/",
+    "Timestamp": "2026-01-22T00:03:24",
+    "Domain": "ianbarber.blog",
+    "Description": "There are two really good ways to learn the deep fundamentals of a field. One we could call the Carmack/Ilya method: get an expert to give you a list of the seminal papers, systematically work thro…"
+  },
+  {
+    "Title": "Building a Multi-Tenant Metrics Pipeline for Thousands of Clients",
+    "Url": "https://jamesrobb.ca/projects/metrics_pipeline/",
+    "Timestamp": "2026-01-22T00:03:20",
+    "Domain": "jamesrobb.ca",
+    "Description": "The last big project I worked on during my time at Yellowbrick was a brand new observability stack for the core product, an OLAP data warehouse. The company had finished a big push to create a cloud version of the product (which up to that point ran on a custom appliance) and we were finding that our mostly log-driven approach to observability was falling short. Diagnosing performance issues or failures took too much time and effort, and cloud customers had much different expectations on how to observe the health of their systems than our appliance customers."
+  },
+  {
+    "Title": "I love the old man minimap in VS Code",
+    "Url": "https://blog.andreani.in/blog/35/",
+    "Timestamp": "2026-01-22T00:03:17",
+    "Domain": "blog.andreani.in",
+    "Description": "If you don’t use the minimap in VS code you probably turned it off a while ago (like me). I thought it was small and useless unless your code has a very distinct structure."
+  },
+  {
+    "Title": "Get Closer So I Can Hear the Birds",
+    "Url": "https://terratauri.com/blog/get-closer-so-i-can-hear-the-birds/",
+    "Timestamp": "2026-01-22T00:03:14",
+    "Domain": "terratauri.com",
+    "Description": "I spent two weeks using GPT and Codex for my daily work. Between fabricated technical explanations, a model that insisted it could hear birds, and tooling that couldn't keep up with my workflows, I learned a lot about trust. Here's what happened."
+  },
+  {
+    "Title": "Databases are magic ... until ... | Silvestre Perret",
+    "Url": "https://silvestreperret.com/posts/databases-are-magic-until-they-are-not/",
+    "Timestamp": "2026-01-22T00:03:10",
+    "Domain": "silvestreperret.com",
+    "Description": "Databases are magic until they are not. OLTP vs OLAP explained."
+  },
+  {
+    "Title": "SQLite Vector is now Nix Flake Ready! ❄️",
+    "Url": "https://cwrk.ai/posts/sqlite-vector-nix-flake-support/",
+    "Timestamp": "2026-01-22T00:03:07",
+    "Domain": "cwrk.ai",
+    "Description": "A contribution by Cowork AI to the SQLite ecosystem."
+  },
+  {
+    "Title": "A lifetime of service - Olly",
+    "Url": "https://olly.world/a-lifetime-of-service",
+    "Timestamp": "2026-01-22T00:03:04",
+    "Domain": "olly.world",
+    "Description": "As well as pondering a general price increase for Pagecord, I've been thinking lately about a offering a pay once \"lifetime\" option. I've heard that this is..."
+  },
+  {
+    "Title": "World Models",
+    "Url": "https://ankitmaloo.com/world-models/",
+    "Timestamp": "2026-01-22T00:03:00",
+    "Domain": "ankitmaloo.com",
+    "Description": "Some elements here build upon the RL env post. Also, please read the footnotes, given a lot to cover, I moved many clarifications to the bottom."
+  },
+  {
+    "Title": "How I design systems",
+    "Url": "https://ooo-yay.com/blog/how-i-design-systems/",
+    "Timestamp": "2026-01-22T00:02:53",
+    "Domain": "ooo-yay.com",
+    "Description": "A practical guide to designing distributed systems by breaking them down into functional areas: architecture, communication, ingress, events, databases, caching, testing, and instrumentation."
+  },
+  {
+    "Title": "Five Mistakes I've Made with Euler Angles",
+    "Url": "https://buchanan.one/blog/rotations/",
+    "Timestamp": "2026-01-22T00:02:49",
+    "Domain": "buchanan.one",
+    "Description": "How to debug inverted and backward Euler angles, or avoid those problems in the first place."
+  },
+  {
+    "Title": "I vibe coded a webapp from my phone - here's what I learned",
+    "Url": "https://opista.com/posts/i-vibe-coded-webapp-from-my-phone-heres-what-i-learned",
+    "Timestamp": "2026-01-22T00:02:46",
+    "Domain": "opista.com",
+    "Description": "LLMs have come a long way, but how far can we get using cloud agents like Google Jules to build a web app? I tried vibe coding from my phone, acting as a code reviewer rather than writer. Easier than I thought, but not without its fair share of problems."
+  },
+  {
+    "Title": "Can Claude be a travel agent yet? - Ritza Articles",
+    "Url": "https://ritza.co/articles/ai-browser-automation/",
+    "Timestamp": "2026-01-22T00:02:42",
+    "Domain": "ritza.co",
+    "Description": "None"
+  },
+  {
+    "Title": "Fundamental Engineering Principles · Tony Tong",
+    "Url": "https://blog.tdhttt.com/post/fundamental-engineering-principles/",
+    "Timestamp": "2026-01-22T00:02:35",
+    "Domain": "blog.tdhttt.com",
+    "Description": ""
+  },
+  {
+    "Title": "chrome://crash is the best home page",
+    "Url": "https://blog.thomasorlita.com/chrome-crash-home-page/",
+    "Timestamp": "2026-01-22T00:02:31",
+    "Domain": "blog.thomasorlita.com",
+    "Description": "The home page button was included in the oldest web browsers and has been around since, yet it doesn't seem to be used much anymore. Setting the home button URL to chrome://crash/ (in Chromium-based browsers) is a useful trick to use it to easily unload pages when needed."
+  },
+  {
+    "Title": "On Designing Forms That Don't Get in the Way",
+    "Url": "https://www.souravinsights.com/blog/on-designing-forms",
+    "Timestamp": "2026-01-22T00:02:28",
+    "Domain": "www.souravinsights.com",
+    "Description": "Notes on validation, accessibility, and the invisible decisions behind a calm sign-in flow."
+  },
+  {
+    "Title": "Everyone has a boss",
+    "Url": "https://jonpauluritis.com/articles/everyone-has-a-boss/",
+    "Timestamp": "2026-01-22T00:02:24",
+    "Domain": "jonpauluritis.com",
+    "Description": "I had always expected to be an Entrepreneur. As an American, we are born into a world where your safety and health depends on having deep pockets when (*not if*) an emergency occurs."
+  },
+  {
+    "Title": "Why VIPER and MVVM in SwiftUI are actually the same pattern: A lesson in architectural thinking",
+    "Url": "https://matteomanferdini.com/mvvm-vs-viper/",
+    "Timestamp": "2026-01-22T00:02:21",
+    "Domain": "matteomanferdini.com",
+    "Description": "Architectural design patterns like VIPER might seem radically different from common ones like MVVM. However, upon deeper inspection, it turns out that these patterns share the same constitutive components. In this article, we will compare the MVVM and VIPER design patterns in SwiftUI and show how they follow the same principles. Table of contents Architectural ... Read more"
+  }
+]
