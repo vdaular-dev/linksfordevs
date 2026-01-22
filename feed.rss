@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Making a Small Mouse-Driven RPG</title>
+      <link>https://jslegenddev.substack.com/p/how-mouse-input-turned-my-game-on</link>
+      <description>Check the video version version on YouTube, here.</description>
+      <category>gaming</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>youtube</category>
+      <guid>https://jslegenddev.substack.com/p/how-mouse-input-turned-my-game-on</guid>
+      <pubDate>Thu, 22 Jan 2026 23:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>C64 Ultimate Review + What's Next?</title>
+      <link>https://retrogamecoders.com/c64-ultimate-review/</link>
+      <description>What is the new C64 Ultimate like and should you get one instead of an original Commodore 64 or TheC64? I review as a developer AND retro fan</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://retrogamecoders.com/c64-ultimate-review/</guid>
+      <pubDate>Thu, 22 Jan 2026 23:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>I was banned from Claude for scaffolding a CLAUDE.md file – Hugo Daniel</title>
+      <link>https://hugodaniel.com/posts/claude-code-banned-me/</link>
+      <description>Hugo Daniel's site about ideas and software experimentations</description>
+      <author> (Hugo Daniel)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://hugodaniel.com/posts/claude-code-banned-me/</guid>
+      <pubDate>Thu, 22 Jan 2026 23:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Liquid Glass? That's what your M4 CPU is for</title>
       <link>https://idiallo.com/byte-size/apple-liquid-glass?src=feed</link>
       <description>So, Apple just dropped its new "Liquid Glass" design language, and yeah, it looks slick. Translucent, fluid, subtly animated. The kind of thing that makes you nod and say, "Yep, that’s Apple." But while everyone’s drooling over the aesthetics, I’m sitting here having a serious Vista flashback. How many CPU cycles is this beauty actually costing us?</description>
@@ -433,14 +463,6 @@ Getting it done fast -&gt; shipping faster means the feature appears earlier for
       <category>sql</category>
       <guid>https://matteomanferdini.com/mvvm-vs-viper/</guid>
       <pubDate>Thu, 22 Jan 2026 00:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cost Savings</title>
-      <link>https://xkcd.com/3197/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3197/</guid>
-      <pubDate>Wed, 21 Jan 2026 23:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

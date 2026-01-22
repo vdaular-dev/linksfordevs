@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Making a Small Mouse-Driven RPG",
+    "Url": "https://jslegenddev.substack.com/p/how-mouse-input-turned-my-game-on",
+    "Timestamp": "2026-01-22T23:02:19",
+    "Domain": "jslegenddev.substack.com",
+    "Description": "Check the video version version on YouTube, here.",
+    "Confidence": 0.9641383
+  },
+  {
+    "Title": "C64 Ultimate Review + What's Next?",
+    "Url": "https://retrogamecoders.com/c64-ultimate-review/",
+    "Timestamp": "2026-01-22T23:02:14",
+    "Domain": "retrogamecoders.com",
+    "Description": "What is the new C64 Ultimate like and should you get one instead of an original Commodore 64 or TheC64? I review as a developer AND retro fan",
+    "Confidence": 0.9632336
+  },
+  {
+    "Title": "I was banned from Claude for scaffolding a CLAUDE.md file – Hugo Daniel",
+    "Url": "https://hugodaniel.com/posts/claude-code-banned-me/",
+    "Timestamp": "2026-01-22T23:02:10",
+    "Domain": "hugodaniel.com",
+    "Description": "Hugo Daniel's site about ideas and software experimentations",
+    "Confidence": 0.9757132
+  },
+  {
     "Title": "Liquid Glass? That's what your M4 CPU is for",
     "Url": "https://idiallo.com/byte-size/apple-liquid-glass?src=feed",
     "Timestamp": "2026-01-22T20:03:08",
@@ -382,13 +406,5 @@
     "Domain": "matteomanferdini.com",
     "Description": "Architectural design patterns like VIPER might seem radically different from common ones like MVVM. However, upon deeper inspection, it turns out that these patterns share the same constitutive components. In this article, we will compare the MVVM and VIPER design patterns in SwiftUI and show how they follow the same principles. Table of contents Architectural ... Read more",
     "Confidence": 0.99061793
-  },
-  {
-    "Title": "Cost Savings",
-    "Url": "https://xkcd.com/3197/",
-    "Timestamp": "2026-01-21T23:02:11",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
