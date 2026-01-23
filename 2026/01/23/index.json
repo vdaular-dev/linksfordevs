@@ -1,5 +1,180 @@
 [
   {
+    "Title": "400 commits. 14 days. Zero (human) code.",
+    "Url": "https://tobyhede.com/blog/400-commits-in-14-days/",
+    "Timestamp": "2026-01-23T02:03:51",
+    "Domain": "tobyhede.com",
+    "Description": "Rundown is my attempt to build a complete product in the Year of Our Claude, 2026"
+  },
+  {
+    "Title": "The Real Reason Claude Code Users Prefer the Terminal",
+    "Url": "https://elliot.my/claude-coder-users-prefer-the-terminal/",
+    "Timestamp": "2026-01-23T02:03:48",
+    "Domain": "elliot.my",
+    "Description": "\n\nAnthropic  their favourite way to use : Terminal, VS Code, Desktop App, Mobile, or Web.\n\n.\n\nYes, the command line – a plain text application 99% of M..."
+  },
+  {
+    "Title": "Sometimes Dropbox is just FTP: building a link shortener",
+    "Url": "https://blog.kronis.dev/blog/sometimes-dropbox-is-just-ftp-building-a-link-shortener",
+    "Timestamp": "2026-01-23T02:03:45",
+    "Domain": "blog.kronis.dev",
+    "Description": "My blog, where I attempt to collect my thoughts and share the occasional interesting topic with others"
+  },
+  {
+    "Title": "MCP, Skills, and Agents",
+    "Url": "https://cra.mr/mcp-skills-and-agents/",
+    "Timestamp": "2026-01-23T02:03:39",
+    "Domain": "cra.mr",
+    "Description": "If you're not caught up on the current hypewave, coding agents like Claude Code and Cursor have latched onto skills recently. Like with all of these waves, everyone has immediately proclaimed they solve all problems, and all previous iterations of technology are no longer relevant. That's obviously not true, and I want to talk about my thinking behind them."
+  },
+  {
+    "Title": "Extracting a UART Password via SPI Flash Instruction Tracing",
+    "Url": "https://zuernerd.github.io/blog/2026/01/07/switch-password.html",
+    "Timestamp": "2026-01-23T02:03:36",
+    "Domain": "zuernerd.github.io",
+    "Description": "Introduction"
+  },
+  {
+    "Title": "Why Offline Learning Still Matters in 2026",
+    "Url": "https://takuti.me/note/offline-learning/",
+    "Timestamp": "2026-01-23T02:03:30",
+    "Domain": "takuti.me",
+    "Description": "Short answer: There are two extremes in our world—hyper-connected world of rich countries, and a disconnected world of underserved communities like rural Africa.\nI've seen both, and I conclude that being in a low-resource and low-connectivity environment was neither a disadvantage nor a limitation if they could receive localized, tailored services.\nBeing online is a privilege First of all, not everyone enjoys the online environment. More than 25% of the global population still doesn't use the internet1, and the disconnected population can reach around 80% in low-income countries, like Malawi2.\nThat's why we need a different approach to achieve a similar goal. Education, for example, cannot rely on tablets, Zoom, or Google Docs in many parts of the world, yet we can still deliver a remote learning experience through low-tech applications like USSD.\nLearning initiatives fail when we apply the rules of the hyper-connected world to the disconnected world without adapting to its context.\nHands-on needs are in the field Moreover, context adaptation is only possible based on an accurate, vivid understanding of the context, which requires extensive fieldwork and interviews. It is an in-person process of learning who, where, which, why, what, and how a certain problem emerges and evolves."
+  },
+  {
+    "Title": "Velocity Is the New Authority. Here’s Why",
+    "Url": "https://om.co/2026/01/21/velocity-is-the-new-authority-heres-why/",
+    "Timestamp": "2026-01-23T02:03:27",
+    "Domain": "om.co",
+    "Description": "Why does everyone feel overwhelmed by information? Why does it feel impossible to trust what passes through our streams? We tend to blame individual publications, specific platforms, or b…"
+  },
+  {
+    "Title": "Hidden Rules – Demi Yilmaz",
+    "Url": "https://demiculus.com/hidden-rules/",
+    "Timestamp": "2026-01-23T02:03:23",
+    "Domain": "demiculus.com",
+    "Description": "Why does the smart girl in school end up with average results and the “weird kid” becomes a top achiever?"
+  },
+  {
+    "Title": "Agentic development basics",
+    "Url": "https://steveklabnik.com/writing/agentic-development-basics/",
+    "Timestamp": "2026-01-23T02:03:19",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: Agentic development basics by Steve Klabnik"
+  },
+  {
+    "Title": "Trufa.dev",
+    "Url": "https://trufa.dev/blog/empty.html",
+    "Timestamp": "2026-01-23T02:03:16",
+    "Domain": "trufa.dev",
+    "Description": "Browsing Hacker News the other day, I read the most upvoted comment and\n    moved on, only to come back later to find comments that it was LLM generated\n    text."
+  },
+  {
+    "Title": "Links That Survive the Printer",
+    "Url": "https://www.joshbeckman.org/blog/practicing/links-that-survive-the-printer",
+    "Timestamp": "2026-01-23T02:03:12",
+    "Domain": "www.joshbeckman.org",
+    "Description": "How I built automatic QR code footnotes so printed pages keep their links."
+  },
+  {
+    "Title": "Why I Still Write Code as an Engineering Manager",
+    "Url": "https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/",
+    "Timestamp": "2026-01-23T02:03:08",
+    "Domain": "terriblesoftware.org",
+    "Description": "I still code as an engineering manager. Not to stay busy, but to show my team what good looks like."
+  },
+  {
+    "Title": "Self Hosted Music Discovery Playlists with ListenBrainz and Navidrome",
+    "Url": "https://chhs1.github.io/blog/2026/01/22/self-hosted-discovery-playlists.html",
+    "Timestamp": "2026-01-23T02:03:05",
+    "Domain": "chhs1.github.io",
+    "Description": "Introduction"
+  },
+  {
+    "Title": "When the Tech Industry Becomes Disgusting – Mert Bulan",
+    "Url": "https://mertbulan.com/2026/01/22/when-the-tech-industry-becomes-disgusting/",
+    "Timestamp": "2026-01-23T02:03:02",
+    "Domain": "mertbulan.com",
+    "Description": "A reflection on how the tech industry has shifted from curiosity-driven innovation to a culture of excess and influence."
+  },
+  {
+    "Title": "Speculative Decoding Is Not a Heuristic – Reed Meyerson",
+    "Url": "https://reedmeyerson.com/posts/speculative_decoding_not_heuristic/",
+    "Timestamp": "2026-01-23T02:02:58",
+    "Domain": "reedmeyerson.com",
+    "Description": "Speculative decoding is a technique which uses a fast draft model to accelerate the inference of a slow target model. With the right verification procedure, speculative decoding can be lossless (i.e. it reproduces the quality of the target model). For token-by-token verification procedures, the criteria for lossless decoding can be written as a system of linear equations and inequalities. The acceptance rate, which directly controls model throughput, is also linear in the same variables. Thus, the optimal verification procedure is obtained by solving a linear program. This linear program is equivalent to an optimal transport problem from the draft distribution to the target distribution."
+  },
+  {
+    "Title": "7 Fixes That Made My Website Faster and More Accessible",
+    "Url": "https://dingyu.me/blog/7-fixes-that-made-my-website-faster-and-more-accessible",
+    "Timestamp": "2026-01-23T02:02:54",
+    "Domain": "dingyu.me",
+    "Description": "I thought I knew web performance. I’ve been building websites for well over two decades. But when I ran Lighthouse on Kintoun, my little side project, the score was 58. Ouch."
+  },
+  {
+    "Title": "Am I too stupid to vibe code?",
+    "Url": "https://www.garbageday.email/p/am-i-too-stupid-to-vibe-code",
+    "Timestamp": "2026-01-23T02:02:50",
+    "Domain": "www.garbageday.email",
+    "Description": "Read to the end for Dr. House In 2025"
+  },
+  {
+    "Title": "Best Practices for Ownership in GLib",
+    "Url": "https://blog.sebastianwick.net/posts/glib-ownership-best-practices/",
+    "Timestamp": "2026-01-23T02:02:46",
+    "Domain": "blog.sebastianwick.net",
+    "Description": "For all the rightful criticisms that C gets, GLib does manage to alleviate at least some of it. If we can’t use a better language, we should at least make use of all the tools we have in C with GLib.\nThis post looks at the topic of ownership, and also how it applies to libdex fibers.\nOwnership In normal C usage, it is often not obvious at all if an object that gets returned from a function (either as a real return value or as an out-parameter) is owned by the caller or the callee:"
+  },
+  {
+    "Title": "AT Protocol Primer",
+    "Url": "https://stevedylan.dev/posts/atproto-starter/",
+    "Timestamp": "2026-01-23T02:02:42",
+    "Domain": "stevedylan.dev",
+    "Description": "What is the AT Protocol and why does it matter in the grand scheme of the web"
+  },
+  {
+    "Title": "RFC 7258 Pervasive Monitoring Is an Attack",
+    "Url": "https://ctrlaltroute.com/2026/01/15/rfc-7258-pervasive-monitoring-is-an-attack/",
+    "Timestamp": "2026-01-23T02:02:38",
+    "Domain": "ctrlaltroute.com",
+    "Description": "In the long lineage of RFCs that shape how the internet ought to work, RFC 7258 takes a different tone. It’s not describing a wire protocol or network algorithm, instead, it’s a declaration of thre…"
+  },
+  {
+    "Title": "The Five Levels of PHP 8.5 Pipes",
+    "Url": "https://alganet.github.io/blog/2026-01-22-11-The-Five-Levels-of-PHP-8-5-Pipes.html",
+    "Timestamp": "2026-01-23T02:02:35",
+    "Domain": "alganet.github.io",
+    "Description": "Alexandre Gomes Gaigalas – January 22, 2026"
+  },
+  {
+    "Title": "Why I Rewrote Octosuite After 4 Years",
+    "Url": "https://www.rly0nheart.com/posts/programming/why-i-rewrote-octosuite-after-4-years/",
+    "Timestamp": "2026-01-23T02:02:32",
+    "Domain": "www.rly0nheart.com",
+    "Description": "Ritchie Mwewa"
+  },
+  {
+    "Title": "Performance Is Not a Technical Problem",
+    "Url": "https://shud.in/thoughts/performance-is-not-a-technical-problem",
+    "Timestamp": "2026-01-23T02:02:28",
+    "Domain": "shud.in",
+    "Description": "After 400 performance PRs, I learned the problem isn't code or tools—it's entropy. And you can't fix entropy with a patch."
+  },
+  {
+    "Title": "Neutrality is not a shield",
+    "Url": "https://militaryrealism.blog/2026/01/22/neutrality-is-not-a-shield/",
+    "Timestamp": "2026-01-23T02:02:25",
+    "Domain": "militaryrealism.blog",
+    "Description": "Tackling another assumption of (Irish) neutrality. << Nukes into ploughsharesTBC >> Hello again. This week I’d like to look at Irish neutrality again. I’m aware that this is…"
+  },
+  {
+    "Title": "My comments run on email",
+    "Url": "https://ckardaris.github.io/blog/2026/01/22/my-comments-run-on-email.html",
+    "Timestamp": "2026-01-23T02:02:21",
+    "Domain": "ckardaris.github.io",
+    "Description": "My website comments setup using email as the backend."
+  },
+  {
     "Title": "Why does SSH send 100 packets per keystroke? · eieio.games",
     "Url": "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/",
     "Timestamp": "2026-01-23T01:01:57",
