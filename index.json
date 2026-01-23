@@ -398,13 +398,5 @@
     "Domain": "idiallo.com",
     "Description": "Let's be honest, the financial landscape feels… weird lately. For years, the mantra for most investors has been clear: diversify, buy stable index funds, and let time work its magic. It wasn't the most thrilling advice, but it was generally sound. The idea was that the underlying fundamentals of the economy and the companies within it would eventually drive long-term returns.",
     "Confidence": 0.70145214
-  },
-  {
-    "Title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation!",
-    "Url": "https://qwen.ai/blog?id=qwen3tts-0115",
-    "Timestamp": "2026-01-22T19:02:10",
-    "Domain": "qwen.ai",
-    "Description": "Github HuggingFace Huggingface Demo ModelScope Demo Paper\nQwen3-TTS is a series of powerful speech generation capabilities developed by Qwen, offering comprehensive support for voice clone, voice design, ultra-high-quality human-like speech generation, and natural language-based voice control. It provides developers and users with the most extensive set of speech generation features available. Powered by the innovative Qwen3-TTS-Tokenizer-12Hz multi-codebook speech encoder, Qwen3-TTS achieves efficient compression and robust representation of speech signals. This not only fully preserves paralinguistic information and acoustic environmental features but also enables high-speed, high-fidelity speech reconstruction via a lightweight non-DiT architecture.",
-    "Confidence": 0.9564434
   }
 ]
