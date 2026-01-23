@@ -1,5 +1,21 @@
 [
   {
+    "Title": "ANARI - Cross-Platform 3D Rendering Engine API",
+    "Url": "https://www.khronos.org/anari/",
+    "Timestamp": "2026-01-23T04:02:24",
+    "Domain": "www.khronos.org",
+    "Description": "ANARI significantly simplifies the development of applications in domains such as scientific\n                    visualization by providing high-level functionality to build an in-memory scene representation to be\n                    rendered without need for low-level graphics code, and enabling the use of any 3D rendering engine\n                    that supports the ANARI API. ANARI has already been widely integrated into scientific visualizati",
+    "Confidence": 0.9810442
+  },
+  {
+    "Title": "Bugs Apple Loves",
+    "Url": "https://www.bugsappleloves.com/",
+    "Timestamp": "2026-01-23T04:02:19",
+    "Domain": "www.bugsappleloves.com",
+    "Description": "Bugs Apple won't fix. Why else would they keep them around for so long? We did the math.",
+    "Confidence": 0.9932712
+  },
+  {
     "Title": "400 commits. 14 days. Zero (human) code.",
     "Url": "https://tobyhede.com/blog/400-commits-in-14-days/",
     "Timestamp": "2026-01-23T02:03:51",
@@ -390,13 +406,5 @@
     "Domain": "enginearchitecture.org",
     "Description": "Warhammer 40000: Space Marine 2 is based on Swarm Engine, a proprietary in-house engine from Saber being developed for decades. This engine has already proven itself in tasks of simulating and rendering a large number of distinct and interactive entities. The sequel to the Space Marine franchise aims to depict a war of galactic proportions. It introduces new challenges for developers. This talk provides details of how we addressed some of these challenges. It shows what decisions were made and why, what were the limitations, and what lessons were learned.",
     "Confidence": 0.98945826
-  },
-  {
-    "Title": "Internet voting is insecure and should not be used in public elections - CITP Blog",
-    "Url": "https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/",
-    "Timestamp": "2026-01-22T04:02:01",
-    "Domain": "blog.citp.princeton.edu",
-    "Description": "All internet voting systems are insecure. The insecurity is worse than a well-run conventional paper ballot system, because a very small number of people may have the power to change any (or all) votes that go through the system, without detection.",
-    "Confidence": 0.8678586
   }
 ]

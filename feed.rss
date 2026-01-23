@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ANARI - Cross-Platform 3D Rendering Engine API</title>
+      <link>https://www.khronos.org/anari/</link>
+      <description>ANARI significantly simplifies the development of applications in domains such as scientific
+                    visualization by providing high-level functionality to build an in-memory scene representation to be
+                    rendered without need for low-level graphics code, and enabling the use of any 3D rendering engine
+                    that supports the ANARI API. ANARI has already been widely integrated into scientific visualizati</description>
+      <guid>https://www.khronos.org/anari/</guid>
+      <pubDate>Fri, 23 Jan 2026 04:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bugs Apple Loves</title>
+      <link>https://www.bugsappleloves.com/</link>
+      <description>Bugs Apple won't fix. Why else would they keep them around for so long? We did the math.</description>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://www.bugsappleloves.com/</guid>
+      <pubDate>Fri, 23 Jan 2026 04:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>400 commits. 14 days. Zero (human) code.</title>
       <link>https://tobyhede.com/blog/400-commits-in-14-days/</link>
       <description>Rundown is my attempt to build a complete product in the Year of Our Claude, 2026</description>
@@ -456,15 +475,6 @@ I first read HGttG in my early teens. I doubled over laughing the whole time. I 
       <category>vscode</category>
       <guid>https://enginearchitecture.org/2025.htm</guid>
       <pubDate>Thu, 22 Jan 2026 05:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Internet voting is insecure and should not be used in public elections - CITP Blog</title>
-      <link>https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</link>
-      <description>All internet voting systems are insecure. The insecurity is worse than a well-run conventional paper ballot system, because a very small number of people may have the power to change any (or all) votes that go through the system, without detection.</description>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://blog.citp.princeton.edu/2026/01/16/internet-voting-is-insecure-and-should-not-be-used-in-public-elections/</guid>
-      <pubDate>Thu, 22 Jan 2026 04:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
