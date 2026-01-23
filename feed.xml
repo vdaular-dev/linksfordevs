@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How to Preserve Your Writing for a Hundred Years</title>
+      <link>https://idiallo.com/blog/preserve-your-writing-for-a-hundred-years?src=feed</link>
+      <description>There was a question on Hacker News where a user asked how he could ensure his writing would endure for a hundred years. At first, I treated it as a technology problem. Storage, formats, domains, back</description>
+      <category>git</category>
+      <guid>https://idiallo.com/blog/preserve-your-writing-for-a-hundred-years?src=feed</guid>
+      <pubDate>Fri, 23 Jan 2026 12:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>ANARI - Cross-Platform 3D Rendering Engine API</title>
       <link>https://www.khronos.org/anari/</link>
       <description>ANARI significantly simplifies the development of applications in domains such as scientific
@@ -435,26 +443,6 @@ I first read HGttG in my early teens. I doubled over laughing the whole time. I 
       <category>git</category>
       <guid>https://shreevatsa.net/post/douglas-adams-cultural-divide/</guid>
       <pubDate>Thu, 22 Jan 2026 18:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task – MIT Media Lab</title>
-      <link>https://www.media.mit.edu/publications/your-brain-on-chatgpt/</link>
-      <description>This study explores the neural and behavioral consequences of LLM-assisted essay writing. Participants were divided into three groups: LLM, Search Engine, and …</description>
-      <category>ai</category>
-      <guid>https://www.media.mit.edu/publications/your-brain-on-chatgpt/</guid>
-      <pubDate>Thu, 22 Jan 2026 12:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Duende IdentityServer 7: A Complete Setup Guide for ASP.NET Core</title>
-      <link>https://nestenius.se/net/duende-identityserver-7-a-complete-setup-guide-for-asp-net-core/</link>
-      <description>Learn how to build Duende IdentityServer 7 from scratch with ASP.NET Core 10. This step-by-step guide covers logging, configuration, users..</description>
-      <category>aspnet</category>
-      <category>visualstudio</category>
-      <category>dotnet</category>
-      <category>javascript</category>
-      <category>containers</category>
-      <guid>https://nestenius.se/net/duende-identityserver-7-a-complete-setup-guide-for-asp-net-core/</guid>
-      <pubDate>Thu, 22 Jan 2026 12:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
