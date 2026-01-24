@@ -270,21 +270,5 @@
     "Domain": "idiallo.com",
     "Description": "There was a question on Hacker News where a user asked how he could ensure his writing would endure for a hundred years. At first, I treated it as a technology problem. Storage, formats, domains, back",
     "Confidence": 0.9257594
-  },
-  {
-    "Title": "ANARI - Cross-Platform 3D Rendering Engine API",
-    "Url": "https://www.khronos.org/anari/",
-    "Timestamp": "2026-01-23T04:02:24",
-    "Domain": "www.khronos.org",
-    "Description": "ANARI significantly simplifies the development of applications in domains such as scientific\n                    visualization by providing high-level functionality to build an in-memory scene representation to be\n                    rendered without need for low-level graphics code, and enabling the use of any 3D rendering engine\n                    that supports the ANARI API. ANARI has already been widely integrated into scientific visualizati",
-    "Confidence": 0.9810442
-  },
-  {
-    "Title": "Bugs Apple Loves",
-    "Url": "https://www.bugsappleloves.com/",
-    "Timestamp": "2026-01-23T04:02:19",
-    "Domain": "www.bugsappleloves.com",
-    "Description": "Bugs Apple won't fix. Why else would they keep them around for so long? We did the math.",
-    "Confidence": 0.9932712
   }
 ]
