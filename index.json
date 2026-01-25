@@ -1,5 +1,13 @@
 [
   {
+    "Title": "This paper in Management Science has been cited more than 6,000 times. Wall Street executives, top government officials, and even a former U.S. Vice President have all referenced it. It’s fatally flawed, and the scholarly community refuses to do anything about it.",
+    "Url": "https://statmodeling.stat.columbia.edu/2026/01/22/aking/",
+    "Timestamp": "2026-01-25T15:02:14",
+    "Domain": "statmodeling.stat.columbia.edu",
+    "Description": "",
+    "Confidence": 0.81341845
+  },
+  {
     "Title": "Netzbremse - Deutsche Telekom is throttling the internet!",
     "Url": "https://netzbremse.de/en/",
     "Timestamp": "2026-01-25T13:02:20",
@@ -206,21 +214,5 @@
     "Domain": "thehftguy.com",
     "Description": "Disclaimer: None of this is written by AI, I’m still a real person writing my own blog like its 1999 I finally figured out how to do Gigabit Ethernet over my existing phone wires. Powerline adapter…",
     "Confidence": 0.9918767
-  },
-  {
-    "Title": "Why I’m Ignoring the Prophets of Doom – Coding Is My Craft",
-    "Url": "https://codingismycraft.blog/index.php/2026/01/23/the-ai-revolution-in-coding-why-im-ignoring-the-prophets-of-doom/",
-    "Timestamp": "2026-01-24T15:02:20",
-    "Domain": "codingismycraft.blog",
-    "Description": "The AI Revolution in Coding: Why I’m Ignoring the Prophets of Doom Every day, we are bombarded with headlines about how Artificial Intelligence (AI) is \"disrupting\" every industry in its path. Software development is at the epicenter of this hype. With the rise of sophisticated AI-powered tools, the same question surfaces repeatedly: Will AI replace…",
-    "Confidence": 0.9313951
-  },
-  {
-    "Title": "Combining the Factory and Strategy Patterns | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/01/combining-the-factory-and-strategy-patterns/",
-    "Timestamp": "2026-01-24T15:02:16",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "The Factory and Strategy Patterns are very good bedfellows, the factory generates the strategy on the fly without the client 'newing' up anything.",
-    "Confidence": 0.99282527
   }
 ]
