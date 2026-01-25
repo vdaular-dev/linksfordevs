@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vulkan Roadmap Milestones :: Vulkan Documentation Project</title>
+      <link>https://docs.vulkan.org/spec/latest/appendices/roadmap.html#roadmap-2026</link>
+      <description>Roadmap milestones are intended to be supported by mid-to-high-end
+smartphones, tablets, laptops, consoles, and desktop devices.</description>
+      <category>web</category>
+      <guid>https://docs.vulkan.org/spec/latest/appendices/roadmap.html#roadmap-2026</guid>
+      <pubDate>Sun, 25 Jan 2026 17:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Persistent WebDAV connections in linux - moving to linux</title>
       <link>https://davepermen.net/blog/moving-to-linux/persistent-webdav-connections-in-linux</link>
       <description>'Persistent WebDAV connections in linux' written by davepermen</description>
@@ -269,14 +278,6 @@ When our first child was born, we used a free app - one that had even been celeb
       <category>rust</category>
       <guid>https://blog.openchaos.dev/posts/week-3-the-trojan-horse</guid>
       <pubDate>Sat, 24 Jan 2026 18:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doing Gigabit Ethernet Over My British Phone Wires</title>
-      <link>https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/</link>
-      <description>Disclaimer: None of this is written by AI, I’m still a real person writing my own blog like its 1999 I finally figured out how to do Gigabit Ethernet over my existing phone wires. Powerline adapter…</description>
-      <category>gaming</category>
-      <guid>https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/</guid>
-      <pubDate>Sat, 24 Jan 2026 17:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

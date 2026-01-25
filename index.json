@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Vulkan Roadmap Milestones :: Vulkan Documentation Project",
+    "Url": "https://docs.vulkan.org/spec/latest/appendices/roadmap.html#roadmap-2026",
+    "Timestamp": "2026-01-25T17:02:17",
+    "Domain": "docs.vulkan.org",
+    "Description": "Roadmap milestones are intended to be supported by mid-to-high-end\nsmartphones, tablets, laptops, consoles, and desktop devices.",
+    "Confidence": 0.9860288
+  },
+  {
     "Title": "Persistent WebDAV connections in linux - moving to linux",
     "Url": "https://davepermen.net/blog/moving-to-linux/persistent-webdav-connections-in-linux",
     "Timestamp": "2026-01-25T16:02:26",
@@ -214,13 +222,5 @@
     "Domain": "blog.openchaos.dev",
     "Description": "A PR hid vote manipulation in plain sight. Democracy overruled the maintainer. So the maintainer wrote a constitution.",
     "Confidence": 0.86076194
-  },
-  {
-    "Title": "Doing Gigabit Ethernet Over My British Phone Wires",
-    "Url": "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/",
-    "Timestamp": "2026-01-24T17:02:12",
-    "Domain": "thehftguy.com",
-    "Description": "Disclaimer: None of this is written by AI, I’m still a real person writing my own blog like its 1999 I finally figured out how to do Gigabit Ethernet over my existing phone wires. Powerline adapter…",
-    "Confidence": 0.9918767
   }
 ]
