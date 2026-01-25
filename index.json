@@ -222,13 +222,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "The Factory and Strategy Patterns are very good bedfellows, the factory generates the strategy on the fly without the client 'newing' up anything.",
     "Confidence": 0.99282527
-  },
-  {
-    "Title": "cURL Gets Rid of Its Bug Bounty Program Over AI Slop Overrun",
-    "Url": "https://itsfoss.com/news/curl-closes-bug-bounty-program/",
-    "Timestamp": "2026-01-24T14:01:53",
-    "Domain": "itsfoss.com",
-    "Description": "Daniel Stenberg says the inflow of AI slop has become unsustainable for the curl security team to handle.",
-    "Confidence": 0.7922975
   }
 ]
