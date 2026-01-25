@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I added a Bluesky comment section to my blog</title>
+      <link>https://micahcantor.com/blog/bluesky-comment-section.html</link>
+      <description>How I embedded replies from Bluesky directly on my site.</description>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://micahcantor.com/blog/bluesky-comment-section.html</guid>
+      <pubDate>Sun, 25 Jan 2026 09:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>How it Works</title>
       <link>https://20_games_challenge.gitlab.io/how/</link>
       <description>The goal of the 20 games challenge is to gradually learn more about game development through a series of small projects. At the end of the challenge, you should be comfortable creating games in your engine of choice without a tutorial.
