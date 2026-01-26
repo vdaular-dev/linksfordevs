@@ -1,5 +1,13 @@
 [
   {
+    "Title": "You have to know how to drive the car",
+    "Url": "https://www.seangoedecke.com/knowing-how-to-drive-the-car/",
+    "Timestamp": "2026-01-26T09:02:30",
+    "Domain": "www.seangoedecke.com",
+    "Description": "There are lots of different ways to be a software engineer. You can grind out code for twelve hours a day to make the world a better place. You can focus on glue work: process-based work that makes everyone around you more successful. You can join the conversation with your product manager and designer colleagues to influence what gets built, not just how it gets built. You can climb the ladder to staff engineer and above, or you can take it easy and focus on your hobbies. But whichever of these you choose, you have to know how tech companies work.",
+    "Confidence": 0.97868943
+  },
+  {
     "Title": "FAA creates drone no-fly zone for ICE operations",
     "Url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
     "Timestamp": "2026-01-26T04:02:16",
@@ -190,13 +198,5 @@
     "Domain": "theconversation.com",
     "Description": "As the US increases political pressure on Europe, it’s possible to imagine the continent losing access to key computing services.",
     "Confidence": 0.7163348
-  },
-  {
-    "Title": "I added a Bluesky comment section to my blog",
-    "Url": "https://micahcantor.com/blog/bluesky-comment-section.html",
-    "Timestamp": "2026-01-25T09:02:17",
-    "Domain": "micahcantor.com",
-    "Description": "How I embedded replies from Bluesky directly on my site.",
-    "Confidence": 0.9888686
   }
 ]
