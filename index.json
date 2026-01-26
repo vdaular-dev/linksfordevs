@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FAA creates drone no-fly zone for ICE operations",
+    "Url": "https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs",
+    "Timestamp": "2026-01-26T04:02:16",
+    "Domain": "www.aerotime.aero",
+    "Description": "The FAA has created nationwide moving drone no-fly zones around ICE vehicles and convoys, with criminal penalties for violating the restricted airspace.",
+    "Confidence": 0.67828494
+  },
+  {
     "Title": "Pruning Claude Code conversation history",
     "Url": "https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/",
     "Timestamp": "2026-01-26T01:11:26",
@@ -190,13 +198,5 @@
     "Domain": "micahcantor.com",
     "Description": "How I embedded replies from Bluesky directly on my site.",
     "Confidence": 0.9888686
-  },
-  {
-    "Title": "How it Works",
-    "Url": "https://20_games_challenge.gitlab.io/how/",
-    "Timestamp": "2026-01-25T04:02:18",
-    "Domain": "20_games_challenge.gitlab.io",
-    "Description": "The goal of the 20 games challenge is to gradually learn more about game development through a series of small projects. At the end of the challenge, you should be comfortable creating games in your engine of choice without a tutorial.\nIf you do everything yourself during the challenge, then you will have practice estimating, planning, programming, and polishing your game. You’ll also be able to create the music, sound effects, 2D, and 3D art that you’ll need.",
-    "Confidence": 0.99590254
   }
 ]

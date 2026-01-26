@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FAA creates drone no-fly zone for ICE operations</title>
+      <link>https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs</link>
+      <description>The FAA has created nationwide moving drone no-fly zones around ICE vehicles and convoys, with criminal penalties for violating the restricted airspace.</description>
+      <guid>https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs</guid>
+      <pubDate>Mon, 26 Jan 2026 04:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Pruning Claude Code conversation history</title>
       <link>https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/</link>
       <description>A few days ago I cleaned up 200GB from my Mac and deliberately kept my Claude Code history at 2.3GB. Four days later it had grown to 9.5GB. Here’s how I pruned it back to 1.1GB without breaking conversation continuity.
@@ -242,16 +249,6 @@ smartphones, tablets, laptops, consoles, and desktop devices.</description>
       <category>javascript</category>
       <guid>https://micahcantor.com/blog/bluesky-comment-section.html</guid>
       <pubDate>Sun, 25 Jan 2026 09:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>How it Works</title>
-      <link>https://20_games_challenge.gitlab.io/how/</link>
-      <description>The goal of the 20 games challenge is to gradually learn more about game development through a series of small projects. At the end of the challenge, you should be comfortable creating games in your engine of choice without a tutorial.
-If you do everything yourself during the challenge, then you will have practice estimating, planning, programming, and polishing your game. You’ll also be able to create the music, sound effects, 2D, and 3D art that you’ll need.</description>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://20_games_challenge.gitlab.io/how/</guid>
-      <pubDate>Sun, 25 Jan 2026 04:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
