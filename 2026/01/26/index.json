@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Pushing Qwen3-Max-Thinking Beyond its Limits",
+    "Url": "https://qwen.ai/blog?id=qwen3-max-thinking",
+    "Timestamp": "2026-01-26T19:02:36",
+    "Domain": "qwen.ai",
+    "Description": "QWEN CHAT API DISCORD\nIntroduction We present Qwen3-Max-Thinking, our latest flagship reasoning model. By scaling up model parameters and leveraging substantial computational resources for reinforcement learning, Qwen3-Max-Thinking achieves significant performance improvements across multiple dimensions, including factual knowledge, complex reasoning, instruction following, alignment with human preferences, and agent capabilities. On 19 established benchmarks, it demonstrates performance comparable to leading models such as GPT-5.2-Thinking, Claude-Opus-4.5, and Gemini 3 Pro.\nWe further enhance Qwen3-Max-Thinking with two key innovations: (1) adaptive tool-use capabilities that enable on-demand retrieval and code interpreter invocation, now available at chat."
+  },
+  {
     "Title": "Vibe Coding Kills Open Source",
     "Url": "https://arxiv.org/abs/2601.15494",
     "Timestamp": "2026-01-26T18:02:53",
