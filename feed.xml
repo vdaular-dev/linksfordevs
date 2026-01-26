@@ -7,6 +7,131 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pruning Claude Code conversation history</title>
+      <link>https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/</link>
+      <description>A few days ago I cleaned up 200GB from my Mac and deliberately kept my Claude Code history at 2.3GB. Four days later it had grown to 9.5GB. Here’s how I pruned it back to 1.1GB without breaking conversation continuity.
+This also broke ccs - my fuzzy finder for Claude conversations. Parsing 3GB JSONL files was taking forever. I’ve since added --max-size filtering to ccs (defaults to 1GB), but that just hides the problem. Better to prune the files themselves.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Write Evals for Fast-Moving Systems</title>
+      <link>https://simon.podhajsky.net/blog/2026/evaluating-clobsidian/</link>
+      <description>You're developing an LLM-powered system. It's moving fast. Should you write evals? Not yet.</description>
+      <category>ai</category>
+      <guid>https://simon.podhajsky.net/blog/2026/evaluating-clobsidian/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>De-Vibing A Codebase</title>
+      <link>https://dumbideas.xyz/posts/de-vibing-a-codebase/</link>
+      <description>Like a digital hangover.</description>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://dumbideas.xyz/posts/de-vibing-a-codebase/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:11:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is ChatGPT Your Friend or Enemy: You Decide</title>
+      <link>https://shielddigitaldesign.com/posts/2026/ai/</link>
+      <description>Shield Digital Design Engineering analysis and signal integrity insights. Hardware and electrical engineering. PCB Design and simulations.</description>
+      <category>ai</category>
+      <guid>https://shielddigitaldesign.com/posts/2026/ai/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>First, Make Me Care, by Gwern · Gwern.net</title>
+      <link>https://gwern.net/blog/2026/make-me-care</link>
+      <description>Writing advice: some nonfiction fails because it opens with background instead of a hook—readers leave before reaching the good material. Find the single anomaly or question that makes your topic interesting, lead with that, and let the background follow once you’ve earned attention.</description>
+      <guid>https://gwern.net/blog/2026/make-me-care</guid>
+      <pubDate>Mon, 26 Jan 2026 01:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bing is not as bad as you think (a search engine quality study) — nilch</title>
+      <link>https://blog.nilch.org/blog/bing-is-not-as-bad-as-you-think-a-search-engine-quality-study/</link>
+      <description>You've probably heard, or even said, how bad Bing's search results are in quality. It's true, they were pretty bad. Keyword "were". Back closer to the launch of Bing (then MSN search), the index size was significantly smaller than that of Google. However, here's the thing... it's been 21 years since it launched, and it has improved slowly over time a lot since then, and I have the data to prove it!</description>
+      <category>cloud</category>
+      <guid>https://blog.nilch.org/blog/bing-is-not-as-bad-as-you-think-a-search-engine-quality-study/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turns out I was wrong about TDD</title>
+      <link>https://martinalderson.com/posts/turns-out-i-was-wrong-about-tdd/</link>
+      <description>I used to be a TDD sceptic - too much time writing tests for features that might get deleted. Then coding agents completely changed the economics of software testing.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>containers</category>
+      <category>vscode</category>
+      <guid>https://martinalderson.com/posts/turns-out-i-was-wrong-about-tdd/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Follow the trend lines, not the headlines</title>
+      <link>https://www.adriankrebs.ch/blog/trend-lines-not-headlines/</link>
+      <description>By almost every measure, life is better than ever. So why does it feel like things are falling apart?</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.adriankrebs.ch/blog/trend-lines-not-headlines/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>The future of software engineering is SRE | Swizec Teller</title>
+      <link>https://swizec.com/blog/the-future-of-software-engineering-is-sre/</link>
+      <description>When code gets cheap operational excellence wins. Anyone can build a greenfield demo, but it takes engineering to run a service.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://swizec.com/blog/the-future-of-software-engineering-is-sre/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The one and only codebase I'm ever going to keep working on</title>
+      <link>https://arjonagelhout.nl/writings/2026-01-25_the_one_and_only_codebase/</link>
+      <description>A little while back, my contract ended with Treble Technologies, for whom I had been writing (parts of) a geometry processing pipeline for automated mesh simplification and mesh cleanup in C++.</description>
+      <category>git</category>
+      <guid>https://arjonagelhout.nl/writings/2026-01-25_the_one_and_only_codebase/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Another rabbit hole: Paperless-ngx</title>
+      <link>https://blog.notmyhostna.me/posts/another-rabbit-hole-paperless-ngx</link>
+      <description>As part of my quest to make things in my daily life more complicated I stumbled upon Paperless-ngx a few times already. This weekend I finally went …</description>
+      <category>sql</category>
+      <category>containers</category>
+      <category>apple</category>
+      <guid>https://blog.notmyhostna.me/posts/another-rabbit-hole-paperless-ngx</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>suspiciously precise floats, or, how I got Claude's real limits</title>
+      <link>https://she-llac.com/claude-limits</link>
+      <description>I reverse-engineered Claude's hidden subscription usage caps from two unrounded utilization floats, recovered exact denominators via Stern-Brocot, and compared what Pro/Max actually buy you versus API pricing (including caching).</description>
+      <category>ai</category>
+      <guid>https://she-llac.com/claude-limits</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Separating People Problems from Engineering Problems</title>
+      <link>https://andrew.grahamyooll.com/blog/The-False-Dichotomy/</link>
+      <description>Published on 2026-01-17 by Andrew Graham-Yooll</description>
+      <category>sql</category>
+      <guid>https://andrew.grahamyooll.com/blog/The-False-Dichotomy/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>In defense of the .zip TLD</title>
+      <link>https://luke.zip/posts/zip-defense/</link>
+      <description>I am unbiased in this.</description>
+      <author> (Luke Schaefer)</author>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://luke.zip/posts/zip-defense/</guid>
+      <pubDate>Mon, 26 Jan 2026 01:10:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Oneplus phone update introduces hardware anti-rollback</title>
       <link>https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback</link>
       <description>From Consumer Rights Wiki</description>
