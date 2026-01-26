@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A new digital divide? Coder worldviews, the ‘Slop economy,’ and democracy in the age of AI</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814</link>
+      <description>Digital technologies are transforming democratic life in conflicting ways. This article bridges two perspectives to unpack these tensions. First, we present an original survey of software developer...</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.tandfonline.com/doi/full/10.1080/1369118X.2025.2566814</guid>
+      <pubDate>Mon, 26 Jan 2026 16:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>the browser is the sandbox</title>
+      <link>https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/</link>
+      <description>Paul Kinlan is a web platform developer advocate at Google and recently turned his attention to coding agents. He quickly identified the importance of a robust sandbox for agents to …</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/</guid>
+      <pubDate>Mon, 26 Jan 2026 16:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>After two years of vibecoding, I'm back to writing by hand</title>
+      <link>https://atmoio.substack.com/p/after-two-years-of-vibecoding-im</link>
+      <description>Agents write units of changes that look good in isolation. They are consistent with themselves and your prompt. But respect for the whole, there is not.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://atmoio.substack.com/p/after-two-years-of-vibecoding-im</guid>
+      <pubDate>Mon, 26 Jan 2026 16:02:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Another 100 Tips to Write Better C# Code</title>
       <link>https://youtube.com/watch?v=V2uRyxffnHA</link>
       <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
@@ -245,14 +272,6 @@ smartphones, tablets, laptops, consoles, and desktop devices.</description>
       <category>web</category>
       <guid>https://docs.vulkan.org/spec/latest/appendices/roadmap.html#roadmap-2026</guid>
       <pubDate>Sun, 25 Jan 2026 17:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Persistent WebDAV connections in linux - moving to linux</title>
-      <link>https://davepermen.net/blog/moving-to-linux/persistent-webdav-connections-in-linux</link>
-      <description>'Persistent WebDAV connections in linux' written by davepermen</description>
-      <category>linux</category>
-      <guid>https://davepermen.net/blog/moving-to-linux/persistent-webdav-connections-in-linux</guid>
-      <pubDate>Sun, 25 Jan 2026 16:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
