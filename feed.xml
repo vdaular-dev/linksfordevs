@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Michael Reeves (@integralpilot.bsky.social)</title>
+      <link>https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o</link>
+      <description>On Apple M3, a Linux KDE plasma desktop under Fedora Asahi Remix is now WORKING! Super excited to share this update and happy to answer any questions! Co-credits to noopwafel and Shiz. :)</description>
+      <category>linux</category>
+      <guid>https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o</guid>
+      <pubDate>Mon, 26 Jan 2026 21:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Nomad Soul The Digital Antiquarian</title>
+      <link>https://www.filfre.net/2026/01/omikron-the-nomad-soul/</link>
+      <description></description>
+      <category>gaming</category>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <guid>https://www.filfre.net/2026/01/omikron-the-nomad-soul/</guid>
+      <pubDate>Mon, 26 Jan 2026 21:02:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Pushing Qwen3-Max-Thinking Beyond its Limits</title>
       <link>https://qwen.ai/blog?id=qwen3-max-thinking</link>
       <description>QWEN CHAT API DISCORD
@@ -259,14 +277,6 @@ This also broke ccs - my fuzzy finder for Claude conversations. Parsing 3GB JSON
       <category>android</category>
       <guid>https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback</guid>
       <pubDate>Sun, 25 Jan 2026 23:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOOMBUDS</title>
-      <link>https://doombuds.com/</link>
-      <description>Let's switch to a more readable font first.</description>
-      <category>gaming</category>
-      <guid>https://doombuds.com/</guid>
-      <pubDate>Sun, 25 Jan 2026 21:02:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
