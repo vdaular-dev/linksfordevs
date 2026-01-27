@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Jade (@JadedBlueEyes@tech.lgbt)",
+    "Url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+    "Timestamp": "2026-01-27T18:02:35",
+    "Domain": "tech.lgbt",
+    "Description": "Cloudflare just published a vibe coded blog post claiming they implemented Matrix on cloudflare workers. They didn't, their post and README is AI generated and the code doesn't do any of the core parts of matrix that make it secure and interoperable. Instead it's littered with 'TODO: Check authorisation' and similar\n\n\nhttps://blog.cloudflare.com/serverless-matrix-homeserver-workers/"
+  },
+  {
     "Title": "Kimi K2.5: Visual Agentic Intelligence",
     "Url": "https://www.kimi.com/blog/kimi-k2-5.html",
     "Timestamp": "2026-01-27T13:02:32",

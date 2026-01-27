@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Jade (@JadedBlueEyes@tech.lgbt)",
+    "Url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
+    "Timestamp": "2026-01-27T18:02:35",
+    "Domain": "tech.lgbt",
+    "Description": "Cloudflare just published a vibe coded blog post claiming they implemented Matrix on cloudflare workers. They didn't, their post and README is AI generated and the code doesn't do any of the core parts of matrix that make it secure and interoperable. Instead it's littered with 'TODO: Check authorisation' and similar\n\n\nhttps://blog.cloudflare.com/serverless-matrix-homeserver-workers/",
+    "Confidence": 0.9590478
+  },
+  {
     "Title": "Kimi K2.5: Visual Agentic Intelligence",
     "Url": "https://www.kimi.com/blog/kimi-k2-5.html",
     "Timestamp": "2026-01-27T13:02:32",
@@ -270,21 +278,5 @@
     "Domain": "qwen.ai",
     "Description": "QWEN CHAT API DISCORD\nIntroduction We present Qwen3-Max-Thinking, our latest flagship reasoning model. By scaling up model parameters and leveraging substantial computational resources for reinforcement learning, Qwen3-Max-Thinking achieves significant performance improvements across multiple dimensions, including factual knowledge, complex reasoning, instruction following, alignment with human preferences, and agent capabilities. On 19 established benchmarks, it demonstrates performance comparable to leading models such as GPT-5.2-Thinking, Claude-Opus-4.5, and Gemini 3 Pro.\nWe further enhance Qwen3-Max-Thinking with two key innovations: (1) adaptive tool-use capabilities that enable on-demand retrieval and code interpreter invocation, now available at chat.",
     "Confidence": 0.99607015
-  },
-  {
-    "Title": "Vibe Coding Kills Open Source",
-    "Url": "https://arxiv.org/abs/2601.15494",
-    "Timestamp": "2026-01-26T18:02:53",
-    "Domain": "arxiv.org",
-    "Description": "Generative AI is changing how software is produced and used. In vibe coding, an AI agent builds software by selecting and assembling open-source software (OSS), often without users directly reading documentation, reporting bugs, or otherwise engaging with maintainers. We study the equilibrium effects of vibe coding on the OSS ecosystem. We develop a model with endogenous entry and heterogeneous project quality in which OSS is a scalable input into producing more software. Users choose whether to use OSS directly or through vibe coding. Vibe coding raises productivity by lowering the cost of using and building on existing code, but it also weakens the user engagement through which many maintainers earn returns. When OSS is monetized only through direct user engagement, greater adoption of vibe coding lowers entry and sharing, reduces the availability and quality of OSS, and reduces welfare despite higher productivity. Sustaining OSS at its current scale under widespread vibe coding requires major changes in how maintainers are paid.",
-    "Confidence": 0.98337275
-  },
-  {
-    "Title": "Video Games as Art · Gwern.net",
-    "Url": "https://gwern.net/video-game-art",
-    "Timestamp": "2026-01-26T18:02:48",
-    "Domain": "gwern.net",
-    "Description": "Video games are art, but a strange art: their essence is transformation of the player, not description to the player. This makes meaningful criticism nearly impossible—you can point at the moon, but it’s not the moon, and once someone sees it, they no longer need the pointing.",
-    "Confidence": 0.83347124
   }
 ]
