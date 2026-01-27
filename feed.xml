@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ChatGPT Containers can now run bash, pip/npm install packages, and download files</title>
+      <link>https://simonwillison.net/2026/Jan/26/chatgpt-containers/</link>
+      <description>One of my favourite features of ChatGPT is its ability to write and execute code in a container. This feature launched as ChatGPT Code Interpreter nearly three years ago, was …</description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://simonwillison.net/2026/Jan/26/chatgpt-containers/</guid>
+      <pubDate>Tue, 27 Jan 2026 06:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Positional Encodings: The Part Everyone Skips</title>
       <link>https://suyogdahal.com.np/posts/understanding-positional-encodings/</link>
       <description>If the following image doesn’t make sense to you, there’s a good chance you haven’t fully grasped positional encodings in transformer architecture. Please stick around as I’ll try to explain them in a way that actually feels intuitive.
