@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The First C# 15 Feature Is Here</title>
+      <link>https://youtube.com/watch?v=wNynE4mwEKI</link>
+      <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
+
+Hello, everybody. I'm Nick, and in this video, I will talk about a brand new feature coming in C# and .NET 11 called Collection Expression Arguments. Its syntax is a bit marmite, but I want to hear your thoughts.
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#csharp #dotnet</description>
+      <author> (Nick Chapsas)</author>
+      <category>sql</category>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtube.com/watch?v=wNynE4mwEKI</guid>
+      <pubDate>Tue, 27 Jan 2026 12:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>ChatGPT Containers can now run bash, pip/npm install packages, and download files</title>
       <link>https://simonwillison.net/2026/Jan/26/chatgpt-containers/</link>
       <description>One of my favourite features of ChatGPT is its ability to write and execute code in a container. This feature launched as ChatGPT Code Interpreter nearly three years ago, was …</description>
@@ -383,41 +406,6 @@ We further enhance Qwen3-Max-Thinking with two key innovations: (1) adaptive too
       <category>youtube</category>
       <guid>https://atmoio.substack.com/p/after-two-years-of-vibecoding-im</guid>
       <pubDate>Mon, 26 Jan 2026 16:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Another 100 Tips to Write Better C# Code</title>
-      <link>https://youtube.com/watch?v=V2uRyxffnHA</link>
-      <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
-
-Hello, everybody. I'm Nick, and in this video, I will give you 100 of my top .NET and C# Tips and Tricks to help you write better C# code.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>sql</category>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=V2uRyxffnHA</guid>
-      <pubDate>Mon, 26 Jan 2026 12:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</title>
-      <link>https://github.com/clawdbot/clawdbot</link>
-      <description>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - clawdbot/clawdbot: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</description>
-      <category>nodejs</category>
-      <category>apple</category>
-      <category>conference</category>
-      <category>android</category>
-      <category>containers</category>
-      <guid>https://github.com/clawdbot/clawdbot</guid>
-      <pubDate>Mon, 26 Jan 2026 12:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
