@@ -421,42 +421,5 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <guid>https://www.aerotime.aero/articles/faa-drone-no-fly-zone-ice-dhs</guid>
       <pubDate>Mon, 26 Jan 2026 04:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>Pruning Claude Code conversation history</title>
-      <link>https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/</link>
-      <description>A few days ago I cleaned up 200GB from my Mac and deliberately kept my Claude Code history at 2.3GB. Four days later it had grown to 9.5GB. Here’s how I pruned it back to 1.1GB without breaking conversation continuity.
-This also broke ccs - my fuzzy finder for Claude conversations. Parsing 3GB JSONL files was taking forever. I’ve since added --max-size filtering to ccs (defaults to 1GB), but that just hides the problem. Better to prune the files themselves.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://brtkwr.com/posts/2026-01-22-pruning-claude-code-conversation-history/</guid>
-      <pubDate>Mon, 26 Jan 2026 01:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't Write Evals for Fast-Moving Systems</title>
-      <link>https://simon.podhajsky.net/blog/2026/evaluating-clobsidian/</link>
-      <description>You're developing an LLM-powered system. It's moving fast. Should you write evals? Not yet.</description>
-      <category>ai</category>
-      <guid>https://simon.podhajsky.net/blog/2026/evaluating-clobsidian/</guid>
-      <pubDate>Mon, 26 Jan 2026 01:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>De-Vibing A Codebase</title>
-      <link>https://dumbideas.xyz/posts/de-vibing-a-codebase/</link>
-      <description>Like a digital hangover.</description>
-      <category>gaming</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://dumbideas.xyz/posts/de-vibing-a-codebase/</guid>
-      <pubDate>Mon, 26 Jan 2026 01:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is ChatGPT Your Friend or Enemy: You Decide</title>
-      <link>https://shielddigitaldesign.com/posts/2026/ai/</link>
-      <description>Shield Digital Design Engineering analysis and signal integrity insights. Hardware and electrical engineering. PCB Design and simulations.</description>
-      <category>ai</category>
-      <guid>https://shielddigitaldesign.com/posts/2026/ai/</guid>
-      <pubDate>Mon, 26 Jan 2026 01:11:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
