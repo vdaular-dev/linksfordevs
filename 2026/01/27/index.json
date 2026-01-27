@@ -1,5 +1,180 @@
 [
   {
+    "Title": "Positional Encodings: The Part Everyone Skips",
+    "Url": "https://suyogdahal.com.np/posts/understanding-positional-encodings/",
+    "Timestamp": "2026-01-27T01:04:20",
+    "Domain": "suyogdahal.com.np",
+    "Description": "If the following image doesn’t make sense to you, there’s a good chance you haven’t fully grasped positional encodings in transformer architecture. Please stick around as I’ll try to explain them in a way that actually feels intuitive.\nThe 128-dimensional positional encoding for a sentence Context This blog is a part of my quest to properly understand the transformer architecture. Previously, I tried to explain self-attention in my own way here."
+  },
+  {
+    "Title": "Building a Movie Recommendation Agent",
+    "Url": "https://rokn.io/posts/building-movie-recommendation-agent",
+    "Timestamp": "2026-01-27T01:04:15",
+    "Domain": "rokn.io",
+    "Description": "Learn what went into building movieagent.io, a movie recommendation agent."
+  },
+  {
+    "Title": "Lean, Mean, Solitaire Machine",
+    "Url": "https://ersei.net/en/blog/lean-mean-solitaire-machine",
+    "Timestamp": "2026-01-27T01:04:09",
+    "Domain": "ersei.net",
+    "Description": "My dada (grandpa on my dad's side) is a fiend for spider solitaire. Indeed, that's all his laptop really does these days. The shot battery struggles to hold..."
+  },
+  {
+    "Title": "We've Got Cloudflare at Home",
+    "Url": "https://dylans.link/blog/2026-01-26-weve-got-cloudflare-at-home",
+    "Timestamp": "2026-01-27T01:04:06",
+    "Domain": "dylans.link",
+    "Description": "Self-hosting securely using Caddy on an OVH VPS as a jumpbox with WireGuard tunnel to home network"
+  },
+  {
+    "Title": "We can no longer trust software - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/we-can-no-longer-trust-software/",
+    "Timestamp": "2026-01-27T01:04:01",
+    "Domain": "kudmitry.com",
+    "Description": "If you told someone back in early 2000s that they would be able to update the software on their TV or fridge, they would look at you very confusingly.\nAnd yet, ..."
+  },
+  {
+    "Title": "why i love cheap coffee",
+    "Url": "https://alieniloquy.bearblog.dev/why-i-love-cheap-coffee/",
+    "Timestamp": "2026-01-27T01:03:57",
+    "Domain": "alieniloquy.bearblog.dev",
+    "Description": "<img src=\"https://bear-images.sfo2.cdn.digitaloceanspaces.com/alieniloquy/cheapcoffee.webp\" width=\"767\"/>\nI spent a decade of my life working in the coffee ..."
+  },
+  {
+    "Title": "Setting up Year in Command Line — Danish Prakash",
+    "Url": "https://danishpraka.sh/posts/setting-up-year-in-command-line/",
+    "Timestamp": "2026-01-27T01:03:54",
+    "Domain": "danishpraka.sh",
+    "Description": "I’ve tracked my command line history in a MariaDB instance for the past 5 years. The original idea was to simple keep track of everything I do on the command line so that I can refer to them later on. The utility of the history command was immediately apparent to me and so the logical next step was to store the history in a more sophisticated setup."
+  },
+  {
+    "Title": "Competitive Pure Functional Languages",
+    "Url": "https://blog.samibadawi.com/2026/01/competitive-pure-functional-languages.html",
+    "Timestamp": "2026-01-27T01:03:48",
+    "Domain": "blog.samibadawi.com",
+    "Description": ""
+  },
+  {
+    "Title": "The Voice Principle",
+    "Url": "https://notes.tasshin.com/2026-01-26-the-voice-principle",
+    "Timestamp": "2026-01-27T01:03:44",
+    "Domain": "notes.tasshin.com",
+    "Description": "As I’ve gotten more interested in A.I., and use it more and more, I’ve discovered a very clear boundary or value in my use of it for writing."
+  },
+  {
+    "Title": "writing Jepsen tests for Antietcd — Vitastor",
+    "Url": "https://vitastor.io/en/blog/2026-01-22-jepsen-antietcd.html",
+    "Timestamp": "2026-01-27T01:03:41",
+    "Domain": "vitastor.io",
+    "Description": "2026-01-22"
+  },
+  {
+    "Title": "The Value of Things – journal.stuffwithstuff.com",
+    "Url": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
+    "Timestamp": "2026-01-27T01:03:35",
+    "Domain": "journal.stuffwithstuff.com",
+    "Description": "One of the reasons I write is to help me organize my own mind. I have a\ncompulsive need to figure things out and I’ll lay awake at night shuffling\nsentences around in my head until it hangs together. Then I just have to try to\nget it all down in Markdown before it dissolves back into chaos."
+  },
+  {
+    "Title": "kp9 - Soundness and Completeness",
+    "Url": "https://kp9.in/posts/cs/stop-or-my-compiler-will-prove-a-theorem",
+    "Timestamp": "2026-01-27T01:03:32",
+    "Domain": "kp9.in",
+    "Description": "Natural language is beautiful for poetry, but lethal for processors. When we describe a language loosely, we leave room for \"undefined behavior\", which is the dark matter of the programming universe where anything can happen."
+  },
+  {
+    "Title": "Early Arthropods",
+    "Url": "https://xkcd.com/3199/",
+    "Timestamp": "2026-01-27T01:03:29",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "The End of Software Engineering?",
+    "Url": "https://seanm.uk/blog/the-end-of-software-engineering",
+    "Timestamp": "2026-01-27T01:03:26",
+    "Domain": "seanm.uk",
+    "Description": "A nuanced take on agentic programming - examining both sides of the debate about AI coding tools and what it means for the future of software development."
+  },
+  {
+    "Title": "Who uses LLMs? - Neon Vagabond",
+    "Url": "https://neonvagabond.xyz/articles/who-uses-llms.html",
+    "Timestamp": "2026-01-27T01:03:21",
+    "Domain": "neonvagabond.xyz",
+    "Description": "There's this common argument that only those who are bad at coding, or don't care about the craft of it, use AI to code. I think this is pretty clearly false. Let's look at a list, shall we? More iffy ones:This refutes a few arguments that I see a lot of people make, especially in places like lobste. rs:The point isn't to say that you have to use AI, or that it has no downsides or risks, or no reasons to be skeptical, but more to say that at this point it's just not sane or feasible to claim tha..."
+  },
+  {
+    "Title": "Livid Spot",
+    "Url": "http://fimbaz.blogspot.com/2026/01/title-i-invented-decisions-yes-hello.html",
+    "Timestamp": "2026-01-27T01:03:18",
+    "Domain": "fimbaz.blogspot.com",
+    "Description": "  title: i invented 'decisions' yes hello welcome not much to read on the internet today so i am going to write for you i am writing as an u..."
+  },
+  {
+    "Title": "Less is More: When Agents Learn Not Because But Despite My Doings",
+    "Url": "https://kywch.github.io/blog/2026/01/less-is-more-2048-agents/",
+    "Timestamp": "2026-01-27T01:03:14",
+    "Domain": "kywch.github.io",
+    "Description": "Last month, I wrote about how curriculum learning helped me train a 2048 agent that reaches the 65k tile. That agent achieved a 14.75% rate of reaching 65k with many built-in heuristics to encourage the snake-pattern (keeping the highest tile in the corner with tiles arranged in a descending zigzag), and endgame-only training environments that capitalized on it."
+  },
+  {
+    "Title": "You can just port things to Cloudflare Workers",
+    "Url": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
+    "Timestamp": "2026-01-27T01:03:11",
+    "Domain": "sigh.dev",
+    "Description": "Vibecoding, Vibeporting?"
+  },
+  {
+    "Title": "Why You Need To Clear Your Coding Agent's Context Window",
+    "Url": "https://willness.dev/blog/one-session-per-task",
+    "Timestamp": "2026-01-27T01:03:08",
+    "Domain": "willness.dev",
+    "Description": "Why fresh context beats accumulated context for coding agents. Research on attention degradation and practical strategies for better AI-assisted development."
+  },
+  {
+    "Title": "The Relative Trap",
+    "Url": "https://blog.sebastiansastre.co/posts/the-relative-trap/",
+    "Timestamp": "2026-01-27T01:03:05",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "Why 'analysis paralysis' is often a refusal to accept the finite nature of evidence. A look at why your mental health—and your work—depends on loving reality more than your narrative."
+  },
+  {
+    "Title": "I went on Holiday with my Colleagues",
+    "Url": "https://dogdogfish.com/blog/2026/01/26/holiday-with-colleagues/",
+    "Timestamp": "2026-01-27T01:03:01",
+    "Domain": "dogdogfish.com",
+    "Description": "I just spent a week living in an Airbnb with four other people. We went to the supermarket together, cooked breakfast together, visited museums, went out to the pub…all the things you (well, I) do on a holiday. But it wasn’t my four closest friends. These were my colleagues - thrown together by fate, or, more precisely, my employer."
+  },
+  {
+    "Title": "Long branches in compilers, assemblers, and linkers",
+    "Url": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers",
+    "Timestamp": "2026-01-27T01:02:54",
+    "Domain": "maskray.me",
+    "Description": "Branch instructions on most architectures use PC-relative addressing with a limited range. When the target is too far away, the branch becomes \"out of range\" and requires special handling. Consider a"
+  },
+  {
+    "Title": "Life on Claude Nine",
+    "Url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+    "Timestamp": "2026-01-27T01:02:51",
+    "Domain": "babuschk.in",
+    "Description": "It started with automating his emails."
+  },
+  {
+    "Title": "Docs in Code",
+    "Url": "https://dumbideas.xyz/posts/docs-in-code/",
+    "Timestamp": "2026-01-27T01:02:47",
+    "Domain": "dumbideas.xyz",
+    "Description": "Your agent doesn’t understand your\ncode. What can you do about that?"
+  },
+  {
+    "Title": "Notes about Basic Polyphase Decimation Filters",
+    "Url": "https://tomverbeure.github.io/2026/01/25/Notes-on-Basic-Polyphase-Decimation.html",
+    "Timestamp": "2026-01-27T01:02:44",
+    "Domain": "tomverbeure.github.io",
+    "Description": "I’ve been reading up on polyphase filters and multi-rate digital signal processing.\nIt’s a broad topic, but as a beginner I need to start with the basics. And to better \ninternalize those, I like to expand the generic math into concretely worked-out, \nsmaller examples."
+  },
+  {
     "Title": "Recapping My 5 Year Old Studio Monitors",
     "Url": "https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/",
     "Timestamp": "2026-01-27T00:02:21",
