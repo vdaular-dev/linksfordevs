@@ -372,16 +372,5 @@ I decided to edit and compile them together to present it to the community and a
       <guid>https://iamgio.eu/2025-12-10-accidentally-in-silicon-valley/</guid>
       <pubDate>Wed, 28 Jan 2026 01:02:28 GMT</pubDate>
     </item>
-    <item>
-      <title>Jade (@JadedBlueEyes@tech.lgbt)</title>
-      <link>https://tech.lgbt/@JadedBlueEyes/115967791152135761</link>
-      <description>Cloudflare just published a vibe coded blog post claiming they implemented Matrix on cloudflare workers. They didn't, their post and README is AI generated and the code doesn't do any of the core parts of matrix that make it secure and interoperable. Instead it's littered with 'TODO: Check authorisation' and similar
-
-
-https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</description>
-      <category>sql</category>
-      <guid>https://tech.lgbt/@JadedBlueEyes/115967791152135761</guid>
-      <pubDate>Tue, 27 Jan 2026 18:02:35 GMT</pubDate>
-    </item>
   </channel>
 </rss>
