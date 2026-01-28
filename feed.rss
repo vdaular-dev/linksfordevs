@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Everyone's okay with their AI, just not yours</title>
+      <link>https://idiallo.com/blog/ai-is-ok-just-not-yours?src=feed</link>
+      <description>There's a strange contradiction happening in tech right now. Companies are forcing employees to integrate AI into their workflows, celebrating productivity gains and AI-assisted everything. Yet when j</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/ai-is-ok-just-not-yours?src=feed</guid>
+      <pubDate>Wed, 28 Jan 2026 12:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Amutable</title>
       <link>https://amutable.com/about</link>
       <description>Amutable: A New Secure Foundation</description>
@@ -355,29 +364,6 @@ https://blog.cloudflare.com/serverless-matrix-homeserver-workers/</description>
       <category>vscode</category>
       <guid>https://www.kimi.com/blog/kimi-k2-5.html</guid>
       <pubDate>Tue, 27 Jan 2026 13:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The First C# 15 Feature Is Here</title>
-      <link>https://youtube.com/watch?v=wNynE4mwEKI</link>
-      <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
-
-Hello, everybody. I'm Nick, and in this video, I will talk about a brand new feature coming in C# and .NET 11 called Collection Expression Arguments. Its syntax is a bit marmite, but I want to hear your thoughts.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>sql</category>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=wNynE4mwEKI</guid>
-      <pubDate>Tue, 27 Jan 2026 12:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
