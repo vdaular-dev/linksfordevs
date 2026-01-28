@@ -1,5 +1,13 @@
 [
   {
+    "Title": "ASML Statement on Strengthening Focus on Engineering and Innovation  ",
+    "Url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+    "Timestamp": "2026-01-28T13:02:18",
+    "Domain": "www.asml.com",
+    "Description": "Announcement - Veldhoven, the Netherlands, January 28, 2026",
+    "Confidence": 0.9538471
+  },
+  {
     "Title": "Everyone's okay with their AI, just not yours",
     "Url": "https://idiallo.com/blog/ai-is-ok-just-not-yours?src=feed",
     "Timestamp": "2026-01-28T12:02:02",
@@ -302,13 +310,5 @@
     "Domain": "tech.lgbt",
     "Description": "Cloudflare just published a vibe coded blog post claiming they implemented Matrix on cloudflare workers. They didn't, their post and README is AI generated and the code doesn't do any of the core parts of matrix that make it secure and interoperable. Instead it's littered with 'TODO: Check authorisation' and similar\n\n\nhttps://blog.cloudflare.com/serverless-matrix-homeserver-workers/",
     "Confidence": 0.9590478
-  },
-  {
-    "Title": "Kimi K2.5: Visual Agentic Intelligence",
-    "Url": "https://www.kimi.com/blog/kimi-k2-5.html",
-    "Timestamp": "2026-01-27T13:02:32",
-    "Domain": "www.kimi.com",
-    "Description": "Try Kimi K2.5, the strongest open-source model for visual coding. Explore agent swarm preview for massive tasks. Simplify complex Office work with precision.",
-    "Confidence": 0.9764653
   }
 ]
