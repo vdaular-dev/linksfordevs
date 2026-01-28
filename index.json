@@ -1,5 +1,285 @@
 [
   {
+    "Title": "5 todo list systems in 5 years",
+    "Url": "https://www.njbrown.com/blog/77/",
+    "Timestamp": "2026-01-28T01:04:34",
+    "Domain": "www.njbrown.com",
+    "Description": "The evolution of my todo list system over time.",
+    "Confidence": 0.97786367
+  },
+  {
+    "Title": "Swarm Coordinators are the Next Big Thing",
+    "Url": "https://www.alecskriloff.com/blog/swarm-coordinators-are-the-next-big-thing",
+    "Timestamp": "2026-01-28T01:04:31",
+    "Domain": "www.alecskriloff.com",
+    "Description": "We're moving up the abstraction stack again. The bottleneck is shifting from writing code to orchestrating agent swarms. The new elite skill is not typing faster-it's thinking clearer.",
+    "Confidence": 0.9925833
+  },
+  {
+    "Title": "InitCoder",
+    "Url": "https://initcoder.com/posts/my-workflow-for-editing-video-as-a-programmer/",
+    "Timestamp": "2026-01-28T01:04:27",
+    "Domain": "initcoder.com",
+    "Description": "My everyday work does not involve editing or compiling videos. However, a not-for-profit community project [1] my wife and I work on just completed two years of its existence. We received several ‘happy birthday’ messages from the community members and what the community meant for them.\nI decided to edit and compile them together to present it to the community and also put it up on our social media platform [2].",
+    "Confidence": 0.9660526
+  },
+  {
+    "Title": "Building with MCP, for Real",
+    "Url": "https://www.jakeworth.com/posts/building-with-mcp-for-real/",
+    "Timestamp": "2026-01-28T01:04:24",
+    "Domain": "www.jakeworth.com",
+    "Description": "This year I built several Model Context Protocol (MCP) servers to support ongoing R&D. Here’s my report.",
+    "Confidence": 0.97639114
+  },
+  {
+    "Title": "For Our Machine Friends | ToasterBotnet Shitpostblog",
+    "Url": "https://toasterdump.com/2026/01/18/for-our-machine-friends/",
+    "Timestamp": "2026-01-28T01:04:21",
+    "Domain": "toasterdump.com",
+    "Description": "Making My Website Robot-Friendly",
+    "Confidence": 0.9836519
+  },
+  {
+    "Title": "Joyus: I tried Datastar - Alex Moon",
+    "Url": "https://ajmoon.com/posts/joyus-i-tried-datastar",
+    "Timestamp": "2026-01-28T01:04:11",
+    "Domain": "ajmoon.com",
+    "Description": "Alex Moon is an Australian-British software engineer and artist based in the North East of England.",
+    "Confidence": 0.99885416
+  },
+  {
+    "Title": "Debug TUIs with tmux // JM BLOG",
+    "Url": "https://jmlago.github.io/skills/debug-tuis-with-tmux.html",
+    "Timestamp": "2026-01-28T01:04:06",
+    "Domain": "jmlago.github.io",
+    "Description": "Use tmux to visualize and interact with Terminal User Interfaces (TUIs) like nvim, lazygit, debuggers, and REPLs. This creates a feedback loop that allows Claude to \"see\" and \"control\" interactive applications.",
+    "Confidence": 0.96518487
+  },
+  {
+    "Title": "Teammates, not coworkers",
+    "Url": "https://luke.hsiao.dev/blog/teammates-not-coworkers/",
+    "Timestamp": "2026-01-28T01:04:02",
+    "Domain": "luke.hsiao.dev",
+    "Description": "Company culture is important. One aspect that particularly affects people's day-to-day life is whether, as a friend said, they have \"teammates, not coworkers\". This post explores the distinction.",
+    "Confidence": 0.9877491
+  },
+  {
+    "Title": "Agent Swarms, like the one Cursor created – Mrinal Wadhwa",
+    "Url": "https://mrinal.com/articles/agent-swarms-like-the-one-cursor-created/",
+    "Timestamp": "2026-01-28T01:03:59",
+    "Domain": "mrinal.com",
+    "Description": "Deep autonomous work requires infrastructure, not just frameworks or harnesses. A demo of distributed AI agents reviewing Vue.js core.",
+    "Confidence": 0.9823224
+  },
+  {
+    "Title": "How Many Chess Games are Possible?",
+    "Url": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+    "Timestamp": "2026-01-28T01:03:55",
+    "Domain": "win-vector.com",
+    "Description": "How Many Chess Games are Possible? Here is a fun question: how many different games of chess are possible? Counting the number of possible chess games is quite hard, as the numbers are large and ch…",
+    "Confidence": 0.98052514
+  },
+  {
+    "Title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
+    "Url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
+    "Timestamp": "2026-01-28T01:03:52",
+    "Domain": "kohlschuetter.github.io",
+    "Description": "I found this tiny fanless Thunderbolt 25G Ethernet adapter. With a little tinkering, it actually works.",
+    "Confidence": 0.97825354
+  },
+  {
+    "Title": "An LLM that's 7500× stupider",
+    "Url": "https://evanhahn.com/an-llm-thats-7500x-stupider/",
+    "Timestamp": "2026-01-28T01:03:48",
+    "Domain": "evanhahn.com",
+    "Description": "While the world plays with fancy trillion-parameter chatbots, I was using one that was about 7500 times stupider.",
+    "Confidence": 0.8069188
+  },
+  {
+    "Title": "Why vLLM Scales: Paging the KV-Cache for Faster LLM Inference | Andrey Krisanov",
+    "Url": "https://akrisanov.com/vllm/",
+    "Timestamp": "2026-01-28T01:03:45",
+    "Domain": "akrisanov.com",
+    "Description": "Why traditional LLM serving wastes GPU memory – and how vLLM’s PagedAttention model enables larger batches, higher throughput, and more predictable latency.",
+    "Confidence": 0.9840503
+  },
+  {
+    "Title": "Software Pump and Dump",
+    "Url": "http://tautvilas.lt/software-pump-and-dump/",
+    "Timestamp": "2026-01-28T01:03:42",
+    "Domain": "tautvilas.lt",
+    "Description": "A new worrying amalgamation of crypto scams and vibe coding emerges from the bowels of the internet in 2026",
+    "Confidence": 0.905803
+  },
+  {
+    "Title": "How to Solve Santa Claus Concurrency Puzzle with a Model Checker",
+    "Url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+    "Timestamp": "2026-01-28T01:03:38",
+    "Domain": "wyounas.github.io",
+    "Description": "Welcome to Waqas' blog",
+    "Confidence": 0.9969059
+  },
+  {
+    "Title": "Why is the app slow on Pixel 7? — Blog — Binary Sky",
+    "Url": "https://binarysky.se/blog/2026/01/why-is-the-app-slow-on-pixel-7/",
+    "Timestamp": "2026-01-28T01:03:34",
+    "Domain": "binarysky.se",
+    "Description": "So a collegue comes over to me one day to ask what changes we did since the last release, reason being: “The app is very slow on Pixel 7 running on <cloud-based emulator service>“.",
+    "Confidence": 0.9299817
+  },
+  {
+    "Title": "IDE Not Required",
+    "Url": "https://no0p.github.io/llm/ai/programming/2026/01/26/coding-agents-theory-practice.html",
+    "Timestamp": "2026-01-28T01:03:30",
+    "Domain": "no0p.github.io",
+    "Description": "A blog about computer programs, databases, and the future of software development.",
+    "Confidence": 0.99104
+  },
+  {
+    "Title": "Claude Code made me love meetings again",
+    "Url": "https://tn1ck.com/blog/claude-code-made-me-love-meetings-again",
+    "Timestamp": "2026-01-28T01:03:27",
+    "Domain": "tn1ck.com",
+    "Description": "AI coding tools reduced my dependence on deep flow and gave me the capacity to enjoy spontaneous meetings again.",
+    "Confidence": 0.98879594
+  },
+  {
+    "Title": "jott - how_to_fail_2026",
+    "Url": "https://jott.live/markdown/how_to_fail_2026",
+    "Timestamp": "2026-01-28T01:03:24",
+    "Domain": "jott.live",
+    "Description": "by @bwasti",
+    "Confidence": 0.9811718
+  },
+  {
+    "Title": "The C-Shaped Hole in Package Management",
+    "Url": "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html",
+    "Timestamp": "2026-01-28T01:03:20",
+    "Domain": "nesbitt.io",
+    "Description": "System package managers and language package managers are solving different problems that happen to overlap in the middle.",
+    "Confidence": 0.99305344
+  },
+  {
+    "Title": "The consequences of outsourcing thinking",
+    "Url": "https://www.neilwithdata.com/outsourced-thinking",
+    "Timestamp": "2026-01-28T01:03:17",
+    "Domain": "www.neilwithdata.com",
+    "Description": "When I set out to study mathematics more than 10 years ago, it was initially very difficult. Not having practiced much mathematical thinking since my university days, there was an enormous amount of upfront struggle where I simply had to sit with frustration and uncertainty. With time and practice though, things got easier - difficult concepts became familiar, easier to work with, and easier to build upon. It was time in the saddle - that is, time spent thinking, uncertain, and actually doing the work - that made the difference.",
+    "Confidence": 0.9561502
+  },
+  {
+    "Title": "The most important thing when working with LLMs",
+    "Url": "https://steveklabnik.com/writing/the-most-important-thing-when-working-with-llms/",
+    "Timestamp": "2026-01-28T01:03:14",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: The most important thing when working with LLMs by Steve Klabnik",
+    "Confidence": 0.993252
+  },
+  {
+    "Title": "doin' it all with 555s",
+    "Url": "https://aashvik.com/posts/555-revolution/",
+    "Timestamp": "2026-01-28T01:03:11",
+    "Domain": "aashvik.com",
+    "Description": "For April First, a guide to replace everything with 555 ICs.",
+    "Confidence": 0.9879864
+  },
+  {
+    "Title": "Good Citizen Syndrome",
+    "Url": "https://thomascountz.com/2026/01/26/good-citizen-syndrome",
+    "Timestamp": "2026-01-28T01:03:08",
+    "Domain": "thomascountz.com",
+    "Description": "When skilled engineers constantly fill gaps in process and standards, it can mask weak reliability strategy.",
+    "Confidence": 0.96415824
+  },
+  {
+    "Title": "Trigger Your GPG Passphrase and Clear Your Agent's Cache — Nick Janetakis",
+    "Url": "https://nickjanetakis.com/blog/trigger-your-gpg-passphrase-and-clear-your-agents-cache",
+    "Timestamp": "2026-01-28T01:03:05",
+    "Domain": "nickjanetakis.com",
+    "Description": "You may want to do this if you're using gpg or signing git commits in a script and don't want it to hang.",
+    "Confidence": 0.9847323
+  },
+  {
+    "Title": "The Enclosure feedback loop",
+    "Url": "https://michiel.buddingh.eu/enclosure-feedback-loop",
+    "Timestamp": "2026-01-28T01:03:00",
+    "Domain": "michiel.buddingh.eu",
+    "Description": "speculation about the way (paid) software development will become LLM-only",
+    "Confidence": 0.98277557
+  },
+  {
+    "Title": "Lock Me In, Orange Cloud - On Vendor Lock-In and Cloudflare",
+    "Url": "https://idrank.vodka/lock-me-in-orange-cloud",
+    "Timestamp": "2026-01-28T01:02:57",
+    "Domain": "idrank.vodka",
+    "Description": "Thoughts on vendor lock-in, the illusion of freedom, and why I'm putting all my eggs in Cloudflare's basket.",
+    "Confidence": 0.9909546
+  },
+  {
+    "Title": "joke-generator",
+    "Url": "https://jokegen.sdan.io/blog",
+    "Timestamp": "2026-01-28T01:02:54",
+    "Domain": "jokegen.sdan.io",
+    "Description": "kimi k2 tuned to generate jokes with rubric RL",
+    "Confidence": 0.8882548
+  },
+  {
+    "Title": "My Journey Towards Coding Agents: Building SERA — Tim Dettmers",
+    "Url": "https://timdettmers.com/2026/01/27/building-open-coding-agent-sera/",
+    "Timestamp": "2026-01-28T01:02:50",
+    "Domain": "timdettmers.com",
+    "Description": "If you look at how people cook coding agents today, they have an industrial kitchen: large-scale reinforcement learning systems with many components for efficiency spanning hundreds of GPUs, complex repository mixing, and large teams working on all angles to optimize the data pipeline for training. For the family of Open Coding Agents we released today […]",
+    "Confidence": 0.987356
+  },
+  {
+    "Title": "Why I still teach OpenGL ES 3.0",
+    "Url": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
+    "Timestamp": "2026-01-28T01:02:47",
+    "Domain": "eliasfarhan.ch",
+    "Description": "Loading...",
+    "Confidence": 0.9978709
+  },
+  {
+    "Title": "~fpereiro",
+    "Url": "https://federicopereiro.com/rags-tools-bellyaches/",
+    "Timestamp": "2026-01-28T01:02:42",
+    "Domain": "federicopereiro.com",
+    "Description": "For the AI brutes like yours truly, a LLM is only two things: its weights (which is what comes out of its training) and the context you provide to it so that you get a good answer. The context is the question you ask to the model, and accompanying data you present. Weights + prompt = answer. When you get an answer, the answer serves as subsequent context for the next question.",
+    "Confidence": 0.9833142
+  },
+  {
+    "Title": "Codeless: From idea to software - Anil Dash",
+    "Url": "https://www.anildash.com/2026/01/22/codeless/",
+    "Timestamp": "2026-01-28T01:02:38",
+    "Domain": "www.anildash.com",
+    "Description": "A blog about making culture. Since 1999.",
+    "Confidence": 0.99408287
+  },
+  {
+    "Title": "How I manage tasks in 2026",
+    "Url": "https://www.shubhro.com/how-manage-tasks-2026/",
+    "Timestamp": "2026-01-28T01:02:35",
+    "Domain": "www.shubhro.com",
+    "Description": "For five years, I had been loyal to Things for task management. It was clean, simple, and just worked.",
+    "Confidence": 0.9734534
+  },
+  {
+    "Title": "The monorepo: my personal software infrastructure in 2026",
+    "Url": "https://iafisher.com/blog/2026/01/monorepo-2026",
+    "Timestamp": "2026-01-28T01:02:32",
+    "Domain": "iafisher.com",
+    "Description": "A review of the software libraries and tools I have built for my personal use.",
+    "Confidence": 0.9930748
+  },
+  {
+    "Title": "I accidentally ended up in Silicon Valley",
+    "Url": "https://iamgio.eu/2025-12-10-accidentally-in-silicon-valley/",
+    "Timestamp": "2026-01-28T01:02:28",
+    "Domain": "iamgio.eu",
+    "Description": "Check out Giorgio Garofalo's blog post",
+    "Confidence": 0.87424046
+  },
+  {
     "Title": "Jade (@JadedBlueEyes@tech.lgbt)",
     "Url": "https://tech.lgbt/@JadedBlueEyes/115967791152135761",
     "Timestamp": "2026-01-27T18:02:35",
@@ -30,205 +310,5 @@
     "Domain": "simonwillison.net",
     "Description": "One of my favourite features of ChatGPT is its ability to write and execute code in a container. This feature launched as ChatGPT Code Interpreter nearly three years ago, was …",
     "Confidence": 0.9879823
-  },
-  {
-    "Title": "Positional Encodings: The Part Everyone Skips",
-    "Url": "https://suyogdahal.com.np/posts/understanding-positional-encodings/",
-    "Timestamp": "2026-01-27T01:04:20",
-    "Domain": "suyogdahal.com.np",
-    "Description": "If the following image doesn’t make sense to you, there’s a good chance you haven’t fully grasped positional encodings in transformer architecture. Please stick around as I’ll try to explain them in a way that actually feels intuitive.\nThe 128-dimensional positional encoding for a sentence Context This blog is a part of my quest to properly understand the transformer architecture. Previously, I tried to explain self-attention in my own way here.",
-    "Confidence": 0.98743963
-  },
-  {
-    "Title": "Building a Movie Recommendation Agent",
-    "Url": "https://rokn.io/posts/building-movie-recommendation-agent",
-    "Timestamp": "2026-01-27T01:04:15",
-    "Domain": "rokn.io",
-    "Description": "Learn what went into building movieagent.io, a movie recommendation agent.",
-    "Confidence": 0.9088106
-  },
-  {
-    "Title": "Lean, Mean, Solitaire Machine",
-    "Url": "https://ersei.net/en/blog/lean-mean-solitaire-machine",
-    "Timestamp": "2026-01-27T01:04:09",
-    "Domain": "ersei.net",
-    "Description": "My dada (grandpa on my dad's side) is a fiend for spider solitaire. Indeed, that's all his laptop really does these days. The shot battery struggles to hold...",
-    "Confidence": 0.98710096
-  },
-  {
-    "Title": "We've Got Cloudflare at Home",
-    "Url": "https://dylans.link/blog/2026-01-26-weve-got-cloudflare-at-home",
-    "Timestamp": "2026-01-27T01:04:06",
-    "Domain": "dylans.link",
-    "Description": "Self-hosting securely using Caddy on an OVH VPS as a jumpbox with WireGuard tunnel to home network",
-    "Confidence": 0.9928304
-  },
-  {
-    "Title": "We can no longer trust software - Dmitry Kudryavtsev",
-    "Url": "https://kudmitry.com/articles/we-can-no-longer-trust-software/",
-    "Timestamp": "2026-01-27T01:04:01",
-    "Domain": "kudmitry.com",
-    "Description": "If you told someone back in early 2000s that they would be able to update the software on their TV or fridge, they would look at you very confusingly.\nAnd yet, ...",
-    "Confidence": 0.9795755
-  },
-  {
-    "Title": "why i love cheap coffee",
-    "Url": "https://alieniloquy.bearblog.dev/why-i-love-cheap-coffee/",
-    "Timestamp": "2026-01-27T01:03:57",
-    "Domain": "alieniloquy.bearblog.dev",
-    "Description": "<img src=\"https://bear-images.sfo2.cdn.digitaloceanspaces.com/alieniloquy/cheapcoffee.webp\" width=\"767\"/>\nI spent a decade of my life working in the coffee ...",
-    "Confidence": 0.7946375
-  },
-  {
-    "Title": "Setting up Year in Command Line — Danish Prakash",
-    "Url": "https://danishpraka.sh/posts/setting-up-year-in-command-line/",
-    "Timestamp": "2026-01-27T01:03:54",
-    "Domain": "danishpraka.sh",
-    "Description": "I’ve tracked my command line history in a MariaDB instance for the past 5 years. The original idea was to simple keep track of everything I do on the command line so that I can refer to them later on. The utility of the history command was immediately apparent to me and so the logical next step was to store the history in a more sophisticated setup.",
-    "Confidence": 0.99335617
-  },
-  {
-    "Title": "Competitive Pure Functional Languages",
-    "Url": "https://blog.samibadawi.com/2026/01/competitive-pure-functional-languages.html",
-    "Timestamp": "2026-01-27T01:03:48",
-    "Domain": "blog.samibadawi.com",
-    "Description": "",
-    "Confidence": 0.99238145
-  },
-  {
-    "Title": "The Voice Principle",
-    "Url": "https://notes.tasshin.com/2026-01-26-the-voice-principle",
-    "Timestamp": "2026-01-27T01:03:44",
-    "Domain": "notes.tasshin.com",
-    "Description": "As I’ve gotten more interested in A.I., and use it more and more, I’ve discovered a very clear boundary or value in my use of it for writing.",
-    "Confidence": 0.8434902
-  },
-  {
-    "Title": "writing Jepsen tests for Antietcd — Vitastor",
-    "Url": "https://vitastor.io/en/blog/2026-01-22-jepsen-antietcd.html",
-    "Timestamp": "2026-01-27T01:03:41",
-    "Domain": "vitastor.io",
-    "Description": "2026-01-22",
-    "Confidence": 0.98477066
-  },
-  {
-    "Title": "The Value of Things – journal.stuffwithstuff.com",
-    "Url": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
-    "Timestamp": "2026-01-27T01:03:35",
-    "Domain": "journal.stuffwithstuff.com",
-    "Description": "One of the reasons I write is to help me organize my own mind. I have a\ncompulsive need to figure things out and I’ll lay awake at night shuffling\nsentences around in my head until it hangs together. Then I just have to try to\nget it all down in Markdown before it dissolves back into chaos.",
-    "Confidence": 0.9732639
-  },
-  {
-    "Title": "kp9 - Soundness and Completeness",
-    "Url": "https://kp9.in/posts/cs/stop-or-my-compiler-will-prove-a-theorem",
-    "Timestamp": "2026-01-27T01:03:32",
-    "Domain": "kp9.in",
-    "Description": "Natural language is beautiful for poetry, but lethal for processors. When we describe a language loosely, we leave room for \"undefined behavior\", which is the dark matter of the programming universe where anything can happen.",
-    "Confidence": 0.99406844
-  },
-  {
-    "Title": "Early Arthropods",
-    "Url": "https://xkcd.com/3199/",
-    "Timestamp": "2026-01-27T01:03:29",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "The End of Software Engineering?",
-    "Url": "https://seanm.uk/blog/the-end-of-software-engineering",
-    "Timestamp": "2026-01-27T01:03:26",
-    "Domain": "seanm.uk",
-    "Description": "A nuanced take on agentic programming - examining both sides of the debate about AI coding tools and what it means for the future of software development.",
-    "Confidence": 0.9822638
-  },
-  {
-    "Title": "Who uses LLMs? - Neon Vagabond",
-    "Url": "https://neonvagabond.xyz/articles/who-uses-llms.html",
-    "Timestamp": "2026-01-27T01:03:21",
-    "Domain": "neonvagabond.xyz",
-    "Description": "There's this common argument that only those who are bad at coding, or don't care about the craft of it, use AI to code. I think this is pretty clearly false. Let's look at a list, shall we? More iffy ones:This refutes a few arguments that I see a lot of people make, especially in places like lobste. rs:The point isn't to say that you have to use AI, or that it has no downsides or risks, or no reasons to be skeptical, but more to say that at this point it's just not sane or feasible to claim tha...",
-    "Confidence": 0.91423583
-  },
-  {
-    "Title": "Livid Spot",
-    "Url": "http://fimbaz.blogspot.com/2026/01/title-i-invented-decisions-yes-hello.html",
-    "Timestamp": "2026-01-27T01:03:18",
-    "Domain": "fimbaz.blogspot.com",
-    "Description": "  title: i invented 'decisions' yes hello welcome not much to read on the internet today so i am going to write for you i am writing as an u...",
-    "Confidence": 0.6239513
-  },
-  {
-    "Title": "Less is More: When Agents Learn Not Because But Despite My Doings",
-    "Url": "https://kywch.github.io/blog/2026/01/less-is-more-2048-agents/",
-    "Timestamp": "2026-01-27T01:03:14",
-    "Domain": "kywch.github.io",
-    "Description": "Last month, I wrote about how curriculum learning helped me train a 2048 agent that reaches the 65k tile. That agent achieved a 14.75% rate of reaching 65k with many built-in heuristics to encourage the snake-pattern (keeping the highest tile in the corner with tiles arranged in a descending zigzag), and endgame-only training environments that capitalized on it.",
-    "Confidence": 0.92304546
-  },
-  {
-    "Title": "You can just port things to Cloudflare Workers",
-    "Url": "https://sigh.dev/posts/you-can-just-port-things-to-cloudflare-workers/",
-    "Timestamp": "2026-01-27T01:03:11",
-    "Domain": "sigh.dev",
-    "Description": "Vibecoding, Vibeporting?",
-    "Confidence": 0.94581515
-  },
-  {
-    "Title": "Why You Need To Clear Your Coding Agent's Context Window",
-    "Url": "https://willness.dev/blog/one-session-per-task",
-    "Timestamp": "2026-01-27T01:03:08",
-    "Domain": "willness.dev",
-    "Description": "Why fresh context beats accumulated context for coding agents. Research on attention degradation and practical strategies for better AI-assisted development.",
-    "Confidence": 0.9982464
-  },
-  {
-    "Title": "The Relative Trap",
-    "Url": "https://blog.sebastiansastre.co/posts/the-relative-trap/",
-    "Timestamp": "2026-01-27T01:03:05",
-    "Domain": "blog.sebastiansastre.co",
-    "Description": "Why 'analysis paralysis' is often a refusal to accept the finite nature of evidence. A look at why your mental health—and your work—depends on loving reality more than your narrative.",
-    "Confidence": 0.9262786
-  },
-  {
-    "Title": "I went on Holiday with my Colleagues",
-    "Url": "https://dogdogfish.com/blog/2026/01/26/holiday-with-colleagues/",
-    "Timestamp": "2026-01-27T01:03:01",
-    "Domain": "dogdogfish.com",
-    "Description": "I just spent a week living in an Airbnb with four other people. We went to the supermarket together, cooked breakfast together, visited museums, went out to the pub…all the things you (well, I) do on a holiday. But it wasn’t my four closest friends. These were my colleagues - thrown together by fate, or, more precisely, my employer.",
-    "Confidence": 0.885773
-  },
-  {
-    "Title": "Long branches in compilers, assemblers, and linkers",
-    "Url": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers",
-    "Timestamp": "2026-01-27T01:02:54",
-    "Domain": "maskray.me",
-    "Description": "Branch instructions on most architectures use PC-relative addressing with a limited range. When the target is too far away, the branch becomes \"out of range\" and requires special handling. Consider a",
-    "Confidence": 0.99774504
-  },
-  {
-    "Title": "Life on Claude Nine",
-    "Url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-    "Timestamp": "2026-01-27T01:02:51",
-    "Domain": "babuschk.in",
-    "Description": "It started with automating his emails.",
-    "Confidence": 0.9770324
-  },
-  {
-    "Title": "Docs in Code",
-    "Url": "https://dumbideas.xyz/posts/docs-in-code/",
-    "Timestamp": "2026-01-27T01:02:47",
-    "Domain": "dumbideas.xyz",
-    "Description": "Your agent doesn’t understand your\ncode. What can you do about that?",
-    "Confidence": 0.99618846
-  },
-  {
-    "Title": "Notes about Basic Polyphase Decimation Filters",
-    "Url": "https://tomverbeure.github.io/2026/01/25/Notes-on-Basic-Polyphase-Decimation.html",
-    "Timestamp": "2026-01-27T01:02:44",
-    "Domain": "tomverbeure.github.io",
-    "Description": "I’ve been reading up on polyphase filters and multi-rate digital signal processing.\nIt’s a broad topic, but as a beginner I need to start with the basics. And to better \ninternalize those, I like to expand the generic math into concretely worked-out, \nsmaller examples.",
-    "Confidence": 0.97613263
   }
 ]

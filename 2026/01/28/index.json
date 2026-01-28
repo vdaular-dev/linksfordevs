@@ -1,1 +1,247 @@
-[]
+[
+  {
+    "Title": "5 todo list systems in 5 years",
+    "Url": "https://www.njbrown.com/blog/77/",
+    "Timestamp": "2026-01-28T01:04:34",
+    "Domain": "www.njbrown.com",
+    "Description": "The evolution of my todo list system over time."
+  },
+  {
+    "Title": "Swarm Coordinators are the Next Big Thing",
+    "Url": "https://www.alecskriloff.com/blog/swarm-coordinators-are-the-next-big-thing",
+    "Timestamp": "2026-01-28T01:04:31",
+    "Domain": "www.alecskriloff.com",
+    "Description": "We're moving up the abstraction stack again. The bottleneck is shifting from writing code to orchestrating agent swarms. The new elite skill is not typing faster-it's thinking clearer."
+  },
+  {
+    "Title": "InitCoder",
+    "Url": "https://initcoder.com/posts/my-workflow-for-editing-video-as-a-programmer/",
+    "Timestamp": "2026-01-28T01:04:27",
+    "Domain": "initcoder.com",
+    "Description": "My everyday work does not involve editing or compiling videos. However, a not-for-profit community project [1] my wife and I work on just completed two years of its existence. We received several ‘happy birthday’ messages from the community members and what the community meant for them.\nI decided to edit and compile them together to present it to the community and also put it up on our social media platform [2]."
+  },
+  {
+    "Title": "Building with MCP, for Real",
+    "Url": "https://www.jakeworth.com/posts/building-with-mcp-for-real/",
+    "Timestamp": "2026-01-28T01:04:24",
+    "Domain": "www.jakeworth.com",
+    "Description": "This year I built several Model Context Protocol (MCP) servers to support ongoing R&D. Here’s my report."
+  },
+  {
+    "Title": "For Our Machine Friends | ToasterBotnet Shitpostblog",
+    "Url": "https://toasterdump.com/2026/01/18/for-our-machine-friends/",
+    "Timestamp": "2026-01-28T01:04:21",
+    "Domain": "toasterdump.com",
+    "Description": "Making My Website Robot-Friendly"
+  },
+  {
+    "Title": "Joyus: I tried Datastar - Alex Moon",
+    "Url": "https://ajmoon.com/posts/joyus-i-tried-datastar",
+    "Timestamp": "2026-01-28T01:04:11",
+    "Domain": "ajmoon.com",
+    "Description": "Alex Moon is an Australian-British software engineer and artist based in the North East of England."
+  },
+  {
+    "Title": "Debug TUIs with tmux // JM BLOG",
+    "Url": "https://jmlago.github.io/skills/debug-tuis-with-tmux.html",
+    "Timestamp": "2026-01-28T01:04:06",
+    "Domain": "jmlago.github.io",
+    "Description": "Use tmux to visualize and interact with Terminal User Interfaces (TUIs) like nvim, lazygit, debuggers, and REPLs. This creates a feedback loop that allows Claude to \"see\" and \"control\" interactive applications."
+  },
+  {
+    "Title": "Teammates, not coworkers",
+    "Url": "https://luke.hsiao.dev/blog/teammates-not-coworkers/",
+    "Timestamp": "2026-01-28T01:04:02",
+    "Domain": "luke.hsiao.dev",
+    "Description": "Company culture is important. One aspect that particularly affects people's day-to-day life is whether, as a friend said, they have \"teammates, not coworkers\". This post explores the distinction."
+  },
+  {
+    "Title": "Agent Swarms, like the one Cursor created – Mrinal Wadhwa",
+    "Url": "https://mrinal.com/articles/agent-swarms-like-the-one-cursor-created/",
+    "Timestamp": "2026-01-28T01:03:59",
+    "Domain": "mrinal.com",
+    "Description": "Deep autonomous work requires infrastructure, not just frameworks or harnesses. A demo of distributed AI agents reviewing Vue.js core."
+  },
+  {
+    "Title": "How Many Chess Games are Possible?",
+    "Url": "https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/",
+    "Timestamp": "2026-01-28T01:03:55",
+    "Domain": "win-vector.com",
+    "Description": "How Many Chess Games are Possible? Here is a fun question: how many different games of chess are possible? Counting the number of possible chess games is quite hard, as the numbers are large and ch…"
+  },
+  {
+    "Title": "Reliable 25 Gigabit Ethernet via Thunderbolt",
+    "Url": "https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/",
+    "Timestamp": "2026-01-28T01:03:52",
+    "Domain": "kohlschuetter.github.io",
+    "Description": "I found this tiny fanless Thunderbolt 25G Ethernet adapter. With a little tinkering, it actually works."
+  },
+  {
+    "Title": "An LLM that's 7500× stupider",
+    "Url": "https://evanhahn.com/an-llm-thats-7500x-stupider/",
+    "Timestamp": "2026-01-28T01:03:48",
+    "Domain": "evanhahn.com",
+    "Description": "While the world plays with fancy trillion-parameter chatbots, I was using one that was about 7500 times stupider."
+  },
+  {
+    "Title": "Why vLLM Scales: Paging the KV-Cache for Faster LLM Inference | Andrey Krisanov",
+    "Url": "https://akrisanov.com/vllm/",
+    "Timestamp": "2026-01-28T01:03:45",
+    "Domain": "akrisanov.com",
+    "Description": "Why traditional LLM serving wastes GPU memory – and how vLLM’s PagedAttention model enables larger batches, higher throughput, and more predictable latency."
+  },
+  {
+    "Title": "Software Pump and Dump",
+    "Url": "http://tautvilas.lt/software-pump-and-dump/",
+    "Timestamp": "2026-01-28T01:03:42",
+    "Domain": "tautvilas.lt",
+    "Description": "A new worrying amalgamation of crypto scams and vibe coding emerges from the bowels of the internet in 2026"
+  },
+  {
+    "Title": "How to Solve Santa Claus Concurrency Puzzle with a Model Checker",
+    "Url": "https://wyounas.github.io/puzzles/concurrency/2026/01/10/how-to-help-santa-claus-concurrently/",
+    "Timestamp": "2026-01-28T01:03:38",
+    "Domain": "wyounas.github.io",
+    "Description": "Welcome to Waqas' blog"
+  },
+  {
+    "Title": "Why is the app slow on Pixel 7? — Blog — Binary Sky",
+    "Url": "https://binarysky.se/blog/2026/01/why-is-the-app-slow-on-pixel-7/",
+    "Timestamp": "2026-01-28T01:03:34",
+    "Domain": "binarysky.se",
+    "Description": "So a collegue comes over to me one day to ask what changes we did since the last release, reason being: “The app is very slow on Pixel 7 running on <cloud-based emulator service>“."
+  },
+  {
+    "Title": "IDE Not Required",
+    "Url": "https://no0p.github.io/llm/ai/programming/2026/01/26/coding-agents-theory-practice.html",
+    "Timestamp": "2026-01-28T01:03:30",
+    "Domain": "no0p.github.io",
+    "Description": "A blog about computer programs, databases, and the future of software development."
+  },
+  {
+    "Title": "Claude Code made me love meetings again",
+    "Url": "https://tn1ck.com/blog/claude-code-made-me-love-meetings-again",
+    "Timestamp": "2026-01-28T01:03:27",
+    "Domain": "tn1ck.com",
+    "Description": "AI coding tools reduced my dependence on deep flow and gave me the capacity to enjoy spontaneous meetings again."
+  },
+  {
+    "Title": "jott - how_to_fail_2026",
+    "Url": "https://jott.live/markdown/how_to_fail_2026",
+    "Timestamp": "2026-01-28T01:03:24",
+    "Domain": "jott.live",
+    "Description": "by @bwasti"
+  },
+  {
+    "Title": "The C-Shaped Hole in Package Management",
+    "Url": "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html",
+    "Timestamp": "2026-01-28T01:03:20",
+    "Domain": "nesbitt.io",
+    "Description": "System package managers and language package managers are solving different problems that happen to overlap in the middle."
+  },
+  {
+    "Title": "The consequences of outsourcing thinking",
+    "Url": "https://www.neilwithdata.com/outsourced-thinking",
+    "Timestamp": "2026-01-28T01:03:17",
+    "Domain": "www.neilwithdata.com",
+    "Description": "When I set out to study mathematics more than 10 years ago, it was initially very difficult. Not having practiced much mathematical thinking since my university days, there was an enormous amount of upfront struggle where I simply had to sit with frustration and uncertainty. With time and practice though, things got easier - difficult concepts became familiar, easier to work with, and easier to build upon. It was time in the saddle - that is, time spent thinking, uncertain, and actually doing the work - that made the difference."
+  },
+  {
+    "Title": "The most important thing when working with LLMs",
+    "Url": "https://steveklabnik.com/writing/the-most-important-thing-when-working-with-llms/",
+    "Timestamp": "2026-01-28T01:03:14",
+    "Domain": "steveklabnik.com",
+    "Description": "Blog post: The most important thing when working with LLMs by Steve Klabnik"
+  },
+  {
+    "Title": "doin' it all with 555s",
+    "Url": "https://aashvik.com/posts/555-revolution/",
+    "Timestamp": "2026-01-28T01:03:11",
+    "Domain": "aashvik.com",
+    "Description": "For April First, a guide to replace everything with 555 ICs."
+  },
+  {
+    "Title": "Good Citizen Syndrome",
+    "Url": "https://thomascountz.com/2026/01/26/good-citizen-syndrome",
+    "Timestamp": "2026-01-28T01:03:08",
+    "Domain": "thomascountz.com",
+    "Description": "When skilled engineers constantly fill gaps in process and standards, it can mask weak reliability strategy."
+  },
+  {
+    "Title": "Trigger Your GPG Passphrase and Clear Your Agent's Cache — Nick Janetakis",
+    "Url": "https://nickjanetakis.com/blog/trigger-your-gpg-passphrase-and-clear-your-agents-cache",
+    "Timestamp": "2026-01-28T01:03:05",
+    "Domain": "nickjanetakis.com",
+    "Description": "You may want to do this if you're using gpg or signing git commits in a script and don't want it to hang."
+  },
+  {
+    "Title": "The Enclosure feedback loop",
+    "Url": "https://michiel.buddingh.eu/enclosure-feedback-loop",
+    "Timestamp": "2026-01-28T01:03:00",
+    "Domain": "michiel.buddingh.eu",
+    "Description": "speculation about the way (paid) software development will become LLM-only"
+  },
+  {
+    "Title": "Lock Me In, Orange Cloud - On Vendor Lock-In and Cloudflare",
+    "Url": "https://idrank.vodka/lock-me-in-orange-cloud",
+    "Timestamp": "2026-01-28T01:02:57",
+    "Domain": "idrank.vodka",
+    "Description": "Thoughts on vendor lock-in, the illusion of freedom, and why I'm putting all my eggs in Cloudflare's basket."
+  },
+  {
+    "Title": "joke-generator",
+    "Url": "https://jokegen.sdan.io/blog",
+    "Timestamp": "2026-01-28T01:02:54",
+    "Domain": "jokegen.sdan.io",
+    "Description": "kimi k2 tuned to generate jokes with rubric RL"
+  },
+  {
+    "Title": "My Journey Towards Coding Agents: Building SERA — Tim Dettmers",
+    "Url": "https://timdettmers.com/2026/01/27/building-open-coding-agent-sera/",
+    "Timestamp": "2026-01-28T01:02:50",
+    "Domain": "timdettmers.com",
+    "Description": "If you look at how people cook coding agents today, they have an industrial kitchen: large-scale reinforcement learning systems with many components for efficiency spanning hundreds of GPUs, complex repository mixing, and large teams working on all angles to optimize the data pipeline for training. For the family of Open Coding Agents we released today […]"
+  },
+  {
+    "Title": "Why I still teach OpenGL ES 3.0",
+    "Url": "https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html",
+    "Timestamp": "2026-01-28T01:02:47",
+    "Domain": "eliasfarhan.ch",
+    "Description": "Loading..."
+  },
+  {
+    "Title": "~fpereiro",
+    "Url": "https://federicopereiro.com/rags-tools-bellyaches/",
+    "Timestamp": "2026-01-28T01:02:42",
+    "Domain": "federicopereiro.com",
+    "Description": "For the AI brutes like yours truly, a LLM is only two things: its weights (which is what comes out of its training) and the context you provide to it so that you get a good answer. The context is the question you ask to the model, and accompanying data you present. Weights + prompt = answer. When you get an answer, the answer serves as subsequent context for the next question."
+  },
+  {
+    "Title": "Codeless: From idea to software - Anil Dash",
+    "Url": "https://www.anildash.com/2026/01/22/codeless/",
+    "Timestamp": "2026-01-28T01:02:38",
+    "Domain": "www.anildash.com",
+    "Description": "A blog about making culture. Since 1999."
+  },
+  {
+    "Title": "How I manage tasks in 2026",
+    "Url": "https://www.shubhro.com/how-manage-tasks-2026/",
+    "Timestamp": "2026-01-28T01:02:35",
+    "Domain": "www.shubhro.com",
+    "Description": "For five years, I had been loyal to Things for task management. It was clean, simple, and just worked."
+  },
+  {
+    "Title": "The monorepo: my personal software infrastructure in 2026",
+    "Url": "https://iafisher.com/blog/2026/01/monorepo-2026",
+    "Timestamp": "2026-01-28T01:02:32",
+    "Domain": "iafisher.com",
+    "Description": "A review of the software libraries and tools I have built for my personal use."
+  },
+  {
+    "Title": "I accidentally ended up in Silicon Valley",
+    "Url": "https://iamgio.eu/2025-12-10-accidentally-in-silicon-valley/",
+    "Timestamp": "2026-01-28T01:02:28",
+    "Domain": "iamgio.eu",
+    "Description": "Check out Giorgio Garofalo's blog post"
+  }
+]
