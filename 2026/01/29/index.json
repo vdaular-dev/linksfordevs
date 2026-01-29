@@ -1,5 +1,215 @@
 [
   {
+    "Title": "Private Networking on Hetzner Cloud with Tailscale",
+    "Url": "https://onatm.dev/2026/01/28/private-networking-on-hetzner-cloud-with-tailscale/",
+    "Timestamp": "2026-01-29T02:04:49",
+    "Domain": "onatm.dev",
+    "Description": "This is a follow up to Why I Built My Own Kubernetes Cluster"
+  },
+  {
+    "Title": "Removing analytics from baty.net",
+    "Url": "https://baty.net/posts/2026/01/removing-analytics-from-baty-net/",
+    "Timestamp": "2026-01-29T02:04:45",
+    "Domain": "baty.net",
+    "Description": "AI bots have made site analytics less useful"
+  },
+  {
+    "Title": "It just takes a minute • Ninjas and Robots",
+    "Url": "https://ninjasandrobots.com/have-you-given-up-on-your-new-year-s-resolutions-yet",
+    "Timestamp": "2026-01-29T02:04:42",
+    "Domain": "ninjasandrobots.com",
+    "Description": "Have you given up on your New Year’s resolutions yet? It’s January. The gym is packed. It’s impossible to even get to a locker through a sea of people in the locker room. Someone was lamenting on Facebook that our gym was too crowded. They were... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft"
+  },
+  {
+    "Title": "Vibe Coding is an E-Bike for the Mind",
+    "Url": "https://steviep.xyz/txt/vibe-coding",
+    "Timestamp": "2026-01-29T02:04:38",
+    "Domain": "steviep.xyz",
+    "Description": "Vibe Coding is an E-Bike for the Mind"
+  },
+  {
+    "Title": "or How I Learned to Stop Worrying and Love the Chaos",
+    "Url": "https://charly-vibes.github.io/microdancing/en/posts/resonant-coding.html",
+    "Timestamp": "2026-01-29T02:04:35",
+    "Domain": "charly-vibes.github.io",
+    "Description": "There’s a phenomenon that occurs when you stare too\n                long at a screen full of code you don’t understand1. The brain starts\n                doing something similar to what it does when you look at\n                clouds: it searches for patterns, faces, familiar\n                shapes. Except instead of seeing a rabbit or your Aunt\n                Martha’s profile, you start seeing intentions. Purpose.\n                A logic that surely must be there, that has to be there,\n                because someone—or something—wrote it with some goal in\n                mind. The problem is when that something is a language\n                model and the goal was simply to generate the most\n                probable sequence of characters given an input, which,\n                if you stop to think about it with the seriousness it\n                deserves, is a rather disturbing way to create the\n                instructions that will move money, control systems,\n                decide things."
+  },
+  {
+    "Title": "PostgreSQL Performance: Local vs. Network-Attached Storage",
+    "Url": "https://www.ubicloud.com/blog/postgresql-performance-local-vs-network-attached-storage",
+    "Timestamp": "2026-01-29T02:04:32",
+    "Domain": "www.ubicloud.com",
+    "Description": "Cloud storage was built around the limits of old hardware. With NVMe SSDs being faster, cheaper, and more reliable, it's time to rethink PostgreSQL storage."
+  },
+  {
+    "Title": "SQLite in Production? Not So Fast for Complex Queries",
+    "Url": "https://yyhh.org/blog/2026/01/sqlite-in-production-not-so-fast-for-complex-queries/",
+    "Timestamp": "2026-01-29T02:04:28",
+    "Domain": "yyhh.org",
+    "Description": "There is a growing movement to use SQLite for everything. Kent C. Dodds argues for defaulting to SQLite in web development due to its zero-latency reads and minimal operational burden. Wesley Aptekar-Cassels makes a strong case that SQLite works for web apps with large user bases, provided they don't need …"
+  },
+  {
+    "Title": "Getting a custom PyTorch LLM onto the Hugging Face Hub (Transformers: AutoModel, pipeline, and Trainer)",
+    "Url": "https://www.gilesthomas.com/2026/01/custom-automodelforcausallm-frompretrained-models-on-hugging-face",
+    "Timestamp": "2026-01-29T02:04:24",
+    "Domain": "www.gilesthomas.com",
+    "Description": "A worked example of packaging a from-scratch GPT-2-style model for the Hugging Face Hub so it loads via from_pretrained, runs with pipeline, and trains with Trainer -- with notes on tokeniser gotchas."
+  },
+  {
+    "Title": "the browser you trust",
+    "Url": "https://pikseladam.com/29-01-2026-the-browser-you-trust/",
+    "Timestamp": "2026-01-29T02:04:20",
+    "Domain": "pikseladam.com",
+    "Description": "google got fined for recording private conversations and now wants ai to control your browser"
+  },
+  {
+    "Title": "Bogdan's Blog – We Optimized the World to Death",
+    "Url": "https://www.himthe.dev/blog/we-optimized-the-world-to-death",
+    "Timestamp": "2026-01-29T02:04:17",
+    "Domain": "www.himthe.dev",
+    "Description": "We all died in 2020, and now we're in hell."
+  },
+  {
+    "Title": "Claude Code and core dumps",
+    "Url": "https://blog.marcua.net/2026/01/28/claude-code-and-core-dumps.html",
+    "Timestamp": "2026-01-29T02:04:13",
+    "Domain": "blog.marcua.net",
+    "Description": "It’s after dinner on the holidays and you’re on call when a production system alarm starts to go off. After doing some initial investigation, you find that the issue is not a common one you or your team has encountered before, and there are few other collaborators around to turn to. Where do you even start? I was in this situation, and found coding agents to be surprisingly helpful for incident response!"
+  },
+  {
+    "Title": "Why I stopped building products for myself",
+    "Url": "https://yusukez.com/mind-the-gap/",
+    "Timestamp": "2026-01-29T02:04:09",
+    "Domain": "yusukez.com",
+    "Description": "As a developer and entrepreneur, I have made a lot of mistakes. In most cases, my product ideas come from what I want. That is okay. &quot;Build for yourself..."
+  },
+  {
+    "Title": "Geddy Dukes - AI/ML Engineer",
+    "Url": "https://geddydukes.com/blog/tiny-llm",
+    "Timestamp": "2026-01-29T02:04:06",
+    "Domain": "geddydukes.com",
+    "Description": "AI/ML systems engineer who builds production ML infrastructure from first principles. Domain expertise in financial systems, real estate, and regulated environments."
+  },
+  {
+    "Title": "The longest possible chess game, and bounds on the number of possible chess games",
+    "Url": "https://wismuth.com/chess/longest-game.html",
+    "Timestamp": "2026-01-29T02:04:03",
+    "Domain": "wismuth.com",
+    "Description": "The longest possible chess game is 8848.5 moves long. The number of possible chess games is at least 1029241 according to a Monte Carlo simulation, and at most 1034082 according to a calculation."
+  },
+  {
+    "Title": "Turn your phone into a productivity tool",
+    "Url": "https://www.laurieherault.com/articles/turn-your-phone-into-a-productivity-tool",
+    "Timestamp": "2026-01-29T02:04:00",
+    "Domain": "www.laurieherault.com",
+    "Description": "Transform your phone from a distraction into a productivity copilot. Learn how to use Stack, a free tool that helps you complete tasks with timers."
+  },
+  {
+    "Title": "Reinventing the Punch Tape",
+    "Url": "https://psiace.me/posts/reinvent-the-punch-tape/",
+    "Timestamp": "2026-01-29T02:03:57",
+    "Domain": "psiace.me",
+    "Description": "An Agent has only one deterministic session. It is perpetual—never ending, never forking, only moving forward."
+  },
+  {
+    "Title": "I left my own startup to not become my father.",
+    "Url": "https://paoramen.fika.bar/i-left-my-own-startup-to-not-become-my-father-01KE0APPFWQTMY86QAYAXSSBD3",
+    "Timestamp": "2026-01-29T02:03:53",
+    "Domain": "paoramen.fika.bar",
+    "Description": "I failed. I am back at work."
+  },
+  {
+    "Title": "What We Talk About When We Talk About Agent Infra",
+    "Url": "https://me.0xffff.me/agent_infra.html",
+    "Timestamp": "2026-01-29T02:03:46",
+    "Domain": "me.0xffff.me",
+    "Description": "Examining what Agent Infrastructure really means from an infrastructure builder's perspective"
+  },
+  {
+    "Title": "My Ridiculously Robust Photo Management System (Immich Edition)",
+    "Url": "https://jaisenmathai.com/articles/my-ridiculously-robust-photo-management-system-immich-edition/",
+    "Timestamp": "2026-01-29T02:03:43",
+    "Domain": "jaisenmathai.com",
+    "Description": "How I added Immich to my already robust photo management system to make it ridiculously robust."
+  },
+  {
+    "Title": "What Machines Want",
+    "Url": "http://www.miskatonian.com/2026/01/26/do-machines-have-desires-a-philosophical-critique-of-the-ai-revolution-by-duncan-reyburn/",
+    "Timestamp": "2026-01-29T02:03:38",
+    "Domain": "www.miskatonian.com",
+    "Description": "Duncan Reyburn challenges the \"cyborg theocracy\" by applying René Girard’s mimetic theory to AI. Discover why machines don't have desires—and why we must stop imitating them to reclaim our humanity."
+  },
+  {
+    "Title": "Tuning Semantic Search on JFMM.net",
+    "Url": "https://carlkolon.com/2026/01/27/jfmm-semantic-search/",
+    "Timestamp": "2026-01-29T02:03:31",
+    "Domain": "carlkolon.com",
+    "Description": "Building a web app to search the Joint Fleet Maintenance Manual."
+  },
+  {
+    "Title": "Claude Code tips for large projects",
+    "Url": "https://ziva.sh/blogs/claude-code-tips-large-projects",
+    "Timestamp": "2026-01-29T02:03:28",
+    "Domain": "ziva.sh",
+    "Description": "How we use Claude Code with Skills, VMs, and automated testing to develop Ziva - a GUI plugin for Godot - across multiple parallel development environments."
+  },
+  {
+    "Title": "The worst bug I've seen so far in Claude Code",
+    "Url": "https://dwyer.co.za/static/the-worst-bug-ive-seen-in-claude-code.html",
+    "Timestamp": "2026-01-29T02:03:24",
+    "Domain": "dwyer.co.za",
+    "Description": "I’ve been an advocate of pushing the boundaries of what people usually regard as ‘safe’ when it comes to coding agents. I’ve been running Claude and a few others locally and on some low-importance production servers with --dangerously-skip-permissions or equivalent since around June last year, and I’ve taken my eye off them even more since December when they saw a huge capability increase."
+  },
+  {
+    "Title": "Pipelining and prefetching: a 45% speedup story",
+    "Url": "https://sebastiano.tronto.net/blog/2026-01-28-prefetch/",
+    "Timestamp": "2026-01-29T02:03:09",
+    "Domain": "sebastiano.tronto.net",
+    "Description": "In this blog post I want show you an impressive performance optimization\ntrick that I have recently come up with. Well, at least I was impressed;\nyour mileage may vary."
+  },
+  {
+    "Title": "Reflections of a Developer on LLMs in January 2026",
+    "Url": "https://rmoff.net/2026/01/27/reflections-of-a-developer-on-llms-in-january-2026/",
+    "Timestamp": "2026-01-29T02:03:01",
+    "Domain": "rmoff.net",
+    "Description": ""
+  },
+  {
+    "Title": "Vibe coding is making design patterns worth it again - King's Path by thefakeborzi",
+    "Url": "https://thefakeborzi.itch.io/tower-chess/devlog/1334091/vibe-coding-is-making-design-patterns-worth-it-again",
+    "Timestamp": "2026-01-29T02:02:56",
+    "Domain": "thefakeborzi.itch.io",
+    "Description": "When I started programming, I wanted to learn everything about design patterns. After all, architecture and design seems to follow the ethos of \"work smart, not hard\" at a glance - think of what you w..."
+  },
+  {
+    "Title": "Claude Code and executive function",
+    "Url": "https://til.andrew-quinn.me/posts/claude-code-and-executive-function/",
+    "Timestamp": "2026-01-29T02:02:53",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "I have a suspicion - and let me be clear, that’s all this is, a suspicion,\nI am taking my own claims even more lightly than usual here - that Claude Code\nmakes most people’s lives better, but it makes the lives of those who struggle with executive\nfunction much better.\nWhen I have a problem to solve nowadays, I type c, then Enter. This alias opens up a fresh tmux\nwindow with 4 separate instances of Claude Code. Then I just… pick one and describe the problem\nI’m thinking about, and hit Enter again. The loop begins, and suddenly I am collaborating alongside\nthe closest thing to an IRL deus ex machina I’ve ever seen, for the cost of a few keystrokes."
+  },
+  {
+    "Title": "Your codebase is the prompt - exe.dev blog",
+    "Url": "https://blog.exe.dev/codebase-as-prompt",
+    "Timestamp": "2026-01-29T02:02:49",
+    "Domain": "blog.exe.dev",
+    "Description": "When Claude writes code you don't like, ask what it saw, not what it did."
+  },
+  {
+    "Title": "Speeding up Pillow's open and save",
+    "Url": "https://hugovk.dev/blog/2026/faster-pillow/",
+    "Timestamp": "2026-01-29T02:02:46",
+    "Domain": "hugovk.dev",
+    "Description": "I tried out\nTachyon,\nthe new “high-frequency statistical sampling profiler” coming in\nPython 3.15, to see if we can\nspeed up the Pillow imaging library. I started with a simple script to open an image:"
+  },
+  {
+    "Title": "Please Don’t Say Mean Things about the AI That I Just Invested a Billion Dollars In",
+    "Url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+    "Timestamp": "2026-01-29T02:02:42",
+    "Domain": "www.mcsweeneys.net",
+    "Description": "“[Nvidia CEO] Jensen Huang Is Begging You to Stop Being So Negative About AI” — Headline from Gizmodo\n- - —\nGuys, enough is enough. Bullying is a s..."
+  },
+  {
     "Title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance over Mar-a-Lago using AF2 ICAO identity",
     "Url": "https://alecmuffett.com/article/143548",
     "Timestamp": "2026-01-29T01:02:30",
