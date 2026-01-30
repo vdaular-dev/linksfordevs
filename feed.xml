@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing OpenClaw — OpenClaw Blog</title>
+      <link>https://openclaw.ai/blog/introducing-openclaw</link>
+      <description>The journey from Clawd to Moltbot to OpenClaw—and why this name is here to stay.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://openclaw.ai/blog/introducing-openclaw</guid>
+      <pubDate>Fri, 30 Jan 2026 12:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Don't Understand Things Better, You Just Feel Smarter</title>
+      <link>https://idiallo.com/blog/large-language-models-make-us-feel-smarter?src=feed</link>
+      <description>After watching a Veritasium video, I feel a surge of intellectual confidence. I feel smarter. Whether it's a video on lasers or quantum physics, it seems like I have a better grasp on the subject. I f</description>
+      <category>encryption</category>
+      <category>youtube</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/large-language-models-make-us-feel-smarter?src=feed</guid>
+      <pubDate>Fri, 30 Jan 2026 12:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>How AI Impacts Skill Formation</title>
       <link>https://arxiv.org/abs/2601.20245</link>
       <description>AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.</description>
@@ -211,37 +230,6 @@ Devices with built-in rechargeable batteries have been bugging me a lot lately. 
       <category>encryption</category>
       <guid>https://blog.ncase.me/on-depression/</guid>
       <pubDate>Thu, 29 Jan 2026 13:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Europe’s next-generation weather satellite sends back first images</title>
-      <link>https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</link>
-      <description>The first images from the Meteosat Third Generation-Sounder satellite have been shared at the European Space Conference in Brussels, showing how the mission will provide data on temperature and humidity, for more accurate weather forecasting over Europe and northern Africa.</description>
-      <category>gaming</category>
-      <guid>https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</guid>
-      <pubDate>Thu, 29 Jan 2026 12:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Boolean Trick No C# Developer Knows About</title>
-      <link>https://youtube.com/watch?v=g-nfvnxLAVo</link>
-      <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
-
-Hello, everybody. I'm Nick, and in this video, I will introduce you to the most cursed feature you can do with booleans in C#. It's pretty insane, so buckle up.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>sql</category>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=g-nfvnxLAVo</guid>
-      <pubDate>Thu, 29 Jan 2026 12:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

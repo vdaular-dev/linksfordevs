@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Introducing OpenClaw — OpenClaw Blog",
+    "Url": "https://openclaw.ai/blog/introducing-openclaw",
+    "Timestamp": "2026-01-30T12:02:11",
+    "Domain": "openclaw.ai",
+    "Description": "The journey from Clawd to Moltbot to OpenClaw—and why this name is here to stay.",
+    "Confidence": 0.965778
+  },
+  {
+    "Title": "You Don't Understand Things Better, You Just Feel Smarter",
+    "Url": "https://idiallo.com/blog/large-language-models-make-us-feel-smarter?src=feed",
+    "Timestamp": "2026-01-30T12:02:07",
+    "Domain": "idiallo.com",
+    "Description": "After watching a Veritasium video, I feel a surge of intellectual confidence. I feel smarter. Whether it's a video on lasers or quantum physics, it seems like I have a better grasp on the subject. I f",
+    "Confidence": 0.97420746
+  },
+  {
     "Title": "How AI Impacts Skill Formation",
     "Url": "https://arxiv.org/abs/2601.20245",
     "Timestamp": "2026-01-30T08:02:02",
@@ -182,21 +198,5 @@
     "Domain": "blog.ncase.me",
     "Description": "A lay-friendly science explainer (⏱️ 22 min read)",
     "Confidence": 0.94775385
-  },
-  {
-    "Title": "Europe’s next-generation weather satellite sends back first images",
-    "Url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
-    "Timestamp": "2026-01-29T12:02:12",
-    "Domain": "www.esa.int",
-    "Description": "The first images from the Meteosat Third Generation-Sounder satellite have been shared at the European Space Conference in Brussels, showing how the mission will provide data on temperature and humidity, for more accurate weather forecasting over Europe and northern Africa.",
-    "Confidence": 0.9445856
-  },
-  {
-    "Title": "The Boolean Trick No C# Developer Knows About",
-    "Url": "https://youtube.com/watch?v=g-nfvnxLAVo",
-    "Timestamp": "2026-01-29T12:02:07",
-    "Domain": "youtube.com",
-    "Description": "Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&promo=youtube\n\nHello, everybody. I'm Nick, and in this video, I will introduce you to the most cursed feature you can do with booleans in C#. It's pretty insane, so buckle up.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
-    "Confidence": 0.98988396
   }
 ]
