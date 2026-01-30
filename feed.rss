@@ -7,6 +7,117 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Connect your past, present &amp; future, with lines on a graph</title>
+      <link>https://blog.ncase.me/lines-on-a-graph/</link>
+      <description>An ode to spreadsheets</description>
+      <category>ai</category>
+      <guid>https://blog.ncase.me/lines-on-a-graph/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everyone Has Email. Almost Nobody Uses It Right</title>
+      <link>https://kaplich.me/essays/email</link>
+      <description>A practical guide to mastering email - the most important tool on the internet. Learn why email still matters and how to use it effectively.</description>
+      <guid>https://kaplich.me/essays/email</guid>
+      <pubDate>Fri, 30 Jan 2026 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>How British Queues Got Out of Hand</title>
+      <link>https://timharford.com/2026/01/how-british-queues-got-out-of-hand/</link>
+      <description>As a way of dealing with high demand, the age-old practice of forming a long, orderly queue has something to be said for it: simplicity, transparency and equal treatment for all. But no matter how …</description>
+      <guid>https://timharford.com/2026/01/how-british-queues-got-out-of-hand/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Atomic variables are not only about atomicity</title>
+      <link>https://sander.saares.eu/2026/01/25/atomic-variables-are-not-only-about-atomicity/</link>
+      <description>The code compiles. All the tests pass. The staging environment is healthy. Yet once per day a few servers in the production fleet mysteriously observe a crash with an error message that makes no se…</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://sander.saares.eu/2026/01/25/atomic-variables-are-not-only-about-atomicity/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone Claude full stack dev - no VPN, no remote desktop</title>
+      <link>https://blog.rchase.com/iphone-claude-full-stack-dev-no-vpn-no-remote-desktop/</link>
+      <description>This is not going to be a guide on how to use Cursor web agents or the Claude Code iOS app because those are too limited in functionality.
+
+The problem with those is you can't view the changes locally, you have to interact with the GitHub repo directly and push</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://blog.rchase.com/iphone-claude-full-stack-dev-no-vpn-no-remote-desktop/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to, mostly, guarantee success in your career</title>
+      <link>https://www.elliotcsmith.com/how-to-mostly-guarantee-success-in-your-career/</link>
+      <description>Over my career so far I have done a lot of different things. I've written code, designed PCBs and MRI machines, run Google ads, been out on the road doing sales and managed teams doing all of the above. Overall, regardless of the job at hand, I think I've found</description>
+      <category>ai</category>
+      <guid>https://www.elliotcsmith.com/how-to-mostly-guarantee-success-in-your-career/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Something that I used to love</title>
+      <link>https://andreapivetta.com/posts/something-that-i-used-to-love.html</link>
+      <description>One evening, over 13 years ago, I took some trivial CLI program the professor showed us that day and built an Android app out of it.</description>
+      <category>android</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://andreapivetta.com/posts/something-that-i-used-to-love.html</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla Slopaganda</title>
+      <link>https://dbushell.com/2026/01/28/mozilla-slopaganda/</link>
+      <description>The one where I question reality</description>
+      <category>ai</category>
+      <guid>https://dbushell.com/2026/01/28/mozilla-slopaganda/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Managing Through Reorganizations | Gergely Nemeth</title>
+      <link>https://nemethgergely.com/blog/managing-through-reorganizations</link>
+      <description>How to communicate reorganizations effectively: lead with direct conversations, own the narrative, and remember that how you treat people during change matters the most.</description>
+      <guid>https://nemethgergely.com/blog/managing-through-reorganizations</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Dark Software Fabric: Engineering the Invisible System That Builds Your Software</title>
+      <link>https://www.julianmwagner.com/articles/dark-software-fabric</link>
+      <description>The verification hierarchy from the Ralph Loop is the theory. The Dark Software Fabric is the implementation — a layered enforcement system from type checking to autonomous AI agents that lets software get built 24/7 without sacrificing quality.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://www.julianmwagner.com/articles/dark-software-fabric</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The hidden costs of additions to a system</title>
+      <link>https://leomax.fyi/blog/the-hidden-costs-of-additions-to-a-system/</link>
+      <description>In this sample chapter from Your Code Is Not The Most Important Thing In The World we explore the tendency towards adding complexity instead of reducing it</description>
+      <author> (Leonardo Max Almeida)</author>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://leomax.fyi/blog/the-hidden-costs-of-additions-to-a-system/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Recovering SSH on a Headless Raspberry Pi Through a Privileged Docker Container</title>
+      <link>https://www.theeggeadventure.com/2026/01/recovering-ssh-on-a-headless-raspberry-pi-through-a-privileged-docker-container/</link>
+      <description>I run a Raspberry Pi in my unheated garage, wired to a garage door controller via Z-Wave. No monitor, no keyboard — just SSH. So when a botched OS upgrade killed SSH, I had to get creative. The Set…</description>
+      <category>nodejs</category>
+      <category>conference</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://www.theeggeadventure.com/2026/01/recovering-ssh-on-a-headless-raspberry-pi-through-a-privileged-docker-container/</guid>
+      <pubDate>Fri, 30 Jan 2026 01:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>superkacper4</title>
       <link>https://superkacper4.github.io/portfolio-2023/blog/technical-debt-everyday</link>
       <description>Web site created using create-react-app</description>
@@ -435,13 +546,6 @@ Guys, enough is enough. Bullying is a s...</description>
       <category>ai</category>
       <guid>https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in</guid>
       <pubDate>Thu, 29 Jan 2026 02:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Somebody used spoofed ADSB signals to raster the meme of JD Vance over Mar-a-Lago using AF2 ICAO identity</title>
-      <link>https://alecmuffett.com/article/143548</link>
-      <description>This, if it is still visible: Via: Next up, age verification for ADSB?</description>
-      <guid>https://alecmuffett.com/article/143548</guid>
-      <pubDate>Thu, 29 Jan 2026 01:02:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,101 @@
 [
   {
+    "Title": "Connect your past, present & future, with lines on a graph",
+    "Url": "https://blog.ncase.me/lines-on-a-graph/",
+    "Timestamp": "2026-01-30T01:03:05",
+    "Domain": "blog.ncase.me",
+    "Description": "An ode to spreadsheets",
+    "Confidence": 0.98622453
+  },
+  {
+    "Title": "Everyone Has Email. Almost Nobody Uses It Right",
+    "Url": "https://kaplich.me/essays/email",
+    "Timestamp": "2026-01-30T01:03:02",
+    "Domain": "kaplich.me",
+    "Description": "A practical guide to mastering email - the most important tool on the internet. Learn why email still matters and how to use it effectively.",
+    "Confidence": 0.9709437
+  },
+  {
+    "Title": "How British Queues Got Out of Hand",
+    "Url": "https://timharford.com/2026/01/how-british-queues-got-out-of-hand/",
+    "Timestamp": "2026-01-30T01:02:58",
+    "Domain": "timharford.com",
+    "Description": "As a way of dealing with high demand, the age-old practice of forming a long, orderly queue has something to be said for it: simplicity, transparency and equal treatment for all. But no matter how …",
+    "Confidence": 0.8177657
+  },
+  {
+    "Title": "Atomic variables are not only about atomicity",
+    "Url": "https://sander.saares.eu/2026/01/25/atomic-variables-are-not-only-about-atomicity/",
+    "Timestamp": "2026-01-30T01:02:50",
+    "Domain": "sander.saares.eu",
+    "Description": "The code compiles. All the tests pass. The staging environment is healthy. Yet once per day a few servers in the production fleet mysteriously observe a crash with an error message that makes no se…",
+    "Confidence": 0.9938709
+  },
+  {
+    "Title": "iPhone Claude full stack dev - no VPN, no remote desktop",
+    "Url": "https://blog.rchase.com/iphone-claude-full-stack-dev-no-vpn-no-remote-desktop/",
+    "Timestamp": "2026-01-30T01:02:46",
+    "Domain": "blog.rchase.com",
+    "Description": "This is not going to be a guide on how to use Cursor web agents or the Claude Code iOS app because those are too limited in functionality.\n\nThe problem with those is you can't view the changes locally, you have to interact with the GitHub repo directly and push",
+    "Confidence": 0.9987022
+  },
+  {
+    "Title": "How to, mostly, guarantee success in your career",
+    "Url": "https://www.elliotcsmith.com/how-to-mostly-guarantee-success-in-your-career/",
+    "Timestamp": "2026-01-30T01:02:43",
+    "Domain": "www.elliotcsmith.com",
+    "Description": "Over my career so far I have done a lot of different things. I've written code, designed PCBs and MRI machines, run Google ads, been out on the road doing sales and managed teams doing all of the above. Overall, regardless of the job at hand, I think I've found",
+    "Confidence": 0.97643
+  },
+  {
+    "Title": "Something that I used to love",
+    "Url": "https://andreapivetta.com/posts/something-that-i-used-to-love.html",
+    "Timestamp": "2026-01-30T01:02:40",
+    "Domain": "andreapivetta.com",
+    "Description": "One evening, over 13 years ago, I took some trivial CLI program the professor showed us that day and built an Android app out of it.",
+    "Confidence": 0.95379084
+  },
+  {
+    "Title": "Mozilla Slopaganda",
+    "Url": "https://dbushell.com/2026/01/28/mozilla-slopaganda/",
+    "Timestamp": "2026-01-30T01:02:37",
+    "Domain": "dbushell.com",
+    "Description": "The one where I question reality",
+    "Confidence": 0.90450484
+  },
+  {
+    "Title": "Managing Through Reorganizations | Gergely Nemeth",
+    "Url": "https://nemethgergely.com/blog/managing-through-reorganizations",
+    "Timestamp": "2026-01-30T01:02:34",
+    "Domain": "nemethgergely.com",
+    "Description": "How to communicate reorganizations effectively: lead with direct conversations, own the narrative, and remember that how you treat people during change matters the most.",
+    "Confidence": 0.9443137
+  },
+  {
+    "Title": "The Dark Software Fabric: Engineering the Invisible System That Builds Your Software",
+    "Url": "https://www.julianmwagner.com/articles/dark-software-fabric",
+    "Timestamp": "2026-01-30T01:02:30",
+    "Domain": "www.julianmwagner.com",
+    "Description": "The verification hierarchy from the Ralph Loop is the theory. The Dark Software Fabric is the implementation — a layered enforcement system from type checking to autonomous AI agents that lets software get built 24/7 without sacrificing quality.",
+    "Confidence": 0.9932282
+  },
+  {
+    "Title": "The hidden costs of additions to a system",
+    "Url": "https://leomax.fyi/blog/the-hidden-costs-of-additions-to-a-system/",
+    "Timestamp": "2026-01-30T01:02:27",
+    "Domain": "leomax.fyi",
+    "Description": "In this sample chapter from Your Code Is Not The Most Important Thing In The World we explore the tendency towards adding complexity instead of reducing it",
+    "Confidence": 0.9645223
+  },
+  {
+    "Title": "Recovering SSH on a Headless Raspberry Pi Through a Privileged Docker Container",
+    "Url": "https://www.theeggeadventure.com/2026/01/recovering-ssh-on-a-headless-raspberry-pi-through-a-privileged-docker-container/",
+    "Timestamp": "2026-01-30T01:02:22",
+    "Domain": "www.theeggeadventure.com",
+    "Description": "I run a Raspberry Pi in my unheated garage, wired to a garage door controller via Z-Wave. No monitor, no keyboard — just SSH. So when a botched OS upgrade killed SSH, I had to get creative. The Set…",
+    "Confidence": 0.99733424
+  },
+  {
     "Title": "superkacper4",
     "Url": "https://superkacper4.github.io/portfolio-2023/blog/technical-debt-everyday",
     "Timestamp": "2026-01-29T23:02:19",
@@ -334,13 +430,5 @@
     "Domain": "www.mcsweeneys.net",
     "Description": "“[Nvidia CEO] Jensen Huang Is Begging You to Stop Being So Negative About AI” — Headline from Gizmodo\n- - —\nGuys, enough is enough. Bullying is a s...",
     "Confidence": 0.9313054
-  },
-  {
-    "Title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance over Mar-a-Lago using AF2 ICAO identity",
-    "Url": "https://alecmuffett.com/article/143548",
-    "Timestamp": "2026-01-29T01:02:30",
-    "Domain": "alecmuffett.com",
-    "Description": "This, if it is still visible: Via: Next up, age verification for ADSB?",
-    "Confidence": 0.9873284
   }
 ]
