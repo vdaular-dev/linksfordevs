@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Proof Without Content</title>
+      <link>https://xkcd.com/3201/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3201/</guid>
+      <pubDate>Fri, 30 Jan 2026 18:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>  Netflix Animation Studios joins the Blender Development Fund as Corporate Patron — Blender</title>
       <link>https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/</link>
       <description>A historic first for the animation industry!</description>
@@ -208,30 +216,6 @@ The problem with those is you can't view the changes locally, you have to intera
       <category>ai</category>
       <guid>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</guid>
       <pubDate>Thu, 29 Jan 2026 21:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>The teammate who asks too many questions is the one you need</title>
-      <link>https://leadthroughmistakes.substack.com/p/the-teammate-who-asks-too-many-questions</link>
-      <description>How to stop treating questions as interruptions and start seeing them as gifts</description>
-      <guid>https://leadthroughmistakes.substack.com/p/the-teammate-who-asks-too-many-questions</guid>
-      <pubDate>Thu, 29 Jan 2026 18:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Opus 4.5 Performance Tracker | Marginlab</title>
-      <link>https://marginlab.ai/trackers/claude-code/</link>
-      <description>Track Claude Code's daily performance on SWE-Bench-Pro. Monitor for degradation with statistical significance testing.</description>
-      <category>ai</category>
-      <guid>https://marginlab.ai/trackers/claude-code/</guid>
-      <pubDate>Thu, 29 Jan 2026 18:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ode to the AA Battery</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/</link>
-      <description>Recently this post from @Merocle caught my eye:
-I'm fixing my iFixit soldering station. I haven't used it for a long time and the battery has gone overdischarge. I hope it will come back to life. Unfortunately, there are no replacements available for sale at the moment.
-Devices with built-in rechargeable batteries have been bugging me a lot lately. It's convenient to have a device you can take with you and use anywhere. And with modern Li-ion cells, battery life is remarkable.</description>
-      <guid>https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/</guid>
-      <pubDate>Thu, 29 Jan 2026 18:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
