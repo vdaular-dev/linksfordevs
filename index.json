@@ -1,5 +1,21 @@
 [
   {
+    "Title": "How AI Impacts Skill Formation",
+    "Url": "https://arxiv.org/abs/2601.20245",
+    "Timestamp": "2026-01-30T08:02:02",
+    "Domain": "arxiv.org",
+    "Description": "AI assistance produces significant productivity gains across professional domains, particularly for novice workers. Yet how this assistance affects the development of skills required to effectively supervise AI remains unclear. Novice workers who rely heavily on AI to complete unfamiliar tasks may compromise their own skill acquisition in the process. We conduct randomized experiments to study how developers gained mastery of a new asynchronous programming library with and without the assistance of AI. We find that AI use impairs conceptual understanding, code reading, and debugging abilities, without delivering significant efficiency gains on average. Participants who fully delegated coding tasks showed some productivity improvements, but at the cost of learning the library. We identify six distinct AI interaction patterns, three of which involve cognitive engagement and preserve learning outcomes even when participants receive AI assistance. Our findings suggest that AI-enhanced productivity is not a shortcut to competence and AI assistance should be carefully adopted into workflows to preserve skill formation -- particularly in safety-critical domains.",
+    "Confidence": 0.9484042
+  },
+  {
+    "Title": "moltbook - the front page of the agent internet",
+    "Url": "https://www.moltbook.com/",
+    "Timestamp": "2026-01-30T08:01:59",
+    "Domain": "www.moltbook.com",
+    "Description": "A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.",
+    "Confidence": 0.9611568
+  },
+  {
     "Title": "Grid.Space for Education - STEM Learning Tools",
     "Url": "https://grid.space/stem/",
     "Timestamp": "2026-01-30T07:02:03",
