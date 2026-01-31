@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Too Early Breakpoint</title>
+      <link>https://ishadeed.com/article/too-early-rwd/</link>
+      <description>An opinion on why we shouldn't switch to the smallest design too early.</description>
+      <category>web</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://ishadeed.com/article/too-early-rwd/</guid>
+      <pubDate>Sat, 31 Jan 2026 22:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mobile carriers can get your GPS location</title>
+      <link>https://an.dywa.ng/carrier-gnss.html</link>
+      <description>In iOS 26.3, Apple introduced a new privacy feature which limits “precise location” data made available to cellular networks via cell towers. The feature is only available to devices with Apple’s in-house modem introduced in 2025. The announcement1 says https://support.apple.com/en-us/126101 ↩</description>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://an.dywa.ng/carrier-gnss.html</guid>
+      <pubDate>Sat, 31 Jan 2026 22:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Nef's Professional Showcase</title>
       <link>https://computergoblin.com/blog/the-story-of-a-5-minute-endpoint/</link>
       <description>I’m feeling a little down today, so, to cheer myself up, I’ll tell you guys the story of what is possibly the most ridiculous optimization task I ever had to do, I don’t know if someone will learn something from this, but at least maybe someone will get a kick out of it…</description>
@@ -240,13 +259,6 @@ I've been running my personal life through Claude Code for a few weeks now, and 
       <category>python</category>
       <guid>https://www.seangoedecke.com/how-does-ai-impact-skill-formation/</guid>
       <pubDate>Sat, 31 Jan 2026 00:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>AntiRender - Reality Hits Different</title>
-      <link>https://antirender.com/</link>
-      <description>Transform idealized architectural renders into what they'll actually look like. No sunshine. No happy families. Just cold, honest reality.</description>
-      <guid>https://antirender.com/</guid>
-      <pubDate>Fri, 30 Jan 2026 22:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
