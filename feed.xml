@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nef's Professional Showcase</title>
+      <link>https://computergoblin.com/blog/the-story-of-a-5-minute-endpoint/</link>
+      <description>I’m feeling a little down today, so, to cheer myself up, I’ll tell you guys the story of what is possibly the most ridiculous optimization task I ever had to do, I don’t know if someone will learn something from this, but at least maybe someone will get a kick out of it…</description>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://computergoblin.com/blog/the-story-of-a-5-minute-endpoint/</guid>
+      <pubDate>Sat, 31 Jan 2026 20:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - jonathanyly/freegpt: This Extension injects into the translation page of chatgpt (offical chatgpt page), replacing it with a fully functional (its heavily vibecoded (with chatgpt) im not a frontend dev) chatpgt UI. You can choose the model, system and developer prompt in the settings.</title>
       <link>https://github.com/jonathanyly/freegpt</link>
       <description>This Extension injects into the translation page of chatgpt (offical chatgpt page), replacing it with a fully functional (its heavily vibecoded (with chatgpt) im not a frontend dev) chatpgt UI. You...</description>
@@ -238,14 +247,6 @@ I've been running my personal life through Claude Code for a few weeks now, and 
       <description>Transform idealized architectural renders into what they'll actually look like. No sunshine. No happy families. Just cold, honest reality.</description>
       <guid>https://antirender.com/</guid>
       <pubDate>Fri, 30 Jan 2026 22:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>RIP Privacy: Microsoft 365 Now Tracks Your Real-Time Location</title>
-      <link>https://ztechtalk.com/microsoft-teams</link>
-      <description>Microsoft just handed bosses the ultimate tracking tool. Here is why the 'cover for me' excuse is officially dead and how 365 monitors you.</description>
-      <category>apple</category>
-      <guid>https://ztechtalk.com/microsoft-teams</guid>
-      <pubDate>Fri, 30 Jan 2026 20:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

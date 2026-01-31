@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Nef's Professional Showcase",
+    "Url": "https://computergoblin.com/blog/the-story-of-a-5-minute-endpoint/",
+    "Timestamp": "2026-01-31T20:02:14",
+    "Domain": "computergoblin.com",
+    "Description": "I’m feeling a little down today, so, to cheer myself up, I’ll tell you guys the story of what is possibly the most ridiculous optimization task I ever had to do, I don’t know if someone will learn something from this, but at least maybe someone will get a kick out of it…",
+    "Confidence": 0.99296594
+  },
+  {
     "Title": "GitHub - jonathanyly/freegpt: This Extension injects into the translation page of chatgpt (offical chatgpt page), replacing it with a fully functional (its heavily vibecoded (with chatgpt) im not a frontend dev) chatpgt UI. You can choose the model, system and developer prompt in the settings.",
     "Url": "https://github.com/jonathanyly/freegpt",
     "Timestamp": "2026-01-31T17:02:29",
@@ -166,13 +174,5 @@
     "Domain": "antirender.com",
     "Description": "Transform idealized architectural renders into what they'll actually look like. No sunshine. No happy families. Just cold, honest reality.",
     "Confidence": 0.54137665
-  },
-  {
-    "Title": "RIP Privacy: Microsoft 365 Now Tracks Your Real-Time Location",
-    "Url": "https://ztechtalk.com/microsoft-teams",
-    "Timestamp": "2026-01-30T20:02:14",
-    "Domain": "ztechtalk.com",
-    "Description": "Microsoft just handed bosses the ultimate tracking tool. Here is why the 'cover for me' excuse is officially dead and how 365 monitors you.",
-    "Confidence": 0.9477482
   }
 ]
