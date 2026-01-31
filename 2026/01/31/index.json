@@ -1,5 +1,110 @@
 [
   {
+    "Title": "Nobody Cares About Your Code",
+    "Url": "https://ckochx.com/blog/nobody-cares-about-your-code",
+    "Timestamp": "2026-01-31T01:03:42",
+    "Domain": "ckochx.com",
+    "Description": "Not only do they not care—they have never cared."
+  },
+  {
+    "Title": "Why We’ve Tried to Replace Data Analytics Developers Every Decade Since 1974",
+    "Url": "https://blog.rittmananalytics.com/why-weve-tried-to-replace-data-analytics-developers-every-decade-since-1974-5c0de5a05088",
+    "Timestamp": "2026-01-31T01:03:38",
+    "Domain": "blog.rittmananalytics.com",
+    "Description": "Inspired by Stephan Schwab’s article “Why We've Tried to Replace Developers Every Decade Since 1969”, that story could just as well apply…"
+  },
+  {
+    "Title": "A no-bullshit introduction to groups: Part 1.",
+    "Url": "https://iczelia.net/posts/groups/",
+    "Timestamp": "2026-01-31T01:03:32",
+    "Domain": "iczelia.net",
+    "Description": "An algebraic exposition of the basics of abstract algebra. Groups without symmetries."
+  },
+  {
+    "Title": "Learning How to Stop",
+    "Url": "https://josem.co/learning-how-to-stop/",
+    "Timestamp": "2026-01-31T01:03:26",
+    "Domain": "josem.co",
+    "Description": "The internet gave us unlimited opportunities and unlimited people to compare ourselves to. We can build anything, learn anything, become anyone — and yet we've never felt more behind. What if the answer isn't doing more, but finally deciding what's enough?"
+  },
+  {
+    "Title": "Direct Current Data Centers",
+    "Url": "https://caseyhandmer.wordpress.com/2026/01/30/direct-current-data-centers/",
+    "Timestamp": "2026-01-31T01:03:23",
+    "Domain": "caseyhandmer.wordpress.com",
+    "Description": "Casey Handmer, Matt Weickert Originally posted at the Terraform Blog. This post explains our current views on how humanity will achieve Kardashev Level 1 status by exploiting the full energy resour…"
+  },
+  {
+    "Title": "Building an eBPF Transparent Proxy - jnfrati",
+    "Url": "https://jnfrati.dev/posts/ebpf-transparent-proxy/",
+    "Timestamp": "2026-01-31T01:03:19",
+    "Domain": "jnfrati.dev",
+    "Description": "A deep dive into building transparent proxies using eBPF, Go, and cgroup hooks to intercept TCP connections at the kernel level."
+  },
+  {
+    "Title": "Steve Turbek: Make It Go! Designing Interactive Graphics with AI Code Help",
+    "Url": "https://turbek.com/Designing-Interactive-SVGs-with-AI/",
+    "Timestamp": "2026-01-31T01:03:16",
+    "Domain": "turbek.com",
+    "Description": "A short intro for designers on making interactive SVGs with AI help."
+  },
+  {
+    "Title": "Carl Öst Wilkens´ Blog - Why games made by (only) LLM suck",
+    "Url": "https://ostwilkens.se/blog/llm-games-suck",
+    "Timestamp": "2026-01-31T01:03:11",
+    "Domain": "ostwilkens.se",
+    "Description": "A place for me to vent about my current obsessions."
+  },
+  {
+    "Title": "How Replacing Developers With AI is Going Horribly Wrong",
+    "Url": "https://youtu.be/ts0nH_pSAdM",
+    "Timestamp": "2026-01-31T01:03:06",
+    "Domain": "youtu.be",
+    "Description": "How Replacing Developers With AI is Going Horribly Wrong\n\nIn recent years, many predicted that artificial intelligence would replace most software developers by the mid-2020s. However, evidence from 2024 and 2025 shows the opposite trend: companies are rehiring developers after realizing AI’s limitations. \n\nWhile AI tools can speed up simple and repetitive tasks, their performance declines in real production environments. Studies reveal that AI-generated code is more repetitive, less robust, and significantly more vulnerable to security flaws. \n\nSenior developers often lose productivity correcting AI output. High-profile failures and security incidents demonstrate that AI cannot replace human judgment, but can only support developers by handling routine tasks.\n\n\nCHAPTERS:\n0:18 Developer Hiring\n1:47 Tech Layoffs\n2:05 Software Jobs\n2:42 Job Market Shift\n3:10 AI And Employment\n3:55 Tech Workforce\n4:28 Engineering Roles\n5:06 Developer Demand\n6:12 Automation Impact\n7:48 Tech Job Market\n\nExecutive Producer: Danny Pasquel\nProduced by: Samantha Harvey\nEdited by: Jacob Smith\nAnimation: Charlotte Brown\nAdditional Footage: Getty Images\n\n» Subscribe to Economy Media: https://www.youtube.com/channel/UCc8q4B1bj-668LMHyNXnTxQ?sub_confirmation=1\n\n\nConect With Economy Media Everywhere\nFollow Economy Media on Instagram: https://n9.cl/economymedia\n\n#economymedia #ai #tech"
+  },
+  {
+    "Title": "NVIDIA TileIR Internals: from CuTile to MLIR/LLVM to SASS",
+    "Url": "https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/",
+    "Timestamp": "2026-01-31T01:03:03",
+    "Domain": "maknee.github.io",
+    "Description": "Personal website for some random tidbits I work on"
+  },
+  {
+    "Title": "In Solidarity",
+    "Url": "https://blog.ericyd.com/in-solidarity/",
+    "Timestamp": "2026-01-31T01:02:45",
+    "Domain": "blog.ericyd.com",
+    "Description": "ICE is committing crimes against humanity. It must stop."
+  },
+  {
+    "Title": "RTE - Return to Emacs",
+    "Url": "https://michal.sapka.pl/weblog/2026/rte-return-to-emacs/",
+    "Timestamp": "2026-01-31T01:02:42",
+    "Domain": "michal.sapka.pl",
+    "Description": "tmp "
+  },
+  {
+    "Title": "The instruction that turns Claude into a self-improving system",
+    "Url": "https://jngiam.bearblog.dev/the-instruction-that-turns-claude-into-a-self-improving-system/",
+    "Timestamp": "2026-01-31T01:02:37",
+    "Domain": "jngiam.bearblog.dev",
+    "Description": "\n\n\nI've been running my personal life through Claude Code for a few weeks now, and one instruction is key to how the whole system works: auto-logging. Inste..."
+  },
+  {
+    "Title": "Building a search engine for the ASX",
+    "Url": "https://damonphilipross.github.io/2026/01/28/building-a-search-engine-for-the-asx/",
+    "Timestamp": "2026-01-31T01:02:33",
+    "Domain": "damonphilipross.github.io",
+    "Description": "Thoughts on tech, product, and building things."
+  },
+  {
+    "Title": "Surfel-based global illumination on the web",
+    "Url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "Timestamp": "2026-01-31T01:02:30",
+    "Domain": "juretriglav.si",
+    "Description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!"
+  },
+  {
     "Title": "How does AI impact skill formation?",
     "Url": "https://www.seangoedecke.com/how-does-ai-impact-skill-formation/",
     "Timestamp": "2026-01-31T00:02:15",

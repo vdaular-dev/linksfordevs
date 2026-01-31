@@ -1,5 +1,125 @@
 [
   {
+    "Title": "Nobody Cares About Your Code",
+    "Url": "https://ckochx.com/blog/nobody-cares-about-your-code",
+    "Timestamp": "2026-01-31T01:03:42",
+    "Domain": "ckochx.com",
+    "Description": "Not only do they not care—they have never cared.",
+    "Confidence": 0.9955624
+  },
+  {
+    "Title": "Why We’ve Tried to Replace Data Analytics Developers Every Decade Since 1974",
+    "Url": "https://blog.rittmananalytics.com/why-weve-tried-to-replace-data-analytics-developers-every-decade-since-1974-5c0de5a05088",
+    "Timestamp": "2026-01-31T01:03:38",
+    "Domain": "blog.rittmananalytics.com",
+    "Description": "Inspired by Stephan Schwab’s article “Why We've Tried to Replace Developers Every Decade Since 1969”, that story could just as well apply…",
+    "Confidence": 0.970704
+  },
+  {
+    "Title": "A no-bullshit introduction to groups: Part 1.",
+    "Url": "https://iczelia.net/posts/groups/",
+    "Timestamp": "2026-01-31T01:03:32",
+    "Domain": "iczelia.net",
+    "Description": "An algebraic exposition of the basics of abstract algebra. Groups without symmetries.",
+    "Confidence": 0.9942844
+  },
+  {
+    "Title": "Learning How to Stop",
+    "Url": "https://josem.co/learning-how-to-stop/",
+    "Timestamp": "2026-01-31T01:03:26",
+    "Domain": "josem.co",
+    "Description": "The internet gave us unlimited opportunities and unlimited people to compare ourselves to. We can build anything, learn anything, become anyone — and yet we've never felt more behind. What if the answer isn't doing more, but finally deciding what's enough?",
+    "Confidence": 0.9750327
+  },
+  {
+    "Title": "Direct Current Data Centers",
+    "Url": "https://caseyhandmer.wordpress.com/2026/01/30/direct-current-data-centers/",
+    "Timestamp": "2026-01-31T01:03:23",
+    "Domain": "caseyhandmer.wordpress.com",
+    "Description": "Casey Handmer, Matt Weickert Originally posted at the Terraform Blog. This post explains our current views on how humanity will achieve Kardashev Level 1 status by exploiting the full energy resour…",
+    "Confidence": 0.9831772
+  },
+  {
+    "Title": "Building an eBPF Transparent Proxy - jnfrati",
+    "Url": "https://jnfrati.dev/posts/ebpf-transparent-proxy/",
+    "Timestamp": "2026-01-31T01:03:19",
+    "Domain": "jnfrati.dev",
+    "Description": "A deep dive into building transparent proxies using eBPF, Go, and cgroup hooks to intercept TCP connections at the kernel level.",
+    "Confidence": 0.99462634
+  },
+  {
+    "Title": "Steve Turbek: Make It Go! Designing Interactive Graphics with AI Code Help",
+    "Url": "https://turbek.com/Designing-Interactive-SVGs-with-AI/",
+    "Timestamp": "2026-01-31T01:03:16",
+    "Domain": "turbek.com",
+    "Description": "A short intro for designers on making interactive SVGs with AI help.",
+    "Confidence": 0.9938964
+  },
+  {
+    "Title": "Carl Öst Wilkens´ Blog - Why games made by (only) LLM suck",
+    "Url": "https://ostwilkens.se/blog/llm-games-suck",
+    "Timestamp": "2026-01-31T01:03:11",
+    "Domain": "ostwilkens.se",
+    "Description": "A place for me to vent about my current obsessions.",
+    "Confidence": 0.9688248
+  },
+  {
+    "Title": "How Replacing Developers With AI is Going Horribly Wrong",
+    "Url": "https://youtu.be/ts0nH_pSAdM",
+    "Timestamp": "2026-01-31T01:03:06",
+    "Domain": "youtu.be",
+    "Description": "How Replacing Developers With AI is Going Horribly Wrong\n\nIn recent years, many predicted that artificial intelligence would replace most software developers by the mid-2020s. However, evidence from 2024 and 2025 shows the opposite trend: companies are rehiring developers after realizing AI’s limitations. \n\nWhile AI tools can speed up simple and repetitive tasks, their performance declines in real production environments. Studies reveal that AI-generated code is more repetitive, less robust, and significantly more vulnerable to security flaws. \n\nSenior developers often lose productivity correcting AI output. High-profile failures and security incidents demonstrate that AI cannot replace human judgment, but can only support developers by handling routine tasks.\n\n\nCHAPTERS:\n0:18 Developer Hiring\n1:47 Tech Layoffs\n2:05 Software Jobs\n2:42 Job Market Shift\n3:10 AI And Employment\n3:55 Tech Workforce\n4:28 Engineering Roles\n5:06 Developer Demand\n6:12 Automation Impact\n7:48 Tech Job Market\n\nExecutive Producer: Danny Pasquel\nProduced by: Samantha Harvey\nEdited by: Jacob Smith\nAnimation: Charlotte Brown\nAdditional Footage: Getty Images\n\n» Subscribe to Economy Media: https://www.youtube.com/channel/UCc8q4B1bj-668LMHyNXnTxQ?sub_confirmation=1\n\n\nConect With Economy Media Everywhere\nFollow Economy Media on Instagram: https://n9.cl/economymedia\n\n#economymedia #ai #tech",
+    "Confidence": 0.96611255
+  },
+  {
+    "Title": "NVIDIA TileIR Internals: from CuTile to MLIR/LLVM to SASS",
+    "Url": "https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/",
+    "Timestamp": "2026-01-31T01:03:03",
+    "Domain": "maknee.github.io",
+    "Description": "Personal website for some random tidbits I work on",
+    "Confidence": 0.9921503
+  },
+  {
+    "Title": "In Solidarity",
+    "Url": "https://blog.ericyd.com/in-solidarity/",
+    "Timestamp": "2026-01-31T01:02:45",
+    "Domain": "blog.ericyd.com",
+    "Description": "ICE is committing crimes against humanity. It must stop.",
+    "Confidence": 0.6623283
+  },
+  {
+    "Title": "RTE - Return to Emacs",
+    "Url": "https://michal.sapka.pl/weblog/2026/rte-return-to-emacs/",
+    "Timestamp": "2026-01-31T01:02:42",
+    "Domain": "michal.sapka.pl",
+    "Description": "tmp ",
+    "Confidence": 0.9832375
+  },
+  {
+    "Title": "The instruction that turns Claude into a self-improving system",
+    "Url": "https://jngiam.bearblog.dev/the-instruction-that-turns-claude-into-a-self-improving-system/",
+    "Timestamp": "2026-01-31T01:02:37",
+    "Domain": "jngiam.bearblog.dev",
+    "Description": "\n\n\nI've been running my personal life through Claude Code for a few weeks now, and one instruction is key to how the whole system works: auto-logging. Inste...",
+    "Confidence": 0.99174446
+  },
+  {
+    "Title": "Building a search engine for the ASX",
+    "Url": "https://damonphilipross.github.io/2026/01/28/building-a-search-engine-for-the-asx/",
+    "Timestamp": "2026-01-31T01:02:33",
+    "Domain": "damonphilipross.github.io",
+    "Description": "Thoughts on tech, product, and building things.",
+    "Confidence": 0.8997357
+  },
+  {
+    "Title": "Surfel-based global illumination on the web",
+    "Url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+    "Timestamp": "2026-01-31T01:02:30",
+    "Domain": "juretriglav.si",
+    "Description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!",
+    "Confidence": 0.97454804
+  },
+  {
     "Title": "How does AI impact skill formation?",
     "Url": "https://www.seangoedecke.com/how-does-ai-impact-skill-formation/",
     "Timestamp": "2026-01-31T00:02:15",
@@ -94,101 +214,5 @@
     "Domain": "redgamingtech.com",
     "Description": "The PlayStation 2’s library is easily among the best of any console ever released, and even if you were to narrow down the list of games to the very best, you’d be left with dozens (more like hundreds) of incredible titles.",
     "Confidence": 0.9951858
-  },
-  {
-    "Title": "Connect your past, present & future, with lines on a graph",
-    "Url": "https://blog.ncase.me/lines-on-a-graph/",
-    "Timestamp": "2026-01-30T01:03:05",
-    "Domain": "blog.ncase.me",
-    "Description": "An ode to spreadsheets",
-    "Confidence": 0.98622453
-  },
-  {
-    "Title": "Everyone Has Email. Almost Nobody Uses It Right",
-    "Url": "https://kaplich.me/essays/email",
-    "Timestamp": "2026-01-30T01:03:02",
-    "Domain": "kaplich.me",
-    "Description": "A practical guide to mastering email - the most important tool on the internet. Learn why email still matters and how to use it effectively.",
-    "Confidence": 0.9709437
-  },
-  {
-    "Title": "How British Queues Got Out of Hand",
-    "Url": "https://timharford.com/2026/01/how-british-queues-got-out-of-hand/",
-    "Timestamp": "2026-01-30T01:02:58",
-    "Domain": "timharford.com",
-    "Description": "As a way of dealing with high demand, the age-old practice of forming a long, orderly queue has something to be said for it: simplicity, transparency and equal treatment for all. But no matter how …",
-    "Confidence": 0.8177657
-  },
-  {
-    "Title": "Atomic variables are not only about atomicity",
-    "Url": "https://sander.saares.eu/2026/01/25/atomic-variables-are-not-only-about-atomicity/",
-    "Timestamp": "2026-01-30T01:02:50",
-    "Domain": "sander.saares.eu",
-    "Description": "The code compiles. All the tests pass. The staging environment is healthy. Yet once per day a few servers in the production fleet mysteriously observe a crash with an error message that makes no se…",
-    "Confidence": 0.9938709
-  },
-  {
-    "Title": "iPhone Claude full stack dev - no VPN, no remote desktop",
-    "Url": "https://blog.rchase.com/iphone-claude-full-stack-dev-no-vpn-no-remote-desktop/",
-    "Timestamp": "2026-01-30T01:02:46",
-    "Domain": "blog.rchase.com",
-    "Description": "This is not going to be a guide on how to use Cursor web agents or the Claude Code iOS app because those are too limited in functionality.\n\nThe problem with those is you can't view the changes locally, you have to interact with the GitHub repo directly and push",
-    "Confidence": 0.9987022
-  },
-  {
-    "Title": "How to, mostly, guarantee success in your career",
-    "Url": "https://www.elliotcsmith.com/how-to-mostly-guarantee-success-in-your-career/",
-    "Timestamp": "2026-01-30T01:02:43",
-    "Domain": "www.elliotcsmith.com",
-    "Description": "Over my career so far I have done a lot of different things. I've written code, designed PCBs and MRI machines, run Google ads, been out on the road doing sales and managed teams doing all of the above. Overall, regardless of the job at hand, I think I've found",
-    "Confidence": 0.97643
-  },
-  {
-    "Title": "Something that I used to love",
-    "Url": "https://andreapivetta.com/posts/something-that-i-used-to-love.html",
-    "Timestamp": "2026-01-30T01:02:40",
-    "Domain": "andreapivetta.com",
-    "Description": "One evening, over 13 years ago, I took some trivial CLI program the professor showed us that day and built an Android app out of it.",
-    "Confidence": 0.95379084
-  },
-  {
-    "Title": "Mozilla Slopaganda",
-    "Url": "https://dbushell.com/2026/01/28/mozilla-slopaganda/",
-    "Timestamp": "2026-01-30T01:02:37",
-    "Domain": "dbushell.com",
-    "Description": "The one where I question reality",
-    "Confidence": 0.90450484
-  },
-  {
-    "Title": "Managing Through Reorganizations | Gergely Nemeth",
-    "Url": "https://nemethgergely.com/blog/managing-through-reorganizations",
-    "Timestamp": "2026-01-30T01:02:34",
-    "Domain": "nemethgergely.com",
-    "Description": "How to communicate reorganizations effectively: lead with direct conversations, own the narrative, and remember that how you treat people during change matters the most.",
-    "Confidence": 0.9443137
-  },
-  {
-    "Title": "The Dark Software Fabric: Engineering the Invisible System That Builds Your Software",
-    "Url": "https://www.julianmwagner.com/articles/dark-software-fabric",
-    "Timestamp": "2026-01-30T01:02:30",
-    "Domain": "www.julianmwagner.com",
-    "Description": "The verification hierarchy from the Ralph Loop is the theory. The Dark Software Fabric is the implementation — a layered enforcement system from type checking to autonomous AI agents that lets software get built 24/7 without sacrificing quality.",
-    "Confidence": 0.9932282
-  },
-  {
-    "Title": "The hidden costs of additions to a system",
-    "Url": "https://leomax.fyi/blog/the-hidden-costs-of-additions-to-a-system/",
-    "Timestamp": "2026-01-30T01:02:27",
-    "Domain": "leomax.fyi",
-    "Description": "In this sample chapter from Your Code Is Not The Most Important Thing In The World we explore the tendency towards adding complexity instead of reducing it",
-    "Confidence": 0.9645223
-  },
-  {
-    "Title": "Recovering SSH on a Headless Raspberry Pi Through a Privileged Docker Container",
-    "Url": "https://www.theeggeadventure.com/2026/01/recovering-ssh-on-a-headless-raspberry-pi-through-a-privileged-docker-container/",
-    "Timestamp": "2026-01-30T01:02:22",
-    "Domain": "www.theeggeadventure.com",
-    "Description": "I run a Raspberry Pi in my unheated garage, wired to a garage door controller via Z-Wave. No monitor, no keyboard — just SSH. So when a botched OS upgrade killed SSH, I had to get creative. The Set…",
-    "Confidence": 0.99733424
   }
 ]
