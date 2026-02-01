@@ -1,5 +1,133 @@
 [
   {
+    "Title": "rakmo",
+    "Url": "https://rakmo.io/thoughts/trying-to-make-a-unix-utility",
+    "Timestamp": "2026-02-01T01:03:19",
+    "Domain": "rakmo.io",
+    "Description": "rakmo's world",
+    "Confidence": 0.9925019
+  },
+  {
+    "Title": "150 MB Minimal FreeBSD Installation",
+    "Url": "https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/",
+    "Timestamp": "2026-02-01T01:03:16",
+    "Domain": "vermaden.wordpress.com",
+    "Description": "Sometimes an article starts with a simple question or a single message on one of the available social platforms. This is the case today with this article where @ooberober asked: How small can the r…",
+    "Confidence": 0.99217093
+  },
+  {
+    "Title": "How to improve your productivity by 200% in just 9 months",
+    "Url": "https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months",
+    "Timestamp": "2026-02-01T01:03:12",
+    "Domain": "www.jorgegalindo.me",
+    "Description": "Becoming a parent doesn’t ruin your productivity. It pushes you to take it seriously. In this piece, I share how having kids helped me improve how I prioritize, say no, and manage my time. It’s not about shortcuts or hacks, but about embracing the constraints that come with parenthood. From using calendars better to cutting distractions, having kids can be the unexpected shift that makes you work smarter.",
+    "Confidence": 0.97808266
+  },
+  {
+    "Title": "esmantovi.ch",
+    "Url": "https://esmantovi.ch/notes/on-keyboard-ergonomics/",
+    "Timestamp": "2026-02-01T01:03:07",
+    "Domain": "esmantovi.ch",
+    "Description": "Hacking without pain",
+    "Confidence": 0.9660496
+  },
+  {
+    "Title": "The same coin twice | Blog",
+    "Url": "https://blog.danielh.cc/blog/coin",
+    "Timestamp": "2026-02-01T01:03:04",
+    "Domain": "blog.danielh.cc",
+    "Description": "where my words occasionally escape /dev/null",
+    "Confidence": 0.97430366
+  },
+  {
+    "Title": "How I Beat Lyme Disease with The Ketogenic Diet — Science, How-To Protocols, and 10+ Years of Zero Symptoms - The Blog of Author Tim Ferriss",
+    "Url": "https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/",
+    "Timestamp": "2026-02-01T01:03:01",
+    "Domain": "tim.blog",
+    "Description": "I’ve had Lyme disease twice, and I’m now 100% asymptomatic. The second case in 2014 was incredibly severe, but it was resolved in 4–6 weeks with an unorthodox but defensible approach: strict ketosis.",
+    "Confidence": 0.91735804
+  },
+  {
+    "Title": "Embracing Thread-Per-Core Architecture",
+    "Url": "https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/",
+    "Timestamp": "2026-02-01T01:02:55",
+    "Domain": "nurmohammed840.github.io",
+    "Description": "The term \"thread-per-core\" is confusing. It implies that there is one thread for each CPU core.",
+    "Confidence": 0.99682444
+  },
+  {
+    "Title": "Rob Panico - Ubuntu: I Am Because We Are",
+    "Url": "https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are",
+    "Timestamp": "2026-02-01T01:02:51",
+    "Domain": "www.robpanico.com",
+    "Description": "The word comes from southern Africa. But the truth it carries is older and wider than any single language. It appears in the Rumi's poetry and the Sikh Gurus' lives. In the Kabbalists' repair work and the Taoists' effortless action. In Buddhist restraint and Thomistic participation. In the Sufi's submission and the Animist's listening. Different traditions. Different centuries. Different metaphors for the same shape: the self cannot cohere alone. The \"we\" is not optional. Coherence is relational all the way down. Ubuntu is not new wisdom. We are always rediscovering it because we keep forgetting it. And each time we remember, it feels like discovery—when really, we've just stopped pretending we don't already know.",
+    "Confidence": 0.95682675
+  },
+  {
+    "Title": "Open Source Companies in the Post-Agent World",
+    "Url": "https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world",
+    "Timestamp": "2026-02-01T01:02:46",
+    "Domain": "blog.benjaminshafii.com",
+    "Description": "Open Source Companies in the Post-Agent World - Benjamin Shafii's Blog",
+    "Confidence": 0.99764234
+  },
+  {
+    "Title": "I accidentally became a FOSS maintainer and all I got was this lousy new perspective on librarianship",
+    "Url": "https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/",
+    "Timestamp": "2026-02-01T01:02:43",
+    "Domain": "www.hughrundle.net",
+    "Description": "I delivered this talk at the Everything Open 2026 conference in Canberra",
+    "Confidence": 0.97028774
+  },
+  {
+    "Title": "The Levels of Knowing a Thing",
+    "Url": "https://ismethandzic.com/blog/levels_of_knowing/",
+    "Timestamp": "2026-02-01T01:02:37",
+    "Domain": "ismethandzic.com",
+    "Description": "A tech blog of random technical posts",
+    "Confidence": 0.98469967
+  },
+  {
+    "Title": "The Republic of Bots",
+    "Url": "https://niyikiza.com/posts/agents-republic/",
+    "Timestamp": "2026-02-01T01:02:33",
+    "Domain": "niyikiza.com",
+    "Description": "OpenClaw and the authorization gap",
+    "Confidence": 0.973218
+  },
+  {
+    "Title": "Cycle Time for Agentic Coding",
+    "Url": "https://cameronwestland.com/cycle-time-agentic-coding/",
+    "Timestamp": "2026-02-01T01:02:29",
+    "Domain": "cameronwestland.com",
+    "Description": "I’m recording a Loom walkthrough of a new feature when I notice something broken—unrelated to what I’m demoing. A year ago, I would have logged a …",
+    "Confidence": 0.9816781
+  },
+  {
+    "Title": "Shukla - Algebra Notes",
+    "Url": "https://shukla.io/blog/2021-11/algebra-notes.html",
+    "Timestamp": "2026-02-01T01:02:26",
+    "Domain": "shukla.io",
+    "Description": "You're wandering through a forest, and spot a binary operator ⋆\\star.",
+    "Confidence": 0.97180635
+  },
+  {
+    "Title": "Software: Solo or Team?",
+    "Url": "https://boragonul.com/blog/software-solo-or-team/",
+    "Timestamp": "2026-02-01T01:02:23",
+    "Domain": "boragonul.com",
+    "Description": "Software architect",
+    "Confidence": 0.9942142
+  },
+  {
+    "Title": "So, you wanna work at a startup?",
+    "Url": "https://yogis.blog/posts/wanna_work_for_startups/",
+    "Timestamp": "2026-02-01T01:02:19",
+    "Domain": "yogis.blog",
+    "Description": "[Hopefully Helpful] notes for software engineers looking to join startups",
+    "Confidence": 0.98632383
+  },
+  {
     "Title": "The Too Early Breakpoint",
     "Url": "https://ishadeed.com/article/too-early-breakpoint/",
     "Timestamp": "2026-01-31T23:02:23",
@@ -62,117 +190,5 @@
     "Domain": "peerweb.lol",
     "Description": "PeerWeb is a revolutionary way to host and share websites using WebTorrent technology. Instead of relying on centralized servers, websites are distributed across a peer-to-peer network, making them censorship-resistant and always available. 🌍✨",
     "Confidence": 0.9715646
-  },
-  {
-    "Title": "Nobody Cares About Your Code",
-    "Url": "https://ckochx.com/blog/nobody-cares-about-your-code",
-    "Timestamp": "2026-01-31T01:03:42",
-    "Domain": "ckochx.com",
-    "Description": "Not only do they not care—they have never cared.",
-    "Confidence": 0.9955624
-  },
-  {
-    "Title": "Why We’ve Tried to Replace Data Analytics Developers Every Decade Since 1974",
-    "Url": "https://blog.rittmananalytics.com/why-weve-tried-to-replace-data-analytics-developers-every-decade-since-1974-5c0de5a05088",
-    "Timestamp": "2026-01-31T01:03:38",
-    "Domain": "blog.rittmananalytics.com",
-    "Description": "Inspired by Stephan Schwab’s article “Why We've Tried to Replace Developers Every Decade Since 1969”, that story could just as well apply…",
-    "Confidence": 0.970704
-  },
-  {
-    "Title": "A no-bullshit introduction to groups: Part 1.",
-    "Url": "https://iczelia.net/posts/groups/",
-    "Timestamp": "2026-01-31T01:03:32",
-    "Domain": "iczelia.net",
-    "Description": "An algebraic exposition of the basics of abstract algebra. Groups without symmetries.",
-    "Confidence": 0.9942844
-  },
-  {
-    "Title": "Learning How to Stop",
-    "Url": "https://josem.co/learning-how-to-stop/",
-    "Timestamp": "2026-01-31T01:03:26",
-    "Domain": "josem.co",
-    "Description": "The internet gave us unlimited opportunities and unlimited people to compare ourselves to. We can build anything, learn anything, become anyone — and yet we've never felt more behind. What if the answer isn't doing more, but finally deciding what's enough?",
-    "Confidence": 0.9750327
-  },
-  {
-    "Title": "Direct Current Data Centers",
-    "Url": "https://caseyhandmer.wordpress.com/2026/01/30/direct-current-data-centers/",
-    "Timestamp": "2026-01-31T01:03:23",
-    "Domain": "caseyhandmer.wordpress.com",
-    "Description": "Casey Handmer, Matt Weickert Originally posted at the Terraform Blog. This post explains our current views on how humanity will achieve Kardashev Level 1 status by exploiting the full energy resour…",
-    "Confidence": 0.9831772
-  },
-  {
-    "Title": "Building an eBPF Transparent Proxy - jnfrati",
-    "Url": "https://jnfrati.dev/posts/ebpf-transparent-proxy/",
-    "Timestamp": "2026-01-31T01:03:19",
-    "Domain": "jnfrati.dev",
-    "Description": "A deep dive into building transparent proxies using eBPF, Go, and cgroup hooks to intercept TCP connections at the kernel level.",
-    "Confidence": 0.99462634
-  },
-  {
-    "Title": "Steve Turbek: Make It Go! Designing Interactive Graphics with AI Code Help",
-    "Url": "https://turbek.com/Designing-Interactive-SVGs-with-AI/",
-    "Timestamp": "2026-01-31T01:03:16",
-    "Domain": "turbek.com",
-    "Description": "A short intro for designers on making interactive SVGs with AI help.",
-    "Confidence": 0.9938964
-  },
-  {
-    "Title": "Carl Öst Wilkens´ Blog - Why games made by (only) LLM suck",
-    "Url": "https://ostwilkens.se/blog/llm-games-suck",
-    "Timestamp": "2026-01-31T01:03:11",
-    "Domain": "ostwilkens.se",
-    "Description": "A place for me to vent about my current obsessions.",
-    "Confidence": 0.9688248
-  },
-  {
-    "Title": "How Replacing Developers With AI is Going Horribly Wrong",
-    "Url": "https://youtu.be/ts0nH_pSAdM",
-    "Timestamp": "2026-01-31T01:03:06",
-    "Domain": "youtu.be",
-    "Description": "How Replacing Developers With AI is Going Horribly Wrong\n\nIn recent years, many predicted that artificial intelligence would replace most software developers by the mid-2020s. However, evidence from 2024 and 2025 shows the opposite trend: companies are rehiring developers after realizing AI’s limitations. \n\nWhile AI tools can speed up simple and repetitive tasks, their performance declines in real production environments. Studies reveal that AI-generated code is more repetitive, less robust, and significantly more vulnerable to security flaws. \n\nSenior developers often lose productivity correcting AI output. High-profile failures and security incidents demonstrate that AI cannot replace human judgment, but can only support developers by handling routine tasks.\n\n\nCHAPTERS:\n0:18 Developer Hiring\n1:47 Tech Layoffs\n2:05 Software Jobs\n2:42 Job Market Shift\n3:10 AI And Employment\n3:55 Tech Workforce\n4:28 Engineering Roles\n5:06 Developer Demand\n6:12 Automation Impact\n7:48 Tech Job Market\n\nExecutive Producer: Danny Pasquel\nProduced by: Samantha Harvey\nEdited by: Jacob Smith\nAnimation: Charlotte Brown\nAdditional Footage: Getty Images\n\n» Subscribe to Economy Media: https://www.youtube.com/channel/UCc8q4B1bj-668LMHyNXnTxQ?sub_confirmation=1\n\n\nConect With Economy Media Everywhere\nFollow Economy Media on Instagram: https://n9.cl/economymedia\n\n#economymedia #ai #tech",
-    "Confidence": 0.96611255
-  },
-  {
-    "Title": "NVIDIA TileIR Internals: from CuTile to MLIR/LLVM to SASS",
-    "Url": "https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/",
-    "Timestamp": "2026-01-31T01:03:03",
-    "Domain": "maknee.github.io",
-    "Description": "Personal website for some random tidbits I work on",
-    "Confidence": 0.9921503
-  },
-  {
-    "Title": "RTE - Return to Emacs",
-    "Url": "https://michal.sapka.pl/weblog/2026/rte-return-to-emacs/",
-    "Timestamp": "2026-01-31T01:02:42",
-    "Domain": "michal.sapka.pl",
-    "Description": "tmp ",
-    "Confidence": 0.9832375
-  },
-  {
-    "Title": "The instruction that turns Claude into a self-improving system",
-    "Url": "https://jngiam.bearblog.dev/the-instruction-that-turns-claude-into-a-self-improving-system/",
-    "Timestamp": "2026-01-31T01:02:37",
-    "Domain": "jngiam.bearblog.dev",
-    "Description": "\n\n\nI've been running my personal life through Claude Code for a few weeks now, and one instruction is key to how the whole system works: auto-logging. Inste...",
-    "Confidence": 0.99174446
-  },
-  {
-    "Title": "Building a search engine for the ASX",
-    "Url": "https://damonphilipross.github.io/2026/01/28/building-a-search-engine-for-the-asx/",
-    "Timestamp": "2026-01-31T01:02:33",
-    "Domain": "damonphilipross.github.io",
-    "Description": "Thoughts on tech, product, and building things.",
-    "Confidence": 0.8997357
-  },
-  {
-    "Title": "Surfel-based global illumination on the web",
-    "Url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-    "Timestamp": "2026-01-31T01:02:30",
-    "Domain": "juretriglav.si",
-    "Description": "Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!",
-    "Confidence": 0.97454804
   }
 ]

@@ -7,6 +7,148 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>rakmo</title>
+      <link>https://rakmo.io/thoughts/trying-to-make-a-unix-utility</link>
+      <description>rakmo's world</description>
+      <category>apple</category>
+      <category>linux</category>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://rakmo.io/thoughts/trying-to-make-a-unix-utility</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>150 MB Minimal FreeBSD Installation</title>
+      <link>https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/</link>
+      <description>Sometimes an article starts with a simple question or a single message on one of the available social platforms. This is the case today with this article where @ooberober asked: How small can the r…</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to improve your productivity by 200% in just 9 months</title>
+      <link>https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months</link>
+      <description>Becoming a parent doesn’t ruin your productivity. It pushes you to take it seriously. In this piece, I share how having kids helped me improve how I prioritize, say no, and manage my time. It’s not about shortcuts or hacks, but about embracing the constraints that come with parenthood. From using calendars better to cutting distractions, having kids can be the unexpected shift that makes you work smarter.</description>
+      <category>gaming</category>
+      <guid>https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>esmantovi.ch</title>
+      <link>https://esmantovi.ch/notes/on-keyboard-ergonomics/</link>
+      <description>Hacking without pain</description>
+      <guid>https://esmantovi.ch/notes/on-keyboard-ergonomics/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>The same coin twice | Blog</title>
+      <link>https://blog.danielh.cc/blog/coin</link>
+      <description>where my words occasionally escape /dev/null</description>
+      <guid>https://blog.danielh.cc/blog/coin</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Beat Lyme Disease with The Ketogenic Diet — Science, How-To Protocols, and 10+ Years of Zero Symptoms - The Blog of Author Tim Ferriss</title>
+      <link>https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/</link>
+      <description>I’ve had Lyme disease twice, and I’m now 100% asymptomatic. The second case in 2014 was incredibly severe, but it was resolved in 4–6 weeks with an unorthodox but defensible approach: strict ketosis.</description>
+      <guid>https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Embracing Thread-Per-Core Architecture</title>
+      <link>https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/</link>
+      <description>The term "thread-per-core" is confusing. It implies that there is one thread for each CPU core.</description>
+      <category>rust</category>
+      <guid>https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rob Panico - Ubuntu: I Am Because We Are</title>
+      <link>https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are</link>
+      <description>The word comes from southern Africa. But the truth it carries is older and wider than any single language. It appears in the Rumi's poetry and the Sikh Gurus' lives. In the Kabbalists' repair work and the Taoists' effortless action. In Buddhist restraint and Thomistic participation. In the Sufi's submission and the Animist's listening. Different traditions. Different centuries. Different metaphors for the same shape: the self cannot cohere alone. The "we" is not optional. Coherence is relational all the way down. Ubuntu is not new wisdom. We are always rediscovering it because we keep forgetting it. And each time we remember, it feels like discovery—when really, we've just stopped pretending we don't already know.</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Source Companies in the Post-Agent World</title>
+      <link>https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world</link>
+      <description>Open Source Companies in the Post-Agent World - Benjamin Shafii's Blog</description>
+      <category>ai</category>
+      <guid>https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>I accidentally became a FOSS maintainer and all I got was this lousy new perspective on librarianship</title>
+      <link>https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/</link>
+      <description>I delivered this talk at the Everything Open 2026 conference in Canberra</description>
+      <author> (Hugh Rundle)</author>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Levels of Knowing a Thing</title>
+      <link>https://ismethandzic.com/blog/levels_of_knowing/</link>
+      <description>A tech blog of random technical posts</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://ismethandzic.com/blog/levels_of_knowing/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Republic of Bots</title>
+      <link>https://niyikiza.com/posts/agents-republic/</link>
+      <description>OpenClaw and the authorization gap</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>typescript</category>
+      <guid>https://niyikiza.com/posts/agents-republic/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cycle Time for Agentic Coding</title>
+      <link>https://cameronwestland.com/cycle-time-agentic-coding/</link>
+      <description>I’m recording a Loom walkthrough of a new feature when I notice something broken—unrelated to what I’m demoing. A year ago, I would have logged a …</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://cameronwestland.com/cycle-time-agentic-coding/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shukla - Algebra Notes</title>
+      <link>https://shukla.io/blog/2021-11/algebra-notes.html</link>
+      <description>You're wandering through a forest, and spot a binary operator ⋆\star.</description>
+      <category>web</category>
+      <guid>https://shukla.io/blog/2021-11/algebra-notes.html</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software: Solo or Team?</title>
+      <link>https://boragonul.com/blog/software-solo-or-team/</link>
+      <description>Software architect</description>
+      <category>rust</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://boragonul.com/blog/software-solo-or-team/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>So, you wanna work at a startup?</title>
+      <link>https://yogis.blog/posts/wanna_work_for_startups/</link>
+      <description>[Hopefully Helpful] notes for software engineers looking to join startups</description>
+      <category>ai</category>
+      <guid>https://yogis.blog/posts/wanna_work_for_startups/</guid>
+      <pubDate>Sun, 01 Feb 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>The Too Early Breakpoint</title>
       <link>https://ishadeed.com/article/too-early-breakpoint/</link>
       <description>An opinion on why we shouldn't switch to the smallest design too early.</description>
@@ -82,177 +224,6 @@
       <category>javascript</category>
       <guid>https://peerweb.lol/</guid>
       <pubDate>Sat, 31 Jan 2026 09:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nobody Cares About Your Code</title>
-      <link>https://ckochx.com/blog/nobody-cares-about-your-code</link>
-      <description>Not only do they not care—they have never cared.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://ckochx.com/blog/nobody-cares-about-your-code</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why We’ve Tried to Replace Data Analytics Developers Every Decade Since 1974</title>
-      <link>https://blog.rittmananalytics.com/why-weve-tried-to-replace-data-analytics-developers-every-decade-since-1974-5c0de5a05088</link>
-      <description>Inspired by Stephan Schwab’s article “Why We've Tried to Replace Developers Every Decade Since 1969”, that story could just as well apply…</description>
-      <author> (https://markrittman.medium.com)</author>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://blog.rittmananalytics.com/why-weve-tried-to-replace-data-analytics-developers-every-decade-since-1974-5c0de5a05088</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>A no-bullshit introduction to groups: Part 1.</title>
-      <link>https://iczelia.net/posts/groups/</link>
-      <description>An algebraic exposition of the basics of abstract algebra. Groups without symmetries.</description>
-      <guid>https://iczelia.net/posts/groups/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learning How to Stop</title>
-      <link>https://josem.co/learning-how-to-stop/</link>
-      <description>The internet gave us unlimited opportunities and unlimited people to compare ourselves to. We can build anything, learn anything, become anyone — and yet we've never felt more behind. What if the answer isn't doing more, but finally deciding what's enough?</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://josem.co/learning-how-to-stop/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Direct Current Data Centers</title>
-      <link>https://caseyhandmer.wordpress.com/2026/01/30/direct-current-data-centers/</link>
-      <description>Casey Handmer, Matt Weickert Originally posted at the Terraform Blog. This post explains our current views on how humanity will achieve Kardashev Level 1 status by exploiting the full energy resour…</description>
-      <category>ai</category>
-      <guid>https://caseyhandmer.wordpress.com/2026/01/30/direct-current-data-centers/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building an eBPF Transparent Proxy - jnfrati</title>
-      <link>https://jnfrati.dev/posts/ebpf-transparent-proxy/</link>
-      <description>A deep dive into building transparent proxies using eBPF, Go, and cgroup hooks to intercept TCP connections at the kernel level.</description>
-      <category>conference</category>
-      <category>containers</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://jnfrati.dev/posts/ebpf-transparent-proxy/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steve Turbek: Make It Go! Designing Interactive Graphics with AI Code Help</title>
-      <link>https://turbek.com/Designing-Interactive-SVGs-with-AI/</link>
-      <description>A short intro for designers on making interactive SVGs with AI help.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <category>visualstudio</category>
-      <category>web</category>
-      <guid>https://turbek.com/Designing-Interactive-SVGs-with-AI/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Carl Öst Wilkens´ Blog - Why games made by (only) LLM suck</title>
-      <link>https://ostwilkens.se/blog/llm-games-suck</link>
-      <description>A place for me to vent about my current obsessions.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://ostwilkens.se/blog/llm-games-suck</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Replacing Developers With AI is Going Horribly Wrong</title>
-      <link>https://youtu.be/ts0nH_pSAdM</link>
-      <description>How Replacing Developers With AI is Going Horribly Wrong
-
-In recent years, many predicted that artificial intelligence would replace most software developers by the mid-2020s. However, evidence from 2024 and 2025 shows the opposite trend: companies are rehiring developers after realizing AI’s limitations. 
-
-While AI tools can speed up simple and repetitive tasks, their performance declines in real production environments. Studies reveal that AI-generated code is more repetitive, less robust, and significantly more vulnerable to security flaws. 
-
-Senior developers often lose productivity correcting AI output. High-profile failures and security incidents demonstrate that AI cannot replace human judgment, but can only support developers by handling routine tasks.
-
-
-CHAPTERS:
-0:18 Developer Hiring
-1:47 Tech Layoffs
-2:05 Software Jobs
-2:42 Job Market Shift
-3:10 AI And Employment
-3:55 Tech Workforce
-4:28 Engineering Roles
-5:06 Developer Demand
-6:12 Automation Impact
-7:48 Tech Job Market
-
-Executive Producer: Danny Pasquel
-Produced by: Samantha Harvey
-Edited by: Jacob Smith
-Animation: Charlotte Brown
-Additional Footage: Getty Images
-
-» Subscribe to Economy Media: https://www.youtube.com/channel/UCc8q4B1bj-668LMHyNXnTxQ?sub_confirmation=1
-
-
-Conect With Economy Media Everywhere
-Follow Economy Media on Instagram: https://n9.cl/economymedia
-
-#economymedia #ai #tech</description>
-      <author> (Economy Media)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://youtu.be/ts0nH_pSAdM</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA TileIR Internals: from CuTile to MLIR/LLVM to SASS</title>
-      <link>https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/</link>
-      <description>Personal website for some random tidbits I work on</description>
-      <category>python</category>
-      <guid>https://maknee.github.io/blog/2026/NVIDIA-TileIR-Internals-from-CuTile-to-MLIR-LLVM-to-SASS/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTE - Return to Emacs</title>
-      <link>https://michal.sapka.pl/weblog/2026/rte-return-to-emacs/</link>
-      <description>tmp </description>
-      <category>web</category>
-      <guid>https://michal.sapka.pl/weblog/2026/rte-return-to-emacs/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>The instruction that turns Claude into a self-improving system</title>
-      <link>https://jngiam.bearblog.dev/the-instruction-that-turns-claude-into-a-self-improving-system/</link>
-      <description>
-
-
-I've been running my personal life through Claude Code for a few weeks now, and one instruction is key to how the whole system works: auto-logging. Inste...</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://jngiam.bearblog.dev/the-instruction-that-turns-claude-into-a-self-improving-system/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a search engine for the ASX</title>
-      <link>https://damonphilipross.github.io/2026/01/28/building-a-search-engine-for-the-asx/</link>
-      <description>Thoughts on tech, product, and building things.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://damonphilipross.github.io/2026/01/28/building-a-search-engine-for-the-asx/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Surfel-based global illumination on the web</title>
-      <link>https://juretriglav.si/surfel-based-global-illumination-on-the-web/</link>
-      <description>Can we use WebGPU to compute real-time global illumination with surface patches called surfels? Does it look good enough? Is it fast enough? And can we finally construct viable compute-heavy rendering pipelines right here on the open web? Join me on this journey and let's find out!</description>
-      <category>cloud</category>
-      <category>android</category>
-      <category>gaming</category>
-      <guid>https://juretriglav.si/surfel-based-global-illumination-on-the-web/</guid>
-      <pubDate>Sat, 31 Jan 2026 01:02:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
