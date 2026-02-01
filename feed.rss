@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The 80% Problem in Agentic Coding</title>
+      <link>https://addyo.substack.com/p/the-80-problem-in-agentic-coding</link>
+      <description>Managing comprehension debt when leaning on AI to code</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://addyo.substack.com/p/the-80-problem-in-agentic-coding</guid>
+      <pubDate>Sun, 01 Feb 2026 11:02:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Swift is a more convenient Rust</title>
       <link>https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</link>
       <description>From the Archive: Thoughts on Swift, while learning Rust</description>
@@ -216,15 +226,6 @@
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=33Otl8dxHfo</guid>
       <pubDate>Sat, 31 Jan 2026 15:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>A 9M-parameter Mandarin pronunciation tutor</title>
-      <link>https://simedw.com/2026/01/31/ear-pronunication-via-ctc/</link>
-      <description>A tiny on-device speech model to grade Mandarin pronunciation and tones.</description>
-      <author> (Simon Edwardsson)</author>
-      <category>ai</category>
-      <guid>https://simedw.com/2026/01/31/ear-pronunication-via-ctc/</guid>
-      <pubDate>Sat, 31 Jan 2026 11:02:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
