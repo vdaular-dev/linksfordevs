@@ -1,5 +1,109 @@
 [
   {
+    "Title": "The Zero-Human Company",
+    "Url": "https://blog.grvy.dev/blog/the-zero-human-company/",
+    "Timestamp": "2026-02-02T01:03:05",
+    "Domain": "blog.grvy.dev",
+    "Description": "Every company is adding AI. I skipped that step and built one from scratch with agents all the way down.",
+    "Confidence": 0.98868763
+  },
+  {
+    "Title": "URLs are part of the product experience",
+    "Url": "https://www.nklswbr.com/blog/urls",
+    "Timestamp": "2026-02-02T01:03:02",
+    "Domain": "www.nklswbr.com",
+    "Description": "A URL is like a look behind the curtain. You can hide messy code behind a beautiful interface, but it's hard to hide a messy architecture from the URL.",
+    "Confidence": 0.9975851
+  },
+  {
+    "Title": "Recreating My Email Server with Claude",
+    "Url": "http://jbrot.com/blog/recreating_my_email_server_with_claude.html",
+    "Timestamp": "2026-02-02T01:02:59",
+    "Domain": "jbrot.com",
+    "Description": "TL;DR:\n            I recently used Claude to successfully recreate my email server's setup in NixOS with enhanced security and monitoring.\n            You can find my setup on GitHub and deploy it yourself if you'd like.",
+    "Confidence": 0.9878096
+  },
+  {
+    "Title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+    "Url": "http://efp.asia/blog/2025/12/24/api-tooling-crisis/",
+    "Timestamp": "2026-02-02T01:02:52",
+    "Domain": "efp.asia",
+    "Description": "I’ve been a Postman user for my entire developer career. I remember when it was just a simple Chrome extension that made pentesting APIs slightly less painful. Those were simpler times. Today, I find myself joining the growing exodus of developers abandoning these tools because they sell out.",
+    "Confidence": 0.9708138
+  },
+  {
+    "Title": "Semantic labeling for code review",
+    "Url": "https://www.shreyaw.com/blog/semantic-labeling-for-code-review",
+    "Timestamp": "2026-02-02T01:02:49",
+    "Domain": "www.shreyaw.com",
+    "Description": "shreyaw's blog",
+    "Confidence": 0.99782026
+  },
+  {
+    "Title": "I fully vibe coded my first application",
+    "Url": "https://strzibny.name/blog/i-fully-vibe-coded-my-first-application",
+    "Timestamp": "2026-02-02T01:02:45",
+    "Domain": "strzibny.name",
+    "Description": "How I vibe coded MyCountryList in 6 days",
+    "Confidence": 0.9847685
+  },
+  {
+    "Title": "Malleable Software – Cem Ünalan",
+    "Url": "https://blog.cemunalan.com.tr/2026/02/01/malleable-software/",
+    "Timestamp": "2026-02-02T01:02:40",
+    "Domain": "blog.cemunalan.com.tr",
+    "Description": "I have been thinking about software that gives me the power to customize it, not just with settings and plugins, but by giving me (or an LLM) the space to write code to extend it. I saw this line on Armin Ronacher's latest post about Pi: When you look at what Pi and by extension…",
+    "Confidence": 0.9810863
+  },
+  {
+    "Title": "The Bus Factor of Zero",
+    "Url": "https://arturdryomov.dev/posts/bus-factor-of-zero/",
+    "Timestamp": "2026-02-02T01:02:35",
+    "Domain": "arturdryomov.dev",
+    "Description": "How to maintain projects health in the long run",
+    "Confidence": 0.993477
+  },
+  {
+    "Title": "A shell --dry-run trick",
+    "Url": "https://jensrantil.github.io/posts/a-shell-dry-run-trick/",
+    "Timestamp": "2026-02-02T01:02:32",
+    "Domain": "jensrantil.github.io",
+    "Description": "Review all shell commands before executing them. Avoid a catastrophe. Profit.",
+    "Confidence": 0.98020196
+  },
+  {
+    "Title": "Helping strangers access the internet",
+    "Url": "https://blog.dougbelshaw.com/tor-snowflake/",
+    "Timestamp": "2026-02-02T01:02:29",
+    "Domain": "blog.dougbelshaw.com",
+    "Description": "How and why to get started with Tor Snowflake.",
+    "Confidence": 0.9811337
+  },
+  {
+    "Title": "We (as a society) peaked in the 90s - Chris Collins",
+    "Url": "https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s",
+    "Timestamp": "2026-02-02T01:02:24",
+    "Domain": "chris.pagecord.com",
+    "Description": "This is one of those thoughts that just sits there and won’t leave me alone. I honestly think we peaked in the late 90s. Maybe I’m doing that whole nostalgia...",
+    "Confidence": 0.94963205
+  },
+  {
+    "Title": "Austin Rude's Blog",
+    "Url": "https://austinrude.com/blog/making-a-zig-agent-skill/",
+    "Timestamp": "2026-02-02T01:02:20",
+    "Domain": "austinrude.com",
+    "Description": "January 31, 2026",
+    "Confidence": 0.9896533
+  },
+  {
+    "Title": "Converting floats to strings quickly",
+    "Url": "https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/",
+    "Timestamp": "2026-02-02T01:02:17",
+    "Domain": "lemire.me",
+    "Description": "When serializing data to JSON, CSV or when logging, we convert numbers to strings. Floating-point numbers are stored in binary, but we need them as decimal strings. The first formally published algorithm is Steele and White's Dragon schemes (specifically Dragin2) in 1990. Since then, faster methods have emerged: Grisu3, Ryū, Schubfach, Grisu-Exact, and Dragonbox. In … Continue reading Converting floats to strings quickly",
+    "Confidence": 0.9975127
+  },
+  {
     "Title": "Adventure Game Studio",
     "Url": "https://www.adventuregamestudio.co.uk/",
     "Timestamp": "2026-02-02T00:02:14",
@@ -38,133 +142,5 @@
     "Domain": "nmn.sh",
     "Description": "From the Archive: Thoughts on Swift, while learning Rust",
     "Confidence": 0.9952917
-  },
-  {
-    "Title": "rakmo",
-    "Url": "https://rakmo.io/thoughts/trying-to-make-a-unix-utility",
-    "Timestamp": "2026-02-01T01:03:19",
-    "Domain": "rakmo.io",
-    "Description": "rakmo's world",
-    "Confidence": 0.9925019
-  },
-  {
-    "Title": "150 MB Minimal FreeBSD Installation",
-    "Url": "https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/",
-    "Timestamp": "2026-02-01T01:03:16",
-    "Domain": "vermaden.wordpress.com",
-    "Description": "Sometimes an article starts with a simple question or a single message on one of the available social platforms. This is the case today with this article where @ooberober asked: How small can the r…",
-    "Confidence": 0.99217093
-  },
-  {
-    "Title": "How to improve your productivity by 200% in just 9 months",
-    "Url": "https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months",
-    "Timestamp": "2026-02-01T01:03:12",
-    "Domain": "www.jorgegalindo.me",
-    "Description": "Becoming a parent doesn’t ruin your productivity. It pushes you to take it seriously. In this piece, I share how having kids helped me improve how I prioritize, say no, and manage my time. It’s not about shortcuts or hacks, but about embracing the constraints that come with parenthood. From using calendars better to cutting distractions, having kids can be the unexpected shift that makes you work smarter.",
-    "Confidence": 0.97808266
-  },
-  {
-    "Title": "esmantovi.ch",
-    "Url": "https://esmantovi.ch/notes/on-keyboard-ergonomics/",
-    "Timestamp": "2026-02-01T01:03:07",
-    "Domain": "esmantovi.ch",
-    "Description": "Hacking without pain",
-    "Confidence": 0.9660496
-  },
-  {
-    "Title": "The same coin twice | Blog",
-    "Url": "https://blog.danielh.cc/blog/coin",
-    "Timestamp": "2026-02-01T01:03:04",
-    "Domain": "blog.danielh.cc",
-    "Description": "where my words occasionally escape /dev/null",
-    "Confidence": 0.97430366
-  },
-  {
-    "Title": "How I Beat Lyme Disease with The Ketogenic Diet — Science, How-To Protocols, and 10+ Years of Zero Symptoms - The Blog of Author Tim Ferriss",
-    "Url": "https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/",
-    "Timestamp": "2026-02-01T01:03:01",
-    "Domain": "tim.blog",
-    "Description": "I’ve had Lyme disease twice, and I’m now 100% asymptomatic. The second case in 2014 was incredibly severe, but it was resolved in 4–6 weeks with an unorthodox but defensible approach: strict ketosis.",
-    "Confidence": 0.91735804
-  },
-  {
-    "Title": "Embracing Thread-Per-Core Architecture",
-    "Url": "https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/",
-    "Timestamp": "2026-02-01T01:02:55",
-    "Domain": "nurmohammed840.github.io",
-    "Description": "The term \"thread-per-core\" is confusing. It implies that there is one thread for each CPU core.",
-    "Confidence": 0.99682444
-  },
-  {
-    "Title": "Rob Panico - Ubuntu: I Am Because We Are",
-    "Url": "https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are",
-    "Timestamp": "2026-02-01T01:02:51",
-    "Domain": "www.robpanico.com",
-    "Description": "The word comes from southern Africa. But the truth it carries is older and wider than any single language. It appears in the Rumi's poetry and the Sikh Gurus' lives. In the Kabbalists' repair work and the Taoists' effortless action. In Buddhist restraint and Thomistic participation. In the Sufi's submission and the Animist's listening. Different traditions. Different centuries. Different metaphors for the same shape: the self cannot cohere alone. The \"we\" is not optional. Coherence is relational all the way down. Ubuntu is not new wisdom. We are always rediscovering it because we keep forgetting it. And each time we remember, it feels like discovery—when really, we've just stopped pretending we don't already know.",
-    "Confidence": 0.95682675
-  },
-  {
-    "Title": "Open Source Companies in the Post-Agent World",
-    "Url": "https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world",
-    "Timestamp": "2026-02-01T01:02:46",
-    "Domain": "blog.benjaminshafii.com",
-    "Description": "Open Source Companies in the Post-Agent World - Benjamin Shafii's Blog",
-    "Confidence": 0.99764234
-  },
-  {
-    "Title": "I accidentally became a FOSS maintainer and all I got was this lousy new perspective on librarianship",
-    "Url": "https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/",
-    "Timestamp": "2026-02-01T01:02:43",
-    "Domain": "www.hughrundle.net",
-    "Description": "I delivered this talk at the Everything Open 2026 conference in Canberra",
-    "Confidence": 0.97028774
-  },
-  {
-    "Title": "The Levels of Knowing a Thing",
-    "Url": "https://ismethandzic.com/blog/levels_of_knowing/",
-    "Timestamp": "2026-02-01T01:02:37",
-    "Domain": "ismethandzic.com",
-    "Description": "A tech blog of random technical posts",
-    "Confidence": 0.98469967
-  },
-  {
-    "Title": "The Republic of Bots",
-    "Url": "https://niyikiza.com/posts/agents-republic/",
-    "Timestamp": "2026-02-01T01:02:33",
-    "Domain": "niyikiza.com",
-    "Description": "OpenClaw and the authorization gap",
-    "Confidence": 0.973218
-  },
-  {
-    "Title": "Cycle Time for Agentic Coding",
-    "Url": "https://cameronwestland.com/cycle-time-agentic-coding/",
-    "Timestamp": "2026-02-01T01:02:29",
-    "Domain": "cameronwestland.com",
-    "Description": "I’m recording a Loom walkthrough of a new feature when I notice something broken—unrelated to what I’m demoing. A year ago, I would have logged a …",
-    "Confidence": 0.9816781
-  },
-  {
-    "Title": "Shukla - Algebra Notes",
-    "Url": "https://shukla.io/blog/2021-11/algebra-notes.html",
-    "Timestamp": "2026-02-01T01:02:26",
-    "Domain": "shukla.io",
-    "Description": "You're wandering through a forest, and spot a binary operator ⋆\\star.",
-    "Confidence": 0.97180635
-  },
-  {
-    "Title": "Software: Solo or Team?",
-    "Url": "https://boragonul.com/blog/software-solo-or-team/",
-    "Timestamp": "2026-02-01T01:02:23",
-    "Domain": "boragonul.com",
-    "Description": "Software architect",
-    "Confidence": 0.9942142
-  },
-  {
-    "Title": "So, you wanna work at a startup?",
-    "Url": "https://yogis.blog/posts/wanna_work_for_startups/",
-    "Timestamp": "2026-02-01T01:02:19",
-    "Domain": "yogis.blog",
-    "Description": "[Hopefully Helpful] notes for software engineers looking to join startups",
-    "Confidence": 0.98632383
   }
 ]

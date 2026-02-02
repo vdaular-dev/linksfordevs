@@ -7,6 +7,128 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Zero-Human Company</title>
+      <link>https://blog.grvy.dev/blog/the-zero-human-company/</link>
+      <description>Every company is adding AI. I skipped that step and built one from scratch with agents all the way down.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://blog.grvy.dev/blog/the-zero-human-company/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>URLs are part of the product experience</title>
+      <link>https://www.nklswbr.com/blog/urls</link>
+      <description>A URL is like a look behind the curtain. You can hide messy code behind a beautiful interface, but it's hard to hide a messy architecture from the URL.</description>
+      <guid>https://www.nklswbr.com/blog/urls</guid>
+      <pubDate>Mon, 02 Feb 2026 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Recreating My Email Server with Claude</title>
+      <link>http://jbrot.com/blog/recreating_my_email_server_with_claude.html</link>
+      <description>TL;DR:
+            I recently used Claude to successfully recreate my email server's setup in NixOS with enhanced security and monitoring.
+            You can find my setup on GitHub and deploy it yourself if you'd like.</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>http://jbrot.com/blog/recreating_my_email_server_with_claude.html</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The API Tooling Crisis: Why developers are abandoning Postman and its clones?</title>
+      <link>http://efp.asia/blog/2025/12/24/api-tooling-crisis/</link>
+      <description>I’ve been a Postman user for my entire developer career. I remember when it was just a simple Chrome extension that made pentesting APIs slightly less painful. Those were simpler times. Today, I find myself joining the growing exodus of developers abandoning these tools because they sell out.</description>
+      <category>git</category>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>http://efp.asia/blog/2025/12/24/api-tooling-crisis/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semantic labeling for code review</title>
+      <link>https://www.shreyaw.com/blog/semantic-labeling-for-code-review</link>
+      <description>shreyaw's blog</description>
+      <guid>https://www.shreyaw.com/blog/semantic-labeling-for-code-review</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>I fully vibe coded my first application</title>
+      <link>https://strzibny.name/blog/i-fully-vibe-coded-my-first-application</link>
+      <description>How I vibe coded MyCountryList in 6 days</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <guid>https://strzibny.name/blog/i-fully-vibe-coded-my-first-application</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Malleable Software – Cem Ünalan</title>
+      <link>https://blog.cemunalan.com.tr/2026/02/01/malleable-software/</link>
+      <description>I have been thinking about software that gives me the power to customize it, not just with settings and plugins, but by giving me (or an LLM) the space to write code to extend it. I saw this line on Armin Ronacher's latest post about Pi: When you look at what Pi and by extension…</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://blog.cemunalan.com.tr/2026/02/01/malleable-software/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Bus Factor of Zero</title>
+      <link>https://arturdryomov.dev/posts/bus-factor-of-zero/</link>
+      <description>How to maintain projects health in the long run</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://arturdryomov.dev/posts/bus-factor-of-zero/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>A shell --dry-run trick</title>
+      <link>https://jensrantil.github.io/posts/a-shell-dry-run-trick/</link>
+      <description>Review all shell commands before executing them. Avoid a catastrophe. Profit.</description>
+      <guid>https://jensrantil.github.io/posts/a-shell-dry-run-trick/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Helping strangers access the internet</title>
+      <link>https://blog.dougbelshaw.com/tor-snowflake/</link>
+      <description>How and why to get started with Tor Snowflake.</description>
+      <category>encryption</category>
+      <category>nodejs</category>
+      <guid>https://blog.dougbelshaw.com/tor-snowflake/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>We (as a society) peaked in the 90s - Chris Collins</title>
+      <link>https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s</link>
+      <description>This is one of those thoughts that just sits there and won’t leave me alone. I honestly think we peaked in the late 90s. Maybe I’m doing that whole nostalgia...</description>
+      <guid>https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Austin Rude's Blog</title>
+      <link>https://austinrude.com/blog/making-a-zig-agent-skill/</link>
+      <description>January 31, 2026</description>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>sql</category>
+      <guid>https://austinrude.com/blog/making-a-zig-agent-skill/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Converting floats to strings quickly</title>
+      <link>https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/</link>
+      <description>When serializing data to JSON, CSV or when logging, we convert numbers to strings. Floating-point numbers are stored in binary, but we need them as decimal strings. The first formally published algorithm is Steele and White's Dragon schemes (specifically Dragin2) in 1990. Since then, faster methods have emerged: Grisu3, Ryū, Schubfach, Grisu-Exact, and Dragonbox. In … Continue reading Converting floats to strings quickly</description>
+      <author> (https://lemire.me/blog/author/lemire/)</author>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Adventure Game Studio</title>
       <link>https://www.adventuregamestudio.co.uk/</link>
       <description>Join our vibrant community to create, play, and share adventure games. Unleash your creativity and explore adventure games by fellow creators!</description>
@@ -53,148 +175,6 @@
       <category>linux</category>
       <guid>https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</guid>
       <pubDate>Sun, 01 Feb 2026 05:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>rakmo</title>
-      <link>https://rakmo.io/thoughts/trying-to-make-a-unix-utility</link>
-      <description>rakmo's world</description>
-      <category>apple</category>
-      <category>linux</category>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://rakmo.io/thoughts/trying-to-make-a-unix-utility</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>150 MB Minimal FreeBSD Installation</title>
-      <link>https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/</link>
-      <description>Sometimes an article starts with a simple question or a single message on one of the available social platforms. This is the case today with this article where @ooberober asked: How small can the r…</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://vermaden.wordpress.com/2026/02/01/150-mb-minimal-freebsd-installation/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to improve your productivity by 200% in just 9 months</title>
-      <link>https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months</link>
-      <description>Becoming a parent doesn’t ruin your productivity. It pushes you to take it seriously. In this piece, I share how having kids helped me improve how I prioritize, say no, and manage my time. It’s not about shortcuts or hacks, but about embracing the constraints that come with parenthood. From using calendars better to cutting distractions, having kids can be the unexpected shift that makes you work smarter.</description>
-      <category>gaming</category>
-      <guid>https://www.jorgegalindo.me/en/blog/posts/how-to-improve-your-productivity-by-200-in-just-9-months</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>esmantovi.ch</title>
-      <link>https://esmantovi.ch/notes/on-keyboard-ergonomics/</link>
-      <description>Hacking without pain</description>
-      <guid>https://esmantovi.ch/notes/on-keyboard-ergonomics/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>The same coin twice | Blog</title>
-      <link>https://blog.danielh.cc/blog/coin</link>
-      <description>where my words occasionally escape /dev/null</description>
-      <guid>https://blog.danielh.cc/blog/coin</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Beat Lyme Disease with The Ketogenic Diet — Science, How-To Protocols, and 10+ Years of Zero Symptoms - The Blog of Author Tim Ferriss</title>
-      <link>https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/</link>
-      <description>I’ve had Lyme disease twice, and I’m now 100% asymptomatic. The second case in 2014 was incredibly severe, but it was resolved in 4–6 weeks with an unorthodox but defensible approach: strict ketosis.</description>
-      <guid>https://tim.blog/2026/01/30/lyme-disease-ketogenic-diet/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Embracing Thread-Per-Core Architecture</title>
-      <link>https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/</link>
-      <description>The term "thread-per-core" is confusing. It implies that there is one thread for each CPU core.</description>
-      <category>rust</category>
-      <guid>https://nurmohammed840.github.io/posts/embracing-thread-per-core-architecture/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rob Panico - Ubuntu: I Am Because We Are</title>
-      <link>https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are</link>
-      <description>The word comes from southern Africa. But the truth it carries is older and wider than any single language. It appears in the Rumi's poetry and the Sikh Gurus' lives. In the Kabbalists' repair work and the Taoists' effortless action. In Buddhist restraint and Thomistic participation. In the Sufi's submission and the Animist's listening. Different traditions. Different centuries. Different metaphors for the same shape: the self cannot cohere alone. The "we" is not optional. Coherence is relational all the way down. Ubuntu is not new wisdom. We are always rediscovering it because we keep forgetting it. And each time we remember, it feels like discovery—when really, we've just stopped pretending we don't already know.</description>
-      <category>linux</category>
-      <category>gaming</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://www.robpanico.com/articles/display/?entry_short=ubuntu-i-am-because-we-are</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source Companies in the Post-Agent World</title>
-      <link>https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world</link>
-      <description>Open Source Companies in the Post-Agent World - Benjamin Shafii's Blog</description>
-      <category>ai</category>
-      <guid>https://blog.benjaminshafii.com/blog/open-source-companies-in-the-post-agent-world</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>I accidentally became a FOSS maintainer and all I got was this lousy new perspective on librarianship</title>
-      <link>https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/</link>
-      <description>I delivered this talk at the Everything Open 2026 conference in Canberra</description>
-      <author> (Hugh Rundle)</author>
-      <category>python</category>
-      <category>nodejs</category>
-      <guid>https://www.hughrundle.net/i-accidentally-became-a-foss-maintainer-and-all-i-got-was-this-lousy-new-perspective-on-librarianship/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Levels of Knowing a Thing</title>
-      <link>https://ismethandzic.com/blog/levels_of_knowing/</link>
-      <description>A tech blog of random technical posts</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://ismethandzic.com/blog/levels_of_knowing/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Republic of Bots</title>
-      <link>https://niyikiza.com/posts/agents-republic/</link>
-      <description>OpenClaw and the authorization gap</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>apple</category>
-      <category>typescript</category>
-      <guid>https://niyikiza.com/posts/agents-republic/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cycle Time for Agentic Coding</title>
-      <link>https://cameronwestland.com/cycle-time-agentic-coding/</link>
-      <description>I’m recording a Loom walkthrough of a new feature when I notice something broken—unrelated to what I’m demoing. A year ago, I would have logged a …</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://cameronwestland.com/cycle-time-agentic-coding/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shukla - Algebra Notes</title>
-      <link>https://shukla.io/blog/2021-11/algebra-notes.html</link>
-      <description>You're wandering through a forest, and spot a binary operator ⋆\star.</description>
-      <category>web</category>
-      <guid>https://shukla.io/blog/2021-11/algebra-notes.html</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software: Solo or Team?</title>
-      <link>https://boragonul.com/blog/software-solo-or-team/</link>
-      <description>Software architect</description>
-      <category>rust</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://boragonul.com/blog/software-solo-or-team/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>So, you wanna work at a startup?</title>
-      <link>https://yogis.blog/posts/wanna_work_for_startups/</link>
-      <description>[Hopefully Helpful] notes for software engineers looking to join startups</description>
-      <category>ai</category>
-      <guid>https://yogis.blog/posts/wanna_work_for_startups/</guid>
-      <pubDate>Sun, 01 Feb 2026 01:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
