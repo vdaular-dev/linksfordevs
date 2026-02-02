@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Xikipedia</title>
+      <link>https://xikipedia.org/</link>
+      <description>Wikipedia you can doomscroll</description>
+      <guid>https://xikipedia.org/</guid>
+      <pubDate>Mon, 02 Feb 2026 13:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>You Should Make Web Games</title>
       <link>https://jslegenddev.substack.com/p/you-should-make-web-games</link>
       <description>I recently realized that if it weren’t for the fact that making games for the web was possible, I would have probably never tried game development and stuck with it.</description>
@@ -205,15 +212,6 @@ My iPhone 16 Pro Max produces garbage output when running MLX LLMs. An iPhone 15
       <description>When I moved to a new apartment with my family, the cable company we were used to wasn't available. We had to settle for Dish Network. I wasn't too happy about making that switch, but something on the</description>
       <guid>https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down</guid>
       <pubDate>Sun, 01 Feb 2026 22:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source Zero Trust Networking</title>
-      <link>https://netbird.io/</link>
-      <description>WireGuard®-based overlay network and Zero Trust Network Access in one platform for reliable and secure connectivity</description>
-      <category>containers</category>
-      <category>linux</category>
-      <guid>https://netbird.io/</guid>
-      <pubDate>Sun, 01 Feb 2026 13:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
