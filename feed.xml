@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Deno Sandbox | Deno</title>
+      <link>https://deno.com/blog/introducing-deno-sandbox</link>
+      <description>Instant Linux microVMs with defense-in-depth security for running untrusted code.</description>
+      <category>conference</category>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://deno.com/blog/introducing-deno-sandbox</guid>
+      <pubDate>Tue, 03 Feb 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding</title>
       <link>https://qwen.ai/blog?id=qwen3-coder-next</link>
       <description>Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong coding and agentic capabilities with significantly lower inference costs.
@@ -244,14 +256,6 @@ Scaling Agentic Training Rather than relying solely on parameter scaling, Qwen3-
       <category>git</category>
       <guid>https://yusufaytas.com/why-airport-security-feels-random/</guid>
       <pubDate>Tue, 03 Feb 2026 00:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Todd C. Miller</title>
-      <link>https://www.millert.dev/</link>
-      <description>Note: this page tends be neglected and is only updated occasionally.
-The links to the left are where the useful bits are hiding.</description>
-      <guid>https://www.millert.dev/</guid>
-      <pubDate>Mon, 02 Feb 2026 23:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
