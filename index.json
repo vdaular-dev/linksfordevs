@@ -262,13 +262,5 @@
     "Domain": "protean-labs.io",
     "Description": "Security researchers have discovered thousands of OpenClaw AI agent instances exposed to the internet, highlighting how rapid adoption can outpace secure deployment practices.",
     "Confidence": 0.98053485
-  },
-  {
-    "Title": "My thousand dollar iPhone can't do math",
-    "Url": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-    "Timestamp": "2026-02-02T08:02:12",
-    "Domain": "journal.rafaelcosta.me",
-    "Description": "TL;DR:\n\nMy iPhone 16 Pro Max produces garbage output when running MLX LLMs. An iPhone 15 Pro runs the same code perfectly. A MacBook Pro also runs the same code perfectly. The tensor outputs on the 16 show numerical values an order of magnitude wrong. I suspect it points",
-    "Confidence": 0.9882344
   }
 ]
