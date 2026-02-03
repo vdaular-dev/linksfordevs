@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding",
+    "Url": "https://qwen.ai/blog?id=qwen3-coder-next",
+    "Timestamp": "2026-02-03T19:02:22",
+    "Domain": "qwen.ai",
+    "Description": "Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong coding and agentic capabilities with significantly lower inference costs.\nScaling Agentic Training Rather than relying solely on parameter scaling, Qwen3-Coder-Next focuses on scaling agentic training signals."
+  },
+  {
     "Title": "What’s up with all those equals signs anyway?",
     "Url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
     "Timestamp": "2026-02-03T14:03:01",
@@ -82,13 +89,6 @@
     "Timestamp": "2026-02-03T00:03:38",
     "Domain": "etsd.tech",
     "Description": "How I set up Claude Code joining a new team — without writing a single line of Markdown myself."
-  },
-  {
-    "Title": "SpaceX",
-    "Url": "https://www.spacex.com/updates#xai-joins-spacex",
-    "Timestamp": "2026-02-03T00:03:33",
-    "Domain": "www.spacex.com",
-    "Description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft."
   },
   {
     "Title": "Identity Is Easy. Continuity Is Hard.",

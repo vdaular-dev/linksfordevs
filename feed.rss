@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding</title>
+      <link>https://qwen.ai/blog?id=qwen3-coder-next</link>
+      <description>Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong coding and agentic capabilities with significantly lower inference costs.
+Scaling Agentic Training Rather than relying solely on parameter scaling, Qwen3-Coder-Next focuses on scaling agentic training signals.</description>
+      <category>ai</category>
+      <guid>https://qwen.ai/blog?id=qwen3-coder-next</guid>
+      <pubDate>Tue, 03 Feb 2026 19:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>What’s up with all those equals signs anyway?</title>
       <link>https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/</link>
       <description>For some reason or other, people have been posting a lot of excerpts from old emails on Twitter over the last few days. The most vital question everybody’s asking themselves is: What’s …</description>
@@ -105,16 +114,6 @@
       <category>ai</category>
       <guid>https://etsd.tech/posts/onboarding-claude-code/</guid>
       <pubDate>Tue, 03 Feb 2026 00:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX</title>
-      <link>https://www.spacex.com/updates#xai-joins-spacex</link>
-      <description>SpaceX designs, manufactures and launches advanced rockets and spacecraft.</description>
-      <category>cloud</category>
-      <category>android</category>
-      <category>git</category>
-      <guid>https://www.spacex.com/updates#xai-joins-spacex</guid>
-      <pubDate>Tue, 03 Feb 2026 00:03:33 GMT</pubDate>
     </item>
     <item>
       <title>Identity Is Easy. Continuity Is Hard.</title>
