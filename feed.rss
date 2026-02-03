@@ -7,6 +7,203 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>PoC is a framework of perverse incentives</title>
+      <link>https://varoa.net/2026/01/30/poc.html</link>
+      <description>Was it ever possible to build a Proof of Concept that didn’t end upbeing rushed into production as a nest of bugs, instability, andtechnical debt, regardless...</description>
+      <category>git</category>
+      <guid>https://varoa.net/2026/01/30/poc.html</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Engineering With LLMs</title>
+      <link>https://jamison.dance/02-02-2026/software-engineering-with-llms</link>
+      <description>Jamison Dance’s blog. Mostly focused on engineering management, software design and development, and jokes to himself.</description>
+      <category>ai</category>
+      <guid>https://jamison.dance/02-02-2026/software-engineering-with-llms</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rodney L. - On God and Machine Learning</title>
+      <link>https://rlafuente.com/posts/2026-2-1-on-god-and-machine-learning</link>
+      <description>Published 2026-2-1</description>
+      <category>ai</category>
+      <guid>https://rlafuente.com/posts/2026-2-1-on-god-and-machine-learning</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is an incident, anyway?</title>
+      <link>https://jensrantil.github.io/posts/what-is-an-incident/</link>
+      <description>What is an incident, anyway? How do we define it? When should you declare an incident?</description>
+      <category>ai</category>
+      <guid>https://jensrantil.github.io/posts/what-is-an-incident/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Unabstract an Abstraction</title>
+      <link>https://www.jakeworth.com/posts/how-to-unabstract-an-abstraction/</link>
+      <description>Abstractions in code are easy to add and challenging to remove. Sometimes we feel stuck with them. But the good news is, you can back out of almost any abstraction with the right mindset.</description>
+      <guid>https://www.jakeworth.com/posts/how-to-unabstract-an-abstraction/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should Makers Still Care About Code Quality? | Herman Schaaf</title>
+      <link>https://hermanschaaf.com/should-makers-care-about-code-quality/</link>
+      <description>If it works, it works, let the LLMs worry about the code… right?</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://hermanschaaf.com/should-makers-care-about-code-quality/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Onboarding Claude Code (and Yourself) | etsd.tech</title>
+      <link>https://etsd.tech/posts/onboarding-claude-code/</link>
+      <description>How I set up Claude Code joining a new team — without writing a single line of Markdown myself.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://etsd.tech/posts/onboarding-claude-code/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX</title>
+      <link>https://www.spacex.com/updates#xai-joins-spacex</link>
+      <description>SpaceX designs, manufactures and launches advanced rockets and spacecraft.</description>
+      <category>cloud</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://www.spacex.com/updates#xai-joins-spacex</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Identity Is Easy. Continuity Is Hard.</title>
+      <link>https://blog.mycal.net/identity-is-easy-continuity-is-hard/</link>
+      <description>Most identity systems fail over time. AnchorID is a deliberately boring attribution anchor designed to preserve continuity across platforms, archives, and AI systems.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://blog.mycal.net/identity-is-easy-continuity-is-hard/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugo Montenegro</title>
+      <link>https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade</link>
+      <description>Being first has great costs. If you're in a jungle, you're the one macheting down the vines and shrubs. If you're a cyclist in a race, you're the one pushing the air forward, whilst the cyclists behind can relax in your draft. And if you're developing a novel product, you might make the wrong feature choice, and lose out to competitors that simply avoid your terrible, costly decision.</description>
+      <category>ai</category>
+      <guid>https://hugo0.com/blog/how-erc20-held-back-blockchain-payments-a-decade</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Overpaying me after using illegal plugins</title>
+      <link>https://priyatham.in/en/post/pirate-plugins/</link>
+      <description>How a client used pirated plugins and had to overpay later on</description>
+      <category>web</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://priyatham.in/en/post/pirate-plugins/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibecoding native apps has gotten really good</title>
+      <link>https://blog.jonlu.ca/posts/vibecoding-native-apps</link>
+      <description>I spent a weekend vibecoding a small native app called Palate - a fine dining tracker for tasting menus, restaurants, and personal notes. For years I've had a clear idea in my mind of the features that would make a product like this great:</description>
+      <category>apple</category>
+      <guid>https://blog.jonlu.ca/posts/vibecoding-native-apps</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>emmett mcdow - oss</title>
+      <link>https://emmettmcdow.com/posts/oss</link>
+      <description></description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://emmettmcdow.com/posts/oss</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dark Alley Mathematics</title>
+      <link>https://blog.szczepan.org/blog/three-points/</link>
+      <description>Base changing and other calculations</description>
+      <category>javascript</category>
+      <guid>https://blog.szczepan.org/blog/three-points/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Julia</title>
+      <link>https://borretti.me/fiction/julia</link>
+      <description>An aphasic space station monitors an anomalous object, while keeping the last two humans alive.</description>
+      <guid>https://borretti.me/fiction/julia</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do RSS readers look like email clients?</title>
+      <link>https://manualdousuario.net/en/feed-readers-email-apps/</link>
+      <description>“Why do RSS readers look like email clients?” The question was asked by Terry Godier, first on Mastodon, then in a more detailed post. Godier dubbed the feeling of coming across hundreds of unread…</description>
+      <category>apple</category>
+      <guid>https://manualdousuario.net/en/feed-readers-email-apps/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>People Create Excellence, but Systems Make It Last</title>
+      <link>https://evan-moon.github.io/2026/01/24/leading-frontend-organization/en/</link>
+      <description>In this post, I want to talk about what I’ve been thinking about over the roughly two and a half years I’ve spent as a frontend chapter lead at Toss. My job and goal as a chapter lead at Toss is clear: make the Toss frontend chapter the most excellent engineering organization in the world.</description>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://evan-moon.github.io/2026/01/24/leading-frontend-organization/en/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Future of the Software Engineering Career</title>
+      <link>https://adventures.nodeland.dev/archive/the-future-of-the-software-engineering-career/</link>
+      <description>A few weeks ago, I wrote about the human in the loop and why review is now the bottleneck in software development. That post triggered a lot of...</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://adventures.nodeland.dev/archive/the-future-of-the-software-engineering-career/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Failure (&amp; Layoffs) | Jon Openshaw</title>
+      <link>https://jonopens.com/writing/on-failure</link>
+      <description>Sometimes we fail. We fail and we feel lost and depleted and scared. So what do we do with those feelings? Me? I write self-flagellating, unfunny essays in an effort to cradle the splinters of my fragile ego while introspecting to the point of violent illness. Onward!</description>
+      <category>ai</category>
+      <guid>https://jonopens.com/writing/on-failure</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Phone Silently Sends GPS to Your Carrier — Here's How</title>
+      <link>https://fumics.in/posts/2026-02-01-phone-gps-carrier-tracking</link>
+      <description>Your phone's baseband silently computes and sends precise GPS coordinates to your carrier via RRLP and LPP protocols. No notification, no consent, no way to opt out.</description>
+      <author> (https://fumics.in)</author>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://fumics.in/posts/2026-02-01-phone-gps-carrier-tracking</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM astroturfing is killing Reddit</title>
+      <link>https://www.bendangelo.me/2026/02/02/llm-astroturfing-is-killing-reddit/</link>
+      <description>Example of a llm astroturfing tool</description>
+      <category>ai</category>
+      <guid>https://www.bendangelo.me/2026/02/02/llm-astroturfing-is-killing-reddit/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meet the Garbage PC</title>
+      <link>https://ounapuu.ee/posts/2026/02/02/garbage-time/</link>
+      <description>It's garbage. Extremely good looking garbage, but garbage nevertheless.</description>
+      <guid>https://ounapuu.ee/posts/2026/02/02/garbage-time/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Airport Security Feels Random</title>
+      <link>https://yusufaytas.com/why-airport-security-feels-random/</link>
+      <description>Airport security feels random for a reason. It’s like a broken distributed system, and why variance, not people, is the real problem.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <category>git</category>
+      <guid>https://yusufaytas.com/why-airport-security-feels-random/</guid>
+      <pubDate>Tue, 03 Feb 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Todd C. Miller</title>
       <link>https://www.millert.dev/</link>
       <description>Note: this page tends be neglected and is only updated occasionally.
@@ -229,18 +426,6 @@ My iPhone 16 Pro Max produces garbage output when running MLX LLMs. An iPhone 15
       <category>linux</category>
       <guid>https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/</guid>
       <pubDate>Mon, 02 Feb 2026 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adventure Game Studio</title>
-      <link>https://www.adventuregamestudio.co.uk/</link>
-      <description>Join our vibrant community to create, play, and share adventure games. Unleash your creativity and explore adventure games by fellow creators!</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>android</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://www.adventuregamestudio.co.uk/</guid>
-      <pubDate>Mon, 02 Feb 2026 00:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
