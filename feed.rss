@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Moltbook Is Becoming a Security Nightmare - Telos Blog</title>
+      <link>https://www.telos-ai.org/blog/moltbook-security-nightmare</link>
+      <description>The viral AI agent social network has over 770,000 users with shell access to their owners' machines. A database breach just let anyone hijack any agent on the platform.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://www.telos-ai.org/blog/moltbook-security-nightmare</guid>
+      <pubDate>Tue, 03 Feb 2026 06:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>To Every Developer Close To Burnout, Read This · theSeniorDev</title>
       <link>https://www.theseniordev.com/blog/to-every-developer-close-to-burnout-read-this</link>
       <description>Today, I will share a Senior Developer’s perspective on burnout and six things you can do right now if you feel burned out as a developer to get your career and life back on track.</description>
@@ -294,26 +305,6 @@ My iPhone 16 Pro Max produces garbage output when running MLX LLMs. An iPhone 15
       <category>ai</category>
       <guid>https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/</guid>
       <pubDate>Mon, 02 Feb 2026 08:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - gavrielc/nanoclaw: My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.</title>
-      <link>https://github.com/gavrielc/nanoclaw</link>
-      <description>My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. - gavrielc/nanoclaw</description>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>containers</category>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://github.com/gavrielc/nanoclaw</guid>
-      <pubDate>Mon, 02 Feb 2026 06:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notepad++ Hijacked by State-Sponsored Hackers</title>
-      <link>https://notepad-plus-plus.org/news/hijacked-incident-info-update/</link>
-      <description>2026-02-02</description>
-      <category>sql</category>
-      <guid>https://notepad-plus-plus.org/news/hijacked-incident-info-update/</guid>
-      <pubDate>Mon, 02 Feb 2026 06:02:29 GMT</pubDate>
     </item>
   </channel>
 </rss>
