@@ -294,13 +294,5 @@
     "Domain": "qwen.ai",
     "Description": "Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong coding and agentic capabilities with significantly lower inference costs.\nScaling Agentic Training Rather than relying solely on parameter scaling, Qwen3-Coder-Next focuses on scaling agentic training signals.",
     "Confidence": 0.9812443
-  },
-  {
-    "Title": "What’s up with all those equals signs anyway?",
-    "Url": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
-    "Timestamp": "2026-02-03T14:03:01",
-    "Domain": "lars.ingebrigtsen.no",
-    "Description": "For some reason or other, people have been posting a lot of excerpts from old emails on Twitter over the last few days. The most vital question everybody’s asking themselves is: What’s …",
-    "Confidence": 0.9734881
   }
 ]
