@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Voxtral transcribes at the speed of sound. | Mistral AI",
+    "Url": "https://mistral.ai/news/voxtral-transcribe-2",
+    "Timestamp": "2026-02-04T19:02:10",
+    "Domain": "mistral.ai",
+    "Description": "Precision diarization, real-time transcription, and a new audio playground.",
+    "Confidence": 0.9878511
+  },
+  {
     "Title": "Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back.",
     "Url": "https://xakpc.dev/windows-widgets/history/",
     "Timestamp": "2026-02-04T17:02:20",
@@ -310,13 +318,5 @@
     "Domain": "deno.com",
     "Description": "Instant Linux microVMs with defense-in-depth security for running untrusted code.",
     "Confidence": 0.99706143
-  },
-  {
-    "Title": "Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding",
-    "Url": "https://qwen.ai/blog?id=qwen3-coder-next",
-    "Timestamp": "2026-02-03T19:02:22",
-    "Domain": "qwen.ai",
-    "Description": "Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We introduce Qwen3-Coder-Next, an open-weight language model designed specifically for coding agents and local development. Built on top of Qwen3-Next-80B-A3B-Base, which adopts a novel architecture with hybrid attention and MoE, Qwen3-Coder-Next has been agentically trained at scale on large-scale executable task synthesis, environment interaction, and reinforcement learning, obtaining strong coding and agentic capabilities with significantly lower inference costs.\nScaling Agentic Training Rather than relying solely on parameter scaling, Qwen3-Coder-Next focuses on scaling agentic training signals.",
-    "Confidence": 0.9812443
   }
 ]
