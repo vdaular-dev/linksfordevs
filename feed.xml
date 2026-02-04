@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Competence as Tragedy</title>
+      <link>https://crowprose.com/blog/competence-as-tragedy/</link>
+      <description>On Cormac McCarthy, John Grady Cole, and what it means to practice a craft while the world moves on without you.</description>
+      <author> (Joe McKenney)</author>
+      <category>ai</category>
+      <guid>https://crowprose.com/blog/competence-as-tragedy/</guid>
+      <pubDate>Wed, 04 Feb 2026 07:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>I miss thinking hard.</title>
+      <link>https://www.jernesto.com/articles/thinking_hard</link>
+      <description>Before you read this post, ask yourself a question: When was the last time you truly thought hard?</description>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.jernesto.com/articles/thinking_hard</guid>
+      <pubDate>Wed, 04 Feb 2026 07:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Notepad++ supply chain attack – unnoticed execution chains and new IoCs</title>
+      <link>https://securelist.com/notepad-supply-chain-attack/118708/</link>
+      <description>Kaspersky GReAT experts discovered previously undocumented infection chains used in the Notepad++ supply chain attacks. The article provides new IoCs related to those incidents which employ DLL sideloading and Cobalt Strike Beacon delivery.</description>
+      <guid>https://securelist.com/notepad-supply-chain-attack/118708/</guid>
+      <pubDate>Wed, 04 Feb 2026 07:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>A Processing Library in Lua</title>
       <link>https://l5lua.org/</link>
       <description></description>
