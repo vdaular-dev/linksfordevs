@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenClaw is What Apple Intelligence Should Have Been",
+    "Url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
+    "Timestamp": "2026-02-05T07:02:13",
+    "Domain": "www.jakequist.com",
+    "Description": "Something strange is happening with Mac Minis. They’re selling out everywhere, and it’s not because people suddenly need more coffee table computers.\nIf you browse Reddit or HN, you’ll see the same pattern: people are buying Mac Minis specifically to run AI agents with computer use. They’re setting up headless machines whose sole job is to automate their workflows. OpenClaw—the open-source framework that lets you run Claude, GPT-5, or whatever model you want to actually control your computer—has become the killer app for Mac hardware. Not Final Cut. Not Logic. An AI agent that clicks buttons.",
+    "Confidence": 0.98731345
+  },
+  {
     "Title": "Binary Star",
     "Url": "https://xkcd.com/3203/",
     "Timestamp": "2026-02-05T05:02:32",
@@ -190,29 +198,5 @@
     "Domain": "hackaday.com",
     "Description": "Does vibe coding risk destroying the Open Source ecosystem? According to a pre-print paper by a number of high-profile researchers, this might indeed be the case based on observed patterns and some…",
     "Confidence": 0.94426376
-  },
-  {
-    "Title": "Competence as Tragedy",
-    "Url": "https://crowprose.com/blog/competence-as-tragedy/",
-    "Timestamp": "2026-02-04T07:02:33",
-    "Domain": "crowprose.com",
-    "Description": "On Cormac McCarthy, John Grady Cole, and what it means to practice a craft while the world moves on without you.",
-    "Confidence": 0.90919137
-  },
-  {
-    "Title": "I miss thinking hard.",
-    "Url": "https://www.jernesto.com/articles/thinking_hard",
-    "Timestamp": "2026-02-04T07:02:30",
-    "Domain": "www.jernesto.com",
-    "Description": "Before you read this post, ask yourself a question: When was the last time you truly thought hard?",
-    "Confidence": 0.95721376
-  },
-  {
-    "Title": "The Notepad++ supply chain attack – unnoticed execution chains and new IoCs",
-    "Url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-    "Timestamp": "2026-02-04T07:02:26",
-    "Domain": "securelist.com",
-    "Description": "Kaspersky GReAT experts discovered previously undocumented infection chains used in the Notepad++ supply chain attacks. The article provides new IoCs related to those incidents which employ DLL sideloading and Cobalt Strike Beacon delivery.",
-    "Confidence": 0.99181974
   }
 ]

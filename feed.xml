@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenClaw is What Apple Intelligence Should Have Been</title>
+      <link>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</link>
+      <description>Something strange is happening with Mac Minis. They’re selling out everywhere, and it’s not because people suddenly need more coffee table computers.
+If you browse Reddit or HN, you’ll see the same pattern: people are buying Mac Minis specifically to run AI agents with computer use. They’re setting up headless machines whose sole job is to automate their workflows. OpenClaw—the open-source framework that lets you run Claude, GPT-5, or whatever model you want to actually control your computer—has become the killer app for Mac hardware. Not Final Cut. Not Logic. An AI agent that clicks buttons.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</guid>
+      <pubDate>Thu, 05 Feb 2026 07:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Binary Star</title>
       <link>https://xkcd.com/3203/</link>
       <description></description>
@@ -278,32 +288,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>javascript</category>
       <guid>https://hackaday.com/2026/02/02/how-vibe-coding-is-killing-open-source/</guid>
       <pubDate>Wed, 04 Feb 2026 08:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Competence as Tragedy</title>
-      <link>https://crowprose.com/blog/competence-as-tragedy/</link>
-      <description>On Cormac McCarthy, John Grady Cole, and what it means to practice a craft while the world moves on without you.</description>
-      <author> (Joe McKenney)</author>
-      <category>ai</category>
-      <guid>https://crowprose.com/blog/competence-as-tragedy/</guid>
-      <pubDate>Wed, 04 Feb 2026 07:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>I miss thinking hard.</title>
-      <link>https://www.jernesto.com/articles/thinking_hard</link>
-      <description>Before you read this post, ask yourself a question: When was the last time you truly thought hard?</description>
-      <category>rust</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.jernesto.com/articles/thinking_hard</guid>
-      <pubDate>Wed, 04 Feb 2026 07:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Notepad++ supply chain attack – unnoticed execution chains and new IoCs</title>
-      <link>https://securelist.com/notepad-supply-chain-attack/118708/</link>
-      <description>Kaspersky GReAT experts discovered previously undocumented infection chains used in the Notepad++ supply chain attacks. The article provides new IoCs related to those incidents which employ DLL sideloading and Cobalt Strike Beacon delivery.</description>
-      <guid>https://securelist.com/notepad-supply-chain-attack/118708/</guid>
-      <pubDate>Wed, 04 Feb 2026 07:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
