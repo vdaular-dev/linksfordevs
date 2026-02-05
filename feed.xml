@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Opus 4.6</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
+      <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. </description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.anthropic.com/news/claude-opus-4-6</guid>
+      <pubDate>Thu, 05 Feb 2026 19:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing GPT-5.3-Codex</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
+      <description>GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://openai.com/index/introducing-gpt-5-3-codex/</guid>
+      <pubDate>Thu, 05 Feb 2026 19:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>I Bought the Display From War Games!  Let's hack it...</title>
       <link>https://youtube.com/watch?v=JrwvIKK3D2o</link>
       <description>Dave details the HP1345A display used to make the famous scens in the movie War Games.</description>
@@ -246,14 +266,6 @@ https://www.youtube.com/watch?v=L0hrpf9oSW4</description>
       <category>web</category>
       <guid>https://youtube.com/watch?v=phbaxNPJxss</guid>
       <pubDate>Wed, 04 Feb 2026 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Voxtral transcribes at the speed of sound. | Mistral AI</title>
-      <link>https://mistral.ai/news/voxtral-transcribe-2</link>
-      <description>Precision diarization, real-time transcription, and a new audio playground.</description>
-      <category>ai</category>
-      <guid>https://mistral.ai/news/voxtral-transcribe-2</guid>
-      <pubDate>Wed, 04 Feb 2026 19:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
