@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Command Line Interface Consumer for Kafka in C# | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-consumer-for-kafka-in-c/",
+    "Timestamp": "2026-02-05T02:02:11",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I used to use the Confluent CLI to consume messages from Kafka, but recently it stopped working for me. So I wrote my own simple CLI consumer in C#."
+  },
+  {
     "Title": "Why do we use async-await in our Code",
     "Url": "https://furotmark.github.io/2026/02/04/Why-Do-We-Use-Async-Await-In-Our-Code.html",
     "Timestamp": "2026-02-05T00:03:43",
