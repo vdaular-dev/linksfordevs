@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Binary Star</title>
+      <link>https://xkcd.com/3203/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3203/</guid>
+      <pubDate>Thu, 05 Feb 2026 05:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Command Line Interface Consumer for Kafka in C# | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-consumer-for-kafka-in-c/</link>
       <description>I used to use the Confluent CLI to consume messages from Kafka, but recently it stopped working for me. So I wrote my own simple CLI consumer in C#.</description>
@@ -296,18 +304,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <description>Kaspersky GReAT experts discovered previously undocumented infection chains used in the Notepad++ supply chain attacks. The article provides new IoCs related to those incidents which employ DLL sideloading and Cobalt Strike Beacon delivery.</description>
       <guid>https://securelist.com/notepad-supply-chain-attack/118708/</guid>
       <pubDate>Wed, 04 Feb 2026 07:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Processing Library in Lua</title>
-      <link>https://l5lua.org/</link>
-      <description></description>
-      <category>apple</category>
-      <category>android</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <guid>https://l5lua.org/</guid>
-      <pubDate>Wed, 04 Feb 2026 05:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
