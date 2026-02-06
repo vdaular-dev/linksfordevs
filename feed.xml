@@ -132,14 +132,5 @@ If you browse Reddit or HN, you’ll see the same pattern: people are buying Mac
       <guid>https://xkcd.com/3203/</guid>
       <pubDate>Thu, 05 Feb 2026 05:02:32 GMT</pubDate>
     </item>
-    <item>
-      <title>Command Line Interface Consumer for Kafka in C# | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-consumer-for-kafka-in-c/</link>
-      <description>I used to use the Confluent CLI to consume messages from Kafka, but recently it stopped working for me. So I wrote my own simple CLI consumer in C#.</description>
-      <category>containers</category>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-consumer-for-kafka-in-c/</guid>
-      <pubDate>Thu, 05 Feb 2026 02:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
