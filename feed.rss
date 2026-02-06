@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Waymo World Model: A New Frontier For Autonomous Driving Simulation</title>
+      <link>https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation</link>
+      <description>We are excited to introduce the Waymo World Model, a frontier generative model that sets a new bar for large-scale, hyper-realistic autonomous driving simulation.</description>
+      <category>ai</category>
+      <guid>https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation</guid>
+      <pubDate>Fri, 06 Feb 2026 19:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>We Paid $150k/Year for an Agile Coach Who Had Never Written a Line of Production Code</title>
       <link>https://agilelie.com/blog/agile-coach-never-wrote-code</link>
       <description>After 25 years in banking tech, I watched a non-technical Agile coach spend two years redirecting every engineering problem into a process conversation. Here`s what happened, what it cost us, and what actually makes engineering teams effective.</description>
@@ -351,26 +359,6 @@ discovery.</description>
       <description>The Matrix protocol is being lined up as a sovereign backup to Microsoft Teams</description>
       <guid>https://www.euractiv.com/news/commission-trials-european-open-source-communications-software/</guid>
       <pubDate>Thu, 05 Feb 2026 21:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 4.6</title>
-      <link>https://www.anthropic.com/news/claude-opus-4-6</link>
-      <description>We’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin. </description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.anthropic.com/news/claude-opus-4-6</guid>
-      <pubDate>Thu, 05 Feb 2026 19:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing GPT-5.3-Codex</title>
-      <link>https://openai.com/index/introducing-gpt-5-3-codex/</link>
-      <description>GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://openai.com/index/introducing-gpt-5-3-codex/</guid>
-      <pubDate>Thu, 05 Feb 2026 19:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
