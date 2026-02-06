@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The RCE that AMD won't fix!",
+    "Url": "https://mrbruh.com/amd/",
+    "Timestamp": "2026-02-06T13:02:23",
+    "Domain": "mrbruh.com",
+    "Description": "After reporting a RCE in AMD's auto-update software, they decided to not patch it due to it requiring a man-in-the-middle attack to perform.",
+    "Confidence": 0.9679293
+  },
+  {
     "Title": "Wayland By Default in 2026.1 EAP | The JetBrains Platform Blog",
     "Url": "https://blog.jetbrains.com/platform/2026/02/wayland-by-default-in-2026-1-eap/",
     "Timestamp": "2026-02-06T11:02:08",

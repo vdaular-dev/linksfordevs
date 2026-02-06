@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The RCE that AMD won't fix!</title>
+      <link>https://mrbruh.com/amd/</link>
+      <description>After reporting a RCE in AMD's auto-update software, they decided to not patch it due to it requiring a man-in-the-middle attack to perform.</description>
+      <category>gaming</category>
+      <category>android</category>
+      <guid>https://mrbruh.com/amd/</guid>
+      <pubDate>Fri, 06 Feb 2026 13:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Wayland By Default in 2026.1 EAP | The JetBrains Platform Blog</title>
       <link>https://blog.jetbrains.com/platform/2026/02/wayland-by-default-in-2026-1-eap/</link>
       <description>Starting from version 2026.1, IntelliJ-based IDEs will run natively on Wayland in supported desktop configurations. This follows Wayland's ascendance to the position of primary display server across c</description>
