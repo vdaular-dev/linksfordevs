@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Sudo's maintainer needs resources to keep utility updated",
+    "Url": "https://www.theregister.com/2026/02/03/sudo_maintainer_asks_for_help/",
+    "Timestamp": "2026-02-06T07:02:08",
+    "Domain": "www.theregister.com",
+    "Description": "updated: Many vital open source resources rely on the devotion of a few individuals",
+    "Confidence": 0.83027864
+  },
+  {
     "Title": "From API Client to “Everything App” – Coding Is My Craft",
     "Url": "https://codingismycraft.blog/index.php/2026/02/05/postman-from-api-client-to-everything-app/",
     "Timestamp": "2026-02-06T06:02:17",
@@ -230,13 +238,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "When you’re running a project in a tech company, understanding that your main job is to ship the project goes a surprisingly long way. So many engineers spend their time on peripheral questions (like the choice of technology X or Y) when core questions about shipping the product (for instance, how all the critical paths will actually work) are still unanswered1.",
     "Confidence": 0.9244642
-  },
-  {
-    "Title": "OpenClaw is What Apple Intelligence Should Have Been",
-    "Url": "https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been",
-    "Timestamp": "2026-02-05T07:02:13",
-    "Domain": "www.jakequist.com",
-    "Description": "Something strange is happening with Mac Minis. They’re selling out everywhere, and it’s not because people suddenly need more coffee table computers.\nIf you browse Reddit or HN, you’ll see the same pattern: people are buying Mac Minis specifically to run AI agents with computer use. They’re setting up headless machines whose sole job is to automate their workflows. OpenClaw—the open-source framework that lets you run Claude, GPT-5, or whatever model you want to actually control your computer—has become the killer app for Mac hardware. Not Final Cut. Not Logic. An AI agent that clicks buttons.",
-    "Confidence": 0.98731345
   }
 ]

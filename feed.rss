@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sudo's maintainer needs resources to keep utility updated</title>
+      <link>https://www.theregister.com/2026/02/03/sudo_maintainer_asks_for_help/</link>
+      <description>updated: Many vital open source resources rely on the devotion of a few individuals</description>
+      <category>gaming</category>
+      <category>rust</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://www.theregister.com/2026/02/03/sudo_maintainer_asks_for_help/</guid>
+      <pubDate>Fri, 06 Feb 2026 07:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>From API Client to “Everything App” – Coding Is My Craft</title>
       <link>https://codingismycraft.blog/index.php/2026/02/05/postman-from-api-client-to-everything-app/</link>
       <description>Postman just announced its March 2026 updates, and it’s a massive change and deviation from its original purpose as an API testing and documentation tool. In my opinion, the evolution of Postman, from a simple tool running locally to assist developers to build and test APIs into a complex cloud-based platform is a textbook example…</description>
@@ -280,16 +291,6 @@ discovery.</description>
       <description>When you’re running a project in a tech company, understanding that your main job is to ship the project goes a surprisingly long way. So many engineers spend their time on peripheral questions (like the choice of technology X or Y) when core questions about shipping the product (for instance, how all the critical paths will actually work) are still unanswered1.</description>
       <guid>https://www.seangoedecke.com/getting-the-main-thing-right/</guid>
       <pubDate>Thu, 05 Feb 2026 09:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw is What Apple Intelligence Should Have Been</title>
-      <link>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</link>
-      <description>Something strange is happening with Mac Minis. They’re selling out everywhere, and it’s not because people suddenly need more coffee table computers.
-If you browse Reddit or HN, you’ll see the same pattern: people are buying Mac Minis specifically to run AI agents with computer use. They’re setting up headless machines whose sole job is to automate their workflows. OpenClaw—the open-source framework that lets you run Claude, GPT-5, or whatever model you want to actually control your computer—has become the killer app for Mac hardware. Not Final Cut. Not Logic. An AI agent that clicks buttons.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</guid>
-      <pubDate>Thu, 05 Feb 2026 07:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
