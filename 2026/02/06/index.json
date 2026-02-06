@@ -1,5 +1,166 @@
 [
   {
+    "Title": "Automated Board Alignment with YOLO",
+    "Url": "https://www.pikkoloassembly.com/blog/2026_02_05_automated_board_alignment.html",
+    "Timestamp": "2026-02-06T23:04:10",
+    "Domain": "www.pikkoloassembly.com",
+    "Description": "February 5, 2026"
+  },
+  {
+    "Title": "What does it take to build towards 100 PRs/day per engineer?",
+    "Url": "https://jonathannen.com/building-towards-100-prs-a-day",
+    "Timestamp": "2026-02-06T23:04:06",
+    "Domain": "jonathannen.com",
+    "Description": "What are the system and process changes we need to make to make 100 PRs/day possible for a single engineer?"
+  },
+  {
+    "Title": "Dynamic Memory Retrieval - A Technical Deep Dive",
+    "Url": "https://drdroid.io/dynamic-memory-retrieval",
+    "Timestamp": "2026-02-06T23:04:03",
+    "Domain": "drdroid.io",
+    "Description": "Learn how DrDroid's Dynamic Memory Retrieval (DMR) architecture enables domain-specific agentic platforms to deliver consistently higher results in SRE and infrastructure operations."
+  },
+  {
+    "Title": "Testing can be fun, actually",
+    "Url": "https://giacomocavalieri.me/writing/testing-can-be-fun-actually",
+    "Timestamp": "2026-02-06T23:03:59",
+    "Domain": "giacomocavalieri.me",
+    "Description": "Writing and maintaining tests is boring. But they're also some of the most valuable code we can write. With this blog post you'll learn a criminally underrated testing technique to add to your testing toolbox that can make tests a whole lot more pleasant."
+  },
+  {
+    "Title": "A/B test yourself vs code agent | Artur Kęsik - personal blog",
+    "Url": "https://arturkesik.com/blog/ab-test-you-vs-llm/",
+    "Timestamp": "2026-02-06T23:03:56",
+    "Domain": "arturkesik.com",
+    "Description": "Are you sure you are not falling for a trick?"
+  },
+  {
+    "Title": "Open Molten Claw",
+    "Url": "https://idiallo.com/blog/open-molten-claw?src=feed",
+    "Timestamp": "2026-02-06T23:03:53",
+    "Domain": "idiallo.com",
+    "Description": "At an old job, we used WordPress for the companion blog for our web services. This website was getting hacked every couple of weeks. We had a process in place to open all the WordPress pages, generate"
+  },
+  {
+    "Title": "The Rise of Spec Driven Development",
+    "Url": "https://www.dbreunig.com/2026/02/06/the-rise-of-spec-driven-development.html",
+    "Timestamp": "2026-02-06T23:03:49",
+    "Domain": "www.dbreunig.com",
+    "Description": "Writing about AI, geo, culture, media, data, and the ways they interact."
+  },
+  {
+    "Title": "The purpose of Continuous Integration is to fail",
+    "Url": "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail",
+    "Timestamp": "2026-02-06T23:03:46",
+    "Domain": "blog.nix-ci.com",
+    "Description": "CI is only valuable when it fails. When it passes, it's just overhead: the same outcome you'd get without CI. "
+  },
+  {
+    "Title": "My Programming Job Has Become An Intelligence Buying Job",
+    "Url": "https://frederic.vanderessen.com/posts/programming-is-now-buying-intelligence/",
+    "Timestamp": "2026-02-06T23:03:41",
+    "Domain": "frederic.vanderessen.com",
+    "Description": "Intelligence is now a commodity, our task is to use it efficiently"
+  },
+  {
+    "Title": "Against Markdown",
+    "Url": "https://aartaka.me/markdown.html",
+    "Timestamp": "2026-02-06T23:03:37",
+    "Domain": "aartaka.me",
+    "Description": "Markdown seems to have taken root. But it’s not really a good choice of markup language, because it’s incomplete, non-semantic, and tool-specific."
+  },
+  {
+    "Title": "Where Drupal Still Wins in 2026? | Michał Kokociński",
+    "Url": "https://kokocinski.me/blog/where-drupal-still-wins-2026",
+    "Timestamp": "2026-02-06T23:03:33",
+    "Domain": "kokocinski.me",
+    "Description": "Coming back to Drupal after years away, while working primarily as a frontend developer in the long-established React ecosystem with TypeScript and its surrounding tech stack, a natural question emerged: does starting new projects on Drupal in 2026 still make sense?"
+  },
+  {
+    "Title": "Don’t look Behind The Curtains! |",
+    "Url": "https://rodyne.com/?p=3574",
+    "Timestamp": "2026-02-06T23:03:28",
+    "Domain": "rodyne.com",
+    "Description": "My recent goals to work with and learn some newer, more popular, micro-controllers, and to try some different programming languages, has made me also take another look at the ways things have progressed since I started my career. My programming career started with Pet and ZX81 Basic at school, then Turbo Pascal for PC, and C for VMS/Unix at work/college. These were all languages I could easily grok. I still remember a magazine article where somebody poked a number into a memory location in the ZX81 and the letter “A” popped up on the screen, one line of code.. which mapped to one single CPU instruction! That was all it took for the light bulb to go on in my head."
+  },
+  {
+    "Title": "How Containers Actually Work: Building Container Networking From Scratch",
+    "Url": "https://amalchandran.xyz/journals/building-container-networking-from-scratch-part-1/",
+    "Timestamp": "2026-02-06T23:03:21",
+    "Domain": "amalchandran.xyz",
+    "Description": "Containers often feel like magic, and container networking can seem like a higher form of black magic. A process starts, gets its own IP address, can reach the internet, and talks to other containers. All without us touching low-level networking.\nBut nothing magical is happening.\nUnder the hood, container networking is built from a small set of Linux primitives: network namespaces, virtual Ethernet devices (veth), routing tables and NAT. In this write-up, we’ll build that setup manually to see exactly what Docker and other container runtimes are doing on our behalf."
+  },
+  {
+    "Title": "Agentic memory bottlenecks",
+    "Url": "https://jcarlosroldan.com/post/370",
+    "Timestamp": "2026-02-06T23:03:18",
+    "Domain": "jcarlosroldan.com",
+    "Description": "A couple of weeks ago I formatted an old Raspberry Pi 4 and installed Clawd on it, an agentic perso"
+  },
+  {
+    "Title": "Tech Stack Is a Business Decision | Dinko Marinac",
+    "Url": "https://dinkomarinac.dev/blog/tech-stack-is-a-business-decision/",
+    "Timestamp": "2026-02-06T23:03:13",
+    "Domain": "dinkomarinac.dev",
+    "Description": "Why tech stack choices should be driven by business context and constraints—not framework preferences—and why this matters even more with agentic coding tools."
+  },
+  {
+    "Title": "Agentic Productivity System with Plain Markdown",
+    "Url": "https://sattlerjoshua.com/writing/2026-02-06-agentic-productivity-system-with-plain-markdown/",
+    "Timestamp": "2026-02-06T23:03:10",
+    "Domain": "sattlerjoshua.com",
+    "Description": "Personal website and blog"
+  },
+  {
+    "Title": "Agent Skills: 59% Ship Scripts. 12% Are Empty.",
+    "Url": "https://pradeep.md/2026/02/03/ai-agent-skills-database.html",
+    "Timestamp": "2026-02-06T23:03:07",
+    "Domain": "pradeep.md",
+    "Description": "TL;DR:\n\n  4,784 skills scraped from 5 registries\n  Average quality score ~78, 31% score 90+\n  28% are duplicates\n  ~10% install packages via npm/pip\n  No ver..."
+  },
+  {
+    "Title": "Training a Small Language Model",
+    "Url": "https://elijahpotter.dev/articles/training-a-small-language-model",
+    "Timestamp": "2026-02-06T23:03:04",
+    "Domain": "elijahpotter.dev",
+    "Description": "I've built and trained an extremely small language model from scratch, specifically designed for short-form sentence rewriting tasks that are highly resource constrained."
+  },
+  {
+    "Title": "Mind The GAAP Again",
+    "Url": "https://blog.dshr.org/2026/02/mind-gaap-again.html",
+    "Timestamp": "2026-02-06T23:02:59",
+    "Domain": "blog.dshr.org",
+    "Description": "Source  A bit over three months ago I wrote Depreciation  and started with this graph from my 2022 post Generally Accepted Accounting Princi..."
+  },
+  {
+    "Title": "GitHub - microsoft/litebox: A security-focused library OS supporting kernel- and user-mode execution",
+    "Url": "https://github.com/microsoft/litebox",
+    "Timestamp": "2026-02-06T23:02:56",
+    "Domain": "github.com",
+    "Description": "A security-focused library OS supporting kernel- and user-mode execution - microsoft/litebox"
+  },
+  {
+    "Title": "The Sandbox Explosion | daax.dev",
+    "Url": "https://daax.dev/blogs/the-sandbox-explosion",
+    "Timestamp": "2026-02-06T23:02:50",
+    "Domain": "daax.dev",
+    "Description": "When Docker, Apple, and every hyperscaler builds microVM sandboxes, containers aren't enough. A deep dive into the AI sandbox landscape in 2026."
+  },
+  {
+    "Title": "RAG on Ruby on Rails - Jesse Waites",
+    "Url": "https://jessewaites.com/blog/post/rag-on-rails/",
+    "Timestamp": "2026-02-06T23:02:43",
+    "Domain": "jessewaites.com",
+    "Description": "Jesse Waites - Developer, Designer, Mobile Developer, Product Designer"
+  },
+  {
+    "Title": "How Virtual Textures Really Work · shlom.dev",
+    "Url": "https://www.shlom.dev/articles/how-virtual-textures-really-work/",
+    "Timestamp": "2026-02-06T23:02:39",
+    "Domain": "www.shlom.dev",
+    "Description": "Virtual texturing is not about supporting larger textures, but about aligning memory residency with what can actually be visible on screen. This article explains the system end-to-end, from addressing to feedback and residency decisions."
+  },
+  {
     "Title": "Dinosaurs And Non-Dinosaurs",
     "Url": "https://xkcd.com/3204/",
     "Timestamp": "2026-02-06T20:02:18",
