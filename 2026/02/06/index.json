@@ -1,5 +1,117 @@
 [
   {
+    "Title": "On the Lies Depression Tells",
+    "Url": "https://brianschrader.com/archive/on-the-lies-depression-tells/",
+    "Timestamp": "2026-02-06T03:03:11",
+    "Domain": "brianschrader.com",
+    "Description": "I'm no stranger to depressive episodes, though thankfully mine are sparse and usually brief: sometimes a day or two, though on rare occasions perhaps a week or more. I'm thankful mine have never progressed into anything serious. That said, I'd like to discuss something that's become somewhat of a theme in my conversations lately about depression, and something I hope you, the reader, might find useful when combatting this Great and Terrible Beast yourself."
+  },
+  {
+    "Title": "Expertise is a Relic; They want Drones",
+    "Url": "https://bill-rider.com/2026/02/05/expertise-is-a-relic-they-want-drones/",
+    "Timestamp": "2026-02-06T03:03:08",
+    "Domain": "bill-rider.com",
+    "Description": "Prolog I wrote this in September while on an almost two-week vacation in Spain. It was a phenomenal vacation. It was very likely the best vacation ever for my wife and I. We went to five cities: Ba…"
+  },
+  {
+    "Title": "mostlyobvio.us — Responsive code formatting on web",
+    "Url": "https://mostlyobvio.us/2026/02/responsive-code-formatting/",
+    "Timestamp": "2026-02-06T03:03:05",
+    "Domain": "mostlyobvio.us",
+    "Description": "Responsive Web Design was a hot topic over a decade ago. I'm old enough to remember Nicolas Barrera delivering a talk about it on wroclove.rb. It now feels strange not to design interfaces mobile-first, which is the primary screen for consuming content. And yet, when browsing code samples published online, more often than not we're left with with horizontal scrolls. Or worse, the hidden overflows."
+  },
+  {
+    "Title": "Why Not? – Wes McKinney",
+    "Url": "https://wesmckinney.com/blog/why-not/",
+    "Timestamp": "2026-02-06T03:03:02",
+    "Domain": "wesmckinney.com",
+    "Description": ""
+  },
+  {
+    "Title": "Pure strategy",
+    "Url": "https://www.jmduke.com/posts/pure-strategy.html",
+    "Timestamp": "2026-02-06T03:02:58",
+    "Domain": "www.jmduke.com",
+    "Description": "The goal of a build tool is to take a bunch of disparate inputs and compile them into an output: zsh $ rustc main.rs <pre class=\"mermaid\"> flowchart LR subgr..."
+  },
+  {
+    "Title": "4-Hour Builds: Anatomy of a Developer Experience Collapse | Fabio Luciano",
+    "Url": "https://fabioluciano.com/en/4-hours-build-anatomy-devex-collapse/",
+    "Timestamp": "2026-02-06T03:02:55",
+    "Domain": "fabioluciano.com",
+    "Description": "When thousands of tests, hundreds of GB of RAM, and toxic culture collide: a complete anatomy of a developer experience disaster"
+  },
+  {
+    "Title": "The Man With No Brains",
+    "Url": "https://tane.dev/2026/02/the-man-with-no-brains/",
+    "Timestamp": "2026-02-06T03:02:51",
+    "Domain": "tane.dev",
+    "Description": "After two years of using AI to write code, I finally found myself unable to start a new project without it."
+  },
+  {
+    "Title": "My issues with ProtonMail | Blog",
+    "Url": "https://tildeweb.nl/~michiel/protonmail-issues.html",
+    "Timestamp": "2026-02-06T03:02:48",
+    "Domain": "tildeweb.nl",
+    "Description": "Some issues I have with the mail service I would like to love"
+  },
+  {
+    "Title": "Writing the Code that Powers Your Code",
+    "Url": "https://thelinell.com/posts/2026/writing_the_code_that_powers_your_code/",
+    "Timestamp": "2026-02-06T03:02:44",
+    "Domain": "thelinell.com",
+    "Description": "On the craft and responsibility of writing code that shapes thousands of other developers' projects."
+  },
+  {
+    "Title": "We are QA Engineers now",
+    "Url": "https://serce.me/posts/2026-02-05-we-are-qa-engineers-now",
+    "Timestamp": "2026-02-06T03:02:40",
+    "Domain": "serce.me",
+    "Description": "This article argues that working with coding agents turns every software engineer into a QA engineer and into what this new role now entails."
+  },
+  {
+    "Title": "The Wrong Work, Done Beautifully",
+    "Url": "https://domenic.me/jsdom-claude-code/",
+    "Timestamp": "2026-02-06T03:02:37",
+    "Domain": "domenic.me",
+    "Description": "A snow town bakery, a six-year-old bug, and the unsettling ease of agentic open source maintenance."
+  },
+  {
+    "Title": "Can you make Claude cry? • Ninjas and Robots",
+    "Url": "https://ninjasandrobots.com/can-you-make-claude-cry",
+    "Timestamp": "2026-02-06T03:02:34",
+    "Domain": "ninjasandrobots.com",
+    "Description": "I know a lot of folks are worried about their jobs and AI. Another worry folks have is that AI is making them dumber. The things that felt good before: solving puzzling work problems, thinking hard about a project, etc. have vaporized when Claude... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft"
+  },
+  {
+    "Title": "The Accelerator and the Brake",
+    "Url": "https://blog.sebastiansastre.co/posts/the-accelerator-and-the-brake/",
+    "Timestamp": "2026-02-06T03:02:31",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "Why focusing only on attraction fails. You can have the best product in the world and still lose to nothing. Progress is a balance of forces—here’s the napkin math."
+  },
+  {
+    "Title": "Anupam Krishnamurthy | The courage to criticise",
+    "Url": "https://anupam.de/writing/essays/courageToCriticise.html",
+    "Timestamp": "2026-02-06T03:02:27",
+    "Domain": "anupam.de",
+    "Description": "I'm sure you've faced this situation before. Somebody asks you for feedback on their work. The moment you look through it, you know that it can be significantly improved. Yet, there is a sinking feeling in the pit of your stomach holding you back."
+  },
+  {
+    "Title": "I Read the Anthropic Legal Prompts That Crashed $285B in Stocks",
+    "Url": "https://thomas-witt.com/blog/285-billion-wiped-out-because-of-a-text-file/",
+    "Timestamp": "2026-02-06T03:02:23",
+    "Domain": "thomas-witt.com",
+    "Description": "On February 3, 2026, tech stocks went into free fall. Thomson Reuters dropped 15.83% — its biggest single-day decline on record. LegalZoom fell 19.68%. The Goldman Sachs US software basket lost 6%. Total damage: $285 billion in market cap, gone in a single session."
+  },
+  {
+    "Title": "Agentic retrieval infers. It doesn't guarantee.",
+    "Url": "https://markmhendrickson.com/posts/agentic-search-and-the-truth-layer/",
+    "Timestamp": "2026-02-06T03:02:20",
+    "Domain": "markmhendrickson.com",
+    "Description": "Your AI finds things. It also misses things, overwrites them, and often can't say where an answer came from. Why that happens and what would fix it."
+  },
+  {
     "Title": "It’s 2026, Just Use Postgres | Tiger Data",
     "Url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
     "Timestamp": "2026-02-06T01:02:18",
