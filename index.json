@@ -1,5 +1,29 @@
 [
   {
+    "Title": "It’s 2026, Just Use Postgres | Tiger Data",
+    "Url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
+    "Timestamp": "2026-02-06T01:02:18",
+    "Domain": "www.tigerdata.com",
+    "Description": "Stop managing multiple databases. Postgres extensions replace Elasticsearch, Pinecone, Redis, MongoDB, and InfluxDB with BM25, vectors, JSONB, and time-series in one database.",
+    "Confidence": 0.99862605
+  },
+  {
+    "Title": "GitHub - mdp/linkedin-extension-fingerprinting",
+    "Url": "https://github.com/mdp/linkedin-extension-fingerprinting",
+    "Timestamp": "2026-02-06T01:02:14",
+    "Domain": "github.com",
+    "Description": "Contribute to mdp/linkedin-extension-fingerprinting development by creating an account on GitHub.",
+    "Confidence": 0.9979179
+  },
+  {
+    "Title": "My AI Adoption Journey",
+    "Url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "Timestamp": "2026-02-06T01:02:09",
+    "Domain": "mitchellh.com",
+    "Description": "My experience adopting any meaningful tool is that I've necessarily\ngone through three phases: (1) a period of inefficiency (2) a period\nof adequacy, then finally (3) a period of workflow and life-altering\ndiscovery.",
+    "Confidence": 0.9792712
+  },
+  {
     "Title": "Building a C compiler with a team of parallel Claudes",
     "Url": "https://www.anthropic.com/engineering/building-c-compiler",
     "Timestamp": "2026-02-05T23:02:17",

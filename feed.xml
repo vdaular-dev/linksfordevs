@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It’s 2026, Just Use Postgres | Tiger Data</title>
+      <link>https://www.tigerdata.com/blog/its-2026-just-use-postgres</link>
+      <description>Stop managing multiple databases. Postgres extensions replace Elasticsearch, Pinecone, Redis, MongoDB, and InfluxDB with BM25, vectors, JSONB, and time-series in one database.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://www.tigerdata.com/blog/its-2026-just-use-postgres</guid>
+      <pubDate>Fri, 06 Feb 2026 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - mdp/linkedin-extension-fingerprinting</title>
+      <link>https://github.com/mdp/linkedin-extension-fingerprinting</link>
+      <description>Contribute to mdp/linkedin-extension-fingerprinting development by creating an account on GitHub.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://github.com/mdp/linkedin-extension-fingerprinting</guid>
+      <pubDate>Fri, 06 Feb 2026 01:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>My AI Adoption Journey</title>
+      <link>https://mitchellh.com/writing/my-ai-adoption-journey</link>
+      <description>My experience adopting any meaningful tool is that I've necessarily
+gone through three phases: (1) a period of inefficiency (2) a period
+of adequacy, then finally (3) a period of workflow and life-altering
+discovery.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://mitchellh.com/writing/my-ai-adoption-journey</guid>
+      <pubDate>Fri, 06 Feb 2026 01:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Building a C compiler with a team of parallel Claudes</title>
       <link>https://www.anthropic.com/engineering/building-c-compiler</link>
       <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
