@@ -286,13 +286,5 @@
     "Domain": "www.4rknova.com",
     "Description": "The classic plasma effect is a staple of demoscene history. Using sinusoidal functions and color gradients, it creates mesmerizing organic patterns that flow and pulse across the screen.",
     "Confidence": 0.99149525
-  },
-  {
-    "Title": "The RCE that AMD won't fix!",
-    "Url": "https://mrbruh.com/amd/",
-    "Timestamp": "2026-02-06T13:02:23",
-    "Domain": "mrbruh.com",
-    "Description": "After reporting a RCE in AMD's auto-update software, they decided to not patch it due to it requiring a man-in-the-middle attack to perform.",
-    "Confidence": 0.9679293
   }
 ]
