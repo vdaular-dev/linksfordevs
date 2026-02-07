@@ -238,13 +238,5 @@
     "Domain": "www.shlom.dev",
     "Description": "Virtual texturing is not about supporting larger textures, but about aligning memory residency with what can actually be visible on screen. This article explains the system end-to-end, from addressing to feedback and residency decisions.",
     "Confidence": 0.99066764
-  },
-  {
-    "Title": "Dinosaurs And Non-Dinosaurs",
-    "Url": "https://xkcd.com/3204/",
-    "Timestamp": "2026-02-06T20:02:18",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
