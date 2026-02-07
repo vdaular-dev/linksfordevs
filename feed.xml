@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI</title>
+      <link>https://github.com/pydantic/monty</link>
+      <description>A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty</description>
+      <category>conference</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://github.com/pydantic/monty</guid>
+      <pubDate>Sat, 07 Feb 2026 15:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>ReMemory - Split a recovery key among friends</title>
       <link>https://eljojo.github.io/rememory/</link>
       <description>An offline tool that encrypts files and splits the decryption key among trusted friends using Shamir's Secret Sharing. Open source.</description>
@@ -316,65 +328,6 @@ You could swap out a low spec CM5 for a higher spec, and get an instant computer
       <category>python</category>
       <guid>https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/</guid>
       <pubDate>Fri, 06 Feb 2026 16:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kirkville - I Now Assume that All Ads on Apple News Are Scams</title>
-      <link>https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/</link>
-      <description>Many ads in Apple News served by Taboola are clearly scams.</description>
-      <category>ai</category>
-      <guid>https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Moved to Mac from Windows as a .NET Developer</title>
-      <link>https://youtube.com/watch?v=JfiTSt16H_8</link>
-      <description>Learn PostgreSQL for Free at Dometrain: https://dometrain.com/course/hands-on-learn-postgresql/?ref=nick-chapsas&amp;promo=youtube
-
-Hello, everybody. I'm Nick, and in this video, I will talk about why I decided to move to Mac from Windows as a C# and .NET Developer and explain how easy it is.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>sql</category>
-      <category>apple</category>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=JfiTSt16H_8</guid>
-      <pubDate>Fri, 06 Feb 2026 15:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>I'm tired of trying to make vibe coding work for me</title>
-      <link>https://youtu.be/ly-GM3aYgfQ</link>
-      <description>Live At: https://twitch.tv/ThePrimeagen
-
-Wanna Become a Backend Dev &amp; Support me at the SAME TIME???
-https://boot.dev/prime</description>
-      <author> (ThePrimeagenHighlights)</author>
-      <category>gaming</category>
-      <guid>https://youtu.be/ly-GM3aYgfQ</guid>
-      <pubDate>Fri, 06 Feb 2026 15:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Command Line Interface Producer for Kafka in C# | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-producer-for-kafka-in-c/</link>
-      <description>This is a follow-up to my CLI consumer for Kafka in C#. Here is a simple CLI producer in C#.</description>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/02/command-line-interface-producer-for-kafka-in-c/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma Effect</title>
-      <link>https://www.4rknova.com//blog/2016/11/01/plasma</link>
-      <description>The classic plasma effect is a staple of demoscene history. Using sinusoidal functions and color gradients, it creates mesmerizing organic patterns that flow and pulse across the screen.</description>
-      <guid>https://www.4rknova.com//blog/2016/11/01/plasma</guid>
-      <pubDate>Fri, 06 Feb 2026 15:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
