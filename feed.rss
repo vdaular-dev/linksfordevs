@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Exploring a Modern SMTPE 2110 Broadcast Truck With My Dad</title>
+      <link>https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</link>
+      <description>In October, my Dad and I got to go behind the scenes at two St. Louis Blues (NHL hockey) games, and observe the massive team effort involved in putting together a modern digital sports broadcast.
+I wanted to explore the timing and digital side of a modern SMPTE 2110 mobile unit, and my Dad has been involved in studio and live broadcast for decades, so he enjoyed the experience as the engineer not on duty!</description>
+      <category>gaming</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</guid>
+      <pubDate>Sat, 07 Feb 2026 16:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI</title>
       <link>https://github.com/pydantic/monty</link>
       <description>A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty</description>
@@ -318,16 +327,6 @@ Under the hood, container networking is built from a small set of Linux primitiv
       <category>containers</category>
       <guid>https://agilelie.com/blog/agile-coach-never-wrote-code</guid>
       <pubDate>Fri, 06 Feb 2026 17:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>The first good Raspberry Pi Laptop</title>
-      <link>https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/</link>
-      <description>Ever since the Raspberry Pi Compute Module 5 was introduced, I wondered why nobody built a decent laptop chassis around it.
-You could swap out a low spec CM5 for a higher spec, and get an instant computer upgrade. Or, assuming a CM6 comes out someday in the same form factor, the laptop chassis could get an entirely new life with that upgrade.</description>
-      <category>linux</category>
-      <category>python</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/</guid>
-      <pubDate>Fri, 06 Feb 2026 16:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
