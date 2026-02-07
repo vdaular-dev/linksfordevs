@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenCiv3 Home",
+    "Url": "https://openciv3.org/",
+    "Timestamp": "2026-02-07T01:02:19",
+    "Domain": "openciv3.org",
+    "Description": "OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.",
+    "Confidence": 0.983606
+  },
+  {
     "Title": "Sheldon Brown-Bicycle Technical Information",
     "Url": "https://www.sheldonbrown.com/",
     "Timestamp": "2026-02-07T00:02:10",
@@ -438,29 +446,5 @@
     "Domain": "markmhendrickson.com",
     "Description": "Your AI finds things. It also misses things, overwrites them, and often can't say where an answer came from. Why that happens and what would fix it.",
     "Confidence": 0.98901373
-  },
-  {
-    "Title": "It’s 2026, Just Use Postgres | Tiger Data",
-    "Url": "https://www.tigerdata.com/blog/its-2026-just-use-postgres",
-    "Timestamp": "2026-02-06T01:02:18",
-    "Domain": "www.tigerdata.com",
-    "Description": "Stop managing multiple databases. Postgres extensions replace Elasticsearch, Pinecone, Redis, MongoDB, and InfluxDB with BM25, vectors, JSONB, and time-series in one database.",
-    "Confidence": 0.99862605
-  },
-  {
-    "Title": "GitHub - mdp/linkedin-extension-fingerprinting",
-    "Url": "https://github.com/mdp/linkedin-extension-fingerprinting",
-    "Timestamp": "2026-02-06T01:02:14",
-    "Domain": "github.com",
-    "Description": "Contribute to mdp/linkedin-extension-fingerprinting development by creating an account on GitHub.",
-    "Confidence": 0.9979179
-  },
-  {
-    "Title": "My AI Adoption Journey",
-    "Url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-    "Timestamp": "2026-02-06T01:02:09",
-    "Domain": "mitchellh.com",
-    "Description": "My experience adopting any meaningful tool is that I've necessarily\ngone through three phases: (1) a period of inefficiency (2) a period\nof adequacy, then finally (3) a period of workflow and life-altering\ndiscovery.",
-    "Confidence": 0.9792712
   }
 ]
