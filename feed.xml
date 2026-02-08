@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI fatigue is real and nobody talks about it | Siddhant Khare</title>
+      <link>https://siddhantkhare.com/writing/ai-fatigue-is-real</link>
+      <description>You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.</description>
+      <category>ai</category>
+      <guid>https://siddhantkhare.com/writing/ai-fatigue-is-real</guid>
+      <pubDate>Sun, 08 Feb 2026 17:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Am Happier Writing Code by Hand</title>
+      <link>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</link>
+      <description>I felt the familiar feeling of depression and lethargy creep in while my eyes darted from watching claude-code work and my phone. “What’s the point of it all?” I thought, LLMs can generate decent-ish and correct-ish looking code while I have more time to do what? doomscroll? This was the third time I gave claude-code a try. I felt the same feelings every single time and ended up deleting claude-code after 2-3 weeks, and whaddyouknow?</description>
+      <category>ai</category>
+      <guid>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</guid>
+      <pubDate>Sun, 08 Feb 2026 17:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Open Source — DoNotNotify</title>
       <link>https://donotnotify.com/opensource.html</link>
       <description>DoNotNotify is now open source. View the source code, contribute, and help improve the Android notification manager.</description>
@@ -136,16 +152,6 @@
       <category>ai</category>
       <guid>https://nolanlawson.com/2026/02/07/we-mourn-our-craft/</guid>
       <pubDate>Sat, 07 Feb 2026 21:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>La Suite numérique</title>
-      <link>https://github.com/suitenumerique</link>
-      <description>La Suite numérique is a set of open-source applications for digital collaboration and teamwork. It offers modern solutions for the digital workplace. - La Suite numérique</description>
-      <category>typescript</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://github.com/suitenumerique</guid>
-      <pubDate>Sat, 07 Feb 2026 17:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
