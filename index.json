@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Open Source — DoNotNotify",
+    "Url": "https://donotnotify.com/opensource.html",
+    "Timestamp": "2026-02-08T15:02:05",
+    "Domain": "donotnotify.com",
+    "Description": "DoNotNotify is now open source. View the source code, contribute, and help improve the Android notification manager.",
+    "Confidence": 0.92547303
+  },
+  {
     "Title": "GitHub - localgpt-app/localgpt",
     "Url": "https://github.com/localgpt-app/localgpt",
     "Timestamp": "2026-02-08T13:02:09",
@@ -118,13 +126,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "In October, my Dad and I got to go behind the scenes at two St. Louis Blues (NHL hockey) games, and observe the massive team effort involved in putting together a modern digital sports broadcast.\nI wanted to explore the timing and digital side of a modern SMPTE 2110 mobile unit, and my Dad has been involved in studio and live broadcast for decades, so he enjoyed the experience as the engineer not on duty!",
     "Confidence": 0.88342077
-  },
-  {
-    "Title": "GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI",
-    "Url": "https://github.com/pydantic/monty",
-    "Timestamp": "2026-02-07T15:02:08",
-    "Domain": "github.com",
-    "Description": "A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty",
-    "Confidence": 0.9975383
   }
 ]

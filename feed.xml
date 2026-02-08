@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Open Source — DoNotNotify</title>
+      <link>https://donotnotify.com/opensource.html</link>
+      <description>DoNotNotify is now open source. View the source code, contribute, and help improve the Android notification manager.</description>
+      <category>web</category>
+      <guid>https://donotnotify.com/opensource.html</guid>
+      <pubDate>Sun, 08 Feb 2026 15:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - localgpt-app/localgpt</title>
       <link>https://github.com/localgpt-app/localgpt</link>
       <description>Contribute to localgpt-app/localgpt development by creating an account on GitHub.</description>
@@ -147,18 +155,6 @@ I wanted to explore the timing and digital side of a modern SMPTE 2110 mobile un
       <category>gaming</category>
       <guid>https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</guid>
       <pubDate>Sat, 07 Feb 2026 16:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - pydantic/monty: A minimal, secure Python interpreter written in Rust for use by AI</title>
-      <link>https://github.com/pydantic/monty</link>
-      <description>A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty</description>
-      <category>conference</category>
-      <category>rust</category>
-      <category>containers</category>
-      <category>python</category>
-      <category>nodejs</category>
-      <guid>https://github.com/pydantic/monty</guid>
-      <pubDate>Sat, 07 Feb 2026 15:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
