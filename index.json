@@ -118,13 +118,5 @@
     "Domain": "github.com",
     "Description": "A minimal, secure Python interpreter written in Rust for use by AI - pydantic/monty",
     "Confidence": 0.9975383
-  },
-  {
-    "Title": "ReMemory - Split a recovery key among friends",
-    "Url": "https://eljojo.github.io/rememory/",
-    "Timestamp": "2026-02-07T09:02:05",
-    "Domain": "eljojo.github.io",
-    "Description": "An offline tool that encrypts files and splits the decryption key among trusted friends using Shamir's Secret Sharing. Open source.",
-    "Confidence": 0.9971406
   }
 ]
