@@ -7,6 +7,92 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Software Engineering Transformation 2026 | Michal Franc</title>
+      <link>https://mfranc.com/blog/ai-2026/</link>
+      <description>Thouhgts on the impact of AI and LLMS on the work of Software Engineers </description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>cloud</category>
+      <category>conference</category>
+      <guid>https://mfranc.com/blog/ai-2026/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The silent death of Good Code</title>
+      <link>https://amit.prasad.me/blog/rip-good-code</link>
+      <description>I’ve been passionate about writing “Good Code™” since before I started my career, beginning way back when I was still a kid in middle school.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://amit.prasad.me/blog/rip-good-code</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why the Liar Is the Helpful One</title>
+      <link>https://blog.szczepan.org/blog/knights-and-knaves/</link>
+      <description>Why lies can be more informative than truth</description>
+      <category>ai</category>
+      <guid>https://blog.szczepan.org/blog/knights-and-knaves/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The source code was the moat. But not anymore – Vallified</title>
+      <link>https://philipotoole.com/the-source-code-was-the-moat-no-longer/</link>
+      <description>Last week I started using some of the new coding agents properly. Not in a careful, experimental way, but properly -- for three days on rqlite. Claude Code. Copilot CLI. Tools I had yet to fully integrate into how I write software. If you know the Star Trek episode The Doomsday Machine -- where Kirk…</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://philipotoole.com/the-source-code-was-the-moat-no-longer/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Best Thinking Is Wasted on the Wrong Decisions - Ian Duncan</title>
+      <link>https://www.iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/</link>
+      <description>Some engineering decisions punish you for being wrong. Most don't. Learning to tell the difference and calibrate your deliberation accordingly might be the most valuable skill your team never explicitly develops.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flirt: The Native Backend</title>
+      <link>https://blog.buenzli.dev/flirt-native-backend/</link>
+      <description></description>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://blog.buenzli.dev/flirt-native-backend/</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I haven't figured out</title>
+      <link>https://macwright.com/2026/01/29/what-i-havent-figured-out</link>
+      <description>JavaScript, math, maps, etc</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://macwright.com/2026/01/29/what-i-havent-figured-out</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>I built a terminal monitoring app and custom firmware for a desktop clock with Claude</title>
+      <link>https://duggan.ie/posts/i-built-a-terminal-monitoring-app-and-custom-firmware-for-a-desktop-clock-with-claude</link>
+      <description>The way that I've used AI for coding has changed drastically over the last year.   In fact, the rate at which it is changing is probably the most drastic element of it – I can't recall any time since my first year of college, twenty years ago, that I've experienced such a rapid evolution in my own ability to do stuff.  This week I have written a fully self-contained system monitoring daemon and terminal UI, as well as custom Rust firmware for the Ulanzi TC001 desktop clock.  These are two projects that would have remained ideas, never making it out of my notes folder.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>cloud</category>
+      <guid>https://duggan.ie/posts/i-built-a-terminal-monitoring-app-and-custom-firmware-for-a-desktop-clock-with-claude</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I squeezed a BERT sentiment analyzer into 1GB RAM on a $5 VPS</title>
+      <link>https://mohammedeabdelaziz.github.io/articles/trendscope-market-scanner</link>
+      <description>How to fit a transformer model into a low-memory VPS using Dynamic Quantization and ONNX Runtime.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>python</category>
+      <guid>https://mohammedeabdelaziz.github.io/articles/trendscope-market-scanner</guid>
+      <pubDate>Sun, 08 Feb 2026 02:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>We mourn our craft</title>
       <link>https://nolanlawson.com/2026/02/07/we-mourn-our-craft/</link>
       <description>I didn’t ask for this and neither did you. I didn’t ask for a robot to consume every blog post and piece of code I ever wrote and parrot it back so that some hack could make money off o…</description>

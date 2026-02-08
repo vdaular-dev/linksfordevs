@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "Title": "Software Engineering Transformation 2026 | Michal Franc",
+    "Url": "https://mfranc.com/blog/ai-2026/",
+    "Timestamp": "2026-02-08T02:02:45",
+    "Domain": "mfranc.com",
+    "Description": "Thouhgts on the impact of AI and LLMS on the work of Software Engineers "
+  },
+  {
+    "Title": "The silent death of Good Code",
+    "Url": "https://amit.prasad.me/blog/rip-good-code",
+    "Timestamp": "2026-02-08T02:02:37",
+    "Domain": "amit.prasad.me",
+    "Description": "I’ve been passionate about writing “Good Code™” since before I started my career, beginning way back when I was still a kid in middle school."
+  },
+  {
+    "Title": "Why the Liar Is the Helpful One",
+    "Url": "https://blog.szczepan.org/blog/knights-and-knaves/",
+    "Timestamp": "2026-02-08T02:02:34",
+    "Domain": "blog.szczepan.org",
+    "Description": "Why lies can be more informative than truth"
+  },
+  {
+    "Title": "The source code was the moat. But not anymore – Vallified",
+    "Url": "https://philipotoole.com/the-source-code-was-the-moat-no-longer/",
+    "Timestamp": "2026-02-08T02:02:31",
+    "Domain": "philipotoole.com",
+    "Description": "Last week I started using some of the new coding agents properly. Not in a careful, experimental way, but properly -- for three days on rqlite. Claude Code. Copilot CLI. Tools I had yet to fully integrate into how I write software. If you know the Star Trek episode The Doomsday Machine -- where Kirk…"
+  },
+  {
+    "Title": "Your Best Thinking Is Wasted on the Wrong Decisions - Ian Duncan",
+    "Url": "https://www.iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/",
+    "Timestamp": "2026-02-08T02:02:27",
+    "Domain": "www.iankduncan.com",
+    "Description": "Some engineering decisions punish you for being wrong. Most don't. Learning to tell the difference and calibrate your deliberation accordingly might be the most valuable skill your team never explicitly develops."
+  },
+  {
+    "Title": "Flirt: The Native Backend",
+    "Url": "https://blog.buenzli.dev/flirt-native-backend/",
+    "Timestamp": "2026-02-08T02:02:24",
+    "Domain": "blog.buenzli.dev",
+    "Description": ""
+  },
+  {
+    "Title": "What I haven't figured out",
+    "Url": "https://macwright.com/2026/01/29/what-i-havent-figured-out",
+    "Timestamp": "2026-02-08T02:02:19",
+    "Domain": "macwright.com",
+    "Description": "JavaScript, math, maps, etc"
+  },
+  {
+    "Title": "I built a terminal monitoring app and custom firmware for a desktop clock with Claude",
+    "Url": "https://duggan.ie/posts/i-built-a-terminal-monitoring-app-and-custom-firmware-for-a-desktop-clock-with-claude",
+    "Timestamp": "2026-02-08T02:02:16",
+    "Domain": "duggan.ie",
+    "Description": "The way that I've used AI for coding has changed drastically over the last year.   In fact, the rate at which it is changing is probably the most drastic element of it – I can't recall any time since my first year of college, twenty years ago, that I've experienced such a rapid evolution in my own ability to do stuff.  This week I have written a fully self-contained system monitoring daemon and terminal UI, as well as custom Rust firmware for the Ulanzi TC001 desktop clock.  These are two projects that would have remained ideas, never making it out of my notes folder."
+  },
+  {
+    "Title": "How I squeezed a BERT sentiment analyzer into 1GB RAM on a $5 VPS",
+    "Url": "https://mohammedeabdelaziz.github.io/articles/trendscope-market-scanner",
+    "Timestamp": "2026-02-08T02:02:11",
+    "Domain": "mohammedeabdelaziz.github.io",
+    "Description": "How to fit a transformer model into a low-memory VPS using Dynamic Quantization and ONNX Runtime."
+  }
+]
