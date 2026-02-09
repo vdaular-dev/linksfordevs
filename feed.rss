@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Game Boy Snake: A Complete Implementation in Assembly</title>
+      <link>https://www.4rknova.com//blog/2026/02/08/gb-snake</link>
+      <description>A detailed walkthrough of a classic Snake game for the Nintendo Game Boy, written entirely in RGBDS assembly. Covers the game loop, state machine, snake ring buffer, occupancy grid collision detect...</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.4rknova.com//blog/2026/02/08/gb-snake</guid>
+      <pubDate>Mon, 09 Feb 2026 17:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>All The Views</title>
+      <link>https://alltheviews.world/</link>
+      <description>With the help of a custom-developed algorithm, CacheTVS, we have exhaustively
+checked every single view on Earth in search of the coveted longest line of sight on the planet.
+Based on the method we detail here, we present the greatest view of all:</description>
+      <guid>https://alltheviews.world/</guid>
+      <pubDate>Mon, 09 Feb 2026 17:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Magician's Apprentice PC prototypes - Games That Weren't</title>
       <link>https://www.gamesthatwerent.com/2026/02/magicians-apprentice-pc-prototypes/</link>
       <description>Next up are some prototypes for PC DOS in the shape of Magician's Apprentice, a very obscure platformer game that was originally due for release on the Konix Multi-System (which also was unreleased itself), and which was recovered last year.</description>
@@ -261,22 +279,6 @@ System specs Link to heading Board: NVIDIA Jetson Nano (4GB) CPU: Quad-core ARM 
       <category>ai</category>
       <guid>https://ezhik.jp/ai-slop-terrifies-me/</guid>
       <pubDate>Sun, 08 Feb 2026 20:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI fatigue is real and nobody talks about it | Siddhant Khare</title>
-      <link>https://siddhantkhare.com/writing/ai-fatigue-is-real</link>
-      <description>You're using AI to be more productive. So why are you more exhausted than ever? The paradox every engineer needs to confront.</description>
-      <category>ai</category>
-      <guid>https://siddhantkhare.com/writing/ai-fatigue-is-real</guid>
-      <pubDate>Sun, 08 Feb 2026 17:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Am Happier Writing Code by Hand</title>
-      <link>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</link>
-      <description>I felt the familiar feeling of depression and lethargy creep in while my eyes darted from watching claude-code work and my phone. “What’s the point of it all?” I thought, LLMs can generate decent-ish and correct-ish looking code while I have more time to do what? doomscroll? This was the third time I gave claude-code a try. I felt the same feelings every single time and ended up deleting claude-code after 2-3 weeks, and whaddyouknow?</description>
-      <category>ai</category>
-      <guid>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</guid>
-      <pubDate>Sun, 08 Feb 2026 17:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
