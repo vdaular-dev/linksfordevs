@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Magician's Apprentice PC prototypes - Games That Weren't</title>
+      <link>https://www.gamesthatwerent.com/2026/02/magicians-apprentice-pc-prototypes/</link>
+      <description>Next up are some prototypes for PC DOS in the shape of Magician's Apprentice, a very obscure platformer game that was originally due for release on the Konix Multi-System (which also was unreleased itself), and which was recovered last year.</description>
+      <author> (https://www.facebook.com/frank.gasking)</author>
+      <category>gaming</category>
+      <category>git</category>
+      <category>youtube</category>
+      <guid>https://www.gamesthatwerent.com/2026/02/magicians-apprentice-pc-prototypes/</guid>
+      <pubDate>Mon, 09 Feb 2026 15:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>👀 It's Not About the API - Fast, Flexible, and Simple Rendering in Vulkan</title>
+      <link>https://gamesbymason.com/blog/2026/vulkan/</link>
+      <description>What if Vulkan isn't as complex as you thought? This talk walks you through a fast, flexible, and simple appraoch to writing efficient graphics engines in Vulkan.</description>
+      <guid>https://gamesbymason.com/blog/2026/vulkan/</guid>
+      <pubDate>Mon, 09 Feb 2026 15:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Should Watch The Expanse</title>
       <link>https://idiallo.com/blog/microsoft-should-watch-the-expanse?src=feed</link>
       <description>My favorite piece of technology in science fiction isn't lightsabers, flying spaceships, or even robots. It's AI. But not just any AI. My favorite is the one in the TV show The Expanse.
@@ -259,14 +277,6 @@ System specs Link to heading Board: NVIDIA Jetson Nano (4GB) CPU: Quad-core ARM 
       <category>ai</category>
       <guid>https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/</guid>
       <pubDate>Sun, 08 Feb 2026 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source — DoNotNotify</title>
-      <link>https://donotnotify.com/opensource.html</link>
-      <description>DoNotNotify is now open source. View the source code, contribute, and help improve the Android notification manager.</description>
-      <category>web</category>
-      <guid>https://donotnotify.com/opensource.html</guid>
-      <pubDate>Sun, 08 Feb 2026 15:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
