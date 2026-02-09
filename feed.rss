@@ -7,6 +7,182 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Everybody is now an (underpaid) CTO</title>
+      <link>https://ossama.is/blog/disparity</link>
+      <description>I got promoted four times this year. My salary got the memo zero times.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://ossama.is/blog/disparity</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs are prediction machines</title>
+      <link>https://kaelandt.github.io/posts/llm-prediction-machines.html</link>
+      <description>← Back to Blog</description>
+      <category>ai</category>
+      <guid>https://kaelandt.github.io/posts/llm-prediction-machines.html</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framework 13 Initial Impressions</title>
+      <link>https://www.abgn.me/posts/frame-work-13-initial-impressions</link>
+      <description>I've just unboxed and set up the Framework 13. Here are my initial impressions.</description>
+      <author> (Albin Groen)</author>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://www.abgn.me/posts/frame-work-13-initial-impressions</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lance table format explained simply</title>
+      <link>https://tontinton.com/posts/lance/</link>
+      <description>Lance is a new table and file format. A modern successor to Apache Iceberg / Delta Lake. (Animated)</description>
+      <category>ai</category>
+      <guid>https://tontinton.com/posts/lance/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Credentials for Linux (FOSDEM 2026)</title>
+      <link>https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html</link>
+      <description>Bringing Passkeys to the Linux desktop</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>rust</category>
+      <category>linux</category>
+      <category>youtube</category>
+      <guid>https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context is part of the game</title>
+      <link>https://joy.pm/context-is-part-of-the-code/</link>
+      <description>For a while I used coding agents for small, self-contained things. Refactor this method. Rename this variable. Extract this into a function. Safe, short instructions where the agent couldn't go too far off track.
+
+But I kept seeing people push further — giving agents a longer leash, taming them into handling</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://joy.pm/context-is-part-of-the-code/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everyone should play more games offline</title>
+      <link>https://gabrielcornish.com/everyone-should-play-more-games-offline/</link>
+      <description>There's something cozy about playing a video game offline.
+
+Try it. Turn off WiFi in the house or go into offline mode and boot up your favorite game. Get ...</description>
+      <category>gaming</category>
+      <guid>https://gabrielcornish.com/everyone-should-play-more-games-offline/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Local Speech Recognition | Oatmeal Weekly</title>
+      <link>https://oatmealapp.com/blog/the-rise-of-local-speech-recognition/</link>
+      <description>How speech recognition escaped the cloud: from Hinton's neural networks to Whisper to 50x-faster-than-realtime local models. A 20-year technical history.</description>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://oatmealapp.com/blog/the-rise-of-local-speech-recognition/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheap design</title>
+      <link>https://dottedmag.net/blog/cheap-design/</link>
+      <description>In the physical world, making things has two costs: design and fabrication.
+Design is drawing up the part. Fabrication is producing it. Both are expensive,
+so physical things are made from standard parts: bolts, beams, extrusions,
+brackets. You accept the overhead of fasteners and adapters because custom
+fabrication costs too much.</description>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://dottedmag.net/blog/cheap-design/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Future of Software Engineering</title>
+      <link>https://www.poberezkin.com/posts/2026-02-07-the-future-of-software-engineering.html</link>
+      <description>Evgeny Poberezkin's blog</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://www.poberezkin.com/posts/2026-02-07-the-future-of-software-engineering.html</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Does Anyone Even Know What's Happening in Zim Right Now?</title>
+      <link>https://mayberay.bearblog.dev/does-anyone-even-know-whats-happening-in-zim-right-now/</link>
+      <description>Can you name the top news stories in Zimbabwe right now, or any recent policy change taking place in the country? Chances are you'll have a hard time. 
+
+Th...</description>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://mayberay.bearblog.dev/does-anyone-even-know-whats-happening-in-zim-right-now/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Small Plates</title>
+      <link>https://alexlance.blog/nas.html</link>
+      <description></description>
+      <category>encryption</category>
+      <guid>https://alexlance.blog/nas.html</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Nothing" is the secret to structuring your work</title>
+      <link>https://www.vangemert.dev/blog/nothing</link>
+      <description>Steven van Gemert</description>
+      <guid>https://www.vangemert.dev/blog/nothing</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Installing OpenClaw on a Jetson Nano</title>
+      <link>https://brtkwr.com/posts/2026-02-08-installing-openclaw-on-jetson-nano/</link>
+      <description>I had a Jetson Nano lying around doing nothing and wanted to use it as a self-hosted OpenClaw gateway. OpenClaw gets broad system access — filesystem, shell, network, credentials — and there’s been a steady stream of security issues, including a one-click RCE vulnerability (CVE-2026-25253) and hundreds of exposed instances found via Shodan with no authentication. A dedicated device keeps the blast radius away from anything I actually care about.
+System specs Link to heading Board: NVIDIA Jetson Nano (4GB) CPU: Quad-core ARM Cortex-A57 (ARMv8) RAM: 4GB LPDDR4 Storage: 128GB eMMC OS: Ubuntu 18.04.6 LTS (JetPack R32.1.0) Kernel: 4.9.140-tegra Connection: SSH over local network, HDMI to external projector The Nano runs Ubuntu 18.04 with a 4.9 kernel — NVIDIA’s last supported JetPack for this hardware. That means ancient system packages, including Node.js v8.10, and OpenClaw requires Node 22+. Here’s how I got it working with Bun instead, and what to expect when running modern software on end-of-life hardware.</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://brtkwr.com/posts/2026-02-08-installing-openclaw-on-jetson-nano/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Entropies</title>
+      <link>https://dpaletti.com/posts/entropies/</link>
+      <description>Making sense of entropies</description>
+      <author> (Daniele Paletti)</author>
+      <guid>https://dpaletti.com/posts/entropies/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on LLMs — finestructure</title>
+      <link>https://finestructure.co/blog/2026/2/6/thoughts-on-llms</link>
+      <description>I find it difficult to coherently collect my thoughts on LLMs. They’re undeniably an interesting technology. There are also people I follow online that I have a lot of respect for and who I trust, making a strong case that they’re finding LLMs useful in many aspects of their work.</description>
+      <guid>https://finestructure.co/blog/2026/2/6/thoughts-on-llms</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>I built a NAS</title>
+      <link>https://arne.me/blog/buildlog-nas</link>
+      <description>In this blog post I describe why and how I set up my personal cloud on a NAS.
+</description>
+      <category>encryption</category>
+      <category>containers</category>
+      <guid>https://arne.me/blog/buildlog-nas</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>I keep coming back to Amp Code</title>
+      <link>https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp</link>
+      <description>A collection of my thoughts and stuff.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp</guid>
+      <pubDate>Mon, 09 Feb 2026 00:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Makes the Easy Part Easier and the Hard Part Harder for Developers</title>
       <link>https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder</link>
       <description>AI handles writing code but leaves the hard work: investigation, context, validation. Why vibe coding has limits and AI assistance can backfire.</description>

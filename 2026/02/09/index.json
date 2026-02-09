@@ -1,0 +1,128 @@
+[
+  {
+    "Title": "Everybody is now an (underpaid) CTO",
+    "Url": "https://ossama.is/blog/disparity",
+    "Timestamp": "2026-02-09T00:03:19",
+    "Domain": "ossama.is",
+    "Description": "I got promoted four times this year. My salary got the memo zero times."
+  },
+  {
+    "Title": "LLMs are prediction machines",
+    "Url": "https://kaelandt.github.io/posts/llm-prediction-machines.html",
+    "Timestamp": "2026-02-09T00:03:16",
+    "Domain": "kaelandt.github.io",
+    "Description": "← Back to Blog"
+  },
+  {
+    "Title": "Framework 13 Initial Impressions",
+    "Url": "https://www.abgn.me/posts/frame-work-13-initial-impressions",
+    "Timestamp": "2026-02-09T00:03:13",
+    "Domain": "www.abgn.me",
+    "Description": "I've just unboxed and set up the Framework 13. Here are my initial impressions."
+  },
+  {
+    "Title": "Lance table format explained simply",
+    "Url": "https://tontinton.com/posts/lance/",
+    "Timestamp": "2026-02-09T00:03:10",
+    "Domain": "tontinton.com",
+    "Description": "Lance is a new table and file format. A modern successor to Apache Iceberg / Delta Lake. (Animated)"
+  },
+  {
+    "Title": "Credentials for Linux (FOSDEM 2026)",
+    "Url": "https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html",
+    "Timestamp": "2026-02-09T00:03:06",
+    "Domain": "alfioemanuele.io",
+    "Description": "Bringing Passkeys to the Linux desktop"
+  },
+  {
+    "Title": "Context is part of the game",
+    "Url": "https://joy.pm/context-is-part-of-the-code/",
+    "Timestamp": "2026-02-09T00:03:03",
+    "Domain": "joy.pm",
+    "Description": "For a while I used coding agents for small, self-contained things. Refactor this method. Rename this variable. Extract this into a function. Safe, short instructions where the agent couldn't go too far off track.\n\nBut I kept seeing people push further — giving agents a longer leash, taming them into handling"
+  },
+  {
+    "Title": "Everyone should play more games offline",
+    "Url": "https://gabrielcornish.com/everyone-should-play-more-games-offline/",
+    "Timestamp": "2026-02-09T00:02:58",
+    "Domain": "gabrielcornish.com",
+    "Description": "There's something cozy about playing a video game offline.\n\nTry it. Turn off WiFi in the house or go into offline mode and boot up your favorite game. Get ..."
+  },
+  {
+    "Title": "The Rise of Local Speech Recognition | Oatmeal Weekly",
+    "Url": "https://oatmealapp.com/blog/the-rise-of-local-speech-recognition/",
+    "Timestamp": "2026-02-09T00:02:55",
+    "Domain": "oatmealapp.com",
+    "Description": "How speech recognition escaped the cloud: from Hinton's neural networks to Whisper to 50x-faster-than-realtime local models. A 20-year technical history."
+  },
+  {
+    "Title": "Cheap design",
+    "Url": "https://dottedmag.net/blog/cheap-design/",
+    "Timestamp": "2026-02-09T00:02:51",
+    "Domain": "dottedmag.net",
+    "Description": "In the physical world, making things has two costs: design and fabrication.\nDesign is drawing up the part. Fabrication is producing it. Both are expensive,\nso physical things are made from standard parts: bolts, beams, extrusions,\nbrackets. You accept the overhead of fasteners and adapters because custom\nfabrication costs too much."
+  },
+  {
+    "Title": "The Future of Software Engineering",
+    "Url": "https://www.poberezkin.com/posts/2026-02-07-the-future-of-software-engineering.html",
+    "Timestamp": "2026-02-09T00:02:47",
+    "Domain": "www.poberezkin.com",
+    "Description": "Evgeny Poberezkin's blog"
+  },
+  {
+    "Title": "Does Anyone Even Know What's Happening in Zim Right Now?",
+    "Url": "https://mayberay.bearblog.dev/does-anyone-even-know-whats-happening-in-zim-right-now/",
+    "Timestamp": "2026-02-09T00:02:44",
+    "Domain": "mayberay.bearblog.dev",
+    "Description": "Can you name the top news stories in Zimbabwe right now, or any recent policy change taking place in the country? Chances are you'll have a hard time. \n\nTh..."
+  },
+  {
+    "Title": "Small Plates",
+    "Url": "https://alexlance.blog/nas.html",
+    "Timestamp": "2026-02-09T00:02:41",
+    "Domain": "alexlance.blog",
+    "Description": ""
+  },
+  {
+    "Title": "\"Nothing\" is the secret to structuring your work",
+    "Url": "https://www.vangemert.dev/blog/nothing",
+    "Timestamp": "2026-02-09T00:02:38",
+    "Domain": "www.vangemert.dev",
+    "Description": "Steven van Gemert"
+  },
+  {
+    "Title": "Installing OpenClaw on a Jetson Nano",
+    "Url": "https://brtkwr.com/posts/2026-02-08-installing-openclaw-on-jetson-nano/",
+    "Timestamp": "2026-02-09T00:02:35",
+    "Domain": "brtkwr.com",
+    "Description": "I had a Jetson Nano lying around doing nothing and wanted to use it as a self-hosted OpenClaw gateway. OpenClaw gets broad system access — filesystem, shell, network, credentials — and there’s been a steady stream of security issues, including a one-click RCE vulnerability (CVE-2026-25253) and hundreds of exposed instances found via Shodan with no authentication. A dedicated device keeps the blast radius away from anything I actually care about.\nSystem specs Link to heading Board: NVIDIA Jetson Nano (4GB) CPU: Quad-core ARM Cortex-A57 (ARMv8) RAM: 4GB LPDDR4 Storage: 128GB eMMC OS: Ubuntu 18.04.6 LTS (JetPack R32.1.0) Kernel: 4.9.140-tegra Connection: SSH over local network, HDMI to external projector The Nano runs Ubuntu 18.04 with a 4.9 kernel — NVIDIA’s last supported JetPack for this hardware. That means ancient system packages, including Node.js v8.10, and OpenClaw requires Node 22+. Here’s how I got it working with Bun instead, and what to expect when running modern software on end-of-life hardware."
+  },
+  {
+    "Title": "Entropies",
+    "Url": "https://dpaletti.com/posts/entropies/",
+    "Timestamp": "2026-02-09T00:02:32",
+    "Domain": "dpaletti.com",
+    "Description": "Making sense of entropies"
+  },
+  {
+    "Title": "Thoughts on LLMs — finestructure",
+    "Url": "https://finestructure.co/blog/2026/2/6/thoughts-on-llms",
+    "Timestamp": "2026-02-09T00:02:26",
+    "Domain": "finestructure.co",
+    "Description": "I find it difficult to coherently collect my thoughts on LLMs. They’re undeniably an interesting technology. There are also people I follow online that I have a lot of respect for and who I trust, making a strong case that they’re finding LLMs useful in many aspects of their work."
+  },
+  {
+    "Title": "I built a NAS",
+    "Url": "https://arne.me/blog/buildlog-nas",
+    "Timestamp": "2026-02-09T00:02:23",
+    "Domain": "arne.me",
+    "Description": "In this blog post I describe why and how I set up my personal cloud on a NAS.\n"
+  },
+  {
+    "Title": "I keep coming back to Amp Code",
+    "Url": "https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp",
+    "Timestamp": "2026-02-09T00:02:20",
+    "Domain": "asadjb.com",
+    "Description": "A collection of my thoughts and stuff."
+  }
+]
