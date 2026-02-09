@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Notifications are delayed</title>
+      <link>https://www.githubstatus.com/incidents/54hndjxft5bx</link>
+      <description>GitHub's Status Page - Notifications are delayed.</description>
+      <guid>https://www.githubstatus.com/incidents/54hndjxft5bx</guid>
+      <pubDate>Mon, 09 Feb 2026 19:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Game Boy Snake: A Complete Implementation in Assembly</title>
       <link>https://www.4rknova.com//blog/2026/02/08/gb-snake</link>
       <description>A detailed walkthrough of a classic Snake game for the Nintendo Game Boy, written entirely in RGBDS assembly. Covers the game loop, state machine, snake ring buffer, occupancy grid collision detect...</description>
