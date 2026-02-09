@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Art of Roads in Games</title>
+      <link>https://sandboxspirit.com/blog/art-of-roads-in-games/</link>
+      <description>How games implement roads</description>
+      <author> (ef)</author>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://sandboxspirit.com/blog/art-of-roads-in-games/</guid>
+      <pubDate>Mon, 09 Feb 2026 09:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>I put a real-time 3D shader on the Game Boy Color</title>
       <link>https://blog.otterstack.com/posts/202512-gbshader/</link>
       <description>I made a Game Boy Color game that renders images in real time. The player controls an orbiting light and spins an object.</description>
