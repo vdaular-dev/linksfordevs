@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Our $200M Series C / Oxide</title>
+      <link>https://oxide.computer/blog/our-200m-series-c</link>
+      <description>Raising our Series C round of financing</description>
+      <guid>https://oxide.computer/blog/our-200m-series-c</guid>
+      <pubDate>Tue, 10 Feb 2026 17:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Khronos at 25: Shaping Visual Computing with Open Standards</title>
       <link>https://www.khronos.org/blog/the-khronos-group-celebrates-25-years-shaping-the-future-through-open-standards</link>
       <description>In 2025, Khronos reached an impressive milestone: 25 years of member-driven open standards development. The graphics, compute, and media landscape looked wildly different in 2000, when Khronos was formed, than it does today.  Era-defining technologies such as smartphones, cloud computing, and the metaverse hadn’t yet emerged into the marketplace. The founders of Khronos were on the forefront of these emerging technologies. They knew that withou</description>
@@ -334,24 +341,6 @@ github page.</description>
       <description>GitHub's Status Page - Notifications are delayed.</description>
       <guid>https://www.githubstatus.com/incidents/54hndjxft5bx</guid>
       <pubDate>Mon, 09 Feb 2026 19:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Game Boy Snake: A Complete Implementation in Assembly</title>
-      <link>https://www.4rknova.com//blog/2026/02/08/gb-snake</link>
-      <description>A detailed walkthrough of a classic Snake game for the Nintendo Game Boy, written entirely in RGBDS assembly. Covers the game loop, state machine, snake ring buffer, occupancy grid collision detect...</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.4rknova.com//blog/2026/02/08/gb-snake</guid>
-      <pubDate>Mon, 09 Feb 2026 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>All The Views</title>
-      <link>https://alltheviews.world/</link>
-      <description>With the help of a custom-developed algorithm, CacheTVS, we have exhaustively
-checked every single view on Earth in search of the coveted longest line of sight on the planet.
-Based on the method we detail here, we present the greatest view of all:</description>
-      <guid>https://alltheviews.world/</guid>
-      <pubDate>Mon, 09 Feb 2026 17:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

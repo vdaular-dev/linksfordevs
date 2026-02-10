@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Our $200M Series C / Oxide",
+    "Url": "https://oxide.computer/blog/our-200m-series-c",
+    "Timestamp": "2026-02-10T17:02:14",
+    "Domain": "oxide.computer",
+    "Description": "Raising our Series C round of financing",
+    "Confidence": 0.81484216
+  },
+  {
     "Title": "Khronos at 25: Shaping Visual Computing with Open Standards",
     "Url": "https://www.khronos.org/blog/the-khronos-group-celebrates-25-years-shaping-the-future-through-open-standards",
     "Timestamp": "2026-02-10T15:02:18",
@@ -286,21 +294,5 @@
     "Domain": "www.githubstatus.com",
     "Description": "GitHub's Status Page - Notifications are delayed.",
     "Confidence": 0.95937353
-  },
-  {
-    "Title": "Game Boy Snake: A Complete Implementation in Assembly",
-    "Url": "https://www.4rknova.com//blog/2026/02/08/gb-snake",
-    "Timestamp": "2026-02-09T17:02:10",
-    "Domain": "www.4rknova.com",
-    "Description": "A detailed walkthrough of a classic Snake game for the Nintendo Game Boy, written entirely in RGBDS assembly. Covers the game loop, state machine, snake ring buffer, occupancy grid collision detect...",
-    "Confidence": 0.9650571
-  },
-  {
-    "Title": "All The Views",
-    "Url": "https://alltheviews.world/",
-    "Timestamp": "2026-02-09T17:02:06",
-    "Domain": "alltheviews.world",
-    "Description": "With the help of a custom-developed algorithm, CacheTVS, we have exhaustively\nchecked every single view on Earth in search of the coveted longest line of sight on the planet.\nBased on the method we detail here, we present the greatest view of all:",
-    "Confidence": 0.8447763
   }
 ]
