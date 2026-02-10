@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Incident with Issues, Actions and Git Operations",
+    "Url": "https://www.githubstatus.com/incidents/lcw3tg2f6zsd",
+    "Timestamp": "2026-02-10T02:02:14",
+    "Domain": "www.githubstatus.com",
+    "Description": "GitHub's Status Page - Incident with Issues, Actions and Git Operations.",
+    "Confidence": 0.96018976
+  },
+  {
     "Title": "GitHub - joshuanwalker/Raiders2600: Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
     "Url": "https://github.com/joshuanwalker/Raiders2600/",
     "Timestamp": "2026-02-10T01:01:34",
@@ -294,13 +302,5 @@
     "Domain": "sandboxspirit.com",
     "Description": "How games implement roads",
     "Confidence": 0.97903216
-  },
-  {
-    "Title": "I put a real-time 3D shader on the Game Boy Color",
-    "Url": "https://blog.otterstack.com/posts/202512-gbshader/",
-    "Timestamp": "2026-02-09T02:02:13",
-    "Domain": "blog.otterstack.com",
-    "Description": "I made a Game Boy Color game that renders images in real time. The player controls an orbiting light and spins an object.",
-    "Confidence": 0.9921793
   }
 ]

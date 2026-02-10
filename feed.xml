@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Incident with Issues, Actions and Git Operations</title>
+      <link>https://www.githubstatus.com/incidents/lcw3tg2f6zsd</link>
+      <description>GitHub's Status Page - Incident with Issues, Actions and Git Operations.</description>
+      <category>git</category>
+      <guid>https://www.githubstatus.com/incidents/lcw3tg2f6zsd</guid>
+      <pubDate>Tue, 10 Feb 2026 02:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - joshuanwalker/Raiders2600: Reverse Engineering Raiders of the Lost Ark for the Atari 2600</title>
       <link>https://github.com/joshuanwalker/Raiders2600/</link>
       <description>Reverse Engineering Raiders of the Lost Ark for the Atari 2600 - joshuanwalker/Raiders2600</description>
@@ -349,17 +357,6 @@ If you watch </description>
       <category>vscode</category>
       <guid>https://sandboxspirit.com/blog/art-of-roads-in-games/</guid>
       <pubDate>Mon, 09 Feb 2026 09:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>I put a real-time 3D shader on the Game Boy Color</title>
-      <link>https://blog.otterstack.com/posts/202512-gbshader/</link>
-      <description>I made a Game Boy Color game that renders images in real time. The player controls an orbiting light and spins an object.</description>
-      <author> (Danny Spencer)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>python</category>
-      <guid>https://blog.otterstack.com/posts/202512-gbshader/</guid>
-      <pubDate>Mon, 09 Feb 2026 02:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
