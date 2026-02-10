@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed | James Randall",
+    "Url": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+    "Timestamp": "2026-02-10T18:02:20",
+    "Domain": "www.jamesdrandall.com",
+    "Description": "I still love developing but the shifts that AI have brought are tectonic and are forcing me to re-evaluate my own relationship to building things",
+    "Confidence": 0.9776179
+  },
+  {
     "Title": "Our $200M Series C / Oxide",
     "Url": "https://oxide.computer/blog/our-200m-series-c",
     "Timestamp": "2026-02-10T17:02:14",
@@ -286,13 +294,5 @@
     "Domain": "github.com",
     "Description": "Uses an ESP8266 module and an Arduino sketch to display the local time on a inexpensive analog quartz clock. - jim11662418/ESP8266_WiFi_Analog_Clock",
     "Confidence": 0.9882848
-  },
-  {
-    "Title": "Notifications are delayed",
-    "Url": "https://www.githubstatus.com/incidents/54hndjxft5bx",
-    "Timestamp": "2026-02-09T19:02:10",
-    "Domain": "www.githubstatus.com",
-    "Description": "GitHub's Status Page - Notifications are delayed.",
-    "Confidence": 0.95937353
   }
 ]
