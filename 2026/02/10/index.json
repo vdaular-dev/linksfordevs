@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "The journey was the point",
+    "Url": "https://mahdiyusuf.com/the-journey-was-the-point/",
+    "Timestamp": "2026-02-10T00:03:36",
+    "Domain": "mahdiyusuf.com",
+    "Description": "America outsourced manufacturing, then the skills to design what gets manufactured. Software is next."
+  },
+  {
+    "Title": "Why We Discourage Sleep in Code",
+    "Url": "https://www.jakeworth.com/posts/why-we-discourage-sleep/",
+    "Timestamp": "2026-02-10T00:03:32",
+    "Domain": "www.jakeworth.com",
+    "Description": "You might have heard that using blocking, waiting code, e.g., sleep in many languages, is discouraged. Why?"
+  },
+  {
+    "Title": "Webspace Invaders · Matthias Ott",
+    "Url": "https://matthiasott.com/articles/webspace-invaders",
+    "Timestamp": "2026-02-10T00:03:29",
+    "Domain": "matthiasott.com",
+    "Description": "There’s something happening on the Web at the moment that almost feels like watching that old arcade game Space Invaders play out across our servers. Bots and scrapers marching in formation, attacking our servers wave after wave, systematically requesting page after page, relentlessly filling their data stores while we watch our access logs fill up."
+  },
+  {
+    "Title": "My Second Brain Never Worked. Then I Gave It a Gardener. - Rob Dodson",
+    "Url": "https://robdodson.me/posts/i-gave-my-second-brain-a-gardener/",
+    "Timestamp": "2026-02-10T00:03:22",
+    "Domain": "robdodson.me",
+    "Description": "I could never maintain a second brain. Then I pointed Claude Code at my Obsidian vault and let it do the organizing for me. Now I'm writing again."
+  },
+  {
+    "Title": "Buying the Kinesis Advantage 360 keyboard was a mistake | Angelika.me",
+    "Url": "https://angelika.me/2025/12/04/buying-kinesis-advantage-was-a-mistake/",
+    "Timestamp": "2026-02-10T00:03:19",
+    "Domain": "angelika.me",
+    "Description": "Why this beast of a keyboard did not work for me and what I ended up using instead."
+  },
+  {
+    "Title": "Letting Gemini Drive My Rover",
+    "Url": "http://martin.drashkov.com/2026/02/letting-gemini-drive-my-rover.html",
+    "Timestamp": "2026-02-10T00:03:11",
+    "Domain": "martin.drashkov.com",
+    "Description": "  Letting Gemini Drive My Rover LLMs have had visual capabilities for a while now, with the general ability to understand what they’re looki..."
+  },
+  {
+    "Title": "M1 MacBook Pro as a k3s Node with Asahi Linux - Graham Stevens – Grh.am",
+    "Url": "https://grh.am/2026/m1-macbook-pro-as-a-k3s-node-with-asahi-linux/",
+    "Timestamp": "2026-02-10T00:03:07",
+    "Domain": "grh.am",
+    "Description": "Background At home, I run a small 4 node k3s cluster on Dell Wyse 5070, primarily for the experience but also just for the fun of it. It houses all sorts of containers, but happily handles almost everything I throw at it, including Home Assistant, an MQTT instance, Predbat, Smokeping etc. etc.\nThis little stack of 4 Dell thin clients sits on the corner of my desk, each being powered via a single USB power supply - this means it only takes up a single power socket under the desk for neatness. Each node is also connected to a single Ubiquiti 5 port POE switch (USW-Flex), which again means no plug sockets being used up under the desk (but of course requires a POE switch to power it elsewhere…). Lovely and neat! Each node has two 8GB sticks of RAM, and I’ve replaced the M.2 WiFi cards with M.2 to NVME adapters to all me to expand the local storage.\n"
+  },
+  {
+    "Title": "Stop Telling Users Their DNS Is Wrong",
+    "Url": "https://jacob.gold/posts/stop-telling-users-their-dns-is-wrong/",
+    "Timestamp": "2026-02-10T00:03:04",
+    "Domain": "jacob.gold",
+    "Description": "You add a DNS record. The app says it’s wrong. You check it, fix a typo, try again. Still wrong. You wait. You try again. Still wrong. You triple check it. It looks correct.\nThe app is checking DNS records in a half-assed way.\nIf you’re building a product that asks users to add DNS records, please take the time to verify DNS records properly."
+  },
+  {
+    "Title": "Agent Systems Fail Quietly: Why Orchestration Matters More Than Intelligence",
+    "Url": "https://bnjam.dev/posts/agent-orchestration/agent-systems-fail-quietly.html",
+    "Timestamp": "2026-02-10T00:03:01",
+    "Domain": "bnjam.dev",
+    "Description": "Most agent systems don’t fail because models are weak — they fail because coordination is underspecified, and the failures are silent."
+  },
+  {
+    "Title": "Building at the Speed of Thought | zach wills",
+    "Url": "https://zachwills.net/building-at-the-speed-of-thought/",
+    "Timestamp": "2026-02-10T00:02:58",
+    "Domain": "zachwills.net",
+    "Description": "I woke up to 77 pull requests. None of them were from a human. The night before — a Sunday — I had connected the..."
+  },
+  {
+    "Title": "Samrian | Manufacturing QMS Software",
+    "Url": "https://www.samrian.com/blog/cost-of-truth",
+    "Timestamp": "2026-02-10T00:02:54",
+    "Domain": "www.samrian.com",
+    "Description": "Stop chasing paper. Automate your ISO 9001 compliance with the QMS built for the shop floor."
+  },
+  {
+    "Title": "I Talk to Claude More Than Humans (And What That Taught Me)",
+    "Url": "https://paraz.in/posts/i-talk-to-claude-more-than-humans",
+    "Timestamp": "2026-02-10T00:02:51",
+    "Domain": "paraz.in",
+    "Description": "Three weeks running Claude 24/7 taught me how to make coding agents actually work: verification loops, team standards, and the right tooling setup."
+  },
+  {
+    "Title": "On Culmination and Not Yet Turning Thirty | Brian Kitano",
+    "Url": "https://briankitano.com/essays/on-culmination/",
+    "Timestamp": "2026-02-10T00:02:48",
+    "Domain": "briankitano.com",
+    "Description": "the ouroboros is savoring itself, or \"you met me in a very Carrie Bradshaw time of my life\""
+  },
+  {
+    "Title": "How I used Claude Code in a real data journalism project",
+    "Url": "https://kschaul.com/post/2026/02/09/2026-02-09-ai-data-journalism/",
+    "Timestamp": "2026-02-10T00:02:45",
+    "Domain": "kschaul.com",
+    "Description": "This morning three colleagues and I published a story outlining how the federal government is using AI. Here’s how I used Claude Code to help.\nAgencies are required to publish a spreadsheet of AI use cases. Unfortunately (and unsurprisingly) each agency posts them in a different place on their website, in a different file format, using different column names and values. OMB will eventually consolidate these, but why wait when we can do it ourselves?"
+  },
+  {
+    "Title": "Why Half Your Skills Expire Every Few Years",
+    "Url": "https://arpitbhayani.me/blogs/half-life/",
+    "Timestamp": "2026-02-10T00:02:41",
+    "Domain": "arpitbhayani.me",
+    "Description": "That is the half-life of knowledge in computer science and software engineering - the time it takes for half of what you know to be replaced by better tools, approaches, or understanding. For an engineering degree earned in 1930, the half-life was roughly 35 years. By 1960, it had dropped to about a decade."
+  },
+  {
+    "Title": "Towards Perfect Vulnerability Management System - Work & Life Notes",
+    "Url": "https://worklifenotes.com/2026/02/09/towards-perfect-vulnerability-management-system/",
+    "Timestamp": "2026-02-10T00:02:37",
+    "Domain": "worklifenotes.com",
+    "Description": "Here I would like to summarize my thoughts on what constitutes a perfect vulnerability management system, what frequently gets missed, and what elements we"
+  },
+  {
+    "Title": "I Edited This Video 100% With Codex ft. SAM3 + MatAnyone + Remotion",
+    "Url": "https://www.adithyan.io/blog/codex-text-effects-toolchain",
+    "Timestamp": "2026-02-10T00:02:31",
+    "Domain": "www.adithyan.io",
+    "Description": "A practical workflow: record first, transcribe with word timings, generate a subject alpha, then compose everything in Remotion. No timeline editor."
+  },
+  {
+    "Title": "Testing software in the era of coding agents",
+    "Url": "https://www.garymm.org/blog/2026/02/06/testing-software-coding-agents/",
+    "Timestamp": "2026-02-10T00:02:26",
+    "Domain": "www.garymm.org",
+    "Description": "What parts of my software should be tested? And how? And how do coding agents (e.g. Claude Code) change things? This is my attempt to succinctly explain how I think about these questions at the beginning of 2026 (software development is changing so quickly I feel compelled to note the date. This may all be obsolete soon)."
+  },
+  {
+    "Title": "Domain Knowledge Is the New Syntax",
+    "Url": "https://blog.melashri.net/posts/specs-focus/",
+    "Timestamp": "2026-02-10T00:02:22",
+    "Domain": "blog.melashri.net",
+    "Description": "A collection of notes about physics, programming and personal thoughts."
+  },
+  {
+    "Title": "Why Canvas Breaks Your Screen Recorder (And What to Do Instead) — SendRec",
+    "Url": "https://sendrec.eu/blog/why-canvas-breaks-your-screen-recorder/",
+    "Timestamp": "2026-02-10T00:02:18",
+    "Domain": "sendrec.eu",
+    "Description": "Most screen recorders composite webcam overlays using canvas. Here's why that fails in background tabs and how we solved it with server-side ffmpeg."
+  },
+  {
+    "Title": "I Wrote a Scheme in 2025",
+    "Url": "https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html",
+    "Timestamp": "2026-02-10T00:02:14",
+    "Domain": "maplant.com",
+    "Description": "One year minus one week ago to the day I published an article\nannouncing the new Scheme implementation I was writing, scheme-rs.\nToday I am excited to announce that scheme-rs has reached its first version,\n0.1.0. You can check it out at it’s website (scheme-rs.org, which should be\nupdated to scheme.rs at some point when DNS propagation finishes) or its\ngithub page."
+  },
+  {
+    "Title": "What LEGO Can Teach Us about Autonomy and Engagement - Pawel Brodzinski on Leadership in Technology",
+    "Url": "https://brodzinski.com/2026/01/lego-autonomy-engagement.html",
+    "Timestamp": "2026-02-10T00:02:09",
+    "Domain": "brodzinski.com",
+    "Description": "A simple experiment with building LEGO models in groups demonstrates how important autonomy is for high engagement at work."
+  },
+  {
+    "Title": "Why use Conventional Commits? - byandrev",
+    "Url": "https://byandrev.dev/en/blog/conventional-commits",
+    "Timestamp": "2026-02-10T00:02:05",
+    "Domain": "byandrev.dev",
+    "Description": "Opening a project's Git history and finding messages like “various fixes,” “update,” or “fixed something” can be a nightmare. That chaos makes it impossible for anyone to understand what actually happened in the code. This is where Conventional Commits come in."
+  },
+  {
+    "Title": "The Potential of RLMs",
+    "Url": "https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html",
+    "Timestamp": "2026-02-10T00:02:02",
+    "Domain": "www.dbreunig.com",
+    "Description": "Handling Your Long Context Today & Designing Your Agent Tomorrow"
+  },
+  {
+    "Title": "From prototype to production: A low-latency multiplayer stack",
+    "Url": "https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html",
+    "Timestamp": "2026-02-10T00:01:59",
+    "Domain": "dcastares.github.io",
+    "Description": "When you start working on a real-time multiplayer game, the idea might seem simple, but it can escalate quickly. That happened when we started giving form to Rumble Racer with the Blyts team."
+  },
+  {
+    "Title": "Using Claude Code as a general agent — Raahel Baig",
+    "Url": "https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/",
+    "Timestamp": "2026-02-10T00:01:55",
+    "Domain": "www.raahelbaig.com",
+    "Description": "Raahel Baig's personal blog — entries, links, quotes, and notes."
+  }
+]

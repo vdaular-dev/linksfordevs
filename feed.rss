@@ -7,6 +7,248 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The journey was the point</title>
+      <link>https://mahdiyusuf.com/the-journey-was-the-point/</link>
+      <description>America outsourced manufacturing, then the skills to design what gets manufactured. Software is next.</description>
+      <category>ai</category>
+      <guid>https://mahdiyusuf.com/the-journey-was-the-point/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why We Discourage Sleep in Code</title>
+      <link>https://www.jakeworth.com/posts/why-we-discourage-sleep/</link>
+      <description>You might have heard that using blocking, waiting code, e.g., sleep in many languages, is discouraged. Why?</description>
+      <category>ruby</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://www.jakeworth.com/posts/why-we-discourage-sleep/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webspace Invaders · Matthias Ott</title>
+      <link>https://matthiasott.com/articles/webspace-invaders</link>
+      <description>There’s something happening on the Web at the moment that almost feels like watching that old arcade game Space Invaders play out across our servers. Bots and scrapers marching in formation, attacking our servers wave after wave, systematically requesting page after page, relentlessly filling their data stores while we watch our access logs fill up.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://matthiasott.com/articles/webspace-invaders</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Second Brain Never Worked. Then I Gave It a Gardener. - Rob Dodson</title>
+      <link>https://robdodson.me/posts/i-gave-my-second-brain-a-gardener/</link>
+      <description>I could never maintain a second brain. Then I pointed Claude Code at my Obsidian vault and let it do the organizing for me. Now I'm writing again.</description>
+      <category>ai</category>
+      <guid>https://robdodson.me/posts/i-gave-my-second-brain-a-gardener/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Buying the Kinesis Advantage 360 keyboard was a mistake | Angelika.me</title>
+      <link>https://angelika.me/2025/12/04/buying-kinesis-advantage-was-a-mistake/</link>
+      <description>Why this beast of a keyboard did not work for me and what I ended up using instead.</description>
+      <category>apple</category>
+      <guid>https://angelika.me/2025/12/04/buying-kinesis-advantage-was-a-mistake/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Letting Gemini Drive My Rover</title>
+      <link>http://martin.drashkov.com/2026/02/letting-gemini-drive-my-rover.html</link>
+      <description>  Letting Gemini Drive My Rover LLMs have had visual capabilities for a while now, with the general ability to understand what they’re looki...</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>http://martin.drashkov.com/2026/02/letting-gemini-drive-my-rover.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>M1 MacBook Pro as a k3s Node with Asahi Linux - Graham Stevens – Grh.am</title>
+      <link>https://grh.am/2026/m1-macbook-pro-as-a-k3s-node-with-asahi-linux/</link>
+      <description>Background At home, I run a small 4 node k3s cluster on Dell Wyse 5070, primarily for the experience but also just for the fun of it. It houses all sorts of containers, but happily handles almost everything I throw at it, including Home Assistant, an MQTT instance, Predbat, Smokeping etc. etc.
+This little stack of 4 Dell thin clients sits on the corner of my desk, each being powered via a single USB power supply - this means it only takes up a single power socket under the desk for neatness. Each node is also connected to a single Ubiquiti 5 port POE switch (USW-Flex), which again means no plug sockets being used up under the desk (but of course requires a POE switch to power it elsewhere…). Lovely and neat! Each node has two 8GB sticks of RAM, and I’ve replaced the M.2 WiFi cards with M.2 to NVME adapters to all me to expand the local storage.
+</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://grh.am/2026/m1-macbook-pro-as-a-k3s-node-with-asahi-linux/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Telling Users Their DNS Is Wrong</title>
+      <link>https://jacob.gold/posts/stop-telling-users-their-dns-is-wrong/</link>
+      <description>You add a DNS record. The app says it’s wrong. You check it, fix a typo, try again. Still wrong. You wait. You try again. Still wrong. You triple check it. It looks correct.
+The app is checking DNS records in a half-assed way.
+If you’re building a product that asks users to add DNS records, please take the time to verify DNS records properly.</description>
+      <guid>https://jacob.gold/posts/stop-telling-users-their-dns-is-wrong/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent Systems Fail Quietly: Why Orchestration Matters More Than Intelligence</title>
+      <link>https://bnjam.dev/posts/agent-orchestration/agent-systems-fail-quietly.html</link>
+      <description>Most agent systems don’t fail because models are weak — they fail because coordination is underspecified, and the failures are silent.</description>
+      <category>ai</category>
+      <guid>https://bnjam.dev/posts/agent-orchestration/agent-systems-fail-quietly.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building at the Speed of Thought | zach wills</title>
+      <link>https://zachwills.net/building-at-the-speed-of-thought/</link>
+      <description>I woke up to 77 pull requests. None of them were from a human. The night before — a Sunday — I had connected the...</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://zachwills.net/building-at-the-speed-of-thought/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Samrian | Manufacturing QMS Software</title>
+      <link>https://www.samrian.com/blog/cost-of-truth</link>
+      <description>Stop chasing paper. Automate your ISO 9001 compliance with the QMS built for the shop floor.</description>
+      <category>ai</category>
+      <guid>https://www.samrian.com/blog/cost-of-truth</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Talk to Claude More Than Humans (And What That Taught Me)</title>
+      <link>https://paraz.in/posts/i-talk-to-claude-more-than-humans</link>
+      <description>Three weeks running Claude 24/7 taught me how to make coding agents actually work: verification loops, team standards, and the right tooling setup.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://paraz.in/posts/i-talk-to-claude-more-than-humans</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Culmination and Not Yet Turning Thirty | Brian Kitano</title>
+      <link>https://briankitano.com/essays/on-culmination/</link>
+      <description>the ouroboros is savoring itself, or "you met me in a very Carrie Bradshaw time of my life"</description>
+      <category>ai</category>
+      <guid>https://briankitano.com/essays/on-culmination/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I used Claude Code in a real data journalism project</title>
+      <link>https://kschaul.com/post/2026/02/09/2026-02-09-ai-data-journalism/</link>
+      <description>This morning three colleagues and I published a story outlining how the federal government is using AI. Here’s how I used Claude Code to help.
+Agencies are required to publish a spreadsheet of AI use cases. Unfortunately (and unsurprisingly) each agency posts them in a different place on their website, in a different file format, using different column names and values. OMB will eventually consolidate these, but why wait when we can do it ourselves?</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://kschaul.com/post/2026/02/09/2026-02-09-ai-data-journalism/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Half Your Skills Expire Every Few Years</title>
+      <link>https://arpitbhayani.me/blogs/half-life/</link>
+      <description>That is the half-life of knowledge in computer science and software engineering - the time it takes for half of what you know to be replaced by better tools, approaches, or understanding. For an engineering degree earned in 1930, the half-life was roughly 35 years. By 1960, it had dropped to about a decade.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://arpitbhayani.me/blogs/half-life/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Towards Perfect Vulnerability Management System - Work &amp; Life Notes</title>
+      <link>https://worklifenotes.com/2026/02/09/towards-perfect-vulnerability-management-system/</link>
+      <description>Here I would like to summarize my thoughts on what constitutes a perfect vulnerability management system, what frequently gets missed, and what elements we</description>
+      <guid>https://worklifenotes.com/2026/02/09/towards-perfect-vulnerability-management-system/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Edited This Video 100% With Codex ft. SAM3 + MatAnyone + Remotion</title>
+      <link>https://www.adithyan.io/blog/codex-text-effects-toolchain</link>
+      <description>A practical workflow: record first, transcribe with word timings, generate a subject alpha, then compose everything in Remotion. No timeline editor.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>apple</category>
+      <guid>https://www.adithyan.io/blog/codex-text-effects-toolchain</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Testing software in the era of coding agents</title>
+      <link>https://www.garymm.org/blog/2026/02/06/testing-software-coding-agents/</link>
+      <description>What parts of my software should be tested? And how? And how do coding agents (e.g. Claude Code) change things? This is my attempt to succinctly explain how I think about these questions at the beginning of 2026 (software development is changing so quickly I feel compelled to note the date. This may all be obsolete soon).</description>
+      <category>ai</category>
+      <guid>https://www.garymm.org/blog/2026/02/06/testing-software-coding-agents/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Domain Knowledge Is the New Syntax</title>
+      <link>https://blog.melashri.net/posts/specs-focus/</link>
+      <description>A collection of notes about physics, programming and personal thoughts.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://blog.melashri.net/posts/specs-focus/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Canvas Breaks Your Screen Recorder (And What to Do Instead) — SendRec</title>
+      <link>https://sendrec.eu/blog/why-canvas-breaks-your-screen-recorder/</link>
+      <description>Most screen recorders composite webcam overlays using canvas. Here's why that fails in background tabs and how we solved it with server-side ffmpeg.</description>
+      <category>nodejs</category>
+      <guid>https://sendrec.eu/blog/why-canvas-breaks-your-screen-recorder/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Wrote a Scheme in 2025</title>
+      <link>https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html</link>
+      <description>One year minus one week ago to the day I published an article
+announcing the new Scheme implementation I was writing, scheme-rs.
+Today I am excited to announce that scheme-rs has reached its first version,
+0.1.0. You can check it out at it’s website (scheme-rs.org, which should be
+updated to scheme.rs at some point when DNS propagation finishes) or its
+github page.</description>
+      <category>rust</category>
+      <category>web</category>
+      <guid>https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>What LEGO Can Teach Us about Autonomy and Engagement - Pawel Brodzinski on Leadership in Technology</title>
+      <link>https://brodzinski.com/2026/01/lego-autonomy-engagement.html</link>
+      <description>A simple experiment with building LEGO models in groups demonstrates how important autonomy is for high engagement at work.</description>
+      <category>gaming</category>
+      <guid>https://brodzinski.com/2026/01/lego-autonomy-engagement.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why use Conventional Commits? - byandrev</title>
+      <link>https://byandrev.dev/en/blog/conventional-commits</link>
+      <description>Opening a project's Git history and finding messages like “various fixes,” “update,” or “fixed something” can be a nightmare. That chaos makes it impossible for anyone to understand what actually happened in the code. This is where Conventional Commits come in.</description>
+      <category>git</category>
+      <guid>https://byandrev.dev/en/blog/conventional-commits</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Potential of RLMs</title>
+      <link>https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html</link>
+      <description>Handling Your Long Context Today &amp; Designing Your Agent Tomorrow</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>From prototype to production: A low-latency multiplayer stack</title>
+      <link>https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html</link>
+      <description>When you start working on a real-time multiplayer game, the idea might seem simple, but it can escalate quickly. That happened when we started giving form to Rumble Racer with the Blyts team.</description>
+      <category>containers</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html</guid>
+      <pubDate>Tue, 10 Feb 2026 00:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Claude Code as a general agent — Raahel Baig</title>
+      <link>https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/</link>
+      <description>Raahel Baig's personal blog — entries, links, quotes, and notes.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/</guid>
+      <pubDate>Tue, 10 Feb 2026 00:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Why is the sky blue?</title>
       <link>https://explainers.blog/posts/why-is-the-sky-blue/</link>
       <description>Let’s start by asking ourselves: what color SHOULD the sky be?</description>
@@ -108,182 +350,6 @@ If you watch </description>
       <category>python</category>
       <guid>https://blog.otterstack.com/posts/202512-gbshader/</guid>
       <pubDate>Mon, 09 Feb 2026 02:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everybody is now an (underpaid) CTO</title>
-      <link>https://ossama.is/blog/disparity</link>
-      <description>I got promoted four times this year. My salary got the memo zero times.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://ossama.is/blog/disparity</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs are prediction machines</title>
-      <link>https://kaelandt.github.io/posts/llm-prediction-machines.html</link>
-      <description>← Back to Blog</description>
-      <category>ai</category>
-      <guid>https://kaelandt.github.io/posts/llm-prediction-machines.html</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework 13 Initial Impressions</title>
-      <link>https://www.abgn.me/posts/frame-work-13-initial-impressions</link>
-      <description>I've just unboxed and set up the Framework 13. Here are my initial impressions.</description>
-      <author> (Albin Groen)</author>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://www.abgn.me/posts/frame-work-13-initial-impressions</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lance table format explained simply</title>
-      <link>https://tontinton.com/posts/lance/</link>
-      <description>Lance is a new table and file format. A modern successor to Apache Iceberg / Delta Lake. (Animated)</description>
-      <category>ai</category>
-      <guid>https://tontinton.com/posts/lance/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Credentials for Linux (FOSDEM 2026)</title>
-      <link>https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html</link>
-      <description>Bringing Passkeys to the Linux desktop</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>rust</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://alfioemanuele.io/talks/2026/02/01/fosdem-2026-credentials-for-linux.html</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Context is part of the game</title>
-      <link>https://joy.pm/context-is-part-of-the-code/</link>
-      <description>For a while I used coding agents for small, self-contained things. Refactor this method. Rename this variable. Extract this into a function. Safe, short instructions where the agent couldn't go too far off track.
-
-But I kept seeing people push further — giving agents a longer leash, taming them into handling</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://joy.pm/context-is-part-of-the-code/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everyone should play more games offline</title>
-      <link>https://gabrielcornish.com/everyone-should-play-more-games-offline/</link>
-      <description>There's something cozy about playing a video game offline.
-
-Try it. Turn off WiFi in the house or go into offline mode and boot up your favorite game. Get ...</description>
-      <category>gaming</category>
-      <guid>https://gabrielcornish.com/everyone-should-play-more-games-offline/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Local Speech Recognition | Oatmeal Weekly</title>
-      <link>https://oatmealapp.com/blog/the-rise-of-local-speech-recognition/</link>
-      <description>How speech recognition escaped the cloud: from Hinton's neural networks to Whisper to 50x-faster-than-realtime local models. A 20-year technical history.</description>
-      <category>conference</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://oatmealapp.com/blog/the-rise-of-local-speech-recognition/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cheap design</title>
-      <link>https://dottedmag.net/blog/cheap-design/</link>
-      <description>In the physical world, making things has two costs: design and fabrication.
-Design is drawing up the part. Fabrication is producing it. Both are expensive,
-so physical things are made from standard parts: bolts, beams, extrusions,
-brackets. You accept the overhead of fasteners and adapters because custom
-fabrication costs too much.</description>
-      <category>encryption</category>
-      <category>sql</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://dottedmag.net/blog/cheap-design/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future of Software Engineering</title>
-      <link>https://www.poberezkin.com/posts/2026-02-07-the-future-of-software-engineering.html</link>
-      <description>Evgeny Poberezkin's blog</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://www.poberezkin.com/posts/2026-02-07-the-future-of-software-engineering.html</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Does Anyone Even Know What's Happening in Zim Right Now?</title>
-      <link>https://mayberay.bearblog.dev/does-anyone-even-know-whats-happening-in-zim-right-now/</link>
-      <description>Can you name the top news stories in Zimbabwe right now, or any recent policy change taking place in the country? Chances are you'll have a hard time. 
-
-Th...</description>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://mayberay.bearblog.dev/does-anyone-even-know-whats-happening-in-zim-right-now/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Small Plates</title>
-      <link>https://alexlance.blog/nas.html</link>
-      <description></description>
-      <category>encryption</category>
-      <guid>https://alexlance.blog/nas.html</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Nothing" is the secret to structuring your work</title>
-      <link>https://www.vangemert.dev/blog/nothing</link>
-      <description>Steven van Gemert</description>
-      <guid>https://www.vangemert.dev/blog/nothing</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Installing OpenClaw on a Jetson Nano</title>
-      <link>https://brtkwr.com/posts/2026-02-08-installing-openclaw-on-jetson-nano/</link>
-      <description>I had a Jetson Nano lying around doing nothing and wanted to use it as a self-hosted OpenClaw gateway. OpenClaw gets broad system access — filesystem, shell, network, credentials — and there’s been a steady stream of security issues, including a one-click RCE vulnerability (CVE-2026-25253) and hundreds of exposed instances found via Shodan with no authentication. A dedicated device keeps the blast radius away from anything I actually care about.
-System specs Link to heading Board: NVIDIA Jetson Nano (4GB) CPU: Quad-core ARM Cortex-A57 (ARMv8) RAM: 4GB LPDDR4 Storage: 128GB eMMC OS: Ubuntu 18.04.6 LTS (JetPack R32.1.0) Kernel: 4.9.140-tegra Connection: SSH over local network, HDMI to external projector The Nano runs Ubuntu 18.04 with a 4.9 kernel — NVIDIA’s last supported JetPack for this hardware. That means ancient system packages, including Node.js v8.10, and OpenClaw requires Node 22+. Here’s how I got it working with Bun instead, and what to expect when running modern software on end-of-life hardware.</description>
-      <category>nodejs</category>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://brtkwr.com/posts/2026-02-08-installing-openclaw-on-jetson-nano/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entropies</title>
-      <link>https://dpaletti.com/posts/entropies/</link>
-      <description>Making sense of entropies</description>
-      <author> (Daniele Paletti)</author>
-      <guid>https://dpaletti.com/posts/entropies/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on LLMs — finestructure</title>
-      <link>https://finestructure.co/blog/2026/2/6/thoughts-on-llms</link>
-      <description>I find it difficult to coherently collect my thoughts on LLMs. They’re undeniably an interesting technology. There are also people I follow online that I have a lot of respect for and who I trust, making a strong case that they’re finding LLMs useful in many aspects of their work.</description>
-      <guid>https://finestructure.co/blog/2026/2/6/thoughts-on-llms</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>I built a NAS</title>
-      <link>https://arne.me/blog/buildlog-nas</link>
-      <description>In this blog post I describe why and how I set up my personal cloud on a NAS.
-</description>
-      <category>encryption</category>
-      <category>containers</category>
-      <guid>https://arne.me/blog/buildlog-nas</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>I keep coming back to Amp Code</title>
-      <link>https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp</link>
-      <description>A collection of my thoughts and stuff.</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://asadjb.com/blog/2026-02-08-i-keep-coming-back-to-amp</guid>
-      <pubDate>Mon, 09 Feb 2026 00:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
