@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FOSDEM 2026 - Fluorite - console-grade game engine in Flutter</title>
+      <link>https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/</link>
+      <description>Toyota Connected North America (TCNA) introduces Fluorite, its open-source 3D game engine built in Flutter.</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/</guid>
+      <pubDate>Tue, 10 Feb 2026 09:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Carbon Dating</title>
       <link>https://xkcd.com/3205/</link>
       <description></description>
@@ -355,16 +364,6 @@ If you watch </description>
       <category>git</category>
       <guid>https://harshanu.space/en/tech/ccc-vs-gcc/</guid>
       <pubDate>Mon, 09 Feb 2026 10:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Art of Roads in Games</title>
-      <link>https://sandboxspirit.com/blog/art-of-roads-in-games/</link>
-      <description>How games implement roads</description>
-      <author> (ef)</author>
-      <category>gaming</category>
-      <category>vscode</category>
-      <guid>https://sandboxspirit.com/blog/art-of-roads-in-games/</guid>
-      <pubDate>Mon, 09 Feb 2026 09:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

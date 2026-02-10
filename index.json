@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FOSDEM 2026 - Fluorite - console-grade game engine in Flutter",
+    "Url": "https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/",
+    "Timestamp": "2026-02-10T09:02:10",
+    "Domain": "fosdem.org",
+    "Description": "Toyota Connected North America (TCNA) introduces Fluorite, its open-source 3D game engine built in Flutter.",
+    "Confidence": 0.99679714
+  },
+  {
     "Title": "Carbon Dating",
     "Url": "https://xkcd.com/3205/",
     "Timestamp": "2026-02-10T05:02:35",
@@ -302,13 +310,5 @@
     "Domain": "harshanu.space",
     "Description": "A Guide to comparing Claude Code Compiler with GCC",
     "Confidence": 0.99370074
-  },
-  {
-    "Title": "Art of Roads in Games",
-    "Url": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-    "Timestamp": "2026-02-09T09:02:02",
-    "Domain": "sandboxspirit.com",
-    "Description": "How games implement roads",
-    "Confidence": 0.97903216
   }
 ]
