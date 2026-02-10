@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Virtualization Explained: We Install 1TB of RAM for HyperVisors, Virtual Machines, and Docker!",
+    "Url": "https://youtube.com/watch?v=ipZ6-DvTbqo",
+    "Timestamp": "2026-02-10T21:02:18",
+    "Domain": "youtube.com",
+    "Description": "Dave installs 1TB of RAM and uses it to explain how virtualization works, and what the difference between hypervisors, virtual machines, and docker containers are using real world examples.",
+    "Confidence": 0.96889585
+  },
+  {
     "Title": "The Singularity will Occur on a Tuesday",
     "Url": "https://campedersen.com/singularity",
     "Timestamp": "2026-02-10T20:02:26",
@@ -286,21 +294,5 @@
     "Domain": "www.raahelbaig.com",
     "Description": "Raahel Baig's personal blog — entries, links, quotes, and notes.",
     "Confidence": 0.8949341
-  },
-  {
-    "Title": "Why is the sky blue?",
-    "Url": "https://explainers.blog/posts/why-is-the-sky-blue/",
-    "Timestamp": "2026-02-09T21:02:17",
-    "Domain": "explainers.blog",
-    "Description": "Let’s start by asking ourselves: what color SHOULD the sky be?",
-    "Confidence": 0.9838899
-  },
-  {
-    "Title": "GitHub - jim11662418/ESP8266_WiFi_Analog_Clock: Uses an ESP8266 module and an Arduino sketch to display the local time on a inexpensive analog quartz clock.",
-    "Url": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
-    "Timestamp": "2026-02-09T21:02:12",
-    "Domain": "github.com",
-    "Description": "Uses an ESP8266 module and an Arduino sketch to display the local time on a inexpensive analog quartz clock. - jim11662418/ESP8266_WiFi_Analog_Clock",
-    "Confidence": 0.9882848
   }
 ]

@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Virtualization Explained: We Install 1TB of RAM for HyperVisors, Virtual Machines, and Docker!</title>
+      <link>https://youtube.com/watch?v=ipZ6-DvTbqo</link>
+      <description>Dave installs 1TB of RAM and uses it to explain how virtualization works, and what the difference between hypervisors, virtual machines, and docker containers are using real world examples.</description>
+      <author> (Dave's Garage)</author>
+      <category>containers</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=ipZ6-DvTbqo</guid>
+      <pubDate>Tue, 10 Feb 2026 21:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>The Singularity will Occur on a Tuesday</title>
       <link>https://campedersen.com/singularity</link>
       <description>src={alwaysHasBeen.src} alt="Always has been astronaut meme" / "Wait, the singularity is just humans freaking out?" "Always has been." Everyone in &lt;span style={</description>
@@ -339,21 +349,6 @@ github page.</description>
       <category>python</category>
       <guid>https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/</guid>
       <pubDate>Tue, 10 Feb 2026 00:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why is the sky blue?</title>
-      <link>https://explainers.blog/posts/why-is-the-sky-blue/</link>
-      <description>Let’s start by asking ourselves: what color SHOULD the sky be?</description>
-      <guid>https://explainers.blog/posts/why-is-the-sky-blue/</guid>
-      <pubDate>Mon, 09 Feb 2026 21:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - jim11662418/ESP8266_WiFi_Analog_Clock: Uses an ESP8266 module and an Arduino sketch to display the local time on a inexpensive analog quartz clock.</title>
-      <link>https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock</link>
-      <description>Uses an ESP8266 module and an Arduino sketch to display the local time on a inexpensive analog quartz clock. - jim11662418/ESP8266_WiFi_Analog_Clock</description>
-      <category>web</category>
-      <guid>https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock</guid>
-      <pubDate>Mon, 09 Feb 2026 21:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
