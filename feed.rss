@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>2026-01-14: The Day the telnet Died – GreyNoise Labs</title>
+      <link>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</link>
+      <description>On January 14, 2026, global telnet traffic observed by GreyNoise sensors fell off a cliff. A 59% sustained reduction, eighteen ASNs going completely silent, five countries vanishing from our data entirely. Six days later, CVE-2026-24061 dropped. Coincidence is one explanation.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</guid>
+      <pubDate>Wed, 11 Feb 2026 05:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>FV - Work - Ring Alarm to Google Sheets Monitor</title>
       <link>https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/</link>
       <description>Francesco Vigni's personal website</description>
@@ -297,14 +307,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>gaming</category>
       <guid>https://fosdem.org/2026/schedule/event/7ZJJWW-fluorite-game-engine-flutter/</guid>
       <pubDate>Tue, 10 Feb 2026 09:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Carbon Dating</title>
-      <link>https://xkcd.com/3205/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3205/</guid>
-      <pubDate>Tue, 10 Feb 2026 05:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
