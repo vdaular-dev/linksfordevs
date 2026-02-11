@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fluorite Game Engine</title>
+      <link>https://fluorite.game/</link>
+      <description>Fluorite is the first console-grade game engine fully integrated with Flutter.
+            Its reduced complexity by allowing you to write your game code directly in Dart, and using all of its great
+            developer tools.
+            By using a FluoriteView widget you can add multiple simultaneous views of your 3D scene,
+            as well as share state between game Entities and UI widgets - the Flutter way!</description>
+      <category>gaming</category>
+      <guid>https://fluorite.game/</guid>
+      <pubDate>Wed, 11 Feb 2026 21:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5: From Vibe Coding to Agentic Engineering</title>
+      <link>https://z.ai/blog/glm-5</link>
+      <description>We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial General Intelligence (AGI). Compared to GLM-4.5, GLM-5 scales from 355B parameters (32B active) to 744B parameters (40B active), and increases pre-training data from 23T to 28.5T tokens. GLM-5 also integrates DeepSeek Sparse Attention (DSA), significantly reducing deployment cost while preserving long-context capacity.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://z.ai/blog/glm-5</guid>
+      <pubDate>Wed, 11 Feb 2026 21:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code Is Being Dumbed Down</title>
       <link>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</link>
       <description>A blog by Yoshi.</description>
@@ -298,16 +320,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>sql</category>
       <guid>https://www.seangoedecke.com/screwing-up/</guid>
       <pubDate>Tue, 10 Feb 2026 23:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Virtualization Explained: We Install 1TB of RAM for HyperVisors, Virtual Machines, and Docker!</title>
-      <link>https://youtube.com/watch?v=ipZ6-DvTbqo</link>
-      <description>Dave installs 1TB of RAM and uses it to explain how virtualization works, and what the difference between hypervisors, virtual machines, and docker containers are using real world examples.</description>
-      <author> (Dave's Garage)</author>
-      <category>containers</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=ipZ6-DvTbqo</guid>
-      <pubDate>Tue, 10 Feb 2026 21:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

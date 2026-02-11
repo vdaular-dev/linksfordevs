@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Fluorite Game Engine",
+    "Url": "https://fluorite.game/",
+    "Timestamp": "2026-02-11T21:02:16",
+    "Domain": "fluorite.game",
+    "Description": "Fluorite is the first console-grade game engine fully integrated with Flutter.\n            Its reduced complexity by allowing you to write your game code directly in Dart, and using all of its great\n            developer tools.\n            By using a FluoriteView widget you can add multiple simultaneous views of your 3D scene,\n            as well as share state between game Entities and UI widgets - the Flutter way!"
+  },
+  {
+    "Title": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "Url": "https://z.ai/blog/glm-5",
+    "Timestamp": "2026-02-11T21:02:12",
+    "Domain": "z.ai",
+    "Description": "We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial General Intelligence (AGI). Compared to GLM-4.5, GLM-5 scales from 355B parameters (32B active) to 744B parameters (40B active), and increases pre-training data from 23T to 28.5T tokens. GLM-5 also integrates DeepSeek Sparse Attention (DSA), significantly reducing deployment cost while preserving long-context capacity."
+  },
+  {
     "Title": "Claude Code Is Being Dumbed Down",
     "Url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
     "Timestamp": "2026-02-11T20:02:18",
