@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>CVE Record: CVE-2026-20841</title>
+      <link>https://www.cve.org/CVERecord?id=CVE-2026-20841</link>
+      <description>Vulnerability detail for CVE-2026-20841</description>
+      <guid>https://www.cve.org/CVERecord?id=CVE-2026-20841</guid>
+      <pubDate>Wed, 11 Feb 2026 11:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>2026-01-14: The Day the telnet Died – GreyNoise Labs</title>
       <link>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</link>
       <description>On January 14, 2026, global telnet traffic observed by GreyNoise sensors fell off a cliff. A 59% sustained reduction, eighteen ASNs going completely silent, five countries vanishing from our data entirely. Six days later, CVE-2026-24061 dropped. Coincidence is one explanation.</description>
