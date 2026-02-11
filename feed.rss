@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Last year, all my non-programmer friends built apps</title>
+      <link>https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</link>
+      <description>Last year, all my non-programmer friends were building apps. Yet today, those apps are nowhere to be found.
+
+Everyone followed the ads. They signed up for Lovable and all the fancy app-building servic</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>android</category>
+      <category>sql</category>
+      <guid>https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</guid>
+      <pubDate>Wed, 11 Feb 2026 12:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>CVE Record: CVE-2026-20841</title>
       <link>https://www.cve.org/CVERecord?id=CVE-2026-20841</link>
       <description>Vulnerability detail for CVE-2026-20841</description>
@@ -286,16 +299,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>android</category>
       <guid>https://www.khronos.org/blog/the-khronos-group-celebrates-25-years-shaping-the-future-through-open-standards</guid>
       <pubDate>Tue, 10 Feb 2026 15:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - TrevorS/voxtral-mini-realtime-rs</title>
-      <link>https://github.com/TrevorS/voxtral-mini-realtime-rs</link>
-      <description>Contribute to TrevorS/voxtral-mini-realtime-rs development by creating an account on GitHub.</description>
-      <category>javascript</category>
-      <category>rust</category>
-      <category>web</category>
-      <guid>https://github.com/TrevorS/voxtral-mini-realtime-rs</guid>
-      <pubDate>Tue, 10 Feb 2026 12:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
