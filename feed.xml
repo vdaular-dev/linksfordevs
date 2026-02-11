@@ -7,6 +7,214 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FV - Work - Ring Alarm to Google Sheets Monitor</title>
+      <link>https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/</link>
+      <description>Francesco Vigni's personal website</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>conference</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Where Generic Vision Models Fail &amp; How to Get Better Results | ONE WARE</title>
+      <link>https://one-ware.com/blog/why-generic-computer-vision-models-fail/</link>
+      <description>Your browser does not support the video tag.</description>
+      <author> (https://www.linkedin.com/in/leon-beier-123456789/)</author>
+      <category>ai</category>
+      <category>visualstudio</category>
+      <guid>https://one-ware.com/blog/why-generic-computer-vision-models-fail/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software companies will be fine</title>
+      <link>https://kylenazario.com/blog/ai-replaces-code-no-products</link>
+      <description>AI generates code, not products.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://kylenazario.com/blog/ai-replaces-code-no-products</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hard Work and Success</title>
+      <link>https://almowry.com/writing/hard-work-and-success/</link>
+      <description>Hard work may guarantee success in school, but it often doesn't in life.</description>
+      <author> (Ahmed Almowry)</author>
+      <guid>https://almowry.com/writing/hard-work-and-success/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Software Business</title>
+      <link>https://ivanbercovich.com/2026/the-software-business</link>
+      <description>I don’t know the future, but I believe most people aren’t thinking this AI thing through.</description>
+      <category>ai</category>
+      <guid>https://ivanbercovich.com/2026/the-software-business</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hands-Free Claude Code with the Agent SDK</title>
+      <link>https://yberreby.com/posts/hands-free-claude-code/</link>
+      <description>I'm a decently heavy Claude Code user.
+Running some usage stats by data mining ~/.claude and running ccusage,
+it turns out that I average a few thousand messages per day,
+and I ran through 2.72 billion tokens 
+(2.63B of those being cache reads, thankfully)
+over the past 42 days.
+If I weren't using a Max plan,
+this would amount to $1822 in API costs.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://yberreby.com/posts/hands-free-claude-code/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jekyll - a brilliant engine for your blog [ENG 🇬🇧]</title>
+      <link>https://blog.tomaszdunia.pl/blog-jekyll-github-eng/</link>
+      <description>🇬🇧-&gt;🇵🇱 Przejdź do polskiej wersji tego wpisu / Go to polish version of this post</description>
+      <category>web</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://blog.tomaszdunia.pl/blog-jekyll-github-eng/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>So I Will Never Write Code Again — jd:/dev/blog</title>
+      <link>https://julien.danjou.info/blog/so-i-will-never-write-code-again/</link>
+      <description>I've been coding for 25 years. Since January, I haven't written a single line. And it feels like relief.</description>
+      <author> (https://julien.danjou.info/about)</author>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://julien.danjou.info/blog/so-i-will-never-write-code-again/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Design is dead, it’s all evolution now</title>
+      <link>https://ilyabirman.net/meanwhile/all/design-vs-evolution/</link>
+      <description>There’s no design in digital products anymore. It’s been replaced by evolution</description>
+      <guid>https://ilyabirman.net/meanwhile/all/design-vs-evolution/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Became the Friend Who Kills Your Startup Ideas. Then I Automated Myself. — Mirat Can Bayrak</title>
+      <link>https://mirat.dev/articles/i-automated-the-friend-who-kills-your-startup-ideas/</link>
+      <description>I spent 15 years failing at side projects and writing about it. Then I turned every lesson into an AI tool that tells you if your startup idea will die — and why.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://mirat.dev/articles/i-automated-the-friend-who-kills-your-startup-ideas/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>"The things I am good at"</title>
+      <link>https://cnicodeme.com/the-things-i-am-good-at</link>
+      <description>Imagine, you just finished your day job, you arrive at home and you have two hours, just for you. Your kids - if you have any - are at a relative and your partner won’t be home for the next two hours with that amazing take-out you love. No need to cl...</description>
+      <author> (https://cnicodeme.com/@cnicodeme)</author>
+      <category>gaming</category>
+      <guid>https://cnicodeme.com/the-things-i-am-good-at</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leadership at the Peak</title>
+      <link>https://ma.tt/2026/02/lap/</link>
+      <description>I want to start by thanking the Automattic board, and in particular General (Ret.) Ann Dunwoody, for encouraging me to step away from the endless work of being CEO of Automattic to focus on trainin…</description>
+      <category>ai</category>
+      <guid>https://ma.tt/2026/02/lap/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>https://tosbourn.com/vibe-coding/</link>
+      <description>I'm unsure about the future of this industry. Mainly thanks to vibe coding.</description>
+      <category>ai</category>
+      <guid>https://tosbourn.com/vibe-coding/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do You Really Need Supabase for Your Vibe Coding Websites?</title>
+      <link>https://app.webjourney.pro/blog/do-you-really-need-supabase</link>
+      <description>A database guideline for non-engineer vibe coders. From JSON files to SQLite to Supabase — pick the simplest solution that meets your product requirements.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://app.webjourney.pro/blog/do-you-really-need-supabase</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Technical Details of My LLM-Generated Book – Matt Bruenig Dot Com</title>
+      <link>https://mattbruenig.com/2026/02/10/technical-details-of-my-llm-generated-book/</link>
+      <description>I released a book today called The National Labor Relations Book, which you can buy over at NLRBResearch.com for $10 (click here). The book provides an introduction to the NLRA and NLRB by providing summaries of the 100 most-cited cases in this area of law using the 100 most recent cases citing to each of those cases. Do the math and that’s 10,000 cases in total being digested and turned into a book.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://mattbruenig.com/2026/02/10/technical-details-of-my-llm-generated-book/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>you are a manager now, act like one! – ei23.com</title>
+      <link>https://ei23.com/it/you-are-a-manager-now-act-like-one/</link>
+      <description>ei23.com - first was the idea. Let's get freedom for our homes.</description>
+      <category>ai</category>
+      <guid>https://ei23.com/it/you-are-a-manager-now-act-like-one/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>WGLL - What Good Looks Like</title>
+      <link>https://yusufaytas.com/what-good-looks-like/</link>
+      <description>Define what good looks like in engineering teams. Learn how clear standards, templates, and automation reduce ambiguity and scale execution quality.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <category>gaming</category>
+      <guid>https://yusufaytas.com/what-good-looks-like/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Life is the Sum Total of 2,000 Mondays</title>
+      <link>https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/</link>
+      <description>We plan our lives like we're editing a movie trailer.
+
+The trip to Portugal, or the product launch, or the transformation photo at the gym. The big moment where everything crystallizes into meaning. We accumulate these peaks in our imagination, and then arrange them into a montage that proves our</description>
+      <category>ai</category>
+      <guid>https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Four Spaces Before &lt;?php</title>
+      <link>https://brunopinto.dev/four-spaces-before-php/</link>
+      <description>A debugging session that ended with deleting four spaces.</description>
+      <guid>https://brunopinto.dev/four-spaces-before-php/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Completely Innocuous Blog Post about vPMU in QEMU - VulpineCitrus</title>
+      <link>https://vulpinecitrus.info/blog/qemu-vpmu-heterogenous-cpu/</link>
+      <description>Personal blog of a PhD student interested in networking, programming, and bicycles.</description>
+      <author> (lymkwi (lux))</author>
+      <category>linux</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>encryption</category>
+      <guid>https://vulpinecitrus.info/blog/qemu-vpmu-heterogenous-cpu/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>You should try running</title>
+      <link>https://campedersen.com/you-should-try-running</link>
+      <description>'Tis the season for resolutions, and I have a suggestion: you should try running. My wife and I just did our yearly planning for 2024. I was reflecting on my ye</description>
+      <guid>https://campedersen.com/you-should-try-running</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Living in the inflection point</title>
+      <link>https://brittanyellich.com/living-in-the-inflection-point/</link>
+      <description>I'm scared, I'm excited, and I'm exhausted by the pace of change. All of those things can be true at the same time. This blog post is a (hopefully) grounded take on living through AI's inflection point, why the backlash is valid, and why human connection matters more now than ever.</description>
+      <category>ai</category>
+      <guid>https://brittanyellich.com/living-in-the-inflection-point/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>On screwing up</title>
       <link>https://www.seangoedecke.com/screwing-up/</link>
       <description>The most shameful thing I did in the workplace was lie to a colleague. It was about ten years ago, I was a fresh-faced intern, and in the rush to deliver something I’d skipped the step of testing my work in staging1. It did not work. When deployed to production, it didn’t work there either. No big deal, in general terms: the page we were working on wasn’t yet customer-facing. But my colleague asked me over his desk whether this worked when I’d tested it, and I said something like “it sure did, no idea what happened”.</description>
@@ -115,248 +323,6 @@
       <category>vscode</category>
       <guid>https://github.com/joshuanwalker/Raiders2600/</guid>
       <pubDate>Tue, 10 Feb 2026 01:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>The journey was the point</title>
-      <link>https://mahdiyusuf.com/the-journey-was-the-point/</link>
-      <description>America outsourced manufacturing, then the skills to design what gets manufactured. Software is next.</description>
-      <category>ai</category>
-      <guid>https://mahdiyusuf.com/the-journey-was-the-point/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why We Discourage Sleep in Code</title>
-      <link>https://www.jakeworth.com/posts/why-we-discourage-sleep/</link>
-      <description>You might have heard that using blocking, waiting code, e.g., sleep in many languages, is discouraged. Why?</description>
-      <category>ruby</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://www.jakeworth.com/posts/why-we-discourage-sleep/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webspace Invaders · Matthias Ott</title>
-      <link>https://matthiasott.com/articles/webspace-invaders</link>
-      <description>There’s something happening on the Web at the moment that almost feels like watching that old arcade game Space Invaders play out across our servers. Bots and scrapers marching in formation, attacking our servers wave after wave, systematically requesting page after page, relentlessly filling their data stores while we watch our access logs fill up.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>web</category>
-      <guid>https://matthiasott.com/articles/webspace-invaders</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Second Brain Never Worked. Then I Gave It a Gardener. - Rob Dodson</title>
-      <link>https://robdodson.me/posts/i-gave-my-second-brain-a-gardener/</link>
-      <description>I could never maintain a second brain. Then I pointed Claude Code at my Obsidian vault and let it do the organizing for me. Now I'm writing again.</description>
-      <category>ai</category>
-      <guid>https://robdodson.me/posts/i-gave-my-second-brain-a-gardener/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Buying the Kinesis Advantage 360 keyboard was a mistake | Angelika.me</title>
-      <link>https://angelika.me/2025/12/04/buying-kinesis-advantage-was-a-mistake/</link>
-      <description>Why this beast of a keyboard did not work for me and what I ended up using instead.</description>
-      <category>apple</category>
-      <guid>https://angelika.me/2025/12/04/buying-kinesis-advantage-was-a-mistake/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Letting Gemini Drive My Rover</title>
-      <link>http://martin.drashkov.com/2026/02/letting-gemini-drive-my-rover.html</link>
-      <description>  Letting Gemini Drive My Rover LLMs have had visual capabilities for a while now, with the general ability to understand what they’re looki...</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>http://martin.drashkov.com/2026/02/letting-gemini-drive-my-rover.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>M1 MacBook Pro as a k3s Node with Asahi Linux - Graham Stevens – Grh.am</title>
-      <link>https://grh.am/2026/m1-macbook-pro-as-a-k3s-node-with-asahi-linux/</link>
-      <description>Background At home, I run a small 4 node k3s cluster on Dell Wyse 5070, primarily for the experience but also just for the fun of it. It houses all sorts of containers, but happily handles almost everything I throw at it, including Home Assistant, an MQTT instance, Predbat, Smokeping etc. etc.
-This little stack of 4 Dell thin clients sits on the corner of my desk, each being powered via a single USB power supply - this means it only takes up a single power socket under the desk for neatness. Each node is also connected to a single Ubiquiti 5 port POE switch (USW-Flex), which again means no plug sockets being used up under the desk (but of course requires a POE switch to power it elsewhere…). Lovely and neat! Each node has two 8GB sticks of RAM, and I’ve replaced the M.2 WiFi cards with M.2 to NVME adapters to all me to expand the local storage.
-</description>
-      <category>nodejs</category>
-      <category>linux</category>
-      <category>apple</category>
-      <guid>https://grh.am/2026/m1-macbook-pro-as-a-k3s-node-with-asahi-linux/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Telling Users Their DNS Is Wrong</title>
-      <link>https://jacob.gold/posts/stop-telling-users-their-dns-is-wrong/</link>
-      <description>You add a DNS record. The app says it’s wrong. You check it, fix a typo, try again. Still wrong. You wait. You try again. Still wrong. You triple check it. It looks correct.
-The app is checking DNS records in a half-assed way.
-If you’re building a product that asks users to add DNS records, please take the time to verify DNS records properly.</description>
-      <guid>https://jacob.gold/posts/stop-telling-users-their-dns-is-wrong/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agent Systems Fail Quietly: Why Orchestration Matters More Than Intelligence</title>
-      <link>https://bnjam.dev/posts/agent-orchestration/agent-systems-fail-quietly.html</link>
-      <description>Most agent systems don’t fail because models are weak — they fail because coordination is underspecified, and the failures are silent.</description>
-      <category>ai</category>
-      <guid>https://bnjam.dev/posts/agent-orchestration/agent-systems-fail-quietly.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building at the Speed of Thought | zach wills</title>
-      <link>https://zachwills.net/building-at-the-speed-of-thought/</link>
-      <description>I woke up to 77 pull requests. None of them were from a human. The night before — a Sunday — I had connected the...</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://zachwills.net/building-at-the-speed-of-thought/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Samrian | Manufacturing QMS Software</title>
-      <link>https://www.samrian.com/blog/cost-of-truth</link>
-      <description>Stop chasing paper. Automate your ISO 9001 compliance with the QMS built for the shop floor.</description>
-      <category>ai</category>
-      <guid>https://www.samrian.com/blog/cost-of-truth</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Talk to Claude More Than Humans (And What That Taught Me)</title>
-      <link>https://paraz.in/posts/i-talk-to-claude-more-than-humans</link>
-      <description>Three weeks running Claude 24/7 taught me how to make coding agents actually work: verification loops, team standards, and the right tooling setup.</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://paraz.in/posts/i-talk-to-claude-more-than-humans</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>On Culmination and Not Yet Turning Thirty | Brian Kitano</title>
-      <link>https://briankitano.com/essays/on-culmination/</link>
-      <description>the ouroboros is savoring itself, or "you met me in a very Carrie Bradshaw time of my life"</description>
-      <category>ai</category>
-      <guid>https://briankitano.com/essays/on-culmination/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I used Claude Code in a real data journalism project</title>
-      <link>https://kschaul.com/post/2026/02/09/2026-02-09-ai-data-journalism/</link>
-      <description>This morning three colleagues and I published a story outlining how the federal government is using AI. Here’s how I used Claude Code to help.
-Agencies are required to publish a spreadsheet of AI use cases. Unfortunately (and unsurprisingly) each agency posts them in a different place on their website, in a different file format, using different column names and values. OMB will eventually consolidate these, but why wait when we can do it ourselves?</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://kschaul.com/post/2026/02/09/2026-02-09-ai-data-journalism/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Half Your Skills Expire Every Few Years</title>
-      <link>https://arpitbhayani.me/blogs/half-life/</link>
-      <description>That is the half-life of knowledge in computer science and software engineering - the time it takes for half of what you know to be replaced by better tools, approaches, or understanding. For an engineering degree earned in 1930, the half-life was roughly 35 years. By 1960, it had dropped to about a decade.</description>
-      <category>containers</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://arpitbhayani.me/blogs/half-life/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Towards Perfect Vulnerability Management System - Work &amp; Life Notes</title>
-      <link>https://worklifenotes.com/2026/02/09/towards-perfect-vulnerability-management-system/</link>
-      <description>Here I would like to summarize my thoughts on what constitutes a perfect vulnerability management system, what frequently gets missed, and what elements we</description>
-      <guid>https://worklifenotes.com/2026/02/09/towards-perfect-vulnerability-management-system/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Edited This Video 100% With Codex ft. SAM3 + MatAnyone + Remotion</title>
-      <link>https://www.adithyan.io/blog/codex-text-effects-toolchain</link>
-      <description>A practical workflow: record first, transcribe with word timings, generate a subject alpha, then compose everything in Remotion. No timeline editor.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>apple</category>
-      <guid>https://www.adithyan.io/blog/codex-text-effects-toolchain</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Testing software in the era of coding agents</title>
-      <link>https://www.garymm.org/blog/2026/02/06/testing-software-coding-agents/</link>
-      <description>What parts of my software should be tested? And how? And how do coding agents (e.g. Claude Code) change things? This is my attempt to succinctly explain how I think about these questions at the beginning of 2026 (software development is changing so quickly I feel compelled to note the date. This may all be obsolete soon).</description>
-      <category>ai</category>
-      <guid>https://www.garymm.org/blog/2026/02/06/testing-software-coding-agents/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Domain Knowledge Is the New Syntax</title>
-      <link>https://blog.melashri.net/posts/specs-focus/</link>
-      <description>A collection of notes about physics, programming and personal thoughts.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://blog.melashri.net/posts/specs-focus/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Canvas Breaks Your Screen Recorder (And What to Do Instead) — SendRec</title>
-      <link>https://sendrec.eu/blog/why-canvas-breaks-your-screen-recorder/</link>
-      <description>Most screen recorders composite webcam overlays using canvas. Here's why that fails in background tabs and how we solved it with server-side ffmpeg.</description>
-      <category>nodejs</category>
-      <guid>https://sendrec.eu/blog/why-canvas-breaks-your-screen-recorder/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Wrote a Scheme in 2025</title>
-      <link>https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html</link>
-      <description>One year minus one week ago to the day I published an article
-announcing the new Scheme implementation I was writing, scheme-rs.
-Today I am excited to announce that scheme-rs has reached its first version,
-0.1.0. You can check it out at it’s website (scheme-rs.org, which should be
-updated to scheme.rs at some point when DNS propagation finishes) or its
-github page.</description>
-      <category>rust</category>
-      <category>web</category>
-      <guid>https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>What LEGO Can Teach Us about Autonomy and Engagement - Pawel Brodzinski on Leadership in Technology</title>
-      <link>https://brodzinski.com/2026/01/lego-autonomy-engagement.html</link>
-      <description>A simple experiment with building LEGO models in groups demonstrates how important autonomy is for high engagement at work.</description>
-      <category>gaming</category>
-      <guid>https://brodzinski.com/2026/01/lego-autonomy-engagement.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why use Conventional Commits? - byandrev</title>
-      <link>https://byandrev.dev/en/blog/conventional-commits</link>
-      <description>Opening a project's Git history and finding messages like “various fixes,” “update,” or “fixed something” can be a nightmare. That chaos makes it impossible for anyone to understand what actually happened in the code. This is where Conventional Commits come in.</description>
-      <category>git</category>
-      <guid>https://byandrev.dev/en/blog/conventional-commits</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Potential of RLMs</title>
-      <link>https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html</link>
-      <description>Handling Your Long Context Today &amp; Designing Your Agent Tomorrow</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>From prototype to production: A low-latency multiplayer stack</title>
-      <link>https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html</link>
-      <description>When you start working on a real-time multiplayer game, the idea might seem simple, but it can escalate quickly. That happened when we started giving form to Rumble Racer with the Blyts team.</description>
-      <category>containers</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://dcastares.github.io/2025/12/15/Multi-region-highly-available-architecture-for-indie-budget.html</guid>
-      <pubDate>Tue, 10 Feb 2026 00:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Claude Code as a general agent — Raahel Baig</title>
-      <link>https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/</link>
-      <description>Raahel Baig's personal blog — entries, links, quotes, and notes.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.raahelbaig.com/entry/claude-code-as-a-general-agent/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:01:55 GMT</pubDate>
     </item>
   </channel>
 </rss>
