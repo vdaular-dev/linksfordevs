@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Claude Code Is Being Dumbed Down",
+    "Url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "Timestamp": "2026-02-11T20:02:18",
+    "Domain": "symmetrybreak.ing",
+    "Description": "A blog by Yoshi.",
+    "Confidence": 0.9866565
+  },
+  {
+    "Title": "CockroachDB CDC to Kafka | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/",
+    "Timestamp": "2026-02-11T20:02:14",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "When changes occur in a CockroachDB table, you can use Change Data Capture (CDC) to stream those changes to Kafka. This post shows how to set up a simple CDC to Kafka, and watch the changes in a Kafka consumer.",
+    "Confidence": 0.99334013
+  },
+  {
     "Title": "Standardizing HLSL - DirectX Developer Blog",
     "Url": "https://devblogs.microsoft.com/directx/standardizing-hlsl/",
     "Timestamp": "2026-02-11T17:02:14",
@@ -238,13 +254,5 @@
     "Domain": "youtube.com",
     "Description": "Dave installs 1TB of RAM and uses it to explain how virtualization works, and what the difference between hypervisors, virtual machines, and docker containers are using real world examples.",
     "Confidence": 0.96889585
-  },
-  {
-    "Title": "The Singularity will Occur on a Tuesday",
-    "Url": "https://campedersen.com/singularity",
-    "Timestamp": "2026-02-10T20:02:26",
-    "Domain": "campedersen.com",
-    "Description": "src={alwaysHasBeen.src} alt=\"Always has been astronaut meme\" / \"Wait, the singularity is just humans freaking out?\" \"Always has been.\" Everyone in <span style={",
-    "Confidence": 0.9394819
   }
 ]

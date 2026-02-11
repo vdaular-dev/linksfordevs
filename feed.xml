@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Code Is Being Dumbed Down</title>
+      <link>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</link>
+      <description>A blog by Yoshi.</description>
+      <category>ai</category>
+      <guid>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</guid>
+      <pubDate>Wed, 11 Feb 2026 20:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>CockroachDB CDC to Kafka | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/</link>
+      <description>When changes occur in a CockroachDB table, you can use Change Data Capture (CDC) to stream those changes to Kafka. This post shows how to set up a simple CDC to Kafka, and watch the changes in a Kafka consumer.</description>
+      <category>sql</category>
+      <guid>https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/</guid>
+      <pubDate>Wed, 11 Feb 2026 20:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Standardizing HLSL - DirectX Developer Blog</title>
       <link>https://devblogs.microsoft.com/directx/standardizing-hlsl/</link>
       <description>The HLSL team is excited to announce the formation of Ecma Technical Committee 57; a committee to standardize the High Level Shading Language. The formation of this committee marks an important milestone in HLSL’s development and strengthens Microsoft’s commitment to HLSL as a cross-platform language, built in collaboration with equal partners across the industry. All […]</description>
@@ -292,14 +308,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=ipZ6-DvTbqo</guid>
       <pubDate>Tue, 10 Feb 2026 21:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Singularity will Occur on a Tuesday</title>
-      <link>https://campedersen.com/singularity</link>
-      <description>src={alwaysHasBeen.src} alt="Always has been astronaut meme" / "Wait, the singularity is just humans freaking out?" "Always has been." Everyone in &lt;span style={</description>
-      <category>ai</category>
-      <guid>https://campedersen.com/singularity</guid>
-      <pubDate>Tue, 10 Feb 2026 20:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
