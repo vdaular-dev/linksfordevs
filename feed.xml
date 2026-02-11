@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Standardizing HLSL - DirectX Developer Blog</title>
+      <link>https://devblogs.microsoft.com/directx/standardizing-hlsl/</link>
+      <description>The HLSL team is excited to announce the formation of Ecma Technical Committee 57; a committee to standardize the High Level Shading Language. The formation of this committee marks an important milestone in HLSL’s development and strengthens Microsoft’s commitment to HLSL as a cross-platform language, built in collaboration with equal partners across the industry. All […]</description>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://devblogs.microsoft.com/directx/standardizing-hlsl/</guid>
+      <pubDate>Wed, 11 Feb 2026 17:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Spying Chrome Extensions: 287 Extensions spying on 37M users</title>
       <link>https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495</link>
       <description>Summary</description>
@@ -301,13 +312,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>javascript</category>
       <guid>https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/</guid>
       <pubDate>Tue, 10 Feb 2026 18:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Our $200M Series C / Oxide</title>
-      <link>https://oxide.computer/blog/our-200m-series-c</link>
-      <description>Raising our Series C round of financing</description>
-      <guid>https://oxide.computer/blog/our-200m-series-c</guid>
-      <pubDate>Tue, 10 Feb 2026 17:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

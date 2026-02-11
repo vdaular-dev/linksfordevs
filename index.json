@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Standardizing HLSL - DirectX Developer Blog",
+    "Url": "https://devblogs.microsoft.com/directx/standardizing-hlsl/",
+    "Timestamp": "2026-02-11T17:02:14",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "The HLSL team is excited to announce the formation of Ecma Technical Committee 57; a committee to standardize the High Level Shading Language. The formation of this committee marks an important milestone in HLSL’s development and strengthens Microsoft’s commitment to HLSL as a cross-platform language, built in collaboration with equal partners across the industry. All […]",
+    "Confidence": 0.97484916
+  },
+  {
     "Title": "Spying Chrome Extensions: 287 Extensions spying on 37M users",
     "Url": "https://qcontinuum.substack.com/p/spying-chrome-extensions-287-extensions-495",
     "Timestamp": "2026-02-11T16:02:19",
@@ -246,13 +254,5 @@
     "Domain": "www.jamesdrandall.com",
     "Description": "I still love developing but the shifts that AI have brought are tectonic and are forcing me to re-evaluate my own relationship to building things",
     "Confidence": 0.9776179
-  },
-  {
-    "Title": "Our $200M Series C / Oxide",
-    "Url": "https://oxide.computer/blog/our-200m-series-c",
-    "Timestamp": "2026-02-10T17:02:14",
-    "Domain": "oxide.computer",
-    "Description": "Raising our Series C round of financing",
-    "Confidence": 0.81484216
   }
 ]
