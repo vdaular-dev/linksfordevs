@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The risk of a hothouse Earth trajectory</title>
+      <link>https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4</link>
+      <description>Earth’s climate is now departing from the stable conditions that supported human civilization
+for millennia. Crossing critical temperature thresholds may trigger self-reinforcing
+feedbacks and tipping dynamics that amplify warming and destabilize distant Earth
+system components. Uncertain tipping thresholds make precaution essential, as crossing
+them could commit the planet to a hothouse trajectory with long-lasting and potentially
+irreversible consequences.</description>
+      <guid>https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4</guid>
+      <pubDate>Wed, 11 Feb 2026 23:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>Fluorite Game Engine</title>
       <link>https://fluorite.game/</link>
       <description>Fluorite is the first console-grade game engine fully integrated with Flutter.
@@ -312,14 +324,6 @@ The trip to Portugal, or the product launch, or the transformation photo at the 
       <category>ai</category>
       <guid>https://brittanyellich.com/living-in-the-inflection-point/</guid>
       <pubDate>Wed, 11 Feb 2026 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>On screwing up</title>
-      <link>https://www.seangoedecke.com/screwing-up/</link>
-      <description>The most shameful thing I did in the workplace was lie to a colleague. It was about ten years ago, I was a fresh-faced intern, and in the rush to deliver something I’d skipped the step of testing my work in staging1. It did not work. When deployed to production, it didn’t work there either. No big deal, in general terms: the page we were working on wasn’t yet customer-facing. But my colleague asked me over his desk whether this worked when I’d tested it, and I said something like “it sure did, no idea what happened”.</description>
-      <category>sql</category>
-      <guid>https://www.seangoedecke.com/screwing-up/</guid>
-      <pubDate>Tue, 10 Feb 2026 23:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

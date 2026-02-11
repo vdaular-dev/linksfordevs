@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The risk of a hothouse Earth trajectory",
+    "Url": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
+    "Timestamp": "2026-02-11T23:01:58",
+    "Domain": "www.cell.com",
+    "Description": "Earth’s climate is now departing from the stable conditions that supported human civilization\nfor millennia. Crossing critical temperature thresholds may trigger self-reinforcing\nfeedbacks and tipping dynamics that amplify warming and destabilize distant Earth\nsystem components. Uncertain tipping thresholds make precaution essential, as crossing\nthem could commit the planet to a hothouse trajectory with long-lasting and potentially\nirreversible consequences.",
+    "Confidence": 0.8727472
+  },
+  {
     "Title": "Fluorite Game Engine",
     "Url": "https://fluorite.game/",
     "Timestamp": "2026-02-11T21:02:16",
@@ -254,13 +262,5 @@
     "Domain": "brittanyellich.com",
     "Description": "I'm scared, I'm excited, and I'm exhausted by the pace of change. All of those things can be true at the same time. This blog post is a (hopefully) grounded take on living through AI's inflection point, why the backlash is valid, and why human connection matters more now than ever.",
     "Confidence": 0.9515244
-  },
-  {
-    "Title": "On screwing up",
-    "Url": "https://www.seangoedecke.com/screwing-up/",
-    "Timestamp": "2026-02-10T23:02:03",
-    "Domain": "www.seangoedecke.com",
-    "Description": "The most shameful thing I did in the workplace was lie to a colleague. It was about ten years ago, I was a fresh-faced intern, and in the rush to deliver something I’d skipped the step of testing my work in staging1. It did not work. When deployed to production, it didn’t work there either. No big deal, in general terms: the page we were working on wasn’t yet customer-facing. But my colleague asked me over his desk whether this worked when I’d tested it, and I said something like “it sure did, no idea what happened”.",
-    "Confidence": 0.9845745
   }
 ]
