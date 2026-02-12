@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Major European Payment Processor Can't Send Email to Google Workspace Users",
+    "Url": "https://atha.io/blog/2026-02-12-viva",
+    "Timestamp": "2026-02-12T19:02:27",
+    "Domain": "atha.io",
+    "Description": "Viva.com, one of Europe's largest payment processors, sends verification emails without a Message-ID header — a recommendation of RFC 5322 since 2008. Google Workspace rejects them outright. Their support team's response to my detailed bug report: your account has a verified email, so there's no problem."
+  },
+  {
+    "Title": "ai;dr | Sid's Blog",
+    "Url": "https://www.0xsid.com/blog/aidr",
+    "Timestamp": "2026-02-12T19:02:23",
+    "Domain": "www.0xsid.com",
+    "Description": "(ai; didn't read)"
+  },
+  {
     "Title": "I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.",
     "Url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "Timestamp": "2026-02-12T17:02:07",

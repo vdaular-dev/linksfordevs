@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Major European Payment Processor Can't Send Email to Google Workspace Users</title>
+      <link>https://atha.io/blog/2026-02-12-viva</link>
+      <description>Viva.com, one of Europe's largest payment processors, sends verification emails without a Message-ID header — a recommendation of RFC 5322 since 2008. Google Workspace rejects them outright. Their support team's response to my detailed bug report: your account has a verified email, so there's no problem.</description>
+      <author> (Ian Atha)</author>
+      <guid>https://atha.io/blog/2026-02-12-viva</guid>
+      <pubDate>Thu, 12 Feb 2026 19:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai;dr | Sid's Blog</title>
+      <link>https://www.0xsid.com/blog/aidr</link>
+      <description>(ai; didn't read)</description>
+      <category>ai</category>
+      <guid>https://www.0xsid.com/blog/aidr</guid>
+      <pubDate>Thu, 12 Feb 2026 19:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.</title>
       <link>http://blog.can.ac/2026/02/12/the-harness-problem/</link>
       <description>Cross-posted from X / @_can1357 In fact only the edit tool changed. That’s it.
