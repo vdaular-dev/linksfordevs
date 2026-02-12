@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Voice Sound Effects for AI: Righty-o then! Off I go, then! | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2026/voice-sound-effects-for-ai/</link>
+      <description>Voice sound effects for AI - peon-ping by Tony Yont</description>
+      <category>ai</category>
+      <guid>https://www.world-domination.com.au/posts/2026/voice-sound-effects-for-ai/</guid>
+      <pubDate>Thu, 12 Feb 2026 14:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[PERF] Replace np.column_stack with np.vstack().T by crabby-rathbun · Pull Request #31132 · matplotlib/matplotlib</title>
+      <link>https://github.com/matplotlib/matplotlib/pull/31132</link>
+      <description>This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
+IMPORTANT: This is a more targeted fix than originally proposed. ...</description>
+      <category>ai</category>
+      <guid>https://github.com/matplotlib/matplotlib/pull/31132</guid>
+      <pubDate>Thu, 12 Feb 2026 14:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Turning YouTube Into Cloud Storage</title>
       <link>https://youtu.be/l03Os5uwWmk</link>
       <description>How I made a YouTube file media storage using C++ and a few libraries. You can view my repository here: https://github.com/PulseBeat02/yt-media-storage
