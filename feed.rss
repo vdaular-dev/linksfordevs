@@ -7,6 +7,71 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Turning YouTube Into Cloud Storage</title>
+      <link>https://youtu.be/l03Os5uwWmk</link>
+      <description>How I made a YouTube file media storage using C++ and a few libraries. You can view my repository here: https://github.com/PulseBeat02/yt-media-storage
+
+Here is the Wirehair O(N) fountain codec repository: https://github.com/catid/wirehair
+
+For those who want to learn more, I recommend taking a look into CRC flavors, Wirehair code, and video compression algorithms. I tried to give a brief explanation, but in the real-world, they are much more complex.
+
+Animations were made using a combination of Manim and DaVinci Resolve
+https://github.com/3b1b/manim
+https://www.blackmagicdesign.com/products/davinciresolve
+
+Video format heavily inspired by @3blue1brown
+
+------------------------------------------------------------------------
+
+Timeline:
+0:00 - Intro
+0:43 - Video Containers
+1:15 - Metadata Stripping
+1:48 - Video &amp; Audio
+3:35 - Naive Approach
+3:56 - YouTube Compression &amp; Transcoding
+5:25 - Take a Step Back
+5:41 - File Chunking
+6:15 - QR Codes
+7:20 - Drawing Parallels
+7:54 - Why Not QR Codes
+8:41 - Cyclic Redundancy Check (CRC)
+12:38 - Forward Error Correction &amp; Wirehair
+14:21 - Hybrid Error-Proof Algorithm
+14:42 - Storing into Video Container
+15:06 - Discrete Cosine Transform (DCT)
+16:21 - Hiding File Data in DCTs
+17:51 - Choosing Video Codec for Encoding
+18:52 - Demo Video
+20:54 - Wrapping Up
+21:25 - Outro
+
+------------------------------------------------------------------------
+
+Music:
+Music by Vincent Rubinetti
+Download the music on Bandcamp:
+https://vincerubinetti.bandcamp.com
+
+Stream the music on Spotify:
+https://open.spotify.com/artist/2SRhEEt2tlDQWxzwfUo9Dl
+
+------------------------------------------------------------------------
+
+Socials:
+Website: https://brandonli.me/
+Discord: https://discord.com/invite/MgqRKvycMC
+GitHub: https://github.com/PulseBeat02
+LinkedIn: https://www.linkedin.com/in/brandonli28
+
+------------------------------------------------------------------------</description>
+      <author> (Brandon Li)</author>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtu.be/l03Os5uwWmk</guid>
+      <pubDate>Thu, 12 Feb 2026 11:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - tonyyont/peon-ping: Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal.</title>
       <link>https://github.com/tonyyont/peon-ping</link>
       <description>Warcraft III Peon voice notifications for Claude Code. Stop babysitting your terminal. - tonyyont/peon-ping</description>
@@ -344,13 +409,6 @@ Everyone followed the ads. They signed up for Lovable and all the fancy app-buil
       <category>sql</category>
       <guid>https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</guid>
       <pubDate>Wed, 11 Feb 2026 12:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CVE Record: CVE-2026-20841</title>
-      <link>https://www.cve.org/CVERecord?id=CVE-2026-20841</link>
-      <description>Vulnerability detail for CVE-2026-20841</description>
-      <guid>https://www.cve.org/CVERecord?id=CVE-2026-20841</guid>
-      <pubDate>Wed, 11 Feb 2026 11:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
