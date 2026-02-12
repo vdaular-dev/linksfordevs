@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+    "Timestamp": "2026-02-12T20:02:07",
+    "Domain": "blog.google",
+    "Description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+    "Confidence": 0.95945156
+  },
+  {
     "Title": "Major European Payment Processor Can't Send Email to Google Workspace Users",
     "Url": "https://atha.io/blog/2026-02-12-viva",
     "Timestamp": "2026-02-12T19:02:27",
@@ -270,21 +278,5 @@
     "Domain": "z.ai",
     "Description": "We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial General Intelligence (AGI). Compared to GLM-4.5, GLM-5 scales from 355B parameters (32B active) to 744B parameters (40B active), and increases pre-training data from 23T to 28.5T tokens. GLM-5 also integrates DeepSeek Sparse Attention (DSA), significantly reducing deployment cost while preserving long-context capacity.",
     "Confidence": 0.98686016
-  },
-  {
-    "Title": "Claude Code Is Being Dumbed Down",
-    "Url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "Timestamp": "2026-02-11T20:02:18",
-    "Domain": "symmetrybreak.ing",
-    "Description": "A blog by Yoshi.",
-    "Confidence": 0.9866565
-  },
-  {
-    "Title": "CockroachDB CDC to Kafka | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/",
-    "Timestamp": "2026-02-11T20:02:14",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "When changes occur in a CockroachDB table, you can use Change Data Capture (CDC) to stream those changes to Kafka. This post shows how to set up a simple CDC to Kafka, and watch the changes in a Kafka consumer.",
-    "Confidence": 0.99334013
   }
 ]

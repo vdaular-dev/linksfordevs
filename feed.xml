@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Gemini 3 Deep Think: Advancing science, research and engineering</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</link>
+      <description>We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.</description>
+      <category>ai</category>
+      <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</guid>
+      <pubDate>Thu, 12 Feb 2026 20:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Major European Payment Processor Can't Send Email to Google Workspace Users</title>
       <link>https://atha.io/blog/2026-02-12-viva</link>
       <description>Viva.com, one of Europe's largest payment processors, sends verification emails without a Message-ID header — a recommendation of RFC 5322 since 2008. Google Workspace rejects them outright. Their support team's response to my detailed bug report: your account has a verified email, so there's no problem.</description>
@@ -394,22 +402,6 @@ irreversible consequences.</description>
       <category>javascript</category>
       <guid>https://z.ai/blog/glm-5</guid>
       <pubDate>Wed, 11 Feb 2026 21:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Is Being Dumbed Down</title>
-      <link>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</link>
-      <description>A blog by Yoshi.</description>
-      <category>ai</category>
-      <guid>https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/</guid>
-      <pubDate>Wed, 11 Feb 2026 20:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CockroachDB CDC to Kafka | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/</link>
-      <description>When changes occur in a CockroachDB table, you can use Change Data Capture (CDC) to stream those changes to Kafka. This post shows how to set up a simple CDC to Kafka, and watch the changes in a Kafka consumer.</description>
-      <category>sql</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/02/cockroach-cdc-to-kafka/</guid>
-      <pubDate>Wed, 11 Feb 2026 20:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
