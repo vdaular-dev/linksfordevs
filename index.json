@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Introducing GPT‑5.3‑Codex‑Spark",
+    "Url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+    "Timestamp": "2026-02-12T21:02:18",
+    "Domain": "openai.com",
+    "Description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+    "Confidence": 0.96018463
+  },
+  {
     "Title": "Gemini 3 Deep Think: Advancing science, research and engineering",
     "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
     "Timestamp": "2026-02-12T20:02:07",
@@ -262,21 +270,5 @@
     "Domain": "www.cell.com",
     "Description": "Earth’s climate is now departing from the stable conditions that supported human civilization\nfor millennia. Crossing critical temperature thresholds may trigger self-reinforcing\nfeedbacks and tipping dynamics that amplify warming and destabilize distant Earth\nsystem components. Uncertain tipping thresholds make precaution essential, as crossing\nthem could commit the planet to a hothouse trajectory with long-lasting and potentially\nirreversible consequences.",
     "Confidence": 0.8727472
-  },
-  {
-    "Title": "Fluorite Game Engine",
-    "Url": "https://fluorite.game/",
-    "Timestamp": "2026-02-11T21:02:16",
-    "Domain": "fluorite.game",
-    "Description": "Fluorite is the first console-grade game engine fully integrated with Flutter.\n            Its reduced complexity by allowing you to write your game code directly in Dart, and using all of its great\n            developer tools.\n            By using a FluoriteView widget you can add multiple simultaneous views of your 3D scene,\n            as well as share state between game Entities and UI widgets - the Flutter way!",
-    "Confidence": 0.9932578
-  },
-  {
-    "Title": "GLM-5: From Vibe Coding to Agentic Engineering",
-    "Url": "https://z.ai/blog/glm-5",
-    "Timestamp": "2026-02-11T21:02:12",
-    "Domain": "z.ai",
-    "Description": "We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial General Intelligence (AGI). Compared to GLM-4.5, GLM-5 scales from 355B parameters (32B active) to 744B parameters (40B active), and increases pre-training data from 23T to 28.5T tokens. GLM-5 also integrates DeepSeek Sparse Attention (DSA), significantly reducing deployment cost while preserving long-context capacity.",
-    "Confidence": 0.98686016
   }
 ]

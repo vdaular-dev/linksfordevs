@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing GPT‑5.3‑Codex‑Spark</title>
+      <link>https://openai.com/index/introducing-gpt-5-3-codex-spark/</link>
+      <description>Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
+      <pubDate>Thu, 12 Feb 2026 21:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Gemini 3 Deep Think: Advancing science, research and engineering</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</link>
       <description>We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.</description>
@@ -380,28 +390,6 @@ them could commit the planet to a hothouse trajectory with long-lasting and pote
 irreversible consequences.</description>
       <guid>https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4</guid>
       <pubDate>Wed, 11 Feb 2026 23:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fluorite Game Engine</title>
-      <link>https://fluorite.game/</link>
-      <description>Fluorite is the first console-grade game engine fully integrated with Flutter.
-            Its reduced complexity by allowing you to write your game code directly in Dart, and using all of its great
-            developer tools.
-            By using a FluoriteView widget you can add multiple simultaneous views of your 3D scene,
-            as well as share state between game Entities and UI widgets - the Flutter way!</description>
-      <category>gaming</category>
-      <guid>https://fluorite.game/</guid>
-      <pubDate>Wed, 11 Feb 2026 21:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5: From Vibe Coding to Agentic Engineering</title>
-      <link>https://z.ai/blog/glm-5</link>
-      <description>We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ways to improve the intelligence efficiency of Artificial General Intelligence (AGI). Compared to GLM-4.5, GLM-5 scales from 355B parameters (32B active) to 744B parameters (40B active), and increases pre-training data from 23T to 28.5T tokens. GLM-5 also integrates DeepSeek Sparse Attention (DSA), significantly reducing deployment cost while preserving long-context capacity.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://z.ai/blog/glm-5</guid>
-      <pubDate>Wed, 11 Feb 2026 21:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
