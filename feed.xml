@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>discord/twitch/kick/snapchat age verifier</title>
+      <link>https://age-verifier.kibty.town/</link>
+      <description>age verifies your account automatically as an adult on any website using k-id</description>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <guid>https://age-verifier.kibty.town/</guid>
+      <pubDate>Thu, 12 Feb 2026 02:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Building a Pastebin, Hardening Two Services, and Adding an Admin Panel: All in One Afternoon</title>
       <link>https://www.smolkin.org/blog/2026/02/adding-api-auth-admin-panel-with-claude-code.html</link>
       <description>I built a pastebin from scratch, security-hardened two services, added API auth and an admin panel, 1,700 lines across 14 files in about 90 minutes with Claude Code.</description>
