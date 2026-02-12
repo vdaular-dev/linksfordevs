@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.",
+    "Url": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "Timestamp": "2026-02-12T17:02:07",
+    "Domain": "blog.can.ac",
+    "Description": "Cross-posted from X / @_can1357 In fact only the edit tool changed. That’s it.\n0x0: The Wrong Question The conversation right now is almost entirely about …",
+    "Confidence": 0.97207314
+  },
+  {
     "Title": "Voice Sound Effects for AI: Righty-o then! Off I go, then! | Pure Krome",
     "Url": "https://www.world-domination.com.au/posts/2026/voice-sound-effects-for-ai/",
     "Timestamp": "2026-02-12T14:02:12",
@@ -262,13 +270,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "When changes occur in a CockroachDB table, you can use Change Data Capture (CDC) to stream those changes to Kafka. This post shows how to set up a simple CDC to Kafka, and watch the changes in a Kafka consumer.",
     "Confidence": 0.99334013
-  },
-  {
-    "Title": "Standardizing HLSL - DirectX Developer Blog",
-    "Url": "https://devblogs.microsoft.com/directx/standardizing-hlsl/",
-    "Timestamp": "2026-02-11T17:02:14",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "The HLSL team is excited to announce the formation of Ecma Technical Committee 57; a committee to standardize the High Level Shading Language. The formation of this committee marks an important milestone in HLSL’s development and strengthens Microsoft’s commitment to HLSL as a cross-platform language, built in collaboration with equal partners across the industry. All […]",
-    "Confidence": 0.97484916
   }
 ]
