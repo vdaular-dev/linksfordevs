@@ -7,6 +7,216 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building a Pastebin, Hardening Two Services, and Adding an Admin Panel: All in One Afternoon</title>
+      <link>https://www.smolkin.org/blog/2026/02/adding-api-auth-admin-panel-with-claude-code.html</link>
+      <description>I built a pastebin from scratch, security-hardened two services, added API auth and an admin panel, 1,700 lines across 14 files in about 90 minutes with Claude Code.</description>
+      <author> (Michael)</author>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://www.smolkin.org/blog/2026/02/adding-api-auth-admin-panel-with-claude-code.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exploring Chess Positions and Counts</title>
+      <link>https://win-vector.com/2026/02/11/exploring-chess-positions-and-counts/</link>
+      <description>Introduction In our earlier article “How Many Chess Games are Possible?” we derived that the number of typical short chess games is around 10151. This turned out to be much larger than …</description>
+      <category>gaming</category>
+      <category>python</category>
+      <guid>https://win-vector.com/2026/02/11/exploring-chess-positions-and-counts/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Seeking Order in Chaos</title>
+      <link>https://garrit.xyz/posts/2026-02-11-on-seeking-order-in-chaos</link>
+      <description>Generalist software developer writing about scalable infrastructure, fullstack development and DevOps practices.</description>
+      <category>vscode</category>
+      <guid>https://garrit.xyz/posts/2026-02-11-on-seeking-order-in-chaos</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>APIs Over UIs: Agents Are the Future Interface to Everything | Dylan Huang</title>
+      <link>https://dylanhuang.com/blog/agents-over-ui/</link>
+      <description>Every database, application, and codebase will be accessed through agents. APIs and MCPs over UIs.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://dylanhuang.com/blog/agents-over-ui/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>But What To Do About It?</title>
+      <link>https://andys.blog/what-to-do/</link>
+      <description>The future is here. I'm deeply uncertain what to do about it.
+
+I first had a passive inkling AI might be much bigger than chatbots 2 years ago in Alaska. Like buying my first bitcoins in 2013, I just paid a little extra attention when smart people around me started</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://andys.blog/what-to-do/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Muscle to Matrix</title>
+      <link>https://www.aviraj.dev/blog/from-muscle-to-matrix</link>
+      <description>Money used to represent human time. Now it represents energy times inference. The human dropped out of the equation.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://www.aviraj.dev/blog/from-muscle-to-matrix</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Request Intent: The Future of Secure Requests</title>
+      <link>https://erdem.work/csrf-is-dead-long-live-request-intent-the-anatomy-of-a-cryptographic-primitive</link>
+      <description>Sigil offers stateless CSRF protection using request intent verification, improving security without traditional middleware drawbacks</description>
+      <author> (https://erdem.work/@laphilosophia)</author>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://erdem.work/csrf-is-dead-long-live-request-intent-the-anatomy-of-a-cryptographic-primitive</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software entrepreneurs are different — Scattered thoughts</title>
+      <link>https://scatteredthoughts.blog/software-entrepreneurs/</link>
+      <description>December 26, 2025</description>
+      <guid>https://scatteredthoughts.blog/software-entrepreneurs/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>An Ode to Merge Join</title>
+      <link>https://ender672.github.io/2026/02/10/merge-join.html</link>
+      <description>Merge join is such a delightful algorithm.</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>git</category>
+      <guid>https://ender672.github.io/2026/02/10/merge-join.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building High-Performance Electron Apps - Johnny Le</title>
+      <link>https://www.johnnyle.io/read/electron-performance</link>
+      <description>Strategies for building high-performance Electron apps.</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>conference</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://www.johnnyle.io/read/electron-performance</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Outcome Engineering</title>
+      <link>https://cory.news/posts/2026-02-08-outcome-engineering/</link>
+      <description></description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://cory.news/posts/2026-02-08-outcome-engineering/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title> Self-Employment Series #2: Ownership Is Not Freedom</title>
+      <link>http://charleshughsmith.blogspot.com/2026/02/self-employment-series-2-ownership-is.html</link>
+      <description>Ownership collapses abstraction.      This guest essay by correspondent 0bserver is #2 in a series on self-employment / owning your work.   ...</description>
+      <guid>http://charleshughsmith.blogspot.com/2026/02/self-employment-series-2-ownership-is.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Software that Is Good for Humans</title>
+      <link>https://elijahpotter.dev/articles/building-software-that-is-good-for-humans</link>
+      <description>Why does so much of the software we use feel harmful?</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://elijahpotter.dev/articles/building-software-that-is-good-for-humans</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>EyesOff: Why Some Models Quantize Better Than Others</title>
+      <link>https://ym2132.github.io/why_quantization_fails.html</link>
+      <description>Some models quantize better than others, in this case it was EfficientNetB0 and ResNet18 (the latter quantized better).</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://ym2132.github.io/why_quantization_fails.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>If you don't engineer backpressure, you'll get slopped</title>
+      <link>https://jw.hn/engineering-backpressure</link>
+      <description>The mindset shift required to build with AI without drowning in slop.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://jw.hn/engineering-backpressure</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Human Review is the Bottleneck</title>
+      <link>https://www.satyaborg.com/blog/human-review-bottleneck</link>
+      <description>Agent-generated code creates a review bottleneck. Frontload cognitive work into planning rather than trying to review harder.</description>
+      <author> (Satya Borgohain)</author>
+      <category>encryption</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.satyaborg.com/blog/human-review-bottleneck</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software 2.0: Code is Cheap, Good Taste is Not</title>
+      <link>https://aaronstannard.com/beginning-of-software-2.0/</link>
+      <description>The rules of software development are changing.</description>
+      <author> (https://aaronstannard.com/about/)</author>
+      <category>web</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://aaronstannard.com/beginning-of-software-2.0/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dorodango</title>
+      <link>https://blog.fsck.com/2026/02/10/dorodango/</link>
+      <description>I used to write more</description>
+      <category>ai</category>
+      <guid>https://blog.fsck.com/2026/02/10/dorodango/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Functional programming in an LLM world — notes</title>
+      <link>https://notes.druchan.com/fp-in-llm-world</link>
+      <description>A twenty-something and their ChatGPT has produced a code artefact that is currently in production. Somewhere deep in the code soup, there is this utility function...</description>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://notes.druchan.com/fp-in-llm-world</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trusting Trust in the Fediverse</title>
+      <link>https://evilmaid.net/blog/trusting-trust-fediverse/index.html</link>
+      <description>Implied trust and how easy it is to break it</description>
+      <category>encryption</category>
+      <guid>https://evilmaid.net/blog/trusting-trust-fediverse/index.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Problem With LLMs</title>
+      <link>https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/</link>
+      <description>Premise Six months ago, a friend of mine, with whom I work on the nonprofit Pariyatti mobile app, sent me this blog post by Vijay Khanna: From Idea to App in 7 Hours. By now, this is a fairly common zero-to-one LLM coding story. (LLM is short for Large Language Model but for the purposes of this essay, we’ll use it as a substitute for what is broadly categorized as “generative AI” in early 2026.</description>
+      <category>web</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <guid>https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:04:24 GMT</pubDate>
+    </item>
+    <item>
       <title>The risk of a hothouse Earth trajectory</title>
       <link>https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4</link>
       <description>Earth’s climate is now departing from the stable conditions that supported human civilization
@@ -116,214 +326,6 @@ Everyone followed the ads. They signed up for Lovable and all the fancy app-buil
       <category>linux</category>
       <guid>https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/</guid>
       <pubDate>Wed, 11 Feb 2026 05:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>FV - Work - Ring Alarm to Google Sheets Monitor</title>
-      <link>https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/</link>
-      <description>Francesco Vigni's personal website</description>
-      <category>containers</category>
-      <category>nodejs</category>
-      <category>conference</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Where Generic Vision Models Fail &amp; How to Get Better Results | ONE WARE</title>
-      <link>https://one-ware.com/blog/why-generic-computer-vision-models-fail/</link>
-      <description>Your browser does not support the video tag.</description>
-      <author> (https://www.linkedin.com/in/leon-beier-123456789/)</author>
-      <category>ai</category>
-      <category>visualstudio</category>
-      <guid>https://one-ware.com/blog/why-generic-computer-vision-models-fail/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software companies will be fine</title>
-      <link>https://kylenazario.com/blog/ai-replaces-code-no-products</link>
-      <description>AI generates code, not products.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://kylenazario.com/blog/ai-replaces-code-no-products</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hard Work and Success</title>
-      <link>https://almowry.com/writing/hard-work-and-success/</link>
-      <description>Hard work may guarantee success in school, but it often doesn't in life.</description>
-      <author> (Ahmed Almowry)</author>
-      <guid>https://almowry.com/writing/hard-work-and-success/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Software Business</title>
-      <link>https://ivanbercovich.com/2026/the-software-business</link>
-      <description>I don’t know the future, but I believe most people aren’t thinking this AI thing through.</description>
-      <category>ai</category>
-      <guid>https://ivanbercovich.com/2026/the-software-business</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hands-Free Claude Code with the Agent SDK</title>
-      <link>https://yberreby.com/posts/hands-free-claude-code/</link>
-      <description>I'm a decently heavy Claude Code user.
-Running some usage stats by data mining ~/.claude and running ccusage,
-it turns out that I average a few thousand messages per day,
-and I ran through 2.72 billion tokens 
-(2.63B of those being cache reads, thankfully)
-over the past 42 days.
-If I weren't using a Max plan,
-this would amount to $1822 in API costs.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://yberreby.com/posts/hands-free-claude-code/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jekyll - a brilliant engine for your blog [ENG 🇬🇧]</title>
-      <link>https://blog.tomaszdunia.pl/blog-jekyll-github-eng/</link>
-      <description>🇬🇧-&gt;🇵🇱 Przejdź do polskiej wersji tego wpisu / Go to polish version of this post</description>
-      <category>web</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>git</category>
-      <guid>https://blog.tomaszdunia.pl/blog-jekyll-github-eng/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>So I Will Never Write Code Again — jd:/dev/blog</title>
-      <link>https://julien.danjou.info/blog/so-i-will-never-write-code-again/</link>
-      <description>I've been coding for 25 years. Since January, I haven't written a single line. And it feels like relief.</description>
-      <author> (https://julien.danjou.info/about)</author>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://julien.danjou.info/blog/so-i-will-never-write-code-again/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Design is dead, it’s all evolution now</title>
-      <link>https://ilyabirman.net/meanwhile/all/design-vs-evolution/</link>
-      <description>There’s no design in digital products anymore. It’s been replaced by evolution</description>
-      <guid>https://ilyabirman.net/meanwhile/all/design-vs-evolution/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Became the Friend Who Kills Your Startup Ideas. Then I Automated Myself. — Mirat Can Bayrak</title>
-      <link>https://mirat.dev/articles/i-automated-the-friend-who-kills-your-startup-ideas/</link>
-      <description>I spent 15 years failing at side projects and writing about it. Then I turned every lesson into an AI tool that tells you if your startup idea will die — and why.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://mirat.dev/articles/i-automated-the-friend-who-kills-your-startup-ideas/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>"The things I am good at"</title>
-      <link>https://cnicodeme.com/the-things-i-am-good-at</link>
-      <description>Imagine, you just finished your day job, you arrive at home and you have two hours, just for you. Your kids - if you have any - are at a relative and your partner won’t be home for the next two hours with that amazing take-out you love. No need to cl...</description>
-      <author> (https://cnicodeme.com/@cnicodeme)</author>
-      <category>gaming</category>
-      <guid>https://cnicodeme.com/the-things-i-am-good-at</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leadership at the Peak</title>
-      <link>https://ma.tt/2026/02/lap/</link>
-      <description>I want to start by thanking the Automattic board, and in particular General (Ret.) Ann Dunwoody, for encouraging me to step away from the endless work of being CEO of Automattic to focus on trainin…</description>
-      <category>ai</category>
-      <guid>https://ma.tt/2026/02/lap/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Coding</title>
-      <link>https://tosbourn.com/vibe-coding/</link>
-      <description>I'm unsure about the future of this industry. Mainly thanks to vibe coding.</description>
-      <category>ai</category>
-      <guid>https://tosbourn.com/vibe-coding/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do You Really Need Supabase for Your Vibe Coding Websites?</title>
-      <link>https://app.webjourney.pro/blog/do-you-really-need-supabase</link>
-      <description>A database guideline for non-engineer vibe coders. From JSON files to SQLite to Supabase — pick the simplest solution that meets your product requirements.</description>
-      <category>sql</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://app.webjourney.pro/blog/do-you-really-need-supabase</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Technical Details of My LLM-Generated Book – Matt Bruenig Dot Com</title>
-      <link>https://mattbruenig.com/2026/02/10/technical-details-of-my-llm-generated-book/</link>
-      <description>I released a book today called The National Labor Relations Book, which you can buy over at NLRBResearch.com for $10 (click here). The book provides an introduction to the NLRA and NLRB by providing summaries of the 100 most-cited cases in this area of law using the 100 most recent cases citing to each of those cases. Do the math and that’s 10,000 cases in total being digested and turned into a book.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>python</category>
-      <category>web</category>
-      <guid>https://mattbruenig.com/2026/02/10/technical-details-of-my-llm-generated-book/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>you are a manager now, act like one! – ei23.com</title>
-      <link>https://ei23.com/it/you-are-a-manager-now-act-like-one/</link>
-      <description>ei23.com - first was the idea. Let's get freedom for our homes.</description>
-      <category>ai</category>
-      <guid>https://ei23.com/it/you-are-a-manager-now-act-like-one/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>WGLL - What Good Looks Like</title>
-      <link>https://yusufaytas.com/what-good-looks-like/</link>
-      <description>Define what good looks like in engineering teams. Learn how clear standards, templates, and automation reduce ambiguity and scale execution quality.</description>
-      <author> (https://www.facebook.com/yusufaytas)</author>
-      <category>gaming</category>
-      <guid>https://yusufaytas.com/what-good-looks-like/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Life is the Sum Total of 2,000 Mondays</title>
-      <link>https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/</link>
-      <description>We plan our lives like we're editing a movie trailer.
-
-The trip to Portugal, or the product launch, or the transformation photo at the gym. The big moment where everything crystallizes into meaning. We accumulate these peaks in our imagination, and then arrange them into a montage that proves our</description>
-      <category>ai</category>
-      <guid>https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Four Spaces Before &lt;?php</title>
-      <link>https://brunopinto.dev/four-spaces-before-php/</link>
-      <description>A debugging session that ended with deleting four spaces.</description>
-      <guid>https://brunopinto.dev/four-spaces-before-php/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Completely Innocuous Blog Post about vPMU in QEMU - VulpineCitrus</title>
-      <link>https://vulpinecitrus.info/blog/qemu-vpmu-heterogenous-cpu/</link>
-      <description>Personal blog of a PhD student interested in networking, programming, and bicycles.</description>
-      <author> (lymkwi (lux))</author>
-      <category>linux</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>encryption</category>
-      <guid>https://vulpinecitrus.info/blog/qemu-vpmu-heterogenous-cpu/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>You should try running</title>
-      <link>https://campedersen.com/you-should-try-running</link>
-      <description>'Tis the season for resolutions, and I have a suggestion: you should try running. My wife and I just did our yearly planning for 2024. I was reflecting on my ye</description>
-      <guid>https://campedersen.com/you-should-try-running</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Living in the inflection point</title>
-      <link>https://brittanyellich.com/living-in-the-inflection-point/</link>
-      <description>I'm scared, I'm excited, and I'm exhausted by the pace of change. All of those things can be true at the same time. This blog post is a (hopefully) grounded take on living through AI's inflection point, why the backlash is valid, and why human connection matters more now than ever.</description>
-      <category>ai</category>
-      <guid>https://brittanyellich.com/living-in-the-inflection-point/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

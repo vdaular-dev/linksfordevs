@@ -1,5 +1,173 @@
 [
   {
+    "Title": "Building a Pastebin, Hardening Two Services, and Adding an Admin Panel: All in One Afternoon",
+    "Url": "https://www.smolkin.org/blog/2026/02/adding-api-auth-admin-panel-with-claude-code.html",
+    "Timestamp": "2026-02-12T00:05:39",
+    "Domain": "www.smolkin.org",
+    "Description": "I built a pastebin from scratch, security-hardened two services, added API auth and an admin panel, 1,700 lines across 14 files in about 90 minutes with Claude Code.",
+    "Confidence": 0.9880026
+  },
+  {
+    "Title": "Exploring Chess Positions and Counts",
+    "Url": "https://win-vector.com/2026/02/11/exploring-chess-positions-and-counts/",
+    "Timestamp": "2026-02-12T00:05:36",
+    "Domain": "win-vector.com",
+    "Description": "Introduction In our earlier article “How Many Chess Games are Possible?” we derived that the number of typical short chess games is around 10151. This turned out to be much larger than …",
+    "Confidence": 0.9813785
+  },
+  {
+    "Title": "On Seeking Order in Chaos",
+    "Url": "https://garrit.xyz/posts/2026-02-11-on-seeking-order-in-chaos",
+    "Timestamp": "2026-02-12T00:05:33",
+    "Domain": "garrit.xyz",
+    "Description": "Generalist software developer writing about scalable infrastructure, fullstack development and DevOps practices.",
+    "Confidence": 0.9895193
+  },
+  {
+    "Title": "APIs Over UIs: Agents Are the Future Interface to Everything | Dylan Huang",
+    "Url": "https://dylanhuang.com/blog/agents-over-ui/",
+    "Timestamp": "2026-02-12T00:05:28",
+    "Domain": "dylanhuang.com",
+    "Description": "Every database, application, and codebase will be accessed through agents. APIs and MCPs over UIs.",
+    "Confidence": 0.9918625
+  },
+  {
+    "Title": "But What To Do About It?",
+    "Url": "https://andys.blog/what-to-do/",
+    "Timestamp": "2026-02-12T00:05:25",
+    "Domain": "andys.blog",
+    "Description": "The future is here. I'm deeply uncertain what to do about it.\n\nI first had a passive inkling AI might be much bigger than chatbots 2 years ago in Alaska. Like buying my first bitcoins in 2013, I just paid a little extra attention when smart people around me started",
+    "Confidence": 0.953253
+  },
+  {
+    "Title": "From Muscle to Matrix",
+    "Url": "https://www.aviraj.dev/blog/from-muscle-to-matrix",
+    "Timestamp": "2026-02-12T00:05:22",
+    "Domain": "www.aviraj.dev",
+    "Description": "Money used to represent human time. Now it represents energy times inference. The human dropped out of the equation.",
+    "Confidence": 0.9848261
+  },
+  {
+    "Title": "Request Intent: The Future of Secure Requests",
+    "Url": "https://erdem.work/csrf-is-dead-long-live-request-intent-the-anatomy-of-a-cryptographic-primitive",
+    "Timestamp": "2026-02-12T00:05:19",
+    "Domain": "erdem.work",
+    "Description": "Sigil offers stateless CSRF protection using request intent verification, improving security without traditional middleware drawbacks",
+    "Confidence": 0.99816793
+  },
+  {
+    "Title": "Software entrepreneurs are different — Scattered thoughts",
+    "Url": "https://scatteredthoughts.blog/software-entrepreneurs/",
+    "Timestamp": "2026-02-12T00:05:14",
+    "Domain": "scatteredthoughts.blog",
+    "Description": "December 26, 2025",
+    "Confidence": 0.9232942
+  },
+  {
+    "Title": "An Ode to Merge Join",
+    "Url": "https://ender672.github.io/2026/02/10/merge-join.html",
+    "Timestamp": "2026-02-12T00:05:11",
+    "Domain": "ender672.github.io",
+    "Description": "Merge join is such a delightful algorithm.",
+    "Confidence": 0.99669445
+  },
+  {
+    "Title": "Building High-Performance Electron Apps - Johnny Le",
+    "Url": "https://www.johnnyle.io/read/electron-performance",
+    "Timestamp": "2026-02-12T00:05:08",
+    "Domain": "www.johnnyle.io",
+    "Description": "Strategies for building high-performance Electron apps.",
+    "Confidence": 0.9963216
+  },
+  {
+    "Title": "Outcome Engineering",
+    "Url": "https://cory.news/posts/2026-02-08-outcome-engineering/",
+    "Timestamp": "2026-02-12T00:05:05",
+    "Domain": "cory.news",
+    "Description": "",
+    "Confidence": 0.9957313
+  },
+  {
+    "Title": " Self-Employment Series #2: Ownership Is Not Freedom",
+    "Url": "http://charleshughsmith.blogspot.com/2026/02/self-employment-series-2-ownership-is.html",
+    "Timestamp": "2026-02-12T00:05:02",
+    "Domain": "charleshughsmith.blogspot.com",
+    "Description": "Ownership collapses abstraction.      This guest essay by correspondent 0bserver is #2 in a series on self-employment / owning your work.   ...",
+    "Confidence": 0.9649088
+  },
+  {
+    "Title": "Building Software that Is Good for Humans",
+    "Url": "https://elijahpotter.dev/articles/building-software-that-is-good-for-humans",
+    "Timestamp": "2026-02-12T00:04:58",
+    "Domain": "elijahpotter.dev",
+    "Description": "Why does so much of the software we use feel harmful?",
+    "Confidence": 0.9655226
+  },
+  {
+    "Title": "EyesOff: Why Some Models Quantize Better Than Others",
+    "Url": "https://ym2132.github.io/why_quantization_fails.html",
+    "Timestamp": "2026-02-12T00:04:53",
+    "Domain": "ym2132.github.io",
+    "Description": "Some models quantize better than others, in this case it was EfficientNetB0 and ResNet18 (the latter quantized better).",
+    "Confidence": 0.9896633
+  },
+  {
+    "Title": "If you don't engineer backpressure, you'll get slopped",
+    "Url": "https://jw.hn/engineering-backpressure",
+    "Timestamp": "2026-02-12T00:04:50",
+    "Domain": "jw.hn",
+    "Description": "The mindset shift required to build with AI without drowning in slop.",
+    "Confidence": 0.9942257
+  },
+  {
+    "Title": "Human Review is the Bottleneck",
+    "Url": "https://www.satyaborg.com/blog/human-review-bottleneck",
+    "Timestamp": "2026-02-12T00:04:46",
+    "Domain": "www.satyaborg.com",
+    "Description": "Agent-generated code creates a review bottleneck. Frontload cognitive work into planning rather than trying to review harder.",
+    "Confidence": 0.9875096
+  },
+  {
+    "Title": "Software 2.0: Code is Cheap, Good Taste is Not",
+    "Url": "https://aaronstannard.com/beginning-of-software-2.0/",
+    "Timestamp": "2026-02-12T00:04:43",
+    "Domain": "aaronstannard.com",
+    "Description": "The rules of software development are changing.",
+    "Confidence": 0.9901009
+  },
+  {
+    "Title": "Dorodango",
+    "Url": "https://blog.fsck.com/2026/02/10/dorodango/",
+    "Timestamp": "2026-02-12T00:04:39",
+    "Domain": "blog.fsck.com",
+    "Description": "I used to write more",
+    "Confidence": 0.9915471
+  },
+  {
+    "Title": "Functional programming in an LLM world — notes",
+    "Url": "https://notes.druchan.com/fp-in-llm-world",
+    "Timestamp": "2026-02-12T00:04:33",
+    "Domain": "notes.druchan.com",
+    "Description": "A twenty-something and their ChatGPT has produced a code artefact that is currently in production. Somewhere deep in the code soup, there is this utility function...",
+    "Confidence": 0.9910692
+  },
+  {
+    "Title": "Trusting Trust in the Fediverse",
+    "Url": "https://evilmaid.net/blog/trusting-trust-fediverse/index.html",
+    "Timestamp": "2026-02-12T00:04:30",
+    "Domain": "evilmaid.net",
+    "Description": "Implied trust and how easy it is to break it",
+    "Confidence": 0.97336584
+  },
+  {
+    "Title": "The Problem With LLMs",
+    "Url": "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/",
+    "Timestamp": "2026-02-12T00:04:24",
+    "Domain": "www.deobald.ca",
+    "Description": "Premise Six months ago, a friend of mine, with whom I work on the nonprofit Pariyatti mobile app, sent me this blog post by Vijay Khanna: From Idea to App in 7 Hours. By now, this is a fairly common zero-to-one LLM coding story. (LLM is short for Large Language Model but for the purposes of this essay, we’ll use it as a substitute for what is broadly categorized as “generative AI” in early 2026.",
+    "Confidence": 0.97236985
+  },
+  {
     "Title": "The risk of a hothouse Earth trajectory",
     "Url": "https://www.cell.com/one-earth/fulltext/S2590-3322%2825%2900391-4",
     "Timestamp": "2026-02-11T23:01:58",
@@ -86,181 +254,5 @@
     "Domain": "www.labs.greynoise.io",
     "Description": "On January 14, 2026, global telnet traffic observed by GreyNoise sensors fell off a cliff. A 59% sustained reduction, eighteen ASNs going completely silent, five countries vanishing from our data entirely. Six days later, CVE-2026-24061 dropped. Coincidence is one explanation.",
     "Confidence": 0.93433285
-  },
-  {
-    "Title": "FV - Work - Ring Alarm to Google Sheets Monitor",
-    "Url": "https://francescovigni.com/projects/ring-alarm-google-sheets-monitor/",
-    "Timestamp": "2026-02-11T00:03:58",
-    "Domain": "francescovigni.com",
-    "Description": "Francesco Vigni's personal website",
-    "Confidence": 0.9867574
-  },
-  {
-    "Title": "Where Generic Vision Models Fail & How to Get Better Results | ONE WARE",
-    "Url": "https://one-ware.com/blog/why-generic-computer-vision-models-fail/",
-    "Timestamp": "2026-02-11T00:03:55",
-    "Domain": "one-ware.com",
-    "Description": "Your browser does not support the video tag.",
-    "Confidence": 0.9928328
-  },
-  {
-    "Title": "Software companies will be fine",
-    "Url": "https://kylenazario.com/blog/ai-replaces-code-no-products",
-    "Timestamp": "2026-02-11T00:03:49",
-    "Domain": "kylenazario.com",
-    "Description": "AI generates code, not products.",
-    "Confidence": 0.99595916
-  },
-  {
-    "Title": "Hard Work and Success",
-    "Url": "https://almowry.com/writing/hard-work-and-success/",
-    "Timestamp": "2026-02-11T00:03:46",
-    "Domain": "almowry.com",
-    "Description": "Hard work may guarantee success in school, but it often doesn't in life.",
-    "Confidence": 0.96264607
-  },
-  {
-    "Title": "The Software Business",
-    "Url": "https://ivanbercovich.com/2026/the-software-business",
-    "Timestamp": "2026-02-11T00:03:43",
-    "Domain": "ivanbercovich.com",
-    "Description": "I don’t know the future, but I believe most people aren’t thinking this AI thing through.",
-    "Confidence": 0.9945466
-  },
-  {
-    "Title": "Hands-Free Claude Code with the Agent SDK",
-    "Url": "https://yberreby.com/posts/hands-free-claude-code/",
-    "Timestamp": "2026-02-11T00:03:40",
-    "Domain": "yberreby.com",
-    "Description": "I'm a decently heavy Claude Code user.\nRunning some usage stats by data mining ~/.claude and running ccusage,\nit turns out that I average a few thousand messages per day,\nand I ran through 2.72 billion tokens \n(2.63B of those being cache reads, thankfully)\nover the past 42 days.\nIf I weren't using a Max plan,\nthis would amount to $1822 in API costs.",
-    "Confidence": 0.9865099
-  },
-  {
-    "Title": "Jekyll - a brilliant engine for your blog [ENG 🇬🇧]",
-    "Url": "https://blog.tomaszdunia.pl/blog-jekyll-github-eng/",
-    "Timestamp": "2026-02-11T00:03:37",
-    "Domain": "blog.tomaszdunia.pl",
-    "Description": "🇬🇧->🇵🇱 Przejdź do polskiej wersji tego wpisu / Go to polish version of this post",
-    "Confidence": 0.99533033
-  },
-  {
-    "Title": "So I Will Never Write Code Again — jd:/dev/blog",
-    "Url": "https://julien.danjou.info/blog/so-i-will-never-write-code-again/",
-    "Timestamp": "2026-02-11T00:03:33",
-    "Domain": "julien.danjou.info",
-    "Description": "I've been coding for 25 years. Since January, I haven't written a single line. And it feels like relief.",
-    "Confidence": 0.98555315
-  },
-  {
-    "Title": "Design is dead, it’s all evolution now",
-    "Url": "https://ilyabirman.net/meanwhile/all/design-vs-evolution/",
-    "Timestamp": "2026-02-11T00:03:30",
-    "Domain": "ilyabirman.net",
-    "Description": "There’s no design in digital products anymore. It’s been replaced by evolution",
-    "Confidence": 0.77768487
-  },
-  {
-    "Title": "I Became the Friend Who Kills Your Startup Ideas. Then I Automated Myself. — Mirat Can Bayrak",
-    "Url": "https://mirat.dev/articles/i-automated-the-friend-who-kills-your-startup-ideas/",
-    "Timestamp": "2026-02-11T00:03:24",
-    "Domain": "mirat.dev",
-    "Description": "I spent 15 years failing at side projects and writing about it. Then I turned every lesson into an AI tool that tells you if your startup idea will die — and why.",
-    "Confidence": 0.8639409
-  },
-  {
-    "Title": "\"The things I am good at\"",
-    "Url": "https://cnicodeme.com/the-things-i-am-good-at",
-    "Timestamp": "2026-02-11T00:03:20",
-    "Domain": "cnicodeme.com",
-    "Description": "Imagine, you just finished your day job, you arrive at home and you have two hours, just for you. Your kids - if you have any - are at a relative and your partner won’t be home for the next two hours with that amazing take-out you love. No need to cl...",
-    "Confidence": 0.96130395
-  },
-  {
-    "Title": "Leadership at the Peak",
-    "Url": "https://ma.tt/2026/02/lap/",
-    "Timestamp": "2026-02-11T00:03:15",
-    "Domain": "ma.tt",
-    "Description": "I want to start by thanking the Automattic board, and in particular General (Ret.) Ann Dunwoody, for encouraging me to step away from the endless work of being CEO of Automattic to focus on trainin…",
-    "Confidence": 0.9321053
-  },
-  {
-    "Title": "Vibe Coding",
-    "Url": "https://tosbourn.com/vibe-coding/",
-    "Timestamp": "2026-02-11T00:03:12",
-    "Domain": "tosbourn.com",
-    "Description": "I'm unsure about the future of this industry. Mainly thanks to vibe coding.",
-    "Confidence": 0.9664723
-  },
-  {
-    "Title": "Do You Really Need Supabase for Your Vibe Coding Websites?",
-    "Url": "https://app.webjourney.pro/blog/do-you-really-need-supabase",
-    "Timestamp": "2026-02-11T00:03:08",
-    "Domain": "app.webjourney.pro",
-    "Description": "A database guideline for non-engineer vibe coders. From JSON files to SQLite to Supabase — pick the simplest solution that meets your product requirements.",
-    "Confidence": 0.99404514
-  },
-  {
-    "Title": "Technical Details of My LLM-Generated Book – Matt Bruenig Dot Com",
-    "Url": "https://mattbruenig.com/2026/02/10/technical-details-of-my-llm-generated-book/",
-    "Timestamp": "2026-02-11T00:03:04",
-    "Domain": "mattbruenig.com",
-    "Description": "I released a book today called The National Labor Relations Book, which you can buy over at NLRBResearch.com for $10 (click here). The book provides an introduction to the NLRA and NLRB by providing summaries of the 100 most-cited cases in this area of law using the 100 most recent cases citing to each of those cases. Do the math and that’s 10,000 cases in total being digested and turned into a book.",
-    "Confidence": 0.97061336
-  },
-  {
-    "Title": "you are a manager now, act like one! – ei23.com",
-    "Url": "https://ei23.com/it/you-are-a-manager-now-act-like-one/",
-    "Timestamp": "2026-02-11T00:02:59",
-    "Domain": "ei23.com",
-    "Description": "ei23.com - first was the idea. Let's get freedom for our homes.",
-    "Confidence": 0.9799085
-  },
-  {
-    "Title": "WGLL - What Good Looks Like",
-    "Url": "https://yusufaytas.com/what-good-looks-like/",
-    "Timestamp": "2026-02-11T00:02:53",
-    "Domain": "yusufaytas.com",
-    "Description": "Define what good looks like in engineering teams. Learn how clear standards, templates, and automation reduce ambiguity and scale execution quality.",
-    "Confidence": 0.98842144
-  },
-  {
-    "Title": "Your Life is the Sum Total of 2,000 Mondays",
-    "Url": "https://www.joanwestenberg.com/your-life-is-the-sum-total-of-2-000-mondays/",
-    "Timestamp": "2026-02-11T00:02:49",
-    "Domain": "www.joanwestenberg.com",
-    "Description": "We plan our lives like we're editing a movie trailer.\n\nThe trip to Portugal, or the product launch, or the transformation photo at the gym. The big moment where everything crystallizes into meaning. We accumulate these peaks in our imagination, and then arrange them into a montage that proves our",
-    "Confidence": 0.5216061
-  },
-  {
-    "Title": "Four Spaces Before <?php",
-    "Url": "https://brunopinto.dev/four-spaces-before-php/",
-    "Timestamp": "2026-02-11T00:02:46",
-    "Domain": "brunopinto.dev",
-    "Description": "A debugging session that ended with deleting four spaces.",
-    "Confidence": 0.95333624
-  },
-  {
-    "Title": "A Completely Innocuous Blog Post about vPMU in QEMU - VulpineCitrus",
-    "Url": "https://vulpinecitrus.info/blog/qemu-vpmu-heterogenous-cpu/",
-    "Timestamp": "2026-02-11T00:02:42",
-    "Domain": "vulpinecitrus.info",
-    "Description": "Personal blog of a PhD student interested in networking, programming, and bicycles.",
-    "Confidence": 0.9933461
-  },
-  {
-    "Title": "You should try running",
-    "Url": "https://campedersen.com/you-should-try-running",
-    "Timestamp": "2026-02-11T00:02:38",
-    "Domain": "campedersen.com",
-    "Description": "'Tis the season for resolutions, and I have a suggestion: you should try running. My wife and I just did our yearly planning for 2024. I was reflecting on my ye",
-    "Confidence": 0.9626445
-  },
-  {
-    "Title": "Living in the inflection point",
-    "Url": "https://brittanyellich.com/living-in-the-inflection-point/",
-    "Timestamp": "2026-02-11T00:02:35",
-    "Domain": "brittanyellich.com",
-    "Description": "I'm scared, I'm excited, and I'm exhausted by the pace of change. All of those things can be true at the same time. This blog post is a (hopefully) grounded take on living through AI's inflection point, why the backlash is valid, and why human connection matters more now than ever.",
-    "Confidence": 0.9515244
   }
 ]
