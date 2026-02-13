@@ -294,13 +294,5 @@
     "Domain": "github.com",
     "Description": "This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.\nIMPORTANT: This is a more targeted fix than originally proposed. ...",
     "Confidence": 0.97198385
-  },
-  {
-    "Title": "Turning YouTube Into Cloud Storage",
-    "Url": "https://youtu.be/l03Os5uwWmk",
-    "Timestamp": "2026-02-12T11:01:56",
-    "Domain": "youtu.be",
-    "Description": "How I made a YouTube file media storage using C++ and a few libraries. You can view my repository here: https://github.com/PulseBeat02/yt-media-storage\n\nHere is the Wirehair O(N) fountain codec repository: https://github.com/catid/wirehair\n\nFor those who want to learn more, I recommend taking a look into CRC flavors, Wirehair code, and video compression algorithms. I tried to give a brief explanation, but in the real-world, they are much more complex.\n\nAnimations were made using a combination of Manim and DaVinci Resolve\nhttps://github.com/3b1b/manim\nhttps://www.blackmagicdesign.com/products/davinciresolve\n\nVideo format heavily inspired by @3blue1brown\n\n------------------------------------------------------------------------\n\nTimeline:\n0:00 - Intro\n0:43 - Video Containers\n1:15 - Metadata Stripping\n1:48 - Video & Audio\n3:35 - Naive Approach\n3:56 - YouTube Compression & Transcoding\n5:25 - Take a Step Back\n5:41 - File Chunking\n6:15 - QR Codes\n7:20 - Drawing Parallels\n7:54 - Why Not QR Codes\n8:41 - Cyclic Redundancy Check (CRC)\n12:38 - Forward Error Correction & Wirehair\n14:21 - Hybrid Error-Proof Algorithm\n14:42 - Storing into Video Container\n15:06 - Discrete Cosine Transform (DCT)\n16:21 - Hiding File Data in DCTs\n17:51 - Choosing Video Codec for Encoding\n18:52 - Demo Video\n20:54 - Wrapping Up\n21:25 - Outro\n\n------------------------------------------------------------------------\n\nMusic:\nMusic by Vincent Rubinetti\nDownload the music on Bandcamp:\nhttps://vincerubinetti.bandcamp.com\n\nStream the music on Spotify:\nhttps://open.spotify.com/artist/2SRhEEt2tlDQWxzwfUo9Dl\n\n------------------------------------------------------------------------\n\nSocials:\nWebsite: https://brandonli.me/\nDiscord: https://discord.com/invite/MgqRKvycMC\nGitHub: https://github.com/PulseBeat02\nLinkedIn: https://www.linkedin.com/in/brandonli28\n\n------------------------------------------------------------------------",
-    "Confidence": 0.9740534
   }
 ]
