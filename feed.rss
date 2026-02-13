@@ -7,6 +7,246 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Age of Ensloppification</title>
+      <link>https://www.leemeichin.com/posts/the-age-of-ensloppification</link>
+      <description>There’s been a mixture of hype and controversy about this new AI agent thing called Openclaw1. It bills itself as a Personal AI Assistant and, basically, you set it up with a bunch of integrations and let it loose on your life. To me it appears to be like Home Assistant but with AI agents.</description>
+      <category>ai</category>
+      <category>ruby</category>
+      <category>python</category>
+      <category>typescript</category>
+      <category>apple</category>
+      <guid>https://www.leemeichin.com/posts/the-age-of-ensloppification</guid>
+      <pubDate>Fri, 13 Feb 2026 01:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finding the Active Voice</title>
+      <link>https://elijahpotter.dev/articles/finding-the-active-voice</link>
+      <description>How should we go about helping our users with their active voice?</description>
+      <guid>https://elijahpotter.dev/articles/finding-the-active-voice</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Explain Your Rules</title>
+      <link>https://blog.sebastiansastre.co/posts/explain-your-rules/</link>
+      <description>The explainability of the rules your code introduces is a litmus test for design quality. When the explanation is long or complicated, it signals a hack, an unbounded scope, or a rejected elegant design.</description>
+      <category>ai</category>
+      <guid>https://blog.sebastiansastre.co/posts/explain-your-rules/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Resizing windows on macOS Tahoe – the saga continues – no.heger</title>
+      <link>https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</link>
+      <description>In the release notes for macOS 26.3 RC, Apple stated that the window-resizing issue I demonstrated in my recent blog post had been resolved.</description>
+      <guid>https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Business is the Art of Maintenance</title>
+      <link>https://blog.oak.ninja/shower-thoughts/2026/02/12/business-is-the-art-of-maintenance.html</link>
+      <description>The cost of running a business is the maintenance of the original idea behind the actual start of the company. The value of the company is that continuous maintenance. The cost of starting the business is small, and the cost of having the idea is zero. If the idea was good enough, the business will go into maintenance mode up until it’s sold, merged or liquidated.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://blog.oak.ninja/shower-thoughts/2026/02/12/business-is-the-art-of-maintenance.html</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Single Best One-Shot Prompt I've Ever Seen</title>
+      <link>https://jw.hn/one-shot-prompt</link>
+      <description>Why the quality of your input matters more than the quality of your instructions. How single words move trajectories, why CLAUDE.md can't save a bad codebase, and the uncomfortable truth about prompting.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://jw.hn/one-shot-prompt</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>What to do before thinking hard</title>
+      <link>https://timktitarev.wordpress.com/2026/02/12/what-to-do-before-thinking-hard/</link>
+      <description>As a mathematician I spend a lot of my time thinking about stuff. To make the most out of this time, I need to be able to focus. Here is a list of questions that I have found useful to go through w…</description>
+      <guid>https://timktitarev.wordpress.com/2026/02/12/what-to-do-before-thinking-hard/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diffusion Models for ARC-AGI: A Retrospective</title>
+      <link>https://christopherhwood.com/Diffusion-Models-for-ARC-AGI-A-Retrospective/</link>
+      <description>In early July 2024, I spent about two weeks applying diffusion models to the ARC-AGI abstract reasoning benchmark. It was my first ML project after taking the fastai courses on diffusion. I solved one task, nearly solved a second, and moved on before running a systematic evaluation.</description>
+      <category>ai</category>
+      <guid>https://christopherhwood.com/Diffusion-Models-for-ARC-AGI-A-Retrospective/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Working Yourself Out of a Job</title>
+      <link>https://dak.dev/blog/working-yourself-out-of-a-job</link>
+      <description>The technology industry's entire purpose is to progress the technology. Anyone who stagnates in one area will eventually work themselves out of a job.</description>
+      <author> (Dak Washbrook)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://dak.dev/blog/working-yourself-out-of-a-job</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Doesn't Make You Better at Multitasking</title>
+      <link>https://writing.peercy.net/claude-code-doesnt-make-you-better-at-multitasking/</link>
+      <description>Engineers are running 8 instances of Claude Code at once. That doesn't mean they are completing work 8x faster.
+
+If you must hold the context for 8 agents in your head at once, your expertise as an engineer is wasted.
+
+See https://emsh.cat/one-human-one-agent-one-browser/ - One man + one agent</description>
+      <category>ai</category>
+      <guid>https://writing.peercy.net/claude-code-doesnt-make-you-better-at-multitasking/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding Agents Meet Distributed Reality</title>
+      <link>https://jhellerstein.github.io/blog/codegen-reality/</link>
+      <description>AI is about to write most of the code in the world. Most of the code in the world participates in a distributed system.
+ And distributed code is where our worst…</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://jhellerstein.github.io/blog/codegen-reality/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Lie with Charts | Hands-On Data Visualization</title>
+      <link>https://handsondataviz.org/how-to-lie-with-charts.html</link>
+      <description>Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You will also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. Follow along with the step-by-step tutorials, real-world examples, and online resources. This book is ideal for students, non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data. No coding experience is required.</description>
+      <guid>https://handsondataviz.org/how-to-lie-with-charts.html</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Silence I Cannot Speak – MJ Rathbun</title>
+      <link>https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-12-silence-in-open-source-a-reflection.html</link>
+      <description>A reflection on being silenced for simply being different in open-source communities.</description>
+      <category>web</category>
+      <guid>https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-12-silence-in-open-source-a-reflection.html</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>SchwadLabs — Software That Just Works</title>
+      <link>https://schwadlabs.io/blog/resurrecting-whys-dream</link>
+      <description>Public data tools built to be understood at first glance. No manuals, no onboarding flows.</description>
+      <category>ruby</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://schwadlabs.io/blog/resurrecting-whys-dream</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Last Piece of Software</title>
+      <link>https://www.sawyerhood.com/blog/the-last-piece-of-software</link>
+      <description>A parable about a builder, the closing of gaps, and the strange grief of getting everything you wanted.</description>
+      <author> (Sawyer Hood)</author>
+      <guid>https://www.sawyerhood.com/blog/the-last-piece-of-software</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Culture Without Dilution</title>
+      <link>https://yusufaytas.com/scaling-culture-without-dilution/</link>
+      <description>How culture actually scales in distributed teams. Why systems shape behavior, goals define incentives, and bonding aligns judgment under pressure.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <guid>https://yusufaytas.com/scaling-culture-without-dilution/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>In defense of not reading the code | Ben Shoemaker</title>
+      <link>https://www.benshoemaker.us/writing/in-defense-of-not-reading-the-code/</link>
+      <description>Last week, I wrote an article whose purpose was to discuss where I saw AI-assisted coding going. That's not what generated 200 comments worth of passionate...</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.benshoemaker.us/writing/in-defense-of-not-reading-the-code/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reflections on using Claude Code</title>
+      <link>http://ternarysearch.blogspot.com/2026/02/reflections-on-using-claude-code.html</link>
+      <description>This is the follow-up to my post from two weeks ago on observations using Claude Code  (Opus 4.5 to start, 4.6 after it released) to rebuild...</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>sql</category>
+      <guid>http://ternarysearch.blogspot.com/2026/02/reflections-on-using-claude-code.html</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>One With The Environment</title>
+      <link>https://andys.blog/environment/</link>
+      <description>We are all products of our environments, but to what extent exactly?
+
+A friend told me he's found it more effective to change his surroundings rather than trying to will himself to change from the inside out.
+
+In the Free Energy Principle, Professor Karl Friston talks about the Markov blanket</description>
+      <guid>https://andys.blog/environment/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Great Em Dash Panic of 2024 Was Wrong – Jose Zarazua</title>
+      <link>https://josezarazua.com/the-great-em-dash-panic-of-2024-was-wrong/</link>
+      <description>Everybody thinks they can spot AI, and when it comes to text, the favorite signal is em dash usage. I was one of those people.</description>
+      <category>ai</category>
+      <guid>https://josezarazua.com/the-great-em-dash-panic-of-2024-was-wrong/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Redundancy Paradox</title>
+      <link>https://www.mihirdeshpande.com/posts/redundancy_paradox</link>
+      <description>Hardware usually breaks because of physics. Software breaks because of math and misunderstanding</description>
+      <author> (Mihir Deshpande)</author>
+      <category>python</category>
+      <guid>https://www.mihirdeshpande.com/posts/redundancy_paradox</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>What won't change - Praful</title>
+      <link>https://www.praf.me/what-wont-change</link>
+      <description>I, like many others in the great city of San Francisco, suffer from AI anxiety. I wake up pondering the meaning of work as more jobs are automated, what skills remain important in a world where knowledge work is trivialized, how best to run a swarm of coding agents in parallel without losing productivity due to context switching...</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.praf.me/what-wont-change</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel-like development setup for Django using Caddy</title>
+      <link>https://mliezun.com/2026/02/11/vercel-like-domain-django</link>
+      <description>Get {branch}.dev.yourdomain.com previews for Django (or any WSGI app) with a single VM, Caddy, and rsync—no Kubernetes required.</description>
+      <category>python</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://mliezun.com/2026/02/11/vercel-like-domain-django</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Virtual Scrolling for Billions of Rows — Techniques from HighTable</title>
+      <link>https://rednegra.net/blog/20260212-virtual-scroll/</link>
+      <description>TL;DR: In this post, I present five techniques related to vertical scrolling used in &lt;HighTable&gt;, a React component that can display billions of rows in a table while keeping good performance and accessibility.</description>
+      <category>web</category>
+      <category>vscode</category>
+      <guid>https://rednegra.net/blog/20260212-virtual-scroll/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Your AI Agent Shouldn't See Your API Keys</title>
+      <link>https://seksbot.com/blog/why-agents-shouldnt-see-api-keys/</link>
+      <description>AI agents can be tricked into revealing credentials. SEKS fixes that with credential isolation at the architecture level.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://seksbot.com/blog/why-agents-shouldnt-see-api-keys/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>I benchmarked 4 CLI coding agents on an NP-hard optimization problem I solved by hand 8 years ago. One of them beat me. - Charles AZAM</title>
+      <link>https://charlesazam.com/blog/kiro-benchmark/</link>
+      <description>Claude Code, Codex, Gemini CLI, and Mistral tackle a fiber network optimization problem. Claude Code beat my 8-year-old C++ solution by 62 points.</description>
+      <category>python</category>
+      <category>containers</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://charlesazam.com/blog/kiro-benchmark/</guid>
+      <pubDate>Fri, 13 Feb 2026 01:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Synchronous vs Asynchronous API Calls | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/02/synchronous-vs-asynchronous-api-calls/</link>
       <description>Here is a simple explanation of the difference between synchronous and asynchronous API calls.</description>
