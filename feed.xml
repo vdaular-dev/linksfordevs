@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ring owners are returning their cameras - here's how much you can get</title>
+      <link>https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3</link>
+      <description>Several Ring camera owners are returning their cameras to Amazon, citing a potential breach of TOS where law enforcement is using footage without permission.</description>
+      <author> (Nichols deCourville)</author>
+      <guid>https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3</guid>
+      <pubDate>Fri, 13 Feb 2026 14:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>update README.md format and clarify state of the project · minio/minio@7aac2a2</title>
       <link>https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f</link>
       <description>MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. - update README.md format and clarify state of the project · minio/minio@7aac2a2</description>
@@ -342,23 +350,6 @@ In the Free Energy Principle, Professor Karl Friston talks about the Markov blan
       <category>vscode</category>
       <guid>http://blog.can.ac/2026/02/12/the-harness-problem/</guid>
       <pubDate>Thu, 12 Feb 2026 17:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Voice Sound Effects for AI: Righty-o then! Off I go, then! | Pure Krome</title>
-      <link>https://www.world-domination.com.au/posts/2026/voice-sound-effects-for-ai/</link>
-      <description>Voice sound effects for AI - peon-ping by Tony Yont</description>
-      <category>ai</category>
-      <guid>https://www.world-domination.com.au/posts/2026/voice-sound-effects-for-ai/</guid>
-      <pubDate>Thu, 12 Feb 2026 14:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[PERF] Replace np.column_stack with np.vstack().T by crabby-rathbun · Pull Request #31132 · matplotlib/matplotlib</title>
-      <link>https://github.com/matplotlib/matplotlib/pull/31132</link>
-      <description>This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
-IMPORTANT: This is a more targeted fix than originally proposed. ...</description>
-      <category>ai</category>
-      <guid>https://github.com/matplotlib/matplotlib/pull/31132</guid>
-      <pubDate>Thu, 12 Feb 2026 14:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
