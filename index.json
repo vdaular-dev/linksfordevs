@@ -1,5 +1,13 @@
 [
   {
+    "Title": "gpui: Remove blade, reimplement linux renderer with wgpu by zortax · Pull Request #46758 · zed-industries/zed",
+    "Url": "https://github.com/zed-industries/zed/pull/46758",
+    "Timestamp": "2026-02-13T20:02:51",
+    "Domain": "github.com",
+    "Description": "The blade graphics library is a mess and causes several issues for both Zed users as well as other 3rd party apps using GPUI. This PR removes blade and implements the linux platform using wgpu whic...",
+    "Confidence": 0.90794337
+  },
+  {
     "Title": "Fix the iOS Keyboard",
     "Url": "https://ios-countdown.win/",
     "Timestamp": "2026-02-13T17:02:46",
@@ -302,13 +310,5 @@
     "Domain": "openai.com",
     "Description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
     "Confidence": 0.96018463
-  },
-  {
-    "Title": "Gemini 3 Deep Think: Advancing science, research and engineering",
-    "Url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
-    "Timestamp": "2026-02-12T20:02:07",
-    "Domain": "blog.google",
-    "Description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
-    "Confidence": 0.95945156
   }
 ]

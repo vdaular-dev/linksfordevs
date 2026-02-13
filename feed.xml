@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>gpui: Remove blade, reimplement linux renderer with wgpu by zortax · Pull Request #46758 · zed-industries/zed</title>
+      <link>https://github.com/zed-industries/zed/pull/46758</link>
+      <description>The blade graphics library is a mess and causes several issues for both Zed users as well as other 3rd party apps using GPUI. This PR removes blade and implements the linux platform using wgpu whic...</description>
+      <category>linux</category>
+      <guid>https://github.com/zed-industries/zed/pull/46758</guid>
+      <pubDate>Fri, 13 Feb 2026 20:02:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Fix the iOS Keyboard</title>
       <link>https://ios-countdown.win/</link>
       <description>A countdown for Apple to fix the iOS keyboard or lose a customer.</description>
@@ -355,14 +363,6 @@ In the Free Energy Principle, Professor Karl Friston talks about the Markov blan
       <category>vscode</category>
       <guid>https://openai.com/index/introducing-gpt-5-3-codex-spark/</guid>
       <pubDate>Thu, 12 Feb 2026 21:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3 Deep Think: Advancing science, research and engineering</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</link>
-      <description>We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.</description>
-      <category>ai</category>
-      <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/</guid>
-      <pubDate>Thu, 12 Feb 2026 20:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
