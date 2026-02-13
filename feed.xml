@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fix the iOS Keyboard</title>
+      <link>https://ios-countdown.win/</link>
+      <description>A countdown for Apple to fix the iOS keyboard or lose a customer.</description>
+      <category>conference</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://ios-countdown.win/</guid>
+      <pubDate>Fri, 13 Feb 2026 17:02:46 GMT</pubDate>
+    </item>
+    <item>
       <title>MonoSketch - Unleash your ideas with ASCII</title>
       <link>https://monosketch.io/</link>
       <description>MonoSketch is a powerful ASCII sketching and diagramming app that lets you effortlessly transform your ideas into visually stunning designs.</description>
@@ -369,18 +379,6 @@ In the Free Energy Principle, Professor Karl Friston talks about the Markov blan
       <category>ai</category>
       <guid>https://www.0xsid.com/blog/aidr</guid>
       <pubDate>Thu, 12 Feb 2026 19:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed.</title>
-      <link>http://blog.can.ac/2026/02/12/the-harness-problem/</link>
-      <description>Cross-posted from X / @_can1357 In fact only the edit tool changed. That’s it.
-0x0: The Wrong Question The conversation right now is almost entirely about …</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>http://blog.can.ac/2026/02/12/the-harness-problem/</guid>
-      <pubDate>Thu, 12 Feb 2026 17:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
