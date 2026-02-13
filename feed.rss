@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GPT-5.2 derives a new result in theoretical physics</title>
+      <link>https://openai.com/index/new-result-theoretical-physics/</link>
+      <description>A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://openai.com/index/new-result-theoretical-physics/</guid>
+      <pubDate>Fri, 13 Feb 2026 22:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>gpui: Remove blade, reimplement linux renderer with wgpu by zortax · Pull Request #46758 · zed-industries/zed</title>
       <link>https://github.com/zed-industries/zed/pull/46758</link>
       <description>The blade graphics library is a mess and causes several issues for both Zed users as well as other 3rd party apps using GPUI. This PR removes blade and implements the linux platform using wgpu whic...</description>
@@ -346,13 +355,6 @@ In the Free Energy Principle, Professor Karl Friston talks about the Markov blan
       <category>ai</category>
       <guid>https://charlesazam.com/blog/kiro-benchmark/</guid>
       <pubDate>Fri, 13 Feb 2026 01:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synchronous vs Asynchronous API Calls | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/02/synchronous-vs-asynchronous-api-calls/</link>
-      <description>Here is a simple explanation of the difference between synchronous and asynchronous API calls.</description>
-      <guid>https://nodogmablog.bryanhogan.net/2026/02/synchronous-vs-asynchronous-api-calls/</guid>
-      <pubDate>Thu, 12 Feb 2026 22:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
