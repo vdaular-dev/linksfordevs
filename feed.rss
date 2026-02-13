@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Anthropic raises $30 billion in Series G funding at $380 billion post-money valuation</title>
+      <link>https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation</guid>
+      <pubDate>Fri, 13 Feb 2026 02:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>The Age of Ensloppification</title>
       <link>https://www.leemeichin.com/posts/the-age-of-ensloppification</link>
       <description>There’s been a mixture of hype and controversy about this new AI agent thing called Openclaw1. It bills itself as a Personal AI Assistant and, basically, you set it up with a bunch of integrations and let it loose on your life. To me it appears to be like Home Assistant but with AI agents.</description>
@@ -405,16 +414,6 @@ LinkedIn: https://www.linkedin.com/in/brandonli28
       <category>javascript</category>
       <guid>https://xkcd.com/3206/</guid>
       <pubDate>Thu, 12 Feb 2026 03:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>discord/twitch/kick/snapchat age verifier</title>
-      <link>https://age-verifier.kibty.town/</link>
-      <description>age verifies your account automatically as an adult on any website using k-id</description>
-      <category>javascript</category>
-      <category>gaming</category>
-      <category>encryption</category>
-      <guid>https://age-verifier.kibty.town/</guid>
-      <pubDate>Thu, 12 Feb 2026 02:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
