@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Devlog ⚡ Zig Programming Language</title>
+      <link>https://ziglang.org/devlog/2026/#2026-02-13</link>
+      <description>This page contains a curated list of recent changes to main branch Zig.</description>
+      <category>rust</category>
+      <guid>https://ziglang.org/devlog/2026/#2026-02-13</guid>
+      <pubDate>Sat, 14 Feb 2026 17:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing the Coding Agent Explorer (.NET)</title>
       <link>https://nestenius.se/ai/introducing-the-coding-agent-explorer-net/</link>
       <description>What really happens inside an AI coding agent? Coding Agent Explorer lets developers inspect Claude Code’s prompts and tool calls in real time.</description>
@@ -264,16 +272,6 @@
       <category>linux</category>
       <guid>https://github.com/zed-industries/zed/pull/46758</guid>
       <pubDate>Fri, 13 Feb 2026 20:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fix the iOS Keyboard</title>
-      <link>https://ios-countdown.win/</link>
-      <description>A countdown for Apple to fix the iOS keyboard or lose a customer.</description>
-      <category>conference</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://ios-countdown.win/</guid>
-      <pubDate>Fri, 13 Feb 2026 17:02:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
