@@ -275,13 +275,5 @@
       <guid>https://openai.com/index/new-result-theoretical-physics/</guid>
       <pubDate>Fri, 13 Feb 2026 22:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>gpui: Remove blade, reimplement linux renderer with wgpu by zortax · Pull Request #46758 · zed-industries/zed</title>
-      <link>https://github.com/zed-industries/zed/pull/46758</link>
-      <description>The blade graphics library is a mess and causes several issues for both Zed users as well as other 3rd party apps using GPUI. This PR removes blade and implements the linux platform using wgpu whic...</description>
-      <category>linux</category>
-      <guid>https://github.com/zed-industries/zed/pull/46758</guid>
-      <pubDate>Fri, 13 Feb 2026 20:02:51 GMT</pubDate>
-    </item>
   </channel>
 </rss>
