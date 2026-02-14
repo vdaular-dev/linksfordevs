@@ -1,5 +1,13 @@
 [
   {
+    "Title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+    "Url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "Timestamp": "2026-02-14T04:02:07",
+    "Domain": "theshamblog.com",
+    "Description": "Context: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…",
+    "Confidence": 0.92857635
+  },
+  {
     "Title": "Bad Map Projection: Zero Declination",
     "Url": "https://xkcd.com/3207/",
     "Timestamp": "2026-02-14T03:02:19",
@@ -270,13 +278,5 @@
     "Domain": "skipthe.tips",
     "Description": "Many dark patterns stand between you and 'No Tip'. A free browser game about tipping culture, guilt, and tiny buttons.",
     "Confidence": 0.9753385
-  },
-  {
-    "Title": "Welcoming Discord users amidst the challenge of Age Verification",
-    "Url": "https://matrix.org/blog/2026/02/welcome-discord/",
-    "Timestamp": "2026-02-13T04:02:28",
-    "Domain": "matrix.org",
-    "Description": "Matrix, the open protocol for secure decentralised communications",
-    "Confidence": 0.9655047
   }
 ]
