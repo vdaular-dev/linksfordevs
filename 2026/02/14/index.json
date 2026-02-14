@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "Title": "Breaking the Spell of Vibe Coding – fast.ai",
+    "Url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+    "Timestamp": "2026-02-14T01:03:42",
+    "Domain": "www.fast.ai",
+    "Description": "Sinister variations on the positive state of flow"
+  },
+  {
+    "Title": "Three Bad Managers",
+    "Url": "https://randsinrepose.com/archives/three-bad-managers/",
+    "Timestamp": "2026-02-14T01:03:38",
+    "Domain": "randsinrepose.com",
+    "Description": "I worked for each of these humans. They either hired or promoted me. I worked for them for many years. As is my way, I've vastly altered the details of each hum"
+  },
+  {
+    "Title": "Inversion of Control",
+    "Url": "https://mandar.dev/2026/02/13/inversion-of-control/",
+    "Timestamp": "2026-02-14T01:03:34",
+    "Domain": "mandar.dev",
+    "Description": "I delegated the management of my personal life to an AI agent. It worked surprisingly well — and it reveals how human time is becoming the API that AI orchestrates."
+  },
+  {
+    "Title": "How DSQL Makes Sequences Scale",
+    "Url": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
+    "Timestamp": "2026-02-14T01:03:31",
+    "Domain": "blog.benjscho.dev",
+    "Description": "Sequences are one of those Postgres features that you don’t think much about. You can ask for the next number in the sequence, and you get it. That works pretty well when you have one machine asking for the next number, but what about 10,000?"
+  },
+  {
+    "Title": "Building a Cognitive Architecture for Your OpenClaw Agent",
+    "Url": "https://shawnharris.com/building-a-cognitive-architecture-for-your-openclaw-agent/",
+    "Timestamp": "2026-02-14T01:03:27",
+    "Domain": "shawnharris.com",
+    "Description": "How I applied neuroscience, security engineering, and intent routing to create a more capable AI assistant using OpenClaw."
+  },
+  {
+    "Title": "Delegation & management is what you do when you lack proper tools & abstractions",
+    "Url": "https://stevekrouse.com/abstraction",
+    "Timestamp": "2026-02-14T01:03:23",
+    "Domain": "stevekrouse.com",
+    "Description": "In other words, AI Agents are NOT the future of software development."
+  },
+  {
+    "Title": "Joy of Building | howinator howinatin",
+    "Url": "https://howinator.io/2026/02/11/joy-of-building/",
+    "Timestamp": "2026-02-14T01:03:19",
+    "Domain": "howinator.io",
+    "Description": "Howie's thoughts on things"
+  },
+  {
+    "Title": "What happens inside Postgres when IOPS runs out",
+    "Url": "https://frn.sh/bio/",
+    "Timestamp": "2026-02-14T01:03:15",
+    "Domain": "frn.sh",
+    "Description": "In the previous post I wrote about the three cache layers between a SELECT and disk. That post came from a production incident — queries hanging for 35+ minutes, Heroku timeouts, IOPS pinned at 3000. We fixed it. The root cause was bad indexes forcing Postgres to fetch tens of thousands of rows from disk only to discard them. Better indexes, problem solved."
+  },
+  {
+    "Title": "What Happens To Developer Tools After Claude Code?",
+    "Url": "https://www.jakequist.com/thoughts/what-happens-to-developer-tools-after-claude-code/",
+    "Timestamp": "2026-02-14T01:03:12",
+    "Domain": "www.jakequist.com",
+    "Description": "AI is now the decision maker in whether or not your developer tool is used"
+  },
+  {
+    "Title": "Something Big Is (not) Happening",
+    "Url": "https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html",
+    "Timestamp": "2026-02-14T01:03:09",
+    "Domain": "www.aricolaprete.com",
+    "Description": "                     Or is  it happening, perhaps it has already happened? Maybe it's just acting like it has happened, because it is tired ..."
+  },
+  {
+    "Title": "Regarding the Future of Junior Engineers",
+    "Url": "https://blog.andcake.dev/posts/regarding-junior-engineers/",
+    "Timestamp": "2026-02-14T01:03:05",
+    "Domain": "blog.andcake.dev",
+    "Description": "I went to Container Days London yesterday. It was great to see friends and old colleagues again. The conference was great, with many interesting talks and the one and only Kelsey Hightower sharing little pearls of knowledge."
+  },
+  {
+    "Title": "Using the Ralph Wiggum loop to execute Kiro specs",
+    "Url": "https://it20.info/2026/02/using-the-ralph-wiggum-loop-to-execute-kiro-specs/",
+    "Timestamp": "2026-02-14T01:02:59",
+    "Domain": "it20.info",
+    "Description": "This blog post assumes you are somewhat familiar with Kiro specs driven development (if you are not, this is a great read) and the Ralph Wiggum loop (if you are …"
+  },
+  {
+    "Title": "How to build a distributed queue in a single JSON file on object storage",
+    "Url": "https://turbopuffer.com/blog/object-storage-queue",
+    "Timestamp": "2026-02-14T01:02:56",
+    "Domain": "turbopuffer.com",
+    "Description": "How to build a single global queue for distributed systems on object storage: Start with a single file on object storage, then add write batching, a stateless broker, and high-availability."
+  },
+  {
+    "Title": "Your Turn",
+    "Url": "https://blog.sebastiansastre.co/posts/your-turn/",
+    "Timestamp": "2026-02-14T01:02:53",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "Development demands creation focus, release demands closure, and landing demands reach. The expert finishes the hardest part and forgets the easiest — telling someone it is ready. Deployed is not delivered."
+  },
+  {
+    "Title": "Some Layers of the Linux Desktop",
+    "Url": "https://jaketrent.com/post/layers-linux-desktop/",
+    "Timestamp": "2026-02-14T01:02:49",
+    "Domain": "jaketrent.com",
+    "Description": "A conceptual layer of components of the Linux Desktop."
+  },
+  {
+    "Title": "If Nobody Reads Code, Why Not Write in Assembly? So Here's Redis in Assembly | Yunus Aydın Blog",
+    "Url": "https://aydinnyunus.github.io/2026/02/14/redis-in-assembly/",
+    "Timestamp": "2026-02-14T01:02:46",
+    "Domain": "aydinnyunus.github.io",
+    "Description": "Writing a Redis-like key-value store in x86-64 Assembly as a response to vibe-coding culture. When nobody reads code, why not write in the most unreadable language?"
+  },
+  {
+    "Title": "While you support others, who supports you?",
+    "Url": "https://pointieststick.com/2026/02/12/while-you-support-others-who-supports-you/",
+    "Timestamp": "2026-02-14T01:02:43",
+    "Domain": "pointieststick.com",
+    "Description": "The world of free and open-source software (FOSS) is full of big-hearted, altruistic people who love serving society by giving away their labor for free. It’s incredible. These folks are supp…"
+  },
+  {
+    "Title": "I used a local LLM to analyze my journal entries — Ankur Sethi's Internet Website",
+    "Url": "https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/",
+    "Timestamp": "2026-02-14T01:02:40",
+    "Domain": "ankursethi.com",
+    "Description": "In 2025, I wrote 162 journal entries totaling 193,761 words."
+  },
+  {
+    "Title": "In Defense of SaaS | Finbarr Taylor",
+    "Url": "https://finbarr.site/2026/02/12/in-defense-of-saas.html",
+    "Timestamp": "2026-02-14T01:02:36",
+    "Domain": "finbarr.site",
+    "Description": "Finbarr Taylor: Scottish software engineer, startup founder, and angel investor based in Silicon Valley. Insights on tech, startups, and exploring US Nationa..."
+  },
+  {
+    "Title": "Programming is no longer the main skill of SWE",
+    "Url": "https://edwardbx.com/articles/programming-skill/",
+    "Timestamp": "2026-02-14T01:02:32",
+    "Domain": "edwardbx.com",
+    "Description": "When times change, we need to adapt"
+  },
+  {
+    "Title": "Stop typing, start talking: How voice dictation changed my workflow",
+    "Url": "https://www.eliostruyf.com/stop-typing-start-talking/",
+    "Timestamp": "2026-02-14T01:02:29",
+    "Domain": "www.eliostruyf.com",
+    "Description": "Discover how voice dictation can transform your workflow and boost productivity. Stop typing and start talking today!"
+  },
+  {
+    "Title": "Every blog post I have shared until 2026",
+    "Url": "https://bryanhogan.com/blog/other-cool-blog-posts-2026",
+    "Timestamp": "2026-02-14T01:02:25",
+    "Domain": "bryanhogan.com",
+    "Description": "In my monthly email newsletter I share cool things I came across on the internet, which so far has included the following blog posts!"
+  },
+  {
+    "Title": "[Podman] Quadlet as a First-Class Platform Primitive",
+    "Url": "http://ebourgess.dev/posts/podman-quadlet-production/",
+    "Timestamp": "2026-02-14T01:02:16",
+    "Domain": "ebourgess.dev",
+    "Description": "DevSecOps Engineer blogs about coding, life and other stuff"
+  }
+]

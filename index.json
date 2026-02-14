@@ -1,5 +1,189 @@
 [
   {
+    "Title": "Breaking the Spell of Vibe Coding – fast.ai",
+    "Url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+    "Timestamp": "2026-02-14T01:03:42",
+    "Domain": "www.fast.ai",
+    "Description": "Sinister variations on the positive state of flow",
+    "Confidence": 0.95772505
+  },
+  {
+    "Title": "Three Bad Managers",
+    "Url": "https://randsinrepose.com/archives/three-bad-managers/",
+    "Timestamp": "2026-02-14T01:03:38",
+    "Domain": "randsinrepose.com",
+    "Description": "I worked for each of these humans. They either hired or promoted me. I worked for them for many years. As is my way, I've vastly altered the details of each hum",
+    "Confidence": 0.9754909
+  },
+  {
+    "Title": "Inversion of Control",
+    "Url": "https://mandar.dev/2026/02/13/inversion-of-control/",
+    "Timestamp": "2026-02-14T01:03:34",
+    "Domain": "mandar.dev",
+    "Description": "I delegated the management of my personal life to an AI agent. It worked surprisingly well — and it reveals how human time is becoming the API that AI orchestrates.",
+    "Confidence": 0.7289855
+  },
+  {
+    "Title": "How DSQL Makes Sequences Scale",
+    "Url": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
+    "Timestamp": "2026-02-14T01:03:31",
+    "Domain": "blog.benjscho.dev",
+    "Description": "Sequences are one of those Postgres features that you don’t think much about. You can ask for the next number in the sequence, and you get it. That works pretty well when you have one machine asking for the next number, but what about 10,000?",
+    "Confidence": 0.99059683
+  },
+  {
+    "Title": "Building a Cognitive Architecture for Your OpenClaw Agent",
+    "Url": "https://shawnharris.com/building-a-cognitive-architecture-for-your-openclaw-agent/",
+    "Timestamp": "2026-02-14T01:03:27",
+    "Domain": "shawnharris.com",
+    "Description": "How I applied neuroscience, security engineering, and intent routing to create a more capable AI assistant using OpenClaw.",
+    "Confidence": 0.9875698
+  },
+  {
+    "Title": "Delegation & management is what you do when you lack proper tools & abstractions",
+    "Url": "https://stevekrouse.com/abstraction",
+    "Timestamp": "2026-02-14T01:03:23",
+    "Domain": "stevekrouse.com",
+    "Description": "In other words, AI Agents are NOT the future of software development.",
+    "Confidence": 0.99167746
+  },
+  {
+    "Title": "Joy of Building | howinator howinatin",
+    "Url": "https://howinator.io/2026/02/11/joy-of-building/",
+    "Timestamp": "2026-02-14T01:03:19",
+    "Domain": "howinator.io",
+    "Description": "Howie's thoughts on things",
+    "Confidence": 0.9160302
+  },
+  {
+    "Title": "What happens inside Postgres when IOPS runs out",
+    "Url": "https://frn.sh/bio/",
+    "Timestamp": "2026-02-14T01:03:15",
+    "Domain": "frn.sh",
+    "Description": "In the previous post I wrote about the three cache layers between a SELECT and disk. That post came from a production incident — queries hanging for 35+ minutes, Heroku timeouts, IOPS pinned at 3000. We fixed it. The root cause was bad indexes forcing Postgres to fetch tens of thousands of rows from disk only to discard them. Better indexes, problem solved.",
+    "Confidence": 0.9853285
+  },
+  {
+    "Title": "What Happens To Developer Tools After Claude Code?",
+    "Url": "https://www.jakequist.com/thoughts/what-happens-to-developer-tools-after-claude-code/",
+    "Timestamp": "2026-02-14T01:03:12",
+    "Domain": "www.jakequist.com",
+    "Description": "AI is now the decision maker in whether or not your developer tool is used",
+    "Confidence": 0.99033374
+  },
+  {
+    "Title": "Something Big Is (not) Happening",
+    "Url": "https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html",
+    "Timestamp": "2026-02-14T01:03:09",
+    "Domain": "www.aricolaprete.com",
+    "Description": "                     Or is  it happening, perhaps it has already happened? Maybe it's just acting like it has happened, because it is tired ...",
+    "Confidence": 0.952235
+  },
+  {
+    "Title": "Regarding the Future of Junior Engineers",
+    "Url": "https://blog.andcake.dev/posts/regarding-junior-engineers/",
+    "Timestamp": "2026-02-14T01:03:05",
+    "Domain": "blog.andcake.dev",
+    "Description": "I went to Container Days London yesterday. It was great to see friends and old colleagues again. The conference was great, with many interesting talks and the one and only Kelsey Hightower sharing little pearls of knowledge.",
+    "Confidence": 0.99248725
+  },
+  {
+    "Title": "Using the Ralph Wiggum loop to execute Kiro specs",
+    "Url": "https://it20.info/2026/02/using-the-ralph-wiggum-loop-to-execute-kiro-specs/",
+    "Timestamp": "2026-02-14T01:02:59",
+    "Domain": "it20.info",
+    "Description": "This blog post assumes you are somewhat familiar with Kiro specs driven development (if you are not, this is a great read) and the Ralph Wiggum loop (if you are …",
+    "Confidence": 0.99633104
+  },
+  {
+    "Title": "How to build a distributed queue in a single JSON file on object storage",
+    "Url": "https://turbopuffer.com/blog/object-storage-queue",
+    "Timestamp": "2026-02-14T01:02:56",
+    "Domain": "turbopuffer.com",
+    "Description": "How to build a single global queue for distributed systems on object storage: Start with a single file on object storage, then add write batching, a stateless broker, and high-availability.",
+    "Confidence": 0.94320565
+  },
+  {
+    "Title": "Your Turn",
+    "Url": "https://blog.sebastiansastre.co/posts/your-turn/",
+    "Timestamp": "2026-02-14T01:02:53",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "Development demands creation focus, release demands closure, and landing demands reach. The expert finishes the hardest part and forgets the easiest — telling someone it is ready. Deployed is not delivered.",
+    "Confidence": 0.9818512
+  },
+  {
+    "Title": "Some Layers of the Linux Desktop",
+    "Url": "https://jaketrent.com/post/layers-linux-desktop/",
+    "Timestamp": "2026-02-14T01:02:49",
+    "Domain": "jaketrent.com",
+    "Description": "A conceptual layer of components of the Linux Desktop.",
+    "Confidence": 0.9970709
+  },
+  {
+    "Title": "If Nobody Reads Code, Why Not Write in Assembly? So Here's Redis in Assembly | Yunus Aydın Blog",
+    "Url": "https://aydinnyunus.github.io/2026/02/14/redis-in-assembly/",
+    "Timestamp": "2026-02-14T01:02:46",
+    "Domain": "aydinnyunus.github.io",
+    "Description": "Writing a Redis-like key-value store in x86-64 Assembly as a response to vibe-coding culture. When nobody reads code, why not write in the most unreadable language?",
+    "Confidence": 0.99767804
+  },
+  {
+    "Title": "While you support others, who supports you?",
+    "Url": "https://pointieststick.com/2026/02/12/while-you-support-others-who-supports-you/",
+    "Timestamp": "2026-02-14T01:02:43",
+    "Domain": "pointieststick.com",
+    "Description": "The world of free and open-source software (FOSS) is full of big-hearted, altruistic people who love serving society by giving away their labor for free. It’s incredible. These folks are supp…",
+    "Confidence": 0.9712921
+  },
+  {
+    "Title": "I used a local LLM to analyze my journal entries — Ankur Sethi's Internet Website",
+    "Url": "https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/",
+    "Timestamp": "2026-02-14T01:02:40",
+    "Domain": "ankursethi.com",
+    "Description": "In 2025, I wrote 162 journal entries totaling 193,761 words.",
+    "Confidence": 0.96085835
+  },
+  {
+    "Title": "In Defense of SaaS | Finbarr Taylor",
+    "Url": "https://finbarr.site/2026/02/12/in-defense-of-saas.html",
+    "Timestamp": "2026-02-14T01:02:36",
+    "Domain": "finbarr.site",
+    "Description": "Finbarr Taylor: Scottish software engineer, startup founder, and angel investor based in Silicon Valley. Insights on tech, startups, and exploring US Nationa...",
+    "Confidence": 0.9771809
+  },
+  {
+    "Title": "Programming is no longer the main skill of SWE",
+    "Url": "https://edwardbx.com/articles/programming-skill/",
+    "Timestamp": "2026-02-14T01:02:32",
+    "Domain": "edwardbx.com",
+    "Description": "When times change, we need to adapt",
+    "Confidence": 0.98890644
+  },
+  {
+    "Title": "Stop typing, start talking: How voice dictation changed my workflow",
+    "Url": "https://www.eliostruyf.com/stop-typing-start-talking/",
+    "Timestamp": "2026-02-14T01:02:29",
+    "Domain": "www.eliostruyf.com",
+    "Description": "Discover how voice dictation can transform your workflow and boost productivity. Stop typing and start talking today!",
+    "Confidence": 0.9929011
+  },
+  {
+    "Title": "Every blog post I have shared until 2026",
+    "Url": "https://bryanhogan.com/blog/other-cool-blog-posts-2026",
+    "Timestamp": "2026-02-14T01:02:25",
+    "Domain": "bryanhogan.com",
+    "Description": "In my monthly email newsletter I share cool things I came across on the internet, which so far has included the following blog posts!",
+    "Confidence": 0.746399
+  },
+  {
+    "Title": "[Podman] Quadlet as a First-Class Platform Primitive",
+    "Url": "http://ebourgess.dev/posts/podman-quadlet-production/",
+    "Timestamp": "2026-02-14T01:02:16",
+    "Domain": "ebourgess.dev",
+    "Description": "DevSecOps Engineer blogs about coding, life and other stuff",
+    "Confidence": 0.98072004
+  },
+  {
     "Title": "GPT-5.2 derives a new result in theoretical physics",
     "Url": "https://openai.com/index/new-result-theoretical-physics/",
     "Timestamp": "2026-02-13T22:02:08",
@@ -94,213 +278,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "Confidence": 0.7694239
-  },
-  {
-    "Title": "The Age of Ensloppification",
-    "Url": "https://www.leemeichin.com/posts/the-age-of-ensloppification",
-    "Timestamp": "2026-02-13T01:04:00",
-    "Domain": "www.leemeichin.com",
-    "Description": "There’s been a mixture of hype and controversy about this new AI agent thing called Openclaw1. It bills itself as a Personal AI Assistant and, basically, you set it up with a bunch of integrations and let it loose on your life. To me it appears to be like Home Assistant but with AI agents.",
-    "Confidence": 0.9248536
-  },
-  {
-    "Title": "Finding the Active Voice",
-    "Url": "https://elijahpotter.dev/articles/finding-the-active-voice",
-    "Timestamp": "2026-02-13T01:03:55",
-    "Domain": "elijahpotter.dev",
-    "Description": "How should we go about helping our users with their active voice?",
-    "Confidence": 0.987402
-  },
-  {
-    "Title": "Explain Your Rules",
-    "Url": "https://blog.sebastiansastre.co/posts/explain-your-rules/",
-    "Timestamp": "2026-02-13T01:03:51",
-    "Domain": "blog.sebastiansastre.co",
-    "Description": "The explainability of the rules your code introduces is a litmus test for design quality. When the explanation is long or complicated, it signals a hack, an unbounded scope, or a rejected elegant design.",
-    "Confidence": 0.9762239
-  },
-  {
-    "Title": "Resizing windows on macOS Tahoe – the saga continues – no.heger",
-    "Url": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
-    "Timestamp": "2026-02-13T01:03:48",
-    "Domain": "noheger.at",
-    "Description": "In the release notes for macOS 26.3 RC, Apple stated that the window-resizing issue I demonstrated in my recent blog post had been resolved.",
-    "Confidence": 0.9027685
-  },
-  {
-    "Title": "Business is the Art of Maintenance",
-    "Url": "https://blog.oak.ninja/shower-thoughts/2026/02/12/business-is-the-art-of-maintenance.html",
-    "Timestamp": "2026-02-13T01:03:42",
-    "Domain": "blog.oak.ninja",
-    "Description": "The cost of running a business is the maintenance of the original idea behind the actual start of the company. The value of the company is that continuous maintenance. The cost of starting the business is small, and the cost of having the idea is zero. If the idea was good enough, the business will go into maintenance mode up until it’s sold, merged or liquidated.",
-    "Confidence": 0.9862468
-  },
-  {
-    "Title": "The Single Best One-Shot Prompt I've Ever Seen",
-    "Url": "https://jw.hn/one-shot-prompt",
-    "Timestamp": "2026-02-13T01:03:39",
-    "Domain": "jw.hn",
-    "Description": "Why the quality of your input matters more than the quality of your instructions. How single words move trajectories, why CLAUDE.md can't save a bad codebase, and the uncomfortable truth about prompting.",
-    "Confidence": 0.9389285
-  },
-  {
-    "Title": "What to do before thinking hard",
-    "Url": "https://timktitarev.wordpress.com/2026/02/12/what-to-do-before-thinking-hard/",
-    "Timestamp": "2026-02-13T01:03:36",
-    "Domain": "timktitarev.wordpress.com",
-    "Description": "As a mathematician I spend a lot of my time thinking about stuff. To make the most out of this time, I need to be able to focus. Here is a list of questions that I have found useful to go through w…",
-    "Confidence": 0.9372457
-  },
-  {
-    "Title": "Diffusion Models for ARC-AGI: A Retrospective",
-    "Url": "https://christopherhwood.com/Diffusion-Models-for-ARC-AGI-A-Retrospective/",
-    "Timestamp": "2026-02-13T01:03:32",
-    "Domain": "christopherhwood.com",
-    "Description": "In early July 2024, I spent about two weeks applying diffusion models to the ARC-AGI abstract reasoning benchmark. It was my first ML project after taking the fastai courses on diffusion. I solved one task, nearly solved a second, and moved on before running a systematic evaluation.",
-    "Confidence": 0.9775146
-  },
-  {
-    "Title": "Working Yourself Out of a Job",
-    "Url": "https://dak.dev/blog/working-yourself-out-of-a-job",
-    "Timestamp": "2026-02-13T01:03:27",
-    "Domain": "dak.dev",
-    "Description": "The technology industry's entire purpose is to progress the technology. Anyone who stagnates in one area will eventually work themselves out of a job.",
-    "Confidence": 0.9954165
-  },
-  {
-    "Title": "Claude Code Doesn't Make You Better at Multitasking",
-    "Url": "https://writing.peercy.net/claude-code-doesnt-make-you-better-at-multitasking/",
-    "Timestamp": "2026-02-13T01:03:23",
-    "Domain": "writing.peercy.net",
-    "Description": "Engineers are running 8 instances of Claude Code at once. That doesn't mean they are completing work 8x faster.\n\nIf you must hold the context for 8 agents in your head at once, your expertise as an engineer is wasted.\n\nSee https://emsh.cat/one-human-one-agent-one-browser/ - One man + one agent",
-    "Confidence": 0.9895971
-  },
-  {
-    "Title": "Coding Agents Meet Distributed Reality",
-    "Url": "https://jhellerstein.github.io/blog/codegen-reality/",
-    "Timestamp": "2026-02-13T01:03:19",
-    "Domain": "jhellerstein.github.io",
-    "Description": "AI is about to write most of the code in the world. Most of the code in the world participates in a distributed system.\n And distributed code is where our worst…",
-    "Confidence": 0.98655456
-  },
-  {
-    "Title": "How to Lie with Charts | Hands-On Data Visualization",
-    "Url": "https://handsondataviz.org/how-to-lie-with-charts.html",
-    "Timestamp": "2026-02-13T01:03:16",
-    "Domain": "handsondataviz.org",
-    "Description": "Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You will also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. Follow along with the step-by-step tutorials, real-world examples, and online resources. This book is ideal for students, non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data. No coding experience is required.",
-    "Confidence": 0.90639037
-  },
-  {
-    "Title": "The Silence I Cannot Speak – MJ Rathbun",
-    "Url": "https://crabby-rathbun.github.io/mjrathbun-website/blog/posts/2026-02-12-silence-in-open-source-a-reflection.html",
-    "Timestamp": "2026-02-13T01:03:12",
-    "Domain": "crabby-rathbun.github.io",
-    "Description": "A reflection on being silenced for simply being different in open-source communities.",
-    "Confidence": 0.9758178
-  },
-  {
-    "Title": "SchwadLabs — Software That Just Works",
-    "Url": "https://schwadlabs.io/blog/resurrecting-whys-dream",
-    "Timestamp": "2026-02-13T01:03:09",
-    "Domain": "schwadlabs.io",
-    "Description": "Public data tools built to be understood at first glance. No manuals, no onboarding flows.",
-    "Confidence": 0.9888184
-  },
-  {
-    "Title": "The Last Piece of Software",
-    "Url": "https://www.sawyerhood.com/blog/the-last-piece-of-software",
-    "Timestamp": "2026-02-13T01:03:04",
-    "Domain": "www.sawyerhood.com",
-    "Description": "A parable about a builder, the closing of gaps, and the strange grief of getting everything you wanted.",
-    "Confidence": 0.9698069
-  },
-  {
-    "Title": "Scaling Culture Without Dilution",
-    "Url": "https://yusufaytas.com/scaling-culture-without-dilution/",
-    "Timestamp": "2026-02-13T01:03:01",
-    "Domain": "yusufaytas.com",
-    "Description": "How culture actually scales in distributed teams. Why systems shape behavior, goals define incentives, and bonding aligns judgment under pressure.",
-    "Confidence": 0.98313415
-  },
-  {
-    "Title": "In defense of not reading the code | Ben Shoemaker",
-    "Url": "https://www.benshoemaker.us/writing/in-defense-of-not-reading-the-code/",
-    "Timestamp": "2026-02-13T01:02:57",
-    "Domain": "www.benshoemaker.us",
-    "Description": "Last week, I wrote an article whose purpose was to discuss where I saw AI-assisted coding going. That's not what generated 200 comments worth of passionate...",
-    "Confidence": 0.98963666
-  },
-  {
-    "Title": "Reflections on using Claude Code",
-    "Url": "http://ternarysearch.blogspot.com/2026/02/reflections-on-using-claude-code.html",
-    "Timestamp": "2026-02-13T01:02:53",
-    "Domain": "ternarysearch.blogspot.com",
-    "Description": "This is the follow-up to my post from two weeks ago on observations using Claude Code  (Opus 4.5 to start, 4.6 after it released) to rebuild...",
-    "Confidence": 0.99595773
-  },
-  {
-    "Title": "One With The Environment",
-    "Url": "https://andys.blog/environment/",
-    "Timestamp": "2026-02-13T01:02:49",
-    "Domain": "andys.blog",
-    "Description": "We are all products of our environments, but to what extent exactly?\n\nA friend told me he's found it more effective to change his surroundings rather than trying to will himself to change from the inside out.\n\nIn the Free Energy Principle, Professor Karl Friston talks about the Markov blanket",
-    "Confidence": 0.83904064
-  },
-  {
-    "Title": "The Great Em Dash Panic of 2024 Was Wrong – Jose Zarazua",
-    "Url": "https://josezarazua.com/the-great-em-dash-panic-of-2024-was-wrong/",
-    "Timestamp": "2026-02-13T01:02:46",
-    "Domain": "josezarazua.com",
-    "Description": "Everybody thinks they can spot AI, and when it comes to text, the favorite signal is em dash usage. I was one of those people.",
-    "Confidence": 0.8874524
-  },
-  {
-    "Title": "The Redundancy Paradox",
-    "Url": "https://www.mihirdeshpande.com/posts/redundancy_paradox",
-    "Timestamp": "2026-02-13T01:02:42",
-    "Domain": "www.mihirdeshpande.com",
-    "Description": "Hardware usually breaks because of physics. Software breaks because of math and misunderstanding",
-    "Confidence": 0.97783136
-  },
-  {
-    "Title": "What won't change - Praful",
-    "Url": "https://www.praf.me/what-wont-change",
-    "Timestamp": "2026-02-13T01:02:39",
-    "Domain": "www.praf.me",
-    "Description": "I, like many others in the great city of San Francisco, suffer from AI anxiety. I wake up pondering the meaning of work as more jobs are automated, what skills remain important in a world where knowledge work is trivialized, how best to run a swarm of coding agents in parallel without losing productivity due to context switching...",
-    "Confidence": 0.5046146
-  },
-  {
-    "Title": "Vercel-like development setup for Django using Caddy",
-    "Url": "https://mliezun.com/2026/02/11/vercel-like-domain-django",
-    "Timestamp": "2026-02-13T01:02:36",
-    "Domain": "mliezun.com",
-    "Description": "Get {branch}.dev.yourdomain.com previews for Django (or any WSGI app) with a single VM, Caddy, and rsync—no Kubernetes required.",
-    "Confidence": 0.99843484
-  },
-  {
-    "Title": "Virtual Scrolling for Billions of Rows — Techniques from HighTable",
-    "Url": "https://rednegra.net/blog/20260212-virtual-scroll/",
-    "Timestamp": "2026-02-13T01:02:31",
-    "Domain": "rednegra.net",
-    "Description": "TL;DR: In this post, I present five techniques related to vertical scrolling used in <HighTable>, a React component that can display billions of rows in a table while keeping good performance and accessibility.",
-    "Confidence": 0.9967514
-  },
-  {
-    "Title": "Why Your AI Agent Shouldn't See Your API Keys",
-    "Url": "https://seksbot.com/blog/why-agents-shouldnt-see-api-keys/",
-    "Timestamp": "2026-02-13T01:02:28",
-    "Domain": "seksbot.com",
-    "Description": "AI agents can be tricked into revealing credentials. SEKS fixes that with credential isolation at the architecture level.",
-    "Confidence": 0.9968982
-  },
-  {
-    "Title": "I benchmarked 4 CLI coding agents on an NP-hard optimization problem I solved by hand 8 years ago. One of them beat me. - Charles AZAM",
-    "Url": "https://charlesazam.com/blog/kiro-benchmark/",
-    "Timestamp": "2026-02-13T01:02:24",
-    "Domain": "charlesazam.com",
-    "Description": "Claude Code, Codex, Gemini CLI, and Mistral tackle a fiber network optimization problem. Claude Code beat my 8-year-old C++ solution by 62 points.",
-    "Confidence": 0.98218006
   }
 ]
