@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Two different tricks for fast LLM inference</title>
+      <link>https://www.seangoedecke.com/fast-llm-inference/</link>
+      <description>Anthropic and OpenAI both recently announced “fast mode”: a way to interact with their best coding model at significantly higher speeds.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.seangoedecke.com/fast-llm-inference/</guid>
+      <pubDate>Sun, 15 Feb 2026 00:02:39 GMT</pubDate>
+    </item>
+    <item>
       <title>News publishers limit Internet Archive access due to AI scraping concerns</title>
       <link>https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</link>
       <description>Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.</description>
