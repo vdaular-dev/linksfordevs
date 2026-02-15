@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Welcome to Johnny's World</title>
+      <link>https://marler8997.github.io/blog/fixed-windows/</link>
+      <description>Imagine you’re maintaining a native project. You use Visual Studio for building on Windows, so you do the responsible thing and list it as a dependency</description>
+      <category>visualstudio</category>
+      <category>git</category>
+      <category>gaming</category>
+      <category>python</category>
+      <category>vscode</category>
+      <guid>https://marler8997.github.io/blog/fixed-windows/</guid>
+      <pubDate>Sun, 15 Feb 2026 16:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>How Michael Abrash doubled Quake framerate</title>
       <link>https://fabiensanglard.net/quake_asm_optimizations/index.html</link>
       <description>Feb 14, 2026</description>
