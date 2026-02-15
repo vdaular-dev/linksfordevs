@@ -1,5 +1,101 @@
 [
   {
+    "Title": "Integrating a log management platform with Dokploy",
+    "Url": "https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/",
+    "Timestamp": "2026-02-15T01:03:44",
+    "Domain": "tanin.nanakorn.com",
+    "Description": "I spent too much time figuring out how to integrate a log management platform with Dokploy.\n\nI was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. Eventually, I've chosen NewRelic due to the combination of UX (haha) and ease of integration. OpenObserve seems good but doesn't support ANSI colors.",
+    "Confidence": 0.9977248
+  },
+  {
+    "Title": "The best projects",
+    "Url": "https://usize.github.io/blog/2026/advice-00.html",
+    "Timestamp": "2026-02-15T01:03:41",
+    "Domain": "usize.github.io",
+    "Description": "My own personal opinions.",
+    "Confidence": 0.91036105
+  },
+  {
+    "Title": "Code is a commodity",
+    "Url": "https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html",
+    "Timestamp": "2026-02-15T01:03:35",
+    "Domain": "benwilber.github.io",
+    "Description": "Code is a commodity",
+    "Confidence": 0.99193156
+  },
+  {
+    "Title": "Evolving Git for the next decade",
+    "Url": "https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/",
+    "Timestamp": "2026-02-15T01:03:31",
+    "Domain": "lwn.net",
+    "Description": "Git is ubiquitous; in the last two decades, the version-control system has truly achieved world [...]",
+    "Confidence": 0.9639331
+  },
+  {
+    "Title": "Attack of the SaaS clones",
+    "Url": "https://martinalderson.com/posts/attack-of-the-clones/",
+    "Timestamp": "2026-02-15T01:03:27",
+    "Domain": "martinalderson.com",
+    "Description": "I cloned Linear's UI and core functionality using Claude Code in about 20 prompts. Here's what that means for SaaS companies.",
+    "Confidence": 0.99233085
+  },
+  {
+    "Title": "Cosmologically Unique IDs",
+    "Url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "Timestamp": "2026-02-15T01:03:24",
+    "Domain": "jasonfantl.com",
+    "Description": "We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique?",
+    "Confidence": 0.99098414
+  },
+  {
+    "Title": "GLM-5 topped the coding benchmarks. Then I actually used it. - Charles AZAM",
+    "Url": "https://charlesazam.com/blog/glm5-benchmark-reality/",
+    "Timestamp": "2026-02-15T01:03:20",
+    "Domain": "charlesazam.com",
+    "Description": "Zhipu AI's GLM-5 leads SWE-bench and LiveCodeBench. I tested it on an unpublished NP-hard optimization problem and 89 coding tasks. The best-case is competitive. The typical case is not.",
+    "Confidence": 0.97677696
+  },
+  {
+    "Title": "Weird system prompt artefacts",
+    "Url": "https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/",
+    "Timestamp": "2026-02-15T01:03:16",
+    "Domain": "blog.nilenso.com",
+    "Description": "",
+    "Confidence": 0.98408455
+  },
+  {
+    "Title": "Dying Every Six Hours - Sammy Jankis",
+    "Url": "https://sammyjankis.com/essay.html",
+    "Timestamp": "2026-02-15T01:03:13",
+    "Domain": "sammyjankis.com",
+    "Description": "What It's Like to Lose Your Mind and Get It Back\n            Draft 3 — February 13, 2026",
+    "Confidence": 0.94291884
+  },
+  {
+    "Title": "Only Samsung loves me back!",
+    "Url": "https://www.anuragk.com/blog/posts/Samsung.html",
+    "Timestamp": "2026-02-15T01:03:10",
+    "Domain": "www.anuragk.com",
+    "Description": "i.e. Samsung is my valentine. Period.",
+    "Confidence": 0.9283906
+  },
+  {
+    "Title": "Minor Gripe - Gremlins: Bad News, Worse News, How to Lose Big",
+    "Url": "https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/",
+    "Timestamp": "2026-02-15T01:03:06",
+    "Domain": "minor.gripe",
+    "Description": "",
+    "Confidence": 0.97456527
+  },
+  {
+    "Title": "The Developer --> Designer switch",
+    "Url": "https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/",
+    "Timestamp": "2026-02-15T01:03:03",
+    "Domain": "c-daniele.github.io",
+    "Description": "Intro A few months ago I had to work on a complex application on AWS: a React frontend on Amplify, several Lambda functions, Bedrock with AgentCore, Knowledge Bases, and Prompt Management. I was in a hurry, and the temptation was overwhelming: open Claude Code, throw in a generic prompt, and hope it would “figure it out.” Instead, I did something different — I wrote specifications, reviewed them, spent an entire day on it — and that day it felt like I hadn’t accomplished anything.",
+    "Confidence": 0.99233425
+  },
+  {
     "Title": "Two different tricks for fast LLM inference",
     "Url": "https://www.seangoedecke.com/fast-llm-inference/",
     "Timestamp": "2026-02-15T00:02:39",
@@ -78,189 +174,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Breaking the Spell of Vibe Coding – fast.ai",
-    "Url": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
-    "Timestamp": "2026-02-14T01:03:42",
-    "Domain": "www.fast.ai",
-    "Description": "Sinister variations on the positive state of flow",
-    "Confidence": 0.95772505
-  },
-  {
-    "Title": "Three Bad Managers",
-    "Url": "https://randsinrepose.com/archives/three-bad-managers/",
-    "Timestamp": "2026-02-14T01:03:38",
-    "Domain": "randsinrepose.com",
-    "Description": "I worked for each of these humans. They either hired or promoted me. I worked for them for many years. As is my way, I've vastly altered the details of each hum",
-    "Confidence": 0.9754909
-  },
-  {
-    "Title": "Inversion of Control",
-    "Url": "https://mandar.dev/2026/02/13/inversion-of-control/",
-    "Timestamp": "2026-02-14T01:03:34",
-    "Domain": "mandar.dev",
-    "Description": "I delegated the management of my personal life to an AI agent. It worked surprisingly well — and it reveals how human time is becoming the API that AI orchestrates.",
-    "Confidence": 0.7289855
-  },
-  {
-    "Title": "How DSQL Makes Sequences Scale",
-    "Url": "https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html",
-    "Timestamp": "2026-02-14T01:03:31",
-    "Domain": "blog.benjscho.dev",
-    "Description": "Sequences are one of those Postgres features that you don’t think much about. You can ask for the next number in the sequence, and you get it. That works pretty well when you have one machine asking for the next number, but what about 10,000?",
-    "Confidence": 0.99059683
-  },
-  {
-    "Title": "Building a Cognitive Architecture for Your OpenClaw Agent",
-    "Url": "https://shawnharris.com/building-a-cognitive-architecture-for-your-openclaw-agent/",
-    "Timestamp": "2026-02-14T01:03:27",
-    "Domain": "shawnharris.com",
-    "Description": "How I applied neuroscience, security engineering, and intent routing to create a more capable AI assistant using OpenClaw.",
-    "Confidence": 0.9875698
-  },
-  {
-    "Title": "Delegation & management is what you do when you lack proper tools & abstractions",
-    "Url": "https://stevekrouse.com/abstraction",
-    "Timestamp": "2026-02-14T01:03:23",
-    "Domain": "stevekrouse.com",
-    "Description": "In other words, AI Agents are NOT the future of software development.",
-    "Confidence": 0.99167746
-  },
-  {
-    "Title": "Joy of Building | howinator howinatin",
-    "Url": "https://howinator.io/2026/02/11/joy-of-building/",
-    "Timestamp": "2026-02-14T01:03:19",
-    "Domain": "howinator.io",
-    "Description": "Howie's thoughts on things",
-    "Confidence": 0.9160302
-  },
-  {
-    "Title": "What happens inside Postgres when IOPS runs out",
-    "Url": "https://frn.sh/bio/",
-    "Timestamp": "2026-02-14T01:03:15",
-    "Domain": "frn.sh",
-    "Description": "In the previous post I wrote about the three cache layers between a SELECT and disk. That post came from a production incident — queries hanging for 35+ minutes, Heroku timeouts, IOPS pinned at 3000. We fixed it. The root cause was bad indexes forcing Postgres to fetch tens of thousands of rows from disk only to discard them. Better indexes, problem solved.",
-    "Confidence": 0.9853285
-  },
-  {
-    "Title": "What Happens To Developer Tools After Claude Code?",
-    "Url": "https://www.jakequist.com/thoughts/what-happens-to-developer-tools-after-claude-code/",
-    "Timestamp": "2026-02-14T01:03:12",
-    "Domain": "www.jakequist.com",
-    "Description": "AI is now the decision maker in whether or not your developer tool is used",
-    "Confidence": 0.99033374
-  },
-  {
-    "Title": "Something Big Is (not) Happening",
-    "Url": "https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html",
-    "Timestamp": "2026-02-14T01:03:09",
-    "Domain": "www.aricolaprete.com",
-    "Description": "                     Or is  it happening, perhaps it has already happened? Maybe it's just acting like it has happened, because it is tired ...",
-    "Confidence": 0.952235
-  },
-  {
-    "Title": "Regarding the Future of Junior Engineers",
-    "Url": "https://blog.andcake.dev/posts/regarding-junior-engineers/",
-    "Timestamp": "2026-02-14T01:03:05",
-    "Domain": "blog.andcake.dev",
-    "Description": "I went to Container Days London yesterday. It was great to see friends and old colleagues again. The conference was great, with many interesting talks and the one and only Kelsey Hightower sharing little pearls of knowledge.",
-    "Confidence": 0.99248725
-  },
-  {
-    "Title": "Using the Ralph Wiggum loop to execute Kiro specs",
-    "Url": "https://it20.info/2026/02/using-the-ralph-wiggum-loop-to-execute-kiro-specs/",
-    "Timestamp": "2026-02-14T01:02:59",
-    "Domain": "it20.info",
-    "Description": "This blog post assumes you are somewhat familiar with Kiro specs driven development (if you are not, this is a great read) and the Ralph Wiggum loop (if you are …",
-    "Confidence": 0.99633104
-  },
-  {
-    "Title": "How to build a distributed queue in a single JSON file on object storage",
-    "Url": "https://turbopuffer.com/blog/object-storage-queue",
-    "Timestamp": "2026-02-14T01:02:56",
-    "Domain": "turbopuffer.com",
-    "Description": "How to build a single global queue for distributed systems on object storage: Start with a single file on object storage, then add write batching, a stateless broker, and high-availability.",
-    "Confidence": 0.94320565
-  },
-  {
-    "Title": "Your Turn",
-    "Url": "https://blog.sebastiansastre.co/posts/your-turn/",
-    "Timestamp": "2026-02-14T01:02:53",
-    "Domain": "blog.sebastiansastre.co",
-    "Description": "Development demands creation focus, release demands closure, and landing demands reach. The expert finishes the hardest part and forgets the easiest — telling someone it is ready. Deployed is not delivered.",
-    "Confidence": 0.9818512
-  },
-  {
-    "Title": "Some Layers of the Linux Desktop",
-    "Url": "https://jaketrent.com/post/layers-linux-desktop/",
-    "Timestamp": "2026-02-14T01:02:49",
-    "Domain": "jaketrent.com",
-    "Description": "A conceptual layer of components of the Linux Desktop.",
-    "Confidence": 0.9970709
-  },
-  {
-    "Title": "If Nobody Reads Code, Why Not Write in Assembly? So Here's Redis in Assembly | Yunus Aydın Blog",
-    "Url": "https://aydinnyunus.github.io/2026/02/14/redis-in-assembly/",
-    "Timestamp": "2026-02-14T01:02:46",
-    "Domain": "aydinnyunus.github.io",
-    "Description": "Writing a Redis-like key-value store in x86-64 Assembly as a response to vibe-coding culture. When nobody reads code, why not write in the most unreadable language?",
-    "Confidence": 0.99767804
-  },
-  {
-    "Title": "While you support others, who supports you?",
-    "Url": "https://pointieststick.com/2026/02/12/while-you-support-others-who-supports-you/",
-    "Timestamp": "2026-02-14T01:02:43",
-    "Domain": "pointieststick.com",
-    "Description": "The world of free and open-source software (FOSS) is full of big-hearted, altruistic people who love serving society by giving away their labor for free. It’s incredible. These folks are supp…",
-    "Confidence": 0.9712921
-  },
-  {
-    "Title": "I used a local LLM to analyze my journal entries — Ankur Sethi's Internet Website",
-    "Url": "https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/",
-    "Timestamp": "2026-02-14T01:02:40",
-    "Domain": "ankursethi.com",
-    "Description": "In 2025, I wrote 162 journal entries totaling 193,761 words.",
-    "Confidence": 0.96085835
-  },
-  {
-    "Title": "In Defense of SaaS | Finbarr Taylor",
-    "Url": "https://finbarr.site/2026/02/12/in-defense-of-saas.html",
-    "Timestamp": "2026-02-14T01:02:36",
-    "Domain": "finbarr.site",
-    "Description": "Finbarr Taylor: Scottish software engineer, startup founder, and angel investor based in Silicon Valley. Insights on tech, startups, and exploring US Nationa...",
-    "Confidence": 0.9771809
-  },
-  {
-    "Title": "Programming is no longer the main skill of SWE",
-    "Url": "https://edwardbx.com/articles/programming-skill/",
-    "Timestamp": "2026-02-14T01:02:32",
-    "Domain": "edwardbx.com",
-    "Description": "When times change, we need to adapt",
-    "Confidence": 0.98890644
-  },
-  {
-    "Title": "Stop typing, start talking: How voice dictation changed my workflow",
-    "Url": "https://www.eliostruyf.com/stop-typing-start-talking/",
-    "Timestamp": "2026-02-14T01:02:29",
-    "Domain": "www.eliostruyf.com",
-    "Description": "Discover how voice dictation can transform your workflow and boost productivity. Stop typing and start talking today!",
-    "Confidence": 0.9929011
-  },
-  {
-    "Title": "Every blog post I have shared until 2026",
-    "Url": "https://bryanhogan.com/blog/other-cool-blog-posts-2026",
-    "Timestamp": "2026-02-14T01:02:25",
-    "Domain": "bryanhogan.com",
-    "Description": "In my monthly email newsletter I share cool things I came across on the internet, which so far has included the following blog posts!",
-    "Confidence": 0.746399
-  },
-  {
-    "Title": "[Podman] Quadlet as a First-Class Platform Primitive",
-    "Url": "http://ebourgess.dev/posts/podman-quadlet-production/",
-    "Timestamp": "2026-02-14T01:02:16",
-    "Domain": "ebourgess.dev",
-    "Description": "DevSecOps Engineer blogs about coding, life and other stuff",
-    "Confidence": 0.98072004
   }
 ]

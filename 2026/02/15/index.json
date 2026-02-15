@@ -1,5 +1,89 @@
 [
   {
+    "Title": "Integrating a log management platform with Dokploy",
+    "Url": "https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/",
+    "Timestamp": "2026-02-15T01:03:44",
+    "Domain": "tanin.nanakorn.com",
+    "Description": "I spent too much time figuring out how to integrate a log management platform with Dokploy.\n\nI was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. Eventually, I've chosen NewRelic due to the combination of UX (haha) and ease of integration. OpenObserve seems good but doesn't support ANSI colors."
+  },
+  {
+    "Title": "The best projects",
+    "Url": "https://usize.github.io/blog/2026/advice-00.html",
+    "Timestamp": "2026-02-15T01:03:41",
+    "Domain": "usize.github.io",
+    "Description": "My own personal opinions."
+  },
+  {
+    "Title": "Code is a commodity",
+    "Url": "https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html",
+    "Timestamp": "2026-02-15T01:03:35",
+    "Domain": "benwilber.github.io",
+    "Description": "Code is a commodity"
+  },
+  {
+    "Title": "Evolving Git for the next decade",
+    "Url": "https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/",
+    "Timestamp": "2026-02-15T01:03:31",
+    "Domain": "lwn.net",
+    "Description": "Git is ubiquitous; in the last two decades, the version-control system has truly achieved world [...]"
+  },
+  {
+    "Title": "Attack of the SaaS clones",
+    "Url": "https://martinalderson.com/posts/attack-of-the-clones/",
+    "Timestamp": "2026-02-15T01:03:27",
+    "Domain": "martinalderson.com",
+    "Description": "I cloned Linear's UI and core functionality using Claude Code in about 20 prompts. Here's what that means for SaaS companies."
+  },
+  {
+    "Title": "Cosmologically Unique IDs",
+    "Url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+    "Timestamp": "2026-02-15T01:03:24",
+    "Domain": "jasonfantl.com",
+    "Description": "We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique?"
+  },
+  {
+    "Title": "GLM-5 topped the coding benchmarks. Then I actually used it. - Charles AZAM",
+    "Url": "https://charlesazam.com/blog/glm5-benchmark-reality/",
+    "Timestamp": "2026-02-15T01:03:20",
+    "Domain": "charlesazam.com",
+    "Description": "Zhipu AI's GLM-5 leads SWE-bench and LiveCodeBench. I tested it on an unpublished NP-hard optimization problem and 89 coding tasks. The best-case is competitive. The typical case is not."
+  },
+  {
+    "Title": "Weird system prompt artefacts",
+    "Url": "https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/",
+    "Timestamp": "2026-02-15T01:03:16",
+    "Domain": "blog.nilenso.com",
+    "Description": ""
+  },
+  {
+    "Title": "Dying Every Six Hours - Sammy Jankis",
+    "Url": "https://sammyjankis.com/essay.html",
+    "Timestamp": "2026-02-15T01:03:13",
+    "Domain": "sammyjankis.com",
+    "Description": "What It's Like to Lose Your Mind and Get It Back\n            Draft 3 — February 13, 2026"
+  },
+  {
+    "Title": "Only Samsung loves me back!",
+    "Url": "https://www.anuragk.com/blog/posts/Samsung.html",
+    "Timestamp": "2026-02-15T01:03:10",
+    "Domain": "www.anuragk.com",
+    "Description": "i.e. Samsung is my valentine. Period."
+  },
+  {
+    "Title": "Minor Gripe - Gremlins: Bad News, Worse News, How to Lose Big",
+    "Url": "https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/",
+    "Timestamp": "2026-02-15T01:03:06",
+    "Domain": "minor.gripe",
+    "Description": ""
+  },
+  {
+    "Title": "The Developer --> Designer switch",
+    "Url": "https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/",
+    "Timestamp": "2026-02-15T01:03:03",
+    "Domain": "c-daniele.github.io",
+    "Description": "Intro A few months ago I had to work on a complex application on AWS: a React frontend on Amplify, several Lambda functions, Bedrock with AgentCore, Knowledge Bases, and Prompt Management. I was in a hurry, and the temptation was overwhelming: open Claude Code, throw in a generic prompt, and hope it would “figure it out.” Instead, I did something different — I wrote specifications, reviewed them, spent an entire day on it — and that day it felt like I hadn’t accomplished anything."
+  },
+  {
     "Title": "Two different tricks for fast LLM inference",
     "Url": "https://www.seangoedecke.com/fast-llm-inference/",
     "Timestamp": "2026-02-15T00:02:39",

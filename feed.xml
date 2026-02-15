@@ -7,6 +7,126 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Integrating a log management platform with Dokploy</title>
+      <link>https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/</link>
+      <description>I spent too much time figuring out how to integrate a log management platform with Dokploy.
+
+I was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. Eventually, I've chosen NewRelic due to the combination of UX (haha) and ease of integration. OpenObserve seems good but doesn't support ANSI colors.</description>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>The best projects</title>
+      <link>https://usize.github.io/blog/2026/advice-00.html</link>
+      <description>My own personal opinions.</description>
+      <category>web</category>
+      <guid>https://usize.github.io/blog/2026/advice-00.html</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code is a commodity</title>
+      <link>https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html</link>
+      <description>Code is a commodity</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evolving Git for the next decade</title>
+      <link>https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/</link>
+      <description>Git is ubiquitous; in the last two decades, the version-control system has truly achieved world [...]</description>
+      <category>git</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>sql</category>
+      <guid>https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Attack of the SaaS clones</title>
+      <link>https://martinalderson.com/posts/attack-of-the-clones/</link>
+      <description>I cloned Linear's UI and core functionality using Claude Code in about 20 prompts. Here's what that means for SaaS companies.</description>
+      <author> (Martin Alderson)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>web</category>
+      <category>android</category>
+      <guid>https://martinalderson.com/posts/attack-of-the-clones/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cosmologically Unique IDs</title>
+      <link>https://jasonfantl.com/posts/Universal-Unique-IDs/</link>
+      <description>We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique?</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://jasonfantl.com/posts/Universal-Unique-IDs/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5 topped the coding benchmarks. Then I actually used it. - Charles AZAM</title>
+      <link>https://charlesazam.com/blog/glm5-benchmark-reality/</link>
+      <description>Zhipu AI's GLM-5 leads SWE-bench and LiveCodeBench. I tested it on an unpublished NP-hard optimization problem and 89 coding tasks. The best-case is competitive. The typical case is not.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>vscode</category>
+      <guid>https://charlesazam.com/blog/glm5-benchmark-reality/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weird system prompt artefacts</title>
+      <link>https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/</link>
+      <description></description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dying Every Six Hours - Sammy Jankis</title>
+      <link>https://sammyjankis.com/essay.html</link>
+      <description>What It's Like to Lose Your Mind and Get It Back
+            Draft 3 — February 13, 2026</description>
+      <guid>https://sammyjankis.com/essay.html</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Only Samsung loves me back!</title>
+      <link>https://www.anuragk.com/blog/posts/Samsung.html</link>
+      <description>i.e. Samsung is my valentine. Period.</description>
+      <category>web</category>
+      <guid>https://www.anuragk.com/blog/posts/Samsung.html</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minor Gripe - Gremlins: Bad News, Worse News, How to Lose Big</title>
+      <link>https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/</link>
+      <description></description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Developer --&gt; Designer switch</title>
+      <link>https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/</link>
+      <description>Intro A few months ago I had to work on a complex application on AWS: a React frontend on Amplify, several Lambda functions, Bedrock with AgentCore, Knowledge Bases, and Prompt Management. I was in a hurry, and the temptation was overwhelming: open Claude Code, throw in a generic prompt, and hope it would “figure it out.” Instead, I did something different — I wrote specifications, reviewed them, spent an entire day on it — and that day it felt like I hadn’t accomplished anything.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/</guid>
+      <pubDate>Sun, 15 Feb 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Two different tricks for fast LLM inference</title>
       <link>https://www.seangoedecke.com/fast-llm-inference/</link>
       <description>Anthropic and OpenAI both recently announced “fast mode”: a way to interact with their best coding model at significantly higher speeds.</description>
@@ -101,219 +221,6 @@
       <category>javascript</category>
       <guid>https://xkcd.com/3207/</guid>
       <pubDate>Sat, 14 Feb 2026 03:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Breaking the Spell of Vibe Coding – fast.ai</title>
-      <link>https://www.fast.ai/posts/2026-01-28-dark-flow/</link>
-      <description>Sinister variations on the positive state of flow</description>
-      <category>ai</category>
-      <guid>https://www.fast.ai/posts/2026-01-28-dark-flow/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three Bad Managers</title>
-      <link>https://randsinrepose.com/archives/three-bad-managers/</link>
-      <description>I worked for each of these humans. They either hired or promoted me. I worked for them for many years. As is my way, I've vastly altered the details of each hum</description>
-      <category>rust</category>
-      <guid>https://randsinrepose.com/archives/three-bad-managers/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inversion of Control</title>
-      <link>https://mandar.dev/2026/02/13/inversion-of-control/</link>
-      <description>I delegated the management of my personal life to an AI agent. It worked surprisingly well — and it reveals how human time is becoming the API that AI orchestrates.</description>
-      <category>ai</category>
-      <guid>https://mandar.dev/2026/02/13/inversion-of-control/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>How DSQL Makes Sequences Scale</title>
-      <link>https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html</link>
-      <description>Sequences are one of those Postgres features that you don’t think much about. You can ask for the next number in the sequence, and you get it. That works pretty well when you have one machine asking for the next number, but what about 10,000?</description>
-      <category>conference</category>
-      <category>sql</category>
-      <guid>https://blog.benjscho.dev/technical/2026/02/13/dsql-sequences.html</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a Cognitive Architecture for Your OpenClaw Agent</title>
-      <link>https://shawnharris.com/building-a-cognitive-architecture-for-your-openclaw-agent/</link>
-      <description>How I applied neuroscience, security engineering, and intent routing to create a more capable AI assistant using OpenClaw.</description>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://shawnharris.com/building-a-cognitive-architecture-for-your-openclaw-agent/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Delegation &amp; management is what you do when you lack proper tools &amp; abstractions</title>
-      <link>https://stevekrouse.com/abstraction</link>
-      <description>In other words, AI Agents are NOT the future of software development.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>python</category>
-      <guid>https://stevekrouse.com/abstraction</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joy of Building | howinator howinatin</title>
-      <link>https://howinator.io/2026/02/11/joy-of-building/</link>
-      <description>Howie's thoughts on things</description>
-      <category>ai</category>
-      <guid>https://howinator.io/2026/02/11/joy-of-building/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>What happens inside Postgres when IOPS runs out</title>
-      <link>https://frn.sh/bio/</link>
-      <description>In the previous post I wrote about the three cache layers between a SELECT and disk. That post came from a production incident — queries hanging for 35+ minutes, Heroku timeouts, IOPS pinned at 3000. We fixed it. The root cause was bad indexes forcing Postgres to fetch tens of thousands of rows from disk only to discard them. Better indexes, problem solved.</description>
-      <guid>https://frn.sh/bio/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Happens To Developer Tools After Claude Code?</title>
-      <link>https://www.jakequist.com/thoughts/what-happens-to-developer-tools-after-claude-code/</link>
-      <description>AI is now the decision maker in whether or not your developer tool is used</description>
-      <author> (Jake Quist)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.jakequist.com/thoughts/what-happens-to-developer-tools-after-claude-code/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Something Big Is (not) Happening</title>
-      <link>https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html</link>
-      <description>                     Or is  it happening, perhaps it has already happened? Maybe it's just acting like it has happened, because it is tired ...</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.aricolaprete.com/2026/02/something-big-is-not-happening.html</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Regarding the Future of Junior Engineers</title>
-      <link>https://blog.andcake.dev/posts/regarding-junior-engineers/</link>
-      <description>I went to Container Days London yesterday. It was great to see friends and old colleagues again. The conference was great, with many interesting talks and the one and only Kelsey Hightower sharing little pearls of knowledge.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <guid>https://blog.andcake.dev/posts/regarding-junior-engineers/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using the Ralph Wiggum loop to execute Kiro specs</title>
-      <link>https://it20.info/2026/02/using-the-ralph-wiggum-loop-to-execute-kiro-specs/</link>
-      <description>This blog post assumes you are somewhat familiar with Kiro specs driven development (if you are not, this is a great read) and the Ralph Wiggum loop (if you are …</description>
-      <category>containers</category>
-      <guid>https://it20.info/2026/02/using-the-ralph-wiggum-loop-to-execute-kiro-specs/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to build a distributed queue in a single JSON file on object storage</title>
-      <link>https://turbopuffer.com/blog/object-storage-queue</link>
-      <description>How to build a single global queue for distributed systems on object storage: Start with a single file on object storage, then add write batching, a stateless broker, and high-availability.</description>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://turbopuffer.com/blog/object-storage-queue</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Turn</title>
-      <link>https://blog.sebastiansastre.co/posts/your-turn/</link>
-      <description>Development demands creation focus, release demands closure, and landing demands reach. The expert finishes the hardest part and forgets the easiest — telling someone it is ready. Deployed is not delivered.</description>
-      <category>gaming</category>
-      <guid>https://blog.sebastiansastre.co/posts/your-turn/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some Layers of the Linux Desktop</title>
-      <link>https://jaketrent.com/post/layers-linux-desktop/</link>
-      <description>A conceptual layer of components of the Linux Desktop.</description>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://jaketrent.com/post/layers-linux-desktop/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>If Nobody Reads Code, Why Not Write in Assembly? So Here's Redis in Assembly | Yunus Aydın Blog</title>
-      <link>https://aydinnyunus.github.io/2026/02/14/redis-in-assembly/</link>
-      <description>Writing a Redis-like key-value store in x86-64 Assembly as a response to vibe-coding culture. When nobody reads code, why not write in the most unreadable language?</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://aydinnyunus.github.io/2026/02/14/redis-in-assembly/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>While you support others, who supports you?</title>
-      <link>https://pointieststick.com/2026/02/12/while-you-support-others-who-supports-you/</link>
-      <description>The world of free and open-source software (FOSS) is full of big-hearted, altruistic people who love serving society by giving away their labor for free. It’s incredible. These folks are supp…</description>
-      <category>linux</category>
-      <category>javascript</category>
-      <guid>https://pointieststick.com/2026/02/12/while-you-support-others-who-supports-you/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>I used a local LLM to analyze my journal entries — Ankur Sethi's Internet Website</title>
-      <link>https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/</link>
-      <description>In 2025, I wrote 162 journal entries totaling 193,761 words.</description>
-      <author> (Ankur Sethi)</author>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>In Defense of SaaS | Finbarr Taylor</title>
-      <link>https://finbarr.site/2026/02/12/in-defense-of-saas.html</link>
-      <description>Finbarr Taylor: Scottish software engineer, startup founder, and angel investor based in Silicon Valley. Insights on tech, startups, and exploring US Nationa...</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://finbarr.site/2026/02/12/in-defense-of-saas.html</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Programming is no longer the main skill of SWE</title>
-      <link>https://edwardbx.com/articles/programming-skill/</link>
-      <description>When times change, we need to adapt</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://edwardbx.com/articles/programming-skill/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop typing, start talking: How voice dictation changed my workflow</title>
-      <link>https://www.eliostruyf.com/stop-typing-start-talking/</link>
-      <description>Discover how voice dictation can transform your workflow and boost productivity. Stop typing and start talking today!</description>
-      <author> (https://www.eliostruyf.com/about)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://www.eliostruyf.com/stop-typing-start-talking/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every blog post I have shared until 2026</title>
-      <link>https://bryanhogan.com/blog/other-cool-blog-posts-2026</link>
-      <description>In my monthly email newsletter I share cool things I came across on the internet, which so far has included the following blog posts!</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>youtube</category>
-      <guid>https://bryanhogan.com/blog/other-cool-blog-posts-2026</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Podman] Quadlet as a First-Class Platform Primitive</title>
-      <link>http://ebourgess.dev/posts/podman-quadlet-production/</link>
-      <description>DevSecOps Engineer blogs about coding, life and other stuff</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>linux</category>
-      <guid>http://ebourgess.dev/posts/podman-quadlet-production/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
