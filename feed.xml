@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenClaw, OpenAI and the future | Peter Steinberger</title>
+      <link>https://steipete.me/posts/2026/openclaw</link>
+      <description>I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://steipete.me/posts/2026/openclaw</guid>
+      <pubDate>Mon, 16 Feb 2026 00:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - TechPaula/LT6502: A 6502 based laptop design</title>
       <link>https://github.com/TechPaula/LT6502</link>
       <description>A 6502 based laptop design. Contribute to TechPaula/LT6502 development by creating an account on GitHub.</description>
@@ -191,15 +200,6 @@ I was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. E
       <category>git</category>
       <guid>https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/</guid>
       <pubDate>Sun, 15 Feb 2026 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Two different tricks for fast LLM inference</title>
-      <link>https://www.seangoedecke.com/fast-llm-inference/</link>
-      <description>Anthropic and OpenAI both recently announced “fast mode”: a way to interact with their best coding model at significantly higher speeds.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.seangoedecke.com/fast-llm-inference/</guid>
-      <pubDate>Sun, 15 Feb 2026 00:02:39 GMT</pubDate>
     </item>
   </channel>
 </rss>
