@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Coding at the speed of thought",
+    "Url": "https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/",
+    "Timestamp": "2026-02-16T01:04:35",
+    "Domain": "www.jerpint.io",
+    "Description": "Thinking is becoming the new bottleneck in coding"
+  },
+  {
+    "Title": "One server. Small business.",
+    "Url": "https://chodounsky.com/2026/02/14/one-server-small-business/",
+    "Timestamp": "2026-02-16T01:04:24",
+    "Domain": "chodounsky.com",
+    "Description": "More than a decade ago, I built a small Rails app to run my curated newsletters. Today it serves over 100,000 subscribers, sends hundreds of thousands of emails each month, and still runs on a single $30 server. In this post, I walk through how I deploy, secure, back up, and monitor it — and why I still prefer owning the stack over using a managed platform."
+  },
+  {
+    "Title": "Attempt to hike Afghanistan",
+    "Url": "https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/",
+    "Timestamp": "2026-02-16T01:04:20",
+    "Domain": "mautz.blog",
+    "Description": "Deutsch unten – täglicher Bericht auf PolarSteps! 中文下边 –  PolarSteps 每日报告 ! I’m often asked why I don’t walk directly to Singapore via India, but instead take a huge…"
+  },
+  {
+    "Title": "Why I built Mu | Mu",
+    "Url": "https://mu.xyz/post?id=1771160711053164263",
+    "Timestamp": "2026-02-16T01:04:16",
+    "Domain": "mu.xyz",
+    "Description": "Mu is an app platform without ads, algorithms or tracking. It attempts to remove the addictive behaviours or intrusive usury of advertising found in m"
+  },
+  {
+    "Title": "When interfaces become disposable | Chris Loy",
+    "Url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
+    "Timestamp": "2026-02-16T01:03:47",
+    "Domain": "chrisloy.dev",
+    "Description": "I recently became a parent for the first time, as my wife and I welcomed a beautiful baby boy into our lives in January\nof this year."
+  },
+  {
+    "Title": "Can agentic coding raise the quality bar? | Luca Palmieri",
+    "Url": "https://lpalmieri.com/posts/agentic-coding-raises-quality/",
+    "Timestamp": "2026-02-16T01:03:33",
+    "Domain": "lpalmieri.com",
+    "Description": "Five examples of using agentic coding to improve software quality, instead of delivery throughput."
+  },
+  {
+    "Title": "Learnings from attending Pragmatic Summit",
+    "Url": "https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/",
+    "Timestamp": "2026-02-16T01:03:30",
+    "Domain": "blog.kelvinhanma.com",
+    "Description": "I attended Pragmatic Summit this past Wednesday hosted by Gergely Orosz. As with all things tech right now, the main (and really only) topic is AI. Thankfully the attendees are all active professionals working in tech, the discussions are grounded in hands-on experience with AI tools, avoiding much of the hype. Below is the summit agenda:\nAs a software engineer at Google working on the Photos mobile clients’ editing features, I’m lucky to not worry about the token budget in terms of costs and can freely use Gemini models and Google AI tools for my work. It was both scary and comforting to learn that engineers at other places are struggling with the same challenges as me right now. Mainly:"
+  },
+  {
+    "Title": "The Prompt of Babel — Joe McLean",
+    "Url": "https://joemclean.github.io/writing/the-prompt-of-babel.html",
+    "Timestamp": "2026-02-16T01:03:26",
+    "Domain": "joemclean.github.io",
+    "Description": "I am a librarian, of the 192nd arm of the 168th branch of the 14th floor and the third hallway of the Great Library. I record this message as a trace, as I slip into obsession, with hope that perhaps the record will hold value, either to me or the Machine before me."
+  },
+  {
+    "Title": "Death of the Certified Expert",
+    "Url": "https://maalla.dev/posts/death-of-the-certified-expert/",
+    "Timestamp": "2026-02-16T01:03:24",
+    "Domain": "maalla.dev",
+    "Description": "AI agents are displacing companies whose business model is selling expertise in complex software."
+  },
+  {
+    "Title": "Using Claude for spellchecking and grammar",
+    "Url": "https://kodare.net/2026/02/15/using-claude-for-spell-checking.html",
+    "Timestamp": "2026-02-16T01:03:20",
+    "Domain": "kodare.net",
+    "Description": "On the pytest discord channel Sviatoslav mentioned a pull request with a bunch of spelling and grammar fixes. We had a discussion about the morality of not disclosing that it was an AI driven pull request up front, but what was pretty clear was that the quality was surprisingly high. Since I have a project with extensive documentation that I’ve spelled checked thoroughly this interested me. I write all the documentation with PyCharm which has built in spelling and grammar checks, so I was thinking it would be hard to find many errors."
+  },
+  {
+    "Title": "Experiments with voice control on Linux",
+    "Url": "https://blog.ricky0123.com/blog/voice/",
+    "Timestamp": "2026-02-16T01:03:16",
+    "Domain": "blog.ricky0123.com",
+    "Description": "My experiments with writing small dictation tools for Linux"
+  },
+  {
+    "Title": "Bertolami.com",
+    "Url": "https://bertolami.com/index.php?engine=blog&content=posts&detail=cost-effective-agentic-coding",
+    "Timestamp": "2026-02-16T01:02:37",
+    "Domain": "bertolami.com",
+    "Description": "Saturday, February 7th, 2026"
+  },
+  {
+    "Title": "Why I",
+    "Url": "https://rozumem.xyz/posts/12",
+    "Timestamp": "2026-02-16T01:02:34",
+    "Domain": "rozumem.xyz",
+    "Description": "Shipping new features for users and watching them gobble it up is the greatest Joy of being a coder. I quit my day job to bootstrap a SaaS to maximize this Joy in my life. I didn't expect Joy to wane and wither away by year 7. While it's been supplanted by other positive developments like more customers and increasing revenues, which makes the situation tolerable, I miss Joy in it's most raw form."
+  },
+  {
+    "Title": "We Need Apocalypse-Proof Software - alavi.me",
+    "Url": "https://alavi.me/blog/we-need-apocalypse-proof-software/",
+    "Timestamp": "2026-02-16T01:02:28",
+    "Domain": "alavi.me",
+    "Description": "We need software that works in dire situation. Also, here are some tools for those situations."
+  },
+  {
+    "Title": "The second half of the chessboard",
+    "Url": "https://joshs.bearblog.dev/the-second-half-of-the-chessboard/",
+    "Timestamp": "2026-02-16T01:02:22",
+    "Domain": "joshs.bearblog.dev",
+    "Description": "When I was young, my neighbour made me an offer: start at 1 and double it for every square on a chessboard. If I made it to the end of the board he’d give me..."
+  },
+  {
+    "Title": "The New Ballmer Peak",
+    "Url": "https://www.adriankrebs.ch/blog/the-new-ballmer-peak/",
+    "Timestamp": "2026-02-16T01:02:19",
+    "Domain": "www.adriankrebs.ch",
+    "Description": "What happens to the Ballmer Peak when you prompt instead of code"
+  },
+  {
     "Title": "OpenClaw, OpenAI and the future | Peter Steinberger",
     "Url": "https://steipete.me/posts/2026/openclaw",
     "Timestamp": "2026-02-16T00:02:07",

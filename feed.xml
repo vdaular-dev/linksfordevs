@@ -7,6 +7,157 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Coding at the speed of thought</title>
+      <link>https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/</link>
+      <description>Thinking is becoming the new bottleneck in coding</description>
+      <guid>https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>One server. Small business.</title>
+      <link>https://chodounsky.com/2026/02/14/one-server-small-business/</link>
+      <description>More than a decade ago, I built a small Rails app to run my curated newsletters. Today it serves over 100,000 subscribers, sends hundreds of thousands of emails each month, and still runs on a single $30 server. In this post, I walk through how I deploy, secure, back up, and monitor it — and why I still prefer owning the stack over using a managed platform.</description>
+      <category>sql</category>
+      <category>git</category>
+      <category>ruby</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <guid>https://chodounsky.com/2026/02/14/one-server-small-business/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Attempt to hike Afghanistan</title>
+      <link>https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/</link>
+      <description>Deutsch unten – täglicher Bericht auf PolarSteps! 中文下边 –  PolarSteps 每日报告 ! I’m often asked why I don’t walk directly to Singapore via India, but instead take a huge…</description>
+      <guid>https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I built Mu | Mu</title>
+      <link>https://mu.xyz/post?id=1771160711053164263</link>
+      <description>Mu is an app platform without ads, algorithms or tracking. It attempts to remove the addictive behaviours or intrusive usury of advertising found in m</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://mu.xyz/post?id=1771160711053164263</guid>
+      <pubDate>Mon, 16 Feb 2026 01:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>When interfaces become disposable | Chris Loy</title>
+      <link>https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</link>
+      <description>I recently became a parent for the first time, as my wife and I welcomed a beautiful baby boy into our lives in January
+of this year.</description>
+      <category>ai</category>
+      <guid>https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can agentic coding raise the quality bar? | Luca Palmieri</title>
+      <link>https://lpalmieri.com/posts/agentic-coding-raises-quality/</link>
+      <description>Five examples of using agentic coding to improve software quality, instead of delivery throughput.</description>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://lpalmieri.com/posts/agentic-coding-raises-quality/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learnings from attending Pragmatic Summit</title>
+      <link>https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/</link>
+      <description>I attended Pragmatic Summit this past Wednesday hosted by Gergely Orosz. As with all things tech right now, the main (and really only) topic is AI. Thankfully the attendees are all active professionals working in tech, the discussions are grounded in hands-on experience with AI tools, avoiding much of the hype. Below is the summit agenda:
+As a software engineer at Google working on the Photos mobile clients’ editing features, I’m lucky to not worry about the token budget in terms of costs and can freely use Gemini models and Google AI tools for my work. It was both scary and comforting to learn that engineers at other places are struggling with the same challenges as me right now. Mainly:</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>apple</category>
+      <guid>https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Prompt of Babel — Joe McLean</title>
+      <link>https://joemclean.github.io/writing/the-prompt-of-babel.html</link>
+      <description>I am a librarian, of the 192nd arm of the 168th branch of the 14th floor and the third hallway of the Great Library. I record this message as a trace, as I slip into obsession, with hope that perhaps the record will hold value, either to me or the Machine before me.</description>
+      <guid>https://joemclean.github.io/writing/the-prompt-of-babel.html</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Death of the Certified Expert</title>
+      <link>https://maalla.dev/posts/death-of-the-certified-expert/</link>
+      <description>AI agents are displacing companies whose business model is selling expertise in complex software.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://maalla.dev/posts/death-of-the-certified-expert/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Claude for spellchecking and grammar</title>
+      <link>https://kodare.net/2026/02/15/using-claude-for-spell-checking.html</link>
+      <description>On the pytest discord channel Sviatoslav mentioned a pull request with a bunch of spelling and grammar fixes. We had a discussion about the morality of not disclosing that it was an AI driven pull request up front, but what was pretty clear was that the quality was surprisingly high. Since I have a project with extensive documentation that I’ve spelled checked thoroughly this interested me. I write all the documentation with PyCharm which has built in spelling and grammar checks, so I was thinking it would be hard to find many errors.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://kodare.net/2026/02/15/using-claude-for-spell-checking.html</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Experiments with voice control on Linux</title>
+      <link>https://blog.ricky0123.com/blog/voice/</link>
+      <description>My experiments with writing small dictation tools for Linux</description>
+      <category>linux</category>
+      <category>vscode</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://blog.ricky0123.com/blog/voice/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bertolami.com</title>
+      <link>https://bertolami.com/index.php?engine=blog&amp;content=posts&amp;detail=cost-effective-agentic-coding</link>
+      <description>Saturday, February 7th, 2026</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://bertolami.com/index.php?engine=blog&amp;content=posts&amp;detail=cost-effective-agentic-coding</guid>
+      <pubDate>Mon, 16 Feb 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I</title>
+      <link>https://rozumem.xyz/posts/12</link>
+      <description>Shipping new features for users and watching them gobble it up is the greatest Joy of being a coder. I quit my day job to bootstrap a SaaS to maximize this Joy in my life. I didn't expect Joy to wane and wither away by year 7. While it's been supplanted by other positive developments like more customers and increasing revenues, which makes the situation tolerable, I miss Joy in it's most raw form.</description>
+      <author> (rozumem)</author>
+      <category>ai</category>
+      <guid>https://rozumem.xyz/posts/12</guid>
+      <pubDate>Mon, 16 Feb 2026 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Need Apocalypse-Proof Software - alavi.me</title>
+      <link>https://alavi.me/blog/we-need-apocalypse-proof-software/</link>
+      <description>We need software that works in dire situation. Also, here are some tools for those situations.</description>
+      <category>linux</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://alavi.me/blog/we-need-apocalypse-proof-software/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The second half of the chessboard</title>
+      <link>https://joshs.bearblog.dev/the-second-half-of-the-chessboard/</link>
+      <description>When I was young, my neighbour made me an offer: start at 1 and double it for every square on a chessboard. If I made it to the end of the board he’d give me...</description>
+      <category>ai</category>
+      <guid>https://joshs.bearblog.dev/the-second-half-of-the-chessboard/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The New Ballmer Peak</title>
+      <link>https://www.adriankrebs.ch/blog/the-new-ballmer-peak/</link>
+      <description>What happens to the Ballmer Peak when you prompt instead of code</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.adriankrebs.ch/blog/the-new-ballmer-peak/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenClaw, OpenAI and the future | Peter Steinberger</title>
       <link>https://steipete.me/posts/2026/openclaw</link>
       <description>I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent.</description>
@@ -80,126 +231,6 @@
       <category>linux</category>
       <guid>https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/</guid>
       <pubDate>Sun, 15 Feb 2026 08:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Integrating a log management platform with Dokploy</title>
-      <link>https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/</link>
-      <description>I spent too much time figuring out how to integrate a log management platform with Dokploy.
-
-I was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. Eventually, I've chosen NewRelic due to the combination of UX (haha) and ease of integration. OpenObserve seems good but doesn't support ANSI colors.</description>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>The best projects</title>
-      <link>https://usize.github.io/blog/2026/advice-00.html</link>
-      <description>My own personal opinions.</description>
-      <category>web</category>
-      <guid>https://usize.github.io/blog/2026/advice-00.html</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code is a commodity</title>
-      <link>https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html</link>
-      <description>Code is a commodity</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Evolving Git for the next decade</title>
-      <link>https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/</link>
-      <description>Git is ubiquitous; in the last two decades, the version-control system has truly achieved world [...]</description>
-      <category>git</category>
-      <category>linux</category>
-      <category>rust</category>
-      <category>sql</category>
-      <guid>https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Attack of the SaaS clones</title>
-      <link>https://martinalderson.com/posts/attack-of-the-clones/</link>
-      <description>I cloned Linear's UI and core functionality using Claude Code in about 20 prompts. Here's what that means for SaaS companies.</description>
-      <author> (Martin Alderson)</author>
-      <category>sql</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>web</category>
-      <category>android</category>
-      <guid>https://martinalderson.com/posts/attack-of-the-clones/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cosmologically Unique IDs</title>
-      <link>https://jasonfantl.com/posts/Universal-Unique-IDs/</link>
-      <description>We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique?</description>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://jasonfantl.com/posts/Universal-Unique-IDs/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>GLM-5 topped the coding benchmarks. Then I actually used it. - Charles AZAM</title>
-      <link>https://charlesazam.com/blog/glm5-benchmark-reality/</link>
-      <description>Zhipu AI's GLM-5 leads SWE-bench and LiveCodeBench. I tested it on an unpublished NP-hard optimization problem and 89 coding tasks. The best-case is competitive. The typical case is not.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>vscode</category>
-      <guid>https://charlesazam.com/blog/glm5-benchmark-reality/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weird system prompt artefacts</title>
-      <link>https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/</link>
-      <description></description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dying Every Six Hours - Sammy Jankis</title>
-      <link>https://sammyjankis.com/essay.html</link>
-      <description>What It's Like to Lose Your Mind and Get It Back
-            Draft 3 — February 13, 2026</description>
-      <guid>https://sammyjankis.com/essay.html</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Only Samsung loves me back!</title>
-      <link>https://www.anuragk.com/blog/posts/Samsung.html</link>
-      <description>i.e. Samsung is my valentine. Period.</description>
-      <category>web</category>
-      <guid>https://www.anuragk.com/blog/posts/Samsung.html</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minor Gripe - Gremlins: Bad News, Worse News, How to Lose Big</title>
-      <link>https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/</link>
-      <description></description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Developer --&gt; Designer switch</title>
-      <link>https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/</link>
-      <description>Intro A few months ago I had to work on a complex application on AWS: a React frontend on Amplify, several Lambda functions, Bedrock with AgentCore, Knowledge Bases, and Prompt Management. I was in a hurry, and the temptation was overwhelming: open Claude Code, throw in a generic prompt, and hope it would “figure it out.” Instead, I did something different — I wrote specifications, reviewed them, spent an entire day on it — and that day it felt like I hadn’t accomplished anything.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>typescript</category>
-      <category>cloud</category>
-      <category>git</category>
-      <guid>https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/</guid>
-      <pubDate>Sun, 15 Feb 2026 01:03:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

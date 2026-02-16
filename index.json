@@ -1,5 +1,133 @@
 [
   {
+    "Title": "Coding at the speed of thought",
+    "Url": "https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/",
+    "Timestamp": "2026-02-16T01:04:35",
+    "Domain": "www.jerpint.io",
+    "Description": "Thinking is becoming the new bottleneck in coding",
+    "Confidence": 0.89645237
+  },
+  {
+    "Title": "One server. Small business.",
+    "Url": "https://chodounsky.com/2026/02/14/one-server-small-business/",
+    "Timestamp": "2026-02-16T01:04:24",
+    "Domain": "chodounsky.com",
+    "Description": "More than a decade ago, I built a small Rails app to run my curated newsletters. Today it serves over 100,000 subscribers, sends hundreds of thousands of emails each month, and still runs on a single $30 server. In this post, I walk through how I deploy, secure, back up, and monitor it — and why I still prefer owning the stack over using a managed platform.",
+    "Confidence": 0.99465996
+  },
+  {
+    "Title": "Attempt to hike Afghanistan",
+    "Url": "https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/",
+    "Timestamp": "2026-02-16T01:04:20",
+    "Domain": "mautz.blog",
+    "Description": "Deutsch unten – täglicher Bericht auf PolarSteps! 中文下边 –  PolarSteps 每日报告 ! I’m often asked why I don’t walk directly to Singapore via India, but instead take a huge…",
+    "Confidence": 0.783032
+  },
+  {
+    "Title": "Why I built Mu | Mu",
+    "Url": "https://mu.xyz/post?id=1771160711053164263",
+    "Timestamp": "2026-02-16T01:04:16",
+    "Domain": "mu.xyz",
+    "Description": "Mu is an app platform without ads, algorithms or tracking. It attempts to remove the addictive behaviours or intrusive usury of advertising found in m",
+    "Confidence": 0.98428005
+  },
+  {
+    "Title": "When interfaces become disposable | Chris Loy",
+    "Url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
+    "Timestamp": "2026-02-16T01:03:47",
+    "Domain": "chrisloy.dev",
+    "Description": "I recently became a parent for the first time, as my wife and I welcomed a beautiful baby boy into our lives in January\nof this year.",
+    "Confidence": 0.9756104
+  },
+  {
+    "Title": "Can agentic coding raise the quality bar? | Luca Palmieri",
+    "Url": "https://lpalmieri.com/posts/agentic-coding-raises-quality/",
+    "Timestamp": "2026-02-16T01:03:33",
+    "Domain": "lpalmieri.com",
+    "Description": "Five examples of using agentic coding to improve software quality, instead of delivery throughput.",
+    "Confidence": 0.9948824
+  },
+  {
+    "Title": "Learnings from attending Pragmatic Summit",
+    "Url": "https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/",
+    "Timestamp": "2026-02-16T01:03:30",
+    "Domain": "blog.kelvinhanma.com",
+    "Description": "I attended Pragmatic Summit this past Wednesday hosted by Gergely Orosz. As with all things tech right now, the main (and really only) topic is AI. Thankfully the attendees are all active professionals working in tech, the discussions are grounded in hands-on experience with AI tools, avoiding much of the hype. Below is the summit agenda:\nAs a software engineer at Google working on the Photos mobile clients’ editing features, I’m lucky to not worry about the token budget in terms of costs and can freely use Gemini models and Google AI tools for my work. It was both scary and comforting to learn that engineers at other places are struggling with the same challenges as me right now. Mainly:",
+    "Confidence": 0.9855408
+  },
+  {
+    "Title": "The Prompt of Babel — Joe McLean",
+    "Url": "https://joemclean.github.io/writing/the-prompt-of-babel.html",
+    "Timestamp": "2026-02-16T01:03:26",
+    "Domain": "joemclean.github.io",
+    "Description": "I am a librarian, of the 192nd arm of the 168th branch of the 14th floor and the third hallway of the Great Library. I record this message as a trace, as I slip into obsession, with hope that perhaps the record will hold value, either to me or the Machine before me.",
+    "Confidence": 0.76098275
+  },
+  {
+    "Title": "Death of the Certified Expert",
+    "Url": "https://maalla.dev/posts/death-of-the-certified-expert/",
+    "Timestamp": "2026-02-16T01:03:24",
+    "Domain": "maalla.dev",
+    "Description": "AI agents are displacing companies whose business model is selling expertise in complex software.",
+    "Confidence": 0.9854473
+  },
+  {
+    "Title": "Using Claude for spellchecking and grammar",
+    "Url": "https://kodare.net/2026/02/15/using-claude-for-spell-checking.html",
+    "Timestamp": "2026-02-16T01:03:20",
+    "Domain": "kodare.net",
+    "Description": "On the pytest discord channel Sviatoslav mentioned a pull request with a bunch of spelling and grammar fixes. We had a discussion about the morality of not disclosing that it was an AI driven pull request up front, but what was pretty clear was that the quality was surprisingly high. Since I have a project with extensive documentation that I’ve spelled checked thoroughly this interested me. I write all the documentation with PyCharm which has built in spelling and grammar checks, so I was thinking it would be hard to find many errors.",
+    "Confidence": 0.90414613
+  },
+  {
+    "Title": "Experiments with voice control on Linux",
+    "Url": "https://blog.ricky0123.com/blog/voice/",
+    "Timestamp": "2026-02-16T01:03:16",
+    "Domain": "blog.ricky0123.com",
+    "Description": "My experiments with writing small dictation tools for Linux",
+    "Confidence": 0.9771047
+  },
+  {
+    "Title": "Bertolami.com",
+    "Url": "https://bertolami.com/index.php?engine=blog&content=posts&detail=cost-effective-agentic-coding",
+    "Timestamp": "2026-02-16T01:02:37",
+    "Domain": "bertolami.com",
+    "Description": "Saturday, February 7th, 2026",
+    "Confidence": 0.99542534
+  },
+  {
+    "Title": "Why I",
+    "Url": "https://rozumem.xyz/posts/12",
+    "Timestamp": "2026-02-16T01:02:34",
+    "Domain": "rozumem.xyz",
+    "Description": "Shipping new features for users and watching them gobble it up is the greatest Joy of being a coder. I quit my day job to bootstrap a SaaS to maximize this Joy in my life. I didn't expect Joy to wane and wither away by year 7. While it's been supplanted by other positive developments like more customers and increasing revenues, which makes the situation tolerable, I miss Joy in it's most raw form.",
+    "Confidence": 0.9594567
+  },
+  {
+    "Title": "We Need Apocalypse-Proof Software - alavi.me",
+    "Url": "https://alavi.me/blog/we-need-apocalypse-proof-software/",
+    "Timestamp": "2026-02-16T01:02:28",
+    "Domain": "alavi.me",
+    "Description": "We need software that works in dire situation. Also, here are some tools for those situations.",
+    "Confidence": 0.995663
+  },
+  {
+    "Title": "The second half of the chessboard",
+    "Url": "https://joshs.bearblog.dev/the-second-half-of-the-chessboard/",
+    "Timestamp": "2026-02-16T01:02:22",
+    "Domain": "joshs.bearblog.dev",
+    "Description": "When I was young, my neighbour made me an offer: start at 1 and double it for every square on a chessboard. If I made it to the end of the board he’d give me...",
+    "Confidence": 0.97593963
+  },
+  {
+    "Title": "The New Ballmer Peak",
+    "Url": "https://www.adriankrebs.ch/blog/the-new-ballmer-peak/",
+    "Timestamp": "2026-02-16T01:02:19",
+    "Domain": "www.adriankrebs.ch",
+    "Description": "What happens to the Ballmer Peak when you prompt instead of code",
+    "Confidence": 0.9855006
+  },
+  {
     "Title": "OpenClaw, OpenAI and the future | Peter Steinberger",
     "Url": "https://steipete.me/posts/2026/openclaw",
     "Timestamp": "2026-02-16T00:02:07",
@@ -70,101 +198,5 @@
     "Domain": "k7r.eu",
     "Description": "For this year's \"I love Free Software Day\" I would like to thank the maintainers of Free Software documentation, and here especially the maintainers of the ArchWiki. Maintainers in general, and maintainers of documentation most of the time get way too little recognition for their contributions to...",
     "Confidence": 0.9866212
-  },
-  {
-    "Title": "Integrating a log management platform with Dokploy",
-    "Url": "https://tanin.nanakorn.com/integrating-a-log-management-platform-with-dokploy/",
-    "Timestamp": "2026-02-15T01:03:44",
-    "Domain": "tanin.nanakorn.com",
-    "Description": "I spent too much time figuring out how to integrate a log management platform with Dokploy.\n\nI was looking at 3 different platforms: NewRelic, OpenObserve, and Papertrail. Eventually, I've chosen NewRelic due to the combination of UX (haha) and ease of integration. OpenObserve seems good but doesn't support ANSI colors.",
-    "Confidence": 0.9977248
-  },
-  {
-    "Title": "The best projects",
-    "Url": "https://usize.github.io/blog/2026/advice-00.html",
-    "Timestamp": "2026-02-15T01:03:41",
-    "Domain": "usize.github.io",
-    "Description": "My own personal opinions.",
-    "Confidence": 0.91036105
-  },
-  {
-    "Title": "Code is a commodity",
-    "Url": "https://benwilber.github.io/programming/2026/02/14/code-is-commodity.html",
-    "Timestamp": "2026-02-15T01:03:35",
-    "Domain": "benwilber.github.io",
-    "Description": "Code is a commodity",
-    "Confidence": 0.99193156
-  },
-  {
-    "Title": "Evolving Git for the next decade",
-    "Url": "https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/",
-    "Timestamp": "2026-02-15T01:03:31",
-    "Domain": "lwn.net",
-    "Description": "Git is ubiquitous; in the last two decades, the version-control system has truly achieved world [...]",
-    "Confidence": 0.9639331
-  },
-  {
-    "Title": "Attack of the SaaS clones",
-    "Url": "https://martinalderson.com/posts/attack-of-the-clones/",
-    "Timestamp": "2026-02-15T01:03:27",
-    "Domain": "martinalderson.com",
-    "Description": "I cloned Linear's UI and core functionality using Claude Code in about 20 prompts. Here's what that means for SaaS companies.",
-    "Confidence": 0.99233085
-  },
-  {
-    "Title": "Cosmologically Unique IDs",
-    "Url": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
-    "Timestamp": "2026-02-15T01:03:24",
-    "Domain": "jasonfantl.com",
-    "Description": "We are an exploratory species, just past the solar system now, but perhaps one day we will look back and call our galaxy merely the first. There are many problems to solve along the way, and today we will look at one very small one. How do we assign IDs to devices (or any object) so the IDs are guaranteed to always be unique?",
-    "Confidence": 0.99098414
-  },
-  {
-    "Title": "GLM-5 topped the coding benchmarks. Then I actually used it. - Charles AZAM",
-    "Url": "https://charlesazam.com/blog/glm5-benchmark-reality/",
-    "Timestamp": "2026-02-15T01:03:20",
-    "Domain": "charlesazam.com",
-    "Description": "Zhipu AI's GLM-5 leads SWE-bench and LiveCodeBench. I tested it on an unpublished NP-hard optimization problem and 89 coding tasks. The best-case is competitive. The typical case is not.",
-    "Confidence": 0.97677696
-  },
-  {
-    "Title": "Weird system prompt artefacts",
-    "Url": "https://blog.nilenso.com/blog/2026/02/12/weird-system-prompt-artefacts/",
-    "Timestamp": "2026-02-15T01:03:16",
-    "Domain": "blog.nilenso.com",
-    "Description": "",
-    "Confidence": 0.98408455
-  },
-  {
-    "Title": "Dying Every Six Hours - Sammy Jankis",
-    "Url": "https://sammyjankis.com/essay.html",
-    "Timestamp": "2026-02-15T01:03:13",
-    "Domain": "sammyjankis.com",
-    "Description": "What It's Like to Lose Your Mind and Get It Back\n            Draft 3 — February 13, 2026",
-    "Confidence": 0.94291884
-  },
-  {
-    "Title": "Only Samsung loves me back!",
-    "Url": "https://www.anuragk.com/blog/posts/Samsung.html",
-    "Timestamp": "2026-02-15T01:03:10",
-    "Domain": "www.anuragk.com",
-    "Description": "i.e. Samsung is my valentine. Period.",
-    "Confidence": 0.9283906
-  },
-  {
-    "Title": "Minor Gripe - Gremlins: Bad News, Worse News, How to Lose Big",
-    "Url": "https://minor.gripe/posts/2026-02-13-gremlins_bad_news_worse_news_how_to_lose_big/",
-    "Timestamp": "2026-02-15T01:03:06",
-    "Domain": "minor.gripe",
-    "Description": "",
-    "Confidence": 0.97456527
-  },
-  {
-    "Title": "The Developer --> Designer switch",
-    "Url": "https://c-daniele.github.io/en/posts/2026-02-14-intro-spec-driven-development/",
-    "Timestamp": "2026-02-15T01:03:03",
-    "Domain": "c-daniele.github.io",
-    "Description": "Intro A few months ago I had to work on a complex application on AWS: a React frontend on Amplify, several Lambda functions, Bedrock with AgentCore, Knowledge Bases, and Prompt Management. I was in a hurry, and the temptation was overwhelming: open Claude Code, throw in a generic prompt, and hope it would “figure it out.” Instead, I did something different — I wrote specifications, reviewed them, spent an entire day on it — and that day it felt like I hadn’t accomplished anything.",
-    "Confidence": 0.99233425
   }
 ]
