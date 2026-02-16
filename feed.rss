@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI is destroying Open Source, and it's not even good yet</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</link>
+      <description>Over the weekend Ars Technica retracted an article because the AI a writer used hallucinated quotes from an open source library maintainer.
+The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
+It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</guid>
+      <pubDate>Mon, 16 Feb 2026 22:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SNEWS</title>
+      <link>https://xkcd.com/3208/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3208/</guid>
+      <pubDate>Mon, 16 Feb 2026 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Why “Skip the Code, Ship the Binary” Is a Category Error</title>
       <link>https://engrlog.substack.com/p/why-skip-the-code-ship-the-binary?r=779hy&amp;amp;showWelcomeOnShare=true&amp;triedRedirect=true</link>
       <description>Elon Musk says AI will make programming languages obsolete by 2026. The compiler pipeline already does what he’s describing, deterministically, in milliseconds.</description>
@@ -229,13 +248,6 @@ As a software engineer at Google working on the Photos mobile clients’ editing
       <description>A 6502 based laptop design. Contribute to TechPaula/LT6502 development by creating an account on GitHub.</description>
       <guid>https://github.com/TechPaula/LT6502</guid>
       <pubDate>Sun, 15 Feb 2026 23:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hideki Sato, designer of all Sega’s consoles, has died | VGC</title>
-      <link>https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/</link>
-      <description>Sato helmed design for consoles including Mega Drive, Saturn…</description>
-      <guid>https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/</guid>
-      <pubDate>Sun, 15 Feb 2026 22:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

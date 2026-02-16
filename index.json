@@ -1,5 +1,21 @@
 [
   {
+    "Title": "AI is destroying Open Source, and it's not even good yet",
+    "Url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+    "Timestamp": "2026-02-16T22:02:11",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Over the weekend Ars Technica retracted an article because the AI a writer used hallucinated quotes from an open source library maintainer.\nThe irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.\nIt's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to \"work on bringing agents to everyone.\" You'll have to forgive me if I'm not enthusastic about that.",
+    "Confidence": 0.88672835
+  },
+  {
+    "Title": "SNEWS",
+    "Url": "https://xkcd.com/3208/",
+    "Timestamp": "2026-02-16T22:02:05",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Why “Skip the Code, Ship the Binary” Is a Category Error",
     "Url": "https://engrlog.substack.com/p/why-skip-the-code-ship-the-binary?r=779hy&amp;showWelcomeOnShare=true&triedRedirect=true",
     "Timestamp": "2026-02-16T13:02:05",
@@ -182,13 +198,5 @@
     "Domain": "github.com",
     "Description": "A 6502 based laptop design. Contribute to TechPaula/LT6502 development by creating an account on GitHub.",
     "Confidence": 0.98717517
-  },
-  {
-    "Title": "Hideki Sato, designer of all Sega’s consoles, has died | VGC",
-    "Url": "https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/",
-    "Timestamp": "2026-02-15T22:02:06",
-    "Domain": "www.videogameschronicle.com",
-    "Description": "Sato helmed design for consoles including Mega Drive, Saturn…",
-    "Confidence": 0.50891596
   }
 ]
