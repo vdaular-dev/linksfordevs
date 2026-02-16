@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Khronos Announces glTF Gaussian Splatting Extension",
+    "Url": "https://www.khronos.org/news/press/gltf-gaussian-splatting-press-release",
+    "Timestamp": "2026-02-16T23:02:17",
+    "Domain": "www.khronos.org",
+    "Description": "Today, The Khronos Group, announces a release candidate for the…",
+    "Confidence": 0.8380353
+  },
+  {
     "Title": "AI is destroying Open Source, and it's not even good yet",
     "Url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
     "Timestamp": "2026-02-16T22:02:11",
@@ -190,13 +198,5 @@
     "Domain": "steipete.me",
     "Description": "I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent.",
     "Confidence": 0.9346587
-  },
-  {
-    "Title": "GitHub - TechPaula/LT6502: A 6502 based laptop design",
-    "Url": "https://github.com/TechPaula/LT6502",
-    "Timestamp": "2026-02-15T23:02:11",
-    "Domain": "github.com",
-    "Description": "A 6502 based laptop design. Contribute to TechPaula/LT6502 development by creating an account on GitHub.",
-    "Confidence": 0.98717517
   }
 ]
