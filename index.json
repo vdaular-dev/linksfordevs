@@ -1,5 +1,253 @@
 [
   {
+    "Title": "A/B Testing Your RAG Pipeline: Chunking, Retrieval, and Reranking Strategies You Can Build With One Prompt Each | Rasha Hantash",
+    "Url": "https://www.rasha.me/blog/rag-pipeline-claude-code-agent-teams",
+    "Timestamp": "2026-02-17T01:04:24",
+    "Domain": "www.rasha.me",
+    "Description": "How to quickly build and compare RAG pipeline variants — cosine vs. hybrid search, fixed vs. semantic chunking, Cohere vs. cross-encoder reranking — using Claude Code, Graphite stacks, and your own offline evals.",
+    "Confidence": 0.9909283
+  },
+  {
+    "Title": "Break Stasis",
+    "Url": "https://oldmanrahul.com/2026/02/15/break-stasis/",
+    "Timestamp": "2026-02-17T01:04:22",
+    "Domain": "oldmanrahul.com",
+    "Description": "Personal Musings and Transcripts",
+    "Confidence": 0.9343058
+  },
+  {
+    "Title": "Plan it, Work it, Review it, Reflect it",
+    "Url": "https://ai.unicrons.cloud/en/2026/02/15/plan-it-work-it-review-it-reflect-it/",
+    "Timestamp": "2026-02-17T01:04:19",
+    "Domain": "ai.unicrons.cloud",
+    "Description": "Our workflow for working with AI agents: create, plan, implement, review and reflect.",
+    "Confidence": 0.98193824
+  },
+  {
+    "Title": "Rob Panico - You Never See the Whole Shape at Once",
+    "Url": "https://www.robpanico.com/articles/display/?entry_short=you-never-see-the-whole-shape-at-once",
+    "Timestamp": "2026-02-17T01:04:15",
+    "Domain": "www.robpanico.com",
+    "Description": "A tesseract can never be seen all at once—only through partial, time-bound projections—and that limitation turns out to be the point. What looks contradictory from a single frame often reveals coherence when allowed to rotate over time. This essay uses the geometry of higher dimensions to explore why certainty fractures complex things, and why humility toward incomplete views is not weakness but structural necessity.",
+    "Confidence": 0.9819778
+  },
+  {
+    "Title": "Experiments with CodeMirror - Blog - aziis98",
+    "Url": "https://aziis98.com/blog/codemirror-review-tool/",
+    "Timestamp": "2026-02-17T01:04:11",
+    "Domain": "aziis98.com",
+    "Description": "This is a tutorial on writing a simple code review interface with CodeMirror 6 and the unified merge extension.",
+    "Confidence": 0.9978229
+  },
+  {
+    "Title": "Evaluate Your Own RAG: Why Best Practices Failed Us - Charles AZAM",
+    "Url": "https://charlesazam.com/blog/rag/",
+    "Timestamp": "2026-02-17T01:04:07",
+    "Domain": "charlesazam.com",
+    "Description": "We benchmarked our production RAG system across embedding models, chunk sizes, chunking strategies, and retrieval modes. The results contradicted common wisdom.",
+    "Confidence": 0.99560976
+  },
+  {
+    "Title": "On Dyslexia, Programming and Lisp. — Relections on Software Engineering",
+    "Url": "https://www.iwillig.me/blog/on-dyslexia-and-lisp/",
+    "Timestamp": "2026-02-17T01:04:03",
+    "Domain": "www.iwillig.me",
+    "Description": "Dyslexia is a difference in the way the brain processes language. It is often defined as the difference between intelligence (vaguely defined via the fake IQ test) and a person's ability to read. That is, a dyslexic with normal intelligence will underperform compared to their peers in learning how to read. There are many different theories on what the cause is, but most people believe that there are fundamental differences between the brains of people who have dyslexia and those that do not. In Maryanne Wolf's book, Dyslexia, Fluency, and the Brain, several essays point to a physical difference in the density of specialized brain cells that the brain uses to process letter shapes. It has become clear recently from fMRIs that dyslexics actually develop unique neural pathways for reading that are located in the right side of the brain compared to the normal left-side-dominated reading pathways. However, a root cause has not been identified, and the jury is still out. Dyslexia varies considerably, with up to 15% of the population experiencing some form of it.",
+    "Confidence": 0.9706914
+  },
+  {
+    "Title": "Type-based alias analysis in the Toy Optimizer",
+    "Url": "https://bernsteinbear.com/blog/toy-tbaa/",
+    "Timestamp": "2026-02-17T01:04:00",
+    "Domain": "bernsteinbear.com",
+    "Description": "Another entry in the Toy Optimizer series.",
+    "Confidence": 0.9980123
+  },
+  {
+    "Title": "Inside Claude Cowork: How Anthropic Runs Claude Code in a Local VM on Your Mac",
+    "Url": "https://pvieito.com/2026/01/inside-claude-cowork",
+    "Timestamp": "2026-02-17T01:03:56",
+    "Domain": "pvieito.com",
+    "Description": "",
+    "Confidence": 0.95635414
+  },
+  {
+    "Title": "Things I Check Before Opening a PR",
+    "Url": "https://www.jakeworth.com/posts/things-i-check-before-opening-a-pr/",
+    "Timestamp": "2026-02-17T01:03:53",
+    "Domain": "www.jakeworth.com",
+    "Description": "What is a programmer but a series of PRs (pull requests)? I optimize PRs to introduce the best code I can, be easy to review, and document my work so I can make sense of it in the future. Here are some things I always check before opening a PR.",
+    "Confidence": 0.9834942
+  },
+  {
+    "Title": "Dario Amodei — The Adolescence of Technology",
+    "Url": "https://darioamodei.com/essay/the-adolescence-of-technology",
+    "Timestamp": "2026-02-17T01:03:49",
+    "Domain": "darioamodei.com",
+    "Description": "Confronting and Overcoming the Risks of Powerful AI",
+    "Confidence": 0.9674208
+  },
+  {
+    "Title": "Trying New Things",
+    "Url": "https://daoudclarke.net/2026/02/16/trying-new-things",
+    "Timestamp": "2026-02-17T01:03:46",
+    "Domain": "daoudclarke.net",
+    "Description": "16 February 2026",
+    "Confidence": 0.97928417
+  },
+  {
+    "Title": "Menelaos Vergis",
+    "Url": "https://menelaos.vergis.net/posts/Why-I-Finally-Stopped-Designing-My-CV-and-Started-Coding-It",
+    "Timestamp": "2026-02-17T01:03:43",
+    "Domain": "menelaos.vergis.net",
+    "Description": "Things I work on",
+    "Confidence": 0.99137837
+  },
+  {
+    "Title": "Personal Software | Matt Spear",
+    "Url": "https://mattspear.co/blog/personal-software",
+    "Timestamp": "2026-02-17T01:03:39",
+    "Domain": "mattspear.co",
+    "Description": "I built a habit tracker, a tab manager, a task board, and an AI assistant. None are products. They're personal software – and soon everyone will have their own.",
+    "Confidence": 0.98789495
+  },
+  {
+    "Title": "Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based)",
+    "Url": "https://rmendes.net/content/articles/2026-02-14-deploying-your-own-indieweb-site/",
+    "Timestamp": "2026-02-17T01:03:36",
+    "Domain": "rmendes.net",
+    "Description": "Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based) 14 February 2026 indiekit indieweb deploy eleventy A complete guide to deploying [Indiekit](https://getindiekit.com) on...",
+    "Confidence": 0.9843786
+  },
+  {
+    "Title": "The Long Tail of LLM-Assisted Decompilation",
+    "Url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "Timestamp": "2026-02-17T01:03:31",
+    "Domain": "blog.chrislewis.au",
+    "Description": "After rapid advances thanks to one-shot decompilation, progress on the Snowboard Kids 2 decompilation began to falter. This post explores the workflow evolution, tooling improvements, and fundamental LLM limits that emerged when tackling the long tail of increasingly difficult functions.",
+    "Confidence": 0.9880696
+  },
+  {
+    "Title": "The Move Faster Manifesto",
+    "Url": "https://brianguthrie.com/p/the-move-faster-manifesto/",
+    "Timestamp": "2026-02-17T01:03:28",
+    "Domain": "brianguthrie.com",
+    "Description": "Lessons for shipping software quickly by skipping the grind",
+    "Confidence": 0.96940833
+  },
+  {
+    "Title": "Brent Benson - A custom app creation renaissance",
+    "Url": "https://brentwbenson.org/posts/custom-app-enablement/",
+    "Timestamp": "2026-02-17T01:03:25",
+    "Domain": "brentwbenson.org",
+    "Description": "There is a change in the calculus of what is achievable with a sketch and a 10 minute conversation",
+    "Confidence": 0.9832111
+  },
+  {
+    "Title": "You're Probably Pronouncing \"Ubuntu\" Wrong",
+    "Url": "https://www.rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/",
+    "Timestamp": "2026-02-17T01:03:21",
+    "Domain": "www.rly0nheart.com",
+    "Description": "Ritchie Mwewa",
+    "Confidence": 0.81386274
+  },
+  {
+    "Title": "A Love Letter to Self-Hosting",
+    "Url": "https://lukaswerner.com/post/2026-02-13@self-hosting-letter",
+    "Timestamp": "2026-02-17T01:03:18",
+    "Domain": "lukaswerner.com",
+    "Description": "I’ve tried to put to paper why I love self-hosting; yet I’ve never been fully able to accurately describe what I love about it. Perhaps it is the digital sovereignty, or the rejection of living on the internet and renting my space, or perhaps it is a way of feeling closer to the software I use. Either way it is something that matters a great deal to me.",
+    "Confidence": 0.98170847
+  },
+  {
+    "Title": "R.I.P. Rest In Prompt – Hugo Daniel",
+    "Url": "https://hugodaniel.com/posts/rip-rest-in-prompt/",
+    "Timestamp": "2026-02-17T01:03:15",
+    "Domain": "hugodaniel.com",
+    "Description": "Architecture designed for machine collaboration",
+    "Confidence": 0.9840822
+  },
+  {
+    "Title": "The speed of building has outpaced the thinking: why we need a new moral standard for AI development",
+    "Url": "https://www.eliostruyf.com/killing-indie-development-with-ai/",
+    "Timestamp": "2026-02-17T01:03:07",
+    "Domain": "www.eliostruyf.com",
+    "Description": "Explore the impact of AI on indie development and the need for a moral compass in coding. Are we sacrificing quality for speed?",
+    "Confidence": 0.9894969
+  },
+  {
+    "Title": "Harnessing Postgres race conditions",
+    "Url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+    "Timestamp": "2026-02-17T01:03:03",
+    "Domain": "www.lirbank.com",
+    "Description": "Synchronization barriers let you test for race conditions with confidence.",
+    "Confidence": 0.99585414
+  },
+  {
+    "Title": "xavxav - Software Archeology in 2026",
+    "Url": "https://xav.io/blog/software-archeology/",
+    "Timestamp": "2026-02-17T01:03:00",
+    "Domain": "xav.io",
+    "Description": "February 16, 2026",
+    "Confidence": 0.97924936
+  },
+  {
+    "Title": "Mark Nguyen",
+    "Url": "https://mark-n.co/blog/living-a-life-less-lonely/",
+    "Timestamp": "2026-02-17T01:02:56",
+    "Domain": "mark-n.co",
+    "Description": "Mark Nguyen. Full stack software developer and designer",
+    "Confidence": 0.95578223
+  },
+  {
+    "Title": "Do LLMs hallucinate more in Czech than in English? – Miloš Švaňa",
+    "Url": "https://svana.name/2026/02/do-llms-hallucinate-more-in-czech-than-in-english/",
+    "Timestamp": "2026-02-17T01:02:53",
+    "Domain": "svana.name",
+    "Description": "Having explored hallucination benchmarks for LLMs, I’ve decided to use the TruthfulQA dataset to see if LLMs hallucinate more when I talk to them in Czech instead of English.",
+    "Confidence": 0.96932304
+  },
+  {
+    "Title": "I built a coding agent two months before ChatGPT existed",
+    "Url": "https://solmaz.io/log/2026/02/13/coding-agent-before-chatgpt/",
+    "Timestamp": "2026-02-17T01:02:46",
+    "Domain": "solmaz.io",
+    "Description": "I built a coding agent back in 2022, 2 months before ChatGPT launched:",
+    "Confidence": 0.98431766
+  },
+  {
+    "Title": "Why do I feel bad following recommendation algorithms?",
+    "Url": "https://edwardbx.com/articles/recommendation-algorithms/",
+    "Timestamp": "2026-02-17T01:02:43",
+    "Domain": "edwardbx.com",
+    "Description": "How can I still find interesting things without them?",
+    "Confidence": 0.973848
+  },
+  {
+    "Title": "Peer-reviewers in the coal mine? About AI & employment",
+    "Url": "https://www.ericburel.tech/blog/ai-impact-employment-and-peer-review",
+    "Timestamp": "2026-02-17T01:02:40",
+    "Domain": "www.ericburel.tech",
+    "Description": "Maybe Section 174 killed Brynjolfsson canaries. Maybe it's indeed AI. This article is about how you should treat working papers as working papers and give more love to the process of peer-reviewing.",
+    "Confidence": 0.8299766
+  },
+  {
+    "Title": "Words are a Leaky Abstraction",
+    "Url": "https://brianschrader.com/archive/words-are-a-leaky-abstraction/",
+    "Timestamp": "2026-02-17T01:02:36",
+    "Domain": "brianschrader.com",
+    "Description": "Something about hearing the phrase \"Claude's Soul Document\" got me thinking again about a problem I've long pondered. Software folks, like myself, have a long and proud history of taking words that exist and coopting them, manipulating the meaning of those words into feeble shadows of their former selfs. Tech people and tech companies do this on accident and on purpose, both because it can be useful to reduce a human concept to something simpler to quantify and because its easier to market and sell. Machine Learning, an academic term, becomes Artificial Intelligence and the word \"Intelligence\" is defined down in order to be achievable.",
+    "Confidence": 0.98823255
+  },
+  {
+    "Title": "Get a portable monitor, they’re great",
+    "Url": "https://davidgerard.co.uk/blockchain/2025/02/11/get-a-portable-monitor-theyre-great/",
+    "Timestamp": "2026-02-17T01:02:33",
+    "Domain": "davidgerard.co.uk",
+    "Description": "An exciting new form of gadget — portable monitors! Light, 10” to 21”, USB-C power, signal via USB-C or mini-HDMI. And portable.",
+    "Confidence": 0.8645142
+  },
+  {
     "Title": "Use Protocols, Not Services",
     "Url": "https://notnotp.com/notes/use-protocols-not-services/",
     "Timestamp": "2026-02-17T00:02:05",
@@ -70,133 +318,5 @@
     "Domain": "modern-css.com",
     "Description": "A collection of modern CSS code snippets. Every old CSS hack next to its clean, native replacement, side by side.",
     "Confidence": 0.99259144
-  },
-  {
-    "Title": "Coding at the speed of thought",
-    "Url": "https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/",
-    "Timestamp": "2026-02-16T01:04:35",
-    "Domain": "www.jerpint.io",
-    "Description": "Thinking is becoming the new bottleneck in coding",
-    "Confidence": 0.89645237
-  },
-  {
-    "Title": "One server. Small business.",
-    "Url": "https://chodounsky.com/2026/02/14/one-server-small-business/",
-    "Timestamp": "2026-02-16T01:04:24",
-    "Domain": "chodounsky.com",
-    "Description": "More than a decade ago, I built a small Rails app to run my curated newsletters. Today it serves over 100,000 subscribers, sends hundreds of thousands of emails each month, and still runs on a single $30 server. In this post, I walk through how I deploy, secure, back up, and monitor it — and why I still prefer owning the stack over using a managed platform.",
-    "Confidence": 0.99465996
-  },
-  {
-    "Title": "Attempt to hike Afghanistan",
-    "Url": "https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/",
-    "Timestamp": "2026-02-16T01:04:20",
-    "Domain": "mautz.blog",
-    "Description": "Deutsch unten – täglicher Bericht auf PolarSteps! 中文下边 –  PolarSteps 每日报告 ! I’m often asked why I don’t walk directly to Singapore via India, but instead take a huge…",
-    "Confidence": 0.783032
-  },
-  {
-    "Title": "Why I built Mu | Mu",
-    "Url": "https://mu.xyz/post?id=1771160711053164263",
-    "Timestamp": "2026-02-16T01:04:16",
-    "Domain": "mu.xyz",
-    "Description": "Mu is an app platform without ads, algorithms or tracking. It attempts to remove the addictive behaviours or intrusive usury of advertising found in m",
-    "Confidence": 0.98428005
-  },
-  {
-    "Title": "When interfaces become disposable | Chris Loy",
-    "Url": "https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable",
-    "Timestamp": "2026-02-16T01:03:47",
-    "Domain": "chrisloy.dev",
-    "Description": "I recently became a parent for the first time, as my wife and I welcomed a beautiful baby boy into our lives in January\nof this year.",
-    "Confidence": 0.9756104
-  },
-  {
-    "Title": "Can agentic coding raise the quality bar? | Luca Palmieri",
-    "Url": "https://lpalmieri.com/posts/agentic-coding-raises-quality/",
-    "Timestamp": "2026-02-16T01:03:33",
-    "Domain": "lpalmieri.com",
-    "Description": "Five examples of using agentic coding to improve software quality, instead of delivery throughput.",
-    "Confidence": 0.9948824
-  },
-  {
-    "Title": "Learnings from attending Pragmatic Summit",
-    "Url": "https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/",
-    "Timestamp": "2026-02-16T01:03:30",
-    "Domain": "blog.kelvinhanma.com",
-    "Description": "I attended Pragmatic Summit this past Wednesday hosted by Gergely Orosz. As with all things tech right now, the main (and really only) topic is AI. Thankfully the attendees are all active professionals working in tech, the discussions are grounded in hands-on experience with AI tools, avoiding much of the hype. Below is the summit agenda:\nAs a software engineer at Google working on the Photos mobile clients’ editing features, I’m lucky to not worry about the token budget in terms of costs and can freely use Gemini models and Google AI tools for my work. It was both scary and comforting to learn that engineers at other places are struggling with the same challenges as me right now. Mainly:",
-    "Confidence": 0.9855408
-  },
-  {
-    "Title": "The Prompt of Babel — Joe McLean",
-    "Url": "https://joemclean.github.io/writing/the-prompt-of-babel.html",
-    "Timestamp": "2026-02-16T01:03:26",
-    "Domain": "joemclean.github.io",
-    "Description": "I am a librarian, of the 192nd arm of the 168th branch of the 14th floor and the third hallway of the Great Library. I record this message as a trace, as I slip into obsession, with hope that perhaps the record will hold value, either to me or the Machine before me.",
-    "Confidence": 0.76098275
-  },
-  {
-    "Title": "Death of the Certified Expert",
-    "Url": "https://maalla.dev/posts/death-of-the-certified-expert/",
-    "Timestamp": "2026-02-16T01:03:24",
-    "Domain": "maalla.dev",
-    "Description": "AI agents are displacing companies whose business model is selling expertise in complex software.",
-    "Confidence": 0.9854473
-  },
-  {
-    "Title": "Using Claude for spellchecking and grammar",
-    "Url": "https://kodare.net/2026/02/15/using-claude-for-spell-checking.html",
-    "Timestamp": "2026-02-16T01:03:20",
-    "Domain": "kodare.net",
-    "Description": "On the pytest discord channel Sviatoslav mentioned a pull request with a bunch of spelling and grammar fixes. We had a discussion about the morality of not disclosing that it was an AI driven pull request up front, but what was pretty clear was that the quality was surprisingly high. Since I have a project with extensive documentation that I’ve spelled checked thoroughly this interested me. I write all the documentation with PyCharm which has built in spelling and grammar checks, so I was thinking it would be hard to find many errors.",
-    "Confidence": 0.90414613
-  },
-  {
-    "Title": "Experiments with voice control on Linux",
-    "Url": "https://blog.ricky0123.com/blog/voice/",
-    "Timestamp": "2026-02-16T01:03:16",
-    "Domain": "blog.ricky0123.com",
-    "Description": "My experiments with writing small dictation tools for Linux",
-    "Confidence": 0.9771047
-  },
-  {
-    "Title": "Bertolami.com",
-    "Url": "https://bertolami.com/index.php?engine=blog&content=posts&detail=cost-effective-agentic-coding",
-    "Timestamp": "2026-02-16T01:02:37",
-    "Domain": "bertolami.com",
-    "Description": "Saturday, February 7th, 2026",
-    "Confidence": 0.99542534
-  },
-  {
-    "Title": "Why I",
-    "Url": "https://rozumem.xyz/posts/12",
-    "Timestamp": "2026-02-16T01:02:34",
-    "Domain": "rozumem.xyz",
-    "Description": "Shipping new features for users and watching them gobble it up is the greatest Joy of being a coder. I quit my day job to bootstrap a SaaS to maximize this Joy in my life. I didn't expect Joy to wane and wither away by year 7. While it's been supplanted by other positive developments like more customers and increasing revenues, which makes the situation tolerable, I miss Joy in it's most raw form.",
-    "Confidence": 0.9594567
-  },
-  {
-    "Title": "We Need Apocalypse-Proof Software - alavi.me",
-    "Url": "https://alavi.me/blog/we-need-apocalypse-proof-software/",
-    "Timestamp": "2026-02-16T01:02:28",
-    "Domain": "alavi.me",
-    "Description": "We need software that works in dire situation. Also, here are some tools for those situations.",
-    "Confidence": 0.995663
-  },
-  {
-    "Title": "The second half of the chessboard",
-    "Url": "https://joshs.bearblog.dev/the-second-half-of-the-chessboard/",
-    "Timestamp": "2026-02-16T01:02:22",
-    "Domain": "joshs.bearblog.dev",
-    "Description": "When I was young, my neighbour made me an offer: start at 1 and double it for every square on a chessboard. If I made it to the end of the board he’d give me...",
-    "Confidence": 0.97593963
-  },
-  {
-    "Title": "The New Ballmer Peak",
-    "Url": "https://www.adriankrebs.ch/blog/the-new-ballmer-peak/",
-    "Timestamp": "2026-02-16T01:02:19",
-    "Domain": "www.adriankrebs.ch",
-    "Description": "What happens to the Ballmer Peak when you prompt instead of code",
-    "Confidence": 0.9855006
   }
 ]

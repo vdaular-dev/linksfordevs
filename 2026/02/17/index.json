@@ -1,5 +1,222 @@
 [
   {
+    "Title": "A/B Testing Your RAG Pipeline: Chunking, Retrieval, and Reranking Strategies You Can Build With One Prompt Each | Rasha Hantash",
+    "Url": "https://www.rasha.me/blog/rag-pipeline-claude-code-agent-teams",
+    "Timestamp": "2026-02-17T01:04:24",
+    "Domain": "www.rasha.me",
+    "Description": "How to quickly build and compare RAG pipeline variants — cosine vs. hybrid search, fixed vs. semantic chunking, Cohere vs. cross-encoder reranking — using Claude Code, Graphite stacks, and your own offline evals."
+  },
+  {
+    "Title": "Break Stasis",
+    "Url": "https://oldmanrahul.com/2026/02/15/break-stasis/",
+    "Timestamp": "2026-02-17T01:04:22",
+    "Domain": "oldmanrahul.com",
+    "Description": "Personal Musings and Transcripts"
+  },
+  {
+    "Title": "Plan it, Work it, Review it, Reflect it",
+    "Url": "https://ai.unicrons.cloud/en/2026/02/15/plan-it-work-it-review-it-reflect-it/",
+    "Timestamp": "2026-02-17T01:04:19",
+    "Domain": "ai.unicrons.cloud",
+    "Description": "Our workflow for working with AI agents: create, plan, implement, review and reflect."
+  },
+  {
+    "Title": "Rob Panico - You Never See the Whole Shape at Once",
+    "Url": "https://www.robpanico.com/articles/display/?entry_short=you-never-see-the-whole-shape-at-once",
+    "Timestamp": "2026-02-17T01:04:15",
+    "Domain": "www.robpanico.com",
+    "Description": "A tesseract can never be seen all at once—only through partial, time-bound projections—and that limitation turns out to be the point. What looks contradictory from a single frame often reveals coherence when allowed to rotate over time. This essay uses the geometry of higher dimensions to explore why certainty fractures complex things, and why humility toward incomplete views is not weakness but structural necessity."
+  },
+  {
+    "Title": "Experiments with CodeMirror - Blog - aziis98",
+    "Url": "https://aziis98.com/blog/codemirror-review-tool/",
+    "Timestamp": "2026-02-17T01:04:11",
+    "Domain": "aziis98.com",
+    "Description": "This is a tutorial on writing a simple code review interface with CodeMirror 6 and the unified merge extension."
+  },
+  {
+    "Title": "Evaluate Your Own RAG: Why Best Practices Failed Us - Charles AZAM",
+    "Url": "https://charlesazam.com/blog/rag/",
+    "Timestamp": "2026-02-17T01:04:07",
+    "Domain": "charlesazam.com",
+    "Description": "We benchmarked our production RAG system across embedding models, chunk sizes, chunking strategies, and retrieval modes. The results contradicted common wisdom."
+  },
+  {
+    "Title": "On Dyslexia, Programming and Lisp. — Relections on Software Engineering",
+    "Url": "https://www.iwillig.me/blog/on-dyslexia-and-lisp/",
+    "Timestamp": "2026-02-17T01:04:03",
+    "Domain": "www.iwillig.me",
+    "Description": "Dyslexia is a difference in the way the brain processes language. It is often defined as the difference between intelligence (vaguely defined via the fake IQ test) and a person's ability to read. That is, a dyslexic with normal intelligence will underperform compared to their peers in learning how to read. There are many different theories on what the cause is, but most people believe that there are fundamental differences between the brains of people who have dyslexia and those that do not. In Maryanne Wolf's book, Dyslexia, Fluency, and the Brain, several essays point to a physical difference in the density of specialized brain cells that the brain uses to process letter shapes. It has become clear recently from fMRIs that dyslexics actually develop unique neural pathways for reading that are located in the right side of the brain compared to the normal left-side-dominated reading pathways. However, a root cause has not been identified, and the jury is still out. Dyslexia varies considerably, with up to 15% of the population experiencing some form of it."
+  },
+  {
+    "Title": "Type-based alias analysis in the Toy Optimizer",
+    "Url": "https://bernsteinbear.com/blog/toy-tbaa/",
+    "Timestamp": "2026-02-17T01:04:00",
+    "Domain": "bernsteinbear.com",
+    "Description": "Another entry in the Toy Optimizer series."
+  },
+  {
+    "Title": "Inside Claude Cowork: How Anthropic Runs Claude Code in a Local VM on Your Mac",
+    "Url": "https://pvieito.com/2026/01/inside-claude-cowork",
+    "Timestamp": "2026-02-17T01:03:56",
+    "Domain": "pvieito.com",
+    "Description": ""
+  },
+  {
+    "Title": "Things I Check Before Opening a PR",
+    "Url": "https://www.jakeworth.com/posts/things-i-check-before-opening-a-pr/",
+    "Timestamp": "2026-02-17T01:03:53",
+    "Domain": "www.jakeworth.com",
+    "Description": "What is a programmer but a series of PRs (pull requests)? I optimize PRs to introduce the best code I can, be easy to review, and document my work so I can make sense of it in the future. Here are some things I always check before opening a PR."
+  },
+  {
+    "Title": "Dario Amodei — The Adolescence of Technology",
+    "Url": "https://darioamodei.com/essay/the-adolescence-of-technology",
+    "Timestamp": "2026-02-17T01:03:49",
+    "Domain": "darioamodei.com",
+    "Description": "Confronting and Overcoming the Risks of Powerful AI"
+  },
+  {
+    "Title": "Trying New Things",
+    "Url": "https://daoudclarke.net/2026/02/16/trying-new-things",
+    "Timestamp": "2026-02-17T01:03:46",
+    "Domain": "daoudclarke.net",
+    "Description": "16 February 2026"
+  },
+  {
+    "Title": "Menelaos Vergis",
+    "Url": "https://menelaos.vergis.net/posts/Why-I-Finally-Stopped-Designing-My-CV-and-Started-Coding-It",
+    "Timestamp": "2026-02-17T01:03:43",
+    "Domain": "menelaos.vergis.net",
+    "Description": "Things I work on"
+  },
+  {
+    "Title": "Personal Software | Matt Spear",
+    "Url": "https://mattspear.co/blog/personal-software",
+    "Timestamp": "2026-02-17T01:03:39",
+    "Domain": "mattspear.co",
+    "Description": "I built a habit tracker, a tab manager, a task board, and an AI assistant. None are products. They're personal software – and soon everyone will have their own."
+  },
+  {
+    "Title": "Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based)",
+    "Url": "https://rmendes.net/content/articles/2026-02-14-deploying-your-own-indieweb-site/",
+    "Timestamp": "2026-02-17T01:03:36",
+    "Domain": "rmendes.net",
+    "Description": "Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based) 14 February 2026 indiekit indieweb deploy eleventy A complete guide to deploying [Indiekit](https://getindiekit.com) on..."
+  },
+  {
+    "Title": "The Long Tail of LLM-Assisted Decompilation",
+    "Url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "Timestamp": "2026-02-17T01:03:31",
+    "Domain": "blog.chrislewis.au",
+    "Description": "After rapid advances thanks to one-shot decompilation, progress on the Snowboard Kids 2 decompilation began to falter. This post explores the workflow evolution, tooling improvements, and fundamental LLM limits that emerged when tackling the long tail of increasingly difficult functions."
+  },
+  {
+    "Title": "The Move Faster Manifesto",
+    "Url": "https://brianguthrie.com/p/the-move-faster-manifesto/",
+    "Timestamp": "2026-02-17T01:03:28",
+    "Domain": "brianguthrie.com",
+    "Description": "Lessons for shipping software quickly by skipping the grind"
+  },
+  {
+    "Title": "Brent Benson - A custom app creation renaissance",
+    "Url": "https://brentwbenson.org/posts/custom-app-enablement/",
+    "Timestamp": "2026-02-17T01:03:25",
+    "Domain": "brentwbenson.org",
+    "Description": "There is a change in the calculus of what is achievable with a sketch and a 10 minute conversation"
+  },
+  {
+    "Title": "You're Probably Pronouncing \"Ubuntu\" Wrong",
+    "Url": "https://www.rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/",
+    "Timestamp": "2026-02-17T01:03:21",
+    "Domain": "www.rly0nheart.com",
+    "Description": "Ritchie Mwewa"
+  },
+  {
+    "Title": "A Love Letter to Self-Hosting",
+    "Url": "https://lukaswerner.com/post/2026-02-13@self-hosting-letter",
+    "Timestamp": "2026-02-17T01:03:18",
+    "Domain": "lukaswerner.com",
+    "Description": "I’ve tried to put to paper why I love self-hosting; yet I’ve never been fully able to accurately describe what I love about it. Perhaps it is the digital sovereignty, or the rejection of living on the internet and renting my space, or perhaps it is a way of feeling closer to the software I use. Either way it is something that matters a great deal to me."
+  },
+  {
+    "Title": "R.I.P. Rest In Prompt – Hugo Daniel",
+    "Url": "https://hugodaniel.com/posts/rip-rest-in-prompt/",
+    "Timestamp": "2026-02-17T01:03:15",
+    "Domain": "hugodaniel.com",
+    "Description": "Architecture designed for machine collaboration"
+  },
+  {
+    "Title": "The speed of building has outpaced the thinking: why we need a new moral standard for AI development",
+    "Url": "https://www.eliostruyf.com/killing-indie-development-with-ai/",
+    "Timestamp": "2026-02-17T01:03:07",
+    "Domain": "www.eliostruyf.com",
+    "Description": "Explore the impact of AI on indie development and the need for a moral compass in coding. Are we sacrificing quality for speed?"
+  },
+  {
+    "Title": "Harnessing Postgres race conditions",
+    "Url": "https://www.lirbank.com/harnessing-postgres-race-conditions",
+    "Timestamp": "2026-02-17T01:03:03",
+    "Domain": "www.lirbank.com",
+    "Description": "Synchronization barriers let you test for race conditions with confidence."
+  },
+  {
+    "Title": "xavxav - Software Archeology in 2026",
+    "Url": "https://xav.io/blog/software-archeology/",
+    "Timestamp": "2026-02-17T01:03:00",
+    "Domain": "xav.io",
+    "Description": "February 16, 2026"
+  },
+  {
+    "Title": "Mark Nguyen",
+    "Url": "https://mark-n.co/blog/living-a-life-less-lonely/",
+    "Timestamp": "2026-02-17T01:02:56",
+    "Domain": "mark-n.co",
+    "Description": "Mark Nguyen. Full stack software developer and designer"
+  },
+  {
+    "Title": "Do LLMs hallucinate more in Czech than in English? – Miloš Švaňa",
+    "Url": "https://svana.name/2026/02/do-llms-hallucinate-more-in-czech-than-in-english/",
+    "Timestamp": "2026-02-17T01:02:53",
+    "Domain": "svana.name",
+    "Description": "Having explored hallucination benchmarks for LLMs, I’ve decided to use the TruthfulQA dataset to see if LLMs hallucinate more when I talk to them in Czech instead of English."
+  },
+  {
+    "Title": "I built a coding agent two months before ChatGPT existed",
+    "Url": "https://solmaz.io/log/2026/02/13/coding-agent-before-chatgpt/",
+    "Timestamp": "2026-02-17T01:02:46",
+    "Domain": "solmaz.io",
+    "Description": "I built a coding agent back in 2022, 2 months before ChatGPT launched:"
+  },
+  {
+    "Title": "Why do I feel bad following recommendation algorithms?",
+    "Url": "https://edwardbx.com/articles/recommendation-algorithms/",
+    "Timestamp": "2026-02-17T01:02:43",
+    "Domain": "edwardbx.com",
+    "Description": "How can I still find interesting things without them?"
+  },
+  {
+    "Title": "Peer-reviewers in the coal mine? About AI & employment",
+    "Url": "https://www.ericburel.tech/blog/ai-impact-employment-and-peer-review",
+    "Timestamp": "2026-02-17T01:02:40",
+    "Domain": "www.ericburel.tech",
+    "Description": "Maybe Section 174 killed Brynjolfsson canaries. Maybe it's indeed AI. This article is about how you should treat working papers as working papers and give more love to the process of peer-reviewing."
+  },
+  {
+    "Title": "Words are a Leaky Abstraction",
+    "Url": "https://brianschrader.com/archive/words-are-a-leaky-abstraction/",
+    "Timestamp": "2026-02-17T01:02:36",
+    "Domain": "brianschrader.com",
+    "Description": "Something about hearing the phrase \"Claude's Soul Document\" got me thinking again about a problem I've long pondered. Software folks, like myself, have a long and proud history of taking words that exist and coopting them, manipulating the meaning of those words into feeble shadows of their former selfs. Tech people and tech companies do this on accident and on purpose, both because it can be useful to reduce a human concept to something simpler to quantify and because its easier to market and sell. Machine Learning, an academic term, becomes Artificial Intelligence and the word \"Intelligence\" is defined down in order to be achievable."
+  },
+  {
+    "Title": "Get a portable monitor, they’re great",
+    "Url": "https://davidgerard.co.uk/blockchain/2025/02/11/get-a-portable-monitor-theyre-great/",
+    "Timestamp": "2026-02-17T01:02:33",
+    "Domain": "davidgerard.co.uk",
+    "Description": "An exciting new form of gadget — portable monitors! Light, 10” to 21”, USB-C power, signal via USB-C or mini-HDMI. And portable."
+  },
+  {
     "Title": "Use Protocols, Not Services",
     "Url": "https://notnotp.com/notes/use-protocols-not-services/",
     "Timestamp": "2026-02-17T00:02:05",

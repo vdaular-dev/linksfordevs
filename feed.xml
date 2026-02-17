@@ -7,6 +7,307 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A/B Testing Your RAG Pipeline: Chunking, Retrieval, and Reranking Strategies You Can Build With One Prompt Each | Rasha Hantash</title>
+      <link>https://www.rasha.me/blog/rag-pipeline-claude-code-agent-teams</link>
+      <description>How to quickly build and compare RAG pipeline variants — cosine vs. hybrid search, fixed vs. semantic chunking, Cohere vs. cross-encoder reranking — using Claude Code, Graphite stacks, and your own offline evals.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>sql</category>
+      <category>containers</category>
+      <category>conference</category>
+      <guid>https://www.rasha.me/blog/rag-pipeline-claude-code-agent-teams</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Break Stasis</title>
+      <link>https://oldmanrahul.com/2026/02/15/break-stasis/</link>
+      <description>Personal Musings and Transcripts</description>
+      <category>sql</category>
+      <guid>https://oldmanrahul.com/2026/02/15/break-stasis/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plan it, Work it, Review it, Reflect it</title>
+      <link>https://ai.unicrons.cloud/en/2026/02/15/plan-it-work-it-review-it-reflect-it/</link>
+      <description>Our workflow for working with AI agents: create, plan, implement, review and reflect.</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://ai.unicrons.cloud/en/2026/02/15/plan-it-work-it-review-it-reflect-it/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rob Panico - You Never See the Whole Shape at Once</title>
+      <link>https://www.robpanico.com/articles/display/?entry_short=you-never-see-the-whole-shape-at-once</link>
+      <description>A tesseract can never be seen all at once—only through partial, time-bound projections—and that limitation turns out to be the point. What looks contradictory from a single frame often reveals coherence when allowed to rotate over time. This essay uses the geometry of higher dimensions to explore why certainty fractures complex things, and why humility toward incomplete views is not weakness but structural necessity.</description>
+      <guid>https://www.robpanico.com/articles/display/?entry_short=you-never-see-the-whole-shape-at-once</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Experiments with CodeMirror - Blog - aziis98</title>
+      <link>https://aziis98.com/blog/codemirror-review-tool/</link>
+      <description>This is a tutorial on writing a simple code review interface with CodeMirror 6 and the unified merge extension.</description>
+      <category>vscode</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://aziis98.com/blog/codemirror-review-tool/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evaluate Your Own RAG: Why Best Practices Failed Us - Charles AZAM</title>
+      <link>https://charlesazam.com/blog/rag/</link>
+      <description>We benchmarked our production RAG system across embedding models, chunk sizes, chunking strategies, and retrieval modes. The results contradicted common wisdom.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://charlesazam.com/blog/rag/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Dyslexia, Programming and Lisp. — Relections on Software Engineering</title>
+      <link>https://www.iwillig.me/blog/on-dyslexia-and-lisp/</link>
+      <description>Dyslexia is a difference in the way the brain processes language. It is often defined as the difference between intelligence (vaguely defined via the fake IQ test) and a person's ability to read. That is, a dyslexic with normal intelligence will underperform compared to their peers in learning how to read. There are many different theories on what the cause is, but most people believe that there are fundamental differences between the brains of people who have dyslexia and those that do not. In Maryanne Wolf's book, Dyslexia, Fluency, and the Brain, several essays point to a physical difference in the density of specialized brain cells that the brain uses to process letter shapes. It has become clear recently from fMRIs that dyslexics actually develop unique neural pathways for reading that are located in the right side of the brain compared to the normal left-side-dominated reading pathways. However, a root cause has not been identified, and the jury is still out. Dyslexia varies considerably, with up to 15% of the population experiencing some form of it.</description>
+      <category>ruby</category>
+      <category>python</category>
+      <guid>https://www.iwillig.me/blog/on-dyslexia-and-lisp/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Type-based alias analysis in the Toy Optimizer</title>
+      <link>https://bernsteinbear.com/blog/toy-tbaa/</link>
+      <description>Another entry in the Toy Optimizer series.</description>
+      <category>python</category>
+      <category>ruby</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://bernsteinbear.com/blog/toy-tbaa/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside Claude Cowork: How Anthropic Runs Claude Code in a Local VM on Your Mac</title>
+      <link>https://pvieito.com/2026/01/inside-claude-cowork</link>
+      <description></description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://pvieito.com/2026/01/inside-claude-cowork</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Things I Check Before Opening a PR</title>
+      <link>https://www.jakeworth.com/posts/things-i-check-before-opening-a-pr/</link>
+      <description>What is a programmer but a series of PRs (pull requests)? I optimize PRs to introduce the best code I can, be easy to review, and document my work so I can make sense of it in the future. Here are some things I always check before opening a PR.</description>
+      <category>typescript</category>
+      <category>git</category>
+      <category>ruby</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://www.jakeworth.com/posts/things-i-check-before-opening-a-pr/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dario Amodei — The Adolescence of Technology</title>
+      <link>https://darioamodei.com/essay/the-adolescence-of-technology</link>
+      <description>Confronting and Overcoming the Risks of Powerful AI</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://darioamodei.com/essay/the-adolescence-of-technology</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trying New Things</title>
+      <link>https://daoudclarke.net/2026/02/16/trying-new-things</link>
+      <description>16 February 2026</description>
+      <guid>https://daoudclarke.net/2026/02/16/trying-new-things</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Menelaos Vergis</title>
+      <link>https://menelaos.vergis.net/posts/Why-I-Finally-Stopped-Designing-My-CV-and-Started-Coding-It</link>
+      <description>Things I work on</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://menelaos.vergis.net/posts/Why-I-Finally-Stopped-Designing-My-CV-and-Started-Coding-It</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Personal Software | Matt Spear</title>
+      <link>https://mattspear.co/blog/personal-software</link>
+      <description>I built a habit tracker, a tab manager, a task board, and an AI assistant. None are products. They're personal software – and soon everyone will have their own.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://mattspear.co/blog/personal-software</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based)</title>
+      <link>https://rmendes.net/content/articles/2026-02-14-deploying-your-own-indieweb-site/</link>
+      <description>Deploying Your Own IndieWeb Site with Indiekit + Eleventy (Docker Compose based) 14 February 2026 indiekit indieweb deploy eleventy A complete guide to deploying [Indiekit](https://getindiekit.com) on...</description>
+      <category>containers</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>youtube</category>
+      <category>linux</category>
+      <guid>https://rmendes.net/content/articles/2026-02-14-deploying-your-own-indieweb-site/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Long Tail of LLM-Assisted Decompilation</title>
+      <link>https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/</link>
+      <description>After rapid advances thanks to one-shot decompilation, progress on the Snowboard Kids 2 decompilation began to falter. This post explores the workflow evolution, tooling improvements, and fundamental LLM limits that emerged when tackling the long tail of increasingly difficult functions.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Move Faster Manifesto</title>
+      <link>https://brianguthrie.com/p/the-move-faster-manifesto/</link>
+      <description>Lessons for shipping software quickly by skipping the grind</description>
+      <guid>https://brianguthrie.com/p/the-move-faster-manifesto/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brent Benson - A custom app creation renaissance</title>
+      <link>https://brentwbenson.org/posts/custom-app-enablement/</link>
+      <description>There is a change in the calculus of what is achievable with a sketch and a 10 minute conversation</description>
+      <category>apple</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://brentwbenson.org/posts/custom-app-enablement/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>You're Probably Pronouncing "Ubuntu" Wrong</title>
+      <link>https://www.rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/</link>
+      <description>Ritchie Mwewa</description>
+      <category>linux</category>
+      <guid>https://www.rly0nheart.com/posts/youre-probably-pronouncing-ubuntu-wrong/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Love Letter to Self-Hosting</title>
+      <link>https://lukaswerner.com/post/2026-02-13@self-hosting-letter</link>
+      <description>I’ve tried to put to paper why I love self-hosting; yet I’ve never been fully able to accurately describe what I love about it. Perhaps it is the digital sovereignty, or the rejection of living on the internet and renting my space, or perhaps it is a way of feeling closer to the software I use. Either way it is something that matters a great deal to me.</description>
+      <category>containers</category>
+      <category>youtube</category>
+      <guid>https://lukaswerner.com/post/2026-02-13@self-hosting-letter</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>R.I.P. Rest In Prompt – Hugo Daniel</title>
+      <link>https://hugodaniel.com/posts/rip-rest-in-prompt/</link>
+      <description>Architecture designed for machine collaboration</description>
+      <author> (Hugo Daniel)</author>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <category>vscode</category>
+      <category>gaming</category>
+      <guid>https://hugodaniel.com/posts/rip-rest-in-prompt/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>The speed of building has outpaced the thinking: why we need a new moral standard for AI development</title>
+      <link>https://www.eliostruyf.com/killing-indie-development-with-ai/</link>
+      <description>Explore the impact of AI on indie development and the need for a moral compass in coding. Are we sacrificing quality for speed?</description>
+      <author> (https://www.eliostruyf.com/about)</author>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://www.eliostruyf.com/killing-indie-development-with-ai/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Harnessing Postgres race conditions</title>
+      <link>https://www.lirbank.com/harnessing-postgres-race-conditions</link>
+      <description>Synchronization barriers let you test for race conditions with confidence.</description>
+      <author> (Mikael Lirbank)</author>
+      <category>sql</category>
+      <guid>https://www.lirbank.com/harnessing-postgres-race-conditions</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>xavxav - Software Archeology in 2026</title>
+      <link>https://xav.io/blog/software-archeology/</link>
+      <description>February 16, 2026</description>
+      <category>ai</category>
+      <guid>https://xav.io/blog/software-archeology/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mark Nguyen</title>
+      <link>https://mark-n.co/blog/living-a-life-less-lonely/</link>
+      <description>Mark Nguyen. Full stack software developer and designer</description>
+      <guid>https://mark-n.co/blog/living-a-life-less-lonely/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do LLMs hallucinate more in Czech than in English? – Miloš Švaňa</title>
+      <link>https://svana.name/2026/02/do-llms-hallucinate-more-in-czech-than-in-english/</link>
+      <description>Having explored hallucination benchmarks for LLMs, I’ve decided to use the TruthfulQA dataset to see if LLMs hallucinate more when I talk to them in Czech instead of English.</description>
+      <category>ai</category>
+      <guid>https://svana.name/2026/02/do-llms-hallucinate-more-in-czech-than-in-english/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>I built a coding agent two months before ChatGPT existed</title>
+      <link>https://solmaz.io/log/2026/02/13/coding-agent-before-chatgpt/</link>
+      <description>I built a coding agent back in 2022, 2 months before ChatGPT launched:</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>python</category>
+      <guid>https://solmaz.io/log/2026/02/13/coding-agent-before-chatgpt/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do I feel bad following recommendation algorithms?</title>
+      <link>https://edwardbx.com/articles/recommendation-algorithms/</link>
+      <description>How can I still find interesting things without them?</description>
+      <category>youtube</category>
+      <guid>https://edwardbx.com/articles/recommendation-algorithms/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Peer-reviewers in the coal mine? About AI &amp; employment</title>
+      <link>https://www.ericburel.tech/blog/ai-impact-employment-and-peer-review</link>
+      <description>Maybe Section 174 killed Brynjolfsson canaries. Maybe it's indeed AI. This article is about how you should treat working papers as working papers and give more love to the process of peer-reviewing.</description>
+      <category>ai</category>
+      <guid>https://www.ericburel.tech/blog/ai-impact-employment-and-peer-review</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Words are a Leaky Abstraction</title>
+      <link>https://brianschrader.com/archive/words-are-a-leaky-abstraction/</link>
+      <description>Something about hearing the phrase "Claude's Soul Document" got me thinking again about a problem I've long pondered. Software folks, like myself, have a long and proud history of taking words that exist and coopting them, manipulating the meaning of those words into feeble shadows of their former selfs. Tech people and tech companies do this on accident and on purpose, both because it can be useful to reduce a human concept to something simpler to quantify and because its easier to market and sell. Machine Learning, an academic term, becomes Artificial Intelligence and the word "Intelligence" is defined down in order to be achievable.</description>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://brianschrader.com/archive/words-are-a-leaky-abstraction/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Get a portable monitor, they’re great</title>
+      <link>https://davidgerard.co.uk/blockchain/2025/02/11/get-a-portable-monitor-theyre-great/</link>
+      <description>An exciting new form of gadget — portable monitors! Light, 10” to 21”, USB-C power, signal via USB-C or mini-HDMI. And portable.</description>
+      <guid>https://davidgerard.co.uk/blockchain/2025/02/11/get-a-portable-monitor-theyre-great/</guid>
+      <pubDate>Tue, 17 Feb 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
       <title>Use Protocols, Not Services</title>
       <link>https://notnotp.com/notes/use-protocols-not-services/</link>
       <description>The Internet is almost anonymous and privacy-preserving by design. I mean, unless some administrator actively tries to track you, there is no built-in...</description>
@@ -96,157 +397,6 @@ Please; review the output.
       <category>javascript</category>
       <guid>https://modern-css.com/</guid>
       <pubDate>Mon, 16 Feb 2026 03:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coding at the speed of thought</title>
-      <link>https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/</link>
-      <description>Thinking is becoming the new bottleneck in coding</description>
-      <guid>https://www.jerpint.io/blog/2026-02-15-coding-at-the-speed-of-thought/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>One server. Small business.</title>
-      <link>https://chodounsky.com/2026/02/14/one-server-small-business/</link>
-      <description>More than a decade ago, I built a small Rails app to run my curated newsletters. Today it serves over 100,000 subscribers, sends hundreds of thousands of emails each month, and still runs on a single $30 server. In this post, I walk through how I deploy, secure, back up, and monitor it — and why I still prefer owning the stack over using a managed platform.</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>ruby</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <guid>https://chodounsky.com/2026/02/14/one-server-small-business/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Attempt to hike Afghanistan</title>
-      <link>https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/</link>
-      <description>Deutsch unten – täglicher Bericht auf PolarSteps! 中文下边 –  PolarSteps 每日报告 ! I’m often asked why I don’t walk directly to Singapore via India, but instead take a huge…</description>
-      <guid>https://mautz.blog/2026/02/14/attempt-to-hike-afghanistan/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I built Mu | Mu</title>
-      <link>https://mu.xyz/post?id=1771160711053164263</link>
-      <description>Mu is an app platform without ads, algorithms or tracking. It attempts to remove the addictive behaviours or intrusive usury of advertising found in m</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://mu.xyz/post?id=1771160711053164263</guid>
-      <pubDate>Mon, 16 Feb 2026 01:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>When interfaces become disposable | Chris Loy</title>
-      <link>https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</link>
-      <description>I recently became a parent for the first time, as my wife and I welcomed a beautiful baby boy into our lives in January
-of this year.</description>
-      <category>ai</category>
-      <guid>https://chrisloy.dev/post/2026/02/14/when-interfaces-become-disposable</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can agentic coding raise the quality bar? | Luca Palmieri</title>
-      <link>https://lpalmieri.com/posts/agentic-coding-raises-quality/</link>
-      <description>Five examples of using agentic coding to improve software quality, instead of delivery throughput.</description>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://lpalmieri.com/posts/agentic-coding-raises-quality/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learnings from attending Pragmatic Summit</title>
-      <link>https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/</link>
-      <description>I attended Pragmatic Summit this past Wednesday hosted by Gergely Orosz. As with all things tech right now, the main (and really only) topic is AI. Thankfully the attendees are all active professionals working in tech, the discussions are grounded in hands-on experience with AI tools, avoiding much of the hype. Below is the summit agenda:
-As a software engineer at Google working on the Photos mobile clients’ editing features, I’m lucky to not worry about the token budget in terms of costs and can freely use Gemini models and Google AI tools for my work. It was both scary and comforting to learn that engineers at other places are struggling with the same challenges as me right now. Mainly:</description>
-      <category>android</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>apple</category>
-      <guid>https://blog.kelvinhanma.com/posts/learnings-from-attending-pragmatic-summit/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Prompt of Babel — Joe McLean</title>
-      <link>https://joemclean.github.io/writing/the-prompt-of-babel.html</link>
-      <description>I am a librarian, of the 192nd arm of the 168th branch of the 14th floor and the third hallway of the Great Library. I record this message as a trace, as I slip into obsession, with hope that perhaps the record will hold value, either to me or the Machine before me.</description>
-      <guid>https://joemclean.github.io/writing/the-prompt-of-babel.html</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Death of the Certified Expert</title>
-      <link>https://maalla.dev/posts/death-of-the-certified-expert/</link>
-      <description>AI agents are displacing companies whose business model is selling expertise in complex software.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://maalla.dev/posts/death-of-the-certified-expert/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using Claude for spellchecking and grammar</title>
-      <link>https://kodare.net/2026/02/15/using-claude-for-spell-checking.html</link>
-      <description>On the pytest discord channel Sviatoslav mentioned a pull request with a bunch of spelling and grammar fixes. We had a discussion about the morality of not disclosing that it was an AI driven pull request up front, but what was pretty clear was that the quality was surprisingly high. Since I have a project with extensive documentation that I’ve spelled checked thoroughly this interested me. I write all the documentation with PyCharm which has built in spelling and grammar checks, so I was thinking it would be hard to find many errors.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://kodare.net/2026/02/15/using-claude-for-spell-checking.html</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Experiments with voice control on Linux</title>
-      <link>https://blog.ricky0123.com/blog/voice/</link>
-      <description>My experiments with writing small dictation tools for Linux</description>
-      <category>linux</category>
-      <category>vscode</category>
-      <category>python</category>
-      <category>nodejs</category>
-      <guid>https://blog.ricky0123.com/blog/voice/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bertolami.com</title>
-      <link>https://bertolami.com/index.php?engine=blog&amp;content=posts&amp;detail=cost-effective-agentic-coding</link>
-      <description>Saturday, February 7th, 2026</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://bertolami.com/index.php?engine=blog&amp;content=posts&amp;detail=cost-effective-agentic-coding</guid>
-      <pubDate>Mon, 16 Feb 2026 01:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I</title>
-      <link>https://rozumem.xyz/posts/12</link>
-      <description>Shipping new features for users and watching them gobble it up is the greatest Joy of being a coder. I quit my day job to bootstrap a SaaS to maximize this Joy in my life. I didn't expect Joy to wane and wither away by year 7. While it's been supplanted by other positive developments like more customers and increasing revenues, which makes the situation tolerable, I miss Joy in it's most raw form.</description>
-      <author> (rozumem)</author>
-      <category>ai</category>
-      <guid>https://rozumem.xyz/posts/12</guid>
-      <pubDate>Mon, 16 Feb 2026 01:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Need Apocalypse-Proof Software - alavi.me</title>
-      <link>https://alavi.me/blog/we-need-apocalypse-proof-software/</link>
-      <description>We need software that works in dire situation. Also, here are some tools for those situations.</description>
-      <category>linux</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://alavi.me/blog/we-need-apocalypse-proof-software/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>The second half of the chessboard</title>
-      <link>https://joshs.bearblog.dev/the-second-half-of-the-chessboard/</link>
-      <description>When I was young, my neighbour made me an offer: start at 1 and double it for every square on a chessboard. If I made it to the end of the board he’d give me...</description>
-      <category>ai</category>
-      <guid>https://joshs.bearblog.dev/the-second-half-of-the-chessboard/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>The New Ballmer Peak</title>
-      <link>https://www.adriankrebs.ch/blog/the-new-ballmer-peak/</link>
-      <description>What happens to the Ballmer Peak when you prompt instead of code</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://www.adriankrebs.ch/blog/the-new-ballmer-peak/</guid>
-      <pubDate>Mon, 16 Feb 2026 01:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
