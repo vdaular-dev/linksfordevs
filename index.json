@@ -302,21 +302,5 @@
     "Domain": "www.khronos.org",
     "Description": "Today, The Khronos Group, announces a release candidate for the…",
     "Confidence": 0.8380353
-  },
-  {
-    "Title": "AI is destroying Open Source, and it's not even good yet",
-    "Url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
-    "Timestamp": "2026-02-16T22:02:11",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Over the weekend Ars Technica retracted an article because the AI a writer used hallucinated quotes from an open source library maintainer.\nThe irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.\nIt's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to \"work on bringing agents to everyone.\" You'll have to forgive me if I'm not enthusastic about that.",
-    "Confidence": 0.88672835
-  },
-  {
-    "Title": "SNEWS",
-    "Url": "https://xkcd.com/3208/",
-    "Timestamp": "2026-02-16T22:02:05",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
