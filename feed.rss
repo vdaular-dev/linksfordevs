@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Rise of the Triforce</title>
+      <link>https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/</link>
+      <description>During the rapid technological advancements of the early 1990s, the video game industry was on the cusp of a massive addition - another dimension. With console shenanigans like the Super FX chip giving players a taste of 3D, hype was at an all-time high. But the games released for home consoles were nothing compared to what arcade developers were capable of doing. By employing gigantic budgets and cutting-edge hardware, the arcade gave players a chance to see the future, today.
+But the future eventually arrived with the launch of the 5th generation of consoles. All of a sudden, the revolutionary 3D hardware features that were once exclusive to arcades were now available in home consoles. Without next-generation hype pushing players into the arcade, powerful but expensive arcade machines were no longer sustainable to develop. The industry adjusted by moving toward more cost effective solutions, with many turning to the inexpensive, already proven 3D-capable hardware available in 5th gen home consoles.
+Rather than turning around the decline of the arcade, the cheaper hardware may have helped accelerate it. There were fewer unique experiences to pull players into the arcade, and previous hit exclusives were now seeing high quality home console ports that allowed them to be enjoyed without munching quarters. When the 6th generation arrived with the Dreamcast and the PlayStation 2, many arcade stalwarts waved the white flag and started to shift their arcade divisions to home console projects, with mixed success.
+Sega was among those hit hardest by this era. They produced some of the greatest arcade thrills of the 1990s and enjoyed massive success in the home console market with the Sega Genesis/Mega Drive. But a string of mistakes and miscalculations combined with the slumping arcade industry sent them to the brink of bankruptcy. By 2002, the Dreamcast had been soundly defeated by the launch of the PlayStation 2, and Sega began porting some of their hits to their former rivals' hardware just to stay afloat.
+The home market was lost, but the languishing arcade scene presented Sega with an opportunity. They still had legendary arcade development teams, and if Sega could leverage them to produce a wave of arcade hits, they would be in a position to dominate a new era of arcades when most others were changing gears. There was just one problem: Sega didn't have the resources that they once did. If they were going to do this, they needed some help.
+And so they did something that would have been considered unthinkable just five years prior. Sega teamed up with Nintendo to develop a GameCube-based arcade platform. Bolstering their ranks was Namco, another coin-op stalwart with tons of arcade veterans.
+Three companies, one mission: Triforce.</description>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/</guid>
+      <pubDate>Tue, 17 Feb 2026 09:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>LLM-generated skills work, if you generate them afterwards</title>
       <link>https://www.seangoedecke.com/generate-skills-afterwards/</link>
       <description>LLM “skills” are a short explanatory prompt for a particular task, typically bundled with helper scripts. A recent paper showed that while skills are useful to LLMs, LLM-authored skills are not. From the abstract:</description>
@@ -380,30 +397,6 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
       <category>python</category>
       <guid>https://idiallo.com/blog/programming-tools-are-free?src=feed</guid>
       <pubDate>Mon, 16 Feb 2026 12:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Magnus Carlsen wins 2026 FIDE Freestyle World Championship – International Chess Federation</title>
-      <link>https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</link>
-      <description></description>
-      <category>gaming</category>
-      <guid>https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/</guid>
-      <pubDate>Mon, 16 Feb 2026 09:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kévin (@knowmadd@mastodon.world)</title>
-      <link>https://mastodon.world/@knowmadd/116072773118828295</link>
-      <description>Attached: 4 images
-
-Q: I want to wash my car. The car wash is 50 meters away. Should I walk or drive?
-
-What do you think the LLM output was?
-
-Please; review the output. 
-
-#ai #LLM #ai</description>
-      <category>ai</category>
-      <guid>https://mastodon.world/@knowmadd/116072773118828295</guid>
-      <pubDate>Mon, 16 Feb 2026 09:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
