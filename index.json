@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Use Protocols, Not Services",
+    "Url": "https://notnotp.com/notes/use-protocols-not-services/",
+    "Timestamp": "2026-02-17T00:02:05",
+    "Domain": "notnotp.com",
+    "Description": "The Internet is almost anonymous and privacy-preserving by design. I mean, unless some administrator actively tries to track you, there is no built-in...",
+    "Confidence": 0.9914502
+  },
+  {
     "Title": "Khronos Announces glTF Gaussian Splatting Extension",
     "Url": "https://www.khronos.org/news/press/gltf-gaussian-splatting-press-release",
     "Timestamp": "2026-02-16T23:02:17",
@@ -190,13 +198,5 @@
     "Domain": "www.adriankrebs.ch",
     "Description": "What happens to the Ballmer Peak when you prompt instead of code",
     "Confidence": 0.9855006
-  },
-  {
-    "Title": "OpenClaw, OpenAI and the future | Peter Steinberger",
-    "Url": "https://steipete.me/posts/2026/openclaw",
-    "Timestamp": "2026-02-16T00:02:07",
-    "Domain": "steipete.me",
-    "Description": "I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent.",
-    "Confidence": 0.9346587
   }
 ]

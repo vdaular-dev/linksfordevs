@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Use Protocols, Not Services</title>
+      <link>https://notnotp.com/notes/use-protocols-not-services/</link>
+      <description>The Internet is almost anonymous and privacy-preserving by design. I mean, unless some administrator actively tries to track you, there is no built-in...</description>
+      <guid>https://notnotp.com/notes/use-protocols-not-services/</guid>
+      <pubDate>Tue, 17 Feb 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Khronos Announces glTF Gaussian Splatting Extension</title>
       <link>https://www.khronos.org/news/press/gltf-gaussian-splatting-press-release</link>
       <description>Today, The Khronos Group, announces a release candidate for the…</description>
@@ -240,15 +247,6 @@ As a software engineer at Google working on the Photos mobile clients’ editing
       <category>ai</category>
       <guid>https://www.adriankrebs.ch/blog/the-new-ballmer-peak/</guid>
       <pubDate>Mon, 16 Feb 2026 01:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw, OpenAI and the future | Peter Steinberger</title>
-      <link>https://steipete.me/posts/2026/openclaw</link>
-      <description>I'm joining OpenAI to work on bringing agents to everyone. OpenClaw will move to a foundation and stay open and independent.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://steipete.me/posts/2026/openclaw</guid>
-      <pubDate>Mon, 16 Feb 2026 00:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
