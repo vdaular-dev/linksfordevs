@@ -1,5 +1,13 @@
 [
   {
+    "Title": "LLM-generated skills work, if you generate them afterwards",
+    "Url": "https://www.seangoedecke.com/generate-skills-afterwards/",
+    "Timestamp": "2026-02-17T03:02:17",
+    "Domain": "www.seangoedecke.com",
+    "Description": "LLM “skills” are a short explanatory prompt for a particular task, typically bundled with helper scripts. A recent paper showed that while skills are useful to LLMs, LLM-authored skills are not. From the abstract:",
+    "Confidence": 0.967264
+  },
+  {
     "Title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
     "Url": "https://arxiv.org/abs/2602.12670",
     "Timestamp": "2026-02-17T02:01:58",
@@ -318,13 +326,5 @@
     "Domain": "mastodon.world",
     "Description": "Attached: 4 images\n\nQ: I want to wash my car. The car wash is 50 meters away. Should I walk or drive?\n\nWhat do you think the LLM output was?\n\nPlease; review the output. \n\n#ai #LLM #ai",
     "Confidence": 0.5183885
-  },
-  {
-    "Title": "Modern CSS Code Snippets | modern.css",
-    "Url": "https://modern-css.com/",
-    "Timestamp": "2026-02-16T03:02:15",
-    "Domain": "modern-css.com",
-    "Description": "A collection of modern CSS code snippets. Every old CSS hack next to its clean, native replacement, side by side.",
-    "Confidence": 0.99259144
   }
 ]
