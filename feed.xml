@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tailscale Peer Relays: Use your own devices as high-throughput relays</title>
+      <link>https://tailscale.com/blog/peer-relays-ga</link>
+      <description>Work around hard NATs and tricky networks with production-grade connectivity nodes you control</description>
+      <category>encryption</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <guid>https://tailscale.com/blog/peer-relays-ga</guid>
+      <pubDate>Wed, 18 Feb 2026 22:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Frigate with Hailo for object detection on a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</link>
       <description>I run Frigate to record security cameras and detect people, cars, and animals when in view. My current Frigate server runs on a Raspberry Pi CM4 and a Coral TPU plugged in via USB.
