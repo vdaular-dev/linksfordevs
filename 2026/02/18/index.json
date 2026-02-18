@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "Anthropic's 500 vulns are the tip of the iceberg",
+    "Url": "https://martinalderson.com/posts/anthropic-found-500-zero-days/",
+    "Timestamp": "2026-02-18T00:03:48",
+    "Domain": "martinalderson.com",
+    "Description": "Anthropic's red team found 500+ critical vulnerabilities with Claude. But they focused on maintained software. The scarier problem is the long tail that nobody will ever patch."
+  },
+  {
+    "Title": "The Mythical Agent-Month – Wes McKinney",
+    "Url": "https://wesmckinney.com/blog/mythical-agent-month/",
+    "Timestamp": "2026-02-18T00:03:45",
+    "Domain": "wesmckinney.com",
+    "Description": ""
+  },
+  {
+    "Title": "Sam “Claws” Attention Back OpenAI",
+    "Url": "https://om.co/2026/02/16/sam-claws-attention-back-openai/",
+    "Timestamp": "2026-02-18T00:03:41",
+    "Domain": "om.co",
+    "Description": "Sam Altman got his man. Not only to compete with Anthropic’s Claude Code, but also to show the world what is possible with Codex. And at the same time, he got a brand-new story to tell about …"
+  },
+  {
+    "Title": "The End of Cargo Culting Startup Accelerators – Garrick van Buren",
+    "Url": "https://garrickvanburen.com/end-of-accelerators/",
+    "Timestamp": "2026-02-18T00:03:37",
+    "Domain": "garrickvanburen.com",
+    "Description": "TLDR; Investor-focused accelerator programs no longer serve founders or investors."
+  },
+  {
+    "Title": "Hands-Off Coding",
+    "Url": "https://rieble.com/blog/hands-off-coding/",
+    "Timestamp": "2026-02-18T00:03:34",
+    "Domain": "rieble.com",
+    "Description": "Software engineer economics are broken. Everything will change. Here is what changed for me so far."
+  },
+  {
+    "Title": "Can Opus 4.6 do Category Theory in Lean? - Stephen Diehl",
+    "Url": "https://www.stephendiehl.com/posts/lean-opus-blog/",
+    "Timestamp": "2026-02-18T00:03:31",
+    "Domain": "www.stephendiehl.com",
+    "Description": "Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future"
+  },
+  {
+    "Title": "Deterministic Core, Agentic Shell",
+    "Url": "https://blog.davemo.com/posts/2026-02-14-deterministic-core-agentic-shell.html",
+    "Timestamp": "2026-02-18T00:03:27",
+    "Domain": "blog.davemo.com",
+    "Description": "How do you make AI agents deterministic? Put a state machine at the core. A pragmatic architecture pattern for AI agents using Mastra and XState."
+  },
+  {
+    "Title": "Approaches to writing two-sentence journal entries",
+    "Url": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
+    "Timestamp": "2026-02-18T00:03:23",
+    "Domain": "alexanderbjoy.com",
+    "Description": "Methods for writing and organizing your two-sentence journal."
+  },
+  {
+    "Title": "The Code Nobody Reads",
+    "Url": "https://www.kuril.in/blog/the-code-nobody-reads/",
+    "Timestamp": "2026-02-18T00:03:20",
+    "Domain": "www.kuril.in",
+    "Description": "Coding agents can ship faster than humans can understand. This essay explores cognitive debt, fog-of-war code ownership, and the tradeoff between velocity and deep system understanding."
+  },
+  {
+    "Title": "How to Get Lucky: Focus On The Fat Tails",
+    "Url": "https://taylorpearson.me/luck/",
+    "Timestamp": "2026-02-18T00:03:17",
+    "Domain": "taylorpearson.me",
+    "Description": "Almost everyone systematically under-allocates resources to the fat tails. We tend to spend most of our time and energy thinking about the middle, because we see the world through a bell curve lens, and most of the area in a bell curve is in the middle. But in reality, we live in an 80/20 world, where the top 1% of fat tails account for 50% of the results. The people who understand this seem to attract luck, but really they’ve just adopted the 80/20 curve model."
+  },
+  {
+    "Title": "Index, Count, Offset, Size",
+    "Url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+    "Timestamp": "2026-02-18T00:03:12",
+    "Domain": "tigerbeetle.com",
+    "Description": "Insights, updates, and technical deep dives on building a high-performance financial transactions database."
+  },
+  {
+    "Title": "Your Backlog Can’t Keep Up With Your Agents | Sam Boyd",
+    "Url": "https://samboyd.dev/blog/ai-product-engineer",
+    "Timestamp": "2026-02-18T00:03:09",
+    "Domain": "samboyd.dev",
+    "Description": "We're seeing an explosion in AI coding agents that enable people to write software faster than ever. That shifts the bottleneck from writing code to choosing and validating what to build next."
+  },
+  {
+    "Title": "Open Source Is Getting Used to Death — jd:/dev/blog",
+    "Url": "https://julien.danjou.info/blog/open-source-is-getting-used-to-death/",
+    "Timestamp": "2026-02-18T00:03:05",
+    "Domain": "julien.danjou.info",
+    "Description": "AI broke the implicit deal that sustained open source for 30 years. Usage is up. Engagement is gone. The economics don't work anymore."
+  },
+  {
+    "Title": "This site runs on 30GB of RAM",
+    "Url": "https://nebezb.com/30gb-ram/",
+    "Timestamp": "2026-02-18T00:03:02",
+    "Domain": "nebezb.com",
+    "Description": "My residential internet gateway is a two-in-one optical network terminal (ONT) and home router. The gateway is configurable only through a web interface my ISP controls and they, unsurprisingly, expose very few gears and knobs for me to play with. This must be intentional on their part. They probably get a lot less tech support calls from people locking themselves out. I’m slightly annoyed about waiting 15 minutes for the DHCP lease list to update, but not annoyed enough to do anything about it. $60/month gets me 2 gbps up/down. That’s a great deal even if it means I can’t customize much."
+  },
+  {
+    "Title": "Turning Your Robot Vacuum Into a Mesh VPN | Daniel Saewitz",
+    "Url": "https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn",
+    "Timestamp": "2026-02-18T00:02:58",
+    "Domain": "saewitz.com",
+    "Description": "I bought a robot vacuum and went down a path of understanding how wi-fi enabled devices can cross a line of security and privacy. In doing so, I figured out how we can keep our devices secure and isolated to our own private networks while still being able to operate them from anywhere in the world."
+  },
+  {
+    "Title": "How I Built My Mobile Second Brain - Rob Dodson",
+    "Url": "https://robdodson.me/posts/how-i-built-my-mobile-second-brain/",
+    "Timestamp": "2026-02-18T00:02:54",
+    "Domain": "robdodson.me",
+    "Description": "A step-by-step guide to running Obsidian, Claude Code, and Happy CLI on a DigitalOcean droplet so you can access your AI-powered second brain from your phone."
+  },
+  {
+    "Title": "(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup",
+    "Url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+    "Timestamp": "2026-02-18T00:02:47",
+    "Domain": "cep.dev",
+    "Description": "Assortment of technology startup infrastructure recommendations"
+  },
+  {
+    "Title": "Spontaneous Human-Robot Interaction: Embracing the Unplanned",
+    "Url": "https://francescovigni.com/blog/spontaneous-hri/",
+    "Timestamp": "2026-02-18T00:02:44",
+    "Domain": "francescovigni.com",
+    "Description": "Robotics & AI Engineer (Ph.D.) — Human-Robot Interaction, Applied AI, Computer Vision."
+  },
+  {
+    "Title": "How to review an AUR package",
+    "Url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
+    "Timestamp": "2026-02-18T00:02:41",
+    "Domain": "bertptrs.nl",
+    "Description": "On Friday, July 18th, 2025, the Arch Linux team was notified that three AUR packages had been uploaded that contained malware. A few maintainers including myself took care of deleting these packages, removing all traces of the malicious code, and protecting against future malicious uploads."
+  },
+  {
+    "Title": "How I use Obsidian",
+    "Url": "https://stephango.com/vault",
+    "Timestamp": "2026-02-18T00:02:37",
+    "Domain": "stephango.com",
+    "Description": "My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in."
+  },
+  {
+    "Title": "The software engineer identity crisis",
+    "Url": "https://adamfletcher.com/writing/software-engineer-identity-crisis/",
+    "Timestamp": "2026-02-18T00:02:34",
+    "Domain": "adamfletcher.com",
+    "Description": "Software engineering has changed forever. We're far from reaching AI-assisted programming's final form, but it's already clear that the majority of code produced will no longer involve a human typing it out. For some people that's an uncontroversial and obvious statement. Others will dismiss it as overhyping AI's utility.  Irrespective of where you fall on the pro-AI vs anti-AI spectrum, the change can be deeply unsettling when, until now, your job has been to write the code that AI is now generating."
+  },
+  {
+    "Title": "matduggan.com",
+    "Url": "https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/",
+    "Timestamp": "2026-02-18T00:02:31",
+    "Domain": "matduggan.com",
+    "Description": "It's JSON all the way down"
+  },
+  {
+    "Title": "Fast sorting, branchless by design",
+    "Url": "https://00f.net/2026/02/17/sorting-without-leaking-secrets/",
+    "Timestamp": "2026-02-18T00:02:27",
+    "Domain": "00f.net",
+    "Description": "Sorting is one of the most studied problems in computer science. Every language ships a built-in sort, and for most applications, picking the right one ..."
+  },
+  {
+    "Title": "My Entire Blog History as Calendar Events",
+    "Url": "https://www.joshbeckman.org/blog/ical-feeds-for-a-jekyll-site",
+    "Timestamp": "2026-02-18T00:02:23",
+    "Domain": "www.joshbeckman.org",
+    "Description": "I built a Jekyll plugin that generates iCal feeds so I can see my entire posting history in my calendar."
+  },
+  {
+    "Title": "Magic words need measuring sticks",
+    "Url": "https://jotter.jonathankingston.co.uk/blog/2026/02/17/magic-words-need-measuring-sticks/",
+    "Timestamp": "2026-02-18T00:02:19",
+    "Domain": "jotter.jonathankingston.co.uk",
+    "Description": "Dave Rupert's Magic Words names a thing I've been stewing on. Skills, MDC rules, and system prompts are all incantations. We write them, ship them, a..."
+  }
+]
