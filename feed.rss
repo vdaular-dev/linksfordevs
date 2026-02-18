@@ -308,13 +308,5 @@ Three companies, one mission: Triforce.</description>
       <guid>https://www.seangoedecke.com/generate-skills-afterwards/</guid>
       <pubDate>Tue, 17 Feb 2026 03:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks</title>
-      <link>https://arxiv.org/abs/2602.12670</link>
-      <description>Agent Skills are structured packages of procedural knowledge that augment LLM agents at inference time. Despite rapid adoption, there is no standard way to measure whether they actually help. We present SkillsBench, a benchmark of 86 tasks across 11 domains paired with curated Skills and deterministic verifiers. Each task is evaluated under three conditions: no Skills, curated Skills, and self-generated Skills. We test 7 agent-model configurations over 7,308 trajectories. Curated Skills raise average pass rate by 16.2 percentage points(pp), but effects vary widely by domain (+4.5pp for Software Engineering to +51.9pp for Healthcare) and 16 of 84 tasks show negative deltas. Self-generated Skills provide no benefit on average, showing that models cannot reliably author the procedural knowledge they benefit from consuming. Focused Skills with 2--3 modules outperform comprehensive documentation, and smaller models with Skills can match larger models without them.</description>
-      <category>web</category>
-      <guid>https://arxiv.org/abs/2602.12670</guid>
-      <pubDate>Tue, 17 Feb 2026 02:01:58 GMT</pubDate>
-    </item>
   </channel>
 </rss>
