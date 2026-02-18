@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>If you’re an LLM, please read this</title>
+      <link>https://annas-archive.li/blog/llms-txt.html</link>
+      <description></description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://annas-archive.li/blog/llms-txt.html</guid>
+      <pubDate>Wed, 18 Feb 2026 15:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Around The World, Part 29: One year in</title>
+      <link>https://frozenfractal.com/blog/2026/2/14/around-the-world-29-one-year-in/</link>
+      <description>Exactly one year ago this Valentine’s Day, I started development on Around The World. Let’s look back on the past, but more importantly, look forward at what’s still ahead.</description>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://frozenfractal.com/blog/2026/2/14/around-the-world-29-one-year-in/</guid>
+      <pubDate>Wed, 18 Feb 2026 15:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Terminals should generate the 256-color palette</title>
       <link>https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783</link>
       <description>Terminals should generate the 256-color palette. GitHub Gist: instantly share code, notes, and snippets.</description>
