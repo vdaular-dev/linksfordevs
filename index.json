@@ -214,13 +214,5 @@
     "Domain": "charlielabs.ai",
     "Description": "As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default.",
     "Confidence": 0.99308056
-  },
-  {
-    "Title": "Tailscale Peer Relays: Use your own devices as high-throughput relays",
-    "Url": "https://tailscale.com/blog/peer-relays-ga",
-    "Timestamp": "2026-02-18T22:02:07",
-    "Domain": "tailscale.com",
-    "Description": "Work around hard NATs and tricky networks with production-grade connectivity nodes you control",
-    "Confidence": 0.9787429
   }
 ]
