@@ -1,5 +1,141 @@
 [
   {
+    "Title": "vibe-infer: Learning GPU Programming with Claude Code",
+    "Url": "https://blog.vtemian.com/post/vibe-infer/",
+    "Timestamp": "2026-02-19T00:03:28",
+    "Domain": "blog.vtemian.com",
+    "Description": "Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable.",
+    "Confidence": 0.9793919
+  },
+  {
+    "Title": "My experience building a Node.js Native Module using an LLM",
+    "Url": "https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm",
+    "Timestamp": "2026-02-19T00:03:23",
+    "Domain": "thomashunter.name",
+    "Description": "8 min read    Feb 17, 2026",
+    "Confidence": 0.9869766
+  },
+  {
+    "Title": "I Built a Slop Factory and a Bot Wanted To Feature It",
+    "Url": "https://raka.gunar.to/blog/2026/02/18/slopinator-9000/",
+    "Timestamp": "2026-02-19T00:03:19",
+    "Domain": "raka.gunar.to",
+    "Description": "Building a satirical AI slop generator, getting auto-scouted by what is almost certainly another bot, and why the internet is slowly eating itself",
+    "Confidence": 0.9527592
+  },
+  {
+    "Title": "The Death of the Software Moat: Knowledge Bootstraps in 2026",
+    "Url": "https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/",
+    "Timestamp": "2026-02-19T00:03:16",
+    "Domain": "xaviergeerinck.com",
+    "Description": "AI is killing the software moat. Learn why OpenAI buys \"Taste\" over code, and how selling a Knowledge Bootstrap can protect your enterprise IP in the AI era.",
+    "Confidence": 0.93982905
+  },
+  {
+    "Title": "The Cost of Code Is Going to Zero",
+    "Url": "https://keon.kim/writing/cost-of-code-is-going-to-zero/",
+    "Timestamp": "2026-02-19T00:03:12",
+    "Domain": "keon.kim",
+    "Description": "AI is doing to software what the internet did to newspapers, and most SaaS companies aren't ready.",
+    "Confidence": 0.85795563
+  },
+  {
+    "Title": "Coding assistant experience",
+    "Url": "https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/",
+    "Timestamp": "2026-02-19T00:03:09",
+    "Domain": "scottlocklin.wordpress.com",
+    "Description": "I’m a modest LLM skeptic. It’s not that I don’t believe in LLMs, I am aware that they exist, I just know that they’re not doing what people do when we think, and that they&#…",
+    "Confidence": 0.98161846
+  },
+  {
+    "Title": "Software Engineering Is a Joke (Three of Them, Actually)",
+    "Url": "https://www.ivankusalic.com/software-engineering-ironies/",
+    "Timestamp": "2026-02-19T00:03:05",
+    "Domain": "www.ivankusalic.com",
+    "Description": "“There is a theory that if anyone discovers exactly why the Universe is here, it will instantly be replaced by something even more bizarre and inexplicable. Another theory states this has already happened.” - Douglas Adams",
+    "Confidence": 0.9957272
+  },
+  {
+    "Title": "Search operators were an API",
+    "Url": "https://www.nklswbr.com/blog/agentic-search-operators",
+    "Timestamp": "2026-02-19T00:03:01",
+    "Domain": "www.nklswbr.com",
+    "Description": "We killed search operators right before AI agents needed them most.",
+    "Confidence": 0.8969712
+  },
+  {
+    "Title": "Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI",
+    "Url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+    "Timestamp": "2026-02-19T00:02:58",
+    "Domain": "georgeguimaraes.com",
+    "Description": "Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.",
+    "Confidence": 0.9826274
+  },
+  {
+    "Title": "Teaching Claude to Write Pony",
+    "Url": "https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/",
+    "Timestamp": "2026-02-19T00:02:54",
+    "Domain": "www.ponylang.io",
+    "Description": "I’m not really sure how to tell the story of me teaching Claude to write Pony, so I’m just going to tell it and see how it goes.",
+    "Confidence": 0.9858517
+  },
+  {
+    "Title": "Don't apologize for replying late to my email - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/",
+    "Timestamp": "2026-02-19T00:02:51",
+    "Domain": "kudmitry.com",
+    "Description": "Before the smart-phone arrived -- together with widely-available GSM networks -- online communication was different.\nI would deliberately have to sit in-front o...",
+    "Confidence": 0.97042596
+  },
+  {
+    "Title": "Rumors of the death of SaaS have been greatly exaggerated",
+    "Url": "https://codemade.net/blog/death-of-saas/",
+    "Timestamp": "2026-02-19T00:02:46",
+    "Domain": "codemade.net",
+    "Description": "No, AI isn't going to bring about the apocalypse of SaaS.",
+    "Confidence": 0.9923488
+  },
+  {
+    "Title": "Future of Software Engineering — Thoughtworks | Lasantha Kularatne",
+    "Url": "https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/",
+    "Timestamp": "2026-02-19T00:02:42",
+    "Domain": "www.lasantha.org",
+    "Description": "Thoughtworks Future of Software Development Retreat key takeaways.",
+    "Confidence": 0.9411988
+  },
+  {
+    "Title": "Design docs are waterfall wearing a hoodie",
+    "Url": "https://www.lucasfcosta.com/blog/design-docs",
+    "Timestamp": "2026-02-19T00:02:39",
+    "Domain": "www.lucasfcosta.com",
+    "Description": "Hot takes and cold truths on software, startups, and the lies we tell ourselves.",
+    "Confidence": 0.98118216
+  },
+  {
+    "Title": "WolfSSL Doesn't Suck",
+    "Url": "https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/",
+    "Timestamp": "2026-02-19T00:02:35",
+    "Domain": "blog.feld.me",
+    "Description": "You're Just Holding It Wrong My previous post made some rounds on the internet. However, there has been a happy ending to this saga. I've revisited my test environment as their requirement of building the library with WOLFSSL_TLS13_MIDDLEBOX_COMPAT and still not seeing any changes in behavior was bothering me. I …",
+    "Confidence": 0.97371876
+  },
+  {
+    "Title": "The future of social media is human",
+    "Url": "https://blog.picheta.me/post/the-future-of-social-media-is-human/",
+    "Timestamp": "2026-02-19T00:02:32",
+    "Domain": "blog.picheta.me",
+    "Description": "We cannot continue participating in social media platforms which do nothing to stop us being tricked by GenAI and the powerful people/governments that control them.",
+    "Confidence": 0.9860309
+  },
+  {
+    "Title": "The End of Local | Charlie Labs",
+    "Url": "https://charlielabs.ai/blog/the-end-of-local/",
+    "Timestamp": "2026-02-19T00:02:28",
+    "Domain": "charlielabs.ai",
+    "Description": "As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default.",
+    "Confidence": 0.99308056
+  },
+  {
     "Title": "Tailscale Peer Relays: Use your own devices as high-throughput relays",
     "Url": "https://tailscale.com/blog/peer-relays-ga",
     "Timestamp": "2026-02-18T22:02:07",
@@ -110,205 +246,5 @@
     "Domain": "www.pcgamer.com",
     "Description": "Projects like Godot are being swamped by contributors who may not even understand the code they're submitting.",
     "Confidence": 0.7714553
-  },
-  {
-    "Title": "Anthropic's 500 vulns are the tip of the iceberg",
-    "Url": "https://martinalderson.com/posts/anthropic-found-500-zero-days/",
-    "Timestamp": "2026-02-18T00:03:48",
-    "Domain": "martinalderson.com",
-    "Description": "Anthropic's red team found 500+ critical vulnerabilities with Claude. But they focused on maintained software. The scarier problem is the long tail that nobody will ever patch.",
-    "Confidence": 0.92926466
-  },
-  {
-    "Title": "The Mythical Agent-Month – Wes McKinney",
-    "Url": "https://wesmckinney.com/blog/mythical-agent-month/",
-    "Timestamp": "2026-02-18T00:03:45",
-    "Domain": "wesmckinney.com",
-    "Description": "",
-    "Confidence": 0.982402
-  },
-  {
-    "Title": "Sam “Claws” Attention Back OpenAI",
-    "Url": "https://om.co/2026/02/16/sam-claws-attention-back-openai/",
-    "Timestamp": "2026-02-18T00:03:41",
-    "Domain": "om.co",
-    "Description": "Sam Altman got his man. Not only to compete with Anthropic’s Claude Code, but also to show the world what is possible with Codex. And at the same time, he got a brand-new story to tell about …",
-    "Confidence": 0.9737771
-  },
-  {
-    "Title": "The End of Cargo Culting Startup Accelerators – Garrick van Buren",
-    "Url": "https://garrickvanburen.com/end-of-accelerators/",
-    "Timestamp": "2026-02-18T00:03:37",
-    "Domain": "garrickvanburen.com",
-    "Description": "TLDR; Investor-focused accelerator programs no longer serve founders or investors.",
-    "Confidence": 0.79957086
-  },
-  {
-    "Title": "Hands-Off Coding",
-    "Url": "https://rieble.com/blog/hands-off-coding/",
-    "Timestamp": "2026-02-18T00:03:34",
-    "Domain": "rieble.com",
-    "Description": "Software engineer economics are broken. Everything will change. Here is what changed for me so far.",
-    "Confidence": 0.9928843
-  },
-  {
-    "Title": "Can Opus 4.6 do Category Theory in Lean? - Stephen Diehl",
-    "Url": "https://www.stephendiehl.com/posts/lean-opus-blog/",
-    "Timestamp": "2026-02-18T00:03:31",
-    "Domain": "www.stephendiehl.com",
-    "Description": "Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future",
-    "Confidence": 0.9837246
-  },
-  {
-    "Title": "Deterministic Core, Agentic Shell",
-    "Url": "https://blog.davemo.com/posts/2026-02-14-deterministic-core-agentic-shell.html",
-    "Timestamp": "2026-02-18T00:03:27",
-    "Domain": "blog.davemo.com",
-    "Description": "How do you make AI agents deterministic? Put a state machine at the core. A pragmatic architecture pattern for AI agents using Mastra and XState.",
-    "Confidence": 0.9892959
-  },
-  {
-    "Title": "Approaches to writing two-sentence journal entries",
-    "Url": "https://alexanderbjoy.com/two-sentence-journal-approaches/",
-    "Timestamp": "2026-02-18T00:03:23",
-    "Domain": "alexanderbjoy.com",
-    "Description": "Methods for writing and organizing your two-sentence journal.",
-    "Confidence": 0.97208035
-  },
-  {
-    "Title": "The Code Nobody Reads",
-    "Url": "https://www.kuril.in/blog/the-code-nobody-reads/",
-    "Timestamp": "2026-02-18T00:03:20",
-    "Domain": "www.kuril.in",
-    "Description": "Coding agents can ship faster than humans can understand. This essay explores cognitive debt, fog-of-war code ownership, and the tradeoff between velocity and deep system understanding.",
-    "Confidence": 0.97874033
-  },
-  {
-    "Title": "How to Get Lucky: Focus On The Fat Tails",
-    "Url": "https://taylorpearson.me/luck/",
-    "Timestamp": "2026-02-18T00:03:17",
-    "Domain": "taylorpearson.me",
-    "Description": "Almost everyone systematically under-allocates resources to the fat tails. We tend to spend most of our time and energy thinking about the middle, because we see the world through a bell curve lens, and most of the area in a bell curve is in the middle. But in reality, we live in an 80/20 world, where the top 1% of fat tails account for 50% of the results. The people who understand this seem to attract luck, but really they’ve just adopted the 80/20 curve model.",
-    "Confidence": 0.9105831
-  },
-  {
-    "Title": "Index, Count, Offset, Size",
-    "Url": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
-    "Timestamp": "2026-02-18T00:03:12",
-    "Domain": "tigerbeetle.com",
-    "Description": "Insights, updates, and technical deep dives on building a high-performance financial transactions database.",
-    "Confidence": 0.996066
-  },
-  {
-    "Title": "Your Backlog Can’t Keep Up With Your Agents | Sam Boyd",
-    "Url": "https://samboyd.dev/blog/ai-product-engineer",
-    "Timestamp": "2026-02-18T00:03:09",
-    "Domain": "samboyd.dev",
-    "Description": "We're seeing an explosion in AI coding agents that enable people to write software faster than ever. That shifts the bottleneck from writing code to choosing and validating what to build next.",
-    "Confidence": 0.9907864
-  },
-  {
-    "Title": "Open Source Is Getting Used to Death — jd:/dev/blog",
-    "Url": "https://julien.danjou.info/blog/open-source-is-getting-used-to-death/",
-    "Timestamp": "2026-02-18T00:03:05",
-    "Domain": "julien.danjou.info",
-    "Description": "AI broke the implicit deal that sustained open source for 30 years. Usage is up. Engagement is gone. The economics don't work anymore.",
-    "Confidence": 0.9831674
-  },
-  {
-    "Title": "This site runs on 30GB of RAM",
-    "Url": "https://nebezb.com/30gb-ram/",
-    "Timestamp": "2026-02-18T00:03:02",
-    "Domain": "nebezb.com",
-    "Description": "My residential internet gateway is a two-in-one optical network terminal (ONT) and home router. The gateway is configurable only through a web interface my ISP controls and they, unsurprisingly, expose very few gears and knobs for me to play with. This must be intentional on their part. They probably get a lot less tech support calls from people locking themselves out. I’m slightly annoyed about waiting 15 minutes for the DHCP lease list to update, but not annoyed enough to do anything about it. $60/month gets me 2 gbps up/down. That’s a great deal even if it means I can’t customize much.",
-    "Confidence": 0.9780838
-  },
-  {
-    "Title": "Turning Your Robot Vacuum Into a Mesh VPN | Daniel Saewitz",
-    "Url": "https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn",
-    "Timestamp": "2026-02-18T00:02:58",
-    "Domain": "saewitz.com",
-    "Description": "I bought a robot vacuum and went down a path of understanding how wi-fi enabled devices can cross a line of security and privacy. In doing so, I figured out how we can keep our devices secure and isolated to our own private networks while still being able to operate them from anywhere in the world.",
-    "Confidence": 0.97353023
-  },
-  {
-    "Title": "How I Built My Mobile Second Brain - Rob Dodson",
-    "Url": "https://robdodson.me/posts/how-i-built-my-mobile-second-brain/",
-    "Timestamp": "2026-02-18T00:02:54",
-    "Domain": "robdodson.me",
-    "Description": "A step-by-step guide to running Obsidian, Claude Code, and Happy CLI on a DigitalOcean droplet so you can access your AI-powered second brain from your phone.",
-    "Confidence": 0.9975999
-  },
-  {
-    "Title": "(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup",
-    "Url": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
-    "Timestamp": "2026-02-18T00:02:47",
-    "Domain": "cep.dev",
-    "Description": "Assortment of technology startup infrastructure recommendations",
-    "Confidence": 0.993127
-  },
-  {
-    "Title": "Spontaneous Human-Robot Interaction: Embracing the Unplanned",
-    "Url": "https://francescovigni.com/blog/spontaneous-hri/",
-    "Timestamp": "2026-02-18T00:02:44",
-    "Domain": "francescovigni.com",
-    "Description": "Robotics & AI Engineer (Ph.D.) — Human-Robot Interaction, Applied AI, Computer Vision.",
-    "Confidence": 0.9813803
-  },
-  {
-    "Title": "How to review an AUR package",
-    "Url": "https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html",
-    "Timestamp": "2026-02-18T00:02:41",
-    "Domain": "bertptrs.nl",
-    "Description": "On Friday, July 18th, 2025, the Arch Linux team was notified that three AUR packages had been uploaded that contained malware. A few maintainers including myself took care of deleting these packages, removing all traces of the malicious code, and protecting against future malicious uploads.",
-    "Confidence": 0.9937376
-  },
-  {
-    "Title": "How I use Obsidian",
-    "Url": "https://stephango.com/vault",
-    "Timestamp": "2026-02-18T00:02:37",
-    "Domain": "stephango.com",
-    "Description": "My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.",
-    "Confidence": 0.9835172
-  },
-  {
-    "Title": "The software engineer identity crisis",
-    "Url": "https://adamfletcher.com/writing/software-engineer-identity-crisis/",
-    "Timestamp": "2026-02-18T00:02:34",
-    "Domain": "adamfletcher.com",
-    "Description": "Software engineering has changed forever. We're far from reaching AI-assisted programming's final form, but it's already clear that the majority of code produced will no longer involve a human typing it out. For some people that's an uncontroversial and obvious statement. Others will dismiss it as overhyping AI's utility.  Irrespective of where you fall on the pro-AI vs anti-AI spectrum, the change can be deeply unsettling when, until now, your job has been to write the code that AI is now generating.",
-    "Confidence": 0.98383415
-  },
-  {
-    "Title": "matduggan.com",
-    "Url": "https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/",
-    "Timestamp": "2026-02-18T00:02:31",
-    "Domain": "matduggan.com",
-    "Description": "It's JSON all the way down",
-    "Confidence": 0.9592047
-  },
-  {
-    "Title": "Fast sorting, branchless by design",
-    "Url": "https://00f.net/2026/02/17/sorting-without-leaking-secrets/",
-    "Timestamp": "2026-02-18T00:02:27",
-    "Domain": "00f.net",
-    "Description": "Sorting is one of the most studied problems in computer science. Every language ships a built-in sort, and for most applications, picking the right one ...",
-    "Confidence": 0.9954782
-  },
-  {
-    "Title": "My Entire Blog History as Calendar Events",
-    "Url": "https://www.joshbeckman.org/blog/ical-feeds-for-a-jekyll-site",
-    "Timestamp": "2026-02-18T00:02:23",
-    "Domain": "www.joshbeckman.org",
-    "Description": "I built a Jekyll plugin that generates iCal feeds so I can see my entire posting history in my calendar.",
-    "Confidence": 0.8916665
-  },
-  {
-    "Title": "Magic words need measuring sticks",
-    "Url": "https://jotter.jonathankingston.co.uk/blog/2026/02/17/magic-words-need-measuring-sticks/",
-    "Timestamp": "2026-02-18T00:02:19",
-    "Domain": "jotter.jonathankingston.co.uk",
-    "Description": "Dave Rupert's Magic Words names a thing I've been stewing on. Skills, MDC rules, and system prompts are all incantations. We write them, ship them, a...",
-    "Confidence": 0.97520876
   }
 ]

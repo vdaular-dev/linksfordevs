@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "vibe-infer: Learning GPU Programming with Claude Code",
+    "Url": "https://blog.vtemian.com/post/vibe-infer/",
+    "Timestamp": "2026-02-19T00:03:28",
+    "Domain": "blog.vtemian.com",
+    "Description": "Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable."
+  },
+  {
+    "Title": "My experience building a Node.js Native Module using an LLM",
+    "Url": "https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm",
+    "Timestamp": "2026-02-19T00:03:23",
+    "Domain": "thomashunter.name",
+    "Description": "8 min read    Feb 17, 2026"
+  },
+  {
+    "Title": "I Built a Slop Factory and a Bot Wanted To Feature It",
+    "Url": "https://raka.gunar.to/blog/2026/02/18/slopinator-9000/",
+    "Timestamp": "2026-02-19T00:03:19",
+    "Domain": "raka.gunar.to",
+    "Description": "Building a satirical AI slop generator, getting auto-scouted by what is almost certainly another bot, and why the internet is slowly eating itself"
+  },
+  {
+    "Title": "The Death of the Software Moat: Knowledge Bootstraps in 2026",
+    "Url": "https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/",
+    "Timestamp": "2026-02-19T00:03:16",
+    "Domain": "xaviergeerinck.com",
+    "Description": "AI is killing the software moat. Learn why OpenAI buys \"Taste\" over code, and how selling a Knowledge Bootstrap can protect your enterprise IP in the AI era."
+  },
+  {
+    "Title": "The Cost of Code Is Going to Zero",
+    "Url": "https://keon.kim/writing/cost-of-code-is-going-to-zero/",
+    "Timestamp": "2026-02-19T00:03:12",
+    "Domain": "keon.kim",
+    "Description": "AI is doing to software what the internet did to newspapers, and most SaaS companies aren't ready."
+  },
+  {
+    "Title": "Coding assistant experience",
+    "Url": "https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/",
+    "Timestamp": "2026-02-19T00:03:09",
+    "Domain": "scottlocklin.wordpress.com",
+    "Description": "I’m a modest LLM skeptic. It’s not that I don’t believe in LLMs, I am aware that they exist, I just know that they’re not doing what people do when we think, and that they&#…"
+  },
+  {
+    "Title": "Software Engineering Is a Joke (Three of Them, Actually)",
+    "Url": "https://www.ivankusalic.com/software-engineering-ironies/",
+    "Timestamp": "2026-02-19T00:03:05",
+    "Domain": "www.ivankusalic.com",
+    "Description": "“There is a theory that if anyone discovers exactly why the Universe is here, it will instantly be replaced by something even more bizarre and inexplicable. Another theory states this has already happened.” - Douglas Adams"
+  },
+  {
+    "Title": "Search operators were an API",
+    "Url": "https://www.nklswbr.com/blog/agentic-search-operators",
+    "Timestamp": "2026-02-19T00:03:01",
+    "Domain": "www.nklswbr.com",
+    "Description": "We killed search operators right before AI agents needed them most."
+  },
+  {
+    "Title": "Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI",
+    "Url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+    "Timestamp": "2026-02-19T00:02:58",
+    "Domain": "georgeguimaraes.com",
+    "Description": "Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents."
+  },
+  {
+    "Title": "Teaching Claude to Write Pony",
+    "Url": "https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/",
+    "Timestamp": "2026-02-19T00:02:54",
+    "Domain": "www.ponylang.io",
+    "Description": "I’m not really sure how to tell the story of me teaching Claude to write Pony, so I’m just going to tell it and see how it goes."
+  },
+  {
+    "Title": "Don't apologize for replying late to my email - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/",
+    "Timestamp": "2026-02-19T00:02:51",
+    "Domain": "kudmitry.com",
+    "Description": "Before the smart-phone arrived -- together with widely-available GSM networks -- online communication was different.\nI would deliberately have to sit in-front o..."
+  },
+  {
+    "Title": "Rumors of the death of SaaS have been greatly exaggerated",
+    "Url": "https://codemade.net/blog/death-of-saas/",
+    "Timestamp": "2026-02-19T00:02:46",
+    "Domain": "codemade.net",
+    "Description": "No, AI isn't going to bring about the apocalypse of SaaS."
+  },
+  {
+    "Title": "Future of Software Engineering — Thoughtworks | Lasantha Kularatne",
+    "Url": "https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/",
+    "Timestamp": "2026-02-19T00:02:42",
+    "Domain": "www.lasantha.org",
+    "Description": "Thoughtworks Future of Software Development Retreat key takeaways."
+  },
+  {
+    "Title": "Design docs are waterfall wearing a hoodie",
+    "Url": "https://www.lucasfcosta.com/blog/design-docs",
+    "Timestamp": "2026-02-19T00:02:39",
+    "Domain": "www.lucasfcosta.com",
+    "Description": "Hot takes and cold truths on software, startups, and the lies we tell ourselves."
+  },
+  {
+    "Title": "WolfSSL Doesn't Suck",
+    "Url": "https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/",
+    "Timestamp": "2026-02-19T00:02:35",
+    "Domain": "blog.feld.me",
+    "Description": "You're Just Holding It Wrong My previous post made some rounds on the internet. However, there has been a happy ending to this saga. I've revisited my test environment as their requirement of building the library with WOLFSSL_TLS13_MIDDLEBOX_COMPAT and still not seeing any changes in behavior was bothering me. I …"
+  },
+  {
+    "Title": "The future of social media is human",
+    "Url": "https://blog.picheta.me/post/the-future-of-social-media-is-human/",
+    "Timestamp": "2026-02-19T00:02:32",
+    "Domain": "blog.picheta.me",
+    "Description": "We cannot continue participating in social media platforms which do nothing to stop us being tricked by GenAI and the powerful people/governments that control them."
+  },
+  {
+    "Title": "The End of Local | Charlie Labs",
+    "Url": "https://charlielabs.ai/blog/the-end-of-local/",
+    "Timestamp": "2026-02-19T00:02:28",
+    "Domain": "charlielabs.ai",
+    "Description": "As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default."
+  }
+]

@@ -7,6 +7,167 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>vibe-infer: Learning GPU Programming with Claude Code</title>
+      <link>https://blog.vtemian.com/post/vibe-infer/</link>
+      <description>Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://blog.vtemian.com/post/vibe-infer/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>My experience building a Node.js Native Module using an LLM</title>
+      <link>https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm</link>
+      <description>8 min read    Feb 17, 2026</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Built a Slop Factory and a Bot Wanted To Feature It</title>
+      <link>https://raka.gunar.to/blog/2026/02/18/slopinator-9000/</link>
+      <description>Building a satirical AI slop generator, getting auto-scouted by what is almost certainly another bot, and why the internet is slowly eating itself</description>
+      <category>ai</category>
+      <guid>https://raka.gunar.to/blog/2026/02/18/slopinator-9000/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Death of the Software Moat: Knowledge Bootstraps in 2026</title>
+      <link>https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/</link>
+      <description>AI is killing the software moat. Learn why OpenAI buys "Taste" over code, and how selling a Knowledge Bootstrap can protect your enterprise IP in the AI era.</description>
+      <category>ai</category>
+      <guid>https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Cost of Code Is Going to Zero</title>
+      <link>https://keon.kim/writing/cost-of-code-is-going-to-zero/</link>
+      <description>AI is doing to software what the internet did to newspapers, and most SaaS companies aren't ready.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://keon.kim/writing/cost-of-code-is-going-to-zero/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coding assistant experience</title>
+      <link>https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/</link>
+      <description>I’m a modest LLM skeptic. It’s not that I don’t believe in LLMs, I am aware that they exist, I just know that they’re not doing what people do when we think, and that they&amp;#…</description>
+      <category>python</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Engineering Is a Joke (Three of Them, Actually)</title>
+      <link>https://www.ivankusalic.com/software-engineering-ironies/</link>
+      <description>“There is a theory that if anyone discovers exactly why the Universe is here, it will instantly be replaced by something even more bizarre and inexplicable. Another theory states this has already happened.” - Douglas Adams</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.ivankusalic.com/software-engineering-ironies/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Search operators were an API</title>
+      <link>https://www.nklswbr.com/blog/agentic-search-operators</link>
+      <description>We killed search operators right before AI agents needed them most.</description>
+      <category>ai</category>
+      <guid>https://www.nklswbr.com/blog/agentic-search-operators</guid>
+      <pubDate>Thu, 19 Feb 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI</title>
+      <link>https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/</link>
+      <description>Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teaching Claude to Write Pony</title>
+      <link>https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/</link>
+      <description>I’m not really sure how to tell the story of me teaching Claude to write Pony, so I’m just going to tell it and see how it goes.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't apologize for replying late to my email - Dmitry Kudryavtsev</title>
+      <link>https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/</link>
+      <description>Before the smart-phone arrived -- together with widely-available GSM networks -- online communication was different.
+I would deliberately have to sit in-front o...</description>
+      <guid>https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rumors of the death of SaaS have been greatly exaggerated</title>
+      <link>https://codemade.net/blog/death-of-saas/</link>
+      <description>No, AI isn't going to bring about the apocalypse of SaaS.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://codemade.net/blog/death-of-saas/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Future of Software Engineering — Thoughtworks | Lasantha Kularatne</title>
+      <link>https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/</link>
+      <description>Thoughtworks Future of Software Development Retreat key takeaways.</description>
+      <category>ai</category>
+      <guid>https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Design docs are waterfall wearing a hoodie</title>
+      <link>https://www.lucasfcosta.com/blog/design-docs</link>
+      <description>Hot takes and cold truths on software, startups, and the lies we tell ourselves.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://www.lucasfcosta.com/blog/design-docs</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>WolfSSL Doesn't Suck</title>
+      <link>https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/</link>
+      <description>You're Just Holding It Wrong My previous post made some rounds on the internet. However, there has been a happy ending to this saga. I've revisited my test environment as their requirement of building the library with WOLFSSL_TLS13_MIDDLEBOX_COMPAT and still not seeing any changes in behavior was bothering me. I …</description>
+      <author> (feld)</author>
+      <guid>https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>The future of social media is human</title>
+      <link>https://blog.picheta.me/post/the-future-of-social-media-is-human/</link>
+      <description>We cannot continue participating in social media platforms which do nothing to stop us being tricked by GenAI and the powerful people/governments that control them.</description>
+      <author> (Dominik Picheta)</author>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://blog.picheta.me/post/the-future-of-social-media-is-human/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>The End of Local | Charlie Labs</title>
+      <link>https://charlielabs.ai/blog/the-end-of-local/</link>
+      <description>As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://charlielabs.ai/blog/the-end-of-local/</guid>
+      <pubDate>Thu, 19 Feb 2026 00:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Tailscale Peer Relays: Use your own devices as high-throughput relays</title>
       <link>https://tailscale.com/blog/peer-relays-ga</link>
       <description>Work around hard NATs and tricky networks with production-grade connectivity nodes you control</description>
@@ -136,242 +297,6 @@ Raspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hail
       <category>gaming</category>
       <guid>https://www.pcgamer.com/software/platforms/open-source-game-engine-godot-is-drowning-in-ai-slop-code-contributions-i-dont-know-how-long-we-can-keep-it-up/</guid>
       <pubDate>Wed, 18 Feb 2026 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's 500 vulns are the tip of the iceberg</title>
-      <link>https://martinalderson.com/posts/anthropic-found-500-zero-days/</link>
-      <description>Anthropic's red team found 500+ critical vulnerabilities with Claude. But they focused on maintained software. The scarier problem is the long tail that nobody will ever patch.</description>
-      <author> (Martin Alderson)</author>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://martinalderson.com/posts/anthropic-found-500-zero-days/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Mythical Agent-Month – Wes McKinney</title>
-      <link>https://wesmckinney.com/blog/mythical-agent-month/</link>
-      <description></description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://wesmckinney.com/blog/mythical-agent-month/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam “Claws” Attention Back OpenAI</title>
-      <link>https://om.co/2026/02/16/sam-claws-attention-back-openai/</link>
-      <description>Sam Altman got his man. Not only to compete with Anthropic’s Claude Code, but also to show the world what is possible with Codex. And at the same time, he got a brand-new story to tell about …</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://om.co/2026/02/16/sam-claws-attention-back-openai/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>The End of Cargo Culting Startup Accelerators – Garrick van Buren</title>
-      <link>https://garrickvanburen.com/end-of-accelerators/</link>
-      <description>TLDR; Investor-focused accelerator programs no longer serve founders or investors.</description>
-      <guid>https://garrickvanburen.com/end-of-accelerators/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hands-Off Coding</title>
-      <link>https://rieble.com/blog/hands-off-coding/</link>
-      <description>Software engineer economics are broken. Everything will change. Here is what changed for me so far.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://rieble.com/blog/hands-off-coding/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can Opus 4.6 do Category Theory in Lean? - Stephen Diehl</title>
-      <link>https://www.stephendiehl.com/posts/lean-opus-blog/</link>
-      <description>Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future</description>
-      <author> (Stephen Diehl)</author>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://www.stephendiehl.com/posts/lean-opus-blog/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deterministic Core, Agentic Shell</title>
-      <link>https://blog.davemo.com/posts/2026-02-14-deterministic-core-agentic-shell.html</link>
-      <description>How do you make AI agents deterministic? Put a state machine at the core. A pragmatic architecture pattern for AI agents using Mastra and XState.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://blog.davemo.com/posts/2026-02-14-deterministic-core-agentic-shell.html</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Approaches to writing two-sentence journal entries</title>
-      <link>https://alexanderbjoy.com/two-sentence-journal-approaches/</link>
-      <description>Methods for writing and organizing your two-sentence journal.</description>
-      <guid>https://alexanderbjoy.com/two-sentence-journal-approaches/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Code Nobody Reads</title>
-      <link>https://www.kuril.in/blog/the-code-nobody-reads/</link>
-      <description>Coding agents can ship faster than humans can understand. This essay explores cognitive debt, fog-of-war code ownership, and the tradeoff between velocity and deep system understanding.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.kuril.in/blog/the-code-nobody-reads/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Get Lucky: Focus On The Fat Tails</title>
-      <link>https://taylorpearson.me/luck/</link>
-      <description>Almost everyone systematically under-allocates resources to the fat tails. We tend to spend most of our time and energy thinking about the middle, because we see the world through a bell curve lens, and most of the area in a bell curve is in the middle. But in reality, we live in an 80/20 world, where the top 1% of fat tails account for 50% of the results. The people who understand this seem to attract luck, but really they’ve just adopted the 80/20 curve model.</description>
-      <guid>https://taylorpearson.me/luck/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Index, Count, Offset, Size</title>
-      <link>https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/</link>
-      <description>Insights, updates, and technical deep dives on building a high-performance financial transactions database.</description>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>python</category>
-      <guid>https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Backlog Can’t Keep Up With Your Agents | Sam Boyd</title>
-      <link>https://samboyd.dev/blog/ai-product-engineer</link>
-      <description>We're seeing an explosion in AI coding agents that enable people to write software faster than ever. That shifts the bottleneck from writing code to choosing and validating what to build next.</description>
-      <category>ai</category>
-      <guid>https://samboyd.dev/blog/ai-product-engineer</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source Is Getting Used to Death — jd:/dev/blog</title>
-      <link>https://julien.danjou.info/blog/open-source-is-getting-used-to-death/</link>
-      <description>AI broke the implicit deal that sustained open source for 30 years. Usage is up. Engagement is gone. The economics don't work anymore.</description>
-      <author> (https://julien.danjou.info/about)</author>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>web</category>
-      <guid>https://julien.danjou.info/blog/open-source-is-getting-used-to-death/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>This site runs on 30GB of RAM</title>
-      <link>https://nebezb.com/30gb-ram/</link>
-      <description>My residential internet gateway is a two-in-one optical network terminal (ONT) and home router. The gateway is configurable only through a web interface my ISP controls and they, unsurprisingly, expose very few gears and knobs for me to play with. This must be intentional on their part. They probably get a lot less tech support calls from people locking themselves out. I’m slightly annoyed about waiting 15 minutes for the DHCP lease list to update, but not annoyed enough to do anything about it. $60/month gets me 2 gbps up/down. That’s a great deal even if it means I can’t customize much.</description>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://nebezb.com/30gb-ram/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turning Your Robot Vacuum Into a Mesh VPN | Daniel Saewitz</title>
-      <link>https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn</link>
-      <description>I bought a robot vacuum and went down a path of understanding how wi-fi enabled devices can cross a line of security and privacy. In doing so, I figured out how we can keep our devices secure and isolated to our own private networks while still being able to operate them from anywhere in the world.</description>
-      <author> (Daniel Saewitz)</author>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Built My Mobile Second Brain - Rob Dodson</title>
-      <link>https://robdodson.me/posts/how-i-built-my-mobile-second-brain/</link>
-      <description>A step-by-step guide to running Obsidian, Claude Code, and Happy CLI on a DigitalOcean droplet so you can access your AI-powered second brain from your phone.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://robdodson.me/posts/how-i-built-my-mobile-second-brain/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup</title>
-      <link>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</link>
-      <description>Assortment of technology startup infrastructure recommendations</description>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>linux</category>
-      <guid>https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spontaneous Human-Robot Interaction: Embracing the Unplanned</title>
-      <link>https://francescovigni.com/blog/spontaneous-hri/</link>
-      <description>Robotics &amp; AI Engineer (Ph.D.) — Human-Robot Interaction, Applied AI, Computer Vision.</description>
-      <guid>https://francescovigni.com/blog/spontaneous-hri/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to review an AUR package</title>
-      <link>https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html</link>
-      <description>On Friday, July 18th, 2025, the Arch Linux team was notified that three AUR packages had been uploaded that contained malware. A few maintainers including myself took care of deleting these packages, removing all traces of the malicious code, and protecting against future malicious uploads.</description>
-      <category>nodejs</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <guid>https://bertptrs.nl/2026/01/30/how-to-review-an-aur-package.html</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I use Obsidian</title>
-      <link>https://stephango.com/vault</link>
-      <description>My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://stephango.com/vault</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>The software engineer identity crisis</title>
-      <link>https://adamfletcher.com/writing/software-engineer-identity-crisis/</link>
-      <description>Software engineering has changed forever. We're far from reaching AI-assisted programming's final form, but it's already clear that the majority of code produced will no longer involve a human typing it out. For some people that's an uncontroversial and obvious statement. Others will dismiss it as overhyping AI's utility.  Irrespective of where you fall on the pro-AI vs anti-AI spectrum, the change can be deeply unsettling when, until now, your job has been to write the code that AI is now generating.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://adamfletcher.com/writing/software-engineer-identity-crisis/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>matduggan.com</title>
-      <link>https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/</link>
-      <description>It's JSON all the way down</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>containers</category>
-      <category>nodejs</category>
-      <guid>https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fast sorting, branchless by design</title>
-      <link>https://00f.net/2026/02/17/sorting-without-leaking-secrets/</link>
-      <description>Sorting is one of the most studied problems in computer science. Every language ships a built-in sort, and for most applications, picking the right one ...</description>
-      <author> (Frank Denis (Jedi/Sector One))</author>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://00f.net/2026/02/17/sorting-without-leaking-secrets/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Entire Blog History as Calendar Events</title>
-      <link>https://www.joshbeckman.org/blog/ical-feeds-for-a-jekyll-site</link>
-      <description>I built a Jekyll plugin that generates iCal feeds so I can see my entire posting history in my calendar.</description>
-      <author> (https://www.joshbeckman.org/about/)</author>
-      <category>ruby</category>
-      <guid>https://www.joshbeckman.org/blog/ical-feeds-for-a-jekyll-site</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Magic words need measuring sticks</title>
-      <link>https://jotter.jonathankingston.co.uk/blog/2026/02/17/magic-words-need-measuring-sticks/</link>
-      <description>Dave Rupert's Magic Words names a thing I've been stewing on. Skills, MDC rules, and system prompts are all incantations. We write them, ship them, a...</description>
-      <category>ai</category>
-      <guid>https://jotter.jonathankingston.co.uk/blog/2026/02/17/magic-words-need-measuring-sticks/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
