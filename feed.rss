@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>micasa — your house, in a terminal</title>
+      <link>https://micasa.dev/</link>
+      <description>A terminal UI for tracking everything about your home. Single SQLite file. No cloud. No account. No subscriptions.</description>
+      <category>sql</category>
+      <guid>https://micasa.dev/</guid>
+      <pubDate>Thu, 19 Feb 2026 21:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>AI makes you boring</title>
       <link>https://www.marginalia.nu/log/a_132_ai_bores/</link>
       <description>This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
@@ -288,16 +296,6 @@ I would deliberately have to sit in-front o...</description>
       <category>cloud</category>
       <guid>https://tailscale.com/blog/peer-relays-ga</guid>
       <pubDate>Wed, 18 Feb 2026 22:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frigate with Hailo for object detection on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</link>
-      <description>I run Frigate to record security cameras and detect people, cars, and animals when in view. My current Frigate server runs on a Raspberry Pi CM4 and a Coral TPU plugged in via USB.
-Raspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hailo-8 or Hailo-8L AI coprocessors, and they're useful for low-power inference (like for image object detection) on the Pi. Hailo coprocessors can be used with other SBCs and computers too, if you buy an M.2 version.</description>
-      <category>containers</category>
-      <category>ai</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</guid>
-      <pubDate>Wed, 18 Feb 2026 21:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>

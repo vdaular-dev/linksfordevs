@@ -1,5 +1,13 @@
 [
   {
+    "Title": "micasa — your house, in a terminal",
+    "Url": "https://micasa.dev/",
+    "Timestamp": "2026-02-19T21:02:11",
+    "Domain": "micasa.dev",
+    "Description": "A terminal UI for tracking everything about your home. Single SQLite file. No cloud. No account. No subscriptions.",
+    "Confidence": 0.7734519
+  },
+  {
     "Title": "AI makes you boring",
     "Url": "https://www.marginalia.nu/log/a_132_ai_bores/",
     "Timestamp": "2026-02-19T20:02:13",
@@ -214,13 +222,5 @@
     "Domain": "tailscale.com",
     "Description": "Work around hard NATs and tricky networks with production-grade connectivity nodes you control",
     "Confidence": 0.9787429
-  },
-  {
-    "Title": "Frigate with Hailo for object detection on a Raspberry Pi",
-    "Url": "https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/",
-    "Timestamp": "2026-02-18T21:02:16",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "I run Frigate to record security cameras and detect people, cars, and animals when in view. My current Frigate server runs on a Raspberry Pi CM4 and a Coral TPU plugged in via USB.\nRaspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hailo-8 or Hailo-8L AI coprocessors, and they're useful for low-power inference (like for image object detection) on the Pi. Hailo coprocessors can be used with other SBCs and computers too, if you buy an M.2 version.",
-    "Confidence": 0.95999324
   }
 ]
