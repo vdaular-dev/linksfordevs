@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI is destroying open source, and it's not even good yet",
+    "Url": "https://youtube.com/watch?v=bZJ7A1QoUEI",
+    "Timestamp": "2026-02-19T09:01:53",
+    "Domain": "youtube.com",
+    "Description": "This is why we can't have nice things.\n\nReferenced in this video:\n\n  - Ars Technica's redaction: https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/\n  - Ars Technica Author's response: https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p\n  - Scott Shambaugh's post on AI Agent Hit Piece: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/\n  - OpenClaw: https://openclaw.ai\n  - OpenClaw author moves to OpenAI: https://steipete.me/posts/2026/openclaw\n  - The End of the Curl Bug Bounty: https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/\n  - My GitHub: https://github.com/geerlingguy\n  - GitHub's new PR settings: https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/\n  - My blog migration from Drupal to Hugo: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/\n  - Yahoo article on NFT Fallout: https://uk.finance.yahoo.com/news/what-happened-to-nfts-094039263.html\n  - PCPartPicker Hard Drive price trends: https://pcpartpicker.com/trends/price/internal-hard-drive/\n  - Western Digital is sold out of hard drives for 2026: https://www.tomshardware.com/pc-components/hdds/western-digital-is-already-sold-out-of-hard-drives-for-all-of-2026-chief-says-some-long-term-agreements-for-2027-and-2028-already-in-place\n\nSupport me on Patreon: https://www.patreon.com/geerlingguy\nSponsor me on GitHub: https://github.com/sponsors/geerlingguy\nMerch: https://www.redshirtjeff.com\n2nd Channel: https://www.youtube.com/@GeerlingEngineering\n3rd Channel: https://www.youtube.com/@Level2Jeff",
+    "Confidence": 0.9833728
+  },
+  {
     "Title": "Legal and compliance - Claude Code Docs",
     "Url": "https://code.claude.com/docs/en/legal-and-compliance",
     "Timestamp": "2026-02-19T08:02:01",
@@ -230,13 +238,5 @@
     "Domain": "idiallo.com",
     "Description": "How did we do it before ChatGPT? How did we write full sentences, connect ideas into a coherent arc, solve problems that had no obvious answer? We thought. That's it. We simply sat with discomfort lon",
     "Confidence": 0.96499413
-  },
-  {
-    "Title": "15+ years later, Microsoft morged my diagram",
-    "Url": "https://nvie.com/posts/15-years-later/",
-    "Timestamp": "2026-02-18T09:02:05",
-    "Domain": "nvie.com",
-    "Description": "How Microsoft continvoucly morged my Git branching diagram.",
-    "Confidence": 0.96654314
   }
 ]

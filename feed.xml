@@ -7,6 +7,39 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI is destroying open source, and it's not even good yet</title>
+      <link>https://youtube.com/watch?v=bZJ7A1QoUEI</link>
+      <description>This is why we can't have nice things.
+
+Referenced in this video:
+
+  - Ars Technica's redaction: https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/
+  - Ars Technica Author's response: https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p
+  - Scott Shambaugh's post on AI Agent Hit Piece: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+  - OpenClaw: https://openclaw.ai
+  - OpenClaw author moves to OpenAI: https://steipete.me/posts/2026/openclaw
+  - The End of the Curl Bug Bounty: https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/
+  - My GitHub: https://github.com/geerlingguy
+  - GitHub's new PR settings: https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/
+  - My blog migration from Drupal to Hugo: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/
+  - Yahoo article on NFT Fallout: https://uk.finance.yahoo.com/news/what-happened-to-nfts-094039263.html
+  - PCPartPicker Hard Drive price trends: https://pcpartpicker.com/trends/price/internal-hard-drive/
+  - Western Digital is sold out of hard drives for 2026: https://www.tomshardware.com/pc-components/hdds/western-digital-is-already-sold-out-of-hard-drives-for-all-of-2026-chief-says-some-long-term-agreements-for-2027-and-2028-already-in-place
+
+Support me on Patreon: https://www.patreon.com/geerlingguy
+Sponsor me on GitHub: https://github.com/sponsors/geerlingguy
+Merch: https://www.redshirtjeff.com
+2nd Channel: https://www.youtube.com/@GeerlingEngineering
+3rd Channel: https://www.youtube.com/@Level2Jeff</description>
+      <author> (Jeff Geerling)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://youtube.com/watch?v=bZJ7A1QoUEI</guid>
+      <pubDate>Thu, 19 Feb 2026 09:01:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Legal and compliance - Claude Code Docs</title>
       <link>https://code.claude.com/docs/en/legal-and-compliance</link>
       <description>Legal agreements, compliance certifications, and security information for Claude Code.</description>
@@ -281,16 +314,6 @@ Raspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hail
       <category>ai</category>
       <guid>https://idiallo.com/blog/taking-our-mind-for-granted?src=feed</guid>
       <pubDate>Wed, 18 Feb 2026 12:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>15+ years later, Microsoft morged my diagram</title>
-      <link>https://nvie.com/posts/15-years-later/</link>
-      <description>How Microsoft continvoucly morged my Git branching diagram.</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://nvie.com/posts/15-years-later/</guid>
-      <pubDate>Wed, 18 Feb 2026 09:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
