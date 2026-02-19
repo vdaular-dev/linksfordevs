@@ -1,5 +1,13 @@
 [
   {
+    "Title": "XC-BASIC Shoot 'em Up: Programming the PET Part 2",
+    "Url": "https://retrogamecoders.com/xc-basic-shoot-em-up/",
+    "Timestamp": "2026-02-19T16:02:08",
+    "Domain": "retrogamecoders.com",
+    "Description": "In \"Programming the Commodore PET part 2\" we start coding a single-screen shoot 'em up video game using XC-BASIC.",
+    "Confidence": 0.9876888
+  },
+  {
     "Title": "AI is destroying open source, and it's not even good yet",
     "Url": "https://youtube.com/watch?v=bZJ7A1QoUEI",
     "Timestamp": "2026-02-19T09:01:53",
@@ -190,13 +198,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "I run Frigate to record security cameras and detect people, cars, and animals when in view. My current Frigate server runs on a Raspberry Pi CM4 and a Coral TPU plugged in via USB.\nRaspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hailo-8 or Hailo-8L AI coprocessors, and they're useful for low-power inference (like for image object detection) on the Pi. Hailo coprocessors can be used with other SBCs and computers too, if you buy an M.2 version.",
     "Confidence": 0.95999324
-  },
-  {
-    "Title": "I Tried 3 Web Game Frameworks (So You Don’t Have To)",
-    "Url": "https://jslegenddev.substack.com/p/i-tried-3-web-game-frameworks-so",
-    "Timestamp": "2026-02-18T16:02:04",
-    "Domain": "jslegenddev.substack.com",
-    "Description": "I went on a quest to test the 3 most popular 2D web game frameworks according to their NPM download numbers.",
-    "Confidence": 0.995195
   }
 ]

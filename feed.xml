@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>XC-BASIC Shoot 'em Up: Programming the PET Part 2</title>
+      <link>https://retrogamecoders.com/xc-basic-shoot-em-up/</link>
+      <description>In "Programming the Commodore PET part 2" we start coding a single-screen shoot 'em up video game using XC-BASIC.</description>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://retrogamecoders.com/xc-basic-shoot-em-up/</guid>
+      <pubDate>Thu, 19 Feb 2026 16:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>AI is destroying open source, and it's not even good yet</title>
       <link>https://youtube.com/watch?v=bZJ7A1QoUEI</link>
       <description>This is why we can't have nice things.
@@ -259,18 +268,6 @@ Raspberry Pi offers multiple AI HAT+'s for the Raspberry Pi 5 with built-in Hail
       <category>ai</category>
       <guid>https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</guid>
       <pubDate>Wed, 18 Feb 2026 21:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Tried 3 Web Game Frameworks (So You Don’t Have To)</title>
-      <link>https://jslegenddev.substack.com/p/i-tried-3-web-game-frameworks-so</link>
-      <description>I went on a quest to test the 3 most popular 2D web game frameworks according to their NPM download numbers.</description>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://jslegenddev.substack.com/p/i-tried-3-web-game-frameworks-so</guid>
-      <pubDate>Wed, 18 Feb 2026 16:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
