@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Plums</title>
+      <link>https://xkcd.com/3209/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3209/</guid>
+      <pubDate>Thu, 19 Feb 2026 03:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>vibe-infer: Learning GPU Programming with Claude Code</title>
       <link>https://blog.vtemian.com/post/vibe-infer/</link>
       <description>Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable.</description>
