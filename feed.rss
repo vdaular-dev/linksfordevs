@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment</title>
+      <link>https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323</link>
+      <description>Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque</description>
+      <category>ai</category>
+      <guid>https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323</guid>
+      <pubDate>Fri, 20 Feb 2026 18:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>AWS suffered ‘at least two outages’ caused by AI tools, and now I’m convinced we’re living inside a ‘Silicon Valley’ episode</title>
       <link>https://www.tomsguide.com/computing/aws-suffered-at-least-two-outages-caused-by-ai-tools-and-now-im-convinced-were-living-inside-a-silicon-valley-episode</link>
       <description>Amazon just speed-ran a season of 'Silicon Valley'</description>
@@ -305,27 +313,6 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
       <category>ai</category>
       <guid>https://www.marginalia.nu/log/a_132_ai_bores/</guid>
       <pubDate>Thu, 19 Feb 2026 20:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Behaviour Trees versus State Machines</title>
-      <link>https://queenofsquiggles.github.io/guides/fsm-vs-bt/</link>
-      <description></description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>youtube</category>
-      <guid>https://queenofsquiggles.github.io/guides/fsm-vs-bt/</guid>
-      <pubDate>Thu, 19 Feb 2026 19:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.1 Pro - Model Card</title>
-      <link>https://deepmind.google/models/model-cards/gemini-3-1-pro/</link>
-      <description>Gemini 3.1 Pro is the next iteration in the Gemini 3 series of models, a suite of highly capable, natively multimodal reasoning models.</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://deepmind.google/models/model-cards/gemini-3-1-pro/</guid>
-      <pubDate>Thu, 19 Feb 2026 18:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
