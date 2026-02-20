@@ -7,6 +7,34 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AWS suffered ‘at least two outages’ caused by AI tools, and now I’m convinced we’re living inside a ‘Silicon Valley’ episode</title>
+      <link>https://www.tomsguide.com/computing/aws-suffered-at-least-two-outages-caused-by-ai-tools-and-now-im-convinced-were-living-inside-a-silicon-valley-episode</link>
+      <description>Amazon just speed-ran a season of 'Silicon Valley'</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.tomsguide.com/computing/aws-suffered-at-least-two-outages-caused-by-ai-tools-and-now-im-convinced-were-living-inside-a-silicon-valley-episode</guid>
+      <pubDate>Fri, 20 Feb 2026 17:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs | spencer.wtf</title>
+      <link>https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html</link>
+      <description>How to delete all merged git branches locally with a single command. This one-liner has been in my zshrc since 2017 — I found it buried in the CIA's Vault7 l...</description>
+      <author> (Spencer Dixon)</author>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html</guid>
+      <pubDate>Fri, 20 Feb 2026 17:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>ggml.ai joins Hugging Face to ensure the long-term progress of Local AI · ggml-org/llama.cpp · Discussion #19759</title>
+      <link>https://github.com/ggml-org/llama.cpp/discussions/19759</link>
+      <description>Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...</description>
+      <category>ai</category>
+      <guid>https://github.com/ggml-org/llama.cpp/discussions/19759</guid>
+      <pubDate>Fri, 20 Feb 2026 17:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>The path to ubiquitous AI | Taalas</title>
       <link>https://taalas.com/the-path-to-ubiquitous-ai/</link>
       <description>By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...</description>
