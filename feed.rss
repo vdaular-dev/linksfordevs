@@ -294,17 +294,5 @@ Merch: https://www.redshirtjeff.com
       <guid>https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/</guid>
       <pubDate>Thu, 19 Feb 2026 06:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>PostgreSQL Bloat Is a Feature, Not a Bug</title>
-      <link>https://rogerwelin.github.io/2026/02/11/postgresql-bloat-is-a-feature-not-a-bug/</link>
-      <description>Introduction Your PostgreSQL database keeps growing, even though the number of rows stays roughly the same. Disk usage climbs, queries slow down, and you wonder what the heck is happening.
-It’s not a bug - it’s called bloat and it’s baked into the core design of Postgres.
-To understand why it happens we have to follow the lifecycle of a row from the moment it’s written to a physical file to the moment it becomes “dead” space. This journey begins at the physical storage layer: Pages and Tuples.</description>
-      <category>sql</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://rogerwelin.github.io/2026/02/11/postgresql-bloat-is-a-feature-not-a-bug/</guid>
-      <pubDate>Thu, 19 Feb 2026 04:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
