@@ -1,5 +1,149 @@
 [
   {
+    "Title": "Forward propagation of errors through time",
+    "Url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
+    "Timestamp": "2026-02-20T00:03:10",
+    "Domain": "nicolaszucchet.github.io",
+    "Description": "TL;DR\nWe investigate a fundamental question in recurrent neural network training: why is backpropagation through time always ran backwards? We show, by deriving an exact gradient-based algorithm that propagates error forward in time (in multiple phases), that this does not necessarily need to be the case! However, while the math holds up, it suffers from critical numerical stability issues as the network forgets information faster.\nThis post details the derivation, the successful experiments, an analysis of why this promising idea suffers numerically, and the reasons why we did not investigate it further.",
+    "Confidence": 0.9891946
+  },
+  {
+    "Title": "There Is No Product",
+    "Url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
+    "Timestamp": "2026-02-20T00:03:06",
+    "Domain": "sidu.in",
+    "Description": "If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it:",
+    "Confidence": 0.9917646
+  },
+  {
+    "Title": "Repeating Prompts",
+    "Url": "https://daoudclarke.net/2026/02/19/repeating-prompt",
+    "Timestamp": "2026-02-20T00:03:03",
+    "Domain": "daoudclarke.net",
+    "Description": "",
+    "Confidence": 0.78134614
+  },
+  {
+    "Title": "My website is now ~2.8x faster after converting it to a Django LiveView SPA | Andros Fenollosa",
+    "Url": "https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/",
+    "Timestamp": "2026-02-20T00:03:00",
+    "Domain": "en.andros.dev",
+    "Description": "After releasing the 2.2.0 update of Django LiveView to PyPI, which fixed some minor issues, I decided to transform my entire personal website (where y",
+    "Confidence": 0.9960621
+  },
+  {
+    "Title": "The Quickening",
+    "Url": "https://liorpachter.wordpress.com/2026/02/19/the-quickening/",
+    "Timestamp": "2026-02-20T00:02:54",
+    "Domain": "liorpachter.wordpress.com",
+    "Description": "In a paper titled “THEOREMS FOR A PRICE: Tomorrow’s Semi-Rigorous Mathematics Culture” published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that…",
+    "Confidence": 0.9538134
+  },
+  {
+    "Title": "Self-hosting my websites using bootable containers",
+    "Url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
+    "Timestamp": "2026-02-20T00:02:51",
+    "Domain": "yorickpeterse.com",
+    "Description": "I've been running this website since 2008. Over the years I've changed hosting\nproviders and what software to use a bunch of times. Some time in 2015 I\nswitched to hosting it as a static website on Amazon\nCloudFront. A few years ago I\nmoved from Amazon to Cloudflare, primarily because Cloudflare\nPages and Cloudflare\nR2 have a generous free tier, and an interface\nthat isn't a confusing mess.",
+    "Confidence": 0.99307686
+  },
+  {
+    "Title": "Redis vs Valkey: A Deep Dive for Enterprise Architects",
+    "Url": "https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/",
+    "Timestamp": "2026-02-20T00:02:46",
+    "Domain": "andrewbaker.ninja",
+    "Description": "The in memory data store landscape fractured in March 2024 when Redis Inc abandoned its BSD 3-clause licence in favour of the dual RSALv2/SSPLv1 model. The community response was swift and surgical…",
+    "Confidence": 0.9903009
+  },
+  {
+    "Title": "Building an Agent SaaS with Cloudflare Containers",
+    "Url": "https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/",
+    "Timestamp": "2026-02-20T00:02:40",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.",
+    "Confidence": 0.96217555
+  },
+  {
+    "Title": " I Built Local Memory for Coding Agents Because They Keep Forgetting Everything | Muhammad ",
+    "Url": "https://muhammadraza.me/2026/building-local-memory-for-coding-agents/",
+    "Timestamp": "2026-02-20T00:02:37",
+    "Domain": "muhammadraza.me",
+    "Description": " Coding agents forget everything between sessions. I built EchoVault — an MCP server that gives agents persistent memory using SQLite, Markdown, and zero clou... ",
+    "Confidence": 0.9926214
+  },
+  {
+    "Title": "The empire always falls",
+    "Url": "https://www.joanwestenberg.com/the-empire-always-falls/",
+    "Timestamp": "2026-02-20T00:02:34",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "A citizen of Rome in 117 AD, under Emperor Trajan, would've found it difficult to imagine the empire not existing. The roads, the aqueducts, the legal system, the trade networks stretching from Britain to Mesopotamia: all of it seemed to be a near-fact of nature, like gravity // the Mediterranean itself.",
+    "Confidence": 0.9303585
+  },
+  {
+    "Title": "Wider, Not Faster | Kevin London",
+    "Url": "https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/",
+    "Timestamp": "2026-02-20T00:02:31",
+    "Domain": "www.kevinlondon.com",
+    "Description": "Working with AI changed what I'm willing to attempt. It also changed me.",
+    "Confidence": 0.9555839
+  },
+  {
+    "Title": "You had a story",
+    "Url": "https://nolanlawson.com/2026/02/18/you-had-a-story/",
+    "Timestamp": "2026-02-20T00:02:27",
+    "Domain": "nolanlawson.com",
+    "Description": "You had a story you used to tell yourself about how you got here in life. You’d share the story with others. Maybe you’d be at a party, and someone would ask what you do, and you’…",
+    "Confidence": 0.75923914
+  },
+  {
+    "Title": "Consistency is Primitive - Christopher Butler",
+    "Url": "https://www.chrbutler.com/consistency-is-primitive",
+    "Timestamp": "2026-02-20T00:02:24",
+    "Domain": "www.chrbutler.com",
+    "Description": "When AI becomes infrastructure and software becomes bespoke, the economic imperative for standardization disappears.",
+    "Confidence": 0.9845453
+  },
+  {
+    "Title": "Why Killing Epstein Was a Catastrophic Engineering Failure | Machiel Reyneke",
+    "Url": "https://machielreyneke.com/blog/metastability-of-secrets/",
+    "Timestamp": "2026-02-20T00:02:21",
+    "Domain": "machielreyneke.com",
+    "Description": "In physics, a metastable system looks perfectly stable - until it isn't. The Epstein network held for thirty years. Then someone tried to stabilise it.",
+    "Confidence": 0.7225299
+  },
+  {
+    "Title": "Most Developers Don’t Build New Things",
+    "Url": "https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/",
+    "Timestamp": "2026-02-20T00:02:18",
+    "Domain": "robbyonrails.com",
+    "Description": "The industry tends to celebrate beginnings.\n\nNew repositories. Clean architecture diagrams. The excitement of choosing tools before real constraints show up....",
+    "Confidence": 0.97847044
+  },
+  {
+    "Title": "User research is often just expensive validation for decisions already made by Niki Tisza",
+    "Url": "https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made",
+    "Timestamp": "2026-02-20T00:02:14",
+    "Domain": "www.nikitisza.com",
+    "Description": "A UX hot take",
+    "Confidence": 0.98726374
+  },
+  {
+    "Title": "Cursor's Debug Mode Is Arguably Its Best Feature",
+    "Url": "https://davidgomes.com/cursor-debug-mode/",
+    "Timestamp": "2026-02-20T00:02:11",
+    "Domain": "davidgomes.com",
+    "Description": "Back in December, Cursor announced \"Debug Mode\". The way it works is fairly straightforward:\n\n 1. User says \"I want to fix this bug!!!\"\n 2. Cursor prompts the model to come up with several hypothesis for why the bug exists\n 3. Cursor prompts the model to add a bunch of instrumentation",
+    "Confidence": 0.9915736
+  },
+  {
+    "Title": "How Great CEOs Stay in the Details",
+    "Url": "https://www.dave-bailey.com/blog/details",
+    "Timestamp": "2026-02-20T00:02:08",
+    "Domain": "www.dave-bailey.com",
+    "Description": "Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality.",
+    "Confidence": 0.98020065
+  },
+  {
     "Title": "micasa — your house, in a terminal",
     "Url": "https://micasa.dev/",
     "Timestamp": "2026-02-19T21:02:11",
@@ -78,141 +222,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "vibe-infer: Learning GPU Programming with Claude Code",
-    "Url": "https://blog.vtemian.com/post/vibe-infer/",
-    "Timestamp": "2026-02-19T00:03:28",
-    "Domain": "blog.vtemian.com",
-    "Description": "Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable.",
-    "Confidence": 0.9793919
-  },
-  {
-    "Title": "My experience building a Node.js Native Module using an LLM",
-    "Url": "https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm",
-    "Timestamp": "2026-02-19T00:03:23",
-    "Domain": "thomashunter.name",
-    "Description": "8 min read    Feb 17, 2026",
-    "Confidence": 0.9869766
-  },
-  {
-    "Title": "I Built a Slop Factory and a Bot Wanted To Feature It",
-    "Url": "https://raka.gunar.to/blog/2026/02/18/slopinator-9000/",
-    "Timestamp": "2026-02-19T00:03:19",
-    "Domain": "raka.gunar.to",
-    "Description": "Building a satirical AI slop generator, getting auto-scouted by what is almost certainly another bot, and why the internet is slowly eating itself",
-    "Confidence": 0.9527592
-  },
-  {
-    "Title": "The Death of the Software Moat: Knowledge Bootstraps in 2026",
-    "Url": "https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/",
-    "Timestamp": "2026-02-19T00:03:16",
-    "Domain": "xaviergeerinck.com",
-    "Description": "AI is killing the software moat. Learn why OpenAI buys \"Taste\" over code, and how selling a Knowledge Bootstrap can protect your enterprise IP in the AI era.",
-    "Confidence": 0.93982905
-  },
-  {
-    "Title": "The Cost of Code Is Going to Zero",
-    "Url": "https://keon.kim/writing/cost-of-code-is-going-to-zero/",
-    "Timestamp": "2026-02-19T00:03:12",
-    "Domain": "keon.kim",
-    "Description": "AI is doing to software what the internet did to newspapers, and most SaaS companies aren't ready.",
-    "Confidence": 0.85795563
-  },
-  {
-    "Title": "Coding assistant experience",
-    "Url": "https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/",
-    "Timestamp": "2026-02-19T00:03:09",
-    "Domain": "scottlocklin.wordpress.com",
-    "Description": "I’m a modest LLM skeptic. It’s not that I don’t believe in LLMs, I am aware that they exist, I just know that they’re not doing what people do when we think, and that they&#…",
-    "Confidence": 0.98161846
-  },
-  {
-    "Title": "Software Engineering Is a Joke (Three of Them, Actually)",
-    "Url": "https://www.ivankusalic.com/software-engineering-ironies/",
-    "Timestamp": "2026-02-19T00:03:05",
-    "Domain": "www.ivankusalic.com",
-    "Description": "“There is a theory that if anyone discovers exactly why the Universe is here, it will instantly be replaced by something even more bizarre and inexplicable. Another theory states this has already happened.” - Douglas Adams",
-    "Confidence": 0.9957272
-  },
-  {
-    "Title": "Search operators were an API",
-    "Url": "https://www.nklswbr.com/blog/agentic-search-operators",
-    "Timestamp": "2026-02-19T00:03:01",
-    "Domain": "www.nklswbr.com",
-    "Description": "We killed search operators right before AI agents needed them most.",
-    "Confidence": 0.8969712
-  },
-  {
-    "Title": "Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI",
-    "Url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
-    "Timestamp": "2026-02-19T00:02:58",
-    "Domain": "georgeguimaraes.com",
-    "Description": "Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.",
-    "Confidence": 0.9826274
-  },
-  {
-    "Title": "Teaching Claude to Write Pony",
-    "Url": "https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/",
-    "Timestamp": "2026-02-19T00:02:54",
-    "Domain": "www.ponylang.io",
-    "Description": "I’m not really sure how to tell the story of me teaching Claude to write Pony, so I’m just going to tell it and see how it goes.",
-    "Confidence": 0.9858517
-  },
-  {
-    "Title": "Don't apologize for replying late to my email - Dmitry Kudryavtsev",
-    "Url": "https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/",
-    "Timestamp": "2026-02-19T00:02:51",
-    "Domain": "kudmitry.com",
-    "Description": "Before the smart-phone arrived -- together with widely-available GSM networks -- online communication was different.\nI would deliberately have to sit in-front o...",
-    "Confidence": 0.97042596
-  },
-  {
-    "Title": "Rumors of the death of SaaS have been greatly exaggerated",
-    "Url": "https://codemade.net/blog/death-of-saas/",
-    "Timestamp": "2026-02-19T00:02:46",
-    "Domain": "codemade.net",
-    "Description": "No, AI isn't going to bring about the apocalypse of SaaS.",
-    "Confidence": 0.9923488
-  },
-  {
-    "Title": "Future of Software Engineering — Thoughtworks | Lasantha Kularatne",
-    "Url": "https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/",
-    "Timestamp": "2026-02-19T00:02:42",
-    "Domain": "www.lasantha.org",
-    "Description": "Thoughtworks Future of Software Development Retreat key takeaways.",
-    "Confidence": 0.9411988
-  },
-  {
-    "Title": "Design docs are waterfall wearing a hoodie",
-    "Url": "https://www.lucasfcosta.com/blog/design-docs",
-    "Timestamp": "2026-02-19T00:02:39",
-    "Domain": "www.lucasfcosta.com",
-    "Description": "Hot takes and cold truths on software, startups, and the lies we tell ourselves.",
-    "Confidence": 0.98118216
-  },
-  {
-    "Title": "WolfSSL Doesn't Suck",
-    "Url": "https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/",
-    "Timestamp": "2026-02-19T00:02:35",
-    "Domain": "blog.feld.me",
-    "Description": "You're Just Holding It Wrong My previous post made some rounds on the internet. However, there has been a happy ending to this saga. I've revisited my test environment as their requirement of building the library with WOLFSSL_TLS13_MIDDLEBOX_COMPAT and still not seeing any changes in behavior was bothering me. I …",
-    "Confidence": 0.97371876
-  },
-  {
-    "Title": "The future of social media is human",
-    "Url": "https://blog.picheta.me/post/the-future-of-social-media-is-human/",
-    "Timestamp": "2026-02-19T00:02:32",
-    "Domain": "blog.picheta.me",
-    "Description": "We cannot continue participating in social media platforms which do nothing to stop us being tricked by GenAI and the powerful people/governments that control them.",
-    "Confidence": 0.9860309
-  },
-  {
-    "Title": "The End of Local | Charlie Labs",
-    "Url": "https://charlielabs.ai/blog/the-end-of-local/",
-    "Timestamp": "2026-02-19T00:02:28",
-    "Domain": "charlielabs.ai",
-    "Description": "As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default.",
-    "Confidence": 0.99308056
   }
 ]

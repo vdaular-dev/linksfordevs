@@ -1,0 +1,128 @@
+[
+  {
+    "Title": "Forward propagation of errors through time",
+    "Url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
+    "Timestamp": "2026-02-20T00:03:10",
+    "Domain": "nicolaszucchet.github.io",
+    "Description": "TL;DR\nWe investigate a fundamental question in recurrent neural network training: why is backpropagation through time always ran backwards? We show, by deriving an exact gradient-based algorithm that propagates error forward in time (in multiple phases), that this does not necessarily need to be the case! However, while the math holds up, it suffers from critical numerical stability issues as the network forgets information faster.\nThis post details the derivation, the successful experiments, an analysis of why this promising idea suffers numerically, and the reasons why we did not investigate it further."
+  },
+  {
+    "Title": "There Is No Product",
+    "Url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
+    "Timestamp": "2026-02-20T00:03:06",
+    "Domain": "sidu.in",
+    "Description": "If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it:"
+  },
+  {
+    "Title": "Repeating Prompts",
+    "Url": "https://daoudclarke.net/2026/02/19/repeating-prompt",
+    "Timestamp": "2026-02-20T00:03:03",
+    "Domain": "daoudclarke.net",
+    "Description": ""
+  },
+  {
+    "Title": "My website is now ~2.8x faster after converting it to a Django LiveView SPA | Andros Fenollosa",
+    "Url": "https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/",
+    "Timestamp": "2026-02-20T00:03:00",
+    "Domain": "en.andros.dev",
+    "Description": "After releasing the 2.2.0 update of Django LiveView to PyPI, which fixed some minor issues, I decided to transform my entire personal website (where y"
+  },
+  {
+    "Title": "The Quickening",
+    "Url": "https://liorpachter.wordpress.com/2026/02/19/the-quickening/",
+    "Timestamp": "2026-02-20T00:02:54",
+    "Domain": "liorpachter.wordpress.com",
+    "Description": "In a paper titled “THEOREMS FOR A PRICE: Tomorrow’s Semi-Rigorous Mathematics Culture” published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that…"
+  },
+  {
+    "Title": "Self-hosting my websites using bootable containers",
+    "Url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
+    "Timestamp": "2026-02-20T00:02:51",
+    "Domain": "yorickpeterse.com",
+    "Description": "I've been running this website since 2008. Over the years I've changed hosting\nproviders and what software to use a bunch of times. Some time in 2015 I\nswitched to hosting it as a static website on Amazon\nCloudFront. A few years ago I\nmoved from Amazon to Cloudflare, primarily because Cloudflare\nPages and Cloudflare\nR2 have a generous free tier, and an interface\nthat isn't a confusing mess."
+  },
+  {
+    "Title": "Redis vs Valkey: A Deep Dive for Enterprise Architects",
+    "Url": "https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/",
+    "Timestamp": "2026-02-20T00:02:46",
+    "Domain": "andrewbaker.ninja",
+    "Description": "The in memory data store landscape fractured in March 2024 when Redis Inc abandoned its BSD 3-clause licence in favour of the dual RSALv2/SSPLv1 model. The community response was swift and surgical…"
+  },
+  {
+    "Title": "Building an Agent SaaS with Cloudflare Containers",
+    "Url": "https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/",
+    "Timestamp": "2026-02-20T00:02:40",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems."
+  },
+  {
+    "Title": " I Built Local Memory for Coding Agents Because They Keep Forgetting Everything | Muhammad ",
+    "Url": "https://muhammadraza.me/2026/building-local-memory-for-coding-agents/",
+    "Timestamp": "2026-02-20T00:02:37",
+    "Domain": "muhammadraza.me",
+    "Description": " Coding agents forget everything between sessions. I built EchoVault — an MCP server that gives agents persistent memory using SQLite, Markdown, and zero clou... "
+  },
+  {
+    "Title": "The empire always falls",
+    "Url": "https://www.joanwestenberg.com/the-empire-always-falls/",
+    "Timestamp": "2026-02-20T00:02:34",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "A citizen of Rome in 117 AD, under Emperor Trajan, would've found it difficult to imagine the empire not existing. The roads, the aqueducts, the legal system, the trade networks stretching from Britain to Mesopotamia: all of it seemed to be a near-fact of nature, like gravity // the Mediterranean itself."
+  },
+  {
+    "Title": "Wider, Not Faster | Kevin London",
+    "Url": "https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/",
+    "Timestamp": "2026-02-20T00:02:31",
+    "Domain": "www.kevinlondon.com",
+    "Description": "Working with AI changed what I'm willing to attempt. It also changed me."
+  },
+  {
+    "Title": "You had a story",
+    "Url": "https://nolanlawson.com/2026/02/18/you-had-a-story/",
+    "Timestamp": "2026-02-20T00:02:27",
+    "Domain": "nolanlawson.com",
+    "Description": "You had a story you used to tell yourself about how you got here in life. You’d share the story with others. Maybe you’d be at a party, and someone would ask what you do, and you’…"
+  },
+  {
+    "Title": "Consistency is Primitive - Christopher Butler",
+    "Url": "https://www.chrbutler.com/consistency-is-primitive",
+    "Timestamp": "2026-02-20T00:02:24",
+    "Domain": "www.chrbutler.com",
+    "Description": "When AI becomes infrastructure and software becomes bespoke, the economic imperative for standardization disappears."
+  },
+  {
+    "Title": "Why Killing Epstein Was a Catastrophic Engineering Failure | Machiel Reyneke",
+    "Url": "https://machielreyneke.com/blog/metastability-of-secrets/",
+    "Timestamp": "2026-02-20T00:02:21",
+    "Domain": "machielreyneke.com",
+    "Description": "In physics, a metastable system looks perfectly stable - until it isn't. The Epstein network held for thirty years. Then someone tried to stabilise it."
+  },
+  {
+    "Title": "Most Developers Don’t Build New Things",
+    "Url": "https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/",
+    "Timestamp": "2026-02-20T00:02:18",
+    "Domain": "robbyonrails.com",
+    "Description": "The industry tends to celebrate beginnings.\n\nNew repositories. Clean architecture diagrams. The excitement of choosing tools before real constraints show up...."
+  },
+  {
+    "Title": "User research is often just expensive validation for decisions already made by Niki Tisza",
+    "Url": "https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made",
+    "Timestamp": "2026-02-20T00:02:14",
+    "Domain": "www.nikitisza.com",
+    "Description": "A UX hot take"
+  },
+  {
+    "Title": "Cursor's Debug Mode Is Arguably Its Best Feature",
+    "Url": "https://davidgomes.com/cursor-debug-mode/",
+    "Timestamp": "2026-02-20T00:02:11",
+    "Domain": "davidgomes.com",
+    "Description": "Back in December, Cursor announced \"Debug Mode\". The way it works is fairly straightforward:\n\n 1. User says \"I want to fix this bug!!!\"\n 2. Cursor prompts the model to come up with several hypothesis for why the bug exists\n 3. Cursor prompts the model to add a bunch of instrumentation"
+  },
+  {
+    "Title": "How Great CEOs Stay in the Details",
+    "Url": "https://www.dave-bailey.com/blog/details",
+    "Timestamp": "2026-02-20T00:02:08",
+    "Domain": "www.dave-bailey.com",
+    "Description": "Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality."
+  }
+]

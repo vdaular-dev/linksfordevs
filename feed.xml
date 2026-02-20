@@ -7,6 +7,194 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Forward propagation of errors through time</title>
+      <link>https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/</link>
+      <description>TL;DR
+We investigate a fundamental question in recurrent neural network training: why is backpropagation through time always ran backwards? We show, by deriving an exact gradient-based algorithm that propagates error forward in time (in multiple phases), that this does not necessarily need to be the case! However, while the math holds up, it suffers from critical numerical stability issues as the network forgets information faster.
+This post details the derivation, the successful experiments, an analysis of why this promising idea suffers numerically, and the reasons why we did not investigate it further.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>There Is No Product</title>
+      <link>https://sidu.in/essays/after-ai-there-is-no-product.html</link>
+      <description>If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it:</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://sidu.in/essays/after-ai-there-is-no-product.html</guid>
+      <pubDate>Fri, 20 Feb 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repeating Prompts</title>
+      <link>https://daoudclarke.net/2026/02/19/repeating-prompt</link>
+      <description></description>
+      <category>ai</category>
+      <guid>https://daoudclarke.net/2026/02/19/repeating-prompt</guid>
+      <pubDate>Fri, 20 Feb 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>My website is now ~2.8x faster after converting it to a Django LiveView SPA | Andros Fenollosa</title>
+      <link>https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/</link>
+      <description>After releasing the 2.2.0 update of Django LiveView to PyPI, which fixed some minor issues, I decided to transform my entire personal website (where y</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Quickening</title>
+      <link>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</link>
+      <description>In a paper titled “THEOREMS FOR A PRICE: Tomorrow’s Semi-Rigorous Mathematics Culture” published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that…</description>
+      <category>python</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-hosting my websites using bootable containers</title>
+      <link>https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/</link>
+      <description>I've been running this website since 2008. Over the years I've changed hosting
+providers and what software to use a bunch of times. Some time in 2015 I
+switched to hosting it as a static website on Amazon
+CloudFront. A few years ago I
+moved from Amazon to Cloudflare, primarily because Cloudflare
+Pages and Cloudflare
+R2 have a generous free tier, and an interface
+that isn't a confusing mess.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>encryption</category>
+      <guid>https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redis vs Valkey: A Deep Dive for Enterprise Architects</title>
+      <link>https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/</link>
+      <description>The in memory data store landscape fractured in March 2024 when Redis Inc abandoned its BSD 3-clause licence in favour of the dual RSALv2/SSPLv1 model. The community response was swift and surgical…</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building an Agent SaaS with Cloudflare Containers</title>
+      <link>https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/</link>
+      <description>Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title> I Built Local Memory for Coding Agents Because They Keep Forgetting Everything | Muhammad </title>
+      <link>https://muhammadraza.me/2026/building-local-memory-for-coding-agents/</link>
+      <description> Coding agents forget everything between sessions. I built EchoVault — an MCP server that gives agents persistent memory using SQLite, Markdown, and zero clou... </description>
+      <author> (Muhammad Raza)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://muhammadraza.me/2026/building-local-memory-for-coding-agents/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The empire always falls</title>
+      <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
+      <description>A citizen of Rome in 117 AD, under Emperor Trajan, would've found it difficult to imagine the empire not existing. The roads, the aqueducts, the legal system, the trade networks stretching from Britain to Mesopotamia: all of it seemed to be a near-fact of nature, like gravity // the Mediterranean itself.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.joanwestenberg.com/the-empire-always-falls/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wider, Not Faster | Kevin London</title>
+      <link>https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/</link>
+      <description>Working with AI changed what I'm willing to attempt. It also changed me.</description>
+      <category>ai</category>
+      <guid>https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>You had a story</title>
+      <link>https://nolanlawson.com/2026/02/18/you-had-a-story/</link>
+      <description>You had a story you used to tell yourself about how you got here in life. You’d share the story with others. Maybe you’d be at a party, and someone would ask what you do, and you’…</description>
+      <category>gaming</category>
+      <guid>https://nolanlawson.com/2026/02/18/you-had-a-story/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Consistency is Primitive - Christopher Butler</title>
+      <link>https://www.chrbutler.com/consistency-is-primitive</link>
+      <description>When AI becomes infrastructure and software becomes bespoke, the economic imperative for standardization disappears.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.chrbutler.com/consistency-is-primitive</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Killing Epstein Was a Catastrophic Engineering Failure | Machiel Reyneke</title>
+      <link>https://machielreyneke.com/blog/metastability-of-secrets/</link>
+      <description>In physics, a metastable system looks perfectly stable - until it isn't. The Epstein network held for thirty years. Then someone tried to stabilise it.</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://machielreyneke.com/blog/metastability-of-secrets/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Most Developers Don’t Build New Things</title>
+      <link>https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/</link>
+      <description>The industry tends to celebrate beginnings.
+
+New repositories. Clean architecture diagrams. The excitement of choosing tools before real constraints show up....</description>
+      <author> (Robby Russell)</author>
+      <category>ruby</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>User research is often just expensive validation for decisions already made by Niki Tisza</title>
+      <link>https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made</link>
+      <description>A UX hot take</description>
+      <guid>https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor's Debug Mode Is Arguably Its Best Feature</title>
+      <link>https://davidgomes.com/cursor-debug-mode/</link>
+      <description>Back in December, Cursor announced "Debug Mode". The way it works is fairly straightforward:
+
+ 1. User says "I want to fix this bug!!!"
+ 2. Cursor prompts the model to come up with several hypothesis for why the bug exists
+ 3. Cursor prompts the model to add a bunch of instrumentation</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://davidgomes.com/cursor-debug-mode/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Great CEOs Stay in the Details</title>
+      <link>https://www.dave-bailey.com/blog/details</link>
+      <description>Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality.</description>
+      <guid>https://www.dave-bailey.com/blog/details</guid>
+      <pubDate>Fri, 20 Feb 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>micasa — your house, in a terminal</title>
       <link>https://micasa.dev/</link>
       <description>A terminal UI for tracking everything about your home. Single SQLite file. No cloud. No account. No subscriptions.</description>
@@ -125,167 +313,6 @@ To understand why it happens we have to follow the lifecycle of a row from the m
       <category>javascript</category>
       <guid>https://xkcd.com/3209/</guid>
       <pubDate>Thu, 19 Feb 2026 03:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>vibe-infer: Learning GPU Programming with Claude Code</title>
-      <link>https://blog.vtemian.com/post/vibe-infer/</link>
-      <description>Everyone talks about AI-assisted learning. Here's what it actually looks like. A 155-message journey from zero WebGPU knowledge to a working MNIST classifier, with the entire conversation captured and browsable.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>rust</category>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://blog.vtemian.com/post/vibe-infer/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>My experience building a Node.js Native Module using an LLM</title>
-      <link>https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm</link>
-      <description>8 min read    Feb 17, 2026</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://thomashunter.name/posts/2026-02-17-generating-a-node-native-module-with-an-llm</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Built a Slop Factory and a Bot Wanted To Feature It</title>
-      <link>https://raka.gunar.to/blog/2026/02/18/slopinator-9000/</link>
-      <description>Building a satirical AI slop generator, getting auto-scouted by what is almost certainly another bot, and why the internet is slowly eating itself</description>
-      <category>ai</category>
-      <guid>https://raka.gunar.to/blog/2026/02/18/slopinator-9000/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Death of the Software Moat: Knowledge Bootstraps in 2026</title>
-      <link>https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/</link>
-      <description>AI is killing the software moat. Learn why OpenAI buys "Taste" over code, and how selling a Knowledge Bootstrap can protect your enterprise IP in the AI era.</description>
-      <category>ai</category>
-      <guid>https://xaviergeerinck.com/2026/02/18/death-of-software-moat-knowledge-bootstrap/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Cost of Code Is Going to Zero</title>
-      <link>https://keon.kim/writing/cost-of-code-is-going-to-zero/</link>
-      <description>AI is doing to software what the internet did to newspapers, and most SaaS companies aren't ready.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://keon.kim/writing/cost-of-code-is-going-to-zero/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coding assistant experience</title>
-      <link>https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/</link>
-      <description>I’m a modest LLM skeptic. It’s not that I don’t believe in LLMs, I am aware that they exist, I just know that they’re not doing what people do when we think, and that they&amp;#…</description>
-      <category>python</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://scottlocklin.wordpress.com/2026/02/18/coding-assistant-experience/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Engineering Is a Joke (Three of Them, Actually)</title>
-      <link>https://www.ivankusalic.com/software-engineering-ironies/</link>
-      <description>“There is a theory that if anyone discovers exactly why the Universe is here, it will instantly be replaced by something even more bizarre and inexplicable. Another theory states this has already happened.” - Douglas Adams</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://www.ivankusalic.com/software-engineering-ironies/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Search operators were an API</title>
-      <link>https://www.nklswbr.com/blog/agentic-search-operators</link>
-      <description>We killed search operators right before AI agents needed them most.</description>
-      <category>ai</category>
-      <guid>https://www.nklswbr.com/blog/agentic-search-operators</guid>
-      <pubDate>Thu, 19 Feb 2026 00:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Agent Framework Is Just a Bad Clone of Elixir: Concurrency Lessons from Telecom to AI</title>
-      <link>https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/</link>
-      <description>Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.</description>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teaching Claude to Write Pony</title>
-      <link>https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/</link>
-      <description>I’m not really sure how to tell the story of me teaching Claude to write Pony, so I’m just going to tell it and see how it goes.</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>ruby</category>
-      <category>rust</category>
-      <category>python</category>
-      <guid>https://www.ponylang.io/blog/2026/02/teaching-claude-to-write-pony/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't apologize for replying late to my email - Dmitry Kudryavtsev</title>
-      <link>https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/</link>
-      <description>Before the smart-phone arrived -- together with widely-available GSM networks -- online communication was different.
-I would deliberately have to sit in-front o...</description>
-      <guid>https://kudmitry.com/articles/dont-apologize-for-replying-late-to-my-email/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rumors of the death of SaaS have been greatly exaggerated</title>
-      <link>https://codemade.net/blog/death-of-saas/</link>
-      <description>No, AI isn't going to bring about the apocalypse of SaaS.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://codemade.net/blog/death-of-saas/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Future of Software Engineering — Thoughtworks | Lasantha Kularatne</title>
-      <link>https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/</link>
-      <description>Thoughtworks Future of Software Development Retreat key takeaways.</description>
-      <category>ai</category>
-      <guid>https://www.lasantha.org/blog/future-of-software-engineering-thoughtworks/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Design docs are waterfall wearing a hoodie</title>
-      <link>https://www.lucasfcosta.com/blog/design-docs</link>
-      <description>Hot takes and cold truths on software, startups, and the lies we tell ourselves.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://www.lucasfcosta.com/blog/design-docs</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>WolfSSL Doesn't Suck</title>
-      <link>https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/</link>
-      <description>You're Just Holding It Wrong My previous post made some rounds on the internet. However, there has been a happy ending to this saga. I've revisited my test environment as their requirement of building the library with WOLFSSL_TLS13_MIDDLEBOX_COMPAT and still not seeing any changes in behavior was bothering me. I …</description>
-      <author> (feld)</author>
-      <guid>https://blog.feld.me/posts/2026/02/wolfssl-doesnt-suck/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>The future of social media is human</title>
-      <link>https://blog.picheta.me/post/the-future-of-social-media-is-human/</link>
-      <description>We cannot continue participating in social media platforms which do nothing to stop us being tricked by GenAI and the powerful people/governments that control them.</description>
-      <author> (Dominik Picheta)</author>
-      <category>encryption</category>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://blog.picheta.me/post/the-future-of-social-media-is-human/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The End of Local | Charlie Labs</title>
-      <link>https://charlielabs.ai/blog/the-end-of-local/</link>
-      <description>As agents become autonomous, the local IDE model hits a ceiling — and async remote agents become the default.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://charlielabs.ai/blog/the-end-of-local/</guid>
-      <pubDate>Thu, 19 Feb 2026 00:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
