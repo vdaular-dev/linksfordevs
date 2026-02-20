@@ -1,5 +1,21 @@
 [
   {
+    "Title": "PILK #3 | Facebook is absolutely cooked",
+    "Url": "https://pilk.website/3/facebook-is-absolutely-cooked",
+    "Timestamp": "2026-02-20T21:02:15",
+    "Domain": "pilk.website",
+    "Description": "Through the mirror into the lightly-clothed AI gooniverse",
+    "Confidence": 0.90338546
+  },
+  {
+    "Title": "Child’s Play, by Sam Kriss",
+    "Url": "https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/",
+    "Timestamp": "2026-02-20T21:02:11",
+    "Domain": "harpers.org",
+    "Description": "Tech’s new generation and the end of thinking",
+    "Confidence": 0.63851595
+  },
+  {
     "Title": "Eliminating the Impossible",
     "Url": "https://xkcd.com/3210/",
     "Timestamp": "2026-02-20T20:02:09",
@@ -238,13 +254,5 @@
     "Domain": "www.dave-bailey.com",
     "Description": "Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality.",
     "Confidence": 0.98020065
-  },
-  {
-    "Title": "micasa — your house, in a terminal",
-    "Url": "https://micasa.dev/",
-    "Timestamp": "2026-02-19T21:02:11",
-    "Domain": "micasa.dev",
-    "Description": "A terminal UI for tracking everything about your home. Single SQLite file. No cloud. No account. No subscriptions.",
-    "Confidence": 0.7734519
   }
 ]
