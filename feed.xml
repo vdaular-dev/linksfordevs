@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MuMu Player Pro (NetEase) silently runs 17 system reconnaissance commands every 30 minutes on macOS</title>
+      <link>https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea</link>
+      <description>MuMu Player Pro (NetEase) silently runs 17 system reconnaissance commands every 30 minutes on macOS - news.md</description>
+      <author> (262588213843476)</author>
+      <category>conference</category>
+      <category>apple</category>
+      <category>cloud</category>
+      <category>android</category>
+      <category>containers</category>
+      <guid>https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea</guid>
+      <pubDate>Fri, 20 Feb 2026 09:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>An AI Agent Published a Hit Piece on Me – The Operator Came Forward</title>
       <link>https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/</link>
       <description>Context: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…</description>
@@ -248,39 +261,6 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
       <category>git</category>
       <guid>https://retrogamecoders.com/xc-basic-shoot-em-up/</guid>
       <pubDate>Thu, 19 Feb 2026 16:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI is destroying open source, and it's not even good yet</title>
-      <link>https://youtube.com/watch?v=bZJ7A1QoUEI</link>
-      <description>This is why we can't have nice things.
-
-Referenced in this video:
-
-  - Ars Technica's redaction: https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/
-  - Ars Technica Author's response: https://bsky.app/profile/benjedwards.com/post/3mewgow6ch22p
-  - Scott Shambaugh's post on AI Agent Hit Piece: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
-  - OpenClaw: https://openclaw.ai
-  - OpenClaw author moves to OpenAI: https://steipete.me/posts/2026/openclaw
-  - The End of the Curl Bug Bounty: https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/
-  - My GitHub: https://github.com/geerlingguy
-  - GitHub's new PR settings: https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/
-  - My blog migration from Drupal to Hugo: https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/
-  - Yahoo article on NFT Fallout: https://uk.finance.yahoo.com/news/what-happened-to-nfts-094039263.html
-  - PCPartPicker Hard Drive price trends: https://pcpartpicker.com/trends/price/internal-hard-drive/
-  - Western Digital is sold out of hard drives for 2026: https://www.tomshardware.com/pc-components/hdds/western-digital-is-already-sold-out-of-hard-drives-for-all-of-2026-chief-says-some-long-term-agreements-for-2027-and-2028-already-in-place
-
-Support me on Patreon: https://www.patreon.com/geerlingguy
-Sponsor me on GitHub: https://github.com/sponsors/geerlingguy
-Merch: https://www.redshirtjeff.com
-2nd Channel: https://www.youtube.com/@GeerlingEngineering
-3rd Channel: https://www.youtube.com/@Level2Jeff</description>
-      <author> (Jeff Geerling)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <category>web</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=bZJ7A1QoUEI</guid>
-      <pubDate>Thu, 19 Feb 2026 09:01:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
