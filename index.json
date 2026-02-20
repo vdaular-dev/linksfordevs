@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Eliminating the Impossible",
+    "Url": "https://xkcd.com/3210/",
+    "Timestamp": "2026-02-20T20:02:09",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Keep Android Open | F-Droid - Free and Open Source Android App Repository",
+    "Url": "https://f-droid.org/2026/02/20/twif.html",
+    "Timestamp": "2026-02-20T20:02:06",
+    "Domain": "f-droid.org",
+    "Description": "This Week in F-Droid TWIF curated on Friday, 20 Feb 2026, Week 8 F-Droid core During out talks with F-Droid users at FOSDEM26 we were baffled to learn most w...",
+    "Confidence": 0.9173867
+  },
+  {
     "Title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
     "Url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
     "Timestamp": "2026-02-20T18:02:10",
@@ -230,13 +246,5 @@
     "Domain": "micasa.dev",
     "Description": "A terminal UI for tracking everything about your home. Single SQLite file. No cloud. No account. No subscriptions.",
     "Confidence": 0.7734519
-  },
-  {
-    "Title": "AI makes you boring",
-    "Url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-    "Timestamp": "2026-02-19T20:02:13",
-    "Domain": "www.marginalia.nu",
-    "Description": "This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.\nI don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?",
-    "Confidence": 0.96431434
   }
 ]

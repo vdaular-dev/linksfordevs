@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Eliminating the Impossible</title>
+      <link>https://xkcd.com/3210/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3210/</guid>
+      <pubDate>Fri, 20 Feb 2026 20:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keep Android Open | F-Droid - Free and Open Source Android App Repository</title>
+      <link>https://f-droid.org/2026/02/20/twif.html</link>
+      <description>This Week in F-Droid TWIF curated on Friday, 20 Feb 2026, Week 8 F-Droid core During out talks with F-Droid users at FOSDEM26 we were baffled to learn most w...</description>
+      <category>android</category>
+      <category>linux</category>
+      <category>conference</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://f-droid.org/2026/02/20/twif.html</guid>
+      <pubDate>Fri, 20 Feb 2026 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment</title>
       <link>https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323</link>
       <description>Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque</description>
@@ -304,15 +324,6 @@ New repositories. Clean architecture diagrams. The excitement of choosing tools 
       <category>sql</category>
       <guid>https://micasa.dev/</guid>
       <pubDate>Thu, 19 Feb 2026 21:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI makes you boring</title>
-      <link>https://www.marginalia.nu/log/a_132_ai_bores/</link>
-      <description>This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
-I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?</description>
-      <category>ai</category>
-      <guid>https://www.marginalia.nu/log/a_132_ai_bores/</guid>
-      <pubDate>Thu, 19 Feb 2026 20:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
