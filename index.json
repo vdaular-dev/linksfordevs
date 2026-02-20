@@ -214,13 +214,5 @@
     "Domain": "rogerwelin.github.io",
     "Description": "Introduction Your PostgreSQL database keeps growing, even though the number of rows stays roughly the same. Disk usage climbs, queries slow down, and you wonder what the heck is happening.\nIt’s not a bug - it’s called bloat and it’s baked into the core design of Postgres.\nTo understand why it happens we have to follow the lifecycle of a row from the moment it’s written to a physical file to the moment it becomes “dead” space. This journey begins at the physical storage layer: Pages and Tuples.",
     "Confidence": 0.98757434
-  },
-  {
-    "Title": "Plums",
-    "Url": "https://xkcd.com/3209/",
-    "Timestamp": "2026-02-19T03:02:09",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
