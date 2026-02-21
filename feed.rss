@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Intercepted 3,177 API Calls Across 4 AI Coding Tools. Here's What's Actually Filling Your Context Window. | The Redbeard</title>
+      <link>https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tools</link>
+      <description>Claude used 23K tokens to fix a one-line bug. Gemini used 350K. I built a tool to find out why.</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tools</guid>
+      <pubDate>Sat, 21 Feb 2026 11:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Turn Dependabot Off</title>
       <link>https://words.filippo.io/dependabot/</link>
       <description>I recommend turning Dependabot off and replacing it with a pair of scheduled GitHub Actions, one running govulncheck, and the other running CI against the latest version of your dependencies.</description>
