@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I Verified My LinkedIn Identity. Here's What I Actually Handed Over.",
+    "Url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
+    "Timestamp": "2026-02-21T14:02:02",
+    "Domain": "thelocalstack.eu",
+    "Description": "I wanted a blue badge on LinkedIn. To get it, I gave a US company my passport, my face, and my biometric data. Then I read the fine print.",
+    "Confidence": 0.90036637
+  },
+  {
     "Title": "I Intercepted 3,177 API Calls Across 4 AI Coding Tools. Here's What's Actually Filling Your Context Window. | The Redbeard",
     "Url": "https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tools",
     "Timestamp": "2026-02-21T11:02:02",
@@ -230,21 +238,5 @@
     "Domain": "github.com",
     "Description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
     "Confidence": 0.98947924
-  },
-  {
-    "Title": "The path to ubiquitous AI | Taalas",
-    "Url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "Timestamp": "2026-02-20T14:02:15",
-    "Domain": "taalas.com",
-    "Description": "By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...",
-    "Confidence": 0.93506247
-  },
-  {
-    "Title": "Reaction-Diffusion: Gray-Scott on a 2D Grid",
-    "Url": "https://www.4rknova.com//blog/2026/02/15/reaction-diffusion",
-    "Timestamp": "2026-02-20T14:02:11",
-    "Domain": "www.4rknova.com",
-    "Description": "A detailed breakdown of the Gray-Scott reaction-diffusion algorithm. Includes an interactive canvas demo and explains the PDE model, Laplacian stencil, double buffering, and boundary handling.",
-    "Confidence": 0.98767877
   }
 ]
