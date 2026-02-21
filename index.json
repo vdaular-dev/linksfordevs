@@ -214,29 +214,5 @@
     "Domain": "www.ft.com",
     "Description": "Chipmaker swaps last year’s complex framework with AI start-up in favour of equity cheque",
     "Confidence": 0.5632141
-  },
-  {
-    "Title": "AWS suffered ‘at least two outages’ caused by AI tools, and now I’m convinced we’re living inside a ‘Silicon Valley’ episode",
-    "Url": "https://www.tomsguide.com/computing/aws-suffered-at-least-two-outages-caused-by-ai-tools-and-now-im-convinced-were-living-inside-a-silicon-valley-episode",
-    "Timestamp": "2026-02-20T17:02:16",
-    "Domain": "www.tomsguide.com",
-    "Description": "Amazon just speed-ran a season of 'Silicon Valley'",
-    "Confidence": 0.7389142
-  },
-  {
-    "Title": "Cleaning up merged git branches: a one-liner from the CIA's leaked dev docs | spencer.wtf",
-    "Url": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-    "Timestamp": "2026-02-20T17:02:11",
-    "Domain": "spencer.wtf",
-    "Description": "How to delete all merged git branches locally with a single command. This one-liner has been in my zshrc since 2017 — I found it buried in the CIA's Vault7 l...",
-    "Confidence": 0.91938996
-  },
-  {
-    "Title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI · ggml-org/llama.cpp · Discussion #19759",
-    "Url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "Timestamp": "2026-02-20T17:02:08",
-    "Domain": "github.com",
-    "Description": "Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...",
-    "Confidence": 0.98947924
   }
 ]
