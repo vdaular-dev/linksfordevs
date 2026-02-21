@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Turn Dependabot Off</title>
+      <link>https://words.filippo.io/dependabot/</link>
+      <description>I recommend turning Dependabot off and replacing it with a pair of scheduled GitHub Actions, one running govulncheck, and the other running CI against the latest version of your dependencies.</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://words.filippo.io/dependabot/</guid>
+      <pubDate>Sat, 21 Feb 2026 02:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Wikipedia blacklists Archive.today, starts removing 695,000 archive links</title>
       <link>https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/</link>
       <description>If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.</description>
