@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "Engineering Maturity is all you need",
+    "Url": "https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/",
+    "Timestamp": "2026-02-21T00:03:12",
+    "Domain": "blog.nilenso.com",
+    "Description": "8:PM in the evening: it’s demo day tomorrow."
+  },
+  {
+    "Title": "Use digests, not tags, in your Dockerfiles",
+    "Url": "https://interrupt.sh/blog/dockerfile-tags/",
+    "Timestamp": "2026-02-21T00:03:08",
+    "Domain": "interrupt.sh",
+    "Description": "How mutable Docker tags can pwn your builds."
+  },
+  {
+    "Title": "Thoughts on Standardizing Programming Languages",
+    "Url": "https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages",
+    "Timestamp": "2026-02-21T00:03:04",
+    "Domain": "daoudclarke.net",
+    "Description": "I’ve worked at a few places where there is a “standard” language. Froman organisational perspective, this makes a lot of sense: if everyonewrites the same la..."
+  },
+  {
+    "Title": "I found a Vulnerability. They found a Lawyer.",
+    "Url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+    "Timestamp": "2026-02-21T00:03:00",
+    "Domain": "dixken.de",
+    "Description": "What happens when you responsibly disclose a critical vulnerability exposing personal data - including that of minors - and the organization responds with legal threats instead of a thank you?"
+  },
+  {
+    "Title": "Django ORM Standalone⁽¹⁾: Querying an existing database",
+    "Url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
+    "Timestamp": "2026-02-21T00:02:54",
+    "Domain": "www.paulox.net",
+    "Description": "A practical step-by-step guide to using Django ORM in standalone mode to connect to and query an existing database using inspectdb."
+  },
+  {
+    "Title": "Inside PostgreSQL's 8KB Page",
+    "Url": "https://boringsql.com/posts/inside-the-8kb-page/",
+    "Timestamp": "2026-02-21T00:02:50",
+    "Domain": "boringsql.com",
+    "Description": "A byte-level tour of the 8KB page. PostgreSQL's atomic unit of storage. We deep dive into page headers, line pointers, and free space using pageinspect to see exactly how your data lives on disk."
+  },
+  {
+    "Title": "How will OpenAI compete? — Benedict Evans",
+    "Url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "Timestamp": "2026-02-21T00:02:45",
+    "Domain": "www.ben-evans.com",
+    "Description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie"
+  },
+  {
+    "Title": "Ten years late to the dbt party (DuckDB edition)",
+    "Url": "https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/",
+    "Timestamp": "2026-02-21T00:02:41",
+    "Domain": "rmoff.net",
+    "Description": ""
+  },
+  {
+    "Title": "My Coding Agent Watches Me Get Frustrated, Then Fixes Itself",
+    "Url": "https://pradeep.md/2026/02/20/self-improving-coding-agent.html",
+    "Timestamp": "2026-02-21T00:02:36",
+    "Domain": "pradeep.md",
+    "Description": "pi-reflect reads your coding agent's session logs, finds where you got frustrated, and edits its rules so the same mistakes don't happen again."
+  },
+  {
+    "Title": "If LLMs Only Predict the Next Token, Why Do They Work?",
+    "Url": "https://sicheng.dev/writing/why-can-LLM-work",
+    "Timestamp": "2026-02-21T00:02:32",
+    "Domain": "sicheng.dev",
+    "Description": "Discussing why LLMs work and the reasoning behind their behavior."
+  },
+  {
+    "Title": "satisfies never off by one",
+    "Url": "https://nicklawler.website/exhaustiveness-off-by-one/",
+    "Timestamp": "2026-02-21T00:02:29",
+    "Domain": "nicklawler.website",
+    "Description": "Exhaustiveness checking in TypeScript. Works with `if` and ternary expressions. No unnecessary conditions or unreachable code."
+  },
+  {
+    "Title": "PGQueuer for High-Performance Job Queues",
+    "Url": "https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html",
+    "Timestamp": "2026-02-21T00:02:26",
+    "Domain": "alexdewey.github.io",
+    "Description": "PGQueuer takes a PostgreSQL database and can turn it into a reliable background job processor. The problem becomes how on the face unwieldy the technology is. Because it’s powerful, it requires a lot to get into, especially for people new to backend development."
+  },
+  {
+    "Title": "Thought Eddies",
+    "Url": "https://www.danielcorin.com/posts/2026/stateful-agents/",
+    "Timestamp": "2026-02-21T00:02:23",
+    "Domain": "www.danielcorin.com",
+    "Description": "An Experimental Digital Garden"
+  },
+  {
+    "Title": "Be Wary of Bluesky",
+    "Url": "https://kevinak.se/blog/be-wary-of-bluesky",
+    "Timestamp": "2026-02-21T00:02:19",
+    "Domain": "kevinak.se",
+    "Description": "Bluesky promises decentralization, but nearly every user's data sits on Bluesky's servers, and every new ATProto app reinforces that centralization. T"
+  },
+  {
+    "Title": "I Audited Three Vibe Coded Products in a Single Day",
+    "Url": "https://fromtheprism.com/vibe-coding-audit",
+    "Timestamp": "2026-02-21T00:02:16",
+    "Domain": "fromtheprism.com",
+    "Description": "Three AI-built products, three critical security vulnerabilities. An afternoon of casual testing reveals what happens when nobody understands the code that runs their product."
+  },
+  {
+    "Title": "erxi or how I learned to love the fast testing suite",
+    "Url": "https://hahn.website/blog/erxi/",
+    "Timestamp": "2026-02-21T00:02:13",
+    "Domain": "hahn.website",
+    "Description": "erxi is available on GitHub."
+  },
+  {
+    "Title": "Vibe Coding vs Vibe Engineering\n",
+    "Url": "https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/",
+    "Timestamp": "2026-02-21T00:02:08",
+    "Domain": "mfbt.ai",
+    "Description": "Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.\n"
+  }
+]

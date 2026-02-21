@@ -7,6 +7,173 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Engineering Maturity is all you need</title>
+      <link>https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/</link>
+      <description>8:PM in the evening: it’s demo day tomorrow.</description>
+      <category>ai</category>
+      <guid>https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Use digests, not tags, in your Dockerfiles</title>
+      <link>https://interrupt.sh/blog/dockerfile-tags/</link>
+      <description>How mutable Docker tags can pwn your builds.</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://interrupt.sh/blog/dockerfile-tags/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on Standardizing Programming Languages</title>
+      <link>https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages</link>
+      <description>I’ve worked at a few places where there is a “standard” language. Froman organisational perspective, this makes a lot of sense: if everyonewrites the same la...</description>
+      <category>rust</category>
+      <guid>https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages</guid>
+      <pubDate>Sat, 21 Feb 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>I found a Vulnerability. They found a Lawyer.</title>
+      <link>https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer</link>
+      <description>What happens when you responsibly disclose a critical vulnerability exposing personal data - including that of minors - and the organization responds with legal threats instead of a thank you?</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer</guid>
+      <pubDate>Sat, 21 Feb 2026 00:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django ORM Standalone⁽¹⁾: Querying an existing database</title>
+      <link>https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/</link>
+      <description>A practical step-by-step guide to using Django ORM in standalone mode to connect to and query an existing database using inspectdb.</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>python</category>
+      <guid>https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside PostgreSQL's 8KB Page</title>
+      <link>https://boringsql.com/posts/inside-the-8kb-page/</link>
+      <description>A byte-level tour of the 8KB page. PostgreSQL's atomic unit of storage. We deep dive into page headers, line pointers, and free space using pageinspect to see exactly how your data lives on disk.</description>
+      <category>sql</category>
+      <guid>https://boringsql.com/posts/inside-the-8kb-page/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>How will OpenAI compete? — Benedict Evans</title>
+      <link>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</link>
+      <description>OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ten years late to the dbt party (DuckDB edition)</title>
+      <link>https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/</link>
+      <description></description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Coding Agent Watches Me Get Frustrated, Then Fixes Itself</title>
+      <link>https://pradeep.md/2026/02/20/self-improving-coding-agent.html</link>
+      <description>pi-reflect reads your coding agent's session logs, finds where you got frustrated, and edits its rules so the same mistakes don't happen again.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>typescript</category>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://pradeep.md/2026/02/20/self-improving-coding-agent.html</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>If LLMs Only Predict the Next Token, Why Do They Work?</title>
+      <link>https://sicheng.dev/writing/why-can-LLM-work</link>
+      <description>Discussing why LLMs work and the reasoning behind their behavior.</description>
+      <author> (Sicheng Ouyang)</author>
+      <category>ai</category>
+      <category>conference</category>
+      <category>python</category>
+      <guid>https://sicheng.dev/writing/why-can-LLM-work</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>satisfies never off by one</title>
+      <link>https://nicklawler.website/exhaustiveness-off-by-one/</link>
+      <description>Exhaustiveness checking in TypeScript. Works with `if` and ternary expressions. No unnecessary conditions or unreachable code.</description>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://nicklawler.website/exhaustiveness-off-by-one/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>PGQueuer for High-Performance Job Queues</title>
+      <link>https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html</link>
+      <description>PGQueuer takes a PostgreSQL database and can turn it into a reliable background job processor. The problem becomes how on the face unwieldy the technology is. Because it’s powerful, it requires a lot to get into, especially for people new to backend development.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thought Eddies</title>
+      <link>https://www.danielcorin.com/posts/2026/stateful-agents/</link>
+      <description>An Experimental Digital Garden</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.danielcorin.com/posts/2026/stateful-agents/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Be Wary of Bluesky</title>
+      <link>https://kevinak.se/blog/be-wary-of-bluesky</link>
+      <description>Bluesky promises decentralization, but nearly every user's data sits on Bluesky's servers, and every new ATProto app reinforces that centralization. T</description>
+      <category>git</category>
+      <guid>https://kevinak.se/blog/be-wary-of-bluesky</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Audited Three Vibe Coded Products in a Single Day</title>
+      <link>https://fromtheprism.com/vibe-coding-audit</link>
+      <description>Three AI-built products, three critical security vulnerabilities. An afternoon of casual testing reveals what happens when nobody understands the code that runs their product.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://fromtheprism.com/vibe-coding-audit</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>erxi or how I learned to love the fast testing suite</title>
+      <link>https://hahn.website/blog/erxi/</link>
+      <description>erxi is available on GitHub.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://hahn.website/blog/erxi/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coding vs Vibe Engineering
+</title>
+      <link>https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/</link>
+      <description>Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.
+</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Teleoperation is Always the Butt of the Joke</title>
       <link>https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed</link>
       <description>A few years back, the term "AI" took an unexpected turn when it was redefined as "Actual Indian". As in, a person in India operating the machine remotely.
@@ -156,194 +323,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ai</category>
       <guid>https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/</guid>
       <pubDate>Fri, 20 Feb 2026 07:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forward propagation of errors through time</title>
-      <link>https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/</link>
-      <description>TL;DR
-We investigate a fundamental question in recurrent neural network training: why is backpropagation through time always ran backwards? We show, by deriving an exact gradient-based algorithm that propagates error forward in time (in multiple phases), that this does not necessarily need to be the case! However, while the math holds up, it suffers from critical numerical stability issues as the network forgets information faster.
-This post details the derivation, the successful experiments, an analysis of why this promising idea suffers numerically, and the reasons why we did not investigate it further.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>There Is No Product</title>
-      <link>https://sidu.in/essays/after-ai-there-is-no-product.html</link>
-      <description>If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it:</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://sidu.in/essays/after-ai-there-is-no-product.html</guid>
-      <pubDate>Fri, 20 Feb 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Repeating Prompts</title>
-      <link>https://daoudclarke.net/2026/02/19/repeating-prompt</link>
-      <description></description>
-      <category>ai</category>
-      <guid>https://daoudclarke.net/2026/02/19/repeating-prompt</guid>
-      <pubDate>Fri, 20 Feb 2026 00:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>My website is now ~2.8x faster after converting it to a Django LiveView SPA | Andros Fenollosa</title>
-      <link>https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/</link>
-      <description>After releasing the 2.2.0 update of Django LiveView to PyPI, which fixed some minor issues, I decided to transform my entire personal website (where y</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Quickening</title>
-      <link>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</link>
-      <description>In a paper titled “THEOREMS FOR A PRICE: Tomorrow’s Semi-Rigorous Mathematics Culture” published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that…</description>
-      <category>python</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://liorpachter.wordpress.com/2026/02/19/the-quickening/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-hosting my websites using bootable containers</title>
-      <link>https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/</link>
-      <description>I've been running this website since 2008. Over the years I've changed hosting
-providers and what software to use a bunch of times. Some time in 2015 I
-switched to hosting it as a static website on Amazon
-CloudFront. A few years ago I
-moved from Amazon to Cloudflare, primarily because Cloudflare
-Pages and Cloudflare
-R2 have a generous free tier, and an interface
-that isn't a confusing mess.</description>
-      <category>conference</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>linux</category>
-      <category>encryption</category>
-      <guid>https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis vs Valkey: A Deep Dive for Enterprise Architects</title>
-      <link>https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/</link>
-      <description>The in memory data store landscape fractured in March 2024 when Redis Inc abandoned its BSD 3-clause licence in favour of the dual RSALv2/SSPLv1 model. The community response was swift and surgical…</description>
-      <category>cloud</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building an Agent SaaS with Cloudflare Containers</title>
-      <link>https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/</link>
-      <description>Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.</description>
-      <category>containers</category>
-      <category>ai</category>
-      <guid>https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title> I Built Local Memory for Coding Agents Because They Keep Forgetting Everything | Muhammad </title>
-      <link>https://muhammadraza.me/2026/building-local-memory-for-coding-agents/</link>
-      <description> Coding agents forget everything between sessions. I built EchoVault — an MCP server that gives agents persistent memory using SQLite, Markdown, and zero clou... </description>
-      <author> (Muhammad Raza)</author>
-      <category>sql</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <guid>https://muhammadraza.me/2026/building-local-memory-for-coding-agents/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>The empire always falls</title>
-      <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
-      <description>A citizen of Rome in 117 AD, under Emperor Trajan, would've found it difficult to imagine the empire not existing. The roads, the aqueducts, the legal system, the trade networks stretching from Britain to Mesopotamia: all of it seemed to be a near-fact of nature, like gravity // the Mediterranean itself.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.joanwestenberg.com/the-empire-always-falls/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wider, Not Faster | Kevin London</title>
-      <link>https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/</link>
-      <description>Working with AI changed what I'm willing to attempt. It also changed me.</description>
-      <category>ai</category>
-      <guid>https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>You had a story</title>
-      <link>https://nolanlawson.com/2026/02/18/you-had-a-story/</link>
-      <description>You had a story you used to tell yourself about how you got here in life. You’d share the story with others. Maybe you’d be at a party, and someone would ask what you do, and you’…</description>
-      <category>gaming</category>
-      <guid>https://nolanlawson.com/2026/02/18/you-had-a-story/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Consistency is Primitive - Christopher Butler</title>
-      <link>https://www.chrbutler.com/consistency-is-primitive</link>
-      <description>When AI becomes infrastructure and software becomes bespoke, the economic imperative for standardization disappears.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://www.chrbutler.com/consistency-is-primitive</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Killing Epstein Was a Catastrophic Engineering Failure | Machiel Reyneke</title>
-      <link>https://machielreyneke.com/blog/metastability-of-secrets/</link>
-      <description>In physics, a metastable system looks perfectly stable - until it isn't. The Epstein network held for thirty years. Then someone tried to stabilise it.</description>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://machielreyneke.com/blog/metastability-of-secrets/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Most Developers Don’t Build New Things</title>
-      <link>https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/</link>
-      <description>The industry tends to celebrate beginnings.
-
-New repositories. Clean architecture diagrams. The excitement of choosing tools before real constraints show up....</description>
-      <author> (Robby Russell)</author>
-      <category>ruby</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>User research is often just expensive validation for decisions already made by Niki Tisza</title>
-      <link>https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made</link>
-      <description>A UX hot take</description>
-      <guid>https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor's Debug Mode Is Arguably Its Best Feature</title>
-      <link>https://davidgomes.com/cursor-debug-mode/</link>
-      <description>Back in December, Cursor announced "Debug Mode". The way it works is fairly straightforward:
-
- 1. User says "I want to fix this bug!!!"
- 2. Cursor prompts the model to come up with several hypothesis for why the bug exists
- 3. Cursor prompts the model to add a bunch of instrumentation</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://davidgomes.com/cursor-debug-mode/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Great CEOs Stay in the Details</title>
-      <link>https://www.dave-bailey.com/blog/details</link>
-      <description>Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality.</description>
-      <guid>https://www.dave-bailey.com/blog/details</guid>
-      <pubDate>Fri, 20 Feb 2026 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

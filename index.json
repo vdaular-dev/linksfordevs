@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Engineering Maturity is all you need",
+    "Url": "https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/",
+    "Timestamp": "2026-02-21T00:03:12",
+    "Domain": "blog.nilenso.com",
+    "Description": "8:PM in the evening: it’s demo day tomorrow.",
+    "Confidence": 0.99636024
+  },
+  {
+    "Title": "Use digests, not tags, in your Dockerfiles",
+    "Url": "https://interrupt.sh/blog/dockerfile-tags/",
+    "Timestamp": "2026-02-21T00:03:08",
+    "Domain": "interrupt.sh",
+    "Description": "How mutable Docker tags can pwn your builds.",
+    "Confidence": 0.984662
+  },
+  {
+    "Title": "Thoughts on Standardizing Programming Languages",
+    "Url": "https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages",
+    "Timestamp": "2026-02-21T00:03:04",
+    "Domain": "daoudclarke.net",
+    "Description": "I’ve worked at a few places where there is a “standard” language. Froman organisational perspective, this makes a lot of sense: if everyonewrites the same la...",
+    "Confidence": 0.98221135
+  },
+  {
+    "Title": "I found a Vulnerability. They found a Lawyer.",
+    "Url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+    "Timestamp": "2026-02-21T00:03:00",
+    "Domain": "dixken.de",
+    "Description": "What happens when you responsibly disclose a critical vulnerability exposing personal data - including that of minors - and the organization responds with legal threats instead of a thank you?",
+    "Confidence": 0.97826093
+  },
+  {
+    "Title": "Django ORM Standalone⁽¹⁾: Querying an existing database",
+    "Url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
+    "Timestamp": "2026-02-21T00:02:54",
+    "Domain": "www.paulox.net",
+    "Description": "A practical step-by-step guide to using Django ORM in standalone mode to connect to and query an existing database using inspectdb.",
+    "Confidence": 0.99650776
+  },
+  {
+    "Title": "Inside PostgreSQL's 8KB Page",
+    "Url": "https://boringsql.com/posts/inside-the-8kb-page/",
+    "Timestamp": "2026-02-21T00:02:50",
+    "Domain": "boringsql.com",
+    "Description": "A byte-level tour of the 8KB page. PostgreSQL's atomic unit of storage. We deep dive into page headers, line pointers, and free space using pageinspect to see exactly how your data lives on disk.",
+    "Confidence": 0.99393976
+  },
+  {
+    "Title": "How will OpenAI compete? — Benedict Evans",
+    "Url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "Timestamp": "2026-02-21T00:02:45",
+    "Domain": "www.ben-evans.com",
+    "Description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
+    "Confidence": 0.9840192
+  },
+  {
+    "Title": "Ten years late to the dbt party (DuckDB edition)",
+    "Url": "https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/",
+    "Timestamp": "2026-02-21T00:02:41",
+    "Domain": "rmoff.net",
+    "Description": "",
+    "Confidence": 0.96782047
+  },
+  {
+    "Title": "My Coding Agent Watches Me Get Frustrated, Then Fixes Itself",
+    "Url": "https://pradeep.md/2026/02/20/self-improving-coding-agent.html",
+    "Timestamp": "2026-02-21T00:02:36",
+    "Domain": "pradeep.md",
+    "Description": "pi-reflect reads your coding agent's session logs, finds where you got frustrated, and edits its rules so the same mistakes don't happen again.",
+    "Confidence": 0.98816293
+  },
+  {
+    "Title": "If LLMs Only Predict the Next Token, Why Do They Work?",
+    "Url": "https://sicheng.dev/writing/why-can-LLM-work",
+    "Timestamp": "2026-02-21T00:02:32",
+    "Domain": "sicheng.dev",
+    "Description": "Discussing why LLMs work and the reasoning behind their behavior.",
+    "Confidence": 0.9780441
+  },
+  {
+    "Title": "satisfies never off by one",
+    "Url": "https://nicklawler.website/exhaustiveness-off-by-one/",
+    "Timestamp": "2026-02-21T00:02:29",
+    "Domain": "nicklawler.website",
+    "Description": "Exhaustiveness checking in TypeScript. Works with `if` and ternary expressions. No unnecessary conditions or unreachable code.",
+    "Confidence": 0.9971141
+  },
+  {
+    "Title": "PGQueuer for High-Performance Job Queues",
+    "Url": "https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html",
+    "Timestamp": "2026-02-21T00:02:26",
+    "Domain": "alexdewey.github.io",
+    "Description": "PGQueuer takes a PostgreSQL database and can turn it into a reliable background job processor. The problem becomes how on the face unwieldy the technology is. Because it’s powerful, it requires a lot to get into, especially for people new to backend development.",
+    "Confidence": 0.99342406
+  },
+  {
+    "Title": "Thought Eddies",
+    "Url": "https://www.danielcorin.com/posts/2026/stateful-agents/",
+    "Timestamp": "2026-02-21T00:02:23",
+    "Domain": "www.danielcorin.com",
+    "Description": "An Experimental Digital Garden",
+    "Confidence": 0.99555874
+  },
+  {
+    "Title": "Be Wary of Bluesky",
+    "Url": "https://kevinak.se/blog/be-wary-of-bluesky",
+    "Timestamp": "2026-02-21T00:02:19",
+    "Domain": "kevinak.se",
+    "Description": "Bluesky promises decentralization, but nearly every user's data sits on Bluesky's servers, and every new ATProto app reinforces that centralization. T",
+    "Confidence": 0.98486286
+  },
+  {
+    "Title": "I Audited Three Vibe Coded Products in a Single Day",
+    "Url": "https://fromtheprism.com/vibe-coding-audit",
+    "Timestamp": "2026-02-21T00:02:16",
+    "Domain": "fromtheprism.com",
+    "Description": "Three AI-built products, three critical security vulnerabilities. An afternoon of casual testing reveals what happens when nobody understands the code that runs their product.",
+    "Confidence": 0.972129
+  },
+  {
+    "Title": "erxi or how I learned to love the fast testing suite",
+    "Url": "https://hahn.website/blog/erxi/",
+    "Timestamp": "2026-02-21T00:02:13",
+    "Domain": "hahn.website",
+    "Description": "erxi is available on GitHub.",
+    "Confidence": 0.98875093
+  },
+  {
+    "Title": "Vibe Coding vs Vibe Engineering\n",
+    "Url": "https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/",
+    "Timestamp": "2026-02-21T00:02:08",
+    "Domain": "mfbt.ai",
+    "Description": "Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.\n",
+    "Confidence": 0.9940371
+  },
+  {
     "Title": "Teleoperation is Always the Butt of the Joke",
     "Url": "https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed",
     "Timestamp": "2026-02-20T22:01:56",
@@ -118,149 +254,5 @@
     "Domain": "theshamblog.com",
     "Description": "Context: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…",
     "Confidence": 0.94973063
-  },
-  {
-    "Title": "Forward propagation of errors through time",
-    "Url": "https://nicolaszucchet.github.io/Forward-propagation-errors-through-time/",
-    "Timestamp": "2026-02-20T00:03:10",
-    "Domain": "nicolaszucchet.github.io",
-    "Description": "TL;DR\nWe investigate a fundamental question in recurrent neural network training: why is backpropagation through time always ran backwards? We show, by deriving an exact gradient-based algorithm that propagates error forward in time (in multiple phases), that this does not necessarily need to be the case! However, while the math holds up, it suffers from critical numerical stability issues as the network forgets information faster.\nThis post details the derivation, the successful experiments, an analysis of why this promising idea suffers numerically, and the reasons why we did not investigate it further.",
-    "Confidence": 0.9891946
-  },
-  {
-    "Title": "There Is No Product",
-    "Url": "https://sidu.in/essays/after-ai-there-is-no-product.html",
-    "Timestamp": "2026-02-20T00:03:06",
-    "Domain": "sidu.in",
-    "Description": "If you’ve been anywhere near tech Twitter in the last few weeks, you’ve heard it:",
-    "Confidence": 0.9917646
-  },
-  {
-    "Title": "Repeating Prompts",
-    "Url": "https://daoudclarke.net/2026/02/19/repeating-prompt",
-    "Timestamp": "2026-02-20T00:03:03",
-    "Domain": "daoudclarke.net",
-    "Description": "",
-    "Confidence": 0.78134614
-  },
-  {
-    "Title": "My website is now ~2.8x faster after converting it to a Django LiveView SPA | Andros Fenollosa",
-    "Url": "https://en.andros.dev/blog/dd5a0746/my-website-is-now-28x-faster-after-converting-it-to-a-django-liveview-spa/",
-    "Timestamp": "2026-02-20T00:03:00",
-    "Domain": "en.andros.dev",
-    "Description": "After releasing the 2.2.0 update of Django LiveView to PyPI, which fixed some minor issues, I decided to transform my entire personal website (where y",
-    "Confidence": 0.9960621
-  },
-  {
-    "Title": "The Quickening",
-    "Url": "https://liorpachter.wordpress.com/2026/02/19/the-quickening/",
-    "Timestamp": "2026-02-20T00:02:54",
-    "Domain": "liorpachter.wordpress.com",
-    "Description": "In a paper titled “THEOREMS FOR A PRICE: Tomorrow’s Semi-Rigorous Mathematics Culture” published in 1993, mathematician Doron Zeilberger wrote: There are writings on the wall that…",
-    "Confidence": 0.9538134
-  },
-  {
-    "Title": "Self-hosting my websites using bootable containers",
-    "Url": "https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/",
-    "Timestamp": "2026-02-20T00:02:51",
-    "Domain": "yorickpeterse.com",
-    "Description": "I've been running this website since 2008. Over the years I've changed hosting\nproviders and what software to use a bunch of times. Some time in 2015 I\nswitched to hosting it as a static website on Amazon\nCloudFront. A few years ago I\nmoved from Amazon to Cloudflare, primarily because Cloudflare\nPages and Cloudflare\nR2 have a generous free tier, and an interface\nthat isn't a confusing mess.",
-    "Confidence": 0.99307686
-  },
-  {
-    "Title": "Redis vs Valkey: A Deep Dive for Enterprise Architects",
-    "Url": "https://andrewbaker.ninja/2026/01/04/redis-vs-valkey-a-deep-dive-for-enterprise-architects/",
-    "Timestamp": "2026-02-20T00:02:46",
-    "Domain": "andrewbaker.ninja",
-    "Description": "The in memory data store landscape fractured in March 2024 when Redis Inc abandoned its BSD 3-clause licence in favour of the dual RSALv2/SSPLv1 model. The community response was swift and surgical…",
-    "Confidence": 0.9903009
-  },
-  {
-    "Title": "Building an Agent SaaS with Cloudflare Containers",
-    "Url": "https://alec.is/posts/building-an-agent-saas-with-cloudflare-containers/",
-    "Timestamp": "2026-02-20T00:02:40",
-    "Domain": "alec.is",
-    "Description": "Principal software engineer with deep expertise in full-stack TypeScript, headless and kiosk browsers, and real-time media-centric systems.",
-    "Confidence": 0.96217555
-  },
-  {
-    "Title": " I Built Local Memory for Coding Agents Because They Keep Forgetting Everything | Muhammad ",
-    "Url": "https://muhammadraza.me/2026/building-local-memory-for-coding-agents/",
-    "Timestamp": "2026-02-20T00:02:37",
-    "Domain": "muhammadraza.me",
-    "Description": " Coding agents forget everything between sessions. I built EchoVault — an MCP server that gives agents persistent memory using SQLite, Markdown, and zero clou... ",
-    "Confidence": 0.9926214
-  },
-  {
-    "Title": "The empire always falls",
-    "Url": "https://www.joanwestenberg.com/the-empire-always-falls/",
-    "Timestamp": "2026-02-20T00:02:34",
-    "Domain": "www.joanwestenberg.com",
-    "Description": "A citizen of Rome in 117 AD, under Emperor Trajan, would've found it difficult to imagine the empire not existing. The roads, the aqueducts, the legal system, the trade networks stretching from Britain to Mesopotamia: all of it seemed to be a near-fact of nature, like gravity // the Mediterranean itself.",
-    "Confidence": 0.9303585
-  },
-  {
-    "Title": "Wider, Not Faster | Kevin London",
-    "Url": "https://www.kevinlondon.com/2026/02/15/not-faster-but-wider/",
-    "Timestamp": "2026-02-20T00:02:31",
-    "Domain": "www.kevinlondon.com",
-    "Description": "Working with AI changed what I'm willing to attempt. It also changed me.",
-    "Confidence": 0.9555839
-  },
-  {
-    "Title": "You had a story",
-    "Url": "https://nolanlawson.com/2026/02/18/you-had-a-story/",
-    "Timestamp": "2026-02-20T00:02:27",
-    "Domain": "nolanlawson.com",
-    "Description": "You had a story you used to tell yourself about how you got here in life. You’d share the story with others. Maybe you’d be at a party, and someone would ask what you do, and you’…",
-    "Confidence": 0.75923914
-  },
-  {
-    "Title": "Consistency is Primitive - Christopher Butler",
-    "Url": "https://www.chrbutler.com/consistency-is-primitive",
-    "Timestamp": "2026-02-20T00:02:24",
-    "Domain": "www.chrbutler.com",
-    "Description": "When AI becomes infrastructure and software becomes bespoke, the economic imperative for standardization disappears.",
-    "Confidence": 0.9845453
-  },
-  {
-    "Title": "Why Killing Epstein Was a Catastrophic Engineering Failure | Machiel Reyneke",
-    "Url": "https://machielreyneke.com/blog/metastability-of-secrets/",
-    "Timestamp": "2026-02-20T00:02:21",
-    "Domain": "machielreyneke.com",
-    "Description": "In physics, a metastable system looks perfectly stable - until it isn't. The Epstein network held for thirty years. Then someone tried to stabilise it.",
-    "Confidence": 0.7225299
-  },
-  {
-    "Title": "Most Developers Don’t Build New Things",
-    "Url": "https://robbyonrails.com/articles/2026/02/18/most-developers-dont-build-new-things/",
-    "Timestamp": "2026-02-20T00:02:18",
-    "Domain": "robbyonrails.com",
-    "Description": "The industry tends to celebrate beginnings.\n\nNew repositories. Clean architecture diagrams. The excitement of choosing tools before real constraints show up....",
-    "Confidence": 0.97847044
-  },
-  {
-    "Title": "User research is often just expensive validation for decisions already made by Niki Tisza",
-    "Url": "https://www.nikitisza.com/writing/user-research-is-often-just-expensive-validation-for-decisions-already-made",
-    "Timestamp": "2026-02-20T00:02:14",
-    "Domain": "www.nikitisza.com",
-    "Description": "A UX hot take",
-    "Confidence": 0.98726374
-  },
-  {
-    "Title": "Cursor's Debug Mode Is Arguably Its Best Feature",
-    "Url": "https://davidgomes.com/cursor-debug-mode/",
-    "Timestamp": "2026-02-20T00:02:11",
-    "Domain": "davidgomes.com",
-    "Description": "Back in December, Cursor announced \"Debug Mode\". The way it works is fairly straightforward:\n\n 1. User says \"I want to fix this bug!!!\"\n 2. Cursor prompts the model to come up with several hypothesis for why the bug exists\n 3. Cursor prompts the model to add a bunch of instrumentation",
-    "Confidence": 0.9915736
-  },
-  {
-    "Title": "How Great CEOs Stay in the Details",
-    "Url": "https://www.dave-bailey.com/blog/details",
-    "Timestamp": "2026-02-20T00:02:08",
-    "Domain": "www.dave-bailey.com",
-    "Description": "Why top tech CEOs scale by staying in the details—clarifying core narratives, designing reviews, and building team-wide alignment for speed and quality.",
-    "Confidence": 0.98020065
   }
 ]
